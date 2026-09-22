@@ -1,3 +1,9 @@
+#arquivos do scrapping: 
+scrapping_processos_controle_concentrado/.perfil_chromium_stf/
+scrapping_processos_controle_concentrado/peticoes_processos_estruturantes
+
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
