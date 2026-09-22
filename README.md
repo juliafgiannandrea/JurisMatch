@@ -8,7 +8,7 @@ Projeto sobre as **petições iniciais dos processos de controle concentrado de 
 
 A primeira etapa monta a base documental do projeto: baixar do site do STF o PDF da petição inicial de cada processo de controle concentrado. Sem esses documentos não há o que analisar nas etapas seguintes, então tudo começa aqui.
 
-O ponto de partida é a planilha `base_inicial_controle_concentrado_stf_2026_09_08.xlsx`, exportada do painel de estatísticas do STF em 08/09/2026. Ela traz **906 processos** (635 ADI, 236 ADPF, 20 ADC e 15 ADO) com 37 colunas de metadados, mas **nenhum documento**: só o link para a página de cada processo no portal. A tarefa da etapa 1 é percorrer esses links e trazer os PDFs.
+O ponto de partida é a planilha `base_inicial_controle_concentrado_stf_2026_09_08.xlsx`, exportada do painel de estatísticas do STF em 08/09/2026. Ela traz **906 processos** (635 ADI, 236 ADPF, 20 ADC e 15 ADO) com 37 colunas de metadados, mas **nenhum documento**: só o link para a página de cada processo no portal. A tarefa da etapa 1 é percorrer esses links e trazer os PDFs. Das 100 primeiras linhas já processadas, 97 renderam a petição inicial em PDF.
 
 O código está em [`scrapping_processos_controle_concentrado/baixar_peticoes_stf.py`](scrapping_processos_controle_concentrado/baixar_peticoes_stf.py). Instruções de instalação e execução estão no [README da pasta](scrapping_processos_controle_concentrado/README.md).
 
@@ -93,25 +93,87 @@ Pior: o **token expira**. No meio de uma sequência de downloads, o 202 vazio vo
 
 ## Resultado até agora
 
-A primeira rodada baixou **10 petições iniciais** (as ADCs no início da planilha), todas com sucesso, mais o log da execução. Os PDFs ficam em `peticoes_processos_estruturantes/`, fora do controle de versão. A coleta das 906 linhas é feita em rodadas sucessivas com `--inicio`.
+As rodadas já executadas cobriram as **100 primeiras linhas da planilha**, com o seguinte resultado:
 
-Verificação pontual: os 10 arquivos dessa rodada têm camada de texto, ou seja, não precisam de OCR. Isso não vale necessariamente para processos mais antigos.
+| Resultado | Processos |
+|---|---|
+| Petição inicial baixada | 97 |
+| Sem peça eletrônica | 3 |
+| Erros | 0 |
+
+São 102 arquivos PDF e cerca de 172 MB, porque algumas petições vêm divididas em partes. Os três processos sem peça eletrônica são ADI 3159, ADI 3596 e ADI 4245, todos anteriores a 2010. Os PDFs ficam em `peticoes_processos_estruturantes/`, fora do controle de versão. A coleta das 906 linhas continua em rodadas sucessivas com `--inicio`.
+
+Em 90 acessos seguidos não apareceu um único aviso de renovação de token do WAF, o que indica que o perfil persistente do Chromium segura bem o cookie entre requisições.
+
+### Quanto desse material é digitalização
+
+Medição das 4.536 páginas dos 102 arquivos, feita com PyMuPDF, classificando cada página pela quantidade de texto nativo e pela área coberta por imagem:
+
+| Tipo de página | Quantidade |
+|---|---|
+| Texto nativo | 2.630 |
+| Digitalizada, sem texto | 1.902 |
+| Vazia ou só assinatura | 4 |
+
+| Tipo de documento | Arquivos |
+|---|---|
+| Todo nativo | 65 |
+| Todo digitalizado | 31 |
+| Misto | 6 |
+
+Ou seja, **42% das páginas não têm camada de texto** e vão exigir OCR. A digitalização se concentra nos processos antigos, mas não se limita a eles: ADC 96 e ADC 98, ambas de 2025, vieram inteiramente escaneadas. A data de autuação, portanto, não serve para prever se um arquivo precisa de OCR. Existem ainda seis documentos mistos, com páginas nativas e digitalizadas no mesmo PDF, o que obriga a decidir página a página.
+
+---
+
+# Etapa 2 — Extração do texto
+
+Transforma os PDFs em arquivos de texto, um por petição, com OCR acionado apenas nas páginas que precisam. O detalhamento está no [README da etapa 2](extracao_texto_peticoes/README.md).
+
+Resultado sobre os 102 arquivos já coletados:
+
+| Medida | Valor |
+|---|---|
+| Arquivos processados | 102 de 102 |
+| Páginas | 4.449 |
+| Páginas por OCR | 1.902 |
+| Caracteres extraídos | 7,8 milhões |
+| Erros | 0 |
+| Tempo de parede | 19 minutos |
+
+A decisão entre texto nativo e OCR é tomada página a página, combinando quantidade de texto com área coberta por imagem. Cada página do arquivo de saída é marcada com a origem do texto, o que permite saber depois quais trechos vieram de OCR e são menos confiáveis.
+
+---
+
+# Métricas e benchmark
+
+Dois scripts para avaliar a extração, descritos no [README de métricas](metricas/README.md). Foram feitos para o benchmark contra outras soluções, então pontuam qualquer pasta de `.txt`, não só a deste projeto.
+
+O primeiro mede cobertura, volume, qualidade léxica e presença de estrutura jurídica, sem precisar de gabarito. O segundo mede o erro do OCR com gabarito real, construído a partir das páginas que já têm texto nativo.
+
+Uma observação metodológica que saiu dessa medição: avaliar só por erro de caractere leva a conclusão errada neste corpus. A tarja de assinatura digital do STF é texto vertical na margem e aparece em posições diferentes no extrator nativo e no OCR, o que desloca blocos inteiros e infla a distância de edição sem que nenhuma palavra tenha sido lida errado. Por isso o benchmark reporta também métricas insensíveis à ordem.
 
 ## O que fica para a próxima etapa
 
-- Completar a coleta das 906 linhas da planilha e consolidar o log.
-- Checar quais PDFs são digitalizações sem camada de texto e decidir sobre OCR.
-- Extrair o texto das petições e estruturá-lo para a análise.
+- Completar a coleta das 906 linhas da planilha e reexecutar a extração sobre o corpus inteiro.
+- Estruturar o texto extraído para a análise, aproveitando os marcadores de origem por página.
 
 ## Estrutura do repositório
 
 ```
 JurisMatch/
 ├── README.md                                    # este arquivo
-└── scrapping_processos_controle_concentrado/
-    ├── README.md                                # guia de instalação e execução
-    ├── baixar_peticoes_stf.py                   # script de coleta
-    ├── base_inicial_...stf_2026_09_08.xlsx      # planilha de entrada (906 processos)
-    ├── peticoes_processos_estruturantes/        # saída: PDFs + log (ignorada no git)
-    └── .perfil_chromium_stf/                    # perfil do Chromium (ignorada no git)
+├── scrapping_processos_controle_concentrado/    # etapa 1: coleta
+│   ├── README.md                                # guia de instalação e execução
+│   ├── baixar_peticoes_stf.py                   # script de coleta
+│   ├── base_inicial_...stf_2026_09_08.xlsx      # planilha de entrada (906 processos)
+│   ├── peticoes_processos_estruturantes/        # saída: PDFs + log (ignorada no git)
+│   └── .perfil_chromium_stf/                    # perfil do Chromium (ignorada no git)
+├── extracao_texto_peticoes/                     # etapa 2: extração de texto
+│   ├── README.md                                # critério, desempenho e limitações
+│   ├── extrair_texto_peticoes.py                # PyMuPDF + OCR por página
+│   └── texto_peticoes/                          # saída: .txt + log (ignorada no git)
+└── metricas/                                    # avaliação e benchmark
+    ├── README.md                                # o que cada métrica significa
+    ├── metricas_extracao.py                     # pontua qualquer saída de extração
+    └── benchmark_ocr.py                         # CER, WER e F1 contra gabarito
 ```
