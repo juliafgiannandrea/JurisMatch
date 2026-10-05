@@ -38,7 +38,7 @@ import pandas as pd
 from playwright.sync_api import sync_playwright, TimeoutError as PWTimeout
 
 # ============================ CONFIGURAÇÃO ============================
-QUANTIDADE_PETICOES = 10          # <-- quantas petições (linhas da planilha) baixar
+QUANTIDADE_PETICOES = 60          # <-- quantas petições (linhas da planilha) baixar
 PLANILHA = "base_inicial_controle_concentrado_stf_2026_09_08.xlsx"       # planilha de entrada
 COLUNA_LINK = "Link do processo"     # coluna com o link do processo
 COLUNA_NOME = "Processo"          # coluna usada para nomear o PDF (ex.: "ADC 3")

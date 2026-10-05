@@ -1,6 +1,9 @@
-#arquivos do scrapping: 
+#arquivos do scrapping:
 scrapping_processos_controle_concentrado/.perfil_chromium_stf/
 scrapping_processos_controle_concentrado/peticoes_processos_estruturantes
+
+#saida da extracao de texto:
+extracao_texto_peticoes/texto_peticoes/
 
 
 
