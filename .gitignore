@@ -216,3 +216,7 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# JurisMatch
+dados/
+scrapping_processos_controle_concentrado/.perfil_chromium_stf/
