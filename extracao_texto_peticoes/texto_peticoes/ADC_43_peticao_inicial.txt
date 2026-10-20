@@ -1,0 +1,4187 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL
+
+PARTIDO ECOLÓGICO NACIONAL - PEN, partido político
+
+com representação no Congresso Nacional, devidamente registrado perante a
+
+Justiça Eleitoral, inscrito no CNPJ sob o nº 08.950.803/0001-19, com sede a
+
+SHN, Quadra 2, Bl. F, conj. B, sala 1500, Ed. Executive Office Tower, Asa
+
+Norte, Brasília/DF, CEP 70.702-000, e-mail
+
+partidoecologiconacional@gmail.com, representado, na forma do seu Estatuto
+
+Social, por seu Presidente Adilson Barroso do Oliveira, vem à presença de Vossa
+
+Excelência, por intermédio de seus advogados infra-assinados, com instrumento
+
+procuratório específico incluso e endereço para intimações no endereço SHIS,
+
+QL 4, conjunto 1, casa 11, Lago Sul, Brasília/DF, CEp 71.610-215, propor
+
+AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+
+COM PEDIDO DE MEDIDA CAUTELAR
+
+objetivando:
+
+a) a declaração de constitucionalidade do artigo 283 do Código de
+
+Processo Penal, reconhecendo-se a legitimidade constitucional da
+
+[[pagina 2 | nativo]]
+
+recente opção do legislador (veiculada na Lei nº 12.403, de 2011)
+
+de condicionar o início do cumprimento da pena de prisão ao
+
+trânsito em julgado da sentença penal condenatória;
+
+b) subsidiariamente, a declaração de que o artigo 283 do Código
+
+de Processo Penal é “ainda constitucional”, (i) enquanto perdurar o
+
+atual “estado de coisas inconstitucional” que vigora no sistema
+
+prisional brasileiro; ou (ii) até que ocorra o julgamento do mérito da
+
+ADPF n. 347 e se cumpram as providências que venham a ser
+
+fixadas pelo Supremo Tribunal Federal;
+
+c) subsidiariamente, a realização de interpretação conforme a
+
+Constituição do artigo 283 do Código de Processo Penal, para se
+
+determinar que, enquanto perdurar o “estado de coisa
+
+inconstitucional”, na execução provisória da decisão penal
+
+condenatória de 2º Grau, não se promova a prisão do condenado,
+
+mas se apliquem, analogicamente, as medidas alternativas à prisão
+
+previstas no artigo 319 do Código de Processo Penal;
+
+d) subsidiariamente, a determinação de que eventual pronúncia
+
+de inconstitucionalidade - cujo corolário é permitir a execução
+
+provisória da decisão penal condenatória de 2ª instância – produza
+
+somente efeitos ex nunc, abrangendo apenas (i) as decisões
+
+condenatórias relativas a fatos ocorridos a partir do julgamento,
+
+pelo STF, desta ação; (ii) as decisões condenatórias relativas a fatos
+
+ocorridos a partir do julgamento, pelo STF, do HC n° 126.292.
+
+e) subsidiariamente, caso sejam conferidos efeitos repristinatórios
+
+à eventual pronuncia de inconstitucionalidade, reabilitando-se a
+
+incidência do artigo 637 do Código de Processo Penal aos recursos
+
+que sirvam à impugnação de decisões que impõem pena de prisão,
+
+a realização de interpretação conforme a Constituição desse
+
+preceito (637 do Código de Processo Penal) para se determinar seja
+
+[[pagina 3 | nativo]]
+
+conferido efeito suspensivo aos recursos especiais, a serem
+
+apreciados pelo Superior Tribunal de Justiça, negando-se tal efeito
+
+apenas aos recursos extraordinários, a serem apreciados pelo
+
+Supremo Tribunal Federal.
+
+I. ASPECTOS PROCESSUAIS: LEGITIMIDADE, OBJETO E
+CABIMENTO.
+
+I. 1. LEGITIMIDADE ATIVA DO AUTOR.
+
+1. A Constituição Federal prevê que os partidos políticos com
+
+representação no Congresso Nacional podem propor ação declaratória de
+
+constitucionalidade (art. 103, inciso VIII). Os partidos políticos são considerados
+
+pela jurisprudência do Supremo Tribunal Federal legitimados universais,
+
+podendo discutir a constitucionalidade de qualquer ato normativo sem que se lhe
+
+exijam a demonstração de liame entre os objetivos partidários e o pedido
+
+deduzido no âmbito da ação de controle de constitucionalidade.
+
+2. Como o autor postula, de modo subsidiário, o conhecimento da
+
+presente ação como arguição de descumprimento de preceito fundamental,
+
+cumpre enfatizar que a lei n. 9.882/99, ao regulamentar a ADPF, definiu que são
+
+legitimados para propô-la os mesmos legitimados para a ação direta de
+
+inconstitucionalidade (art. 2o, I), de modo que o partido político também possui
+
+legitimidade ativa para o seu ajuizamento (art. 103, inciso VIII).
+
+3. A comprovação da representação parlamentar encontra-se anexa.
+
+[[pagina 4 | nativo]]
+
+I. 2. OBJETO DA ADC. DISPOSITIVO LEGAL QUESTIONADO. A REDAÇÃO DO
+
+ARTIGO 283 DO CÓDIGO DE PROCESSO PENAL FOI DADA PELA LEI N.
+
+12.403/2011.
+
+4. O art. 283 do CPP, cuja declaração de constitucionalidade ora se
+
+requer, possui a seguinte redação:
+
+“Ninguém poderá ser preso senão em flagrante delito ou por
+ordem escrita e fundamentada da autoridade judiciária
+competente, em decorrência de sentença condenatória transitada
+em julgado ou, no curso da investigação ou do processo, em
+virtude de prisão temporária ou prisão preventiva”.
+
+5. O art. 102, I, a, da Constituição Federal, dispõe que compete ao
+
+Supremo Tribunal Federal “processar e julgar, originariamente, a ação direta de
+
+inconstitucionalidade de lei ou ato normativo federal e a ação declaratória de
+
+constitucionalidade de lei ou ato normativo federal”. A redação do artigo 283 do
+
+Código de Processo Penal foi dada pela Lei n° 12.403, de 2011. Como se trata de
+
+Lei Federal editada posteriormente à Constituição de 1988, e o pedido é de
+
+declaração de constitucionalidade, a ADC é a ação cabível dentre as que
+
+integram o sistema de controle concentrado de constitucionalidade.
+
+I. 3. EXISTÊNCIA DE CONTROVÉRSIA CONSTITUCIONAL RELEVANTE SOBRE A
+
+CONSTITUCIONALIDADE DO ARTIGO 283 DO CÓDIGO DE PROCESSO PENAL. A
+
+DECISÃO SUPREMO TRIBUNAL FEDERAL NO HABEAS CORPUS N° 126.292.
+
+6. A necessidade de declaração de constitucionalidade do artigo 283
+
+do Código de Processo Penal exsurge da controvérsia instaurada em razão da
+
+decisão proferida recentemente por esse e. Supremo Tribunal Federal no Habeas
+
+Corpus n° 126.292, relatado pelo Ministro Teori Zavascki. Por maioria, o
+
+[[pagina 5 | nativo]]
+
+Supremo Tribunal Federal denegou a ordem pretendida, considerando válido,
+
+naquele caso, o cumprimento da pena de prisão antes do trânsito em julgado da
+
+condenação, alterando jurisprudência consolidada no âmbito da Corte. Dada a
+
+incompatibilidade da decisão tomada em tal julgamento com o disposto
+
+expressamente no art. 283 do CPP – o qual determina a necessidade de trânsito
+
+em julgado da condenação para que ocorra o início do cumprimento da pena de
+
+prisão –, fica demonstrada a relevância da controvérsia judicial suscitada na
+
+presente ação declaratória.
+
+7. Vejamos o percurso da jurisprudência do Supremo Tribunal Federal
+
+sobre a matéria após 1988, bem como as alterações havidas na legislação durante
+
+o período, até que se chegasse à decisão proferida no Habeas Corpus n° 126.292.
+
+8. A Constituição Federal de 1988, desde que entrou em vigor,
+
+condicionava o estabelecimento definitivo da culpa ao “transito em julgado” da
+
+“sentença penal condenatória” (art. 5º, LVII). Tratava-se de importante inovação
+
+em nossa história constitucional. Nada obstante, nas primeiras oportunidades em
+
+que o STF se manifestou sobre o tema, ainda prevaleceu, data vênia, a chamada
+
+“interpretação retrospectiva”1, mantendo-se entendimento vigente à luz da
+
+Constituição de 1969. Decidiu a Corte que a ausência do trânsito em julgado não
+
+seria empecilho para o início do cumprimento da pena. Para a Corte, a presunção
+
+de inocência não seria ofendida por tal medida:
+
+“Habeas Corpus. Alegações de vício na intimação do paciente
+quanto a sentença condenatória, bem assim de ilegalidade na
+expedição de mandado de prisão, antes do trânsito em julgado da
+decisão. (...). A presunção de inocência do acusado não impede a
+prisão antes do trânsito em julgado de decisão condenatória.
+
+1 A propósito, colha-se a lição de Luis Roberto Barroso: “Deve-se rejeitar uma das patologias
+crônicas da hermenêutica constitucional brasileira, que é a interpretação retrospectiva, pela
+qual se procura interpretar o texto novo de maneira a que ele não inove nada, mas ao revés,
+fique tão parecido quanto possível com o antigo.” (BARROSO, Luis Roberto. Interpretação e
+Aplicação da Constituição, Rio de Janeiro, Saraiva, 4a ed., 2001, p. 71).
+
+[[pagina 6 | nativo]]
+
+Constituição Federal, art. 5., incisos LVII e LXI. Precedentes do
+STF. Habeas Corpus indeferido.”.2
+
+9. Contudo, o Supremo Tribunal Federal estabeleceu parâmetro
+
+distinto em 2009, com o julgamento do HC n° 84.078. A Corte reviu o
+
+entendimento até então adotado por compreender que a Lei de Execução Penal
+
+dispunha em contrário ao que vinha sendo decidido. Na ocasião, consignou ainda
+
+que a nova interpretação – afastando a execução provisória da pena do cenário
+
+jurídico brasileiro – melhor atenderia o texto do art. 5º, LVII, da CF/88, que, ao
+
+estabelecer o princípio da presunção de inocência, refere-se expressamente ao
+
+“trânsito em julgado”: “ninguém será considerado culpado até o trânsito em
+
+julgado de sentença penal condenatória”. Confira-se, pela relevância, a ementa
+
+desse significativo precedente:
+
+HABEAS CORPUS. INCONSTITUCIONALIDADE DA CHAMADA
+“EXECUÇÃO ANTECIPADA DA PENA”. ART. 5º, LVII, DA
+CONSTITUIÇÃO DO BRASIL. DIGNIDADE DA PESSOA
+HUMANA. ART. 1º, III, DA CONSTITUIÇÃO DO BRASIL. 1. O
+art. 637 do CPP estabelece que “[o] recurso extraordinário não
+tem efeito suspensivo, e uma vez arrazoados pelo recorrido os
+autos do traslado, os originais baixarão à primeira instância para
+a execução da sentença”. A Lei de Execução Penal condicionou a
+execução da pena privativa de liberdade ao trânsito em julgado da
+sentença condenatória. A Constituição do Brasil de 1988 definiu,
+em seu art. 5º, inciso LVII, que “ninguém será considerado
+culpado até o trânsito em julgado de sentença penal
+condenatória”. 2. Daí que os preceitos veiculados pela Lei n.
+7.210/84, além de adequados à ordem constitucional vigente,
+sobrepõem-se, temporal e materialmente, ao disposto no art. 637
+do CPP. 3. A prisão antes do trânsito em julgado da condenação
+somente pode ser decretada a título cautelar. 4. A ampla defesa,
+não se a pode visualizar de modo restrito. Engloba todas as fases
+processuais, inclusive as recursais de natureza extraordinária. Por
+isso a execução da sentença após o julgamento do recurso de
+
+2 HC 70363, Relator Min. Néri Da Silveira, Segunda Turma, julgado em 08/06/1993, DJ 03-12-
+1993. No mesmo sentido: “(...) Já se firmou nesta Corte o entendimento de que o princípio
+constitucional da presunção de inocência até o trânsito em julgado da sentença condenatória
+não é óbice à prisão do condenado quando existente apenas, pendente de julgamento, o recurso
+especial ou o recurso extraordinário (ou ambos), por não terem eles efeito suspensivo (assim,
+nos HCs 72.102 e 69.039, entre outros). Recurso ordinário a que se nega provimento.” (RHC
+80091, Relator Min. Moreira Alves, Primeira Turma, julgado em 25/04/2000, DJ 16-06-2000).
+
+[[pagina 7 | nativo]]
+
+apelação significa, também, restrição do direito de defesa,
+caracterizando desequilíbrio entre a pretensão estatal de aplicar a
+pena e o direito, do acusado, de elidir essa pretensão. 5. Prisão
+temporária, restrição dos efeitos da interposição de recursos em
+matéria penal e punição exemplar, sem qualquer contemplação,
+nos “crimes hediondos” exprimem muito bem o sentimento que
+EVANDRO LINS sintetizou na seguinte assertiva: “Na realidade,
+quem está desejando punir demais, no fundo, no fundo, está
+querendo fazer o mal, se equipara um pouco ao próprio
+delinqüente”. 6. A antecipação da execução penal, ademais de
+incompatível com o texto da Constituição, apenas poderia ser
+justificada em nome da conveniência dos magistrados --- não do
+processo penal. A prestigiar-se o princípio constitucional, dizem,
+os tribunais [leia-se STJ e STF] serão inundados por recursos
+especiais e extraordinários e subseqüentes agravos e embargos,
+além do que “ninguém mais será preso”. Eis o que poderia ser
+apontado como incitação à “jurisprudência defensiva”, que, no
+extremo, reduz a amplitude ou mesmo amputa garantias
+constitucionais. A comodidade, a melhor operacionalidade de
+funcionamento do STF não pode ser lograda a esse preço. 7. No
+RE 482.006, relator o Ministro Lewandowski, quando foi debatida
+a constitucionalidade de preceito de lei estadual mineira que impõe
+a redução de vencimentos de servidores públicos afastados de suas
+funções por responderem a processo penal em razão da suposta
+prática de crime funcional [art. 2º da Lei n. 2.364/61, que deu nova
+redação à Lei n. 869/52], o STF afirmou, por unanimidade, que o
+preceito implica flagrante violação do disposto no inciso LVII do
+art. 5º da Constituição do Brasil. Isso porque --- disse o relator ---
+“a se admitir a redução da remuneração dos servidores em tais
+hipóteses, estar-se-ia validando verdadeira antecipação de pena,
+sem que esta tenha sido precedida do devido processo legal, e
+antes mesmo de qualquer condenação, nada importando que haja
+previsão de devolução das diferenças, em caso de absolvição”. Daí
+porque a Corte decidiu, por unanimidade, sonoramente, no sentido
+do não recebimento do preceito da lei estadual pela Constituição
+de 1.988, afirmando de modo unânime a impossibilidade de
+antecipação de qualquer efeito afeto à propriedade anteriormente
+ao seu trânsito em julgado. A Corte que vigorosamente prestigia o
+disposto no preceito constitucional em nome da garantia da
+propriedade não a deve negar quando se trate da garantia da
+liberdade, mesmo porque a propriedade tem mais a ver com as
+elites; a ameaça às liberdades alcança de modo efetivo as classes
+subalternas. 8. Nas democracias mesmo os criminosos são sujeitos
+de direitos. Não perdem essa qualidade, para se transformarem em
+objetos processuais. São pessoas, inseridas entre aquelas
+beneficiadas pela afirmação constitucional da sua dignidade (art.
+
+[[pagina 8 | nativo]]
+
+1º, III, da Constituição do Brasil). É inadmissível a sua exclusão
+social, sem que sejam consideradas, em quaisquer circunstâncias,
+as singularidades de cada infração penal, o que somente se pode
+apurar plenamente quando transitada em julgado a condenação de
+cada qual. Ordem concedida.”3
+
+10. Pouco tempo depois, em conformidade com a orientação fixada
+
+pelo STF, houve a alteração do art. 283 do CPP, levada a termo por meio da Lei
+
+nº 12.403/2011. O artigo antes dispunha: “a prisão poderá ser efetuada em
+
+qualquer dia e a qualquer hora, respeitadas as restrições relativas à
+
+inviolabilidade do domicílio”. Em 2011, o dispositivo foi substituído pelo
+
+seguinte preceito: “Ninguém poderá ser preso senão em flagrante delito ou por
+
+ordem escrita e fundamentada da autoridade judiciária competente, em
+
+decorrência de sentença condenatória transitada em julgado ou, no curso da
+
+investigação ou do processo, em virtude de prisão temporária ou prisão
+
+preventiva.”
+
+11. Depois da edição da Lei nº 12.403, em 2011, o STF manteve o
+
+entendimento que havia fixado em 2009, reafirmando, em diversos casos, que a
+
+presunção de inocência, tal como positivada na Constituição Federal de 1988,
+
+impedia a execução provisória da sentença penal condenatória:
+
+(...) A PRESUNÇÃO CONSTITUCIONAL DE INOCÊNCIA
+IMPEDE QUE O ESTADO TRATE COMO SE CULPADO FOSSE
+AQUELE QUE AINDA NÃO SOFREU CONDENAÇÃO PENAL
+IRRECORRÍVEL. - A prerrogativa jurídica da liberdade - que
+possui extração constitucional (CF, art. 5º, LXI e LXV) - não pode
+ser ofendida por interpretações doutrinárias ou jurisprudenciais
+que, fundadas em preocupante discurso de conteúdo autoritário,
+culminam por consagrar, paradoxalmente, em detrimento de
+direitos e garantias fundamentais proclamados pela Constituição
+da República, a ideologia da lei e da ordem. Mesmo que se trate de
+pessoa acusada da suposta prática de crime hediondo, e até que
+sobrevenha sentença penal condenatória irrecorrível, não se revela
+possível - por efeito de insuperável vedação constitucional (CF,
+art. 5º, LVII) - presumir-lhe a culpabilidade. Ninguém,
+absolutamente ninguém, pode ser tratado como culpado, qualquer
+
+3 STF, HC 84078, Relator Min. Eros Grau, Tribunal Pleno, julgado em 05/02/2009, DJe-035 26-
+02-2010.
+
+[[pagina 9 | nativo]]
+
+que seja o ilícito penal cuja prática lhe tenha sido atribuída, sem
+que exista, a esse respeito, decisão judicial condenatória transitada
+em julgado. O princípio constitucional do estado de inocência, tal
+como delineado em nosso sistema jurídico, consagra uma regra de
+tratamento que impede o Poder Público de agir e de se comportar,
+em relação ao suspeito, ao indiciado, ao denunciado ou ao réu,
+como se estes já houvessem sido condenados, definitivamente, por
+sentença do Poder Judiciário. Precedentes.4
+
+12. Apesar do novo texto legal expresso (art. 283 do CPP), no início do
+
+ano de 2016, o STF voltou a alterar seu entendimento, o que ocorreu no
+
+julgamento do Habeas Corpus n° 126.292. No referido julgamento, a maioria dos
+
+Ministros votou pela denegação da ordem5, acompanhando o Relator, Ministro
+
+Teori Zavascki. A Corte decidiu, naquele caso concreto, que deveria restaurar o
+
+entendimento anterior ao julgamento do HC 84078, realizado em 2009, e à Lei
+
+12.043, que entrou em vigor em 2011. Para a Corte, “a execução provisória de
+
+acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a
+
+recurso especial ou extraordinário, não compromete o princípio constitucional
+
+da presunção de inocência.”6
+
+13. Todavia, a retomada do entendimento pretérito do próprio
+
+Supremo Tribunal Federal foi levada a termo sem que a Corte tenha
+
+examinado a constitucionalidade do novo teor do art. 283 do CPP,
+
+introduzido em 2011, o qual estabeleceu a necessidade do trânsito em
+
+julgado da condenação como condição para que tenha lugar o início do
+
+cumprimento da pena de prisão. Ao reabilitar a antiga interpretação, o
+
+4 STF, HC 93261, Relator Min. Celso de Mello, Segunda Turma, julgado em 12/08/2008, DJe-
+226 19-11-2012.
+5 A decisão foi assim ementada: “CONSTITUCIONAL. HABEAS CORPUS. PRINCÍPIO
+CONSTITUCIONAL DA PRESUNÇÃO DE INOCÊNCIA (CF, ART. 5º, LVII). SENTENÇA
+PENAL CONDENATÓRIA CONFIRMADA POR TRIBUNAL DE SEGUNDO GRAU DE
+JURISDIÇÃO. EXECUÇÃO PROVISÓRIA. POSSIBILIDADE. 1. A execução provisória de
+acórdão penal condenatório proferido em grau de apelação, ainda que sujeito a recurso
+especial ou extraordinário, não compromete o princípio constitucional da presunção de
+inocência afirmado pelo artigo 5º, inciso LVII da Constituição Federal. 2. Habeas corpus
+denegado.” (STF, HC 126292, Relator Min. Teori Zavascki, Tribunal Pleno, julgado em
+17/02/2016, DJe-100 divulgado 16-05-2016, publicado 17-05-2016)
+6 Excerto retirado do parágrafo 12, página 16, do voto do i. Ministro Relator do HC n° 126.292.
+
+[[pagina 10 | nativo]]
+
+Supremo Tribunal Federal não examinou questão essencial para o adequado
+
+tratamento da matéria. Para fixar o parâmetro segundo o qual a decisão penal
+
+condenatória pode ser objeto de execução provisória, o Supremo Tribunal
+
+Federal, data vênia, teria que ter declarado a inconstitucionalidade do artigo art.
+
+283 do CPP: não se pode conferir a este dispositivo legal sentido compatível com
+
+a decisão recentemente proferida no julgamento do Habeas Corpus n° 126.292.
+
+14. Considerando a relevância incontestável de que se reveste a
+
+matéria, bem como as dúvidas suscitadas após o julgamento do Habeas Corpus
+
+n° 126.292, totalmente pertinente que o STF se manifeste, em sede de controle
+
+direto e concentrado, acerca da constitucionalidade do artigo 283 do Código de
+
+Processo Penal, reconhecendo-se a legitimidade constitucional da recente opção
+
+do legislador, veiculada na Lei nº 12.403, de 2011.
+
+I. 4. OPORTUNIDADE PARA CONTRIBUIÇÃO DOS DEMAIS ATORES
+
+REPRESENTATIVOS PARA INTERPRETAR O PRECEITO CONSTITUCIONAL.
+
+15. A decisão tomada no âmbito do HC n° 126.292, a qual considerou
+
+possível, naquele caso concreto, o cumprimento imediato da pena antes do
+
+trânsito em julgado da condenação, não é apta a produzir efeitos vinculantes,
+
+nem a estabelecer uma nova regra geral sobre o tema. Mas produz enorme
+
+impacto em todo o sistema por ser precedente do Supremo Tribunal Federal7,
+
+com fundamento no qual prisões poderão ser decretadas em todo o Brasil.
+
+16. A decisão proferida no HC n° 126.292 não foi precedida de amplo
+
+debate do qual participassem as entidades especialmente interessadas na
+
+7 Luís Roberto Barroso, depois de perscrutar a lógica dos precedentes nos sistemas romano-
+germânico e common Law, conclui que, “no Brasil dos últimos anos, o papel da jurisprudência
+teve tal expansão que alguns autores passaram a incluí-la no rol das fontes formais de direito.
+Independente de se aderir ou não a esta doutrina, é inegável o movimento no sentido de se
+valorizar o papel dos precedentes judiciais” (BARROSO, Luís Roberto. Temas de direito
+Constitucional – Tomo IV, 2a edição – Rio de Janeiro: Renovar, 2009, p. 270).
+
+[[pagina 11 | nativo]]
+
+interpretação dos preceitos legais acima mencionados. Na verdade, a alteração da
+
+orientação jurisprudencial surpreendeu a todos aqueles que contribuem para o
+
+funcionamento do sistema de justiça criminal: juízes, promotores e procuradores,
+
+advogados, professores de direito, delegados, administradores prisionais,
+
+governos e sociedade civil. Depois da recente alteração jurisprudencial, várias
+
+entidades representativas de segmentos sociais que atuam perante o sistema de
+
+justiça criminal vêm se manifestando sobre o tema, muitas das quais em sentido
+
+contrário à orientação fixada pela Corte.
+
+17. A Ordem dos Advogados do Brasil, por meio de decisão de seu
+
+Conselho Federal, decidiu ajuizar ADPF para garantir que o início da execução
+
+da pena só ocorresse após o trânsito em julgado da sentença penal condenatória.
+
+O relator da matéria no Plenário do Conselho Federal da OAB, Conselheiro
+
+Federal Luiz Saraiva Correia (AC), consignou, em seu voto, que “O réu só pode
+
+ser efetivamente apenado após o trânsito em julgado da sentença. Não se pode
+
+inverter a presunção de inocência. O forte impacto de antecipação da pena viola
+
+direitos humanos e constitucionais.”8
+
+18. O Instituto dos Advogados do Brasil, entidade também
+
+especialmente comprometida com a garantia do direito de defesa, bem como do
+
+devido processo legal e a promoção da dignidade humana, emitiu nota pública
+
+com forte teor crítico em relação ao precedente estabelecido no julgamento do
+
+Habeas Corpus 126.292-SP:
+
+O Instituto dos Advogados Brasileiros - IAB vem
+publicamente manifestar sua profunda preocupação e desalento
+com a decisão proferida pelo Supremo Tribunal Federal que, por
+maioria, entendeu pela constitucionalidade da execução provisória
+da pena após acórdão proferido em segundo grau de Jurisdição,
+mesmo que na pendência de recursos aos Tribunais Superiores,
+portanto antes do trânsito em julgado da condenação, quando
+ainda não estabelecida a culpabilidade em sentido estrito,
+invertendo a lógica da Liberdade como regra democrática.
+
+8 http://www.oab.org.br/noticia/29332
+
+[[pagina 12 | nativo]]
+
+Com a promulgação da Constituição Federal de 1988, uma
+escolha clara e inquebrantável emergiu, a de que a República
+Federativa do Brasil constitui-se em Estado Democrático de
+Direito, tendo, dentre seus fundamentos, a Dignidade da Pessoa
+Humana, artigo 1o., inciso III da CF88, iluminando os Direitos
+Fundamentais e suas garantias elencados no texto constitucional.
+A Presunção de Inocência, expressa no inciso LVII do artigo
+5º da Constituição da República - "ninguém será considerado
+culpado até o trânsito em julgado de sentença penal condenatória"
+- além de prevista em diversas Declarações de Direitos do Homem
+e Convenções Internacionais, é direito fundamental de dimensão
+constitucional, e não mero tecnicismo jurídico que pode ser
+afastado via interpretação constitucional. É condicionante da
+atuação dos agentes estatais, dos diferentes Poderes. Possui
+natureza de princípio político, que conecta o Processo Penal com
+as escolhas político-constitucionais do Estado Democrático de
+Direito.
+Desta forma, a Presunção de Inocência é princípio essencial
+do Processo Penal Democrático, configurando-se regra de
+tratamento processual no qual o sujeito acusado preserva seu
+Estado de Inocência até que uma sentença condenatória não mais
+passível de recurso firme a certeza jurídica de sua culpabilidade,
+não podendo uma acusação, em um primeiro momento, ou até
+mesmo uma condenação em segundo grau, "suspender"
+provisoriamente sua inocência e nem as garantias que a
+acompanham.
+A decisão do Supremo Tribunal Federal se configura em
+retrocesso inaceitável, sobretudo quando se atenta para o fato de
+que na seara penal não existe execução de condenação que não
+seja definitiva. Providos os Recursos Especial ou Extraordinário,
+quem devolverá ao cidadão acusado o tempo executado
+provisoriamente? A pena foi cumprida, antecipadamente, e
+ilegalmente, eis que violou o estado de inocência do Acusado que
+posteriormente teve seu recurso provido.
+A Presunção de Inocência é cláusula pétrea da Constituição
+da República e a vedação ao retrocesso é princípio de natureza
+político-jurídica que não permite a vulneração de Direitos
+Fundamentais e suas Garantias.
+A decisão do Supremo Tribunal Federal lança mais uma
+ofensa contra o que deveria ser um intransponível limite aos
+desmesurados poderes punitivos do Estado, corroendo o Processo
+Penal Democrático, abrindo mais uma brecha, em última análise,
+contra o próprio Estado Democrático de Direito.
+Rio de Janeiro, 18 de fevereiro de 2016.
+TÉCIO LINS E SILVA
+
+[[pagina 13 | nativo]]
+
+Presidente Nacional do IAB 9
+
+19. A Pastoral Carcerária, entidade vinculada à Conferência Nacional
+
+dos Bispos do Brasil, que há décadas atua no sistema prisional brasileiro,
+
+também emitiu nota criticando a referida mudança na jurisprudência do Supremo
+
+Tribunal Federal:
+
+Diante da decisão do Supremo Tribunal Federal, no
+julgamento do Habeas Corpus 126.292, que por maioria de votos
+alterou o posicionamento da Corte no sentido de entender
+ser possível a execução da pena mesmo antes da condenação
+tornar-se definitiva, a Pastoral Carcerária Nacional vem a público
+manifestar seu absoluto repúdio contra mais este retrocesso, que
+fatalmente irá alargar ainda mais as portas de entrada das
+masmorras brasileiras, onde centenas de milhares de indivíduos,
+em sua grande maioria jovens, pretos e periféricos, são
+cotidianamente vilipendiados em sua dignidade e direitos mais
+básicos.
+A referida decisão terminou de sepultar o princípio da
+presunção de inocência, já esquecido em nosso sistema penal, e
+afronta explicitamente a Constituição Federal, que no art. 5º,
+inciso LVII, declara que ninguém será considerado culpado até o
+trânsito em julgado de sentença penal condenatória.
+O Supremo Tribunal Federal, ao investir contra garantias
+fundamentais e prostrar-se inerte diante da conversão do nosso
+sistema prisional em um verdadeiro aparato de extermínio de vidas
+e futuros, é o pior dos responsáveis, eis que deveria ser o primeiro
+e o último guardião da Constituição, que uma vez ousou-se
+apelidar de ‘cidadã’.
+A violação sistemática de direitos e garantias fundamentais
+de pessoas encarceradas, já reconhecida pelo STF como um
+‘estado de coisas inconstitucional’, não é um problema de políticas
+públicas, é um atentado contra a ordem democrática, e demanda
+mais que ações retóricas e projetos pontuais.
+Ao não reconhecer os diretos fundamentais da população
+prisional, o STF escancara seu medo de promover ‘justiça em
+excesso’, como apontou o jurista estadunidense William Joseph
+Brennan aos seus colegas da Suprema Corte, no infame caso
+McCleskey v. Kemp, e deixa claro que se todos têm direitos, com
+certeza alguns tem mais que outros.
+
+9 Cf. http://www.iabnacional.org.br/article.php3?id_article=5101.
+
+[[pagina 14 | nativo]]
+
+Para além do lamentável desfecho do Habeas Corpus
+126.292, ainda encontra-se pendente de decisão da Corte matérias
+que, se não são a solução para a catástrofe carcerária do país, ao
+menos poderiam apontar para um horizonte menos sombrio, tais
+como a aprovação da Proposta de Súmula Vinculante n.º 57,
+apresentada no longínquo ano de 2010 e que poderia garantir a
+efetivação do direito a progressão de regime, o julgamento
+favorável da ADPF n.º 347, cujas medidas cautelares foram apenas
+parcialmente concedidas, bem como do RE n.º 635659, que poderia
+impor algum limite à absurda política de ‘guerra às drogas’,
+desfraldada pelo Estado brasileiro contra os pobres e
+marginalizados.
+Como disse o Papa Francisco em sua visita ao México, é
+‘um engano social acreditar que a segurança e a ordem só são
+alcançadas prendendo as pessoas’, pois as prisões nada mais são
+do que reflexos de silêncios e omissões, típicos de um sistema onde
+até a pessoa humana é descartável. Dirigindo-se aos juristas do
+campo penal, o Papa também foi enfático ao afirmar que em
+hipótese alguma pode o Estado ‘subordinar o respeito da
+dignidade da pessoa humana a qualquer outra finalidade, mesmo
+quando se conseguir alcançar uma espécie qualquer de utilidade
+social.’
+Por fim, a Pastoral Carcerária Nacional reitera a
+necessidade de reversão imediata do atual quadro de
+encarceramento em massa, com enfrentamento frontalmente ao
+punitivismo vigente, políticas claras e consistentes de
+desencarceramento, abertura do cárcere para a sociedade e
+mitigação de danos enquanto houver prisões, entre outras
+propostas, consubstanciadas na Agenda Nacional pelo
+Desencarceramento.
+Com fé e luta, seguimos na construção do sonho de Deus:
+um mundo sem cárceres!
+São Paulo, 19 de fevereiro de 2016.
+PASTORAL CARCERÁRIA NACIONAL – CNBB 10
+
+20. Dada a especial relevância da matéria para a própria conformação
+
+do sistema penal brasileiro, é conveniente que haja ampla participação da
+
+sociedade no processo de interpretação constitucional, de modo que questões
+
+fáticas e jurídicas, suscitadas pelos atores sociais pertinentes, sejam consideradas
+
+10 Cf. http://carceraria.org.br/nota-publica-a-presuncao-de-inocencia-o-stf-e-o-encarceramento-
+em-massa.html#sthash.Bi52Y4EM.dpuf.
+
+[[pagina 15 | nativo]]
+
+e sopesadas. Especialmente pertinente na hipótese a abertura da interpretação
+
+constitucional à “sociedade aberta dos intérpretes da constituição” 11.. Uma
+
+“constituição aberta” exige também a “abertura” do processo de interpretação
+
+constitucional12.
+
+I. 5. NÃO IMPUGNAÇÃO, NO PEDIDO PRINCIPAL, DE PRECEITO ANTERIOR À
+
+CONSTITUIÇÃO. PEDIDO SUBSIDIÁRIO DE INTERPRETAÇÃO CONFORME DO
+
+ARTIGO 637 DO CPP. CABIMENTO DE ADC.
+
+21. A jurisprudência do Supremo Tribunal Federal exige a impugnação
+de todo o complexo normativo no controle concentrado de constitucionalidade.13
+
+11 “No Brasil, sua contribuição tem sido inestimável para o desenvolvimento do direito
+constitucional. São muitos os doutrinadores brasileiros de renome que defendem a necessidade
+de consolidação da idéia de uma sociedade aberta de intérpretes da Constituição, formulada
+por Peter Häberle. Segundo essa concepção, o círculo de intérpretes da Lei Fundamental deve
+ser alargado para abarcar não apenas as autoridades públicas e as partes formais nos
+processos de controle de constitucionalidade, mas todos os cidadãos e grupos sociais que, de
+uma forma ou de outra, vivenciam a realidade constitucional.” (Valadés, Diego. “Conversas
+acadêmicas com Peter Haberle.” iBooks.)
+12 No Brasil, a ampliação do círculo de intérpretes constitucionais tem se verificado desde o
+advento da Constituição Federal de 1988, com a previsão de um generoso elenco de legitimados
+para a propositura da ADIN (art. 103). Além disso, a Lei 9868/99, que detalha o procedimento
+da ADIN e da ADC, cria ainda a figura do amicus curiae, possibilitando a manifestação no
+processo de outros órgãos e entidades (art. 7o, § 2o); passa a permitir o pronunciamento, no
+curso do processo, de perito ou comissão de peritos, bem como a realização de audiência
+pública (art. 9o, §1o) e a solicitação de informações a outros tribunais (art. 9o, §2o). Todos esses
+dispositivos realizam a abertura do processo de tomada de decisões acerca de questões
+constitucionais. Sobre esses aspectos da “nova jurisdição constitucional brasileira”, cf.:
+BINENBOJM, Gustavo. A nova jurisdição constitucional brasileira....
+13 Há vários precedentes nesse sentido: “AÇÃO DIRETA DE INCONSTITUCIONALIDADE –
+IMPUGNAÇÃO PARCIAL – AUSÊNCIA DE UTILIDADE. A impugnação parcial do bloco
+normativo implica a inadequação da ação direta de inconstitucionalidade.” (ADI 4227, Rel.
+Min. Marco Aurelio, Tribunal Pleno, julgado em 21/10/2015, DJe-058 30-03-2016); “(..) 1
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. NORMA REVOGADA. REPRISTINAÇÃO.
+IMPUGNAÇÃO DO COMPLEXO NORMATIVO. (...).” (RE 725308 AgR, Relator Min. Cármen
+Lúcia, Segunda Turma, julgado em 29/10/2013, DJe-217 04-11-2013); “AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE (...) IMPUGNAÇÃO TÓPICA OU FRAGMENTÁRIA DE
+DIPLOMAS LEGISLATIVOS CONEXOS QUE INTEGRAM COMPLEXO NORMATIVO
+INCINDÍVEL – INVIABILIDADE – (...) DIPLOMAS NORMATIVOS QUE INTEGRAM
+COMPLEXO NORMATIVO INCINDÍVEL – NECESSIDADE DE IMPUGNAÇÃO
+ABRANGENTE DE TODAS AS NORMAS UNIDAS PELO VÍNCULO DE CONEXÃO –
+INOCORRÊNCIA – INVIABILIDADE DA AÇÃO DIRETA. – Tratando-se de normas legais e de
+
+[[pagina 16 | nativo]]
+
+Cabe esclarecer que, nada obstante, seria inadequado, na presente ação, se
+
+requerer a declaração de inconstitucionalidade do artigo 637 do Código de
+
+Processo Penal. O preceito determina que, ao recurso extraordinário em matéria
+
+criminal, não é atribuído efeito suspensivo, possibilitando o início do
+
+cumprimento da pena antes do trânsito em julgado da condenação.14 Porém, o
+
+artigo 637 do Código de Processo Penal não prevalece sobre o art. 283 do CPP,
+
+cuja constitucionalidade ora se pretende afirmar, por se tratar de preceito mais
+
+antigo e mais genérico.
+
+22. A atual redação do artigo 283 do CPP, que exige expressamente o
+
+trânsito em julgado, foi introduzida no sistema processual penal por meio de lei
+
+editada em 2011 (Lei nº 12.403). Já a atual redação do artigo 637 constava do
+
+texto originário do Código de Processo Penal, que entrou em vigor em 3 de
+
+outubro de 1941. Aplica-se, portanto, o critério cronológico de resolução de
+
+antinomias – lei posterior revoga a lei anterior -, do que não resulta “questão
+
+constitucional”, mas infraconstitucional.
+
+23. Além disso, o artigo 283 cuida especificamente da pena de prisão.
+
+Recorde-se a sua redação: “Ninguém poderá ser preso senão em flagrante delito
+
+ou por ordem escrita e fundamentada da autoridade judiciária competente, em
+
+decorrência de sentença condenatória transitada em julgado ou, no curso da
+
+diplomas legislativos que se interconexionam ou que mantêm, entre si, vínculo de dependência
+jurídica, cabe ao autor da ação direta, ao postular a declaração de inconstitucionalidade,
+abranger, no alcance desse “judicium”, todas as regras unidas pelo vínculo de conexão, sob
+pena de, em não o fazendo, tornar inviável a própria instauração do controle concentrado de
+constitucionalidade. – Em situação de mútua dependência normativa, em que as regras estatais
+interagem umas com as outras, condicionando-se, reciprocamente, em sua aplicabilidade e
+eficácia, revela-se incabível a impugnação tópica ou fragmentária de apenas algumas dessas
+normas, considerada a circunstância de o complexo normativo que elas integram qualificar-se
+como unidade estrutural incindível, a inviabilizar questionamentos seletivos e isolados de
+determinadas prescrições normativas. – Em tal contexto, e pelo fato de referidas normas
+integrarem a totalidade do sistema, não se admitem, em sede de controle normativo abstrato,
+impugnações isoladas ou tópicas, sob pena de completa desarticulação e desagregação do
+próprio sistema normativo a que se acham incorporadas. Precedentes.” (ADI 2422 AgR,
+Relator Min. Celso de Mello, Tribunal Pleno, julgado em 10/05/2012, DJe-213 30-10-2014).
+14 Eis o teor do preceito: “O recurso extraordinário não tem efeito suspensivo, e uma vez
+arrazoados pelo recorrido os autos do traslado, os originais baixarão à primeira instância,
+para a execução da sentença.”
+
+[[pagina 17 | nativo]]
+
+investigação ou do processo, em virtude de prisão temporária ou prisão
+
+preventiva.” O artigo 637, por outro lado, cuida de modo geral do recurso
+
+extraordinário: “O recurso extraordinário não tem efeito suspensivo, e uma vez
+
+arrazoados pelo recorrido os autos do traslado, os originais baixarão à primeira
+
+instância, para a execução da sentença.”
+
+24. Como se observa, o artigo 283 é norma especial relativamente ao
+
+artigo 637. Os recursos extraordinários podem servir à impugnação de decisões
+
+de diversos tipos. Decisões cautelares ou sentenças que fixam penas restritivas de
+
+direito, por exemplo, podem ser impugnadas por meio de recursos
+
+extraordinários (hoje, na verdade, recurso especial e recurso extraordinário). No
+
+tocante especificamente à pena de prisão é que se exige o trânsito em julgado,
+
+não se aplicando à hipótese a regra estabelecida no artigo 637 do CPP.
+
+25. Contudo, caso se julgue improcedente o pedido de declaração de
+
+constitucionalidade e, com isso, pronuncie-se a inconstitucionalidade do artigo
+
+283 é inconstitucional, formula-se subsidiariamente pedido de interpretação
+
+conforme a Constituição do artigo 637 do Código de Processo Penal para se
+
+requerer que o efeito suspensivo seja negado apenas ao recurso extraordinário,
+
+dirigido ao Supremo Tribunal federal, não ao recurso especial, dirigido ao
+
+Superior Tribunal de Justiça.
+
+26. A fundamentação desse pedido subsidiário é apresentada mais
+
+adiante. Por ora, cabe apenas consignar que, nada obstante se formule pedido de
+
+interpretação conforme de norma anterior à Constituição Federal de 1988, como
+
+se trata de pedido subsidiário, a ser conhecido apenas na eventualidade de não
+
+deferimento do pedido principal, de declaração de constitucionalidade de norma
+
+posterior à Constituição de 1988, optou-se pelo emprego da ação declaratória de
+
+constitucionalidade, mas, a título subsidiário, requer-se que a presente ação seja
+
+recebida como ADPF.
+
+[[pagina 18 | nativo]]
+
+I. 6. CUMULAÇÃO DE PEDIDOS DE DECLARAÇÃO DE CONSTITUCIONALIDADE E
+
+DE RECEPÇÃO EM ADC. PEDIDO SUBSIDIÁRIO. RECEBIMENTO DA PRESENTE
+
+AÇÃO COMO ADPF.
+
+27. Como acima consignado, além do pedido principal formulado na
+
+presente ADC, qual seja de declaração da constitucionalidade do art. 283 do
+
+CPP, tendo em vista a relevância para a análise global da questão, formula-se
+
+também pedido subsidiário de interpretação conforme a Constituição do artigo
+
+637 do Código de Processo Penal. Contudo, uma vez que a vigência de tal
+
+preceito antecede a presente ordem constitucional, não se desconhece que o
+
+instrumento adequado para veicular tal requerimento seria a Arguição de
+
+Descumprimento de Preceito Fundamental - ADPF15.
+
+28. A jurisprudência recente do Supremo Tribunal Federal já
+
+estabeleceu a possibilidade de que se reúnam, numa mesma ação direta, pedidos
+
+que seriam, em tese, aptos a figurar em ações de tipos distintos, como a ADC e a
+
+ADPF:
+
+(...) 1. A presente ação tem por objeto central analisar a
+compatibilidade do rito de impeachment de Presidente da
+República previsto na Lei nº 1.079/1950 com a Constituição de
+1988. A ação é cabível, mesmo se considerarmos que requer,
+indiretamente, a declaração de inconstitucionalidade de norma
+posterior à Constituição e que pretende superar omissão parcial
+inconstitucional. Fungibilidade das ações diretas que se prestam a
+
+15 Nesse sentido: “(...) 6. Cabimento de argüição de descumprimento de preceito fundamental
+para solver controvérsia sobre legitimidade de lei ou ato normativo federal, estadual ou
+municipal, inclusive anterior à Constituição (norma pré-constitucional) (...). 9. ADPF
+configura modalidade de integração entre os modelos de perfil difuso e concentrado no
+Supremo Tribunal Federal. 10. Revogação da lei ou ato normativo não impede o exame da
+matéria em sede de ADPF, porque o que se postula nessa ação é a declaração de ilegitimidade
+ou de não-recepção da norma pela ordem constitucional superveniente (...). 13. Princípio da
+subsidiariedade (art. 4o, § 1o, da Lei no 9.882/99): inexistência de outro meio eficaz de sanar a
+lesão, compreendido no contexto da ordem constitucional global, como aquele apto a solver a
+controvérsia constitucional relevante de forma ampla, geral e imediata. 14. A existência de
+processos ordinários e recursos extraordinários não deve excluir, ‘a priori’, a utilização da
+argüição de descumprimento de preceito fundamental, em virtude da feição marcadamente
+objetiva dessa ação (...).” (ADPF 33/PA, Rel. Min. Gilmar Mendes).
+
+[[pagina 19 | nativo]]
+
+viabilizar o controle de constitucionalidade abstrato e em tese.
+Atendimento ao requisito da subsidiariedade, tendo em vista que
+somente a apreciação cumulativa de tais pedidos é capaz de
+assegurar o amplo esclarecimento do rito do impeachment por
+parte do STF. (...)"16
+
+29. Nesta oportunidade, optou-se por empregar a ADC em decorrência
+
+da circunstância de o pedido principal ser o de declaração de constitucionalidade
+
+de norma posterior à Constituição Federal de 1988 – o art. 283 do CPP, cuja
+
+redação atual foi introduzida em 2011. O artigo 637 do Código de Processo
+
+Penal, anterior à Constituição Federal, se procedente o pedido principal, de
+
+declaração de constitucionalidade, não deve ser ora examinado. Como antes se
+
+ressaltou, sua eventual colisão com o artigo 283 resolve-se por meio do emprego
+
+dos critérios cronológico e da especialidade. A interpretação conforme a
+
+Constituição do artigo 637 só se torna pertinente, para o fim de se restringir a sua
+
+aplicação aos atuais recursos extraordinários (excluindo-se os recursos especiais),
+
+se a Corte entender que o artigo 283 é inconstitucional.
+
+30. Todavia, não se desconhece o entendimento desse e. STF segundo
+
+o qual a ADPF é o instrumento adequado à análise da legitimidade constitucional
+
+de dispositivos anteriores à Carta de 1988. Dessa forma, caso se compreenda que
+
+a interpretação conforme do art. artigo 637 do Código de Processo Penal não é
+
+possível em ADC, roga-se que seja recebida a presente como ADPF. É o que se
+
+requer com fundamento no princípio da fungibilidade. Evocam-se, a propósito,
+
+os seguintes precedentes do STF:
+
+(...) 2. AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+Impropriedade da ação. Conversão em Argüição de
+Descumprimento de Preceito Fundamental - ADPF.
+Admissibilidade. Satisfação de todos os requisitos exigidos à sua
+propositura. Pedido conhecido, em parte, como tal. Aplicação do
+princípio da fungibilidade. Precedente. É lícito conhecer de ação
+direta de inconstitucionalidade como arguição de descumprimento
+de preceito fundamental, quando coexistentes todos os requisitos de
+
+16 STF, ADPF 378 MC, Relator Min. Edson Fachin, Relator p/ Acórdão: Min. Roberto Barroso,
+Tribunal Pleno, julgado em 17/12/2015, DJe-043 08-03-2016.
+
+[[pagina 20 | nativo]]
+
+admissibilidade desta, em caso de inadmissibilidade daquela. 3.
+(...).17
+
++++
+
+Ações Diretas de Inconstitucionalidade (ADI n.° 875/DF, ADI n.°
+1.987/DF, ADI n.° 2.727/DF e ADI n.° 3.243/DF). Fungibilidade
+entre as ações diretas de inconstitucionalidade por ação e por
+omissão. Fundo de Participação dos Estados - FPE (art. 161,
+inciso II, da Constituição). Lei Complementar n° 62/1989. Omissão
+inconstitucional de caráter parcial. Descumprimento do
+mandamento constitucional constante do art. 161, II, da
+Constituição, segundo o qual lei complementar deve estabelecer os
+critérios de rateio do Fundo de Participação dos Estados, com a
+finalidade de promover o equilíbrio socioeconômico entre os entes
+federativos. (...).18
+
+31. A arguição seria cabível ainda em decorrência da
+
+fundamentalidade dos preceitos violados: presunção de inocência (art. 5º,
+
+LVII, CF/88), legalidade (5º, XXXIX, CF/88), irretroatividade da lei penal (art.
+
+5º, XL), e democracia (art. 1º, parágrafo único). Não há qualquer obstáculo para
+
+o conhecimento da presente como ADPF em razão do conteúdo material dos
+
+preceitos constitucionais violados. Todos são parâmetros de controle apropriados
+
+para justificar o ajuizamento de ADPF. A esse propósito, convém recordar a
+
+lição do Ministro Gilmar Mendes: “ninguém poderá negar a qualidade de
+
+preceitos fundamentais da ordem constitucional aos direitos e garantias
+
+individuais (art. 5º, dentre outros)”.19
+
+II. MERITO. FUNDAMENTOS JURÍDICOS.
+
+17 STF, ADI 4163, Relator Min. Cezar Peluso, Tribunal Pleno, julgado em 29/02/2012, DJe-040
+01-03-2013. No mesmo sentido: STF, ADI 4180 MC-REF, Relator Min. Cezar Peluso,
+Tribunal Pleno, julgado em 10/03/2010, DJe-159 27-08-2010.
+18 STF, ADI 875, Relator Min. Gilmar Mendes, Tribunal Pleno, julgado em 24/02/2010, DJe-
+076 30-04-2010.
+19 MENDES, Gilmar. Arguição de descumprimento de preceito fundamental, DPU, n. 20, mar.-
+abr., 2008.
+
+[[pagina 21 | nativo]]
+
+II.1. MOLDURA CONSTITUCIONAL, LIBERDADE DE CONFORMAÇÃO DO
+
+LEGISLADOR E A CONFORMIDADE CONSTITUCIONAL DA DECISÃO LEGISLATIVA
+
+VEICULADA NO ART. 283 DO CPP.
+
+II.1.1. A CONSTITUIÇÃO FEDERAL DE 1988 COMO MOLDURA NORMATIVA E A
+
+LIBERDADE DE CONFORMAÇÃO DO LEGISLADOR.
+
+32. A Constituição Federal de 1988 é produto de um processo
+
+constituinte aberto e participativo, criada em um contexto de transição
+
+democrática e em meio à reorganização das forças políticas no Brasil. Por essa
+
+razão, a Constituição aborda os mais diversos temas, positiva uma grande
+
+quantidade de direitos e provê as bases do funcionamento do Estado. Até em
+
+decorrência de sua origem pluralista, a Constituição brasileira é uma Constituição
+
+aberta, que se encontra permanentemente permeável a novos conteúdos, novos
+
+direitos e novos valores20. As suas disposições não esgotam a regulação do
+
+âmbito material sobre o qual incidem: demandam discussão e decisão
+
+posteriores, cujo protagonismo cabe ao Poder Legislativo, que é livre para decidir
+dentro das possibilidades abertas pelo texto constitucional21.
+
+20 Cf., sobre o pluralismo que marcou a Assembleia Nacional Constituinte: SARMENTO,
+Daniel. 21 Anos da Constituição de 1988: a Assembleia Constituinte de 1987/1988 e a
+Experiência Constitucional Brasileira
+sob a Carta de 1988. Disponível em
+http://www.direitopublico.idp.edu.br/direitopublico/article/view/788.
+21 Ao criticar a panconstitucionalização do direito levada a cabo por certas correntes
+neoconstitucionalistas, Daniel Sarmento sintetiza com clareza a relação entre a liberdade de
+conformação do legislador e o princípio democrático: “Com efeito, quem defende que tudo ou
+quase tudo já está decidido pela Constituição, e que o legislador é um mero executor das
+medidas já impostas pelo constituinte, nega, por conseqüência, a autonomia política ao povo
+para, em cada momento da sua história, realizar as suas próprias escolhas. O excesso de
+constitucionalização do Direito reveste- se, portanto, de um viés antidemocrático. Esta ordem
+de preocupações levou Ersnt Forsthof, na Alemanha, a criticar as teorias que viam a
+Constituição como uma espécie de "genoma jurídico (...) do qual tudo deriva, do Código Penal
+até a lei sobre a fabricação de termômetros" (...)Nenhuma destas duas questões é insuperável.
+É possível aceitar e aplaudir a constitucionalização do Direito - fenômeno em geral positivo,
+por aproximar a racionalidade emancipatória da Constituição do dia-a-dia das pessoas -, mas
+defender que ela seja temperada por outras preocupações igualmente essenciais no Estado
+
+[[pagina 22 | nativo]]
+
+33. Desde Kelsen já se sabe que a Constituição não fixa todos os
+
+conteúdos que das normas infraconstitucionais. O ato legislativo é, ao mesmo
+
+tempo, um ato de aplicação do direito constitucional pré-constituído e
+
+de criação de direito novo. Como todo os atos jurídicos, “é simultaneamente
+
+aplicação de uma norma superior e produção, regulada por esta norma, de uma
+
+norma inferior.”22 A norma constitucional provê ao legislador e ao intérprete em
+
+geral uma moldura23, que comporta diversas interpretações.24 Como esclarece
+
+Kelsen: "o sentido verbal da norma não é unívoco, o órgão que tem de aplicar a
+
+norma encontra-se diante de diversas interpretações possíveis."25
+
+34. É claro que esta liberdade de criação é balizada pelos
+
+limites materiais e formais26 estabelecidos pelo Constituinte. Mas, ainda assim,
+
+há uma esfera de liberdade – que pode ser maior ou menor, conforme o caso –
+
+para que o legislador edite o ato legislativo: “A norma de escalão superior não
+
+pode vincular em todas as direções (sob todos os aspectos) o ato através do qual
+
+é aplicada. Tem sempre de ficar uma margem, ora maior ora menor, de livre
+
+apreciação, de tal forma que a norma do escalão superior tem sempre, em
+
+relação ao ato de produção normativa ou de execução que a aplica, o caráter de
+
+um quadro ou moldura a preencher por este ato."27 Como sustentado por Hart, as
+
+normas jurídicas possuem uma “textura aberta”28. É da sua natureza: são
+
+Democrático de Direito, com a autonomia pública e privada dos cidadãos. Pode-se reconhecer
+a legitimidade da constitucionalização do Direito, mas numa medida em que não sacrifique em
+excesso à liberdade de conformação que, numa democracia, deve caber ao legislador para
+realizar opções políticas em nome do povo.” (SARMENTO, Daniel. O neoconstitucionalismo
+no Brasil: riscos e possibilidades. In: SARMENTO, Daniel. Filosofia e Teoria Constitucional
+Contemporânea. Rio de Janeiro: Lumen Iuris, 2009. ______. “Ubiqüidade constitucional: os
+dois lados da moeda.” In: SARMENTO, Daniel. Livres e Iguais. Rio de Janeiro: Lumen Iuris,
+2006.
+22 KELSEN, Hans. Teoria pura do direito. Trad. de João Batista Machado. 6a ed.. São Paulo:
+Martins Fontes, 1998. p. 261.
+23 Idem, p. 391.
+24 Idem, p. 272.
+25 Idem, p. 389.
+26 BOBBIO, Norberto. Teoria do ordenamento jurídico, cit., p. 53.
+27 KELSEN, Hans. Teoria pura do direito, ed. cit., p. 388.
+28 HART, H. L. A. O conceito de direito, ed. cit., p. 137 e segs.
+
+[[pagina 23 | nativo]]
+
+prescrições gerais e abstratas que não podem dar conta da complexidade que tem
+
+lugar na vida concreta29.
+
+35. Os princípios constitucionais, em particular, costumam se abrir a
+
+uma pluralidade de interpretações ainda mais ampla. Um dos critérios distintivos
+
+dos princípios é o alto grau de generalidade ou abstração. Como lembra
+
+Canotilho, “os princípios são normas com um grau de abstração relativamente
+
+elevado; de modo diverso, as regras possuem uma abstração relativamente
+
+reduzida.” Ademais, “os princípios, por serem vagos e indeterminados, carecem
+
+de mediações concretizadoras (do legislador? do juiz?), enquanto as regras
+
+possuem uma abstração relativamente reduzida.”30 Nesse sentido, Hart,: "os
+
+princípios são, relativamente às regras, extensos, gerais ou não específicos, no
+
+sentido de que, com freqüência, aquilo que seria encarado como um número de
+
+regras diferentes pode ser apontado como exemplificações ou ilustrações de um
+
+único princípio.”31
+
+36. A abertura que caracteriza as normas constitucionais resulta na
+
+abertura da própria Constituição. Como sustenta Hesse, “as regulações da
+
+constituição não são nem completas nem perfeitas. Sem dúvida, numerosas
+
+questões da ordem estatal são normalizadas até em pormenores; mas âmbitos
+
+amplos, também tais da vida estatal em sentido restrito, são ordenados somente
+
+por determinações de amplitude material e indeterminação mais ou menos
+
+grande, alguns até de maneira nenhuma.”32 A Constituição “não codifica, senão
+
+regula somente – muitas vezes, mais pontual e só em traços fundamentais –
+
+aquilo que aparece como importante e carente de determinação; todo o resto é
+
+tacitamente pressuposto ou deixado a cargo da configuração ou concretização
+
+pela ordem jurídica restante”. Assim é que, e. g., “ela deixa determinadas
+
+29 HART, H. L. A. O conceito de direito, ed. cit., p. 141.
+30 CANOTILHO, J. J. Gomes. Direito constitucional e teoria da constituição, ed. cit., p. 1034.
+31 HART, H. L. A. Pós-escrito. In: O conceito de direito, ed. cit., p. 322. Cf., também:
+LARENS, Karl. Metodologia da ciência do direito, ed. cit., p. 674 e segs.
+32 HESSE, Konrad. Elementos de direito constitucional da República Federal da Alemanha, ed.
+cit., p. 38.
+
+[[pagina 24 | nativo]]
+
+questões, tais da ‘constituição econômica’, conscientemente abertas, para deixar
+
+espaço à livre discussão, decisão e configuração.”33
+
+37. Dentro desse plexo de possibilidades abertas pela Carta de
+
+Princípios, e obedecidos os procedimentos democráticos de legitimação, a
+
+decisão legislativa será legítima. O legislador tem a liberdade para atuar desde
+
+que observe os limites materiais e formais estabelecidos pelo texto
+
+constitucional34.
+
+38. Cabe ao Judiciário, no exercício da jurisdição constitucional,
+
+apenas verificar se a norma criada pelo legislador se situa dentro dos limites
+
+constitucionalmente estabelecidos. Não lhe compete substituir a decisão
+
+legislativa legítima por outra que lhe pareça mais oportuna, conveniente ou
+
+adequada. Assim já se manifestou o Supremo Tribunal Federal, em acórdão da
+
+lavra do Ministro Luiz Fux:
+
+(...) MOLDURA CONSTITUCIONAL DA INTERVENÇÃO DO
+ESTADO NO DOMÍNIO ECONÔMICO E SOCIAL.
+(...) MARGEM DE CONFORMAÇÃO CONSTITUCIONALMENTE
+ATRIBUÍDA AOS AGENTES POLÍTICOS
+DEMOCRATICAMENTE ELEITOS. PRINCÍPIOS DA
+CONSENSUALIDADE E DA PARTICIPAÇÃO. INEXISTÊNCIA
+DE VIOLAÇÃO AO ART. 175, CAPUT, DA CONSTITUIÇÃO.
+EXTINÇÃO PONTUAL DE ENTIDADES PÚBLICAS QUE
+APENAS CONCRETIZA O NOVO MODELO. (...) 1. A atuação da
+Corte Constitucional não pode traduzir forma de engessamento e
+de cristalização de um determinado modelo pré-concebido de
+Estado, impedindo que, nos limites constitucionalmente
+assegurados, as maiorias políticas prevalecentes no jogo
+democrático pluralista possam pôr em prática seus projetos de
+governo, moldando o perfil e o instrumental do poder público
+conforme a vontade coletiva. (...) 8. Os arts. 18 a 22 da Lei nº
+9.637/98 apenas concentram a decisão política, que poderia ser
+
+33 Idem, p. 39.
+34 O tema foi examinado pelo Ministro Dias Toffoli, em julgado de sua relatoria: “(...) 3. A Lei
+nº 12.234/10 se insere na liberdade de conformação do legislador, que tem legitimidade
+democrática para escolher os meios que reputar adequados para a consecução de
+determinados objetivos, desde que eles não lhe sejam vedados pela Constituição nem violem a
+proporcionalidade. (...)” (HC 122694, Relator Min. Dias Toffoli, Tribunal Pleno, julgado em
+10/12/2014, DJe-032 19-02-2015).
+
+[[pagina 25 | nativo]]
+
+validamente feita no futuro, de afastar a atuação de entidades
+públicas através da intervenção direta para privilegiar a escolha
+pela busca dos mesmos fins através da indução e do fomento de
+atores privados, razão pela qual a extinção das entidades
+mencionadas nos dispositivos não afronta a Constituição, dada a
+irrelevância do fator tempo na opção pelo modelo de fomento – se
+simultaneamente ou após a edição da Lei. (...).”35
+
+39. Do reconhecimento da “liberdade de conformação do legislador”
+
+dentro da “moldura constitucional” resultam os princípios democrático (CF, art.
+
+1º) e da separação dos poderes (CF, art. 2º). São esses princípios que dão
+
+fundamento à presunção de constitucionalidade das leis. Dita presunção se
+
+traduz em dever de deferência relativamente aos atos emanados dos órgãos
+
+eleitos pelo povo. O princípio impõe que se respeite a esfera de atuação própria
+
+de cada poder do Estado, o que envolve a preservação do espaço das escolhas
+
+normativas feitas pelo Poder Legislativo.
+
+40. Como esclarece o Ministro Roberto Barroso36, em texto doutrinário,
+
+é preciso que haja fortes razões para que se invalide um ato legislativo: a dúvida
+
+milita em favor do legislador – in dubio, pro legislatore.
+
+41. A formulação clássica da presunção de constitucionalidade se deve
+
+ao jurista norte-americano James Thayer, em texto canônico publicado no final
+
+do século XIX37. Para Thayer, a presunção de constitucionalidade era justamente
+
+corolário do reconhecimento de liberdade de conformação do legislador: “a
+
+Constituição frequentemente admite diferentes interpretações; frequentemente
+
+existe uma margem para escolha e avaliação; e nesses casos a Constituição não
+
+impõe ao Legislativo nenhuma posição específica, mas deixa aberta a
+
+possibilidade de escolha, sendo então constitucional qualquer escolha racional”.
+
+35 STF, ADI 1923, Relator Min. Ayres Britto, Relator p/ Acórdão: Min. Luiz Fux, Tribunal
+Pleno, julgado em 16/04/2015, DJe-254 17-12-2015.
+36 BARROSO, Luis Roberto. Direito Constitucional Contemporâneo: os conceitos
+fundamentais e a construção do novo modelo, cit., p.301.
+37 THAYER, James B. “The Origin and Scope of the American Doctrine of Constitutional
+Law.” Harvard Law Review, vol. 7, n. 3, 1893.
+
+[[pagina 26 | nativo]]
+
+II.1.2. O ART. 283 DO CPP. INTERPRETAÇÃO CONSTITUCIONALMENTE
+
+POSSÍVEL DO PRINCÍPIO DA PRESUNÇÃO DE INOCÊNCIA. DEVER DE
+
+DEFERÊNCIA À ESCOLHA REALIZADA PELO LEGISLADOR.
+
+42. O art. 283 do CPP, na redação dada pela Lei n° 12.403/2011,
+
+estabelece a necessidade do trânsito em julgado da condenação para que ocorra o
+
+início do cumprimento de pena privativa de liberdade. Trata-se de interpretação
+
+não só possível – o que já seria suficiente – mas razoável do princípio
+
+constitucional da presunção de inocência (art. 5º, LVII, da CF/88). A
+
+possibilidade jurídica de tal interpretação é comprovada pela circunstância de ter
+
+sido adotada por esse e. STF, em precedente, já citado, do ano de 2009:
+
+(...) A Constituição do Brasil de 1988 definiu, em seu art. 5º, inciso
+LVII, que “ninguém será considerado culpado até o trânsito em
+julgado de sentença penal condenatória”. (...) 3. A prisão antes do
+trânsito em julgado da condenação somente pode ser decretada a
+título cautelar. 4. A ampla defesa não se pode visualizar de modo
+restrito. Engloba todas as fases processuais, inclusive as recursais
+de natureza extraordinária. (...)”.38
+
+43. O Supremo Tribunal Federal se manifestou, mesmo anteriormente à
+
+entrada em vigor da Lei nº 12.403, de 2011, no sentido da afirmação não apenas
+
+da possibilidade constitucional da referida interpretação. O STF concluiu, por
+
+meio de decisão colegiada de seu Plenário, que se tratava da interpretação correta
+
+do texto constitucional. A referência que o texto constitucional faz ao “trânsito
+
+em julgado” levou a Corte a considerar que se tratava de interpretação correta
+
+que defluía do próprio texto do artigo 5º, LVII, da CF/88. Ao adotar essa
+
+interpretação, não se distanciava da melhor doutrina, que, ainda antes da entrada
+
+em vigor da Lei nº 12.403, de 2011, sustentava a necessidade de se aguardar o
+
+transito em julgado para que ocorresse a execução da sentença penal
+
+condenatória:
+
+38 HC 84078, Relator Min. Eros Grau, Tribunal Pleno, julgado em 05/02/2009, DJe-035 26-02-
+2010.
+
+[[pagina 27 | nativo]]
+
+O correto é mesmo falar em princípio da presunção de inocência
+(tal como descrito na Convenção Americana), não em princípio da
+não-culpabilidade (…). Trata-se de princípio consagrado não só no
+art. 8º, 2, da Convenção Americana senão também (em parte) no
+art. 5º, LVII, da Constituição Federal, segundo o qual toda pessoa
+se presume inocente até que tenha sido declarada culpada por
+sentença transitada em julgado. Tem previsão normativa desde
+1789, posto que já constava da Declaração dos Direitos do Homem
+e do Cidadão. Do princípio da presunção de inocência (‘todo
+acusado é presumido inocente até que se comprove sua
+culpabilidade’) emanam duas regras: (a) regra de tratamento e (b)
+regra probatória. ‘Regra de tratamento’: o acusado não pode ser
+tratado como condenado antes do trânsito em julgado final da
+sentença condenatória (CF, art. 5º, LVII). O acusado, por força da
+regra que estamos estudando, tem o direito de receber a devida
+‘consideração’ bem como o direito de ser tratado como não
+participante do fato imputado. Como ‘regra de tratamento’, a
+presunção de inocência impede qualquer antecipação de juízo
+condenatório ou de reconhecimento da culpabilidade do imputado,
+seja por situações, práticas, palavras, gestos etc., podendo-se
+exemplificar: a impropriedade de se manter o acusado em
+exposição humilhante no banco dos réus, o uso de algemas quando
+desnecessário, a divulgação abusiva de fatos e nomes de pessoas
+pelos meios de comunicação, a decretação ou manutenção de
+prisão cautelar desnecessária, a exigência de se recolher à prisão
+para apelar em razão da existência de condenação em primeira
+instância etc. É contrária à presunção de inocência a exibição de
+uma pessoa aos meios de comunicação vestida com traje infamante
+(Corte Interamericana, Caso Cantoral Benavides, Sentença de
+18.08.2000, parágrafo 119).39
+
++++
+
+[...] enquanto não definitivamente condenado, presume-se o réu
+inocente. Sendo este presumidamente inocente, sua prisão, antes do
+trânsito em julgado da sentença condenatória, somente poderá ser
+admitida a título de cautela.40
+
++++
+
+39 GOMES, Luiz Flávio, e MAZZUOLI, Valério de Oliveira. Direito Penal – Comentários à
+Convenção Americana sobre Direitos Humanos/Pacto de San José da Costa Rica, RT, vol. 4/85-
+91, 2008.
+40 TOURINHO FILHO, Fernando da Costa. Processo Penal. 13ª. ed. São Paulo: Saraiva, 1992,
+vol. 1, p. 63.
+
+[[pagina 28 | nativo]]
+
+[a] vedação a qualquer forma de identificação do suspeito,
+indiciado ou acusado à condição de culpado constitui, sem dúvida,
+o aspecto mais saliente da disposição constitucional do art. 5º, inc.
+LVII, na medida em que reafirma a dignidade da pessoa humana
+como premissa fundamental da atividade repressiva do Estado.
+Embora não se possa esperar que a simples enunciação formal do
+preceito traduza modificação imediata e substancial no
+comportamento da sociedade – e mesmo dos atores jurídicos – em
+face daqueles que se vêem envolvidos com o aparato judiciário-
+criminal, não é possível desconhecer que a Constituição instituiu
+uma verdadeira garantia de tratamento do acusado como inocente
+até o trânsito em julgado de sentença condenatória41
+
++++
+44. Na presente ação, não se reitera a tese de que a interpretação fixada
+
+pelo STF no HC 84078, de 2009, seja a única interpretação possível do artigo 5º,
+
+LVII, da Constituição Federal. O que ora se sustenta é que se trata, quando
+
+menos, de uma das interpretações possíveis a que se abre o texto normativo. O
+
+mesmo se diga da redação atual do art. 283 do CPP, dada pela Lei n°
+
+12.403/2011. O texto veicula parâmetro para a conformação do princípio da
+
+presunção de inocência, especificamente no que toca à pena de prisão, que se
+
+situa, indubitavelmente, dentro da moldura normativa estabelecida pelo
+
+artigo 5º, LVII, da Constituição Federal. Ainda que se sustente que não se
+
+trata da melhor interpretação, não é possível negar que se cuida de interpretação
+
+possível, válida e razoável do texto constitucional. Trata-se de interpretação que
+
+se situa na esfera do constitucionalmente possível.
+
+45. A nova redação do art. 283 do CPP foi elaborada pelos
+
+representantes eleitos pelo voto popular. A liberdade de conformação do
+
+Legislador, nos limites da moldura normativa fixada pela Carta Política, deve ser
+
+respeitada como um dos elementos centrais de uma democracia constitucional. O
+
+legislador decidiu dentro dos limites constitucionais, conferindo ao princípio da
+
+presunção de inocência uma interpretação que não deixa sequer de ser estrita,
+
+apoiada no critério do trânsito em julgado mencionado no texto constitucional.
+
+41 GOMES FILHO, Antônio Magalhães. Significados da Presunção de Inocência. In: COSTA,
+José de Faria; SILVA, Marco Antônio. Direito Penal Especial, Processo Penal e Direitos
+Fundamentais, São Paulo: Quartier Latin, 2006. p. 326.
+
+[[pagina 29 | nativo]]
+
+Na hipótese, demanda-se do Judiciário deferência relativamente ao resultado do
+
+processo legislativo democrático.
+
+46. Além de se cuidar de interpretação possível e razoável, ela também
+
+é a que mais se compatibiliza com o princípio do in dubio pro reo42 - outra
+
+dimensão da presunção de inocência. O Judiciário deve ter especial deferência
+
+pelas normas legislativas que prestigiam a liberdade. Se a norma fixada no art.
+
+283 do CPP fosse norma restritiva da liberdade, deveria ser submetida a um
+“escrutínio estrito”.43 Mas não é o caso. O art. 283 do CPP promove a liberdade.
+
+A sua restrição por meio de decisão judicial é que deve ser objeto de “escrutínio
+
+estrito”: apenas a incompatibilidade com o texto constitucional autorizaria a
+
+declaração de inconstitucionalidade. A presunção de constitucionalidade das
+
+normas que protegem a liberdade é reforçada, demandando-se maior deferência
+
+em relação à opção legislativa.
+
+47. Ainda que se sustente que a interpretação provida pelo art. 283 do
+
+CPP não é constitucionalmente necessária, tampouco se pode afirmar que se
+
+42 O brocado do in dubio pro reo como consequência natural do princípio da presunção de
+inocência possui lastro histórico na própria jurisprudência do e. STF, como se nota:
+“CONSTITUCIONAL. PROCESSO PENAL. PRISÃO PROCESSUAL. Licitude. A culpabilidade
+não se presume. Deve ser provada. O princípio, hoje consagrado em documentos internacionais
+e em constituições, inclusive a brasileira, art. 5º, LVII, inspira o processo penal - o
+contraditório, a plenitude da defesa, o "in dubio pro reo" e o ônus da prova a quem acusa. A
+presunção de inculpabilidade, pelo qual só é culpado o condenado por decisão transita em
+julgado, não exclui medidas cautelares, como a prisão processual, prevista na Constituição,
+art. 5º, LXI, ou em lei. Jurisprudência do STF.” (RE 133489, Relator Min. Paulo Brossard,
+Segunda Turma, julgado em 03/12/1991, DJ 08-06-2001).
+43 O parâmetro remonta a um importante precedente da Suprema Corte dos Estados Unidos: o
+caso United States v. Carolene Products Company, 304 U.S. 144 (1938). Ficou estabelecido que
+as leis que promovem a restrição de uma “liberdade preferencial” (direitos fundamentais, de
+natureza existencial) devem se submeter a um strict scrutiny. A seguinte passagem, que consta
+da fundamentação oferecida para justificar a Decisão mencionada, é especialmente
+esclarecedora: “But such we think is not the purpose or construction of the statutory
+characterization of filled milk as injurious to health and as a fraud upon the public. There is no
+need to consider it here as more than a declaration of the legislative findings deemed to support
+and justify the action taken as a constitutional exertion of the legislative power, aiding informed
+judicial review, as do the reports of legislative committees, by revealing the rationale of the
+legislation. Even in the absence of such aids, the existence of facts supporting the legislative
+judgment is to be presumed, for regulatory legislation affecting ordinary commercial
+transactions is not to be pronounced unconstitutional unless, in the light of the facts made
+known or generally assumed, it is of such a character as to preclude the assumption that it rests
+upon some rational basis within the knowledge and experience of the legislators.”
+
+[[pagina 30 | nativo]]
+
+trata de preceito inconstitucional. Como, entre a inconstitucionalidade e o
+
+constitucionalmente exigível, há ampla margem de conformação legislativa, deve
+
+prevalecer a decisão tomada pelo legislador. Cabe ao legislador ponderar as
+
+circunstâncias específicas à realidade nacional e, considerando os princípios
+
+constitucionais aplicáveis, optar por exigir ou não o trânsito em julgado para que
+
+tenha lugar o início do cumprimento da pena de prisão.
+
+II.1.3. A IMPOSSIBILIDADE DE CRIAÇÃO DE NOVA HIPÓTESE DE PRISÃO POR
+
+MEIO DE SENTENÇA ADITIVA. RESERVA DE LEI EM SENTIDO ESTRITO.
+
+48. Além de dispor contra decisão legislativa expressa, eventual
+
+entendimento dessa e. Corte que permitisse o início do cumprimento da pena
+
+antes do trânsito em julgado consubstanciaria hipótese de criação de nova
+
+modalidade de prisão não prevista em lei. A criação e a regulamentação de
+modalidades de prisão se sujeitam à reserva legal absoluta44. A criação por meio
+
+de sentença aditiva45 editada por esse e. STF consistiria, data vênia, em grave
+
+ofensa ao princípio da legalidade46. A prisão com fins de cumprimento
+
+44 A reserva de lei, na hipótese, é estabelecida nos incisos XXXIX, XL e XLVI do artigo 5º da
+Constituição Federal: “XXXIX - não há crime sem lei anterior que o defina, nem pena sem
+prévia cominação legal; XL - a lei penal não retroagirá, salvo para beneficiar o réu; (...) XLVI
+- a lei regulará a individualização da pena e adotará, entre outras, as seguintes: a) privação ou
+restrição da liberdade; b) perda de bens; c) multa; d) prestação social alternativa; e)
+suspensão ou interdição de direitos;”
+45 Em obra específica sobre o tema, um dos subscritores desta ação sustentou que “as sentenças
+de perfil aditivo produzem norma jurídica na medida em que identificam (ou criam) norma não
+referível a uma disposição normativa específica, constituindo, desse modo, espécie de
+integração do ordenamento jurídico”. Concluiu, nesse sentido, que “as sentenças aditivas
+realizam típica operação de integração do ordenamento jurídico por meio de criação de um
+novo segmento normativo com o objetivo de superar um estado de omissão inconstitucional
+(lacuna normativa indesejável capaz de produzir resultados normativos inconstitucionais)”
+(SOUSA FILHO, Ademar Borges de. Sentenças aditivas na jurisdição constitucional brasileira.
+Belo Horizonte: Fórum, 2016, p. 257-258).
+46 O Tribunal Constitucional da Espanha tem reiteradamente afirmado a submissão de qualquer
+forma de detenção ou privação da liberdade ao princípio da reserva legal: “De acuerdo con ese
+significado prevalente de la libertad, la Constitución contempla las excepciones a la misma en
+los términos previstos en el art. 17.1 C.E.: «nadie puede ser privado de su libertad, sino con la
+
+[[pagina 31 | nativo]]
+
+antecipado da pena antes do trânsito em julgado é hipótese de prisão não prevista
+
+nas leis brasileiras. A legislação brasileira, em particular o art. 283 do CPP, só
+
+prevê a prisão cautelar (preventiva ou temporária) e a prisão definitiva47.
+
+49. O mesmo princípio da legalidade é estabelecido pelo Direito
+
+Internacional dos Direitos Humanos. De acordo com o artigo 7º, 2, do Pacto de
+
+San José da Costa Rica, “Ninguém pode ser privado de sua liberdade física, salvo
+
+pelas causas e nas condições previamente fixadas pelas constituições políticas dos
+
+Estados Partes ou pelas leis de acordo com elas promulgadas.” As normas e
+
+institutos constitucionais devem ser interpretados em conformidade com o direito
+
+internacional de direitos humanos.
+
+50. Essa é tendência contemporânea a qual adere o Brasil, sobretudo ao
+
+prever, no artigo 5º, § 2º, que os direitos e garantias expressos na Constituição
+
+“não excluem outros decorrentes (...) dos tratados internacionais em que a
+
+República Federativa do Brasil seja parte”. O princípio hermenêutico básico que
+
+deve nortear a recepção dessas fontes do direito pelo direito constitucional
+
+brasileiro é o da prevalência dos direitos humanos, como reconhece a
+
+jurisprudência do Supremo Tribunal Federal. Considere-se o seguinte precedente:
+
+“Os magistrados e Tribunais, no exercício de sua atividade
+interpretativa, especialmente no âmbito dos tratados internacionais
+de direitos humanos, devem observar um princípio hermenêutico
+básico (tal como aquele proclamado no Artigo 29 da Convenção
+Americana de Direitos Humanos), consistente em atribuir primazia
+à norma que se revele mais favorável à pessoa humana, em ordem
+a dispensar-lhe a mais ampla proteção jurídica. O Poder
+Judiciário, nesse processo hermenêutico que prestigia o critério da
+
+observancia de lo establecido en este artículo y en los casos y en la forma previstos en la ley».
+Se trata de una formulación negativa, similar a la que define el principio de legalidad penal y
+sancionadora del art. 25.1 C.E., y que establece una reserva de ley para las restricciones
+legítimas de la libertad. (…) En las SSTC 140/1986, de 11 de noviembre, FJ 5, y 160/1986, de
+16 de diciembre, FJ 4, se expresa que «el derecho a la libertad del art. 17.1 es el derecho de
+todos a no ser privados de la misma, salvo ‘‘en los casos y en la forma previstos en la Ley’’: En
+una Ley que, por el hecho de fijar las condiciones de tal privación, es desarrollo del derecho
+que así se limita».
+47 Outras modalidades excepcionais de prisão, tais como a prisão para extradição, embora fujam
+à regra geral do direito processual penal comum, estão sempre previstas em lei formal.
+
+[[pagina 32 | nativo]]
+
+norma mais favorável (que tanto pode ser aquela prevista no
+tratado internacional como a que se acha positivada no próprio
+direito interno do Estado), deverá extrair a máxima eficácia das
+declarações internacionais e das proclamações constitucionais de
+direitos, como forma de viabilizar o acesso dos indivíduos e dos
+grupos sociais, notadamente os mais vulneráveis, a sistemas
+institucionalizados de proteção aos direitos fundamentais da
+pessoa humana, sob pena de a liberdade, a tolerância e o respeito
+à alteridade humana tornarem-se palavras vãs.” 48
+
+51. No caso Chaparro Álvarez Vs. Ecuador, a Corte Interamericana de
+
+Direitos Humanos realizou uma análise minuciosa e diferenciada do artigo 7.2.
+
+da Convenção, nos seguintes termos:
+
+[...] reconoce la garantía primaria del derecho a la libertad física:
+la reserva de ley, según la cual, únicamente a través de una ley
+puede afectarse el derecho a la libertad personal49. [...]
+La reserva de ley debe forzosamente ir acompañada del principio
+de tipicidad, que obliga a los Estados a establecer, tan
+concretamente como sea posible y “de antemano”, las “causas” y
+“condiciones” de la privación de la libertad física. De este modo,
+el artículo 7.2 de la Convención remite automáticamente a la
+normativa interna. Por ello, cualquier requisito establecido en la
+ley nacional que no sea cumplido al privar a una persona de su
+libertad, generará que tal privación sea ilegal y contraria a la
+Convención Americana50 [...]
+La tarea de la Corte, por consiguiente, es verificar que las
+detenciones de [las víctimas] se realizaron conforme a la
+legislación51 [...]
+
+52. Para a determinação do conceito de lei, a Corte se referiu ao que
+
+anteriormente havia fixado na Opinião Consultiva 6/86: “norma jurídica de
+
+carácter general, ceñida al bien común, emanada de los órganos legislativos
+
+constitucionalmente previstos y democráticamente elegidos, y elaborada según el
+
+procedimiento establecido por las constituciones de los Estados Partes para la
+
+48 HC 90450/MG, Rel. Min. Celso de Mello, J. 23.09.2008.
+49 Chaparro Álvarez, párr. 56. Ver también Yvon Neptune, párr. 96.
+50 Chaparro Álvarez, párr. 57. Ver también Yvon Neptune, párr. 96. En el mismo sentido
+Bayarri, párr. 54.
+51 Chaparro Álvarez, párr. 58. Ver también Yvon Neptune, párr. 96.
+
+[[pagina 33 | nativo]]
+
+formación de las leyes.”52 O Pacto de San José da Costa Rica, no artigo 7.2,
+
+reconhece a garantia primária do direito à liberdade física: a reserva de lei,
+
+segundo a qual unicamente por meio de uma lei se pode afetar o direito à
+
+liberdade pessoal. De acordo com esse artigo da Convenção, “cualquier requisito
+
+establecido en la ley nacional que no sea cumplido al privar a una persona de su
+
+libertad, haría que esa privación sea ilegal y contraria a la Convención
+
+Americana.”53 Por isso, a prisão para execução provisória da pena – em clara
+
+afronta ao disposto no art. 283 do CPP – viola o princípio da reserva absoluta de
+
+lei em matéria penal, que encontra fundamento não apenas na Constituição, mas
+
+também no Pacto de San José da Costa Rica54.
+
+53. O princípio da separação de poderes, tal como concretizado pelo
+
+STF, prevê, como conteúdos mínimos de normatividade, cláusulas de “reserva de
+
+poder”: campos delimitados de competência exclusiva de cada Poder. A postura
+
+proativa adotada pelo Judiciário ao formalizar decisões de perfil aditivo encontra,
+
+nas cláusulas constitucionais de reserva de poder, um limite salutar. A
+
+observância dos âmbitos de competência reservada de cada um dos Poderes é
+
+fundamental para a manutenção da higidez normativa do princípio da separação
+
+de poderes. A esse respeito, a jurisprudência do Supremo Tribunal Federal acolhe
+
+a distinção entre reserva de lei em sentido estrito e reserva de norma:
+
+52 La Expresión “Leyes” en el Artículo 30 de la Convención Americana sobre Derechos
+Humanos. Opinión Consultiva OC-6/86 del 9 de mayo de 1986. Serie A No. 6, párr. 38.
+53 Caso Bayarri Vs. Argentina. Excepción Preliminar, Fondo, Reparaciones y Costas. Sentencia
+de 30 de octubre de 2008. Serie C No. 187, párr. 54; Caso Chaparro Álvarez y Lapo Íñiguez.
+Vs. Ecuador, Cit., párr. 57; y Caso Yvon Neptune Vs. Haití, Cit., párr. 96.
+54 O Ministro Roberto Barroso, embora sem aderir à ideia de eficácia vinculante da
+jurisprudência da CIDH, reconhece-lhe grande importância na interpretação das normas
+convencionais: “Por óbvio, o dispositivo da Convenção restringe a obrigação de cumprimento
+aos Estados nacionais nos casos em que tiverem sido parte. (...) Note-se, incidentalmente,
+porém, que se deve reconhecer grande importância na interpretação das normas da
+Convenção. No sistema europeu, há quem reconheça às decisões da Corte Européia de Direitos
+Humanos, para além da eficácia vinculante para os Estados parte na causa, uma chamada
+“eficácia de orientação” (Orientierungwirkung) ou função normativa de condução (normative
+Leitfunktion), algo possivelmente também compatível com o sistema interamericano”. Cf.
+Parecer publicado na Revista da Procuradoria-Geral do Estado do Rio de Janeiro, n. 65, 2010, p.
+276-277.
+
+[[pagina 34 | nativo]]
+
+Tome-se o enunciado do preceito: ninguém será obrigado a fazer
+ou deixar de fazer alguma coisa senão em virtude de lei. Ora, há
+visível distinção entre as seguintes situações: (i) vinculação às
+definições da lei; (ii) vinculação às definições decorrentes --- isto
+é, fixadas em virtude dela --- de lei. No primeiro caso estamos
+diante da reserva de lei; no segundo, em face da “reserva de
+norma” (norma que pode ser tanto legal quanto regulamentar; ou
+regimental). Na segunda situação, ainda que as definições em
+pauta se operem em atos normativos não da espécie legislativa ---
+mas decorrentes de previsão implícita ou explícita em lei --- o
+princípio estará sendo devidamente acatado. No caso, o princípio
+da legalidade expressa reserva de lei em termos relativos (=
+reserva de norma), razão pela qual não impede a atribuição,
+explícita ou implícita, ao Executivo e ao Judiciário, para, no
+exercício de função normativa, definir obrigação de fazer e não
+fazer que se imponha aos particulares --- e os vincule. Voltando ao
+artigo 5o, II do texto constitucional, verificamos que, nele, o
+princípio da legalidade é tomado em termos relativos, o que induz
+a conclusão de que o devido acatamento lhe estará sendo conferido
+quando --- manifesta, explícita ou implicitamente, atribuição para
+tanto --- ato normativo não legislativo, porém regulamentar ou
+regimental, definir obrigação de fazer ou de não fazer alguma
+coisa imposta a seus destinatários. Tanto isso é verdadeiro --- que
+o dispositivo constitucional em pauta consagra o princípio da
+legalidade em termos apenas relativos --- que em pelo menos três
+oportunidades (isto é, no artigo 5o, XXXIX, no artigo 150, I e no
+parágrafo único do artigo 170) a Constituição retoma o princípio,
+então o adotando em termos absolutos: não haverá crime ou pena,
+nem tributo, nem exigência de autorização de órgão público para o
+exercício de atividade econômica sem lei, aqui entendida como tipo
+específico de ato legislativo, que os estabeleça. Não tivesse o artigo
+5o, II consagrado o princípio da legalidade em termos somente
+relativos e razão não haveria a justificar a sua inserção no bojo da
+Constituição, em termos absolutos, nas hipóteses referidas.
+Dizendo-o de outra forma: se há um princípio de reserva de lei ---
+ou seja, se há matérias que não podem ser reguladas senão por lei
+--- evidente que das excluídas a essa exigência podem tratar, sobre
+elas dispondo, o Poder Executivo e o Judiciário, em regulamentos
+e regimentos. Quanto à definição do que está incluído nas matérias
+de reserva de lei, há de ser colhida no texto constitucional; no que
+concerne a essas matérias não cabem regulamentos e regimentos.
+Inconcebível a admissão de que o texto constitucional contivesse
+disposição despicienda --- verba cum effectu sunt accipienda.55
+
+55 STF, HC 85060, Relator Min. Eros Grau, Primeira Turma, julgado em 23/09/2008, DJe 12-
+02-2009.
+
+[[pagina 35 | nativo]]
+
+54. A reserva de lei em sentido absoluto – tal como descrita no
+
+precedente do STF – tem lugar quando determinada matéria só puder ser
+
+regulada por ato emanado do Poder Legislativo, nos termos do processo
+
+legislativo parlamentar definido na Constituição. No caso do direito penal, não
+
+há, data vênia, autorização constitucional para o exercício de poder normativo
+
+pelo Judiciário.56 Como se sabe, na esfera penal, é aplicada a regra da legalidade
+
+estrita – ou reserva qualificada de lei –, uma vez que se trata de sistema que tem
+como consequência a limitação da liberdade dos condenados57. Por essa razão, é
+
+56 A reserva de parlamento representa uma garantia maior para a sociedade, pois requer que a
+norma, além de ser lei em sentido formal e material, seja examinada e aprovada pelo
+Parlamento: “Designa-se reserva de parlamento o conjunto de matérias ou de âmbitos
+materiais que devem ser objecto de regulação através de um acto legislativo editado pelo
+parlamento. Esta reserva legislativa de parlamento designa-se, por vezes, reserva de lei formal.
+É relativamente a esta reserva de parlamento que convergem, com mais intensidade, as
+dimensões inerentes ao princípio do Estado de Direito e ao princípio democrático atrás
+assinaladas. Trata-se, por um lado, de assegurar, através da lei, a observância dos princípios
+concretizadores do princípio do Estado de direito (princípio da confiança e segurança
+jurídicas, princípio da proporcionalidade, princípio da igualdade, princípio da
+imparcialidade). Visa-se, por outro lado, “guardar para um órgão com uma legitimação
+política especial o estabelecimento das bases de todos os regimes jurídicos cujos preceitos
+possam afectar interesses da generalidade dos cidadãos e a fixação desses regimes na
+integralidade quando respeitem a assuntos que mais sensibilizem uma comunidade.”
+(CANOTILHO, José Joaquim Gomes. Direito constitucional . 5a. ed. Coimbra: Almedina,
+1991, p. 727). Segundo Gomes Canotilho, a “reserva de parlamento”, designada, “por vezes”, de
+“reserva de lei formal”, traduz-se no “conjunto de matérias ou de âmbitos materiais que devem
+ser objecto de um acto legislativo editado pelo parlamento”. Cfr. J. J. Gomes Canotilho, Direito
+Constitucional e Teoria da Constituição, 4a. Edição, Coimbra: Almedina, 2000, p. 706.
+57 No mesmo sentido, a rica produção jurisprudencial do Tribunal constitucional espanhola: “En
+la STC 49/1999 sostuvimos que «por mandato expreso de la Constitución, toda injerencia
+estatal en el ámbito de los derechos fundamentales y libertades públicas, ora incida
+directamente en su desarrollo (art. 81.1 CE), o limite o condicione su ejercicio (art. 53.1 CE),
+precisa una habilitación legal. Esa reserva de ley a que, con carácter general, somete la
+Constitución Española la regulación de los derechos fundamentales y libertades públicas
+reconocidos en su Título I, desempeña una doble función, a saber: de una parte, asegura que
+los derechos que la Constitución atribuye a los ciudadanos no se vean afectados por ninguna
+injerencia estatal no autorizada por sus representantes; y, de otra, en un ordenamiento jurídico
+como el nuestro, en el que los Jueces y Magistrados se hallan sometidos “únicamente al
+imperio de la Ley” y no existe, en puridad, la vinculación al precedente (SSTC 8/1981, 34/1995,
+47/1995 y 96/1996), constituye, en definitiva, el único modo efectivo de garantizar las
+exigencias de seguridad jurídica en el ámbito de los derechos fundamentales y las libertades
+públicas. Por eso, en lo que a nuestro ordenamiento se refiere, hemos caracterizado la
+seguridad jurídica como una suma de legalidad y certeza del Derecho (STC 27/1981, FJ 10)»
+[STC 49/1999, de 5 de abril, FJ 4]. Por consiguiente, como afirmamos en la citada Sentencia,
+la legitimidad constitucional de cualquier injerencia del poder público en los derechos
+fundamentales requiere que haya sido autorizada o habilitada por una disposición con rango
+de Ley, y que la norma legal habilitadora de la injerencia reúna las condiciones mínimas
+suficientes requeridas por las exigencias de seguridad jurídica y certeza del derecho (FJ 4)”
+
+[[pagina 36 | nativo]]
+
+vedada a aplicação expansiva ou analógica dos enunciados legais que possam
+
+prejudicar o réu. No Brasil, as hipóteses de prisão constituem numerus clausus.
+
+II.2. ESTADO DE COISAS INCONSTITUCIONAL EM QUE SE ENCONTRA O SISTEMA
+
+PRISIONAL BRASILEIRO. FUNDAMENTO DO PEDIDO DE DECLARAÇÃO DE QUE O
+
+ARTIGO 283 É "AINDA CONSTITUCIONAL”.
+
+II.2.1. A DECISÃO DO STF NO JULGAMENTO DO MC-ADPF 347.
+
+55. O Supremo Tribunal Federal, em acórdão prolatado em 09/09/2015,
+
+no julgamento de Medida Cautelar na Arguição de Descumprimento de Preceito
+
+Fundamental (MC-ADPF) nº 347, proclamou a existência de estado de coisas
+
+inconstitucional no âmbito do sistema carcerário brasileiro ante a ocorrência de
+
+violação massiva de direitos fundamentais dos detentos. Eis o teor do acórdão:
+
+CUSTODIADO – INTEGRIDADE FÍSICA E MORAL – SISTEMA
+PENITENCIÁRIO – ARGUIÇÃO DE DESCUMPRIMENTO DE
+PRECEITO FUNDAMENTAL – ADEQUAÇÃO. Cabível é a
+arguição de descumprimento de preceito fundamental considerada
+a situação degradante das penitenciárias no Brasil. SISTEMA
+PENITENCIÁRIO NACIONAL – SUPERLOTAÇÃO CARCERÁRIA
+– CONDIÇÕES DESUMANAS DE CUSTÓDIA – VIOLAÇÃO
+MASSIVA DE DIREITOS FUNDAMENTAIS – FALHAS
+ESTRUTURAIS – ESTADO DE COISAS INCONSTITUCIONAL –
+CONFIGURAÇÃO. Presente quadro de violação massiva e
+persistente de direitos fundamentais, decorrente de falhas
+estruturais e falência de políticas públicas e cuja modificação
+depende de medidas abrangentes de natureza normativa,
+administrativa e orçamentária, deve o sistema penitenciário
+nacional ser caraterizado como “estado de coisas
+
+(Recurso de amparo núm. 3824/99).
+
+[[pagina 37 | nativo]]
+
+inconstitucional”. FUNDO PENITENCIÁRIO NACIONAL –
+VERBAS – CONTINGENCIAMENTO. Ante a situação precária das
+penitenciárias, o interesse público direciona à liberação das verbas
+do Fundo Penitenciário Nacional. AUDIÊNCIA DE CUSTÓDIA –
+OBSERVÂNCIA OBRIGATÓRIA. Estão obrigados juízes e
+tribunais, observados os artigos 9.3 do Pacto dos Direitos Civis e
+Políticos e 7.5 da Convenção Interamericana de Direitos
+Humanos, a realizarem, em até noventa dias, audiências de
+custódia, viabilizando o comparecimento do preso perante a
+autoridade judiciária no prazo máximo de 24 horas, contado do
+momento da prisão. 58
+
+56. A declaração do referido estado de coisas inconstitucional pelo
+
+STF implica a recepção no Brasil de conceito jurídico originado da
+
+jurisprudência da Corte Constitucional da Colômbia, que condiciona a
+
+configuração de tal estado de coisas inconstitucional à observância de três
+
+pressupostos: (a) situação de violação generalizada de direitos fundamentais; (b)
+
+inércia ou incapacidade reiterada e persistente das autoridades públicas em
+
+modificar a situação; (c) necessidade da atuação de uma pluralidade de
+
+autoridades para que fossem superadas as transgressões.59
+
+57. No julgamento da MC-ADPF n. 347, o STF reconheceu que o
+
+sistema carcerário brasileiro consubstancia verdadeiro estado de coisas
+
+inconstitucional, vez que se constitui em ambiente de contínua violação de
+
+direitos fundamentais dos detentos, realidade causada pela reiterada inércia do
+
+Poder Público, agravada pela chamada cultura do encarceramento existente no
+
+país60, cuja solução depende da atuação conjunta de todas as esferas do Poder
+
+58 STF, ADPF 347 MC, Relator Min. Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015,
+DJe-031 19-02-2016.
+59 Corte Constitucional da Colômbia, Sentencia SU-559-97; Sentencia T-068-98; Sentencia T-
+153-98; Sentencia SU-250-98; Sentencia T-590-98; Sentencia T-525-99; Sentencia T-025-04;
+Sentencia T-388-13.
+60 Prosseguindo no voto condutor, afirma o Relator que “A ausência de medidas legislativas,
+administrativas e orçamentárias eficazes representa falha estrutural a gerar tanto a violação
+sistemática dos direitos, quanto a perpetuação e o agravamento da situação. A inércia, como
+dito, não é de uma única autoridade pública – do Legislativo ou do Executivo de uma particular
+unidade federativa –, e sim do funcionamento deficiente do Estado como um todo. Os poderes,
+órgãos e entidades federais e estaduais, em conjunto, vêm se mantendo incapazes e
+manifestando verdadeira falta de vontade em buscar superar ou reduzir o quadro objetivo de
+inconstitucionalidade. Faltam sensibilidade legislativa e motivação política do Executivo. É
+
+[[pagina 38 | nativo]]
+
+Público61. Confira-se a síntese produzida em seu voto pelo Relator, Ministro
+
+Marco Aurélio:
+
+As penas privativas de liberdade aplicadas em nossos presídios
+convertem-se em penas cruéis e desumanas. Os presos tornam-se
+“lixo digno do pior tratamento possível”, sendo-lhes negado todo e
+qualquer direito à existência minimamente segura e salubre. Daí o
+acerto do Ministro da Justiça, José Eduardo Cardozo, na
+comparação com as “masmorras medievais”. Nesse contexto,
+diversos dispositivos, contendo normas nucleares do programa
+objetivo de direitos fundamentais da Constituição Federal, são
+ofendidos: o princípio da dignidade da pessoa humana (artigo 1º,
+inciso III); a proibição de tortura e tratamento desumano ou
+degradante de seres humanos (artigo 5º, inciso III); a vedação da
+aplicação de penas cruéis (artigo 5º, inciso XLVII, alínea “e”); o
+dever estatal de viabilizar o cumprimento da pena em
+estabelecimentos distintos, de acordo com a natureza do delito, a
+idade e sexo do apenado (artigo 5º, inciso XLVIII); a segurança
+dos presos à integridade física e moral (artigo 5º, inciso XLIX); e
+os direitos à saúde, educação, alimentação, trabalho, previdência e
+assistência social (artigo 6º) e à assistência judiciária (artigo 5º,
+inciso LXXIV). Outras normas são afrontadas, igualmente
+reconhecedoras dos direitos dos presos: o Pacto Internacional dos
+Direitos Civis e Políticos, a Convenção contra a Tortura e outros
+Tratamentos e Penas Cruéis, Desumanos e Degradantes e a
+Convenção Americana de Direitos Humanos. 62
+
+58. Nesse contexto, destaca-se a superlotação das unidades prisionais
+
+por todo o país, considerada como um dos elementos centrais da cadeia de
+
+possível apontar a responsabilidade do Judiciário no que 41% desses presos,
+aproximadamente, estão sob custódia provisória. Pesquisas demonstram que, julgados, a
+maioria alcança a absolvição ou a condenação a penas alternativas, surgindo, assim, o
+equívoco da chamada “cultura do encarceramento”. (STF, ADPF 347 MC, Relator Min.
+Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015, DJe-031 19-02-2016).
+61 Ainda no voto do Ministro Marco Aurélio, conclui-se que “Em síntese, assiste-se ao mau
+funcionamento estrutural e histórico do Estado – União, estados e Distrito Federal,
+considerados os três Poderes – como fator da violação de direitos fundamentais dos presos e da
+própria insegurança da sociedade. Ante tal quadro, a solução, ou conjunto de soluções, para
+ganhar efetividade, deve possuir alcance orgânico de mesma extensão, ou seja, deve envolver a
+atuação coordenada e mutuamente complementar do Legislativo, do Executivo e do Judiciário,
+dos diferentes níveis federativos, e não apenas de um único órgão ou entidade.” (STF, ADPF
+347 MC, Relator Min. Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015, DJe-031 19-02-
+2016).
+62 STF, ADPF 347 MC, Relator Min. Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015,
+DJe-031 19-02-2016.
+
+[[pagina 39 | nativo]]
+
+agressões aos direitos humanos instaurada no sistema carcerário. De acordo com
+
+o Novo Diagnóstico de Pessoas Presas no Brasil, divulgado pelo Conselho
+
+Nacional de Justiça em 201463 e citado no bojo do MC-ADPF 347, há um déficit
+
+de 210.436 vagas no sistema carcerário brasileiro. Tal número salta para 358.373
+
+se forem computados também os apenados em prisão domiciliar. Em resumo,
+
+enquanto a população carcerária brasileira – incluído aí os presos domiciliares –
+
+é integrada por 715.592 detentos, o Poder Público oferta apenas 357.219 vagas
+
+no sistema prisional. Há que se mencionar, outrossim, que tal realidade só não
+
+era mais dramática porque 373.991 mandados de prisão ainda se encontravam
+
+pendentes de cumprimento quando do levantamento dos dados. Caso todos os
+
+mandados de prisão fossem cumpridos, o déficit chegaria à descomunal cifra de
+
+732.427 vagas.
+
+59. Os relatos concernentes a essa realidade de superlotação prisional
+
+causam repulsa a qualquer observador que creia se encontrar em um Estado
+Democrático de Direito64. O cenário é de tamanha gravidade que o Ministro
+
+Marco Aurélio, quando do julgamento da MC-ADPF 347, chegou a afirmar em
+
+63 http://www.cnj.jus.br/images/imprensa/pessoas_presas_no_brasil_final.pdf.
+64 Nesse sentido é grande valia a contribuição da Comissão Parlamentar de Inquérito do Sistema
+Carcerário, instaurada no âmbito da Câmara dos Deputados do Congresso Nacional e cujo
+relatório final se encontra disponível no sítio eletrônico
+<http://bd.camara.gov.br/bd/handle/bdcamara/2701>. Segundo o estarrecedor relato divulgado
+pela CPI do Sistema Carcerário, “A superlotação é talvez a mãe de todos os demais problemas
+do sistema carcerário. Celas superlotadas ocasionam insalubridade, doenças, motins,
+rebeliões, mortes, degradação da pessoa humana. A CPI encontrou homens amontoados como
+lixo humano em celas cheias, se revezando para dormir, ou dormindo em cima do vaso
+sanitário. Em outros estabelecimentos, homens seminus gemendo diante da cela entupida com
+temperaturas de até 50 graus. Em outros estabelecimentos, redes sobre redes em cima de
+camas ou do lado de fora da cela em face da falta de espaço. Mulheres com suas crianças
+recém- nascidas espremidas em celas sujas. Celas com gambiarras, água armazenada,
+fogareiros improvisados, papel de toda natureza misturados com dezenas de homens. Celas
+escuras, sem luz, com paredes encardidas cheias de “homens- morcego”. Dezenas de homens
+fazendo suas necessidades fisiológicas em celas superlotadas sem água por dias a fio. Homens
+que são obrigados a receber suas mulheres e companheiras em cubículos apodrecidos. Assim
+vivem os presos no Brasil. Assim são os estabelecimentos penais brasileiros na sua grande
+maioria. Assim é que as autoridades brasileiras cuidam dos seus presos pobres. E é assim que
+as autoridades colocam, todo santo dia, feras humanas jogadas na rua para conviver com a
+sociedade. O resultado dessa barbárie é a elevada reincidência expressa em sacrifício de vidas
+humanas, desperdícios de recursos públicos, danos patrimoniais, elevados custos econômicos e
+financeiros e insegurança à sociedade.”
+
+[[pagina 40 | nativo]]
+
+seu voto que “as penas privativas de liberdade aplicadas em nossos presídios
+
+convertem-se em penas cruéis e desumanas. Os presos tornam-se ‘lixo digno do
+
+pior tratamento possível’, sendo-lhes negado todo e qualquer direito à existência
+
+minimamente segura e salubre”. 65
+
+60. Da superlotação dos estabelecimentos prisionais, decorre um sem
+
+número de violações a direitos fundamentais dos apenados. Violam-se a
+
+dignidade da pessoa humana (artigo 1º, inciso III); a proibição de tortura e
+
+tratamento desumano ou degradante (artigo 5º, inciso III); a vedação à aplicação
+
+de penas cruéis (artigo 5º, inciso XLVII, alínea “e”); o dever estatal de viabilizar
+
+o cumprimento da pena em estabelecimentos distintos, de acordo com a natureza
+
+do delito, a idade e sexo do apenado (artigo 5º, inciso XLVIII); e a segurança dos
+
+presos e sua integridade física e moral (artigo 5º, inciso XLIX).
+
+61. Como reação ao estado de coisas inconstitucional, o STF
+
+determinou a realização de uma série de medidas visando a atenuar a violação
+
+constante de direitos fundamentais:
+
+“Decisão: O Tribunal, apreciando os pedidos de medida cautelar
+formulados na inicial, por maioria e nos termos do voto do
+Ministro Marco Aurélio (Relator), deferiu a cautelar em relação à
+alínea “b”, para determinar aos juízes e tribunais que, observados
+os artigos 9.3 do Pacto dos Direitos Civis e Políticos e 7.5 da
+Convenção Interamericana de Direitos Humanos, realizem, em até
+noventa dias, audiências de custódia, viabilizando o
+comparecimento do preso perante a autoridade judiciária no prazo
+máximo de 24 horas, contados do momento da prisão, com a
+ressalva do voto da Ministra Rosa Weber, que acompanhava o
+Relator, mas com a observância dos prazos fixados pelo CNJ,
+vencidos, em menor extensão, os Ministros Teori Zavascki e
+Roberto Barroso, que delegavam ao CNJ a regulamentação sobre
+o prazo da realização das audiências de custódia; em relação à
+alínea “h”, por maioria e nos termos do voto do Relator, deferiu a
+
+65 No decorrer do mesmo voto, o Ministro Relator chega à conclusão de que “A superlotação
+carcerária e a precariedade das instalações das delegacias e presídios, mais do que
+inobservância, pelo Estado, da ordem jurídica correspondente, configuram tratamento
+degradante, ultrajante e indigno a pessoas que se encontram sob custódia.” (STF, ADPF 347
+MC, Relator Min. Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015, DJe-031 19-02-
+2016).
+
+[[pagina 41 | nativo]]
+
+cautelar para determinar à União que libere o saldo acumulado do
+Fundo Penitenciário Nacional para utilização com a finalidade
+para a qual foi criado, abstendo-se de realizar novos
+contingenciamentos, vencidos, em menor extensão, os Ministros
+Edson Fachin, Roberto Barroso e Rosa Weber, que fixavam prazo
+de até 60 (sessenta) dias, a contar da publicação desta decisão,
+para que a União procedesse à adequação para o cumprimento do
+que determinado;”
+
+62. A despeito da recente intervenção realizada pelo STF no
+
+julgamento da ADPF 347, recente estudo produzido pelo Departamento
+
+Penitenciário Nacional (Depen) aponta que o número de presos provisórios é
+
+quase igual ao déficit de vagas no sistema, que é de 250.318 vagas66. É certo que
+
+estamos muito longe de solucionar esse grave quadro de sistemática violação dos
+
+direitos fundamentais dos presos no Brasil. Ainda não são conhecidos os dados
+
+específicos sobre o impacto no sistema prisional brasileiro da nova orientação
+
+jurisprudencial adotada pelo STF a propósito da execução provisória da pena.
+
+Mas o certo é que o relevante incremento do número de presos não definitivos –
+
+principalmente considerado o elevado número de recursos especiais criminais a
+
+serem examinados pelo STJ – contraria os fundamentos determinantes do
+
+julgamento da medida cautelar na ADPF 347.
+
+II. 2.2. O AGRAVAMENTO DO ESTADO DE COISAS INCONSTITUCIONAL EM
+
+DECORRÊNCIA DA EXECUÇÃO PROVISÓRIA DA DECISÃO CONDENATÓRIA E A
+
+NÃO APLICAÇÃO DA REGRA DO ART. 283 DO CPP.
+
+63. Justamente pela gravidade do estado de coisas inconstitucional em
+
+que se encontra o sistema prisional brasileiro, a afirmação da constitucionalidade
+
+do art. 283 do CPP torna-se ainda mais necessária. Data vênia, não é coerente
+
+com a decisão proferida pelo STF no acórdão da MC-ADPF n. 347 uma alteração
+
+jurisprudencial que agrave ainda mais a superlotação dos estabelecimentos
+
+66 Cf. http://s.conjur.com.br/dl/infopen-dez14.pdf.
+
+[[pagina 42 | nativo]]
+
+prisionais brasileiros. Segundo dados do CNJ, 41% do total de presos brasileiros
+
+estão presos provisoriamente, não tendo a condenação transitada em julgado. Se
+
+se permitir a execução provisória da sentença penal condenatória, uma parcela
+
+ainda maior dos detentos no Brasil – que poderá chegar próximo da metade do
+
+total – será de pessoas que ainda não foram condenadas de modo definitivo. 67
+
+Caso prevaleça, a nova orientação jurisprudencial, data máxima vênia, acabará
+
+por contribuir para o agravamento da superlotação, caracterizada como “a mãe de
+
+todos os demais problemas carcerários” pela referida CPI.
+
+64. A situação reveste-se de contornos ainda mais preocupantes quando
+
+consideramos o fato de que são pessoas que podem ainda ter a liberdade
+
+garantida em definitivo, notadamente pelo STJ. Há que se frisar que tal
+
+possibilidade de provimento recursal em favor do réu é real e expressiva – no
+
+último capítulo de mérito desta inicial ficará demonstrada a alta taxa de sucesso
+
+nos recursos e habeas corpus julgados pelo STJ –, não sendo decorrente de mera
+
+ilação abstrata e descolada da realidade. Apenas para que se tenha uma ideia, a
+
+taxa média de concessão da ordem de habeas corpus no Superior Tribunal de
+
+Justiça, após o julgamento em duas instâncias ordinárias, é de 27,86%68.
+
+65. O cumprimento antecipado da pena antes do trânsito em julgado da
+
+condenação levará cidadãos que ainda não tiveram seu estado de inocência
+
+efetivamente elidido pelo Estado para o que a Ministra Rosa Weber69, no
+
+67 Segundo relatado pelo Ministro Marco Aurélio, “outro fato a contribuir para a superlotação
+é o uso abusivo da prisão provisória. Segundo relatórios do Conselho Nacional de Justiça –
+CNJ, 41% dos presos brasileiros estão nessa condição.” (ADPF 347).
+68 Cf. Relatório Final do Projeto “Panaceia universal ou remédio constitucional? Habeas corpus
+nos Tribunais Superiores” da FGV-RIO, coordenado pelo Prof. Dr. Thiago Bottino:
+http://direitorio.fgv.br/sites/direitorio.fgv.br/files/u100/relatorio_final_pesquisa_hc_ipea-mj_-
+_junho_-_2014_-_para_publicacao.pdf, P. 59.
+69 Para a Ministra Rosa Weber, “De qualquer maneira, apenas para enfatizar, com relação a
+esse estado de coisas inconstitucional, permito-me o registro de que a metáfora, lembrada da
+tribuna e também invocada pelo Ministro Fachin, Inferno de Dante me parece absolutamente
+adequada quando se trata do sistema prisional brasileiro, ainda que - e digo isso em função de
+uma observação muito pertinente do Ministro Teori - haja exceções. Mas o Inferno de Dante
+também tem seus nove círculos, e o primeiro é o Limbo, ocupado na imagem de Dante sequer
+por pecadores. Então, há exceções sim, mas essas exceções não nos permitem não reconhecer o
+estado caótico e dramático das prisões brasileiras e proclamar, repito, ainda que em sede de
+
+[[pagina 43 | nativo]]
+
+julgamento da ADPF-MC 347, caracterizou como verdadeiro Inferno de Dante.
+
+O ponto foi ressaltado pelo Ministro Marco Aurélio no julgamento do HC
+
+126292/SP:
+
+E mais, nós afirmamos, e essas são as palavras do eminente
+Relator naquele caso, que o sistema penitenciário brasileiro se
+encontra num estado de coisas inconstitucional. Então, agora, nós
+vamos facilitar a entrada de pessoas neste verdadeiro inferno de
+Dante, que é o nosso sistema prisional? Ou seja, abrandando esse
+princípio maior da nossa Carta Magna, uma verdadeira cláusula
+pétrea. Então isto, com todo o respeito, data venia, me causa a
+maior estranheza.
+
+II.2.3. PEDIDO SUBSIDIÁRIO DE DECLARAÇÃO DE QUE O ART. 283 DO CPP É
+
+AINDA CONSTITUCIONAL.
+
+66. Caso o Supremo Tribunal Federal não declare plenamente
+
+constitucional o art. 283 do CPP, requer-se seja declarado ainda constitucional o
+
+mesmo dispositivo enquanto perdurar o estado de coisas inconstitucional no
+
+sistema carcerário brasileiro.
+
+67. A Corte já empregou essa técnica decisória em algumas
+
+oportunidades. A decisão paradigmática foi proferida relativamente ao artigo 68
+
+do Código de Processo Penal, cuja redação era a seguinte: “Quando o titular do
+
+direito à reparação do dano for pobre (art. 32, §§ 1o e 2o), a execução da
+
+sentença condenatória (art. 63) ou a ação civil (art. 64) será promovida, a seu
+
+requerimento, pelo Ministério Público”. No entanto, a Constituição Federal de
+
+1988, em seu artigo 134, incumbia à Defensoria Pública a função de promover a
+
+juízo delibação, o estado de coisas inconstitucional.” (STF, ADPF 347 MC, Relator Min.
+Marco Aurélio, Tribunal Pleno, julgado em 09/09/2015, DJe-031 19-02-2016).
+
+[[pagina 44 | nativo]]
+
+defesa “dos necessitados”70. Quando a Constituição Federal entrou em vigor, a
+
+Defensoria Pública ainda não estava estruturada em diversos estados. O Supremo
+
+Tribunal Federal entendeu que, enquanto isso não ocorresse, o artigo 68 do
+
+Código de Processo Penal seria considerado ainda constitucional. A
+
+inconstitucionalidade comprometeria a validade do preceito apenas
+
+progressivamente, não de maneira imediata:
+
+Ministério Público - Ação civil ex delicto - Código de Processo
+Penal, art. 68 - Norma ainda constitucional - Estágio
+intermediário, de caráter transitório, entre a situação de
+constitucionalidade e o estado de inconstitucionalidade - A questão
+das situações constitucionais imperfeitas - Subsistência, no Estado
+de São Paulo, do art. 68 do CPP, até que seja instituída e
+regularmente organizada a Defensoria Pública local - Recurso de
+agravo improvido.71
+
+68. No mesmo sentido, reconhecendo a possibilidade de o Supremo
+
+Tribunal Federal declarar que há normas "ainda constitucionais", que se
+
+encontram apenas "em transito para a inconstitucionalidade":
+
+(...) 3. PROCESSO DE INCONSTITUCIONALIZAÇÃO. NORMAS
+“AINDA CONSTITUCIONAIS”. Tendo em vista que o Supremo
+Tribunal Federal indeferiu o pedido de medida liminar há mais de
+dez anos e que, nesse período, mais de setecentas pessoas foram
+aprovadas em concurso público e receberam, de boa-fé, as
+delegações do serviço extrajudicial, a desconstituição dos efeitos
+concretos emanados dos Provimentos n. 747/2000 e 750/2001
+causaria desmesurados prejuízos ao interesse social. Adoção da
+tese da norma jurídica “ainda constitucional”. Preservação: a) da
+validade dos atos notariais praticados no Estado de São Paulo, à
+luz dos provimentos impugnados; b) das outorgas regularmente
+concedidas a delegatários concursados (eventuais vícios na
+investidura do delegatário, máxime a ausência de aprovação em
+concurso público, não se encontram a salvo de posterior
+declaração de nulidade); c) do curso normal do processo seletivo
+
+70 De acordo com o artigo 134 da Constituição Federal, “a Defensoria Pública é instituição
+essencial à função jurisdicional do Estado, incumbindo-lhe a orientação jurídica e a defesa, em
+todos os graus, dos necessitados, na forma do art. 5º, LXXIV”.
+71 RE 341717 AgR, Relator Min. Celso de Mello, Segunda Turma, julgado em 05/08/2003, DJe-
+040 05-03-2010
+
+[[pagina 45 | nativo]]
+
+para o recrutamento de novos delegatários. 4. Ação direta julgada
+improcedente.72
+
+69. Assim, caso não se acolha o pedido de declaração de
+
+constitucionalidade do art. 283 do CPP, requer-se que a norma seja declarada
+
+ainda constitucional enquanto não cesse o estado de coisas inconstitucional que
+
+caracteriza o sistema carcerário brasileiro, de modo que, até lá, seja vedado o
+
+cumprimento antecipado da pena. Quando menos, a execução provisória deveria
+
+ser obstada enquanto não ocorresse o julgamento definitivo da ADPF 347 e se
+
+cumpram as providências fixadas pelo STF.
+
+II.2.4. APLICABILIDADE DE MEDIDAS DISTINTAS DA PRISÃO QUANDO A
+
+CONDENAÇÃO ESTEJA AINDA PENDENTE DE TRÂNSITO EM JULGADO.
+
+70. Caso essa Corte entenda ser possível o início do cumprimento de
+
+pena antes do trânsito em julgado, é necessário realizar-se a interpretação
+
+conforme a Constituição do artigo 283 do Código de Processo Penal para se
+
+determinar a aplicação analógica, pelo menos enquanto perdurar o atual estado de
+
+coisas inconstitucional, das medidas alternativas à prisão previstas no art. 319 do
+
+CPP como mecanismo para se evitar o encarceramento provisório decorrente da
+
+condenação em segunda instância. De acordo com a redação dada ao art. 319 do
+
+CPP pela Lei n° 12.403/2011, são medidas cautelares diversas da prisão:
+
+I - comparecimento periódico em juízo, no prazo e nas condições
+fixadas pelo juiz, para informar e justificar atividades;
+II - proibição de acesso ou frequência a determinados lugares
+quando, por circunstâncias relacionadas ao fato, deva o indiciado
+ou acusado permanecer distante desses locais para evitar o risco
+de novas infrações
+
+72 ADI 2415, Relator Min. Ayres Britto, Tribunal Pleno, julgado em 22/09/2011, DJe-028 09-
+02-2012.
+
+[[pagina 46 | nativo]]
+
+III - proibição de manter contato com pessoa determinada quando,
+por circunstâncias relacionadas ao fato, deva o indiciado ou
+acusado dela permanecer distante;
+IV - proibição de ausentar-se da Comarca quando a permanência
+seja conveniente ou necessária para a investigação ou
+instrução;
+V - recolhimento domiciliar no período noturno e nos dias de folga
+quando o investigado ou acusado tenha residência e trabalho
+fixos;
+VI - suspensão do exercício de função pública ou de atividade de
+natureza econômica ou financeira quando houver justo receio de
+sua utilização para a prática de infrações penais;
+VII - internação provisória do acusado nas hipóteses de crimes
+praticados com violência ou grave ameaça, quando os peritos
+concluírem ser inimputável ou semi-imputável (art. 26 do Código
+Penal) e houver risco de reiteração;
+VIII - fiança, nas infrações que a admitem, para assegurar o
+comparecimento a atos do processo, evitar a obstrução do seu
+andamento ou em caso de resistência injustificada à ordem
+judicial;
+IX - monitoração eletrônica.
+
+71. Tendo em vista que a prisão cautelar dá-se antes da condenação do
+
+réu, o Legislador, em observância ao princípio da presunção de inocência,
+
+estabeleceu um conjunto de medidas que, embora eficazes, evitam o seu
+
+aprisionamento prematuro. Novamente, percebe-se que, na reforma processual
+
+penal realizada pela Lei n° 12.403/2011, o Legislador procurou criar mecanismos
+
+– a exemplo também do art. 283 do CPP – que transformam o encarceramento
+
+em medida última e extrema, aplicável somente quando não resta dúvida acerca
+
+da condenação – trânsito em julgado –, ou cautelarmente, quando a liberdade do
+
+réu implica risco real para a sociedade ou para o processo criminal.73
+
+72. Caso esse e. STF reconheça a possibilidade de cumprimento
+
+antecipado de pena, essa nova hipótese de encarceramento aproximar-se-ia mais
+
+da prisão cautelar que da prisão definitiva. Ao contrário da prisão decorrente de
+
+73 Não por outra razão o Supremo Tribunal Federal determinou que, “considerando que a
+prisão é a última ratio das medidas cautelares (§ 6º do art. 282 do CPP - incluído pela Lei nº
+12.403/11), deve o juízo competente observar aplicabilidade, ao caso concreto, das medidas
+cautelares diversas elencadas no art. 319 do CPP, com a alteração da Lei nº 12.403/11” (HC
+106446, Relatora Min. Cármen Lúcia, Relator p/ Acórdão: Min. Dias Toffoli, Primeira Turma,
+julgado em 20/09/2011, DJe-215 11-11-2011).
+
+[[pagina 47 | nativo]]
+
+condenação transitada em julgado, a decisão que dá azo ao cumprimento
+
+antecipado da pena ainda é passível de reforma por meio de recursos interpostos.
+
+É uma prisão ainda provisória – tanto assim que se convencionou denominar essa
+
+modalidade de prisão como execução provisória da pena –, a qual se
+
+transformaria em definitiva apenas com o trânsito em julgado.
+
+73. Diante da incerteza sobre a inocência do réu, devem prevalecer as
+
+interpretações que preservem sua liberdade o tanto quanto possível. As medidas
+
+alternativas à prisão constantes do art. 319 do CPP podem ser aplicadas de forma
+
+analógica aos casos de cumprimento antecipado da pena, pelo menos até que se
+
+supere o atual estado de coisas inconstitucional. É o que se recomenda com base
+
+nos princípios da liberdade e da dignidade da pessoa humana.
+
+74. O uso do argumento analógico revela importante ferramenta
+
+hermenêutica em um contexto de autocontenção (self-restrain) da atividade
+
+desenvolvida pela Corte Constitucional porque reduz a necessidade de grandes
+
+construções teóricas para a solução dos casos. Para Sustein, a utilização da
+
+analogia possui uma dimensão democrática, “pois as pessoas podem, com
+
+frequência, alcançar um acordo acerca de uma analogia quando discordam
+
+sobre questões teóricas mais complexas”74, permitindo, assim, a simplificação do
+
+processo decisório e a redução dos ônus da tomada de decisões. Se o legislador
+
+criou medidas alternativas à prisão cautelar – para evitar o encarceramento
+
+desnecessário antes do trânsito em julgado da sentença condenatória –, essas
+
+mesmas alternativas podem servir para reduzir os danos decorrentes da execução
+
+provisória da pena, notadamente diante do insustentável quadro de
+
+inconstitucionalidade de que padece o sistema prisional brasileiro.
+
+74 No original, “[...] peaple can often reach agreement on an analogy when they disagree about
+the most complex theoretical issues” (SUSTEIN, Cas. One case at the time: judicial minimalism
+on the Supreme Court. Cambrige: Harvard University Press, 2001). Cass Sustein defende que
+cortes minimalistas, adequadas às sociedades pluralistas contemporâneas, ao tentar equalizar
+grandes disputas, limitam-se a argumentações modestas, evitando a inflexibilização da posição e
+fomentando a deliberação democrática nas instituições politicamente responsáveis. (SUSTEIN,
+Cas. One case at the time: judicial minimalism on the Supreme Court. Cambrige: Harvard
+University Press, 2001).
+
+[[pagina 48 | nativo]]
+
+II.3. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DE NOVO
+
+ENTENDIMENTO JURISPRUDENCIAL PREJUDICIAL AO RÉU.
+
+IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DE NORMA PROCESSUAL
+
+PENAL.
+
+II.3.1. IMPOSSIBILIDADE DE APLICAÇÃO RETROATIVA DE ALTERAÇÃO
+
+JURISPRUDENCIAL EM MATÉRIA PENAL.
+
+75. Caso esse e. STF entenda por bem reafirmar a recente modificação
+
+da sua jurisprudência para admitir o início do cumprimento de pena de prisão
+
+antes do trânsito em julgado da decisão condenatória, essa nova interpretação não
+deve – é o que ora se sustenta e requer - retroagir em prejuízo ao réu.75 Os
+
+mesmos limites que se impõem à alteração legislativa, fixados no artigo 5º,
+
+incisos XXXIX e XV, devem incidir também sobre a alteração jurisprudencial76.
+
+75 TAVARES, Juarez. Interpretación, principio de legalidad y jurisprudencia, em: Anuario de
+Derecho Penal y Ciencias Penales - Instituto Nacional de Estudios Jurídicos, Madrid, 1987,
+Página 766.
+76 Nesse sentido, a precisa lição do Procurador Regional da República Paulo Queiroz: “Já
+Odone Sanguiné sustenta, com razão, que a posição mais correta consiste em solucionar essa
+questão da perspectiva constitucional, estendendo a proibição de retroatividade às alterações
+jurisprudências desfavoráveis ao réu, postura que se ampara, por um lado, a ideia de
+segurança jurídica como fundamento do princípio da irretroatividade e, ademais, na proposta
+de revisão do vetusto significado da separação de poderes; por outros na harmonização dessa
+doutrina com o princípio de determinação a fim de substituir a posição tradicional por uma
+visão superado da pretendida distinção absoluta entre a função da lei e a função da
+jurisprudência penal. É que a lei e sua interpretação - escreve Sanguiné - se encontram em
+vínculo necessário de complementação, de modo que a realidade jurídica do princípio da
+legalidade só será atendida quando, para determinado tipo penal, vigore a mesma
+interpretação que lhe era dada à época do cometimento do fato e que corresponda à verdadeira
+pretensão normativa. Ademais, se, conforme, temos sustentado, o direito não preexiste à
+interpretação, mas é dela resultado, motivo pelo qual a interpretação constitui o ser do direito,
+segue-se, logicamente, que a lei e sua interpretação são inseparáveis; logo, o discurso aqui, de
+sorte a não ser admitida a retroatividade da (nova) jurisprudência contrária ao réu. Afinal, em
+última análise, o direito é o que os juízes e tribunais (mas não só eles) dizem que é, visto que só
+é direito o que poder reconhece como tal, especialmente o Poder Judiciário. Pela mesma razão,
+alterações da jurisprudência que favoreçam o réu devem retroagir, de sorte a admitir a revisão
+
+[[pagina 49 | nativo]]
+
+São limites derivados do princípio da legalidade, tais como a proibição da
+
+analogia e a proibição da retroatividade em prejuízo do réu. O Ministro Roberto
+
+Barroso, em seu voto no julgamento da AP 606-QO – oportunidade em que se
+
+discutia a alteração da jurisprudência estabelecida a propósito dos efeitos da
+
+renúncia de parlamentar para fins de fixação da competência absoluta para
+
+julgamento da causa penal –, esclareceu o ponto:
+
+“Reitero o meu ponto de vista de que considero que o momento ideal
+para se fixar a competência do Supremo deveria ser o recebimento
+da denúncia, porque este é o momento no qual o processo se
+instaura, e esta é a analogia com o dispositivo constitucional que, no
+Congresso, diz que, se o parlamentar renunciar depois de
+instaurado o processo, isso já não mais o imunizará das sanções de
+eventual decisão desfavorável. Sendo assim, aqui reitero que este é o
+melhor critério. De qualquer forma, embora este critério se
+aplicasse, em tese, ao réu Clésio Andrade, eu não proporia a sua
+aplicação a este caso porque é um critério novo e, sobretudo, em
+matéria penal, uma mudança de jurisprudência que inove no
+ordenamento processual penal, a meu ver, não deveria retroagir.
+Mas eu gostaria de aproveitar este processo para, uma vez mais,
+procurar instituir esse critério geral, já agora no âmbito da nossa
+Primeira Turma. (…)”77
+
+76. O Supremo Tribunal Federal tem afastado a retroatividade da
+
+alteração jurisprudencial mesmo quando não está em jogo um bem jurídico tão
+
+valioso como a liberdade de locomoção. O STF tem conferido efeitos apenas
+
+prospectivos à mudança da jurisprudência (prospective overruling), com o fim de
+
+preservar a segurança jurídica e evitar efeitos danosos de eventual aplicação ex
+
+tunc do novo entendimento. Em processo atinente à composição de câmara de
+
+vereadores, o Min. Gilmar Mendes, ao glosar a doutrina norte-americana da
+
+prospective overruling, assentou:
+
+criminal, inclusive.” (QUEIROZ, Paulo. Direito Penal Parte Geral. Salvador: JusPodivm, 2013,
+9ª ed. rev. e amp., p.139-140.)
+77 A decisão ficou assim ementada: “AÇÃO PENAL CONTRA DEPUTADO FEDERAL.
+QUESTÃO DE ORDEM. RENÚNCIA AO MANDATO. PRERROGATIVA DE FORO. 1. A
+renúncia de parlamentar, após o final da instrução, não acarreta a perda de competência do
+Supremo Tribunal Federal. Superação da jurisprudência anterior. 2. Havendo a renúncia
+ocorrido anteriormente ao final da instrução, declina-se da competência para o juízo de
+primeiro grau” (AP 606 QO, Relator Min. Roberto Barroso, Primeira Turma, julgado em
+12/08/2014, DJe-181 18-09-2014).
+
+[[pagina 50 | nativo]]
+
+“No direito norte americano, o tema poderia assumir feição
+delicada tendo em vista o caráter incidental ou difuso do sistema,
+isto é, modelo marcadamente voltado para a defesa de posições
+subjetivas. Todavia, ao contrário do que se poderia imaginar, não é
+rara a pronúncia de inconstitucionalidade sem atribuição de
+eficácia retroativa, especialmente nas decisões judiciais que
+introduzem alteração de jurisprudência (prospective overruling). Em
+alguns casos, a nova regra afirmada para decisão aplica-se aos
+processos pendentes (limited prospectivity); em outros, a eficácia ex
+tunc exclui-se de forma absoluta (pure prospectivity). Embora
+tenham surgido no contexto das alterações jurisprudenciais de
+precedentes, as prospectivity têm integral aplicação às hipóteses de
+mudança de orientação que leve à declaração de
+inconstitucionalidade de uma lei antes considerada constitucional”78
+
+77. Em estudo doutrinário sobre matéria constitucional-tributaria, o
+
+Min. Roberto Barroso79 sustentou que que “quando uma corte de justiça,
+
+notadamente o Supremo Tribunal Federal, toma a decisão grave de reverter uma
+
+jurisprudência consolidada, não pode nem deve fazê-lo com indiferença em
+
+relação à segurança jurídica, às expectativas de direito por ele próprio gerada,
+
+à boa-fé e à confiança dos jurisdicionados”. Continua a lição enfatizando que:
+
+“Se o Poder Judiciário, e sobretudo o Supremo Tribunal Federal,
+no sistema brasileiro, é o órgão que define em última análise qual é
+o direito, a modificação do entendimento consolidado da Corte
+sobre determinada matéria modifica o direito vigente e, sob a
+perspectiva do cidadão, isso equivale, em todos os elementos
+relevantes, à alteração do próprio texto legislado. Ora, a fim de
+proteger o indivíduo, a Constituição ocupa-se de impor limites à
+inovação legislativa. Pelas mesmas razões, (...), uma Suprema
+Corte que decide modificar sua jurisprudência consolidada deve
+preocupar-se com cuidados semelhantes”.
+
+78. Se mesmo em outras áreas do direito recomenda-se a incidência
+
+apenas prospectiva da mudança jurisprudencial, no campo do direito penal e
+
+78 AC 189 MC, Relator Min. Gilmar Mendes, julgado em 06/04/2004, publicado em DJ
+15/04/2004.
+79 BARROSO, Luís Roberto. Mudança da jurisprudência do Supremo Tribunal Federal em
+matéria tributária. Segurança jurídica e modulação dos efeitos temporais das decisões
+judiciais. Disponível em http://www.luisrobertobarroso.com.br/wp-
+content/themes/LRB/pdf/parecer_mudanca_da_jurisprudencia_do_stf.pdf
+
+[[pagina 51 | nativo]]
+
+processual penal, que se relaciona a um bem jurídico provido da máxima
+
+fundamentalidade – a liberdade pessoal –, não pode ter lugar a retroação dos
+
+parâmetros jurisprudenciais mais gravosos. Sustenta-se, na presente ação, a
+
+necessidade de aplicação à hipótese do princípio da irretroatividade de norma
+
+penal mais severa, prevista no art. 5º, XL, da CF/88, aqui interpretado, na esteira
+
+da doutrina e do direito comparado, como será demonstrado a seguir.
+
+II.3.2. APLICAÇÃO DO PRINCÍPIO DA IRRETROATIVIDADE TAMBÉM AO DIREITO
+
+PROCESSUAL PENAL, SOBRETUDO NO TOCANTE A ALTERAÇÕES QUE
+
+IMPLIQUEM A PRIVAÇÃO DA LIBERDADE.
+
+79. O entendimento atual do STF sobre os efeitos temporais de
+
+alteração jurisprudencial em desfavor do réu no campo do direito processual
+
+penal alinha-se à pretensão ora deduzida. Na questão de ordem na AP nº 536,
+
+julgada no dia 27 de março de 2014, o STF compreendeu que eventual mudança
+
+na jurisprudência do Tribunal - acerca de até quando a renúncia a mandato
+
+parlamentar acarretaria no deslocamento da competência - não se aplicaria ao
+
+caso concreto que deu ensejo à alteração jurisprudencial. Isso porque, nos termos
+
+do voto do relator: “Estamos no âmbito do processo penal e nesse domínio a
+
+preservação das regras do jogo é de capital importância, sob pena de vulnerar a
+
+segurança jurídica e o processo legal”. Observe-se que, quanto a esta conclusão,
+
+o Ministro Roberto Barroso foi seguido quase à unanimidade, ficando vencido
+
+apenas o Ministro Joaquim Barbosa.
+
+80. A aplicação de nova regra processual em matéria penal que venha a
+
+colocar o réu em situação mais gravosa é, ainda com mais razão, rechaçada pelo
+
+princípio da irretroatividade penal. No que tange às hipóteses de prisão, as
+
+normas processuais possuem um relevante conteúdo material. São normas mistas.
+
+O tópico é esclarecido por Eugênio Pacelli: “(…) tratando-se de normas de
+
+[[pagina 52 | nativo]]
+
+conteúdo misto, contendo disposições de Direito Penal e de Direito Processual
+
+Penal, deve-se seguir o conteúdo normativo das primeiras. É que a regra da
+
+irretroatividade da norma penal desfavorável ao acusado deve prevalecer sobre
+
+os comandos de natureza processual. Se, porém, for mais favorável, pode-se
+
+aplicar a lei desde logo."80 O mesmo ponto de vista é sutentado por Guilherme
+
+Nucci:
+
+“Além dos institutos com dupla previsão (penal e processual
+penal), existem aqueles vinculados à prisão do réu, merecedores de
+ser considerados normas processuais penais materiais, uma vez
+que se referem à liberdade do indivíduo. Note-se que a finalidade
+precípua do processo penal é garantir a correta aplicação da lei
+penal, permitindo que a culpa seja apurada com amplas garantias
+para o acusado, de forma que não tem cabimento falar em prisão
+cautelar totalmente dissociada do contexto de direito material. A
+prisão cautelar somente tem razão de existir, a despeito do
+princípio da presunção de inocência, porque há pessoas, acusadas
+da prática de um crime, cuja liberdade poderá colocar em risco a
+sociedade, visando-se, com isso, dar sustentação a uma futura
+condenação. É o que se verifica pelo próprio sistema que autoriza
+– ou não – a decretação de prisões cautelares, cujo sentido se dá
+na medida em que têm à frente a hipótese de aplicação de penas
+privativas de liberdade e em regime fechado. Não teria o menor
+sentido decretar a prisão preventiva de um acusado por
+contravenção penal ou por delito cuja pena cominada é de multa,
+por exemplo. Assim, lidando-se com o tema da prisão, é
+indispensável que se considerem tais normas processuais de
+conteúdo material. Havendo qualquer mudança legal, benéfica ao
+réu, podem elas retroagir para abranger situações ocorridas antes
+da sua existência, desde que isso contribua para garantir a
+liberdade do réu. O art. 2.º da Lei de Introdução ao Código de
+Processo Penal determina que sejam aplicados os dispositivos mais
+favoráveis ao réu, no que concerne à prisão preventiva e à fiança,
+quando houver a edição de lei nova que colha situação processual
+em desenvolvimento. (...) A modificação legal nas normas
+processuais pode afetar, por exemplo, o instituto da prisão
+preventiva, estabelecendo nova hipótese para sua decretação.
+Imagine-se que um réu venha respondendo ao processo em
+liberdade, porque não existia razão para detê-lo cautelarmente;
+
+80 Oliveira, Eugênio Pacelli de. Curso de processo penal. 19. ed. rev. e atual. São Paulo: Atlas,
+2015. p. 28.
+
+[[pagina 53 | nativo]]
+
+diante da nova hipótese – como ocorreu com a introdução, no art.
+312 do CPP, da garantia da ordem econômica –, em que pese ter
+ele causado (no passado, portanto, antes da nova lei) abalo à
+ordem econômica, não deve o juiz decretar a sua prisão preventiva
+sem que surja fato novo. Se o fizer, a pretexto de a lei processual
+ter vigência imediata, estará, em verdade, tornando-a retroativa,
+para abranger situação ocorrida no passado. Entretanto, se, a
+partir da sua edição, o réu tornar a provocar algum abalo à ordem
+econômica, a prisão cautelar passa a ter sentido, podendo ser
+decretada. O mesmo se diga do réu que já se encontra preso por
+prisão preventiva em virtude de garantia da ordem pública.
+Havendo alteração da lei processual que extirpe tal causa, é
+preciso aplicar a norma retroativamente, a fim de colher o fato que
+gerou a prisão por motivo não mais existente, concedendo-se ao
+acusado imediata liberdade. Registre-se que a aplicação imediata
+da norma processual penal, ainda que mais rigorosa, é a regra,
+desde que não envolva questão de direito material ou o status
+libertatis do indivíduo. E mais: quando se verifica a retroatividade
+da lei processual penal material benigna ou a sua ultratividade,
+devem-se levar em conta os atos processuais ou relativos ao
+desenvolvimento do processo e não simplesmente a data do fato
+criminoso. Assim, o fato gerador da prisão preventiva muitas vezes
+ocorre depois de o crime já ter ocorrido. É sobre esse fato gerador
+que devemos analisar a retroatividade ou ultratividade da lei
+processual benéfica. O mesmo se pode dizer do fato gerador da
+perempção, que não diz respeito à data do delito, pois é bem
+posterior a isso. A retroatividade de lei processual penal material,
+que beneficie o acusado, leva em conta a ocorrência da
+perempção, segundo as novas regras instituídas, com imediata
+vigência. Desse modo procedendo, fornece-se ao processo penal o
+seu nítido e indispensável caráter garantista das liberdades
+individuais.” 81
+
+81. A aplicação de regra processual que tenha por consequência o
+
+cerceamento da liberdade do réu deve ser estrita, afetando apenas as hipóteses
+
+posteriores ao novo regramento: “As normas que repercutam direta ou
+
+indiretamente, sobre a liberdade do cidadão, contemplando medidas que tratem,
+
+originalmente ou não, da sua privação antes do trânsito em julgado da decisão
+
+condenaria, são normas apenas formalmente processuais, mas essencialmente
+
+81 Nucci, Guilherme de Souza. Código de Processo Penal comentado. – 14. ed. rev., atual. e
+ampl. Rio de Janeiro: Forense, 2015.
+
+[[pagina 54 | nativo]]
+
+materiais, independentemente do caráter da legislação que contenha.”82. Para
+
+Cezar Roberto Bittencourt, inclusive, “em qualquer caso em que uma lei dita
+
+processual, posterior à prática do crime, determine a diminuição de garantias ou
+
+de direitos fundamentais ou implique qualquer forma de restrição da liberdade,
+
+não terá vigência o princípio tempus regit actum, aplicando-se, nessas hipóteses,
+
+a legislação vigente na época do crime.”83
+
+82. O parâmetro da irretroatividade da lei processual penal mais
+
+gravosa, que produza impacto sobre a liberdade, foi recepcionado pela
+
+jurisprudência do Supremo Tribunal Federal em diversos precedentes. No que
+
+tange, por exemplo, à aplicação do art. 366, do Código de Processo Penal,
+
+alterado pela Lei 9.271/1996, que impede o curso da prescrição (norma
+
+processual com teor material), o Tribunal assim decidiu:
+
+“No que concerne à aplicação partida do art. 366 do Código de
+Processo Penal, na redação dada pela Lei 9.271/1996, destaco
+que, muito embora o dispositivo tenha também, conteúdo
+processual, sobressai a sua feição de direito penal material. Além
+disso, por se tratar de dispositivo que, em geral, agrava a situação
+dos réus, não pode ser aplicado retroativamente à edição da lei
+nova."84 No mesmo sentido: “(...) Nos termos da jurisprudência
+desta Corte, não é possível a aplicação retroativa do art. 366 a
+fatos praticados antes da Lei 9.271/1996, por se tratar de norma de
+conteúdo misto (= de direito material penal e processual penal),
+mais gravosa ao acusado, pois impede o curso da
+prescrição.(...)"85.
+
+83. A retroação da lei processual penal que produza consequências
+
+sobre a liberdade só pode ocorrer se for para beneficiar o réu. Trata-se também
+
+82 SCHOLZ, Leônidas Ribeiro. A eficiência temporal das normas sobre prisão e liberdade.
+Revista Brasileira de Ciências Criminais, nº 14, p 200.
+83 Bitencourt, Cezar Roberto Tratado de direito penal: parte geral 1. 20. ed. rev., ampl. e atual.
+São Paulo: Saraiva, 2014. p. 218-219
+84 HC 92615, Relator Min. Menezes Direito, Primeira Turma, julgado em 13/11/2007, DJe-162
+14-12-2007.
+85 RHC 105.730, Rel. Min. Teori Zavascki, Segunda Turma, julgado em 22/04/2014, DJe-086
+08-05-2014.
+
+[[pagina 55 | nativo]]
+
+de derivação do princípio da legalidade, tal como ocorre com as normas de
+
+direito penal material. A jurisprudência da Corte Europeia de Direitos Humanos86
+
+e do Comitê de Direitos Humanos, em casos recentes, reafirmou a proibição de
+
+irretroatividade em relação a normas processuais87. Também na América Latina
+
+verifica-se consistente tendência a equiparar, no tocante aos efeitos da aplicação
+
+da lei no tempo, leis penais materiais e processuais88. Confira-se, na mesma linha
+
+86 A Corte Europeia de Direitos Humanos alargou o raio de ação do princípio da
+irretroatividade da lei penal desfavorável para alcançar também o ordenamento processual
+penal. Cf. Corte e.d.u., 11 febbraio 2010, Scoppola, in www.osservatoriocedu.it. Cf., na
+doutrina, GALLUZZO, Retroattività dell’art. 442 c.p.p.: agli sgoccioli l’era del tempus regit
+actum?, Questa Rivista, 2011, 255 ss.
+
+87 “La Comisión citó a la Organización de las Naciones Unidas (ONU), Comité de Derechos
+Humanos, Caso David Michael Nicholas Vs. Australia, Comunicación No. 1080/2002, UN Doc.
+CCPR/C/80/D/1080/2002, 24 de marzo de 2004, párr. 7.7, el cual establece que: “la
+introducción de cambios en las normas sobre procedimientos y prueba después de cometido un
+presunto acto criminal puede, en ciertas circunstancias, ser pertinente para la determinación
+de la aplicabilidad del artículo 15, especialmente si tales cambios afectan a la naturaleza de un
+hecho punible”. Cfr. Tribunal Europeo de Derechos Humanos (TEDH), Caso Del Rio Prada
+Vs. España, No. 42750/09. Sentencia de 10 de julio de 2012 (sentencia de la Sección Tercera).”
+88 Cf. estudo de direito comparado produzido pela Corte Interamericana de Direitos Humanos:
+“En este sentido, por ejemplo en Colombia, Argentina, Chile, Nicaragua, República
+Dominicana, Venezuela y Uruguay rige la aplicación inmediata de la norma procesal con la
+excepción de la aplicación retroactiva de la norma más benigna sea referente a la norma
+sustantiva o la norma procesal. En particular, en Colombia la regla general es la aplicación
+inmediata de la norma adjetiva, con excepción de los actos procesales que ya se cumplieron de
+conformidad con la ley antigua. Asimismo, la Corte Constitucional de Colombia, en su
+Sentencia C-371-11 reiteró su jurisprudencia constante en esta materia y concluyó que “[el
+principio de favorabilidad] constituye una excepción a la regla general según la cual las leyes
+rigen hacia el futuro, el contexto propio para su aplicación es la sucesión de leyes, y no puede
+desconocerse bajo ninguna circunstancia”. Cfr. Sentencias de la Corte Constitucional de
+Colombia, Sentencia C-619/01 de 14 de junio de 2001; Sentencia C-371-2011 de 11 de mayo de
+2011, párrs. 32 a 36 del apartado VI. Fundamentos de la decisión; Sentencia C-252-2001 de 28
+de febrero de 2001; Sentencia C-200-2002 de 19 de marzo de 2002; Sentencia T-272-2005 de
+17 de marzo de 2005; Sentencia T-091-2006 de 10 de febrero de 2006, párr. 7 del apartado IV.
+Fundamentos de la decisión, y Sentencia C-633/12 de 15 de agosto de 2012, disponibles en:
+http://www.corteconstitucional.gov.co. Con respecto a Argentina, ver las Sentencias de la Corte
+Suprema de Justicia de la Nación (Argentina), Caso Fundación Emprender Vs. D.G.I,
+Sentencia de 5 de marzo de 2013, y Caso Gardebled Hermanos Vs. Poder Ejecutivo Nacional,
+Sentencia de 14 de agosto de 2007. Con respecto a Chile, ver el artículo 11 del Código
+Procesal Penal de 12 de diciembre de 2002, y el artículo 24 de Ley sobre efecto retroactivo de
+las leyes, de 7 de octubre de 1861 (...). De igual manera, Cfr. Corte Suprema de Chile, Segunda
+Sala Penal. Causa No. 1777/2005. Resolución No.28233 de 2 de Noviembre de 2006, disponible
+en: http://corte-suprema-justicia.vlex.cl/vid/-255231242, (...) Con respecto a la República
+Dominicana ver artículo 110 de la Constitución Política de la República, publicada en la
+Gaceta Oficial No. 10561, el 26 de enero de 2010. Con respecto a Uruguay ver el artículo 12
+del Código General del Proceso, Ley 15,982, y las Sentencias de la Corte Suprema de Justicia
+de Uruguay, Sentencia de 6 de diciembre de 2000, No. 517/2000, recurso de casación; Decisión
+Interlocutoria de 25 de julio de 2001, No. 685/2001 recurso de queja, y Sentencia de 21 febrero
+
+[[pagina 56 | nativo]]
+
+– reconhecendo a necessidade de aplicação à norma processual penal mixta (ou
+
+mescladamente material e processual) os parâmetros temporais de vigência das
+
+normas penais –, o seguinte precedente do STF:
+
+“INQUERITO - QUESTÃO DE ORDEM - CRIME DE LESÕES
+CORPORAIS LEVES IMPUTADO A DEPUTADO FEDERAL -
+EXIGÊNCIA SUPERVENIENTE DE REPRESENTAÇÃO DO
+OFENDIDO ESTABELECIDA PELA LEI N. 9.099/95 (ARTS. 88 E
+91), QUE INSTITUIU OS JUIZADOS ESPECIAIS CRIMINAIS -
+AÇÃO PENAL PÚBLICA CONDICIONADA - NORMA PENAL
+BENEFICA - APLICABILIDADE IMEDIATA DO ART. 91 DA LEI
+N. 9.099/95 AOS PROCEDIMENTOS PENAIS ORIGINARIOS
+INSTAURADOS PERANTE O SUPREMO TRIBUNAL FEDERAL.
+CRIME DE LESÕES CORPORAIS LEVES - NECESSIDADE DE
+REPRESENTAÇÃO DO OFENDIDO - AÇÃO PENAL PÚBLICA
+CONDICIONADA. - A Lei n. 9.099/95, que dispõe sobre os
+Juizados Especiais Cíveis e Criminais, subordinou a
+perseguibilidade estatal dos delitos de lesões corporais leves (e dos
+crimes de lesões culposas, também) ao oferecimento de
+representação pelo ofendido ou por seu representante legal (art.
+88), condicionando, desse modo, a iniciativa oficial do Ministério
+Público a delação postulatoria da vítima, mesmo naqueles
+procedimentos penais instaurados em momento anterior ao da
+vigencia do diploma legislativo em questão (art. 91). - A lei nova,
+que transforma a ação pública incondicionada em ação penal
+condicionada a representação do ofendido, gera situação de
+inquestionavel beneficio em favor do réu, pois impede, quando
+ausente a delação postulatoria da vítima, tanto a instauração da
+persecutio criminis in judicio quanto o prosseguimento da ação
+penal anteriormente ajuizada. Doutrina. LEI N. 9.099/95 -
+CONSAGRAÇÃO DE MEDIDAS DESPENALIZADORAS -
+NORMAS BENEFICAS - RETROATIVIDADE VIRTUAL. - Os
+processos tecnicos de despenalização abrangem, no plano do
+direito positivo, tanto as medidas que permitem afastar a propria
+incidencia da sanção penal quanto aquelas que, inspiradas no
+postulado da minima intervenção penal, tem por objetivo evitar que
+
+de 1994, No. 38/1994, recurso de casación. Con respecto a Venezuela, ver el artículo 24
+Constitución de la República Bolivariana de Venezuela, publicada en la Gaceta Oficial
+Extraordinaria N. 36.860, de 30 de diciembre de 1999; el artículo 2 del Código Penal de
+Venezuela, publicado en la Gaceta Oficial Extraordinaria No 5.49420, de 20 de octubre de
+2000, y Sala Constitucional del Tribunal Supremo de Justicia, Sentencia N.° 3467, de 10 de
+diciembre de 2003, expediente 02- 3169; Sentencia N.° 35, de 25 de enero de 2001, expediente
+00-1775, y Corte de Apelaciones en Penal Ordinario, Asunto Principal: WP01-P-2007-000374,
+Asunto: WP01-R-2013-000203, de 14 de mayo de 2013” (Caso Liakat v. Suriname, sentença de
+30 de janeiro de 2014).
+
+[[pagina 57 | nativo]]
+
+a pena seja aplicada, como ocorre na hipótese de conversão da
+ação pública incondicionada em ação penal dependente de
+representação do ofendido (Lei n. 9.099/95, arts. 88 e 91). - A Lei
+n. 9.099/95, que constitui o estatuto disciplinador dos Juizados
+Especiais, mais do que a regulamentação normativa desses órgãos
+judiciarios de primeira instância, importou em expressiva
+transformação do panorama penal vigente no Brasil, criando
+instrumentos destinados a viabilizar, juridicamente, processos de
+despenalização, com a inequivoca finalidade de forjar um novo
+modelo de Justiça criminal, que privilegie a ampliação do espaco
+de consenso, valorizando, desse modo, na definição das
+controversias oriundas do ilicito criminal, a adoção de soluções
+fundadas na propria vontade dos sujeitos que integram a relação
+processual penal. Esse novissimo estatuto normativo, ao conferir
+expressão formal e positiva as premissas ideologicas que dao
+suporte as medidas despenalizadoras previstas na Lei n. 9.099/95,
+atribui, de modo consequente, especial primazia aos institutos (a)
+da composição civil (art. 74, paragrafo único), (b) da transação
+penal (art. 76), (c) da representação nos delitos de lesões culposas
+ou dolosas de natureza leve (arts. 88 e 91) e (d) da suspensão
+condicional do processo (art. 89). As prescrições que consagram as
+medidas despenalizadoras em causa qualificam-se como normas
+penais beneficas, necessariamente impulsionadas, quanto a sua
+aplicabilidade, pelo princípio constitucional que impõe a lex mitior
+uma insuprimivel carga de retroatividade virtual e, também, de
+incidencia imediata. PROCEDIMENTOS PENAIS ORIGINARIOS
+(INQUERITOS E AÇÕES PENAIS) INSTAURADOS PERANTE O
+SUPREMO TRIBUNAL FEDERAL - CRIME DE LESÕES
+CORPORAIS LEVES E DE LESÕES CULPOSAS -
+APLICABILIDADE DA LEI N. 9.099/95 (ARTS. 88 E 91). - A
+exigência legal de representação do ofendido nas hipóteses de
+crimes de lesões corporais leves e de lesões culposas reveste-se de
+caráter penalmente benefico e torna consequentemente extensiveis
+aos procedimentos penais originarios instaurados perante o
+Supremo Tribunal Federal os preceitos inscritos nos arts. 88 e 91
+da Lei n. 9.099/95. O âmbito de incidencia das normas legais em
+referencia - que consagram inequivoco programa estatal de
+despenalização, compativel com os fundamentos etico-juridicos que
+informam os postulados do Direito penal minimo, subjacentes a Lei
+n. 9.099/95 - ultrapassa os limites formais e organicos dos
+Juizados Especiais Criminais, projetando-se sobre procedimentos
+penais instaurados perante outros órgãos judiciarios ou tribunais,
+eis que a ausência de representação do ofendido qualifica-se como
+causa extintiva da punibilidade, com consequente reflexo sobre a
+pretensão punitiva do Estado.”89
+
+89 Inq 1055 QO, Relator(a): Min. Celso de Mello, Tribunal Pleno, julgado em 24/04/1996, DJ
+
+[[pagina 58 | nativo]]
+
+84. Na oportunidade, o Ministro Celso de Mello consignou que “[n]a
+
+realidade, os institutos em questão, além de derivarem de típicas normas de
+
+caráter híbrido, pois revestem-se de projeção eficacial tanto sobre o plano
+
+formal quanto sobre a esfera estritamente penal-material, gerando, quando esta,
+
+consequências jurídicas que extinguem a própria punibilidade do agente –
+
+consagram na perspectiva da nova filosofia que informa a Lei 9.099/95, soluções
+
+de índole consensual vocacionadas a permitir a pronta superação do litígio
+
+gerado pela prática da infração penal.”
+
+85. A jurisprudência do STF a propósito do tema não tem afirmado de
+
+forma generalizante e abstrata a irretroatividade de normas processuais penais,
+
+mas tem analisado as peculiaridades de cada instituto processual em relação ao
+
+qual se dá a sucessão normativa. A conclusão a que se chega, a partir da análise
+
+sistemática dos precedentes, é que o STF tem garantido a irretroatividade de
+
+normas processuais penais mais gravosas – e, de outro lado, a retroatividade de
+
+normas processuais favoráveis – sempre que identifica uma relação entre a norma
+
+processual e o direito material subjacente: estando em jogo algum aspecto da
+
+liberdade de locomoção do acusado, deve-se adotar a máxima da irretroatividade
+
+de alterações normativas gravosas ao acusado.
+
+86. Não se pode perder de vista que a tradicional fórmula tempus regit
+
+actum não é capaz de solucionar adequadamente as controvérsias sobre conflito
+
+intertemporal de normas processuais penais, notadamente quando está em jogo
+
+instituto ou ato processual que não se exaure instantaneamente, como ocorre com
+
+as hipóteses de prisão antes do trânsito em julgado. A prisão – seja ela cautelar
+
+ou de cumprimento provisório da pena – pode ocorrer em diferentes fases do
+
+processo e não se exaure em um momento específico do iter procedimental. Daí
+
+porque não se presta a resolver definitivamente os problemas de direito
+
+intertemporal o guia jurisprudencial condensado no brocardo latino tempus regit
+
+actum. A esse respeito, a elucidativa jurisprudência italiana tem afirmado a
+
+necessidade de garantir a irretroatividade de normas processuais mais gravosas
+
+24-05-1996.
+
+[[pagina 59 | nativo]]
+
+ao acusado, ressaltando a insuficiência do parâmetro tempus regit actum para a
+
+solução dessas intrincadas questões intertemporais90.
+
+87. No mesmo sentido, a Corte Europeia de Direitos Humanos, na
+
+sentença M. V. Alemanha, entendeu que a ampliação da prisão preventiva do
+
+recorrente por parte dos tribunais responsáveis pela execução da condenação, em
+
+virtude de uma lei promulgada depois da prática delitiva, equivalia a uma
+
+condenação adicional imposta de forma retroativa. A jurisprudência dessa Corte
+
+90 “Naturalmente, non è in discussione il canone tempus regit actum utilizzato in quella
+pronunzia quale prima base per orientare la soluzione del problema. Anzi, la vitalità del
+principio deve essere ribadita ed ulteriormente esplicitata. L’antica regola costituisce la
+traduzione condensata dell’art. 11 delle della sua entrata in vigore; che gli atti compiuti nel
+vigore della legge previgente restano validi; che la nuova disciplina, quindi, non ha effetto
+retroattivo. L’indicato canone corrisponde ad esigenze di certezza, razionalità, logicità che
+sono alla radice della funzione regolatrice della norma giuridica. Esso, proprio per tale sua
+connotazione, è particolarmente congeniale alla disciplina del processo penale. L’idea stessa di
+processo implica l’incedere attraverso il susseguirsi atomistico, puntiforme, di molti atti che
+compongono, infine, la costruzione. Tale edificazione rischierebbe di crollare dalle radici come
+un castello di carte se la cornice normativa che ha regolato un atto potesse essere messa in
+discussione successivamente al suo compimento, per effetto di unanuova norma. Per questo, il
+principio tempus regit actum significa in primo luogo che, di regola, la norma vigente al
+momento del compimento di ciascun atto nesegna definitivamente, irrevocabilmente, le
+condizioni di legittimità, ne costituisce lo statuto regolativo: un atto, una norma.Il brocardo
+costituisce una guida logica, semplice e certa per il compimento dell’atto e consente di
+risolvere spesso senza incertezze i problemi di diritto intertemporale che insorgono, o possono
+insorgere, quando una determinate materia sia regolata da norme di diverso contenuto che si
+susseguono nel tempo.Di solito non emergono questioni problematiche quando l’atto si compie
+e si esaurisce istantaneamente. I problemi possono più facilmente insorgere, invece,quando il
+compimento dell’atto, o lo spatium deliberandi o ancora gli effetti si protraggono, si estendono
+nel tempo: un tempo durante il quale la norma regolatrice muta. Basti pensare alle norme sulla
+competenza, sulle impugnazioni, sulla disciplina delle prove, sulle misure cautelari, appunto. In
+taluni casi, e l’ambito cautelare è tra questi, alle tradizionali logiche di carattere tecnico-
+formale si sovrappongono tematiche valoriali, assiologiche, come si avrà modo di esporre
+meglio nel prosieguo. In breve, si pongono problemi diversi l’uno dall’altro, ben presenti
+nell’esperienza giuridica, rispetto ai quali la logica atomistica (un atto, una norma) può in
+alcuni casi risultare di difficile applicazione o apparire insufficiente, inappagante. I problemi in
+questione, sebbene rinvengano una comune, vaga matrice nel susseguirsi di norme differenti
+entro un medesimo campo d’azione, presentano solitamente tratti distintivi irriducibili in
+relazione ai diversi istituti. Dunque, piuttosto che cercare soluzioni di carattere generale,
+conviene considerare che il superamento di alcuni problemi può essere favorito da una attenta
+disamina della complessiva disciplina legale della materia cui ci si interessa e
+dall’individuazione del concreto, reale ruolo che la nuova norma è chiamata a svolgervi alla
+luce delle diverse possibili soluzioni dei problemi di diritto intertemporale.” CASSAZIONE
+PENALE, SEZIONI UNITE, 14 luglio 2011 (c.c. 31 marzo 2011) – LUPO Presidente –
+BLAIOTTA Relatore – CIANI, P.M. (conf.).– Ambrogio, ricorrente.
+
+[[pagina 60 | nativo]]
+
+supranacional consolidou no sentido de que o princípio da irretroatividade em
+
+matéria penal deve ser interpretado e aplicado de modo que resulte efetivo na
+
+prática e não apenas teoricamente.91
+
+88. Portanto, e na esteira da jurisprudência estrangeira (inclusive
+
+supranacional), mesmo que este Supremo Tribunal Federal venha a assentar o
+
+entendimento de seria inconstitucional o teor atual do art. 283 do CPP e,
+
+portanto, possível o cumprimento antecipado da pena antes do trânsito em
+
+julgado da condenação, tal guinada jurisprudencial, data vênia, não poderia ser
+
+aplicada aos processos relativos a fatos ocorridos antes do julgamento da
+
+presente ação, pois daria lugar à violação dos princípios constitucionais da
+
+legalidade e da segurança jurídica92.
+
+II.4. A FUNÇÃO DO STJ NA INTERPRETAÇÃO DO DIREITO PENAL: A
+
+NECESSIDADE DE AFASTAR A EXECUÇÃO PROVISÓRIA DA PENA ANTES DO
+
+JULGAMENTO DO RECURSO ESPECIAL.
+
+II.4.1. AS PREMISSAS DA DECISÃO PROFERIDA NO HABEAS CORPUS N° 126.292.
+
+ANÁLISE CRÍTICA.
+
+91 Cf. Hirsi Jamaa y otros v. Italia [GS], no 27765/09, apartado 175, TEDH 2012, y Scoppola
+(no 2), antes citada, apartado 104.
+92 Nesse sentido, E. Raú Zaffaroni, Nilo Batista, Alejandro Alagia e Alejandro Slokar: “(…) as
+mudanças de critério jurisprudencial, em particular quando atingem certa generalidade, não
+podem deixar de compartilhar as razões que fundamentam o princípio da legalidade e a
+proibição da retroatividade detrimentosa: não é admissível que se apene a quem não poderia
+conhecer a proibição92. Quando uma ação, que até certo momento era considerada lícita, passa
+a ser tratada como ilícita em razão de um novo critério interpretativo, ela não pode ser
+imputada ao agente, porque isso equivaleria a pretender que os cidadãos devessem abster-se
+não apenas daquilo que a jurisprudência considera legalmente proibido mas também daquilo
+passível de vir a ser julgado proibido (ou seja, do “proibível”) em virtude de possíveis e
+inovadores critérios interpretativos.” (Direito Penal Brasileiro: primeiro volume – Teoria
+Geral do Direito Penal. Rio de Janeiro: Revan, 2003, p. 223-224.)
+
+[[pagina 61 | nativo]]
+
+89. A decisão proferida pelo Supremo Tribunal Federal no Habeas
+
+Corpus n° 126.292 – que estabeleceu o parâmetro da execução provisória da
+
+decisão penal condenatória – equiparou, para todos os efeitos, os recursos
+
+especial e extraordinário, sujeitando-os, em matéria penal, ao mesmo regime
+
+jurídico. Baseando-se na regra geral de que tais recursos carecem de efeito
+
+suspensivo, o Tribunal concluiu que o início da execução dar-se-ia após a
+
+condenação proferida em segunda instância. Supõe-se, desse modo, que a
+
+excepcionalidade da intervenção tanto do STJ quanto do STF em matéria penal
+
+justificaria o início do cumprimento da pena na pendência dos recursos especial e
+
+extraordinário.
+
+90. O parâmetro adotado pelo STF para chegar a essa conclusão foi o
+
+de que as instâncias ordinárias encerram a análise de fatos e provas, e que, uma
+
+vez estabilizado o quadro fático com base no qual a pretensão acusatória é
+
+examinada, seria possível afirmar a existência de uma verdadeira presunção de
+culpabilidade93. É importante observar que, a partir do parâmetro geral fixado
+
+93 A esse respeito, o Informativo n. 814 do STF: “O Plenário ressaltou que, antes de prolatada
+a sentença penal, haveria de se manter reservas de dúvida acerca do comportamento contrário
+à ordem jurídica, o que levaria a atribuir ao acusado, para todos os efeitos — mas, sobretudo,
+no que se refere ao ônus da prova da incriminação —, a presunção de inocência. Nessa senda,
+a eventual condenação representaria juízo de culpabilidade, que deveria decorrer da
+logicidade extraída dos elementos de prova produzidos em regime de contraditório no curso da
+ação penal. Para o sentenciante de primeiro grau, ficaria superada a presunção de inocência
+por um juízo de culpa — pressuposto inafastável para condenação —, embora não definitivo, já
+que sujeito, se houver recurso, à revisão por tribunal de hierarquia imediatamente superior.
+Nesse juízo de apelação, de ordinário, ficaria definitivamente exaurido o exame sobre os fatos e
+provas da causa, com a fixação, se fosse o caso, da responsabilidade penal do acusado. Então,
+ali que se concretizaria, em seu sentido genuíno, o duplo grau de jurisdição, destinado ao
+reexame de decisão judicial em sua inteireza, mediante ampla devolutividade da matéria
+deduzida na ação penal, tivesse ela sido apreciada ou não pelo juízo “a quo”. Ao réu ficaria
+assegurado o direito de acesso, em liberdade, a esse juízo de segundo grau, respeitadas as
+prisões cautelares porventura decretadas. Desse modo, ressalvada a estreita via da revisão
+criminal, seria, portanto, no âmbito das instâncias ordinárias que se exauriria a possibilidade
+de exame de fatos e provas e, sob esse aspecto, a própria fixação da responsabilidade criminal
+do acusado. Portanto, os recursos de natureza extraordinária não configurariam
+desdobramentos do duplo grau de jurisdição, porquanto não seriam recursos de ampla
+devolutividade, já que não se prestariam ao debate da matéria fática e probatória. Noutras
+palavras, com o julgamento implementado pelo tribunal de apelação, ocorreria uma espécie de
+preclusão da matéria envolvendo os fatos da causa. Os recursos ainda cabíveis para instâncias
+extraordinárias do STJ e do STF — recurso especial e extraordinário — teriam âmbito de
+cognição estrito à matéria de direito. Nessas circunstâncias, tendo havido, em segundo grau,
+juízo de incriminação do acusado, fundado em fatos e provas insuscetíveis de reexame pela
+
+[[pagina 62 | nativo]]
+
+pelo STF no julgamento do Habeas Corpus n° 126.292, as funções exercidas pelo
+
+STJ e pelo STF em matéria penal foram, de certo modo, equiparadas, o que, à luz
+
+da ordem jurídica brasileira, não é constitucionalmente adequado. Senão
+
+vejamos.
+
+91. A natureza extraordinária dos recursos especial e extraordinário
+
+sugere, num primeiro momento, certa equiparação entre as funções exercidas,
+
+respectivamente, pelo STJ e pelo STF nas causas criminais. Essa visão,
+
+entretanto, não se compatibiliza com a ordem constitucional brasileira. Como se
+
+procurará demonstrar neste capítulo, não se devem atribuir os mesmos efeitos,
+
+em matéria criminal, aos recursos especial e extraordinário. Isso por três razões
+
+fundamentais:
+
+(i) toda sentença criminal condenatória necessariamente interpreta a
+
+lei federal – o direito penal brasileiro é sempre veiculado por lei
+
+federal –, ao passo que, apenas excepcionalmente, a sentença
+
+condenatória enfrenta com autonomia alguma questão de natureza
+
+constitucional;
+
+(ii) o juízo positivo de culpabilidade exigido para a condenação
+
+criminal consubstancia típico juízo jurídico – baseado no direito
+
+federal – de reprovabilidade, não bastando, para a afirmação da
+
+culpa, a formulação de juízo meramente fático; e
+
+(iii) enquanto as funções do STF passaram por significativa
+
+transformação nos últimos anos, a partir do que se convencionou
+
+denominar de objetivação do controle difuso de
+
+constitucionalidade, as funções do STJ continuam plenamente
+
+compatíveis com a de um Tribunal Superior de recursos.
+
+instância extraordinária, pareceria inteiramente justificável a relativização e até mesmo a
+própria inversão, para a situação concreta, do princípio da presunção de inocência até então
+observado. Faria sentido, portanto, negar efeito suspensivo aos recursos extraordinários, como
+o fazem o art. 637 do CPP e o art. 27, § 2º, da Lei 8.038/1990. HC 126292/SP, rel. Min. Teori
+Zavascki, 17.2.2016, publicado em 17.5.2016. (HC-126292)”.
+
+[[pagina 63 | nativo]]
+
+II.4.2. CULPABILIDADE E IMPOSIÇÃO DA PENA NO SISTEMA JURÍDICO
+
+BRASILEIRO: O JUÍZO JURÍDICO DE REPROVAÇÃO CRIMINAL CONSTITUI
+
+ATIVIDADE DE INTERPRETAÇÃO E APLICAÇÃO DO DIREITO FEDERAL
+
+CRIMINAL.
+
+92. A Constituição da República de 1988, ao afirmar que ninguém será
+
+considerado culpado até o trânsito em julgado de sentença penal condenatória,
+
+presta integral adesão aos pressupostos teóricos da teoria do delito assentados
+
+desde o século passado – a partir da obra de Frank94 –, segundo os quais a
+
+afirmação da culpabilidade não constitui um juízo de natureza empírica ou fática,
+
+conforme previa o modelo Liszt-Beling, mas sim um juízo normativo levado a
+
+efeito pelo Poder Judiciário a partir dos parâmetros extraídos do grau de
+
+autonomia do indivíduo e da intensidade de lesão ao bem jurídico referenciado
+na norma penal incriminadora.95
+
+93. A afirmação de que a responsabilidade criminal estaria completa
+
+com o julgamento em segunda instância, sob o fundamento de que as
+
+circunstâncias fáticas estariam definidas com o exaurimento da discussão
+
+probatória, parece ter como pressuposto a noção de que a culpabilidade é um
+
+elemento constatável empiricamente. Ocorre que essa premissa não se
+
+compatibiliza com a teoria do delito consolidada em Estados democráticos. A
+
+culpabilidade, isso é inegável, é extraída sobretudo de um juízo normativo acerca
+
+94 Ao distanciar-se do modelo naturalista, a teoria do delito procura um fundamento autônomo,
+próprio das ciências do espírito, capaz de garantir ao injusto e à culpabilidade formas de
+interpretação da realidade a partir de determinados valores para além da limitação meramente
+descritiva dos fenômenos empíricos. A reprovabilidade, instituída por Frank, consubstancia
+peça central da projeção da culpabilidade sobre a pena, consolidando, na dogmática jurídico-
+penal, o elo entre a teoria do delito e a teoria da pena. Cf. GOLDSCHMIDT, James. La
+concepción normativa de culpabilidad, Montevideo, 2007; CARVALHO, Salo de. Penas e
+medidas de segurança no direito penal brasileiro. 2ª edição. 2015. p. 168.
+95 Cf. TAVARES. Juarez. Culpabilidad y individualización de la pena. In: Racionalidad y
+Derecho Penal; CARVALHO, Salo de. Penas e medidas de segurança no direito penal
+brasileiro. 2ª edição. 2015.
+
+[[pagina 64 | nativo]]
+
+de uma conduta humana analisada pelo juiz a partir das lentes da norma penal.
+
+94. Modernamente, pode-se afirmar que o princípio da culpabilidade é
+
+um importante instrumento de proteção do indivíduo frente ao poder do Estado,
+
+notadamente porque esse princípio: (i) restringe a responsabilidade penal apenas
+
+ao autor do delito; (ii) afasta a possibilidade da incidência da sanção penal
+
+quando inexistente um vínculo subjetivo; (iii) exclui a responsabilidade pelo
+
+resultado96; (iv) diferencia e valora graus de responsabilidade distintos97; (v)
+
+garante a proporcionalidade da pena em relação à ação lesiva ao bem jurídico. A
+
+culpabilidade é o limite e a medida da pena: esse elemento consubstancia-se hoje
+
+num juízo de valor sobre a motivação do agente, firmado a partir da verificação
+
+concreta do nível de acesso que o sujeito teve às regras que impõem
+
+determinadas condutas.98
+
+96 Esta dimensão da culpabilidade contém um critério da culpabilidade que a distingue da
+imputação subjetiva. Aqui se afirma e se pressupõe mais do que uma responsabilidade subjetiva,
+se diferenciam modos de causação. “Aqui se afirma que culpable de uma lesión sólo puede ser
+quien por lo menos hubiera podido governar el acontecer lesivo” (HASSEMER, Winfried.
+¿ALTERNATIVAS AL PRINCIPIO DE CULPABILIDAD?. Traduzido do alemão por Francisco
+Muñoz Conde, Catedrático de Direito Penal da Universidade de Sevilla, Espanha. Disponível
+em:
+97 Sob uma perspectiva superficial de análise, o dano infringindo à vítima pelo delito é sempre o
+mesmo, independentemente de o resultado ter sido causado de forma culposa ou dolosa. A partir
+do princípio da culpabilidade é possível diferenciar e valorar a ação dolosa e culposa.
+98 É a partir do modelo teórico proposto por Roxin que a moderna teoria da culpabilidade ganha
+nova roupagem. Deixa de ser um juízo compreensivo dos elementos subjetivos do tipo, segundo
+a tradição causal, tampouco se constitui num juízo de reprovabilidade, conforme a teoria
+normativa e o finalismo: passa a ser um juízo de responsabilização sobre a motivação do agente.
+Se a teoria normativa pura, definida a partir da ideia de retribuição, firmava parâmetros
+inegociáveis de retribuição, no sentido de que a pena deveria corresponder exatamente ao grau
+de culpa, ao incorporar as perspectivas preventivas, Roxin opera uma readequação da
+culpabilidade às novas diretrizes político-criminais. Nesse novo contexto, é possível se concluir
+que: (i) o juízo de culpabilidade está sempre associado a uma determinação da
+responsabilidade com base na necessidade da pena; (ii) se a pena é desnecessária para fins
+preventivos, não deverá ser imposta; (iii) se o fato é de pequena gravidade, ainda que não seja
+insignificante, a pena pode ser extinta; (iv) se as condições fáticas do art. 59 do Código Penal
+são favoráveis ao réu, a pena deve ser reduzida abaixo dos limites fixados pela culpabilidade.
+Daí a conclusão de Juarez Tavares: “Assim, se pode dizer que o art. 59 impõe que o julgador
+estabeleça na condenação dos limites máximos da pena pela determinação da culpabilidade.
+Delimitado o máximo pela culpabilidade, a pena somente pode ser diminuída; os elementos do
+art. 59 são critérios complementares, que apenas podem ser considerados a favor do réu e não
+contra ele”. (TAVARES. Juarez. Culpabilidad y individualización de la pena. In: Racionalidad
+y Derecho Penal. p. 97).
+
+[[pagina 65 | nativo]]
+
+95. Nesse contexto, é equivocada, sob o ponto de vista jurídico, a
+
+conclusão de que o juízo levado a efeito pelas instâncias ordinárias, por serem
+
+soberanos na delimitação dos fatos do caso, são suficientes para a afirmação
+
+segura da culpa penal e para a imposição da pena ao indivíduo. A afirmação da
+
+tipicidade (formal e material), da culpabilidade e da intensidade da sanção penal
+
+constituem atividades eminentemente jurídicas de interpretação e aplicação das
+
+categorias jurídico-penais aos fatos comprovados no processo. No caso
+
+específico da instituição da pena, essa exigência de controle impõe, para além da
+
+fundamentação da sanção em elementos probatórios, a delimitação da
+
+reprimenda de acordo com parâmetros normativos que sejam válidos para todos
+
+aqueles que se submetam à jurisdição criminal brasileira.
+
+96. Concretamente, e para comprovar que o juízo de reprovação penal
+
+exige a afirmação de um juízo normativo – e não apenas fático – sobre a
+
+culpabilidade, vale registrar que o STJ, em diversas oportunidades:
+
+(i) examina a tipicidade da conduta imputada ao réu – notadamente
+
+porque a controvérsia relativa à análise da qualificação jurídica
+
+dada aos fatos delineados pelas instâncias ordinárias, notadamente
+
+se a conduta praticada pelo agente se subsume ao tipo penal
+
+incriminador, é passível de discussão em sede de recurso especial99;
+
+(ii) enfrenta questões relacionadas à correta aplicação da sanção
+
+penal (dosimetria da pena, escolha do regime prisional e possível
+
+substituição da pena privativa de liberdade por restritiva de
+
+direitos), provendo milhares de recursos especiais para reduzir ou
+
+alterar a qualidade da pena aplicada ao réu100; e
+
+99 Cf., por todos, REsp 1569171/SP, Rel. Ministro Gurgel De Faria, Quinta Turma, julgado em
+16/02/2016, DJe 25/02/2016.
+100 Apenas para citar um exemplo, cite-se o seguinte precedente: “RECURSOS ESPECIAIS
+(RESPS N. 1.546.149/DF E 1.485.386/DF). JULGAMENTO CONJUNTO. ATENTADO AO
+PUDOR MEDIANTE FRAUDE (ART. 216, PARÁGRAFO ÚNICO, DO CÓDIGO PENAL -
+REDAÇÃO ANTERIOR À LEI N. 12.015/2009) E VIOLAÇÃO SEXUAL MEDIANTE FRAUDE
+(ART. 215, CAPUT, DO CÓDIGO PENAL - REDAÇÃO DADA PELA LEI N. 12.015/2009).
+
+[[pagina 66 | nativo]]
+
+(iii) examina questões atinentes à licitude da prova que embasa a
+
+condenação101.
+
+97. Esses temas, usualmente examinados pelo STJ em sede de recurso
+
+especial, constituem aspectos relevantíssimos do direito penal material e
+
+repercutem diretamente não apenas na afirmação da culpa penal, mas também na
+
+definição das consequências jurídico-penais da afirmação dessa culpa nos casos
+
+concretos.
+
+98. É exigência constitucional, pelo princípio da isonomia, que os
+
+jurisdicionados sejam submetidos a critérios iguais, previamente definidos, com
+
+base nos quais se pode firmar o juízo de culpabilidade quanto a uma determinada
+
+conduta. É necessário, no mínimo, que os parâmetros de reprovação da conduta
+
+instituídos na sentença estejam em conformidade com premissas normativas
+
+juridicamente válidas para todo o território nacional. Daí porque é
+
+imprescindível, em matéria penal, aguardar o exame do caso pelo Superior
+
+Tribunal de Justiça antes do início do cumprimento da pena. É esse, afinal, o
+
+EXASPERAÇÃO DA PENA-BASE. MOTIVAÇÃO INSUFICIENTE. BIS IN IDEM. CRIME
+CONTINUADO. RECONHECIMENTO. IMPOSSIBILIDADE. PERDA DO CARGO PÚBLICO.
+AFASTAMENTO. IMPOSSIBILIDADE. RECURSOS PARCIALMENTE PROVIDOS. (…) 2.
+Deve ser reconhecido o constrangimento ilegal na primeira etapa da dosimetria, em relação
+aos delitos previstos nos arts. 216, parágrafo único (redação anterior à Lei n. 12.015/2009) e
+215, caput (redação dada pela Lei n. 12.015/2009), ambos do Código Penal, pois a
+fundamentação utilizada pelas instâncias ordinárias para justificar sua avaliação desfavorável
+foi considerada novamente, na segunda etapa da dosimetria da pena, quando reconhecida a
+aplicação da agravante da alínea "g" do inciso II do art. 61 do Código Penal, o que caracteriza
+indevido bis in idem. 3. Para o reconhecimento e a aplicação do instituto do crime continuado,
+exige-se a concomitância de exigências de ordem objetiva, considerando as mesmas condições
+de tempo, espaço e modus operandi, e de ordem subjetiva, configurada na unidade de
+desígnios. 4. Os delitos foram praticados com desígnios autônomos, com intervalo de tempo
+superior a 7 meses e o agente não aproveitou as relações e a oportunidade de um para praticar
+o outro, configurando, portanto, reiteração criminosa. 5. A perda do cargo público não é efeito
+automático da condenação e depende de fundamentação específica, existente na hipótese, pois,
+conforme justificado pelo Juiz da causa, o réu já foi punido com a demissão do serviço público
+por conta desse mesmo tipo de conduta, o que demonstra a total incompatibilidade de o réu
+continuar a exercer o cargo de médico no serviço público. 6. Recursos especiais parcialmente
+providos para, reconhecida a violação do art. 59 do Código Penal, afastar a valoração
+negativa da culpabilidade do agente e reduzir a pena-base imposta ao réu nas Ações Penais n.
+2010.12.000406-5 e 2010.12.003455-8” (REsp 1546149/DF, Rel. Ministro Rogerio Schietti
+Cruz, Sexta Turma, julgado em 07/04/2016, DJe 20/04/2016).
+101 REsp 1113734/SP, Rel. Ministro Og Fernandes, SEXTA TURMA, julgado em 28/09/2010,
+DJe 06/12/2010.
+
+[[pagina 67 | nativo]]
+
+Tribunal constitucionalmente incumbido de uniformizar os parâmetros de
+
+aplicabilidade da lei federal no território nacional102.
+
+99. Nessa mesma direção, a experiência estrangeira submete o início da
+
+execução da pena, em regra, ao exame da causa pelo Tribunal Superior – ao qual
+
+incumbe a interpretação da lei infraconstitucional –, mas não ao julgamento de
+
+eventuais recursos ou reclamações dirigidos aos tribunais constitucionais103. A
+
+regra geral é a de que as sentenças condenatórias não envolvam o controle de
+
+constitucionalidade das normas penais incriminadoras (ou mesmo o controle de
+
+constitucionalidade de hipóteses específicas de incidência dessas normas), mas é
+
+absolutamente normal, a partir da experiência até então acumulada, que se aponte
+
+violação direta da legislação infraconstitucional resultante da interpretação das
+
+normas penais nos casos concretos. Trata-se, a rigor, de procedimento normal e
+
+ordinário no exercício da jurisdição em matéria penal.
+
+II.4.3. ELEVADA PROPORÇÃO DE RECURSOS ESPECIAIS PROVIDOS – OU DE
+
+CONCESSÃO DE HABEAS CORPUS – EM MATÉRIA CRIMINAL EM COMPARAÇÃO
+
+COM A BAIXA PROPORÇÃO DE RECURSOS EXTRAORDINÁRIOS PROVIDOS.
+
+100. Para além de se aceitar o direito comparado como parâmetro, não
+
+se pode perder de vista as particularidades do nosso país. O Brasil, além de ser o
+
+país com a terceira maior população carcerária do mundo, possui grande
+
+extensão territorial, além de diversidade cultural ímpar no cenário mundial.
+
+Esperar que o juízo de reprovação penal das condutas e a correspondente fixação
+
+102 Essa função de uniformização jurisprudencial tem sido identificada como a principal função
+imputada aos Tribunais Supremos – Tribunais superiores que não se confundem com as Cortes
+constitucionais – no ambiente europeu. A CEDH tem assinalado que a divergência
+jurisprudencial constitui fonte de insegurança jurídica que reduz a confiança do público no
+sistema judiciário (Faltejsek c. Rep. Ceca, 15 maggio 2008, § 34).
+103 Cf. Procedure penali d’Europa, Sintesi nazionali e analisi comparatistiche, coordinate sotto la
+direzione di M. Delmas-Marty, seconda edizione italiana a cura di M. Chiavario, Cedam, 2001.
+
+[[pagina 68 | nativo]]
+
+da pena sejam arrimados em parâmetros isonômicos antes do exercício da
+
+jurisdição pelo STJ seria, data vênia, fechar os olhos para a realidade brasileira.
+
+101. Não à toa, pesquisas empíricas tem reconhecido recorrentes vícios
+
+na instituição da pena no Brasil104. As nulidades mais frequentes são decorrentes
+
+da ausência de fundamentação e da sobreposição ou supervalorização das
+
+circunstâncias incriminadoras, o denominado bis in idem. Quanto a esse último
+
+aspecto, relacionado à instituição da pena na prática forense brasileira, há duas
+
+formas de incidência do bis in idem. A primeira, vertical, ocorre quando: a) há
+
+sobrevaloração de circunstâncias elementares do tipo penal nas diversas fases de
+
+quantificação da pena – reprodução de circunstâncias elementares na pena-base,
+
+na provisória ou na definitiva; ou b) quando existe revaloração de circunstância
+
+em duas ou mais fases. Uma segunda, que se dá no plano horizontal, verifica-se
+
+quando uma circunstância atua como conteúdo de outra e sustenta novo juízo de
+
+agravação – p. ex., uma circunstância da pena-base (personalidade) é utilizada
+
+para valorar outra (conduta social). Esse tipo de grave deficiência sistêmica na
+
+aplicação da sanção criminal pelos juízes brasileiros tem sido corrigida de forma
+
+reiterada pelo Superior Tribunal de Justiça. Os dados estatísticos comprovam
+
+essa assertiva, conforme se verifica abaixo.
+
+102. A taxa média de concessão da ordem de habeas corpus no Superior
+
+Tribunal de Justiça, após o julgamento em duas instâncias ordinárias, é de
+
+27,86%105. Em alguns temas específicos, tais como a exigência de
+
+fundamentação concreta para o agravamento do regime inicial de cumprimento
+
+da pena privativa de liberdade, a taxa de sucesso nos HC’s e RHC’s chega a 62%
+
+quando se consideram apenas as decisões proferidas pelo Tribunal de Justiça de
+
+São Paulo106. Os dados comprovam a dificuldade que os Tribunais de segunda
+
+104 Cf. CARVALHO, Salo. O Papel dos Atores do Sistema Penal na Era do Punitivismo.
+105 Cf. Relatório Final do Projeto “Panaceia universal ou remédio constitucional? Habeas corpus
+nos Tribunais Superiores” da FGV-RIO, coordenado pelo Prof. Dr. Thiago Bottino:
+http://direitorio.fgv.br/sites/direitorio.fgv.br/files/u100/relatorio_final_pesquisa_hc_ipea-mj_-
+_junho_-_2014_-_para_publicacao.pdf, P. 59.
+106 Enquanto a taxa média de concessão nos HC e RHC oriundos do TJ/SP é de 32,9%, quando
+se isola a variável “crime de roubo” a taxa de concessão se eleva para 44,7% e cresce ainda
+
+[[pagina 69 | nativo]]
+
+instância demonstram em seguir a orientação do STJ e do STF em matéria penal:
+
+“A elevada taxa de sucesso das impetrações no STJ deve ser
+interpretada como uma alta taxa de reversão das decisões dos
+tribunais de 2a instância. Considerando que os temas tratados nos
+HC’s e RHC’s perante os Tribunais Superiores não são novidades
+– já́ tendo sido objeto de diversas decisões – a inferência que se
+pode fazer é no sentido de uma divergência entre as decisões dos
+tribunais de 2a instância e as do STF e STJ. Esse fenômeno é bem
+claro no STJ, responsável pela alta taxa de reversão das decisões
+inferiores, o que permite inferir que o STF é protegido de uma
+avalanche de impetrações graças à atuação do STJ.”107
+
+103. Deve-se ressaltar especialmente que a taxa média de sucesso nos
+
+recursos especiais tem variado, nos últimos anos, entre 29,30% (2015)108 e
+49,31% (2008)109. Trata-se de taxa de reversão muito significativa. Muitos
+
+desses recursos levam à absolvição do réu ou à alteração da pena a ser aplicada.
+
+Em um sem número de casos, a pena de prisão prevista na decisão de segunda
+
+instância é convertida em pena restritiva de direitos ou há alteração do regime
+
+inicial de cumprimento da pena. Uma pena que poderia começar a ser cumprida
+
+em regime fechado, após o provimento do recurso especial no STJ, pode passar a
+
+ser cumprida em regime semiaberto. Permitir que a execução provisória da pena,
+
+sem que o STJ tenha julgado o recurso especial, significa levar às prisões
+
+brasileiras - às “masmorras medievais” a que se referia o Ministro da Justiça -
+
+milhares de pessoas que não deveriam estar lá.
+
+104. Se, por um lado, se pode constatar que a taxa de sucesso em matéria
+
+mais, para 62%, quando se discute eventual erro na fixação do regime inicial em crime de
+roubo. Cf. Relatório Final do Projeto “Panaceia universal ou remédio constitucional? Habeas
+corpus nos Tribunais Superiores” da FGV-RIO, coordenado pelo Prof. Dr. Thiago Bottino:
+http://direitorio.fgv.br/sites/direitorio.fgv.br/files/u100/relatorio_final_pesquisa_hc_ipea-mj_-
+_junho_-_2014_-_para_publicacao.pdf, P. 60.
+107 Cf. Relatório Final do Projeto “Panaceia universal ou remédio constitucional? Habeas corpus
+nos Tribunais Superiores” da FGV-RIO, coordenado pelo Prof. Dr. Thiago Bottino:
+http://direitorio.fgv.br/sites/direitorio.fgv.br/files/u100/relatorio_final_pesquisa_hc_ipea-mj_-
+_junho_-_2014_-_para_publicacao.pdf, P. 60.
+108 Relatório estatístico do Superior Tribunal de Justiça 2015. Disponível em:
+http://www.stj.jus.br/webstj/Processo/Boletim/verpagina.asp?vPag=0&vSeq=263.
+109 Relatório estatístico do Superior Tribunal de Justiça 2008. Disponível em:
+http://www.stj.jus.br/webstj/Processo/Boletim/verpagina.asp?vPag=0&vSeq=125.
+
+[[pagina 70 | nativo]]
+
+penal no STJ – nos HC’s, RHC’s e recursos especiais criminais – é bastante
+
+relevante, o mesmo não se pode falar sobre o STF, que concedeu, entre os anos
+
+de 2008 e 2012, apenas 8,27% dos HC’s110. Além disso, deu provimento a cerca
+
+de 0,22% dos recursos extraordinários criminais, entre os anos de 2009 e 2010111.
+
+Em recente artigo produzido pelo Procurador-Geral da República, Dr. Rodrigo
+
+Janot, consta que a taxa de sucesso em favor dos acusados em recursos
+
+extraordinários criminais não passou de 0,013%112. O argumento estatístico
+
+veiculado em defesa da tese de que os recursos interpostos contra o acórdão
+
+condenatório de segunda instância costumam ostentar caráter protelatório – a
+
+baixa taxa de sucesso desses recursos – não comprova a desnecessidade do
+
+julgamento do recurso especial como condição para o encarceramento provisório.
+
+Ao contrário, as pesquisas demonstram que o início do cumprimento da pena
+
+antes do julgamento do recurso especial produzirá enormes injustiças,
+
+notadamente diante da intrínseca irreparabilidade dos danos causados.
+
+II.4.4. OBJETIVAÇÃO DO CONTROLE CONCRETO DE CONSTITUCIONALIDADE.
+
+DISTINÇÃO ENTRE AS FUNÇÕES DO STJ E DO STF.
+
+105. Por fim, vale registrar que, nos últimos anos, a atividade do STF
+
+vem se aproximando daquela desempenhada por outras Cortes constitucionais.
+
+Em Questão de Ordem na Ação Cautelar 2.177/PE (Pleno, Min. Ellen Gracie,
+
+DJe de 20/02/2009), ressaltou o Ministro Celso de Mello que “o instituto da
+
+repercussão geral representa, nesse novo contexto, um importante instrumento
+
+de objetivação dos julgamentos que o Supremo profere em sede recursal
+
+110 Cf. Relatório Final do Projeto “Panaceia universal ou remédio constitucional? Habeas corpus
+nos Tribunais Superiores” da FGV-RIO, coordenado pelo Prof. Dr. Thiago Bottino:
+http://direitorio.fgv.br/sites/direitorio.fgv.br/files/u100/relatorio_final_pesquisa_hc_ipea-mj_-
+_junho_-_2014_-_para_publicacao.pdf, P. 59.
+111 http://www.combateacorrupcao.mpf.mp.br/10-medidas/docs/medida_4.pdf.
+112http://www.conjur.com.br/2016-abr-24/janot-estatisticas-apoiam-prisao-antes-transito-
+julgado.
+
+[[pagina 71 | nativo]]
+
+extraordinária”. A esse respeito, mencione-se o elucidativo voto proferido pelo
+
+Ministro Teori Zavascki no julgamento da Rcl 4335:
+
+Sob o regime da Constituição de 1988, o sistema de controle
+concentrado foi, como se sabe, acentuadamente valorizado e
+ampliado. Foi mantida a ação direta de inconstitucionalidade
+(ADI) e novos instrumentos foram agregados, nomeadamente a
+arguição de descumprimento de preceito fundamental (ADPF) e, a
+partir da EC 3/1993, a ação declaratória de constitucionalidade
+(ADC). São ações caracterizadas pela sua natureza dúplice, a
+significar que as sentenças de mérito nelas proferidas, julgando
+procedente ou improcedente o pedido, têm aptidão para afirmar ou
+negar a legitimidade da norma questionada, além de natural
+eficácia erga omnes e efeito vinculante. É o que se depreende,
+relativamente à ADI e à ADC, dos artigos 26 e 28, parágrafo
+único, da Lei 9.868/1999, e, relativamente à ADPF, dos artigos 10,
+§ 3o e 13 da Lei 9.882/1999.
+
+Duas modificações introduzidas pela EC 45/2004 contribuíram
+significativamente para acentuar a força expansiva das decisões do
+STF, mesmo quando tomadas no julgamento de casos concretos.
+Primeira, a que autorizou a edição de súmulas vinculantes (art.
+103-A da CRFB/1988, regulamentado pela Lei pela Lei 11.417/06).
+Aprovada e publicada na imprensa oficial, a súmula, por si só́, terá́
+efeito vinculante em relação aos demais órgãos do Poder
+Judiciário e à administração pública direta e indireta, nas esferas
+federal, estadual e municipal (CRFB/1988, art. 103-A), sendo que,
+“da decisão judicial ou do ato administrativo que contrariar
+enunciado de súmula vinculante, negar-lhe vigência ou aplicá-lo
+indevidamente, caberá reclamação ao Supremo Tribunal Federal,
+sem prejuízo dos recursos ou outros meios de impugnação” (art. 7o
+da Lei 11.417/2006). A segunda modificação importante para a
+eficácia expansiva das decisões do STF, trazida pela EC 45/2004,
+foi a que instituiu, como novo requisito de admissibilidade do
+recurso extraordinário, a demonstração da “repercussão geral das
+questões constitucionais discutidas no caso, nos termos da lei”
+(art. 102, § 3.o da CF, regulamentado nos arts. 543-A e 543-B do
+CPC). Ora, a norma regulamentadora considerou como
+indispensável à caracterização da repercussão geral que as
+questões discutidas sejam relevantes sob dois distintos aspectos:
+(a) o material (“relevantes do ponto de vista econômico, político,
+social e jurídico”) e (b) o subjetivo (“que ultrapassem o interesse
+subjetivo da causa”). Esse segundo requisito evidencia o caráter
+objetivo de que se reveste a formação do precedente. Justamente
+com base nessa circunstância, o STF, ao examinar a natureza e o
+alcance do novo regime, deixou inequivocamente acentuado o
+
+[[pagina 72 | nativo]]
+
+efeito expansivo das decisões dele decorrentes para os demais
+recursos, já́ interpostos ou que vierem a sê-lo.113
+
+106. Esse inegável processo de objetivação do controle difuso, por que
+
+passa a jurisdição constitucional brasileira, teve como propósito reduzir o número
+
+de processos em curso no STF, de modo a permitir que a Corte se concentresse
+
+nas questões constitucionais realmente relevantes. A Emenda Constitucional nº
+
+45/04, que promoveu a reforma do Judiciário, foi sensível a essa aspiração,
+
+instituindo a repercussão geral das questões constitucionais como requisito de
+
+admissibilidade do recurso extraordinário e adotando o instituto da súmula
+
+vinculante. Ambos os institutos foram recentemente regulamentados. Isso foi
+
+feito, respectivamente, pelas Leis nº 11.418/2006 e nº 11.417/2006. O principal
+
+efeito dessas reformas foi a racionalização do acesso ao Supremo Tribunal
+
+Federal, de modo a permitir que a Corte se concentrasse no exercício das suas
+
+importantes atribuições com celeridade e precisão.
+
+108. O STF, no julgamento da questão de ordem no AI no 664.567/RS,
+
+Pleno, Relator o Ministro Sepúlveda Pertence, DJ de 6/9/07, estabeleceu o
+
+entendimento de que os recursos extraordinários, em geral, e os concernentes a
+
+matérias criminais, em particular, interpostos contra acórdãos publicados a partir
+
+de 3/5/07 deveriam demonstrar, em preliminar formal devidamente
+
+fundamentada, a existência da repercussão geral. A recorribilidade extraordinária
+
+em matéria criminal passou a ser ainda mais excepcional a partir desse processo
+
+de objetivação do controle difuso de constitucionalidade.
+
+109. Enquanto as funções do STF passaram por significativa
+
+transformação nos últimos anos – aproximando-o de um típico Tribunal
+
+Constitucional –, as funções do STJ continuam plenamente compatíveis com a de
+
+um Tribunal Superior de recursos (Tribunal de Cassação). Conclui-se que, se não
+
+for declarada a constitucionalidade do artigo 283 do CPP, é imprescindível que o
+
+Supremo Tribunal Federal realize interpretação conforme a Constituição do
+
+113 STF, Rcl 4335, Relator Min. Gilmar Mendes, Tribunal Pleno, julgado em 20/03/2014, DJe-
+208 22-10-2014.
+
+[[pagina 73 | nativo]]
+
+artigo 637 do CPP, restringindo a não produção do efeito suspensivo
+
+efetivamente aos recursos extraordinários, e condicionando a aplicação da pena à
+
+análise da causa criminal pelo STJ no âmbito do recurso especial.
+
+III. CAUTELAR. FUNDAMENTOS E PEDIDOS.
+
+110. A decisão proferida no HC n° 126.292 tem levado magistrados em
+
+todo o Brasil a determinar a execução provisória da pena de prisão antes do
+
+trânsito em julgado da decisão condenatória proferida por tribunais114. Essa
+
+114 Vale registrar, por oportuno, o novo entendimento firmado pelo STJ, que recentemente se
+alinhou à nova jurisprudência do STF: “(…) 4. A decisão proferida pela composição plena do
+STF, no Habeas Corpus nº 126.292-MG (ainda não publicado), indica que a mais elevada
+Corte do país, a quem a Lex Legis incumbe a nobre missão de "guarda da Constituição" (art.
+102, caput, da CF), sufragou pensamento afinado ao de Gustavo Zagrebelsky - juiz que já
+presidiu a Corte Constitucional da Itália -, para quem o direito é disciplina prática,
+necessariamente ancorada na realidade. Deveras, em diversos pontos dos votos dos eminentes
+juízes que participaram da sessão ocorrida em 17 de fevereiro próximo passado, assinalou-se a
+gravidade do quadro de "desarrumação" do sistema punitivo brasileiro, máxime por permitir a
+perene postergação do juízo definitivo de condenação, mercê do manejo de inúmeros recursos
+previstos na legislação processual penal. 5. Sob tal perspectiva é possível assimilar o novo
+posicionamento da Suprema Corte, forte na necessidade de se empreender, na interpretação e
+aplicação de qualquer norma jurídica que interfira com a liberdade, uma visão também
+objetiva dos direitos fundamentais, a qual não somente legitima eventuais e necessárias
+restrições às liberdades públicas do indivíduo, em nome de um interesse comunitário
+prevalente, mas também a própria limitação do conteúdo e do alcance dos direitos
+fundamentais - preservando-se, evidentemente, o núcleo essencial de cada direito - que passam
+a ter, como contraponto, correspondentes deveres fundamentais. 6. O aresto proferido pelo STF
+sinaliza que o recurso especial, tal como o recurso extraordinário, por ser desprovido de efeito
+suspensivo, não obsta o início da execução provisória da pena, sem que isso importe em
+malferimento ao princípio da não culpabilidade. Trata-se de importante precedente que
+realinha a jurisprudência do Supremo Tribunal Federal com o entendimento prevalecente até
+fevereiro de 2009, momento em que, por sete votos a quatro, aquela Corte havia decidiu que um
+acusado só poderia ser preso depois de sentença condenatória transitada em julgado (HC n.
+84.078/MG, DJ 26/2/2010). Em verdade, a possibilidade de prisão após a condenação em
+segunda instância, quando se esgota a análise dos fatos e das provas, é coerente com
+praticamente todos os tratados e convenções internacionais que versam direitos humanos. (…)
+9. Nenhum acréscimo às instituições e ao funcionamento do sistema de justiça criminal resulta
+da não vinculação de magistrados à clara divisão de competências entre os diversos órgãos
+judiciários, com base na qual cabe ao Superior Tribunal de Justiça a interpretação do direito
+federal e ao Supremo Tribunal Federal a interpretação da Constituição da República. 10.
+Embargos de declaração rejeitados. Acolhido o pedido do Ministério Público Federal e
+determinando a expedição de mandado de prisão, com envio de cópia dos autos ao Tribunal de
+Justiça do Distrito Federal e dos Territórios - juízo da condenação - para que encaminhe guia
+
+[[pagina 74 | nativo]]
+
+circunstância revela, sem qualquer espaço para dúvida, a observância do
+
+requisito do periculum in mora. Se a Corte entender que a presunção de
+
+constitucionalidade que recai sobre o art. 283 do CPP deve ora ser reafirmada,
+
+em cautelar, deveria – é o que ora se requer – determinar que novas execuções
+
+provisórias das penas de prisão não sejam deflagradas, e que as que já estiverem
+
+em curso sejam suspensas, libertando-se, até que a presenta ADC seja julgada, as
+
+pessoas que, por esse motivo, ora se encontram encarceradas.
+
+111. O requisito do fumus boni iuris igualmente encontra-se presente, e
+
+deflui de todos os argumentos de mérito antes apresentados. Enfatiza-se, em
+
+especial, que, da “liberdade de conformação do legislador”, quando exercida no
+
+espaço aberto pela “moldura constitucional”, decorre o princípio da presunção de
+
+constitucionalidade das leis. Presume-se a constitucionalidade que recai sobre o
+
+art. 283 do CPP em razão de sua evidente compatibilidade com o texto
+
+constitucional (artigo 5º, LVII, da Constituição Federal). Ressalte-se que a
+
+constitucionalidade do preceito legal não foi examinada no Habeas Corpus n°
+
+126.292. Compare-se, ainda uma vez, a redação do preceito legal e do preceito
+
+constitucional pertinentes:
+
+Art. 5º, LVII, da CF/88: “ninguém será considerado culpado até o
+trânsito em julgado de sentença penal condenatória”.
+
+Art. 283 do CPP: “Ninguém poderá ser preso senão em flagrante
+delito ou por ordem escrita e fundamentada da autoridade
+judiciária competente, em decorrência de sentença condenatória
+transitada em julgado ou, no curso da investigação ou do processo,
+em virtude de prisão temporária ou prisão preventiva”.
+
+112. Por essas razões, requer-se a concessão de cautelar, nos termos do
+
+artigo 21 da Lei n. 9.868/99, para se determinar que:
+
+a. Não sejam deflagradas novas execuções provisórias de penas
+
+de prisão e sejam suspensas as que já estiverem em curso,
+
+de recolhimento provisória ao juízo da VEC, para efetivo início da execução provisória das
+penas impostas ao recorrente” (EDcl no REsp 1484415/DF, Rel. Ministro Rogério Schietti
+Cruz, SEXTA TURMA, julgado em 03/03/2016, DJe 14/04/2016).
+
+[[pagina 75 | nativo]]
+
+libertando-se, até que a presente ação seja julgada, as pessoas que
+
+ora se encontram encarceradas, sem que a respectiva decisão
+
+condenatória tenha transitado em julgado;
+
+b. subsidiariamente, caso essa Corte indefira o pedido anterior,
+
+requer-se seja realizada, em caráter cautelar, interpretação
+
+conforme a Constituição do artigo 283 do Código de Processo
+
+Penal, a fim de determinar, enquanto não se julgar o mérito da
+
+presente ação, a aplicação, por analogia, das medidas alternativas à
+
+prisão previstas no art. 319 do CPP em substituição ao
+
+encarceramento provisório decorrente da condenação em segunda
+
+instância;
+
+c. por fim – se os pedidos cautelares formulados nos itens a e b
+
+não forem acolhidos – requer-se seja realizada interpretação
+
+conforme a Constituição do artigo 637 do CPP, restringindo,
+
+enquanto não for julgado o mérito desta ação, a não produção do
+
+efeito suspensivo aos recursos extraordinários, e condicionando a
+
+aplicação da pena à análise da causa criminal pelo STJ quando
+
+houver a interposição de recurso especial.
+
+113. Registre-se, por fim, que a jurisprudência do STF autoriza a
+
+concessão de medida cautelar na ADC determinando providência diversa da
+
+suspensão de processos judiciais (art. 21 da Lei n. 9.868/99), inclusive para
+
+afirmar, em caráter provisório, a constitucionalidade do dispositivo objeto da
+
+ação de controle concentrado115.
+
+115 Nesse sentido: “EMENTA: AÇÃO DIRETA DE CONSTITUCIONALIDADE DO ART. 1º DA
+LEI N 9.494, DE 10.09.1997, QUE DISCIPLINA A APLICAÇÃO DA TUTELA ANTECIPADA
+CONTRA A FAZENDA PÚBLICA. MEDIDA CAUTELAR: CABIMENTO E ESPÉCIE, NA
+A.D.C. REQUISITOS PARA SUA CONCESSÃO. 1. Dispõe o art. 1º da Lei nº 9.494, da
+10.09.1997: "Art. 1º . Aplica-se à tutela antecipada prevista nos arts. 273 e 461 do Código de
+Processo Civil, o disposto nos arts 5º e seu parágrafo único e art. 7º da Lei nº 4.348, de 26 de
+junho de 1964, no art. 1º e seu § 4º da Lei nº 5.021, de 09 de junho de 1966, e nos arts. 1º , 3º e
+4º da Lei nº 8.437, de 30 de junho de 1992." 2. Algumas instâncias ordinárias da Justiça
+Federal têm deferido tutela antecipada contra a Fazenda Pública, argumentando com a
+inconstitucionalidade de tal norma. Outras instâncias igualmente ordinárias e até uma
+Superior - o S.T.J. - a têm indeferido, reputando constitucional o dispositivo em questão. 3.
+
+[[pagina 76 | nativo]]
+
+IV. PEDIDOS
+
+114. Por todo o exposto, requer-se o que se segue:
+
+1) o conhecimento da presente ADC;
+
+2) ou, subsidiariamente, caso se entenda que a ADC não é cabível,
+
+o conhecimento da presente como ADPF;
+
+3) a concessão de cautelar para que (a) não sejam deflagradas
+
+novas execuções provisórias de penas de prisão e que sejam
+
+suspensas as que já estiverem em curso, libertando-se, até que a
+
+presente ação seja julgada, as pessoas que ora se encontram
+
+Diante desse quadro, é admissível Ação Direta de Constitucionalidade, de que trata a 2ª parte
+do inciso I do art. 102 da C.F., para que o Supremo Tribunal Federal dirima a controvérsia
+sobre a questão prejudicial constitucional. Precedente: A.D.C. n 1. Art. 265, IV, do Código de
+Processo Civil. 4. As decisões definitivas de mérito, proferidas pelo Supremo Tribunal Federal,
+nas Ações Declaratórias de Constitucionalidade de lei ou ato normativo federal, produzem
+eficácia contra todos e até efeito vinculante, relativamente aos demais órgãos do Poder
+Judiciário e ao Poder Executivo, nos termos do art. 102, § 2º , da C.F. 5. Em Ação dessa
+natureza, pode a Corte conceder medida cautelar que assegure, temporariamente, tal força e
+eficácia à futura decisão de mérito. E assim é, mesmo sem expressa previsão constitucional de
+medida cautelar na A.D.C., pois o poder de acautelar é imanente ao de julgar. Precedente do
+S.T.F.: RTJ-76/342. 6. Há plausibilidade jurídica na argüição de constitucionalidade, constante
+da inicial ("fumus boni iuris"). Precedente: ADIMC - 1.576-1. 7. Está igualmente atendido o
+requisito do "periculum in mora", em face da alta conveniência da Administração Pública,
+pressionada por liminares que, apesar do disposto na norma impugnada, determinam a
+incorporação imediata de acréscimos de vencimentos, na folha de pagamento de grande
+número de servidores e até o pagamento imediato de diferenças atrasadas. E tudo sem o
+precatório exigido pelo art. 100 da Constituição Federal, e, ainda, sob as ameaças noticiadas
+na inicial e demonstradas com os documentos que a instruíram. 8. Medida cautelar deferida,
+em parte, por maioria de votos, para se suspender, "ex nunc", e com efeito vinculante, até o
+julgamento final da ação, a concessão de tutela antecipada contra a Fazenda Pública, que
+tenha por pressuposto a constitucionalidade ou inconstitucionalidade do art. 1º da Lei nº 9.494,
+de 10.09.97, sustando-se, igualmente "ex nunc", os efeitos futuros das decisões já proferidas,
+nesse sentido” (ADC 4 MC, Relator Min. Sydney Sanches, Tribunal Pleno, julgado em
+11/02/1998, DJ 21-05-1999 PP-00002 EMENT VOL-01951-01 PP-00001).
+
+[[pagina 77 | nativo]]
+
+encarceradas, sem que a respectiva decisão condenatória tenha
+
+transitado em julgado; (b) subsidiariamente, caso essa Corte
+
+indefira o pedido anterior, requer-se seja realizada, em caráter
+
+cautelar, interpretação conforme à Constituição do artigo 283 do
+
+Código de Processo Penal, a fim de determinar, enquanto não se
+
+julgar o mérito da presente ação, a aplicação analógica das
+
+medidas alternativas à prisão previstas no art. 319 do CPP em
+
+substituição ao encarceramento provisório decorrente da
+
+condenação em segunda instância; (c) por fim – se os pedidos
+
+cautelares formulados nos itens a e b não forem acolhidos –
+
+requer-se seja realizada interpretação conforme a Constituição
+
+do artigo 637 do CPP, restringindo, enquanto não for julgado o
+
+mérito desta ação, a não produção do efeito suspensivo aos
+
+recursos extraordinários, e condicionando a aplicação da pena à
+
+análise da causa criminal pelo STJ quando houver a interposição
+
+do recurso especial.
+
+4) a notificação do Exmo. Sr. Procurador-Geral da República para
+
+que emita o seu Parecer;
+
+5) a procedência, quando ao seu mérito, da presente Ação, para
+
+que o STF promova:
+
+a) a declaração de constitucionalidade do artigo 283 do
+
+Código de Processo Penal, reconhecendo-se a legitimidade
+
+constitucional da recente opção do legislador (veiculada na
+
+Lei nº 12.403, de 2011) de condicionar o início do
+
+cumprimento da pena de prisão ao trânsito em julgado da
+
+condenação;
+
+b) subsidiariamente, a declaração de que o artigo 283 do
+
+Código de Processo Penal é “ainda constitucional”, (i)
+
+enquanto perdurar o atual “estado de coisas inconstitucional”
+
+[[pagina 78 | nativo]]
+
+que vigora no sistema prisional brasileiro; ou (ii) até que
+
+ocorra o julgamento do mérito da ADPF 347 e se cumpram
+
+as providências que venham a ser fixadas pelo Supremo
+
+Tribunal Federal;
+
+c) subsidiariamente, a realização de interpretação
+
+conforme a Constituição do artigo 283 do Código de
+
+Processo Penal, para se determinar que, enquanto perdurar o
+
+“estado de coisa inconstitucional”, na execução provisória da
+
+sentença penal condenatória, não se promova a prisão dos
+
+condenados, mas se apliquem, analogicamente, as medidas
+
+alternativas à prisão previstas no artigo 319 do Código de
+
+Processo Penal;
+
+d) subsidiariamente, a determinação de que eventual
+
+pronúncia de inconstitucionalidade - cujo corolário é
+
+permitir a execução provisória da decisão penal condenatória
+
+de 2ª instância – produza somente efeitos ex nunc,
+
+abrangendo apenas (i) as decisões condenatórias relativas a
+
+fatos ocorridos a partir do julgamento, pelo STF, desta ação;
+
+(ii) as decisões condenatórias relativas a fatos ocorridos a
+
+partir do julgamento, pelo STF, do HC n° 126.292;
+
+e) subsidiariamente, caso sejam conferidos efeitos
+
+repristinatórios à eventual pronúncia de
+
+inconstitucionalidade, reabilitando-se a incidência do
+
+artigo 637 do Código de Processo Penal aos recursos que
+
+sirvam à impugnação de decisões que impõem pena de
+
+prisão, a realização de interpretação conforme a Constituição
+
+desse preceito (637 do Código de Processo Penal) para se
+
+determinar seja conferido efeito suspensivo aos recursos
+
+especiais, a serem apreciados pelo Superior Tribunal de
+
+[[pagina 79 | nativo]]
+
+Justiça, negando-se tal efeito apenas aos recursos
+
+extraordinários, a serem apreciados pelo Supremo Tribunal
+
+Federal.
+
+Termos em que pedem deferimento.
+
+Brasília, 18 de maio de 2016.
+
+Antônio Carlos de Almeida Castro Cláudio Pereira de Souza Neto
+OAB/DF nº 4107 OAB/DF nº 34.238 e OAB/RJ nº 96.073
+
+Ademar Borges de Sousa Filho Beatriz Veríssimo de Sena
+OAB/DF nº 29.178 OAB/DF nº 15.777
+
+Guilherme Leite Chamum Aguiar
+OAB/DF n° 51.143

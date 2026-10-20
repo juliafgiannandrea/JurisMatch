@@ -1,0 +1,947 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO RELATOR DO SUPREMO
+TRIBUNAL FEDERAL A QUEM COUBER POR LIVRE DISTRIBUI-
+ÇÃO
+
+CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS
+DO BRASIL – CFOAB, serviço público dotado de personalidade jurídica
+própria e forma Federativa, regulamentado pela Lei nº 8.906/94, com sede em
+Brasília/DF, no SAUS, Qd. 05, Lote 01, Bloco M, inscrito no CNPJ sob nº
+33.205.451/0001-14, por seu Presidente MARCUS VINÍCIUS FURTADO
+COELHO, e por seu advogado que esta subscreve (Doc. 01), vem, à presença
+de Vossa Excelência, com fulcro nos arts. 102, I, a, e 103, VII, da Constitui-
+ção, no art. 54, XIV, da Lei nº 8.906/94 e no art. 2º, VII, da Lei nº 9.868/99,
+propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE COM
+PEDIDO DE CAUTELAR
+
+objetivando a declaração de inconstitucionalidade do art. 17 da Lei nº
+11.051/04 e, por arrastamento, do art. 32 da Lei nº 4.357/64 e do art. 52 da Lei
+nº 8.212/91, com a redação dada pela Lei nº 11.941/09, pelas razões que se
+passa a expor.
+
+1
+
+[[pagina 2 | nativo]]
+
+1 - OS DISPOSITIVOS LEGAIS QUESTIONADOS (O COMPLEXO
+NORMATIVO):
+
+A penalização do contribuinte pela distribuição de lucros e boni-
+ficações enquanto em débito com a União Federal foi inicialmente encampada
+pelo art. 32 da Lei nº 4.357, de 16 de julho de 1964, que continha a seguinte
+redação:
+
+“Art 32. As pessoas jurídicas, enquanto estiverem em débito,
+não garantido, para com a União e suas autarquias de Previ-
+dência e Assistência Social, por falta de recolhimento de impôs-
+to, taxa ou contribuição, no prazo legal, não poderão:
+a) distribuir ...(VETADO)... quaisquer bonificações a seus acio-
+nistas;
+b) dar ou atribuir participação de lucros a seus sócios ou quotis-
+tas, bem como a seus diretores e demais membros de órgãos di-
+rigentes, fiscais ou consultivos;
+c) (VETADO).
+
+Parágrafo único. A desobediência ao disposto neste artigo im-
+porta em multa, reajustável na forma do art. 7º, que será impos-
+ta:
+a) às pessoas jurídicas que distribuírem ou pagarem ... (VETA-
+DO)... bonificações ou remunerações, em montante igual 50% a
+(cinqüenta por cento) das quantias que houverem pago indevi-
+damente;
+b) aos diretores e demais membros da administração superior
+que houverem recebido as importâncias indevidas, em montante
+igual a 50% (cinqüenta por cento) destas importâncias.”
+
+Nesse primeiro momento, a proibição de distribuição – com a
+consequente aplicação de penalidade - se restringia (a) às bonificações aos
+acionistas e de (b) lucros aos sócios-quotistas ou dirigentes. Inexistia – e con-
+tinua inexistindo -, pois, qualquer vedação no dispositivo à plena distribuição
+de dividendos pelas sociedades anônimas.
+
+Sobre a inexistência de vedação à distribuição de dividendos, a-
+liás, vale recordar que, quando da edição da Lei nº 4.357/64 houve veto ex-
+presso ao vernáculo “dividendos”, ocasião em que o Presidente da República à
+época, em mensagem de veto, manifestou-se no seguinte sentido (Doc. 02):
+
+2
+
+[[pagina 3 | nativo]]
+
+“a ingerência do Fisco em assuntos da economia interna das
+empresas deve ficar restrita a casos excepcionais, evitando-se
+que os poderes de controle destinados a garantir a pontualidade
+no pagamento dos tributos e contribuições sejam transformados
+em elementos de perturbação da vida normal das empresas, que
+são núcleos propulsores do desenvolvimento nacional”, e, em
+se tratando de dividendos a sua exclusão do dispositivo precita-
+do se torna ainda mais aconselhável, haja vista que os acionistas
+minoritários “ficariam prejudicados por erros de uma adminis-
+tração que, em geral, não teriam forças para substituir”.
+
+Às demais sociedades (que não as SA`s), todavia, (i) era vedada
+a distribuição de lucros aos seus sócios quotistas.
+
+Também era vedada a (ii) distribuição de lucros aos diretores e
+demais membros de órgãos dirigentes, fiscais ou consultivos da empresa
+quando existente débito em aberto perante a União Federal ou suas autarquias
+de seguridade social, sendo que, neste caso, a proibição se estendia às SA`s e
+aos demais tipos societários.
+
+Quase trinta anos após a edição do art. 32 da Lei nº 4.357/64 – e
+já sob os auspícios da Constituição Federal de 1988 -, novo dispositivo norma-
+tivo, mais precisamente o art. 52 da Lei nº 8.212/91, foi instituído para limitar
+a distribuição de bonificações e dividendos. Agora sim os dividendos apare-
+cem, especialmente no caso em que o contribuinte possuísse débito junto ao
+Instituto Nacional de Seguridade Nacional - INSS, com a cominação de
+penalidade equivalente a 50% daquilo que fora distribuído. Confira-se a reda-
+ção original do dispositivo:
+
+“Art. 52. À empresa em débito para com a Seguridade Social é
+proibido:
+I – distribuir bonificação ou dividendo a acionista;
+II – dar ou atribuir cota ou participação nos lucros a sócio-
+cotista, diretor ou outro membro de órgão dirigente, fiscal ou
+consultivo, ainda que a título de adiantamento;
+Parágrafo único: A infração do disposto neste artigo sujeita o
+responsável à multa de 50% (cinquenta por cento) das quantias
+que tiverem sido pagas ou creditadas a partir da data do evento
+(...).”
+
+3
+
+[[pagina 4 | nativo]]
+
+Passados quase quinze anos da edição da norma específica do
+INSS, mais precisamente em 29 de dezembro de 2004 foi publicada a Lei nº
+11.051, que, em seu art. 17, previu a alteração parcial do art. 32 da Lei nº
+4.357/64, reavivando esta norma até então em desuso na nova ordem constitu-
+cional de 1988:
+
+“Art. 17. O art. 32 da Lei no 4.357, de 16 de julho de 1964,
+passa a vigorar com a seguinte redação:
+"Art. 32. ............................................................................
+............................................................................
+§ 1o A inobservância do disposto neste artigo importa em
+multa que será imposta:
+I - às pessoas jurídicas que distribuírem ou pagarem bonifi-
+cações ou remunerações, em montante igual a 50% (cinqüen-
+ta por cento) das quantias distribuídas ou pagas indevida-
+mente; e
+II - aos diretores e demais membros da administração superi-
+or que receberem as importâncias indevidas, em montante i-
+gual a 50% (cinqüenta por cento) dessas importâncias.
+§ 2o A multa referida nos incisos I e II do § 1o deste artigo fi-
+ca limitada, respectivamente, a 50% (cinqüenta por cento) do
+valor total do débito não garantido da pessoa jurídica."”
+
+Vê-se do dispositivo transcrito que a única alteração introdu-
+zida pela Lei nº 11.051/04 ao art. 32 da Lei nº 4.357/64 foi a adição de um §
+2º, acarretando a renumeração, como § 1º, do antigo parágrafo único.
+
+O novo parágrafo, por sua vez, atendendo essencialmente a
+razoabilidade, tão somente limitou a multa prevista no dispositivo originário
+em no máximo 50% do valor total do débito não garantido.
+
+Mais recentemente, no entanto, a Lei nº 11.941/09 alterou o
+art. 52 da Lei nº 8.212/91 para harmoniza-la com o art. 32 da Lei nº 4.357/64 –
+excluindo, assim, a vedação de distribuição de dividendos nas hipóteses de
+débitos em aberto com o INSS - e, de forma expressa, consignou que mesmo
+nos casos de débitos em aberto junto ao INSS a penalidade será aquela previs-
+ta no art. 32 da Lei nº 4.357/64:
+
+4
+
+[[pagina 5 | nativo]]
+
+“Art. 52. Às empresas, enquanto estiverem em débito não ga-
+rantido com a União, aplica-se o disposto no art. 32 da Lei no
+4.357, de 16 de julho de 1964.(Redação dada pela Lei nº
+11.941, de 2009).”
+
+Hoje, portanto, vigente o art. 32 da Lei nº 4.357/64, com as
+modificações introduzidas pelo art. 17 da Lei nº 11.051/04, e o art. 52 da Lei
+nº 8.212/91, que se remete integralmente ao dispositivo primeiro mencionado1.
+
+A norma jurídica que se extrai desses dispositivos, por seu
+turno, pode ser assim entendida:
+
+(i) penaliza-se as sociedades anônimas que distribuírem (a)
+bonificações aos acionistas ou (b) lucros aos integrantes da
+alta administração, estando em débito com a União Federal ou
+com o INSS; (c) penaliza as demais sociedades (exceto as
+SA`s) e os seus sócios-quotistas e integrantes da alta admi-
+nistração que distribuírem/receberem lucros da empresa,
+quando esta estiver em débito perante a União Federal ou o
+INSS;
+
+(ii) a multa para a pessoa jurídica que incorrer em alguma
+dessas penalidades será de 50% (cinquenta por cento) do valor
+distribuído. A multa para os diretores e demais membros da
+alta administração que receberem remuneração ou bonificação
+será de 50% (cinquenta por cento) do valor recebido. Ambas
+as multas serão limitadas em no máximo 50% (cinquenta por
+cento) do valor do débito não garantido da pessoa jurídica.
+
+Nesse sentido, em que pese o acréscimo ao § 2º ao art. 32 da
+Lei nº 4.357/64 ter vindo em favor dos contribuintes – e igualmente a altera-
+ção do art. 52 da Lei nº 8.212/91 pela Lei nº 11.941/09 -, ele reacendeu o de-
+bate acerca de sua aplicabilidade e constitucionalidade.
+
+Como se verá doravante, contudo, há de ser reconhecida a in-
+constitucionalidade dos dispositivos em comento com a atual ordem constitu-
+
+1 Neste ponto, destaque-se que, com a alteração do art. 52 da Lei nº 8.212/91 pela Lei nº 11.941/09,
+remetendo o regramento integralmente ao art. 32 da Lei nº 4.357/64, já não se discute mais a
+impossibilidade de distribuição de dividendos com débitos tributários ou previdenciários (INSS) em
+aberto. Os dividendos distribuídos pelas SA`s aos acionistas, portanto, hoje, já não geram a
+penalidade questionada na presente ação.
+
+5
+
+[[pagina 6 | nativo]]
+
+cional, especialmente porque: (i) afrontam o princípio da livre iniciativa, ins-
+culpido nos arts. 1º, inciso IV e 170 da Constituição Federal; (ii) malferem o
+devido processo legal formal e o “in dubio pro reo” , previstos no art. 5º, inci-
+sos LIV e LVII da Constituição Federal; e (iii) atentam contra o princípio de
+proporcionalidade, fundado no “substantive due process of law”, emanado
+pelo art. 5ª, inciso LIV da Constituição Federal.
+
+Dessa forma, ante a frontal violação à “Constituição, a ordem
+jurídica do Estado democrático de direito, os direitos humanos [e] a justiça
+social”, cuja defesa incumbe à Ordem dos Advogados do Brasil (Lei nº
+8.906/94, art. 44, I), os dispositivos legais acima transcritos suscitam a inicia-
+tiva do Conselho Federal da OAB, legitimado universal à propositura da pre-
+sente ação, ocasião em que se pleiteará que seja reconhecida a inconstitucio-
+nalidade do art. 17 da Lei nº 11.051/04, que reacendeu a aplicabilidade do
+art. 32 da Lei nº 4.357/64, com a consequente declaração de inconstitucio-
+nalidade por arrastamento deste último dispositivo, bem como do art. 52 da
+Lei nº 8.212/91, com redação conferida pela Lei nº 11.941/09.
+
+2 – DA INCONSTITUCIONALIDADE DO ART. 17 DA LEI Nº 11.051/04
+E A CONSEQUENTE INCONSTITUCIONALIDADE POR ARRAS-
+TAMENTO DO ART. 32 DA LEI Nº 4.357/64 E DO ART. 52 DA LEI Nº
+8.212/91:
+
+2.1 – A inconstitucionalidade por violação ao princípio da livre iniciativa,
+insculpido nos arts. 1º, inciso IV e 170 da Constituição Federal
+
+Com efeito, a Constituição Federal de 1988, ao delimitar os
+princípios norteadores da nova ordem constitucional que se inaugurava, em
+seu art.1º, consignou as bases do Estado Democrático de Direito, ocasião em
+que asseverou que:
+
+“Art. 1º A República Federativa do Brasil, formada pela uni-
+ão indissolúvel dos Estados e Municípios e do Distrito Fede-
+ral, constitui-se em Estado Democrático de Direito e tem co-
+mo fundamentos:
+(...)
+
+IV - os valores sociais do trabalho e da livre iniciativa.”
+
+(grifou-se)
+
+6
+
+[[pagina 7 | nativo]]
+
+Adensando esse princípio, ao disciplinar especificamente a
+ordem econômica, a Constituição Federal voltou a prestigiar a livre iniciativa,
+especialmente através de seu art. 170:
+
+“Art. 170. A ordem econômica, fundada na valorização do
+trabalho humano e na livre iniciativa, tem por fim assegurar
+a todos existência digna, conforme os ditames da justiça soci-
+al, observados os seguintes princípios:
+(...)
+
+Parágrafo único. É assegurado a todos o livre exercício de
+qualquer atividade econômica, independentemente de autori-
+zação de órgãos públicos, salvo nos casos previstos em lei.”
+
+(destacou-se)
+
+Sobre o princípio da livre iniciativa, aliás, esse E. Supremo
+Tribunal Federal já teve inúmeras oportunidades de se manifestar, exsurgindo
+de seus julgamentos 03 enunciados de súmula que merecem destaque e que
+contribuirão para o adequado entendimento da matéria tratada na presente a-
+ção:
+
+Súmula 70 – É inadmissível a interdição de estabelecimentos
+como meio coercitivo para a cobrança de tributos.
+
+***
+
+Súmula 323 – É inadmissível a apreensão de mercadorias co-
+mo meio coercitivo para cobrança de tributos.
+
+***
+
+Súmula 547 – Não é lícito à autoridade proibir que o contribu-
+inte em débito adquira estampilhas, despache mercadorias nas
+alfândegas e exerça suas atividades profissionais.
+
+Todos os 03 enunciados de súmula transcritos prestigiam o
+princípio da livre iniciativa, externando entendimento solidificado no sentido
+
+7
+
+[[pagina 8 | nativo]]
+
+de que não se admite sanção política com vistas a promover-se a cobrança de
+tributos.
+
+Densificando o princípio da livre iniciativa e rechaçando a
+sanção política para forçar o pagamento de tributos, vale trazer à baila os ensi-
+namentos do E. Ministro Marco Aurélio, externados quando do julgamento do
+RE nº 413.782/SC:
+
+“Nota-se a tomada de empréstimo de meio coercitivo, objeti-
+vando a satisfação de débito tributário. Em síntese, a legisla-
+ção local submete o contribuinte à exceção de emitir notas fis-
+cais individualizadas, quando em débito para com o fisco. En-
+tendo conflitante com a Carta da República o procedimento
+adotado. A Fazenda há de procurar o Judiciário visando à
+cobrança, via executivo fiscal, do que devido, mostrando-se
+impertinente recorrer a métodos que acabem inviabilizando
+a própria atividade econômica, como é o relativo à proibição
+de as empresas em débito, no tocante a obrigações, principal
+e acessórias, vir a emitir documentos considerados como in-
+cluídos no gênero fiscal. Imagine-se o que implica, a cada
+negócio jurídico, ter-se de requerer à repartição fazendária
+competente a emissão de nota fiscal avulsa. A regência local
+da matéria abrange previsão incompatível com a ordem natu-
+ral das coisas, com o princípio constante do parágrafo único
+do artigo 170 da Carta da República, segundo o qual é assegu-
+rado a todos o livre exercício de qualquer atividade econômi-
+ca. Repita-se: na dinâmica da própria atividade desenvolvida,
+fica inviabilizada a atuação, se aquele que a implementa ne-
+cessita, caso a caso, de recorrer ao fisco, para a obtenção de
+nota fiscal avulsa. Em Direito, o meio justifica o fim, mas não
+este, aquele. Recorra a Fazenda aos meios adequados à li-
+quidação dos débitos que os contribuintes tenham, abando-
+nando a prática de fazer justiça pelas próprias mãos, como
+acaba por ocorrer, levando a empresa ao caos, quando invi-
+abilizada a confecção de blocos de notas fiscais. De há mui-
+to, esta Corte pacificou a matéria, retratando o melhor en-
+quadramento constitucional no Verbete nº 547 da Súmula:
+Não é lícito a autoridade proibir que o contribuinte em débi-
+to adquira estampilhas, despache mercadorias nas alfânde-
+gas e exerça suas atividades profissionais.”(grifou-se)
+
+8
+
+[[pagina 9 | nativo]]
+
+Também nesse sentido e analisando discussão bastante se-
+melhante a que ora se trava, no julgamento da ADI nº 3.453-7, o Pleno desse
+E. Supremo Tribunal Federal, ao julgar a inconstitucionalidade de norma que
+exigia a apresentação pelo contribuinte de certidões de regularidade fiscal para
+receber valores consubstanciados em precatórios judiciais, enfrentou mais uma
+vez a questão da sanção política utilizada para pagamento de tributos.
+
+Na oportunidade, sob a relatoria da E. Ministra Carmem Lú-
+cia, vários Ministros, de forma expressa e veemente, repudiaram esse estrata-
+gema. Vale a transcrição de passagens de alguns votos que foram lá colhidos,
+especialmente por se aplicarem perfeitamente ao caso presente:
+
+“As formas de obter a Fazenda Pública o que lhe é devido e a
+constrição da contribuição para o pagamento de eventual débi-
+to havido com a Fazenda Pública estão estabelecidas no orde-
+namento jurídico e não podem ser obtidas por meios que frus-
+trem direitos constitucionais do cidadão” (Ministra Carmem
+Lúcia)
+
+***
+
+“A Fazenda Pública possui inúmeros mecanismos destinados
+à salvaguarda de seus créditos, inclusive com a constrição do
+patrimônio do devedor e o registro das dívidas em cadastros
+de inadimplência.
+
+De forma semelhante às tentativas do Fisco de embaraçar a a-
+tividade econômica do contribuinte inadimplente, rechaçadas
+por essa Corte em diversos precedentes (cf., eg., o RE
+413.782, rel. min. Marco Aurélio, Pleno, DJ de 03.06.2005, e
+as súmulas 70, 323 e 547 da Corte), a vinculação em exame
+represente típica hipótese de sanção política, inadmissível no
+sistema tributário brasileiro.” (Ministro Joaquim Barbosa)
+
+***
+
+“Há, em segundo lugar, aquilo que o eminente advogado da
+Ordem se referiu, quando aludiu ao parecer do Professor Ki-
+yoshi Harada, ou seja, um caso de abuso legislativo. A norma
+
+9
+
+[[pagina 10 | nativo]]
+
+não passa pelo teste da proporcionalidade jurídica. Por quê?
+Porque tem por finalidade evidente forçar o pagamento de
+crédito fiscal, mas não é nem necessária, nem adequada a tan-
+to. Não é necessária, pela razão óbvia de que o erário dispõe
+de modos expeditos de cobranças das execuções fiscais e do
+próprio recurso da compensação, como tentarei demonstrar
+um pouco mais adiante, quando falar das dificuldades práticas
+da obtenção de certidões negativas.
+
+Por outro lado, eu fazia anotações, quando verifiquei que os
+mesmos argumentos foram levantados com muita precisão na
+manifestação do amicus curiae, ou da amica curiae, que é a
+Associação dos Advogados de São Paulo, e onde se faz refe-
+rência expressa à postura permanente desta Corte, objeto das
+súmulas nºs 70, 323 e 547, que não permitem que o Estado
+use de meios indiretos para coagir o contribuinte a pagar cré-
+dito, até em certos casos, ou, em muitos casos, absolutamente
+discutíveis: proibição de interdição de estabelecimentos, proi-
+bição de apreensão de mercadoria e proibição de aquisição de
+estampilhas, despachos e até de exercer atividade profissio-
+nal.” (Ministro Cezar Peluso)
+
+Pois bem, o art. 32 da Lei nº 4.357/64, com a redação que lhe
+foi conferida pelo art. 17 da Lei nº 11.051/04, ao proibir, no caso da existência
+de débitos em aberto com a União Federal ou INSS, a distribuição: (i) de boni-
+ficação aos acionistas (SA`s), (ii) de participação nos lucros aos sócios quotis-
+tas (outras sociedades que não as SA`s) e (iii) de participação nos lucros aos
+demais membros da diretoria e órgãos dirigentes, fiscais ou consultivos (todos
+os tipos societários), nada mais faz do que utilizar a sanção política como
+forma de exigir o pagamento do tributo.
+
+Ou seja, a norma decorrente do art. 32 da Lei nº 4.357/64
+(com a redação que lhe foi conferida pelo art. 17 da Lei nº 11.051/04) fere de
+morte o princípio da livre iniciativa. Bem por isso, fica clara a incompatibili-
+dade desses dispositivos com a atual ordem constitucional, motivo pelo qual
+há de ser declarada a sua inconstitucionalidade, com a consequente declaração
+de inconstitucionalidade por arrastamento do art. 52 da Lei nº 8.212/91.
+
+Há outros argumentos que corroboram essa inconstitucionali-
+dade.
+
+10
+
+[[pagina 11 | nativo]]
+
+2.2 – A inconstitucionalidade por violação ao Princípio do Devido Proces-
+so Legal Formal e do “In Dubio Pro Reo”
+
+Ao vedar, sob pena de elevada multa, o pagamento de remu-
+neração e a distribuição de lucros sem que se tenha efetiva certeza da legitimi-
+dade dos débitos tributários/previdenciários a que se refere o art. 32 da Lei nº
+4.357/64, o dispositivo desrespeita os princípios do devido processo legal
+formal e do “in dubio pro reo”, previstos respectivamente no art. 5º, incisos
+LIV e LVII da Constituição Federal:
+
+“Art. 5º Todos são iguais perante a lei, sem distinção de
+qualquer natureza, garantindo-se aos brasileiros e aos es-
+trangeiros residentes no País a inviolabilidade do direito à
+vida, à liberdade, à igualdade, à segurança e à propriedade,
+nos termos seguintes:
+(...)
+LIV - ninguém será privado da liberdade ou de seus bens sem
+o devido processo legal;
+(...)
+LVII - ninguém será considerado culpado até o trânsito em
+julgado de sentença penal condenatória;”
+
+Afinal, como é sabido, no caso de eventual decisão adminis-
+trativa proferida contra os contribuintes, lhes é facultada a possibilidade de se
+questionar o eventual débito tributário/previdenciário em vias judiciais.
+
+No ínterim procedimental normal das cobranças tributárias,
+como é de conhecimento geral, uma vez finalizado o contencioso administra-
+tivo desfavoravelmente ao contribuinte e definitivamente constituído o crédito
+tributário, é dever da Administração Pública a inscrição do débito em dívida
+ativa, possibilitando o ajuizamento de Execução Fiscal, nos termos da Lei nº
+6.830/80.
+
+Ajuizado o feito executivo, o contribuinte será citado para, em
+até 05 (cinco) dias, pagar a dívida ou garantir o débito (art.8º2 da Lei nº
+6.830/80). Somente após essa garantia poderá apresentar Embargos à Execu-
+
+2 Art. 8º - O executado será citado para, no prazo de 5 (cinco) dias, pagar a dívida com os juros e
+multa de mora e encargos indicados na Certidão de Dívida Ativa, ou garantir a execução, observadas
+as seguintes normas:
+
+11
+
+[[pagina 12 | nativo]]
+
+ção Fiscal, ação de conhecimento apta a desconstituir a presunção relativa de
+liquidez e certeza da certidão de dívida ativa.
+
+Ocorre que, entre a finalização do procedimento administrati-
+vo e o efetivo ajuizamento da Execução Fiscal, em regra, transcorre-se prazo
+absolutamente elevado, valendo relembrar que o prazo de prescrição para o
+fisco ajuizar o feito executivo é de até 05 anos (art. 1743 do CTN).
+
+Ou seja, entre a finalização do procedimento administrativo e
+o efetivo ajuizamento da Execução Fiscal o contribuinte estará à mercê da
+Administração Pública, período durante o qual, ao teor do art. 32 da Lei nº
+4.357/64, não poderá pagar bonificações ou distribuir lucros, sob pena de lhe
+ser aplicada penalidade.
+
+Essa limitação, porém, é absolutamente irrazoável, seja por-
+que imputada à mora da própria Administração Pública com o ajuizamento da
+Execução Fiscal, seja porque a própria legislação federal – Lei nº 6.830/80,
+por exemplo – permite que o contribuinte discuta judicialmente a legitimidade
+do débito executado.
+
+Portanto, a se prevalecer a regra contida no art. 32 da Lei
+nº 4.357/64, em verdade, se estaria criando verdadeira norma de exceção,
+impedindo o contribuinte de exercer a contento sua atividade empresari-
+al, a despeito de não se ter finalizado o devido processo legal – em alguns
+casos, aliás, como aqueles de mora da Administração Pública no ajuizamento
+da ação, ele não terá sequer começado. Seria, assim, nefasto exemplo de supe-
+ração injustificada do princípio do “indubio pro reu”, corolário do Estado
+Democrático de Direito.
+
+Vale lembrar, ainda, que a Administração Pública dispõe de
+forma específica e mais benéfica para a cobrança de seus créditos, regulamen-
+tada na já citada Lei nº 6.830/80.
+
+Essa norma, naturalmente, para além de garantir plena per-
+cepção estatal dos valores executados é, ainda, instrumento de garantia dos
+contribuintes de que lhes será oportunizada a ampla defesa e o contraditório
+antes de serem constritos os seus bens.
+
+3 Art. 174. A ação para a cobrança do crédito tributário prescreve em cinco anos, contados da data da
+sua constituição definitiva.
+
+12
+
+[[pagina 13 | nativo]]
+
+Justamente por isso é que esse E. Supremo Tribunal Federal já
+se manifestou, em mais de uma oportunidade, no sentido de que, em tendo a
+Fazenda Pública meio próprio de cobrar tributos, deve o mesmo ser observa-
+do, sob pena de mitigação ao contraditório e a ampla defesa dos contribuintes.
+Nesse sentido, veja-se manifestações colhidas quando do julgamento do RE nº
+413.782/SC:
+
+“A Fazenda há de procurar o Judiciário visando à cobrança,
+via executivo fiscal, do que devido, mostrando-se impertinen-
+te recorrer a métodos que acabem inviabilizando a própria ati-
+vidade econômica, como é o relativo à proibição de as empre-
+sas em débito, no tocante a obrigações, principal e acessórias,
+vir a emitir documentos considerados como incluídos no gê-
+nero fiscal.
+
+(...)
+
+O objetivo é único, é um meio coercitivo para recolhimento
+do débito e, para chegar-se ao recolhimento, temos o judiciá-
+rio, o executivo fiscal” (Ministro Marco Aurélio)
+
+***
+
+“Senhor Presidente, como já me manifestei inicialmente, não
+entraria nessa discussão ou na tecnicalidade do tributo. A
+mim, afigura-se bastante e suficiente a consideração de que o
+Estado, como demonstrou o Ministro Marco Aurélio, dispõe
+de meios outros para efetuar a cobrança e de que a fórmula
+adotada pelo Estado, a meu ver, não passa no teste da propor-
+cionalidade.” (Ministro Gilmar Mendes)
+
+***
+
+“A circunstância de não se revelarem absolutos os direitos e
+garantias individuais proclamados no texto constitucional não
+significa que a Administração Tributária possa frustrar o e-
+xercício da atividade empresarial ou profissional do contribu-
+inte, impondo-lhe exigências gravosas, que, não obstante as
+prerrogativas extraordinárias (já) garantem o crédito tributá-
+rio, visem, em última análise, a constranger o devedor a sa-
+
+13
+
+[[pagina 14 | nativo]]
+
+tisfazer débitos fiscais que sobre ele incidam” (Ministro Celso
+de Mello)
+
+Também por esse motivo deve ser reconhecida a inconsti-
+tucionalidade do art. 17 da Lei nº 11.051/04, o qual reavivou o art. 32 da Lei
+nº 4.357/64, com a consequente declaração de inconstitucionalidade tanto des-
+ses dispositivos quanto, por arrastamento, do art. 52 da Lei nº 8.212/91.
+
+2.3 – A inconstitucionalidade por violação princípio de proporcionalidade,
+fundado no “substantive due process of law”, emanado pelo art. 5ª, inciso
+LIV da Constituição Federal.
+
+Sobre as duas vertentes do princípio do devido processo legal
+insculpido no art. 5º, inciso LIV, da Constituição Federal, já transcrito alhures,
+manifestou-se com propriedade e objetividade o Ex-ministro desse E. Supre-
+mo Tribunal Federal, Dr. Carlos Velloso, notadamente quando do julgamento
+da ADI 1.511-MC (DJ 06/06/03):
+
+“Abrindo o debate, deixo expresso que a Constituição de
+1988 consagra o devido processo legal nos seus dois aspec-
+tos, substantivo e processual, nos incisos LIV e LV, do art. 5º,
+respectivamente. (...) Due process of law, com conteúdo
+substantivo — substantive due process — constitui limite
+ao Legislativo, no sentido de que as leis devem ser elabora-
+das com justiça, devem ser dotadas de razoabilidade (reaso-
+nableness) e de racionalidade (rationality), devem guardar,
+segundo W. Holmes, um real e substancial nexo com o obje-
+tivo que se quer atingir. Paralelamente, due process of law,
+com caráter processual — procedural due process — garante
+às pessoas um procedimento judicial justo, com direito de de-
+fesa."
+
+(grifou-se)
+
+No presente tópico, portanto, será abordado o devido processo
+legal em seu conteúdo substantivo, especialmente para se demonstrar que a
+norma decorrente do art. 32 da Lei nº 4.357/64 não escapa ao teste da razoabi-
+lidade/proporcionalidade.
+
+14
+
+[[pagina 15 | nativo]]
+
+Sobre o princípio da Proporcionalidade, notadamente no que
+toca às suas vertentes de adequação, necessidade e proporcionalidade em sen-
+tido estrito, já se manifestou em obra doutrinária o Exmo. Ministro Gilmar
+Mendes:
+
+"A doutrina constitucional mais moderna enfatiza que, em
+se tratando de imposição de restrições a determinados direi-
+tos, deve-se indagar não apenas sobre a admissibilidade
+constitucional da restrição eventualmente fixada (reserva
+legal), mas também sobre a compatibilidade das restrições
+estabelecidas com o princípio da proporcionalidade.
+Essa nova orientação, que permitiu converter o princípio da
+reserva legal (Gesetzesvorbehalt) no princípio da reserva le-
+gal proporcional (Vorbehalt des verhältnismässigen Geset-
+zes), pressupõe não só a legitimidade dos meios utilizados e
+dos fins perseguidos pelo legislador, mas também a adequa-
+ção desses meios para consecução dos objetivos pretendidos
+(Geeignetheit) e a necessidade de sua utilização (Notwendig-
+keit oder Erforderlichkeit). Um juízo definitivo sobre a pro-
+porcionalidade ou razoabilidade da medida há de resultar da
+rigorosa ponderação entre o significado da intervenção para
+o atingido e os objetivos perseguidos pelo legislador (propor-
+cionalidade ou razoabilidade em sentido estrito).
+O pressuposto da adequação (Geeignetheit) exige que as me-
+didas interventivas adotadas mostrem-se aptas a atingir os
+objetivos pretendidos. O requisito da necessidade ou da exi-
+gibilidade (Notwendigkeit oder Erforderlichkeit) significa
+que nenhum meio menos gravoso para o indivíduo revelar-
+se-ia igualmente eficaz na consecução dos objetivos preten-
+didos. Assim, apenas o que é adequado pode ser necessário,
+mas o que é necessário não pode ser inadequado.”4
+
+(destacou-se)
+
+Dessa forma, atualmente, para que uma norma jurídica seja
+válida não basta que ela se sujeite tão somente à reserva da legalidade, ela de-
+
+4 Mendes, Gilmar Ferreira. A Proporcionalidade na Jurisprudência do STF. Daqui extraído:
+http://webcache.googleusercontent.com/search?q=cache:6UMSeLTj9BIJ:www.gilmarmendes.org.br/i
+ndex.php%3Foption%3Dcom_phocadownload%26view%3Dcategory%26download%3D114:a-
+proporcionalidade-na-jurisprudencia-do-supremo-tribunal-federal%26id%3D3:controle-concreto-de-
+normas%26Itemid%3D74+&cd=2&hl=pt-BR&ct=clnk&gl=br
+
+15
+
+[[pagina 16 | nativo]]
+
+verá, ainda, demonstrar-se proporcional, percorrendo o caminho da adequação,
+necessidade e proporcionalidade em sentido estrito.
+
+Analisando objetivamente a norma decorrente do art. 32 da
+Lei nº 4.357/64 vê-se, no entanto, que ela não passa no teste da proporcionali-
+dade.
+
+Isso porque ainda que ela possa ser considerada norma ade-
+quada para maximizar o pagamento de débitos tributários, ela claramente não
+é necessária. Ou seja, dentre os meios possíveis para atingimento de determi-
+nado fim ela não é a menos prejudicial, tampouco é proporcional em sentido
+estrito, noutros termos, o mal que ela ocasiona não é proporcional ao bem que
+ela pretende garantir.
+
+Além de ser um meio inapropriado, data venia, a norma em
+questão é um instrumento mais danoso e ineficiente que todos os demais mei-
+os disponíveis para a cobrança ou garantia de débitos tributá-
+rios/previdenciários federais, a saber: (i) a Execução Fiscal (Lei nº 6.830/80);
+(ii) a Ação Cautelar Fiscal (Lei nº 8.397/92); (iii) a fraude à Execução Fiscal
+(arts. 184 e 185 do CTN); (iv) a penhora online; (v) o arrolamento para acom-
+panhamento do patrimônio do contribuinte em débito (art. 64 da Lei nº
+9.532/97). Esse fato, pois, já demonstra a desnecessidade da norma.
+
+Também não se vislumbra a proporcionalidade em sentido es-
+trito no caso em destaque. Afinal, como já decidiu esse E. Supremo Tribunal
+Federal mais de uma vez, não se pode mitigar a livre iniciativa do contribu-
+inte para pressionar o pagamento de tributos. A sanção política não se
+presta à coação para pagamento de tributos.
+
+Esse é o racional que se depreende dos enunciados de súmula
+do STF nºs 70; 323 e 547, já transcritos nesta peça.
+
+Aliás, o pleno desse E. Supremo Tribunal Federal, analisando
+a constitucionalidade de normas que exigia que o contribuinte não tivesse dé-
+bitos em aberto para poder receber os valores expressos em precatórios judici-
+ais, com base na desproporcionalidade, concluiu pela inconstitucionalidade da
+norma.
+
+16
+
+[[pagina 17 | nativo]]
+
+O raciocínio desenvolvido no julgamento da ADI nº 3.453-7
+aplica-se integralmente ao caso presente, sendo precisas as palavras que lá
+foram cunhadas pelo E. Ministro Cezar Peluso:
+
+“Finalmente, a norma desarrazoada do ponto de vista prático.
+Por quê? Porque todos conhecemos, isso é fato público e no-
+tório, que a obtenção de certidão negativa, não em todas as es-
+feras, mas, sem dúvida nenhuma, em algumas delas, e a nor-
+ma não abre nenhuma exceção, abrange todas, há dificuldades
+de ordem prática em obter a certidão.
+
+Aproveito a oportunidade para fazer menção a um caso con-
+creto em que tive necessidade de obter certidão para fazer um
+negócio jurídico. Constava, na Receita Federal, a seguinte
+notícia no “site”: a situação atual do contribuinte não per-
+mite reconhecer-lhe plena regularidade.
+
+Eu que tenho o imposto recolhido compulsoriamente na fonte
+pensei: o que terá acontecido com o Tribunal de Justiça de
+São Paulo ou com o Supremo Tribunal Federal que não reco-
+lheram o imposto de renda devido? Fui ver do que se tratava.
+Era diferença de SELIC, no tempo em que isso ainda era
+calculado pelo contribuinte, de zero vírgula não sei quantos
+centavos, que, naquela data, depois de não sei quantos anos,
+dava quatro reais e alguma coisa. Eu não ia conseguir obter
+certidão sem demonstrar que não estava devendo. Isso, sem
+contar – e também é fato conhecido – que, em outras esferas,
+para se obter certidão, por exemplo, de prefeitura, o cidadão
+tem de levantar no arquivo do avô todos os carnês pagos, se
+não, não sairá com menos de cento e vinte dias. Isso é uma di-
+ficuldade concreta, perante a qual o intérprete do direito não
+pode fechar os olhos.
+
+Eventual certidão erigiria, quando positiva, mera presunção de
+dívida, se estivesse inscrita. Ora, uma vez inscrita a dívida, a
+obrigação do órgão público é promover imediatamente a e-
+xecução fiscal. E está aí o modo adequado até para paralisar
+a cobrança do crédito do precatório, bastando ao órgão pú-
+blico que promova a penhora desse mesmo crédito. É, muito
+simples, inscrita a dívida, executa e penhora o crédito, não
+
+17
+
+[[pagina 18 | nativo]]
+
+havendo necessidade doutro expediente. O que demonstra,
+mais uma vez a meu juízo, que tem toda razão a eminente Mi-
+nistra-Relatora e os demais Ministros que a acompanharam,
+em não deixarem de ver aqui ofensa a múltiplas normas e
+princípios constitucionais.”
+
+(grifou-se)
+
+Também nesse prisma, se manifestou o E. Ministro Celso de
+Mello no julgamento do RE nº 402.769/RS, como se nota de sua ementa:
+
+“SANÇÕES POLÍTICAS NO DIREITO TRIBUTÁRIO. I-
+NADMISSIBILIDADE DA UTILIZAÇÃO, PELO PODER
+PÚBLICO, DE MEIOS GRAVOSOS E INDIRETOS DE
+COERÇÃO ESTATAL DESTINADOS A COMPELIR O
+CONTRIBUINTE INADIMPLENTE A PAGAR O TRIBU-
+TO (SÚMULAS 70, 323 E 547 DO STF). RESTRIÇÕES
+ESTATAIS, QUE, FUNDADAS EM EXIGÊNCIAS QUE
+TRANSGRIDEM OS POSTULADOS DA RAZOABILIDA-
+DE E DA PROPORCIONALIDADE EM SENTIDO ES-
+TRITO, CULMINAM POR INVIABILIZAR, SEM JUSTO
+FUNDAMENTO, O EXERCÍCIO, PELO SUJEITO PASSIVO
+DA OBRIGAÇÃO TRIBUTÁRIA, DE ATIVIDADE ECONÔ-
+MICA OU PROFISSIONAL LÍCITA. LIMITAÇÕES ARBI-
+TRÁRIAS QUE NÃO PODEM SER IMPOSTAS PELO ESTA-
+DO AO CONTRIBUINTE EM DÉBITO, SOB PENA DE O-
+FENSA AO "SUBSTANTIVE DUE PROCESS OF LAW". IM-
+POSSIBILIDADE CONSTITUCIONAL DE O ESTADO LE-
+GISLAR DE MODO ABUSIVO OU IMODERADO (RTJ
+160/140-141 - RTJ 173/807-808 - RTJ 178/22-24). O PODER
+DE TRIBUTAR - QUE ENCONTRA LIMITAÇÕES ESSEN-
+CIAIS NO PRÓPRIO TEXTO CONSTITUCIONAL, INSTITU-
+ÍDAS EM FAVOR DO CONTRIBUINTE - "NÃO PODE
+CHEGAR À DESMEDIDA DO PODER DE DESTRUIR"
+(MIN. OROSIMBO NONATO, RDA 34/132). A PRERRO-
+GATIVA ESTATAL DE TRIBUTAR TRADUZ PODER
+CUJO EXERCÍCIO NÃO PODE COMPROMETER A LI-
+BERDADE DE TRABALHO, DE COMÉRCIO E DE IN-
+DÚSTRIA DO CONTRIBUINTE. A SIGNIFICAÇÃO TU-
+TELAR, EM NOSSO SISTEMA JURÍDICO, DO "ESTA-
+
+18
+
+[[pagina 19 | nativo]]
+
+TUTO CONSTITUCIONAL DO CONTRIBUINTE". DOU-
+TRINA. PRECEDENTES. RECURSO EXTRAORDINÁRIO
+CONHECIDO E PROVIDO”
+
+(destacou-se)
+
+É tão ululante a desproporcionalidade da norma em comento
+que não é difícil imaginar, se eventualmente ela for validada por esse E. Tri-
+bunal Constitucional – o que se admite tão somente em reverência ao principio
+da eventualidade -, que incentivará os demais entes federativos – mais de
+5.000 Municípios e 27 Estados – a adotarem regras semelhantes, o que torna-
+ria inviável a vida empresarial no Brasil.
+
+Chegar-se-ia ao absurdo da pessoa jurídica ter que consultar
+milhares de entes para verificar a possibilidade de distribuir bonificações ou
+lucros aos sócios quotistas. Essa burocracia, em última análise, representaria
+restrição intransponível para as empresa, ensejando na morte e sepultamento
+dos institutos. Nada mais irrazoável, portanto.
+
+Com efeito, também sob o viés da proporcionalidade, deve ser
+declarada a inconstitucionalidade do art. 17 da Lei nº 11.051/04, com o conse-
+quente reconhecimento da inconstitucionalidade por arrastamento do art. 32 da
+Lei nº 4.357/64 e do art. 52 da Lei nº 8.212/91, com a redação dada pela Lei nº
+11.941/09.
+
+3 - DO PEDIDO CAUTELAR:
+
+Como se sabe, os artigos 10 e 11, da Lei n. 9.868, de 1999, per-
+mite a concessão de liminar em Ação Direta de inconstitucionalidade, tendo a
+doutrina afiançado tratar-se de medida que visa a antecipar os efeitos de even-
+tual decretação de inconstitucionalidade ao final do processo5, cujos requisitos
+para concessão da medida são os tradicionais: i) fumus boni iuris e ii) pericu-
+lum in mora.
+
+Ambos estão presentes no caso concreto.
+
+É que o dispositivo ora impugnado, ao apresentar total contrarie-
+dade ao apresentar contrariedade ao texto constitucional, conforme demons-
+
+5 Teori Zavascki, Eficácia das Sentenças na Jurisdição Constitucional. São Paulo: Revista dos
+Tribunais, 2001, pp. 61/64.
+
+19
+
+[[pagina 20 | nativo]]
+
+trado acima, deve ser imediatamente afastado do ordenamento jurídico pátrio,
+eis que nulo.
+
+Como leciona o Professor e hoje Ministro desse E. Tribunal, Lu-
+ís Roberto Barroso6:
+
+“(...)
+Nenhum ato legislativo contrário à Constituição pode ser válido.
+E a falta de validade traz como consequência a nulidade ou a
+anulabilidade. No caso da lei inconstitucional, aplica-se a san-
+ção mais grave, que é a de nulidade. Ato inconstitucional é ato
+nulo de pleno direito.
+(...)”
+
+Nesse sentido, sobejamente demonstrados os requisitos autoriza-
+dores para deferimento de cautelar.
+
+Evidente o fumus boni juris, pois os dispositivos guerreados des-
+naturam a proteção constitucional dada aos contribuintes. É dizer, viola: (i) o
+princípio da livre iniciativa, insculpido nos arts. 1º, inciso IV e 170 da Consti-
+tuição Federal; (ii) o devido processo legal formal e o “in dubio pro reo” ,
+previstos no art. 5º, incisos LIV e LVII da Constituição Federal; (iii) o princí-
+pio de proporcionalidade, fundado no “substantive due process of law”, ema-
+nado pelo art. 5ª, inciso LIV da Constituição Federal..
+
+Vale lembrar, no particular, excerto de obra da Ministra Cármem
+Lúcia, para quem:
+
+“... as conquistas relativas aos direitos fundamentais não podem
+ser destruídas, anuladas ou combalidas, por se cuidarem de a-
+vanços de toda a humanidade, e não dádivas estatais que pudes-
+sem ser retiradas segundo opiniões de momento ou eventuais
+maiorias parlamentares.”
+
+No que concerne ao periculum in mora é preciso perceber que a
+cada dia em que se perpetua o estado de inconstitucionalidade ocasionado pela
+lei ora impugnada maiores são os prejuízos aos contribuintes, que ficam limi-
+
+6 BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição
+sistemática da doutrina e análise crítica da jurisprudência, 2ª ed. São Paulo: Saraiva. 2006. p. 15
+
+20
+
+[[pagina 21 | nativo]]
+
+tados à distribuírem bonificações e participação nos lucros. Prejudicando as
+pessoas jurídicas e as pessoas físicas que deixam de recebê-los.
+
+Diante do exposto, requer o Conselho Federal da OAB a ime-
+diata suspensão da aplicação do art. 32 da Lei nº 4.357/64, cuja redação
+foi parcialmente modificada pelo art. 17 da Lei nº 11.051/04, bem assim
+do art. 52 da Lei nº 8.212/91, com a redação que lhe foi conferida pela Lei
+nº 11.941/09 – antes da audiência da Presidência da República e do Congresso
+Nacional, bem como da manifestação da AGU e da PGR, por decisão mono-
+crática, ad referendum do Plenário7, ou mediante a pronta inclusão do feito em
+pauta.
+
+4 - DO PEDIDO FINAL:
+
+Pelo exposto, o Conselho Federal da Ordem dos Advogados do
+Brasil requer:
+
+a) a concessão de medida cautelar, com base no art. 10, § 3º, da
+Lei nº 9.868/99 e antes da audiência da Presidência da República e do Con-
+gresso Nacional, bem como da manifestação da AGU e da PGR, por decisão
+monocrática, ad referendum do Plenário8, ou mediante a pronta inclusão do
+feito em pauta, para que seja determinada imediata suspensão da aplicação
+do art. 32 da Lei nº 4.357/64, com redação parcialmente modificada pelo
+art. 17 da Lei nº 11.051/04, bem assim do art. 52 da Lei nº 8.212/91, com a
+redação que lhe foi conferida pela Lei nº 11.941/09;
+
+b) a notificação da PRESIDÊNCIA DA REPÚBLICA, da
+CÂMARA DOS DEPUTADOS, e do SENADO FEDERAL, por intermédio
+de seus Presidentes, para que, como responsáveis pela elaboração das normas
+impugnadas, manifestem-se, querendo, sobre o mérito da presente ação, no
+prazo de 30 (trinta) dias, nos termos do art. 6º, parágrafo único da Lei nº
+9.868/99;
+
+c) a notificação do Exmo. Sr. Advogado-Geral da União para se
+manifestar sobre o mérito da presente ação;
+
+d) a notificação do Exmo. Sr. Procurador Geral da República pa-
+ra que emita o seu parecer, nos termos do art. 103, § 1º da Carta Política;
+
+7 Exemplo recente deste procedimento é a ADI nº 4.917/DF (DJe 21.03.2013).
+8 Exemplo recente deste procedimento é a ADI nº 4.917/DF (DJe 21.03.2013).
+
+21
+
+[[pagina 22 | nativo]]
+
+e) pede-se, por último, a procedência desta Ação Direta de In-
+constitucionalidade para que seja reconhecida a inconstitucionalidade do
+art. 17 da Lei nº 11.051/04, que alterou parcialmente o art. 32 da Lei nº
+4.357/64 e, por sua vez, a inconstitucionalidade por arrastamento do art.
+52 da Lei nº 8.212/91, com a redação dada pela Lei nº 11.941/09;
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de
+aferi-lo.
+
+Nesses termos, pede deferimento.
+
+Brasília/DF, 05 de setembro de 2014.
+
+Marcus Vinicius Furtado Coêlho
+Presidente do Conselho Federal da OAB
+OAB/PI 2525 – OAB/DF 18.958
+
+Luiz Gustavo A. S. Bichara
+Procurador Especial Tributário do Conselho Federal da OAB
+OAB/RJ 112.310
+
+Oswaldo Pinheiro Ribeiro Júnior
+OAB/DF 16.275
+
+22

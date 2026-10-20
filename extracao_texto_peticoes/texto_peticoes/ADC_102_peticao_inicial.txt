@@ -1,0 +1,1990 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+A Lei 15.190/2025, qualificada como norma geral
+federal aplicável aos integrantes do SISNAMA, é
+expressivo marco para o Brasil no que concerne à
+proteção do meio ambiente, na medida em que
+regula um dos mais importantes instrumentos
+instituídos pela Política Nacional do Meio
+Ambiente (Lei 6.938/1981): o Licenciamento
+Ambiental1
+
+CBIC - CÂMARA BRASILEIRA DA INDÚSTRIA DA CONSTRUÇÃO,
+pessoa jurídica de direito privado, inscrita no CNPJ n. 33.947.128/0001-16 (doc. 1), com
+sede em Brasília, DF, SBN, Quadra 1 Bloco 1, Ed. Armando Monteiro Neto, 4º andar,
+CEP n. 70040-913, vem por seus advogados devidamente constituídos (doc. 2), com
+fundamento nos artigos 102 e 103 da Constituição Federal C/C Lei nº 9.868/1999, propor
+a presente AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE da integralidade
+da Lei nº 15.190/2025 (doc. 3), conhecida como Lei Geral do Licenciamento Ambiental,
+nos termos que passa a expor.
+
+I - LEGITIMIDADE ATIVA E CABIMENTO DA ADC
+
+Preliminarmente, cumpre ressaltar a legitimidade da CBIC, enquanto entidade
+de classe de âmbito nacional, para figurar como autora da presente ADC, bem como a
+necessidade de propositura desta ação de controle de constitucionalidade.
+
+1 MILARÉ, Édis. Lei Geral do Licenciamento Ambiental: Lei 15.190/2025, comentários artigo por artigo. Rio
+de Janeiro: Forense, 2026, p. 2.
+
+Florianópolis/SC - Av. Trompowsky, 291, Torre II, Sala 1104, CEP: 88015-300 - Contato: (48) 3024-5590
+Rio de Janeiro/RJ - R. Jardim Botânico, 657, Sala 314, CEP: 22470-050 - Contato: (21) 3559-2005
+São Paulo/SP - Av. Engenheiro Luís Carlos Berrini, 105, Sala 1902, CEP: 04571-010 - Contato: (11) 3539-9036
+www.saesadvogados.com.br - contato@saesadvogados.com.br
+
+[[pagina 2 | nativo]]
+
+​
+
+O rol de legitimados para propositura de ADCs, previsto na constituição, foi
+ampliado pela EC nº 45/2004, equiparando-se à previsão anteriormente aplicável apenas
+às ADIs. E essa ampliação trouxe reflexos positivos, sendo elogiada pela doutrina:
+
+Como observado anteriormente, a ampliação das pessoas e órgãos
+legitimados a provocar a fiscalização abstrata de inconstitucionalidade,
+nos termos do art. 103 da Constituição, deu maior relevo ao controle por
+ação direta e concentrado no sistema brasileiro. [...] Já o direito de
+propositura da ação declaratória de constitucionalidade, antes
+circunscrito aos órgãos federais (Presidente da República, Mesas da Câmara
+dos Deputados e do Senado Federal, e Procurador-Geral da República), foi
+ampliado para se equiparar ao da ação direta de inconstitucionalidade,
+conforme alteração trazida pela Emenda Constitucional n. 45, de 2004,
+que conferiu nova redação ao art. 103 da Constituição Federal2.
+
+A modificação atendeu a antiga reivindicação da doutrina, além de
+superar a jurisprudência restritiva que se formara na matéria3.
+
+Assim, nos termos do inciso IX do art. 103 da Constituição Federal, as
+entidades de classe de âmbito nacional são partes legítimas para a propositura de ADCs,
+sendo necessária a comprovação da sua abrangência em, ao menos, nove estados da
+federação para a configuração do “âmbito nacional”.
+
+Pois bem, a CBIC foi fundada em 1957, no Estado do Rio de Janeiro, com o
+objetivo de tratar de questões ligadas à Indústria da Construção e ao Mercado Imobiliário,
+e de ser a representante do setor no Brasil e no exterior. Sediada em Brasília, a CBIC
+reúne 77 sindicatos e associações patronais do setor da construção das 27 unidades
+da Federação, representando politicamente o setor e promovendo a integração da cadeia
+produtiva da construção, em âmbito nacional, contribuindo para o desenvolvimento
+econômico e social do País4. A lista completa de associados pode ser conferida no sítio
+eletrônico da entidade: https://cbic.org.br/associados/.
+
+Comprovada, portanto, a abrangência nacional, faz-se necessário destaque
+acerca da pertinência temática para a propositura da presente ADC. É inegável que o setor
+imobiliário e da construção depende do licenciamento ambiental, de forma que a Lei nº
+15.190/2025 se mostra instrumento fundamental para o correto desenvolvimento das
+atividades dos associados da entidade autora. Evidente, também, que a discussão sobre sua
+constitucionalidade e a possibilidade da suspensão dos seus efeitos e posterior declaração
+de inconstitucionalidade traz enorme insegurança jurídica ao setor.
+
+2 BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição sistemática da
+doutrina e análise crítica da jurisprudência. 6. ed. rev. e atual. São Paulo: Saraiva, 2012, p. 54.
+3 BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição sistemática da
+doutrina e análise crítica da jurisprudência. 6. ed. rev. e atual. São Paulo: Saraiva, 2012, p. 155.
+4 Disponível em: https://cbic.org.br/wp-content/uploads/2017/11/Etica_e_Compliance_Volume_II_2016.pdf
+
+2
+
+[[pagina 3 | nativo]]
+
+​
+
+Ademais, o Estatuto da CBIC (doc. 1) não deixa dúvidas acerca da sua
+caracterização (art. 1º), objetivos (art. 3º) e condição dos seus associados (Título II - art. 9º
+e seguintes). Tudo em completa consonância com os requisitos para a propositura de
+ADC.
+
+Pertinente ressaltar que este STF já entendeu pela “impossibilidade de
+exigência de pertinência temática de forma estrita”. Ou seja, o fato de a Lei 15.190/2025
+dispor sobre o licenciamento ambiental de forma geral, e não apenas nos aspectos
+relacionados ao setor imobiliário e da construção, em nada impede ou limita a
+legitimidade da CBIC, como se observa:
+
+Agravo regimental em ação declaratória de constitucionalidade. Normas
+relativas à concessão do benefício da justiça gratuita no âmbito da Justiça do
+Trabalho. Dispositivos legais cuja interpretação interessa indistintamente a
+qualquer categoria. Legitimidade ativa . Impossibilidade de exigência de
+pertinência temática de forma estrita, sob pena de restrição da discussão
+constitucional apenas aos legitimados universais. Relevância da
+controvérsia judicial que se afere pela probabilidade de ser suscitada em
+todos os processos em tramitação na Justiça Laboral. Agravo regimental ao
+qual se dá provimento. 1 . A exigência da pertinência temática é verdadeira
+projeção do interesse de agir no processo objetivo, o qual se traduz na
+necessidade de que exista uma estreita relação entre o objeto do controle e a
+defesa dos direitos da classe representada pela entidade requerente. 2. Essa
+orientação, contudo, não deve ser aplicada em situações em que não haja a
+possibilidade de uma solução parcial, aplicável apenas ao segmento social
+representado pela parte autora, dada a natureza das normas em discussão,
+como ocorre no caso dos autos, em que se discute a constitucionalidade de
+normas relativas à concessão do benefício da justiça gratuita no âmbito da
+Justiça do Trabalho, aplicável a qualquer categoria que venha a demandar na
+seara trabalhista. 3 . Ao se interpretar o requisito da pertinência temática
+unicamente sob a óptica tradicional, estar-se-ia negando o direito de
+postular em sede de controle de constitucionalidade a qualquer entidade de
+classe, haja vista que normas como as que ora se analisam aplicam-se
+indistintamente em processos em que figurem toda e qualquer categoria
+profissional ou econômica que demande na Justiça do Trabalho, de modo
+que nenhuma delas abrangeria a totalidade de interessados na causa. Com
+efeito, não se poderia, sem o risco de se apequenar o acesso à jurisdição
+constitucional, condicionar que o questionamento seja trazido à Suprema
+Corte apenas por um dos legitimados universais...
+(STF - ADC 80, Rel. Min. Edson Fachin, j. em 18/10/2023, Tribunal Pleno, p.
+em 14/11/2023)
+
+A (in)constitucionalidade da Lei nº 15.190/2025 não está restrita a determinado
+tipo de atividade. Em outras palavras, não é possível declarar a constitucionalidade da
+norma apenas com relação ao setor da Construção Civil, por exemplo.
+
+3
+
+[[pagina 4 | nativo]]
+
+​
+
+Assim, percebe-se o cumprimento dos requisitos necessários para que esteja
+configurada a possibilidade da CBIC ingressar com ação de controle concentrado de
+constitucionalidade com relação à Lei Geral do Licenciamento Ambiental, em sua
+totalidade.
+
+Por fim, cumpre ressaltar que a CBIC já figurou como Amicus Curiae
+múltiplas vezes perante este c. Tribunal Superior5, de forma que a discussão sobre
+constitucionalidade no âmbito do STF não é novidade para a autora. Contudo, e já
+destacando a necessidade da propositura da presente ADC, a intervenção como Amicus
+Curiae nas ADIs já propostas não se mostra suficiente para a satisfação da controvérsia no
+presente caso
+
+Como se sabe, as ADCs devem ser propostas quando houver controvérsia
+jurídica acerca da constitucionalidade de determinada lei. No presente caso, a controvérsia
+é inegável, considerando que já foram propostas três ADIs (7913, 7916 e 7919), além da
+possibilidade de declaração incidental de inconstitucionalidade por tribunais locais.
+
+Importante destacar, ainda, que o julgamento pela improcedência das ADIs
+não encerraria a questão, uma vez que questionam dispositivos específicos da lei. Ou
+seja, sem a presente ADC, a constitucionalidade de outros dispositivos da Lei nº
+15.190/2025, não elencados nas ADIs mencionadas, ainda poderiam ser alvo de
+questionamentos futuros.
+
+Dessa forma, demonstrado o cumprimento dos requisitos necessários,
+requer-se o conhecimento e processamento da presente Ação Declaratória de
+Constitucionalidade e, pelos fundamentos expostos a seguir, o julgamento pela
+procedência da ADC e consequente declaração de constitucionalidade da integralidade da
+Lei nº 15.190/2025.
+
+II - CONTEXTUALIZAÇÃO
+
+Após mais de 20 anos de intensos debates no âmbito político e institucional,
+foi promulgada, em 08 de agosto de 2025, a Lei nº 15.190/2025, diploma legal que
+estabelece normas gerais aplicáveis ao licenciamento ambiental em todo o território
+nacional.
+
+5 Além do pedido de intervenção pendente de análise na ADI 7146 (Lei nº 14.285/2021), a CBIC atuou como
+Amicus Curiae na ADI 6446 (artigos 61-A e 61-B da Lei n° 12.651/2012 e artigos 2º, § único, 5º e 17 da Lei nº
+11.428/2006), na ADPF 639 (Orientação Normativa da SPU “ON-GEADE-002”, aprovada pela portaria nº
+162/2001), na ADPF 623 (Decreto n. 9.806/2019 - Composição e o funcionamento do Conama) e nas ADPFs
+747, 748 e 749 (Resolução CONAMA nº 500/2020).
+
+4
+
+[[pagina 5 | nativo]]
+
+​
+
+O texto legal, inicialmente sancionado com vetos presidenciais, teve tais
+objeções posteriormente rejeitadas pelo Congresso Nacional, culminando em nova
+promulgação, em 05 de dezembro de 2025, pelo Presidente do Senado Federal,
+consolidando a redação definitiva da Lei Geral do Licenciamento Ambiental.
+
+Referida norma representa a primeira iniciativa legislativa de caráter nacional
+voltada à sistematização do regime jurídico do licenciamento ambiental, instrumento que
+desde sua introdução pela Política Nacional do Meio Ambiente (Lei nº 6.938/1981)
+carecia de tratamento unificado. Carecia, portanto, de norma geral que unificasse o
+licenciamento ambiental brasileiro.
+
+Contudo, apesar do avanço legislativo em matéria ambiental, não tardou para
+que partidos políticos e entidades da sociedade civil — que, inclusive, participaram
+ativamente do processo de elaboração da norma — passassem a questionar a
+compatibilidade do novo regramento com a Constituição Federal. Ou, como se nota da
+leitura das ADIs propostas, fica claro que é uma insurgência contra o texto. Nada mais do
+que isso!
+
+Isso porque apesar do louvável esforço, não logram êxito em demonstrar
+tais ofensas à Carta Magna. Resta clarividente que os partidos políticos autores
+perderam no debate legislativo, perderam na votação no Congresso Nacional, viram
+os vetos que defendiam ser derrubados por esse Congresso e agora buscam essa Casa
+Constitucional para tentar desmantelar um texto legislativo que eles “não gostaram”
+mas não conseguem demonstrar sua inconstitucionalidade, data máxima vênia.
+
+Sob a alegação de violação ao regime constitucional de competências
+ambientais, de redução do nível de proteção ambiental anteriormente existente (em uma
+lei procedimental!!) e de afronta aos princípios da prevenção, da vedação ao retrocesso(!)
+e ao dever de proteção do meio ambiente, a matéria já foi submetida ao Supremo Tribunal
+Federal em ações de controle concentrado, a exemplo das ADIs n. 7913, 7916 e 7919.
+
+A multiplicidade de ações propostas revela, no entanto, como já acima
+dito, o deslocamento para a arena jurisdicional de divergências políticas já
+devidamente tratadas no curso do processo legislativo. Em outras palavras, busca-se
+suplantar decisões políticas legítimas por interesses de grupos vencidos no debate
+legislativo. De novo, apenas a presença de entidades que também participaram dos
+debates legislativos e também parecem não ter gostado da redação final.
+
+Não causa espanto a conduta adotada por essas entidades políticas. Em
+verdade, essa dinâmica tem se tornado regra. Exemplo disso é que não há, na história
+recente do país, uma norma editada pelo Congresso Nacional em matéria ambiental que
+
+5
+
+[[pagina 6 | nativo]]
+
+​
+
+não tenha sido objeto de questionamento sob alegações genéricas e sem parâmetros
+objetivos.
+
+Mesmo diplomas estruturantes, indispensáveis à instrumentalização da
+sistemática nacional de gestão ambiental, como a LC 140/2011 e a Lei nº 12.651/2012
+(Código Florestal), sofreram tentativas de fragmentação veiculadas em, ao menos, 5 ADIs
+distintas6. Mais recentemente, o alvo dessa estratégia foi a Lei nº 14.285/2021, que, apesar
+da louvável tentativa de regulamentar uma realidade que afeta diretamente a vida de
+centenas de milhares de brasileiros (as áreas de preservação permanente no entorno de
+cursos d’água em áreas urbanas consolidadas), tem hoje sua constitucionalidade
+questionada por meio da ADI 7146.
+
+É firme nesta corte o entendimento de que argumentos abstratos, assentados
+em premissas genéricas, sem balizas claras — calcados na suposta “maior ou menor
+eficiência” de uma determinada norma —, tendentes a infirmar escolhas legislativas
+legítimas, não podem servir a esse propósito em sede de controle concentrado de
+constitucionalidade. É o que se extrai da ADI 4757, que questionava a constitucionalidade
+da LC 140/2011:
+
+CONSTITUCIONAL. AMBIENTAL. FEDERALISMO COOPERATIVO.
+COMPETÊNCIA COMUM EM MATÉRIA AMBIENTAL. PARÁGRAFO
+ÚNICO DO ART. 23 CF. LEI COMPLEMENTAR Nº 140/2011. [...]
+LIMITES DA COGNIÇÃO JURISDICIONAL NO CONTROLE
+CONCENTRADO DE CONSTITUCIONALIDADE. INTERPRETAÇÃO
+CONFORME À CONSTITUIÇÃO FEDERAL ATRIBUÍDA AO § 4º DO
+ART. 14 E AO 3º DO ART. 17. PROCEDÊNCIA PARCIAL
+[...]
+12. O juízo de constitucionalidade não autoriza afirmação no sentido de
+que a escolha legislativa é a melhor, por apresentar os melhores
+resultados em termos de gestão, eficiência e efetividade ambiental, mas
+que está nos limites da moldura constitucional da conformação decisória. Daí
+porque se exige dos poderes com funções precípuas legislativas e normativas
+o permanente ajuste da legislação às particularidades e aos conflitos sociais.
+[...]
+(STF - ADI 4757, Rela. Min. Rosa Weber, j. em 13/12/2022, Tribunal Pleno,
+p. em 17/03/2023)
+
+Do mencionado julgamento, importa destacar, ainda, trechos do voto da
+eminente relatora, Ministra Rosa Weber, constante as fls. 118-120 do inteiro teor do
+acórdão publicado em 17/03/2023:
+
+6 A Lei Complementar nº 140/2011 foi objeto de questionamento na ADI nº 4757. Por sua vez, pretensões
+voltadas à declaração de inconstitucionalidade de dispositivos da Lei nº 12.651/2012 foram veiculadas nas ADIs
+nº 4901, 4902, 4903 e 4937.
+
+6
+
+[[pagina 7 | nativo]]
+
+​
+
+Não cabe ao Supremo Tribunal Federal elaborar políticas públicas
+ambientais ou escolher alternativas normativas aos desenhos
+institucionais aprovados pelo Poder Legislativo ou Pode Executivo, seja
+por não dispor do conhecimento técnico e altamente especializado necessário
+para especificar a engenharia administrativa e institucional adequada para o
+sucesso de um modelo de gestão ambiental, seja por não ser este o espaço
+idealizado pela Constituição para o debate em torno desse tipo de assunto
+[...]
+Assim dizendo, a constitucionalidade de determinada regra ou conjunto
+normativo não significa que o legislador não possa alterar o desenho
+institucional eleito, de modo a acompanhar as inovações exigidas pelo
+transcurso do tempo e mesmo a adaptação necessária para a eliminação
+dos obstáculos e debilidades verificadas na aplicação da legislação. Ao
+contrário, esse chamado é contínuo e aberto ao legislador, em diálogo com a
+sociedade civil, os órgãos administrativos competentes e a comunidade
+científica.​
+[...] ​
+Por isso, que a leitura estática e abstrata dos atos normativos não
+permite juízos de inferências prováveis de inconstitucionalidade por
+aplicações das regras. Esse juízo é aderente ao formato incidental difuso da
+jurisdição constitucional. Seria impossível e frustrante categorizar
+antecipadamente as incidências concretas de regras e os efeitos
+inconstitucionais correlatos por inadimplemento dos deveres de proteção
+aos direitos fundamentais, por exemplo. Os casos que informaram os fatos
+e nuances interpretativas necessárias para o juízo de (in)constitucionalidade.
+
+Contudo, apesar de ser notório o descabimento da pretensão dos vencidos, a
+emergência de controvérsias constitucionais voltadas à fragmentação do novo regime
+jurídico instituído, denotam a necessidade da presente ação declaratória de
+constitucionalidade para assegurar estabilidade institucional e segurança jurídica quanto à
+validade da Lei Geral do Licenciamento Ambiental, afastando interpretações que
+pretendem invalidar opções normativas legitimamente adotadas pelo Congresso Nacional
+no exercício de sua competência legislativa.
+
+Para adequada compreensão da controvérsia constitucional ora posta em
+debate, mostra-se necessário, antes de se adentrar nas minúcias da norma objeto desta
+ação, situar o licenciamento ambiental no contexto histórico de formação da política
+ambiental brasileira e da evolução normativa desse instrumento, a fim de demonstrar que a
+Lei nº 15.190/2025 não representa ruptura com o sistema de proteção ambiental existente,
+mas sim um esforço legislativo de organização, sistematização e unificação de sua
+disciplina jurídica.
+
+Pois sim, é inconteste que a lei trouxe uniformização para o licenciamento
+ambiental brasileiro independente do ente que o realizará; trouxe simplificação ao ter uma
+regra única e clara; trouxe modernização ao prever processos eletrônicos, acesso à
+
+7
+
+[[pagina 8 | nativo]]
+
+​
+
+informação, procedimentos simplificados, entre outros avanços, culminando com maior
+segurança jurídica a todos os envolvidos na busca do desenvolvimento sustentável em
+nosso país. Garantirá, assim, o correto uso de recursos naturais para a realização de
+novos empreendimentos, garantindo um meio ambiente ecologicamente equilibrado
+para as presentes e futuras gerações, conforme determinado pelo mandamento
+constitucional previsto no art. 225 de nossa Carta Magna.
+
+II.1 - Histórico e Sistematização do Licenciamento Ambiental no Brasil
+
+Não se pode reputar como “retrocesso ambiental” a primeira lei federal
+que pretendeu, de forma efetiva, suprir lacunas e dissensos históricos, unificando o
+tratamento dado ao licenciamento ambiental no Brasil. Pretendeu e conseguiu tal
+mote!
+
+A menos que se ignore a natureza sistêmica da norma e o histórico conturbado
+da evolução do sistema de gestão ambiental no país, é inegável a relevância desse
+instrumento no cenário de perfectibilização do sistema de gestão ambiental brasileiro e a
+sua compatibilização com o próprio dever de proteção ambiental insculpido no artigo 225
+da Constituição Federal.
+
+Exemplos de atos administrativos e normas esparsas voltadas ao controle de
+atividades e empreendimentos sobre recursos naturais em território brasileiro podem ser
+encontrados desde os tempos de Brasil Colônia, sob as Ordenações do Reino de Portugal7.
+
+Contudo, conforme expõe Édis Milaré8, foi somente da década de 80, sob
+influência da Conferência de Estocolmo de 1972, e do Programa das Nações Unidas para
+o Meio Ambiente - PNUMA, que um grande influxo de normas mais ambiciosas,
+“voltadas para a proteção do patrimônio ambiental” e orientadas por uma visão “global e
+mais sistêmica”, emergiram, “como que para compensar o tempo perdido, ou talvez por
+ter a Ecologia se tornado o tema do momento”.
+
+No Brasil, o primeiro avanço normativo representativo da absorção desse novo
+paradigma foi a Lei nº 6.938/1981, instituidora da Política Nacional do Meio Ambiente e
+que positivou no quadro normativo nacional objetivos, instrumentos e uma sistemática
+administrativa própria para a gestão de recursos ambientais.
+
+Desde sua origem (1981), a PNMA já consagrava como objetivo central a
+compatibilização entre desenvolvimento econômico e preservação ambiental (art. 4º,
+
+7 MILARÉ, Édis. Direito do Ambiente. 11. ed. rev., atual. e ampl., São Paulo: Thomson Reuters, 2018, p.
+238-239.
+8 MILARÉ, Édis. Direito do Ambiente. 11. ed. rev., atual. e ampl., São Paulo: Thomson Reuters, 2018, p. 245.
+
+8
+
+[[pagina 9 | nativo]]
+
+​
+
+I), ao mesmo tempo em que delineava um modelo cooperativo de atuação entre os entes
+federativos (art. 5º), antecipando diretrizes que seriam posteriormente (e integralmente)
+incorporadas pela Constituição Federal de 1988, notadamente em seu artigo 225.
+
+Para consecução desses objetivos, o legislador instituiu na PNMA múltiplos
+instrumentos de gestão, dentre os quais se destaca o licenciamento ambiental (art. 9º,
+inciso IV). No mesmo diploma, foi criada, ainda, uma sistemática administrativa própria
+para sua satisfação, o SISNAMA (art. 6º), concebido, desde sua origem, como um arranjo
+institucional descentralizado e cooperativo.
+
+Ocorre, contudo, que apesar da relevância e a sofisticação do modelo instituído
+pela Lei nº 6.938/1981, seus instrumentos não foram acompanhados, à época, de
+disciplina normativa suficiente para sua operacionalização.
+
+A realidade que se sucedeu (e que remanesce até hoje para muitos dos
+instrumentos previstos no PNMA) foi o da ausência de base legal para tais instrumentos,
+que ao longo de décadas foram recebendo tratamentos difusos e distintos por diferentes
+entes. Normas legais e infralegais esparsas que, ao invés de coordenar a evolução da
+sistemática prevista, foram editadas de forma reativa, como resposta a problemas
+decorrentes da aplicabilidade (diga-se crescente) dos institutos.
+
+Conforme denunciado há anos pela doutrina, “[...] estruturada em retalhos, a
+legislação ambiental brasileira tem vastíssimas clareiras normativas, verdadeiros
+‘buracos negros ambientais’ [...] Movemo-nos a custo em meio a um verdadeiro cipoal de
+leis, decretos-leis, medidas provisórias, decretos, resoluções e portarias a reger a matéria
+— já, apropriadamente, chamada de inflação legal ou ‘poluição regulamentar’”9.
+
+Com o licenciamento ambiental, não foi diferente.
+
+A ausência de uma norma geral dispondo sobre o Licenciamento Ambiental,
+associado à crescente utilização desse instrumento de gestão ambiental, gerou relevante
+insegurança jurídica e fragilização do dever de proteção ambiental, diante da profusão de
+normas elaboradas de forma difusa e descoordenada por órgãos do SISNAMA e pelos
+próprios entes federativos.
+
+Os principais problemas associados a essa fragmentação normativa podem ser
+simplificados em duas ordens: i) a ausência de parâmetros claros para compatibilização e
+cooperação dos entes federativos na instrumentalização do licenciamento ambiental
+(competência administrativa); ii) a ausência de definições unificadas de procedimentos,
+
+9 MILARÉ, Édis. Direito do Ambiente. 11. ed. rev., atual. e ampl., São Paulo: Thomson Reuters, 2018, p. 250.
+
+9
+
+[[pagina 10 | nativo]]
+
+​
+
+diretrizes, tipos e critérios procedimentais aplicáveis ao licenciamento ambiental
+(competência legislativa).
+
+No tocante à distribuição de competência e compatibilização da cooperação
+entre entes (“i”), foram necessários 30 anos desde a edição do PNMA até o pleno
+tratamento da matéria pelo Congresso Nacional. Foi somente com a edição da Lei
+Complementar n. 140/2011 que a União, satisfazendo o comando previsto no artigo 23,
+parágrafo único, da Constituição Federal, editou norma geral que serviria como baliza
+para a regulamentar a competência comum/administrativa entre os entes.
+
+Nesse hiato, a interpretação operada sobre atos infralegais que tentavam dar
+resposta a esse empecilho (cita-se, a título exemplificativo, as Resoluções CONAMA nº
+01/1986 e nº 237/1997) criaram problemas persistentes, como a possibilidade de
+participação de múltiplos órgãos licenciadores em um mesmo processo, além da
+inexistência de critérios claros para definição de competência de cada ente.
+
+A LC nº 140/2011, após longo debate legislativo, orientada pela participação
+popular e pela compatibilização de diferentes valores constitucionais, foi capaz de
+fulminar (ou ao menos mitigar) boa parte desses problemas, consolidando premissas
+básicas como o da unicidade do licenciamento ambiental e os critérios para definição de
+competência dos entes envolvidos no licenciamento (localização, dominialidade e
+tipologia).
+
+Contudo, no que diz respeito à uniformização legal de procedimentos,
+diretrizes, tipos e critérios aplicáveis ao licenciamento ambiental (“ii”) essa profusão
+normativa e inexistência de parâmetros únicos perdurou até 2025, quando finalmente
+culminou na edição da Lei nº 15.190/2025.
+
+Inegável que, na ausência de uma norma geral unificadora, Estados e
+Municípios, orientados pelo exercício da competência legislativa suplementar e até
+mesmo plena (art. 24, §§ 2º e 3º da CF), passaram a editar diferentes normas sobre
+licenciamento ambiental, a fim de suprir a lacuna normativa existente. Porém, isso gerou
+distorções e uma desigualdade inaceitável na condução dos processos de
+licenciamento ambiental. A depender do local em que se licenciava uma obra ou
+atividade, a regra e as exigências eram mais ou menos brandas. E isso, por vezes,
+acontecia em áreas contíguas, separadas por divisas entre Estados ou Municípios,
+muitas vezes sendo essa divisa apenas uma rua ou uma praça. Isso ocasionou,
+inúmeras vezes, uma chamada “guerra ambiental”, afinal de contas era mais fácil ou
+mais difícil licenciar no local A em relação ao local B. Situação inaceitável, por óbvio!
+
+10
+
+[[pagina 11 | nativo]]
+
+​
+
+Entretanto, parcela expressiva dessas normas editadas pelos entes subnacionais
+foram objeto de controle abstrato de constitucionalidade, sendo declaradas
+inconstitucionais, diante de suposta invasão de competência da União.
+
+Isso criou um ciclo persistente e disfuncional na sistemática da gestão
+ambiental brasileira: a União não editava uma norma geral (art. 24, § 1º, CF); os entes
+federativos, no exercício de sua competência suplementar ou mesmo plena para dispor
+sobre a matéria, editavam atos normativos próprios (art. 24, §§ 2º e 3º, CF); contudo, essas
+normas, por sua vez, eram recorrentemente reputadas como inconstitucionais, por suposta
+invasão de competência da União para editar normas gerais de proteção ambiental. E tudo
+isso criava um sistema diferente, a depender da localização da obra ou atividade a ser
+licenciada.
+
+Há muito a doutrina especializada já apontava essa inércia e omissão do
+Congresso Nacional na edição de uma norma diretiva geral como um dos grandes fatores
+responsáveis pelos conflitos de competência e um esvaziamento da atuação de entes
+subnacionais na sistemática de gestão ambiental brasileira10. Segundo Paulo de Bessa
+Antunes11, a elaboração de lei federal sobre normas gerai, nesse cenário, emergia como
+condição indispensável para que “[...] os entes federativos descubram suas vocações
+específicas” a fim de que “a proteção ao meio ambiente possa se fazer de forma
+harmônica e integrada, como é o espírito da Política Nacional do Meio Ambiente”.
+
+É precisamente nesse contexto histórico, para enfim superar a
+disfuncionalidade existente e cumprir com o papel da União, que se insere a Lei
+Geral do Licenciamento Ambiental. Apesar de se tratar de lei recente, já há
+posicionamento doutrinário sobre sua relevância. Conforme destaca Édis Milaré:
+
+A lei realmente propõe uma importante mudança na forma como o
+licenciamento ambiental é compreendido e aplicado, instrumentalizando e
+concretizando regras e princípios, com vistas a construir um processo
+realmente eficaz, eficiente e efetivo na gestão de impactos ambientais,
+capaz de superar a burocracia e garantir a segurança jurídica que dele
+se espera. Assim, a LGLA, com as alterações determinadas pela Lei
+15.300/2025, juntamente com a Lei Complementar 140/2011, compõe um
+sistema jurídico positivado, capaz de melhor ordenar e efetivar o
+licenciamento ambiental12.
+
+Assim, longe de representar ruptura ou retrocesso, a norma configura iniciativa
+legislativa de caráter nacional voltada à sistematização do licenciamento ambiental,
+
+10 ANTUNES, Paulo de Bessa. Direito Ambiental. 16. ed. São Paulo: Atlas, 2014, p. 101-104.
+11 ANTUNES, Paulo de Bessa. Direito Ambiental. 16. ed. São Paulo: Atlas, 2014, p. 116.
+12 MILARÉ, Édis. Lei Geral do Licenciamento Ambiental: Lei 15.190/2025, comentários artigo por artigo. Rio
+de Janeiro: Forense, 2026, p. 4.
+
+11
+
+[[pagina 12 | nativo]]
+
+​
+
+estabelecendo parâmetros gerais para sua operacionalização e promovendo a
+harmonização normativa no âmbito do Sistema Nacional do Meio Ambiente.
+
+Diante desse cenário, há de se concluir que a legislação questionada emerge
+como resposta institucional necessária, verdadeira concretização, após mais de quatro
+décadas, de diretrizes normativas já delineadas desde a instituição da Política Nacional do
+Meio Ambiente (Lei nº 6.938/1981), e reiteradas pela Constituição Federal de 1988,
+contribuindo para o fortalecimento da gestão ambiental e para a efetivação do dever de
+proteção ao meio ambiente.
+
+II.2 - Divergência Política ≠ Retrocesso Ambiental ≠ Inconstitucionalidade
+
+Cumpre ressaltar que as irresignações políticas já veiculadas nas ADIs n. 7913,
+7916 e 7919 não constituem novidade. Tampouco é recente a percepção quanto à urgência
+em disciplinar o licenciamento ambiental por meio de norma geral, já evidenciada no
+tópico anterior.
+
+Vinte anos separam a proposta legislativa inicial e o texto final da Lei nº
+15.190/2025.
+
+Já à época da apresentação do projeto inicial em 2004 (PL nº 3.729/2004), a
+urgência na disciplina do licenciamento ambiental era denunciada pelo autor da proposta,
+Deputado Luciano Zica (à época, PT/SP), que assim expôs na justificativa do projeto13:
+
+[...] o licenciamento ambiental é o instrumento mais forte que têm os órgãos
+ambientais para controle dos empreendimentos causadores de poluição e
+degradação do meio ambiente. As normas sobre licenciamento ambiental
+presentes em lei federal, todavia, não estão hoje à altura da relevância desse
+instrumento. [...] Os tipos de licença exigíveis e o conteúdo do estudo de
+impacto ambiental são temas hoje encontrados apenas em Decretos e
+Resoluções do CONAMA.
+[...]
+Neste diapasão constatamos que tão grave quanto a falta de estrutura
+operacional pública para o setor de licenciamento ambiental é a notória
+insegurança jurídica em que vive o referido setor.
+Diante do exposto, faz-se extremamente importante a aprovação de uma lei
+específica sobre o tema. O presente projeto de lei traz uma proposta ampla
+nesse sentido, que procura dar uma base consistente para o instituto jurídico
+do licenciamento ambiental.
+
+No interregno de mais de vinte anos que se sucedeu entre a apresentação do PL
+e sua aprovação em 2025, passando pelos vetos presidenciais parciais e sua rejeição pelo
+
+13 Disponível em:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=225810&filename=PL%202159/2021
+%20(N%C2%BA%20Anterior:%20PL%203729/2004)
+
+12
+
+[[pagina 13 | nativo]]
+
+​
+
+Congresso Nacional, foram travados debates aprofundados e exaustivos para definição do
+que viria a ser a primeira lei geral do licenciamento ambiental.
+
+Exemplo do extenso conflito e debates de ideias ocorridos no curso do
+processo legislativo foram as mais de 250 emendas propostas aos PLs, tanto na Câmara
+dos Deputados como no Senado (quando recebeu a designação de PL nº 2.159/2021), além
+das dezenas de substitutivos e contribuições diversas. Citam-se, também a título de
+exemplo, as nove Audiências Públicas ocorridas na Câmara dos Deputados, bem como o
+dia em que essa casa legislativa se transformou em Comissão Geral para que especialistas
+utilizassem a Tribuna para trazer suas contribuições e divergências. Da mesma forma no
+Senado Federal, as Audiências Públicas que ocorreram ao longo dos debates havidos na
+Comissão de Meio Ambiente daquela Casa.
+
+Assim, a lei que hoje se encontra sob exame não é produto de deliberação
+apressada ou unilateral, mas resultado de um processo legislativo extenso,
+participativo e marcado pela ponderação entre múltiplos vetores constitucionais.
+
+O texto inicialmente proposto acompanhou diversas evoluções na sociedade
+brasileira, absorvendo as necessidades que emergiram no período. A exemplo disso,
+cita-se a facilitação para o licenciamento de obras voltadas ao atingimento das metas de
+universalização do saneamento básico (art. 10, § 2º), da necessidade de tratamento
+diferenciado para o setor de infraestrutura energética e de transporte (arts. 5º, § 4º; 10,
+caput; 11, caput e parágrafo único; 24, § 2º), além das obras estratégicas de interesse
+nacional (art. 24, caput e § 1º).
+
+Essa evolução revela o caráter de uma norma que se ajusta à realidade nacional
+contemporânea, marcada por crescente complexidade e por tensões globais relacionadas à
+gestão estratégica de recursos naturais, à viabilização de obras de infraestrutura e à
+garantia da soberania nacional.
+
+Além disso, pela primeira vez desde a instituição do sistema de gestão
+ambiental delineado pela PNMA, o Congresso Nacional exerceu, de forma plena, sua
+competência para estabelecer normas gerais sobre o licenciamento ambiental.
+
+Tal circunstância não pode ser reduzida a uma formalidade. Ao contrário,
+decorre diretamente do desenho constitucional de repartição de competências, segundo o
+qual incumbe à União editar normas gerais em matéria ambiental (art. 24, § 1º, da
+Constituição Federal), cabendo ao Congresso Nacional, enquanto instância representativa
+da soberania popular, promover a necessária harmonização entre os diversos valores
+constitucionais envolvidos.
+
+13
+
+[[pagina 14 | nativo]]
+
+​
+
+Diferentemente de órgãos de natureza administrativa, como o CONAMA, a
+atividade legislativa exercida pelo Congresso Nacional se orienta pela consideração
+simultânea de múltiplos vetores constitucionais, não se limitando à dimensão protetiva do
+art. 225 da Constituição Federal, mas abrangendo também objetivos e princípios (de igual
+envergadura normativa) relacionados ao desenvolvimento econômico, à infraestrutura, à
+segurança energética e à própria organização federativa.
+
+Cumpre destacar que o art. 225 da Constituição Federal elevou o meio
+ambiente ecologicamente equilibrado à categoria de direito fundamental, classificando-o
+como bem de uso comum do povo. Para viabilizar sua proteção e preservação, a norma
+impõe o regramento do uso dos recursos naturais, o que se operacionaliza por meio
+do licenciamento ambiental. Afinal, a miséria e a gestão ineficiente do território não
+promovem a conservação; ao contrário, fomentam ocupações irregulares e danos ao
+ecossistema.
+
+O licenciamento ambiental é o instrumento que viabiliza a
+sustentabilidade ao promover o equilíbrio entre seus três pilares fundamentais:
+social, ambiental e econômico.
+
+Assim, eventuais divergências políticas quanto ao conteúdo dessas escolhas
+legislativas não autorizam sua qualificação como inconstitucionais, tampouco permitem
+sua redução simplista à categoria de “retrocesso ambiental”. É que a edição de normas
+gerais, ao conferir uniformidade e segurança jurídica ao licenciamento, constitui
+verdadeiro avanço ambiental.
+
+Para Michel Prieur14, o princípio da não regressão ambiental impõe uma
+barreira contra o esvaziamento da tutela ecológica, asseverando que “o retrocesso em
+matéria ambiental não é imaginável” no Estado Democrático de Direito. O autor adverte
+que a substituição de regras protetivas por normas que permitam maiores níveis de
+poluição ou destruição configura uma violação à vontade constituinte.
+
+Nesse aspecto, Prieur observa que ao elevar o meio ambiente ao patamar de
+direito fundamental com natureza de cláusula pétrea (art. 225 c/c art. 60, § 4º, CRFB/88),
+o ordenamento brasileiro obsta a validade de normas que, sem justificativa técnica
+plausível, busquem mitigar garantias em favor de vetores estranhos à proteção ambiental.
+
+Complementarmente, Herman Benjamin afirma que a proibição do retrocesso
+protege o “núcleo legislativo duro” do arcabouço ambiental – os instrumentos
+
+14 PRIEUR, Michel. O Princípio da Proibição de Retrocesso Ambiental. In: O princípio da Proibição do
+Retrocesso Ambiental. Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle (org.).
+Brasília, DF: Senado Federal, 2012, p. 18.
+
+14
+
+[[pagina 15 | nativo]]
+
+​
+
+indispensáveis à manutenção do equilíbrio ecológico previstos no art. 225 da CRFB/88. O
+autor destaca que se trata de vedação à supressão de garantias ambientais sem que sejam
+instituídos mecanismos equivalentes ou compensatórios que resguardem o patamar de
+proteção anterior15.
+
+Em síntese, a vedação ao retrocesso ambiental, malgrado ser um princípio
+implícito, é defendida pela doutrina como uma garantia de que o legislador não reduza o
+nível de proteção já conferido ao meio ambiente.
+
+Essa orientação é amplamente aceita pela jurisprudência nacional, que, em que
+pese reconheça a força do princípio, impõe critérios e limites à sua incidência para
+permitir a necessária atualização das normas, bem como a correta observância à repartição
+de competências legislativas delineadas pelo texto constitucional (art. 24 c/c art. 30).
+
+O próprio Supremo Tribunal Federal consolidou a aplicação desse princípio
+como um importante parâmetro de controle constitucional da atividade legislativa, sem,
+contudo, conferir-lhe caráter absoluto ou ilimitado. Exemplo dessa orientação reside no
+julgamento da ADI 7841/MA, de relatoria do Ministro Dias Toffoli. Na oportunidade, a
+Suprema Corte ressaltou que a aplicação deste princípio “não se reveste de caráter
+absoluto”, conforme se extrai de parte da ementa do julgado:
+
+[...] 8. O princípio da vedação ao retrocesso ambiental surge como uma
+importante barreira à supressão pura e simples do núcleo essencial do art.
+225 do texto constitucional, tendo impacto nas atividades legislativa e
+regulamentar no que concerne à matéria ambiental. Embora não se revista
+de caráter absoluto, tal princípio afasta a possibilidade de que normas
+legais venham a reduzir ou suprimir os níveis de proteção ambiental
+consagrados pela atual legislação (STF - ADI 7841. Rel. Min. Dias Toffoli,
+j. 02/12/2025, Tribunal Pleno, p. em 10/12/2025).
+
+Ocorre que a aplicação do princípio da vedação ao retrocesso ambiental deve
+ser rigorosamente mediada pelo contexto constitucional, jamais se sobrepondo à
+repartição de competências legislativas entre os entes federativos. É dizer: os limites desse
+princípio residem na própria estrutura da Constituição Federal.
+
+Paulo de Bessa Antunes reforça que a tutela ambiental não pode ser executada
+de qualquer modo, inobservadas as regras constitucionais. Nesse aspecto, o autor tece
+críticas direcionadas especificamente à tese da “prevalência da norma mais restritiva” –
+que, segundo ele, foi repetidas tantas vezes que acabou sendo aceita até por juristas
+experientes. Em suma, conclui que uma norma mais restritiva (em tese, mais protetiva)
+
+15 BENJAMIN, Herman. Princípio da Proibição de Retrocesso Ambiental. In: O princípio da Proibição do
+Retrocesso Ambiental. Comissão de Meio Ambiente, Defesa do Consumidor e Fiscalização e Controle (org.).
+Brasília, DF: Senado Federal, 2012, p. 55-58.
+
+15
+
+[[pagina 16 | nativo]]
+
+​
+
+não poderá prevalecer se for produzida por ente que não possua competência legal para
+legislar sobre a matéria16.
+
+Ainda que se considere equivocadamente a LGLA uma norma menos
+restritiva, logo, menos protetiva em relação às normativas anteriores, o pensamento que a
+enquadra como uma tentativa de “retrocesso” ambiental não comporta sentido. Isso
+porque não havia, até então, parâmetros prévios de mesma envergadura normativa a serem
+considerados como baliza. Ainda, admitir que a primeira norma geral sobre licenciamento
+ambiental seja invalidada sob essa alegação implicaria em subversão à lógica de repartição
+de competências estabelecida pela CRFB/88, esvaziando o papel do legislador nacional na
+conformação da política ambiental.
+
+E ainda que se encarasse a LGLA como um “retrocesso ambiental”, isso não
+seria suficiente para a declaração da sua inconstitucionalidade. E quem afirma isso é este
+próprio Tribunal Superior, em situação similar à presente. Ao discutir a
+constitucionalidade do “novo” Código Florestal (Lei nº 12.651/2012), que também foi
+alvo de múltiplas ADIs e objeto de uma ADC, essa c. Corte assim destacou:
+
+DIREITO CONSTITUCIONAL. DIREITO AMBIENTAL. ART. 225 DA
+CONSTITUIÇÃO . DEVER DE PROTEÇÃO AMBIENTAL.
+NECESSIDADE DE COMPATIBILIZAÇÃO COM OUTROS
+VETORES CONSTITUCIONAIS DE IGUAL HIERARQUIA.
+ARTIGOS 1º, IV; 3º, II E III; 5º, CAPUT E XXII; 170, CAPUT E INCISOS
+II, V, VII E VIII, DA CRFB. DESENVOLVIMENTO SUSTENTÁVEL.
+JUSTIÇA INTERGERACIONAL. ALOCAÇÃO DE RECURSOS
+PARA ATENDER AS NECESSIDADES DA GERAÇÃO ATUAL.
+ESCOLHA POLÍTICA. CONTROLE JUDICIAL DE POLÍTICAS
+PÚBLICAS. IMPOSSIBILIDADE DE VIOLAÇÃO DO PRINCÍPIO
+DEMOCRÁTICO. EXAME DE RACIONALIDADE ESTREITA.
+RESPEITO AOS CRITÉRIOS DE ANÁLISE DECISÓRIA
+EMPREGADOS PELO FORMADOR DE POLÍTICAS PÚBLICAS.
+INVIABILIDADE DE ALEGAÇÃO DE VEDAÇÃO AO
+RETROCESSO. NOVO CÓDIGO FLORESTAL. AÇÕES DIRETAS DE
+INCONSTITUCIONALIDADE E AÇÃO DECLARATÓRIA DE
+CONSTITUCIONALIDADE JULGADAS PARCIALMENTE
+PROCEDENTES. [...] 11. Por outro lado, as políticas públicas ambientais
+devem conciliar-se com outros valores democraticamente eleitos pelos
+legisladores como o mercado de trabalho, o desenvolvimento social, o
+atendimento às necessidades básicas de consumo dos cidadãos etc. Dessa
+forma, não é adequado desqualificar determinada regra legal como
+contrária ao comando constitucional de defesa do meio ambiente (art.
+225, caput , CRFB), ou mesmo sob o genérico e subjetivo rótulo de
+retrocesso ambiental, ignorando as diversas nuances que permeiam o
+processo decisório do legislador, democraticamente investido da função
+
+16 ANTUNES, Paulo de Bessa. Direito Ambiental. 23ª Edição. São Paulo: Editora Atlas, 2023.
+
+16
+
+[[pagina 17 | nativo]]
+
+​
+
+de apaziguar interesses conflitantes por meio de regras gerais e
+objetivas. 12. Deveras, não se deve desprezar que a mesma Constituição
+protetora dos recursos ambientais do país também exorta o Estado brasileiro
+a garantir a livre iniciativa (artigos 1º, IV, e 170) e o desenvolvimento
+nacional (art. 3º, II), a erradicar a pobreza e a marginalização, a reduzir as
+desigualdades sociais e regionais (art. 3º, III; art . 170, VII), a proteger a
+propriedade (art. 5º, caput e XXII; art. 170, II), a buscar o pleno emprego
+(art. 170, VIII; art . 6º) e a defender o consumidor (art. 5º, XXXII; art. 170,
+V) etc. 13 . O desenho institucional das políticas públicas ambientais
+suscita o duelo valorativo entre a tutela ambiental e a tutela do
+desenvolvimento, tendo como centro de gravidade o bem comum da
+pessoa humana no cenário de escassez. É dizer, o desenvolvimento
+econômico e a preservação do meio ambiente não são políticas
+intrinsecamente antagônicas. 14. A análise de compatibilidade entre
+natureza e obra humana é ínsita à ideia de desenvolvimento sustentável,
+expressão popularizada pelo relatório Brundtland, elaborado em 1987 pela
+Comissão Mundial sobre o Meio Ambiente e Desenvolvimento . A mesma
+organização eficiente dos recursos disponíveis que conduz ao progresso
+econômico, por meio da aplicação do capital acumulado no modo mais
+produtivo possível, é também aquela capaz de garantir o racional
+manejo das riquezas ambientais em face do crescimento populacional.
+Por conseguinte, a proteção ao meio ambiente, no contexto de um
+desenvolvimento sustentável, não equivale a uma visão estática dos bens
+naturais, que pugna pela proibição de toda e qualquer mudança ou
+interferência em processos ecológicos ou correlatos. A história humana e
+natural é feita de mudanças e adaptações, não de condições estáticas ou
+de equilíbrio. 15 . A preservação dos recursos naturais para as gerações
+futuras não pode significar a ausência completa de impacto do homem
+na natureza, consideradas as carências materiais da geração atual e
+também a necessidade de gerar desenvolvimento econômico suficiente
+para assegurar uma travessia confortável para os nossos descendentes.
+[...] 19. O Princípio da vedação do retrocesso não se sobrepõe ao
+princípio democrático no afã de transferir ao Judiciário funções
+inerentes aos Poderes Legislativo e Executivo, nem justifica afastar
+arranjos legais mais eficientes para o desenvolvimento sustentável do
+país como um todo.
+(STF - ADC 42, Rel. Min. Luiz Fux, j. em 28/02/2018, Tribunal Pleno, p. em
+13/08/2019)
+
+Destaque-se, por oportuno, que o precedente analisava uma lei de direito
+material, que traz as hipóteses de intervenção em áreas de preservação permanente, por
+exemplo. Se a decisão foi nesse sentido no caso paradigma, quanto mais em uma lei
+procedimental!
+
+A situação, além de processualmente similar (considerando se tratar de
+múltiplas ADIs e uma ADC), possui pano de fundo idêntico: uma norma que corretamente
+trouxe novo regramento, sendo atacada por aqueles que discordam do seu teor e tentam
+transformar essa discordância em inconstitucionalidade, pela utilização equivocada do
+
+17
+
+[[pagina 18 | nativo]]
+
+​
+
+princípio da vedação ao retrocesso e menções genéricas ao art. 225 da Constituição. Nas
+estritas palavras do julgado, “Idêntica lição deve ser transportada para o presente
+julgamento, a fim de que seja refutada a aplicação automática da tese de vedação ao
+retrocesso para anular opções validamente eleitas pelo legislador”.
+
+Em verdade, as soluções adotadas pela Lei nº 15.190/2025 traduzem opções
+legislativas legítimas, voltadas à racionalização do sistema de licenciamento ambiental e à
+concretização do dever de proteção ao meio ambiente. Verifica-se um avanço na proteção
+ambiental, e não o alegado retrocesso, que além de inexistente sequer se prestaria, por si
+só, para caracterizar a inconstitucionalidade da lei.
+
+III - AVANÇOS E ACERTOS PROMOVIDOS PELA LEI Nº 15.190/2025
+
+À luz das premissas abordadas no item anterior, que demonstram a
+constitucionalidade da norma em linhas gerais, passa-se à análise das disposições
+específicas da Lei nº 15.190/2025, a fim de demonstrar que o regramento por ela previsto
+se insere no âmbito de opções legislativas legítimas, compatíveis com os objetivos da
+Política Nacional do Meio Ambiente e com o dever constitucional de proteção ambiental.
+A lei é, portanto, constitucional e deve assim ser declarada por esse Supremo Tribunal
+Federal.
+
+III.1 - Disposições Preliminares (Art. 1º a 3º)
+
+Em seu primeiro artigo, a Lei nº 15.190/2025 define seu escopo como norma
+geral, a fim de sanar a histórica fragmentação regulatória do instituto. Em observância ao
+pacto federativo, o texto reforça o respeito à divisão de competências administrativas em
+matéria ambiental entre União, Estados, Distrito Federal e Municípios, mantendo as
+atribuições estabelecidas pela LC nº 140/2011 (§1º), além de apresentar os princípios
+regentes do licenciamento, como participação pública, transparência, preponderância do
+interesse público, desenvolvimento sustentável, celeridade e economia processual (§2º).
+
+Em sequência, o art. 2º estabelece as diretrizes para o procedimento, voltadas a
+modernizá-lo e assegurar que a proteção ambiental ocorra de forma eficiente e
+juridicamente segura.
+
+No art. 3º, a LGLA assume a tarefa estratégica de uniformização semântica.
+Ao listar 39 conceitos fundamentais, reduz incertezas interpretativas. Trata-se, pela
+primeira vez na história legislativa ambiental brasileira, de lei federal que reúne e
+define termos antes dispersos ou apenas mencionados nas demais normas, sem a
+devida conceituação. Isso não só é constitucional como indispensável para a
+realização correta e uniforme do licenciamento ambiental em todo o país.
+
+18
+
+[[pagina 19 | nativo]]
+
+​
+
+Dentre as definições, consta a estruturação das modalidades de participação
+pública (V a VIII). Ao distinguir audiência, consulta, reunião participativa e tomada de
+subsídios, o legislador amplia as possibilidades de diálogo entre autoridades licenciadoras
+e corpo social/técnico nas diferentes fases do licenciamento. Assim, o grau de participação
+pode ser proporcional à complexidade do projeto em debate, democratizando o processo
+do acesso à informação (art. 5º, XIV, da CF).
+
+Em relação à precisão técnica dos impactos e áreas de influência, a norma
+elabora distinção entre impactos diretos e indiretos (XI e XII), vinculando-os a uma
+hierarquia espacial. Nesse sentido, definiu-se a Área Diretamente Afetada (ADA), Área de
+Estudo (AE), Área de Influência Direta (AID) e Área de Influência Indireta (AII). Essa
+sistematização permite delimitar, com rigor científico, o nexo de causalidade entre a
+intervenção antrópica e a alteração do meio, assegurando que o licenciamento ocorra
+sobre bases territoriais bem definidas e previamente conhecidas por todos os atores.
+E, novamente, que ocorra da mesma forma e rigor técnico independentemente de sua
+localização
+
+Adicionalmente, a LGLA traz segurança jurídica ao positivar o rol de estudos
+ambientais (XVII a XXIII) e ao definir o Termo de Referência, instrumento amplamente
+utilizado na prática administrativa, mas negligenciado por normativas anteriores, como a
+Res. CONAMA nº 01/1986. Por fim, quanto às licenças (XXV a XXXII), o texto preserva
+o rito trifásico tradicional já disciplinado na Res. CONAMA nº 237/1997 (LP, LI e LO),
+mas também incorpora modalidades modernas, como a Licença Ambiental por Adesão e
+Compromisso (LAC) e a Licença de Operação Corretiva (LOC), adaptando o Estado às
+demandas de uma gestão pública contemporânea, simples e eficaz.
+
+Em síntese, o primeiro capítulo da nova Lei Geral supera a função de mera
+introdução a partir da consolidação dos fundamentos estruturais da nova sistemática de
+licenciamento no país. Ao uniformizar os principais conceitos, substitui a anterior
+dispersão regulatória por parâmetros objetivos que orientam a interpretação e aplicação da
+norma, fortalecendo a necessária segurança jurídica e reduzindo incertezas e subjetivismos
+que historicamente permeiam o licenciamento ambiental brasileiro. A lei trouxe
+tecnicidade e previsibilidade ao licenciamento ambiental brasileiro.
+
+III.2 - Disposições Gerais Sobre o Licenciamento Ambiental (Art. 4º a 7º e 12 a 17)
+
+A primeira seção do capítulo seguinte trata sobre o licenciamento de forma
+geral. Excetuadas as hipóteses de não sujeição ao licenciamento previstas nos artigos 8º,
+9º, 10 e 11, as disposições estipuladas entre os artigos 4º a 17 da Lei nº 15.190/2025
+buscam, em síntese, uniformizar os parâmetros gerais do licenciamento ambiental no
+
+19
+
+[[pagina 20 | nativo]]
+
+​
+
+Brasil, adequando-o ao modelo de repartição de competências e conferindo maior
+densidade técnica e previsibilidade ao procedimento.
+
+O art. 4º da Lei nº 15.190/2025 inaugura o bloco normativo reafirmando a
+centralidade do licenciamento ambiental como instrumento obrigatório de controle de
+atividades potencialmente poluidoras.
+
+Por atribuir aos entes federativos a definição das tipologias de atividades
+sujeitas ao licenciamento (art. 4º, §1º), ressalvada a necessidade de atualização frequente
+desses parâmetros, o legislador dá concretude ao modelo de federalismo cooperativo
+delineado na Constituição Federal, a fim de que cada ente possa adequar o licenciamento
+ambiental a sua realidade regional. Em um país de dimensões continentais e com a
+existência de nada menos que seis distintos biomas, a definição de tipologias por
+óbvio deve ser estadualizada. Aliás, exatamente como já existe nos dias atuais,
+conforme o disposto no art. 9º, XIV, a, da Lei Complementar 140/11. Assim se age
+com técnica e coerência.
+
+Os artigos 5º e 6º, por sua vez, sistematizam, em âmbito nacional, os diferentes
+tipos de licença (art. 5º, incisos I a VII), os respectivos requisitos para sua expedição (art.
+5º, § 1º) e prazos de validade (art. 6º). Ao incluir múltiplas categorias de licenciamento
+(art. 5º, incisos I a VII) e a abertura para que novas modalidades sejam desenvolvidas
+pelos entes federativos (art. 5º, § 2º), a LGLA privilegia a heterogeneidade das atividades
+submetidas à análise da administração, permitindo que o licenciamento seja ajustado à
+natureza, complexidade e aos riscos de cada empreendimento.
+
+A Lei Geral também traz critérios objetivos e unificados para a renovação de
+licenças ambientais, prevendo expressamente os critérios de avaliação que servirão de
+baliza à administração nesse procedimento (art. 7º, § 2º, incisos I e II). Prevê, em âmbito
+nacional, a possibilidade de renovação automática das licenças ambientais para atividades
+de baixo ou médio potencial poluidor (art. 7º, § 4º), por declaração do empreendedor,
+quando atendidos critérios cumulativos rígidos (art. 7º, § 4º, incisos I a III) e instruído com
+relatório técnico assinado por profissional habilitado (art. 7º, § 6º), sujeito à
+responsabilização penal em caso de conteúdo falso, enganoso ou omisso (art. 69-A, da Lei
+nº 9.605/1998). Garante agilidade e eficiência, sem comprometer a proteção ambiental.
+
+Ainda sobre a parametrização dos critérios adotados pela administração,
+merece destaque o art. 14, que estabelece limites claros à imposição de condicionantes
+ambientais, fixando como diretrizes a prevenção, a mitigação e, apenas subsidiariamente,
+a compensação de impactos ambientais (art. 14, incisos I a III). Ao exigir que as
+condicionantes sejam proporcionais à magnitude dos impactos identificados e
+
+20
+
+[[pagina 21 | nativo]]
+
+​
+
+fundamentadas em nexo causal direto com a atividade licenciada (art. 14, § 1º), o
+legislador qualifica tecnicamente o licenciamento ambiental, afastando práticas
+arbitrárias e assegurando que esse instrumento não seja desvirtuado para suprir
+deficiências estruturais do poder público ou para imputar ao empreendedor
+responsabilidades por impactos causados por terceiros.
+
+Já os artigos 12, 13 e 17, buscam afastar a exigência de atos administrativos
+alheios ao processo de licenciamento ambiental como condição para a emissão da licença,
+evitando que o licenciamento ambiental seja condicionado a manifestações de órgãos
+alheios ao SISNAMA.
+
+Prestigiando a atuação dos órgãos licenciadores, o art. 16 reafirma o controle
+da Administração Pública sobre as atividades licenciadas, ao tratar sobre as possibilidades
+de suspensão, cancelamento ou revisão das licenças ambientais diante de irregularidades,
+riscos supervenientes ou mesmo impactos não previstos. Os §§ 4º e 5º ainda explicitam
+que a suspensão ou cancelamento pode advir tanto como sanção como também medida
+cautelar administrativa, observando-se, em ambos os casos, os princípios da ampla defesa
+e contraditório.
+
+Por fim, na mesma perspectiva de modernização do modelo regulatório, sem
+comprometer a preservação, o art. 15 introduz mecanismos de incentivo à adoção de
+tecnologias e práticas que superem os padrões mínimos exigidos pela legislação
+ambiental, permitindo à autoridade licenciadora, mediante decisão motivada, estabelecer
+condições diferenciadas no processo de licenciamento.
+
+Desse modo, a leitura sistemática dos dispositivos evidencia que a Lei nº
+15.190/2025 não promove qualquer redução do nível de proteção ambiental, mas, ao
+contrário, substitui um modelo fragmentado por um regime estruturado, tecnicamente
+orientado e juridicamente previsível, em plena consonância com o modelo constitucional
+de proteção ao meio ambiente e de repartição de competências que reclamava tratamento
+uniformizado desde a elaboração da PNMA. A lei “organizou” o licenciamento
+ambiental, sem jamais ferir os dispositivos constitucionais.
+
+III.3 - Não Sujeição ao Licenciamento Ambiental (Arts. 8º, 9º, 10 e 11)
+
+Ainda na mesma seção de Disposições Gerais da LGLA, os artigos 8º a 11
+trazem um elenco de hipóteses de não sujeição ao licenciamento ambiental para atividades
+específicas. E, conforme salientado no tópico II da presente petição, as hipóteses
+positivadas constituem opção legislativa legítima do Congresso Nacional, orientada pela
+compatibilização entre diferentes vetores constitucionais.
+
+21
+
+[[pagina 22 | nativo]]
+
+​
+
+O dispositivo com maior representatividade desse intento é o art. 8º, que elenca
+hipóteses de não sujeição ao licenciamento em razão: 1. da ausência de potencial poluidor
+relevante ou da não inclusão da atividade nas tipologias definidas pelos entes federativos
+(art. 8º, incisos II e III); 2. da ocorrência de circunstâncias específicas que exigem
+respostas imediatas (art. 8º, incisos IV e V); e 3. de opções normativas voltadas ao
+desenvolvimento de setores estratégicos relacionados à segurança, à soberania e à
+infraestrutura nacional (art. 8º, incisos I, VI, VII, VIII e IX). Ou seja, opção legislativa.
+
+Na mesma linha, o art. 10 promove a simplificação e priorização do
+licenciamento ambiental para atividades e empreendimentos relacionados ao saneamento
+básico e à segurança energética, setores diretamente vinculados à concretização de direitos
+fundamentais e ao próprio funcionamento da sociedade.
+
+Já o art. 9º estabelece regime específico para atividades agropecuárias,
+condicionando a não sujeição ao licenciamento ambiental à regularidade ou à
+regularização ambiental do imóvel rural, nos termos da legislação aplicável (art. 9º, § 1º).
+
+Longe de representar um afastamento total do controle estatal sobre essas
+atividades, a LGLA dispõe que a não sujeição ao licenciamento não afasta a fiscalização
+da atividade pelo órgão ambiental competente, tampouco exime o empreendedor do
+cumprimento de outras normas incidentes sobre a atividade, como aquelas relativas ao
+uso de agrotóxicos, à conservação do solo, ao uso de recursos hídricos (art. 9º, § 2º) e à
+supressão de vegetação nativa (art. 9º, § 3º).
+
+Por fim, o art. 11 prevê simplificação no processo de licenciamento para obras
+de ampliação de capacidade ou pavimentação em instalações preexistentes, faixas de
+domínio e servidão, bem como para atividades e empreendimentos de abastecimento de
+águas e esgotamento sanitário, que passam a ser realizados por meio da Licença por
+Adesão e Compromisso (LAC).
+
+Cuida-se de opção do legislador voltada a facilitar intervenções sobre áreas já
+impactadas, incentivando o aproveitamento da área de operação e domínio em detrimento
+da afetação de áreas adjacentes ainda não afetadas pela atividade.
+
+Ademais, cabe frisar que a LAC, apesar de simplificada, submete o
+empreendimento à sistemática própria de fiscalização (art. 22, §§ 3º e 4º), além de não ser
+aplicável a intervenções mais expressivas, como nos casos que envolvam supressão de
+vegetação nativa (art. 22, inciso IV, alínea "b").
+
+Assim, verifica-se que as hipóteses de não sujeição e simplificação previstas
+nos arts. 8º a 11 da Lei nº 15.190/2025 constituem legítima opção legislativa adotada pelo
+
+22
+
+[[pagina 23 | nativo]]
+
+​
+
+Congresso Nacional no exercício de sua competência constitucional, sendo plenamente
+compatíveis com o ordenamento jurídico pátrio.
+
+Cumpre registrar que tais dispositivos têm sido objeto de críticas, inclusive
+veiculadas nas ações de controle concentrado em trâmite perante o Supremo Tribunal
+Federal17, sob o argumento de que a não sujeição ao licenciamento ou a adoção de ritos
+simplificados configuraria violação aos princípios da prevenção, da precaução e da
+vedação ao retrocesso ambiental.
+
+Todavia, impõe-se uma distinção relevante. É que parcela expressiva dos
+precedentes invocados nas ADIs18, em matéria análoga, teve como fundamento principal
+para declaração de sua inconstitucionalidade não a alegada violação ao dever de proteção
+ambiental (como sustentam os proponentes das ADIs em curso), mas sim, o fato de serem
+normas editadas por entes subnacionais, que teriam invadido competência constitucional
+da União para editar normas gerais sobre a matéria.
+
+A título exemplificativo, vale a menção ao julgamento da ADI 5312,
+mencionado na petição inicial da ADI 7913 (fls. 29) e que restou assim ementado após
+julgamento pelo Plenário do STF:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONSTITUCIONAL E
+AMBIENTAL. FEDERALISMO E RESPEITO ÀS REGRAS DE
+DISTRIBUIÇÃO DE COMPETÊNCIA LEGISLATIVA. LEI ESTADUAL
+QUE DISPENSA ATIVIDADES AGROSSILVIPASTORIS DO PRÉVIO
+LICENCIAMENTO AMBIENTAL. INVASÃO DA COMPETÊNCIA DA
+UNIÃO PARA EDITAR NORMAS GERAIS SOBRE PROTEÇÃO
+AMBIENTAL. DIREITO FUNDAMENTAL AO MEIO AMBIENTE
+EQUILIBRADO E PRINCÍPIO DA PREVENÇÃO.
+INCONSTITUCIONALIDADE.
+1. A competência legislativa concorrente cria o denominado “condomínio
+legislativo” entre a União e os Estados-Membros, cabendo à primeira a edição
+de normas gerais sobre as matérias elencadas no art. 24 da Constituição Federal;
+e aos segundos o exercício da competência complementar — quando já existente
+norma geral a disciplinar determinada matéria (CF, art. 24, § 2º) — e da
+competência legislativa plena (supletiva) — quando inexistente norma federal a
+estabelecer normatização de caráter geral (CF, art. 24, § 3º).
+2. A possibilidade de complementação da legislação federal para o
+atendimento de interesse regional (art. 24, § 2º, da CF) não permite que
+Estado-Membro dispense a exigência de licenciamento para atividades
+potencialmente poluidoras, como pretendido pelo art. 10 da Lei 2.713/2013 do
+Estado do Tocantins.
+3. O desenvolvimento de atividades agrossilvipastoris pode acarretar uma
+relevante intervenção sobre o meio ambiente, pelo que não se justifica a
+
+17 ADIs 7913, 7916 e 7919.
+18 a título de exemplo, vale a menção: ADI 5312, citada a fls. 29, petição inicial da ADI 7913; ADI 6650, citada a
+fls. 12, petição inicial da ADI 7916; ADI 4529, citada a fls. 188-189, petição inicial da ADI 7919.
+
+23
+
+[[pagina 24 | nativo]]
+
+​
+
+flexibilização dos instrumentos de proteção ambiental, sem que haja um controle
+e fiscalização prévios da atividade.
+4. A dispensa de licenciamento de atividades identificadas conforme o segmento
+econômico, independentemente de seu potencial de degradação, e a consequente
+dispensa do prévio estudo de impacto ambiental (art. 225, § 1º, IV, da CF)
+implicam proteção deficiente ao direito fundamental ao meio ambiente
+ecologicamente equilibrado (art. 225 da CF), cabendo ao Poder Público o
+exercício do poder de polícia ambiental visando a prevenir e mitigar potenciais
+danos ao equilíbrio ambiental.
+(STF - ADI 5312, Rel. Min. Alexandre de Moraes, j. em 25/10/2018, Tribunal
+Pleno, p. em 11/02/2019)
+
+Do alentado voto do eminente relator, Min. Alexandre de Moraes, acolhido por
+unanimidade no julgamento, extrai-se relevante exposição sobre a distribuição de
+competência legislativa entre entes federativos, que culminou na seguinte conclusão sobre
+o caso submetido à corte:
+
+Com efeito, o ato de dispensar o procedimento de licenciamento ambiental,
+como promovido pela norma impugnada, não poderia ser objeto de lei
+estadual, mas sim de legislação federal, haja vista se tratar de assunto de
+interesse predominantemente da União.
+Assim, quando pretendeu excepcionar a regra do prévio licenciamento
+ambiental, a legislação federal encarregou-se de tratar da matéria, como o
+fez, por exemplo, no art. 7º, XIV, alínea “f”, da Lei Complementar 140/2011,
+quando excepciona da exigência de licenciamento ambiental as atividades de
+caráter militar de preparo e emprego das forças armadas.
+A propósito, entendo que a LC 140/2011, ao definir o âmbito de ação
+administrativa dos Estados-Membros, não deixou margem para que o legislador
+estadual dispense o licenciamento ambiental, o que reforça a ideia do princípio
+da predominância do interesse, porque esse assunto – dispensa de
+licenciamento ambiental – é de domínio da União, devendo os demais entes
+da federação atender aos critérios definidos nacionalmente.
+
+Assim, fica evidente que as hipóteses previstas na LGLA para não sujeição ao
+licenciamento ambiental demandam tratamento distinto daquele adotado em precedentes
+que detiveram-se ao exame de normas estaduais, notadamente pois: i) as hipóteses de não
+sujeição/simplificação previstas na Lei nº 15.190/2025 foram instituídas pela União, a
+quem compete dispor sobre a matéria (art. 24, § 1º, CF); e ii) não há retrocesso ambiental
+a ser apurado quando a norma geral em exame é a primeira editada pelo ente competente
+(Congresso Nacional, nos termos do art. 48, caput, CF), inexistindo parâmetro normativo
+anterior de mesma hierarquia apto a servir de baliza para tal juízo.
+
+Por essas razões, não se vislumbra qualquer incompatibilidade entre os
+dispositivos analisados e a Constituição Federal, devendo ser declarada sua
+constitucionalidade.
+
+24
+
+[[pagina 25 | nativo]]
+
+​
+
+III.4 - Procedimentos (Arts. 18 a 27)
+
+As Seções II, III e IV do segundo capítulo da Lei nº 15.190/2025 também não
+padecem de qualquer vício de inconstitucionalidade, à medida que consubstanciam
+normas de caráter eminentemente procedimental e organizacional do licenciamento
+ambiental, com o objetivo de conferir eficiência, modernização, unificação e segurança
+jurídica aos processos administrativos na seara do Sistema Nacional do Meio Ambiente
+(Sisnama).
+
+Nesse sentido, os dispositivos não alteram nem flexibilizam os mecanismos de
+controle e proteção ambiental, mas tão somente disciplinam os procedimentos
+administrativos e modalidades de licenciamento, dentro dos limites normativos que a
+Constituição e a legislação impõem.
+
+A norma é enfática ao determinar, por exemplo, que os procedimentos e as
+modalidades de licenciamento, bem como os tipos de estudo e relatórios ambientais
+eventualmente exigidos devem ser definidos pelas autoridades licenciadoras, conforme as
+competências estipuladas pela Lei Complementar n° 140, de 8 de dezembro de 2011
+(art. 18, §1°, da LGLA).
+
+Fica evidente a consonância com as normativas ambientais vigentes e o intuito
+do legislador em preencher suas lacunas, estabelecendo um procedimento eficaz e
+unificado. Portanto, ao definir que os procedimentos devem ser estipulados pelas
+autoridades licenciadoras, reitera os dispositivos de cooperação entre União, Estados,
+Distrito Federal e Municípios, decorrentes do exercício da competência comum de
+proteção ambiental (art. 23, VI e VII, CF/88).
+
+Procedimentalmente, a Lei Geral determina que o licenciamento pode ocorrer
+de forma ordinária, na modalidade trifásica; de forma simplificada, nas modalidades
+bifásica, de fase única ou por adesão e compromisso; pelo procedimento corretivo; ou pelo
+procedimento especial (art. 18, caput, da LGLA).
+
+Nesse ponto, insta ressaltar que o procedimento especial se limita aos casos de
+atividades ou empreendimentos estratégicos, objetivando, tão somente, dar mais rapidez à
+análise dos projetos, sem garantir qualquer flexibilização às exigências de proteção
+ambiental.
+
+A Licença Ambiental Especial (LAE) foi regulamentada pela Lei n°
+15.300/2025, cujo texto determina que os pedidos tenham prioridade de análise, tanto no
+órgão licenciador, quanto nos demais órgãos públicos envolvidos no processo. Ou seja, a
+LAE só garante celeridade ao processo nos casos de atividades ou empreendimentos
+
+25
+
+[[pagina 26 | nativo]]
+
+​
+
+estratégicos, definidos mediante proposta bianual do Conselho de Governo (art. 24, caput,
+da LGLA).
+
+Assim, o art. 18 da LGLA organiza as modalidades de licenciamento, por meio
+de critérios de localização, natureza, porte e potencial poluidor, refletindo uma
+modernização procedimental, alinhando-se ao princípio constitucional da eficiência da
+Administração Pública19.
+
+Impõe-se, ainda, no §3º do referido art. 18, que os estudos ou relatórios
+ambientais devem ser compatibilizados com o potencial de impacto ambiental da
+atividade ou empreendimento, garantindo a manutenção do Estudo de Impacto Ambiental
+para obras potencialmente causadoras de significativa degradação, em consonância com o
+que determina o art. 225, §1º, IV, da CF.
+
+O art. 19 trata do licenciamento “clássico”, pela modalidade trifásica, enquanto
+os artigos subsequentes da nova Lei (arts. 20 e 21) promovem a aglutinação de etapas, por
+meio de procedimentos bifásicos e de fase única, promovendo a economia processual e
+respeitando a razoável duração do processo, em atendimento ao disposto no art. 5°,
+LXXVIII, da CF. Esses dispositivos são de suma importância, uma vez que a morosidade
+administrativa é um problema que vem sendo enfrentado há décadas e prejudica tanto os
+empreendedores quanto a sociedade civil como um todo. Evidencia-se, nesse ínterim, que
+não há renúncia ao controle legal, mas tão somente a racionalização do rito administrativo
+para atividades cuja viabilidade e os impactos são tecnicamente previsíveis.
+
+Ainda, o art. 22 da Lei n° 15.190/2025, que prevê a Licença por Adesão e
+Compromisso (LAC), vem sendo alvo de muitas críticas, por ser interpretado como uma
+forma de realização de “licenciamento automático”. No entanto, trata-se de
+posicionamento infundado, uma vez que esta modalidade não automatiza o processo de
+licenciamento, mas tão somente o lançamento administrativo e apenas para atividades de
+pequeno ou médio porte e baixo ou médio potencial poluidor.
+
+Outrossim, para que seja permitido o licenciamento por adesão e compromisso,
+os impactos e medidas de controle devem ser previamente conhecidos pela autoridade
+licenciadora, que irá estabelecer antecipadamente as condicionantes. Ainda, o dispositivo
+prevê que a autoridade licenciadora deve realizar vistorias por amostragem anualmente, a
+fim de conferir a regularidade dos empreendimentos e atividades objetos de LAC (art. 22,
+§ 4º).
+
+19 Art. 37, caput, CF.
+
+26
+
+[[pagina 27 | nativo]]
+
+​
+
+Nesse sentido, preserva-se o poder constitucional de polícia administrativa. E
+mais, cada órgão licenciador definirá quais as atividades que serão licenciadas por essa
+modalidade, isso porque, como já dito, as características gerais, as condições de
+instalação, os impactos e as medidas de controle ambiental devem ser previamente
+conhecidas pelo órgão licenciador.
+
+Portanto, conclui-se que a referida modalidade de licença traduz-se como
+ferramenta estratégica de desburocratização, voltada para atividades ou empreendimentos
+de pequeno ou médio porte e baixo ou médio potencial poluidor, possibilitando aos órgãos
+ambientais a concentração maior de recursos em projetos de alto risco e complexidade.
+Logo, sua constitucionalidade é latente e sua eficiência é elogiável. Aliás, a
+constitucionalidade dessa modalidade já foi afirmada por essa c. Corte
+Constitucional em mais de uma oportunidade20. Senão vejamos:
+
+Ação direta de inconstitucionalidade. Direito ambiental. Inconstitucionalidade
+formal e material. Usurpação da competência da União. Retrocesso social
+quanto à participação popular por meio de audiências públicas. Inexistência.
+Competência concorrente dos estados. Possibilidade de suplementar a legislação
+federal. Pedidos julgados improcedentes. 1. A controvérsia dos autos cinge-se a
+saber: i) se as duas modalidades de licenciamento ambiental criadas pela lei
+baiana (art. 45, incisos VII e VIII) usurparam a competência da União para
+estabelecer normas gerais sobre direito ambiental; e ii) se as alterações
+promovidas nos arts. 40 e 147 da norma impugnada representaram retrocesso
+social no tocante à participação popular. [...] 4. In casu, as duas licenças
+constantes nos incisos VII e VIII do art. 45 da Lei nº 10.431/06 (Licença de
+regularização e Licença ambiental por adesão e compromisso) situam-se no
+âmbito normativo concorrente e concretizam o dever constitucional de
+suplementar a legislação sobre licenciamento ambiental à luz da
+predominância do interesse no estabelecimento de procedimentos
+específicos para as atividades e empreendimentos do Estado da Bahia. [...] 7.
+Dispositivo: Ação direta de inconstitucionalidade julgada improcedente,
+declarando-se constitucionais o art. 40, o art. 45, incisos VII e VIII, e o art. 147
+da Lei nº 10.431/06 do Estado da Bahia, com a redação conferida pela Lei
+Estadual nº 12.377, de 28 de dezembro de 2011.
+(STF - ADI 5014, Rel. Min. Dias Toffoli, j. em 13/11/2023, Tribunal Pleno, p.
+em 20/02/2024)
+
+Evidente, portanto, que este STF já reconheceu a constitucionalidade de
+instrumentos idênticos aos trazidos pela Lei nº 15.190/2025, notadamente nesse caso a
+LAC ou a LOC (denominada “licença de regularização” no precedente). Se não há
+vedação constitucional para que um estado edite lei nesse sentido, tampouco pode ser
+reputada inconstitucional a lei federal que o fizer.
+
+20 No mesmo sentido, menciona-se a ADI 4.615, de relatoria do Ministro Roberto Barroso, julgada em 20 de
+setembro de 2019. Ainda, na ADI 6.618, de relatoria do Ministro Cristiano Zanin, julgada em 07 de abril de
+2025, decidiu-se pela legitimidade da da instituição de novos tipos de licenciamento ambiental pelos estados, no
+exercício da competência ambiental constitucional.
+
+27
+
+[[pagina 28 | nativo]]
+
+​
+
+Já no caso do licenciamento ambiental corretivo, voltado para a regularização
+de atividade ou empreendimento que estava operando sem licença ambiental válida na
+data de publicação da Lei, é necessário elucidar a coerente escolha legislativa em
+possibilitar a extinção da punibilidade mediante a solicitação espontânea da Licença de
+Operação Corretiva (LOC) e o cumprimento das exigências para sua expedição.
+
+É sabido que, no direito brasileiro, optou-se pela tríplice responsabilização
+ambiental, conforme determina o art. 225, § 3º da Constituição Federal:
+
+Art. 225. Todos têm direito ao meio ambiente ecologicamente equilibrado, bem
+de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao
+Poder Público e à coletividade o dever de defendê-lo e preservá- lo para as
+presentes e futuras gerações.
+[...]
+§ 3º As condutas e atividades consideradas lesivas ao meio ambiente sujeitarão
+os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas,
+independentemente da obrigação de reparar os danos causados.
+
+No entanto, no âmbito criminal, a responsabilização dos agentes é muito mais
+voltada para a reparação do dano, que para a imputação de penas propriamente ditas. Isso
+se observa pela dinâmica das medidas despenalizadoras e do menor potencial ofensivo dos
+crimes ambientais.
+
+É sabido que as medidas despenalizadoras, aglutinadas especialmente na Lei
+n° 9.099/1995, são mecanismos jurídicos voltados para evitar o processo criminal
+convencional e eventuais penas restritivas de liberdade para crimes de menor potencial
+ofensivo. Ao dispor sobre os tipos penais ambientais, o legislador optou por concentrar a
+suma maioria das penas em limites que as enquadram em crimes de menor potencial
+ofensivo, possibilitando a aplicação de acordos como o de transação penal. Isso porque
+seu intuito primário é a reparação do dano, garantindo a preservação e manutenção da
+integridade do meio ambiente, não a repressão carcerária (que não garante a reparação do
+dano).
+
+Assim, a Lei Geral do Licenciamento Ambiental garantiu, de forma muito
+acertada e coerente, a possibilidade de extinção da punibilidade do crime previsto no art.
+60 da Lei n° 9.605/199821, mediante a solicitação espontânea da Licença de Operação
+Corretiva (LOC) e o cumprimento de suas exigências (art. 26, § 5º). É muito mais
+importante ao meio ambiente ecologicamente equilibrado que uma atividade esteja
+regular do que alguma pessoa, física ou jurídica, responda criminalmente. Assim, a
+sistemática da LOC é constitucional e elogiável.
+
+21 Art. 60. Construir, reformar, ampliar, instalar ou fazer funcionar, em qualquer parte do território nacional,
+estabelecimentos, obras ou serviços potencialmente poluidores, sem licença ou autorização dos órgãos
+ambientais competentes, ou contrariando as normas legais e regulamentares pertinentes:
+
+28
+
+[[pagina 29 | nativo]]
+
+​
+
+Fica evidente o intuito legislativo de regularizar atividades que operam
+informalmente, possibilitando que o Estado retome o controle sobre condicionantes que
+estavam sendo descumpridas ou empreendimentos que estavam operando irregularmente,
+ao invés de perpetuar um “vácuo regulatório”. Afinal, a regularização de atividades que
+operam sem licença válida ou em desacordo com ela é muito mais benéfico ao meio
+ambiente e à coletividade do que a simples punição dos infratores.
+
+Portanto, é possível concluir que esses dispositivos da LGLA são formalmente
+constitucionais, à medida que respeitam a competência legislativa federal para disposição
+de normas gerais e preservam o núcleo essencial do art. 225 da Constituição, referente à
+tutela e preservação ambiental. Ainda, sob o aspecto material, promovem modernização e
+estratégia, trocando a ineficiência de um rito burocrático único por uma pluralidade de
+procedimentos que respondem com inteligência técnica à diversidade das atividades
+econômicas brasileiras.
+
+III.5 - EIA e Demais Estudos Ambientais (Arts. 28 a 34)
+
+O Estudo de Impacto Ambiental e seu respectivo Relatório, o EIA/Rima,
+instrumento central da Política Nacional do Meio Ambiente (art. 9º, III), encontra-se
+disciplinado no Capítulo II, Seção V, da nova Lei Geral do Licenciamento Ambiental, em
+pleno alinhamento aos preceitos constitucionais, conforme se passa a expor.
+
+Previsto no art. 225, §1º, IV, da Constituição Federal, o EIA/Rima é exigido
+para a instalação de obras ou atividades potencial ou efetivamente causadoras de
+significativa degradação ambiental. Embora dotado de estatura constitucional, o
+procedimento norteador do estudo permaneceu, por décadas, sem disciplina em lei federal
+em sentido estrito, tendo sido regulamentado principalmente no plano infralegal,
+sobretudo pela Resolução CONAMA nº 01/1986.
+
+Diante de tal lacuna, o Supremo Tribunal Federal reconheceu a natureza de
+norma geral à referida resolução, conforme entendimento reafirmado no julgamento da
+ADI 4069, sob relatoria do Ministro Edson Fachin, ocasião em que se assentou que leis
+estaduais não poderiam afastar as diretrizes federais estabelecidas pelo CONAMA para o
+EIA/RIMA. Na prática, portanto, um instrumento essencial da política ambiental brasileira
+permaneceu por longo período estruturado predominantemente por normas infralegais,
+ainda que ostentem reconhecida força normativa no sistema de proteção ambiental.
+
+Nesse panorama histórico e normativo, surge a Lei nº 15.190/2025 com o
+propósito de sistematizar e conferir maior unidade ao regime jurídico do licenciamento
+ambiental brasileiro, como vem sendo reiteradamente sustentado nesta exordial. No que se
+refere especificamente ao EIA/Rima, o legislador disciplinou a matéria de forma inédita
+
+29
+
+[[pagina 30 | nativo]]
+
+​
+
+ao incorporar seu regramento no corpo de uma lei federal, dedicando-lhe a Seção V,
+intitulada “Do EIA e dos demais Estudos Ambientais”. Com isso, finalmente cumpriu-se o
+comando do art. 225, IV, da CRFB/1988, superando o estado de eficácia limitada desta
+norma, conferindo-lhe os nortes de aplicabilidade (“na forma da lei”, em sentido estrito).
+
+Ao revés do que tem sido constantemente alegado neste período de recém
+sanção da nova lei, não há violação ao princípio da vedação do retrocesso em matéria
+ambiental. Este é violado, como leciona Luís Roberto Barroso22, quando uma lei, ao
+“regulamentar um mandamento constitucional, instituir determinado direito”, é suprimida
+por lei posterior, de forma a comprometer a concretização desse direito e retroceder no
+nível de proteção jurídica assegurada. Ainda que se interprete que a Res. CONAMA nº
+01/1986 regulamentou o art. 225, § 1º, IV, da CRFB/1988, ostentando status de norma
+geral (mesmo tratando-se de ato administrativo normativo), é nítido que as mudanças
+efetuadas pela nova Lei Geral do Licenciamento Ambiental (arts. 28 a 34) não configuram
+retrocesso, bastando uma análise comparativa entre os dois diplomas para assim perceber.
+
+A partir de tal análise, revela-se um movimento de continuidade e também de
+aperfeiçoamento. De um lado, a legislação preserva diretrizes consolidadas ao prever
+certos elementos que o EIA deve contemplar, a exemplo da avaliação de impactos, análise
+de alternativas e definição de medidas de mitigação e monitoramento, dentre outros já
+previstos na norma anterior. De outro, o legislador aproveitou o ensejo para aprofundar,
+sistematizar e modernizar o procedimento, conferindo maior clareza às etapas e ao rigor
+técnico que estruturam o estudo.
+
+No contexto das inovações, destaca-se o artigo 28, primeiro da seção V, no
+qual restou expressamente positivado o Termo de Referência (TR). De acordo com
+Rogério Rocco, através deste documento, o órgão ambiental “elabora a relação de itens a
+serem estudados e entrega ao proponente (...) estabelecendo o ponto de partida
+indispensável para que a equipe técnica elabore o EIA e delimite a abrangência dos
+impactos a serem avaliados”23.
+
+Ocorre que, não obstante o TR já fosse utilizado costumeiramente na prática
+administrativa, sua previsão era dispersa, sem que houvesse sequer menção a ele na Res.
+CONAMA 01/1986, permitindo ampla discricionariedade dos órgãos ambientais. Agora,
+com a nova lei, foram fixadas diretrizes nacionais aplicáveis a todos, o que torna o
+procedimento mais organizado, como também célere, ao estabelecer prazos objetivos de
+
+22 BARROSO, Luís Roberto. O direito constitucional e a efetividade das normas. 5. ed. Rio de Janeiro:
+Renovar, 2001, p. 158-159.
+23 ROCCO, Rogério. Estudo de Impacto Ambiental e Relatório de Impacto Ambiental. Rio de Janeiro:
+Lumen Juris, 2025.
+
+30
+
+[[pagina 31 | nativo]]
+
+​
+
+observância tanto para os empreendedores quanto para as autoridades licenciadoras (§§ 2º
+e 4º), por exemplo.
+
+Essa insuficiência regulatória projetava efeitos deletérios sobre a qualidade
+técnica da instrução procedimental do EIA. Pesquisa acadêmica conduzida por Alexandre
+Nascimento de Almeida (Universidade de Brasília) junto ao corpo técnico do IBAMA
+evidencia que a precariedade dos Termos de Referência (TRs) figurava como um dos
+fatores de ineficiência do licenciamento no âmbito do modelo normativo anterior. À falta
+de critérios legais uniformes, os analistas apontavam que os TRs eram frequentemente
+emitidos de forma incompleta ou dissociada da realidade fática do projeto, o que
+comprometia a confiabilidade de todo o Estudo desde a sua origem, conforme destaca o
+pesquisador:
+
+Problemas decorrentes da elaboração do termo de referência com baixa
+qualidade também foram lembrados pelos analistas do IBAMA, sendo
+interpretados como uma autocrítica, pois é o órgão ambiental que decide a
+abrangência do termo de referência, sugerindo uma falta de competência e
+estrutura do órgão ambiental na condução confiável dos EIAs24 .
+
+Em sequência, a distinção promovida pelo art. 29 opera uma necessária
+delimitação metodológica. Enquanto o prognóstico - leia-se: “projeção da provável
+situação futura do ambiente potencialmente afetado, caso a proposta em análise seja
+implementada”, conforme Barbara Souza25 - passa a concentrar-se nas áreas onde o nexo
+causal é imediato (ADA e AID), vide inciso VI, a análise de impactos e o diagnóstico
+(incisos III e IV) mantêm-se abrangentes, englobando a Área de Influência Indireta (AII):
+
+Art. 29. O EIA deve contemplar:
+[...]
+III - diagnóstico ambiental da ADA e das áreas de influência direta e
+indireta da atividade ou do empreendimento, com a análise integrada dos
+elementos e atributos dos meios físico, biótico e socioeconômico que podem ser
+afetados;
+IV - análise dos impactos ambientais da atividade ou do empreendimento,
+consideradas as alternativas escolhidas, por meio da identificação, da previsão
+da magnitude e da interpretação da importância dos prováveis impactos
+relevantes, discriminando-os em negativos e positivos, de curto, médio e longo
+prazos, temporários e permanentes, considerados seu grau de reversibilidade e
+suas propriedades cumulativas e sinérgicas, bem como a distribuição dos ônus e
+dos benefícios sociais e a existência ou o planejamento de outras atividades ou
+
+24 ALMEIDA, Alexandre Nascimento. Problemas nos Estudos de Impacto Ambiental: EIAs conforme
+percepção dos analistas ambientais do IBAMA. VIII Congresso Brasileiro de Gestão Ambiental. Campo
+Grande/MS – 27 a 30/11/2017. Disponível em: https://www.ibeas.org.br/congresso/Trabalhos2017/V-002.pdf.
+Acesso em: 19 de mar. 2026.
+25 SOUZA, Bárbara. EIA/RIMA: estrutura geral e relações. São Paulo: Editora Senac, 2019.
+
+31
+
+[[pagina 32 | nativo]]
+
+​
+
+empreendimentos de mesma natureza nas áreas de influência direta e indireta;
+[...]
+VI - prognóstico do meio ambiente na ADA e na AID da atividade ou do
+empreendimento, nas hipóteses de sua implantação ou não;
+
+Ao contrário do alegado no âmbito da ADI 7916, de que a nova Lei Geral
+supostamente representaria um retrocesso ao excluir o prognóstico sobre impactos
+indiretos do conteúdo obrigatório do EIA, a leitura holística de seus dispositivos permite
+compreender que a necessária preocupação com a qualidade ambiental da Área de
+Influência Indireta (AII) não foi minimizada ou ignorada. Houve apenas o direcionamento
+do exercício de modelagem preditiva às áreas onde a identificação do nexo de causalidade
+é imediata, ou seja, tecnicamente verificável, corrigindo o caráter abstrato da Res.
+CONAMA nº 01/86.
+
+É precisamente nesse contexto que vale o resgate da crítica tecida por Luis
+Enrique Sánchez à formulação de previsões em termos vagos e inverificáveis, a qual
+representa uma das graves deficiências do EIA. Como ensina o jurista, as “dificuldades de
+prever impactos e as incertezas de previsão são inerentes à avaliação ambiental”, sendo,
+portanto, mais produtivo focar na identificação precisa do “impacto significativo” do que
+em previsões especulativas de magnitude em áreas remotas26.
+
+Ao direcionar o rigor técnico para onde o dano é imediato, e confiar a gestão
+das incertezas às fases de acompanhamento e monitoramento, capazes de identificar
+impactos não previstos e alertar para medidas corretivas, como afirma Sánchez, a Lei nº
+15.190/2025 substitui a imprecisão metodológica anterior por um modelo de
+licenciamento pautado pela objetividade e pela efetividade da proteção ambiental.
+
+Ainda, observa-se que a permanência da AII como objeto obrigatório de
+diagnóstico e análise de impactos assegura o rigor do Estudo de Impacto Ambiental. O
+inciso III do art. 29 corrobora essa interpretação ao exigir que o diagnóstico abranja todos
+os atributos “que podem ser afetados”, garantindo que nenhum impacto relevante, ainda
+que indireto, seja negligenciado. Curiosamente, esse entendimento é exposto nas próprias
+razões da ADI 7919, onde os proponentes admitem que o dispositivo em menção ratifica a
+obrigatoriedade de uma avaliação abrangente, capaz de capturar a complexidade dos
+impactos em suas dimensões direta e indireta (fls. 127 da petição inicial daqueles autos).
+
+Nessa mesma linha de aperfeiçoamento, o artigo 30 da nova Lei Geral, ao
+tratar do conteúdo mínimo do Rima, preserva a essência da Res. CONAMA nº 01/1986,
+
+26 SÁNCHEZ, Luis Henrique. Avaliação de Impacto Ambiental: conceitos e métodos. 3º ed. rev. São Paulo:
+Oficina de Textos, 2020, p. 241-242.
+
+32
+
+[[pagina 33 | nativo]]
+
+​
+
+porém sob uma redação mais clara. Já o artigo 32, por exemplo, introduz inovação
+relevante, ao facultar a apresentação de um estudo de impacto ambiental único para
+empreendimentos distintos localizados em uma mesma Área de Estudo (AE).
+
+Ao viabilizar a emissão de Licença Prévia (LP) única para o complexo de
+atividades, mesmo sob competência de autoridades licenciadoras distintas (mediante
+cooperação técnica), a nova Lei promove a coordenação administrativa, assegurando que a
+viabilidade ambiental do território seja analisada de forma unitária e coerente com a
+realidade geográfica local. Nota-se que a necessária distinção entre as atividades é
+preservada, uma vez que a unificação do estudo de impacto não dispensa o empreendedor
+de obter as licenças subsequentes de forma individualizada (§1º).
+
+Portanto, a sistemática introduzida pelos artigos 28 a 34 da Lei nº 15.190/2025
+densifica o comando do art. 225, § 1º, IV, da Constituição Federal, ao transpor o
+regramento do EIA/Rima do campo infralegal para o plano da lei em sentido estrito. Resta
+categoricamente afastada qualquer alegação de violação ao princípio da vedação ao
+retrocesso ambiental, uma vez que a reestruturação metodológica e a racionalização do
+diagnóstico e prognóstico não implicam redução do patamar de proteção; ao contrário, por
+exigir rigor técnico verificável, a nova Lei amplia a efetividade da tutela ecológica.
+
+III.6 - Integração, Disponibilização de Informações, Participação Pública e
+Autoridades Envolvidas (Arts. 35 a 46)
+
+A Seção VI da LGLA, intitulada “Da Integração e da Disponibilização de
+Informações”, busca concretizar os princípios da publicidade e da transparência nos
+procedimentos de licenciamento ambiental (arts. 35 a 38). Tais dispositivos impõem
+deveres positivos às autoridades licenciadoras e estão em estrita harmonia com o art. 37 da
+Constituição Federal, que rege a Administração Pública. O objetivo é transformar o direito
+fundamental de acesso à informação (art. 5º, XIV, CRFB/88) em uma realidade prática.
+
+O art. 35 estabelece que o Sistema Nacional de Informações sobre o Meio
+Ambiente (Sinima) deverá, no prazo de quatro anos (§4º), consolidar um subsistema de
+dados georreferenciados. Este sistema deve ser integrado a outras bases governamentais,
+como o Sicar e o Sinaflor (§2º), e permanecer acessível via internet (§3º). A
+obrigatoriedade abrange informações de todos os entes federativos, incluindo estudos
+ambientais (§1º) e as bases de dados das respectivas autoridades licenciadoras.
+Consagração do princípio da publicidade!
+
+Além disso, os órgãos ambientais têm o prazo de três anos para digitalizar seus
+processos, garantindo que a tramitação ocorra em meio eletrônico em todas as fases,
+promovendo a integração entre autoridades licenciadoras e envolvidas (art. 36, §§ 1º e 2º).
+
+33
+
+[[pagina 34 | nativo]]
+
+​
+
+O art. 37 reforça o caráter público do procedimento ao exigir que o órgão licenciador
+disponibilize, em seu sítio eletrônico, tanto os pedidos recebidos quanto as decisões
+fundamentadas de aprovação, rejeição ou renovação. Complementarmente, o §1º
+estabelece a obrigação de o empreendedor publicar o pedido de licença na imprensa
+oficial sempre que o projeto apresentar potencial de causar significativa degradação.
+
+A transição para um modelo digital e integrado visa remediar uma ineficiência
+administrativa histórica. Embora as unidades da federação já disponham de sistemas
+informatizados, diagnósticos do setor revelam que a transparência permanece incompleta
+e assistemática, o que evidencia uma aplicação ainda deficitária da Lei de Acesso à
+Informação (Lei nº 12.527/2011) no âmbito ambiental27. Ao impor a sistematização e a
+digitalização obrigatória de dados, a LGLA supre a lacuna informativa e remove entraves
+ao controle social. Dessa forma, a norma não apenas aperfeiçoa o rito, mas confere
+efetividade à Política Nacional do Meio Ambiente.
+
+Na sequência, a Seção VII, denominada “Da Participação Pública” (arts. 39 a
+41), estabelece quatro modalidades de interação social no licenciamento: audiência
+pública, consulta pública, reunião participativa e tomada de subsídios técnicos (art. 39). A
+lei impõe a obrigatoriedade de ao menos uma audiência pública antes da decisão sobre a
+emissão da Licença Prévia sempre que o procedimento exigir EIA/RIMA (art. 40),
+garantindo o acesso ao estudo com antecedência mínima de 45 dias (§1º).
+
+Tal mudança normativa inova ao tornar a audiência pública um ato automático
+e obrigatório, superando o regramento anterior que condicionava a sua realização à
+discricionariedade do órgão ou à provocação dos legitimados. Assim, longe de configurar
+um retrocesso, a medida representa progresso ao consolidar a participação popular como
+etapa indissociável dos projetos de maior impacto ambiental.
+
+Por sua vez, a Seção VIII da LGLA (arts. 42 a 46) disciplina a participação das
+autoridades envolvidas, definidas pelo art. 3º, III, como os órgãos ou entidades que devem
+se manifestar sobre os impactos da atividade em patrimônio cultural acautelado ou em
+áreas protegidas específicas, tais como terras indígenas, quilombolas e unidades de
+conservação. Esta seção tem sido objeto de intenso questionamento nas ADIs
+mencionadas, sob o argumento de que instituições teriam sofrido um esvaziamento de suas
+prerrogativas de anuência nos licenciamentos que afetam, direta ou indiretamente, suas
+áreas de proteção.
+
+27 LIMA, Rafaela Silva de Oliveira de. A acessibilidade às informações sobre os processos de licenciamento
+ambiental no Brasil: análise dos websites dos órgãos ambientais licenciadores estaduais. Ilha Solteira: [s.n.],
+2022, 184 f. Trabalho de conclusão de curso (Graduação em Ciências Biológicas). Universidade Estadual
+Paulista. Faculdade de Engenharia de Ilha Solteira, 2022.
+
+34
+
+[[pagina 35 | nativo]]
+
+​
+
+Todavia, tais dispositivos apenas conferem densidade normativa ao que já
+estabelece a Lei Complementar nº 140/2011. Sob esse marco regulatório, o
+licenciamento deve ser conduzido por um único ente federativo, cabendo aos demais
+órgãos manifestarem-se de forma “não vinculante” (art. 13). Logo, a LGLA não
+restringe proteções, mas reafirma a autonomia técnica da autoridade licenciadora,
+impedindo que a mora de terceiros se converta em um veto transversal.
+
+Em conformidade, ao refletir sobre a desburocratização de procedimentos em
+biomas protegidos, Édis Milaré assevera que a proteção ambiental não se confunde com o
+entrave administrativo, pontuando que “não há por que um ente autônomo da federação ter
+que demandar, para o cumprimento de suas ações, do adjutório de um seu congênere”28,
+em observância à autonomia federativa consagrada no art. 18 da Constituição Federal.
+
+Adicionalmente, observa-se que a participação das autoridades envolvidas
+não é disciplinada de forma intempestiva ou desordenada, mas por meio de um rito
+de diálogo contínuo que perpassa todo o procedimento.
+
+São assegurados prazos razoáveis e previsíveis para a análise técnica,
+iniciando-se já na fase de elaboração do Termo de Referência - momento em que as
+autoridades envolvidas têm 30 dias para se manifestar, prorrogáveis por mais 15 (art. 43, §
+1º) - e estendendo-se à análise do EIA/Rima, para o qual se reserva o prazo de até 90 dias
+para manifestação conclusiva (art. 44, §2º).
+
+A participação preliminar é essencial para a qualidade da instrução processual.
+Ao colaborarem na definição do escopo do Termo de Referência, as autoridades
+envolvidas asseguram a possibilidade de influenciar, de forma decisiva, o enfoque técnico
+dado à análise dos impactos sobre os bens sob sua tutela.
+
+O TR norteia todos os estudos ambientais subsequentes, logo, uma definição
+falha nesta etapa inicial compromete a qualidade do diagnóstico técnico e pode viciar a
+efetividade de todo o licenciamento.
+
+Mesmo nos casos em que não houver manifestação tempestiva, a adoção de
+um “TR padrão” (art. 43, § 2º) garante que o procedimento não fique paralisado, sem
+retirar o papel relevante das autoridades envolvidas.
+
+Diante de tal sistemática, verifica-se que não há surpresa procedimental, uma
+vez que a Lei Geral faculta aos órgãos e instituições envolvidas o acompanhamento do
+
+28 MILARÉ, Édis. Lei Geral do Licenciamento Ambiental: Lei 15.190/2025, comentários artigo por artigo. Rio
+de Janeiro: Forense, 2026, p. 253.
+
+35
+
+[[pagina 36 | nativo]]
+
+​
+
+projeto desde a origem. Essa integração orgânica das contribuições evita o
+congestionamento de atos processuais e preserva a fluidez necessária à instrução.
+
+Essa dinâmica encontra fundamento na própria natureza jurídica da licença
+ambiental. Superando a dicotomia clássica entre ato vinculado e discricionário, o
+licenciamento alinha-se às lições de Gustavo Binenbojm29 sobre os “graus de vinculação”
+do ato administrativo. Sob essa ótica contemporânea, o ato de licenciar não é uma mera
+conferência de requisitos (ato vinculado), nem somente uma escolha de conveniência
+política (ato discricionário); ele constitui um ato administrativo de juízo técnico complexo.
+Nele, o Estado exerce uma função de ponderação, em que a viabilidade do projeto é
+confrontada com a proteção dos ativos ambientais.
+
+Nessa conjuntura, o caráter não vinculante das manifestações das autoridades
+envolvidas (art. 42, I) — em harmonia com o sistema da LC nº 140/2011 — preserva a
+unidade de comando e a autonomia do órgão licenciador. Todavia, não se confunda
+ausência de vinculação com irrelevância. A lei impõe à autoridade licenciadora o dever de
+considerar fundamentadamente todos os subsídios técnicos recebidos (art. 44, §6º).
+
+Portanto, tais manifestações funcionam como vetores técnicos que delimitam a
+moldura das condicionantes e conferem robustez à decisão final. O resultado é um
+licenciamento que, ao mesmo tempo em que respeita a celeridade indispensável ao
+desenvolvimento, não abdica do rigor e do diálogo institucional.
+
+Em última análise, a nova sistemática traz eficiência administrativa, respeito ao
+Pacto Federativo e tecnicidade ao licenciamento ambiental. Não é apenas constitucional,
+mas é elogiável sob qualquer aspecto.
+
+III.7 - Prazos e Despesas (Arts. 47 a 53)
+
+As Seções IX e X da Lei nº 15.190/2025 (artigos 47 a 53) promovem a
+modernização e a racionalização do rito administrativo ao estabelecerem prazos objetivos
+para a análise das licenças e definirem de forma clara a alocação das despesas
+procedimentais. A fixação de prazos máximos para a emissão das licenças afasta a
+morosidade injustificada, sem refletir em diminuição à proteção ambiental, uma vez que o
+vencimento do prazo não gera aprovação tácita, mas instaura a competência supletiva de
+outro ente federativo.
+
+29 BINENBOJM, Gustavo. Uma teoria do direito administrativo: direitos fundamentais, democracia e
+constitucionalização. Rio de Janeiro, Renovar, 2014.
+
+36
+
+[[pagina 37 | nativo]]
+
+​
+
+Paralelamente a isso, a lei regulamenta as despesas do licenciamento, consolidando
+que correm por conta do empreendedor os custos com estudos, audiências e
+condicionantes. Contudo, a norma traz um avanço fundamental ao exigir que essas
+cobranças mantenham estrita relação de proporcionalidade com a complexidade dos
+serviços prestados pelo Poder Público e que tenham seus itens de composição
+devidamente publicados.
+
+Ao substituir a incerteza e a lentidão por regras de custeio claras e prazos
+vinculantes, o legislador conferiu a tão necessária segurança jurídica e previsibilidade ao
+processo de licenciamento. Tais dispositivos concretizam os princípios constitucionais da
+eficiência administrativa e da razoável duração do processo, assegurando o controle
+ambiental.
+
+III.8 - Disposições Finais (Arts. 54 a 67)
+
+As disposições finais da Lei n° 15.190/2025 mantém a ênfase na modernização
+procedimental, paralela à manutenção da proteção ambiental. Nesse sentido, a natureza do
+art. 54, que discorre sobre a possibilidade de realização, quando exigidos pelo órgão
+licenciador, de estudos técnicos e ambientais nas Unidades de Conservação, é meramente
+estratégica, com o fim de garantir o adequado planejamento de infraestrutura, sem
+qualquer violação à integralidade das UCs. Tanto é assim que o parágrafo primeiro do
+referido dispositivo determina que a interferência eventualmente ocasionada pelos estudos
+deve ser a menor possível.
+
+Ainda, o art. 57 reforça a possibilidade de responsabilização civil,
+administrativa e criminal dos empreendedores e profissionais responsáveis por subscrever
+os estudos ambientais e informações apresentadas no âmbito do licenciamento, reforçando
+o já previsto no art. 69-A da Lei de Crimes Ambientais.
+
+O artigo 58 regulamenta, de forma acertada e coerente, a responsabilização das
+instituições financeiras e de fomento. Elas devem exigir a apresentação de licenças válidas
+para a concessão de crédito. Com isso, fica muito bem delimitada a sua responsabilização.
+Penas o contrário prever que um ônus de fiscalização ambiental técnica seja transferido de
+maneira desmedida e desarrazoada aos entes privados, que já cumpriram adequadamente o
+dever de diligência, ao exigir a apresentação da licença ambiental correspondente à
+atividade ou empreendimento contratado. Isso porque, como bem se sabe, incumbe ao
+Poder Público a fiscalização acerca da regularidade ambiental.
+
+Já no art. 59 há a previsão de mais um mecanismo de garantia da adequada
+tutela ambiental, por meio da exigência, às autoridades licenciadoras, de elaboração de
+
+37
+
+[[pagina 38 | nativo]]
+
+​
+
+relatórios avaliativos dos impactos previstos, minimizados e compensados, decorrentes do
+processo de licenciamento.
+
+A norma também estabelece um rito procedimental claro e constitucional para
+a transição normativa em relação aos processos em curso. Nesse sentido, determina-se que
+os processos iniciados após a vigência do diploma legal, por óbvio, sigam integralmente
+suas disposições. Já no que tange aos processos que estavam em tramitação quando a lei
+entrou em vigência, estabeleceu-se uma transição estratégica por etapas: as obrigações e
+cronogramas já estabelecidos devem ser respeitados até que conclua-se a etapa em que o
+processo se encontra, enquanto as fases subsequentes passam a ser regidas conforme a
+LGLA (conforme determina o art. 60 da lei). É a consagração da “Teoria do Isolamento
+dos Atos Processuais”, amplamente utilizada no direito pátrio quando da entrada em vigor
+de leis procedimentais.
+
+O art. 67, por sua vez, estabelece o marco temporal para o início da vigência da
+lei, estabelecendo um prazo de vacatio legis de 180 dias. Essas disposições são essenciais,
+à medida que preservam o ato jurídico perfeito e a segurança jurídica, nos termos do art.
+5º, XXXVI, da CF30.
+
+As disposições finais também alteram a redação da Lei de Crimes Ambientais,
+por meio do art. 62. Nesse sentido, a norma aumentou a pena do delito, que era de
+“detenção, de um a seis meses, ou multa, ou ambas as penas cumulativamente” para
+“detenção, de seis meses a dois anos, ou multa, ou ambas as penas, cumulativamente”.
+
+Ainda, retirou a figura culposa do delito previsto no art. 67 da Lei n° 9.605/98,
+uma vez que não há de se falar em concessão culposa de autorização em desacordo com as
+normas ambientais, vez que essa figura só possibilita a forma dolosa para
+responsabilização criminal.
+
+Fica evidente, portanto, que não se trata de legislação permissiva, de forma
+alguma. O que se fez foi ajustar os procedimentos e dispositivos, visando racionalizá-los,
+otimizá-los e modernizá-los.
+
+Já o art. 63 da LGLA garante que o licenciamento ambiental se torne parte de
+uma estratégia de desenvolvimento nacional, em conformidade com o art. 170, VI, da
+CF31, que versa sobre a conciliação da ordem econômica com a defesa ambiental, à
+
+30 Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros e aos
+estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à segurança e à
+propriedade, nos termos seguintes: [...] XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito
+e a coisa julgada.
+31 Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim
+assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes princípios: [...]
+
+38
+
+[[pagina 39 | nativo]]
+
+​
+
+medida que altera a redação do art. 6°, I, da Lei n° 6.938/1981, para atribuir ao Conselho
+de Governo o dever de propor a lista de empreendimentos estratégicos.
+
+O art. 65, por sua vez, é relevante à medida que resolve o histórico problema
+de sobreposição de fiscalização ambiental, ao estabelecer um procedimento de
+coordenação das competências fiscalizatórias, fundamentado na Lei Complementar n°
+140/2011. Determina-se que, em caso de divergência técnica ou lavratura de diversos
+autos de infração pela mesma situação, deve prevalecer a manifestação do órgão
+licenciador.
+
+Nesse sentido, não se retira o poder de polícia dos demais entes federativos,
+mas se garante que o órgão licenciador, detentor de todo o conhecimento técnico do caso,
+tenha a palavra final sobre a conformidade técnica da atividade.
+
+Por fim, sobre o art. 66, é de especial relevância tratar sobre a revogação dos
+§§ 1º e 2º do art. 14 da Lei nº 11.428/2006, que extingue a necessidade de anuência prévia
+do IBAMA para supressão de vegetação na Mata Atlântica autorizada por entes estaduais
+ou municipais.
+
+Não há que se discutir a constitucionalidade do dispositivo, que se fundamenta
+na autonomia dos entes federados e na eficiência administrativa, evitando a análise dupla
+sobre a supressão, que ocasiona um prolongamento procedimental desnecessário. Ora, a
+proteção material do bioma permanece integralmente resguardada pela Lei da Mata
+Atlântica. Altera-se apenas o fluxo administrativo, evitando-se uma burocratização
+federal demasiada, sobre decisões que os órgãos estaduais e municipais têm plena
+capacidade técnica e competência para emitir. Não há, portanto, inconstitucionalidade. E
+considerar a desnecessidade de anuência do IBAMA um retrocesso ambiental é afirmar,
+por consequência, que os Estados e Municípios não possuem capacidade para aplicar
+corretamente a lei e proteger o bioma Mata Atlântica, sem que sejam supervisionados pelo
+órgão ambiental federal.
+
+IV - CONCLUSÃO
+
+A Lei nº 15.190/2025 não legitima, nem propicia qualquer redução do nível de
+proteção ambiental. Ao contrário, reafirma e fortalece o dever constitucional de tutela do
+meio ambiente (art. 225, caput e § 1º, IV, da CF/88).
+
+Todo empreendimento ou intervenção humana no ambiente natural continuará
+sujeito a procedimento administrativo completo e rigoroso, a ser conduzido pela
+
+VI - defesa do meio ambiente, inclusive mediante tratamento diferenciado conforme o impacto ambiental dos
+produtos e serviços e de seus processos de elaboração e prestação.
+
+39
+
+[[pagina 40 | nativo]]
+
+​
+
+autoridade competente, que mantém integralmente suas atribuições de identificar riscos,
+avaliar impactos e adotar medidas preventivas, mitigadoras ou compensatórias diante de
+qualquer situação de prejuízo aos bens e valores ambientais.
+
+Mesmo nos casos de não sujeição ou simplificação do licenciamento ambiental
+(arts. 8º a 11), qualquer atividade humana que possa degradar o meio ambiente permanece
+plenamente resguardada. Como já destacado nesta petição, a não sujeição ao
+licenciamento não afasta a fiscalização pelo órgão ambiental competente nem exime o
+empreendedor do cumprimento das demais normas de proteção material incidentes,
+especialmente o Código Florestal (Lei nº 12.651/2012), a Lei da Mata Atlântica (Lei nº
+11.428/2006), a legislação de recursos hídricos, de agrotóxicos, de conservação do solo,
+de unidades de conservação e todas as regulamentações inerentes às atividades produtivas
+(art. 9º, §§ 2º e 3º, e art. 8º, § 2º, da Lei nº 15.190/2025).
+
+Em nenhum dispositivo da Lei se observa vedação à intervenção estatal nas
+diversas etapas da avaliação ambiental. A norma não suprime qualquer mecanismo de
+controle, não dispensa a análise técnica fundamentada, não institui aprovação tácita e
+tampouco consolida situações jurídicas irreversíveis.
+
+Pelo contrário, os arts. 14, 16, 22, § 4º, 26, 57 e 65, entre outros, reafirmam
+expressamente o poder de polícia ambiental, a possibilidade de suspensão, cancelamento
+ou revisão da licença, a fiscalização por amostragem, a responsabilização civil,
+administrativa e criminal do empreendedor e a prevalência da manifestação do órgão
+licenciador em caso de sobreposição fiscalizatória.
+
+Trata-se, portanto, de mera racionalização procedimental de um
+instrumento que, antes da Lei Geral, padecia de fragmentação, insegurança jurídica
+e ineficiência.
+
+V - REQUERIMENTOS
+
+Ante o exposto, inicialmente, requer seja admitida e conhecida a presente ação
+declaratória de constitucionalidade, em razão da existência de controvérsia judicial
+relevante, inclusive com o julgamento conjunto desta ADC com as ADIs já propostas em
+face de dispositivos da Lei nº 15.190/2025 (notadamente as ADIs n. 7913, 7916 e 7919),
+nas quais foi adotado o rito do art. 12 da Lei nº 9.868/1999. Assim, pleiteia-se que a
+presente ADC também seja levada a julgamento na sessão a ser designada nos feitos
+anteriormente mencionados.
+
+40
+
+[[pagina 41 | nativo]]
+
+​
+
+Após o devido processamento, requer-se a proclamação de constitucionalidade
+da Lei nº 15.190/2025, em sua integralidade, julgando-se procedente a presente ADC, na
+forma do art. 24 da Lei nº 9.868/1999.
+
+Deixa-se de atribuir valor à causa, em razão da impossibilidade de quantificar
+seu conteúdo econômico.
+
+Nesses termos,
+Pede deferimento.
+
+São Paulo/SP, 02 de abril de 2026.
+
+Marcos André Bruxel Saes Gleyse Gulin
+OAB/SP 437.731 OAB/RJ 172.476
+
+Manuela K. H. Andriani Camilla Pavan Costa
+OAB/SC 44.175 OAB/SC 33.200
+
+Eduardo dos Anjos Saes Nicole Bittencourt de Freitas Lima
+OAB/SC 70.652 OAB/SC 73.238
+
+Rodrigo Feliciano Costa
+OAB/SC 77.743
+
+41
