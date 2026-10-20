@@ -1,3 +1,4 @@
+import numpy as np
 import pandas as pd
 import pytest
 
@@ -48,6 +49,37 @@ def test_buscar_termo_exato_de_lei_no_lexical(buscador):
 def test_buscar_filtra_por_classe(buscador):
     resultados = buscador.buscar("inconstitucionalidade da norma e validade da falência", k=10, classe="ADC")
     assert {r["classe"] for r in resultados} == {"ADC"}
+
+
+class RerankerFalso:
+    """Nota 0.9 para trechos que contêm 'imprensa', 0.1 para os demais."""
+
+    def pontuar(self, consulta, textos):
+        return np.array([0.9 if "imprensa" in t else 0.1 for t in textos], dtype="float32")
+
+
+@pytest.fixture
+def buscador_rerank(tmp_path, chunks_exemplo, embedder_falso):
+    construir_indice(chunks_exemplo, embedder_falso, tmp_path)
+    return Buscador(tmp_path, embedder=embedder_falso, reranker=RerankerFalso())
+
+
+def test_rerank_descarta_peticoes_abaixo_do_limiar(buscador_rerank):
+    resultados = buscador_rerank.buscar("liberdade de imprensa e censura", k=10, rerank=True, limiar=0.6)
+    assert [r["doc_id"] for r in resultados] == ["ADI_1"]
+    assert resultados[0]["score"] == pytest.approx(0.9)
+    assert "imprensa" in resultados[0]["trecho"]
+
+
+def test_rerank_sem_resultado_relevante_devolve_lista_vazia(buscador_rerank):
+    assert buscador_rerank.buscar("Lei 11.101/2005", k=10, rerank=True, limiar=0.95) == []
+
+
+def test_rerank_limiar_zero_mantem_uma_linha_por_peticao(buscador_rerank):
+    resultados = buscador_rerank.buscar("procedência da ação inconstitucionalidade da norma", k=10, rerank=True, limiar=0.0)
+    docs = [r["doc_id"] for r in resultados]
+    assert len(docs) == len(set(docs)) > 1
+    assert [r["score"] for r in resultados] == sorted((r["score"] for r in resultados), reverse=True)
 
 
 def test_buscar_modo_invalido(buscador):
