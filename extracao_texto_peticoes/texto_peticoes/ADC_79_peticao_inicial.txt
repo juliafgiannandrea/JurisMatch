@@ -1,0 +1,1690 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO LUIZ FUX, PRESIDENTE DO
+SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO SOCIALISTA BRASILEIRO – PSB NACIONAL,
+partido político devidamente registrado perante o Tribunal Superior
+Eleitoral e com representação no Congresso Nacional, inscrito no CNPJ
+sob o n. 01.421.697/0001-37, com sede nacional na SCLN 304, Bloco A,
+Sobreloja 01, Entrada 63, Asa Norte, Brasília/DF, CEP n. 70.736-510,
+vem, por intermédio de seus advogados devidamente constituídos (Doc.
+01), respeitosamente, à presença de Vossa Excelência, com fulcro no art.
+102, inciso I, alínea a, e art. 103, inciso VIII, ambos da Constituição
+Federal, e no art. 14 e seguintes da Lei n. 9.868/1999, propor a presente
+
+AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+em face do artigo 4º, caput e §§ 4º, 5º e 13, da Lei n. 12.850/2013,
+na redação dada pela Lei n. 13.964/2019, e o faz pelas razões de fato e
+de direito a seguir aduzidas.
+
+I. SÍNTESE DA DEMANDA
+
+Trata-se de ação voltada à declaração de constitucionalidade
+do art. 4º, caput e §§ 4º, 5º, e 13, da Lei n. 12.850/2013 (Doc. 03),
+que disciplinam o instituto da colaboração premiada. Eis o teor dos
+dispositivos:
+
+“Art. 4º. O juiz poderá, a requerimento das partes, conceder o
+perdão judicial, reduzir em até 2/3 (dois terços) a pena privativa
+de liberdade ou substituí-la por restritiva de direitos daquele
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+1
+
+[[pagina 2 | nativo]]
+
+que tenha colaborado efetiva e voluntariamente com a
+investigação e com o processo criminal, desde que dessa
+colaboração advenha um ou mais dos seguintes resultados:
+[...]
+§ 4º. Nas mesmas hipóteses do caput deste artigo, o Ministério
+Público poderá deixar de oferecer denúncia se a proposta de
+acordo de colaboração referir-se a infração de cuja existência
+não tenha prévio conhecimento e o colaborador:
+§ 5º. Se a colaboração for posterior à sentença, a pena poderá
+ser reduzida até a metade ou será admitida a progressão de
+regime ainda que ausentes os requisitos objetivos.
+[...]
+§ 11. A sentença apreciará os termos do acordo homologado e
+sua eficácia.”
+
+Como se percebe, os dispositivos em questão disciplinam de
+forma bastante direta e estreita o instituto da colaboração premiada,
+atribuindo (i) ao juiz a competência para, (ii) ao final do processo,
+conceder (iii) consequências jurídicas previstas em lei (o perdão
+judicial, a redução da pena privativa de liberdade ou sua substituição).
+
+Ocorre que, na aplicação prática dessas normas, tem-se
+identificado relevante controvérsia perante os tribunais brasileiros. Isso
+porque, em inúmeros casos, as partes do processo penal vêm se
+utilizando da colaboração premiada para, em substituição ao
+Judiciário, definir e até mesmo determinar o cumprimento de forma
+antecipada das penas privativas de liberdade.
+
+Como bem notou Marcelo Costenari Cavali, essa prática
+negocial entende a colaboração premiada “como um autêntico acordo
+de reconhecimento de responsabilidade penal e cumprimento de
+pena, diretamente entre as partes”1.
+
+Com efeito, a prática da colaboração premiada adotou
+formatos e parâmetros totalmente distintos daqueles estabelecidos na Lei
+n. 12.850/2013, trazendo várias inovações não previstas pelo legislador.
+Tais inovações espraiaram-se em dezenas de acordos de colaboração
+premiada homologados nos últimos anos, mesmo já tendo sido objeto de
+duras críticas pelo STF desde ao menos o ano de 2017, quando decisão
+
+1 Marcelo Costenaro Cavali, ‘Duas Faces Da Colaboração Premiada: Visões
+“Conservadora” e “Arrojada” Do Instituto Na Lei 12.850/2013’ in Maria Thereza de Assis
+Moura and Pierpaolo Cruz Bottini (eds), Colaboração premiada (Revista dos Tribunais
+2017);
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+2
+
+[[pagina 3 | nativo]]
+
+paradigmática do Min. Ricardo Lewandowski rejeitou a homologação de
+acordo de colaboração premiada, afirmando que “não é lícito às partes
+contratantes fixar, em substituição ao Poder Judiciário, e de forma
+antecipada a pena privativa de liberdade e o perdão de crimes ao
+colaborador”.2
+
+De forma precisa, referida decisão asseverou que: “Não há
+[…] qualquer autorização legal para que as partes convencionem a
+espécie, o patamar e o regime de cumprimento de pena”. Na mesma
+ocasião, o Min. Ricardo Lewandowski criticou a existência de cláusulas
+que alteravam os prazos prescricionais legais e alertou para a
+necessidade de os acordos seguirem as regras do processo penal
+brasileiro, “sob pena de o negociado passar a valer mais do que o
+legislado na esfera penal”.
+
+As inovações trazidas pela prática da colaboração premiada
+também já foram percebidas e criticadas pelo e. Min. Celso de Mello, que
+em voto brilhante reafirmou a necessidade dos acordos premiais
+respeitarem as regras legais:
+
+“[…] a propósito das cláusulas pactuadas no contexto do
+acordo de colaboração premiada, que elas hão de ajustar-se
+ao postulado constitucional da reserva de lei formal e ao
+princípio igualmente constitucional da reserva de jurisdição
+pois as pactuações negociais, na realidade, não podem
+estabelecer, em caráter inovador, benefícios de ordem
+premial sequer previstos na Lei nº 12.850/2013 o que
+ofenderia o princípio da reserva de Parlamento […]”.
+(grifos nossos)
+
+No mesmo diapasão, já se posicionou o Min. Alexandre de
+Moraes, asseverando que:
+
+“[…] O acordo de colaboração premiada, mesmo tendo caráter
+discricionário quanto ao mérito, está vinculado ao império
+constitucional e legal, pois, como muito bem ressaltado por
+JACQUES CHEVALLIER, “o objetivo do Estado de Direito é
+limitar o poder do Estado pelo Direito” (L’Etat de droit. Paris:
+Montchrestien, 1992. p. 12).
+O Estado de Direito exige a vinculação das autoridades ao
+Direito (LARENZ, Karl. Derecho justo: fundamentos de ética
+jurídica. Tradução de Luis Díez-Picazo. Madri: Civitas, 1985.
+p. 154), e, portanto, o Ministério Público ou a Polícia ao
+
+2 Petição n. 7.265, Rel. Min. Ricardo Lewandowski, STF
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+3
+
+[[pagina 4 | nativo]]
+
+celebrarem o acordo de colaboração premiada devem
+respeito aos requisitos legais.”3
+
+A criatividade contratual demonstrada pela prática da
+colaboração premiada também foi diagnosticada pela doutrina
+especializada, que há muito aponta as várias incompatibilidades das
+inovações negociais com o ordenamento jurídico brasileiro.
+
+Os Prof. José Gomes Canotilho e Nuno Brandão, por
+exemplo, já criticaram duramente a transformação dos acordos de
+colaboração premiada em acordos de reconhecimento de
+responsabilidade e cumprimento de pena. Segundo os renomados
+autores, além de ferir o princípio da legalidade, a definição antecipada da
+pena exata do colaborador, viola o princípio da jurisdicionalidade e o
+princípio da culpa:
+
+“Afronta o primeiro, porque, de facto transfere competência
+para a determinação da medida concreta da pena do juiz para
+o Ministério Público. E atenta contra o segundo, porque,
+contrariando o disposto no art. 59 do Código Penal, torna a
+culpabilidade num fator irrelevante para a fixação do
+quantum da pena”.4
+
+Lembrando a relevância dos princípios da legalidade
+criminal, da reserva de lei e da igualdade na aplicação da lei na esfera
+criminal, destacam os autores que: “é só na lei e com estrita
+subordinação ao iter processual por ela definido que poderá
+ancorar-se qualquer solução penal ou processual adoptada no
+processo fundada numa colaboração premiada”.
+
+Apesar das inúmeras críticas doutrinárias e alertas
+jurisprudenciais por parte do STF, persistem ainda hoje na prática da
+colaboração premiada várias inovações que contrariam o regramento
+legal e os princípios constitucionais do processo penal brasileiro. Não foi
+por outro motivo que o Exmo. Min. Gilmar Mendes, em recente
+julgamento nesta Corte Suprema, observou a existência de “um
+
+3 Petição n. 7.074, Rel. Min. Edson Fachin, STF
+4 JJ Gomes Canotilho e Nuno Brandão, ‘Colaboração Premiada e Auxílio Judiciário Em
+Matéria Penal: A Ordem Pública Como Obstáculo à Cooperação Com a Operação Lava
+Jato’ (2016) 146 Revista de Legislação e Jurisprudência 16,
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+4
+
+[[pagina 5 | nativo]]
+
+verdadeiro estado de coisas inconstitucional na implementação do
+regime de colaboração premiada no direito brasileiro”5.
+
+As inovações contratuais trazidas pela prática da
+colaboração premiada ocorrem basicamente em três dimensões:
+
+i) Competência para aferição da culpabilidade do réu
+e para dosimetria da pena. Enquanto a Lei n.
+12.850/2013, em consonância com o CPP e a CF/88,
+atribuem essa competência exclusivamente ao juiz, a
+prática da colaboração premiada tem conferido essa
+atribuição às partes do processo;
+
+ii) Momento processual de aferição da culpabilidade e
+definição da pena do réu. Enquanto a Lei n.
+12.850/2013, em consonância com o CPP e a CF/88,
+determina que a aferição da culpa e a definição da pena
+devem ser feitas ao fim do processo, a prática da
+colaboração premiada busca definir, de forma
+antecipada, a pena do colaborador no momento inicial
+da investigação; e
+
+iii) Conteúdo do acordo. Enquanto a Lei n. 12.850/2013
+prevê um rol claro de benefícios aferíveis por meio da
+colaboração premiada, a prática ampliou
+enormemente as vantagens concedidas a
+colaboradores através de acordos.
+
+O objeto da presente ação é afirmar que as partes do acordo
+de colaboração premiada devem obedecer às regras legais e aos
+mandamentos constitucionais, em particular aos princípios da reserva
+da jurisdição, da culpabilidade, da individualização da pena, do livre
+convencimento motivado do juiz e do devido processo legal.
+
+Em outras palavras, busca-se a declaração da
+constitucionalidade de dispositivos do art. 4º da Lei n. 12.850/2013 para
+afirmar que, nas ações penais que contenham acordos de colaboração
+premiada, assim como em qualquer processo penal no ordenamento
+jurídico brasileiro:
+
+5 Pet 8482 AgR, Relator Edson Fachin, Tribunal Pleno, julgado em 31/05/2021
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+5
+
+[[pagina 6 | nativo]]
+
+i) Compete exclusivamente ao Judiciário realizar o
+juízo de culpabilidade dos réus e definir a
+dosimetria da pena;
+
+ii) A aferição da culpabilidade dos réus deve ser feita
+ao final do processo penal, por meio de sentença
+judicial que aprecie os elementos objetivos e as
+protagonizações subjetivas; e
+
+iii) As consequências jurídicas decorrentes dos
+acordos devem estar estabelecidas previamente
+em lei.
+
+O posicionamento aqui defendido não constitui novidade e já
+foi inclusive defendido no âmbito da Estratégia Nacional de Combate à
+Corrupção e à Lavagem de Dinheiro (ENCCLA), cujo Manual da
+Colaboração Premiada assevera:
+
+“Importante ressaltar que não deve o magistrado homologar
+propostas que tragam preestabelecido o quanto de redução
+de pena. De um lado, porque não incumbindo ao Ministério
+Público ou ao delegado de polícia proferir sentença, não
+podem prometer algo que não podem cumprir; de outro
+porque, acaso tal cláusula fosse homologada nesse
+momento, tal proceder implicaria duplo julgamento
+antecipado do mérito da ação penal: a) o juízo de
+condenação e b) o juízo acerca da presença dos requisitos
+legais para a aplicação da causa de diminuição da pena
+O instituto da colaboração não afasta o princípio do
+devido processo legal na ação penal.” 6 (g. n.)
+
+Apesar da clareza da tal posição, nota-se atualmente a
+existência de relevante controvérsia judicial relativa ao manejo do
+instituto da colaboração premiada, a reclamar intervenção do STF para
+afirmar que a negociação dos acordos deve respeita princípios
+constitucionais basilares do processo penal brasileiro.
+
+6 http://www.mpf.mp.br/atuacao-tematica/sci/dados-da-atuacao/eventos-2/eventos-
+internacionais/conteudo-banners-1/enccla/restrito/manual-colaboracao-premiada-
+jan14.pdf/view
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+6
+
+[[pagina 7 | nativo]]
+
+II. DA LEGITIMIDADE ATIVA
+
+Conforme dispõe o art. 103, VIII, da Constituição Federal, os
+partidos políticos que possuem representação no Congresso Nacional
+podem propor ação declaratória de constitucionalidade, como é o caso do
+Partido Socialista Brasileiro – PSB (Doc. 02).
+
+Segundo a jurisprudência desta e. Corte, a legitimidade ativa
+de agremiação partidária com representação no Congresso Nacional “não
+sofre as restrições decorrentes da exigência jurisprudencial relativa ao
+vínculo de pertinência temática nas ações diretas” (ADI 1.407-MC, Rel.
+Min. Celso de Mello, DJ 24.11.2000), de modo que os partidos políticos
+possuem a legitimidade ativa universal para o controle abstrato.
+
+Dessa forma, está solidamente demonstrada a legitimidade
+das agremiações ora Requerentes para o ajuizamento da presente
+arguição de descumprimento de preceito fundamental.
+
+III. DO CABIMENTO DA AÇÃO DECLARATÓRIA. SUBSIDIARIAMENTE:
+CONHECIMENTO COMO AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. PRINCÍPIO DA FUNGIBILIDADE.
+
+A ação declaratória de constitucionalidade encontra
+fundamento no art. 102, inciso I, “a”, da Constituição Federal, tendo por
+finalidade a declaração de constitucionalidade, em caráter concentrado e
+abstrato, de lei ou ato normativo federal ou estadual sobre o qual haja
+controvérsia judicial relevante, que será demonstrada junto às razões de
+mérito desta peça.
+
+Na presente hipótese, busca-se o controle concentrado de
+constitucionalidade de dispositivos previstos na Lei n. 12.850/2013, ato
+normativo federal primário e abstrato, plenamente apto ao crivo deste
+e. Supremo Tribunal Federal.
+
+Ademais, a violação constitucional provocada por
+interpretações errôneas dos dispositivos apontados é direta e não
+depende de anterior juízo de legalidade, pois não há outra norma
+intermediando, em termos de fundamento e validade, a relação entre a lei
+questionada e a Constituição Federal.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+7
+
+[[pagina 8 | nativo]]
+
+Por fim, na eventualidade de se admitir que o objeto da
+presente ação deveria ser impugnado pela via da ação direta de
+inconstitucionalidade, prevista também no art. 102, I, “a”, da
+Constituição, requer-se seja a presente ação recebida como tal, em
+virtude do princípio da fungibilidade, já aplicado por este c. STF a ações
+de controle concentrado por diversas vezes. Sobre a natureza dessas
+ações, vale conferir a lição do saudoso Min. Teori Zavascki:
+
+“A natureza dúplice das ações de controle concentrado
+evidencia, destarte, que qualquer delas é, ao mesmo tempo,
+instrumento para afirmação do direito, quando se declara a
+constitucionalidade de suas normas, e de ‘autopurificação’ do
+direito, quando declara a sua inconstitucionalidade”7
+
+Vale destacar também que esta c. Corte já admitiu até
+mesmo a cumulação de pedidos de ADI e ADC em uma mesma ação,
+verificando a verdadeira simetria entre essas ações e identidade de
+procedimento:
+
+[...] 6. A cumulação simples de pedidos típicos de ADI e de ADC
+é processualmente cabível em uma única demanda de controle
+concentrado de constitucionalidade, desde que satisfeitos os
+requisitos previstos na legislação processual civil (CPC, art.
+292). 7. Pedido cautelar deferido.
+(ADI 5316 MC, Relator(a): LUIZ FUX, Tribunal Pleno, julgado em
+21/05/2015)
+
+Na ocasião do julgamento do precedente acima, o Exmo. Min.
+Luiz Fux destacou:
+
+“Em verdade, sequer é nova na Corte a vinculação de ADIs e
+ADCs, como ocorreu, por exemplo, em pelo menos quatro
+ocasiões: ADC nº 1 e ADI nº 913, rel. Min. Moreira Alves; ADC
+nº 19 e ADI nº 4.424, rel. Min. Marco Aurélio; ADC nº 27 e ADI
+nº 4.437, rel. Min. Marco Aurélio; e ADC nº 30 e ADI nº 4.578,
+rel. Min. Luiz Fux. Em todas essas oportunidades as demandas
+foram apensadas para tramitação e julgamento em conjunto,
+evidenciando a plena adequação de rito para todas as
+demandas”.
+
+7 ZAVASCKI, Teori Albino. Eficácia das sentenças na jurisdição constitucional. São
+Paulo: RT, p. 48.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+8
+
+[[pagina 9 | nativo]]
+
+Dessa forma, demonstrado o cabimento da presente
+demanda, passa-se a expor as controvérsias judiciais e as razões que
+levam à procedência dos pedidos.
+
+IV. DA EXISTÊNCIA DE CONTROVÉRSIA JUDICIAL RELEVANTE E
+DOS FUNDAMENTOS JURÍDICOS DOS PEDIDOS.
+
+Em atenção ao disposto no inciso III do art. 14 da Lei n.
+9.868/1999, faz-se necessária a demonstração da existência de
+controvérsia judicial relevante sobre a aplicação dos dispositivos legais
+objetos da presente ação.
+
+Como já exposto, o objeto da presente ação é a afirmação da
+constitucionalidade de dispositivos do art. 4º da Lei n. 12.850/2013 para
+afirmar que, nas ações penais que contenham acordos de colaboração
+premiada, assim como em todo processo penal no direito brasileiro, (i)
+compete ao Judiciário o juízo de culpabilidade e a dosimetria da pena, (ii)
+a aferição da culpabilidade dos réus deve ser feita ao final do processo e
+(iii) as penas aplicadas devem obedecer aos parâmetros legais.
+
+Tal entendimento decorre de uma leitura simples do art. 4º
+da Lei n. 12.850/2013 que, na linha do que orienta a Constituição
+Federal, atribui expressamente à figura do juiz, única e exclusivamente,
+o papel de fixar – por meio de sentença – a pena concreta do réu
+colaborador.
+
+A despeito da clareza da previsão legal, a prática da
+colaboração premiada evidencia que as partes do processo penal têm se
+utilizado da via da colaboração premiada para fixar de forma antecipada
+a pena concreta do colaborador, inclusive com a previsão de
+cumprimento imediato da pena de restrição de liberdade,
+independentemente da existência de sentença condenatória.
+
+Como bem apontou Marcelo Costenari Cavali, as partes tem
+utilizado a colaboração premiada “como um autêntico acordo de
+reconhecimento de responsabilidade penal e cumprimento de pena,
+diretamente entre as partes”8.
+
+8 CAVALI, Marcelo Costenaro, ‘Duas Faces Da Colaboração Premiada: Visões
+“Conservadora” e “Arrojada” Do Instituto Na Lei 12.850/2013’ in Maria Thereza de Assis
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+9
+
+[[pagina 10 | nativo]]
+
+Na mesma linha, e a partir da análise de um conjunto 103
+acordos de colaboração premiada firmados entre 2014 e 2018, Francisco
+Schertel Mendes notou que a prática brasileira da colaboração
+premiada se desenvolveu a partir de uma visão contratualista do
+instituto, no qual as penas dos acusados são definidas não pelo juiz
+no momento da sentença, mas sim por meio de negociações
+entabuladas de forma sigilosa entre as partes, réu e Ministério
+Público, no início do processo9.
+
+A partir dessa visão “contratualista” da colaboração
+premiada — na qual “o negociado passar a valer mais do que o
+legislado na esfera penal”,10 como bem notou o Ministro Ricardo
+Lewandowski — dezenas de acordos de colaboração premiada foram
+firmados e homologados perante diferentes juízos em todo Brasil com
+cláusulas e efeitos que ignoram por completo os princípios
+constitucionais do processo penal brasileiro.
+
+As discrepâncias entre a prática da colaboração premiada e
+os princípios constitucionais do processo brasileiro já foram identificadas
+e criticadas no âmbito deste e. Supremo Tribunal Federal em diferentes
+ocasiões, e podem ser divididas em duas questões centrais, relativas:
+
+i) à competência para aferição da culpabilidade do réu e
+para dosimetria da pena e ao momento processual
+para essa aferição;
+
+ii) aos limites legais ao conteúdo do acordo.
+
+Para a melhor compreensão, será exposta separadamente a
+controvérsia judicial concernente a cada uma dessas questões e, em
+seguida, serão apresentados os fundamentos jurídicos de cada pedido.
+
+Moura and Pierpaolo Cruz Bottini (eds), Colaboração premiada (Revista dos Tribunais
+2017);
+9 MENDES, Francisco Schertel. Leniency Policies in the Prosecution of Economic Crimes
+and Corruption: Consensual Justice and Search for Truth in Brazilian and German Law.
+Volume 48 de Schriften Zum Internationalen und Europaischen Strafrecht Series. Nomos
+Verlagsgesellschaft, 2021. Disponível em: < https://www.conjur.com.br/dl/livro-
+leniency-policies-in-the.pdf >.
+10 Pet n. 7.265, Rel. Min. Ricardo Lewandowski, decisão 14/11/2017, STF
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+10
+
+[[pagina 11 | nativo]]
+
+IV.1. CONSTITUCIONALIDADE DO ART. 4º, CAPUT e § 11º DA LEI
+12.850/2013. COMPETÊNCIA INDELEGÁVEL DO JUDICIÁRIO PARA
+DEFINIÇÃO DA CULPABILIDADE, DA EFICÁCIA DA COLABORAÇÃO
+E DA DOSIMETRIA DA PENA POR MEIO DE SENTENÇA
+
+IV.1.1. Da controvérsia jurídica relevante.
+
+O caput do art. 4º da Lei n. 12.850/2013 é claro ao prescrever
+que “o juiz poderá, a requerimento das partes, conceder o perdão judicial,
+reduzir em até 2/3 (dois terços) a pena privativa de liberdade ou substituí-
+la por restritiva de direitos”. Ao mesmo tempo, o § 11º do referido artigo
+dispõe que “A sentença apreciará os termos do acordo homologado e sua
+eficácia”.
+
+Atribui-se, portanto, expressamente à figura do juiz, única e
+exclusivamente, o papel de concessão dos benefícios da colaboração e
+de fixação da pena concreta do réu colaborador, apreciando por meio de
+sentença a eficácia da colaboração.
+
+No entanto, o que tem se observado na prática judicial é o
+antecipado estabelecimento da pena concreta do colaborador por meio de
+cláusulas inseridas no âmbito dos acordos de colaboração premiada, que,
+em alguns casos, autorizam até mesmo o cumprimento imediato das
+penas privativas de liberdade independentemente de sentença judicial.
+
+São inúmeros os exemplos de acordos de colaboração
+premiada celebrados ao longo dos últimos anos que contém cláusulas
+dessa natureza. A título exemplificativo, veja-se acordo celebrado na
+Representação Criminal no 5007089-64.2015.404.7000 perante a
+Justiça Federal do Paraná (JFPR), que em sua Cláusula 4ª prevê como
+benefício legal ao colaborador o “cumprimento inicial da pena limitado a 1
+ano e 4 meses de reclusão no regime semi-aberto, preferencialmente na
+cidade de São Paulo/SP”11.
+
+De forma semelhante, acordo celebrado na Representação
+Criminal no 5013949-81.2015.404.7000 estabeleceu como benefício “o
+cumprimento pelo COLABORADOR, inclusive após eventual unificação das
+penas, de pena privativa de liberdade em regime fechado por 16 meses,
+
+11 JFPR, 5007089-64.2015.404.7000, disponível em:
+<https://politica.estadao.com.br/blogs/fausto-macedo/wp-
+content/uploads/sites/41/2015/02/acordoshinko.pdf>.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+11
+
+[[pagina 12 | nativo]]
+
+sendo ¼ deste período em custódia na Superintendência da Polícia Federal
+em Curitiba e o restante em prisão domiciliar com o uso de tornozeleira
+eletrônica ou equipamento similar”12.
+
+No âmbito da Petição nº 5019872-34.2018.4.04.0000, em
+trâmite perante o TRF-4, foi firmado acordo de colaboração premiada que
+previu os seguintes benefícios para o colaborador na cláusula 5ª, I, do
+termo13:
+
+b) O cumprimento inicial da pena em regime fechado pelo
+período de 03 meses na Superintendência da Polícia Federal
+em Curitiba, detraindo-se o período de prisão preventiva já
+cumprido desde o dia 22/2/2018;
+c) A progressão, após o cumprimento da pena do item “b” para
+a prisão domiciliar em regime fechado pelo prazo de um com
+monitoramento eletrônico;
+d) A progressão, após o cumprimento da pena do item “c”, para
+o regime aberto pelo período de 2 anos (...)
+e) após o cumprimento da pena do item “d”, o cumprimento da
+pena por prestação de serviços à comunidade, por 6 meses
+semanais pelo prazo de dois anos;
+
+De forma semelhante, no âmbito da Petição nº 5033900-
+56.2018.4.04.7000/PR, foi celebrado acordo de colaboração premiada
+com previsão dos seguintes benefícios:
+
+a) A condenação à pena máxima de 8 anos de reclusão, com a
+suspensão de ações penais, inquéritos e procedimentos
+investigatórios criminais quando atingido esse limite,
+considerando-se para esse fim a unificação da pena fixada
+nas ações penais já instauradas e nas que vierem a ser
+instauradas (...) ;
+b) A substituição da pena privativa de liberdade por restritiva
+de direitos consistente na prestação de quatro horas de
+serviços comunitários semanais pelo período de dois anos;
+c) A concessão de livramento condicional para o período
+restante, na forma dos arts. 83 e seguintes do Código Penal.
+
+12 JFPR, 5013949-81.2015.404.7000, disponível na execução penal nº 5011546-
+08.2016.4.04.7000, evento 4.
+13 JFPR, 5019872-34.2018.4.04.0000, disponível em:
+<https://www1.folha.uol.com.br/colunas/monicabergamo/2018/06/trf-4-homologa-
+delacao-de-ex-diretor-do-der-do-parana-que-acusa-beto-richa.shtml>
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+12
+
+[[pagina 13 | nativo]]
+
+Inúmeros outros exemplos poderiam ser apontados e é certo
+que dezenas de acordos com cláusulas desse tipo foram firmados e
+homologados nos últimos anos por diferentes tribunais, alguns inclusive
+pelo próprio STF.
+
+Conforme nota Marcelo Costenari Cavali, na prática, a
+colaboração premiada tem sido utilizada como um “acordo de
+reconhecimento de responsabilidade penal e cumprimento de pena,
+diretamente entre as partes, nos moldes do plea bargain americano”14.
+
+Sinal mais claro disso é inserção, em alguns acordos, de
+cláusulas que autorizam o cumprimento imediato da pena pelo
+colaborador, independentemente da existência de sentença
+condenatória. Nesse sentido, veja-se o acordo negociado no âmbito da
+Petição n. 6485 e homologado por este E. STF, cuja cláusula 4.II prevê
+que “a pena privativa de liberdade será cumprida imediatamente após a
+homologação do presente acordo”15.
+
+De forma semelhante, o acordo celebrado no âmbito da
+Representação Criminal n. 5013949-81.2015.4040.7000 previu que o
+cumprimento da pena privativa de liberdade se daria “a partir da
+assinatura do presente acordo”16. Para além dos exemplos trazidos acima,
+fácil observar que diversos outros acordos homologados por tribunais
+nacionais possuem cláusulas semelhantes17.
+
+Por outro lado, em sentido absolutamente oposto, o Min.
+Ricardo Lewandowski, desse Supremo Tribunal Federal, na Pet n.
+7.265, em decisão de novembro de 2017, negou a homologação de
+cláusulas de acordo de colaboração que fixavam pena e regime de
+cumprimento, com fundamento nos princípios do devido processo legal e
+da reserva de jurisdição.
+
+14 CAVALI, Marcelo Costenaro, ‘Duas Faces Da Colaboração Premiada: Visões
+“Conservadora” e “Arrojada” Do Instituto Na Lei 12.850/2013’ in Maria Thereza de Assis
+Moura and Pierpaolo Cruz Bottini (eds), Colaboração premiada (Revista dos Tribunais
+2017);
+15 Pet. 6485, cláusula 4.II, Rel. Min. Edson Fachin, STF
+16 JFPR, 5013949-81.2015.4040.7000, acordo, cláusula 5.IV, disponível na execução
+penal nº 5011546-08.2016.4.04.7000, evento 4.
+17 MENDES, Francisco Schertel. Leniency Policies in the Prosecution of Economic Crimes
+and Corruption: Consensual Justice and Search for Truth in Brazilian and German Law.
+Volume 48 de Schriften Zum Internationalen und Europaischen Strafrecht Series. Nomos
+Verlagsgesellschaft, 2021. P. 71.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+13
+
+[[pagina 14 | nativo]]
+
+Ao analisar as condições premiais ofertadas pelo órgão
+ministerial, o exmo. Ministro asseverou que “não é lícito às partes
+contratantes fixar, em substituição ao Poder Judiciário, e de forma
+antecipada a pena privativa de liberdade e o perdão de crimes ao
+colaborador”18. Na ocasião, frisou o Min. Ricardo Lewandoski:
+
+“Não há, portanto, qualquer autorização legal para que as
+partes convencionem a espécie, o patamar e o regime de
+cumprimento de pena. Em razão disso, concluo que não se
+mostra possível homologar um acordo com tais previsões, uma
+vez que o ato jamais poderia sobrepor-se ao que estabelecem
+a Constituição Federal e as leis do País, cuja interpretação e
+aplicação - convém sempre relembrar - configura atribuição
+privativa dos magistrados integrantes do Judiciário (...)”
+
+De forma semelhante, no julgamento da ADI n. 5.508, em
+junho de 2018, o Exmo. Min. Celso de Mello endossou, em seu voto, o
+mesmo posicionamento, destacando que “cláusulas pactuadas no
+contexto do acordo de colaboração premiada, que elas hão de ajustar-se
+ao postulado constitucional da reserva de lei formal e ao princípio
+igualmente constitucional da reserva de jurisdição”19.
+
+Nessa esteira, o e. Ministro assinalou não ser possível impor
+de forma antecipada medidas sancionatórias resultantes do texto
+convencionado – como era o caso da cláusula que fixava pena privativa
+de liberdade e determinava o seu cumprimento assim que assinado o
+acordo –, pois do contrário restariam violados os princípios da reserva de
+jurisdição e da presunção da inocência. Confira-se:
+
+“De outro lado, e com igual procedência e correção, observa-
+se, no estudo que ora venho de referir, que o teor de
+determinadas cláusulas pactuadas nos acordos de
+colaboração premiada (como aquela, p. ex., que determina
+que “O Colaborador cumprirá imediatamente após a
+assinatura do presente acordo a pena privativa da liberdade
+no regime fechado a que se refere o inciso III da presente
+cláusula” – grifei) vulnera, frontalmente, o postulado
+constitucional da reserva de jurisdição, além de ferir o
+princípio da culpa, pois cláusulas como a que venho de
+mencionar transferem, inconstitucionalmente, para o
+Ministério Público celebrante do acordo, o poder de
+
+18 Pet. 7265, Rel. Min. Ricardo Lewandowski, decisão 14/11/2017, STF.
+19 Voto Min. Celso de Mello, ADI 5508, Relator Marco Aurélio, Tribunal Pleno, julgado
+em 20/06/2018, p. 216 do acórdão
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+14
+
+[[pagina 15 | nativo]]
+
+definir a própria condenação criminal do agente
+colaborador, sem se falar na absurda situação de
+considerar-se culpado, desde já, em razão da pactuação
+negocial, o colaborador interessado” (Voto Min. Celso de
+Mello, ADI 5508, Relator Marco Aurélio, Tribunal Pleno,
+julgado em 20/06/2018, p. 218 do acórdão)
+
+Por fim, na Pet n. 8.482, em maio de 2021, o Exmo. Min.
+Gilmar Mendes, referenciando a constante extrapolação dos limites legais
+nos acordos por meio de “cláusulas relativas ao regime de cumprimento,
+à quantidade da pena a ser aplicada”, defendeu a aplicação da máxima
+“não há punição sem culpa”, assim enunciando a controvérsia:
+
+O princípio da culpabilidade deve ser tomado como um pilar
+da arquitetura dogmática da colaboração premiada,
+reconhecendo-se tal princípio como garantia constitucional
+do indivíduo em face da violência estatal, como limitador
+axiológico do jus puniendi [...]
+
+Nesses termos, destaco a decisão monocrática proferida pelo
+Ministro Ricardo Lewandowski na PET 7.265, na qual Sua
+Excelência devolveu o acordo de colaboração premiada
+celebrado entre a PGR e o colaborador Renato Pereira, para
+fins de adequação às normas previstas na Constituição e nas
+leis que disciplinam a matéria, tendo em vista a previsão de
+cláusulas ilegais sobre a fixação da pena, o seu regime de
+cumprimento e a suspensão do processo.
+(Voto Min. Gilmar Mendes, Pet 8482 AgR, Relator Edson
+Fachin, Tribunal Pleno, julgado em 31/05/2021)
+
+Assim, resta evidente a existência de relevante controvérsia
+judicial quanto ao caput do art. 4º da Lei n. 12.850/13, a ensejar a
+atuação deste Supremo em sede de controle concentrado de
+constitucionalidade.
+
+IV.1.2. Da constitucionalidade do art. 4º, caput e § 11º da Lei
+12.850/2013.
+
+O art. 4º da Lei n. 12.850/2013 não deixa margem para
+dúvidas quanto à competência exclusiva do juiz para a fixação da
+pena, uma vez apreciados os termos do acordo de colaboração premiada
+e a eficácia por meio de sentença. Confira-se:
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+15
+
+[[pagina 16 | nativo]]
+
+Art. 4º. O juiz poderá, a requerimento das partes, conceder o
+perdão judicial, reduzir em até 2/3 (dois terços) a pena privativa
+de liberdade ou substituí-la por restritiva de direitos daquele
+que tenha colaborado efetiva e voluntariamente com a
+investigação e com o processo criminal, desde que dessa
+colaboração advenha um ou mais dos seguintes resultados: […]
+§ 11. A sentença apreciará os termos do acordo homologado e
+sua eficácia.
+
+Para além da literalidade do dispositivo, a interpretação de
+que compete somente ao magistrado a fixação da pena por meio de
+sentença prolatada ao final do processo é a única possível levando-se
+em consideração diferentes princípios da ordem constitucional vigente.
+
+a. Princípio da reserva da jurisdição (nulla poena sine judicio)
+
+Em primeiro lugar, os princípios da reserva de jurisdição,
+da indelegabilidade da função jurisdicional e da nulla poena sine
+judicio atribuem exclusivamente aos órgãos do Poder Judiciário o poder-
+dever de julgar a prática de condutas criminosas.
+
+Ou seja, o Poder Judiciário detém o monopólio da jurisdição
+e só por meio de sentença penal condenatória proferida por magistrado
+competente ao final do processo é que se pode admitir a imposição de
+penas.
+
+Dessa forma, são inadmissíveis interpretações judiciais que
+permitam que acordos de colaboração fixem antecipadamente as penas
+do colaborador, uma vez que a avaliação da prática da conduta criminosa
+é ato de competência indelegável do Poder Judiciário, a ser realizado
+ao final do no processo penal por meio de sentença.
+
+Foi nesse sentido que se pronunciou este E. STF no
+julgamento da ADI n. 5508 de relatoria do e. Min. Marco Aurélio: “Os
+benefícios sinalizados no acordo ficam submetidos a concretude e eficácia
+do que versado pelo delator, cabendo a definição final mediante
+sentença, considerada a atuação do órgão julgador, do Estado-juiz”
+(ADI 5508, Relator Marco Aurélio, Tribunal Pleno, julgado em
+20/06/2018, ementa).
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+16
+
+[[pagina 17 | nativo]]
+
+De forma semelhante, anotou a Min. Carmen Lúcia na Pet.
+6.485 que “o art. 4o, caput e §§ 1º e 2º e 11, da Lei 12.850/2013 não deixa
+margem à dúvida no sentido de constituírem os benefícios acordados,
+ainda que homologados, direitos cuja fruição estará condicionada ao
+crivo do juiz sentenciante, no caso concreto, à luz daqueles
+parâmetros”20.
+
+b. Princípio da individualização da pena
+
+É de se notar também que, de acordo com a jurisprudência
+pacífica desta Corte, o princípio da individualização da pena atribui ao
+juiz a competência para definir a penalidade aplicável a cada condenado,
+a partir de uma ponderação das circunstâncias objetivas e das condições
+subjetivas.
+
+No histórico julgamento em que se declarou a
+inconstitucionalidade da proibição da progressão de regime prisional em
+se tratando de crimes hediondos (HC n. 82.959/SP), o Min. Eros Grau
+explicitou que nem mesmo o Congresso Nacional “pode impor regra que
+impeça o julgador de individualizar, segundo sua avaliação, caso a caso,
+a pena do condenado que tenha praticado qualquer dos crimes
+relacionados como hediondos”.
+
+Anos depois, o Plenário desta e. Corte Constitucional voltou
+a afirmar que “a lei comum não tem a força de subtrair do juiz sentenciante
+o poder-dever de impor ao delinquente a sanção criminal que a ele, juiz,
+afigurar-se como expressão de um concreto balanceamento ou de uma
+empírica ponderação de circunstâncias objetivas com protagonizações
+subjetivas do fato-tipo”21.
+
+Nesse quadro, resta claro que compete apenas ao juiz
+sentenciante a definição da dosimetria da pena criminal, segundo sua
+avaliação das circunstâncias objetivas e subjetivas do caso, não sendo
+possível limitar o poder-dever de individualização da pena por meio de lei
+comum, e muito menos por um acordo de colaboração premiada
+celebrado entre as partes do processo penal.
+
+20 Petição n. 6.485, Rel. Min. Edson Fachin, STF.
+21 HC 97.256, Relator Min. Ayres Britto, Tribunal Pleno, julgado em 01/09/2010.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+17
+
+[[pagina 18 | nativo]]
+
+c. Princípio do devido processo legal
+
+Não se pode olvidar também que os princípios do devido
+processo legal e da nulla poena sine culpa vedam que indivíduos
+sejam submetidos ao cumprimento de sanções penais antes da conclusão
+de processo regular que afira a existência de sua culpa. Com efeito, a
+Constituição Federal estabelece que ninguém será privado da liberdade
+sem o devido processo legal (art. 5°, LIV).
+
+Como já decidiu o STF em diferentes ocasiões, o princípio do
+devido processo legal veda que se realize o juízo acerca da culpabilidade
+e da dosimetria da pena antes de realizada a instrução probatória e reste
+comprovada a culpa do réu. Dessa forma, não é possível se definir a
+dosimetria da pena antes de comprovada a materialidade e a autoria
+do crime.
+
+Foi nesse sentido que se pronunciou este e. STF no
+julgamento da repercussão geral no âmbito do Recurso Extraordinário n.
+602.527, de relatoria do Min Cezar Peluso. Na ocasião, o STF julgou
+inconstitucional a prescrição da pretensão punitiva “em perspectiva”,
+“por entender que ela “conduz à situação em que se veem discutidas
+questões relacionadas à aplicação da pena (como os requisitos do art. 59),
+que são ulteriores à comprovação da autoria e da materialidade, com a
+consequente necessidade de instrução probatória”. Com isso, " Inverte-se
+a lógica do processo, com antecipação hipotética de culpa do
+acusado”.
+
+É exatamente essa a situação criada pela prática da
+colaboração premiada, em que penas dos réus colaboradores são
+definidas no início do processo penal, antes da realização da instrução
+probatória, da definição dos fatos do caso e da averiguação da culpa do
+réu.
+
+Vale notar que tal posicionamento foi defendido no âmbito da
+Estratégia Nacional de Combate à Corrupção e à Lavagem de Dinheiro
+(ENCCLA), cujo Manual da Colaboração Premiada assevera:
+
+O instituto da colaboração não afasta o princípio do
+devido processo legal na ação penal. Ainda que possam
+advir reflexos favoráveis à situação do colaborador, conforme
+sua disposição em colaborar, a aplicação do instituto, que
+decorre de sentença condenatória, impõe obediência ao
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+18
+
+[[pagina 19 | nativo]]
+
+devido processo legal, de cognição exauriente, própria das
+sentenças de mérito proferidas ao final da instrução. Isso
+porque o colaborador pode, como em qualquer outra
+demanda criminal, ser absolvido (CPP, artigo 386), ter a pena
+reduzida em quantum inferior àquele constante no acordo,
+seja esse pré-processual ou não.” 22 (g. n.)
+
+Nesse quadro, é evidente que a negociação da colaboração
+premiada deve seguir o devido processo legal estabelecido pela
+Constituição Federal, sendo impossível definir-se as penas do
+colaborador antes de concluída a instrução probatória. Nessa linha,
+Marcelo Cavali23 explica que “o caminho correto, portanto, para a
+imposição de pena privativa de liberdade para o réu colaborador é o de
+oferecimento de denúncia, seguido de um devido processo penal, finalizado
+com a prolação de uma sentença condenatória que apreciará os termos do
+acordo inicialmente homologado e a eficácia da colaboração”.
+
+Diante de tal cenário, requer-se a este e. Supremo Tribunal
+Federal a declaração de constitucionalidade do art. 4º, caput, da Lei
+n. 12.850/2013, a fim de reconhecer que cabe única e exclusivamente
+ao Poder Judiciário a competência para a fixação da pena concreta do
+réu colaborador, em atenção ao princípio constitucional da reserva de
+jurisdição e da culpabilidade, vedando-se às partes do processo penal a
+capacidade para definir penas restritivas de liberdade por meio de
+acordos de colaboração premiada e para negociar o cumprimento
+antecipado de tais penais.
+
+Também nesse sentido, requer-se a declaração de
+constitucionalidade do art. 4º, caput e § 11º, da Lei n. 12.850/2013,
+para assentar que as definições da culpabilidade do réu colaborador, da
+eficácia da sua colaboração e da dosimetria da pena aplicável devem ser
+feitas ao final do processo penal por meio de sentença judicial
+proferida pelo Juízo competente, em atenção aos princípios do devido
+processo legal e da presunção de inocência, vedando-se a definição
+antecipada de penas por meio acordos de colaboração premiada firmados
+no início ou ao longo do processo penal.
+
+22 Disponível em: < http://www.mpf.mp.br/atuacao-tematica/sci/dados-da-
+atuacao/eventos-2/eventos-internacionais/conteudo-banners-
+1/enccla/restrito/manual-colaboracao-premiada-jan14.pdf/view >
+23 CAVALI, Marcelo Costenaro. Duas faces da colaboração premiada: visões
+“conservadora” e “arrojada” do instituto na Lei 12.850/2013. In: BOTTINI, Pierpaolo
+Cruz; MOURA, Maria Thereza de Assis (Org.). Colaboração Premiada. São Paulo: RT,
+2017, pp. 255-274.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+19
+
+[[pagina 20 | nativo]]
+
+IV.2. DA CONSTITUCIONALIDADE DO ART. 4º, CAPUT e §§ 4º e 5º DA
+LEI 12.850/2013. PRINCÍPIOS DA LEGALIDADE E IGUALDADE.
+IMPOSSIBILIDADE DAS PARTES CRIAREM CONSEQUÊNCIAS
+JURÍDICAS DIFERENTES DAQUELAS PREVISTAS EM LEI.
+
+IV.2.1. Da controvérsia jurídica relevante.
+
+O art. 4º, §§ 4º e 5º, da Lei n. 12.850/2013 assim estabelece
+os benefícios que podem advir da colaboração premiada:
+
+“Art. 4º O juiz poderá, a requerimento das partes, conceder o
+perdão judicial, reduzir em até 2/3 (dois terços) a pena privativa
+de liberdade ou substituí-la por restritiva de direitos daquele
+que tenha colaborado efetiva e voluntariamente com a
+investigação e com o processo criminal, desde que dessa
+colaboração advenha um ou mais dos seguintes resultados: […]
+
+§ 4º Nas mesmas hipóteses do caput deste artigo, o Ministério
+Público poderá deixar de oferecer denúncia se a proposta de
+acordo de colaboração referir-se a infração de cuja existência
+não tenha prévio conhecimento e o colaborador:
+
+§ 5º Se a colaboração for posterior à sentença, a pena poderá
+ser reduzida até a metade ou será admitida a progressão de
+regime ainda que ausentes os requisitos objetivos.”
+
+Como se vê, a norma determina clara e expressamente quais
+são os benefícios que podem ser concedidos ao colaborador — perdão
+judicial, redução da pena em até 2/3, substituição da pena pela restritiva
+de direitos, não oferecimento da denúncia pelo Ministério Público,
+redução da pena pela metade, progressão de regime —, bem como quais
+as circunstâncias autorizadoras para cada um deles.
+
+Em nenhum momento, a Lei n. 12.850/2013 conferiu às
+partes a capacidade de alterar, pela via contratual, o regime jurídico
+do direito penal e processo penal brasileiro.
+
+E nem poderia ser diferente, já que o princípio da legalidade
+determina que a persecução penal deve ser feita estritamente dentro dos
+parâmetros previamente estabelecidos pelo legislador, sendo vedado às
+partes criar direitos e deveres não previstos em lei.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+20
+
+[[pagina 21 | nativo]]
+
+Todavia, a prática da colaboração premiada mostra que as
+partes têm se utilizado dessa via para criar situações jurídicas
+absolutamente inovadoras, que se mostram por completo descoladas
+das regras do Código Penal e do Código de Processo Penal.
+
+Nesse sentido, Vinícius Gomes de Vasconcellos anota que os
+acordos de colaboração firmados nos últimos anos “têm inovado em
+diversos aspectos, como a previsão de ‘regimes diferenciados de execução
+de penas’, a liberação de bens provenientes de atividades ilícitas, a
+regulação de imunidade a familiares e terceiros ao acordo, a renúncia ao
+acesso à justiça e aos recursos e a imprecisão de um dever genérico de
+colaboração”24.
+
+De forma semelhante, Thiago Bottino, após analisar
+cláusulas de diferentes acordos de colaboração premiada, observa que:
+
+“as cláusulas acima mencionadas fogem completamente aos
+limites estabelecidos pela Lei 12.850/2013 e a
+discricionariedade com que foram redigidas tais cláusulas
+não possui previsão legal,” citando como exemplos dessas
+inovações “negociações sobre substituição de prisão cautelar
+por prisão domiciliar com tornozeleira, invenção de regimes
+de cumprimento de pena que não existem, vinculação de
+manifestação do MPF em processos que não são da atribuição
+daqueles membros que assinam o acordo, permissão para
+uso de bens de origem criminosa e a liberação de bens que
+podem ser produto de crime”.25
+
+São inúmeros os acordos de colaboração premiada que
+contêm cláusulas que destoam completamente do regime legal previsto
+na Lei n. 12.850/2013, no Código Penal e no Código de Processo Penal,
+podendo-se citar, a título exemplificativo:
+
+• acordos que determinam a suspensão de prazos
+prescricionais, sem amparo legal26;
+
+24 DE VASCONCELLOS, Vinicius Gomes. Colaboração premiada e negociação na justiça
+criminal brasileira: acordos para aplicação de sanção penal consentida pelo réu no
+processo penal. Revista brasileira de ciências criminais, n. 166, 2020, p. 258.
+25 BOTTINO, Thiago. Colaboração premiada e incentivos à cooperação no processo
+penal: uma análise crítica dos acordos firmados na “Operação Lava Jato”. Revista
+Brasileira de Ciências Criminais, v. 122, n. 2016, p. 359-390, 2016.
+26 Processo n. 5051974-66.2015.404.7000 JFPR
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+21
+
+[[pagina 22 | nativo]]
+
+• acordos de colaboração premiada celebrados por pessoas
+jurídicas, e não por pessoas físicas;27
+
+• acordos que estabelecem benefícios não apenas para o
+colaborador, mas também para seus familiares;28
+
+• acordos que criam regimes “diferenciados” de pena, com
+a possibilidade de o colaborador cumprir longos períodos
+de pena privativa de liberdade em sua residência
+particular;29
+
+• acordos que autorizam a utilização de bens originários de
+atividades criminosas por parte dos acusados ou seus
+familiares;30
+
+• acordos que preveem a obrigação do colaborador de
+cooperar por trinta anos com a produção de estudos,
+análises e atividades de assessoria com o Ministério
+Público Federal.31
+
+A criatividade contratual exibida pela prática da colaboração
+premiada não passou imune à crítica no âmbito deste E. STF. Em voto
+paradigmático, o Min. Ricardo Lewandowski alertou para o risco de
+“o negociado passar a valer mais do que o legislado na esfera
+penal”, afirmando que “não cabe às partes contratantes estabelecer
+novas hipóteses de suspensão do processo criminal ou fixar prazos e
+marcos legais de fluência da prescrição diversos daqueles estabelecidos
+pelo legislador”.
+
+De forma semelhante, já afirmou o Min. Alexandre de Moraes
+que o acordo de colaboração premiada “está vinculado ao império
+constitucional e legal” e que “o Ministério Público ou a Polícia ao
+celebrarem o acordo de colaboração premiada devem respeito aos
+requisitos legais” 32.
+
+27 Habeas Corpus Criminal nº 2103070-67.2021.8.26.0000, TJSP
+28 Pet 5209, STF
+29 Processo n. 5051974-66.2015.404.7000, 5075916-64.2014.404.7000 JFPR, Pet 6533
+STF
+30 Pet 5244, STF
+31 Pet 7.210, cláusula 4ª, g)
+32 Voto Min. Alexandre de Moraes, Pet 7074 AgRg, Relator Edson Fachin, Tribunal Pleno,
+julgado em 29/06/2017, p. 24 do acórdão
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+22
+
+[[pagina 23 | nativo]]
+
+Na mesma linha, na ADI n. 5.508, em junho de 2018, este c.
+STF assentou que “o acordo alinhavado com o colaborador, quer mediante
+atuação do Ministério Público, quer da Polícia, há de observar, sob o ângulo
+formal e material, as normas legais e constitucionais”.
+
+Na oportunidade, o e. Min. Celso de Mello destacou não ser
+possível a instituição de benefícios distintos daqueles previstos na Lei
+n. 12.850/2013, assinalando:
+
+“[…] a propósito das cláusulas pactuadas no contexto do acordo
+de colaboração premiada, que elas hão de ajustar-se ao
+postulado constitucional da reserva de lei formal e ao princípio
+igualmente constitucional da reserva de jurisdição pois as
+pactuações negociais, na realidade, não podem estabelecer,
+em caráter inovador, benefícios de ordem premial sequer
+previstos na Lei nº 12.850/2013 o que ofenderia o princípio da
+reserva de Parlamento […]”33.
+
+Assim, é patente a existência de controvérsia judicial
+relevante quanto à necessidade de as partes negociarem acordos nos
+limites previstos no art. 4º, caput e §§ 4º e 5º da Lei n. 12.850/2013 ou,
+por outro lado, se elas possuem capacidade jurídica para estabelecer
+cláusulas que destoem do regramento legal.
+
+IV.2.2. Da constitucionalidade do art. 4º, caput e §§ 4º e 5º da Lei
+12.850/2013.
+
+Como se vê de sua leitura, o art. 4º, §§ 4º e 5º, da Lei n.
+12.850/2013 determina clara e expressamente quais são os possíveis
+efeitos de um acordo de colaboração premiada – perdão judicial, redução
+da pena em até 2/3, substituição da pena pela restritiva de direitos, não
+oferecimento da denúncia pelo Ministério Público, redução da pena pela
+metade, progressão de regime –, bem como quais as circunstâncias
+autorizadoras para cada um deles.
+
+A controvérsia que ora se coloca é se as partes de um
+processo penal possuem capacidade jurídica para estabelecer outros
+direitos e deveres que não os previstos no art. 4º, §§ 4º e 5º, da Lei n.
+12.850/2013, tal como ocorre na esfera privada. Em outras palavras,
+
+33 Voto Min. Celso de Mello, ADI 5508, Relator Marco Aurélio, Tribunal Pleno, julgado
+em 20/06/2018, p. 216 do acórdão
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+23
+
+[[pagina 24 | nativo]]
+
+possuem as partes de um acordo de colaboração premiada liberdade
+contratual para definir livremente direitos e obrigações? A resposta
+a essa pergunta é claramente negativa, em particular por conta da
+incidência dos princípios da legalidade e da igualdade.
+
+a. Princípio da legalidade
+
+Como assentado na jurisprudência do STF, a colaboração
+premiada é precipuamente um meio de obtenção de prova, voltado à
+coleta de evidências e elementos capazes de embasar uma condenação
+criminal em investigações de atividades de organizações criminosas.
+
+Trata-se, portanto, de instituto inserido no âmbito do
+sistema brasileiro de justiça penal, que tem como um pilar central o
+princípio da legalidade estrita, que determina que a persecução penal
+deve ser feita dentro dos parâmetros previamente estabelecidos pelo
+legislador, sendo vedado às partes criar direitos e deveres não previstos
+em lei.
+
+Nesse sentido, o Min. Marco Aurélio já ressaltou no
+julgamento da ADI n. 5.508 a necessidade de as consequências jurídicas
+dos acordos de colaboração premiada corresponderem às previsões
+legais:
+
+“[…] Em síntese, o que é a delação premiada? É simples
+depoimento, prestado à autoridade, que será considerado,
+inclusive sob o ângulo das consequências, na hora devida, pelo
+órgão julgador, para fins de reconhecimento de benefícios,
+descritos na Lei. Transparece como confissão qualificada pelas
+informações que podem levar a resultados, também previstos
+na Lei […]”.34 (g.n.)
+
+Sobre as implicações do princípio da legalidade no acordo de
+colaboração premiada, os Professores Nuno Brandão e J. J. Canotilho
+explicitam35:
+
+34 ADI 5508, Relator Marco Aurélio, Tribunal Pleno, julgado em 20/06/2018, p. 17 do
+acórdão
+35 CANOTILHO, J. J. Gomes; BRANDÃO, Nuno. Colaboração premiada: reflexões críticas
+sobre os acordos fundantes da Operação Lava Jato. Revista Brasileira de Ciências
+Criminais. vol. 133. ano 25. p. 133-171. São Paulo: Ed. RT, jul. 2017, p. 147.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+24
+
+[[pagina 25 | nativo]]
+
+“Possíveis exclusões ou atenuações de punição de
+colaboradores fundadas em acordos de colaboração premiada
+só serão admissíveis se e na estrita medida em que beneficiem
+de directa cobertura legal, como manifestação de uma clara
+vontade legislativa nesse sentido. Dito de outro modo: é
+terminantemente proibida a promessa e/ou a concessão de
+vantanges desprovidas de expressa base legal”
+
+Ressaltando a importância do princípio da legalidade
+criminal, asseveram os autores que: “é só na lei e com estrita
+subordinação ao iter processual por ela definido que poderá
+ancorar-se qualquer solução penal ou processual adoptada no
+processo fundada numa colaboração premiada”.
+
+O art. 4º, §§ 4º e 5º, da Lei n. 12.850/2013 assim estabelece
+os benefícios que podem advir da colaboração premiada:
+
+“Art. 4º O juiz poderá, a requerimento das partes, conceder o
+perdão judicial, reduzir em até 2/3 (dois terços) a pena privativa
+de liberdade ou substituí-la por restritiva de direitos daquele
+que tenha colaborado efetiva e voluntariamente com a
+investigação e com o processo criminal, desde que dessa
+colaboração advenha um ou mais dos seguintes resultados:
+[…]
+§ 4º Nas mesmas hipóteses do caput deste artigo, o Ministério
+Público poderá deixar de oferecer denúncia se a proposta de
+acordo de colaboração referir-se a infração de cuja existência
+não tenha prévio conhecimento e o colaborador:
+
+§ 5º Se a colaboração for posterior à sentença, a pena poderá
+ser reduzida até a metade ou será admitida a progressão de
+regime ainda que ausentes os requisitos objetivos.”
+
+Como se vê, a norma determina clara e expressamente quais
+são os benefícios que podem ser concedidos ao colaborador – perdão
+judicial, redução da pena em até 2/3, substituição da pena pela restritiva
+de direitos, não oferecimento da denúncia pelo Ministério Público,
+redução da pena pela metade, progressão de regime –, bem como quais
+as circunstâncias autorizadoras para cada um deles.
+
+Tem-se, portanto, um rol taxativo de benefícios estabelecido
+pelo legislador.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+25
+
+[[pagina 26 | nativo]]
+
+No processo penal, do qual podem advir penas privativas de
+liberdade, vigora a legalidade estrita, pois “não há crime sem lei anterior
+que o defina, nem pena sem prévia cominação legal” (art. 5º, XXXIX, da
+Constituição Federal).
+
+O princípio da legalidade determina que a persecução penal
+deve ser feita estritamente dentro dos parâmetros previamente
+estabelecidos pelo legislador, sendo vedado às partes criar direitos e
+deveres não previstos em lei.
+
+A colaboração premiada, enquanto meio de obtenção de
+prova, não escapa da aplicação de tão primordial princípio, não sendo
+possível o estabelecimento de prêmios sem base na legislação específica.
+Afinal, o poder público só pode atuar dentro dos limites da lei.
+
+Na Pet. n. 8.482, o e. Min. Gilmar Mendes já buscou
+ressaltar a possibilidade de recusa da homologação por violação à
+legalidade e alertou sobre a importância de se traçar critérios objetivos
+na pactuação dos acordos de colaboração:
+
+“Não podemos fechar os olhos diante desse cenário e da falta
+de limites ao poder negocial no processo penal brasileiro. A Lei
+12.850/2013 veio bem ao trazer uma regulamentação inicial a
+um cenário que era de completa omissão. Recentemente, a Lei
+13.964/2019 consolidou importantes aprimoramentos ao
+regime da colaboração premiada. Contudo, diante da
+complexidade das relações que se colocam em uma Justiça
+Criminal Negocial, precisamos continuar a avançar para
+traçar critérios adequados à limitação de abusos.
+[…]
+Além disso, os interesses da sociedade são claramente violados
+ao se homologar acordos ilegais de colaboração premiada. Por
+meio de tais negócios jurídicos, o Estado se compromete a
+conceder benefícios, como a redução de pena ou até o perdão
+judicial, para incentivar réus a colaborarem com a persecução
+penal. Não se pode aceitar que o Estado incentive
+investigados criminalmente com benefícios ilegais ou
+ilegítimos.”
+
+Nesse contexto, a única possível interpretação para o art. 4º,
+caput e seus §§ 4º e 5º, é de que se trata de rol taxativo de benefícios,
+tendo em vista o princípio da legalidade estrita no campo penal.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+26
+
+[[pagina 27 | nativo]]
+
+b. Princípio da igualdade/isonomia em matéria penal
+
+Sob outra perspectiva, a possibilidade de que os benefícios
+de acordos de colaboração premiada sejam livremente pactuados entre
+as partes e posteriormente homologados pelo Juízo competente também
+representa manifesta violação ao princípio de igualdade, em especial a
+vertente de isonomia na aplicação da lei penal.
+
+Não se pode admitir que réu submetido a situação jurídica
+análoga a de outros colaboradores possa adquirir benefícios para além
+daqueles expressamente previstos na lei penal, no caso, o rol estabelecido
+no art. 4º, caput e §§ 4º e 5º da Lei 12.850/2013.
+
+Situações concretas, como as descritas acima, nas quais
+permitiu-se casuisticamente a colaboradores específicos o usufruto de
+bens adquiridos através da prática delituosa ou, ainda, a previsão de
+benefícios para terceiros (familiares), revelam o grave risco de que a
+celebração de acordos de colaboração venha a criar situações anti
+isonômicas entre colaboradores sem qualquer respaldo na legislação.
+
+Na linha do que destaca Leonardo Martins na obra
+Comentários à Constituição do Brasil, o princípio de igualdade pressupõe
+que na aplicação da lei infraconstitucional pela autoridade judicial não
+se admita “distinção de qualquer natureza”, veja-se:
+
+[…] o preceito constitucional da igualdade é o parâmetro para
+a aplicação da lei infraconstitucional. Trata-se do exercício de
+uma função estatal junto à qual não se poderá fazer
+“distinção de qualquer natureza”. Tal expressão significa que
+os órgãos públicos não poderão fazer distinção quando da
+aplicação da lei ordinária. A igualdade, nesse contexto, é
+igualdade em sentido formal, pois implica proibição de
+distinção pelo aplicador do direito (Administração e
+Judiciário) que não esteja prevista pela ou na lei.36
+
+Portanto, estando o rol de benefícios restrito ao que se
+encontra estipulado no dispositivo legal e inexistindo autorização para
+que outras benesses venham a ser pactuadas no âmbito da colaboração
+premiada, tal hipótese que representaria conceder ao aplicador do direito
+
+36 In CANOTILHO, JJ Gomes et al. (Ed.). Comentários à constituição do Brasil. Saraiva
+Jur, 2018. P. 225.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+27
+
+[[pagina 28 | nativo]]
+
+a faculdade de promover “distinção não prevista pela ou na Lei”, em clara
+violação à faceta formal do princípio constitucional da igualdade.
+
+Observando-se, portanto, as implicações relativas aos
+princípios da legalidade e da igualdade, impõe-se a declaração de
+constitucionalidade do art. 4º, caput e §§ 4º e 5º da Lei n. 12.850/2013,
+de modo a estabelecer-se a taxatividade do rol de benefícios passíveis
+de serem concedidos em acordos de colaboração premiada.
+
+V. DA MODULAÇÃO DOS EFEITOS
+
+Sabe-se que as decisões proferidas em sede de controle de
+constitucionalidade, em regra, têm efeitos ex tunc e erga omnes, dada a
+impossibilidade de se autorizar a perpetuação de inconstitucionalidades
+no ordenamento jurídico.
+
+Não obstante, o art. 27 da Lei n. 9.868/1999 admite que este
+e. Supremo Tribunal Federal, em hipóteses excepcionais, efetue a
+limitação do alcance das decisões relativas à interpretação da
+Constituição Federal, veja-se:
+
+Art. 27. Ao declarar a inconstitucionalidade de lei ou ato
+normativo, e tendo em vista razões de segurança jurídica ou
+de excepcional interesse social, poderá o Supremo Tribunal
+Federal, por maioria de dois terços de seus membros,
+restringir os efeitos daquela declaração ou decidir que ela só
+tenha eficácia a partir de seu trânsito em julgado ou de outro
+momento que venha a ser fixado.
+
+Trata-se da técnica decisória de modulação dos efeitos, que
+conforme lição doutrinária do Min. Alexandre de Moraes, configura
+“opção interpretativa excepcional fundada em razões de segurança jurídica
+e interesse social, cuja finalidade é evitar a ocorrência de maiores danos
+sociais com a retroatividade da declaração de inconstitucionalidade”37.
+
+Nesse sentido, a modulação dos efeitos depende da
+necessária “ponderação entre o Estado de Direito na sua expressão da
+legalidade e na sua vertente da segurança jurídica”38.
+
+37 MORAES, Alexandre de. Direito Constitucional. 33 ed. São Paulo: Atlas, 2017, p. 797.
+38 ADI 3462, Relª. Minª. Cármen Lúcia, j. 15.09.2010, p. 15.02.2011.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+28
+
+[[pagina 29 | nativo]]
+
+Tal juízo só pode ser devidamente exercido tendo-se como
+norte o princípio da proporcionalidade, que, conforme ensina o Min.
+Gilmar Mendes em sede doutrinária, constitui “instrumento de aferição
+da justeza da declaração de inconstitucionalidade (com efeito de nulidade),
+tendo em vista o confronto entre interesses afetados pela lei
+inconstitucional e aqueles que seriam sacrificados em consequência da
+declaração de inconstitucionalidade”39.
+
+Assim, a modulação pode ser empreendida pelo Tribunal em
+havendo a imperiosa necessidade de preservação ou estabilização de
+situações preestabelecidas, em atenção ao postulado da segurança
+jurídica, ou mesmo da prevalência de outro princípio constitucional,
+considerado o interesse social.
+
+Com efeito, este e. Tribunal tem se mostrado sensível aos
+impactos das decisões proferidas em sede controle concentrado de
+inconstitucionalidade na realidade social, promovendo a modulação de
+efeitos quando vislumbradas razões de segurança jurídica e interesse
+social. Conforme observou-se em julgado recente:
+
+“Verificadas razões de segurança jurídica ou de excepcional
+interesse social, nos termos do que prescreve o art. 27 da Lei
+nº 9.868/1999, cumpre ao Supremo Tribunal Federal
+harmonizar o princípio da nulidade da norma
+inconstitucional com a exigência de preservação, considerado
+o aspecto temporal, histórico e irreversível da realidade, de
+outros preceitos constitucionais, como a segurança jurídica,
+a confiança legítima e a boa-fé objetiva. O atribuir eficácia
+retroativa ou plena à decisão implicaria danos irreversíveis a
+tais valores constitucionais” (ADI 5817 ED-segundos, Relª
+Min.ª Rosa Weber, j. 29.06.2020, p. 13.08.2020).
+
+Como visto na exposição das controvérsias jurídicas
+relevantes, os dispositivos legais objeto da presente ação declaratória
+orientaram a negociação e homologação de diversos acordos de
+colaboração premiada, muitos deles em sentido contrário ao que se
+defende na presente demanda.
+
+39 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito
+Constitucional. 9 ed. São Paulo: Saraiva, 2014, p. 1307.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+29
+
+[[pagina 30 | nativo]]
+
+Nada obstante, a grande maioria dos processos nos quais
+foram celebrados os acordos já se encontra com trânsito em julgado e,
+inclusive, com o cumprimento das penas estipuladas aos réus.
+
+Nesse cenário, a declaração de inconstitucionalidade de
+situações jurídicas já sedimentadas — em ato jurídico perfeito acobertado
+pela coisa julgada material — traria indesejável quadro de insegurança
+às partes e a todos os juízos envolvidos com a temática.
+
+As incertezas criadas com tal hipótese poderiam, ainda,
+desestimular a aplicação de tão relevante instrumento judicial, o que
+não se pretende nesta ação declaratória, que busca, justamente, o
+aprimoramento e a correta interpretação da legislação que regula a
+colaboração premiada no país.
+
+Propõe-se, portanto, que este Supremo Tribunal Federal, ao
+analisar constitucionalidade dos dispositivos apontados como objeto
+desta ação declaratória de constitucionalidade, aplique a modulação dos
+efeitos da decisão em sede de controle concentrado, a fim de que a
+interpretação firmada passe a ser observada prospectivamente, nos
+termos do que dispõe o art. 27, da Lei n. 9.868/1999.
+
+V. DA MEDIDA CAUTELAR
+
+No presente caso, impõe-se o deferimento de medida cautelar
+para que seja imediatamente firmada a correta e constitucional
+interpretação dos dispositivos da Lei n. 12.850/2013 indicados
+nesta ação declaratória de constitucionalidade, uma vez que estão
+presentes os requisitos da probabilidade do direito e do perigo na demora.
+
+A probabilidade do direito está suficientemente evidenciada
+nas razões acima aduzidas. Diante das manifestas e relevantes
+controvérsias jurídicas que envolvem a interpretação e aplicação dos
+dispositivos legais apontados no objeto desta ação, pugna-se pela
+declaração de constitucionalidade:
+
+(i) do art. 4º, caput, da Lei n. 12.850/2013, a fim de
+definir que cabe única e exclusivamente ao Poder
+Judiciário a competência para a fixação da pena
+concreta do réu colaborador, em atenção ao princípio
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+30
+
+[[pagina 31 | nativo]]
+
+constitucional da reserva de jurisdição e da
+culpabilidade, vedando-se às partes do processo penal
+a capacidade para definir penas restritivas de
+liberdade por meio de acordos de colaboração
+premiada e para negociar o cumprimento antecipado
+de tais penais;
+
+(ii) do art. 4º, caput e § 11º, da Lei n. 12.850/2013, para
+assentar que as definições da culpabilidade do réu
+colaborador, da eficácia da sua colaboração e da
+dosimetria da pena aplicável devem ser feitas ao final
+do processo penal por meio de sentença judicial, em
+atenção aos princípios do devido processo legal e da
+presunção de inocência, vedando-se a definição
+antecipada de penas por meio acordos de colaboração
+premiada firmados no início ou ao longo do processo
+penal;
+
+(iii) do art. 4º, caput e §§ 4º e 5º, da Lei n. 12.850/2013,
+para assentar que as consequências jurídicas dos
+acordos de colaboração premiada devem ser aquelas
+previstas em lei, em atenção aos princípios da
+legalidade estrita e da igualdade, vedando-se às partes
+de acordos de colaboração premiada liberdade
+contratual para criação indistinta de novos direitos e
+deveres.
+
+O perigo na demora, por sua vez, resta demonstrado ante o
+risco de produção de efeitos imediatos por acordos de colaboração
+premiada firmados sob interpretações inconstitucionais dos dispositivos
+apontados nesta ação declaratória.
+
+Como exemplificado acima, diversos acordos de colaboração
+têm impactado, inconstitucionalmente, direitos fundamentais,
+inclusive com restrição de liberdade de locomoção, antes mesmo da
+sentença penal condenatória, em clara afronta à reserva de jurisdição,
+além de desvirtuarem o regramento legislativo da matéria.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+31
+
+[[pagina 32 | nativo]]
+
+Nesse cenário, torna-se imperioso o provimento liminar desta
+Corte no sentido de firmar a correta interpretação dos dispositivos
+detalhados no decorrer desta peça, a fim de trazer segurança e
+estabilidade para acordos que se encontrem em fase de negociação e
+homologação pelas autoridades judiciais.
+
+Por outro lado, ainda que negociações firmadas sob balizas
+inconstitucionais sejam passíveis de posterior anulação, a restrição a
+direitos fundamentais eventualmente implementadas não pode ser
+compensada ou devolvida.
+
+Assim, requer-se a concessão de medida cautelar na presente
+ação declaratória de constitucionalidade, a fim de que seja desde já
+estabelecida a correta e constitucional interpretação do art. 4º, caput e
+§§ 4º, 5º e 13, da Lei n. 12.850/2013, nos termos da fundamentação
+apresentada, possibilitando o prosseguimento de tratativas de
+colaboração premiada que encontrem em curso no momento da decisão.
+
+Caso se entenda pela necessidade de análise mais
+aprofundada do tema trazido à apreciação desta Corte, requer-se a
+adoção da providência prevista no art. 21, caput, da Lei n. 9.868/199940,
+no sentido de suspender a tramitação de processos que discutam os
+dispositivos abordados nesta ação até apreciação final do Plenário.
+
+VI. DOS PEDIDOS
+
+Diante do exposto, requer-se:
+
+a) Seja concedida medida cautelar para fixar o
+entendimento de que, a partir da decisão liminar por
+esse e. STF, a negociação e homologação dos acordos de
+colaboração premiada devem, sob pena de nulidade:
+
+a.1) respeitar os princípios da reserva de jurisdição e
+da culpabilidade, competindo ao Poder Judiciário, e
+
+40 Art. 21. O Supremo Tribunal Federal, por decisão da maioria absoluta de seus
+membros, poderá deferir pedido de medida cautelar na ação declaratória de
+constitucionalidade, consistente na determinação de que os juízes e os Tribunais
+suspendam o julgamento dos processos que envolvam a aplicação da lei ou do ato
+normativo objeto da ação até seu julgamento definitivo.
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+32
+
+[[pagina 33 | nativo]]
+
+não às partes, a aferição da culpa e definição da
+dosimetria da pena do réu colaborador;
+
+a.2) respeitar os princípios do devido processo legal e
+da presunção de inocência, devendo a culpabilidade
+do réu e a eficácia da sua colaboração ser aferidas ao
+final do processo penal por meio de sentença judicial;
+
+a.3) respeitar o princípio da legalidade e da
+igualdade, não podendo estabelecer consequências
+jurídicas diversas daquelas previstas em lei;
+
+b) No mérito, seja julgada procedente esta ação,
+declarando-se:
+
+b.1) a constitucionalidade do art. 4º, caput, da Lei n.
+12.850/2013, a fim de reconhecer que cabe única e
+exclusivamente ao Poder Judiciário a competência
+para a fixação da pena concreta do réu colaborador,
+em atenção ao princípio constitucional da reserva de
+jurisdição e da culpabilidade, vedando-se às partes
+do processo penal a capacidade para definir penas
+restritivas de liberdade por meio de acordos de
+colaboração premiada e para negociar o
+cumprimento antecipado de tais penais;
+
+b.2) a constitucionalidade do art. 4º, caput e § 11º,
+da Lei n. 12.850/2013, para assentar que as
+definições da culpabilidade do réu colaborador, da
+eficácia da sua colaboração e da dosimetria da pena
+aplicável devem ser feitas ao final do processo penal
+por meio de sentença judicial, em atenção aos
+princípios do devido processo legal e da presunção de
+inocência, vedando-se a definição antecipada de
+penas por meio acordos de colaboração premiada
+firmados no início ou ao longo do processo penal;
+
+b.3) a constitucionalidade do art. 4º, caput e §§ 4º e
+5º, da Lei n. 12.850/2013, para assentar que as
+consequências jurídicas dos acordos de colaboração
+premiada devem ser aquelas previstas em lei, em
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+33
+
+[[pagina 34 | nativo]]
+
+atenção aos princípios da legalidade estrita e da
+igualdade, vedando-se às partes de acordos de
+colaboração premiada liberdade contratual para
+criação indistinta de novos direitos e deveres.
+
+Por fim, requer-se que as publicações sejam realizadas em
+nome do advogado Rafael de Alencar Araripe Carneiro, inscrito na
+OAB/DF sob o n. 25.120, sob pena de nulidade.
+
+Informa, para os efeitos do disposto pelo artigo 39, I, do
+Código de Processo Civil, que o signatário tem escritório em Brasília, no
+endereço SGAN Quadra 601 Bloco H L2 Norte - Edifício ION - Sala 1035,
+Brasília/DF - CEP 70.830-018.
+
+É atribuído à causa, para meros efeitos contábeis, o valor de
+R$ 100,00 (cem reais).
+
+Nesses termos, pede deferimento.
+Brasília, 14 de dezembro de 2021.
+
+Rafael de Alencar Araripe Carneiro Pedro Victor Porto Ferreira
+OAB/DF 25.120 OAB/DF 64.182
+
+Ana Letícia Rodrigues da C. Bezerra Luiza Braga C. de Miranda
+OAB/DF 65.653 OAB/DF 56.646
+
+Ana Luísa Gonçalves Rocha Felipe Santos Corrêa
+OAB/DF 64.379 OAB/DF 53.078
+
+_______________________________________________________________________________________________
+SGAN Quadra 601, Bloco H, L2 Norte, Edifício ION - Sala 1035 | Brasília/DF - CEP: 70.830-018
+Alameda Santos, n. 700, Conj. 131, 13º andar - Cerqueira César | São Paulo/SP - CEP: 01.418-002
+www.carneirosedipp.com.br
+34

@@ -1,0 +1,1032 @@
+[[pagina 1 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+PARTIDO DA REPÚBLICA – PR, partido político com
+representação no Congresso Nacional, por meio dos advogados infra-assinados,
+vem, respeitosamente, à presença de Vossa Excelência, com fulcro no art. 102, I,
+“a”, da Constituição Federal de 1988, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE (com pedido de medida cautelar)
+contra os artigos 10, §2º, e 12, incisos III e IV, da Lei n. 12.965, de 23 de abril de
+2014, também conhecida como Marco Civil da Internet, pelas razões de fato e de
+direito a seguir aduzidas.
+
+1
+
+[[pagina 2 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+I – BREVE SÍNTESE DA CONTROVÉRSIA CONSTITUCIONAL
+1. Nos últimos meses, desde a edição do chamado Marco Civil
+da Internet, a sociedade brasileira tem testemunhado, de maneira atônita,
+diversas ordens judiciais de bloqueio de aplicativos tecnológicos que viabilizam
+a troca de mensagens e dados de seus usuários por meio da internet. Com efeito,
+é de conhecimento geral pelo menos 3 (três) decisões judiciais que ordenaram a
+suspensão do serviço do aplicativo1 denominado de WhatsApp em todo o
+território nacional, a saber:
+i) Em fevereiro de 2015, o MM. Juiz da Central de Inquéritos de Teresina/PI, no bojo da ação n. 0013872-87.2014.8.18.0140 determinou a interrupção dos serviços do referido aplicativo. Posteriormente, tal decisão foi suspensa liminarmente pelo Eg. Tribunal de Justiça do Piauí no Mandado de Segurança n. 2015.0001.001592-4.
+ii) Em dezembro de 2015, o MM. Juiz de Direito da 1ª Vara Criminal da Comarca de São Bernardo do Campo/SP, no bojo do procedimento de Interceptação Telefônica nº. 0017520-08.2015.8.26.0564, determinou a suspensão temporária das atividades do WhatsApp pelo prazo de 48 (quarenta e oito) horas em todo o território nacional. Contudo, tal decisão foi cassada por decisão liminar proferida pelo Eg. Tribunal de Justiça do Estado de São Paulo nos autos do Mandado de Segurança nº. 2271462-77.2015.8.26.0000.
+iii) Mais recentemente, em 2 maio de 2016, o MM. Juiz Titular da Vara Criminal de Lagarto-SE expediu determinação a todas as operadoras de telefonia móvel e provedoras de internet no sentido de obstar a continuidade dos serviços do aplicativo em todo o território nacional pelo prazo de 72 (setenta e duas) horas. Posteriormente, no dia 3 de maio, a suspensão do aplicativo foi revertida no âmbito do Eg. Tribunal de Justiça do Estado de Sergipe no Mandado de Segurança n. 2016.00.1.1089-9.
+1 A Lei n. 12.595, em seu artigo 5º, VII, dá aos aplicativos o nome técnico de “aplicações deinternet”, conceituando como “o conjunto de funcionalidades que podem ser acessadas por meio de umterminal conectado à internet”. Na presente petição, tendo em vista a disseminação do vocábulo“aplicativo”, os dois termos serão utilizados como sinônimos.
+2
+
+[[pagina 3 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+2. Esse protagonismo brasileiro na interrupção desses serviços
+de troca de mensagens online por ordem judicial tem chamado a atenção da mídia
+internacional, que, com certo estranhamento, tem noticiado que, ao lado de
+países como a China, a Coréia do Norte e o Irã, o Poder Público brasileiro tem
+adotado medidas de censura do tráfego da internet sob o fundamento de
+proteção do “interesse público”2. De fato, a rede mundial de computadores,
+idealizada como uma forma de comunicação livre e democrática, tem tido o seu
+fluxo interrompido no Brasil por diversas ordens judiciais prejudiciais a grande
+parcela da população que não possui qualquer vínculo com os fatos que levaram
+à suspensão do aplicativo de troca de mensagens.
+3. Apenas a título exemplificativo, segundo dados divulgados
+na imprensa, a última decisão de suspensão do aplicativo de comunicação
+denominado de WhatsApp afetou diretamente 100 milhões de brasileiros usuários
+do serviço3, o que equivale dizer que aproximadamente 48,91% da população foi
+prejudicada, tendo como base as informações do último censo do IBGE,
+publicado no D.O.U. do dia 28 de setembro de 20154.
+4. Ademais, à medida que os serviços de troca de mensagens
+pela internet são mais disseminados na sociedade, maior se torna a dependência
+dos cidadãos em relação a esses serviços. Com efeito, em razão de fortes “efeitos
+de rede” que caracterizam os modernos instrumentos de comunicação eletrônica
+
+2 Cf. a título ilustrativo as seguintes matérias jornalísticas publicadas em meios de comunicaçãode reconhecimento mundial: http://www.nytimes.com/2016/05/04/technology/brazilian-judge-lifts-suspension-of-whatsapp.html e https://www.theguardian.com/technology/2016/may/02/brazil-whatsapp-block-72-hours.3 Cf. http://www1.folha.uol.com.br/mercado/2016/05/1766925-whatsapp-afirma-que-bloqueio-pune-100-milhoes-de-brasileiros.shtml.4 De acordo com os últimos dados divulgados pelo IBGE, em 1º de julho de 2015, o Brasil possuíauma população de 204.450.649 habitantes.
+
+3
+
+[[pagina 4 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+e a economia da informação5, quanto maior for a penetração de determinado
+serviço de comunicação, maior é o seu valor agregado, maior é a utilidade
+individual de fazer parte desta rede e, por consequência, mais custoso é ficar de
+fora dela.6
+5. Conforme será mais bem explorado adiante, a suspensão de
+tais aplicativos, antes de ser uma punição à empresa responsável, torna-se, em
+verdade, uma medida que penaliza a própria população em geral, que confia no
+funcionamento de tais serviços de comunicação para a dinâmica de seus
+relacionamentos pessoais e profissionais. Assim, em razão de efeitos de rede,
+quanto mais usuários aderem ao sistema virtual de troca de mensagens, maior o
+impacto social e econômico de uma medida que suspenda as atividades de um
+serviço com essas características.
+6. Não por outro motivo há notícia de que a Corregedora
+Nacional de Justiça, Ministra Nancy Andrighi – muito provavelmente por estar
+impressionada com as consequências sociais da decisão proferida por juízo
+singular – abriu apuração administrativa para verificar se o magistrado
+sergipano agiu com abuso de poder ao ordenar a suspensão do aplicativo em
+questão7.
+
+5 Em teorias de dinâmica social, “massa crítica” é um número suficiente de indivíduos ou omomento em que estes adotam uma certa inovação em um dado sistema social, tal que a razãode adoção se torna auto-sustentável e gera ainda mais crescimento. O conceito foi difundido pelosestudos de Everett Rogers sobre teoria de difusão de inovações. Cf. Everett M. Rogers, Diffusionof Innovations. New York: Free Press, 1962.6 Em resumo: “Há uma diferença essencial entre a velha e a nova economia: a velha economiaindustrial era movida pelas economias de escala; a nova economia da informação é movida pelaeconomia de redes.(...) Sejam reais ou virtuais, as redes têm uma característica econômicafundamental: o valor de ligar-se a uma rede depende do número de outras pessoas já conectadasa ela. In: Shapiro, Carl; Varian, Hal R. A Economia da Informação: como os princípios econômicos seaplicam à era da Internet. Rio de Janeiro: Campus, 1999. Pp 204-205.7 Cf. http://link.estadao.com.br/noticias/cultura-digital,juiz-que-suspendeu-whatsapp-vai-enfrentar-processo-no-cnj,10000048968.
+4
+
+[[pagina 5 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+7. Analisando as decisões acima mencionadas, é possível
+identificar um padrão nas justificativas jurídicas utilizadas pelos juízes. De fato,
+baseando-se nos artigos 10, §2º, e 12, III, da Lei n. 12.965, de 23 de abril de 2014,
+também conhecida como Marco Civil da Internet, os magistrados têm ordenado
+a suspensão das atividades dos serviços de troca de mensagens pela internet, sob
+o fundamento de que a empresa responsável pelo aplicativo se nega a
+disponibilizar à autoridade judiciária o conteúdo de mensagens privadas
+trocadas por usuários submetidos a investigação criminal. Eis o teor dos referidos
+dispositivos:
+Art. 10. A guarda e a disponibilização dos registros de conexão e de acesso a aplicações de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicações privadas, devem atender à preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas. (...) § 2o O conteúdo das comunicações privadas somente poderá ser disponibilizado mediante ordem judicial, nas hipóteses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7o. (...)
+
+Art. 12. Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações às normas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, às seguintes sanções, aplicadas de forma isolada ou cumulativa: I - advertência, com indicação de prazo para adoção de medidas corretivas; II - multa de até 10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício, excluídos os tributos, considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da falta e a intensidade da sanção; III - suspensão temporária das atividades que envolvam os atos previstos no art. 11; ou
+
+5
+
+[[pagina 6 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+IV - proibição de exercício das atividades que envolvam os atos previstos no art. 11.
+8. Percebe-se, pois, que o art. 10, §2º, dá suporte jurídico à
+concessão de ordens judiciais para que as aplicações de internet disponibilizem
+o conteúdo de comunicações privadas, prevendo, no art. 12, uma série de sanções
+aplicáveis ao descumprimento da ordem pela empresa responsável pelo serviço,
+que variam desde a advertência até a proibição do exercício da atividade.
+
+I.A) DELIMITAÇÃO PRECISA DO OBJETO DA ADI
+9. Objetiva-se, na presente ação direta, ver declarada a
+inconstitucionalidade da penalidade de suspensão temporária e de proibição de
+exercício das atividades, decorrente de descumprimento de ordem judicial por
+parte da empresa responsável por fornecer mecanismo de troca de mensagens
+via internet.
+10. Argumenta-se que a atividade de comunicação pela internet
+rege-se pelo princípio da continuidade (art. 241 CF/88), de maneira que a sanção
+aplicada à empresa responsável pelo aplicativo de troca de mensagens não pode
+atingir usuários estranhos ao objeto da punição (art. 5º, XLV, CF/88), visto que
+tal medida inviabiliza arbitrariamente o direito de livre comunicação dos
+cidadãos (art. 5º, IX CF/88), além de ferir os princípios da livre iniciativa (art. 1º,
+IV, CF/88), da livre concorrência (art. 170, caput, CF/88) e da proporcionalidade.
+11. Sendo assim, o escopo específico da presente ação é o de
+discutir a constitucionalidade da penalidade de suspensão de aplicações na
+internet que permitem a troca de mensagens via web em razão de
+descumprimento de decisão judicial, tendo em vista a função social peculiar
+
+6
+
+[[pagina 7 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+desse tipo de serviço prestado, e não de todo e qualquer aplicação ou provedor
+de internet.
+12. Não obstante o âmbito restrito de discussão da presente
+ação, o fato é que o art. 12, incisos III e IV, da Lei n. 12.965/14 tem sido aplicado
+indistintamente a todos os serviços de internet (art. 5º, VII, da Lei n. 12.965/14),
+de maneira que o dispositivo padece de vício de nulidade por abranger inúmeras
+situações em que sua aplicação é tida por inconstitucional (overbreadth doctrine).
+Ainda que assim não se entenda, busca-se, subsidiariamente, que este Pretório
+Excelso dê interpretação conforme à Constituição aos dispositivos ora
+impugnados, de maneira a impedir que outras decisões constrangedoras, como
+as relatadas no início da petição, voltem a ser proferidas.
+13. Após delimitar o seu objeto, torna-se necessário esclarecer o
+que não se pretende obter com a presente ação. Com efeito, não se busca nessa
+ADI o reconhecimento de qualquer espécie de imunidade às empresas que atuam
+na internet, nem sustentar a absoluta inviolabilidade do conteúdo das
+comunicações realizadas via web. Havendo a prática de ilícitos, dentro ou fora da
+internet, por usuários ou pelas empresas de tecnologia, acredita-se que a
+legislação brasileira deva ser aplicada. O que se pretende, na verdade, é a
+adequada proporção da penalidade aplicável aos aplicativos de comunicação
+entre usuários pelo descumprimento de decisão judicial.
+
+II – FUNDAMENTOS CONSTITUCIONAIS DO PEDIDO
+II.A) CONSIDERAÇÕES PREAMBULARES E INTERPRETAÇÃO DO MARCOCIVIL DA INTERNET CONFORME O ART. 5º, XII, DA CF/88
+14. Não é preciso muito esforço argumentativo para demonstrar
+que a suspensão de aplicativos de comunicação entre seus usuários via web
+
+7
+
+[[pagina 8 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+acarreta uma enorme consequência social. Os números são assustadores: quase
+metade da população brasileira se utiliza desse mecanismo virtual de troca de
+mensagens para se comunicar.
+15. Trata-se de uma mudança comportamental que não pode ser
+ignorada pelo direito: a internet passou a ser um dos principais locus de troca de
+experiência entre os indivíduos. Diferentemente do que ocorria no passado, a web
+não se apresenta apenas como um ambiente em que as pessoas buscam
+informações, mas como um verdadeiro mecanismo de interação intersubjetiva,
+que vem substituindo, em grande medida, antigos meios de comunicação, como
+as cartas, os telegramas e a telefonia.
+16. Nesse sentido, não se pode desprezar que grande parte do
+fluxo de comunicação atual se dá por meio de aplicativos online que permitem o
+envio de mensagens instantâneas entre usuários. Isso ocorre, dentre vários
+motivos, em razão da facilidade de acesso, da segurança dos dados transmitidos,
+do baixo custo para se inserir na plataforma, da agilidade no recebimento da
+informação, dos efeitos de rede e da disseminação dos chamados smartphones. O
+noticiário recente está repleto de reportagens que demonstram que empresários
+e clientes utilizam tais aplicativos como instrumento de trabalho8. Está em curso
+uma verdadeira transformação cultural que tem inegáveis implicações
+constitucionais9.
+17. Antes de adentrar no mérito de cada argumento
+constitucional específico, vale um registro: a Constituição Federal de 1988, em
+
+8 Cf., a título exemplificativo, a seguinte notícia: http://noticias.r7.com/balanco-geral/videos/profissionais-que-dependem-do-whatsapp-reclamam-de-medida-judicial-03052016.9 Sobre a influência da cultura na compreensão dos compromissos constitucionais, cf. SIEGEL,Reva. Constitutional Culture, Social Movement Conflict and Constitutional Change: The Caseof the de facto ERA. California. Law Review, nº 94, p. 1.323 (2006).
+8
+
+[[pagina 9 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+seu art. 5º, XII, preceitua ser “inviolável o sigilo da correspondência e das comunicações
+telegráficas, de dados e das comunicações telefônicas, salvo, no último caso, por ordem
+judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação criminal
+ou instrução processual penal”.
+18. Nesse ponto é importante frisar que os aplicativos que
+permitem a troca de mensagens online entre usuários do serviço são utilizados
+essencialmente por meio de smartphones, para transmissão de mensagens, áudios,
+vídeos, fotos, etc. Em alguns casos, é permitido, inclusive, realizar chamadas de
+voz pela internet. Assim, a partir de uma análise construtiva dos propósitos
+inerentes a tais serviços de trocas de mensagens, é possível concluir que os dados
+transmitidos por tais aplicativos se assemelham muito mais às comunicações
+telefônicas do que às telegráficas.
+19. Sendo assim, a interpretação constitucionalmente adequada
+é aquela que categoriza os aplicativos de troca de mensagens pela internet como
+comunicação telefônica, de maneira que a quebra de sigilo somente pode ser
+autorizada por ordem judicial para fins de persecução penal.
+20. Tal consideração revela-se relevante na medida em que o
+Marco Civil da Internet não disciplina adequadamente a matéria, pois apenas
+determina que a quebra de sigilo do conteúdo das mensagens trocadas pela
+internet será autorizada por ordem judicial, silenciando-se sobre a necessidade
+de se tratar de hipótese de investigação criminal10. A leitura constitucionalmente
+
+10 Eis os dispositivos relevantes da Lei n. 12.965/14 sobre o tema: “Art. 7o O acesso à internet é essencial ao exercício da cidadania, e ao usuário são assegurados os seguintes direitos: (...) II - inviolabilidade e sigilo do fluxo de suas comunicações pela internet, salvo por ordem judicial, na forma da lei; III - inviolabilidade e sigilo de suas comunicações privadas armazenadas, salvo por ordem judicial;
+
+9
+
+[[pagina 10 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+adequada do Marco Civil de Internet, portanto, ao menos no que se refere à
+quebra de sigilo das mensagens trocadas por usuários de serviços similares ao
+WhatsApp, deve se restringir ao âmbito da persecução penal.
+21. Como os casos de ordem judicial de suspensão temporária
+de funcionamento de aplicativos de troca de mensagens online ocorreram em
+casos de investigação criminal, pode parecer que tal recomendação é irrelevante.
+O fato é que somente os casos de grande repercussão acabam vindo a público,
+sendo certo que há risco de juízes ordenarem a quebra do sigilo das mensagens
+virtuais em casos mais banais, razão pela qual se impõe a imediata fixação de tal
+entendimento constitucional na presente ação.
+
+II.B) PRINCÍPIOS DA LIVRE COMUNICAÇÃO E DA CONTINUIDADE DOSERVIÇO
+22. Conforme comentado, após a disseminação dos aplicativos
+de trocas de mensagens via web, houve uma profunda mudança na forma como
+as pessoas se comunicam na sociedade. Não há dúvida de que tais plataformas
+de conversas são serviços essenciais de comunicação, não obstante o seu caráter
+privado.
+23. Em outras palavras, as empresas que oferecem esses
+aplicativos de comunicação pela internet, embora não possam ser caracterizadas
+como prestadoras de serviço público, no sentido constitucional-administrativo, a
+sua atividade, por envolver forte interesse da sociedade, faz incidir alguns
+
+(...) Art. 10. A guarda e a disponibilização dos registros de conexão e de acesso a aplicações de internet de que trata esta Lei, bem como de dados pessoais e do conteúdo de comunicações privadas, devem atender à preservação da intimidade, da vida privada, da honra e da imagem das partes direta ou indiretamente envolvidas. § 2o O conteúdo das comunicações privadas somente poderá ser disponibilizado mediante ordem judicial, nas hipóteses e na forma que a lei estabelecer, respeitado o disposto nos incisos II e III do art. 7o”
+10
+
+[[pagina 11 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+deveres análogos àquelas impostos às concessionárias na área de comunicação
+no que se refere à manutenção de seu fluxo de dados. Ou seja, defende-se a
+aplicação, no caso, do princípio da continuidade do serviço de comunicação.
+24. Obviamente que os aplicativos de trocas de mensagens pela
+internet não podem e nem devem ser enquadrados como serviço público
+propriamente dito, visto se tratar de serviço desburocratizado, normalmente
+gratuito, em regime de livre concorrência, prestado por empresas particulares em
+âmbito global. Ademais, de acordo com a doutrina majoritária, o que
+efetivamente caracteriza qualquer atividade como serviço público é o seu
+reconhecimento como tal pela ordem constitucional, o que não ocorre com os
+serviços de internet11.
+25. O que se argumenta é se tratar de serviço sui generis prestado
+por particular que deve receber proteção do Estado em razão do interesse da
+sociedade na continuidade de suas atividades. Pode-se falar, então, em atividade
+econômica de interesse público, que, por essa razão, atrai a incidência de algumas
+normas do regime jurídico de direito público. O tema relacionado ao exercício de
+funções socialmente relevantes por entidades privadas não é novo nessa
+Suprema Corte. Confira, nesse sentido, as reflexões do Ministro Gilmar Mendes,
+apoiadas no magistério de Gunther Teubner, no julgamento da ADI 1.923-MC
+(STF, Min. Rel. Ilmar Galvão, DJe 20.09.2007):
+“O fato é que o Direito Administrativo tem passado por câmbios substanciais e a mudança de paradigmas não tem sido
+11 Nesse sentido, confira a definição de serviço público para Celso Antônio Bandeira de Mello:“Serviço público é toda atividade de oferecimento de utilidade ou comodidade material destinada àsatisfação da coletividade em geral, mas fruível singularmente pelos administrados, que o Estado assumecomo pertinente a seus deveres e presta por si mesmo ou por quem lhe faça as vezes, sob o regime de DireitoPúblico – portanto, consagrador de prerrogativas de supremacia e de restrições especiais -, instituído emfavor dos interesse definidos como públicos no sistema normativo”. MELLO, Celso. Curso deDireito Administrativo São Paulo: Malheiros, 2013, p. 687.
+11
+
+[[pagina 12 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+compreendida por muitas pessoas. Hoje, não há mais comocompreender esse ramo do direito desde a perspectiva de umarígida dicotomia entre o público e o privado. O Estado tem sevalido cada vez mais de mecanismos de gestão inovadores,muitas vezes baseados em princípios próprios do direitoprivado. Nesse sentido, extraio das lições de Gunther Teubner aspremissas para se analisar o direito a partir de novos enfoquessuperadores da velha dicotomia público/privado: ‘Não gostaria de sugerir apenas a rejeição da separação entre setor público e privado como uma simplificação grosseira demais da atual estrutura social, mas também proporia o abandono de todas as idéias de uma fusão de aspectos públicos e privados. Ao invés disso, a simples dicotomia público/privado significa que as atividades da sociedade não podem mais ser analisadas com ajuda de uma única classificação binária; ao contrário, a atual fragmentação da sociedade numa multiplicidade de setores sociais exige uma multiplicidade de perspectivas de autodescrição. Analogamente, o singelo dualismo Estado/sociedade, refletido na divisão do direito público e privado, deve ser substituído por uma pluralidade de setores sociais reproduzindo-se, por sua vez no direito.’ E, adiante, prossegue Teubner, agora tratandoespecificamente dos regimes de serviços públicos para entidadesdo âmbito privado: ‘A própria onda de privatização revela-se sob um aspecto completamente diferente, quando se abre mão da simples dicotomia público/privado em favor de uma policontextualidade mais sofisticada da sociedade, quando se reconhece que a autonomia privada única do indivíduo livre transforma-se nas diversas autonomias privadas de criações normativas espontâneas. Nesse sentido, privatização não se trata mais, como normalmente se entende, de redefinir a fronteira entre o agir público e o privado, mas de alterar a autonomia de esferas sociais parciais por meio da substituição de seus mecanismos de acoplamento estrutural com outros sistemas sociais. Não se trata mais simplesmente de um processo em que atividades genuinamente políticas, antes dirigidas aos interesses públicos, transformam-se em transações de mercado economicamente voltados ao lucro. Antes, o que se altera pela privatização de atividades sociais autônomas –
+12
+
+[[pagina 13 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+pesquisa, educação ou saúde, por exemplo -, que apresentam seus próprios princípios de racionalidade e normatividade, é o seu regime institucional. Em lugar de uma relação bipolar entre economia e política, deve-se apresentar a privatização como uma relação triangular entre esses dois setores e o de atividades sociais. Torna-se, assim, diretamente compreensível que a privatização leva, de fato, a uma impressionante liberação de todas as energias até então bloqueadas pelo antigo regime público. Paralelamente, no entanto, novos bloqueios desencadeados pelo novo regime tornam-se visíveis. Um antigo mismatch, um antigo desequilíbrio entre atividade regime, é substituído por um novo mismatch.’12 (...) Esses são os novos pressupostos de análise de um direito privado publicizado e constitucionalizado, e de um direito público submetido a racionalidades próprias dos discursos do direito privado. Essas razões já me são suficientes para indeferir a medida cautelar. Não vislumbro nenhuma das inconstitucionalidades apontadas pelo requerente.”
+26. No contexto, não há dúvida que a atividade desenvolvida
+por tais empresas de comunicação via internet atrai inequívoco interesse público.
+Ou seja, o serviço de comunicação via web não pode ser enquadrado
+adequadamente em nenhuma classificação que adote uma dicotomia rígida entre
+público/privado, merecendo receber especial proteção constitucional em alguns
+de seus aspectos pelo inegável impacto social que produz. O Estado não pode
+simplesmente ficar alheio à nova realidade no âmbito das comunicações
+interpessoais ou, o que é ainda mais embaraçoso, interferir nessa realidade de
+modo deletério.
+27. Com efeito, em se tratando de serviço de comunicação
+utilizado por grande parcela de sociedade brasileira, tais mecanismos de troca de
+
+12 TEUBNER, Gunther. Após a privatização: conflitos de discurso no Direito Privado. In: Direito,sistema e policontextualidade. Trad. De Jurgen Volkner Dittberner. Piracicaba: Unimep: 2005, p. 237.
+13
+
+[[pagina 14 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+mensagens online submetem-se ao princípio constitucional da continuidade do
+serviço, não podendo ser interrompido pelo Estado por questões de menor
+importância13.
+28. Em verdade, o que impõe uma proteção constitucional mais
+robusta a este tipo de plataforma de comunicação virtual é o direito fundamental
+de liberdade de comunicação, previsto no art. 5º, IX, da Carta da República, que
+assim preceitua: “É livre a expressão da atividade intelectual, artística, científica e de
+comunicação, independentemente de censura ou licença”. Na mesma toada, a
+Convenção Americana de Direitos Humanos, também conhecida como Pacto de
+San José da Costa Rica, estabelece, em seu artigo 13, que o direito à liberdade de
+pensamento e de expressão inclui a liberdade de “procurar, receber e difundir
+informações e ideias de qualquer natureza, sem consideração de fronteiras, verbalmente
+ou por escrito, ou em forma impressa ou artística, ou por qualquer meio de sua escolha”.
+29. Ao se falar em liberdade de comunicação, principalmente em
+razão da alta complexidade que permeia as relações sociais modernas, é
+impossível ignorar suas conexões com outras liberdades individuais tidas como
+clássicas, como, por exemplo, as liberdades de expressão e de informação. É
+importante ressaltar, contudo, que a ordem constitucional não protege apenas o
+conteúdo da comunicação, ou seja, a informação em si. A proteção conferida aos
+meios de comunicação e a garantia ao seu livre acesso é tão importante quanto a
+natureza da informação. Nesse contexto, os aplicativos de troca de mensagens
+
+13 O princípio da continuidade do serviço de interesse público está implicitamente previsto noart. 175, parágrafo único, IV, da Constituição Federal, ao obrigar a concessionária a manter serviçoadequado, e explicitamente no art. 241, com a redação dada pela Emenda Constitucional n.189/98, que, ao tratar de convênios entre entes administrativos, preceitua que “a União, os Estados,o Distrito Federal e os Municípios disciplinarão por meio de lei os consórcios públicos e os convênios decooperação entre os entes federados, autorizando a gestão associada de serviços públicos, bem como atransferência total ou parcial de encargos, serviços, pessoal e bens essenciais à continuidade dosserviços transferidos”.
+14
+
+[[pagina 15 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+pela internet, por serem um dos meios de comunicação mais utilizados pelos
+brasileiros, merece efetiva proteção constitucional.
+30. Apenas para se ter noção do impacto social da suspensão de
+tais serviços, revela-se oportuno destacar que o acesso ao aplicativo WhatsApp
+quintuplicou nos últimos três anos, atingindo a olímpica cifra de 1 bilhão de
+usuários em todo o mundo, o que demonstra de maneira inequívoca que está em
+curso uma mudança cultural no modo de se comunicar na sociedade
+contemporânea. Sobre o tema, confira o seguinte gráfico:
+
+31. No Brasil, aliás, passa-se por truísmo que a população de
+mais baixa renda, por não ter condições de arcar com os planos mensais
+oferecidos pelas operadoras de telefonia, diante do alto custo da realização de
+ligações interurbanas e do envio de mensagens de texto, utiliza o serviço pré-
+pago para ter acesso a um pacote diário com o mínimo de dados, já que a simples
+conexão estável com a internet assegura o acesso a aplicativos de trocas de
+mensagens via web.
+
+15
+
+[[pagina 16 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+32. De fato, dados oficiais, oriundos da Agência Nacional de
+Telecomunicações (ANATEL), demonstram que os acessos pré-pagos
+totalizavam, em 2015, 201,34 milhões das linhas ativas de telefonia móvel do país
+(73,54% do total)14. Ademais, estima-se que 91% (noventa e um por cento) dos
+usuários brasileiros de telefonia móvel – cerca de 100 milhões de brasileiros –
+usam aplicativos para se comunicar gratuitamente, estimulados pelo alto custo
+dos serviços de telecomunicações tradicionais ofertados no País.15 Não à toa, o
+WhatsApp16, serviço praticamente gratuito, é a mais popular aplicação móvel
+utilizada por brasileiros, desempenhando função central para o pleno exercício
+de direitos constitucionais de comunicação, acesso à informação e liberdade de
+expressão.
+
+14 Cf. http://www.anatel.gov.br/institucional/index.php/noticias/839-em-outubro-brasil-soma-273-79-milhoes-de-acessos-moveis15 Cf. https://theintercept.com/2016/05/02/whatsapp-used-by-100-million-brazilians-was-shut-down-nationwide-today-by-a-single-judge.16 O acesso ao WhatsApp é usualmente gratuito no primeiro ano e sua renovação anual custa algo emtorno de 1 (um) dólar, a depender da plataforma utilizada e outras condições de serviço.
+16
+
+[[pagina 17 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+33. Sendo assim, não há dúvida de que o art. 12, III e IV, da Lei
+n. 12.965/14, ao possibilitar a suspensão temporária e a proibição dos serviços de
+aplicativos de troca de mensagens em razão do descumprimento de ordens
+judiciais de quebra de sigilo de informações, em detrimento de toda a população
+brasileira, viola os princípios da liberdade de comunicação e da continuidade do
+serviço. Tais considerações levam-nos ao próximo tópico.
+
+II.C) PRINCÍPIOS DA INTRANSCENDÊNCIA E DA INDIVIDUALIZAÇÃODA PENA
+34. Não parece haver dúvida de que a sanção de suspensão dos
+serviços de troca de mensagens online acaba penalizando não apenas a empresa
+responsável pelo aplicativo, mas principalmente os seus usuários.
+35. Ocorre que, no direito brasileiro, vigora o princípio da
+responsabilidade pessoal do agente apenado, segundo o qual “nenhuma pena
+passará da pessoa do condenado” (art. 5º, XLV, CF/88). Sendo assim, verificada que
+uma norma sancionadora acaba penalizando agentes que não têm relação com o
+fato apenado, não há dúvida se tratar de trecho de lei inconstitucional.
+36. Além disso, a Constituição Federal prevê, em seu art. 5º,
+XLVI, que “a lei regulará a individualização da pena”, o que significa que as sanções
+no direito brasileiro devem guardar congruência com os atos praticados pelo
+agente, o que obviamente vincula o legislador, que está impedido de criar
+sanções que transcendam a figura do responsável pela conduta e atinjam
+terceiros, sob pena de violar a Carta Magna. Sobre o tema, são interessantes as
+lições de Salo de Carvalho:
+“A doutrina aponta três dimensões do princípio da individualização da pena. A primeira, denominada individualização legislativa, seria identificada no processo de
+
+17
+
+[[pagina 18 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+criação dos tipos penais incriminadores (criminalização primária) e na definição da espécie e das quantidades mínima e máxima da resposta penal ao ilícito. Trata-se, portanto, nesta fase, de princípio orientador da atividade do legislador em matéria criminal que determina a necessidade de previsão de sanções adequadas e proporcionais às condutas incriminadas.”17
+37. E não se diga que tais preceitos têm aplicação estritamente
+no campo do direito penal. Este Pretório Excelso já decidiu que qualquer norma
+sancionadora deve obedecer aos parâmetros constitucionalmente fixados nestes
+dispositivos mencionados, até mesmo no que tange a penalidades impostas a
+pessoas jurídicas de direito público. Foi exatamente o que restou estabelecido na
+Ação Cautelar n. 1.033 (STF, Min. Rel. Celso de Mello, DJ 16.06.2006), sendo
+relevante transcrever as considerações do decano da Corte no ponto:
+“O postulado da intranscendência impede que sanções e restrições de ordem jurídica superem a dimensão estritamente pessoal do infrator. Em virtude desse princípio, as limitações jurídicas que derivam da inscrição, no Cauc, das autarquias, das empresas governamentais ou das entidades paraestatais não podem atingir os Estados-membros ou o Distrito Federal, projetando, sobre estes, consequências jurídicas desfavoráveis e gravosas, pois o inadimplemento obrigacional – por revelar-se unicamente imputável aos entes menores integrantes da administração descentralizada – só a estes pode afetar”.
+38. Tais considerações levam à conclusão de que a sanção de
+suspensão temporária das atividades de provedores e aplicações de internet
+somente poderia ser considerada constitucional se o único agente penalizado
+fosse a empresa responsável pelo serviço. Em se tratando de plataformas que
+viabilizam a comunicação de milhões de pessoas, a suspensão das atividades
+
+17 CARVALHO, Salo. Comentário ao artigo 5 º, inc. XLVI. In: CANOTILHO, J. J. Gomes;MENDES, Gilmar F.; SARLET, Ingo W.; STRECK, Lênio L. (Coords.). Comentários àConstituição do Brasil. São Paulo: Saraiva/Almedina, 2013. p. 580.
+18
+
+[[pagina 19 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+prejudica a sociedade em geral, que se vê parcialmente impossibilitada de exercer
+o seu direito fundamental de se expressar.
+39. Conclui-se, assim, que as penalidades previstas no art. 12, III
+e IV, da Lei n. 12.965/14, ao atingir pessoas estranhas aos fatos apenados, violam
+os princípios da intranscendêcia e da individualização da pena, de maneira que
+devem ser consideradas inconstitucionais. Não se quer dizer com isso, contudo,
+que a empresa não possa ser sancionada por outros meios, como pela multa
+prevista no art. 12, II, da mesma lei, desde que a sanção não tenha reflexos diretos
+aos usuários do serviço em questão.
+II.D) PRINCÍPIO DA LIVRE INICIATIVA
+40. Logo em seu art. 1º, IV, a Constituição Federal elenca a livre
+iniciativa como um dos fundamentos da República Federativa do Brasil.18
+Ademais, estabelece a Constituição, precisamente em seu art. 170, caput, a livre
+iniciativa e a valorização do trabalho humano como fundamentos da ordem
+econômica brasileira. É assegurado ainda, nos termos do parágrafo único do art.
+170, o livre exercício de qualquer atividade econômica, independentemente de
+autorização de órgãos públicos.
+41. Nesse cenário, a livre iniciativa não pode ser tratada de
+maneira uniforme e indivisível. Tal princípio constitucional atua de diferentes
+maneiras, relacionando-se com outros valores constitucionalmente protegidos e
+
+18 Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Estados eMunicípios e do Distrito Federal, constitui-se em Estado Democrático de Direito e tem comofundamentos:I - a soberania; II - a cidadania; III - a dignidade da pessoa humana; IV - os valores sociais dotrabalho e da livre iniciativa; V - o pluralismo político.
+19
+
+[[pagina 20 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+justificando a atuação de uma variedade de agentes econômicos, que, por sua
+vez, nem sempre possuem a mesma forma de estruturação.
+42. Em se tratando de aplicações de troca de mensagens via web
+amplamente difundidos, é possível traçar uma distinção entre dois âmbitos de
+incidência do princípio da livre iniciativa: i) garantia aos fornecedores dos
+serviços de mensagens instantâneas; e ii) direito à livre iniciativa relativa aos
+usuários de tais serviços.
+43. No primeiro plano, concernente ao direito de livre iniciativa
+das empresas operadores de plataformas de comunicação virtual, não há dúvida
+de que as penas previstas no art. 12, III e IV, da Lei 12.965/14 implicam em
+inegável restrição arbitrária ao exercício da atividade econômica. Com efeito, a
+sinalização de que o sistema de comunicação pode ser interrompido a qualquer
+tempo por decisões judiciais relativas a fatos estranhos aos usuários faz com que
+a ferramenta perca credibilidade e, em última análise, seja por eles descartada.
+44. No contexto, é importante salientar que não há notícia de
+nenhum outro caso no direito comparado em que tenha havido a suspensão
+temporária das atividades desses mecanismos de comunicação por decisão
+judicial. Trata-se de uma posição de vanguarda nada honrosa para os juristas
+pátrios.
+45. No momento de grave crise econômica, em que o país
+necessita urgentemente de investimentos externos, decisões que ordenem a
+suspensão das atividades de empresas que atuam no ramo de tecnologia são
+sinais negativos para aqueles que pretendem investir no Brasil. A insegurança
+causada por tais medidas aumenta a sensação de risco, afugentando do país o
+
+20
+
+[[pagina 21 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+interesse dos agentes de um dos mercados que mais geram riquezas em nível
+global. Apenas para se ter uma ideia do volume de negócios envolvido nesse
+ecossistema, a quantidade de recursos financeiros movimentados pelo mercado
+mundial de aplicativos foi estimada em torno de 20 a 25 bilhões de dólares
+somente em 2013.19
+
+46. Além disso, a possibilidade de suspensão das atividades de
+empresas que atuam globalmente na web faz surgir o perigo de fragmentação ou
+“balcanização” da rede, com inegáveis prejuízos à atividade econômica nacional,
+na medida em que excluem os brasileiros do comércio internacional.
+47. Melhor explicando, a internet passou a ser um dos principais
+meios utilizados para a troca comercial. Atualmente, o mercado é muito
+dependente da comunicação viabilizada por meio de sítios eletrônicos e
+aplicações de internet, que facilitaram a conexão entre consumidores e
+empresários em escala global. Ao impedir o acesso de brasileiros a tais aplicações
+– fragmentando a rede, portanto –, os mais penalizados serão, na verdade, os
+empresários e consumidores brasileiros, que se quedam à margem da economia
+global.
+48. Esse fenômeno já tem sido percebido pela comunidade
+jurídica internacional, que utiliza o termo “balcanização” exatamente para
+designar, de maneira jocosa, esse processo de auto exclusão de alguns países –
+notadamente os que possuem governos autoritários – que, por meio de censura
+ao conteúdo da internet e outros artifícios regulatórios, acabam isolando seus
+
+19 OECD (2014). Measuring the Digital Economy: A New Perspective. OECD Publishing.Disponível em: http://www.oecd-ilibrary.org/science-and-technology/measuring-the-digital-economy_9789264221796-en.
+21
+
+[[pagina 22 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+cidadãos do resto do mundo. No Brasil, o tema foi abordado por Sérgio Alves Jr.,
+que assim define o termo:
+“Muitos leitores que acompanham a conjuntura da governança da Internet (IG) devem ter observado referências recentes na mídia sobre as ameaças de ‘balcanização da internet’. O termo tem sido utilizado para descrever uma variedade de alternativas regulatórias sendo consideradas ou adotadas pela União Internacional de Telecomunicações (UIT) (eventos recorrentes liderados por governos), Brasil (propostas de retenção local de dados e lançamento de novos cabos submarinos para Europa e África), Rússia (restrições de acesso à Internet e controle de mídias sociais), Índia (proposta de criação de órgão nas Nações Unidas dedicado à coordenação de temas de IG), China (Grande Muralha Cibernética da China – Great Firewall of China), Irã (Internet Halal), Turquia (bloqueio a mídias sociais), Europa (padrões muito elevados de privacidade e estímulos à formação de uma nuvem pan-europeia). A diversidade do grupo sugere que não podem estar todos fazendo a mesma coisa. Alguns desses atores pedem o isolamento de conteúdo nacional; alguns clamam por mais privacidade e proteção de dados, e são reações à vigilância em massa conduzida pelos Estados Unidos; alguns cumprem leis nacionais que não são particularmente relacionadas à Internet; alguns clamam por maior cooperação internacional para assegurar que leis nacionais sejam respeitadas (incluindo a proteção de dados) e que nenhum país tenha um papel dominante na governança da Internet. Independentemente das especificidades de suas ações, todos têm sido invariavelmente rotulados como ‘balcanizadores’. (...)”20
+
+20 O autor explica que “balcanização” é uma metáfora pejorativa referente ao processo geopolítico defragmentação do Império Otomano e a consequente formação de estados menores não-cooperativos na
+região dos Bálcãs. “Balcanização da internet” é uma expressão polissêmica no contexto de disputaspolíticas globais sobre a internet que “significa, entre outras coisas, (i) formas de segregar aspessoas online de acordo com suas preferências; (ii) diferentes níveis de interconexão deinfraestruturas para a Internet; (iii) fragmentos resultantes de forças regulatórias e culturais; (iv)uma agenda diplomática; e (v) uma questão de comércio e jurisdição. Ela pode decorrer da açãode agentes estrangeiros e também de forças atuantes em um mesmo território soberano.” In:ALVES JR, Sérgio. A fragmentação da balcanização da Internet. Revista POLITICS. Rio de Janeiro, ed. Abrilde 2015, p 2- 11. Disponível em https://politics.org.br/edicoes/fragmenta%C3%A7%C3%A3o-da-balcaniza%C3%A7%C3%A3o-da-internet.
+22
+
+[[pagina 23 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+49. Além de não ser nada honroso estar no rol dos países que
+possuem tendência a fragmentar a internet mundial, principalmente em razão de
+decisões judiciais que suspendem serviços de comunicação utilizados por
+milhões de cidadãos para se conectar em âmbito global, as medidas
+sancionatórias previstas no art. 12, III e IV, da Lei n. 12.965/14, da forma como
+têm sido aplicadas, ferem o princípio da livre iniciativa, precisamente ao
+dificultar o desenvolvimento das atividades econômicas no país.
+50. É nesse ponto que se insere a segunda dimensão do princípio
+da livre iniciativa: muitos indivíduos utilizam esses aplicativos de troca de
+mensagens instantâneas para desenvolver o seu negócio. É fato notório que
+algumas empresas, dos mais variados ramos, abandonaram as comunicações
+telefônicas, dependendo de tais serviços virtuais para agendar seus
+atendimentos. Há, inclusive, notícia de pessoas que são empregadas como
+“atendentes de WhatsApp”, como se verifica de notícia veiculada em reportagem
+de uma grande empresa de telecomunicações21.
+51. Não são apenas as pequenas empresas que se utilizam desses
+mecanismos virtuais de comunicação. O grupo Estadão, por exemplo, usa um
+desses aplicativos para receber e repassar informações sobre o trânsito em São
+Paulo, enquanto que a Folha de São Paulo os utiliza com o objetivo de receber
+colaborações de leitores com fotos, vídeos, textos e áudios. Ou seja, tais
+aplicaçõess têm sido utilizados não apenas para viabilizar o negócio de novos
+empresários, como também para incrementar produtos estabilizados no
+mercado.
+
+21 Cf. http://g1.globo.com/sp/campinas-regiao/concursos-e-emprego/noticia/2016/05/atendente-exclusiva-de-whatsapp-trabalha-8-horas-e-ganha-ate-r-2-mil.html.
+23
+
+[[pagina 24 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+52. Recente estudo produzido pelo Banco Mundial concluiu que
+países de baixa e de média renda experimentaram crescimento econômico de
+1,38% em seu Produto Interno Bruto para cada 10% de aumento de penetração
+de internet em banda larga entre os anos de 2000 e 2006.22 De modo simples e
+direto, o Brasil simplesmente não pode se isolar desse ecossistema global sob
+pena de ver sua economia ser inexoravelmente prejudicada. Em outras palavras,
+não se revela justo que a lei ou decisões judiciais impeçam os brasileiros de
+desfrutarem dos benefícios econômicos e sociais gerados pela internet sob a
+equivocada premissa de penalizar as empresas que descumprem ordens
+judiciais.
+53. No contexto, a suspensão indiscriminada dos serviços de
+mensagens virtuais instantâneas viola o princípio da livre iniciativa não apenas
+das empresas que têm a sua atividade bloqueada, mas principalmente dos
+usuários que dependem de tais aplicativos no desenvolvimento de suas atividade
+comerciais.
+
+II.E) PRINCÍPIO DA LIVRE CONCORRÊNCIA
+54. Sob outro ângulo, as intepretações judiciais que resultaram
+na aplicação da penalidade de suspensão temporária das atividades prevista no
+art. 12, III, do Marco Civil da Internet contrariam de forma flagrante o princípio
+da livre concorrência.
+55. A livre concorrência, conforme dispõe o já mencionado art.
+170 da Carta Magna, é tida como um dos princípios constitucionais
+
+22 Yongsoo Kim, Tim Kelly, and Siddhartha Raja. Building broadband: Strategies and policies for the
+developing world. Global Information and Communication Technologies (GICT) Department of the
+World Bank. January 2010.
+
+24
+
+[[pagina 25 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+conformadores da atividade econômica. Embora muitas vezes a proteção à
+concorrência seja confundida com a simples proteção dos participantes do
+mercado, é inegável que, principalmente em razão das normas constitucionais de
+caráter econômico, a manutenção da livre concorrência significa a proteção de
+outras ordens de interesses, como, por exemplo, os direitos dos consumidores e
+a ordem pública econômica como um todo.23
+56. A insegurança jurídica e a instabilidade no setor causadas
+por reiteradas decisões judiciais são capazes de gerar inestimáveis prejuízos aos
+agentes econômicos envolvidos. Nesse sentido, o principal impacto resultante de
+tais medidas é a perda de valor do negócio, mormente no que diz respeito à perda
+de usuários para aplicativos concorrentes.
+57. Apenas para ilustrar tal afirmação, é importante frisar que
+no momento imediatamente posterior ao bloqueio das atividades do WhatsApp,
+em maio de 2016, outro aplicativo, denominado de Telegram, recebeu cerca de
+sete milhões de novos usuários no Brasil24.
+58. O impressionante incremento de inscrição de novos usuários
+no Telegram provenientes do Brasil, imediatamente após as suspensões dos
+serviços de seu concorrente por ordens judiciais, deixou estupefatos os próprios
+administradores do serviço, que expressaram seu espanto e incapacidade técnica
+imediata para lidar com tão vertiginosa e inesperada demanda de milhões de
+usuários brasileiros, no curto intervalo de poucas horas. Conforme referenciamos
+
+23 “Pode-se identificar três interesses protegidos pelas normas de concorrência: o dosconsumidores, o dos participantes do mercado (concorrentes) e o interesse institucional da ordemconcorrencial”. FILHO, Calixto Salomão. Direito Concorrencial: As Condutas. 1. Ed. São Paulo:Editora Malheiros, 2007, p. 61.24 Cf. http://www.techtudo.com.br/noticias/noticia/2016/05/telegram-ganha-7-milhoes-de-novos-usuarios-com-bloqueio-do-whatsapp.html.
+25
+
+[[pagina 26 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+anteriormente, isso é explicado em Economia da Informação por fortes “efeitos
+de rede” que, em razão de intervenção estatal, deslocaram o nível de
+competividade entre esses produtos concorrentes no disputado mercado global
+de comunicações eletrônicas instantâneas.
+Comunicações oficiais do Telegram, nos dias de suspensão do WhatsApp no Brasil
+
+Comunicação oficial do Telegram, em 17.12.2015, Comunicação oficial do Telegram, em 02.05.2016, primeiras horas de cumprimento da primeira primeiras horas de cumprimento da segunda decisão decisão de suspensão do WhatsApp, em de suspensão do WhatsApp, em decorrência de decorrência de decisão judicial de Juiz de Direito decisão judicial de Juiz Titular da Vara Criminal de da 1ª Vara Criminal da Comarca de São Bernardo Lagarto, estado de Sergipe25. do Campo, estado de São Paulo.
+
+59. Não se está aqui a defender os interesses de determinada
+empresa ou grupo econômico, mas a eficiência do livre mercado. Naturalmente,
+a competição entre os diversos fornecedores de serviços e a consequente
+migração recíproca de usuários seriam causas naturais do regime de livre
+concorrência.
+
+25 Disponível em https://twitter.com/telegram.
+26
+
+[[pagina 27 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+60. O que se verificou no caso acima narrado, contudo, é que a
+perda ou a conquista de usuários de um ou outro aplicativo foi resultante não da
+melhor ou pior qualidade no oferecimento de serviços de comunicação, mas sim
+de fator exógeno à dinâmica concorrencial do mercado. Noutras palavras, a
+demanda por determinado produto passou a ser ditada pela atuação do Poder
+Judiciário, não resultando, pois, da livre concorrência entre os atores econômicos.
+61. Cenários desastrosos como os recentemente impostos por
+decisões que suspenderam o acesso a tais serviços de troca de mensagens online
+foram previstos por Jonathan Zittrain. Há quase dez anos, o renomado autor
+anteviu que o futuro da internet estaria em risco, pois detentores de poder
+econômico e autoridades com poder de polícia interfeririam cada vez mais no
+modelo aberto, descentralizado e criativo da internet, sob o argumento de
+segurança e controle.26
+62. No que tange à caracterização de infração conta a livre
+concorrência, a doutrina ressalta não ser necessário que reste verificado o efetivo
+prejuízo econômico sofrido por determinado concorrente.27 Atualmente, a noção
+de proteção à livre concorrência aproxima-se da ideia de efeito potencial de
+determinada medida na competição entre particulares.28 Qualquer consideração
+
+26 Jonathan Zittrain. The Future of the Internet -- And How to Stop It. Yale University Press &Penguin UK 2008.27 “Para que seja possível uma real proteção da existência da concorrência é preciso afastar-se dorequisito de existência de prejuízo efetivo (ao concorrente) e aproximar-se da idéia de efeitopotencial. Com efeito, a jurisprudência concorrencial brasileira só conseguiu livrar-se dasinfluências privatísticas quando substituiu no controle das condutas o requisito do prejuízoefetivo pelo efeito potencial”. FILHO, Calixto Salomão. Direito Concorrencial: As Condutas. 1.Ed. São Paulo: Malheiros, 2007, p. 54.28 “ (...) o direito antitruste não se qualifica facilmente quer como direito público quer como direitoprivado, donde, no direito brasileiro, o uso da expressão interesse difuso e, sob a rubrica direitoeconômico, a proteção tanto de direitos chamados individuais homogêneos, quanto individuais strictusensu. (...) O grande passo na direção daquilo que hoje chamamos de direito transindividual e deinteresse difuso ocorre pela percepção de que é a própria interação competitivaentre agentes
+
+27
+
+[[pagina 28 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+acerca da livre concorrência deve levar em conta a pluralidade de subsistemas
+protegidos juridicamente. Nesse sentido é a lição de Ana Frazão:
+“ (...), a livre concorrência não pode ser definida apenas por questões econômicas, mas deve sê-lo igualmente por questões essencialmente jurídicas, como a de possibilitar o equilíbrio entre as liberdades dos diversos agentes econômicos, os consumidores e até mesmo os que estão afastados do mercado, tanto sob a ótica da oferta quanto sob a ótica da demanda, em razão de fatores como a pobreza. Sob essa perspectiva, é indiscutível que até questões como a proteção à pequena empresa e ao pleno emprego podem ganhar relevo.”29
+63. Não há dúvida de que as medidas sancionadoras previstas
+no art. 12, III e IV, da Lei n. 12.965/14, que supostamente seriam aplicadas para
+punir ilegalidades de menor porte, têm efetivo impacto na competição entre
+aplicativos do mesmo setor, sendo certo que tal medida se revela absolutamente
+inconstitucional, vez que o legislador não pode tomar tal medida sem que haja
+violação ao princípio da livre concorrência
+II.F) RESTRIÇÃO INDEVIDA AOS DIREITOS DOS CONSUMIDORES
+64. A última violação à ordem econômica e financeira
+estabelecida pela Constituição diz respeito aos direitos dos consumidores. Dentre
+os diversos princípios já mencionados acima, a defesa do consumidor foi incluída
+pelo constituinte no art. 170, inciso V, da Constituição. Além de princípio
+
+econômicos que deveria ser tomada como o bem protegido”. FERRAZ JR, Tércio Sampaio. AConcorrência como Direito Transindividual na Constituição Federal. In.: CLÈVE, ClèmersonMerlin; FREIRE, Alexandre (Coord.). Direitos Fundamentais e Jurisdição Constitucional. SãoPaulo: Editora Revista dos Tribunais, 2014, pp. 789-790.29 FRAZÃO, Ana. A Necesária Constitucionalização do Direito da Concorrência. In.: CLÈVE,Clèmerson Merlin; FREIRE, Alexandre (Coord.). Direitos Fundamentais e JurisdiçãoConstitucional. São Paulo: Editora Revista dos Tribunais, 2014, p. 154.
+28
+
+[[pagina 29 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+norteador da ordem econômica, a defesa do consumidor está inclusa no rol de
+direitos e garantias fundamentais do art. 5º, precisamente em seu inciso XXXII.
+65. A proteção ao consumidor é baseada em uma constatação
+fática, ou seja, a especial vulnerabilidade do consumidor decorrente do
+desequilíbrio existente na relação de consumo. É interessante notar que, de
+maneira geral, a proteção ao consumidor atua de forma a impedir e sancionar
+condutas abusivas perpetradas por entidades de caráter empresarial, tendo, do
+outro lado, o Estado como um ator garantidor dos direitos consumeristas, por
+meio dos Poderes Judiciário, Executivo ou Legislativo.
+66. De maneira peculiar, considerando-se a aplicação concreta
+dos dispositivos aqui impugnados, é o próprio Estado, no presente caso, que atua
+de forma atentatória à defesa do consumidor. Como já mencionado acima, a
+suspensão, temporária ou definitiva, do funcionamento dos aplicativos de
+mensagens instantâneas é medida que atinge toda a coletividade, não se
+restringindo, pois, ao âmbito das pessoas jurídicas que fornecem tais serviços.
+67. Assim, as sanções previstas na Lei n. 12.965/14, ao permitir
+a suspensão das atividades de comunicação que afetam milhares de brasileiros,
+acabam por causar uma prestação deficiente do serviço colocado à disposição dos
+consumidores, o que também macula de inconstitucionalidade a referida lei. Não
+há dúvida, portanto, que tal medida sancionatória, ao prejudicar
+desproporcionalmente os consumidores, viola a Constituição.
+
+II.G) SANÇÃO QUE VIOLA PRINCÍPIO DA PROPORCIONALIDADE
+68. Por derradeiro, dimensionado o fenômeno relacionado aos
+aplicativos de mensagem instantânea pela internet, percebe-se, à evidência, que
+29
+
+[[pagina 30 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+a supressão total de tais serviços atinge de sobremaneira o direito à comunicação
+de enorme parcela da população brasileira.
+69. A verdade é que a Lei nº 12.965/14 dá margem a medida
+totalmente desproporcional – e, por consequência, inconstitucional –, cuja
+consequência é punir as camadas mais frágeis da relação de consumo: os
+consumidores de baixa renda, que encontraram nos aplicativos gratuitos
+alternativas aos serviços de telecomunicação extremamente caros.
+70. Ora, a suspensão total de ferramenta que garante o exercício
+do direito à própria liberdade de comunicação de milhões de brasileiros, em face
+do descumprimento, por uma empresa específica, de determinações judiciais,
+não se mostra, em nenhuma medida, providência proporcional e adequada.
+71. Ao restringir o direito fundamental de milhares de
+brasileiros, a penalidade de suspensão de serviço de troca de mensagens pela
+internet fere a lógica que deriva do princípio constitucional da
+proporcionalidade.
+72. Tal princípio, tem sua densidade definida por três princípios
+parciais (ou subprincípios): a adequação, a necessidade e a proporcionalidade em
+sentido estrito. No que diz respeito à adequação, segundo leciona J. J. Gomes
+Canotilho, verbis:
+“(...)impõe que a medida adoptada para a realização do interesse público deva ser apropriada à prossecução do fim ou fins a ele subjacentes. Consequentemente, a exigência de conformidade pressupõe a investigação e a prova de que o acto do poder público é apto para e conforme os fins
+
+30
+
+[[pagina 31 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+justificativos de sua adopção [...]. Trata-se, pois, de 30 controlar a relação de adequação medida-fim”
+73. Já o subprincípio da necessidade impede que o Estado adote
+meios mais gravosos do que o necessário. Ou seja, há uma exigibilidade material,
+que impõe que o meio eleito cause a menor desvantagem possível. Além disso, a
+medida adotada também deve atender a uma exigibilidade pessoal, ou seja: é
+limitada à pessoa ou pessoas cujos interesses devem ser sacrificados. No caso
+das penalidades ora questionadas, o que se percebe é que, em razão do
+comportamento de um número reduzido de pessoas, sacrifica-se o direito à
+liberdade de comunicação de quase metade da população do país.
+74. Por fim, por meio do subprincípio da proporcionalidade em
+sentido estrito “meios e fim são colocados em equação mediante um juízo de ponderação,
+com o objetivo de se avaliar se o meio utilizado é ou não desproporcionado em relação ao
+fim. Trata-se, pois, de uma questão de <medida> ou <desmedida> para se alcançar um
+fim: pesar as desvantagens dos meios em relação às vantagens do fim”31. Ou seja, a
+constitucionalidade das medidas restritivas de direitos deve ser verificada a
+partir de uma análise de custo e benefício entre os princípios em colisão.
+75. Analisando as normas questionadas, percebe-se
+claramenteue o objetivo de forçar as empresas de internet a fornecer os dados de
+usuários poderia ser atingido com outras medidas coercitivas menos gravosas,
+como a imposição de multas. De fato, inimaginável que se ordene a suspensão
+do serviço de comunicação telefônica em todo o país, em detrimento de todos os
+consumidores, no caso de determinada empresa descumprir ordem judicial de
+
+30 CANOTILHO, José Joaquim Gomes. Direito Constitucional e Teoria da Constituição. 7ª Ed.Coimbra: Almedina, p. 269.31 CANOTILHO, José Joaquim Gomes. Direito Constitucional e Teoria da Constituição. 7ª Ed.Coimbra: Almedina, p. 270.
+31
+
+[[pagina 32 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+interceptação ou disponibilização de dados. A mesma lógica deve ser aplicada
+aos serviços de comunicação digital que atingem milhares de usuários. É
+necessário guardar o mesmo paralelismo.
+76. Em verdade, este talvez este seja um dos mais emblemáticos
+casos da aplicação do princípio da proporcionalidade, tendo em vista a total falta
+de razoabilidade da sanção, que atinge direitos de terceiros-usuários, que sequer
+são os sujeitos da norma sancionadora. Em outras palavras, como o direito de
+livre comunicação dos usuários é afetado de maneira abrupta sem que se tenha
+qualquer relação com o fato apenado, a medida desproporcional prima facie.
+77. Tem-se, pois, que o art. 12, III e IV, da Lei n. 12.965/14 é um
+nítido caso de violação ao princípio da proporcionalidade, o que acarreta a sua
+inexorável inconstitucionalidade.
+III – TÉCNICAS DE DECLARAÇÃO DE INCONSTITUCIONALIDADE
+III.A) DECLARAÇÃO DE NULIDADE TOTAL DO ART. 12, III E IV, DA LEI N.12.965/14: APLICAÇÃO DA TEORIA DA AMPLITUDE INCONSTITUCIONAL(OVERBREADTH DOCTRINE)
+78. Ao longo da petição, demonstrou-se de maneira exaustiva
+que as sanções previstas no art. 12, III e IV, da Lei n. 12.956/14, quando aplicadas
+aos serviços de mensagens instantâneas pela internet, são inequivocamente
+inconstitucionais. O Marco Civil da Internet, contudo, alcança não apenas
+aplicações de internet tais, sendo possível imaginar algumas aplicações em que a
+norma não seria eivada de inconstitucionalidade, como, por exemplo, no caso de
+suspensão de sítios eletrônicos voltados para o tráfico de drogas.
+
+32
+
+[[pagina 33 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+79. Ocorre que as hipóteses de aplicação inconstitucional da
+norma são tão diretas e emblemáticas que ela merece ser declarada
+absolutamente nula em razão da teoria da amplitude inconstitucional, também
+conhecida como overbreadth doctrine do direito norte-americano. Para
+compreender a importância dessa técnica de decisão no âmbito da jurisdição
+constitucional, revela-se importante ressaltar o contexto de sua criação.
+80. A chamada overbreadth doctrine foi elaborada a partir da
+década de 70 pela Suprema Corte estadunidense como forma de ampliar o escopo
+de proteção de direitos e garantias fundamentais. Em síntese, a Corte aplica tal
+teoria nas hipóteses em que a redação de determinado dispositivo legal
+possibilite uma amplitude tão grande de interpretações que algumas aplicações
+da norma possam atingir com intensidade direitos constitucionalmente
+protegidos, razão pela qual a lei deve ser totalmente retirada do ordenamento
+jurídico.32
+81. Dito de outra forma, a Suprema Corte lança mão de tal
+técnica nos casos em que a amplitude e vagueza de determinado texto normativo
+faz com que a norma seja potencialmente aplicável a situações inconstitucionais,
+razão pela qual ela deve ser extirpada, mormente quando tais disposições legais
+podem gerar uma quantidade incontável de restrições aos direitos individuais,
+notadamente às liberdades individuais.
+
+32 Conforme leciona Decker, “a statute is struck down for ‘overbreadth’ if it ‘does not aimspecifically at the evils within the allowable area of state control but ... sweeps within its ambitother [constitutionally protected] activities...’ That is, if a statute’s language, given its normalmeaning, is so broad that the statute’s sanctions may unnecessarily apply to conduct that the stateis not entitled to regulate, it is overbroad” DECKER, John F. Overbreadth Outside the FirstAmendment. 34 N.M.L. Rev. 53 (2004).
+
+33
+
+[[pagina 34 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+82. No caso Broadrick v. Oklahoma33, a Suprema Corte norte-
+americana definiu as balizas de aplicação da overbreadth doctrine. Na ocasião,
+questionava-se a constitucionalidade de lei estadual que proibia a participação
+de servidores públicos em atividades político-partidárias. Em sua decisão, a
+Corte, embora tenha negado a amplitude inconstitucional da norma impugnada,
+estabeleceu os parâmetros para a aplicação da Overbreadth Doctrine, concluindo,
+que a amplitude apta a tornar inconstitucional determinado texto normativo
+deve ser substancial em relação ao âmbito de aplicação da norma.34 Noutras
+palavras, uma lei somente será considerada inválida em decorrência de sua
+amplitude inconstitucional se um número considerável de suas aplicações
+relevantes for inconstitucional35.
+83. Mais recentemente, a Suprema Corte norte-americana voltou
+a aplicar a overbreadth doctrine no caso United States v. Stevens36. Discutia-se, na
+oportunidade, a constitucionalidade de lei federal que restringiu o comércio de
+produtos em que houvesse a representação de práticas de crueldade com
+animais. A Corte decidiu que, não obstante haver várias situações em que a
+proibição se mostrava razoável, haveria uma infinidade de outras hipóteses em
+que tal limitação à liberdade de expressão seria arbitrária, razão pela qual a lei
+foi declarada inconstitucional.
+
+33 Broadrick v. Oklahoma, 413 U.S. 601 (1973)34 Eis trecho da decisão:“To put the matter another way, particularly where conduct, and notmerely speech, is involved, we believe that the overbreadth of a statute must not only be real, butsubstantial as well, judged in relation to the statute's plainly legitimate sweep.”35 “In the First Amendment context, a law may be invalidated as overbroad if “a ‘substantialnumber’ of its applications are unconstitutional”. Syllabus, United States v. Stevens, 559 U.S. 460(2010). Disponível em: http://www.supremecourt.gov/opinions/09pdf/08-769.pdf36 United States v. Stevens, 559 U.S. 460 (2010).
+34
+
+[[pagina 35 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+84. No que tange à aplicação do art. 12, III e IV, da Lei n.
+12.956/14, muito embora seja possível a partir de um exercício imaginativo
+pensar em aplicações do dispositivo que não violem a Constituição, o fato é que
+o Poder Judiciário em pelo menos três oportunidades já interpretou tal
+dispositivo de maneira absolutamente inconstitucional e a verdade é que
+aparentemente se revela muito mais fácil imaginar outras hipóteses de aplicação
+inconstitucional do que o inverso. Dessa maneira, tendo em vista a amplitude de
+aplicações inconstitucionais da norma, não há razões para mantê-la no
+ordenamento jurídico sob o fundamento de que eventualmente haveria hipótese
+em que sua interpretação se revelaria compatível com o parâmetro
+constitucional.
+85. Uma última observação: ao se requerer a
+inconstitucionalidade deste dispositivo do Marco Civil da Internet, não se está
+proibindo a suspensão de serviços que tenham como finalidade a prática de
+ilícitos, até porque o art. 12 autoriza a suspensão das atividades apenas nas
+hipóteses de descumprimento de ordem judicial de quebra de sigilo de
+informações.
+86. Para os casos de cometimento de ilícitos, há normas no
+ordenamento jurídico brasileiro que autorizam a punição de agentes, virtuais ou
+não, tendo como sanção, inclusive, a suspensão de suas atividades econômicas.
+87. Assim, com a declaração e inconstitucionalidade do art. 12,
+III e IV, do Marco Civil da Internet, tanto suspensão temporária como a proibição
+definitiva de atividades ilícitas continuarão sendo regidas por normas penais,
+administrativas e cíveis em geral.
+
+35
+
+[[pagina 36 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+III.B) DECLARAÇÃO DE NULIDADE PARCIAL SEM REDUÇÃO DE TEXTO
+88. Caso esse Pretório Excelso entenda não ser o caso de
+declaração de inconstitucionalidade total do art. 12, III e IV, da Lei art. 12, III e
+IV, da Lei n. 12.956/14, o que se admite apenas ad argumentandum tantum, requer-
+se a adoção de técnica de decisão que compatibilize os princípios constitucionais
+envolvidos, de maneira a excluir a aplicação das referidas sanções aos serviços
+de mensagens instantâneas pela internet.
+89. Com efeito, é possível que esta Corte verifique que, em razão
+da amplitude de aplicação da norma atacada, existam interpretações
+constitucionais que mereçam ser preservadas. Assim, em virtude das
+consequências atinentes à declaração de inconstitucionalidade total, é possível
+que este Supremo Tribunal Federal julgue ser mais adequada a utilização de
+outros métodos de decisão, como, por exemplo, a declaração de nulidade parcial
+sem redução de texto e a interpretação conforme à Constituição.
+90. Embora haja certa confusão na delimitação de tais figuras
+jurídicas, a própria Lei nº. 9.868/1999 é clara ao diferenciar as duas figuras em
+seu art. 28, parágrafo único, precisamente ao estabelecer que a interpretação
+conforme à Constituição e a declaração parcial de inconstitucionalidade sem
+redução de texto têm eficácia erga omnes.
+91. Nesse sentido, é o que leciona, por exemplo, o Ministro
+Gilmar Mendes em sua obra dedicada ao controle concentrado de
+constitucionalidade:
+“Ainda que se não possa negar a semelhança dessas categorias e a proximidade do resultado prático de sua
+
+36
+
+[[pagina 37 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+utilização, é certo que, enquanto na interpretação conforme à Constituição se tem, dogmaticamente, a declaração de que uma lei é constitucional com a interpretação que lhe é conferida pelo órgão judicial, constata-se, na declaração de nulidade sem redução de texto, a expressão exclusão, por inconstitucionalidade, de determinadas hipóteses de aplicação (Anwendungsfälle) do programa normativo sem que se produza alteração expressa do texto legal.”37
+92. Em suma, a declaração de inconstitucionalidade parcial sem
+redução de texto resulta na redução do âmbito de aplicação da norma, vez que
+esta deixará de ser aplicada em determinadas hipóteses fáticas. Por outro lado,
+ao se aplicar a técnica de interpretação conforme à Constituição, define-se a
+intepretação que deverá ser conferida ao texto legal. Nesse caso, o ato normativo
+impugnado continuará válido, mas somente poderá ser atribuída a ele a
+intepretação dada pelo órgão julgador.
+93. Na presente hipótese, a declaração de nulidade parcial sem
+redução de texto, caso não se entenda pela declaração de inconstitucionalidade
+total, é a medida mais apropriada para retirar do alcance das sanções em questão
+as hipóteses fáticas que envolvam aplicativos de mensagens instantâneas, tendo
+em vista que a aplicação da norma em tais casos viola de forma expressiva
+princípios e direitos protegidos pelo texto constitucional.
+94. Por derradeiro, na remota hipótese de não se adotar nem a
+técnica da nulidade total nem a de declaração de nulidade parcial sem redução
+de texto, requer-se que, ao menos seja dado ao dispositivo questionado
+interpretação conforme a Constituição. Isso porque, como resultado da
+proporcionalidade e da razoabilidade que deve guiar as restrições de direitos,
+
+37 MENDES, Gilmar Ferreira. Controle Abstrato de Constitucionalidade: ADI, ADC e ADO –Comentários à Lei n. 9.868/99. São Paulo: Saraiva, 2012, p. 529.
+37
+
+[[pagina 38 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+impõem-se que seja dada intepretação conforme à Constituição para que as
+sanções previstas no art. 12, incisos III e IV, da Lei 12. 965/2014 somente sejam
+aplicadas após o esgotamento das sanções menos gravosas dispostas nos incisos
+I e II do referido artigo. Tal interpretação justifica-se justamente pelo fato de que
+o caput do art. 1238 permite a aplicação de forma isolada ou cumulativa das
+sanções elencadas em seus incisos, não exigindo, portanto, qualquer
+progressividade na sujeição às penalidades em questão.39
+95. Parece ser claro, contudo, que a penalidade drástica de
+suspensão das atividades de aplicações de internet que permitem a troca de
+mensagens instantâneas pela web não possa ser aplicada antes de serem tomadas
+as medidas mais abrangentes referidas no art. 12, I e II, da mesma lei,
+96. Em conclusão, requer-se, primeiramente, a declaração de
+nulidade parcial sem redução de texto do art. 12, incisos III e IV, da Lei 12. 965,
+de 23 de abril de 2014, de forma que se inviabilize a aplicação das sanções
+elencadas em tais dispositivos aos aplicativos de troca de mensagens
+instantâneas pela internet. Subsidiariamente, pugna o Autor pela adoção da
+técnica da interpretação conforme à Constituição dos já mencionados
+dispositivos legais, condicionando-se, em consequência, a aplicação destes
+somente após frustradas as medidas previstas nos incisos I e II do artigo 12.
+
+38 Art. 12. Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações àsnormas previstas nos arts. 10 e 11 ficam sujeitas, conforme o caso, às seguintes sanções, aplicadasde forma isolada ou cumulativa:39 I - advertência, com indicação de prazo para adoção de medidas corretivas; II - multa de até10% (dez por cento) do faturamento do grupo econômico no Brasil no seu último exercício,excluídos os tributos, considerados a condição econômica do infrator e o princípio daproporcionalidade entre a gravidade da falta e a intensidade da sanção; III - suspensãotemporária das atividades que envolvam os atos previstos no art. 11; ou IV - proibição deexercício das atividades que envolvam os atos previstos no art. 11.
+
+38
+
+[[pagina 39 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+
+IV – DA NECESSIDADE DE CONCESSÃO DE MEDIDA CAUTELAR
+97. A Lei n. 9.868/99, em seu art. 10, autoriza que seja concedida
+medida liminar em Ação Direta de Inconstitucionalidade para suspender a
+eficácia da norma impugnada quando estiverem presentes os requisitos
+autorizadores da cautelar, quais sejam, o periculum in mora e o fumus boni iures.
+98. No caso presente, não há dúvida quanto à presença de
+ambos os requisitos. O perigo de dano irreparável deflui da possibilidade de que
+novas decisões judiciais fundadas nos dispositivos legais em comento sejam
+proferidas, causando a suspensão de serviços de comunicação amplamente
+utilizados pela população brasileira. Ou seja, a manutenção da eficácia normativa
+de tal dispositivo gera graves riscos de que haja novos bloqueios à internet.Já a
+verossimilhança do direito alegado é evidente, visto a absoluta
+desproporcionalidade entre a sanção de suspensão dos serviços virtuais de troca
+de mensagens e o objetivo que se pretende alcançar com a norma.
+V – DOS PEDIDOS
+Ante o exposto, o Partido da República (PR), exercendo seu
+dever cívico de suscitar questões com o fito de tutelar a ordem constitucional
+objetiva, requer:
+a) A concessão de medida cautelar para suspender a vigência dos incisos III e IV do art. 12 da Lei n. 12.965, de 23 de abril de 2014, até o julgamento definitivo do mérito da presente Ação Direta de Inconstitucionalidade;
+b) No mérito, a declaração da inconstitucionalidade dos incisos III e IV do art. 12 da Lei n. 12.965/14, bem como a interpretação conforme do art. 10, §2º, a fim de que seja limitado o seu alcance aos casos de persecução criminal;
+
+39
+
+[[pagina 40 | nativo]]
+
+JORGE GALVÃO ADVOGADO OAB/DF 23.437
+c) Subsidiariamente, requer-se a adoção da técnica de declaração de nulidade parcial sem redução de texto do art. 12, III e IV, da Lei nº. 12.965/14, de forma a afastar a sua aplicação aos aplicativos de troca de mensagens virtual; ou, por último, que se dê interpretação conforme a tais dispositivos, condicionando-se, em consequência, a aplicação das sanções de suspensão temporária e de proibição do exercício das atividades somente após as sanções previstas no art. 12, I e II, mostrarem-se frustradas.
+P. deferimento.
+Brasília, 13 de maio de 2016.
+
+JORGE OCTÁVIO LAVOCAT GALVÃO TICIANO FIGUEIREDOOAB/DF n. 23.437 OAB/DF n. 23.870
+PEDRO IVO VELLOSO CORDEIRO OAB/DF n. 23.944
+
+40

@@ -1,0 +1,1059 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO E. SUPREMO TRIBUNAL FEDERAL
+
+Distribuição por prevenção ao Min. Gilmar
+Mendes (ADI 3424 e ADPF 312), conforme arts.
+38, inc. II, 69, caput e 77-B do RISTF
+
+ASSOCIAÇÃO BRASILEIRA DE PRIVATE EQUITY E VENTURE CAPITAL (“ABVCAP”),
+inscrita no CNPJ sob o nº. 03.990.636/0001-16, com sede na Rua Pequetita, nº. 145, 8º andar,
+conjunto 81, CEP 04552-907, Vila Olímpia, na Cidade e Estado de São Paulo, por seus
+advogados devidamente constituídos (Docs. 01, 12 e 13), com fundamento no art. 102, inciso
+I, “a” e no art. 103, inciso IX, da Constituição Federal, e na forma da Lei nº 9.868/99, vem a
+V.Exa., muito respeitosamente, ajuizar a presente
+
+AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+(com pedido de medida cautelar)
+
+da norma prevista no § 3º do art. 50 da Lei 11.101/2005, a Lei de Recuperação Judicial,
+Extrajudicial e Falência (“LRF”), incluída pela Lei 14.112/2020, a qual estabelece que “não haverá
+sucessão ou responsabilidade por dívidas de qualquer natureza a terceiro credor, investidor ou
+novo administrador em decorrência, respectivamente, da mera conversão de dívida em capital,
+de aporte de novos recursos na devedora ou de substituição dos administradores desta”,
+conforme razões que passa a expor.
+
+1
+
+[[pagina 2 | nativo]]
+
+SUMÁRIO
+
+I. NECESSÁRIA DISTRIBUIÇÃO POR PREVENÇÃO ............................................................................. 3
+
+II. REQUISITOS FORMAIS: OBJETO DESTA ADC, LEGITIMIDADE ATIVA DA ABVCAP E
+PERTINÊNCIA TEMÁTICA ....................................................................................................................................... 4
+
+III. CONTEXTO FÁTICO E NORMATIVO: a ATUAÇÃO DOS FUNDOS DE INVESTIMENTO EM
+PRIVATE EQUITY E SUA DISCIPLINA PELA CVM ........................................................................................... 8
+
+IV. COMPROVADA CONTROVÉRSIA JUDICIAL QUANTO À CONSTITUCIONALIDADE DO
+ART. 50, § 3°, DA LRF ............................................................................................................................................ 14
+
+V. A CONSTITUCIONALIDADE DO § 3º DO ART. 50 DA LRF ....................................................... 20
+
+VI. MEDIDA CAUTELAR IMPRESCINDÍVEL ........................................................................................... 24
+
+VII. CONCLUSÃO E REQUERIMENTOS ................................................................................................... 25
+
+2
+
+[[pagina 3 | nativo]]
+
+I. NECESSÁRIA DISTRIBUIÇÃO POR PREVENÇÃO
+
+Em abril de 2021, esse e. STF julgou a ADI 3424 e a ADPF 312 e, ao fazê-lo, declarou
+a constitucionalidade de dispositivos da Lei 11.101/2005, tal como alterados pela Lei
+14.112/2020, que instituem a natureza extraconcursal de créditos decorrentes de contratos de
+câmbio, com prevalência, inclusive, sobre créditos trabalhistas.1
+
+No julgamento, o Min. Gilmar Mendes abriu divergência do Relator sorteado (Min.
+Edson Fachin) e, em razão disso, foi designado Relator para Acórdão. Nessas hipóteses, a
+Presidência desse e. STF já determinou que a prevenção deve ser fixada em favor do Relator
+designado para acórdão, que substitui o Relator sorteado para todos os efeitos, conforme art.
+38, inc. II, do RISTF.2-3
+
+Considerando que a causa de pedir desta ADC, da ADI 3424 e da ADPF 312 é a
+mesma – i.e., a (in)constitucionalidade de dispositivos da Lei 14.112/2020 que limitam e
+regulam a satisfação de créditos em processos concursais –, este feito também deve ser
+distribuído ao Exmo. Min. Gilmar Mendes, por prevenção estabelecida pelo art. 69, caput, do
+RISTF.4
+
+Cabe ressaltar que, em se tratando de ação de controle concentrado, o art. 77-B
+do RISTF5 determina a distribuição por prevenção sempre que houver “coincidência total ou
+
+1 Nessas ações, esse e. STF fixou o entendimento de que a extraconcursalidade de créditos de contratos de
+câmbio tem como objetivo “[...] integra[r] uma política macroeconômica, destinada a estimular a atividade
+produtiva, comercial e exportadora do país, gerando circulação de mercadorias e riquezas que terminam por
+incentivar a atividade econômica e a geração de tributos e empregos diretos e indiretos” (p. 19).
+2 A esse respeito, a decisão proferida pelo Min. Luiz Fux, em resposta a consulta formulada pela Coordenadoria
+de Processamento Inicial desse e. STF: “[...] uma vez presente conexão entre vários feitos, distribuídos a relatores
+diversos no âmbito desta Suprema Corte, deve ser adotado critério único e estável, apto a garantir segurança
+jurídica, evitar decisões contraditórias e, simultaneamente, a inviabilizar tentativas de direcionamento
+da distribuição mediante múltiplas impetrações. [...] O primeiro feito a tramitar nesta Corte, conexo ao
+presente writ, foi o HC 147.866, no qual o Ministro Roberto Barroso foi designado redator para o acórdão que não
+conheceu da impetração e revogou a liminar anteriormente concedida. Diante da substituição de relatoria
+(art. 38, II, do RISTF), deve, por conseguinte, ser o presente writ distribuído a Sua Excelência” (HC 194.046,
+j. 16.11.2020).
+3 RISTF. Art. 38. O Relator é substituído: [...] II – pelo Ministro designado para lavrar o acórdão, quando vencido
+no julgamento.
+4 RISTF. Art. 69. A distribuição da ação ou do recurso gera prevenção para todos os processos a eles vinculados
+por conexão ou continência.
+5 Art. 77-B. Na ação direta de inconstitucionalidade, na ação direta de inconstitucionalidade por omissão, na ação
+declaratória de constitucionalidade e na arguição de descumprimento de preceito fundamental, aplica-se a
+regra de distribuição por prevenção quando haja coincidência total ou parcial de objetos.
+
+3
+
+[[pagina 4 | nativo]]
+
+parcial de objetos”. Nesse sentido, e.g., já se determinou a redistribuição da ADPF 1128, que
+tinha por objeto a Emenda 57/2020 à Lei Orgânica de Belford Roxo/RJ, por dependência à
+ADPF 1119, que tratava da Emenda 60/2020 à mesma lei, ambas tratando de mandato dos
+membros da Mesa Diretora da Câmara Municipal6. Determinou-se, também, a redistribuição
+da ADI 5772, que impugnava tanto a EC 96/2017 (derivada da PEC da Vaquejada) como
+dispositivos das Leis 13.364/2016 e 10.220/2001, por prevenção à ADI 5728, que impugnava
+apenas a EC 96/20177.
+
+O requisito da coincidência de objetos, ademais, vem sendo interpretado por esse
+e. STF mais finalística que literalmente, para abarcar situações em que haja “importante grau
+de afinidade entre os temas em discussão”8 ou “risco concreto de decisões conflitantes”9.
+Assim, por exemplo, determinou-se a distribuição da ADI 7688 (emendas pix) por dependência
+à ADPF 854 (orçamento secreto). O mesmo se deu com a ADPF 1187, que impugnava o Edital
+de Concorrência Pública Internacional 01/2024 – Sergipe (concessão de saneamento),
+distribuída por dependência à ADI 7705, que tinha por objeto a Lei Complementar 398/2023
+– Sergipe (instituidora de microrregião de saneamento).
+
+Demonstrada, portanto, a necessidade de distribuição desta ADC por dependência
+à ADI 3424 e à ADPF 312, visto tratarem, todas, de instrumentos introduzidos pela Lei
+14.122/2020 na LRF para regular a satisfação de créditos sujeitos a concurso de credores e
+fomentar a recuperação de empresas no Brasil, com impactos relevantes e controvertidos
+sobre o pagamento de verbas trabalhistas.
+
+II. REQUISITOS FORMAIS: OBJETO DESTA ADC, LEGITIMIDADE ATIVA DA
+ABVCAP E PERTINÊNCIA TEMÁTICA
+
+Objeto. A despeito da previsão expressa contida no art. 50, § 3°, da LRF quanto à
+ausência de responsabilidade do investidor por dívidas da empresa em recuperação judicial
+ou extrajudicial, há reiteradas decisões judiciais, sobretudo em processos trabalhistas que
+negam a constitucionalidade (ainda que indiretamente) do referido dispositivo legal e, com
+isso, responsabilizam investidores ou novos administradores por dívidas de terceiros
+investidos.
+
+6 ADPF 1128/RJ, decisão do Min. Presidente Luís Roberto Barroso, 08.05.2024.
+7 ADI 5772/DF, decisão da Min. Presidente Rosa Weber, 14.05.2023.
+8 ADPF 1187/SE, decisão do Min. Presidente Luís Roberto Barroso, 24.06.2025.
+9 ADI 7688/DF, decisão do Min. Presidente Luís Roberto Barroso, 30.07.2024.
+
+4
+
+[[pagina 5 | nativo]]
+
+Tais decisões não apenas negam vigência ao art. 50, § 3°, da LRF, como também
+implicam contrariedade aos princípios da segurança jurídica e da proteção da confiança
+legítima, necessários para atuação segura da indústria de fundos de investimentos, que auxilia
+a estruturação da economia nacional ao investir e fomentar o soerguimento de empresas em
+situações de stress financeiro.
+
+Diante desse cenário de insegurança jurídica e descabida negativa de aplicação de
+dispositivo legal expresso, a ABVCAP propõe a presente ADC com o objetivo de assegurar a
+presunção de constitucionalidade do art. 50, § 3°, da LRF, conferindo-lhe interpretação
+uniforme e obrigatória a todos os órgãos do Judiciário. Dessa forma, a presente ação busca:
+
+(i) corroborar a constitucionalidade do art. 50, § 3°, da LRF e sua compatibilidade com
+os princípios constitucionais da segurança jurídica, da livre iniciativa e da liberdade
+econômica;
+
+(ii) impedir interpretações divergentes que comprometam a previsibilidade e a
+estabilidade das relações jurídicas no âmbito da recuperação de empresas, judicial
+e extrajudicial; e
+
+(iii) evitar a responsabilização indevida de veículos de investimento, prestadores de
+serviço qualificados, investidores, credores ou novos administradores por passivos
+anteriores à sua entrada na empresa em recuperação judicial e extrajudicial, em
+especial - mas não apenas - quando não há indício de fraude ou de abuso da
+personalidade jurídica.
+
+Legitimidade ativa e pertinência temática. A ABVCAP é renomada associação
+sem fins lucrativos, fundada em 2000, que se dedica a desenvolver e fomentar investimentos
+alternativos de longo prazo no Brasil, nas modalidades de private equity, venture e seed capital
+(Doc. 01).
+
+Há mais de 250 associados à ABVCAP, que reúne gestores (longevos e iniciantes),
+investidores e prestadores de serviços de fundos de investimento, todos ligados à indústria de
+private equity, cujo pilar principal de atuação é justamente a influência direta da investidora
+na investida, visando à geração de valor da atividade empresarial. Por isso, a ABVCAP reúne
+todos os prestadores de serviços da indústria de private equity, de modo que não há risco
+de representação fracionada dos interesses de tal categoria.
+
+5
+
+[[pagina 6 | nativo]]
+
+Além disso, embora as entidades atuantes em fundos de investimentos estejam
+centradas, majoritariamente, nas cidades de São Paulo e Rio de Janeiro – respectivamente, as
+sedes da B3 – Brasil, Bolsa, Balcão e da Comissão de Valores Mobiliários (“CVM”) –, os
+investimentos e aportes por eles geridos e administrados se estendem por muito mais que
+nove estados da federação.
+
+Veja-se, abaixo, o impacto econômico dos investimentos em private equity das
+associadas da ABVCAP, segmentados em diferentes setores da economia:
+
+ Alimentação: Vinci Compass adquiriu a Bloomin’ Brands (proprietária dos
+restaurantes Outback, Abraccio e Aussie) e, com isso, passou a controlar unidades
+em todos os estados da federação.10
+
+ Educação: Advent e BTG Pactual controlam a Inspira Rede de Educadores, com
+atuação em mais de 18 estados.11
+
+ Energia: Pátria, proprietária da Élis Energia, atua há anos com usinas fotovoltaicas
+para geração de energia solar nos estados de Mato Grosso do Sul, Mato Grosso,
+São Paulo, Goiás, Minas Gerais, Bahia, Pernambuco, Ceará, Piauí e Distrito
+Federal.12 Além disso, em maio de 2025, Pátria, também por meio do fundo
+proprietário da Élis Energia, obteve autorização do CADE para adquirir mais de 29
+usinas de geração de energia de solar da Raízen Energia.13
+
+ Saúde: BTG Pactual é proprietário da Opy Health, que administra hospitais
+públicos e privados nos estados de Minas Gerais, Amazonas, Tocantins e Goiás.14
+
+ Varejo: Kinea capitalizou a Cobasi, que atua no varejo de produtos para pets,
+contendo 110 lojas espalhadas por 11 estados brasileiros.15
+
+10 Disponível em: https://www.ccbc.org.br/publicacoes/artigos-ccbc/vinci-partners-se-associa-a-bloomins-
+brands-para-dar-seguimento-a-expansao-das-marcas-outback-steakhouse-abbraccio-e-aussie-no-brasil/
+11 Disponível em: https://valor.globo.com/empresas/noticia/2024/10/04/inspira-voltara-as-grandes-aquisicoes-
+em-2025.ghtml e https://www.redeinspiraeducadores.com.br/nossas-escolas/
+12 Disponível em: https://eixos.com.br/energia-eletrica/elis-energia-do-patria-quer-triplicar-usinas-solares-
+mirando-energia-por-assinatura/
+13 Disponível em: https://istoedinheiro.com.br/superintendencia-do-cade-aprova-operacao-entre-patria-
+infraestrutura-energia-e-raizen-energia
+14 Disponível em: https://opyhealth.com.br/ e https://exame.com/insight/capitalizada-opy-health-entra-em-
+nova-fase-e-mira-hospitais-privados/p
+15 Disponível em: https://www.kinea.com.br/fundos/private-equity/
+
+6
+
+[[pagina 7 | nativo]]
+
+Esses são apenas alguns exemplos dos investimentos de abrangência nacional das
+associadas da ABVCAP, que reúne mais de 250 investidores e prestados de serviços aptos a
+capitalizar negócios pelo Brasil todo, por meio de investimentos em private equity e venture
+capital.
+
+Por isso, está mais que atendido o requisito da representatividade em âmbito
+nacional, que esse e. STF entende se caracterizar pela presença da associação em nove estados
+da federação, por aplicação analógica da Lei dos Partidos Políticos.16
+
+Entender de modo contrário seria negar acesso à justiça às entidades atuantes na
+indústria de fundo de investimentos, pois não há gestoras ou administradoras situadas em
+mais de nove estados da federação, dado que elas estão sediadas em locais próximos às mais
+relevantes entidades do mercado de capitais (B3 e CVM), bem como às sedes das principais
+instituições financeiras e de capitais do país.
+
+Com relação à exigida pertinência temática, o art. 4º, inc. I, do seu Estatuto Social,
+prevê que a ABVCAP tem por objeto social “defender os interesses coletivos dos Associados
+perante a sociedade e a indústria no Brasil de investimentos alternativos, inclusive mas não se
+limitando a investimentos nos mercados de venture capital, private equity, crédito privado, real
+estate, recursos naturais, infraestrutura e special situations, dedicando-se especialmente à
+promoção da indústria em benefício dos Associados Gestores e da economia nacional como um
+todo” (Doc. 01, pg. 1).
+
+Ainda, de acordo com os inc. II e XV do art. 4º de seu Estatuto Social, a ABVCAP
+objetiva “cooperar com entes integrantes da administração pública e instituições privadas,
+nacionais ou estrangeiras, de forma técnica e/ou consultivamente, no estudo e solução de
+questões relacionadas com as atividades desenvolvidas por seus Associados” e “promover a
+educação de diferentes atores da indústria buscando a disseminação de conhecimento e
+compreensão acerca das diversas classes de investimentos alternativos”.
+
+Nesse sentido, resta evidenciada, ainda, a estrita vinculação entre os objetivos
+institucionais da ABVCAP e o objeto desta ADC — que se volta contra ato normativo que
+interfere diretamente na segurança jurídica dos agentes de mercado da indústria nacional e,
+
+16 “A legitimidade pressupõe, ainda, o atendimento de um requisito espacial, qual seja, a representatividade em
+âmbito nacional, na esteira da jurisprudência desta Corte, e por analogia à Lei dos Partidos Políticos, quando a
+entidade congrega associados, de quadro homogêneo, em 9 (nove) Estados da Federação” (STF, ADI 7015/DF,
+Plenário, Min. Gilmar Mendes, j. 2/12/2022.
+
+7
+
+[[pagina 8 | nativo]]
+
+portanto, nos termos do art. 103, inc. IX, da Constituição Federal e do art. 2º, inciso IX da Lei
+nº 9.868/1999, é inequívoca a legitimidade da ABVCAP para propositura desta demanda.
+
+III. CONTEXTO FÁTICO E NORMATIVO: A ATUAÇÃO DOS FUNDOS DE
+INVESTIMENTO EM PRIVATE EQUITY E SUA DISCIPLINA PELA CVM
+
+Antes de passar às razões que justificam a declaração de constitucionalidade do
+art. 50, §3º, da LRF, a ABVCAP pede licença para expor brevemente o contexto fático e
+normativo da atuação de fundos de investimento no Brasil – em especial, de fundos que
+investem em private equity, considerando que se trata de tema poucas vezes trazido à atenção
+desse e. Tribunal.
+
+É comum que empreendedores desenvolvam produtos e ideias que necessitem de
+substancial investimento em suas etapas iniciais. Porém, a maioria desses empreendedores
+não dispõe de fundos suficientes para financiar seus projetos, o que os leva a procurar por
+fontes externas de capital, usualmente por meio da contratação de empréstimos em
+instituições bancárias.17
+
+No Brasil, a partir da segunda metade do século XX, os fundos de investimentos
+assumiram papel relevante no direcionamento e alocação de capital ocioso em favor de
+atividades produtivas, apresentando-se como salutar alternativa ao financiamento bancário18-
+19.
+
+O contínuo crescimento dessa indústria na mobilização e realocação de recursos
+reflete seu papel no fortalecimento do mercado de capitais nacional, bem como no impulso
+do desenvolvimento econômico e na ampliação de oportunidades de trabalho e renda.
+
+Dentre as diversas modalidades de fundos de investimento, estão aqueles
+destinados à aquisição de participação social (equity ou títulos e valores mobiliários
+conversíveis em equity) em empresas de capital fechado (isto é, cujas ações não são
+
+17 ROSMAN, Luiz Alberto Colonna; FERNANDES, Pedro Whers do Vale. Financiamento da Companhia e
+Estrutura de Capital, in Finanças Corporativas (coord. Sérgio Brotel e Henrique Barbosa), Rio de Janeiro:
+Forense, 2016, pgs. 233/236.
+18 SPANGLER, Timothy, The Law of Private Investment Funds, 3ª ed., Londres: Oxford University Press, 2018, pgs.
+1/2.
+19 Sobre a rentabilidade dos bancos brasileiros, em comparação à média mundial, confira-se:
+https://economia.uol.com.br/noticias/redacao/2022/04/30/por-que-bancos-brasileiros-estao-entre-os-mais-
+rentaveis-do-mundo.htm
+
+8
+
+[[pagina 9 | nativo]]
+
+negociadas em bolsa – private companies – daí, “private equity”). Além da compra de ações, o
+investidor também pode adquirir o equity por meio de títulos conversíveis ou permutáveis em
+participação societária, a exemplo de debêntures conversíveis em ações (art. 57 da Lei
+6.404/1976). Em linhas gerais, essa compra se dá com o objetivo de o investidor, por meio de
+prestadores de serviço qualificados por ele contratados, exercer ingerência na gestão
+empresarial da investida, aumentar o valor de mercado do ativo investido e, após a maturação
+do investimento, alienar sua participação social, com retorno do capital investido20.
+
+Desde a sua origem, o private equity21 está relacionado ao financiamento de
+operações de alto risco, mas com potencial de retorno bastante elevado22. No Brasil, os fundos
+de private equity são comumente estruturados como fundos de investimento em participações
+(“FIP”) e disciplinados, sobretudo, pela Resolução CVM 175/2022 da Comissão de Valores
+Mobiliários (“CVM”).
+
+Diante do alto risco, tais investimentos são restritos a investidores qualificados,
+assim entendidos: (a) investidores profissionais23, (b) pessoas físicas ou jurídicas com
+investimentos financeiros superiores a R$ 1 milhão, e (c) pessoas naturais que tenham sido
+aprovadas em exames de qualificação técnica ou possuam certificações aprovadas pela CVM,
+e (d) clubes de investimento, nos termos dos arts. 11 e 12 da Resolução CVM 30/2021 –
+
+20 SILVA, Raphael Andrade. Fundos de Venture Capital e Private Equity no Brasil. São Paulo: Quartier Latin,
+2022, pgs. 47/50.
+21 Zelando pela precisão terminológica, private equity é gênero, que engloba as seguintes modalidades de
+investimento: (a) seed capital (capital semente), voltado a empresas de pequeno porte ou pré-operacionais,
+geralmente com viés tecnológico; (b) venture capital (capital empreendedor), relacionado a micro, pequenas e
+médias empresas novas, já operacionais e com grande potencial de crescimento estimado; e (c) private equity
+em sentido estrito, destinado a empresas de grande porte, já consolidadas, cuja operação comporta melhorias,
+potencialmente aptas a gerar valor e aumentar a rentabilidade.
+22 A expressão “capital de risco” é tida como equivalente a private equity “porque a probabilidade de que se perca
+na integralidade até que a empresa seja ou tenha uma operação viável é muito, muito elevada” (BANDEIRA,
+Paulo. “Governance em startups: equilíbrios societários entre fundadores e investidores”, in Acionistas e
+governação das sociedades (coord. CÂMARA, Paulo), Coimbra: Almedina, 2019, pg. 257).
+23 Conforme art. 11 da Resolução CVM 30/2021: “São considerados investidores profissionais: I – instituições
+financeiras e demais instituições autorizadas a funcionar pelo Banco Central do Brasil; II – companhias
+seguradoras e sociedades de capitalização; III – entidades abertas e fechadas de previdência complementar; IV
+– pessoas naturais ou jurídicas que possuam investimentos financeiros em valor superior a R$ 10.000.000,00
+(dez milhões de reais) e que, adicionalmente, atestem por escrito sua condição de investidor profissional
+mediante termo próprio, de acordo com o Anexo A; V – fundos de investimento; VI – clubes de investimento,
+desde que tenham a carteira gerida por administrador de carteira de valores mobiliários autorizado pela CVM;
+VII – assessores de investimento, administradores de carteira de valores mobiliários, analistas de valores
+mobiliários e consultores de valores mobiliários autorizados pela CVM, em relação a seus recursos próprios; e
+VIII – investidores não residentes; IX – fundos patrimoniais”.
+
+9
+
+[[pagina 10 | nativo]]
+
+plenamente capazes, portanto, de aferir e sopesar os riscos envolvidos no investimento (art.
+4º do Anexo IV da Resolução CVM 175/2022).
+
+Esses investidores qualificados, então, contratam prestadores de serviço para
+assessorá-los na efetivação do investimento na empresa em situação de insuficiência
+econômica, uma vez que “[o] funcionamento do fundo de investimento se materializa por meio
+da atuação dos prestadores de serviços essenciais e terceiros por eles contratados, por escrito,
+em nome do fundo” (art. 80, caput, da Resolução CVM 175/2022).
+
+Há duas modalidades essenciais de prestadores de serviço: o administrador e o
+gestor (art. 3º, inc. XXX, da Resolução CVM 175/2022).
+
+Em síntese, o administrador tem como função representar o fundo em todos os
+seus atos jurídicos, sobretudo a contratação de outros prestadores de serviço, além de
+assegurar a realização de todos os atos de tesouraria, controle e processamento de ativos;
+escrituração e cotas e auditoria independente (art. 83 da Resolução CVM 175/2022). Por outro
+lado, a função do gestor é praticar todos os atos necessários à gestão da carteira de ativos, de
+modo que, em regra, cabe ao gestor escolher em quais ativos, e por quanto tempo, o dinheiro
+alocado no fundo será investido (art. 84 da Resolução CVM 175/2022).
+
+De todo modo, os prestadores de serviços (gestores e administradores, que são
+ora representados pela ABVCAP) não se confundem com os investidores (cotistas), de modo
+que não detém nenhum equity nas empresas investidas.
+
+Como já apontado, os veículos de investimento em private equity, no Brasil, são
+organizados como FIP e, portanto, regidos pelo Anexo Normativo IV da Resolução CVM
+175/2022. Nos FIPs, as classes de cotas devem ser constituídas em regime fechado – ou seja,
+não podem ser negociadas em bolsa – e, pela própria natureza do FIP, “[a] classe de cotas deve
+participar do processo decisório de suas sociedades investidas, com efetiva influência na
+definição de sua política estratégica e na sua gestão [...]” (art. 5º, §1º, do Anexo Normativo
+IV da Resolução CVM 175/2022).
+
+Essa “efetiva influência” pode ser alcançada mediante: (a) detenção de ações que
+integrem o bloco de controle, o que possibilita ao fundo pertencer ao grupo capaz de obter
+a maioria dos votos nas deliberações da assembleia-geral e o poder de eleger a maioria dos
+administradores da companhia (art. 116 da Lei 6.404/1976); (b) celebração de acordo de
+acionistas (art. 118 da Lei 6.404/1976); ou (c) adoção de qualquer procedimento que assegure
+
+10
+
+[[pagina 11 | nativo]]
+
+ao fundo influência na definição da política estratégica da companhia, inclusive por meio da
+indicação de membros do conselho de administração, conforme art. 6º do Anexo
+Normativo IV da Resolução CVM 175/2022.
+
+Nada disso é sem motivo. Desde o estabelecimento do primeiro fundo de venture
+capital (American Research and Development – ARD), encabeçado por Georges F. Doriot, os
+investimentos de private equity visam a incrementar valor às sociedades investidas, não apenas
+financiá-las sob um aspecto puramente pecuniário.24
+
+O FIP, assim, é obrigado a aportar smart money, ou seja, trazendo não apenas
+recursos financeiros, mas também expertise apta a criar valor. Como explica Raphael Andrade
+Silva, “cada fundo de VC/PE possui sua própria estratégia de engajamento com suas sociedades
+investidas, dotadas de características e traços específicos”; não obstante, os dados revelam que
+a estratégia preferencial é “a melhoria das margens por meio da utilização de uma combinação
+de aumento nas vendas e diminuição das despesas”, com foco em “acesso a novos mercados,
+introdução de novos produtos e melhoria na efetividade da força de venda”25.
+
+Essas estratégias funcionam. Segundo estudo conduzido entre janeiro de 2004 e
+junho de 2008, em que foram analisadas 108 aberturas de capital de empresas brasileiras,
+incluindo 42 investidas por fundos de private equity, constatou-se que as empresas investidas
+por private equity tiveram retorno anormal acumulado, significantemente superior ao das
+empresas não investidas, sobretudo em decorrência (a) da gestão profissional, (b) dos bons
+relacionamentos de mercado mantidos por gestores e administradores de fundos de private
+equity, (c) das boas práticas de governança corporativa, e (d) do alinhamento de interesses
+entre administração e investidores.26
+
+Afinal, após aportar milhões (e, por vezes, bilhões), o único interesse do FIP passa
+a ser aprimorar as atividades da companhia e lhe gerar valor, a fim de maximizar seus retornos,
+
+24 GOMPERS, Paul. The Rise and Fall of Venture Capital, in Business and Economic History, v. 23, no. 2, 1994,
+pgs. 5/6.
+25 SILVA, Raphael Andrade. Fundos de Venture Capital e Private Equity no Brasil. São Paulo: Quartier Latin,
+2022, pgs. 77/79.
+26 Cf. TESTA, Carlos Henrique Rodrigues. O papel certificador dos fundos de private equity e venture capital
+na qualidade das empresas estreantes na BM&BFBOVESPA. Dissertação de Mestrado na Faculdade de
+Economia, Administra e Contabilidade da Universidade de São Paulo, 2013, pg. 12 e MINARDI, Andrea Maria
+Accioly Ferreira; FERRARI, Guilherme Lopes; TAVARES, Pedro Carvalho Araújo. Performance of Brazilian IPOs
+backed by private equity. Journal of Business Research, 2012.
+
+11
+
+[[pagina 12 | nativo]]
+
+mediante participação ativa na condução estratégica da empresa, razão pela qual a CVM prevê
+que todo FIP deve exercer “efetiva influência” na gestão da sociedade investida.
+
+Por outro lado, isso não significa que o investidor passa a ter responsabilidade
+ilimitada pelas dívidas da sociedade investida, devendo-se observar o valor limite das cotas
+por ele subscritas e integralizadas, bem como as disposições do regulamento de cada FIP, nos
+termos do art. 1.368-D, inciso I, do Código Civil. Tanto menos existe responsabilidade dos
+prestadores de serviços, que não respondem por quaisquer débitos do fundo, conforme
+art. 1.368-E, caput, do Código Civil.27
+
+De 2019 até o primeiro trimestre de 2023, foram aportados mais de R$ 68,86
+bilhões em investimentos de private equity e R$ 23,77 bilhões em empreendimentos de
+venture capital no Brasil (Doc. 02).
+
+Além disso, no mesmo período, a indústria de private equity possibilitou a injeção
+de R$ 1,824 trilhão na economia nacional, advindo de investidores dos Estados Unidos,
+Reino Unido, Canadá, Emirados Árabes Unidos, Singapura, Luxemburgo, Suécia e Suíça:
+
+27 Código Civil. Art. 1.368-E. Os fundos de investimento respondem diretamente pelas obrigações legais e
+contratuais por eles assumidas, e os prestadores de serviço não respondem por essas obrigações, mas
+respondem pelos prejuízos que causarem quando procederem com dolo ou má-fé.
+
+12
+
+[[pagina 13 | nativo]]
+
+(Doc. 02, pp. 14 e 32 – em bilhões)
+
+Esses investimentos foram direcionados, principalmente, ao desenvolvimento de
+empresas de tecnologia da informação, finanças digitais, saúde, energia e telecomunicações,
+sendo uma das características do private equity o fomento de atividades inovadoras e de base
+tecnológica.28
+
+Inquestionável que tal injeção de recursos – obtidos junto a investidores – tem por
+consequência o crescimento da atividade econômica e a melhoria da vida das pessoas. Não
+por outro motivo o Banco Nacional do Desenvolvimento (“BNDES”) apontou ser estratégico o
+fortalecimento da indústria nacional de private equity, com o escopo final de contribuir para a
+inovação em ciência e tecnologia.29 Os resultados falam por si.
+
+No fechamento da década de 2010, mais de 20 empresas brasileiras já haviam
+ultrapassado a marca de R$ 1 bilhão em valuation, merecendo destaque Nubank (setor de
+finanças digitais), iFood (setor de alimentação), 99 (setor de transportes), Loggi (setor de
+logística), Quinto Andar (setor imobiliário) e Madeira Madeira (setor moveleiro) (Doc. 03.2),
+todas já integradas ao cotidiano de milhões de brasileiros.
+
+28 Cf. NESSE, Arlete Araújo Silva; GIAMBIAGI, Fábio. Private Equity e Venture Capital no Brasil – Governança, criação
+de valor e alternativas em investimentos ilíquidos, São Paulo: Editora Lux, 2022. Resenha disponível em:
+https://expnew.net/private-equity-e-venture-capital-no-brasil/.
+29 BNDES. A importância do capital de risco para inovação. Disponível em:
+https://www.bndes.gov.br/wps/portal/site/home/conhecimento/noticias/noticia/capital-de-risco.
+
+13
+
+[[pagina 14 | nativo]]
+
+Tudo isso acarreta geração de empregos, recolhimento de tributos e benefícios
+para os consumidores, que passam a contar com mais opções de serviços de produtos, ao
+mesmo tempo em que retiram das instituições financeiras o monopólio do financiamento da
+atividade empresarial, em plena consecução dos princípios que orientam a ordem econômica
+nacional (art. 170 da CF).
+
+Diante disso, está claro que o fortalecimento da indústria de private equity se dá
+no melhor interesse de todo o país; sendo necessário, para tanto, resguardar o marco
+regulatório a respeito dos investimentos feitos pelos fundos de investimento, evitando a
+prolação de decisões que venham a causar instabilidades sistêmicas e o
+desencorajamento da realização de investimentos no referido setor.
+
+IV. COMPROVADA CONTROVÉRSIA JUDICIAL QUANTO À
+CONSTITUCIONALIDADE DO ART. 50, § 3°, DA LRF
+
+A despeito da clareza e exatidão do conteúdo do § 3º do art. 50 da LRF, há diversas
+decisões proferidas — em especial por órgãos integrantes da Justiça do Trabalho — que
+afastam a sua incidência em casos concretos (de forma expressa ou tácita), pondo em dúvida
+a presunção de constitucionalidade do referido dispositivo e gerando indesejada insegurança
+jurídica no meio empresarial brasileiro.
+
+Explica-se. O artigo 50 da LRF traz um rol exemplificativo de meios para
+recuperação judicial de empresas30 - aplicável, por analogia e força da jurisprudência, também
+
+30 I – concessão de prazos e condições especiais para pagamento das obrigações vencidas ou vincendas;
+II – cisão, incorporação, fusão ou transformação de sociedade, constituição de subsidiária integral, ou cessão de
+cotas ou ações, respeitados os direitos dos sócios, nos termos da legislação vigente;
+III – alteração do controle societário;
+IV – substituição total ou parcial dos administradores do devedor ou modificação de seus órgãos administrativos;
+V – concessão aos credores de direito de eleição em separado de administradores e de poder de veto em relação
+às matérias que o plano especificar;
+VI – aumento de capital social;
+VII – trespasse ou arrendamento de estabelecimento, inclusive à sociedade constituída pelos próprios empregados;
+VIII – redução salarial, compensação de horários e redução da jornada, mediante acordo ou convenção coletiva;
+IX – dação em pagamento ou novação de dívidas do passivo, com ou sem constituição de garantia própria ou de
+terceiro;
+X – constituição de sociedade de credores;
+XI – venda parcial dos bens;
+XII – equalização de encargos financeiros relativos a débitos de qualquer natureza, tendo como termo inicial a data
+da distribuição do pedido de recuperação judicial, aplicando-se inclusive aos contratos de crédito rural, sem
+prejuízo do disposto em legislação específica;
+XIII – usufruto da empresa;
+
+14
+
+[[pagina 15 | nativo]]
+
+à recuperação extrajudicial. Assim, companhias podem utilizar-se desses meios, como a
+emissão de uma debênture (espécie de valor mobiliário), a alteração do controle societário, a
+venda parcial dos bens, dentre outros, para fins de se recuperar financeiramente, tudo com o
+aval do Juízo recuperacional. No entanto, mesmo com a previsão expressa legal de que não
+haverá sucessão ou responsabilidade por dívidas de qualquer natureza a terceiro credor,
+investidor ou novo administrador, há decisões judiciais que reconhecem a responsabilidade
+desses investidores, que utilizaram dos meios previstos em lei para o aporte de capital na
+empresa em recuperação judicial ou extrajudicial, causando enorme insegurança jurídica, em
+prejuízo de todos os atores do mercado nacional.
+
+Ou seja, mesmo utilizando-se dos meios previstos em lei para investimento em
+empresas em recuperação judicial ou extrajudicial, sem que seja legalmente responsável por
+qualquer dívida da empresa investida, as investidoras são colocadas na situação de devedoras,
+ou tratados como supostos protagonistas de fraude contra credores.
+
+Nessas decisões, notadamente na seara trabalhista, é usual encontrar
+fundamentações no sentido de que as investidoras supostamente formariam grupos
+econômicos com as empresas investidas, por possuírem “comunhão de interesses”, ou, ainda,
+que as investidoras teriam sucedido as empresas em recuperação judicial ou extrajudicial, na
+forma da sucessão empresarial dos artigos 10 e 448 da CLT, ao arrepio da previsão do artigo
+50 da LRF.
+
+Para demonstrar este cenário de insegurança e instabilidade, confira-se abaixo o
+seguinte julgado:
+
+“A STARBOARD RESTRUCTURING PARTNERS CONSULTORIA EM NEGOCIOS
+LTDA., STARBOARD ASSET LTDA., STARBOARD HOLDING LTDA. E
+PARTNERSHOLDING LTDA. opuseram os embargos de declaração de id
+31400e7, aduzindo haver necessidade de prequestionamento, sugerindo que
+o reconhecimento do grupo econômico não ocorreu de acordo com a
+legislação vigente, eis que foi considerado que " a participação temporária do
+
+XIV – administração compartilhada;
+XV – emissão de valores mobiliários;
+XVI – constituição de sociedade de propósito específico para adjudicar, em pagamento dos créditos, os ativos do
+devedor.
+XVII - conversão de dívida em capital social; (Incluído pela Lei nº 14.112, de 2020) (Vigência)
+XVIII - venda integral da devedora, desde que garantidas aos credores não submetidos ou não aderentes condições,
+no mínimo, equivalentes àquelas que teriam na falência, hipótese em que será, para todos os fins, considerada
+unidade produtiva isolada. (Incluído pela Lei nº 14.112, de 2020) (Vigência)
+
+15
+
+[[pagina 16 | nativo]]
+
+Sr. Pedro Henrique Torres Bianchi nos quadros sociais das empresas Starboard
+e do Grupo Máquina de Vendas seria suficiente para descaracterizar o ato
+negocial, já que a negociação supostamente teria ocorrido entre pessoas
+jurídicas que compartilhavam um administrador comum", o que contraria o
+disposto no §3o do artigo 50 da Lei 11.101/2005,aduzindo que a emissão de
+debêntures ocorreu no âmbito do processo de recuperação judicial.
+
+(...)
+
+Portanto, o acórdão está devidamente fundamentado acerca da
+responsabilidade das Embargantes, não havendo espaço para se aplicar a
+norma constante do §3º do artigo 50 da Lei 11.101/2005, porque conforme já
+fixado nos fundamentos da decisão embargada "a hipótese não se equipara a
+aquisição de pessoa jurídica, ou de ativos, procedida nos autos de
+recuperação judicial para que e se possa aplicar norma contida no artigo 141
+da lei n 11.101/05.", ou seja, não há prova de que a emissão de debêntures
+ocorreu nos autos da recuperação judicial e por decorrência do plano de
+recuperação judicial homologado pelo Juízo da recuperação judicial.
+
+Pontue-se que o negócio que envolveu as pessoas jurídicas e seus
+proprietários não se traduziu em mera concessão de empréstimo de valores
+pecuniários à executada, mas um ato complexo que implicou alteração dos
+administradores da Executada, justamente para que o grupo de empresas, de
+onde saiu os valores pecuniários, assumisse a direção da atividade explorada
+pela executada, sem maiores riscos de perder o valor que entregaram,
+porque, da forma orquestrada, poderiam pagar a si próprios, caso a executada
+não lograsse êxito em recuperar-se financeiramente.
+
+Evidente que nestas condições, o negócio não poderia ter a aparência de
+compra da pessoa jurídica executada, feita nos autos da recuperação judicial,
+porque a intenção do grupo que forneceu os recursos financeiros foi ocultar
+a ocorrência da sucessão empresarial, ressaltando-se que não há como
+alguém adquirir uma pessoa jurídica, em processo de recuperação judicial,
+sem nada pagar por ela, como se fosse possível assumir seu fundo de
+comércio, deixando os credores no prejuízo.
+
+Assim, se a venda/aquisição da empresa ocorre nos autos da recuperação
+judicial, aquele que assume o fundo de comércio, para dar continuidade à
+atividade econômica e com isso tentar liquidar as dívidas da pessoa jurídica
+que adquiriu, obviamente não pode ser exonerado, rogando a aplicação do
+artigo 50, §3o, da Lei 11.101/2005.
+
+As referidas normas tratam da hipótese em que o adquirente paga um preço
+pelos ativos que vier a receber, a fim de que esse valor seja repassado aos
+credores da devedora em processo de recuperação judicial, porque se
+
+16
+
+[[pagina 17 | nativo]]
+
+pressupõe que a solução adotada é para "recuperar" a pessoa jurídica,
+obviamente com pagamento de suas dívidas, porque o artigo50 estabelece:
+
+(...)
+
+As hipóteses tratadas no § 3o., acima transcrito, exigem
+análise/deliberação dos seus efeitos para os credores, pelo Juízo da
+recuperação judicial, ou seja, os atos jurídicos tratados na norma devem
+ser formalizados nos autos a recuperação judicial e sua eficácia/efeitos
+depende da análise do Juízo da recuperação judicial.
+
+No caso vertente, as Embargantes não produziram prova de que a
+emissão de debêntures foi uma solução apresentada e aprovada pelo
+Juízo da recuperação judicial”31
+
+A despeito de ser incontroverso que a empresa investida se encontrava em
+recuperação judicial, a decisão acima indicada afastou a aplicação do art. 50, § 3°, da LRF, ao
+fundamento de que não teria havido deliberação do juízo da recuperação judicial sobre tais
+atos praticados pela investidora, adotando tese jurídica de que “os atos jurídicos tratados na
+norma devem ser formalizados nos autos a recuperação judicial e sua eficácia/efeitos depende
+da análise do Juízo da recuperação judicial”, mesmo não havendo qualquer dispositivo legal
+nesse sentido.
+
+Além desse julgado em específico, a controvérsia judicial relevante é atestada por
+numerosos acórdãos da Justiça do Trabalho que, sob o fundamento de que deveria ser
+aplicado o art. 2º, §2º (grupo econômico) ou os artigos 10 e 448 (sucessão empresarial) da
+CLT, negam vigência ao art. 50, §3º, da Lei 11.101/2005, sem que qualquer norma
+constitucional ou legal estabeleça a prevalência de uma em detrimento da outra.
+
+Confira-se a ementa e os trechos relevantes destes julgados, cujo inteiro teor é
+acostado a esta petição inicial como Docs. 04 a 10:
+
+PROVA DE CONTROVÉRSIA JUDICIAL RELEVANTE
+Referência Ementa e trechos relevantes
+AGRAVO DE PETIÇÃO. EMPRESA EXECUTADA EM
+TRT da 8ª Região, processo 0000514- RECUPERAÇÃO JUDICIAL. PROSSEGUIMENTO DA
+75.2020.5.08.0107 AP, j. 07/02/2023; EXECUÇÃO. TERCEIROS DEVEDORES E SÓCIOS.
+3ª Turma; Relatora. Francisca Oliveira POSSIBILIDADE. A suspensão do processo que trata a Lei nº Formigosa
+11.101/2005 diz respeito à empresa que tiver sido
+
+31 TRT da 3ª Região, processo 00102854220215030023, j. 18/09/2024, Relator Adriano Antonio Borges.
+
+17
+
+[[pagina 18 | nativo]]
+
+beneficiada pelo deferimento de recuperação judicial, não
+impedindo que a execução prossiga no órgão de origem
+em relação a outros executados não beneficiados pela
+recuperação, inclusive terceiros devedores solidários e
+sócios da empresa recuperanda que venham a ingressar
+no polo passivo pela via da desconsideração da
+personalidade jurídica. Agravos improvidos.
+[...] RECURSOS ORDINÁRIOS DAS 2ª E 3ª RECLAMADAS.
+RESPONSABILIDADE SOLIDÁRIA. GRUPO ECONÔMICO.
+CASO DE RECUPERAÇÃO JUDICIAL E AQUISIÇÃO DA
+"UNIDADE PRODUTIVA ISOLADA". APLICAÇÃO DA
+RESSALVA CONTIDA NO PARÁGRAFO ÚNICO DO ART. 60,
+DA LEI Nº 11.101/2005 (QUE MANDA OBSERVAR A REGRA
+DO ART. 141, § 1º, DA MESMA LEI). Essa ressalva é mais do
+que razoável, pois seria inadmissível que o arrematante da
+unidade produtiva isolada fosse uma empresa controladaTRT da 1ª Região, processo 0100644-
+pela própria recuperanda. Evidentemente que esse benefício 70.2022.5.01.0019, j. 02/04/2024, conferido ao arrematante não deve ser utilizado como
+Terceira Turma, Relator Jorge manobra ou qualquer mecanismo de fraude pelas mesmas
+Fernando Gonçalves da Fonte pessoas jurídicas ou físicas (seus dirigentes) que
+participaram dos atos que ocasionaram a falência ou a
+recuperação judicial da empresa. Além disso, havendo no
+processo prova no sentido da existência de atuação
+conjunta e coordenada das empresas e interesse em
+comum, deve ser reconhecida a formação de grupo
+econômico e declarada a responsabilidade solidária das
+rés, nos termos do art. 2º, § 2º, da CLT. Recursos a que se
+nega provimento.
+AGRAVO DE PETIÇÃO. GRUPO ECONÔMICO.
+CARACTERIZAÇÃO. Há por caracterizada a formação de
+grupo econômico entre Mobilitá Licenciamentos de Marcas
+e Participações Ltda. e Casa & Vídeo Brasil S/A. Inaplicável
+ao caso o art. 60 da Lei 11.101/05, porque a Casa & Vídeo
+Brasil S/A, apesar de ser unidade produtiva isoladaTRT da 1ª Região, processo 0031800-
+constituída no bojo do processo de recuperação judicial da 58.2006 .5.01.0042, J. 24/08/2022,
+sociedade Mobilitá, não foi arrematada em leilão, mas Relator Leonardo Dias Borges,
+assumida por empresas do mesmo grupo econômico do Décima Turma qual já fazia parte. O que ocorreu foi, em verdade, uma
+reestruturação societária que se deu por meio de cisão
+das empresas para a formação de unidades produtivas
+isoladas, sendo que todas elas permaneceram geridas
+pelo mesmo grupo econômico. Agravo de Petição, pois, a
+que se nega provimento.
+TRT da 1ª Região, processo AGRAVO DE PETIÇÃO. RECUPERAÇÃO JUDICIAL. UNIDADE
+01556005420045010023 RJ, Relatora PRODUTIVA ISOLADA. CISÃO DAS EMPRESAS
+
+18
+
+[[pagina 19 | nativo]]
+
+Maria Helena Motta, j. 16/05/2022, RECUPERANDAS. RESPONSABILIDADE TRABALHISTA.
+Sexta Turma POSSIBILIDADE. Ainda que se trate de empresas envolvidas
+em processo de recuperação judicial, é possível o
+reconhecimento de sucessão quando as unidades
+produtivas são alienadas judicialmente para empresas
+criadas a partir da cisão das empresas recuperandas,
+permanecendo sob o controle do mesmo conglomerado
+econômico, a revelar mera reestruturação societária.
+Inteligência do inciso I, do § 1º, do art. 141 da Lei nº
+11.101/2005.
+AGRAVO DE PETIÇÃO. EXEQUENTE. RECONHECIMENTO DE
+GRUPO ECONÔMICO. REDIRECIONAMENTO DA EXECUÇÃO
+EM FACE DAS CORRESPONSÁVEIS SOLIDÁRIAS . Segundo a
+dicção do art. 2º, § 2º, da CLT, considerada sua redação sob
+a égide da Lei n. 13.467/2017, impõe-se responsabilidade
+ao grupo econômico pelos créditos trabalhistas devidos
+por uma das empresas integrantes sempre que uma ou TRT da 14ª Região, processo mais empresas, tendo, embora, cada uma delas,
+0000096-88.2019.5.14.0404, j. personalidade jurídica própria, estiverem sob a direção,
+12/12/2023, Relatora Viana Maria da controle ou administração de outra, ou ainda quando,
+Rocha Abensur, Primeira Turma mesmo guardando cada uma sua autonomia, integrem
+grupo econômico. No presente caso, havendo prova cabal
+de que as empresas indicadas fazem parte do mesmo grupo
+econômico das executadas originalmente acionadas, há de
+se reconhecer a responsabilidade solidária das mencionadas
+empresas quanto ao passivo da presente execução. Agravo
+de petição que se conhece e dá provimento.
+SENTENÇA PROFERIDA EM INCIDENTE DE
+DESCONSIDERAÇÃO DA PERSONALIDADE JURÍDICA.
+EMPRESAS DO MESMO GRUPO. RESPONSABILIDADE
+SOLIDÁRIA. MANUTENÇÃO. Sobre grupo econômico, antes
+mesmo da edição da Lei 13.467/17 (Reforma Trabalhista) a
+doutrina, secundada pela jurisprudência, já preconizava que
+TRT da 14ª Região, processo não só a existência de controle ou administração de uma
+00006729020195140401, j. empresa por outra tinha o condão de caracterizá-lo, sendo
+20/06/2024, Relator.: Carlos Augusto possível a formação do grupo econômico trabalhista
+Gomes Lobo, Segunda Turma também quando houvesse relação de coordenação e
+confluência de interesses entre as empresas. Na hipótese,
+embora com atuação dissimulada na figura de aquisição de
+debênture, a prova constante do feito indica a formação de
+grupo econômico entre as empresas, logo, não merece
+reforma a sentença que julgou procedente o IDPJ e as incluiu
+no polo passivo da execução.
+TRT da 1ª Região, processo 0000119- AGRAVO DE PETIÇÃO. SUCESSÃO EMPRESARIAL.
+79.2013 .5.01.0283, j. 20/03/2024, ALIENAÇÃO DE UNIDADE PRODUTIVA DE EMPRESA EM
+
+19
+
+[[pagina 20 | nativo]]
+
+Relator Mauricio Paes Barreto Pizarro RECUPERAÇÃO JUDICIAL EM DESCONFORMIDADE COM A
+Drummond, Segunda Turma LEI 11.101/05 . RESPONSABILIDADE DA SUCESSORA. O
+artigo 10 da CLT estabelece que qualquer alteração na
+estrutura jurídica da empresa não afetará os direitos
+adquiridos por seus empregados e o artigo 448 da CLT prevê
+que a mudança na propriedade ou na estrutura jurídica da
+empresa não afeta os contratos de trabalho dos
+empregados. Tais dispositivos determinam que a
+sucessora deve arcar com os débitos trabalhistas da
+sucedida. Porém, em se tratando a sucedida de empresa
+em recuperação judicial e havendo a alienação de uma
+unidade produtiva isolada, não se caracteriza a sucessão
+empresarial quando observadas as prescrições dos
+artigos 60, 141 e 142 da Lei 11 .101/05. Assim, somente a
+venda judicial afasta a sucessão do adquirente de bem da
+empresa em recuperação judicial, nos termos dos arts. 60 e
+142 da Lei 11.101/2005. No caso, tendo a sucessora sido
+incorporada por outra empresa, responde a incorporadora
+pelos créditos do exequente. Apelo parcialmente provido.
+
+Diante disso, há inequívoca “controvérsia judicial relevante” quanto à
+constitucionalidade do art. 50, §3º, da LRF, o que autoriza o processamento desta ação, na
+forma do art. 14, inc. III, da Lei 9.868/1999.32
+
+V. A CONSTITUCIONALIDADE DO § 3º DO ART. 50 DA LRF
+
+A norma jurídica está diretamente relacionada à livre iniciativa (art. 170 da
+Constituição Federal) e à garantia do direito de propriedade, assegurando um ambiente
+favorável para a atração de investimentos e a reestruturação de empresas em dificuldade.
+Nesse contexto, o princípio da livre iniciativa orienta a ordem econômica brasileira,
+assegurando a liberdade de empreender, investir e gerir recursos.
+
+Nesse mesmo cenário, a segurança jurídica constitui um princípio fundamental
+para a previsibilidade e estabilidade das relações jurídicas. A segurança de que o investidor
+não será sucessor das obrigações da alienante é condição essencial para a realização de
+investimento na aquisição de bens e direitos de uma empresa em crise, sendo justamente esse
+
+32 Lei 9.868/1999. Art. 14. A petição inicial indicará: [...] III - a existência de controvérsia judicial relevante sobre a
+aplicação da disposição objeto da ação declaratória.
+
+20
+
+[[pagina 21 | nativo]]
+
+o pilar reforçado pelo art. 50, § 3º, da Lei de Recuperação e Falência, ao estabelecer que não
+haverá sucessão de responsabilidades por dívidas ao investidor, credor ou novo administrador
+que apenas aportem recursos ou assumam a gestão da empresa em recuperação judicial ou
+em recuperação extrajudicial.
+
+O que se verifica é que essa disposição legal protege os agentes econômicos que
+se propõem a participar da reestruturação de empresas em crise, criando um ambiente de
+negócios mais seguro e atrativo ao investimento e, ao mesmo tempo, incentivando a
+capitalização da sociedade devedora. Desse modo, a interpretação equivocada do dispositivo
+legal em comento, a toda evidência, compromete o funcionamento adequado do mercado de
+capitais e das relações empresariais no Brasil, na medida em que as decisões judiciais que
+afastam a incidência do art. 50, § 3º, da LRF acabam por gerar insegurança jurídica,
+desestimular investimentos e inviabilizar o objetivo central da recuperação de empresas,
+judicial ou extrajudicialmente, que é a reestruturação sustentável das empresas viáveis e a
+manutenção de empregos.
+
+A este respeito, o art. 47 da LRF estabelece a preservação da empresa, sua função
+social e a atividade econômica como escopo central da recuperação judicial (igualmente
+aplicável às empresas em recuperação extrajudicial), in verbis:
+
+Art. 47. A recuperação judicial tem por objetivo viabilizar a superação da
+situação de crise econômico-financeira do devedor, a fim de permitir a
+manutenção da fonte produtora, do emprego dos trabalhadores e dos
+interesses dos credores, promovendo, assim, a preservação da empresa,
+sua função social e o estímulo à atividade econômica.
+
+Fixadas tais premissas, a entrada de novos recursos e a substituição da
+administração são medidas estratégicas e estimuladas pelo legislador, que contribuem para a
+superação da crise econômico-financeira, por meio da liquidação de recursos e venda de
+ativos, por exemplo, de modo que a possibilidade de responsabilização automática de
+investidores e novos gestores por eventuais débitos representa um desestímulo à adoção de
+tais medidas, contrariando a própria lógica do instituto da recuperação das empresas, seja
+judicial, seja extrajudicial.
+
+O mesmo se extrai da doutrina, a exemplo do ensinamento do professor Fábio
+Ulhoa Coelho, verbis:
+
+21
+
+[[pagina 22 | nativo]]
+
+Se a lei determinasse que quem continua o negócio deveria ficar obrigado
+por todas as dívidas do sujeito de direito insolvente, simplesmente não se
+alcançaria o objetivo final – posto para atender ao interesse difuso da
+coletividade – de preservação da empresa. Com efeito, se a crise decorre
+exatamente da existência de passivo que suplantam os ativos, o novo
+empresário, se tiver que responder necessariamente por todas as dívidas
+geradas pelo negócio, não poderá fazer, na tentativa de a contornar,
+nada muito diferente do que o anterior podia; em outros termos, o destino
+do novo empresário, se lhe fosse imputada responsabilidade pelo passivo
+integral do falido, tende a ser o mesmo: a falência. O direito brasileiro da
+atualidade, diante de uma empresa em crise, deve optar entre manter sua
+tradicional característica de privilegiar o entendimento aos interesses
+privados dos credores ou aprimorar os mecanismos de preservação das
+atividades econômicas, em proveito de todos. [...] a inexistência de sucessão
+na transferência da atividade de empresário falido é racional, porque o
+novo empresário não terá meios de reorganizar o negócio, se tiver que
+atender às mesmas obrigações do antigo; e justa, porque entre os
+interesses privados dos credores e interesse difuso da coletividade,
+atende a este.33
+
+A ausência de uniformidade jurisprudencial sobre a aplicação do art. 50, § 3º, da
+LRF compromete a confiança dos agentes econômicos no sistema legal, de modo que decisões
+que impõem a responsabilidade a investidores que atuam de boa-fé e contribuem com a
+preservação de empresas viáveis – sem que haja qualquer tipo de indício de fraude ou vício
+do negócio jurídico -, acabam por desvalorizar a captação de recursos e colocam em risco a
+efetividade da recuperação das empresas.
+
+As incertezas sobre os riscos do negócio decorrentes das interpretações
+divergentes acerca do dispositivo legal prejudicam a atratividade dos investimentos, de modo
+que fundos de private equity, investidores estratégicos, bancos e agentes de mercado têm
+deixado de participar de operações de recuperação de empresas (judicial e
+extrajudicialmente), por temerem obrigações retroativas imprevisíveis. Tal cenário é inevitável
+diante da falta de segurança jurídica e afeta diretamente os princípios da ordem econômica
+estabelecidos no art. 170 da Constituição Federal.
+
+33 COELHO, Fábio Ulhoa. Assunção de ativos e transferência de passivos na recuperação judicial da empresa
+financeira: a reorganização externa. Revista de Direito Bancário e do Mercado de Capitais, São Paulo, nº 11, p.
+39-47, 2001, p. 44.
+
+22
+
+[[pagina 23 | nativo]]
+
+Nessa linha, não se pode ignorar que a proliferação de uma interpretação
+jurisprudencial equivocada viola a própria segurança jurídica, na medida em que indivíduos
+em idêntica situação jurídica obtêm provimentos jurisdicionais díspares34.
+
+De fato, em cada situação (ou juízo) uma nova decisão é descoberta e cada qual
+parte de premissas absolutamente distintas, seja para estender ou limitar o regime de
+responsabilidade aplicado aos investidores – gerando gravíssima insegurança jurídica.
+
+Ao pretenderem produzir efeitos sobre operações realizadas por fundos de private
+equity com fundamento na legislação em vigor, emprestando-lhes efeitos que o legislador não
+previu, estes atos judiciais provocam uma “ultra-atividade” inconcebível sob o prisma da
+segurança jurídica. Trata-se da chamada retroatividade mínima ou normal, quando os atos
+novos – neste caso, os atos jurisdicionais posteriores – atingem os efeitos dos atos a eles
+anteriores, produzidos após a data em que vêm a vigorar.
+
+Observa-se fenômeno análogo à chamada retroatividade mínima ou normal, que,
+embora não formalmente prevista em lei, tem sido promovida por decisões judiciais que
+interpretam de forma equivocada o art. 50, §3º, da LRF. Ao imputarem a investidores, novos
+administradores ou credores responsabilidades retroativas por obrigações assumidas
+anteriormente à sua entrada na sociedade, esses julgados atribuem efeitos jurídicos a atos
+praticados sob a égide de uma norma que, expressamente, os exonera de qualquer sucessão
+de passivos.
+
+De fato, não há qualquer justificativa constitucional para que decisões judiciais
+posteriores venham a desconstituir, por via oblíqua, os efeitos legais da proteção concedida
+pelo art. 50, §3º, da LRF aos investidores e gestores que atuam de boa-fé e de forma
+transparente na reestruturação de empresas em crise.
+
+Portanto, negar a validade do art. 50, § 3º, da LRF e submetê-lo a interpretações
+contraditórias prejudica frontalmente a estabilidade e o desenvolvimento do mercado, a
+própria política de recuperação empresarial e o próprio sistema constitucional de tutela da
+
+34 O caso remonta à clássica narrativa de Piero Calamandrei, em “Eles, os juízes, vistos por um advogado”, em que
+advogados obtêm uma nova decisão a cada nova porta aberta O recorrente, que numa das salas perdeu a
+causa, teria ganhado (com os mesmos argumentos) se tivesse sido julgado na sala ao lado. Quando saiu ao
+corredor, onde as portas das salas se abrem uma ao lado da outra, estava estupefato com essa diferença,
+inexplicável para um profano; e naturalmente, descontava em seu advogado: – Está claro que o senhor errou
+na defesa… – Não – replicou o advogado -, errei foi de porta (CALAMANDREI, Piero. Eles, os juízes, vistor por um
+advogado. 2. ed. São Paulo: Editora WMF Martins Fontes, 2015, p. 102)
+
+23
+
+[[pagina 24 | nativo]]
+
+segurança jurídica. Em termos práticos, empresas em dificuldade perdem acesso a fontes de
+financiamento, têm maior dificuldade para encontrar investidores ou parceiros para planos de
+reorganização e sofrem maiores chances de ir à falência, mesmo quando sua atividade ainda
+poderia ser viável.
+
+Tal instabilidade afeta não apenas o investidor, mas também, e principalmente,
+trabalhadores, fornecedores, credores, comunidades locais e o próprio sistema econômico
+nacional, afetando de forma direta o desenvolvimento da sociedade.
+
+Desse modo, a norma não é voltada apenas e tão somente à proteção individual
+dos investidores, mas à garantia do sistema e do funcionamento do mercado brasileiro.
+
+VI. MEDIDA CAUTELAR IMPRESCINDÍVEL
+
+A ABVCAP pede a concessão de medida cautelar, nos termos do art. 21 da Lei
+9.868/1999, para que seja determinada a suspensão da tramitação de processos e dos efeitos
+de decisões judiciais que afastem a aplicação do § 3º do art. 50 da LRF, direta ou indiretamente,
+até o julgamento definitivo da presente ADC.
+
+A medida cautelar se justifica pelo risco de decisões conflitantes, que resultam em
+uma grave insegurança jurídica no ambiente empresarial, afetando a capacidade de
+recuperação de empresas em crise e desestimulando investimentos estratégicos para sua
+reestruturação. Com efeito, o afastamento da norma objeto desta ADC por decisões judiciais
+isoladas compromete a previsibilidade das relações empresariais, gerando um efeito cascata
+de desconfiança no mercado e reduzindo as chances de recuperação de empresas viáveis.
+
+Conforme mencionado anteriormente, diversos casos concretos demonstram que
+investidores que optaram por converter dívida em capital ou aportar novos recursos estão
+sendo surpreendidos com a responsabilização por passivos anteriores da empresa
+recuperanda, levando ao desinteresse por investimentos futuros e ao esvaziamento do
+instituto da recuperação de empresas, judicial e extrajudicial. Em razão disso, empresas que já
+buscaram (ou ainda buscam) ingressar no especial regime da recuperação judicial, ou buscam
+a aprovação de uma recuperação extrajudicial, têm enfrentado dificuldades crescentes na
+captação de recursos devido ao receio de sucessão de passivos, o que impacta diretamente a
+preservação de empregos e a arrecadação tributária, em evidente prejuízo ao interesse
+público.
+
+24
+
+[[pagina 25 | nativo]]
+
+A concessão da medida cautelar evitará que novos investidores e gestores sejam
+dissuadidos de participar da recuperação de empresas diante da incerteza quanto à
+efetividade da norma, garantindo a estabilidade do mercado e o incentivo à reestruturação
+empresarial. Nesse sentido, a suspensão dos processos e dos efeitos de decisões judiciais que
+afastam a aplicação do dispositivo impugnado é necessária para evitar prejuízos irreparáveis,
+uma vez que tais decisões podem resultar na responsabilização indevida de terceiros que não
+participaram da formação dos passivos da empresa.
+
+Destaca-se, por oportuno, que este egrégio Supremo Tribunal Federal já
+reconheceu, em outras oportunidades, a necessidade de suspender processos quando há risco
+de proliferação de decisões divergentes, especialmente em temas que envolvem estabilidade
+do mercado e segurança jurídica.
+
+Assim, diante do perigo de dano irreparável e da necessidade de preservar a
+efetividade da recuperação das empresas, requer-se a concessão de medida cautelar para
+assegurar a plena aplicabilidade do § 3º do art. 50 da LRF, impedindo interpretações
+conflitantes que possam comprometer sua eficácia.
+
+VII. CONCLUSÕES E REQUERIMENTOS
+
+Ante todo o exposto, pede a ABVACP que, reconhecida a sua legitimidade ativa e
+o cabimento desta ADC, seja declarada a constitucionalidade, com efeito vinculante e eficácia
+erga omnes, do § 3º do art. 50 da Lei n° 11.101/2005.
+
+Requer-se ainda, em sede cautelar e liminar, que V. Exa., monocraticamente (ad
+referendum do Plenário), determine a suspensão da tramitação de processos e dos efeitos de
+decisões judiciais que afastem – direta ou indiretamente – a aplicação do § 3º do art. 50 da
+LRF, até o julgamento definitivo da presente ADC.
+
+Pede, por fim, que sejam intimados, para prestar informações, o Tribunal Superior
+do Trabalho, o Presidente da República e o Congresso Nacional, bem como seja facultada a
+manifestação da Advogada-Geral da União e se ouça a d. Procuradora-Geral da República.
+
+Caso necessário, requer-se seja deferida a produção de provas, nos termos do art.
+20, §1º, da Lei 9.868/1999.
+
+Dá-se à causa o valor de R$ 1.000,00.
+
+25
+
+[[pagina 26 | nativo]]
+
+Termos em que,
+pede deferimento.
+
+Brasília, 12 de novembro de 2025.
+
+RAFAEL CAETANO DE OLIVEIRA MARIA ABREU GUIDO DE SOUZA
+OAB/SP 257.966 OAB/SP 290.119
+OAB/DF 72.814
+
+DOMINGOS FORTUNATO ANTONIO
+FORTUNATO NETTO
+OAB/SP 191.867
+
+RODRIGO DE BITTENCOURT VICTOR SANTOS RUFINO
+MUDROVITSCH OAB/SP 407.119
+OAB/DF 26.966
+
+26
