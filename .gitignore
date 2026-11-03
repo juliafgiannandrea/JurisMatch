@@ -226,6 +226,8 @@ __marimo__/
 # Streamlit
 .streamlit/secrets.toml
 
-# JurisMatch
-dados/
-scrapping_processos_controle_concentrado/.perfil_chromium_stf/
+# JurisMatch: artefatos gerados (refeitos pelos scripts 02 a 04)
+data/02_processed/clean/
+data/03_chunks/
+vectorstore/
+.perfil_chromium_stf/

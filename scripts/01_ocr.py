@@ -1,5 +1,5 @@
 """
-Extrai o texto das petições iniciais do STF baixadas na etapa 1.
+Etapa 01 — OCR: extrai o texto das petições iniciais do STF (PDFs em data/01_raw/pdf/).
 
 Estratégia (calibrada sobre os 102 PDFs já coletados, 4.536 páginas):
   - 58% das páginas têm texto nativo -> PyMuPDF extrai o texto exato, rápido.
@@ -24,10 +24,12 @@ Instalação (uma vez):
     pip install pymupdf
     sudo apt install tesseract-ocr tesseract-ocr-por
 
-Uso:
-    python extrair_texto_peticoes.py
-    python extrair_texto_peticoes.py --sem-ocr        # passada rápida, só nativo
-    python extrair_texto_peticoes.py --limite 5       # testa em 5 arquivos
+Uso (a partir da raiz do projeto):
+    python scripts/01_ocr.py
+    python scripts/01_ocr.py --sem-ocr        # passada rápida, só nativo
+    python scripts/01_ocr.py --limite 5       # testa em 5 arquivos
+
+Entrada: data/01_raw/pdf/   Saída: data/02_processed/ocr/ (um .txt por PDF + log_extracao.csv)
 """
 
 import argparse
@@ -43,8 +45,9 @@ from pathlib import Path
 import pymupdf
 
 # ============================ CONFIGURAÇÃO ============================
-PASTA_PDFS = "../scrapping_processos_controle_concentrado/peticoes_processos_estruturantes"
-PASTA_SAIDA = "texto_peticoes"    # onde os .txt e o log serão gravados
+RAIZ = Path(__file__).resolve().parents[1]
+PASTA_PDFS = RAIZ / "data" / "01_raw" / "pdf"
+PASTA_SAIDA = RAIZ / "data" / "02_processed" / "ocr"   # onde os .txt e o log serão gravados
 MIN_CHARS = 100                   # menos que isso na página = não há texto nativo útil
 MIN_COBERTURA_IMG = 0.5           # fração da página coberta por imagem para considerar digitalização
 DPI = 300                         # resolução de rasterização para o OCR (recomendada pelo tesseract)

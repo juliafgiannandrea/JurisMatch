@@ -1,0 +1,156 @@
+threshold para informar que não teve resultado significativo 
+
+score: entender o cálculo >> colocar um score de similaridade 
+	
+outra forma de indexar 
+
+read me com explicações do índice vetorial (da indexação) 
+
+estrutura de pastas 
+
+----
+O score que aparece na saída não é a similaridade do texto com a consulta. Ele é calculado a partir da posição da petição em cada ranking, com Reciprocal Rank Fusion (RRF). O cálculo fica em busca.py:60-102 e tem três etapas.
+
+1. Pontuação de cada chunk
+
+Denso (semântico): a consulta vira um vetor de embedding, e o FAISS (IndexFlatIP) calcula o produto interno com todos os chunks. Com vetores normalizados, isso é o cosseno (busca.py:52-58).
+Lexical: o BM25 pontua cada chunk pelas palavras da consulta, já com stopwords e stemmer do português.
+2. Uma nota por petição em cada sistema (MaxP)
+Cada petição fica com a nota do seu melhor chunk: groupby("doc_id").max(). As petições são então ordenadas, e a posição 1 é a melhor. Uma petição com score ≤ 0 fica sem posição naquele sistema; no BM25, isso acontece com petições que não têm nenhum termo da consulta.
+
+3. Fusão por RRF (busca.py:26-32)
+
+
+score(petição) = Σ  1 / (60 + posição no sistema)
+A soma percorre os sistemas em que a petição tem posição, com k = 60 (config.RRF_K). Por isso os valores são pequenos:
+
+Modo híbrido: se a petição ficar em 1º lugar nos dois sistemas, o score é 2/61 ≈ 0,0328, que é o máximo possível.
+Modos denso ou lexical: o máximo é 1/61 ≈ 0,0164. Nesses modos o score só repete a posição no ranking, nada além disso.
+O trecho exibido em cada petição é escolhido da mesma forma, só que em nível de chunk. Calcula-se o RRF dos rankings de chunks e mostra-se o chunk da petição com o maior valor (busca.py:80 e busca.py:84-85).
+
+Consequências práticas:
+
+O score serve para ordenar resultados dentro de uma busca, mas não compara buscas diferentes nem mostra o quanto o resultado é relevante. Um 1º lugar ruim tem o mesmo score que um 1º lugar excelente.
+Para ver o cosseno de verdade, seria preciso devolver também a coluna denso de por_doc no resultado. Hoje ela é descartada depois da fusão. Posso fazer essa alteração se você quiser.
+
+Reranker (cross-encoder): reavalia os melhores candidatos com um modelo que gera notas mais bem calibradas, e aí um corte absoluto faz sentido. É a opção mais precisa, mas acrescenta um modelo e deixa a busca mais lenta em CPU.
+Como funciona: a busca híbrida continua escolhendo os candidatos. Os 30 melhores trechos vão para o cross-encoder BAAI/bge-reranker-v2-m3, que lê a pergunta junto com cada trecho e dá uma nota. A petição fica com a nota do seu melhor trecho, e as que ficam abaixo do limiar são descartadas.
+
+O que mudou:
+
+reranker.py é um arquivo novo que encapsula o modelo.
+busca.py ganhou as opções --limiar (padrão 0,6) e --sem-rerank, que volta ao ranking antigo. Nesse caso a saída mostra "relevância 99%" em vez do score do RRF.
+config.py passou a definir o modelo, o número de candidatos (30) e o limiar.
+Incluí três testes novos e atualizei o README.
+Pontos de atenção:
+
+Ficou lento: cada consulta leva uns 45 s em CPU, e quase todo esse tempo é do reranker. Para acelerar, dá para reduzir CANDIDATOS_RERANK ou trocar pelo modelo pequeno indicado no config.py. Ele leva uns 4 s, mas as notas são menos confiáveis e o resultado da ADI 5613 ficaria em 57%, abaixo do corte.
+A ADC 103 continua de fora: ela trata de desincompatibilização, mas ficou abaixo dos 60%. O tema central dela é outro, e o assunto aparece só de passagem. Se quiser vê-la, use --limiar 0.3.
+Trecho diferente na ADC 101: agora o trecho escolhido é o da p. 2 ("Do objeto…"), e não mais o da p. 9 ("Por que o prazo de 24 horas…"), porque foi o que o reranker considerou mais relevante.
+Mudei o limiar padrão para 80% em config.py e atualizei o valor no README e no texto de uso de busca.py. Não rodei os testes de novo, mas eles passam o limiar explicitamente e não dependem do padrão.
+
+Com 80%, a consulta "liberdade de imprensa e capital estrangeiro" passa a não devolver nada. A ADI 5613, que é a resposta certa, teve 76%. Na consulta sobre desincompatibilização, a ADC 101 continua aparecendo com 99%.
+
+O que gerou os embeddings
+O modelo é o intfloat/multilingual-e5-base, baixado do Hugging Face, com 1,1 GB de pesos guardados em cache na sua máquina.
+
+Ele é multilíngue e entende português. É da família E5, treinada especificamente para recuperação de informação, que é exatamente o nosso caso. Licença MIT, então uso livre.
+
+A configuração real, como está no código:
+
+Parâmetro	Valor	Por quê
+Dispositivo	CPU	Você não tem placa de vídeo dedicada
+Dimensões de saída	768	É o tamanho do modelo base
+Limite de leitura	512 unidades	O modelo corta o excedente
+Lote	16 trechos por vez	Equilíbrio entre memória e velocidade
+Normalização	Ligada	Explicada no item 2
+A biblioteca que opera o modelo é a sentence-transformers, que por baixo roda sobre PyTorch na versão só para CPU.
+
+Os prefixos. O E5 exige que você avise o que está enviando. Documento leva passage:  na frente, pergunta leva query: . Ele foi treinado assim e omitir isso degrada o resultado. O código adiciona automaticamente, você nunca digita isso.
+
+2. Como o índice foi feito
+A função que faz tudo tem cerca de 30 linhas. A sequência é esta.
+
+Primeiro, o cache. Lê os vetores já calculados antes, indexados pelo hash do texto. Só os trechos cujo hash não está no cache vão para o modelo. Na sua execução, 7.899 dos 8.278 foram calculados, porque 379 trechos eram idênticos a outros.
+
+Segundo, o empilhamento. Os vetores são organizados na mesma ordem das linhas da tabela de trechos. Esse é o ponto crítico: é isso que garante que a linha 0 da tabela corresponda ao vetor 0 do índice.
+
+Terceiro, o índice vetorial. Criado como IndexFlatIP, e o nome diz as duas escolhas:
+
+Flat significa força bruta. Ele compara a pergunta com todos os 8.278 vetores, sem atalho. É busca exata, não aproximada. Sempre devolve a mesma resposta.
+IP significa produto interno. E aqui entra a normalização do item anterior: quando os vetores têm comprimento 1, o produto interno é matematicamente igual ao cosseno, que é a medida padrão de semelhança. Normalizar permite usar a operação mais barata e obter o resultado certo.
+Quarto, o índice de palavras. A pasta do BM25 é apagada e reconstruída do zero, a partir da coluna de texto limpo.
+
+Quinto, a gravação. Os quatro artefatos são escritos juntos, mais o manifesto com modelo, dimensões e contagens.
+
+Tudo é regerado de uma vez, sempre. Não existe atualização parcial, justamente para o alinhamento entre os três artefatos nunca quebrar.
+
+3. O que é o k
+Atenção aqui, porque existem dois k diferentes no projeto e eles não têm relação nenhuma.
+
+O --k da linha de comando é quantas petições você quer de volta. Padrão 5.
+
+
+venv/bin/python -m jurismatch.busca "sua pergunta" --k 10
+Isso devolve as 10 melhores petições. Ele não limita a busca. O sistema sempre pontua os 8.278 trechos; o --k só corta a lista no final. Então pedir 10 em vez de 3 não deixa a busca mais lenta.
+
+O k do RRF é a constante 60, fixa no arquivo de configuração. É aquela que amortece a diferença entre as primeiras posições, que te expliquei na resposta sobre RRF. Você não a controla pela linha de comando.
+
+Uma pegadinha menor: o padrão é 5 quando você usa a linha de comando, mas 10 quando chama a classe direto no Python. Não é inconsistência grave, mas vale saber se os resultados vierem em quantidade diferente da esperada.
+
+
+
+Uma matriz de 8.278 linhas por 768 colunas, em float32. Cada linha é um trecho, na mesma ordem da tabela de chunks.
+
+Todos os vetores têm comprimento exatamente 1. Isso foi feito lá no modelo, com a normalização ligada, e já vou explicar por que importa.
+
+Linha 1: criar o índice vazio
+
+indice = faiss.IndexFlatIP(768)
+O nome da classe carrega as duas decisões.
+
+Flat quer dizer que os vetores são guardados como estão, um atrás do outro. Sem compressão, sem árvore, sem grafo, sem agrupamento. A busca depois percorre todos. É força bruta, e por isso é exata.
+
+IP quer dizer produto interno, que é a medida de semelhança usada.
+
+O 768 só declara de antemão o tamanho que os vetores terão.
+
+Linha 2: adicionar os vetores
+
+indice.add(vetores)
+Isso copia a matriz para dentro do índice. É só isso que "indexar" significa aqui.
+
+Vale enfatizar porque contraria a intuição. Outros tipos de índice do FAISS precisam de uma etapa de treino antes, para aprender agrupamentos ou montar um grafo de vizinhança. O tipo Flat não precisa de nada disso. Não há treino, não há estrutura a construir. A adição é instantânea.
+
+Os 45 minutos da construção foram quase inteiramente o modelo calculando os embeddings. O FAISS em si levou menos de um segundo.
+
+Linha 3: gravar
+
+faiss.write_index(indice, "dados/indice/faiss.index")
+Confirmei o que o arquivo contém fazendo a conta:
+
+Tamanho do arquivo	25.430.061 bytes
+8.278 × 768 × 4 bytes	25.430.016 bytes
+Diferença	45 bytes
+Esses 45 bytes são o cabeçalho. O resto é a matriz crua. O arquivo do FAISS é literalmente os seus vetores em disco, nada além disso.
+
+Por que produto interno e não cosseno
+A medida usual de semelhança entre vetores é o cosseno, que compara direção e ignora comprimento. O produto interno é uma operação mais simples e mais barata.
+
+Quando todos os vetores têm comprimento 1, as duas contas dão o mesmo resultado. Verifiquei agora no seu índice: o FAISS devolveu 1,000000, 0,935743 e 0,931056, e o cosseno calculado à mão deu exatamente os mesmos números.
+
+É essa a razão de normalizar lá no modelo. Normalizar antes permite usar a operação barata e obter a medida certa.
+
+O que a busca faz, na prática
+Buscar é multiplicar a matriz de 8.278 por 768 pelo vetor da pergunta e ordenar o resultado. Confirmei que fazer isso na mão com numpy devolve os mesmos valores e os mesmos índices que o FAISS.
+
+A diferença é que o FAISS faz essa multiplicação com otimizações de baixo nível, usando instruções vetoriais do processador. Daí os 22 milésimos de segundo.
+
+O que não foi usado, e por quê
+O FAISS oferece outros tipos de índice, todos mais sofisticados:
+
+Tipo	Como funciona	Por que não
+IndexIVFFlat	Agrupa vetores em regiões e busca só em algumas	Aproximado. Ganha velocidade que não precisamos
+IndexHNSWFlat	Monta um grafo de vizinhança	Aproximado, e consome mais memória
+IndexFlatL2	Exato, mas por distância euclidiana	Métrica errada para vetores normalizados
+Com 8.278 vetores, a busca exata já responde em milésimos. Trocar por aproximada daria velocidade desnecessária em troca de resultados que podem variar. O IndexFlatIP é a escolha mais simples que resolve, e é determinística.

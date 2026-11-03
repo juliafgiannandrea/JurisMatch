@@ -1,5 +1,4 @@
 # JurisMatch
-# JurisMatch
 
 Busca semântica nas **petições iniciais dos processos de controle concentrado de constitucionalidade do STF**. Você faz uma consulta em linguagem natural e recebe um ranking de petições, com o trecho mais relevante e a página do PDF onde ele está.
 
@@ -31,12 +30,7 @@ python -m jurismatch.indexar              # gera dados/indice/ (a primeira vez d
 python -m jurismatch.busca "liberdade de imprensa e capital estrangeiro" --k 5
 ```
 
-Opções da busca: `--modo hibrido|denso|lexical`, `--classe ADI|ADC`, `--limiar 0.8` e `--sem-rerank`.
-
-Por padrão, os 30 melhores chunks da busca híbrida são reavaliados por um cross-encoder
-(`BAAI/bge-reranker-v2-m3`), que dá a cada um uma nota de relevância entre 0 e 1. Só aparecem as
-petições cujo melhor chunk atinge o limiar, então a busca pode devolver menos de `--k` resultados
-ou nenhum. Em CPU, o reranker leva cerca de 40 s por consulta; `--sem-rerank` volta ao ranking RRF.
+Opções da busca: `--modo hibrido|denso|lexical` e `--classe ADI|ADC`.
 
 ## Testes
 

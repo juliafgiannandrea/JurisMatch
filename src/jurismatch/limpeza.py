@@ -1,7 +1,8 @@
 """Limpeza conservadora do texto extraído e montagem de parágrafos.
 
 Entrada: páginas de um arquivo (jurismatch.paginas.Pagina).
-Saída: blocos (título ou parágrafo), cada um sabendo de que páginas veio.
+Saída: linhas limpas (gravadas em data/02_processed/clean/) e, a partir delas, blocos
+(título ou parágrafo), cada um sabendo de que páginas veio.
 """
 from __future__ import annotations
 
@@ -10,7 +11,7 @@ import unicodedata
 from collections import Counter
 from dataclasses import dataclass
 
-from jurismatch.paginas import Pagina
+from jurismatch.paginas import RE_MARCADOR, Pagina
 
 MAIUSCULAS = "A-ZÁÀÂÃÉÊÍÓÔÕÚÜÇ"
 
@@ -124,6 +125,38 @@ def limpar_paginas(paginas: list[Pagina]) -> list[Linha]:
                 saida.append(Linha(texto, pagina.numero, pagina.metodo))
         saida.append(Linha("", pagina.numero, pagina.metodo))
     return saida
+
+
+def gravar_linhas(linhas: list[Linha]) -> str:
+    """Serializa as linhas limpas no mesmo formato da etapa de OCR ([[pagina N | metodo]]).
+
+    Cada linha vira uma linha do arquivo, inclusive as em branco, para que ler_linhas()
+    devolva exatamente a mesma lista. Páginas descartadas na limpeza não aparecem.
+    """
+    partes: list[str] = []
+    atual = None
+    for linha in linhas:
+        if (linha.pagina, linha.metodo) != atual:
+            atual = (linha.pagina, linha.metodo)
+            partes.append(f"[[pagina {linha.pagina} | {linha.metodo}]]")
+        partes.append(linha.texto)
+    return "\n".join(partes) + "\n" if partes else ""
+
+
+def ler_linhas(texto: str) -> list[Linha]:
+    """Inverso de gravar_linhas(): reconstrói as linhas limpas a partir do arquivo."""
+    linhas: list[Linha] = []
+    pagina, metodo = 0, ""
+    conteudo = texto.split("\n")
+    if conteudo and conteudo[-1] == "":
+        conteudo.pop()  # quebra de linha final do arquivo
+    for bruta in conteudo:
+        m = RE_MARCADOR.match(bruta)
+        if m:
+            pagina, metodo = int(m.group(1)), m.group(2)
+        else:
+            linhas.append(Linha(bruta, pagina, metodo))
+    return linhas
 
 
 def _proporcao_maiusculas(texto: str) -> float:

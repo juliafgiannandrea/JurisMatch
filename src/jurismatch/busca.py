@@ -1,6 +1,6 @@
 """Busca: consulta -> ranking de petições, cada uma com seu melhor trecho.
 
-Uso: python -m jurismatch.busca "consulta" [--k 5] [--modo hibrido|denso|lexical] [--classe ADI]
+Uso: python scripts/05_search.py "consulta" [--k 5] [--modo hibrido|denso|lexical] [--classe ADI]
      [--limiar 0.8] [--sem-rerank]
 """
 from __future__ import annotations
@@ -89,11 +89,13 @@ class Buscador:
             colunas.append("lexical")
         if classe:
             tabela = tabela[self.chunks["classe"] == classe]
+        # Cosseno de cada chunk com a consulta (só existe quando o ramo denso rodou)
+        similaridade = tabela["denso"] if "denso" in tabela else None
 
         # RRF sobre os rankings de chunks: escolhe o melhor trecho e os candidatos do reranker
         score_chunk = rrf([posicoes(tabela[c]) for c in colunas])
         if rerank:
-            return self._reranquear(consulta, score_chunk, k, limiar, candidatos)
+            return self._reranquear(consulta, score_chunk, similaridade, k, limiar, candidatos)
 
         # 1) MaxP: a petição vale o seu melhor chunk, em cada sistema
         por_doc = tabela.groupby("doc_id")[colunas].max()
@@ -102,18 +104,30 @@ class Buscador:
         score_doc = score_doc[score_doc > 0].sort_values(ascending=False, kind="stable").head(k)
         # 3) Melhor trecho de cada petição
         melhores = [(score_chunk[tabela["doc_id"] == doc_id].idxmax(), score) for doc_id, score in score_doc.items()]
-        return self._resultados(melhores)
+        return self._resultados(melhores, similaridade)
 
-    def _reranquear(self, consulta: str, score_chunk: pd.Series, k: int, limiar: float, candidatos: int) -> list[dict]:
+    def _reranquear(
+        self,
+        consulta: str,
+        score_chunk: pd.Series,
+        similaridade: pd.Series | None,
+        k: int,
+        limiar: float,
+        candidatos: int,
+    ) -> list[dict]:
         """Cross-encoder sobre os melhores chunks; a petição vale o seu melhor chunk (MaxP) e só entra acima do limiar."""
         indices = score_chunk[score_chunk > 0].sort_values(ascending=False, kind="stable").head(candidatos).index
         notas = pd.Series(self.reranker.pontuar(consulta, self.chunks.loc[indices, "texto"].tolist()), index=indices)
         notas = notas[notas >= limiar].sort_values(ascending=False, kind="stable")
         melhor_por_doc = notas[~self.chunks.loc[notas.index, "doc_id"].duplicated().to_numpy()].head(k)
-        return self._resultados(list(melhor_por_doc.items()))
+        return self._resultados(list(melhor_por_doc.items()), similaridade)
 
-    def _resultados(self, melhores: list[tuple]) -> list[dict]:
-        """Monta a saída a partir de pares (índice do chunk, score da petição), já em ordem."""
+    def _resultados(self, melhores: list[tuple], similaridade: pd.Series | None = None) -> list[dict]:
+        """Monta a saída a partir de pares (índice do chunk, score da petição), já em ordem.
+
+        score: nota de relevância do reranker (0 a 1) ou, sem reranker, o valor RRF (só ordena).
+        similaridade: cosseno entre a consulta e o trecho exibido (-1 a 1); None no modo lexical.
+        """
         resultados = []
         for posicao, (indice, score) in enumerate(melhores, start=1):
             chunk = self.chunks.loc[indice]
@@ -124,6 +138,7 @@ class Buscador:
                     "classe": chunk["classe"],
                     "numero": int(chunk["numero"]),
                     "score": float(score),
+                    "similaridade": None if similaridade is None else float(similaridade[indice]),
                     "chunk_id": chunk["chunk_id"],
                     "secao": chunk["secao"],
                     "trecho": chunk["texto"],
@@ -152,10 +167,22 @@ def main() -> None:
         args.consulta, k=args.k, modo=args.modo, classe=args.classe, rerank=rerank, limiar=args.limiar
     )
     if not resultados:
-        print(f"Nenhuma petição com relevância >= {args.limiar:.0%}.")
+        if rerank:
+            print(
+                f"Nenhum resultado significativo: nenhuma petição atingiu relevância de {args.limiar:.0%}.\n"
+                "Tente reformular a consulta ou baixar o corte, por exemplo --limiar 0.5."
+            )
+        else:
+            print("Nenhum resultado: nenhum trecho tem relação com a consulta.")
     for r in resultados:
-        score = f"relevância {r['score']:.0%}" if rerank else f"score {r['score']:.4f}"
-        print(f"\n{r['posicao']}. {r['classe']} {r['numero']}  ({score})")
+        notas = []
+        if rerank:
+            notas.append(f"relevância {r['score']:.0%}")
+        if r["similaridade"] is not None:
+            notas.append(f"similaridade {r['similaridade']:.2f}")
+        if not notas:  # modo lexical sem reranker: só resta a posição no ranking
+            notas.append(f"score RRF {r['score']:.4f}")
+        print(f"\n{r['posicao']}. {r['classe']} {r['numero']}  ({' | '.join(notas)})")
         print(f"   {r['arquivo_pdf']}, p. {r['pagina']} [{r['metodo_extracao']}]  {r['secao']}")
         print(f"   {r['trecho'][:400].replace(chr(10), ' ')}...")
 

@@ -163,3 +163,15 @@ def test_montar_blocos_inciso_de_lei_nao_vira_titulo():
         L("II - Aprovar o regimento interno."),
     ]
     assert all(b.tipo == "paragrafo" for b in montar_blocos(linhas))
+
+
+def test_gravar_e_ler_linhas_devolve_as_mesmas_linhas():
+    from jurismatch.limpeza import gravar_linhas, ler_linhas
+
+    linhas = [
+        L("I. DOS FATOS", 1), L("", 1), L("Parágrafo que continua", 1), L("", 1),
+        L("na página seguinte.", 2, "ocr"), L("", 2, "ocr"), L("", 2, "ocr"),
+        L("[[pagina]] não é marcador", 5), L("", 5),
+    ]
+    assert ler_linhas(gravar_linhas(linhas)) == linhas
+    assert ler_linhas(gravar_linhas([])) == []

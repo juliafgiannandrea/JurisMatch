@@ -1,4 +1,4 @@
-"""Leitura dos .txt da etapa 2: identifica a petição e separa o texto por página."""
+"""Leitura dos .txt das etapas 01 (OCR) e 02 (limpeza): identifica a petição e separa o texto por página."""
 from __future__ import annotations
 
 import re

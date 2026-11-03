@@ -85,3 +85,21 @@ def test_rerank_limiar_zero_mantem_uma_linha_por_peticao(buscador_rerank):
 def test_buscar_modo_invalido(buscador):
     with pytest.raises(ValueError):
         buscador.buscar("x", modo="outro")
+
+
+def test_similaridade_e_o_cosseno_do_trecho_exibido(buscador, embedder_falso):
+    consulta = "liberdade de imprensa e censura"
+    resultados = buscador.buscar(consulta, k=3, modo="hibrido")
+    q = embedder_falso.codificar_consulta(consulta)
+    for r in resultados:
+        texto = buscador.chunks.loc[buscador.chunks["chunk_id"] == r["chunk_id"], "texto_embedding"].iloc[0]
+        esperado = float(np.dot(q, embedder_falso._vetor(texto)))
+        assert r["similaridade"] == pytest.approx(esperado, abs=1e-5)
+    assert resultados[0]["similaridade"] == max(r["similaridade"] for r in resultados)
+
+
+def test_similaridade_no_rerank_e_ausente_no_lexical(buscador_rerank):
+    com_rerank = buscador_rerank.buscar("liberdade de imprensa e censura", k=3, rerank=True, limiar=0.6)
+    assert -1.0 <= com_rerank[0]["similaridade"] <= 1.0
+    lexical = buscador_rerank.buscar("Lei 11.101/2005", k=1, modo="lexical")
+    assert lexical[0]["similaridade"] is None

@@ -1,6 +1,6 @@
-"""Etapa 4: dados/chunks.parquet -> dados/indice/ (FAISS + BM25 + metadados).
+"""Etapa 04 (indexação): data/03_chunks/chunks.parquet -> vectorstore/ (FAISS + BM25 + metadados).
 
-Uso: python -m jurismatch.indexar
+Uso: python scripts/04_index.py   (ou python -m jurismatch.indexar)
 A linha i de chunks.parquet corresponde ao vetor i do índice FAISS e ao documento i do BM25.
 """
 from __future__ import annotations
