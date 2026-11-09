@@ -1,0 +1,1763 @@
+[[pagina 1 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO EGRÉGIO
+SUPREMO TRIBUNAL FEDERAL
+
+CONFEDERAÇÃO NACIONAL DE SERVIÇOS (“CNS”), entidade
+sindical de grau superior, inscrita no CNPJ/MF sob o nº 07.127.560/0001-50, com
+sede na ST SRTVS Quadra 701, Conjunto E, Bloco 1, sala 507, s/n, Edifício
+Palácio do Rádio I, Brasília/DF (doc. 1), CONFEDERAÇÃO NACIONAL DO
+TRANSPORTE (“CNT”), entidade sindical de grau superior, inscrita no CNPJ
+sob o nº 00.721.183/0001-34, com sede à SAUS Quadra 01, Bloco J, Edifício
+CNT – 13º andar, Entradas 10 e 20, Brasília/DF, CEP 70070-944 (doc. 2) e
+CONFEDERAÇÃO NACIONAL DE SAÚDE (“CNSaúde”), entidade sindical de
+grau superior, inscrita no CNPJ/MF sob o nº 97.496.574/0001-34, registrada no
+Ministério do Trabalho sob o nº 46000.002324/94, com sede no Setor de Rádio
+e Televisão Sul – SRTVS, Quadra 701, Cj E – Ed. Palácio do Rádio Bl. 3, nº 130,
+5º andar, Brasília – DF, CEP: 70340-901 (doc. 3), com fundamento nos arts. 102,
+inciso I, alínea “a”, e 103, caput e inciso IX1, ambos da Constituição Federal de
+1988, e arts. 1º e 2º, caput e inciso IX, da Lei nº 9.868, de 10 de novembro de
+19992, vêm, por seus advogados que esta subscrevem (docs. 4, 5 e 6,
+respectivamente), respeitosamente, à presença de Vossa Excelência, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+(COM PEDIDO DE MEDIDA CAUTELAR)
+
+contra o artigo 37, inciso II, da Lei nº 14.973, de 16 de setembro de 2024 (“Lei nº
+14.973/2024” - doc. 7) e, por arrastamento, do artigo 8º, inciso II, da Portaria MF
+nº 1.430, de 4 julho de 2025 (“Portaria MF nº 1.430/2025” - doc. 8), que, de forma
+complementar, alteraram o índice de correção aplicável aos valores depositados
+administrativa e judicialmente pelos contribuintes, substituindo a taxa referencial
+do Sistema Especial de Liquidação e de Custódia (SELIC) — ainda vigente para
+a atualização dos débitos tributários federais — pelo Índice Nacional de Preços
+ao Consumidor Amplo (IPCA), definido como índice oficial de recomposição da
+inflação, dada a sua flagrante incompatibilidade com a Constituição, como
+adiante se passa a demonstrar.
+
+1 “Constituição da República Federativa do Brasil de 1988 - Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (...)
+IX - confederação sindical ou entidade de classe de âmbito nacional. (...)”
+
+2 “Lei nº 9.868, de 1998 - Art. 2o Podem propor a ação direta de inconstitucionalidade: (...)
+IX - confederação sindical ou entidade de classe de âmbito nacional. (...)”
+1
+
+[[pagina 2 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+I. O ART. 37, INCISO II, DA LEI FEDERAL Nº 14.973/2024 E O ART.
+
+8º, INCISO II, DA PORTARIA MF Nº 1.430/2025 E A CONTRARIEDADE
+
+À CONSTITUIÇÃO FEDERAL
+
+1. Esta ação direta de inconstitucionalidade é ajuizada contra o art. 37,
+inciso II, da Lei nº 14.973, de 16 de setembro de 2024, oriunda do Projeto de Lei
+nº 1.847/20243 (doc. 9), cujo escopo original consistia na concretização do
+acordo celebrado entre Poder Executivo e Congresso Nacional envolvendo a ADI
+nº 7.633/DF, mediante a criação de regime de transição para a contribuição
+substitutiva prevista nos arts. 7º e 8º da Lei nº 12.546/2011, bem como para o
+adicional sobre a Cofins-Importação previsto no art. 8º, § 21, da Lei nº
+10.865/2004.
+
+2. Todavia, no curso do processo legislativo, foi inserido ao texto da
+referida proposição, dispositivo estranho à sua finalidade original, qual seja, o
+art. 37, inciso II, que altera o índice de correção aplicável aos valores
+depositados judicial e administrativamente pelos contribuintes, passando tais
+depósitos a ser corrigidos “acrescidos de correção monetária por índice oficial
+que reflita a inflação”, substituindo a Taxa Referencial do Sistema Especial de
+Liquidação e de Custódia (SELIC) — ainda vigente para a atualização dos
+débitos tributários, nos seguintes termos:
+
+“Art. 37. Conforme dispuser a ordem da autoridade judicial ou, no caso de
+depósito extrajudicial, da autoridade administrativa competente, haverá: (...)
+
+II – levantamento dos valores por seu titular, acrescidos de correção
+monetária por índice oficial que reflita a inflação. (...)”
+
+3. Posteriormente, o Ministério da Fazenda editou a Portaria MF nº
+1.430, de 4 de julho de 2025, que, ao regulamentar o comando legal, especificou
+em seu artigo 8º, inciso II, que a correção seria feita pela "variação acumulada
+do Índice Nacional de Preços ao Consumidor Amplo (IPCA)":
+
+3 Projeto de Lei nº 1.847, de 2024, apresentado pelo Senador Efraim Filho, que “Estabelece um regime de transição para
+a contribuição substitutiva prevista pelos arts. 7º e 8º da Lei nº 12.546, de 14 de dezembro de 2011, e para o adicional
+sobre a Cofins-Importação previsto pelo § 21 do art. 8º da Lei nº 10.865, de 30 de abril de 2004.”
+2
+
+[[pagina 3 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+“Art. 8º Conforme dispuser a ordem da autoridade judicial ou administrativa
+competente:
+I - o depósito será concluído, sem qualquer acréscimo, quando os valores
+depositados forem destinados a órgão, ente ou fundo da Administração
+Pública integrante do Sistema Integrado de Administração Financeira do
+Governo Federal (SIAFI); ou
+II - os valores serão levantados por seu titular, sendo acrescidos, uma
+única vez, de correção positiva equivalente à variação acumulada do
+Índice Nacional de Preços ao Consumidor Amplo (IPCA), apurado e
+divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística
+(IBGE).
+§ 1º Na hipótese do inciso I do caput, o depósito concluído será contabilizado
+como pagamento na data de ingresso dos valores na Conta Única do Tesouro
+Nacional, inexistindo descompasso de atualização entre o valor depositado e
+o valor da dívida ou obrigação caucionada, sendo vedado o levantamento
+para efetivação de novo recolhimento.
+§ 2º Na hipótese do inciso II do caput, os valores serão: I - debitados, inclusive
+correção acrescida, à Conta Única do Tesouro Nacional a título de restituição;
+II - contabilizados, sendo o caso, como dedução da respectiva receita em que
+houver sido classificado o depósito; e
+III - disponibilizados a seu titular em no máximo vinte e quatro horas.”
+
+4. Neste ponto, destaca-se que, nos termos do seu artigo 12, a referida
+Portaria MF nº 1.430/2025 entrará em vigor em 1º de janeiro de 2026 (“Art. 12.
+Esta Portaria entra em vigor em 1º de janeiro de 2026.”).
+
+5. Dessa forma, a partir de 1º de janeiro de 2026, em vista da
+modificação promovida pelo art. 37, inciso II da Lei nº 14.973/2024 em conjunto
+com o disposto no artigo 8º, inciso II, da Portaria MF nº 1.430/2025, os depósitos
+administrativos e judiciais nos processos em que figure a União (e qualquer de
+seus órgãos, fundos etc.) passarão a ser corrigidos conforme tais legislações,
+ou seja, “sendo acrescidos, uma única vez, de correção positiva equivalente
+à variação acumulada do Índice Nacional de Preços ao Consumidor Amplo
+(IPCA), apurado e divulgado pela Fundação Instituto Brasileiro de Geografia
+e Estatística (IBGE).”
+
+6. Tais disposições, em conjunto, substituem a SELIC como forma de
+correção dos depósitos administrativos e judiciais (conforme disposto no artigo
+1º, inciso I, do § 3º e no art. 2º-A, § 3º, todos da Lei nº 9.703, de 17 de novembro
+de 1998, complementado com o disposto no art. 39, § 4º, da Lei nº 9.250, de 26
+de dezembro de 1995):
+
+3
+
+[[pagina 4 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+“Lei nº 9.703, de 17 de novembro de 1998
+
+Dispõe sobre os depósitos judiciais e extrajudiciais de tributos e contribuições
+federais.
+
+Art. 1º Os depósitos judiciais e extrajudiciais, em dinheiro, de valores
+referentes a tributos e contribuições federais, inclusive seus acessórios,
+administrados pela Secretaria da Receita Federal do Ministério da Fazenda,
+serão efetuados na Caixa Econômica Federal, mediante Documento de
+Arrecadação de Receitas Federais - DARF, específico para essa finalidade.
+(...)
+§ 3º Mediante ordem da autoridade judicial ou, no caso de depósito
+extrajudicial, da autoridade administrativa competente, o valor do depósito,
+após o encerramento da lide ou do processo litigioso, será:
+I - devolvido ao depositante pela Caixa Econômica Federal, no prazo
+máximo de vinte e quatro horas, quando a sentença lhe for favorável ou
+na proporção em que o for, acrescido de juros, na forma estabelecida
+pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995, e
+alterações posteriores; ou
+II - transformado em pagamento definitivo, proporcionalmente à
+exigência do correspondente tributo ou contribuição, inclusive seus
+acessórios, quando se tratar de sentença ou decisão favorável à
+Fazenda Nacional.
+(...)
+Art. 2o-A. Aos depósitos efetuados antes de 1o de dezembro de 1998 será
+aplicada a sistemática prevista nesta Lei de acordo com um cronograma
+fixado por ato do Ministério da Fazenda, sendo obrigatória a sua transferência
+à conta única do Tesouro Nacional. (Incluído pela Lei nº 12.058, de 2009)
+Parágrafo único. A inobservância da transferência obrigatória de que trata o
+caput deste artigo sujeita os recursos depositados à remuneração à taxa Selic
+e sujeita os administradores da Caixa Econômica Federal às penalidades
+impostas pela Lei no 4.595, de 31 de dezembro de 1964. (Incluído pela Lei nº
+12.058, de 2009)
+§ 1o Os juros dos depósitos referidos no caput serão calculados à taxa
+originalmente devida até a data da transferência à conta única do Tesouro
+Nacional. (Incluído pela Lei nº 12.099, de 2009)
+§ 2o Após a transferência à conta única do Tesouro Nacional, os juros
+dos depósitos referidos no caput serão calculados na forma
+estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de
+1995. (Incluído pela Lei nº 12.099, de 2009)
+§ 3o A inobservância da transferência obrigatória de que trata o caput sujeita
+os recursos depositados à remuneração na forma estabelecida pelo § 4º do
+art. 39 da Lei nº 9.250, de 26 de dezembro de 1995, desde a inobservância,
+e os administradores das instituições financeiras às penalidades previstas na
+Lei no 4.595, de 31 de dezembro de 1964. (Renumerado do parágrafo único pela Lei
+nº 12.099, de 2009)
+§ 4o (VETADO) (Incluído pela Lei nº 12.099, de 2009)
+
+Lei nº 9.250, de 26 de dezembro de 1995
+
+Altera a legislação do imposto de renda das pessoas físicas e dá outras
+providências.
+
+“Art. 39. A compensação de que trata o art. 66 da Lei nº 8.383, de 30 de
+dezembro de 1991, com a redação dada pelo art. 58 da Lei nº 9.069, de 29
+
+4
+
+[[pagina 5 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+de junho de 1995, somente poderá ser efetuada com o recolhimento de
+importância correspondente a imposto, taxa, contribuição federal ou receitas
+patrimoniais de mesma espécie e destinação constitucional, apurado em
+períodos subseqüentes.
+§ 1º (VETADO)
+§ 2° (VETADO)
+§ 3° (VETADO)
+§ 4º A partir de 1º de janeiro de 1996, a compensação ou restituição será
+acrescida de juros equivalentes à taxa referencial do Sistema Especial
+de Liquidação e de Custódia - SELIC para títulos federais, acumulada
+mensalmente, calculados a partir da data do pagamento indevido ou a
+maior até o mês anterior ao da compensação ou restituição e de 1%
+relativamente ao mês em que estiver sendo efetuada.”
+
+7. A referida alteração, todavia, configura flagrante violação ao princípio
+constitucional da isonomia (art. 5º, caput, da Constituição Federal), ferindo
+o direito fundamental à igualdade, ao estabelecer tratamento assimétrico entre
+o Fisco e o contribuinte quanto à atualização monetária de valores depositados
+em juízo ou administrativamente.
+
+8. Isso porque, enquanto os débitos tributários continuam sendo
+corrigidos pela SELIC — índice que incorpora juros e correção monetária — os
+depósitos judiciais e administrativos passam a ser corrigidos apenas pelo IPCA,
+índice que reflete exclusivamente a inflação, sem qualquer componente
+remuneratório.
+
+9. O tratamento não isonômico se dá também em relação às
+compensações e restituições de valores pagos a maior ou de forma indevida pelo
+contribuinte, conforme disposto pelo art. 39, § 4º, da Lei nº 9.250, de 26 de
+dezembro de 1995, o que afronta também o princípio da segurança jurídica, ao
+dar tratamento distinto aos valores mantidos no caixa da União.
+
+10. A isonomia, neste contexto, não se resume a uma mera simetria
+abstrata, exigindo tratamento equânime e proporcional entre situações jurídicas
+correlatas. Ou seja, o contribuinte que deposita e a Fazenda que credita estão em
+posições recíprocas e equivalentes no que tange à necessidade de preservação
+do valor temporal do dinheiro, sendo que a sistemática da SELIC buscava este
+equilíbrio.
+
+5
+
+[[pagina 6 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+11. Todavia, a sistemática do IPCA, ao apartar a correção monetária
+(devolvida ao contribuinte) dos juros (retidos pela União), institui uma
+desigualdade material e injustificável, violando o núcleo do art. 5º, caput, da CF.
+
+12. Tal assimetria revela-se, ainda, desproporcional e incompatível com o
+direito de propriedade, previsto no art. 5º, inciso XXII, da Constituição
+Federal (CF), pela corrosão econômica do valor caucionado, com o princípio
+do acesso à justiça (art. 5º, inciso XXXV, da CF), ao encarecer
+desproporcionalmente o custo da garantia, com o princípio da moralidade
+administrativa (art. 37, caput, da CF), por refletir ganho financeiro indevido ao
+Estado, e com o princípio da proteção à confiança legítima do contribuinte,
+este último derivado do princípio da segurança jurídica (art. 5º, inciso XXXVI,
+da CF).
+
+13. A afronta ao princípio da segurança jurídica (art. 5º, inciso XXXVI,
+da CF) e, como seu corolário, à proteção da confiança legítima, evidencia-
+se no rompimento abrupto da sistemática consolidada há décadas, uma vez que
+os contribuintes, amparados na legislação e na jurisprudência dominante (e.g.,
+ADI 1.933), planejaram seus negócios e conduziram suas litigâncias na legítima
+expectativa de paridade de tratamento.
+
+14. Assim, a alteração súbita e sem justificativa técnica que compense o
+ônus imposto, quebra esta confiança de modo grave e arbitrário, afrontando
+também o princípio da moralidade administrativa (art. 37, caput, da CF), que
+veda à Administração Pública condutas desleais e surpresas contra os
+administrados.
+
+15. Adicionalmente, o desestímulo à utilização do depósito levará o
+contribuinte a pagar o tributo e depois restituí-lo, para ter o direito de atualização
+pela SELIC, o que viola também o devido processo legal (art. 5º, inciso LIV,
+da CF), o princípio da inafastabilidade da jurisdição (art. 5º, XXXV, da CF), o
+princípio da ampla defesa (art. 5º, inciso LV, da CF) e a privação de bens
+sem o devido processo legal (art. 5º, inciso LIV, da CF).
+
+6
+
+[[pagina 7 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+16. Ora, ao fazer letra morta o art. 9º4, inciso I e § 3, e o art. 11, inciso
+I, ambos da Lei nº 6.830/80, que privilegiam o depósito em dinheiro como garantia
+do débito para fins de oposição de embargos à execução fiscal, e do art. 375 inciso
+II, da Lei nº 14.973/2024 força o contribuinte, indiretamente, a primeiro recolher o
+tributo (para ter o direito de restituí-lo com atualização pela SELIC) e, somente
+depois, discuti-lo, em ação de repetição de indébito.
+
+17. Além disso, a diferenciação dos índices de correção monetária em
+situações correlatas, ao impedir a integral recomposição do valor econômico dos
+depósitos, configura confisco indireto, expressamente vedado pelo art. 150,
+inciso IV, da Constituição Federal (CF), bem como viola o direito de
+propriedade privada (art. 5º, inciso XXII, da CF).
+
+18. À luz desses parâmetros constitucionais, impõe-se a declaração de
+inconstitucionalidade do art. 37, inciso II, da Lei nº 14.973, de 16 de
+setembro de 2024 e do artigo 8º, inciso II, da Portaria MF nº 1.430, de 4 julho
+de 2025, pelos fundamentos a seguir expostos.
+
+II – A REPRESENTATIVIDADE E LEGITIMIDADE DAS AUTORAS PARA
+AJUIZAR AÇÃO DIRETA DE INCONSTITUCIONALIDADE E
+PERTINÊNCIA TEMÁTICA
+
+19. A Confederação Nacional de Serviços – CNS, é confederação
+sindical devidamente reconhecida pelo Ministério do Trabalho e Emprego,
+conforme atesta a anexa Certidão no Cadastro Nacional de Entidades Sindicais
+(doc. 1).
+
+4 “Art. 9º - Em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na Certidão de
+Dívida Ativa, o executado poderá:
+I - efetuar depósito em dinheiro, à ordem do Juízo em estabelecimento oficial de crédito, que assegure atualização
+monetária;
+II - oferecer fiança bancária ou seguro garantia; (Redação dada pela Lei nº 13.043, de 2014)
+III - nomear bens à penhora, observada a ordem do artigo 11; ou (...)
+§ 3o A garantia da execução, por meio de depósito em dinheiro, fiança bancária ou seguro garantia, produz os mesmos
+efeitos da penhora. (Redação dada pela Lei nº 13.043, de 2014) (...)”
+5 “Art. 11 - A penhora ou arresto de bens obedecerá à seguinte ordem:
+I - dinheiro; (...)”
+7
+
+[[pagina 8 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+20. A CNS foi fundada em fevereiro de 1999 para representar, no âmbito
+nacional, os direitos e interesses do setor de serviços das Federações a ela
+filiadas, organizando o sistema confederativo de representação sindical desse
+setor, sendo, portanto, a entidade máxima em tal sistema e, nos termos de seu
+Estatuto Social (art. 1º, § 2º, inciso I), tem legitimidade para representar
+judicialmente a categoria econômica das empresas de prestação de serviços em
+âmbito nacional. Nesse sentido, a CNS propôs as Ações Diretas de
+Inconstitucionalidade - no 5576/SP e 5659/SP perante este C. Supremo Tribunal
+Federal, e, mais recentemente, a Ação Direta de Inconstitucionalidade nº
+7852/SP, tendo sido reconhecida em todas elas a sua legitimidade ativa.
+
+21. Da mesma forma, a coautora, a Confederação Nacional dos
+Transportes - CNT, que atua ativamente para que o setor de transportes se
+fortaleça e avance de forma estratégica e sustentável, é entidade sindical de
+grau superior regularmente registrada no Ministério do Trabalho, nos termos do
+art. 535 da Consolidação das Leis do Trabalho (CLT), conforme comprova a
+documentação anexa (doc. 2), possuindo legitimidade ativa para a propositura
+de ações de controle concentrado de constitucionalidade, nos termos do art. 103,
+inciso IX, da Constituição Federal e do art. 2º, inciso IX, da Lei nº 9.868/1999.
+
+22. Criada em 1954, a instituição reúne 29 federações e 5 sindicatos
+nacionais e 27 entidades associadas. São mais de 191 mil empresas e 2,7
+milhões de empregos gerados. Na composição do Sistema Transporte, a
+instituição também administra o SEST SENAT (Serviço Social do Transporte e
+Serviço Nacional de Aprendizagem do Transporte) e o ITL (Instituto de
+Transporte e Logística).
+
+23. Por fim, a Confederação Nacional de Saúde - CNSaúde, entidade
+sindical de terceiro grau criada em 1994, é a instância máxima de representação
+sindical patronal do setor de saúde privada no Brasil, atuando com base no artigo
+8º, inciso III, da Constituição Federal e devidamente registrada conforme assento
+próprio.
+
+8
+
+[[pagina 9 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+24. Conforme previsto em seu Estatuto Social (doc. 3), a CNSaúde
+representa, em âmbito nacional, os interesses coletivos e individuais da
+categoria econômica patronal dos estabelecimentos de saúde, compreendendo
+hospitais, clínicas, casas de saúde, laboratórios de análises clínicas e patologia,
+serviços de diagnóstico por imagem, serviços de fisioterapia, dentre outros
+congêneres.
+
+25. Atualmente, a CNSaúde congrega 8 (oito) federações estaduais -
+Fenaess, Fehosul, Feherj, Fehospar, Fehoesc, Febase e Fehoesp - e mais de
+90 (noventa) sindicatos filiados, formando o vértice do sistema sindical de
+representação do setor de saúde suplementar e prestadores privados
+conveniados ao Sistema Único de Saúde (SUS).
+
+26. O papel da CNSaúde reflete a capilaridade e relevância da rede
+privada de saúde no Brasil, cujos estabelecimentos representados prestam
+atendimento à população nas mais diversas frentes: seja por meio da saúde
+suplementar (planos e seguros de saúde), seja por meio da prestação de
+serviços ao SUS, em regime de contratualização e convênios.
+
+27. Nesse contexto, a atuação da CNSaúde tem caráter técnico,
+estratégico e institucional, sendo pautada pela defesa de um sistema de
+saúde sustentável, plural e de qualidade, compromissada com a
+formulação de políticas públicas que considerem a realidade operacional e
+financeira do setor privado, responsável por parcela expressiva dos
+atendimentos em saúde no país.
+
+28. A legitimidade das requerentes para atuar como autoras na presente
+ação direta de inconstitucionalidade encontra respaldo na jurisprudência
+consolidada do Supremo Tribunal Federal, que reconhece a pertinência temática
+como requisito suficiente para a atuação de entidades sindicais de grau superior
+em defesa dos interesses das categorias econômicas que representam.
+
+29. Requer-se, assim, preliminarmente, o reconhecimento da legitimidade
+ativa das entidades autoras para a propositura da presente ação direta de
+inconstitucionalidade.
+
+9
+
+[[pagina 10 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+III. A PERTINÊNCIA TEMÁTICA.
+
+30. Para que haja pertinência temática, é necessário que a norma legal
+impugnada se aplique, direta ou indiretamente, às classes representadas pelas
+entidades sindicais autoras. E a pretensão aduzida com a presente ação guarda
+evidente relação de pertinência com os objetivos institucionais das autoras.
+
+31. Isso porque, as normas impugnadas afetam diretamente o regime
+de atualização dos depósitos judiciais e administrativos realizados por
+quaisquer empresas e entidades, inclusive as empresas do setor de serviços,
+representadas pela CNS, e as empresas do setor de transporte, representadas
+pela CNT, com impacto relevante sobre a segurança jurídica e a equidade nas
+relações tributárias.
+
+32. Cumpre destacar que esta Suprema Corte já firmou entendimento no
+sentido de que confederações sindicais setoriais detêm legitimidade ativa para o
+ajuizamento de ações de controle concentrado de constitucionalidade, mesmo
+quando os efeitos da norma impugnada transcendem os interesses diretos dos
+representados, desde que haja pertinência temática entre os objetivos
+institucionais da entidade e o conteúdo normativo questionado6, conforme
+reconhecido, por unanimidade, na ADI nº 4.364, de relatoria do Ministro Dias
+Toffoli, na qual se reconheceu que:
+
+“A meu ver, a exigência de pertinência temática não impede, quando
+o vício de inconstitucionalidade for idêntico para todos os seus
+destinatários, o amplo conhecimento da ação, nem a declaração de
+inconstitucionalidade da norma, para além do âmbito dos indivíduos
+representados pela entidade requerente.
+
+6 Foi, por exemplo, reconhecida a legitimidade ativa da Confederação Nacional da Indústria (CNI) e da Confederação
+Nacional do Comércio (CNC) nas seguintes ações abstratas tributárias:
+• ADI 5635 (CNI): em face da Lei do Estado do Rio de Janeiro nº 7.428/2016, que instituiu condição para concessão e
+manutenção de benefícios e incentivos fiscais ou financeiros relacionados ao ICMS;
+• ADI 5051 (CNC): em face do art. 1º da Lei Complementar nº110/2001, de 29 de junho de 2001, que criou o adicional de
+10% à multa sobre o FGTS para o caso de demissão sem justa causa;
+• ADI 4905 (CNI): em face dos parágrafos 15 e 17 do artigo 74 da Lei n.º 9.430, de 27 de dezembro de 1996, com a
+redação introduzida pela Lei n.º 12.249, de 11 de junho de 2010, e, por arrastamento, os artigos 36, caput e 45, § 1.º,
+inciso I da Instrução Normativa RFB n.º 1.300, de 20 de novembro de 201. “(...) esse conjunto de regras concebeu um
+complexo de normas punitivas, que estabelecem, ao contribuinte que age de boa-fé, multa de 50% do valor total do
+crédito objeto de declaração de compensação não homologada ou do valor do crédito objeto de pedido de ressarcimento
+indeferido ou indevido.”;
+• ADI 4612 (CNC): em face dos seguintes dispositivos, da expressão “plena ou não” do artigo 2º, da Lei nº 7.543, de 30
+de dezembro de 1988 e de dispositivos do artigo 4º, da Lei nº 15.242/2010, especificados no pedido, ambas do Estado
+de Santa Catarina, que tratam de IPVA.
+10
+
+[[pagina 11 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+Foi o que ocorreu, mais recentemente, na ADI nº 15/DF, da relatoria
+do Ministro Sepúlveda Pertence, DJ de 31/09/07, em que a Corte
+declarou a inconstitucionalidade do art. 9º da Lei nº 7.689, que
+mantinha em vigor a contribuição para o FINSOCIAL. A decisão
+beneficiou todos os potenciais contribuintes do tributo e não apenas a
+classe representada pela entidade requerente (Confederação das
+Associações de Microempresas do Brasil), até porque, segundo
+entendimento da Corte, inconstitucional era a manutenção do
+FINSOCIAL para quaisquer contribuintes, não havendo especificidade
+relativa às microempresas. A inconstitucionalidade era, portanto,
+essencialmente a mesma para todos.” (g.n.).
+
+33. É inequívoco, portanto, o interesse jurídico direto das autoras e de
+suas empresas/entidades ora representadas na obtenção de provimento
+jurisdicional que declare a inconstitucionalidade do art. 37, inciso II, da Lei nº
+14.973/2024 e do artigo 8º, inciso II, da Portaria MF nº 1.430/2025.
+
+34. A legitimidade ativa das autoras decorre não apenas de sua
+qualificação como confederação sindical nos termos do art. 103, inciso IX, da
+Constituição Federal, mas também da clara vinculação entre o objeto da
+presente ação e os objetivos institucionais das entidades, conforme previsto em
+seus Estatutos Sociais. A pertinência temática está, portanto, plenamente
+caracterizada, legitimando sua atuação na presente ação direta de
+inconstitucionalidade.
+
+35. Não restam dúvidas, portanto, que as disposições impugnadas
+alcançam empresas que estão acobertadas na representação das autoras,
+impactando o desenvolvimento do setor de serviços e de transportes, estando
+presente, portanto, a pertinência temática na presente ação.
+
+IV- A INCONSTITUCIONALIDADE DO ART. 37, INCISO II, DA LEI Nº
+14.973/2024 E DO ARTIGO 8º, INCISO II, DA PORTARIA MF Nº
+1.430/2025, QUE ALTERAM O ÍNDICE DE CORREÇÃO APLICÁVEL AOS
+VALORES DEPOSITADOS ADMINISTRATIVA E JUDICIALMENTE
+PELOS CONTRIBUINTES, SUBSTITUINDO A SELIC PELO IPCA/IBGE.
+
+11
+
+[[pagina 12 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+36. O art. 37, inciso II, da Lei Federal nº 14.973/2024 prevê que os
+depósitos judiciais e extrajudiciais a serem devolvidos aos titulares (leia-se
+contribuintes) sejam atualizados por “índice oficial que reflita a inflação”, a saber:
+
+“Art. 37. Conforme dispuser a ordem da autoridade judicial ou, no caso de
+depósito extrajudicial, da autoridade administrativa competente, haverá: (...)
+II – levantamento dos valores por seu titular, acrescidos de correção
+monetária por índice oficial que reflita a inflação”
+
+37. Consoante redação do art. 38 da mencionada Lei, ficou reservado a
+Ato do Ministro da Fazenda a disposição das questões inerentes à execução do
+disposto pela legislação federal, senão vejamos:
+
+“Art. 38. Ato do Ministro de Estado da Fazenda disporá sobre:
+I – o compartilhamento de dados com os órgãos e as entidades responsáveis
+pelos créditos caucionados;
+II – o fluxo para fornecimento das informações necessárias à classificação ou
+reclassificação orçamentária das receitas relativas aos valores depositados e
+demais procedimentos de finanças públicas necessários à execução do
+disposto neste Capítulo;
+III – outras questões procedimentais necessárias à execução do
+disposto neste Capítulo.”
+
+38. Nessa perspectiva, foi publicada a Portaria MF nº 1.430/25, que
+dispõe sobre depósitos em processos administrativos ou judiciais em que figure
+a União, qualquer de seus órgãos, fundos, autarquias, fundações ou empresas
+estatais federais dependentes.
+
+39. Mencionada Portaria prevê, em seu art. 8º, inciso II, que os valores
+levantados pelo titular do depósito (leia-se, contribuinte) serão acrescidos, uma
+única vez, de correção positiva equivalente à variação acumulada do Índice
+Nacional de Preços ao Consumidor Amplo (IPCA), apurado e divulgado pela
+Fundação Instituto Brasileiro de Geografia e Estatística (IBGE), in verbis:
+
+“Art. 8º Conforme dispuser a ordem da autoridade judicial ou administrativa
+competente:
+(...)
+II - os valores serão levantados por seu titular, sendo acrescidos, uma
+única vez, de correção positiva equivalente à variação acumulada do
+Índice Nacional de Preços ao Consumidor Amplo (IPCA), apurado e
+divulgado pela Fundação Instituto Brasileiro de Geografia e Estatística
+(IBGE).”
+
+12
+
+[[pagina 13 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+40. Mencionados dispositivos normativos, todavia, são flagrantemente
+inconstitucionais, uma vez que afrontam o princípio constitucional da isonomia
+e os direitos fundamentais de igualdade, propriedade, acesso à justiça e
+princípios da eficiência e moralidade, senão vejamos.
+
+41. Ora, até o advento da Lei Federal nº 14.973/2024 e a Portaria do
+Ministério da Fazenda nº 1.430, estabelecendo que os depósitos realizados a
+partir de 2026 passarão a ser remunerados pelo Índice Nacional de Preços ao
+Consumidor Amplo (IPCA), os depósitos judiciais eram corrigidos mensalmente
+pela taxa SELIC, mesmo índice utilizado para atualização, compensações e
+restituições dos tributos federais.
+
+42. Nesse ponto é importante rememorar que, conforme já pacificamente
+consolidado pelo entendimento do colendo Superior Tribunal de Justiça, “a
+SELIC inclui, a um só tempo, o índice de inflação do período e a taxa de juros
+real” (AgInt no AREsp n. 1.710.154/RS, relator Ministro Mauro Campbell
+Marques, Segunda Turma, julgado em 23/11/2020, DJe de 30/11/2020).
+
+43. Ocorre que, com a alteração legislativa e a vigência da nova norma,
+o contribuinte ficará em posição desequilibrada em relação ao fisco
+(União), uma vez que este cobrará o crédito tributário atualizado pela taxa
+SELIC, mas, no caso de o contribuinte legitimamente reaver o seu depósito
+judicial, receberá o valor corrigido pelo IPCA, índice que representa atualmente
+1/3 um terço da SELIC.
+
+44. Mencionada alteração viola o princípio da isonomia e o direito
+fundamental à igualdade (art. 5º, caput, da CF) ao adotar critério de
+discriminação, sem motivo razoável, entre a forma de atualização dos depósitos
+judiciais feitos pelo contribuinte e a forma de atualização dos respectivos débitos.
+
+45. Pois bem. O princípio da isonomia - previsto no art. 5º, caput, da
+Constituição Federal, dando início ao capítulo dos direitos individuais. Veja-se:
+
+“Art. 5º Todos são iguais perante a lei, sem distinção de
+qualquer natureza, garantindo-se aos brasileiros e aos
+estrangeiros residentes no País a inviolabilidade do direito à
+
+13
+
+[[pagina 14 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+vida, à liberdade, à igualdade, à segurança e à propriedade,
+nos termos seguintes: (...)”
+
+46. Conforme mencionado anteriormente, o art. 37, inciso II, da Lei
+14.973/2024, em conjunto com o disposto no artigo 8º, inciso II, da Portaria MF nº
+1.430/2025, substituíra as disposições que instituíam a SELIC como forma de
+correção dos depósitos administrativos e judiciais (conforme disposto no art. 1º,
+inciso I, § 3º, da Lei nº 9.703, de 17 de novembro de 1998, complementado com
+o disposto no art. 39, § 4º, da Lei nº 9.250, de 26 de dezembro de 1995).
+
+47. Ocorre que a sistemática da SELIC assegurava esta paridade, pois
+tanto o crédito tributário em discussão quanto o depósito que o garante eram
+atualizados pelo mesmo índice. A ruptura deste equilíbrio caracteriza tratamento
+desigual, na exata medida em que submete economicamente o contribuinte a um
+regime menos favorável que o do próprio Fisco.
+
+48. Estes são os ensinamentos de CANOTILHO:
+
+“A Administração Pública somente pode ferir, faticamente, o direito
+fundamental à igualdade quando a lei conceder-lhe o chamado poder
+discricionário. Caso contrário, a Administração é toda vinculada à legalidade,
+ou seja, à consonância de seus atos com a lei que fixa seus procedimentos e
+fundamenta o direito dos administrados em face dela, entre outros, por óbvio
+também o direito à igualdade. Portanto, se houver do direito fundamental à
+igualdade nesse caso, a violação será perpetrada, originalmente, pelo
+legislador, cabendo somente ao Judiciário reconhecê-lo.” (CANOTILHO, José
+Gomes. Comentários à Constituição do Brasil. Ingo Wolfgang Sarlet, Lenio
+Luiz Streck, Gilmar Ferreira Mendes (Coord.). 2. ed. São Paulo: Saraiva,
+2018., p.235).
+
+49. Salienta-se que a jurisprudência consolidada do Supremo Tribunal
+Federal, especialmente no julgamento da Ação Direta de Inconstitucionalidade
+nº 1.933, firmou entendimento pela constitucionalidade da transferência dos
+valores depositados judicial e administrativamente para a conta única do Tesouro
+Nacional, sendo que dos fundamentos centrais daquela decisão residiu na
+inexistência de prejuízo aos contribuintes, em razão da observância do
+princípio da isonomia, assegurada pela aplicação uniforme da taxa SELIC
+tanto aos créditos tributários quanto aos depósitos judiciais.
+
+14
+
+[[pagina 15 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+50. Nesse contexto, destaca-se trecho paradigmático do voto proferido
+pelo Ministro Ayres Britto, quando do julgamento do mérito da ADI nº 1.933, no
+qual Sua Excelência assevera:
+
+“7. De mais a mais, não enxergo mácula ao princípio da isonomia. Isso
+porque o contribuinte procede espontaneamente ao depósito judicial do
+tributo, almejando a suspensão da exigibilidade do crédito da Fazenda
+Pública. E esses depósitos são reajustados pela taxa SELIC (Sistema
+Especial de Liquidação e de Custódia), índice também utilizado no
+reajustamento dos créditos tributários com pagamento em atraso.
+Tratamento isonômico entre Fisco e contribuinte, portanto.”
+
+51. A referida alteração desvirtua completamente o fundamento
+isonômico que sustentou a constitucionalidade do regime de depósitos na
+ADI 1.933.
+
+52. Conforme ensina a teoria da motivação dos atos jurídicos, quando o
+fundamento essencial de validade de um instituto é suprimido, toda construção
+jurídica sobre ele desaba. Não se pode manter a forma (a transferência para a
+conta única) e suprimir a essência (a paridade de tratamento).
+
+53. Ou seja, o que era constitucional pela existência do equilíbrio
+torna-se inconstitucional pela ruptura deste mesmo equilíbrio.
+
+54. Tal afirmação reforça a necessidade de afastar a substituição da
+correção dos depósitos pelo IPCA, por vulnerar direitos dos jurisdicionados,
+comprometendo a segurança jurídica, ao garantir paridade de tratamento entre as
+partes envolvidas na relação tributária.
+
+55. Assim, este C. Supremo Tribunal Federal, no julgamento da ADI nº
+1.933, que deu ganho de causa à União quanto a constitucionalidade das
+transferências dos valores depósitos judicialmente e administrativamente para
+Conta Única do Tesouro Nacional, fixou como fundamento principal o não
+prejuízo aos contribuintes em razão do tratamento isonômico com aplicação da
+taxa SELIC nos créditos e aos depósitos.
+
+56. Nesse mesmo sentido, o Poder Executivo, no âmbito da referida ADI
+nº 1.933, ao prestar informações, anexou as INFORMAÇÕES nº AGU/SF-02/997,
+da lavra do Consultor da União Dr. Oswaldo Othon de Pontes Saraiva Filho, das
+quais destaca-se:
+
+7 Informações adotadas pelo Advogado-Geral da União Geraldo Magela da Cruz Quintão, em despacho de 04/03/1999.
+15
+
+[[pagina 16 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+“Ao contrário, agora com a incidência da taxa de juros SELIC para
+remunerar os depósitos, foi aperfeiçoado o tratamento isonômico entre
+o Fisco e o contribuinte: os créditos tributários, em atraso, são exigidos
+com a aplicação da SELIC; os créditos são compensados e restituídos
+com a incidência da SELIC; e, agora, os depósitos judiciais passaram a
+ser remunerados pela SELIC.”
+
+57. Também foi anexado à manifestação da Presidência da República o
+Parecer PGFN nº 133, de 11/02/1999, aprovado pelo então Procurador-Geral da
+Fazenda Nacional Luiz Carlos Sturzenegger, no qual, especificamente sobre a
+aplicação da SELIC aos depósitos judiciais assim firmou sua posição:
+
+“26. Cumpre destacar, por oportuno, ter o diploma legal em foco
+corrigido uma discriminação, efetivamente combatido e vencido a
+desigualdade. Como anunciamos, a remuneração anteriormente fixada
+para os depósitos judiciais não prestigiava o contribuinte-depositante.
+Agora, com a aplicação da taxa SELIC, temos uma rigorosa isonomia de
+tratamento entre o Fisco e o contribuinte. Os créditos tributários
+atrasados são cobrados com a aplicação da SELIC, os créditos
+tributários são compensados e restituídos com aplicação da SELIC e os
+depósitos judiciais a serem devolvidos são remunerados pela SELIC.”
+(grifos no original)
+
+58. Portanto, conclui-se de modo cristalino que a distinção de
+indexadores instituída pela norma impugnada consagra um tratamento
+desigual e arbitrário entre o Fisco e o contribuinte.
+
+59. Enquanto o crédito tributário é atualizado pela SELIC, que
+incorpora a correção monetária e os juros, os valores depositados em
+garantia pelo contribuinte passam a ser corrigidos apenas pelo IPCA, que
+restaura apenas o poder de compra da moeda.
+
+60. Esta assimetria, longe de ser mera opção de política econômica,
+constitui clara violação ao núcleo essencial do princípio da isonomia (art. 5º,
+caput, da CF), ao criar um desequilíbrio intencional e injustificável na relação
+jurídico-tributária, conferindo vantagem econômica indevida ao Erário e
+impondo ônus excessivo ao contribuinte.
+
+61. Em resumo:
+
+I. A jurisprudência deste Supremo Tribunal Federal, que
+determinou a SELIC como índice a ser aplicado sobre os
+depósitos (judiciais ou extrajudiciais), reforça que tal índice
+visou, desde sempre, observar o princípio da isonomia. Trata-se
+
+16
+
+[[pagina 17 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+de medida de equilíbrio no tratamento dado aos contribuintes
+frente ao Fisco;
+
+II. A substituição da SELIC por índice que oficial que reflita a
+inflação, padece de vício de constitucionalidade, pois caracteriza
+verdadeiro confisco fora das hipóteses legais, dado que, ao
+realizar o depósito e este ser levantado pela União, os valores
+são plenamente utilizados pela União com todos os seus
+acessórios (SELIC). De outra forma, sendo contribuinte vitorioso
+na causa e o montante restituído inferior ao principal mais
+acessórios (IPCA), haverá expropriação de bem privado.
+
+62. Pelo exposto até aqui, a substituição da taxa SELIC pelo IPCA como
+índice de correção dos depósitos judiciais e administrativos é evidentemente
+prejudicial ao equilíbrio de tratamento, gerando insegurança jurídica e até mesmo
+embaraço à todos os cidadãos que pensam em recorrer aos tribunais
+administrativos e judiciais, uma vez que seus débitos continuam sendo
+atualizados pela SELIC, enquanto os depósitos realizados pelos contribuintes
+passam a ser corrigidos por índice diverso e, historicamente, menor. Ora,
+evidentemente a medida impõe ônus desproporcional à parte que, ao
+realizar o depósito, busca suspender a exigibilidade do crédito tributário,
+sem qualquer garantia de justa remuneração pelo período em que os valores
+permanecem à disposição do Estado.
+
+63. O princípio da segurança jurídica, previsto no art. 5º, inciso XXXVI,
+da Constituição Federal (CF), possui como corolário a proteção da confiança
+legítima, a qual veda que o Estado, após induzir determinados comportamentos
+nos administrados, venha a frustrar as legítimas expectativas por ele mesmo
+criadas.
+
+64. No caso, a legislação e a jurisprudência consolidada ao longo de mais
+de duas décadas criaram a legítima expectativa de paridade de tratamento. A
+alteração abrupta, sem transição e sem justificativa técnica que compense o ônus,
+caracteriza violação grave a este princípio.
+
+65. Ademais, a violação à moralidade administrativa, disposto no art.
+37, caput, da Constituição Federal, também se evidencia, pois a Administração
+Pública deve pautar sua atuação pela lealdade e probidade.
+
+17
+
+[[pagina 18 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+66. Assim, a criação de regime assimétrico que beneficia unilateralmente
+o Erário, sem qualquer contrapartida ou justificativa razoável, configura conduta
+desleal para com os administrados que confiaram na sistemática anterior.
+
+67. Neste sentido, o ilustre Ministro Gilmar Mendes, em seu voto conjunto
+do julgamento das Ações Declaratórias de Constitucionalidade n°s 58 e 59 e
+Ações Declaratórias de Inconstitucionalidade n°s 5.867 E 6.021, que que
+versaram sobre a constitucionalidade dos índices de correção dos depósitos
+recursais e dos débitos judiciais na justiça do trabalho, destacou que implica em
+verdadeira desigualdade de tratamento entre o Fazenda Pública e os
+contribuintes, a permissão de os débitos da Fazenda serem corrigidos por
+índices inferiores àqueles aplicados aos créditos tributários exigidos dos
+contribuintes. Tal disparidade, segundo o Ministro, viola diretamente o princípio
+constitucional da isonomia. Vejamos:
+
+“(...) A Lei 11.960/2009, por sua vez, alterou o art. 1º-F da Lei
+9.494/97, “para uniformizar a atualização monetária e dos juros
+incidentes sobre todas as condenações judiciais impostas à
+Fazenda Pública”, e passou a estabelecer os índices oficiais de
+remuneração básica e juros aplicados à caderneta de poupança
+como critério de correção dos débitos da Fazenda Pública
+independentemente de sua natureza.
+
+Assim, as normas constitucionais e infraconstitucionais
+passaram a prever um critério específico para a correção das
+dívidas da Fazenda Pública, critério esse diferente – e bem
+menos vantajoso – daquele utilizado para a correção das dívidas
+dos administrados, favorecendo indevidamente a Administração.
+
+Essas normas foram impugnadas no Supremo Tribunal Federal,
+tanto pela via do controle concentrado, como pelo do controle
+difuso, gerando a segunda leva de precedentes contrários à
+utilização da TR, precedentes esses que iniciaram a
+controvérsia judicial em relação ao art. 39 da Lei 8.177, a partir
+de 2015, e aos artigos da CLT, a partir de 2017, conforme expus
+na preliminar afastada.
+
+Esses precedentes analisam o tratamento diferenciado,
+dado pela legislação, na relação da Fazenda Pública com o
+
+18
+
+[[pagina 19 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+administrado, criando para ela, de certa forma, uma
+vantagem, ao corrigir seus débitos por um índice com
+resultados inferiores aos índices utilizados para a correção
+de seus créditos.
+
+A conclusão do STF, por maioria, foi no sentido de determinar a
+aplicação de um único índice de correção nas relações com a
+Fazenda Pública, declarando inconstitucional o art. 1º-F da Lei
+9.494 e dando interpretação conforme ao artigo 100, §12, da CF,
+por violação ao princípio da isonomia. Cito, a propósito, trecho
+das ementas dos julgados referidos:
+
+“DIREITO CONSTITUCIONAL. REGIME DE EXECUÇÃO
+DA FAZENDA PÚBLICA MEDIANTE PRECATÓRIO. (...)
+
+6. A quantificação dos juros moratórios relativos a débitos
+fazendários inscritos em precatórios segundo o índice
+de remuneração da caderneta de poupança vulnera o
+princípio constitucional da isonomia (CF, art. 5º, caput)
+ao incidir sobre débitos estatais de natureza tributária,
+pela discriminação em detrimento da parte processual
+privada que, salvo expressa determinação em
+contrário, responde pelos juros da mora tributária à
+taxa de 1% ao mês em favor do Estado (ex vi do art.
+161, §1º, CTN). Declaração de inconstitucionalidade
+parcial sem redução da expressão “independentemente de
+sua natureza”, contida no art. 100, §12, da CF, incluído pela
+EC nº 62/09, para determinar que, quanto aos precatórios
+de natureza tributária, sejam aplicados os mesmos juros de
+mora incidentes sobre todo e qualquer crédito tributário.
+
+7. O art. 1º-F da Lei nº 9.494/97, com redação dada pela
+Lei nº 11.960/09, ao reproduzir as regras da EC nº 62/09
+quanto à atualização monetária e à fixação de juros
+moratórios de créditos inscritos em precatórios incorre
+nos mesmos vícios de juridicidade que inquinam o art. 100,
+§ 12, da CF, razão pela qual se revela inconstitucional por
+arrastamento, na mesma extensão dos itens 5 e 6 supra”.
+(ADI 4.357/DF e ADI 4.425, Rel. Min. AYRES BRITTO,
+Tribunal Pleno, DJe 26.9.2014 -Grifei)
+
+19
+
+[[pagina 20 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+“DIREITO CONSTITUCIONAL. REGIME DE
+ATUALIZAÇÃO MONETÁRIA E JUROS MORATÓRIOS
+INCIDENTE SOBRE CONDENAÇÕES JUDICIAIS DA
+FAZENDA PÚBLICA. ART. 1º-F DA LEI Nº 9.494/97 COM
+A REDAÇÃO DADA PELA LEI Nº 11.960/09.
+IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO
+ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE
+POUPANÇA COMO CRITÉRIO DE CORREÇÃO
+MONETÁRIA. VIOLAÇÃO AO DIREITO FUNDAMENTAL
+DE PROPRIEDADE (CRFB, ART. 5º, XXII).
+INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS.
+INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO
+RENDIMENTO DA CADERNETA DE POUPANÇA COMO
+ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DE
+CONDENAÇÕES IMPOSTAS À FAZENDA PÚBLICA,
+QUANDO ORIUNDAS DE RELAÇÕES
+JURÍDICOTRIBUTÁRIAS. DISCRIMINAÇÃO
+ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE
+DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CRFB,
+ART. 5º, CAPUT). RECURSO EXTRAORDINÁRIO
+PARCIALMENTE PROVIDO. (...)”. (RE 870.947, Rel. Luiz
+Fux, Tribunal Pleno, Repercussão Geral, DJe- 262
+20.11.2017 - grifei)
+
+No mesmo sentido, cito o decidido na ADI 5.348, de relatoria da
+Ministra Cármen Lúcia, que declarou a inconstitucionalidade do
+art. 1º-F da Lei 9494/97, na redação dada pela Lei 11.960.
+Destaco o seguinte trecho do voto vencedor:
+
+“(...) O entendimento firmado pelo Supremo Tribunal
+Federal no Recurso Extraordinário n. 870.947, com
+repercussão geral, deve ser seguido nesta ação de
+controle abstrato de constitucionalidade, cujo objeto
+consiste na declaração de inconstitucionalidade do art. 1º-
+F da Lei 9.494/1997, modificado pela Lei n. 11.960/2009,
+na parte pela qual determina a aplicação dos índices de
+caderneta de poupança para correção monetária em
+decisões condenatórias da Fazenda Pública”. (ADI 5.348,
+Relatora CÁRMEN LÚCIA, Tribunal Pleno, julgado em
+
+20
+
+[[pagina 21 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+11.11.2019, PROCESSO ELETRÔNICO DJe-260 DIVULG
+27.11.2019 PUBLIC 28.11.2019)”
+
+68. Além disso, há flagrante violação ao princípio da moralidade ao
+aplicar índice de atualização dos depósitos judiciais inferior àquele utilizado na
+atualização do débito, em favor da União, uma vez que fará com que esta se
+beneficie economicamente da discussão judicial dos débitos pelo contribuinte.
+
+69. O princípio da moralidade previsto no caput do artigo 37 da
+Constituição Federal (CF) implica o dever da administração pública de “proceder
+em relação aos administradores com seriedade e lhaneza, sendo-lhe interdito
+qualquer comportamento astucioso, eivado de malícia, produzido de maneira a
+confundir, dificultar ou minimizar o exercício de direitos por parte do cidadão”8
+
+70. Com efeito, no depósito judicial para suspensão da cobrança de
+tributos federais, a Caixa Econômica Federal transfere diretamente para
+Conta Única do Tesouro Nacional a quantia depositada em juízo (vide art. 35
+da Lei nº 14.973/24), o que representa uma disponibilidade imediata de
+recursos no orçamento federal, havendo rubrica própria no orçamento referente
+aos depósitos judiciais.
+
+71. A distorção nesse caso decorre do reconhecimento imediato pelo
+Estado do recurso financeiro depositado em Juízo pelo contribuinte e a posterior
+devolução por um índice diferente do que ele próprio (Estado) aplica para
+atualizar seus créditos tributários, em uma situação de enriquecimento
+injustificado e ilícito da União, que verdadeiramente se apropriará dos
+rendimentos reais do depósito.
+
+72. Também, o depósito judicial é propriedade legítima do contribuinte,
+ainda que vinculado ao juízo como meio de garantia. Portanto, ao disponibilizá-
+la imediatamente ao Tesouro Nacional e ao mesmo tempo restringir a sua
+atualização apenas à inflação, a lei retira os rendimentos reais que essa quantia
+poderia obter em aplicações seguras, implicando em uma evidente deterioração
+patrimonial, especialmente em períodos de juros reais positivos (como é o
+cenário nacional), uma flagrante e inconstitucional limitação ao direito de
+propriedade do contribuinte.
+
+8 MELLO, Celso Antônio Bandeira de. “Curso de Direito Administrativo”, 8ª ed., São Paulo, Malheiros, 1996, p.69
+21
+
+[[pagina 22 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+73. A esse respeito, propomos a título de exemplo um exercício hipotético
+em que um contribuinte em determinada data inicial possua uma obrigação
+tributária de R$1.000,00 (mil reais), que seja garantida integralmente por um
+depósito judicial. Vejamos como seriam os impactos da distorção entre SELIC
+e IPCA, considerando a diferença dos valores entre a “data inicial” e a presente
+data (setembro/2025):
+
+Data Inicial Atualizado SELIC Atualizado IPCA Diferença
+Outubro/2021 R$1.457,00 R$1.238,02 R$218,98
+Outubro/2022 R$1.347,50 R$1.155,21 R$192,29
+Outubro/2023 R$1.221,10 R$1.098,26 R$122,84
+Outubro/2024 R$1.116,40 R$1.051,72 R$64,68
+* Simulação que considerou a correção de R$1.000,00 desde as datas iniciais indicadas até setembro/2025 pela SELIC
+e IPCA.
+
+74. As diferenças são relevantíssimas e alcançaram 21,89% do valor em
+4 anos, 19,22% em 3 anos, 12,28% em 2 anos e 6,46% em 1 ano.
+
+75. Além disso, ao ter os depósitos judiciais atualizados por índice inferior
+ao utilizado na atualização do débito tributário, a alteração legislativa fere o
+direito fundamental do acesso à justiça, uma vez que a garantia do juízo pelo
+contribuinte é requisito à oposição de Embargos à Execução, não revelando-se
+factível dispender do valor integral referente ao débito para discutir a sua
+exigibilidade, para, ao final, em eventual vitória, ser ressarcido apenas com
+recomposição da inflação, sem qualquer remuneração real pelo tempo que a
+União permaneceu na disponibilidade do dinheiro do contribuinte.
+
+76. Ora, se o depósito perde a remuneração real, o custo de litigar
+aumenta, desincentivando o controle jurisdicional.
+
+77. Narrada situação escancara, ainda, a violação ao princípio da
+eficiência, o qual impõe ao Estado a persecução do bem comum, de forma
+imparcial, neutra, transparente, eficaz, sem burocracia e em busca da qualidade,
+evitando desperdícios. O dispositivo ora atacado permitirá que a União se
+beneficie de atos protelatórios, uma vez que terá à sua integral disposição os
+valores oriundos dos depósitos judiciais, com a segurança de que, futuramente,
+ou terá que devolver o valor atualizado de forma mínima ou poderá receber valor
+ainda maior, uma vez que o débito continuará sendo corrigido pela SELIC.
+
+22
+
+[[pagina 23 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+78. Em resumo, o Estado antecipa-se e beneficia-se dos recursos na
+Conta Única e, mesmo sagrando-se vencedor o contribuinte, este devolverá os
+valores corrigidos apenas pelo IPCA, apropriando-se integralmente do juro real
+(ganho financeiro) — cenário de vantagem estratégica e incentivo a condutas
+protelatórias, situação na contramão do princípio da eficiência da justiça.
+
+79. Salienta-se que esta Suprema Corte, em situação equivalente a
+presente, proferiu entendimento, vinculante e submetido à sistemática de
+recursos repetitivos, segundo o qual “o princípio constitucional da isonomia
+(CRFB, art. 5º, caput), no seu núcleo essencial, revela que o art. 1º-F da Lei nº
+9.494/97, com a redação dada pela Lei nº 11.960/09, na parte em que disciplina
+os juros moratórios aplicáveis a condenações da Fazenda Pública, é
+inconstitucional ao incidir sobre débitos oriundos de relação jurídico-
+tributária, os quais devem observar os mesmos juros de mora pelos quais
+a Fazenda Pública remunera seu crédito; nas hipóteses de relação jurídica
+diversa da tributária, a fixação dos juros moratórios segundo o índice de
+remuneração da caderneta de poupança é constitucional, permanecendo hígido,
+nesta extensão, o disposto legal supramencionado” (RE 870947, Relator(a):
+LUIZ FUX, Tribunal Pleno, julgado em 20-09-2017, ACÓRDÃO -
+REPERCUSSÃO GERAL - MÉRITO DJe-262 DIVULG 17-11-2017 PUBLIC 20-
+11-2017)
+
+80. Lado outro, ao julgar as ADIs nºs 4425 e 4357, em que também
+restaram verificadas distorções em índices de correção monetária em
+prejuízo do cidadão/contribuinte, esta Suprema Corte foi incisiva ao declarar
+a inconstitucionalidade das mencionadas normas, a saber:
+
+Ementa: DIREITO CONSTITUCIONAL. REGIME DE EXECUÇÃO DA
+FAZENDA PÚBLICA MEDIANTE PRECATÓRIO. EMENDA
+CONSTITUCIONAL Nº 62/2009. INCONSTITUCIONALIDADE FORMAL NÃO
+CONFIGURADA. INEXISTÊNCIA DE INTERSTÍCIO CONSTITUCIONAL
+MÍNIMO ENTRE OS DOIS TURNOS DE VOTAÇÃO DE EMENDAS À LEI
+MAIOR (CF, ART. 60, §2º). CONSTITUCIONALIDADE DA SISTEMÁTICA DE
+“SUPERPREFERÊNCIA” A CREDORES DE VERBAS ALIMENTÍCIAS
+QUANDO IDOSOS OU PORTADORES DE DOENÇA GRAVE. RESPEITO À
+DIGNIDADE DA PESSOA HUMANA E À PROPORCIONALIDADE.
+INVALIDADE JURÍDICO-CONSTITUCIONAL DA LIMITAÇÃO DA
+PREFERÊNCIA A IDOSOS QUE COMPLETEM 60 (SESSENTA) ANOS ATÉ
+A EXPEDIÇÃO DO PRECATÓRIO. DISCRIMINAÇÃO ARBITRÁRIA E
+VIOLAÇÃO À ISONOMIA (CF, ART. 5º). INCONSTITUCIONALIDADE DA
+SISTEMÁTICA DE COMPENSAÇÃO DE DÉBITOS INSCRITOS EM
+PRECATÓRIOS EM PROVEITO EXCLUSIVO DA FAZENDA PÚBLICA.
+
+23
+
+[[pagina 24 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+EMBARAÇO À EFETIVIDADE DA JURISDIÇÃO (CF, ART. 5º, XXXV),
+DESRESPEITO À COISA JULGADA MATERIAL (CF, ART. 5º XXXVI),
+OFENSA À SEPARAÇÃO DOS PODERES (CF, ART. 2º) E ULTRAJE À
+ISONOMIA ENTRE O ESTADO E O PARTICULAR (CF, ART. 1º, CAPUT, C/C
+ART. 5º, CAPUT). IMPOSSIBILIDADE JURÍDICA DA UTILIZAÇÃO DO
+ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE POUPANÇA COMO
+CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO AO DIREITO
+FUNDAMENTAL DE PROPRIEDADE (CF, ART. 5º, XXII). INADEQUAÇÃO
+MANIFESTA ENTRE MEIOS E FINS. INCONSTITUCIONALIDADE DA
+UTILIZAÇÃO DO RENDIMENTO DA CADERNETA DE POUPANÇA COMO
+ÍNDICE DEFINIDOR DOS JUROS MORATÓRIOS DOS CRÉDITOS
+INSCRITOS EM PRECATÓRIOS, QUANDO ORIUNDOS DE RELAÇÕES
+JURÍDICO-TRIBUTÁRIAS. DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO
+À ISONOMIA ENTRE DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CF,
+ART. 5º, CAPUT). INCONSTITUCIONALIDADE DO REGIME ESPECIAL DE
+PAGAMENTO. OFENSA À CLÁUSULA CONSTITUCIONAL DO ESTADO DE
+DIREITO (CF, ART. 1º, CAPUT), AO PRINCÍPIO DA SEPARAÇÃO DE
+PODERES (CF, ART. 2º), AO POSTULADO DA ISONOMIA (CF, ART. 5º,
+CAPUT), À GARANTIA DO ACESSO À JUSTIÇA E A EFETIVIDADE DA
+TUTELA JURISDICIONAL (CF, ART. 5º, XXXV) E AO DIREITO ADQUIRIDO
+E À COISA JULGADA (CF, ART. 5º, XXXVI). PEDIDO JULGADO
+PROCEDENTE EM PARTE.
+(...)
+5. O direito fundamental de propriedade (CF, art. 5º, XXII) resta violado
+nas hipóteses em que a atualização monetária dos débitos fazendários
+inscritos em precatórios perfaz-se segundo o índice oficial de
+remuneração da caderneta de poupança, na medida em que este
+referencial é manifestamente incapaz de preservar o valor real do
+crédito de que é titular o cidadão. É que a inflação, fenômeno tipicamente
+econômico-monetário, mostra-se insuscetível de captação apriorística (ex
+ante), de modo que o meio escolhido pelo legislador constituinte
+(remuneração da caderneta de poupança) é inidôneo a promover o fim a que
+se destina (traduzir a inflação do período).
+6. A quantificação dos juros moratórios relativos a débitos fazendários
+inscritos em precatórios segundo o índice de remuneração da caderneta
+de poupança vulnera o princípio constitucional da isonomia (CF, art. 5º,
+caput) ao incidir sobre débitos estatais de natureza tributária, pela
+discriminação em detrimento da parte processual privada que, salvo
+expressa determinação em contrário, responde pelos juros da mora
+tributária à taxa de 1% ao mês em favor do Estado (ex vi do art. 161, §1º,
+CTN). Declaração de inconstitucionalidade parcial sem redução da expressão
+“independentemente de sua natureza”, contida no art. 100, §12, da CF,
+incluído pela EC nº 62/09, para determinar que, quanto aos precatórios de
+natureza tributária, sejam aplicados os mesmos juros de mora incidentes
+sobre todo e qualquer crédito tributário.
+7. O art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, ao
+reproduzir as regras da EC nº 62/09 quanto à atualização monetária e à
+fixação de juros moratórios de créditos inscritos em precatórios incorre nos
+mesmos vícios de juridicidade que inquinam o art. 100, §12, da CF, razão
+pela qual se revela inconstitucional por arrastamento, na mesma
+extensão dos itens 5 e 6 supra.
+8. O regime “especial” de pagamento de precatórios para Estados e
+Municípios criado pela EC nº 62/09, ao veicular nova moratória na quitação
+dos débitos judiciais da Fazenda Pública e ao impor o contingenciamento de
+recursos para esse fim, viola a cláusula constitucional do Estado de Direito
+24
+
+[[pagina 25 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+(CF, art. 1º, caput), o princípio da Separação de Poderes (CF, art. 2º), o
+postulado da isonomia (CF, art. 5º), a garantia do acesso à justiça e a
+efetividade da tutela jurisdicional (CF, art. 5º, XXXV), o direito adquirido e à
+coisa julgada (CF, art. 5º, XXXVI).
+9. Pedido de declaração de inconstitucionalidade julgado procedente em
+parte.
+(ADI 4357, Relator(a): AYRES BRITTO, Relator(a) p/ Acórdão: LUIZ FUX,
+Tribunal Pleno, julgado em 14-03-2013, ACÓRDÃO ELETRÔNICO DJe-188
+DIVULG 25-09-2014 PUBLIC 26-09-2014)
+
+DIREITO CONSTITUCIONAL. REGIME DE EXECUÇÃO DA FAZENDA
+PÚBLICA MEDIANTE PRECATÓRIO. EMENDA CONSTITUCIONAL Nº
+62/2009. INCONSTITUCIONALIDADE FORMAL NÃO CONFIGURADA.
+INEXISTÊNCIA DE INTERSTÍCIO CONSTITUCIONAL MÍNIMO ENTRE OS
+DOIS TURNOS DE VOTAÇÃO DE EMENDAS À LEI MAIOR (CF, ART. 60,
+§2º). CONSTITUCIONALIDADE DA SISTEMÁTICA DE
+“SUPERPREFERÊNCIA” A CREDORES DE VERBAS ALIMENTÍCIAS
+QUANDO IDOSOS OU PORTADORES DE DOENÇA GRAVE. RESPEITO À
+DIGNIDADE DA PESSOA HUMANA E À PROPORCIONALIDADE.
+INVALIDADE JURÍDICO-CONSTITUCIONAL DA LIMITAÇÃO DA
+PREFERÊNCIA A IDOSOS QUE COMPLETEM 60 (SESSENTA) ANOS ATÉ
+A EXPEDIÇÃO DO PRECATÓRIO. DISCRIMINAÇÃO ARBITRÁRIA E
+VIOLAÇÃO À ISONOMIA (CF, ART. 5º, CAPUT).
+INCONSTITUCIONALIDADE DA SISTEMÁTICA DE COMPENSAÇÃO DE
+DÉBITOS INSCRITOS EM PRECATÓRIOS EM PROVEITO EXCLUSIVO DA
+FAZENDA PÚBLICA. EMBARAÇO À EFETIVIDADE DA JURISDIÇÃO (CF,
+ART. 5º, XXXV), DESRESPEITO À COISA JULGADA MATERIAL (CF, ART.
+5º XXXVI), OFENSA À SEPARAÇÃO DOS PODERES (CF, ART. 2º) E
+ULTRAJE À ISONOMIA ENTRE O ESTADO E O PARTICULAR (CF, ART. 1º,
+CAPUT, C/C ART. 5º, CAPUT). IMPOSSIBILIDADE JURÍDICA DA
+UTILIZAÇÃO DO ÍNDICE DE REMUNERAÇÃO DA CADERNETA DE
+POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA. VIOLAÇÃO
+AO DIREITO FUNDAMENTAL DE PROPRIEDADE (CF, ART. 5º, XXII).
+INADEQUAÇÃO MANIFESTA ENTRE MEIOS E FINS.
+INCONSTITUCIONALIDADE DA UTILIZAÇÃO DO RENDIMENTO DA
+CADERNETA DE POUPANÇA COMO ÍNDICE DEFINIDOR DOS JUROS
+MORATÓRIOS DOS CRÉDITOS INSCRITOS EM PRECATÓRIOS,
+QUANDO ORIUNDOS DE RELAÇÕES JURÍDICO-TRIBUTÁRIAS.
+DISCRIMINAÇÃO ARBITRÁRIA E VIOLAÇÃO À ISONOMIA ENTRE
+DEVEDOR PÚBLICO E DEVEDOR PRIVADO (CF, ART. 5º, CAPUT).
+INCONSTITUCIONALIDADE DO REGIME ESPECIAL DE PAGAMENTO.
+OFENSA À CLÁUSULA CONSTITUCIONAL DO ESTADO DE DIREITO (CF,
+ART. 1º, CAPUT), AO PRINCÍPIO DA SEPARAÇÃO DE PODERES (CF, ART.
+2º), AO POSTULADO DA ISONOMIA (CF, ART. 5º, CAPUT), À GARANTIA
+DO ACESSO À JUSTIÇA E A EFETIVIDADE DA TUTELA JURISDICIONAL
+(CF, ART. 5º, XXXV) E AO DIREITO ADQUIRIDO E À COISA JULGADA (CF,
+ART. 5º, XXXVI). PEDIDO JULGADO PROCEDENTE EM PARTE.
+(...)
+5. A atualização monetária dos débitos fazendários inscritos em
+precatórios segundo o índice oficial de remuneração da caderneta de
+poupança viola o direito fundamental de propriedade (CF, art. 5º, XXII)
+na medida em que é manifestamente incapaz de preservar o valor real
+do crédito de que é titular o cidadão. A inflação, fenômeno tipicamente
+econômico-monetário, mostra-se insuscetível de captação apriorística (ex
+ante), de modo que o meio escolhido pelo legislador constituinte
+25
+
+[[pagina 26 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+(remuneração da caderneta de poupança) é inidôneo a promover o fim a que
+se destina (traduzir a inflação do período).
+6. A quantificação dos juros moratórios relativos a débitos fazendários
+inscritos em precatórios segundo o índice de remuneração da caderneta
+de poupança vulnera o princípio constitucional da isonomia (CF, art. 5º,
+caput) ao incidir sobre débitos estatais de natureza tributária, pela
+discriminação em detrimento da parte processual privada que, salvo
+expressa determinação em contrário, responde pelos juros da mora
+tributária à taxa de 1% ao mês em favor do Estado (ex vi do art. 161, §1º,
+CTN). Declaração de inconstitucionalidade parcial sem redução da expressão
+“independentemente de sua natureza”, contida no art. 100, §12, da CF,
+incluído pela EC nº 62/09, para determinar que, quanto aos precatórios de
+natureza tributária, sejam aplicados os mesmos juros de mora incidentes
+sobre todo e qualquer crédito tributário.
+7. O art. 1º-F da Lei nº 9.494/97, com redação dada pela Lei nº 11.960/09, ao
+reproduzir as regras da EC nº 62/09 quanto à atualização monetária e à
+fixação de juros moratórios de créditos inscritos em precatórios incorre nos
+mesmos vícios de juridicidade que inquinam o art. 100, §12, da CF, razão pela
+qual se revela inconstitucional por arrastamento, na mesma extensão dos
+itens 5 e 6 supra.
+(...)
+9. Pedido de declaração de inconstitucionalidade julgado procedente em
+parte.
+(ADI 4425, Relator(a): AYRES BRITTO, Relator(a) p/ Acórdão: LUIZ FUX,
+Tribunal Pleno, julgado em 14-03-2013, PROCESSO ELETRÔNICO DJe-251
+DIVULG 18-12-2013 PUBLIC 19-12-2013 RTJ VOL-00227-01 PP-00125)
+
+81. Ora, se a Corte reputou inconstitucional a atualização monetária dos
+débitos fazendários inscritos em precatórios segundo o índice oficial de
+remuneração da caderneta de poupança, justamente por não recompor o
+valor do crédito do cidadão, com maior razão é a inconstitucionalidade da
+substituição da utilização da SELIC pelo IPCA na atualização dos depósitos
+administrativos e judiciais que envolvem os interesses da Administração
+Federal quando, no polo oposto, esta preserva a SELIC para si.
+
+82. Trata-se, portanto, de questão que transcende o plano
+infraconstitucional, alcançando os pilares da justiça fiscal, da segurança jurídica,
+da isonomia e da proteção à propriedade privada, razão pela qual a controvérsia
+assume especial relevância constitucional e justifica a atuação das Requerentes
+na presente ação direta de inconstitucionalidade.
+
+83. Por todo o exposto, demonstrada a cristalina violação das normas
+vergastadas aos princípios constitucionais, bem como a pacífica jurisprudência
+desta e. Corte, requer-se a declaração de inconstitucionalidade do art. 37, inciso
+II, da Lei Federal nº 14.973/2024, bem como do art. 8º, inciso II, da Portaria MF
+nº 1.430/25.
+
+26
+
+[[pagina 27 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+V - VIOLAÇÃO À ISONOMIA E À SEGURANÇA JURÍDICA NAS
+COMPENSAÇÕES E RESTITUIÇÕES DE VALORES PAGOS
+INDEVIDAMENTE, GERADA PELA INCONSTITUCIONALIDADE DO ART. 37,
+INCISO II, DA LEI Nº 14.973/2024 E DO ARTIGO 8º, INCISO II, DA PORTARIA
+MF Nº 1.430/2025
+
+84. Como já expresso alhures, a inconstitucionalidade do novo regime de
+atualização monetária dos depósitos administrativos e judiciais e administrativos
+se estende, de forma igualmente grave, ao tratamento conferido às hipóteses de
+compensação e restituição de valores pagos indevidamente ou a maior,
+conforme previsto do art. 39, § 4º, da Lei nº 9.250, de 26 de dezembro de 1995.
+
+85. Esse dispositivo legal estabelece, de forma clara e inequívoca, que:
+
+“§ 4º. A partir de 1ª de janeiro de 1996, a compensação ou
+restituição será acrescida de juros equivalentes à taxa
+referencial do Sistema Especial de Liquidação e de Custódia –
+SELIC para títulos federais, acumulada mensalmente,
+calculados a partir da data do pagamento indevido ou a maior
+até o mês anterior ao da compensação ou restituição e de 1%
+relativamente ao mês em que estiver sendo efetuada."
+
+86. A manutenção da SELIC como índice aplicável às restituições e
+compensações evidencia que o legislador reconhece a necessidade de
+recompor integralmente o valor econômico do montante indevidamente
+recolhido, inclusive com componente remuneratório. No entanto, ao se permitir
+que os depósitos administrativos e judiciais — que, em última análise, também
+representam valores do contribuinte sob custódia do Estado — sejam corrigidos
+apenas pelo IPCA, cria-se uma dissonância normativa inconstitucional e
+injustificável, configurando verdadeira expropriação indevida configurando
+verdadeira expropriação indevida, em afronta ao princípio da vedação ao
+confisco (art. 150, IV, da CF).
+
+27
+
+[[pagina 28 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+87. No julgamento do Recurso Extraordinário nº 582.461 (Tema 214 da
+Repercussão Geral), o Supremo Tribunal Federal analisou, à luz dos arts. 150,
+incisos I, III e IV, e 155, inciso II, da Constituição Federal (CF), a
+constitucionalidade da inclusão do valor do ICMS em sua própria base de
+cálculo, da aplicação da taxa SELIC para fins tributários e da fixação de multa
+moratória em 20% do valor do tributo. Em seu voto, o eminente Relator,
+Ministro Gilmar Mendes, foi categórico ao afirmar que tratar de forma
+distinta os créditos dos contribuintes em relação aos débitos exigidos pelo
+Fisco configura violação ao princípio da isonomia:
+
+“(...)
+
+I – DA INCIDÊNCIA DA TAXA SELIC NA ATUALIZAÇÃO DO
+DÉBITO TRIBUTÁRIO
+
+Inicialmente, registro precedentes nos quais esta Corte conclui
+que a Matéria relativa à utilização da taxa SELIC em débitos
+tributários restringe-se à matéria infraconstitucional.
+
+Não obstante, diante da existência de precedente no qual o tema
+foi enfrentado à luz do princípio da isonomia, bem como de
+reconhecimento, pelo Plenário, da repercussão geral na matéria
+tratada no presente recurso-paradigma, manifesto-me pela
+legitimidade da incidência da taxa SELIC na atualização do
+débito tributário.
+
+Trata-se de índice oficial e, por essa razão, sua incidência não
+implica violação ao princípio da anterioridade tributária,
+tampouco confere natureza remuneratória ao tributo.
+
+No julgamento da ADI 2.214, Rel. Min. Maurício Corrêa, Tribunal
+Pleno, DJ 19.4.2002, ao apreciar o tema, esta Corte assentou
+que a medida traduz rigorosa igualdade de tratamento entre
+contribuinte e fisco e que não se trata de imposição
+tributária.
+
+Entendimento diverso importaria tratamento anti-
+isonômico, porquanto a Fazenda restaria obrigada a
+reembolsar os contribuintes por esta taxa SELIC, ao passo
+que, no desembolso, os cidadãos seriam exonerados,
+
+28
+
+[[pagina 29 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+gerando desequilíbrio nas receitas fazendárias.” (grifos
+nossos)
+
+88. O entendimento consolidado por esta Suprema Corte evidencia que a
+substituição da taxa SELIC pelo Índice Nacional de Preços ao Consumidor
+Amplo (IPCA/IBGE) como índice de correção dos depósitos administrativos e
+judiciais e administrativos representa afronta direta ao princípio da isonomia (art.
+5º, caput, da Constituição Federal - CF).
+
+89. Ao estabelecer dois regimes de atualização distintos para situações
+equivalentes — de um lado, o contribuinte que paga indevidamente e tem direito
+à compensação e à restituição com correção pela SELIC; de outro, o contribuinte
+que realiza depósito administrativo e judicial, muitas vezes como condição para
+exercer o contraditório e a ampla defesa, e ao final tem seu valor restituído
+apenas com correção pelo IPCA — o ordenamento jurídico cria um desequilíbrio
+inconstitucional e injustificado nas relações tributárias. Essa assimetria
+compromete a equidade que deve nortear a atuação estatal e configura violação
+direta ao princípio da isonomia, ao favorecer indevidamente o Estado em
+detrimento do administrado.
+
+90. Além disso, a medida compromete o princípio da segurança jurídica
+(art. 5º, inciso XXXVI, da CF) e da proteção à confiança legítima, ao alterar de
+forma desproporcional e irrazoável o regime de correção de valores que
+permanecem sob controle do Estado. O contribuinte, ao optar pelo depósito
+administrativo e judicial, confia na manutenção de um regime jurídico estável e
+previsível, que assegure a integridade econômica dos valores depositados.
+
+91. A substituição da SELIC pelo IPCA, nesse contexto, rompe com a
+coerência sistêmica do ordenamento jurídico tributário, criando um cenário de
+incerteza e insegurança, além de incentivar condutas indesejadas, como a
+resistência ao uso do depósito administrativo e judicial como instrumento de
+garantia, em prejuízo da própria efetividade da jurisdição.
+
+29
+
+[[pagina 30 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+92. Por fim, a assimetria entre os regimes de atualização monetária
+(SELIC para restituições e compensações, IPCA para depósitos
+administrativos e judiciais) viola o princípio da vedação ao enriquecimento
+sem causa, pois permite que a União se beneficie da utilização de recursos
+privados sem a devida contrapartida remuneratória, em flagrante desequilíbrio
+na relação jurídico-tributária, como também afronta o princípio da moralidade
+administrativa (art. 37, caput, da Constituição Federal - CF), ao legitimar um
+modelo que favorece indevidamente o Estado em detrimento do contribuinte. Em
+um sistema tributário orientado pela justiça fiscal, é inadmissível que o ente
+público aufira vantagens econômicas decorrentes da retenção de valores que,
+por sua natureza, pertencem ao administrado.
+
+VI. DO DESESTÍMULO À GARANTIA DO JUÍZO E DA VIOLAÇÃO AO
+SISTEMA DE PREFERÊNCIAS DA LEI DE EXECUÇÃO FISCAL: OFENSA AO
+DEVIDO PROCESSO LEGAL, À AMPLA DEFESA, AO ACESSO À JUSTIÇA E
+À PRIVAÇÃO DE BENS SEM O DEVIDO PROCESSO LEGAL
+
+93. Como visto, as normas ora impugnadas impõem ônus
+desproporcional à parte que, ao realizar o depósito, busca suspender a
+exigibilidade do crédito tributário, sem qualquer garantia de justa remuneração
+pelo período em que os valores permanecem à disposição do Estado.
+
+94. Com efeito, a sistemática impugnada configura um verdadeiro
+desestímulo à utilização do depósito como garantia do juízo, o que corrompe a
+lógica do processo executivo fiscal.
+
+95. A Lei de Execução Fiscal (Lei nº 6.830/80), no art. 9º, inciso I e no art.
+11, inciso I, estabelece uma ordem de preferência para as garantias judiciais,
+sendo o depósito em dinheiro a modalidade preferencial, precisamente por sua
+liquidez imediata e por afastar litígios sobre o valor dos bens penhorados.
+
+96. Ao tornar esta garantia financeiramente onerosa para o contribuinte,
+as normas impugnadas subvertem esta ordem legal, incentivando a opção por
+garantias menos eficazes (como a penhora de bens imóveis e veículos),
+potencialmente mais custosas e complexas para a própria Fazenda, sem o
+benefício da transferência imediata de recursos para a Conta Única do Tesouro
+Nacional.
+
+30
+
+[[pagina 31 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+97. O desestímulo ao depósito judicial, para além de subverter a ordem
+de preferências, ignora solenemente as consequências processuais benéficas
+previstas no artigo 9º, § 4º, da Lei de Execuções Fiscais (LEF). Veja-se:
+
+“Art. 9º (...)
+§ 4º - Somente o depósito em dinheiro, na forma do artigo 32, faz
+cessar a responsabilidade pela atualização monetária e juros de
+mora.”
+
+98. Conforme se verifica, a lei estabelece que, efetuado o depósito, ficam
+sobrestadas as demais medidas executivas, notadamente a penhora. Ou seja, o
+depósito não é mera garantia, mas um instrumento de pacificação processual e
+de preservação da atividade empresarial do executado.
+
+99. Enquanto a penhora de bens e direitos frequentemente paralisa a
+circulação de mercadorias e gera publicidade negativa perante o mercado, o
+depósito assegura a continuidade das operações do contribuinte, livres de
+constrangimentos que podem levar à prejuízos econômicos, notadamente
+porque o depósito faz cessar a responsabilidade pela atualização monetária e
+juros de mora.
+
+100. Os benefícios do depósito, portanto, são notórios:
+
+(i) Celeridade Processual: evita a morosa e litigiosa sequência de
+penhora, avaliação e eventual impugnação;
+(ii) Previsibilidade: o valor da garantia é certo e líquido,
+encerrando discussões sobre sua suficiência, e ingressa na
+Conta Única do Tesouro Nacional para financiar gastos correntes
+da União;
+(iii) Preservação do Patrimônio Empresarial: impede a
+imobilização de ativos essenciais para a produção (máquinas,
+veículos, estoques) e faz cessar a responsabilidade pela
+atualização monetária e juros de mora;
+(iv) Preservação da Imagem: afasta o estigma e a desconfiança no
+mercado decorrentes de penhoras registradas publicamente, em
+Ofícios de Imóvel, DETRAN etc.
+
+31
+
+[[pagina 32 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+101. Assim, ao desestimular esta opção, as normas impugnadas forçam o
+contribuinte a abrir mão dessas vantagens processuais e empresariais,
+tornando-o refém de um sistema mais moroso e danoso para sua atividade
+econômica.
+
+102. Nesse sentido, é possível concluir que estamos diante de uma
+violação ao devido processo legal (art. 5º, inciso LIV, da Constituição Federal -
+CF), que garante um processo justo e equilibrado às partes.
+
+103. Isso porque, ao impor essa desvantagem econômica (a diferença
+SELIC/IPCA) àquele que se utiliza de uma garantia legal, o Estado cria uma
+barreira econômica ao exercício do direito de defesa, considerando que a
+garantia do juízo pelo contribuinte é um requisito à oposição de Embargos à
+Execução Fiscal.
+
+104. Ademais, em muitas situações, o contribuinte optará pelo pagamento
+do tributo para, somente depois, discuti-lo judicialmente em ação de repetição
+de indébito, já que nesse caso a atualização da restituição se dará pela SELIC e
+não pelo IPCA.
+
+105. Há, portanto, violação ao princípio da inafastabilidade da
+jurisdição e ao direito de ação (art. 5º, inciso XXXV, da CF), pois ao forçar o
+contribuinte a escolher entre pagar o tributo questionado (a ser restituído pela
+SELIC) ou sofrer uma perda financeira líquida devido à ínfima atualização do
+depósito (pelo IPCA), cria-se custo proibitivo para o acesso à Justiça.
+
+106. O pagamento do tributo e o posterior ajuizamento de ação de
+repetição de indébito a fim de garantir a atualização pela SELIC, em detrimento
+do trâmite processual regular de garantia do juízo, constitui também clara
+violação ao art. 5º, inciso LIV, da CF, na medida em que o contribuinte é
+compelido a privar de seus bens sem o devido processo legal.
+
+107. Além disso, o princípio da ampla defesa (art. 5º, inciso LV, da CF)
+também é violado, na medida em que a defesa não é apenas a possibilidade de
+manifestação nos autos, mas o direito a um sistema de garantias que a torne
+efetiva, com equilíbrio e paridade de armas entre todas as partes em litígio.
+
+32
+
+[[pagina 33 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+108. Assim, a sistemática impugnada, ao criar um desequilíbrio econômico
+prévio em favor do exequente, coloca o executado em clara desvantagem desde
+o início da relação processual.
+
+109. Diante do exposto, resta claro que a alteração promovida não é uma
+mera opção política de indexação, mas sim um ataque à própria arquitetura do
+processo tributário, em especial da execução fiscal, desequilibrando a relação
+processual, desestimulando o uso da garantia legalmente preferida e compelindo
+o contribuinte a pagar o tributo antes de se defender em juízo, o que viola as
+garantias constitucionais supramencionadas.
+
+VII - NECESSIDADE DE CONCESSÃO DE MEDIDA CAUTELAR
+
+110. A Lei Federal nº 9.868/99, que dispõe sobre o processo e julgamento
+da ação direta de inconstitucionalidade perante o Supremo Tribunal Federal,
+prevê, em seus artigos 10 e seguintes, a possibilidade de deferimento de medida
+cautelar no âmbito do mencionado processo.
+
+111. Nesse mesmo sentido são os artigos 102, inciso I, alínea ‘p’ da
+Constituição Federal (CF), 300 e seguintes do Código de Processo Civil e 21,
+inciso IV, do Regimento Interno do Supremo Tribunal Federal, a saber:
+
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a
+guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+(...)
+p) o pedido de medida cautelar das ações diretas de
+inconstitucionalidade;
+
+Art. 300. A tutela de urgência será concedida quando houver
+elementos que evidenciem a probabilidade do direito e o perigo de
+dano ou o risco ao resultado útil do processo.
+
+Art. 21 São atribuições do Relator:
+(...)
+IV – submeter ao Plenário ou à Turma, nos processos de competência
+respectiva, medidas cautelares de natureza cível ou penal necessárias
+à proteção de direito suscetível de grave dano de incerta reparação,
+ou ainda destinadas a garantir a eficácia da ulterior decisão da causa;
+
+33
+
+[[pagina 34 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+112. Quanto aos requisitos para a concessão da tutela de urgência,
+esclarecedoras são as palavras do eminente processualista Humberto
+Theodoro Junior, no "Curso de Direito Processual Civil" (Editora Forense, 40ª
+edição, vol. II, p. 716) acerca do tema:
+
+“Pelo fumus boni iuris, reclama-se do requerente a demonstração de
+aparência de um direito subjetivo envolvido no litígio; e pelo periculum
+in mora entende-se o risco de um dano grave e de difícil reparação,
+suportado pelo mesmo direito, caso se tenha de aguardar o desfecho
+definitivo do processo".
+
+113. A plausibilidade jurídica da presente ação direta de
+inconstitucionalidade decorre dos fundamentos já articulados nesta petição
+inicial, e se fundamenta, sobretudo, no claro padrão inconstitucional das normas
+vergastadas, uma vez que estas afrontam os princípios da isonomia e os direitos
+fundamentais à igualdade e da propriedade, os princípios do acesso à justiça e
+da eficiência, bem como o princípio administrativo da moralidade.
+
+114. Além disso, a jurisprudência desta Excelsa Corte é pacífica
+quanto à inconstitucionalidade de normas que distorcem regras de
+correção monetária em prejuízo do cidadão, como no presente caso.
+
+115. O perigo da demora, por sua vez, impõe a concessão imediata da
+medida liminar, tendo em vista a necessidade de salvaguardar a supremacia da
+Constituição Federal e obstar os potenciais efeitos jurídicos, sociais e
+econômicos advindos da manutenção de ato normativo contaminado por vício
+de nulidade.
+
+116. Conforme disposto no art. 12 da Portaria MF nº 1.430/2025 entra em
+vigor a partir de 1º de janeiro de 2026:
+
+“Art. 12. Esta Portaria entra em vigor em 1º de janeiro de 2026.”
+
+117. Assim, a urgência na concessão da medida cautelar se intensifica
+diante da proximidade da entrada em vigor do novo regime instituído pela Lei nº
+14.973/2024, regulamentado pela Portaria MF nº 1.430/2025, que passa a
+produzir efeitos a partir de 1º de janeiro de 2026.
+
+34
+
+[[pagina 35 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+118. A partir dessa data, todos os depósitos judiciais e administrativos
+realizados no interesse da União, seus fundos, autarquias, fundações e
+empresas estatais federais dependentes serão corrigidos exclusivamente pelo
+IPCA, conforme previsto no art. 37, inciso II, da referida Lei e no art. 8º, inciso II,
+da Portaria mencionada.
+
+119. A Portaria MF nº 1.430/2025, publicada em 07/07/2025, regulamenta
+a aplicação do IPCA como índice único de correção, determinando que os
+valores levantados pelo contribuinte serão acrescidos “uma única vez, de
+correção positiva equivalente à variação acumulada do Índice Nacional de
+Preços ao Consumidor Amplo (IPCA)”, conforme art. 8º, inciso II. Essa redação
+confirma a ausência de qualquer componente remuneratório, agravando a
+violação ao princípio da vedação ao confisco (art. 150, inciso IV, da CF), pois o
+Estado, ao utilizar os valores depositados durante anos, restitui quantia inferior
+àquela que seria devida sob regime da SELIC.
+
+120. Assim, o deferimento da medida cautelar evitará a atualização
+monetária dos depósitos em índice diverso daquele utilizado na atualização dos
+débitos de natureza tributária, em flagrante distorção em prejuízo do contribuinte,
+o que certamente terá por consequência o ajuizamento de outras milhares de
+ações individuais, prejudicando o próprio bom funcionamento do Poder
+Judiciário.
+
+121. Ou seja, decerto a concessão de liminar também evitará o chamado
+“efeito multiplicador” de diversas ações, individuais e coletivas, em favor da
+almejada racionalidade e efetividade processuais.
+
+122. Diante desse cenário, a concessão da medida cautelar para
+suspender imediatamente a eficácia do art. 37, inciso II, da Lei nº 14.973/2024 e
+dos dispositivos regulamentares da Portaria MF nº 1.430/2025 é imprescindível
+para evitar a consolidação de um regime inconstitucional que compromete a
+ordem jurídica, a justiça fiscal e a confiança legítima dos contribuintes, além de
+gerar prejuízos econômicos irreparáveis.
+
+35
+
+[[pagina 36 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+123. De forma subsidiária, caso não acolhido o pedido cautelar nos
+termos acima, deve ser concedida tutela para, em interpretação harmonizada
+dos preceitos impugnados conforme a Constituição Federal, determinar, em
+cognição sumária, que nos depósitos judiciais e administrativos destinados a
+garantirem crédito tributário federal, a atualização observará os mesmos
+critérios de atualização do crédito que se busca assegurar, qual seja, a
+SELIC, vedada a aplicação do IPCA.
+
+VIII – DO PEDIDO
+
+124. Ante todo o exposto, requerem as autoras que este Supremo Tribunal
+Federal:
+
+a) Conheça da presente ação direta de inconstitucionalidade,
+reconhecendo a legitimidade ativa das autoras, nos termos do
+art. 103, inciso IX, da Constituição Federal (CF) e da
+jurisprudência consolidada desta Corte;
+
+b) Conceda medida cautelar, nos termos do art. 10 da Lei nº
+9.868/1999, para suspender imediatamente a eficácia do art. 37,
+inciso II, da Lei nº 14.973/2024, bem como do art. 8º, inciso II,
+da Portaria MF nº 1.430/2025, que, em conjunto, determinam a
+aplicação do IPCA como índice de correção dos depósitos
+judiciais e administrativos, restabelecendo a SELIC para este
+fim, até o julgamento definitivo da presente ação, comunicando-
+se a decisão às autoridades administrativas e judiciais
+competentes para evitar a produção de efeitos irreversíveis;
+
+c) Sejam solicitadas informações ao Presidente da República e ao
+Congresso Nacional, na forma do art. 6º da Lei 9.868/99;
+
+d) A oitiva do Advogado-Geral da União e o Procurador-Geral da
+República, conforme predito no art. 8º da Lei 9.868/99;
+
+36
+
+[[pagina 37 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+e) Ao final, declare a inconstitucionalidade do art. 37, inciso II,
+da Lei nº 14.973/2024 e , por arrastamento, do do art. 8º,
+inciso II, da Portaria MF nº 1.430/2025, em razão da violação
+aos princípios da isonomia (art. 5º, caput, da CF), da moralidade
+administrativa (art. 37, caput, da CF), da segurança jurídica (art.
+5º, inciso XXXVI, da CF), da vedação ao confisco (art. 150, inciso
+IV, da CF) e da proteção à confiança legítima, bem como da
+inafastabilidade da jurisdição (art. 5º, inciso XXXV, da CF), da
+ampla defesa (5º, inciso LV, da CF), da privação de bens sem o
+devido processo legal (art. 5º, inciso LIV, da CF), assegurando a
+manutenção da sistemática anterior, fundada na aplicação da
+Taxa SELIC aos depósitos judiciais e administrativos;
+
+f) Sucessivamente, caso não acolhido o pedido principal desta
+ação de controle concentrado, requer o acolhimento de pleito em
+menor extensão, a fim de, em hermenêutica constitucional das
+normas impugnadas, reconhecer a inconstitucionalidade de
+aplicação do IPCA como índice de atualização dos depósitos
+destinados a garantirem crédito tributário federal, garantindo-se
+que estes sejam atualizados pela mesma taxa aplicada aos
+tributos federais.
+
+g) Determine que os efeitos da decisão sejam ex tunc, para
+restaurar a paridade de tratamento entre Fisco e contribuinte e
+evitar prejuízos decorrentes da aplicação do regime
+inconstitucional.
+
+125. Por fim, nos termos do artigo 272, §§ 2º e 5º, do Código de Processo
+Civil, pugna-se que todas as intimações da CNS, da CNT e da CNSaúde, sejam
+feitas, respectivamente, somente em nome dos procuradores, pela CNS, Ricardo
+Oliveira Godoi, inscrito na OAB/SP sob o nº 143.250; e pela CNT e CNSaúde,
+Sálvio Miranda Gonçalves Júnior, inscrito na OAB/MG sob nº 136.642, sob
+pena de nulidade.
+
+126. Por fim, declaram as autoras a autenticidade de todos os documentos
+que não se encontram em cópia autenticada, nos termos do art. 425, inciso IV,
+do Código de Processo Civil.
+
+37
+
+[[pagina 38 | nativo]]
+
+CONFEDERAÇÃO NACIONAL CONFEDERAÇÃO NACIONAL
+DE SERVIÇOS DO TRANSPORTE
+
+127. Dá-se à presente causa o valor de R$ 1.000,00 (mil reais), para fins
+fiscais.
+
+Brasília, 25 de novembro de 2025.
+
+CONFEDERAÇÃO NACIONAL DE SERVIÇOS – CNS
+
+Ricardo Oliveira Godoi
+OAB/SP 143.250
+
+CONFEDERAÇÃO NACIONAL DO TRANSPORTE - CNT
+
+CONFEDERAÇÃO NACIONAL DE SAÚDE – CNSAÚDE
+
+Sálvio Miranda Gonçalves Júnior
+OAB/MG 136.642
+
+38

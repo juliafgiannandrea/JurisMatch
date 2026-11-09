@@ -1,0 +1,2851 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMA SENHORA MINISTRA ROSA WEBER. PRESIDENTE DO SUPREMO TRIBUNAL
+
+FEDERAL.
+
+A CONFEDERAÇÃO NACIONAL DO SISTEMA FINANECIRO - CONSIF, entidade
+
+sindical de grau superior, com sede na Capital Federal, no Setor Comercial
+
+Sul, Quadra 1, Bloco F, nº 30, Edifício Camargo Corrêa, 15º e 16º andares,
+
+inscrita no CNPJ/MF sob o nº 03860.033/0001-08, vem, por seus advogados (doc.
+
+01), e com fundamento nos artigos 102, § 1º e 103, IX, da Constituição
+
+Federal, e artigo 2º, I, da Lei nº 9.882/1999 c/c o artigo 2º, VIII, da Lei
+
+nº 9.868/99, propor
+
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL,
+
+com pedido de concessão de medida liminar (art. 5º da Lei 9.882/1999), em
+
+razão da violação dos seguintes preceitos fundamentais: artigo 7º, XXIX, da
+
+Constituição Federal, e os princípios constitucionais da segurança jurídica1,
+
+da isonomia2 e da separação dos Poderes3. Como representativos dos atos
+
+lesivos a esses preceitos fundamentais, indica-se o conjunto de decisões
+
+judiciais da Justiça do Trabalho que tem afastado o prazo de prescricional
+
+bienal trabalhista para o ajuizamento de execuções individuais de sentenças
+
+proferidas em ações coletivas, de modo a aplicar o prazo quinquenal previsto
+
+no artigo 21 da Lei 4717/1965 (Lei da Ação Popular).
+
+1 Artigo 5º, caput, da Constituição Federal.
+2 Artigo, 5º, caput, da Constituição Federal.
+3 Artigo 2º da Constituição Federal.
+
+Edifício Libertas – Cj. 508 - Setor de Autarquias Sul - Brasília DF – Brasil -70.070-010 - (61) 3322-0178 - asj@asj.adv.br
+
+[[pagina 2 | nativo]]
+
+SUMÁRIO
+
+Condições da ação e pressupostos processuais específicos
+
+1.1 - Legitimidade ativa e pertinência temática............................3
+
+1.2 - Cabimento e adequação da ADPF........................................5
+
+Mérito
+
+2.1 – O conjunto de atos lesivos aos preceitos fundamentais................10
+
+2.2 – A supremacia e a força normativa da Constituição.....................18
+
+2.3 – Direitos sociais fundamentais. Valores e princípios em disputa.......26
+
+2.4 – A igualdade, a justiça e a paz.......................................31
+
+2.5 – Conclusões.........................................................41
+
+Necessidade de medida cautelar
+
+3.1 Plausibilidade do direito.............................................42
+
+3.2 Perigo da demora e agravamento do estado anti-isonômico................43
+
+Pedidos..................................................................47
+
+LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+
+01. Na condição de confederação sindical de grau superior,
+
+regularmente registrada no Ministério do Trabalho nos termos do artigo 535
+
+da CLT, a CONSIF detém legitimidade para a propositura de ações de controle
+
+concentrado de constitucionalidade, nos termos dos artigos 2º, IX, da Lei nº
+
+9.868/1999, e 2º, I, da Lei nº 9.882/1999, e dos artigos 102, §1º, e 103,
+
+IX, da Constituição Federal, consoante já reconheceu esse colendo Supremo
+
+Tribunal Federal:
+
+“Reconheço, de plano, a legitimidade ad causam ativa da Confederação
+Nacional do Sistema Financeiro - CONSIF, enquanto confederação
+sindical, conforme art. 103, IX, CRFB, e art. 2º, IX, da Lei n.
+9.868/99. Ademais, cumpre assinalar que esse Supremo Tribunal Federal
+
+2
+
+[[pagina 3 | nativo]]
+
+já reconheceu a legitimidade da CONSIF para atuar como parte autora
+legítima no controle jurisdicional de constitucionalidade brasileiro.
+Confirmam essa interpretação jurídica as decisões proferidas na ADI
+5566, Rel. Min. Alexandre de Moraes, DJe 25.10.2018, na ADI 5370, Rel.
+Min. Marco Aurélio, DJe 10.10.2018 e na ADI 3207, Rel. Min. Alexandre
+de Moraes, DJe 12.4.2018”
+
+(ADI 6083, Ministra Rosa Weber, Tribunal Pleno, DJe de 18/12/2019)4.
+
+02. Por congregar diversas federações de entidades sindicais
+
+representativas de instituições financeiras, empresas seguradoras, empresas
+
+de capitalização e previdência que operam em todo território nacional, dentre
+
+as prerrogativas estatutárias da CONSIF sobressai a de propor “qualquer tipo
+
+de ação que vise defender e resguardar os direitos e interesses das categorias
+
+econômicas representadas, inclusive Ação Direta de Inconstitucionalidade,
+
+Mandado de Segurança e outras, na forma da Lei” (art. 4º, V).
+
+03. A presente Arguição de Descumprimento de Preceito Fundamental
+
+busca preservar a aplicação do comando constitucional do artigo 7º, XXIX, e
+
+dos princípios constitucionais da segurança jurídica, isonomia e separação
+
+dos Poderes, em face de inúmeras decisões judiciais que têm afirmado,
+
+relativamente a contratos de trabalho já extintos, ser quinquenal o prazo
+
+prescricional para a execução individual do título formado em ação coletiva
+
+trabalhista.
+
+04. A pertinência temática é evidenciada pela direta repercussão
+
+dessas decisões judiciais sobre as instituições que compõem a CONSIF,
+
+especialmente por esses atos lesivos promoverem insegurança jurídica e
+
+tratamentos não isonômicos no âmbito de suas relações de trabalho, mas também
+
+por permitirem a materialização de constrições patrimoniais para a satisfação
+
+4 No mesmo sentido: ADI 6938/PB, Ministra Cármen Lúcia; ADI 6727/PR, Ministra Cármen Lúcia; ADI
+6495/RJ, Ministro Ricardo Lewandowski; ADI 6484/RN, Ministro Roberto Barroso; ADI 6475/MA, Ministro
+Ricardo Lewandowski; ADI 6451, Ministra Cármen Lúcia; ADI 6207/PB, Ministro Gilmar Mendes; ADI
+6083/RJ, Ministra Rosa Weber; ADI 4151/MT, Ministro Gilmar Mendes; ADI 3631, Ministro Marco Aurélio;
+ADI 3281/MG; Ministro Marco Aurélio; ADI 3075/PR, Ministro Gilmar Mendes; ADI 2905/MG, Ministro
+Marco Aurélio (relator para acórdão); ADC 58/DF, Ministro Gilmar Mendes.
+3
+
+[[pagina 4 | nativo]]
+
+de pretensões exercidas quando já escoado o prazo prescricional expressamente
+
+previsto na Constituição Federal5.
+
+05. Portanto, a controvérsia de natureza constitucional submetida a
+
+exame possui inegável nexo de afinidade com os objetivos institucionais da
+
+Confederação sindical autora, dos quais se destacam: I- orientar, coordenar,
+
+defender e representar os interesses das entidades congregadas; II- colaborar
+
+para o fortalecimento e desenvolvimento harmônico das categorias econômicas
+
+representadas, em todo país; e III- cooperar para o desenvolvimento econômico
+
+e social do país, observados os princípios da livre iniciativa e da economia
+
+de mercado (Estatuto Social, art. 3º).
+
+06. Encontram-se demonstradas, portanto, a legitimidade ativa e a
+
+pertinência temática.
+
+CABIMENTO E ADEQUAÇÃO DA ADPF
+
+07. Prevista na Constituição da República, em seu artigo 102, §1º,
+
+e instituída por meio da Lei federal n. 9.882/99, a ação de descumprimento
+
+de preceito fundamental tem por objeto evitar ou reparar lesão a preceito
+
+fundamental, por ato do Poder Público. Por seu intermédio, permite-se
+
+confrontar a violação (e ameaça de violação) a preceitos fundamentais
+
+constantes, explícita ou implicitamente, da Constituição, desde que
+
+proveniente do Poder Público ou de delegatário de funções públicas, o que
+
+possibilita o seu manejo não apenas contra atos normativos e administrativos,
+
+mas também contra um conjunto de decisões judiciais que adotem uma
+
+interpretação contrária a esses preceitos fundamentais.
+
+5 Não se pode perder de vista que a controvérsia constitucional em debate possui aptidão de
+transcender os interesses das representadas, sendo certo que “a exigência de pertinência temática
+não impede o amplo conhecimento da ação, com a declaração de inconstitucionalidade para além do
+âmbito dos indivíduos representados pela entidade de classe, quando o vício de inconstitucionalidade
+for idêntico para todos os destinatários” (ADI 4.203, Rel. Min. Dias Toffoli, DJe 2.2.2015).
+4
+
+[[pagina 5 | nativo]]
+
+08. Desde há muito esse Supremo Tribunal Federal reconhece o
+
+cabimento e a adequação de arguições que se voltam contra interpretações,
+
+encampadas por decisões judiciais, incompatíveis com preceitos fundamentais,
+
+como atestam, exemplificativamente, os seguintes precedentes: ADPF 33/PA,
+
+Min. Gilmar Mendes; ADPF 101/DF, Min. Cármen Lucia; ADPF 144/DF, Min. Celso
+
+de Mello; ADPF 485/AP, Min. Luis Roberto Barroso e ADPF 501, Min. Alexandre
+
+de Moraes6.
+
+09. É certo, ainda, que a ação de descumprimento de preceito
+
+fundamental é um instrumento processual com propósito específico que não se
+
+superpõe a outros instrumentos igualmente destinados à preservação da higidez
+
+constitucional, como a ação direta de inconstitucionalidade, de sorte que se
+
+submete ela ao requisito da subsidiariedade, somente podendo ser manejada
+
+quando não houver adequação para o ajuizamento de outras medidas judiciais
+
+igualmente eficazes, ou seja, instrumento apto à resolução da controvérsia
+
+de forma ampla, geral e imediata.7 Nesse sentido:
+
+“EMENTA:
+1. Arguição de descumprimento de preceito fundamental ajuizada com o
+objetivo de impugnar o art. 34 do Regulamento de Pessoal do Instituto
+de Desenvolvimento Econômico-Social do Pará (IDESP), sob o fundamento
+de ofensa ao princípio federativo, no que diz respeito à autonomia dos
+Estados e Municípios (art. 60, §4o, CF/88) e à vedação constitucional
+de vinculação do salário mínimo para qualquer fim (art. 7º, IV, CF/88).
+(...)
+
+6 Essa posição da jurisprudência é uníssona com a doutrina, como anota, em sede doutrinária o
+Ministro Gilmar Mendes: “Pode ocorrer lesão a preceito fundamental fundada em simples interpretação
+judicial do texto constitucional. Nesses casos, a controvérsia não tem por base a legitimidade ou
+não de uma lei ou de um ato normativo, mas se assenta simplesmente na legitimidade ou não de uma
+dada interpretação constitucional. (...)Assim, o ato judicial de interpretação direta de um preceito
+fundamental poderá conter uma violação da norma constitucional. Nessa hipótese, caberá a propositura
+da arguição de descumprimento para afastar a lesão a preceito fundamental resultante desse ato
+judicial do Poder Público, nos termos do art. 1º da Lei n. 9.882/99.” (Arguição de Descumprimento
+de Preceito Fundamental: comentários à Lei n. 9.882, de 3.12.1999, 2007, São Paulo: Saraiva. p.
+72, item n. 6.)
+
+7 “... a simples possibilidade de propositura de ações de natureza subjetiva ou o cabimento de
+recursos processuais não é, de per si, impedimento à arguição, se aquelas medidas não foram idôneas
+a produzir solução imediata e abrangente, nas hipóteses em que o interesse público relevante ou a
+segurança jurídica assim o exijam” (BARROSO, Luis Roberto. O Controle de Constitucionalidade no
+Direito Brasileiro. Exposição sistemática da doutrina e Análise crítica da jurisprudência. 7ª ed.
+rev. e atualiz. São Paulo: Saraiva, 2016, pp. 338/339). No mesmo sentido, cf. MEIRELLES, Hely
+Lopes. Mandado de Segurança. 29. ed. São Paulo: Malheiros, 2006. p. 501.
+5
+
+[[pagina 6 | nativo]]
+
+13. Princípio da subsidiariedade (art. 4o, §1o, da Lei no 9.882/99):
+inexistência de outro meio eficaz de sanar a lesão, compreendido no
+contexto da ordem constitucional global, como aquele apto a solver a
+controvérsia constitucional relevante de forma ampla, geral e imediata.
+
+14. A existência de processos ordinários e recursos extraordinários
+não deve excluir, a priori, a utilização da arguição de descumprimento
+de preceito fundamental, em virtude da feição marcadamente objetiva
+dessa ação.
+
+15. Arguição de descumprimento de preceito fundamental julgada
+procedente para declarar a ilegitimidade (não-recepção) do Regulamento
+de Pessoal do extinto IDESP em face do princípio federativo e da
+proibição de vinculação de salários a múltiplos do salário mínimo (art.
+60, §4º, I, c/c art. 7º, inciso IV, in fine, da Constituição Federal)”.
+
+(ADPF 33/PA, rel. Min. Gilmar Mendes, Tribunal Pleno, DJ 27/10/2006).
+
+Ementa: DIREITO CONSTITUCIONAL E PROCESSO CONSTITUCIONAL. ARGUIÇÃO DE
+DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. BLOQUEIO, PENHORA E SEQUESTRO
+DE VERBAS PÚBLICAS PELA JUSTIÇA DO TRABALHO. CABIMENTO DA ADPF PARA
+IMPUGNAR ATO JURISDICIONAL. (...)
+
+2. As decisões judiciais se enquadram na definição de “ato do poder
+público” de que trata o caput do art. 1º da Lei nº 9.882/1999, o que
+as sujeita ao controle concentrado de constitucionalidade via ADPF. A
+jurisprudência desta Corte firmou-se no sentido de que o requisito da
+subsidiariedade é satisfeito quando inexiste, no caso, outro meio
+processual eficaz para sanar a lesão a preceito fundamental de forma
+ampla, geral e imediata. Precedentes. (...)
+
+4. Conversão da apreciação da liminar em exame de mérito, para julgar
+procedente o pedido, com fixação da seguinte tese: “Verbas estaduais
+não podem ser objeto de bloqueio, penhora e/ou sequestro para pagamento
+de valores devidos em ações trabalhistas, ainda que as empresas
+reclamadas detenham créditos a receber da administração pública
+estadual, em virtude do disposto no art. 167, VI e X, da CF, e do
+princípio da separação de poderes (art. 2º da CF)”.
+
+(ADPF 485/AP, rel. Min. Luis Roberto Barroso, Tribunal Pleno, DJe
+04/02/2021).
+
+10. Convém destacar a existência de consenso no sentido de que nem
+
+todos os dispositivos da Constituição encerram preceito fundamental, sendo
+
+igualmente correto que a jurisprudência do Supremo Tribunal Federal afirma a
+
+existência de preceitos fundamentais nos títulos e capítulos da Constituição
+
+que versam sobre (i) os princípios fundamentais, (ii) os direitos e garantias
+
+fundamentais; (iii) as cláusulas pétreas e (iv) os princípios sensíveis.
+
+11. Esta ADPF submete à tutela do Supremo Tribunal Federal a
+
+violação do disposto no artigo 7º, inciso XXIX, da Constituição Federal,
+
+6
+
+[[pagina 7 | nativo]]
+
+materializada em diversas decisões proferidas por órgãos julgadores
+
+integrantes da Justiça do Trabalho, no sentido de que, em relação a contratos
+
+de trabalho findos, seria de 05 (cinco) anos, e não de 02 (dois) anos, o
+
+prazo de prescrição da pretensão executória trabalhista, quando a condenação
+
+houver se dado em sede de ação coletiva promovida para a defesa de interesses
+
+individuais homogêneos.
+
+12. Como será demonstrado, parcela representativa da Justiça laboral
+
+esposa a tese segundo a qual o prazo para a execução de sentença proferida
+
+em ação coletiva proposta para a defesa de interesses individuais homogêneos
+
+de um grupo de trabalhadores, mesmo quando já extintos os respectivos
+
+contratos de trabalho, seria o previsto na Lei da Ação Popular (Lei n.
+
+4.717/65), aplicável analogicamente à ação civil pública, em detrimento do
+
+prazo explicitamente previsto na Constituição.8
+
+13. Além de contrariar os termos expressos da norma constitucional,
+
+essa orientação vulnera o princípio da segurança jurídica, corolário do
+
+Estado de Direito, bem como encerra tratamento absolutamente anti-isonômico
+
+entre trabalhadores com igual direito material, em virtude do meio jurídico-
+
+processual utilizado para a defesa e o gozo de seus direitos.
+
+14. O eminente Ministro Gilmar Mendes já pontuou, em sede
+
+doutrinária, que “a possibilidade de incongruências hermenêuticas e confusões
+
+jurisprudenciais decorrentes dos pronunciamentos de múltiplos órgãos pode
+
+configurar uma ameaça a preceito fundamental (pelo menos, ao da segurança
+
+jurídica), o que também está a recomendar uma leitura compreensiva da
+
+exigência aposta à lei da arguição, de modo a admitir a propositura da ação
+
+8 Plenamente aplicável ao presente caso a assertiva do Ministro Alexandre de Moraes, relator da
+ADPF 501/SC, na qual também se questionava entendimento da Justiça do Trabalho, ao assestar que
+“quanto à construção analógica que permitiu a consolidação da jurisprudência ora debatida, observo
+que a técnica integrativa pressupõe a existência de uma lacuna a ser preenchida. No caso, todavia,
+a própria Consolidação das Leis do Trabalho assentou, no seu art. 153, a penalidade cabível para
+infrações ao que fora determinado no seu Capítulo IV, dentro do qual se encontra a obrigação de
+pagar as férias com antecedência de dois dias. Assim, ante a conjugação de um preceito impositivo
+(art. 145) com outro sancionador (art. 153), não se vislumbra vácuo legal propício à atividade
+integrativa, por mais louvável que seja a preocupação em concretizar os direitos fundamentais do
+trabalhador”.
+
+7
+
+[[pagina 8 | nativo]]
+
+especial toda vez que uma definição imediata da controvérsia mostrar-se
+
+necessária para afastar aplicações erráticas, tumultuárias ou incongruentes,
+
+que comprometam gravemente o princípio da segurança jurídica e a própria
+
+ideia de prestação judicial efetiva”.9
+
+15. No caso da controvérsia em exame, o combate a cada uma das
+
+inúmeras decisões que descuram do disposto no artigo 7º, XXIX, da Constituição
+
+da República, pelos meios ordinários de impugnação recursal, se apresenta
+
+ineficaz, porquanto, via de regra, os recursos extraordinários eventualmente
+
+interpostos contra decisões proferidas na Justiça do Trabalho não são alçados
+
+a essa Corte Suprema, comumente obstaculizados por óbices processuais,
+
+travando-se assim, a remessa das causas a esse Supremo Tribunal Federal.
+
+Ineficaz também porque, ainda que os recursos de revista e, na sequência, os
+
+recursos extraordinários, fossem admitidos, muitos anos teriam sido
+
+consumidos nessa tramitação.
+
+16. Não se colhe, a propósito, melhor ilustração do que a evidenciada
+
+em excerto do voto do Ministro Luis Roberto Barroso na ADPF 485:
+
+“4. Nesse sentido, decisões judiciais se enquadram no
+conceito de “ato do poder público” a que se refere o caput do art. 1º
+da Lei nº 9.882/1999, sujeitando-se ao controle de constitucionalidade
+por meio de ADPF, sempre que os meios ordinários não sejam capazes de
+solucionar a controvérsia de forma geral, imediata e eficaz.
+
+5. No entanto, há duas ressalvas importantes que o STF
+entendeu necessárias para o ajuizamento da ADPF nessas hipóteses. A
+primeira é a de que seu cabimento se dá apenas em situações
+extraordinárias, nas quais o tempo de resposta normal nas instâncias
+ordinárias é capaz de acarretar grave desequilíbrio social e econômico.
+A segunda ressalva é a de que o conjunto de decisões judiciais não
+tenha transitado em julgado. Nesse sentido: ADPF 249-AgR, Rel. Min.
+Celso de Mello, j. em 13.08.2014.
+
+6. No caso vertente, a arguição se volta contra provimentos
+jurisdicionais proferidos no âmbito do Tribunal Regional do Trabalho
+da 8ª Região (TRT-8). Considerando-se a pulverização dos atos
+questionados por vários juízos e órgãos colegiados, a interposição dos
+
+9 MEIRELLES, Hely Lopes. Mandado de Segurança. Ação Popular, Ação Civil Pública, Mandado de
+Injunção, 'Habeas Data', Ação direta de inconstitucionalidade, Ação declaratória de
+constitucionalidade e Arguição de descumprimento de preceito fundamental. 23. ed. atualizada por
+Arnoldo Wald e Gilmar Ferreira Mendes. São Paulo: Malheiros, 2006. p. 395/397.
+
+8
+
+[[pagina 9 | nativo]]
+
+recursos cabíveis em cada um desses processos não seria capaz de
+solucionar a controvérsia de modo imediato, definitivo e, sobretudo,
+com eficácia geral e vinculante.10
+
+17. Em linha com essa consolidada orientação jurisprudencial,
+
+mostra-se adequada a propositura desta arguição de descumprimento de preceito
+
+federal, de modo habilitar o Supremo Tribunal Federal a conferir, de modo
+
+imediato, definitivo e em caráter erga omnes, uma solução eficaz para a
+
+violação dos preceitos fundamentais, a seguir detalhada.
+
+MÉRITO
+
+2.1. O conjunto de atos lesivos
+
+18. Demonstradas a legitimidade, a pertinência temática e a adequação
+
+desta ADPF, cumpre indicar o conjunto de decisões judiciais que, em afronta
+
+a preceitos constitucionais fundamentais, têm afastado a regra de prescrição
+
+bienal prevista no inciso XXIX do artigo 7º da Constituição da República nas
+
+execuções individuais de ações coletivas promovidas no âmbito da Justiça do
+
+Trabalho, para adotar a prescrição quinquenal prevista no artigo 21 da Lei
+
+4.717/1965 (Lei da Ação Popular). Exemplifica a adoção dessa orientação o
+
+seguinte julgado do Tribunal Superior do Trabalho:
+
+“I – AGRAVO. AGRAVO DE INSTRUMENTO EM RECURSO DE REVISTA. VIGÊNCIA DA
+LEI Nº 13.467/2017. PRESCRIÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA
+COLETIVA. PRAZO QUINQUENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA
+SENTENÇA COLETIVA. ART. 7º, XXIX, DA CRFB. TRANSCENDÊNCIA POLÍTICA
+RECONHECIDA.
+
+Afastado o óbice que motivou a negativa de seguimento, deve ser provido
+o agravo, a fim de viabilizar o exame do agravo de instrumento. Agravo
+a que se dá provimento.
+
+II - AGRAVO DE INSTRUMENTO. PROVIMENTO. VIGÊNCIA DA LEI Nº 13.467/2017.
+PRESCRIÇÃO. EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRAZO
+QUINQUENAL. TERMO INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA COLETIVA.
+ART. 7º, XXIX, DA CRFB. TRANSCENDÊNCIA POLÍTICA RECONHECIDA.
+
+10 STF, Pleno, ADPF 485/AP, rel. Min. Luis Roberto Barroso, Data do Julgamento: 07/12/2020; Data
+de Publicação: 04/02/2021.
+
+9
+
+[[pagina 10 | nativo]]
+
+Constatada a violação do art. 7º, XXIX, da CRFB, o agravo de instrumento
+deve ser provido, a fim de processar o recurso de revista. Agravo de
+instrumento conhecido e provido.
+
+III - RECURSO DE REVISTA. VIGÊNCIA DA LEI Nº 13.467/2017. PRESCRIÇÃO.
+EXECUÇÃO INDIVIDUAL DE SENTENÇA COLETIVA. PRAZO QUINQUENAL. TERMO
+INICIAL. TRÂNSITO EM JULGADO DA SENTENÇA COLETIVA. ART. 7º, XXIX, DA
+CRFB. TRANSCENDÊNCIA POLÍTICA RECONHECIDA A jurisprudência desta Corte
+Superior é firme no sentido de que o prazo prescricional para execução
+individual de sentença coletiva é quinquenal e deve ser contado a
+partir da data do trânsito em julgado do título executivo judicial.
+Precedentes. Recurso de revista conhecido e provido”.11
+
+19. O quadro indicativo a seguir é apresentado de modo a facilitar
+
+a visualização do conjunto de decisões judiciais que vulneram os preceitos
+
+fundamentais já indicados:
+
+TRIBUNAL SUPERIOR DO TRABALHO
+
+Órgão
+Nº Processo Tribunal Decisão
+Julgador
+
+“Consoante já definiu esta Corte Superior, o
+prazo para o ajuizamento da execução individual
+de sentença coletiva é de cinco anos após o seu
+trânsito em julgado. Na hipótese, o Tribunal
+RR n° 101076- Regional anotou que "... a decisão proferida na
+01 TST 7ª Turma ação coletiva transitou em julgado em 19/04/2017
+02.2019.5.01.0082 e que a presente ação foi ajuizada em 27/09/2019,
+pronuncio a prescrição bienal". Observa-se, com
+isso, que foi respeitado o prazo quinquenal, não
+havendo que se falar em prescrição da pretensão
+declarada pela Corte Regional.”
+
+“1. No caso, o e. TRT argumentou que "os
+presentes autos se tratam de uma ação de execução
+individual de coisa julgada formada na ação
+coletiva sob n. 0000624-36.2011.5.01.0026".
+Ressaltou que "a presente ação foi ajuizada em
+15/05/2020, porém, o trânsito em julgado da ação
+coletiva ocorreu em 19/04/2017, o que demonstra
+que o ajuizamento da presente execução individual
+RR n° 100394- ocorreu após ultrapassado dois anos do trânsito
+02 TST 1ª Turma mencionado". E concluiu pela prescrição da
+13.2020.5.01.0082 pretensão executória, julgando extinto o
+processo, com resolução do mérito. 2. A
+jurisprudência desta Corte Superior é firme no
+sentido de que o prazo prescricional para
+execução individual de sentença coletiva é
+quinquenal e deve ser contado a partir da data
+do trânsito em julgado do título executivo
+judicial. 3. Ofensa ao art. 7º, XXIX, da
+Constituição Federal que se reconhece.”
+
+11 TST, 1ª Turma. Recurso de Revista com Agravo n° TST-RRAg-343-33.2019.5.17.0001, rel. Min. Amaury
+Rodrigues Pinto Junior; Data do Julgamento: 09/03/2022; Data de Publicação: 14/03/2022.
+
+10
+
+[[pagina 11 | nativo]]
+
+“Ademais, na temática relativa à "prescrição", a
+decisão do Tribunal Regional aplicou com correção
+AIRR n° 100079- o entendimento firmado no âmbito desta Corte
+03 TST 8ª Turma Superior, no sentido de ser aplicável o prazo
+84.2020.5.01.0049 prescricional quinquenal para a execução
+individual de sentença proferida em ação coletiva
+a contar do trânsito em julgado da sentença
+coletiva”
+
+“A decisão agravada está claramente fundamentada
+e consentânea com a jurisprudência uniforme desta
+AIRR n° 101157- Corte Superior, de que o prazo prescricional para
+04 TST 2ª Turma a execução individual de sentença proferida em
+91.2019.5.01.0003 ação coletiva é de cinco anos, contados a partir
+da data do trânsito em julgado da sentença
+proferida na ação coletiva.”
+
+“Conforme consta da decisão agravada, a
+jurisprudência desta Corte é no sentido de que o
+prazo prescricional para execução individual de
+sentença coletiva é quinquenal e deve ser contado
+RRAg n° 1041- a partir da data do trânsito em julgado do título
+05 TST 1ª Turma executivo judicial.
+46.2018.5.17.0010
+No caso dos autos, em que o trânsito em julgado
+da ação coletiva ocorreu em 09/05/2016 e a ação
+de execução individual foi ajuizada em
+25/10/2018, não se constata a ocorrência de
+prescrição da pretensão executiva.”
+
+“Em relação à prescrição, a decisão do Tribunal
+Regional não destoa da jurisprudência desta
+Corte, que tem se orientado no sentido de que o
+prazo prescricional para a execução individual
+AIRR n° 1034- de sentença coletiva submete-se ao lapso
+06 TST 8ª Turma quinquenal, devendo ser contado a partir da data
+83.2020.5.17.0010 do trânsito em julgado do título executivo
+judicial. Assim, tendo o trânsito em julgado
+ocorrido em maio de 2016 e a presente ação
+ajuizada em 21/12/2020, não há de se falar em
+prescrição a ser pronunciada.”
+
+“A controvérsia cinge-se em saber qual a
+prescrição trabalhista aplicável à execução
+individual de sentença coletiva. A
+jurisprudência que tem sido firmada no âmbito do
+TST é no sentido de que o prazo prescricional
+RR n° 1104- extintivo a ser observado para ajuizamento da
+07 TST 6ª Turma execução individual de sentença coletiva é o
+49.2019.5.17.0006 quinquenal. Precedentes. In casu, conforme
+consta do acórdão recorrido, o trânsito em
+julgado da sentença proferida na ação coletiva
+ocorreu em 4/6/2016 e a presente ação foi
+ajuizada em 8/10/2019, ou seja, menos de 5 anos
+após o trânsito em julgado da decisão. Logo, não
+há prescrição a ser declarada.”
+
+“Verificado que a decisão agravada foi proferida
+em sintonia com a jurisprudência do TST, segundo
+RR n° 100635- a qual o prazo prescricional para a execução
+08 TST 1ª Turma individual de sentença proferida em ação coletiva
+05.2019.5.01.0055 é de cinco anos, contados a partir do trânsito
+em julgado da decisão proferida na ação plúrima,
+não há falar-se em modificação do decisum.”
+
+TRIBUNAIS REGIONAIS DO TRABALHO
+
+Órgão
+Nº Processo Tribunal Decisão
+Julgador
+
+11
+
+[[pagina 12 | nativo]]
+
+TRT da “Tratando-se de ação de Execução Individual
+Processo n° 0100373- calcada em sentença proferida em Ação Coletiva,
+09 1ª 5ª Turma a prescrição aplicável será de cinco anos desde
+26.2020.5.01.0021 a pretensa lesão (actio nata) até o ajuizamento Região
+da ação (artigo 7º, XXIX, da CRFB).”
+
+“Transitada em julgado a sentença da ação
+coletiva, não cabe aplicação da prescrição bienal
+prevista no art. 11 da CLT. O caso atrai a
+TRT da
+Processo n° 0100750- prescrição quinquenária prevista na Súmula 150
+10 1ª 3ª Turma do E. STF e corroborada pela jurisprudência deste
+73.2022.5.01.0264 E. Regional. Agravo de petição do exequente
+Região parcialmente provido para afastar a prescrição
+bienal declarada na primeira instância,
+reconhecendo, porém, a incidência da prescrição
+quinquenal.”
+
+TRT da
+Processo n° 0100555- “Tratando-se de ação de execução individual para
+11 1ª 2ª Turma cumprimento de sentença de Ação Coletiva, a
+70.2021.5.01.0055 prescrição aplicável é a quinquenal.” Região
+
+TRT da
+Processo n° 1000978- “é de cinco anos o prazo prescricional para a
+12 2ª 6ª Turma execução individual de sentença coletiva,
+86.2022.5.02.0040 contado do trânsito em julgado.” Região
+
+TRT da “Destaco, também, o entendimento do C. STJ, que
+Processo n° 1000832- tem sido acompanhado pelo C. TST, no sentido de
+13 2ª 16ª Turma que o prazo prescricional é de cinco anos e deve
+79.2022.5.02.0061 ser contado a partir do trânsito em julgado da Região
+sentença coletiva.”
+
+TRT da
+Processo n° 1000619- “O prazo para o ajuizamento de ação individual
+14 2ª 4ª Turma para a execução de sentença condenatória
+43.2019.5.02.0008 proferida em ação civil pública coletiva é de 05
+Região anos.”
+
+“Inicialmente, registre-se que no presente caso
+deve-se aplicar o microssistema processual
+coletivo em detrimento das regras processuais
+afetas aos processos individuais. Como
+consequência, aplica-se, para as execuções
+Processo n° TRT da individuais, o prazo prescricional de 5 anos
+previsto no art. 21, da Lei 4.717/1965, e não o
+15 1000930- 2ª 17ª Turma prazo bienal previsto no art. 11, da CLT.
+41.2022.5.02.0004 Região É irrelevante o fato de o vínculo de emprego
+eventualmente não estar mais vigente, na medida
+em que a ação executiva tem como parâmetro o
+título executivo (elemento processual), e não
+mais a relação jurídica de direito material
+subjacente à lide.”
+
+“Com base na aplicação da teoria "actio nata"
+(art. 189 do CCB), o marco inicial da prescrição,
+na seara trabalhista, começa a fluir a partir da
+TRT da
+Processo n° 0010007- data em que o trabalhador teve ciência inequívoca
+16 3ª 6ª Turma acerca do direito. Não havendo decorrido mais de
+68.2023.5.03.0153 cinco anos entre a data de ciência inequívoca do
+Região trânsito em julgado da sentença coletiva e o
+ajuizamento da presente ação executiva
+individual, o afastamento da prescrição é medida
+que se impõe.”
+
+12
+
+[[pagina 13 | nativo]]
+
+Processo n° TRT da “Diante desse panorama, insta concluir que a presente ação de execução individual, ajuizada
+17 0011165- 3ª 5ª Turma em 03/10/2022, foi proposta no prazo de 5 anos
+definido na Súmula 150 do STF, não havendo que
+21.2021.5.03.0092 Região se falar nem em prescrição bienal nem em
+prescrição quinquenal total.”
+
+“Revendo entendimento antes adotado, tenho que a
+prescrição da pretensão executiva se dá no mesmo
+prazo da cognitiva, ou seja, ambas prescrevem em
+5 anos, a contar, em regra, do trânsito em
+TRT da julgado da sentença coletiva, observando os
+Processo n° 0011416- efeitos modulatórios acima transcrito.18 3ª 2ª Turma
+47.2022.5.03.0078 Esta Turma tem entendido que a prescrição bienal
+Região prevista no inciso XXIX do art. 7º da CR diz
+respeito apenas ao prazo para ajuizamento da ação
+de conhecimento, após a extinção do contrato de
+trabalho, não se aplicando à ação de execução
+individualizada de sentença coletiva.”
+
+TRT da Seção
+Processo n° 0020754- “O prazo prescricional para o ajuizamento da
+19 4ª Especializada execução individual é quinquenal e deve ser
+14.2021.5.04.0123 contado a partir do trânsito em julgado da ação
+Região em Execução civil coletiva.”
+
+“No caso, tendo em vista que o trânsito em
+TRT da Seção julgado da sentença coletiva deu-se em 19/04/2017
+Processo n° 0020532- e que a presente ação de execução individual do
+20 4ª Especializada referido título executivo foi ajuizada em
+46.2021.5.04.0123 10/08/2021, não há prescrição a ser pronunciada, Região em Execução
+eis que não decorrido o prazo de prescrição
+quinquenal.”
+
+“EXECUÇÃO INDIVIDUAL DE DECISÃO PROFERIDA EM AÇÃO
+TRT da Seção
+Processo n° 0020287- COLETIVA. O exequente possui a faculdade de
+21 4ª Especializada promover a execução individual da decisão
+35.2021.5.04.0123 proferida em ação coletiva, não havendo falar em
+Região em Execução prescrição total se esta não foi pronunciada na
+fase cognitiva da demanda.”
+
+“Assim, o prazo prescricional para o ajuizamento
+da ação individual de execução se inicia com o
+trânsito em julgado da sentença proferida na ação
+coletiva, não se exigindo, ademais, que os
+TRT da substituídos sejam pessoalmente notificados para
+Processo n° 0000460- ciência do teor da sentença que transitou em22 5ª 2ª Turma
+62.2021.5.05.0009 julgado, a fim de que se inicie o referido prazo.
+Região Veja-se, outrossim, que a prescrição da ação
+executória de título exequendo coletivo não é a
+bienal, típica das reclamações trabalhistas, mas
+sim a quinquenal e total, nos termos do art. 7º,
+XXIX, da CF/88.”
+
+TRT da “Inaplicável, in casu, a prescrição bienal, uma
+Processo n° 0000719- vez que, a natureza jurídica peculiar da Ação
+23 8ª 4ª Turma Coletiva, pela tutela de direitos meta
+61.2021.5.08.0013 individuais, enseja prazo quinquenal para a Região
+incidência do instituto prescricional, ...”
+
+“..., prevalece nesta Seção Especializada
+entendimento consubstanciado na OJ EX SE 46, V,
+no sentido de que "Não corre prescrição para a
+TRT da liquidação e execução das sentenças coletivas
+Processo n° 0000495- Seção promovidas individualmente pelos titulares do
+24 9ª direito".
+26.2021.5.09.0004 Especializada
+Região Ainda que se reconheça aplicável a prescrição,
+nos termos do entendimento fixado pelo TST e STJ,
+o prazo prescricional para ajuizamento da
+execução seria de cinco anos (STJ, AgRg no AREsp
+573190, 2ª Turma, pub. 17/11/2014; TST RR-101101-
+
+13
+
+[[pagina 14 | nativo]]
+
+60.2019.5.01. 0067, 8ª Turma, Relatora Ministra
+Delaide Alves Miranda Arantes, DEJT 09/08/2022),
+o qual não se consumou, considerando que o
+trânsito em julgado da ação coletiva se deu em
+21/02/2019 (certidão de fl. 196) e a presente
+ação individual de cumprimento da sentença foi
+ajuizada em 31/05/2021.”
+
+“..., conforme entendimento do Colegiado, em se
+tratando execução individual de sentença
+coletiva proposta pelo sindicato, na qualidade
+de substituto processual, em que a decisão
+TRT da
+Processo n° 0000306- Seção liquidanda não fixa prazo prescricional para
+25 9ª iniciar a execução, não incide a prescrição
+48.2021.5.09.0004 Especializada total, tampouco intercorrente, eis que para a
+Região deflagração do prazo prescricional da pretensão
+executiva, é necessário que o credor seja
+advertido, de forma clara, quando à possibilidade
+da aplicação da prescrição intercorrente em caso
+de descumprimento de determinação judicial.”
+
+TRT da
+Processo n° 0000359- Seção “A maioria desta Seção Especializada entende que
+26 9ª não ocorre prescrição para a liquidação e
+29.2021.5.09.0004 Especializada execução das sentenças coletivas promovidas
+Região individualmente pelos titulares do direito.”
+
+TRT da
+Processo n° 0000805- “O prazo prescricional para execução individual
+27 12ª 3ª Câmara de título executivo judicial constituído em ação
+55.2022.5.12.0055 coletiva é quinquenal.” Região
+
+TRT da
+Processo n° 0000806- “É de cinco anos o prazo prescricional para o
+28 12ª 1ª Câmara ajuizamento de execução individual de decisão
+40.2022.5.12.0055 proferida em ação coletiva, contados a partir do
+Região seu trânsito em julgado.”
+
+“O ajuizamento da execução individual de sentença
+TRT da
+Processo n° 0000914- coletiva em que são deferidos créditos
+29 12ª 1ª Câmara resultantes das relações de trabalho, o prazo
+04.2019.5.12.0046 prescricional é de cinco anos do trânsito em
+Região julgado da ação civil pública ou coletiva (art.
+7º, XXIX, da CR/88).”
+
+“A fixação do prazo prescricional da execução
+coincide com o da ação, conforme entendimento
+jurisprudencial consagrado na Súmula n. 150 do
+TRT da
+Processo n° 0000675- E. STF, hipótese na qual, pelos efeitos da
+30 13ª 1ª Turma aplicação analógica do art. 21 da Lei n.
+19.2022.5.13.0029 4.717/1965 à ação civil coletiva, o prazo de
+Região prescrição incidente sobre a ação principal é de
+cinco anos e não bienal, devendo ser contado a
+partir da data do trânsito em julgado do título
+executivo judicial.”
+
+“Tratando-se de execução individual de sentença
+TRT da coletiva, a prescrição a ser pronunciada é a
+Processo n° 0000554- quinquenal, nos termos do art. 7º, XXIX, da
+31 14ª 2ª Turma Constituição Federal, contando-se do trânsito em
+45.2022.5.14.0002 julgado da sentença condenatória na ação Região
+coletiva, ocasião em que surgiu o direito à
+pretensão deduzida na exordial.”
+
+“Nos termos da Súmula nº 150 do STF, prescreve a
+TRT da execução no mesmo prazo de prescrição da ação.
+Processo n° 0000048- Sendo assim, como se pretende excutir o título
+32 14ª 2ª Turma executivo resultante de uma ação civil pública,
+07.2020.5.14.0401 mostra-se indiferente para o desenlace da querela
+Região a data do rompimento do vínculo empregatício da
+reclamante. É certo que a Subseção I
+Especializada em Dissídios Individuais pacificou
+14
+
+[[pagina 15 | nativo]]
+
+o entendimento de que o prazo para o ajuizamento
+de ação civil pública é de cinco anos por
+aplicação analógica do art. 21 da Lei nº 4.717/65
+(Lei de Ação Popular). Diante disso, para
+cumprimento de sentença originária de ação civil
+pública, adota-se o prazo de cinco anos - o qual
+é contado a partir do trânsito em julgado da
+sentença coletiva. Assim, como no caso em tela o
+trabalhador ingressou com a execução individual
+dentro desse lapso de cinco anos do trânsito em
+julgado da decisão genérica proferida nos autos
+de ação coletiva, não há prescrição a ser
+pronunciada.”
+
+“Vários são os precedentes do C. TST no sentido
+de aplicar, à espécie, o entendimento
+TRT da
+Processo n° 0010020- consubstanciado na Súmula nº 150 do E. STF,
+33 15ª 3ª Câmara segundo a qual "prescreve a execução no mesmo
+34.2022.5.15.0035 prazo de prescrição da ação", o que
+Região invariavelmente conduz ao entendimento de que o
+prazo prescricional para a execução individual
+de sentença coletiva é de 5 (cinco) anos.”
+
+É possível se encontrar na jurisprudência decisões
+que fixam que o prazo para o aviamento de execução
+individual de sentença coletiva é de dois anos: (...)
+TRT da E há outras decisões que admitem como correto o prazo
+Processo n° 0010808- de cinco anos para a propositura de execução
+34 15ª 1ª Câmara individual: (...)
+59.2021.5.15.0075
+Região Em que pese o dissenso jurisprudencial, entendo ser
+mais adequado o prazo prescricional de cinco anos, na
+forma do art. 7º, XXIX, da Constituição Federal -
+tendo em vista que o termo a quo não está relacionado
+ao término da relação contratual.
+
+“A Suprema Corte, nos termos dos enunciados da Súmula
+TRT da 150 e 350, pacificou a jurisprudência de que a
+Processo n° 0010359- execução prescreve no mesmo prazo de prescrição da
+35 15ª 4ª Câmara ação. Assim, em sendo de cinco anos o prazo
+80.2022.5.15.0006 prescricional para o exercício da pretensão em face Região
+da Fazenda Pública, esse também é o prazo para a
+execução, ...”
+
+“O prazo a ser observado para a verificação da
+prescrição no ajuizamento de ação individual de
+TRT da
+Processo n° 0000011- execução de sentença proferida em Ação Civil Coletiva
+36 23ª 2ª Turma é de cinco anos, previsto no art. 7º, XXIX, da CF,
+82.2022.5.23.0037 contados do trânsito em julgado da ação coletiva, e
+Região não o bienal, previsto nesse mesmo dispositivo, que
+é aplicável à ação de conhecimento, nos contratos já
+findos quando do ajuizamento da ação.”
+
+“O prazo prescricional para o ajuizamento da ação de
+cumprimento de sentença coletiva é o previsto no art.
+7º, XXIX, da CF/88, ou seja, de 5 (cinco) anos
+contados do trânsito em julgado da ação coletiva, no
+caso, em 27/02/2018, conforme entendimento firmado
+pelo Superior Tribunal de Justiça no julgamento do
+TRT da REsp 1.237.643-PR. Desse modo, tendo a presente ação
+Processo n° 0000813- de liquidação/execução individual sido ajuizada em
+37 23ª 1ª Turma 07/04/2021, não há margem para pronúncia da
+17.2021.5.23.0037 prescrição quinquenal, sendo que "o prazo bienal para Região
+prescrição, previsto no art. 7º, XXIX, da
+Constituição Federal, refere-se ao biênio posterior
+à extinção do contrato de trabalho para pleitear
+créditos trabalhistas, e não pode ser utilizado na
+fase de execução em desfavor do empregado que ajuizou
+reclamação trabalhista e foi vitorioso em sua
+pretensão".”
+
+15
+
+[[pagina 16 | nativo]]
+
+TRT da
+Processo n° 0000621- “..., é de cinco anos o prazo prescricional para
+38 23ª 1ª Turma ajuizamento da ação de cumprimento de sentença
+89.2021.5.23.0003 coletiva, contado do trânsito em julgado da
+Região sentença.”
+
+20. Posto que o exame dessas decisões revele certa abrangência em
+
+sua fundamentação, é importante identificar o silogismo que consagra o ponto
+
+de intercessão dos fundamentos comuns a esses julgados:
+
+I. O prazo de cinco anos da Lei da Ação Popular seria também
+
+aplicável à regência das ações civis públicas e coletivas,
+
+inclusive aquelas destinadas à tutela de direitos individuais
+
+homogêneos, por se tratar de demandas igualmente inseridas no
+
+âmbito do microssistema legal de tutela coletiva;
+
+II. Segundo a orientação contida na Súmula 150/STF, quinquenal
+
+também seria o prazo para as execuções individuais das decisões
+
+proferidas em ações coletivas, a ser contado a partir do seu
+
+trânsito em julgado; e
+
+III. Consequentemente, a prescrição quinquenal para as execuções
+
+individuais de decisões coletivas atinentes a créditos
+
+trabalhistas afastaria a regra de prescrição bienal prevista no
+
+inciso XXIX do artigo 7º da Constituição da República.
+
+21. Trata-se de orientação confessadamente amparada em precedentes
+
+qualificados do Superior Tribunal de Justiça, correspondentes aos Temas
+
+Repetitivos 515 e 877, nos quais restaram aprovadas, respectivamente, as
+
+seguintes Teses:
+
+Tema 515: No âmbito do Direito Privado, é de cinco anos o prazo
+prescricional para ajuizamento da execução individual em pedido de
+cumprimento de sentença proferida em Ação Civil Pública.
+
+Tema 877: No âmbito do Direito Privado, é de cinco anos o prazo
+prescricional para ajuizamento da execução individual em pedido de
+cumprimento de sentença proferida em Ação Civil Pública.
+
+16
+
+[[pagina 17 | nativo]]
+
+22. Dois aspectos sobressaem na constatação da impropriedade da
+
+compreensão que esta arguição pretende ver repelida por esse Supremo Tribunal
+
+Federal.
+
+23. O primeiro aspecto decorre da circunstância de as teses fixadas
+
+pelo Superior Tribunal de Justiça terem sido afirmadas a partir do confronto
+
+entre prazos previstos na legislação infraconstitucional, não sendo possível
+
+dessa análise colher a conclusão pelo afastamento do prazo prescricional
+
+expressamente estabelecido na própria Constituição, em benefício de outro
+
+prazo previsto em lei ordinária e, especialmente, quando aplicado por
+
+analogia.
+
+24. O segundo aspecto reside no fato de que a Súmula 150/STF,
+
+invocada por muitas decisões como suposto fundamento para se afastar o biênio
+
+previsto na norma constitucional, na verdade milita em favor do aludido
+
+prazo, pois a inteligência subjacente a esse enunciado sumular não é outra
+
+senão a de que o mesmo prazo para exercício da pretensão (anspruch), que
+
+restou interrompido com o ajuizamento da ação, é o que retorna a fluir após
+
+o trânsito em julgado da decisão definitiva e antes do início da execução.
+
+Essa a compreensão e o sentido destacados pelo eminente Ministro Victor Nunes
+
+Leal em um dos primeiros precedentes que serviram de base para a Súmula
+
+150/STF:
+
+(...) Também recordo, a respeito, a lição de Amílcar de Castro,
+Com. ao Cód. Proc. Civil, v. 10, p. 426: “A sentença não opera novação,
+nem cria direitos: é ato judicial meramente interruptor da prescrição.
+E, assim sendo, desde sua data recomeça a correr a prescrição do
+direito e, demorando a execução, ou suspensa em qualquer ponto a
+instância da execução, por tanto tempo quanto tenha a lei fixado para
+a prescrição do direito declarado na sentença, prescrito ficará esse
+direito” (RE 49.434 – Guanabara, pub. 23/5/1962, Rel. Ministro Victor
+Nunes, Segunda Turma).
+
+25. Parece nitidamente incongruente que a pretensão de um direito
+
+subjetivo individual possa ter seu prazo prescricional alterado – seja para
+
+a ação seja para a execução – pelo simples manejo de um determinado
+
+instrumento processual (ação civil pública ou coletiva). De todo modo,
+
+17
+
+[[pagina 18 | nativo]]
+
+conquanto não se possam ignorar as boas razões sistêmicas e pragmáticas que
+
+inspiraram a solução jurídica consagrada no Tema Repetitivo 515/STJ, afigura-
+
+se totalmente inapropriado atribuir-lhe o poder de alterar o prazo
+
+estabelecido constitucionalmente, como o biênio previsto no inciso XXIX do
+
+artigo 7º do texto constitucional.
+
+2.2. A supremacia e a força normativa da Constituição
+
+26. Os princípios da supremacia da Constituição, de sua força
+
+normativa e da máxima efetividade de suas normas não abrem leito para que o
+
+legislador ordinário, e muito menos o julgador, alterem prazos prescricionais
+
+estabelecidos pelo texto constitucional de modo expresso e inequívoco. Nem
+
+mesmo o apelo a uma pretensa ampliação de garantia ao empregado
+
+hipossuficiente mediante dilatação do prazo da prescrição trabalhista pode
+
+justificar a redução de eficácia do texto constitucional, pois não é dado a
+
+quaisquer das autoridades constituídas substituir o Poder Constituinte na
+
+eleição primária dos meios e modos para melhor assegurar as garantias
+
+constitucionais.
+
+27. Quando se admite que os preceitos constitucionais possam ter sua
+
+aplicação suprimida em nome de ideologias e pré-compreensões,
+
+independentemente da suposta nobreza ou solidariedade de suas disposições, o
+
+resultado é um só: a Constituição deixa de ter a primazia e se torna mera
+
+ferramenta servil a outra fonte originária de poder. Calha rememorar, a
+
+respeito, a precisa advertência de Konrad Hesse12:
+
+Mas, a força normativa da Constituição não reside, tão-somente,
+na adaptação inteligente a uma dada realidade. A Constituição jurídica
+logra converter-se, ela mesma, em força ativa, que se assenta na
+natureza singular do presente (individuelle Beschaffenheit der
+
+12 “A Força Normativa da Constituição”. E-Book. Sistema E-Disciplinas da USP: Ambiente Virtual de
+Apoio à Graduação e Pós-Graduação.
+
+Fonte:
+https://edisciplinas.usp.br/pluginfile.php/4147570/mod_resource/content/0/A%20Forca%20Normativa%2
+0da%20Constituicao%20%20-%20Hesse.pdf
+18
+
+[[pagina 19 | nativo]]
+
+Gegenwart). Embora a Constituição não possa, por si só, realizar nada,
+ela pode impor tarefas. A Constituição transforma-se em força ativa se
+essas tarefas forem efetivamente realizadas, se existir a disposição
+de orientar a própria conduta segundo a ordem nela estabelecida, se,
+a despeito de todos os questionamentos e reservas provenientes dos
+juízos de conveniência, se puder identificar a vontade de concretizar
+essa ordem. Concluindo: pode-se afirmar que a Constituição converter-
+se-á em força ativa se fizerem-se presentes na consciência geral —
+particularmente, na consciência dos principais responsáveis pela ordem
+constitucional —, não só a vontade de poder (Wille zur Macht), mas
+também a vontade de Constituição (Wille zur Verfassung).
+
+28. Consoante percuciente observação do Ministro Celso de Mello,
+
+“ninguém tem o direito de subordinar o texto constitucional à conveniência
+
+dos interesses de grupos, de corporações ou de classes, pois o desprezo pela
+
+Constituição faz instaurar um perigoso estado de insegurança jurídica, além
+
+de subverter, de modo inaceitável, os parâmetros que devem reger a atuação
+
+legítima das autoridades constituídas” (ADI 2105-MC, DJ de 28/4/2000).
+
+29. Impende salientar, naquilo que importa à presente controvérsia,
+
+que o Supremo Tribunal Federal já teve oportunidade de proclamar a imperiosa
+
+necessidade de se garantir supremacia e conferir máxima efetividade ao
+
+preceito fundamental insculpido no inciso XXIX do artigo 7º da Constituição
+
+da República, precisamente em cenário onde a exegese e a aplicação de
+
+dispositivos da legislação infraconstitucional por sedimentada
+
+jurisprudência pátria afrontavam essa efetividade.
+
+30. Trata-se do julgamento do ARE 709.212/DF, julgado sob a
+
+sistemática da repercussão geral, oportunidade na qual se declarou a
+
+inconstitucionalidade do artigo 23, § 5º, da Lei 8036/1990, e do artigo 55
+
+do Regulamento do FGTS aprovado pelo Decreto 99.684/1990, proclamando-se a
+
+seguinte tese:
+
+Tema 608: O prazo prescricional aplicável à cobrança de valores não
+depositados no Fundo de Garantia por Tempo de Serviço (FGTS) é
+quinquenal, nos termos do art. 7º, XXIX, da Constituição Federal.
+
+31. Para o contexto sob destaque, vale apontar o seguinte trecho do
+
+voto condutor do acórdão, da lavra do Ministro Gilmar Mendes, onde proclamado
+
+19
+
+[[pagina 20 | nativo]]
+
+de modo veemente a inegociabilidade de se manter hígido o alcance atribuído
+
+pelo constituinte aos contornos da prescrição trabalhista:
+
+“Contudo, conforme já explanado por mim no julgamento do RE
+522.897, a jurisprudência desta Corte não se apresentava concorde com
+a ordem constitucional vigente quando entendia ser o prazo
+prescricional trintenário aplicável aos casos de recolhimento e de não
+recolhimento do FGTS.
+
+Isso porque o art. 7º, XXIX, da Constituição de 1988 contém
+determinação expressa acerca do prazo prescricional aplicável à
+propositura das ações atinentes a “créditos resultantes das relações
+de trabalho”.
+
+Eis o teor do referido dispositivo constitucional:
+
+“Art. 7º (...)
+
+XXIX – ação, quanto aos créditos resultantes das relaçõesde
+trabalho, com prazo prescricional de cincos anos para os trabalhadores
+urbanos e rurais, até o limite de dois anos após a extinção do contrato
+de trabalho. (redação determinada pela Emenda Constitucional
+28/2000).”
+
+Desse modo, tendo em vista a existência de disposição
+constitucional expressa acerca do prazo aplicável à cobrança do FGTS,
+após a promulgação da Carta de 1988, não mais subsistem as razões
+anteriormente invocadas para a adoção do prazo de prescrição
+trintenário.
+
+Nesse sentido o magistério de Sérgio Pinto Martins:
+
+“Com a Constituição de 1988, o FGTS passou a ser um direito do
+trabalhador (art. 7º, III, da Constituição). O prazo de prescrição
+para sua cobrança também deve observar os prazos normais do inciso
+XXIX do art. 7º da Constituição. Dessa forma, não poderia o parágrafo
+5º do art. 23 da Lei 8.036 tratar diversamente da Constituição e
+especificar o prazo de prescrição de trinta anos. Se a lei maior regula
+exaustivamente a matéria de prescrição no inciso XXIX do artigo 7º,
+não poderia a lei ordinária tratar o tema de forma diferente” (MARTINS,
+Sérgio Pinto. Prescrição do FGTS para o empregado. In: Repertório IOB
+de Jurisprudência. Trabalhista e Previdenciário. 13/99).
+
+Não há dúvida de que os valores devidos ao FGTS são “créditos
+resultantes das relações de trabalho”, na medida em que, conforme
+salientado anteriormente, o FGTS é um direito de índole social e
+trabalhista, que decorre diretamente da relação de trabalho (conceito,
+repita-se, mais amplo do que o da mera relação de emprego).
+
+Registre-se que a aplicabilidade do disposto no art. 7º, XXIX, da
+Constituição à cobrança judicial dos valores relativos FGTS foi
+reconhecida até mesmo pelo Tribunal Superior do Trabalho, embora apenas
+de forma parcial, restritiva e até mesmo contraditória.
+
+Refiro-me à edição, em 2003, do Enunciado 362, segundo o qual “é
+trintenária a prescrição do direito de reclamar contra o não
+
+20
+
+[[pagina 21 | nativo]]
+
+recolhimento da contribuição para o FGTS, observado o prazo de 2 (dois)
+anos após o término do contrato de trabalho”.
+
+Em outras palavras, a Corte Trabalhista entendeu ser aplicável
+apenas a parte do dispositivo constitucional que prevê o prazo de dois
+anos após a extinção do contrato de trabalho, olvidando-se do disposto
+na primeira parte do dispositivo (o direito de reclamar o depósito do
+FGTS somente alcançaria os últimos cinco anos).
+
+Tal entendimento revela-se, a meu ver, além de contraditório, em
+dissonância com os postulados hermenêuticos da máxima eficácia das
+normas constitucionais e da força normativa da Constituição.
+
+O princípio da proteção do trabalhador, não obstante a posição
+central que ocupa no Direito do Trabalho, não é apto a autorizar, por
+si só, a interpretação – defendida por alguns doutrinadores e
+tribunais, inclusive pelo Tribunal Superior do Trabalho – segundo a
+qual o art. 7º, XXIX, da Constituição estabeleceria apenas o prazo
+prescricional mínimo a ser observado pela legislação ordinária,
+inexistindo óbice à sua ampliação, com vistas à proteção do
+trabalhador.13
+
+32. A ratio decidendi que norteou esse precedente ampara a integral
+
+procedência do pedido formulado na presente arguição. Em face da expressa,
+
+completa e inequívoca redação do inciso XXIX do artigo 7º da Constituição da
+
+República, não é dado às autoridades constituídas reduzirem o seu alcance ou
+
+subverterem o seu sentido para estabelecer prazos prescricionais distintos,
+
+ainda que sob o pretexto de se conferir maior proteção ao trabalhador.
+
+33. O que se depreende do exposto é que as decisões atentatórias aos
+
+preceitos fundamentais destacados trilharam senda oposta àquela que melhor
+
+prestigiaria os princípios constitucionais da supremacia e da força normativa
+
+da Constituição e da máxima efetividade das normas constitucionais. Isso
+
+porque, além de reduzirem o alcance e o âmbito de incidência de um dispositivo
+
+constitucional expresso (CRFB, art. 7º, XXIX), não o fizeram a partir de
+
+ponderação entre princípios e valores emanados da própria Constituição, mas
+
+com base na interpretação e na integração analógica de dispositivos da
+
+legislação infraconstitucional (Lei da Ação Popular e legislação
+
+13 Cumpre mencionar que a orientação informa a tese fixada no julgamento da ADI nº 3.961/DF,
+como se pode constatar, a contrario sensu, do tópico em que afirmada a constitucionalidade do
+prazo prescricional revisto no artigo 18 da Lei nº 11.442/2007, litteris: “O prazo
+prescricional estabelecido no art. 18 da Lei nº 11.442/2007 é válido porque não se trata de
+relação de trabalho, mas de relação comercial, não incidindo na hipótese o art. 7º, XXIX, CF.”
+21
+
+[[pagina 22 | nativo]]
+
+infraconstitucional de regência do microssistema processual das ações
+
+coletivas).
+
+34. Com efeito, o exame atento das aludidas decisões evidencia o
+
+equívoco bastante revelador do desrespeito à supremacia da Constituição:
+
+procede-se ao afastamento da regra constitucional sobre prescrição
+
+trabalhista em benefício de norma oriunda do microssistema legal que rege as
+
+ações coletivas, sem qualquer consideração quanto à supremacia do preceito
+
+constitucional e a necessidade de conformação desse entendimento à Lei Maior,
+
+em um discurso argumentativo que evidencia clara adoção indevida do critério
+
+da lex specialis para regência de conflito aparente entre norma
+
+constitucional e norma infraconstitucional.
+
+35. Somente essa circunstância parece suficiente para se reconhecer
+
+a afronta a preceito fundamental da Constituição por parte do conjunto de
+
+decisões da Justiça do Trabalho que vem aplicando a prescrição quinquenal
+
+para as execuções individuais de ações coletivas em detrimento do prazo
+
+bienal estabelecido no inciso XXIX do artigo 7º da CF.
+
+36. Entretanto, cumpre também refutar a objeção de que, em homenagem
+
+ao princípio da proteção ao trabalhador, seria possível sustentar validamente
+
+a possibilidade de, mediante atividade legislativa ou judicante, ampliarem-
+
+se os prazos estabelecidos no inciso XIX do artigo 7º da Constituição da
+
+República. Essa objeção encontraria aparente apoio na ideia de que a locução
+
+“além de outros que visem à melhoria de sua condição social”, constante do
+
+caput do artigo 7º, autorizaria a interpretação de que os prazos do inciso
+
+XXIX consubstanciariam apenas garantia mínima, que poderia ser legitimamente
+
+ampliada mediante outras normas do ordenamento jurídico.
+
+37. Ao menos três razões revelam a inconsistência e inadequação dessa
+
+compreensão.
+
+38. A primeira razão, certamente a mais evidente, é que o texto
+
+constitucional não autoriza semelhante exegese com relação à prescrição
+
+22
+
+[[pagina 23 | nativo]]
+
+trabalhista, conforme restou assentado no seguinte trecho do douto voto
+
+condutor do já citado ARE 709.212/DF:
+
+O princípio da proteção do trabalhador, não obstante a posição
+central que ocupa no Direito do Trabalho, não é apto a autorizar, por
+si só, a interpretação – defendida por alguns doutrinadores e
+tribunais, inclusive pelo Tribunal Superior do Trabalho – segundo a
+qual o art. 7º, XXIX, da Constituição estabeleceria apenas o prazo
+prescricional mínimo a ser observado pela legislação ordinária,
+inexistindo óbice à sua ampliação, com vistas à proteção do
+trabalhador. Acerca do tema, valho-me novamente do magistério de Sérgio
+Pinto Martins:
+
+“Quando a Constituição quis estabelecer direitos mínimos foi clara
+no sentido de usar as expressões 'nunca inferior' (art. 7º, VII), 'no
+mínimo' (art. 7º, XVI e XXI), 'pelo menos' (art. 7º, XVII). No inciso
+XXIX do art. 7º não foram usadas tais expressões. O constituinte foi
+preciso no sentido de fixar o prazo, que, portanto, não pode ser
+modificado pela lei ordinária. O FGTS é um crédito resultante da
+relação de trabalho. Não pode a lei ordinária reduzir ou ampliar o
+prazo de prescrição previsto na Constituição. Assim, por mais esse
+ângulo, o parágrafo 5º do art. 23 da Lei 8.036 é inconstitucional. O
+mesmo ocorre com o art. 55 do Regulamento do FGTS, determinado pelo
+Decreto 99.684/90.
+
+39. A segunda razão reside no fato de que uma tal ampliação de prazos
+
+prescricionais de matriz constitucional, ainda que possível, apenas poderia
+
+ser feita pelo legislador mediante norma expressa e específica, jamais pelo
+
+aplicador e intérprete ou por meio de integração analógica, sob pena de
+
+afronta ao princípio da separação dos poderes (CRFB, art. 2º).
+
+40. Sabe-se que, em sua atividade de fazer atuar a vontade concreta
+
+da lei, cabe ao magistrado “interpretar a lei ou a Constituição, sem que isto
+
+implique ofensa ao princípio da independência e harmonia dos Poderes (C.F,
+
+art. 2º)” (AgRg no AI 410096/SP, Rel. Ministro Roberto Barroso, DJ de
+
+6/5/2015). Não lhe é dado, porém, “em tema regido pelo postulado
+
+constitucional da reserva de lei, atuar na anômala condição de legislador
+
+positivo (RTJ 126/48 - RTJ 143/57 - RTJ 146/461-462 - RTJ 153/765, v.g.),
+
+para, em assim agindo, proceder à imposição de seus próprios critérios,
+
+afastando, desse modo, os fatores que, no âmbito de nosso sistema
+
+constitucional, só podem ser legitimamente definidos pelo Parlamento. É que,
+
+se tal fosse possível, o Poder Judiciário - que não dispõe de função
+
+23
+
+[[pagina 24 | nativo]]
+
+legislativa - passaria a desempenhar atribuição que lhe é institucionalmente
+
+estranha (a de legislador positivo), usurpando, desse modo, no contexto de
+
+um sistema de poderes essencialmente limitados, competência que não lhe
+
+pertence, com evidente transgressão ao princípio constitucional da separação
+
+de poderes” (MS 22690, Rel. Ministro Celso de Mello, DJ de 7/12/2006).
+
+41. De fato, embora a doutrina hodierna atribua considerável
+
+amplitude à atividade judicante14, reconhecendo-lhe o potencial para criação
+
+normativa no âmbito da questão deduzida em juízo, não parece possível admitir
+
+possa o julgador afastar a aplicabilidade de um preceito constitucional
+
+expresso sobre prescrição trabalhista para fazer incidir, em seu lugar, norma
+
+infraconstitucional sequer direcionada à disciplina da prescrição nas
+
+relações de trabalho.
+
+42. Em oposição ao consenso de que “as regras jurídicas sobre
+
+prescrição hão de ser interpretadas estritamente, repelindo-se a própria
+
+interpretação analógica”15, a interpretação aqui combatida vale-se do emprego
+
+da analogia, não para colmatar efetiva lacuna legislativa, mas para afastar
+
+norma constitucional expressa, reproduzida no artigo 11 da CLT.
+
+43. A terceira razão que conduz à rejeição da objeção está em que,
+
+ao se admitir o estabelecimento de prazo mais dilatado para a prescrição
+
+trabalhista constitucionalmente prevista, seja por parte do juiz ou do
+
+legislador, substitui-se o juízo de ponderação de princípios e valores
+
+constitucionais fundamentais exercido soberanamente pelo Poder Constituinte
+
+por um novo juízo de ponderação levado a cabo por autoridades constituídas,
+
+em um quadro de subversão do Estado Constitucional.
+
+14 CUEVA, Ricardo Villas Bôas, Controle do ativismo judicial por meio de limites à
+discricionariedade judicial? O fim da dogmática jurídica? Estudos em Homenagem ao Professor Tércio
+Sampaio Ferraz Júnior, Editora D˜Plácido, São Paulo, 2001, P. 469.
+
+15 PONTES DE MIRANDA, Francisco Cavalcanti. “Tratado de Direito Privado”. Borsoi, Rio, 1970, p.
+317.
+
+24
+
+[[pagina 25 | nativo]]
+
+44. No âmbito do Estado Constitucional, um ato não se legitima apenas
+
+porque emanado de autoridade constituída, sendo indispensável assegurar-se
+
+sua estrita conformidade com as diretrizes constitucionais, conforme destaca
+
+a precisa e oportuna lição do notável Professor Canotilho16:
+
+O Estado Constitucional democrático ficaria incompleto e
+enfraquecido se não assegurasse um mínimo de garantias e de sanções:
+garantias de observância, estabilidade e preservação das normas
+constitucionais, sanções contra atos dos órgãos de soberania e de
+outros não conformes com a constituição. (...) Desta forma, o objeto
+de defesa não é pura e simplesmente a defesa do Estado e sim da forma
+de Estado tal como ela é constitucionalmente formada.
+
+45. Certamente não é dado ao aplicador da norma ou ao legislador
+
+ordinário reformular as escolhas políticas que produziram a conformação dada
+
+pelo Constituinte às regras da Carta Maior, ainda que suas intenções sejam
+
+as melhores e seus valores os mais altaneiros.
+
+46. É nesse ponto que se afigura oportuno dissecar, em subtópico
+
+específico, o fundamento principiológico e as bases valorativas do regime de
+
+prescrição trabalhista instituído pelo inciso XXIX do artigo 7º da
+
+Constituição da República, com especial atenção à sua inserção no rol dos
+
+direitos sociais fundamentais.
+
+2.3 - Direitos sociais fundamentais. Valores e princípios em disputa.
+
+47. É indubitável que a consagração dos direitos sociais no texto
+
+constitucional e a afirmação de sua efetividade e aplicabilidade imediata
+
+representam elemento essencial do constitucionalismo moderno.
+
+48. A mera consagração e previsão constitucional de direitos e
+
+garantias como mecanismos de proteção do indivíduo em face do Estado –
+
+liberdades negativas – passou a ser reconhecida como insuficiente à plena
+
+realização da cidadania, pugnando-se cada vez mais pela instituição de
+
+16 “Direito Constitucional”. Livraria Almedina, Coimbra, 1993, 6ª ed, p. 953.
+25
+
+[[pagina 26 | nativo]]
+
+direitos e garantias de conteúdo positivo, consistentes em uma prestação
+
+estatal destinada a garantir o pleno desenvolvimento social e econômico da
+
+coletividade.
+
+49. Nesse contexto se insere o chamado Estado Social de Direito ou
+
+Estado do Bem-Estar Social, caracterizado pela previsão constitucional dos
+
+chamados direitos sociais, primeiramente como normas de conteúdo programático
+
+e, em um segundo momento, como verdadeiros direitos subjetivos públicos dos
+
+cidadãos, aptos a impor obrigações concretas e imediatas ao Estado como
+
+corolário da própria supremacia da Constituição.
+
+50. Em um completo delineamento do evolver histórico que engendrou
+
+a positivação dos direitos sociais e do próprio Estado Social, Osvaldo
+
+Ferreira de Carvalho de modo categórico afirma serem os direitos sociais “os
+
+mais fundamentais dos direitos, não só pela especial categoria que
+
+representam como direitos dentro das Constituições, mas, sobretudo, pelo
+
+caráter essencial que eles encarnam em qualquer esquema de direitos de um
+
+Estado Social de Direito Contemporâneo”17.
+
+51. Não parece haver dúvidas, ao menos para a parcela dominante da
+
+doutrina e da jurisprudência nacional, de que os direitos sociais previstos
+
+na Constituição se inserem na categoria de direitos fundamentais18 e,
+
+naturalmente, dessa compreensão não destoa a jurisprudência do Supremo
+
+Tribunal Federal:
+
+17 “Os Direitos Sociais como Categoria Constitucional” – in RDU, Porto Alegre, Vol. 14, n. 81,
+maio-jun 2018, p. 72.
+
+18 Nesse sentido, vale destacar a observação de Sylvio Motta: “Os direitos sociais encartam-se
+entre os direitos fundamentais de segunda geração, exigindo uma atuação positiva dos poderes
+públicos, como medida indispensável para que as normas constitucionais que os consagram possam
+deflagrar na plenitude os efeitos queridos pelo legislador constituinte originário, essencialmente,
+a disponibilização de condições materiais mínimas para os hipossuficientes. Como anota Jean Rivero,
+os direitos sociais são “direitos de crédito”, pelo fato de poderem ser exigidos do poder público,
+a quem incumbe as medidas necessários para seu atendimento “Direito Constitucional”. Editora
+Método, São Paulo, 2021, 29ª ed., e-Book.
+
+Ainda nesse sentido: (1) MORAES, Alexandre de. “Direito Constitucional”. Atlas, São Paulo, 2003,
+14ª ed, p. 202-203; (2) CANOTILHO, José Joaquim G.; MENDES, Gilmar F.; SARLET, Ingo W. et al.
+“Série IDP - Comentários à Constituição do Brasil”. Saraiva, 2018, e-Book.
+26
+
+[[pagina 27 | nativo]]
+
+Ementa: CONSTITUCIONAL. DIREITO DOS TRABALHADORES. DISPENSA EM
+MASSA. INTERVENÇÃO SINDICAL PRÉVIA. EXIGÊNCIA. ART. 7º, INCISOS I
+e XXVI, da CONSTITUIÇÃO DA REPÚBLICA.
+
+1. Os direitos sociais fundamentais trabalhistas são corolários
+primários do modelo político alcunhado de Estado Democrático de
+Direito.
+
+(...).
+
+(RE 999435, Relator p/ Acórdão Min. Edson Fachin, DJ de 8/6/2022)
+
+Ementa: DIREITOS SOCIAIS. REFORMA TRABALHISTA. PROTEÇÃO
+CONSTITUCIONAL À MATERNIDADE. PROTEÇÃO DO MERCADO DE TRABALHO DA
+MULHER. DIREITO À SEGURANÇA NO EMPREGO. DIREITO À VIDA E À SAÚDE
+DA CRIANÇA. GARANTIA CONTRA A EXPOSIÇÃO DE GESTANTES E LACTANTES
+A ATIVIDADES INSALUBRES.
+
+1. O conjunto dos Direitos sociais foi consagrado
+constitucionalmente como uma das espécies de direitos
+fundamentais, caracterizando-se como verdadeiras liberdades
+positivas, de observância obrigatória em um Estado Social de
+Direito, tendo por finalidade a melhoria das condições de vida
+aos hipossuficientes, visando à concretização da igualdade social,
+e são consagrados como fundamentos do Estado Democrático, pelo
+art. 1º, IV, da Constituição Federal.
+
+(...).
+
+(ADI 5938, Rel. Ministro Alexandre de Moraes, DJ de 23/9/2019)
+
+52. Nesse contexto, cabe ao Poder Judiciário, em particular ao
+
+Supremo Tribunal Federal, a tarefa difícil, porém essencial, de fazer atuar
+
+a vontade da Constituição na efetiva implementação de políticas públicas
+
+destinadas a assegurar, tanto quanto possível, a máxima efetividade das
+
+normas constitucionais garantidoras dos direitos sociais, ajustando as ações
+
+e vontades dos poderes constituídos às diretrizes da Lei Fundamental.
+
+53. Entretanto, é imperioso salientar que a promoção de conformidade
+
+entre as condutas dos agentes estatais e as diretrizes constitucionais para
+
+satisfação dos direitos sociais fundamentais não se dá apenas sob o aspecto
+
+quantitativo (realização insuficiente), mas também sob o aspecto qualitativo
+
+(realização segundo a Constituição), como dimensão igualmente essencial à
+
+garantia de supremacia e máxima efetividade das normas constitucionais.
+
+27
+
+[[pagina 28 | nativo]]
+
+54. Não há afronta ao direito social fundamental apenas quando a
+
+autoridade constituída atua de modo omisso ou insuficiente na busca da
+
+realização positiva da prestação imposta ao Estado, mas também quando esse
+
+mesmo agente público confere concretude ao direito social segundo contornos
+
+distintos daqueles prévia e imperativamente estabelecidos na norma
+
+constitucional.
+
+55. A observação é importante, por ser do Poder Constituinte o juízo
+
+soberano de ponderação entre os diversos princípios e valores fundamentais
+
+que se põem em tensão dialética, no momento de sua formulação abstrata no
+
+texto constitucional.
+
+56. Ao editar a norma constitucional definidora de um direito social,
+
+o constituinte considera circunstâncias, princípios e valores de variada
+
+ordem em potencial colisão – v.g. escassez de recursos, dinâmica do mercado,
+
+busca do equilíbrio entre forças sociais antagônicas, pressões de grupos e
+
+entidades etc –, além da própria necessidade de preservação da unidade da
+
+Constituição. A partir dessa ponderação é que ele institui o aludido direito,
+
+com os contornos e a amplitude por ele reconhecidos como mais adequados e
+
+viáveis. Daí porque não é dado ao intérprete e aplicador da norma
+
+constitucional conferir-lhe conformação contrária àquela efluente do próprio
+
+texto constitucional.
+
+57. Essa percepção já foi posta em destaque pelo Ministro Gilmar
+
+Mendes19, em sede doutrinária:
+
+Nesse contexto, torna-se extremamente complexa, para não
+dizer penosa, a interpretação/aplicação das normas constitucionais
+definidoras dos direitos sociais, na medida em que, de um lado,
+os seus operadores, independentemente de sentimentos de ordem
+pessoal, são obrigados a emprestar-lhes a máxima efetividade —
+afinal de contas, esse é um dos princípios da interpretação
+especificamente constitucional — e, de outro, devem observar,
+também, outros cânones hermenêuticos de igual hierarquia, como os
+princípios da unidade da Constituição, da correção funcional e da
+
+19 “Curso de Direito Constitucional”. Saraiva, São Paulo, 2009, 4ª ed., p. 763.
+
+28
+
+[[pagina 29 | nativo]]
+
+proporcionalidade ou da razoabilidade, a cuja luz, sucessivamente,
+não podem interpretar a Lei Fundamental em "fatias", desrespeitar
+o seu modelo de separação dos Poderes e, tampouco, proferir
+decisões segundo particulares concepções de justiça — por mais
+respeitáveis que sejam —, de todo incompatíveis com a ordem de
+valores plasmada na Constituição. Neste, como em muitos outros
+domínios, enganam-se os que acreditam — juristas e filósofos —
+que é possível fazerem-se coisas com palavras. (MENDES, 2009,
+p.763)
+
+58. Partindo-se da classificação dessas restrições em direta e
+
+indiretamente constitucionais, segundo critério noticiado por Robert Alexy20,
+
+verifica-se que o regime de prescrição trabalhista estabelecido pelo inciso
+
+XXIX do artigo 7º da Constituição da República caracteriza-se como uma
+
+restrição diretamente constitucional: o próprio enunciado da Constituição
+
+que assegura aos trabalhadores o direito de ação quanto a créditos resultantes
+
+das relações de trabalho (direito de ação prima facie) estabelece condições
+
+temporais ao seu exercício: prazo prescricional de 5 anos sobre os créditos
+
+vencidos, contados retroativamente da propositura da ação, que deve ser
+
+proposta dentro do prazo de 2 anos após a extinção do contrato.
+
+59. Assim, é a própria Constituição que delimita os contornos do
+
+direito fundamental de ação “quanto aos créditos resultantes das relações de
+
+trabalho”, restringindo sua postulação às parcelas vencidas nos 5 anos
+
+anteriores ao ajuizamento da ação e limitando temporalmente seu exercício
+
+até o período de 2 anos após a extinção do contrato de trabalho.
+
+60. Trata-se de restrições diretamente constitucionais, que se
+
+vinculam indissociavelmente ao próprio conteúdo normativo do preceito
+
+fundamental exatamente como enunciado na Constituição, conteúdo esse que nem
+
+o aplicador da norma nem o legislador ordinário têm o poder de modificar,
+
+20 Ensina o admirável jurista alemão que, “como direitos de hierarquia constitucional, direitos
+fundamentais podem ser restringidos somente por normas constitucionais ou em virtude delas.
+Restrições a direitos fundamentais são, portanto, ou normas de hierarquia constitucional ou normas
+infraconstitucionais, cuja criação é autorizada por normas constitucionais. As restrições de
+hierarquia constitucional são restrições diretamente constitucionais, e as restrições
+infraconstitucionais são restrições indiretamente constitucionais” (“Teoria dos Direitos
+Fundamentais”. Malheiros, São Paulo, 2006, 5ª ed. Alemã, trad. Virgílio Afonso da Silva, p. 286).
+29
+
+[[pagina 30 | nativo]]
+
+ainda que mediante invocação da cláusula de garantia mínima inserida no caput
+
+do artigo 7º da Constituição da República.
+
+61. Entendimento contrário implicaria admitir, como já exposto, que
+
+a supremacia já não é da Constituição, mas das autoridades constituídas que
+
+editam e aplicam a legislação infraconstitucional, a quem passaria a ser
+
+concedido o poder de reformular as opções políticas do Poder Constituinte.
+
+62. Vale pontuar que o conflito em exame não é entre normas de status
+
+constitucional, mas entre regra constitucional expressa que limita
+
+temporalmente o direito de ação quanto a créditos resultantes das relações
+
+de trabalho e a atividade judicante de magistrados que, com base em exegese
+
+e analogia sobre normas de direito infraconstitucional, afastam essa regra
+
+expressa no contexto do processo coletivo.
+
+63. Não há, portanto, princípios a serem invocados para se afastar
+
+a prescrição estabelecida em norma constitucional expressa, cujo conteúdo já
+
+considerou a correlação de diversos princípios e valores segundo critérios
+
+estabelecidos pelo soberano Poder Constituinte.
+
+2.5 - A igualdade, a justiça e a paz.
+
+64. Sabe-se que os direitos sociais têm por fundamento o princípio
+
+da isonomia em sua dimensão material, sintetizado na fórmula aristotélica
+
+complementada por Ruy Barbosa, segundo a qual se impõe “tratar desigualmente
+
+os desiguais na medida de sua desigualdade”.
+
+65. Nesse cenário, desponta a segurança jurídica como valor e
+
+princípio fundamental, verdadeiro pilar da ordem constitucional, por meio do
+
+qual se busca a estabilidade e previsibilidade das relações jurídicas.
+
+Certamente o instituto da prescrição representa uma das mais veementes
+
+expressões do princípio constitucional fundamental da segurança jurídica
+
+(CRFB, art. 5º, caput), que não se coaduna com a perenidade de estados de
+
+incerteza a respeito do cumprimento de direitos e obrigações na esfera social.
+
+30
+
+[[pagina 31 | nativo]]
+
+66. No estabelecimento dos direitos sociais fundamentais dos
+
+trabalhadores, o Poder Constituinte observou a tensão dialética entre os
+
+valores da justiça e da segurança Jurídica, mediante adequada ponderação dos
+
+diversos princípios, valores e interesses em disputa, tais como: (a) valores
+
+sociais do trabalho e da livre iniciativa como fundamentos da República
+
+(CRFB, art. 1º, IV) e da ordem econômica (CRFB, art. 170, caput); (b)
+
+concessão de tratamento isonômico entre determinados trabalhadores em
+
+condições semelhantes e previsão de normas protetivas para outros em condição
+
+de desigualdade (CRFB, art. 7º, caput e incisos IX, XII, XIV, XVIII a XXIII
+
+e XXXIII a XXXIV); e (c) livre concorrência como princípio da ordem econômica
+
+(CRFB, art. 170, IV).
+
+67. Nesse contexto se insere o regime constitucional da prescrição
+
+trabalhista. Antes do advento da Constituição de 1988, a prescrição
+
+trabalhista não tinha assento constitucional e era de apenas dois anos para
+
+todos, independentemente de estar o contrato de trabalho extinto ou em curso
+
+(CLT, art. 11). Embora o prazo atendesse a necessidade de prescrições curtas
+
+no âmbito das atividades negociais e econômicas, não resolvia o quadro de
+
+injustiça que se impunha aos trabalhadores, sobretudo após o fim de regime
+
+de estabilidade.
+
+68. O inciso XXIX do artigo 7º da Constituição de 1988 alterou esse
+
+quadro, estabelecendo, em sua redação originária, a regra de prescrição
+
+quinquenal para os trabalhadores urbanos, até o limite de dois anos após a
+
+extinção do contrato, e de dois anos após a extinção do contrato para os
+
+trabalhadores rurais. Assim, não corria prescrição para os trabalhadores
+
+rurais durante o curso do contrato, embora o empregador pudesse produzir
+
+prova de quitação dos encargos de cinco em cinco anos.
+
+69. Esse tratamento desigual entre a regência da prescrição para
+
+trabalhadores urbanos e rurais foi alterado pela Emenda Constitucional nº
+
+28/2000, que uniformizou a regra da prescrição quinquenal com limite de dois
+
+anos após a extinção do contrato de trabalho.
+
+31
+
+[[pagina 32 | nativo]]
+
+70. Instado a se pronunciar sobre a alegada inconstitucionalidade da
+
+aludida emenda, por supostamente contrariar cláusula pétrea consubstanciada
+
+na isonomia material, o Supremo Tribunal Federal decidiu pela inexistência
+
+da alegação, esclarecendo que a opção política do poder constituinte derivado
+
+consubstanciou maior prestígio ao princípio isonômico, além de resultar de
+
+razoável ponderação entre os interesses dos empregadores e trabalhadores
+
+rurais. Eis o que se colhe do voto condutor do julgado, da lavra do Ministro
+
+Alexandre de Moraes:
+
+Como acentuado no Parecer 359/1998 da Comissão de
+Constituição, Justiça e Cidadania do Senado Federal quando da
+apreciação da PEC 64/1995, a qual deu origem à EC 28/2000, a
+reforma então procedida teve como escopo “representar um esforço
+de conciliação entre os interesses dos empregados e empregadores
+rurais. E, sem dúvida, a sua aprovação configuraria um passo
+significativo na redução dos níveis de desigualdade no tratamento
+jurídico dispensado a trabalhadores urbanos e rurais.
+
+No dizer de UADI LAMMÊGO BULOS:
+
+Antes da Emenda Constitucional nº 28/2000, os
+créditos trabalhistas [de trabalhadores rurais] só
+prescreviam depois do prazo de dois anos da extinção do
+contrato de emprego. Não havia referência a qualquer
+limite. A prescrição não recaía sobre os créditos enquanto
+vigorasse o vínculo empregatício, exceto se o empregador
+rural ajuizasse ação de prestação de contas quinquenária
+para quitar obrigações trabalhistas, com base no ilusório
+art. 233 da Constituição, revogado pela aludida emenda.
+Agora, além da paridade de tratamento conferida às
+prescrições urbana e rural, a Carta Magna manteve a
+distinção de prazo de contagem da prescrição total ou
+absoluta – dois anos, a partir da extinção do contrato -,
+e parcial ou relativa – cinco anos, a partir da violação
+do direito às prestações sucessivas. Todavia, extinto o
+contrato, a prescrição total absorve a parcial. Quer dizer,
+caso o empregado urbano ou rural deixe de reclamar, no
+prazo de dois anos, perderá o benefício das prestações
+sucessivas até os cinco anos) anteriores.
+
+(Constituição Federal anotada. 11. ed. rev. E
+atual. de acordo com a EC n. 83/2014. São Paulo: Saraiva,
+2015, p. 461
+
+Verifica-se, portanto, que a EC 28/2000 foi editada com a
+finalidade de reformar norma protetiva do texto originário da
+Constituição instituída em favor do trabalhador rural. O
+constituinte originário considerou conveniente diferenciar a
+situação dos trabalhadores rurais, no tocante à disciplina da
+prescrição de créditos trabalhistas. Essa diferenciação entre as
+
+32
+
+[[pagina 33 | nativo]]
+
+duas categorias de trabalhadores foi revista pelo constituinte
+derivado reformador, que firmou a igualdade de tratamento entre
+as categorias referidas. Ao fazê-lo, naturalmente, acarretou
+tratamento menos benéfico à categoria antes não submetida ao prazo
+prescricional quinquenal.
+
+Assim, o regime prescricional implantando pela EC 28/2000
+simplesmente conferiu tratamento isonômico ao regime de prescrição
+de créditos trabalhistas de trabalhadores rurais e urbanos, numa
+legítima opção política exercida pelo Congresso Nacional. Não
+implicou ofensa à dignidade dos trabalhadores rurais, na medida
+em que foi preservado seu direito fundamental de acesso à
+jurisdição, quando necessário para resguardar eventuais créditos
+de natureza trabalhista. Ocorre que, de agora em diante, há que
+se observar o prazo de cinco anos para se pleitear em juízo tais
+créditos, quando ainda vigente o contrato de trabalho, ou o prazo
+de dois anos, caso já encerrado o vínculo empregatício.
+
+Registre-se que a prescritibilidade das ações é a regra
+geral vigente no ordenamento jurídico pátrio, conforme ressaltado
+pelo saudoso Ministro TEORI ZAVASCKI quando do julgamento do RE
+669.069/MG. Nessa oportunidade, ao interpretar o art. 37, § 5º,
+da CF, o qual dispõe que “a lei estabelecerá os prazos de
+prescrição para ilícitos praticados por qualquer agente, servidor
+ou não, que causem prejuízos ao erário, ressalvadas as respectivas
+ações de ressarcimento”, o eminente Ministro TEORI afirmou que “o
+sistema de direito, inclusive o constitucional, (...) consagra a
+prescritibilidade como princípio”. Nesse julgado, a CORTE exarou
+entendimento cristalizado na seguinte tese de repercussão geral:
+“É prescritível a ação de reparação de danos à Fazenda Pública
+decorrente de ilícito civil”.
+
+Nessa medida, a imprescritibilidade no direito brasileiro
+é excepcional e somente se justifica quando fundada em valores
+constitucionais considerados de estatura preponderante em
+detrimento do valor "da segurança jurídica”. A fixação da
+prescritibilidade das ações trabalhistas, para o trabalhador rural
+e urbano, não foge, assim, ao arcabouço valorativo estabelecido
+pela Constituição Federal de 1988, na medida em que não se verifica
+fator apto a sobrepujar, na matéria, o princípio constitucional
+da segurança jurídica, estando preservada a dignidade do
+trabalhador rurícola.
+
+Portanto, rejeito a tese de que a alteração promovida pela
+EC 28/2000 tenha suprimido ou abolido direito social fundamental
+ou qualquer garantia individual protegida pelo art. 60, § 4º, da
+CF.
+
+(ADI 3653/DF, Rel. Ministro Alexandre de Moraes, DJ de 16/9/2019)
+
+71. O STF considerou, pois, que o regime de prescrição unificada
+
+para trabalhadores urbanos e rurais, com estabelecimento de prazo quinquenal
+
+para as prestações vencidas nos cinco anos anteriores ao ajuizamento da ação
+
+e do limitador de dois anos após a extinção do contrato de trabalho para
+
+33
+
+[[pagina 34 | nativo]]
+
+ajuizamento da ação, representava regra em plena harmonia com o princípio
+
+isonômico e pacificadora dos interesses conflitantes de empregadores e
+
+empregados.
+
+72. Assim, se as condições bastante distintas entre os regimes de
+
+trabalho dos empregados urbanos e rurais não foi reputada por essa Corte
+
+Suprema como um fator de discrimen apto a justificar regimes de prescrição
+
+diferenciados, a fortiori se impõe a conclusão pela inviabilidade de se
+
+disciplinar diversamente a prescrição do trabalhador pela mera circunstância
+
+de a pretensão ter sido deduzida em juízo em uma ação coletiva ou de uma ação
+
+individual.
+
+73. A esse propósito, mostra-se adequada a observação de Fredie
+
+Didier Jr e Hermes Zaneti Jr, no sentido de que “O prazo prescricional para
+
+a tutela coletiva de direitos individuais homogêneos será o prazo
+
+prescricional das respectivas pretensões individuais. Não há qualquer razão
+
+para que haja prazos diversos, um para a ação coletiva e outro para a ação
+
+individual [...]. É relevante notar que esse prazo é vinculado ao direito
+
+material tutelado, não existe no ordenamento brasileiro, em princípio, nenhum
+
+prazo prescricional puramente processual”21.
+
+74. Além disso, o reconhecimento da legítima ponderação entre
+
+interesses de empregados e empregadores na determinação do regime
+
+prescricional mais adequado bem demonstra a necessidade de equilíbrio das
+
+tensões dialéticas em disputa no estabelecimento das normas constitucionais
+
+fundamentais tais como desenhadas pelo legislador constituinte, de modo que
+
+ao aplicador da norma não é dado simplesmente afastá-la em nome de um prazo
+
+mais vantajoso ao empregado.
+
+75. Enquanto o regime constitucional de prescrição trabalhista se
+
+apresenta como garantia da isonomia e do adequado equilíbrio entre princípios
+
+e valores fundamentais da Constituição da República, a solução jurídica
+
+21 Curso de direito processual civil: processo coletivo. 11ª edição. Salvador: Ed. JusPodivm, 2017,
+p. 305.
+34
+
+[[pagina 35 | nativo]]
+
+adotada nas decisões violadoras de preceito fundamental impugnadas por meio
+
+da presente ação vai exatamente no sentido oposto.
+
+76. O critério distintivo adotado para justificar tratamento
+
+diferenciado aos trabalhadores albergados pelas aludidas decisões não se
+
+reveste de razoabilidade nem presta homenagens à isonomia material sobre a
+
+qual se fundam os direitos sociais. Prende-se apenas em um elemento
+
+circunstancial que em nada se relaciona com situações concretas e ontológicas
+
+de desigualdade, a saber, o fato de estarem as pretensões individuais ao
+
+abrigo de decisão proferida em sede de ação coletiva.
+
+77. Não se adota o prazo quinquenal em detrimento do biênio legal
+
+com base em peculiaridades intrínsecas à categoria dos trabalhadores
+
+atingidos pelas decisões questionadas, mas a partir da mera circunstância de
+
+estarem ao abrigo de tutela coletiva, o que na verdade produz um tratamento
+
+anti-isonômico: enquanto o trabalhador que não teve em seu benefício um
+
+provimento exarado no bojo de ação coletiva continua a se sujeitar ao biênio
+
+previsto no inciso XXIX do artigo 7º da Constituição da República, o
+
+trabalhador abrangido pela sentença coletiva tem seu prazo dilatado para
+
+cinco anos, contados do trânsito em julgado daquela decisão.
+
+78. Seja em vista de processo de conhecimento, seja em vista de
+
+processo de execução, em âmbito trabalhista, os prazos prescricionais serão
+
+sempre os estabelecidos os do art. 7º, inciso XXIX, da Constituição Federal, e do
+
+art. 11 da CLT, com a eventual aplicação do artigo 11-A na hipótese de prescrição
+
+intercorrente à execução. Essa, aliás, é a orientação da mais consistente doutrina
+
+do Direito do Trabalho:
+
+“Diferentemente ocorre no tocante às ações coletivas
+(CDC, art. 91) atinentes à reparação dos danos individualmente
+sofridos pelos trabalhadores, os quais, pela Constituição Federal
+de 1988 (art. 7º, inciso XXIX, letras a e b), submetem-se à
+prescrição quinquenal durante a vigência do contrato de trabalho
+e bienal, após a extinção do mesmo”. MELO, Raimundo Simão, Ação
+civil pública na Justiça do Trabalho. 5ª edição. São Paulo: LTr,
+2014p. 281.
+
+35
+
+[[pagina 36 | nativo]]
+
+“A tese de que a relação de trabalho é o fio condutor do
+prazo prescricional atende mais ao anseio da previsibilidade e da
+pacificação.
+
+Assim, os prazos de cinco anos na vigência, e de dois
+anos após a cessação contratual, se houver, valem para: [...]
+Ação civil pública trabalhista e ações coletivas trabalhistas
+[...]”.SILVA, Homero Batista Mateus da, Direito do Trabalho
+Aplicado: teoria geral do direito do trabalho e do direito
+sindical. Vol. I. 1ª edição. São Paulo: Thomson Reuters Brasil,
+2021, p. 262.
+
+“Conforme Raimundo Simão de Melo, “[...] não há falar em
+prescrição ou decadência com relação às obrigações de fazer ou
+não fazer referentes aos interesses difusos e coletivos, inclusive
+com referência à reparação genérica por danos morais e/ou
+materiais irreparáveis, causados a tais interesses.
+Diferentemente ocorre no tocante às ações coletivas (CDC, art.
+91) atinentes à reparação dos danos individualmente sofridos pelos
+trabalhadores, os quais, pela Constituição Federal de 1988 (art.
+7º, inciso XXIX, letras a e b), submetem-se à prescrição
+quinquenal durante a vigência do contrato de trabalho e bienal,
+após a extinção do mesmo”. SCHIAVI, Mauro, Manual de Direito
+Processual do Trabalho. 17ª edição rev., atual. e ampl. Salvador:
+Ed. JusPodivm, 2021, p. 1602.
+
+“Quanto aos direitos individuais homogêneos, por serem
+direitos singulares de pessoas determinadas, cujo objeto comporta
+divisão e a tutela pode ser buscada individualmente, não há como
+negar a possibilidade de ocorrência de prescrição. Lembre-se de
+que os direitos individuais homogêneos apenas são tutelados de
+forma coletiva por causa da sua origem comum e da alta
+conflituosidade que os envolve. Deve, então, a eles ser aplicado
+o mesmo prazo prescricional definido no art. 7º, XXIX, da CR/88”.
+ALMEIDA, Wânia Guimarães Rabêllo, Direito processual
+metaindividual do trabalho: a adequada e efetiva tutela
+jurisdicional dos direitos de dimensão transindividual. 1ª
+edição. Salvador: Ed. JusPodivm, 2016, p. 431)
+
+“Diversamente dos direitos difusos e coletivos, que em
+regra são imantados pela imprescritibilidade, como nas lides cujo
+objeto seja o meio ambiente do trabalho, os direitos individuais
+homogêneos, por se constituírem, nuclearmente, como direitos
+individuais puros, deverão ser submetidos ao mesmo regramento
+destes, ou seja, ao art. 7º, XXIX, da Constituição Federal de
+1988, e ao art. 11 da CLT, desde que inseridos na seara
+trabalhista.” SANTOS, Enoque Ribeiro dos Santos. O microssistema
+
+36
+
+[[pagina 37 | nativo]]
+
+de tutela coletiva: parceirização trabalhista. 2ª edição rev. e
+ampl. São Paulo: LTr, 2013, p. 158.
+
+“No entanto, quanto às ações coletivas atinentes à
+reparação dos danos individualmente sofridos pelos trabalhadores
+(interesses e direitos individuais homogêneos), aplica-se a
+prescrição comum prevista no art. 7º, inciso XXIX, da CF/1988”.
+SARAIVA, Renato; LINHARES, Aryanna, Curso de direito processual
+do trabalho. 16ª edição rev. e atual. Salvador: Ed. Jus Podivm,
+2019, p. 851.
+
+“Tal não ocorre, contudo, no que diz respeito às ações
+civis coletivas com fundamento em direitos individuais
+homogêneos, que podem ser exercidos por seus titulares, como
+legitimados ordinários. Nesse caso, aplicam-se os prazos
+previstos pela Constituição Federal de 1988, art. 7º, XXIX”. CAIRO
+JR., José. Curso de Direito Processual do Trabalho. 14ª ed. rev.,
+atual. e ampl. Salvador: Ed. JusPodivm, 2021, p. 1.257
+
+“[...] vê-se que a divergência sobre a natureza jurídica
+da execução fundada em título judicial não muda o resultado
+prático de que o termo para a contagem do prazo prescricional,
+quanto ao seu início, não se altera, estando sempre fixado no
+trânsito em julgado da sentença exequenda, e devendo terminar em
+dois anos, de acordo com o disposto no art. 7º, a, segunda parte,
+da Constituição Federal.” PINTO, José Augusto Rodrigues, Execução
+trabalhista: estática, dinâmica, prática. 11ª edição. São Paulo:
+LTr, 2006, p. 136.
+
+79. Certamente deve ser afastado o ambiente de incerteza
+
+decorrente da variação do prazo prescricional a partir do meio processual
+
+adotado para persecução dos interesses em disputa - se ação individual, o
+
+biênio constitucional; se ação coletiva, o dilatado prazo de cinco anos após
+
+o trânsito em julgado da decisão -, de modo a se conferir concretude aos
+
+princípios fundamentais da isonomia e da segurança jurídica, o qual, como
+
+visto, confere fundamento ao próprio instituto da prescrição.
+
+80. Do quanto se expôs, mostra-se juridicamente coerente concluir:
+
+(a) não ser viável conferir ao julgador o poder de afastar preceito
+
+constitucional expresso em nome de uma exegese supostamente destinada a
+
+conferir proteção mais ampla ao trabalhador; (b) ainda que tal medida fosse,
+
+37
+
+[[pagina 38 | nativo]]
+
+em tese, juridicamente viável, a solução jurídica adotada nos precedentes
+
+não mereceria prevalecer em detrimento do regime constitucional de
+
+prescrição, pois resulta em injustificado sacrifício dos princípios
+
+fundamentais da isonomia e da segurança jurídica sobre os quais se
+
+fundamentam, respectivamente, os próprios direitos trabalhistas
+
+constitucionais e o regime de prescrição.
+
+81. À luz da argumentação exposta, revela-se inequívoca a afronta
+
+a preceito fundamental nas decisões trabalhistas que tem afastado o biênio
+
+do inciso XXIX do artigo 7º da Constituição da República como regra de
+
+regência da prescrição das execuções individuais de ações coletivas, adotando
+
+em seu lugar o prazo quinquenal, resultante da aplicação analógica de
+
+dispositivo que rege a prescrição da Ação Popular.
+
+82. De fato, a jurisprudência do STF tem reconhecido a
+
+aplicabilidade do regime de prescrição do inciso XXIX do artigo 7º da
+
+Constituição da República para toda e qualquer espécie de relação
+
+trabalhista, em prestígio à máxima efetividade do texto constitucional,
+
+inclusive mediante adaptação às peculiaridades de cada relação jurídica, mas
+
+sempre respeitando a contagem de 5 anos das parcelas vencidas e o limite de
+
+2 anos após encerramento do vínculo.
+
+83. No exame do precedente sobre trabalhadores avulsos,
+
+reconheceu-se a aplicabilidade dos prazos do inciso XXIX do artigo 7º da
+
+Constituição da República, apenas com tratamento próprio relativo ao termo
+
+inicial do prazo, dada a natureza peculiar do vínculo estabelecido nessa
+
+espécie de contratação. Nesse sentido, vale destacar o seguinte julgado:
+
+EMENTA: AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO. PORTUÁRIO.
+AVULSO. PRESCRIÇÃO. TERMO INICIAL. TÉRMINO DO CONTRATO COM O ÓRGÃO
+GESTOR. ACÓRDÃO IMPUGNADO. PRECEDENTE DO SUPREMO TRIBUNAL FEDERAL.
+HARMONIA. AGRAVO REGIMENTAL NÃO PROVIDO.
+
+1. Com a premissa de que o vínculo se forma entre avulso e Órgão
+Gestor de Mão de Obra, conclui-se pela constitucionalidade da
+fixação, para início da contagem do prazo prescricional, do
+término da relação com o órgão gestor.
+
+38
+
+[[pagina 39 | nativo]]
+
+2. Estando o acórdão impugnado em harmonia com precedente do
+Supremo Tribunal Federal, incabível é o seguimento do recurso
+extraordinário.
+
+3. Agravo regimental a que se nega provimento.
+
+(RE 1047761 AgR, Rel. Ministro André Mendonça, DJ de 19/05/2022).
+
+84. Outro exemplo que demonstra a absoluta observância, pela
+
+jurisprudência do STF, dos prazos do inciso XXIX do artigo 7º da Constituição
+
+da República para regência de todas as relações de trabalho, consideradas as
+
+adaptações necessárias a cada situação peculiar, são os precedentes que
+
+analisam a regência da prescrição nos casos de transposição de servidores do
+
+regime celetista para o estatutário. As ementas transcritas explicitam a
+
+orientação da Corte:
+
+EMENTA: AGRAVO REGIMENTAL EM AGRAVO DE INSTRUMENTO. RECURSO
+TRABALHISTA. MUDANÇA DE REGIME JURÍDICO. PRESCRIÇÃO BIENAL. I. A
+mudança do regime jurídico celetista para o estatutário acarreta
+a extinção do contrato de trabalho, incidindo a prescrição bienal.
+II - Agravo regimental improvido.
+
+(AI 649133 AgR, Rel. Ministro Ricardo Lewandowski, DJ de
+9/11/2007).
+
+EMENTA: AGRAVO REGIMENTAL. SERVIDOR PÚBLICO. MUDANÇA DE REGIME
+JURÍDICO. EXTINÇÃO DO CONTRATO DE TRABALHO. PRESCRIÇÃO. INICÍO DO
+PRAZO. A mudança do regime jurídico celetista para o estatutário
+acarreta a extinção do contrato de trabalho. Prazo prescricional
+de dois anos contado a partir dessa alteração. Inexistência de
+violação ao art. 7º, XXIX, "a", da Constituição. Agravo regimental
+a que se nega provimento.
+
+(AI 566275 AgR, Rel. Ministro Joaquim Barbosa, DJ de 3/8/2007)
+
+EMENTA: Prescrição bienal - CF, art. 7º, XXIX, a (redação anterior
+à EC 28/2000): a transformação do regime jurídico celetista para
+o regime estatutário acarreta a extinção do contrato de trabalho,
+razão pela qual se aplica a prescrição bienal constante da parte
+final do art. 7º, XXIX, a, da Constituição ( redação anterior à
+EC 28/2000) aos servidores que tiveram o regime jurídico
+convertido por força de lei: precedentes.
+
+(AI 277225 AgR, Rel. Ministro Sepúlveda Pertence, DJ de 27/6/2003)
+
+85. Cumpre pontuar, no entanto, que o mais importante e decisivo
+
+precedente da Corte sobre a controvérsia submetida a exame nesta ADPF, sem
+
+dúvida, é o já o mencionado ARE 709.212/DF, cuja ratio decidendi estabelece
+39
+
+[[pagina 40 | nativo]]
+
+a regência do regime de prescrição estabelecido no artigo 7º, XXIX, da
+
+Constituição da República, para todos os créditos decorrentes de relações de
+
+trabalho.
+
+86. Embora o aludido julgado não tenha feito menção explícita ao
+
+prazo bienal constitucional, mas apenas do quinquênio, deve-se tal
+
+circunstância apenas ao fato de que a prescrição de dois anos não era objeto
+
+da questão jurídica ali examinada. Tanto assim que foi submetido à sistemática
+
+da repercussão geral o RE 1.336.848/PA para definição da seguinte tese (Tema
+
+1189): “aplicabilidade do prazo bienal, previsto no artigo 7º, XXIX, da
+
+Constituição Federal, para cobrança dos depósitos do Fundo de Garantia do
+
+Tempo de Serviço (FGTS), por nulidade de contratações temporárias efetuadas
+
+pelo Poder Público”. A questão a ser dirimida, porém, não é se a prescrição
+
+bienal se aplicaria nas relações de trabalho – questão já pacificada, ainda
+
+que sem menção expressa ao prazo bienal –, e sim se as relações estabelecidas
+
+com o Poder Público nesses casos de contratação nula podem ser enquadradas
+
+como trabalhistas22.
+
+87. Pode-se afirmar, com segurança, que a atual orientação
+
+jurisprudencial está consolidada no sentido da aplicabilidade a dos prazos
+
+quinquenal e bienal previstos no inciso XXIX do artigo 7º da Constituição da
+
+República para todas as ações que versam sobre “créditos resultantes das
+
+relações de trabalho”. Seja qual for o prisma de exame da controvérsia, não
+
+há como ser afastada a prevalência da prescrição constitucional na regência
+
+das relações de trabalho, seja nos processos individuais seja nas execuções
+
+individuais de processos coletivos.
+
+22 A peculiaridade foi devidamente esclarecida na fundamentação do voto condutor do acórdão que
+reconheceu a repercussão geral do Tema: “No entanto, é importante observar que no aludido caso,
+discutido no referido recurso paradigma, tratava-se de ação genuinamente trabalhista de direito
+privado, onde a questão referente ao prazo bienal, previsto no inciso XXIX do art. 7º da Constituição
+Federal, não foi objeto de discussão, diferente da presente demanda que trata de contrato temporário
+junto à Administração Pública.”
+40
+
+[[pagina 41 | nativo]]
+
+2.5. - Conclusões
+
+88. As razões e fundamentos apresentados evidenciam a afronta a
+
+preceitos fundamentais por parte das decisões judiciais que, em execuções
+
+individuais de decisões proferidas em ações coletivas, relativas a relações
+
+trabalhistas com contrato de trabalho já encerrado, aplicam o prazo
+
+prescricional quinquenal do artigo 21 da Lei da Ação Popular em detrimento
+
+do biênio previsto no inciso XXIX do artigo 7º da Constituição da República.
+
+89. Conforme demonstrado, esse conjunto de decisões acaba por
+
+contrariar, a um só tempo:
+
+I - o preceito fundamental inserido no inciso XXIX do artigo
+
+7º da Constituição da República, cuja aplicabilidade integral
+
+é afastada nas execuções de ações coletivas trabalhistas;
+
+II - o princípio constitucional da separação dos Poderes, por
+
+conferir ao julgador o poder de produzir norma para o caso
+
+concreto sem lastro na lei e com afronta direta ao texto
+
+constitucional;
+
+III - o princípio constitucional da isonomia, por desigualar
+
+o tratamento do regime da prescrição trabalhista em relação
+
+a determinados grupos de trabalhadores que se encontram na
+
+mesma situação dos demais, com base em condições meramente
+
+circunstanciais que não representam um fator de discrimen
+
+razoável; e
+
+IV - O princípio constitucional da segurança jurídica, por
+
+seu efeito de sujeitar os prazos prescricionais a uma variação
+
+casuística meramente circunstancial.
+
+41
+
+[[pagina 42 | nativo]]
+
+NECESSIDADE DE MEDIDA CAUTELAR
+
+90. O objeto e as circunstâncias que envolvem a presente Ação de
+
+Descumprimento de Preceito Fundamental autorizam e demandam a concessão da
+
+medida liminar prevista no artigo 5º da Lei 9882/99, diante da inequívoca
+
+presença dos requisitos do fumus boni iuris e do periculum in mora.
+
+3.1 Plausibilidade do direito
+
+91. A plausibilidade do direito está sobejamente demonstrada no
+
+corpo da presente peça, cujas razões e fundamentos evidenciam a afronta à
+
+regra fundamental da prescrição bienal trabalhista e aos preceitos
+
+fundamentais segurança jurídica, da isonomia e da separação dos poderes, por
+
+parte das decisões judiciais que, em execuções individuais de decisões
+
+proferidas em ações coletivas, relativas a relações trabalhistas com contrato
+
+de trabalho já encerrado, aplicam o prazo prescricional quinquenal do artigo
+
+21 da Lei da Ação Popular em detrimento do biênio previsto no inciso XXIX do
+
+artigo 7º da Constituição da República.
+
+92. Conforme demonstrado, esse conjunto de decisões tem gerado
+
+absoluta insegurança jurídica, ao esvaziar indevidamente a eficácia e
+
+autoridade da prescrição bienal constitucional trabalhista com base em
+
+indevida aplicação analógica de regras infraconstitucionais, usurpando o
+
+poder do legislador e tratando desigualmente trabalhadores em igual situação,
+
+diferenciados apenas pela mera circunstância do instrumento processual
+
+utilizado (ações individuais x execuções de ações coletivas).
+
+3.2 Perigo da demora e agravamento do estado anti-isonômico.
+
+93. Nos termos do artigo 5º, § 1º, da Lei nº 9.882/99, pode o
+
+Ministro Relator, por meio de decisão monocrática, em caso de extrema urgência
+
+ou perigo de lesão grave, deferir pleito liminar, a ser referendado,
+
+posteriormente, pelo Tribunal Pleno, podendo ainda a liminar ser concedida
+
+42
+
+[[pagina 43 | nativo]]
+
+diretamente pelo Colegiado, por decisão da maioria absoluta dos membros dessa
+
+Corte Suprema.
+
+94. Consoante as razões apresentadas, afigura-se provável que, na
+
+presente ação constitucional, a Corte poderá vir a afastar a interpretação
+
+inconstitucional quer faz tabula rasa do disposto no artigo 7º, XXIX, da
+
+CRFB/88, a partir da tese de que, em execuções individuais de sentenças
+
+proferidas em ações coletivas, findo o vínculo laboral, o prazo prescricional
+
+seria de cinco, e não de dois anos.
+
+95. Entretanto, até o desfecho da presente demanda, a própria
+
+existência de compreensões discrepantes no seio da jurisdição trabalhista
+
+acerca daquele prazo prescricional dará origem a desfechos díspares em
+
+relação às execuções individuais promovidas contra empresas que figuraram
+
+como rés em ações coletivas, criando-se um cenário de incoerência,
+
+subjetivismo e imprevisibilidade que fatalmente afetará os ambientes de
+
+negócio, gerando insegurança jurídica, como já tem ocorrido.
+
+96. É, pois, em nome da segurança jurídica, em primeiro lugar, que
+
+se impõe o sobrestamento das execuções e dos recursos delas derivados que
+
+tramitam perante os órgãos judicantes da Justiça do Trabalho e que versem
+
+sobre questão idêntica à aqui discutida, em consonância com o disposto no
+
+artigo 5º, § 3º, da Lei nº 9.882/99.
+
+97. Com efeito, até o julgamento definitivo da presente ação
+
+constitucional, certamente serão proferidas inúmeras decisões em desfavor
+
+não apenas das entidades representadas pela ora arguente, mas em desfavor de
+
+várias outras sociedades empresárias, de setores diversos. O quadro é
+
+agravado pela conhecida agilidade dos processos trabalhistas, marcados pela
+
+irrecorribilidade das decisões interlocutórias e pela recorribilidade
+
+extremamente restrita nas execuções.
+
+98. Tais decisões – contrárias ao disposto no inciso XXIX do artigo
+
+7º da Constituição em vigor – ensejam a constrição e, ao final, a expropriação
+
+43
+
+[[pagina 44 | nativo]]
+
+de bens das sociedades empresárias executadas, as quais, sem o acolhimento
+
+do pedido liminar a ser apresentado no capítulo final deste arrazoado, terão
+
+suas atividades profundamente afetadas, até ulterior julgamento da presente
+
+ação, o que demonstra, portanto, o perigo de lesão grave a autorizar a tutela
+
+de urgência direcionada ao sobrestamento de todos os processos de execução
+
+individual de sentença condenatória proferida em ação coletiva que, para os
+
+contratos de trabalho findos, deixem de pronunciar a prescrição da pretensão
+
+executória deduzida em prazo superior a dois anos.
+
+99. A situação torna-se ainda mais gravosa também em razão da
+
+sistemática recursal adotada pela legislação processual trabalhista, certo
+
+que, a cada recurso que as entidades executadas pretendam interpor, deverão
+
+realizar depósitos recursais e pagamentos de custas processuais, consoante o
+
+disposto nos parágrafos ao art. 899 da CLT. Vale lembrar, ainda, que a mera
+
+interposição de recurso por si só não impede que a decisão impugnada produza,
+
+imediatamente, resultados, uma vez que os recursos na esfera trabalhista são
+
+desprovidos de efeito suspensivo, de acordo com o caput do mesmo artigo 899
+
+da CLT.
+
+100. Acrescente-se o fato de que, à vista do caráter alimentar – e,
+
+portanto, irrepetível – das verbas cobradas, uma vez satisfeitas as execuções
+
+individuais, as executadas não mais lograrão obter a restituição equivalente
+
+à perda patrimonial que terão sofrido, se esse Supremo Tribunal Federal vier
+
+a acolher a pretensão aqui deduzida sem antes deferir a liminar pleiteada.
+
+Tampouco poderão reabrir a discussão em processos trabalhistas cobertos pela
+
+coisa soberanamente julgada, ante o disposto no artigo 5o, § 3o, in fine, da
+
+Lei n. 9.882/99.
+
+101. De resto, há evidente vínculo lógico de prejudicialidade entre
+
+o que será aqui decidido e as inúmeras execuções individuais de sentenças
+
+proferidas em ações coletivas, movidas contra associados da arguente, em
+
+trâmite perante os Tribunais Trabalhistas, que tratam de questão idêntica.
+
+Incide, aqui, portanto, o raciocínio desenvolvido pelo Ministro Luiz Fux,
+
+quando integrante do Superior Tribunal de Justiça, ao discorrer, no Recurso
+
+44
+
+[[pagina 45 | nativo]]
+
+Especial n. 1.060.210/SC, sobre o artigo 543-C do CPC/73, ali afirmando que
+
+“o fim almejado pela novel sistemática processual [...] direciona-se,
+
+principalmente, à garantia de uma prestação jurisdicional homogênea aos
+
+processos que versem sobre a mesma quaestio juris, à luz do princípio da
+
+isonomia”.23
+
+102. Além disso, razões de economia e celeridade processual, bem
+
+como a fiel observância ao princípio da duração razoável do processo (art.
+
+5°, LXXVIII, da CF) reforçam a necessidade de acolhimento do pedido liminar,
+
+pois havendo – como há – questão constitucional a ser decidida, a solução
+
+definitiva dos processos em trâmite perante a Justiça do Trabalho dependerá
+
+da manifestação dessa E. Corte Suprema.
+
+103. De resto, o não-acolhimento do pedido liminar, com a prolação
+
+de eventual decisão favorável apenas quando do julgamento do mérito desta
+
+arguição de descumprimento de preceito fundamental, implica desperdício de
+
+recursos humanos e materiais. Permitir que inúmeras decisões continuem a ser
+
+proferidas, que inúmeros recursos sejam interpostos perante a Justiça do
+
+Trabalho, em suma, que tantos esforços sejam mobilizados, quando os
+
+fundamentos jurídicos que devem balizar o deslinde dessas controvérsias
+
+dependem de definição pelo Supremo Tribunal Federal, não é uma medida que se
+
+sustenta do ponto de vista da racionalidade, da eficiência e da economia
+
+processual.
+
+104. Vale aqui transcrever a lição do Ministro Gilmar Mendes, quando
+
+da apreciação do pleito liminar na ADPF n. 33/PA, oportunidade em que sua
+
+Excelência assentou:
+
+“Além da possibilidade de decretar a suspensão direta do ato
+impugnado, admite-se na cautelar prevista para a arguição de
+descumprimento a determinação de que os juízes e tribunais
+suspendam o andamento de processo ou efeito de decisões judiciais
+ou de qualquer outra medida que guarde relação com a matéria
+discutida na ação (art. 5°, § 3°), tal como requerido. Confere-
+
+23 STJ, Decisão monocrática no REsp 1.060.210/SC, rel. Min. Luiz Fux; Data de Publicação: 16/10/2010.
+
+45
+
+[[pagina 46 | nativo]]
+
+se, assim, ao Tribunal um poder cautelar expressivo, impeditivo
+da consolidação de situações contra a possível decisão definitiva
+que venha a tomar. Nesse aspecto, a cautelar da ação de
+descumprimento de preceito fundamental assemelha-se à disciplina
+conferida pela Lei n. 9.868, de 1999, à medida liminar na ação
+declaratória de constitucionalidade (art. 21). Dessa forma, a
+liminar passa a ser também um instrumento de economia processual
+e de uniformização da orientação jurisprudencial.” 24
+
+105. Registre-se, por fim, que o sobrestamento das execuções não
+
+trará qualquer prejuízo aos credores trabalhistas, porquanto, em eventual
+
+hipótese de improcedência dos pedidos formulados na presente arguição, os
+
+processos retornarão ao curso normal, resguardando-se as respectivas
+
+atualizações.
+
+106. Portanto, a concessão de liminar, pelas razões aqui expostas,
+
+além de evitar que o julgamento final da presente ação produza resultado
+
+prático pouco ou nada efetivo para os jurisdicionados prejudicados por
+
+decisões veiculadoras de interpretação contrária ao artigo 7º, XXIX, da
+
+CRFB/88, trará racionalidade ao funcionamento do Judiciário, além de obstar
+
+um possível perecimento do direito em várias demandas, em razão do pagamento
+
+definitivo de verbas irrepetíveis.
+
+PEDIDOS.
+
+À vista de todo o exposto, a Arguente requer:
+
+a) o deferimento da medida cautelar, para que seja ordenada, até o
+
+julgamento da presente ação, a suspensão nacional dos processos de
+
+execução individual de sentença condenatória proferida em ação coletiva
+
+que, para os contratos de trabalho findos, deixem de pronunciar a
+
+prescrição da pretensão executória deduzida em prazo superior a dois
+
+anos.
+
+24 STF, Liminar na ADPF 33/PA, rel. Min. Gilmar Mendes; Data de Publicação: 02/12/2002.
+
+46
+
+[[pagina 47 | nativo]]
+
+b) a intimação do Exmo. Advogado-Geral da União para manifestação sobre o
+
+mérito da ação, nos termos do art. 103, § 3º, da CF e do art. 8º da Lei
+
+nº9.868/99;
+
+c) a intimação do Exmo. Procurador Geral da República para manifestação
+
+sobre o mérito da ação, nos termos do art. 103, § 1º, da CF e do art.
+
+8º da Lei nº9.868/99;
+
+d) em julgamento de mérito, a ratificação da liminar deferida, a fim de
+
+que seja julgado procedente o pedido, para o fim de ser declarada a
+
+inconstitucionalidade do conjunto de decisões judiciais que tenham
+
+deixado de pronunciar a prescrição bienal, em execução individual de
+
+sentença condenatória proferida em ação coletiva, relativamente a
+
+contratos de trabalho findos, com a atuação do Supremo Tribunal Federal
+
+em tutela eficaz dos preceitos fundamentais representados pelo artigo
+
+7º, XXIX, da Constituição Federal, e pelo princípios constitucionais da
+
+segurança jurídica, da isonomia e da separação dos Poderes.
+
+Brasília, 16 de junho de 2023.
+
+Alde da Costa Santos Júnior Leandro da Silva Soares
+OAB/DF 7.447 OAB/DF 10.407
+
+Carlos da Costa e Silva Filho João Paulo Moraes Almeida
+OAB/DF 33.170 OAB/DF 26.324
+
+47

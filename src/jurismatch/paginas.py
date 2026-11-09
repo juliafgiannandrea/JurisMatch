@@ -6,7 +6,7 @@ from dataclasses import dataclass
 from pathlib import Path
 
 RE_MARCADOR = re.compile(r"^\[\[pagina (\d+) \| ([a-z_]+)\]\][ \t]*$", re.MULTILINE)
-RE_NOME = re.compile(r"^(ADI|ADC)_(\d+)_peticao_inicial(?:_parte(\d+))?\.txt$")
+RE_NOME = re.compile(r"^(ADI|ADC|ADO|ADPF)_(\d+)_peticao_inicial(?:_parte(\d+))?\.txt$")
 
 
 @dataclass(frozen=True)
@@ -19,7 +19,7 @@ class Pagina:
 @dataclass(frozen=True)
 class ArquivoPeticao:
     caminho: Path
-    classe: str  # "ADI" ou "ADC"
+    classe: str  # "ADI", "ADC", "ADO" ou "ADPF"
     numero: int
     parte: int  # 1 quando a petição não foi dividida em partes
 

@@ -156,7 +156,7 @@ def main() -> None:
     parser.add_argument("consulta")
     parser.add_argument("--k", type=int, default=5)
     parser.add_argument("--modo", choices=MODOS, default="hibrido")
-    parser.add_argument("--classe", choices=("ADI", "ADC"))
+    parser.add_argument("--classe", choices=("ADI", "ADC", "ADO", "ADPF"))
     parser.add_argument("--dir-indice", type=Path, default=config.DIR_INDICE)
     parser.add_argument("--sem-rerank", action="store_true", help="só a busca híbrida, sem cross-encoder nem limiar")
     parser.add_argument("--limiar", type=float, default=config.LIMIAR_RERANK, help="nota mínima do reranker (0 a 1)")

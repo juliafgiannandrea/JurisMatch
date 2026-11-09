@@ -1,0 +1,3033 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+O UNIÃO BRASIL - UBR, partido político, inscrito no CNPJ n.° 44.551/496/0001-
+
+67, com sede no SHS, Quadra 06, Complexo Brasil 21, Conjunto A, Bloco A, Sala 906, Asa
+
+Sul, Brasília/DF, CEP: 70.316-102 (Doc. 01), por seus advogados regularmente constituídos
+
+(Doc. 02), vem, respeitosamente, à presença de Vossa Excelência, com fundamento,
+
+entre outros, no artigo 102, §1º da Constituição Federal (“CF”), artigos 1º e seguintes da
+
+Lei Federal nº. 9.882/1999 (“Lei da ADPF”) e artigos 319 e seguintes do Código de
+
+Processo Civil (“CPC”), ajuizar a presente:
+
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL
+
+(COM PEDIDO DE MEDIDA CAUTELAR)
+
+tendo como atos lesivos do Poder Público o conjunto de decisões anexas (Docs. 03/07),
+
+proferidas por vários Tribunais Estaduais e pelo Superior Tribunal de Justiça (“STJ”),
+
+conferindo interpretações inconstitucionais e inconciliáveis ao artigo 14 da Lei Federal
+
+nº. 9.307/1996 (Lei de Arbitragem – “LArb”) e aos parâmetros do exercício do dever de
+
+revelação pelos árbitros – e, dessa forma, gerando sensível confusão jurisprudencial –,
+
+de acordo com os motivos de fato e os fundamentos de direito a seguir expostos.
+
+1. OBJETO DESTA ADPF
+
+“Tendes razão, Juiz; é com equidade que pesais isso tudo; conservai, pois,
+
+a espada e a balança”.
+
+A famosa frase acima, tirada do diálogo do Rei (cujo filho, príncipe, havia
+
+sido preso) e do Juiz (que havia determinado tal prisão) na peça Henrique IV, parte II,
+
+[[pagina 2 | nativo]]
+
+de autoria de Shakespeare, embora tenha sido escrita no século XVI, não poderia ser
+
+mais atual.
+
+Afinal, centenas de anos depois, o mínimo que se espera no Estado
+
+Democrático de Direito é um julgamento justo. Um juiz imparcial e independente.
+
+Alguém que não tenha vínculo com ninguém, tampouco interesse naquilo que será
+
+julgado. Apenas assim é que se poderá atender o comando: “conservai (...) a balança”.
+
+Não se fala por retórica, nem por mera conveniência. Afirma-se porque é
+
+o que esse C. Supremo Tribunal Federal (“STF”), guardião da CF e responsável pela última
+
+palavra na jurisprudência nacional, tem constantemente declarado: “imparcial é
+
+aquele que não é parte, que não adere aos interesses de qualquer dos envolvidos no
+
+processo”1.
+
+Ainda que não tenha previsão expressa no texto constitucional2, é certo
+
+que “a imparcialidade judicial é consagrada como uma das bases das garantias do
+
+devido processo legal”.3,4 Quem julga deve ser sempre imparcial e independente.
+
+Porém, enquanto a importância de conservar uma “balança” justa nos
+
+julgamentos não mudou ao longo do tempo, o mesmo não se pode dizer do conceito
+
+de jurisdição. A ideia estática de que pertence exclusivamente ao Estado a função de
+
+julgar foi sendo, aos poucos, superada no Brasil.
+
+Em situações específicas, admitiu-se deslocar o exercício da jurisdição, até
+
+então tida como típica função pública, para as mãos de um “juiz privado”, escolhido
+
+pelas próprias Partes: o árbitro.
+
+Ainda assim, não se pode confundir um conceito básico: o fato de o
+
+árbitro ser escolhido pela Parte não o torna um árbitro da Parte. Daí a necessidade de
+
+1 STF, Tribunal Pleno, HC 164496/PR, Rel. Min. Edson Fachin (Redator Min. Gilmar Mendes), j. 23.03.2021.
+
+2 “a imparcialidade é conditio sine qua non de qualquer juiz, sendo, pois, uma garantia constitucional implícita”.
+(BADARÓ, Gustavo H. Processo Penal. 5ª ed. RT, 2018. p. 46)
+
+3STF, Tribunal Pleno, HC 164496/PR, Rel. Min. Edson Fachin (Redator Min. Gilmar Mendes), j. 23.03.2021.
+
+4 “a imparcialidade é princípio nuclear da prestação jurisdicional, elemento essencial da Justiça, de modo que sem ela
+não há como se falar propriamente de um processo judicial”. (BACHMAIER WINTER, Lorena. Imparcialidad Judicial y
+Libertad de Expresión de Jueces y Magistrados. Thomson, 2008. p. 19, tradução livre).
+
+[[pagina 3 | nativo]]
+
+que o sistema arbitral desenvolvesse uma nova fórmula que permitisse o afastamento,
+
+a exclusão ou a recusa desse julgador quando, por razões diversas, não pudesse
+
+oferecer uma garantia mínima de imparcialidade e independência.
+
+Como solução, a LArb criou o dever de revelação, um mecanismo próprio
+
+e particular que deveria assegurar, “em tese”, a “balança” justa também na via arbitral.
+
+Resumidamente, o árbitro deveria revelar todo e qualquer fato que pudesse, aos olhos
+
+das Partes, comprometer o seu julgamento. Poderiam as Partes, então, tomar uma
+
+decisão informada. Decidir se esse potencial julgador seria, de fato, alguém imparcial
+
+e independente.
+
+Fala-se em tese e utiliza-se das aspas de forma proposital. Isso porque, na
+
+prática, aqueles que são indicados para árbitro têm constantemente tentado mudar o
+
+escopo do dever de revelar, como se possível fosse, deixando de revelar fatos
+
+importantíssimos às Partes5.
+
+Essa situação, naturalmente, já é preocupante por si só. Afinal, se esse C.
+
+STF tem sido rigoroso no afastamento de juízes impedidos e suspeitos (com a ruptura da
+
+presunção de imparcialidade e de neutralidade que nosso ordenamento jurídico lhes
+
+confere), quem dirá no exame de árbitros parciais, já que, na arbitragem, não há
+
+publicidade, recursos, CNJ, corregedorias, súmulas e, muitas das vezes, esses julgadores
+
+têm ligações íntimas com as partes e/ou seus advogados.
+
+Além disso, vale dizer que quase sempre são os “mesmos seus partícipes,
+
+ora como advogados, ora como árbitros, ora como pareceristas, ora ainda como
+
+experts do Tribunal Arbitral, às vezes de modo simultâneo, em situação causadora de
+
+perplexidade aos jurisdicionados, o que, depreciativamente, se convencionou chamar
+
+de “chapéu duplo” ou revolving door”6.
+
+5 Afinal, quanto menos tiver de revelar, mais arbitragens pode pegar, recebendo cifras cada vez mais milionárias, que,
+em grande parte dos casos, chegam a superar – e muito – os salários e rendimentos dos próprios Ministros desse C. STF.
+
+6 TJSP, 1ª Câmara Reservada de Direito Empresarial, Relator Des. Cesar Ciampolini, Apelação Cível nº. 1031861-
+80.2020.8.26.0100, j. em: 30.06.2021.
+
+[[pagina 4 | nativo]]
+
+É dizer: na arbitragem tem havido uma perigosa promiscuidade entre a
+
+figura do árbitro e do advogado da Parte7.
+
+Não à toa o MIN. DIAS TOFFOLI recentemente declarou no Plenário desse C.
+
+STF que “hoje muitas grandes empresas estão fugindo da arbitragem porque o Poder
+
+Judiciário é muito mais correto e é muito mais decente do que alguns tribunais arbitrais,
+
+que têm mostrado suas fragilidades”8.
+
+Para piorar ainda mais, não existe no cenário da arbitragem nenhum dos
+
+mecanismos disponíveis na jurisdição estatal para o controle de tantas “fragilidades”. O
+
+único caminho que a LArb prevê é aguardar a futura sentença arbitral, para, apenas
+
+depois, ajuizar a competente ação anulatória9.
+
+Porém, infelizmente, esse caminho não tem sido suficiente para garantir a
+
+imparcialidade e a independência. Isso porque o Poder Judiciário no âmbito das
+
+referidas ações anulatórias de sentenças arbitrais – a quem caberia corrigir essas
+
+arbitrariedades ocorridas dentro de uma arbitragem – não tem conseguido harmonizar
+
+a jurisprudência acerca dos critérios/standards que deveriam informar o dever de
+
+revelação previsto no artigo 14, da LArb, e, bem assim, sua correta interpretação e
+
+aplicação aos casos concretos.
+
+Dentre os principais pontos controvertidos10, as decisões judiciais têm tido
+
+dificuldade de definir com precisão e de forma apropriada, por exemplo, (i) a extensão
+
+e profundidade do conceito do “dever de revelar”; (ii) escopo e definição de “dúvida
+
+7 A preocupação com a multiplicidade de papéis dos árbitros também é destacada pela doutrina estrangeira: “Em
+termos de chapéu duplo, descobrimos que a prática continua a existir, na realidade, entre um grupo muito pequeno,
+mas constituído por indivíduos altamente influentes e bem conhecidos. Em outras palavras, não é uma prática comum
+ou difundida em toda a rede de casos (i.e., em largura), mas é praticada de maneira muito consistente por um núcleo
+altamente visível e poderoso de alguns dos atores mais influentes no sistema (i.e., em profundidade). Considerando que,
+as críticas ao chapéu duplo se concentram na percepção que o observador comum externo pode ter sobre a
+tendenciosidade e falta de imparcialidade, independência e legitimidade das decisões, sua prevalência entre atores
+influentes é altamente questionável, ainda que haja discussão sobre os reais efeitos que possa ter sobre a independência
+dos árbitros.” (LANGFORD, Malcolm; BEHN, Daniel; LIE, Runar Hilleren. The Revolving Door in International Investment
+Arbitration, in Journal of International Economic Law, Oxford University Press, 2017, págs. 301/331).
+
+8 Min. Dias Toffoli, ADI 6.399, sessão de 24.03.2022.
+
+9 Percurso procedimental reconhecido expressamente pelo C. STJ: “A Lei de Arbitragem estabelece procedimento
+específico para a recusa do árbitro por uma parte, pois há casos em que este pode ser indicado pelo outro contratante
+ou por terceiro, além de que, mesmo em relação ao árbitro indicado pela própria pessoa, é possível que posteriormente
+surja fato novo ou se descubra fato até então desconhecido que gere perda de confiança. De toda sorte, consta da
+própria lei que, se a arguição não for acolhida no âmbito da própria arbitragem, poderá ser levantada novamente
+perante o Poder Judiciário”. (STJ, SE 120/EX, Relatora Min. Nancy Andrighi, j. 18.12.2018).
+
+10 A título exemplificativo e sem nenhuma intenção de ser exaustivo.
+
+[[pagina 5 | nativo]]
+
+justificada” e sua perspectiva, (iii) a não taxatividade das regras do CPC de suspeição
+
+e impedimento (de juízes) para o exame da adequação dos árbitros indicados ao
+
+ordenamento jurídico brasileiro; (iv) a não aplicação automática das assim chamadas
+
+soft laws; e (v) o momento adequado para suscitar-se o impedimento e a suspeição.
+
+Como se vê, embora o Direito “não se interprete em tiras”, como já
+
+ensinava o MIN. EROS GRAUS11, o que se verifica, em concreto, é um verdadeiro caos
+
+hermenêutico. Não há uniformização jurisprudencial dos tribunais brasileiros acerca do
+
+dever de revelar do árbitro, o que ameaça a segurança jurídica.
+
+Feita esta breve introdução, a conclusão é quase intuitiva: o cenário
+
+desafia a intervenção do STF para “conservar (...) a balança” e o objetivo desta ADPF é
+
+justamente sanar a lesão aos preceitos fundamentais do devido processo legal, do juiz
+
+natural e da segurança jurídica, afastando interpretações inconstitucionais do que seja
+
+o dever de revelação dos árbitros (fixando, em abstrato e com eficácia vinculante,) e
+
+conferindo ao referido instituto o mais constitucional entendimento sobre os contornos
+
+de sua aplicação.
+
+Para tanto, nos próximos tópicos, o Autor irá:
+
+(i) demonstrar o cabimento desta ADPF (tópico 2);
+
+(ii) apresentar elementos essenciais à compreensão da controvérsia
+constitucional, com breve descrição do desenvolvimento da arbitragem
+no Brasil, da origem e evolução do dever de revelar e da sua recente
+distorção pelos árbitros sem a devida correção pelo Poder Judiciário
+(tópico 3);
+
+(iii) explicitar as razões que impõem a procedência desta ADPF, para o
+fim de cessar a violação aos preceitos fundamentais, conferindo ao
+instituto interpretação conforme a CF (tópico 4); e
+
+(iv) trazer à luz a premente necessidade de se conceder a medida
+cautelar / liminar ao cabo perseguida para se evitar a consumação de
+uma situação prejudicial irreversível, requerendo a concessão de medida
+cautelar necessária para se evitar a consumação de situações irreversíveis
+consubstanciadas em interpretações inconstitucionais do “dever de
+
+11 GRAU, Eros Roberto. Ensaio e discurso sobre a interpretação/aplicação do Direito. 4 ed. São Paulo: Malheiros, 2006, p.
+44
+
+[[pagina 6 | nativo]]
+
+revelação” (tópico 5).
+
+2. CABIMENTO DESTA ADPF
+
+O cabimento desta ADPF se funda em 4 (quatro) premissas. São elas: (i) a
+
+legitimidade do Autor (tópico 2.1); (ii) a ocorrência da lesão a preceito fundamental
+
+(tópico 2.2); (iii) sua origem em ato do Poder Público (tópico 2.3); e (iv) a inexistência de
+
+qualquer outro meio eficaz de sanar a lesividade (tópico 2.4). Subsidiariamente, caso
+
+por hipótese não se entenda ser o caso de ADPF, há de se reconhecer (v) a
+
+possibilidade de sua conversão em Ação Direta de Inconstitucionalidade (“ADI” – tópico
+
+2.5). Vejamos abaixo cada aspecto do cabimento desta ADPF.
+
+2.1 A LEGITIMIDADE DO AUTOR
+
+A Lei nº 9.882/1999, que dispõe sobre o processo e julgamento da arguição
+
+de descumprimento de preceito fundamental, estabelece como legitimados para
+
+propositura da ação todos os legitimados para propor ação direta de
+
+inconstitucionalidade, elencados no art. 103 da Constituição Federal:
+
+“Art. 2º Podem propor argüição de descumprimento de preceito
+
+fundamental:
+
+I - os legitimados para a ação direta de inconstitucionalidade”
+
+O União Brasil – União, partido resultante da fusão entre os extintos
+
+Democratas e Partido Social Liberal, tem notória atuação no Congresso Nacional,
+
+possuindo em sua bancada diversos deputados federais e senadores.
+
+É, ademais, consoante o art. 103, inc. VIII, da Constituição Federal,
+
+legitimado universal para propor ação direta de inconstitucionalidade, o que denota
+
+sua representatividade.
+
+Destarte, considerando o registro do partido no TSE e sua representação
+
+no Congresso Nacional, afigura-se inquestionável a legitimidade para propor a presente
+
+Arguição de Descumprimento de Preceito Fundamental.
+
+[[pagina 7 | nativo]]
+
+2.2 A OCORRÊNCIA DE LESÃO A PRECEITO FUNDAMENTAL
+
+A ADPF é ação constitucional que visa “evitar ou reparar lesão a preceito
+
+fundamental”. Está assim prevista no artigo 102, §1º, da CF, e no artigo 1º, da Lei da
+
+ADPF. No entanto, ambos dispositivos não especificam com precisão, de forma
+
+expressa, o que seria um “preceito fundamental”.
+
+O debate sobre seus contornos, a despeito disso, está superado. Há
+
+consenso tanto na doutrina, quanto na jurisprudência, de que a expressão “preceito
+
+fundamental” contempla, a um só tempo, as cláusulas constitucionais que preveem: (i)
+
+os fundamentos da República e as decisões políticas fundamentais (artigos 1º a 4º); (ii)
+
+os direitos fundamentais (artigo 5º e seguintes); (iii) as cláusulas pétreas (artigo 60, §4º);
+
+e (iv) os princípios constitucionais sensíveis (artigo 34, inciso IV), cuja violação não só
+
+demanda, como impõe a intervenção federal12.
+
+Nessas circunstâncias, não há dúvida de que esta ADPF aponta a
+
+ocorrência de lesão a preceitos fundamentais. Como sintetizado no capítulo
+
+introdutório e mais bem explicado no tópico 3 abaixo, o Autor busca evitar que sejam
+
+violados os valores constitucionais do devido processo legal, da segurança jurídica e da
+
+garantia do juiz natural (artigos 5º, XXXVI, XXXVII, LIII e LIV). E, apenas para não restar
+
+nenhum questionamento e sem a intenção de ser exaustivo, menciona-se que esse C.
+
+STF já reconheceu especificamente como preceito fundamental:
+
+• DEVIDO PROCESSO LEGAL E JUIZ NATURAL (ADPF 572/DF, RELATOR MIN. EDSON FACHIN):
+
+“Como é sabido, na esteira da jurisprudência desta Corte, compete ao Supremo
+Tribunal Federal o juízo acerca do que se há de compreender, no sistema
+constitucional brasileiro, como preceito fundamental.
+
+Nesse sentido, o Ministro Gilmar Mendes bem explicitou na ADPFMC 33 o esforço
+hermenêutico a ser realizado pelo STF: “É o estudo da ordem constitucional no seu
+contexto normativo e nas suas relações de interdependência que permite
+identificar as disposições essenciais para a preservação dos princípios basilares
+dos preceitos fundamentais de um determinado sistema. ”
+
+Ainda nesse importante voto para a construção institucional do controle abstrato
+de constitucionalidade, o e. Ministro Gilmar Mendes apresenta diretriz para o
+trabalho que aqui se coloca, aduzindo que “a lesão a preceito fundamental não
+
+12 SARMENTO, Daniel. Direito, Democracia e República. Escritos de Direito Constitucional. 1 ed. Belo Horizonte: Fórum, 2019,
+p. 572; BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro. 7 ed. São Paulo: Saraiva, 2016, p.
+329; e MENDES, Gilmar Ferreira. Arguição de descumprimento de preceito fundamental. 1 ed. São Paulo: Saraiva, 2007,
+p. 56. No mesmo sentido: STF, ADPF 33-MC, Tribunal Pleno, Rel. Min. Gilmar Mendes, j. 07.12.2005.
+
+[[pagina 8 | nativo]]
+
+se configurará apenas quando se verificar possível afronta a um princípio
+fundamental, tal como assente na ordem constitucional, mas também a regras
+que confiram densidade normativa ou significado específico a esse princípio. ”
+
+Dito isso, tem-se que, sim, diante da vocação da Constituição de 1988 de
+reinstaurar o Estado Democrático de Direito, fundado na “dignidade da pessoa
+humana” (CR, art. 1º, III), a liberdade pessoal e a garantia do devido processo
+legal, e seus corolários, como o princípio do juiz natural são preceitos
+fundamentais. Há, pois, controvérsia própria e adequada”
+
+• SEGURANÇA JURÍDICA NA ADPF 33/PA (RELATOR MIN. GILMAR MENDES):
+
+“A possibilidade de incongruências hermenêuticas e confusões jurisprudenciais
+decorrentes dos pronunciamentos de múltiplos órgãos pode configurar uma
+ameaça a preceito fundamental (pelo menos, ao da segurança jurídica), o que
+também está a recomendar uma leitura compreensiva da exigência aposta à lei
+da arguição, de modo a admitir a propositura da ação especial toda vez que
+uma definição imediata da controvérsia mostrar-se necessária para afastar
+aplicações erráticas, tumultuárias ou incongruentes, que comprometam
+gravemente o princípio da segurança jurídica e a própria ideia de prestação
+judicial efetiva.
+
+Ademais, a ausência de definição da controvérsia - ou a própria decisão
+prolatada pelas instâncias judiciais - poderá ser a concretização da lesão a
+preceito fundamental. Em um sistema dotado de órgão de cúpula, que tem a
+missão de guarda da Constituição, a multiplicidade ou a diversidade de soluções
+pode constituir-se, por si só, em uma ameaça ao princípio constitucional da
+segurança jurídica e, por conseguinte, em uma autêntica lesão a preceito
+fundamental.”
+
+A presente ação, nesse sentido, sob qualquer ângulo que se analise a
+
+questão, veicula um quadro crônico de lesão a preceitos fundamentais. É indispensável,
+
+portanto, que esse C. STF se pronuncie a fim de definir os standards constitucionais do
+
+dever de revelar e, com isso, garanta o devido processo legal, o juiz natural e a
+
+segurança jurídica.
+
+2.3 A ORIGEM EM ATO DO PODER PÚBLICO
+
+A ADPF visa “evitar ou reparar lesão a preceito fundamental, resultante de
+
+ato do Poder Público”. Está assim previsto, novamente, no artigo 102, §1º, da CF, e no
+
+artigo 1º, da Lei da ADPF. Esse “ato do Poder Público” pode ser comissivo ou omissivo,
+
+assim como pode ter natureza normativa, administrativa ou judicial.
+
+No caso concreto, a lesão a preceito fundamental que se visa tutelar nesta
+
+ADPF tem origem em atos comissivos e judiciais praticados pelo próprio Poder Judiciário,
+
+consubstanciados em um conjunto de decisões proferidas nas instâncias inferiores
+
+[[pagina 9 | nativo]]
+
+conferindo interpretações inconciliáveis ao artigo 14 da LArb e sobre os parâmetros do
+
+exercício do dever de revelação pelos árbitros.
+
+Como se verá, constantemente têm sido dadas soluções diversas para
+
+problemas idênticos. E essa incongruência hermenêutica tem gerado sensível confusão
+
+jurisprudencial, que, sozinha, ameaça preceitos fundamentais e permite a excepcional
+
+via da ADPF, a fim de viabilizar a imediata intervenção desse C. STF com vistas a afastar
+
+inconstitucionalidades.
+
+Nesse sentido, de novo sem a intenção de ser exaustivo, menciona-se
+
+alguns precedentes desse C. STF em que se reconheceu o cabimento da ADPF com o
+
+mesmo propósito que se busca aqui:
+
+“A jurisprudência deste Supremo Tribunal Federal consolidou-se no sentido de que
+um conjunto de reiteradas decisões judiciais sobre determinada matéria deve ser
+considerado ato do Poder Público passível de controle pela via da arguição de
+descumprimento de preceito fundamental”13
+
+“(...) o conjunto de decisões do Tribunal de Justiça do Estado do Rio de Janeiro e
+do Tribunal Regional do Trabalho da 1ª Região que têm resultado em bloqueio,
+arresto, penhora, sequestro e liberação de valores administrados pelo Poder
+Executivo do Estado do Rio de Janeiro para atender demandas relativas a
+pagamento de salário de servidores ativos e inativos, satisfação imediata de
+créditos de prestadores de serviços e tutelas provisórias definidoras de prioridades
+na aplicação de recursos públicos amolda-se ao conceito de ato do Poder
+público passível de impugnação pela via da ADPF”14
+
+“Multiplicidade de ações judiciais, nos diversos graus de jurisdição, nas quais se
+têm interpretações e decisões divergentes sobre a matéria: situação de
+insegurança jurídica acrescida da ausência de outro meio processual hábil para
+solucionar a polêmica pendente: observância do princípio da subsidiariedade .
+Cabimento da presente ação.
+
+(...)
+
+A adequação da presente Arguição está na comprovação de existência de
+múltiplas ações judiciais sobre as normas aqui questionadas tendo como objeto
+exatamente os preceitos constitucionais fundamentais. Na peça inicial da
+Arguição se comprova que alguns daqueles casos foram julgados: a) em primeiro
+grau; b) em grau de recurso e, ainda, c) com trânsito em julgado. Desta pletora
+de decisões, algumas conflitantes, e como não houve declaração de
+inconstitucionalidade ou ilegalidade das normas relativas à matéria, tem-se a
+manutenção de atos concretos do Poder Público. Esses, porém, são tidos como
+não aplicáveis às situações descritas em diferentes processos mencionados nos
+autos. A aplicação diferenciada e simultânea das normas pelas decisões judiciais
+
+13 STF, Tribunal Pleno, ADPF 548/DF, Relator Min. Carmen Lúcia, j. 22.02.2019.
+
+14 STF, Tribunal Pleno, ADPF 405/RJ, Relatora Min. Rosa Weber, j. 14.06.2017.
+
+[[pagina 10 | nativo]]
+
+contrárias parece traduzir descumprimento de preceitos constitucionais
+fundamentais”15
+
+“A possibilidade de incongruências hermenêuticas e confusões jurisprudenciais
+decorrentes dos pronunciamentos de múltiplos órgãos pode configurar uma
+ameaça a preceito fundamental (pelo menos, ao da segurança jurídica), o que
+também está a recomendar uma leitura compreensiva da exigência aposta à lei
+da arguição, de modo a admitir a propositura da ação especial toda vez que uma
+definição imediata da controvérsia mostrar-se necessária para afastar aplicações
+erráticas, tumultuárias ou incongruentes, que comprometam gravemente o
+princípio da segurança jurídica e a própria ideia de prestação judicial efetiva.
+
+Ademais, a ausência de definição da controvérsia - ou a própria decisão
+prolatada pelas instâncias judiciais - poderá ser a concretização da lesão a
+preceito fundamental. Em um sistema dotado de órgão de cúpula, que tem a
+missão de guarda da Constituição, a multiplicidade ou a diversidade de soluções
+pode constituir-se, por si só, em uma ameaça ao princípio constitucional da
+segurança jurídica e, por conseguinte, em uma autêntica lesão a preceito
+fundamental.”16
+
+Não há dúvida de que a presente ADPF destina-se a questionar atos “do
+
+Poder Público”. É preciso que esse C. STF defina, diante de tanta disparidade
+
+hermenêutica e confusão jurisprudencial, sobre quais os standards constitucionais do
+
+dever de revelar.
+
+2.4 A INEXISTÊNCIA DE QUALQUER OUTRO MEIO EFICAZ DE SANAR A LESIVIDADE
+
+A Lei da ADPF, no artigo 4º, §1º, disciplinou que “não será admitida
+
+arguição de descumprimento de preceito fundamental quando houver qualquer outro
+
+meio eficaz de sanar a lesividade”. E, no caso concreto, é evidente que a ADPF atende
+
+esse requisito. Isso porque:
+
+• os atos do Poder Público que lesionam os preceitos fundamentais e são
+discutidos aqui não são passíveis de tutela por meio de qualquer outro remédio
+constitucional17;
+
+15 STF, Tribunal Pleno, ADPF 101/DF, Relatora Min. Carmen Lúcia, j. 14.6.2009.
+
+16 STF, Tribunal Pleno, ADPF 33/PA, Relator Min. Gilmar Mendes, j. 07.12.2005.
+
+17 “Assim, tendo em vista o caráter acentuadamente objetivo da arguição de descumprimento, o juízo de
+subsidiariedade há de ter em vista, especialmente, os demais processos objetivos já consolidados no sistema
+constitucional. Nesse caso, cabível a ação direta de inconstitucionalidade ou constitucionalidade, não será admissível
+a arguição de descumprimento. Em sentido contrário, não sendo admitida a utilização de ações diretas de
+constitucionalidade ou de inconstitucionalidade – isto é, não se verificando a existência de meio apto para solver a
+controvérsia constitucional relevante de forma ampla, geral e imediata – há de se entender possível a utilização da
+arguição de descumprimento de preceito fundamental”. (STF, Tribunal Pleno, ADPF 33/PA, Relator Min. Gilmar Mendes, j.
+07.12.2005).
+
+[[pagina 11 | nativo]]
+
+• a existência de outros meios, de caráter subjetivo, aptos a cessar a lesão
+não tem o condão de afastar o cabimento da ADPF18;
+
+• esta ADPF não se presta a discutir as lesões em um único caso, em controle
+concreto de constitucionalidade, mas sanar a lesão aos preceitos fundamentais
+já referidos em todas as hipóteses em que se verifiquem, fixando, em abstrato e
+com eficácia vinculante, o mais correto entendimento sobre o artigo 14 da LArb,
+o dever de revelação dos árbitros e os respectivos contornos constitucionais de
+sua aplicação para tais casos e outros futuros, tudo à luz da precisa, apropriada
+e completa interpretação da CF19; e
+
+• para além da ADPF ser o instrumento adequado para viabilizar a
+judicialização do regime de preceitos fundamentais, o interesse público, a
+natureza da discussão e a repercussão dos bens jurídicos colocados em jogo aqui
+– sem dúvida, questões institucionais sensíveis e de altíssima magnitude jurídico-
+social –, por si só, são mais que suficientes a justificar o cabimento da presente
+ADPF e a intervenção desse C. STF enquanto guardião da CF20.
+
+Presentes, então, todos os requisitos para conhecimento desta ADPF,
+
+porque é certo que impugna lesão a preceitos fundamentais, decorrentes de atos do
+
+18 “É claro que a mera possibilidade de utilização de outros meios processuais não basta, só por si, para justificar a
+invocação do princípio da subsidiariedade, pois, para que esse postulado possa legitimamente incidir, revela-se essencial
+que os instrumentos disponíveis mostrem-se aptos a sanar, de modo eficaz, a situação de lesividade. Daí a prudência
+com que o Supremo Tribunal Federal deve interpretar (e assim tem interpretado) a regra inscrita no art. 4º, § 1º, da Lei nº
+9.882/99, em ordem a permitir que a utilização dessa ação constitucional possa, efetivamente, prevenir ou reparar lesão
+a preceito fundamental causada por ato do Poder Público”. (STF, Tribunal Pleno, ADPF 237-AgR/SC, Relator Min. Celso de
+Mello, j. 28.05.2014).
+
+19 “Como se vê, ainda que aparentemente pudesse ser o recurso extraordinário o meio eficaz de superar eventual lesão
+a preceito fundamental nessas situações, na prática, especialmente nos processos de massa, a utilização desse instituto
+do sistema difuso de controle de constitucionalidade não se revela plenamente eficaz, em razão do limitado efeito do
+julgado nele proferido (decisão com efeito entre as partes. Assim sendo, é possível concluir que a simples existência de
+ações ou de outros recursos processuais – vias processuais ordinárias – não poderá servir como óbice à formulação da
+arguição de descumprimento. Ao contrário, tal como explicitado, a multiplicação de processos e decisões sobre um
+dado tema constitucional reclama, as mais das vezes, a utilização de um instrumento de feição concentrada, que
+permita a solução definitiva e abrangente da controvérsia”. (STF, Tribunal Pleno, ADPF 33/PA, Relator Min. Gilmar Mendes,
+j. 07.12.2005).
+
+20 “Observe-se a importância dos processos objetivos. Neles, o Supremo Tribunal Federal tem oportunidade de enfrentar
+de imediato questões de repercussão maior, que interessam à sociedade como um grande todo. Em vez de se aguardar
+demorada tramitação processual para se obter, no julgamento do recurso extraordinário, passados cerca de cinco anos
+– tempo médio – da propositura da ação, a palavra final da Corte que está no ápice do Poder Judiciário atua o Supremo
+de pronto e o faz em prol da unidade do próprio Direito, no que aplicável, de forma linear, no território nacional. Mediante
+o processo objetivo ensejador do controle concentrado de constitucionalidade, o Supremo exerce, na plenitude, a
+atribuição que lhe é precípua, isto é, de guardar a Constituição Federal, e, com isso, afasta a desinteligência de julgados,
+decisões que, em última análise, implicam a interpretação do ordenamento jurídico com base na formação técnica e
+humanística dos integrantes do órgão que atue, fenômeno que ocorre a partir de ato de vontade. Daí a conveniência
+de não ficar a Corte a reboque, a pronunciar-se processo a processo, de modo irracional, visando à prevalência do
+direito posto, especialmente do direito constitucional. Passo a passo, o Constituinte alargou o âmbito de atuação do
+Tribunal em tal campo, começando com a representação interventiva, e hoje, conta-se não só com a ação direta de
+inconstitucionalidade nas duas modalidades, englobando o vício da omissão, a declaratória de constitucionalidade,
+mas também com a mais nova irmã dessas ações, a arguição de descumprimento de preceito fundamental. A
+instrumentalidade está ao alcance do Tribunal, cumprindo dar concretude ao que previsto na Carta da República. Dessa
+maneira, aciona-se sadia política judiciária, eliminando-se as perplexidades decorrentes de julgamento díspares, ainda
+que idênticos os fatos e o arcabouço normativo. Creio que em boa hora a Confederação Nacional dos Trabalhadores
+na Saúde – CNTS, como poderia fazê-lo qualquer dos legitimados para a ação direta de inconstitucionalidade, inclusive
+o Procurador-Geral da República – e então sua Excelência não estaria a provocar este incidente –, formalizou esta
+arguição de descumprimento de preceito fundamental.” (STF, Tribunal Pleno, ADPF 54 QO/DF, Min. Marco Aurélio, j.
+27.04.2005).
+
+[[pagina 12 | nativo]]
+
+Poder Público, para a qual não há outra solução apta a resolver a controvérsia
+
+constitucional de forma ampla, imediata e eficaz. Sem essa ADPF, não haverá como
+
+esse C. STF definir a interpretação constitucional do dever de revelação.
+
+2.5 SUBSIDIARIAMENTE: A POSSIBILIDADE DE SUA CONVERSÃO EM ADI
+
+A despeito de o Autor confiar inteiramente no cabimento desta ADPF para
+
+sanar as lesões aos preceitos fundamentais, roga-se, subsidiariamente – e porque
+
+presentes todos os respectivos requisitos exigidos (legitimidade ativa, objeto,
+
+fundamentação, pedido e relevância) –, pela sua conversão em ADI21, caso esse C. STF
+
+entenda que os atos do Poder Público impugnados são passíveis de controle de
+
+constitucionalidade abstrato pela via da ação direta.
+
+3. ELEMENTO ESSENCIAL À COMPREENSÃO DA CONTROVÉRSIA
+CONSTITUCIONAL
+
+Para a correta e completa compreensão do contexto em que esta ADPF
+
+está inserida, convém ao Autor apresentar um breve e indispensável relato de um
+
+elemento essencial da controvérsia: o dever de revelação dos árbitros à luz da LArb.
+
+O desenvolvimento do instituto da arbitragem trilhou um longo e
+
+complicado caminho no Brasil. Afinal, a despeito da promulgação da LArb no ano 1996,
+
+que regulamentou a sua prática por aqui, o número de adeptos – e, por consequência
+
+lógica, o número de arbitragens – cresceu em volume expressivo após a confirmação
+
+de sua constitucionalidade por esse C. STF por ocasião do julgamento da SE 520622 no
+
+ano de 2001.
+
+A partir de então, como bem colocam CARLOS ALBERTO CARMONA e JOSÉ
+
+AUGUSTO BITENCOURT MACHADO FILHO, “abriram-se as portas do sucesso para a arbitragem
+
+em nosso país: de expectadores do cenário internacional, passamos rapidamente a
+
+21 Sobre a possibilidade de conversão da ADPF em ADI: STF, ADPF 72/PA, Tribunal Pleno, Min. Ellen Gracie, j. 01.06.2005;
+STF, ADI 4277/DF, Tribunal Pleno, Min. Gilmar Mendes, j. 21.07.2009.
+
+22 STF, Tribunal Pleno, SE 5206, Relator Min. Sepúlveda Pertence, j. 12.12.2001.
+
+[[pagina 13 | nativo]]
+
+atores de primeira linha”23. Prova disso está na mais recente edição da pesquisa
+
+“Arbitragem em Números”, publicada pelo Comitê Brasileiro de Arbitragem – CBAr em
+
+Outubro de 2022, indicando um crescimento de 600% em sua utilização como forma de
+
+resolução de conflito na última década e um índice de satisfação superior a 90%24.
+
+Com resultados tão positivos em tão pouco tempo, não há como negar
+
+que a arbitragem tem desempenhado um papel determinante no desenvolvimento
+
+econômico do Brasil e, ainda, um papel acessório (mas não menos relevante) na
+
+administração da justiça, contribuindo com o “desafogamento” do Judiciário, soterrado
+
+por uma quantidade avassaladora de demandas.
+
+Também não há mais como negar a natureza jurisdicional da arbitragem.
+
+Ao revés, os antiquados debates sobre o monopólio da jurisdição estatal foram há muito
+
+tempo superados. Atualmente, doutrina25 e jurisprudência26 concordam não só que os
+
+23 CARMONA, Carlos Alberto; MACHADO FILHO, José Augusto Bitencourt. Arbitragem: jurisdição, missão e justiça. In ARABI,
+Abhner Youssif Mota; MALUF, Fernando; MACHADO NETO, Marcello Lavenère. Constituição da República 30 anos depois:
+uma na análise prática da eficiência dos direitos fundamentais. Estudos em homenagem ao Ministro Luiz Fux. Fórum: São
+Paulo, 2019, p. 207.
+
+24 Disponível em: https://cbar.org.br/site/wp-content/uploads/2021/09/pesquisa-cbar-ipsos-2021-arbitragem-no-brasil.pdf
+Acesso em: 22.10.2022.
+
+25 A propósito, Carlos Alberto Carmona diz “Nunca me convenci a respeito da restrição imposta ao conceito de jurisdição,
+e temo afirmar que as ideias de Chiovenda e de Carnelutti, que tanto impressionaram nossos autores mais ilustres,
+envelheceram e paulatinamente deixaram de refletir o real significado de iurisdicere. Tanto o árbitro como o Juiz togado
+dizem autoritariamente o direito, concretizando a vontade da lei; tanto o árbitro como o Juiz exercem função, atividade
+e poder que caracterizam a jurisdição; tanto o árbitro como o Juiz proferem decisões vinculativas para as partes; tanto
+o árbitro como o Juiz julgam! Assim sendo, no momento em que o árbitro aceita o encargo, recebe das partes o poder
+de decidir um dado litígio, impondo em caráter obrigatório e vinculativo a solução para o caso concreto,
+caracterizando-se a substituição da vontade das partes pela do árbitro, que expressa e sintetiza a vontade da lei. A
+função do árbitro, como se vê, não é diferente daquela do Juiz. Quanto à atividade do árbitro, não difere ela
+substancialmente daquela desempenhada pelo Juiz togado: tanto um como outro conhecem as questões de fato e de
+direito deduzidas pelas partes, analisando-as e valorando-as para formar seu convencimento, propiciando as bases para
+a decisão da pretensão que Ihes foi submetida (esta, aliás, a característica básica da atividade cognitiva). Por
+derradeiro, árbitro e Juiz ostentam poder: a decisão que proferem um e outro é obrigatória e vinculante para os
+contendentes”. (CARMONA, Carlos Alberto. Das boas relações entre os juízes e os árbitros. Revista de Processo, vol. 87,
+1991, p. 81-89).
+
+Igualmente, Leonardo de Faria Beraldo leciona que “a origem da arbitragem é contratualista, entretanto, a sua
+finalidade é atividade jurisdicional” (BERALDO, Leonardo de Faria. Curso de Arbitragem: nos termos da Lei nº 9.307/96.
+São Paulo: Atlas, 2014, p. 5). Ainda no mesmo sentido: RAMOS, Caio Pazinato Gregório. Controle da jurisdição do árbitro
+pelo Poder Judiciário antes da sentença arbitral no direito brasileiro. 2019. 328 f. Dissertação (Mestrado) - Curso de Direito,
+Pontifícia Universidade Católica de São Paulo, São Paulo, 2019, p. 27; NAGAO, Paulo Issamu. Do controle judicial da
+sentença arbitral. Brasília: Gazeta Jurídica, 2013, p. 60; MEJIAS, Lucas Britto. Controle da atividade do árbitro. São Paulo:
+Revista dos Tribunais, 2015, p. 25-31; e BRAGHETTA, Adriana. A importância da sede da arbitragem: visão a partir do Brasil.
+Rio de Janeiro: Renovar, 2010, p. 6; e ABBOUD, Georges. Processo Constitucional Brasileiro. 3 ed. São Paulo: Revista dos
+Tribunais, 2019, p. 446.
+
+26 "PROCESSO CIVIL. ARBITRAGEM. NATUREZA JURISDICIONAL. CONFLITO DE COMPETÊNCIA FRENTE A JUÍZO ESTATAL.
+POSSIBILIDADE. MEDIDA CAUTELAR DE ARROLAMENTO. COMPETÉNCIA. JUÍZO ARBITRAL. 1. A atividade desenvolvida no
+âmbito da arbitragem tem natureza jurisdicional, sendo possível a existência de conflito de competência entre juízo
+estatal e câmara arbitral. (...). 4. Conflito conhecido para declarar a competência do Tribuna Arbitral". (CC 111.230/DF;
+Rel. Min. Nancy Andrighi; Segunda Seção; j. 08.05.2013).
+
+(continua na próxima página)
+
+[[pagina 14 | nativo]]
+
+árbitros exercem a atividade jurisdicional, como, também, que o Estado deve incentivar
+
+e apoiar a sua prática, vez que o próprio Poder Público a utiliza em inúmeros casos.
+
+Isso não significa, no entanto, que a arbitragem deva ser tida como uma
+
+via jurisdicional idêntica ao processo judicial. Embora o artigo 18 da LArb preconize que
+
+“[O] árbitro é juiz de fato e de direito”, essa equiparação nunca foi e continua não
+
+sendo absoluta. Existem diferenças entre os poderes e deveres de árbitros e de juízes.
+
+Uma delas – e a mais importante para fins desta ADPF – diz respeito ao caráter contratual
+
+da arbitragem, à confiança das Partes no julgador e ao respectivo sistema – especial e
+
+próprio da via arbitral – para a aferição de sua imparcialidade e/ou independência.
+
+Nesse ponto, a lei de arbitragem criou um mecanismo específico e
+
+particular para aferir-se a imparcialidade e a independência do árbitro: o dever de
+
+revelação contido no artigo 14 da LArb. Confira-se:
+
+“Art. 14. Estão impedidos de funcionar como árbitros as pessoas que tenham, com
+as partes ou com o litígio que lhes for submetido, algumas das relações que
+caracterizam os casos de impedimento ou suspeição de juízes, aplicando-se-lhes,
+no que couber, os mesmos deveres e responsabilidades, conforme previsto no
+Código de Processo Civil.
+
+§ 1º As pessoas indicadas para funcionar como árbitro têm o dever de revelar,
+antes da aceitação da função, qualquer fato que denote dúvida justificada
+quanto à sua imparcialidade e independência.
+
+§ 2º O árbitro somente poderá ser recusado por motivo ocorrido após sua
+nomeação. Poderá, entretanto, ser recusado por motivo anterior à sua nomeação,
+quando:
+
+a) não for nomeado, diretamente, pela parte; ou
+
+b) o motivo para a recusa do árbitro for conhecido posteriormente à sua
+nomeação”.
+
+"CONFLITO DE COMPETÈNCIA POSITIVO. JUÍZO ARBITRAL E JUÍZO ESTATAL. POSSIBILIDADE, EM TESE, DE CONFIGURAÇÃO DE
+CONFLITO DE COMPETÉNCIA. ENTENDIMENTO SUFRAGADO PELA SEGUNDA SECÃO DO STI. CONTRATO DE FRANQUIA, COM
+CLÁUSULA COMPROMISSÓRIA ARBITRAL. JUÍZO ESTATAL QUE DETERMINA, NO BOJO DE AÇAO JUDICIAL, A
+EXCLUSÃO/EXTINÇÃO DE PROCEDIMENTO ARBITRAL ANTERIORMENTE INSTAURADO PARA ODESLINDE DE CONTROVÉRSIA
+ADVINDA DO MESMO CONTRATO (ENVOLVENDO ASMESMAS PARTES SIGNATÁRIAS, COM DISCUSSÃO SE HOUVE OU NÃO
+CESSÃO DE POSIÇÃO CONTRATUAL DE TERCEIRO FRANQUEADO). CONFLITO CONHECIDO PARA RECONHECER A
+COMPETÈNCIA DO JUÍZO ARBITRAL. 1. De acordo com o atual posicionamento sufragado pela Segunda Seção desta
+Corte de Justiça, compete ao Superior Tribunal de Justiça dirimir conflito de competência entre Juízo arbitral e órgão
+jurisdicional estatal, partindo-se, naturalmente, do pressuposto de que a atividade desenvolvida no âmbito da arbitragem
+possui natureza jurisdicional. 1.1 O conflito positivo de competência afigura-se caracterizado, não apenas quando dois
+ou mais Juízos, de esferas diversas, declaram-se simultaneamente competentes para julgar a mesma causa, mas também
+quando, sobre o mesmo objeto, duas ou mais autoridades judiciárias tecem deliberações excludentes entre si. (...). 5.
+Conflito conhecido para declarar competente o Juízo arbitral". (CCN° 146.939/PA; Rel. Min. Marco Aurélio Bellizze;
+Segunda Seção; j. 23.11.2016).
+
+[[pagina 15 | nativo]]
+
+Em que pese a LArb faça referência aos “casos de impedimento ou
+
+suspeição de juízes” do CPC, ela vai além e impõe expressamente às “pessoas
+
+indicadas para funcionar como árbitro” o “dever de revelar”, que nada mais é do que
+
+trazer ao conhecimento das Partes da arbitragem “qualquer fato que denote dúvida
+
+justificada quanto à sua imparcialidade e independência”.
+
+Não fosse suficiente a clareza dos contornos desse “dever de revelar” na
+
+própria redação da LArb, vale dizer que, até pouco tempo atrás, a doutrina era
+
+unânime quanto ao seu conceito, que consiste em um ônus do árbitro (e não da Parte).
+
+Confira-se exemplos:
+
+CARLOS ALBERTO CARMONA: “Em sede de arbitragem, o parâmetro objetivo para aferir
+a independência do árbitro é ditado pelo dever de revelação (duty of disclosure).
+A extensão do dever do árbitro de revelar qualquer fato que possa, aos olhos das
+partes, comprometer o seu potencial interesse na causa é diretamente
+proporcional à importância de garantir a constante independência do árbitro
+para a validade da arbitragem, por todas as ordens de exigências já colocadas
+acima”27
+
+SELMA FERREIRA LEMES: “O dever de revelação constitui o termômetro para se aferir a
+independência e imparcialidade do árbitro. Ao ser indicado para atuar como
+árbitro, a pessoa deve efetuar a verificação de fatos ou circunstâncias que
+possam comprometer a sua independência e imparcialidade, e informar as partes
+e a instituição arbitral que administra o procedimento arbitral.”28
+
+FABIANE VERÇOSA: “A fim de compatibilizar, de um lado, a liberdade das partes no
+que tange à indicação dos árbitros que escolherem com, de outro lado, os
+deveres de independência, imparcialidade e neutralidade do árbitro nomeado,
+deve-se lançar mão de outro – não menos importante – dever que permeia toda
+a atividade do árbitro: o dever de revelação, de informação (disclosure).”29
+
+Por sua vez, ainda que os contornos do que seria uma “dúvida justificada”
+
+não sejam expressos no dispositivo da LArb30, seu conceito (quase que intuitivo) também
+
+era incontroverso na doutrina, que a colocava como qualquer fato que, aos olhos da
+
+27 Parecer proferido no âmbito do conhecido Caso Abengoa (STJ, SEC nº 9.412/US), fls. 1.240 dos autos eletrônicos perante
+o E. Superior Tribunal de Justiça.
+
+28 LEMES, Selma Ferreira. 1.Árbitro. Dever de Revelação. Inexistência de Conflito de Interesses. Princípios da Independência
+e da Imparcialidade do Árbitro. 2. Homologação de Sentença Arbitral Estrangeira no STJ. Inexistência de Violação à
+Ordem Pública (Processual). Artigo 39, II, da Lei de Arbitragem e Artigo V(II)(b) da Convenção de Nova Iorque. Revista
+Brasileira de Arbitragem, n. 41, jan/fev/mar 2014. p. 29
+
+29 VERÇOSA, Fabiane. A liberdade das partes na escolha e indicação de árbitros em arbitragens internacionais: limites e
+possibilidades. Revista de Arbitragem e Mediação, a. 1, n.1.
+
+30 Sobre esse aspecto, Carlos Alberto Carmona menciona que “O terreno é mesmo pantanoso: há efetivamente um grau
+largo de subjetividade na interpretação do que seja uma “dúvida justificada” (CARMONA, Carlos Alberto. Arbitragem e
+processo: um comentário à Lei no 9.307/96. 3. ed. São Paulo: Atlas, 2009, p. 254-255).
+
+[[pagina 16 | nativo]]
+
+Parte (e não do árbitro), fosse capaz de gerar insegurança, desconforto e/ou perda de
+
+confiança no julgador. Confira-se exemplos:
+
+CARLOS ALBERTO CARMONA: “A extensão do dever do árbitro de revelar qualquer fato
+que possa, aos olhos das partes, comprometer o seu potencial interesse na causa
+é diretamente proporcional à importância de garantir a constante
+independência do árbitro para a validade da arbitragem, por todas as ordens de
+exigências já colocadas acima”31
+
+ADRIANA NOEMI PUCCI: “A LAB impõe ao árbitro o dever de revelar antes da
+aceitação da função, ou a qualquer momento em que tenha conhecimento, a
+existência de fato que denote dúvida justificada quanto à sua imparcialidade e
+independência. 38. As situações a revelar pelo árbitro devem poder provocar
+dúvida às partes. A dúvida não pode ser leviana. As partes devem ter razão de ter
+dúvidas quanto à independência ou imparcialidade do árbitro.”32
+
+GUSTAVO DA ROCHA SCHMIDT: “Sem sombra de dúvida, entre os mecanismos que
+auxiliam na efetivação da independência e imparcialidade dos árbitros, o mais
+importante deles está na divulgação de situações que, aos olhos das partes,
+caracterizem um possível conflito de interesses. Nesse sentido, a revelação do
+possível conflito de interesses certifica a licitude da constituição do Tribunal Arbitral
+e, em especial, assegura a validade da sentença, ao final. Dito de outra maneira,
+se o fato foi revelado pelo árbitro indicado e a parte não o recusou,
+oportunamente, não pode fazê-lo ao final, em caso de eventual sentença
+desfavorável.”33
+
+FABIANE VERÇOSA: “A fim de se compatibilizar, de um lado, a liberdade das partes
+no que tange à indicação dos árbitros que escolherem com, de outro lado, os
+deveres de independência, imparcialidade e neutralidade do árbitro nomeado,
+deve-se lançar mão de outro - não menos importante - dever que permeia toda
+a atividade do árbitro: o dever de revelação, de informação (disclosure),
+conforme mencionado adrede. Assim, o árbitro deve revelar às partes, à
+instituição arbitral e aos demais árbitros todo e qualquer fato ou circunstância que,
+sob a ótica das partes (e não na opinião do árbitro), pode suscitar dúvidas quanto
+à sua independência, imparcialidade e neutralidade, caso as partes dele
+tomassem conhecimento.”34
+
+CARLOS STEFEN ELIAS: “Intimamente ligado à imparcialidade – mas não se
+confundindo com ela – está o dever de revelação do árbitro, cuja função é
+permitir que as partes estejam cientes de todas as circunstâncias que, a seus olhos
+(e não de um observador razoável), possam gerar dúvidas a respeito da
+
+31 Parecer proferido no âmbito do conhecido Caso Abengoa (STJ, SEC nº 9.412/US), fls. 1.240 dos autos eletrônicos perante
+o E. Superior Tribunal de Justiça.
+
+32 PUCCI, Adriana Noemi, Impugnação dos Árbitros, in 20 anos da lei de arbitragem: homenagem a Petrônio R. Muniz,
+Carlos Alberto Carmona, Selma Ferreira Lemes, Pedro Batista Martins (coords.), 1ª ed., São Paulo: Atlas, 2017, p. 172
+
+33 SCHMIDT, Gustavo da Rocha, Comentários à Lei de Arbitragem, 1ª ed., Rio de Janeiro: Forense, 2021, p. 110
+
+34 VERÇOSA, Fabiane. A LIBERDADE DAS PARTES NA ESCOLHA E INDICAÇÃO DE ÁRBITROS EM ARBITRAGENS
+INTERNACIONAIS: LIMITES E POSSIBILIDADES. In. Doutrinas Essenciais de Arbitragem e Mediação. WALD, Arnoldo (org.).
+Thomson Reuters Brasil, Ano 1, Vol 2, Agosto de 2014. E-book. Disponível em:
+https://proview.thomsonreuters.com/launchapp/title/rt/monografias/101869780/v2/document/101907287/anchor/a-
+101907287
+
+[[pagina 17 | nativo]]
+
+imparcialidade do julgador. É o que comanda (embora não faça referência ao
+observador) o art. 14, § 1º, da LArb.”35
+
+Não por outro motivo era considerada como boa prática em
+
+procedimentos arbitrais36 que os árbitros adotassem sempre o padrão do full disclosure
+
+(revelação completa)37, para evitar que, em um momento posterior, a futura sentença
+
+arbitral acabasse sendo declarada nula em sede de ação anulatória, já que
+
+“eman[ada] por quem não podia ser árbitro” (artigo 32, inciso II da LArb).
+
+Resumidamente: competia ao árbitro revelar e à Parte avaliar a relevância da
+
+revelação realizada.38
+
+Entretanto, nos últimos tempos, não apenas parte da doutrina parece ter
+
+convenientemente39 mudado de opinião sobre o que seria o “dever de revelar” e a
+
+“dúvida justificada”, como, para piorar, o próprio Poder Judiciário tem proferido
+
+decisões conferindo interpretações inconciliáveis ao artigo 14 da LArb e aos parâmetros
+
+para o exercício do dever de revelação. Como exemplo, repetidas vezes tem sido
+
+dadas soluções diversas para problemas idênticos ao tratar:
+
+DO CONCEITO E DOS CONTORNOS DO “DEVER DE REVELAR”
+As instâncias inferiores têm discordado sobre a quem compete o ônus no dever
+de revelação. De um lado, seria um dever exclusivo dos árbitros, que devem
+revelar tudo o quanto puder trazer uma dúvida justificável? Deveriam os
+árbitros responder tudo o quanto questionado pelas Partes? Ou, de outro,
+existiria em alguma medida um ônus das Partes de investigar se determinado
+
+35 ELIAS, Carlos. 3. O árbitro. In. LEVY, Daniel; PEREIRA, Guilherme Setoguti J. Curso de Arbitragem. Thomson Reuters Brasil,
+2021. RB-3.23. E-book. Disponível em:
+https://proview.thomsonreuters.com/launchapp/title/rt/monografias/160617115/v2/page/RB-3.23
+
+36 Na verdade, o mais comum era que os árbitros não apenas trouxessem ao conhecimento das partes tudo que poderia
+colocar em dúvida sua imparcialidade e/ou independência, como, também, era comum que os árbitros renunciassem
+caso viessem a ser impugnados, para evitar qualquer margem de discussão. O jargão popular dentre os arbitralistas
+costumava ser justamente que “se a parte não me quer em sua arbitragem, eu também não quero estar nela”. No
+entanto, infelizmente, essa realidade mudou.
+
+37 Sobre o tema, válida a lição de Ricardo Dalmaso Marques: “Ao que parece, as propostas mais comuns e recorrentes
+são aquelas em que se exige do árbitro que revele o máximo de informações possível, o chamado full disclosure, na
+linha defendida por Fouchard, Gaillard e Goldman, que asseveram que todos os fatos devem ser revelados a menos que
+sejam publicamente conhecidos. Trata-se da diretiva mais forte nos dias atuais, em especial em países de common law:
+em caso de dúvida, dever-se-ia pesar pela revelação, e não o contrário.” (MARQUES, Ricardo Dalmaso. O dever de
+revelação do árbitro. São Paulo: Almedina, 2018, p. 189).
+
+38 Novamente, faz-se referência à obra de Ricardo Dalmaso: “E, ainda para quem defende o full disclosure, pesam os
+argumentos de que revelar não significa que os fatos indicados importarão em recusa ou impugnação (uma vez que os
+critérios de revelação, recusa e impugnação são distintos, como se viu), e o exercício do dever de revelação serviria
+precipuamente para assegurar a integridade do processo arbitral ao se colocar a possibilidade de escolha na mão das
+partes, “onde deve verdadeiramente estar”. Não caberia ao julgador aferir o que é (e o que não é) relevante, tarefa que
+seria restrita às partes e à instituição arbitral (que costuma também adotar uma postura pró-revelação)” (MARQUES,
+Ricardo Dalmaso. O dever de revelação do árbitro. São Paulo: Almedina, 2018, p. 190).
+
+39 Afinal, quanto menos tiver de revelar, mais arbitragens pode pegar, recebendo cifras cada vez mais milionárias, que,
+em grande parte dos casos, chegam a superar – e muito – os salários e rendimentos dos próprios Ministros desse C. STF.
+
+[[pagina 18 | nativo]]
+
+árbitro poderia ou não atuar em sua arbitragem, ou se seria ou não um julgador
+imparcial e independente? Há decisões judiciais em ambos os sentidos.
+
+DO CONCEITO E DOS CONTORNOS DA “DÚVIDA JUSTIFICADA”
+As instâncias inferiores têm discordado também sobre aos olhos de quem deve
+ser aferida a dúvida justificada. Seriam os fatos que, aos olhos da Parte, podem
+trazer alguma conotação sobre a falta de independência ou a parcialidade
+de um árbitro? Ou seria aos olhos do próprio árbitro? Novamente, há decisões
+para ambos os lados.
+
+DA TAXATIVIDADE OU NÃO DOS “CASOS DE IMPEDIMENTO E SUSPEIÇÃO DOS
+JUÍZES”
+As instâncias inferiores têm discordado ainda sobre a existência ou não de
+taxatividade das regras rígidas de impedimento e suspeição esculpidas nos
+artigos 144 a 148 do CPC. Seriam tais hipóteses as únicas aplicáveis para
+aferição da imparcialidade e independência dos árbitros? Ou, na sistemática
+própria da arbitragem, haveria margem para particularidades e regras
+específicas da via arbitral? As decisões judiciais sobre o tema variam ora para
+uma posição, ora para outra.
+
+DA APLICAÇÃO AUTOMÁTICA OU NÃO DAS DIRETRIZES DA IBA
+As instâncias inferiores têm discordado sobre a aplicação das regras (soft law)
+da International Bar Association (“IBA”) para conflito de interesse dos árbitros
+nas arbitragens nacionais (domésticas). O tema ganha maior repercussão na
+medida em que, muitas das vezes, as decisões judiciais têm utilizado essa soft
+law como parâmetro paralelo ao dever de revelação previsto na LArb, ainda
+que as Partes não tenham escolhido sua aplicação de forma expressa na
+convenção de arbitragem. Seria esse conjunto de diretrizes aplicável de forma
+automática a toda e qualquer arbitragem? Ou sua aplicação dependeria,
+necessariamente, da anuência inequívoca das Partes? Uma vez mais, há
+decisões colidentes.
+
+DO MOMENTO ADEQUADO PARA SUSCITAR A IMPOSSIBILIDADE DE ATUAÇÃO
+DO ÁRBITRO
+Por último, as instâncias inferiores também têm discordado sobre a necessidade
+da Parte suscitar a falta de independência e/ou parcialidade do árbitro no
+primeiro momento, ainda dentro da arbitragem, ou a possibilidade de fazê-lo
+a qualquer tempo, inclusive perante o Poder Judiciário, já em sede de eventual
+ação anulatória de sentença arbitral. Seria uma matéria passível de preclusão
+ou não? Aqui, de novo, as decisões judiciais não são unânimes e convergentes.
+
+Assim, não há dúvida: o cenário desafia a imediata intervenção desse C.
+
+STF. O objetivo desta ADPF é justamente sanar a lesão aos preceitos fundamentais que
+
+decorre dessa disparidade hermenêutica. Fixar, em abstrato e com eficácia vinculante,
+
+[[pagina 19 | nativo]]
+
+os conceitos e os contornos das matérias em debate à luz da precisa, apropriada e
+
+completa interpretação da CF.
+
+4. A NECESSIDADE DE CORREÇÃO DA LESÃO AOS PRECEITOS FUNDAMENTAIS
+
+Feita a introdução do contexto em que esta ADPF está inserida, o direito a
+
+ser aplicado é quase que intuitivo, bastando, para sua procedência, demonstrar a lesão
+
+aos preceitos fundamentais.
+
+Não há dúvida alguma de que a arbitragem guarda estrita observância
+
+com o direito fundamental do devido processo legal. Trata-se de regra elementar de
+
+todo e qualquer Estado Democrático de Direito, que se estende tanto à jurisdição
+
+estatal quanto à jurisdição arbitral40 e que prevê que “ninguém será privado da
+
+liberdade ou de seus bens sem o devido processo legal” (art. 5º, LIV).
+
+A partir do preceito fundamental do devido processo legal41, podem ser
+
+extraídos ainda outros direitos fundamentais, explícitos ou implícitos na CF, que são tidos
+
+como seus corolários lógicos.
+
+Dentre os explícitos, está o preceito fundamental do juiz natural, que deve
+
+ser rigorosamente observado tanto no processo judicial, quanto na arbitragem. Nesse
+
+sentido, a um só tempo, a CF expressamente afirma que “ninguém será processado
+
+40 Nesse sentido, já se pronunciou também o C. STJ: “O princípio da imparcialidade do juiz é extraível de uma série de
+normas da Constituição, a começar pela cláusula do Estado Democrático de Direito, expressa na verdadeira carta de
+intenções que é o preâmbulo da Constituição. Um Estado que os juízes pudessem atuar em processos em que se
+encontrassem fatores que comprometam sua isenção em relação às partes, efetiva ou potencialmente, certamente
+não poderia ser chamado de Estado Democrático de Direito. (...) A necessária imparcialidade do julgador deriva do
+princípio do devido processo legal (art. 5º, LIV). Um processo em que haja parcialidade do juiz não pode ser um processo
+devido. (...) O princípio da imparcialidade do juiz também se impõe ao árbitro, pois, nos termos do art. 18 da Lei de
+Arbitragem, o árbitro é juiz de fato e de direito”. (STJ, SE 120/EX, Relatora Min. Nancy Andrighi, j. 18.12.2018).
+
+41 Sobre o tema da evolução do devido processo legal e seus reflexos, explica em pormenores Daniel Sarmento que “Em
+seu desenvolvimento histórico, a cláusula do devido processo legal teve origem na tradição jurídica anglo-saxã" da qual
+adveio também sua aplicação em duas dimensões distintas: uma processual ou formal e outra substantiva ou material.
+Em sua faceta formal, o devido processo legal requer a observância de um conjunto de garantias processuais mínimas,
+visando a assegurar a justiça procedimental das decisões estatais. Trata-se, em estreita síntese, do direito a um processo
+justo. Já a faceta substantiva está relacionada à exigência de razoabilidade e proporcionalidade das norma se condutas
+estatais. Na sua dimensão processual, o devido processo legal atua como uma espécie de "cláusula-mãe", da qual
+podem ser extraídos inúmeros direitos fundamentais processuais mais específicos, vários deles expressamente
+assegurados pelo texto constitucional brasileiro, como contraditório e ampla defesa, juiz natural, vedação ao uso de
+provas ilícitas e duração razoável do processo. Mas existem outras exigências ligadas ao devido processo legal que não
+foram objeto de consagração constitucional expressa, como é o caso da imparcialidade do órgão julgador, que será
+adiante analisada. Daí que a cláusula do devido processo legal acaba desempenhando um papel dúplice no sistema
+processual-constitucional brasileiro: trata-se de diretriz hermenêutica, que orienta e reforça os direitos processuais mais
+específicos; mas também de fonte de garantias adicionais que não foram explicitamente acolhidas pelo texto
+constitucional, mas que nem por isso deixam de ser salvaguardadas pela Lei Maior”. (SARMENTO, Daniel. Direito,
+Democracia e República. Escritos de Direito Constitucional. 1 ed. Belo Horizonte: Fórum, 2019, p. 409).
+
+[[pagina 20 | nativo]]
+
+nem sentenciado senão pela autoridade competente” e “não haverá juízo ou tribunal
+
+de exceção” (art. 5º, LIII e XXXVI, respectivamente).
+
+Por sua vez, dentre aqueles implícitos, está a imparcialidade do julgador,
+
+que, como elemento integrante do núcleo essencial do devido processo legal, também
+
+encontra sua aplicação na arbitragem42. Não importa se quem julgará é um juiz,
+
+desembargador, ministro ou árbitro. Todos, sem exceção, devem ser imparciais, uma
+
+vez que exercem função jurisdicional. Nem pode ser diferente, pois, como ensina DANIEL
+
+SARMENTO:
+
+“a imparcialidade do julgador é componente nuclear da ideia de processo justo.
+Afinal, não há dúvida de que ´processo devido´ é aquele conduzido por
+julgadores imparciais” e “a imparcialidade constitui verdadeiro ´pilar da justiça´
+(...) Deveras, quando o órgão julgador é parcial, revelando predisposição para
+decidir em favor de uma das partes, o processo perde a legitimidade e se torna
+fonte de arbitrariedades e injustiças”43.
+
+Igualmente, reconhecendo a imparcialidade da jurisdição (qualquer que
+
+seja ela – isto é, estatal ou arbitral) como um elemento mínimo do devido processo legal,
+
+é o entendimento desse C. STF:
+
+“A imparcialidade da jurisdição é exigência primária do princípio do devido
+processo legal, entendido como justo processo da lei, na medida em que não
+pode haver processo que, conquanto legal ou oriundo da lei, como deve ser, seja
+também justo — como postula a Constituição da República — sem o caráter
+imparcial da jurisdição”.44
+
+Contudo, é importante ter em vista que, na arbitragem, o devido processo
+
+legal, o juiz natural e a imparcialidade do julgador se traduzem justamente no exercício
+
+42 Nas palavras de José Emilio Nunes Pinto, "A independência do árbitro como traço fundamental da arbitragem e,
+consequentemente, os mecanismos de preservação dessa independência ao longo de todo o procedimento arbitral,
+abrindo-se a oportunidade às partes para que assegurem essa independência mediante o exercício da impugnação e
+recusa do árbitro” (PINTO, José Emilio Nunes. Recusa e impugnação de árbitro. In WALD, Arnoldo (Coord.) Revista de
+Arbitragem e Mediação. Ano 4, nº. 15, out./dez.2007, p. 82).
+
+43 SARMENTO, Daniel. Direito, Democracia e República. Escritos de Direito Constitucional. 1 ed. Belo Horizonte: Fórum, 2019,
+p. 410.
+
+E o mesmo entendimento se estende aos estudiosos da jurisdição arbitral, senão vejamos:
+
+“o caráter da imparcialidade é inseparável do órgão da jurisdição”. (CINTRA, Antonio Carlos de Araújo; GRINOVER, Ada
+Pellegrini; DINAMARCO, Cândido Rangel. Teoria Geral do Processo, São Paulo: Malheiros, 2007, p. 58)
+
+“A parcialidade do julgador (qualquer julgador) torna inidôneo o processo (qualquer processo). Se não houver garantia
+para as partes de que o julgador seja equidistante em relação aos litigantes e indiferente quanto ao resultado do
+processo, não poderá haver justiça. Daí a natural preocupação do legislador em estabelecer também para o processo
+arbitral garantias relativas à imparcialidade do árbitro, determinando sejam afastados do exercício da função aqueles
+que possam estar comprometidos com interesse de parte”. (CARMONA, Carlos Alberto. Arbitragem e processo: um
+comentário à Lei no 9.307/96. 3. ed. São Paulo: Atlas, 2009, p. 297-298).
+
+44 STF, 2ª Turma, HC 94641, Relator Min. Joaquim Barbosa, j. 06.03.2009.
+
+[[pagina 21 | nativo]]
+
+do “dever de relevar”. Melhor dizendo, o dever de revelação é a expressão máxima do
+
+devido processo legal em matéria arbitral.
+
+Afinal, é por meio da revelação que aflora tudo aquilo que poderia gerar
+
+uma “dúvida justificada” às Partes, acerca da falta de independência ou parcialidade
+
+dos árbitros, de modo a (i) garantir que o procedimento será conduzido “sem inclinar a
+
+balança, ao longo do itinerário, para qualquer das partes”45; e (ii) conferir às Partes
+
+oportunidade de ratificar o voto de confiança no árbitro e na missão que lhe é
+
+confiada.
+
+Oportuno lembrar que na arbitragem, ao contrário do Poder Judiciário, os
+
+julgadores – árbitros – são escolhidos pelas Partes litigantes46. É ingenuidade cogitar que
+
+uma Parte indicará um árbitro que, no mínimo, não tenha simpatia pela sua tese,
+
+admiração pela Parte ou patrono etc.
+
+Dessa forma, não há como negar que as regras que compõe esse sensível
+
+e particular mecanismo de aferir a imparcialidade e a independência na arbitragem
+
+devem, necessária e rigorosamente, ser interpretadas em conformidade com os valores
+
+da CF. Caso contrário, serão inconstitucionais, afinal a arbitragem é parte do modelo
+
+constitucional de processo.
+
+Ainda assim, mesmo entre os magistrados, há uma indevida oscilação
+
+sobre a interpretação do dever de revelar e demais matérias relacionadas colocadas
+
+em debate. São vários precedentes que, ora para um lado, ora para o outro, têm dado
+
+soluções diferentes para problemas idênticos.
+
+Com efeito, a cada processo que é julgado, verifica-se definições,
+
+parâmetros e/ou resultados absolutamente discrepantes. Para piorar, por repetidas
+
+vezes (arrisca-se dizer, quase todas), essas decisões que têm sido proferidas são
+
+inconciliáveis entre si.
+
+45 BARBOSA MOREIRA, José Carlos. Reflexões sobre a imparcialidade do juiz. Doutrina ADCOAS nº. 254, jul. 1988, p. 258-
+259.
+
+46 Em casos de Tribunais Arbitrais compostos por 3 árbitros, rotineiramente, salvo raríssimas exceções, os coárbitros serão
+sempre indicados pelas Partes litigantes. E o árbitro presidente, por sua vez, indicado pelos coárbitros, mas usualmente
+com direitos de veto pelas parte sem relação a alguns nomes, pelo que as Partes, ainda com relação ao árbitro
+Presidente, também usualmente detém alguma participação.
+
+[[pagina 22 | nativo]]
+
+Naturalmente, esse quadro de constante incerteza – alimentado por
+
+manifestações díspares e decisões conflitantes – afeta o direito fundamental da
+
+segurança jurídica (artigo 5º, XXXVI), que impõe ao Estado (incluindo o próprio Poder
+
+Judiciário) o poder-dever de tutelar “a previsibilidade das condutas, a estabilidade das
+
+relações jurídicas e a proteção da confiança” de modo a garantir a “a paz de espírito
+
+e paz social”, conforme leciona em parecer o MIN. LUÍS ROBERTO BARROSO.47
+
+Além disso, essa insegurança cria problemas para os indivíduos
+
+diretamente envolvidos na arbitragem e para toda a sociedade. Isso porque:
+
+(i) é natural que aqueles que atuam como árbitros, preocupados com
+a importante missão que lhes é confiada, queiram ter certeza sobre tudo
+aquilo que deve ser revelado, para evitar futura anulação da sentença
+arbitral por ele proferida e manter incólume sua reputação;
+
+(ii) é igualmente natural que as Partes da arbitragem, ao socorrerem-
+se do Poder Judiciário, queiram ter previsibilidade (não podem ficar à
+mercê de interpretações individuais e isoladas sobre o escopo e aplicação
+do dever de revelação; e
+
+(iii) a indefinição sobre o conceito do dever de revelar, sua extensão e
+profundidade, gera dúvidas sobre a própria prática da arbitragem dentro
+do Brasil, o que, a médio ou longo prazo, tem o condão de prejudicar
+seriamente o instituto, podendo, inclusive, aniquilá-lo por completo caso
+não sejam tomadas providências necessárias.
+
+Por isso tudo, e dada a incontroversa relevância constitucional do dever
+
+de revelação, parece certo de que não há como prevalecer a pluralidade de soluções
+
+(que prevalece hoje) no lugar de uma única e adequada interpretação constitucional.
+
+Deve-se obter a consistência das deliberações judiciais, ainda que demande a
+
+intervenção desse C. STF, de modo a cessar a lesão ao preceito fundamental da
+
+segurança jurídica, como decidido outras vezes em casos similares:
+
+“A possibilidade de incongruências hermenêuticas e confusões jurisprudenciais
+decorrentes dos pronunciamentos de múltiplos órgãos pode configurar uma
+ameaça a preceito fundamental (pelo menos, ao da segurança jurídica), o que
+também está a recomendar uma leitura compreensiva da exigência aposta à lei
+da arguição, de modo a admitir a propositura da ação especial toda vez que uma
+definição imediata da controvérsia mostrar-se necessária para afastar aplicações
+
+47 BARROSO, Luís Roberto. Temas de Direito Constitucional. Volume VI. Rio de Janeiro: Renovar, 2009, p. 201.
+
+[[pagina 23 | nativo]]
+
+erráticas, tumultuárias ou incongruentes, que comprometam gravemente o
+princípio da segurança jurídica e a própria ideia de prestação judicial efetiva.
+
+Ademais, a ausência de definição da controvérsia - ou a própria decisão
+prolatada pelas instâncias judiciais - poderá ser a concretização da lesão a
+preceito fundamental. Em um sistema dotado de órgão de cúpula, que tem a
+missão de guarda da Constituição, a multiplicidade ou a diversidade de soluções
+pode constituir-se, por si só, em uma ameaça ao princípio constitucional da
+segurança jurídica e, por conseguinte, em uma autêntica lesão a preceito
+fundamental.”48
+
+De todo modo, para não ficar apenas na retórica49, o Autor demonstrará
+
+a seguir, a partir de alguns casos concretos e sem a intenção de ser exaustiva - vez que
+
+grande parte dos processos discutindo arbitragem tramita em segredo de justiça - que
+
+nem mesmo o Poder Judiciário, a quem caberia corrigir arbitrariedades ocorridas dentro
+
+de uma arbitragem (em sede de ação anulatória), tem conseguido harmonizar a
+
+jurisprudência sobre quais seriam os standards para o dever de revelar e a interpretação
+
+correta do artigo 14 da LArb, colocando, a mais não poder, em risco os preceitos
+
+fundamentais já mencionados.
+
+Como se verá, entre os principais pontos controvertidos, as decisões
+
+judiciais têm tido dificuldade de definir com precisão e de forma apropriada (muito
+
+menos à luz dos preceitos constitucionais tidos como violados nesta ADPF): (i) a extensão
+
+e profundidade do “dever de revelar”; (ii) a “dúvida justificada” e sua aplicação
+
+prática, (iii) a não taxatividade das regras do CPC de suspeição e impedimento (de
+
+juízes) para o exame da higidez da atuação de determinado indivíduo como árbitro;
+
+(iv) a não aplicação automática de diretrizes de soft law; e (v) o momento adequado
+
+para se suscitar a impossibilidade da atuação de um árbitro. Vejamos abaixo, um a um,
+
+em maiores detalhes.
+
+4.1 DO CONCEITO E DOS CONTORNOS DO “DEVER DE REVELAR”
+
+As instâncias inferiores têm discordado sobre a quem compete o
+
+dever/ônus no dever de revelação. Substancialmente, as 25 decisões judiciais que
+
+foram identificadas até agora sobre o tema (Doc. 03) – lembrando que parte expressiva
+
+48 STF, Tribunal Pleno, ADPF 33/PA, Relator Min. Gilmar Mendes, j. 07.12.2005.
+
+49 Acompanham esta petição inicial os precedentes dos quais foram extraídos breves trechos transcritos nas próximas
+páginas, com a intenção de demonstrar a divergência instaurada na jurisprudência nacional.
+
+[[pagina 24 | nativo]]
+
+dos processos que envolvem arbitragem corre em segredo de justiça – têm variado
+
+entre duas soluções antagônicas:
+
+(i) Para alguns (20 decisões), o dever de revelação é do árbitro, que deve
+não apenas revelar espontaneamente todas as informações que aos olhos
+das partes possam, de alguma forma, comprometer a confiança depositada
+pelas Partes, como também responder sem omissões, ressalvas e delongas
+todos os questionamentos que lhe forem formulados pelas Partes em sede de
+pedido de esclarecimentos. Confira-se alguns exemplos:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - AUTOS Nº. 0061845-
+55.2015.8.13.0071 (Doc. 03-A)
+“A confiança da parte depositada na pessoa do árbitro representa a certeza
+que este terá independência para julgar com imparcialidade, posto que a
+independência é um pré-requisito da imparcialidade.
+
+Para garantir a verificação deste atributo indispensável à expedição de um
+julgamento justo (independência e imparcialidade) a lei 9.307, criou um sistema
+de aferição desses princípios, por meio do dever de revelação do árbitro.
+
+Assim a pessoa indicada a funcionar como árbitro deve perquirir sobre quem
+são as partes, seus vínculos societários, relações comerciais ou empresariais que
+possam denotar dependência funcional ou econômica.
+
+O dever de revelação se presta a demonstrar a inexistência de liames de
+natureza social (amigo íntimo ou inimigo figadal), financeira, comercial e de
+parentesco entre os árbitros e as partes.”
+
+SUPERIOR TRIBUNAL DE JUSTIÇA - AUTOS Nº. SE 120/EX (Doc. 03-B)
+“O art. 14 da mesma lei dispõe que as hipóteses de suspeição e impedimento
+são incidentes ao juiz, mas vai além, preceituando no seu § 1º o chamado
+dever de revelação, segundo o qual aquela pessoa que for indicada para ser
+árbitro deve revelar todo fato que possa gerar dúvidas sobre sua
+imparcialidade e independência.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 2168253-
+82.2021.8.26.0000 (Doc. 03-C)
+“No caso destes, a confiança na avaliação equidistante das pretensões dos
+litigantes depende, intrinsecamente, das informações que, de antemão,
+oferecem àqueles, que, de seu turno, possam interferir livremente em sua
+contratação, indicação ou rejeição. De efeito, Luiz Olavo Baptista anota que
+se obrigam (se) também os árbitros a informar sobre todas as circunstâncias
+que possam afetar a sua imparcialidade ou independência, bem como
+possam representar obstáculos ao curso normal da arbitragem (por exemplo,
+
+[[pagina 25 | nativo]]
+
+excesso de compromissos). E Natália Mizrahi Lamas acrescenta haver
+legislações que referem apenas imparcialidade, outras que se limitam ao da
+independência como princípios que devem reger a atuação dos árbitros em
+geral, apontando que este último deve ser encarado de forma mais objetiva,
+no sentido de não haver relações ou conexões entre o árbitro ou a parte e seus
+advogados, ou, ainda, entre o árbitro e o objeto da disputa, aditando, em
+seguida, que ‘É necessário revelar, antes da aceitação da função, qualquer
+fato que denote dúvida justificada quanto à sua imparcialidade e
+independência (LArb, art. 14, § 1º). Além de o árbitro ter esse dever no início da
+arbitragem, deve continuar a exercê-lo ao longo de todo o processo arbitral,
+trazendo ao conhecimento das partes os fatos que possam denotar dúvida
+justificada”.
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1055194-
+66.2017.8.26.0100 (Doc. 03-D)
+“Além disso, asseverou a sentença guerreada: “(...) quanto aos árbitros, por
+não serem agentes estatais e serem apontados pelas próprias partes, deve-se
+ter um rigor ainda maior com a obrigação de informação sobre eventuais
+conflitos de interesse (...) Pouco importa que os advogados da autora já
+conhecessem o Sr. Walter Polido, considerando que se trata de figura
+proeminente na sua área de atuação. Pouco importa, ainda, que seus
+advogados já tenham tido contato profissional com o Sr. Walter Polido há mais
+de 10 anos, quando ele ainda era funcionário da Munich. Não se pode
+simplesmente presumir a ciência de tal fato como escusa para o dever do
+árbitro de informar sua atuação profissional e a presença de qualquer
+circunstância que seja potencialmente motivo de suspeição ou que gere
+algum conflito de interesse. O dever de informar (disclousure) é dos árbitros”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1008312-
+12.2018.8.26.0100 (Doc. 03-E)
+“Não se desconhece que ‘as pessoas indicadas para funcionar como árbitro
+têm o dever de revelar, antes da aceitação da função, qualquer fato que
+denote dúvida justificada quanto à sua imparcialidade e independência’, nos
+moldes do §1º do artigo 14 da Lei de regência. ‘Muito mais do que as causas
+de impedimento e suspeição previstas no Código de Processo Civil, cabe ao
+indicado expor abertamente acontecimentos pessoais e profissionais
+envolvendo as partes e o conflito, que aos olhos dos interessados possam gerar
+alguma dúvida quanto à imparcialidade e independência.’”
+
+(ii) Para outros (5 decisões), no sentido oposto, a revelação não seria um
+dever exclusivo do árbitro, mas, sim, um ônus compartilhado, uma vez que
+deveriam as Partes investigar em paralelo se determinado árbitro poderia ou
+não atuar em sua arbitragem, se haveria ou não imparcialidade e
+independência. Confira-se exemplos:
+
+[[pagina 26 | nativo]]
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 2291255-
+89.2021.8.26.0000 (Doc. 03-F)
+“Mérito recursal Questão de fundo aqui discutida que já foi objeto de sentença
+proferida nos autos da ação declaratória de nulidade de sentença arbitral
+proposta pelos agravantes contra a agravada, a qual foi julgada
+improcedente Incumbe às partes o dever ético de investigar eventuais causas
+de impedimento ou suspeição do árbitro e argui-las na primeira oportunidade
+que tiver de se manifestar, após a instituição da arbitragem (art. 20 da LA)
+Ausência de demonstração pelos agravantes de qualquer risco de grave dano
+de difícil ou incerta reparação, além de não ter garantido o juízo com penhora,
+caução ou depósito suficientes Inteligência do art. 525, §6º, do CPC RECURSO
+IMPROVIDO”.
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - AUTOS Nº. 0248041-
+79.2018.8.19.0001 (Doc. 03-G)
+“O dever de revelação atribuído aos árbitros está obviamente vinculado à
+transparência da arbitragem porquanto não pode esta prosseguir sem que as
+partes conheçam eventual fato capaz de pôr em dúvida a imparcialidade e
+independência daqueles.
+
+Na espécie, todavia, a ocorrência em questão, narrada da dita delação, se
+revelou contemporaneamente para os árbitros e para a apelante, razão pela
+qual não se pode dizer que o silêncio dos primeiros tenha retirado da segunda
+a oportunidade de conhecer fato o qual, na ocasião, lhe teria acendido a luz
+vermelha para questionar a lisura da arbitragem.
+
+Assim é que, à mingua de qualquer efeito prático da ausência do ato formal
+da não revelação eis que, repita-se, o fato destacado era público e do
+conhecimento da apelante, não há como se reconhecer, neste contexto,
+causa justificativa para a anulação da sentença arbitral.”
+
+TRIBUNAL DE JUSTIÇA DO DISTRITO FEDERAL - AUTOS Nº. 0706216-
+40.2019.8.07.0020 (Doc. 03-H)
+“...Há que registrar que o prazo decadencial não terá outro marco senão o
+previsto em lei, tendo em vista que os fundamentos do pedido anulatório, se
+existiam, já habitavam o mundo jurídico desde a data da indicação do árbitro.
+Fato novo é aquele superveniente ao ajuizamento da ação judicial capaz de
+produzir efeitos diretos sobre ela. Portanto, desprovida de fundamento é
+alegação de desconhecimento de eventuais impedimentos, posto que na data
+em que as partes (ambas) indicaram o árbitro se não tinham conhecimento,
+NADA OS IMPEDIA DE TÊ-LOS. Não se trata de fato novo, apenas de fato não
+mencionado pela eventual parte interessada, o caso a Autora.”
+
+[[pagina 27 | nativo]]
+
+Com todo o respeito, na visão do Autor é o item (i) acima que melhor
+
+recepciona a intenção do legislador na LArb e aos valores constitucionais e que, por
+
+isso, deve prevalecer ao final desta ADPF. Os motivos que levam à essa conclusão são
+
+bem simples:
+
+• Como explicado no tópico acima, o dever de revelar tem natureza
+constitucional. É um consectário lógico do direito fundamental do devido
+processo legal na arbitragem e, por isso, também é parte estruturante do
+próprio Estado Democrático de Direito brasileiro;
+
+• A LArb estabelece que “Pode ser árbitro qualquer pessoa capaz e
+que tenha a confiança das partes” (art. 13, caput), que deverá “proceder
+com imparcialidade, independência, competência, diligência e
+discrição” (art. 13, § 6º). Dessa forma, não é difícil notar que o processo de
+escolha dos árbitros decorre intrinsecamente da confiança das Partes;
+
+o O dever de revelar é que propicia a confiança na
+arbitragem. Dada a incontroversa relevância da tutela da
+confiança na via arbitral, os árbitros, diferentemente daquilo que
+acontece com o juiz estatal, estão sujeitos ao exercício do dever de
+revelação. É obrigação dos árbitros “desnudar, revelar e indicar
+qualquer situação capaz de comprometer a sua isenção ou que
+lhe impeça de atuar no processo arbitral (art. 14, § 1º)”. Afinal, a
+confiança depositada pelas Partes ao indicar os árbitros somente
+poderá ser ratificada após um exame por completo de todas as
+circunstâncias existentes à época da nomeação.
+
+o O propósito do dever de revelar do árbitro é, portanto, dar às
+partes a segurança e o conforto sobre aquele investido de poderes
+para solucionar a sua disputa. Espera-se que, com o exercício do
+dever de revelação, as Partes tenham a certeza de que fizeram a
+escolha certa, decidiram por um árbitro que será imparcial e
+independente.
+
+• Em matéria de arbitragem, o dever de revelação é o único
+mecanismo adequado para assegurar a independência e a
+imparcialidade de um árbitro. Exerce, dessa forma, um papel
+determinante em todo e qualquer procedimento arbitral50;
+
+• Desde sua promulgação, a LArb não apenas elencou o
+compromisso dos árbitros com sua imparcialidade e independência,
+
+50 Sobre a importância do dever de revelar na arbitragem, trazemos a lição de Pedro Batista Martins, “não houvesse o
+duty of disclosure, a arbitragem estaria fadada ao insucesso. Ao fracasso. Ela não sobreviveria; sequer existiria” (MARTINS,
+Pedro A. Batista. “Dever de revelar do árbitro”, in Revista de Arbitragem e Mediação, vol. 36/2013, p. 219-229).
+
+[[pagina 28 | nativo]]
+
+como lhe incumbiu o ônus do dever de revelar sem fazer qualquer tipo de
+ressalva ou exceção. Pode-se dizer, portanto, que o legislador fez a opção
+legislativa pelo dever de revelar como o único mecanismo apto a garantir
+que um árbitro seja, de fato, imparcial e independente;
+
+o Por ocasião da recente reforma da LArb no ano de 2015, o
+legislador novamente optou por manter o dever de revelar da
+forma como havia definido ao promulgar a LArb. Assim, se havia
+alguma dúvida sobre qual era a vontade do legislador, essa restou
+superada naquela ocasião;
+
+o Sendo inconteste a vontade do legislador – único
+competente – não há nem como, nem porque o Poder Judiciário
+interferir na esfera exclusiva do Poder Legislativo. As decisões que
+compartilham o dever de revelação do árbitro como um ônus de
+investigar da parte estão, em última análise, usurpando a
+competência indevida e violando o princípio constitucional da
+separação dos poderes.
+
+• O dever de revelação, da forma como adotado na LArb, reflete
+aquilo tradicionalmente feito na maior parte do mundo. Significa dizer que
+o dever de revelar é exclusivamente do árbitro (e não o dever de investigar
+da parte), o que torna a realização de negócios no Brasil mais atraente
+aos estrangeiros, fomentando o desenvolvimento nacional e o comércio
+internacional;
+
+• De acordo com os Regulamentos das principais Câmaras de
+Arbitragem em atividade hoje no Brasil, cabe ao árbitro revelar, e não à
+parte investigar. Essa revelação, vale dizer, deve ser a mais transparente e
+abrangente possível, sem omissões, meias-palavras, etc.
+
+o Tamanha é a relevância do dever de revelação que,
+qualquer que seja a instituição arbitral ou até em arbitragens ad
+hoc, a boa prática arbitral tem recomendado que conste
+expressamente no termo de arbitragem uma declaração do árbitro
+no sentido de que cumpriu com o dever de revelar e não possui
+nenhum tipo de impedimento para sua atuação.
+
+• Naturalmente, é o árbitro que conhece todas as circunstâncias que
+lhe dizem respeito e que poderiam gerar dúvida justificada sobre sua
+imparcialidade e suspeição aos olhos das partes. Sendo assim, não tem
+qualquer cabimento se transmutar o dever de revelar, que é do árbitro,
+em um absurdo dever da Parte de conhecer fatos relacionados à vida
+
+[[pagina 29 | nativo]]
+
+alheia. Estar-se-ia impondo à Parte uma obrigação excessivamente
+onerosa ou até absolutamente impossível51;
+
+o A imposição de um dever de investigar da parte – dever esse
+que não encontra previsão legal - vai na contramão da própria
+essência do dever de revelação.
+
+o Há um forte imperativo econômico por trás da imposição do
+dever de revelação para o árbitro (e não de um dever de
+investigação à Parte): na relação entre Partes e árbitros, há uma
+evidente assimetria de informações. E quanto maior for essa
+assimetria, maiores serão os custos de transação para as Partes
+obterem dados e informações que os árbitros já têm à disposição.
+Ou seja, é muito menos custoso para o árbitro revelar aquilo que já
+sabe, do que é para a Parte investigar52.
+
+o O aumento dos custos de transação na arbitragem, por
+conta da criação de um dever de investigar pelas Partes, tornará
+sua prática ainda mais cara e elitizada, de modo que se perderá
+algumas de suas vantagens, tal como o desafogamento do já
+sobrecarregado Poder Judiciário.
+
+• A doutrina reconhece que o dever de revelar funciona como um
+dever pré-contratual do árbitro, cujo bem jurídico visado é o de um
+“consentimento informado”. Não há, por isso, espaço para oportunismos,
+associado ao fornecimento incompleto ou distorcido de informações pelo
+árbitro, até porque, a revelação feita pelo árbitro goza de presunção de
+
+51 “Nesse ponto, tratando antes do dever de revelar o que é efetiva ou provavelmente desconhecido pelas partes, e em
+linha com o que se expôs sobre o cenário de assimetria de informações na relação árbitro-parte, não se pode ignorar
+que muitas vezes é muito mais simples ao árbitro que revele o fato do que exija que as partes o busquem sozinhas. E isso,
+porquanto o árbitro, quando munido de dados suficientes sobre as partes e seus advogados – incluídos sócios, empresas
+holdings e afiliadas, dentre outros –, está em melhores condições de fornecer as informações às partes, ainda que tenha
+dúvidas sobre a publicidade ou o seu efetivo ou presumido conhecimento. Afinal, quem senão a própria pessoa é a mais
+indicada para prover informações sobre si, em vez de exigir de terceiros que o façam?” (MARQUES, Ricardo Dalmaso. O
+dever de revelação do árbitro. São Paulo: Almedina, 2018. p. 200-211).
+
+“Muito se discute se, suplementarmente ao dever de revelação dos árbitros, as partes também têm o dever de investigar
+o árbitro, de forma a impugnar fatos públicos e notórios, mesmo que o árbitro não os tenha revelado. Com o devido
+respeito, consideramos que o foco desse debate está distorcido. Pelo art. 14, § 1º, da Lei de Arbitragem, o árbitro está
+sujeito ao dever de revelação, independentemente ou não de o fato ser público ou notório. Na prática, o árbitro
+normalmente não divulga fato público ou notório por ele não desencadear dúvida justificável sobre sua independência
+e imparcialidade – e se assim o faz, está certo. Por outro lado, se o fato for público ou notório e provoca dúvidas
+justificáveis, o árbitro violou seu dever de revelação se não o comunicou.” (MUNIZ, Joaquim de Paiva; SILVEIRA, Bruna
+Alcino Marcondes da. 11. Arbitragens coletivas e interpretação estrita das regras de independência e imparcialidade
+para a nomeação dos árbitros. In. MONTEIRO, André Luís; PEREIRA, Guilherme Setoguti J., BENEDUZI, Renato. Arbitragem
+coletiva societária. 1. ed. São Paulo: Thomson Reuters Brasil, 2021. E-book. RB-11.2. Disponível em
+https://proview.thomsonreuters.com/launchapp/title/rt/monografias/259440343/v1/page/RB-11.2).
+
+52 “Assim, verificado este problema gerado pela assimetria, a regulação costuma intervir determinando a expedição de
+normas sobre deveres de revelação. Na arbitragem, o dever de revelação é importante, pois, as partes sem conhecer
+eventuais conflitos podem ter dificuldade de avaliar a confiança no árbitro” (MELMAN, Ana Carolina. Análise Econômica
+no Processo Civil Brasileiro, Limites e Possibilidades. Rio de Janeiro: Lumen Juris, 2019, p. 65).
+
+[[pagina 30 | nativo]]
+
+veracidade. As Partes assumem que as informações trazidas à tona são
+fidedignas e não têm nem o dever de investigar e nem o dever de duvidar.
+
+Por esses motivos, o Autor confia que esta ADPF será julgada procedente
+
+para reconhecer que a constitucionalidade é no sentido de que a revelação é um
+
+dever do árbitro (e não das Partes). Porém, ainda que não seja essa a solução ao cabo,
+
+pede-se que esse C. STF se pronuncie expressamente sobre a matéria e parametrize a
+
+interpretação judicial do “dever de revelar”.
+
+4.2 DO CONCEITO E DOS CONTORNOS DA “DÚVIDA JUSTIFICADA”. A CORRETA PERSPECTIVA
+PARA ESSA ANÁLISE.
+
+A segunda divergência de interpretação a ser solucionada à luz da CF diz
+
+respeito ao conceito e contornos do que seja “dúvida justificada” enquanto
+
+fundamento do dever de revelar. De forma precisa, divergem as 14 decisões judiciais
+
+identificadas nas instâncias inferiores (Doc. 04) sobre sob qual perspectiva – do árbitro
+
+ou das Partes - deve ser aferida a tal dúvida justificada. Novamente, o que se vê são
+
+dois entendimentos diametralmente opostos:
+
+(i) Para uma parte dos magistrados (11 decisões), os árbitros devem
+revelar, antes da aceitação da função, qualquer fato que denote uma
+dúvida justificada quanto à sua imparcialidade e independência sempre
+aos olhos das Partes. Confira-se exemplos:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - AUTOS Nº. 0005808-
+38.2018.8.16.0194 (Doc. 04-A)
+“considerando o ponto fulcral da controvérsia – parcialidade dos árbitros
+julgadores – destaca-se que as pessoas indicadas para funcionar como árbitro
+têm o dever de revelar, antes da aceitação da função, qualquer fato que
+denote dúvida justificada quanto à sua imparcialidade e independência.
+
+Note-se que a imparcialidade da função do árbitro julgador se verifica por
+meio de critérios objetivos, que segundo o art. 14, §1º da Lei de regência
+determina que “As pessoas indicadas para funcionar como
+árbitro têm o dever de revelar, antes da aceitação da função, qualquer fato
+que denote dúvida justificada quanto à sua imparcialidade e independência.”
+
+Segundo Ana Tereza Basilio e Nicole Contardo Pereira Aló, em seu artigo “O
+impedimento e a suspeição de árbitros”, veiculado no site Consultor Jurídico
+“Por dúvida justificada, entendem-se os fatos ou circunstâncias que podem
+provocar desconfiança aos olhos das partes sobre a independência ou
+
+[[pagina 31 | nativo]]
+
+imparcialidade dos árbitros. Em razão da complexidade da matéria, a
+International Bar Association editou guidelines que orientam quais situações
+devem ser reveladas, de acordo com o nível de influência dessas
+circunstâncias na confiança depositada no julgador. Conquanto as diretrizes
+perfaçam uma importante orientação para identificar e avaliar situações de
+potencial conflito de interesses, trata-se de mera soft law. É certo que o dever
+de revelação exige do árbitro uma avaliação isenta daquilo que, do ponto de
+vista de uma terceira pessoa razoável, seria digno de ser notado por ser capaz
+de abalar a confiança necessária no julgador.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 0004881-
+68.2006.8.26.0597 (Doc. 04-B)
+Em que pese a amplitude da expressão “dúvida justificada”, o certo é que
+deve haver indicação das situações onde “pela maior ou menor gravidade
+dos fatos, a confiança da parte no indicado ficará comprometida”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1056400-
+47.2019.8.26.0100 (Doc. 04-C)
+“O árbitro é um particular e o vínculo derivado do contrato de investidura
+ostenta um caráter “intuitu personae”, de maneira que a suspeição pode e
+deve ser avaliada subjetivamente, como resultado da perda de confiança
+ensejada pela violação de um dos deveres de conduta peculiares à função.
+
+A exigência de estrito cumprimento desse dever de revelação deve ser
+máxima. Toda e qualquer informação de caráter pessoal ou profissional capaz
+de gerar dúvida na parte quanto à imparcialidade e integridade do árbitro
+deve ser comunicada imediatamente, sem que persista direta correlação da
+suspeição gerada pela omissão com as hipóteses previstas na legislação
+processual comum.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1008312-
+12.2018.8.26.0100 (Doc. 04-D)
+“Não se desconhece que ‘as pessoas indicadas para funcionar como árbitro
+têm o dever de revelar, antes da aceitação da função, qualquer fato que
+denote dúvida justificada quanto à sua imparcialidade e independência’, nos
+moldes do §1º do artigo 14 da Lei de regência. ‘Muito mais do que as causas
+de impedimento e suspeição previstas no Código de Processo Civil, cabe ao
+indicado expor abertamente acontecimentos pessoais e profissionais
+envolvendo as partes e o conflito, que aos olhos dos interessados possam gerar
+alguma dúvida quanto à imparcialidade e independência.’”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 2166470-
+26.2019.8.26.0000 (Doc. 04-E)
+“Ao contrário do que ocorre quando é apreciada uma hipótese de
+
+[[pagina 32 | nativo]]
+
+impedimento (o que foi objeto da Apelação 1020649-67.2017.8.26.0100, de
+minha relatoria), em que a violação das regras regulamentares e legais
+atinentes aos requisitos individuais para a nomeação e atuação como árbitro
+é analisada sob um ponto de vista estritamente objetivo, a alegação de
+suspeição do árbitro conduz a uma problemática muito mais delicada.
+
+A confiança das partes, tal qual previsto no artigo 13, ‘caput’ da Lei 9.307/1996,
+constitui um dos dois requisitos primordiais para a nomeação de um árbitro, o
+que se conjuga com o chamado dever de revelação, que proíbe, de início, a
+omissão e retenção de qualquer dado tido como concretamente relevante
+para o exercício da escolha (artigo 14, §1º da mesma Lei 9.307), mas, também,
+impõe total transparência mesmo no curso do trâmite do procedimento
+arbitral, forçando seja trazida a notícia imediata de qualquer fato com o
+potencial de abalar a crença na imparcialidade independência daquele
+incumbido de solucionar o litígio posto pelas partes (Francisco José Cahali,
+Curso de Arbitragem, 5ª ed., RT, São Paulo, 2015, pp.220-1).
+
+O árbitro é um particular e o vínculo derivado do contrato de investidura
+ostenta um caráter ‘intuitu personae’, de maneira que a suspeição pode e
+deve ser avaliada subjetivamente, como resultado da perda de confiança
+ensejada pela violação de um dos deveres de conduta peculiares à função.
+
+A exigência de estrito cumprimento desse dever de revelação deve ser
+máxima. Toda e qualquer informação de caráter pessoal ou profissional capaz
+de gerar dúvida na parte quanto à imparcialidade e integridade do árbitro
+deve ser comunicada imediatamente, sem que persista direta correlação da
+suspeição gerada pela omissão com as hipóteses previstas na legislação
+processual comum.’”
+
+(ii) Para a outra parte dos magistrados (3 decisões), na contramão, a
+dúvida justificada que demanda a revelação de determinado fato
+deveria ser avaliada e identificada aos olhos dos próprios árbitros. Confira-
+se exemplos nesse sentido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - AUTOS Nº. 0434147-
+23.2016.8.19.0001 (Doc. 04-G)
+“Diante deste quadro, o citado árbitro, compreensivelmente, não identificou
+nesta prestação de serviço ocorrida já no final da arbitragem, fato relevante
+capaz de trazer “dúvida justificada” (art. 14, § 1º da Lei de Arbitragem) quanto
+à sua imparcialidade no julgamento do litígio arbitral, quanto mais quando a
+relação dos integrantes da área imobiliária de seu escritório com a vendedora,
+parte autora na arbitragem, se restringiu a contatos protocolares sobre a
+regularidade documental para segurança da operação, em representação
+dos interesses exclusivos de sua cliente BROOKFIELD.”
+
+[[pagina 33 | nativo]]
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1027596-
+98.2021.8.26.0100 (Doc. 04-H)
+“O contexto fático analisado, repito, não se mostrou concretamente relevante
+a justificar interpretação diversa, afirmação que se faz a partir de critérios
+objetivos sobre o dever de revelação, o qual, da mesma forma, é aqui
+reconhecido em seu grau máximo, mas que não significa tê-lo como dever de
+revelar dados sobre os quais não haveria justificada dúvida ao tempo de sua
+indicação e exercício do dever de revelação, assim como durante o trâmite
+do procedimento arbitral.”
+
+“Neste ponto, reforço que por parte do árbitro, como regra geral, há de se
+considerar que caso tenha dúvida sobre a relevância concreta do fato a ser
+revelado ou se poderia causar dúvida justificada às partes, seu dever de
+revelação deve prevalecer. Ocorre que, no caso de Anderson Schreiber, não
+era razoável exigir tivesse sequer tal dúvida, por força de tudo que foi dito
+acima quanto aos fatos que lhe são relacionados pela autora.”
+
+“O conceito de dever máximo de revelação, conforme apontado no referido
+julgado, não se perca de vista, está diretamente relacionado à prestação de
+toda e qualquer informação capaz de gerar dúvida na parte quanto à
+imparcialidade e integridade do árbitro, ou seja, a proibição é de omissão ou
+retenção de qualquer dado tido como concretamente relevante para o
+exercício da função de árbitro. E, por certo, nem todos os dados podem ser
+considerados concretamente relevantes, mesmo que se reconheça que o
+dever de revelação é objetivo.”
+
+Sem nenhuma intenção de tentar induzir esse C. STF, menciona-se, apenas
+
+para referência, que o respeitoso entendimento do Autor é no sentido de que a
+
+interpretação dada no item (i) acima seria aquela que melhor se coaduna aos valores
+
+constitucionais que esta ADPF busca preservar.
+
+Parte dos motivos relevantes já foram expostos no tópico anterior que
+
+tratou do dever de revelar e, por isso, deixam de ser repetidos em detalhes. Vale apenas
+
+reforçar de maneira geral que:
+
+• A aferição da imparcialidade e independência do árbitro deve ser
+feita a partir de critérios objetivos e, por essa razão, o fato que gera a
+dúvida justificada deve ser sempre analisado aos olhos da Parte. Eventual
+percepção subjetiva que o próprio árbitro tenha sobre aquela ou outra
+circunstância, bem como sua opinião pessoal, são critérios inadequados
+(para não dizer irrelevantes) para fundamentar o exercício do dever de
+revelação;
+
+[[pagina 34 | nativo]]
+
+• É da própria essência do dever de revelar dar todas as condições
+para permitir que as próprias Partes façam um controle da isenção do
+árbitro em relação ao conflito que lhe será confiado. Apenas cientes de
+todas as circunstâncias que permeiam o árbitro e que poderiam colocar
+em xeque sua imparcialidade ou independência, poderão as Partes
+escolher plenamente entre manter a nomeação ou, querendo, impugná-
+lo53;
+
+• Como o conceito de dúvida justificável compreende qualquer
+circunstância que, aos olhos das partes, possa comprometer a
+imparcialidade e independência do potencial árbitro, é certo que
+quaisquer dúvidas acerca da relevância ou não de um determinado fato
+devem ser dirimidas em favor da sua divulgação54.
+
+o Enquanto a divulgação do fato, como regra, não gera
+qualquer prejuízo ao árbitro, a falta de sua divulgação, na
+contramão, coloca todo o procedimento arbitral em risco. Também
+por isso, havendo dúvida, recomenda-se que o árbitro em potencial
+peque pelo excesso e traga à ciência das Partes o fato ou
+informação que não sabia dizer, com absoluta certeza, ser
+relevante ou não para afastar sua atuação na função. Em outras
+palavras: pelo sim, pelo não, o árbitro deve informar. Ou melhor,
+como aponta RICARDO NEGRÃO: “in dubio pro revelare”55.
+
+o A omissão quanto a um fato tem como consectário lógico
+uma presunção de parcialidade do julgador. O raciocínio é bem
+simples: se o árbitro acredita fielmente que se trata de circunstância
+que não abala sua imparcialidade e independência, não há o
+porquê deixar de divulgá-la para as Partes. Na contramão, quando
+
+53 Nas palavras de Francisco José Cahali: “Muito mais do que as causas de impedimento e suspeição previstas no Código
+de Processo Civil, cabe ao indicado expor abertamente acontecimentos pessoais e profissionais envolvendo as partes e
+o conflito, que aos olhos dos interessados possam gerar alguma dúvida quanto à imparcialidade e independência. A
+amplitude da expressão dúvida justificada, enquanto conceito vago, dá margem a uma extensa zona cinzenta. Mas
+diante da ambiguidade do texto, aliás, adequada às circunstâncias, o desprendimento nas informações será sempre
+salutar. O objetivo da regra é nobre: oferecer às partes o mais amplo conforto e segurança na aceitação do árbitro”.
+(CAHALI, Francisco José. Curso de Arbitragem: mediação; conciliação; tribunal multiportas, p. 234/235).
+
+54 Nesse sentido, leciona Carlos Alberto Carmona: “Como precaução, é conveniente que o árbitro, antes de firmar
+qualquer termo de independência e antes de aceitar o encargo, informe as partes – na medida do possível – de todo e
+qualquer fato que possa, ainda que remotamente, suscitar dúvida sobre sua capacidade de julgar com absoluta
+isenção, ciente de que nem todos os fatos que revelará podem dar causa ao seu afastamento, mas a ausência de
+revelação destes fatos pode provocar mal-estar decorrente de eventual suspeita de reserva mental, criando base (ainda
+que infundada) para impugnação e recusa”. (CARMONA, Carlos Alberto. Arbitragem e processo: um comentário à Lei
+no 9.307/96. 3. ed. São Paulo: Atlas, 2009, p. 255).
+
+55 Palestra ministrada para webinar do CIARB Brasil, “Arbitragem em juízo: dever de revelação”, em 02.06.2022. Naquela
+ocasião, o Desembargador do E. Tribunal de Justiça de São Paulo também expôs que, em sua opinião, o PL 3.293, que
+propõe alterar “qualquer fato que denote dúvida justificada” para “qualquer fato que denote dúvida mínima”, alinha-
+se ao vetor ético de conferir “transparência total” nas arbitragens.
+
+[[pagina 35 | nativo]]
+
+o potencial árbitro deixa de fazê-lo, por qualquer razão, contribui
+para as dúvidas acerca de sua imparcialidade56;
+
+o Ainda, quando o árbitro deliberadamente deixa de revelar
+fatos que ensejam dúvidas fundadas sobre sua imparcialidade ou
+independência aos olhos da parte, retira dessas últimas a
+possibilidade de analisarem, à luz das circunstâncias reveladoras no
+caso concreto, se continuam a confiá-lo na missão de proferir a
+sentença arbitral. Com isso, a um só tempo, frustra-se a tutela da
+confiança das Partes, retira-lhes a garantia constitucional de
+escolher seu julgador e dá ensejo a uma presunção de
+parcialidade.
+
+• Mais importante: não pode o árbitro ser juiz das suas próprias razões.
+Não pode ele ser o filtro daquilo que ele entende por causar ou não a
+dúvida justificada prevista da LArb. Destarte pois partir-se-ia do
+subjetivismo do árbitro, cada qual com a sua noção do que seria, aos seus
+olhos, uma dúvida justificada para fins de revelação. Se assim não fosse,
+além de incentivar a prática de reserva de informação por parte dos
+árbitros (que deixariam de revelar situações para manterem-se no cargo),
+estar-se-ia relegando a interpretação do conceito e do que se deve
+revelar ao subjetivismo de cada indicado, propiciando ambiente de total
+insegurança.
+
+• Se permitido o subjetivismo do árbitro em oposição ao critério dos
+“olhos das partes”, permitida estará também a atuação múltipla e
+simultânea do árbitro em diversas searas (tais como advogado,
+parecerista, consultor, etc.) de forma ilimitada e desordenada, criando um
+ambiente fértil para o conflito de interesses em relação aos casos em que
+for árbitro. Essa conclusão é lógica a partir de uma análise dos interesses
+pessoais do árbitro, que sempre buscará maximizar os seus ganhos. É por
+isso que a definição dos “olhos das partes” como critério de aferição para
+a “dúvida justificada” parece criar os melhores incentivos em prol da
+independência e imparcialidade dos árbitros, estabelecendo-se
+procedimentos para o necessário e obrigatório dever de revelação de
+modo a evitar essa atuação múltipla e desornada.
+
+o A esse respeito, cita-se que, embora parte da Associação dos
+Magistrados Brasileiros (AMB) entenda que um magistrado poderia
+atuar como árbitro, a maior parte restringe a atividade da
+magistratura, entendendo ser isso incabível. Ora, em sendo o árbitro
+Juiz de fato e de direito, se os magistrados não podem exercer a
+
+56 A propósito, Carlos Elias já mencionava que o dever de revelação equivale à “demonstração de que o árbitro não
+tem nada a ocultar ou esconder” (ELIAS, Carlos. O Árbitro. In: LEVY, Daniel; PEREIRA, Guilherme Setoguti (coord.). Curso
+de arbitragem. 1ª ed. São Paulo: Thomson Reuters Brasil, 2018, p. 157).
+
+[[pagina 36 | nativo]]
+
+função de árbitro, parece ser cabível, no mínimo, que o dever de
+revelação dos árbitros englobe sua atuação como parecerista,
+consultor ou advogado de quaisquer das partes do litígio, dos
+escritórios de advocacia que as representam, de seus sócios, ou
+mesmo atuações em conjunto entre árbitro e tais escritórios de
+advocacia, algo que ocorre com frequência, mas usualmente não
+é objeto de revelação alguma.
+
+• Por último, vale rememorar que a legislação brasileira alude ao
+dever de revelar fatos que denotem dúvidas justificáveis acerca da
+independência e imparcialidade do árbitro, como fazem as legislações de
+outros países e a Lei Modelo da UNCITRAL.
+
+Nessas condições, o Autor confia que esse C. STF julgará procedente esta
+ADPF e reconhecerá que, segundo a correta interpretação constitucional, cabe ao
+árbitro revelar o que, aos olhos das Partes, poderá trazer alguma dúvida sobre sua falta
+de independência ou parcialidade. Mas, por mera argumentação, roga-se pelo
+pronunciamento expresso acerca da matéria em debate.
+
+4.3 DA TAXATIVIDADE OU NÃO DOS “CASOS DE IMPEDIMENTO E SUSPEIÇÃO DOS JUÍZES”
+(REGRAS DO CPC)
+
+As causas de “impedimento e suspeição dos juízes” são um dos raros
+
+episódios em que a LArb faz referência expressa ao CPC. Decisões antagônicas (23
+
+decisões identificadas até agora, para ser mais preciso – Doc. 05), porém, têm discutido
+
+se as hipóteses para o afastamento de árbitros da função estariam restritas às 11 (onze)
+
+hipóteses presentes nos artigos 144 e 145 do diploma processual ou se existiriam outras
+
+hipóteses aplicáveis ao universo da arbitragem. Com efeito:
+
+(i) Para alguns (12 decisões), de um lado, o exame da imparcialidade
+e independência dos árbitros deve ser feita de acordo com as rígidas
+regras do CPC aplicável aos juízes togados, havendo uma perfeita simetria
+que não admite qualquer tipo de extensão. Confira-se uma amostra de
+exemplos de decisões assim:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO MATO GROSSO - AUTOS Nº. 0007432-
+77.2006.8.11.0002 (nº 144690/2012 – Doc. 05-A)
+“Vale dizer, o Árbitro utilizou de prudência e veracidade, abstendo-se de
+promessas e garantias sobre o resultado final da demanda. Extrai-se dos Termos
+de Audiência que o Juiz Arbitral ateve-se ao compromisso da convenção
+arbitral de fl. 61, não revelou qualquer interesse próprio ou relacionamento com
+as partes que pudesse afetar a sua independência e imparcialidade. As
+
+[[pagina 37 | nativo]]
+
+hipóteses de impedimento e suspeição que marcam a parcialidade do juiz
+estão previstas expressamente no artigo 134 e 135, ambos do CPC e aplicam-
+se à arbitragem no que couber. Na espécie, nenhuma das situações se amolda
+ao caso.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1108837-
+31.2020.8.26.0100 (Doc. 05-B)
+“Por imparcialidade, entende-se a “necessidade de não estar o julgador
+envolvido diretamente com os litigantes”, nas palavras de Carlos Alberto
+Carmona em Arbitragem e Processo [3ª ed., Ed. Atlas, p. 240].
+
+Não obstante as Câmaras Arbitrais tenham regulamentos com regras próprias
+acerca da imparcialidade e as maiores seguem padrões internacionais
+rigorosos -, para fins da ação anulatória, há de se aplicarem analogicamente
+os artigos 144 e 145 do CPC, que trazem as hipóteses de impedimento e
+suspeição dos juízes togados.
+(...)
+A aplicação analógica é imperiosa porque os árbitros são investidos de função
+jurisdicional, tanto que o art. 14 da LA remete-se aos casos de impedimento e
+suspeição do CPC.
+(...)
+Portanto, expressamente, a Lei de Arbitragem refere-se ao impedimento e à
+suspeição dos juízes togados aos árbitros”.
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 9257902-
+90.2008.8.26.0000 (Doc. 05-C)
+“Os motivos de impedimento e suspeição dispostos nos artigos 134 e 135,
+também, incidem sobre o Ministério Público, na condição de parte e fiscal da
+lei (inciso I) e, ainda, sobre os serventuários da Justiça (inciso II), o perito e
+assistentes técnicos, e aos intérpretes (incisos III e IV). A enumeração é taxativa.
+O artigo não tem aplicação extensiva. O rol do artigo 135 do Código de
+Processo Civil que elenca as hipóteses de suspeição é taxativo, conforme já
+decidido pelo Colendo Superior Tribunal de Justiça, no Recurso Especial n° 36
+390-SP, julgado em 07 04.1997, Relator Sr Ministro Adhemar Maciel, negaram
+provimento, v.u., DJU 5.5.97, p 17.018.
+(...)
+Verifica-se, então, em razão do árbitro escolhido ter atuado como advogado
+da empresa Apelante e, também, como causídico dos proprietários da
+Apelante, ele se encontra impedido de atuar como tal, nos termos do artigo 14
+da Lei n. 9.307, de 23/09/96 e, por se tratar de nulidade absoluta, não incide o
+prazo previsto no artigo 33, par 1o, da mesma Lei n 9.307/96”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 2166470-
+26.2019.8.26.0000 (Doc. 05-D)
+
+[[pagina 38 | nativo]]
+
+“Sentença arbitral Ação declaratória de nulidade Tutela de urgência Pedido
+tendente a que seja suspensa a eficácia do título judicial, inviabilizando a
+prática de atos de execução – Indeferimento –Afirmação de suspeição de
+árbitro – Falta de vinculação às hipóteses enumeradas no artigo 145 do CPC de
+2015 – - Proibição de omissão e retenção de qualquer dado tido como
+concretamente relevante para o exercício da função de árbitro - Exame das
+circunstancias concretas - Indicação pela parte contrária de um mesmo árbitro
+colocado na posição de presidir o procedimento instaurado, num
+procedimento separado e relativo a uma relação jurídica similar – (...)”.
+
+(ii) Para outros (11 decisões), no inverso, as hipóteses para o exame da
+imparcialidade e independência dos árbitros vão além do rol taxativo do
+CPC, devendo ser analisadas sempre no caso concreto e à luz das
+particularidades inerentes à arbitragem enquanto forma privada de
+resolução de conflito. Confira-se uma pequena amostra dessas decisões
+divergentes:
+
+SUPERIOR TRIBUNAL DE JUSTIÇA - AUTOS Nº. REsp 1.526.789/SP Doc. 05-E)
+“conquanto as hipóteses de impedimento e suspeição dos árbitros sejam as
+mesmas às que estão sujeitos os juízes, não se pode considerá-las como
+fazendo parte de um rol taxativo. Isso porque a Lei 9.307/96 erigiu a
+imparcialidade em postulado fundamental do procedimento arbitral, sendo
+certo que sua violação pode acarretar, em última instância, a invalidação
+integral da sentença proferida (arts. 21, § 3º, e 32, VIII, da Lei 9.307/96). O
+alcance de seu conteúdo normativo, portanto, não pode ficar restrito,
+unicamente, às hipóteses de impedimento ou suspeição expressamente
+listadas nos arts. 134 e 135 do CPC/73.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1104647-
+59.2019.8.26.0100 (Doc. 05-F)
+“Para fazer prevalecer a confiança é necessário que o árbitro seja imparcial.
+Por expressa disposição legal do artigo 14 da Lei da Arbitragem e à
+semelhança da atividade processual desenvolvida pelo juiz, quanto às
+situações de impedimento e suspeição dos árbitros relativamente às partes ou
+ao litígio, bem como aos seus deveres e responsabilidades, aplicam se os
+preceitos dos artigos 134 e 135 do Código de Processo Civil.
+
+No entanto, de acordo com CARLOS ALBERTO CARMONA, os casos previstos
+no Código de Processo Civil de suspeição e de impedimento não devem ser
+considerados absolutos em face do caráter de confiança de que as partes se
+valem na escolha dos árbitros, com exceção de situações em que o árbitro
+descumpre o dever insculpido no artigo 14, §1º, da Lei da Arbitragem de
+revelar, antes da aceitação da função, qualquer fato que denote dúvida
+
+[[pagina 39 | nativo]]
+
+justificada quanto à sua imparcialidade e independência.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1056400-
+47.2019.8.26.0100 (Doc. 05-G)
+“As hipóteses enumeradas nos incisos do artigo 145 do CPC de 2015, que dizem
+respeito ao juiz, como Agente de Estado e a uma atuação vinculada ao
+exercício profissional de uma função jurisdicional pública, ostentam um
+conteúdo específico e que não se ajusta perfeitamente com a figura do
+árbitro. Essas hipóteses não são totalmente idênticas às aplicáveis a um árbitro.
+
+Há, particularmente no §1º do artigo 14 da Lei 9.307/1996, a previsão específica
+do dever de revelação, que remete a ‘qualquer fato que denote dúvida
+justificada quanto a sua imparcialidade e independência’. Este dever está
+diretamente vinculado ao resguardo da natural e imprescindível confiança
+que as partes devem depositar no árbitro, desde a instauração e até o final do
+procedimento arbitral, no sentido de se manter isento e imparcial.”
+
+SUPERIOR TRIBUNAL DE JUSTIÇA - AUTOS Nº. SEC 9.412/US Doc. 05-H)
+“Como se vê, diferentemente do Código de Processo Civil brasileiro que trata
+de forma taxativa nos arts. 134 e 135 as hipóteses de ausência de
+imparcialidade do juiz, a Lei de Arbitragem brasileira, ao estabelecer que o
+árbitro tem o dever de revelar "qualquer fato que denote dúvida justificada
+quanto à sua imparcialidade", não trata a questão da imparcialidade do árbitro
+em numerus clausus, pelo contrário, estabelece uma dimensão aberta, muito
+ampla desse dever, em razão das peculiaridades mesmas da arbitragem,
+forma privada de composição de litígios, sem previsão de recurso a uma
+segunda instância e da possibilidade, em tese, de qualquer pessoa capaz ser
+árbitro (art. 13 da Lei n.° 9.307/96) mas sem sujeição a qualquer tipo de órgão
+corregedor propriamente dito, apto a coibir eventuais violações ao amplíssimo
+dever de imparcialidade do árbitro.”
+
+Com o devido acato, o Autor registra que, segundo seu ponto de vista, a
+
+interpretação que melhor atinge os valores da CF é aquela consignada no item (ii),
+
+acima: o dever de revelação não se limita às situações de suspeição e impedimento
+
+previstas nos artigos 144 e 145 do CPC.
+
+A propósito, não se discorda que o CPC seja aplicável a este tema
+
+específico por força da redação do artigo 14 da LArb. Porém, como dever de revelação
+
+decorre da confiança depositada pelas Partes nos julgadores que escolheram e o
+
+árbitro exerce um múnus jurisdicional privado, o Autor compartilha do entendimento da
+
+[[pagina 40 | nativo]]
+
+corrente majoritária no sentido de que os parâmetros de revelação são e devem ser
+
+bem mais elevados na arbitragem do que no Judiciário.
+
+Até porque, se comparado com o juiz estatal, a preocupação com a
+
+imparcialidade do árbitro aumenta (i) seja pela maior proximidade que, regra geral,
+
+existe com os patronos das Partes (os árbitros costumam ser advogados e circular nos
+
+mesmos ambientes); (ii) seja pela maior vulnerabilidade do árbitro, que não está
+
+protegido pelas garantias que lhe pudessem conferir uma máxima independência (tais
+
+como vitaliciedade, irredutibilidade de subsídios, etc.); ou (iii) seja ainda pelo simples
+
+fato de que sua futura sentença não estará sujeita a qualquer tipo de recurso.
+
+Não é por outra razão que se costuma dizer que, diferentemente do que
+
+acontece com os juízes (em que há presunção da imparcialidade), basta que exista
+
+dúvida justificada acerca da falta de isenção de um árbitro para que ele esteja
+
+impedido de ser o julgador do litígio. A mera suspeita da parcialidade do árbitro já
+
+desmancha a confiança que as Partes nele depositaram. Por isso mesmo, na
+
+arbitragem, a imparcialidade impõe, também, o dever de aparentar imparcialidade57.
+
+Além disso, não há na arbitragem publicidade, recurso, CNJ,
+
+corregedorias, súmulas vinculantes, ou seja, nenhum dos mecanismos disponíveis na
+
+Justiça Estatal para controle de ilegalidades, o que demonstra a importância de se
+
+estabelecer hipóteses de impedimento que vão além daquelas previstas no CPC.
+
+Ademais, a própria redação do artigo 14 da LArb já indica ser essa a
+
+correta e mais completa interpretação à luz da CF. Afinal, o §1º do art. 14 complementa
+
+o caput do mesmo dispositivo para o fim de determinar que devem ser também
+
+57 Sobre essa aparência da imparcialidade, preciso e precioso o ensinamento de Candido Rangel Dinamarco: [...], a lei
+arbitral contém uma disposição de grande envergadura para a preservação da imparcialidade e independência do
+árbitro contida em seu art. 14 §1º, segundo o qual ele tem “o dever de revelar, antes da aceitação da função, qualquer
+fato que denote dúvida justificada quanto à sua imparcialidade e independência”. É como a mulher de César: não
+basta ser honesto, é preciso que também projete sobre o espírito de todos a certeza de que é honesto. O dever de
+revelação é exaltado pela doutrina, sempre em nome da boa-fé indispensável na arbitragem, afirmando-se que “na
+dúvida é melhor que o árbitro revele todo e qualquer contato que tenha tido com o caso ou com as partes.
+(DINAMARCO, Candido Rangel. A Arbitragem na Teoria Geral do Processo. São Paulo: Malheiros, 2013, p. 29).
+
+Utilizando da mesma analogia ao tratar do dever de revelação do árbitro e da imparcialidade dos julgadores em geral,
+já se pronunciou também o C. STJ: “No Brasil, se configuradas as situações que geram o impedimento ou a suspeição do
+juiz, este não pode julgar a causa, ainda que, em concreto, tencione ou tenha condições de se desvincular totalmente
+das relações existentes e atuar de forma absolutamente imparcial. Conhecido brocardo diz que à mulher de César não
+basta ser honesta, tem de parecer honesta. Parafraseando-o, poderíamos dizer que ao juiz não basta ser imparcial, tem
+de parecer imparcial. Da mesma forma, da versão em inglês desse pensamento ("Casarsa wife must be above suspicion"),
+poderíamos dizer que o juiz deve estar acima de qualquer suspeita”. (STJ, SE 120/EX, Relatora Min. Nancy Andrighi, j.
+18.12.2018).
+
+[[pagina 41 | nativo]]
+
+revelados quaisquer fatos que gerem dúvida justificada, sem limitá-los às hipóteses dos
+
+artigos 144 e 145 do CPC. Trata-se, dessa forma, de uma questão de hermenêutica, já
+
+reconhecida pela doutrina58.
+
+Mas não é só. A partir dessa redação legal, tanto a doutrina especializada
+
+quanto a vivência profissional do dia a dia cuidaram de identificar outras situações que
+
+podem surgir e que não estão abarcadas no rol taxativo do CPC. Nem por isso, contudo,
+
+estariam excluídas na vida real.
+
+Ao contrário, sabe-se que muitas experiências vivenciadas no universo da
+
+arbitragem fogem das entrelinhas, mas ainda assim são capazes de colocar o árbitro
+
+em uma situação delicada, que não lhe permite mais atuar de forma imparcial e
+
+independente. Perde-se, portanto, a “equidistância que o julgador deve guardar em
+
+relação às partes”59.
+
+Um bom exemplo é a situação do revolving door. Diferentemente do que
+
+acontece com o juiz, o fato do árbitro não estar impedido de assumir outras atribuições
+
+lhe permite participar em uma arbitragem como julgador, na outra como advogado
+
+da Parte, na outra como perito nomeado pelo Tribunal Arbitral, na outra como assistente
+
+técnico da Parte etc. Os árbitros podem, inclusive, desempenhar todas essas atividades
+
+concomitantemente. Isso, todavia, não é dado aos juízes. E, por não haver vedação,
+
+podendo o árbitro desempenhar todas essas atividades, é que há, evidentemente, um
+
+58 Leandro Antônio Godoy Oliveira, em sua dissertação de mestrado, explana muito bem sobre o tema ao consolidar o
+trabalho de diversos nomes de peso do meio da arbitragem no Brasil: “(...), a norma seria taxativa e poderia ser
+considerada numerus clausus se efetivamente elencasse os eventos que devem ser revelados obrigatoriamente pelo
+árbitro, o que não foi feito pelo legislador.
+O §1º do artigo 14 da LBA estabelece que deve ser revelada situação que denote dúvida justificável, sem definir também
+esse “instituto”, sendo o entendimento de Lemes (2013, p. 08) mais razoável do que o de Baptista quando afirma que a
+norma é objetiva ao estabelecer a obrigatoriedade de observância do fator “dúvida justificável”.
+Lee (2007, p. 14), também em aparente oposição a ideia de Baptista quanto às hipóteses numerus clausus de
+impedimento e suspeição aplicáveis ao árbitro, critica a aproximação que alguns países fazem entre o árbitro e o juiz
+quando tratam das hipóteses de recusa do árbitro, (...)
+Lima (2012b, p. 142) dá força a ideia que as hipóteses do Código de Processo Civil não compreendem a totalidade das
+circunstâncias que devem ser reveladas, frisando que ‘a doutrina e a jurisprudência não a consideram mais como sendo
+uma referência válida, pois restringe a noção de independência’.
+Nessa mesma toada, Cahali (2013, p. 178) afirma que a restrição de atuação do árbitro não se resume às hipóteses
+previstas no Código de Processo Civil, sendo ampliada com base em ‘códigos de ética gerais e de instituições,
+reconhecidos como diretrizes de conduta esperada dos árbitros, podendo, ainda, se ter previsão específica nos
+regulamentos’.
+Importante contribuição sobre o assunto é dada por Wald (2013, p. 34) quando sustenta que os impedimentos do árbitro
+podem se basear em razões mais genéricas do que os estabelecidos pelos juízes.” (grifo nosso)
+
+59 CARMONA, Carlos Alberto. Arbitragem e processo: um comentário à Lei no 9.307/96. 3. ed. São Paulo: Atlas, 2009, p.
+230.
+
+[[pagina 42 | nativo]]
+
+problema que não afeta os magistrados, uma promiscuidade que as regras do CPC não
+
+conseguem solucionar sozinhas.
+
+E não é nenhuma novidade ao Poder Judiciário essa pluralidade de
+
+“papéis” do árbitro. Veja que, embora tratasse de outra matéria, reconheceu o E.
+
+Tribunal de Justiça de São Paulo que, no mundo da arbitragem e como já citado no
+
+preâmbulo, costumam ser “sempre os mesmos seus partícipes, ora como advogados,
+
+ora como árbitros, ora como pareceristas, ora ainda como experts do Tribunal Arbitral,
+
+às vezes de modo simultâneo, em situação causadora de perplexidade aos
+
+jurisdicionados que se convencionou chamar de “chapéu duplo” ou “revolving door”.60
+
+Fato é que não pode o árbitro cultivar vínculos ou proximidade, tanto na
+
+perspectiva subjetiva (com as Partes e seus advogados) quanto na perspectiva objetiva
+
+(com o desfecho da causa). Pouco importa se estão ou não previstos no rol taxativo do
+
+CPC. Qualquer fator que prejudique um distanciamento mínimo será suficiente para
+
+afastá-lo ou, se já tiver decidido, tornar nula a sentença arbitral.
+
+Por essas razões, o Autor confia que esta ADPF será julgada procedente
+
+para reconhecer que as hipóteses de suspeição e impedimento previstas no CPC
+
+representam um conteúdo mínimo das situações que geram imparcialidade e devem
+
+ser complementadas com outras hipóteses que implicam impedimento do árbitro. De
+
+todo modo, caso não seja essa a solução que prevaleça, pede-se que esse C. STF se
+
+pronuncie expressamente sobre o tema e harmonize a jurisprudência.
+
+4.4 DA APLICAÇÃO AUTOMÁTICA OU NÃO DAS DIRETRIZES DA INTERNATIONAL BAR
+ASSOCIATION – IBA SOBRE CONFLITO DE INTERESSES
+
+A IBA produziu um documento importante que confere diretrizes para
+
+orientar a atuação de árbitros e Partes ao redor do mundo em situações de conflito de
+
+interesses nas arbitragens internacionais. Não se tratam, contudo, de hipóteses
+
+taxativas.
+
+60 TJSP, 1ª Câmara Reservada de Direito Empresarial, Relator Cesar Ciampolini, Apelação Cível nº. 1031861-
+80.2020.8.26.0100, j. em: 30.06.2021.
+
+[[pagina 43 | nativo]]
+
+Essas diretrizes trazem, como referência, circunstâncias que afetam a
+
+atuação de indivíduos como árbitros, classificando-as em (i) lista vermelha,
+
+irrenunciável, quando se trata de situação de afastamento obrigatório; (ii) lista
+
+vermelha, renunciável, quando se trata de situação de revelação obrigatória, mas cujo
+
+afastamento pode ser superado com a ciência inequívoca e renuncia expressa das
+
+Partes; (iii) lista laranja, quando se trata de situação de revelação necessária, que é
+
+aceita pelas Partes se não houver objeção; e (iv) lista verde, quando se trata de
+
+ligações tênues, que nem sequer precisam ser reveladas.
+
+É uma soft law e, como tal, não são normas de aplicação obrigatória no
+
+sistema jurídico brasileiro, salvo no caso de anuência expressa pelas Partes na
+
+convenção ou no termo de arbitragem. Ainda assim, algumas decisões judiciais têm
+
+imposto – contra a vontade das Partes – a incidência das diretrizes da IBA relativas a
+
+conflitos de interesse em arbitragem internacional. Confira-se:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO RIO DE JANEIRO - AUTOS Nº. 0434147-
+23.2016.8.19.0001 (Doc. 06-A)
+“Ainda com relação à questão da dúvida justificável, a apelada trouxe à lume
+princípios estabelecidos pela Internacional Bar Association (IBA) ou Associação
+Internacional de Advogados, Instituição integrada por dezenas de milhares de
+advogados do mundo inteiro. Tais princípios (“Guidelines”) são relacionados ao
+dever de revelação, independência e imparcialidade dos árbitros bem como
+diretrizes para a aplicação prática destes, fixando três listas (verde, laranja e
+vermelha) para tal finalidade, a saber:
+[...]
+”(...)Ao falar-se em dúvida justificada (com acento na justificação) entre em
+jogo um outro critério, que tem a ver com o que os guidelines da IBA chamam
+de teste objetivo para a desqualificação de árbitros. Aqui se trata de fatos ou
+circunstâncias justificáveis para criar dúvidas sobre a independência e
+imparcialidade. Por justificável entenda-se o ponto de vista de uma terceira
+pessoa razoável (from a reasonal third person’s poin of view). Essa regra exige,
+tanto do árbitro como das partes, uma avaliação isenta daquilo que no
+contexto do conflito, seria de se esperar que constituísse algo digno de ser
+percebido”
+
+De outro lado, existem também decisões que não utilizam das diretrizes da
+
+IBA justamente porque (i) não há na LArb qualquer disposição que obrigue as Partes a
+
+submeter uma arbitragem doméstica a uma soft law estrangeira; e (ii) nos casos
+
+concretos, as Partes não concordaram quanto à sua aplicação. Confira-se um
+
+exemplo:
+
+[[pagina 44 | nativo]]
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - AUTOS Nº. 0005808-
+38.2018.8.16.0194 (Doc. 06-B)
+“Em razão da complexidade da matéria, a International Bar Association editou
+guidelines que orientam quais situações devem ser reveladas, de acordo com
+o nível de influência dessas circunstâncias na confiança depositada no
+julgador. Conquanto as diretrizes perfaçam uma importante orientação para
+identificar e avaliar situações de potencial conflito de interesses, trata-se de
+mera soft law.”
+
+Essa última é, aos olhos do Autor, a mais acertada. Explica-se:
+
+A manifestação da vontade é uma regra básica inerente à própria
+
+essência da arbitragem61. As Partes não apenas precisam necessariamente concordar62
+
+em submeter litígios à via arbitral (em renúncia inequívoca à jurisdição estatal), como
+
+cabe ainda definir com quem63 e qual a melhor forma de resolução da sua disputa64,
+
+inclusive a escolha das regras aplicáveis ao procedimento.
+
+61 Sobre a relevância do tema, Ricardo Ramalho Almeida afirma que “A autonomia da vontade é claramente o princípio
+dominante em matéria de arbitragem comercial internacional, estando consagrado na virtual totalidade das legislações
+nacionais modernas e regulamentos de arbitragem das principais instituições internacionais” (Arbitragem Comercial
+Internacional e Ordem Pública, Renovar: Rio de Janeiro, 2005, pp. 153-154).
+
+62 Sobre o tema, José Antonio Fischner, Sérgio Mannheimer e André Luis Monteiro ensinam que “A autonomia privada
+manifesta-se, ademais, na arbitragem, quando uma das partes escolhe a outra para firmar a convenção de arbitragem.
+Ninguém pode, na arbitragem, obrigar uma terceira pessoa a firmar convenção de arbitragem e ninguém pode ser
+obrigado a firmar convenção de arbitragem com terceira pessoa contra a sua vontade. Não há, ademais, nenhuma
+determinação legal impondo que determinada parte tenha que celebrar convenção de arbitragem com qualquer
+outra, seja pessoa física ou jurídica, de direito público ou privado, nacional ou estrangeira (...)” (Teoria Geral da
+Arbitragem. Forense: Rio de Janeiro, 2018, p. 123).
+
+No mesmo sentido, Gustavo Favero Vaughn e Joana Chamma Ramacciotti: “A autonomia da vontade, ínsita ao direito
+contratual, exerce papel fundamental na arbitragem, sobretudo porque a escolha desse método adequado de solução
+de controvérsias é voluntária”. (in MALUF, Fernando; VASCONCELOS, Ronaldo; SANTOS, Giovani Ravagnani; TAVELA,
+Daniel. Análise prática das câmaras arbitrais e da arbitragem no Brasil. IASP: São Paulo: 2019, p. 18).
+
+63 Sobre essa segunda perspectiva da autonomia da vontade na arbitragem, José Antonio Fischner, Sérgio Mannheimer
+e André Luis Monteiro ensinam que “As partes exercem sua autonomia privada na arbitragem, primeiramente, ao decidir
+se querem ou não celebrar uma convenção de arbitragem. Como se sabe, diante de um conflito de interesses presente
+ou futuro, as partes podem livremente escolher se litigarão na via arbitral ou perante o Poder Judiciário. Firmar a
+convenção de arbitragem não é nada mais do que exercer a autonomia privada (...) Ninguém pode ser obrigado a
+litigar na via arbitral contra quem não elegeu como parte na convenção de arbitragem (...)” (Teoria Geral da Arbitragem.
+Forense: Rio de Janeiro, 2018, p. 123).
+
+64 Na última perspectiva da autonomia da vontade na arbitragem, José Antonio Fischner, Sérgio Mannheimer e André
+Luis Monteiro arrematam o raciocínio dizendo que “Inegavelmente, o aspecto da autonomia privada que possui maior
+repercussão prática diz respeito à possibilidade de definir o conteúdo do contrato. (...) Por conta da incidência da
+liberdade contratual na arbitragem, as partes podem escolher, primeiramente, a modalidade de convenção de
+arbitragem a celebrar, ou seja, compromisso arbitral extrajudicial, compromisso arbitral judicial, cláusula compromissória
+cheia ou cláusula compromissória vazia. Podem, além disso, definir, com ampla liberdade, o conteúdo da convenção
+de arbitragem, elegendo, por exemplo, a sede da arbitragem, o número de árbitros, o idioma do procedimento arbitral
+etc.” (Teoria Geral da Arbitragem. Forense: Rio de Janeiro, 2018, p. 124).
+
+No mesmo sentido, Gustavo Favero Vaughn e Joana Chamma Ramacciotti: “Além de pressuposto, é um dos princípios
+formadores do processo, permitindo às partes regerem a disciplina de seus interesses da maneira que melhor lhes convier
+na arbitragem, moldando o procedimento, decidindo as regras de direito (material e processual) aplicáveis ao caso
+(...)”. (in MALUF, Fernando; VASCONCELOS, Ronaldo; SANTOS, Giovani Ravagnani; TAVELA, Daniel. Análise prática das
+câmaras arbitrais e da arbitragem no Brasil. IASP: São Paulo: 2019, p. 18).
+
+[[pagina 45 | nativo]]
+
+Assim, como um desdobramento natural do preceito fundamental da
+
+autonomia da vontade, podem, “em tese”, decidir (i) contratar ou não? (ii) com quem
+
+contratar? e (iii) o que contratar?
+
+Fala-se em tese e utiliza-se das aspas de forma proposital. Afinal, a primeira
+
+das interpretações acima, que tem prevalecido em parte das decisões do Poder
+
+Judiciário tem mitigado essa faceta da manifestação de vontade. São decisões que
+
+impõem como parâmetro ao dever de revelação a aplicação automática ou
+
+analógica das diretrizes da IBA, ainda que sem anuência das Partes.
+
+Com o devido acato, o Autor acredita que essa interpretação está
+
+equivocada e fere a CF, já que equivale, na prática, a violação da liberdade de
+
+contratar. Nem sequer teria mais a Parte o direito de optar pela adoção da regra
+
+prevista na LArb (dever de revelação, puro e simples) ou outra regra arbitral. Os juízes
+
+estão escolhendo em seu lugar – e, ainda pior, depois de já julgado o procedimento
+
+arbitral. É um verdadeiro sequestro da autonomia da vontade.
+
+Pior: os juízes estão, por conta própria, aplicando as regras da IBA como se
+
+norma pertencente ao ordenamento jurídico brasileiro fosse. Há ilegal derrogação do
+
+art. 14 da LArb.
+
+O mais correto, portanto, parece ser que se atente àquilo que as Partes
+
+pactuaram de forma livre e espontânea por ocasião da convenção ou do termo de
+
+arbitragem. Afinal, fosse a verdadeira intenção delas aplicar as diretrizes da IBA para
+
+solucionar controvérsias relativas à imparcialidade e a independência dos árbitros,
+
+certamente o teriam feito de forma expressa naquela ocasião.
+
+De todo modo, ciente da existência da incongruência hermenêutica e
+
+confusão jurisprudencial decorrentes desses pronunciamentos e da respectiva ameaça
+
+aos preceitos fundamentais acima indicados, o Autor busca, por meio desta ADPF, um
+
+pronunciamento desse C. STF sobre qual das duas seria a correta interpretação à luz da
+
+precisa, apropriada e completa interpretação da CF.
+
+4.5 DO MOMENTO ADEQUADO PARA SUSCITAR A IMPOSSIBILIDADE DE ATUAÇÃO DO ÁRBITRO
+
+[[pagina 46 | nativo]]
+
+Por fim, as instâncias inferiores também têm discordado sobre a
+
+necessidade de a Parte suscitar a falta de independência e/ou parcialidade do árbitro
+
+no primeiro momento, ainda durante o curso da arbitragem, ou a possibilidade de fazê-
+
+lo a qualquer tempo, inclusive perante o Poder Judiciário.
+
+O debate na jurisprudência (40 decisões identificadas; Doc. 07), portanto,
+
+gira em torno de um regramento formal: seria a matéria sujeita à preclusão?
+
+De um lado, há quem entenda que sim, há preclusão (32 decisões).
+
+Confira-se uma amostra desses julgados:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DO PARANÁ - AUTOS Nº. 0009457-
+79.2016.8.16.0194 (Doc. 07-A)
+“Diante disso, é certo que incumbia aos autores arguir, na oportunidade de sua
+manifestação inaugural naquele procedimento arbitral, todas as questões
+relativas à impugnação do árbitro, haja vista que os fatos que fundamentaram
+tal alegação, gerada pela suposta interdependência entre o Secovi e a CMA-
+PR, eram conhecidos por ela”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1048961-
+82.2019.8.26.0100 (Doc. 07-B)
+“No caso, em razão das respostas contidas no “Questionário para verificação
+de conflitos de interesse e disponibilidade” (fl. 1221/1223) e das informações
+constantes dos currículos dos árbitros, os recorrentes já tinham condições de
+saber que os árbitros Marcelo Adamek e Antônio Marcato atuavam juntos em
+outras demandas e sobre a coautoria em obras jurídicas. Entretanto, não
+apresentaram nenhuma impugnação; a suspeita de parcialidade foi suscitada
+somente após o resultado do procedimento arbitral, o que contraria o
+comando do art. 20 da lei de regência, segundo o qual a parte que pretender
+arguir questões relativas à competência, suspeição ou impedimento do árbitro
+ou dos árbitros, bem como nulidade, invalidade ou ineficácia da convenção
+de arbitragem, deverá fazê-lo na primeira oportunidade que tiver de se
+manifestar, após a instituição da arbitragem.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE GOIÁS - AUTOS Nº. 261808-
+86.2013.8.09.0051 (Doc. 07-C)
+“A parcialidade do árbitro é descabida, visto que meras alegações não
+afastam a honradez e boa-fé do profissional, havendo elas de ser provadas.
+Ademais, aludida parcialidade deve ser apontada na primeira oportunidade
+em que o interessado se manifestar após a instituição da arbitragem.”
+
+[[pagina 47 | nativo]]
+
+Porém, do outro lado, também há magistrados que entendem que não há
+
+preclusão, por se tratar de questão de ordem pública (8 decisões) Confira-se exemplos
+
+nesse sentido:
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE MINAS GERAIS - AUTOS Nº. 0104873-
+05.2015.8.13.0223 (Doc. 07-D)
+“(...) Com efeito, a prerrogativa da imparcialidade do julgador é uma das
+garantias que resultam do postulado do devido processo legal, aplicável à
+arbitragem, mercê de sua natureza jurisdicional.
+A inobservância dessa prerrogativa ofende, diretamente, a ordem pública
+nacional.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1055194-
+66.2017.8.26.0100 (Doc. 07-E)
+“Não vinga o argumento no sentido de que a questão precluiu, uma vez que
+não ficou demonstrado de forma convincente que a apelada já tinha
+conhecimento de que o Sr. Walter Polido era suspeito desde o começo do
+procedimento de arbitragem, tendo, por outro lado, a apelada asseverado
+que só tomou conhecimento da condição do árbitro após a prolação da
+sentença arbitral.”
+
+TRIBUNAL DE JUSTIÇA DO ESTADO DE SÃO PAULO - AUTOS Nº. 1121216-
+09.2017.8.26.0100 (Doc. 07-F)
+“Não há fundamento, assim, para o argumento levantado pela parte ré, no
+sentido de que houve a preclusão do direito de levantar o impedimento da
+árbitra na primeira oportunidade de manifestação, após a instituição da
+arbitragem, nos termos do art. 20 da referida lei. E ainda assim não fosse, o vício
+da parcialidade é sobremaneira grave de forma a afastar a preclusão e ensejar
+a propositura da ação declaratória de nulidade [assim como ocorre, traçando-
+se um paralelo, no processo civil, onde possível ajuizar-se ação rescisória para
+a desconstituição de sentença proferida por juiz parcial]”.
+
+Para o Autor, a questão é de fácil solução.
+
+Isso porque, para além do próprio dever de revelação ser uma obrigação
+
+continuada do árbitro65, a falta com a verdade e/ou a falha no dever de revelação é
+
+matéria que ofende a ordem pública, porquanto ferem de morte a garantia da
+
+65 É o que, de forma precisa, escreve Leonardo de Faria Beraldo: “O dever de revelação ou duty of disclosure existe
+justamente para garantir que as partes tenham um julgamento imparcial e sem quaisquer interferências externas, daí a
+necessidade de se ter um julgador imparcial e independente, conceitos pelos quais inclusive já passamos. Ressalte-se
+que o dever de revelação persiste durante as fases pré-arbitral e arbitral, o que significa que os acontecimentos
+relevantes, que podem repercutir na arbitragem, devem ser sempre prontamente informados às partes, sob pena de
+responsabilidade civil do árbitro e até mesmo invalidade da sentença.” (BERALDO, Leonardo de Faria. Curso de
+arbitragem nos termos da Lei n. 9.307/96, p. 251/253).
+
+[[pagina 48 | nativo]]
+
+imparcialidade e da independência do julgador, que, como visto, resultam do
+
+postulado do devido processo legal aplicado na arbitragem.
+
+Como tal, não estão sujeitas à preclusão66, de modo que não só podem,
+
+como devem ser apreciadas, inclusive de ofício, a qualquer tempo e grau de jurisdição,
+
+conforme diz o C. STJ:
+
+"A jurisprudência desta Corte Superior é no sentido de que a Exceção de Pré-
+Executividade é cabível para discutir questões de ordem pública, quais sejam, os
+pressupostos processuais, as condições da ação, os vícios objetivos do título
+executivo atinentes à certeza, liquidez e exigibilidade, desde que não
+demandem dilação probatória, como ocorre na presente hipótese.67”
+
+“1. A exceção de pré-executividade é servil à suscitação de questões que devam
+ser conhecidas de ofício pelo juiz, como as atinentes à liquidez do título executivo,
+os pressupostos processuais e as condições da ação executiva. 2. A esfera de
+abrangência da exceção tem sido flexibilizada pela jurisprudência mais recente
+a qual admite, v.g., a arguição de prescrição, de ilegitimidade passiva do
+executado, e demais matérias prima facie evidentes, posto não demandarem
+dilação probatória. Precedentes: EREsp 614272 / PR, 1ª SEÇÃO, Rel. Min. Castro
+Meira, DJ 06/06/2005; EREsp 388000 / RS, CORTE ESPECIAL, Rel. para acórdão Min.
+José Delgado, DJ 28/11/2005).68”
+
+Para não deixar dúvidas, vale dizer que, em publicação acadêmica, o
+
+próprio Min. RICARDO VILLAS BÔAS CUEVA já reconheceu o dever de revelação como
+
+matéria de ordem pública, não deixando margem para maiores debates sobre a não
+
+ocorrência de preclusão da matéria:
+
+“É dupla a função do dever de revelação. Por um lado, presta-se a assegurar que
+as partes possam tomar decisão informada acerca de um possível árbitro, pois
+apenas se a parte for devidamente informada poderá apresentar dúvidas
+razoáveis quanto à imparcialidade e independência do árbitro. Por outro,
+somente se o árbitro se desincumbir de seu dever de revelação com cuidado e
+diligência é que poderá granjear a confiança das partes, especialmente
+daquelas que não o indicaram. É por essas razões que, como visto, o dever de
+revelação é compreendido como integrante da ordem pública no Brasil.
+
+(...)
+
+Como se vê, o STJ, em consonância com aportes doutrinários e com a experiência
+internacional, deixou claro que o dever de revelação do árbitro é mais amplo que
+o dever de imparcialidade disciplinado de forma taxativa no CPC, pois, ao
+
+66 “Preclusão. SIMP XV: ‘A preclusão não se opera quanto às matérias enumeradas nos ns. IV, V e VI do CPC/1973 267
+[CPC 485].’” (Nelson Nery Junior, Rosa Maria de Andrade. Código de Processo Civil Comentado. 16. ed. São Paulo: Editora
+Revista dos Tribunais, 2016, p. 1211).
+
+67 STJ, EDcl no REsp 1138559/SC, Rel. Min. Luis Felipe Salomão, Quarta Turma, j. 28.06.2011.
+
+68 STJ, AgRg no REsp 992.125/RS, Rel. Min. Luiz Fux, Primeira Turma, j. 10.02.2009.
+
+[[pagina 49 | nativo]]
+
+abranger qualquer fato que denote dúvida quanto à imparcialidade, não se
+resume a hipóteses pré definidas e exige total transparência quanto a
+informações relevantes à preservação da confiança na relação contratual entre
+as partes e o árbitro. Ademais, o dever de revelação é contínuo e não se exaure
+no momento da aceitação do encargo. Durante o procedimento arbitral, persiste
+o dever de informar quaisquer fatos ou circunstâncias que possam abalar a
+confiança das partes no árbitro. Restou induvidoso, por fim, que a imparcialidade
+do julgador é pressuposto de validade do processo e, como tal, é matéria de
+ordem pública, não sujeita à preclusão”69.
+
+Desse modo, inexistindo qualquer óbice formal ou material, entende-se
+
+que a interpretação mais correta à luz da CF é no sentido de que questões sobre a falta
+
+de independência e/ou parcialidade do árbitro podem ser arguidas e devem ser
+
+apreciadas a qualquer tempo pela Parte, inclusive em sede de ação anulatória de
+
+sentença arbitral. E, por conseguinte, espera-se que esse C. STF julgue procedente esta
+
+ADPF e defina o entendimento acima como parâmetro temporal a ser adotado.
+
+5. MEDIDA CAUTELAR NECESSÁRIA
+
+Nos tópicos acima, o Autor demonstrou que esta ADPF atende ao requisito
+
+do fumus boni iuris necessário para que seja imediata e liminarmente concedida
+
+medida cautelar. A constante lesão aos preceitos fundamentais do devido processo
+
+legal, da segurança jurídica e da garantia do juiz natural (artigos 5º, XXXVI, XXXVII, LIII e
+
+LIV da CF) é ostensiva e inequívoca diante da constante incongruência hermenêutica
+
+e confusão provocada na jurisprudência nacional por inconciliáveis pronunciamentos
+
+dos órgãos integrantes do Judiciário sobre as matérias colocadas em debate.
+
+O periculum in mora, por sua vez, é evidente. Como se sabe, tramitam
+
+perante as instâncias inferiores um sem números de demandas judiciais em que as partes
+
+discutem os parâmetros constitucionais ao correto desempenho do dever de revelar.
+
+O Autor traz nesta ADPF breves exemplos dos principais pontos
+
+controvertidos, tais como (i) a extensão e profundidade do “dever de revelar”; (ii) a
+
+“dúvida justificada” e a perspectiva sob a qual ela deve ser aferida, (iii) a não
+
+taxatividade das regras do CPC de suspeição e impedimento (de juízes) para o exame
+
+69 CUEVA, Ricardo Villas Bôas. Disponível em: https://www.poder360.com.br/opiniao/o-dever-derevelacao-do-arbitro-na-
+jurisprudencia-do-stj-escreve-ricardo-villas-boas-cueva/. Acesso em: 28.06.2022.
+
+[[pagina 50 | nativo]]
+
+de árbitros parciais; (iv) a não aplicação automática das soft laws; e (v) o momento
+
+adequado para se suscitar a impossibilidade da atuação de um árbitro.
+
+Tais questões, na maior parte das vezes, têm surgido no contexto de ações
+
+anulatórias de sentenças arbitrais propostas dentro dos angustos limites trazidos pelo
+
+artigo 32 da LArb. Assim, por ora os julgamentos das ações anulatórias têm sido
+
+realizados de forma descuidada, que decorre da flagrante insegurança jurídica aqui
+
+demonstrada.
+
+E, se a amostra reduzida que acompanha esta petição inicial já é
+
+preocupante, é certo que o problema a ser enfrentado por esse C. STF é ainda maior,
+
+tendo em vista que, como mencionado, parte substancial dos processos que envolvem
+
+arbitragem tramitam em segredo de justiça!
+
+Mais que isso: justamente pela oscilação jurisprudencial, as milhares de
+
+arbitragens em andamento trazem consigo questões relativas ao contorno do dever de
+
+revelação. As outras milhares a serem iniciadas também trarão as mesmas incertezas.
+
+Afinal, diante da referida oscilação, não sabem os árbitros, as partes, os advogados e
+
+as Câmaras Arbitrais como devem se portar no curso da arbitragem.
+
+Em verdade, a cognição a ser exaurida por esse C. STF nesta ADPF visa não
+
+só a proteção dos preceitos fundamentais nas ações anulatórias em curso, mas
+
+também a imposição de parâmetros a serem seguidos pelos árbitros nas arbitragens
+
+hoje em curso e nas que ainda estão porvir. O exame das questões aqui postas, ao fim
+
+e ao cabo, servirá como guia de atuação dos árbitros, a conferir maior segurança e
+
+respeitabilidade ao instituto da arbitragem.
+
+Necessário frisar que as maiores disputas nacionais, que versam sobre
+
+direitos disponíveis, têm sido travadas em arbitragem. São disputas que vinculam
+
+grandes obras de infraestrutura, disputas societárias de companhias abertas, contratos
+
+com partes estrangeiras etc. Enfim, discussões que impactam e alteram a vida
+
+financeira do país.
+
+Logo, assegurar previsibilidade e segurança jurídica a tais disputas, até
+
+para que ações anulatórias não sejam utilizadas como sucedâneo recursal, é medida
+
+[[pagina 51 | nativo]]
+
+essencial à atração de novos investimentos ao país, algo com o que está esse C. STF
+
+bastante acostumado.
+
+Assim, a intervenção que se requer por meio da presente ADPF tem um
+
+duplo caráter:
+
+• Um de caráter iminente, que diz respeito às disputas já
+judicializadas, que merecem ser dirimidas pelo país afora com base em um
+mesmo standard aplicável ao dever de revelação, previsto no artigo14, da
+LArb, à luz do preceitos constitucionais fundamentais do devido processo
+legal, juiz natural e segurança jurídica; e
+
+• Um outro de caráter prospectivo, a fim de que arbitragens ainda
+em curso, ou que venham a ser iniciadas, partam de um pressuposto
+quanto ao dever de revelação já amparado na interpretação erga omnes
+a ser dada por esse C. STF, de modo a evitar insegurança jurídica já no
+nascedouro, algo que fortalecerá, em muito, a confiabilidade na
+arbitragem.
+
+Deve-se dizer, e isso será aferido ao longo do curso desta ADPF, que a
+
+comunidade empresarial brasileira tem estado bastante cética no tocante à condução
+
+dos procedimentos arbitrais, especialmente pela falta de parâmetros concretos sobre o
+
+dever de revelação, do que decorre a violação desse dever e, por conseguinte, a
+
+violação cos preceitos fundamentais que aqui se visa a proteger, como o próprio MIN.
+
+DIAS TOFFOLI recentemente assumiu no Plenário:
+
+“Hoje muitas grandes empresas estão fugindo da arbitragem porque o
+Poder Judiciário é muito mais correto e é muito mais decente do que
+alguns tribunais arbitrais, que têm mostrado suas fragilidades”70.
+
+É voz corrente entre os usuários das arbitragens – empresas, em especial –
+
+que a arbitragem é composta por aquilo que se convencionou chamar de country club.
+
+Um grupo fechado de árbitros, sempre os mesmos, que se revezam entre os casos,
+
+indicados por vezes pelos mesmos advogados, com os quais em muitas das vezes, em
+
+distintos casos, trabalham como pareceristas, assistentes técnicos ou, até mesmo,
+
+dividindo patrocínio em outras causas71.
+
+70 Min. Dias Toffoli, ADI 6.399, sessão de 24.03.2022.
+
+71 O tema é reconhecido inclusive pela doutrina estrangeira: “mesmo com a expansão, o campo continua a ser
+dominado por uma elite interna que é vastamente, apesar de não sem objeção, referida como um 'cartel', um 'clube',
+ou uma 'máfia' (...)” (CATHERINE A. ROGERS, The Vocation of the International Arbitrator, in American University
+International Law Review, Vol. 20, nº 5, Article 4, 2005, págs. 957/1.020).
+
+[[pagina 52 | nativo]]
+
+Enfim, um relacionamento promíscuo, permeado por interesses pessoais e
+
+plurais, que por vezes não é conhecido ou revelado, mas que se revelados, certamente,
+
+conduziriam à quebra da necessária confiança entre a parte e o árbitro.
+
+Enfim, a regulamentação do dever de revelação certamente restringirá o
+
+número de casos em que um árbitro atuará, ou restringirá sua atuação como advogado
+
+ou parecerista. Ninguém é obrigado a ser árbitro. Mas essa opção, evidentemente,
+
+deve representar renúncias.
+
+Para piorar a situação acima, a arbitragem acaba sendo uma caixa de
+
+mistérios. Vige a confidencialidade. Não há recurso. Não há órgão de controle. Não há,
+
+enfim, revisão do mérito das sentenças por qualquer órgão, pouco importando a
+
+jurisprudência sobre o tema.
+
+A arbitragem está doente no Brasil. Não se diz isso para condenar sua
+
+prática, em nenhuma hipótese. Traz-se isso apenas para contextualizar esse C. STF e,
+
+mais uma vez, enfatizar que o dever de revelação é o único instituto previsto na LArb
+
+que permite a mitigação das constantes violações aos preceitos fundamentais
+
+perpetrados pelas cortes de origem.
+
+Esta ADPF, portanto, busca salvaguardar a constituição federal e, por
+
+conseguinte, a arbitragem.
+
+Assim, desnecessário dizer que enquanto, de um lado, a imediata
+
+concessão da cautelar poderá evitar danos decorrentes de interpretações individuais,
+
+isoladas e inconstitucionais nos processos em curso, a demora inerente ao trâmite
+
+processual, de outro lado, poderá não só prejudicá-los, como tornar ineficaz a futura
+
+decisão desse C. STF.
+
+Nessas circunstâncias e demonstrados os requisitos, o Autor, valendo-se da
+
+faculdade que lhe é conferida pelo artigo 5º, caput e §3º da LADPF, requer a esse C.
+
+STF a concessão de medida cautelar / liminar para o seguinte:
+
+(i) suspender o andamento de todos os processos em curso, inclusive
+ações anulatórias de sentenças arbitrais, que tenham como causa de
+
+[[pagina 53 | nativo]]
+
+pedir eventual falha no “dever de revelar” e demais matérias a ele
+inerentes aqui colocadas em debate;
+
+(ii) como consequência do item (i) acima, suspender os efeitos das
+sentenças arbitrais objeto de ações anulatórias, que tenham por causa de
+pedir eventual falha no “dever de revelar” e demais matérias a ele
+inerentes colocadas em debate nesta ADPF;
+
+(iii) também como consequência dos itens anteriores, suspender os
+efeitos de decisões judiciais já proferidas que versem sobre esses temas,
+tudo até o julgamento definitivo da presente ADPF.
+
+6. PEDIDOS
+
+Por todo o exposto o UNIÃO BRASIL - UBR, além dos pedidos liminares e
+
+acautelatórios mencionados no item anterior, que fazem parte deste pedido, requer
+
+seja conhecida e julgada procedente esta ADPF para o fim de que esse C. STF,
+
+enquanto guardião da CF e responsável pela última palavra na jurisprudência nacional,
+
+declare quais são os critérios/standards constitucionais do exercício do dever de
+
+revelação pelos árbitros previsto no artigo 14, da LArb, à luz dos preceitos constitucionais
+
+mencionados nesta petição inicial, incluindo, mas não se limitando, a mais correta
+
+interpretação de que:
+
+(i) o “dever de revelar” na arbitragem é um dever exclusivo dos
+árbitros, que devem revelar tudo o quanto lhes seja questionado pelas
+Partes e, por consequência lógica, inexiste qualquer tipo de dever de
+investigar atribuído às Partes;
+
+(ii) a “dúvida justificada” sobre fatos que podem trazer alguma
+conotação sobre a falta de independência ou a parcialidade dos árbitros
+deve ser aferida sempre aos olhos das Partes;
+
+(iii) a não revelação, por si só, de fato que possa ensejar “dúvida
+justificada” na parte sobre a imparcialidade ou independência do árbitro
+indicado, é causa de impedimento do árbitro que deixou de fazer a
+revelação, ainda que o fato não revelado não configurasse hipótese de
+impedimento;
+
+(iv) não há, para o exercício do dever de revelação na arbitragem,
+taxatividade das regras rígidas de impedimento e suspeição esculpidas
+nos artigos 144 a 148 do CPC;
+
+[[pagina 54 | nativo]]
+
+(v) não há, para o exercício do dever de revelação nas arbitragens
+submetidas à lei brasileira, aplicação automática ou analógica das
+diretrizes da IBA para conflito de interesses; e
+
+(vi) a falta de independência e/ou parcialidade do árbitro é matéria
+de ordem pública e, como tal, não está sujeita à preclusão, podendo ser
+arguida a qualquer tempo e em qualquer grau de jurisdição, inclusive
+perante o Poder Judiciário.
+
+Nada obstante, para sanar em absoluto a lesão aos preceitos
+
+fundamentais, requer-se a esse C. STF:
+
+(vii) a interpretação conforme a CF do artigo 14 da LArb, assegurando
+que prevaleça a harmonia na jurisprudência nacional sobre os parâmetros
+do exercício do dever de revelação do árbitro a partir do entendimento
+que for firmado por esse C. STF; e
+
+(viii) a declaração de que as decisões judiciais proferidas nas instâncias
+inferiores que vão na contramão da interpretação constitucional que
+prevalecer ao cabo desta ADPF violam aos preceitos fundamentais e
+devem ter seus efeitos imediatamente extirpados do mundo jurídico.
+
+Por fim, alternativamente e por eventualidade, o Autor requer que, caso
+
+esse C. STF entenda pelo descabimento da ADPF na hipótese, seja esta recebida como
+
+ADI, uma vez que o que se pretende é a interpretação conforme a CF do artigo 14 da
+
+LArb, para o fim de que este dispositivo não seja mais interpretado de modo a lesar os
+
+preceitos fundamentais indicados acima.
+
+7. INTIMAÇÕES
+
+O Autor informa que o escritório dos seus patronos está situado no Setor
+
+Habitacional Individual Sul, QL 08, Conjunto 08, Casa 04, Lago Sul – Brasília /DF, CEP:
+
+71.620-285, requerendo que todas as publicações, intimações e qualquer ato de
+
+comunicação relativos ao presente feito sejam veiculados exclusiva e cumulativamente
+
+em nome de todos aqueles que subscrevem a presente, sob pena de nulidade, a teor
+
+do artigo 236, § 1º, do CPC.
+
+[[pagina 55 | nativo]]
+
+Termos em que, respeitosamente, pede e espera DEFERIMENTO.
+
+Brasília, 22 de março de 2023.
+
+Fabrício Medeiros Celso de Barros Correia Neto
+OAB/DF 27.581 OAB/DF 59.090
+
+FABRICIO JULIANO Assinado de forma digital por
+MENDES FABRICIOMEDEIROS:87302411549JULIANO MENDES
+MEDEIROS:8730241154 Dados: 2023.03.22 20:16:45
+9 -03'00'
+
+Ricardo Martins
+OAB/DF 54.071
+
+[[pagina 56 | nativo]]
+
+ROL DE DOCUMENTOS
+
+Doc. 01 Atos constitutivos do Autor
+
+Doc. 02 Procuração do Autor
+
+Doc. 03 Conjunto de decisões conflitantes a respeito de a quem compete
+
+(A a H) o ônus no dever de revelação
+
+Doc. 04 Conjunto de decisões conflitantes a respeito do conceito de
+
+(A a H) “dúvida justificada”
+
+Conjunto de decisões conflitantes a respeito da aplicação
+Doc. 05
+exclusiva das hipóteses taxativas do art. 144 e 145 do CPC para se
+(A a H)
+aferir a parcialidade dos árbitros
+
+Doc. 06 Conjunto de decisões conflitantes a respeito da aplicação
+
+(A e B) obrigatória de soft law a respeito do dever de revelação
+
+Doc. 07 Conjunto de decisões conflitantes a respeito do momento
+
+(A a F) adequado para suscitar a impossibilidade de atuação do árbitro

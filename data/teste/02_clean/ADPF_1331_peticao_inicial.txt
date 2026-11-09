@@ -1,0 +1,1759 @@
+[[pagina 1 | ocr]]
+
+
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL
+FEDERAL
+
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL COM PEDIDO
+LIMINAR
+
+O GOVERNADOR DO ESTADO DO CEARÁ, no exercício da competência que
+lhe é atribuída pelo artigo 2º, |, da Lei nº 9.882/99, c/c art. 103, V, da Constituição Federal,
+vem respeitosamente, com fundamento no art. 102, 81º, da Constituição Federal e art. 1º e
+seguintes da Lei nº 9.882/99, propor ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO
+FUNDAMENTAL COM PEDIDO DE MEDIDA LIMINAR, em face de ato jurisdicional lesivo
+praticado pela Subseção Il Especializada em Dissídios Individuais do Tribunal Superior do
+Trabalho, consubstanciado no acórdão proferido nos autos do Recurso Ordinário
+Trabalhista nº TST-ROT-0080037-67.2018.5.07.0000, o qual extinguiu a Ação Rescisória de
+ofício e sem resolução de mérito, com amparo unicamente em ato normativo infralegal
+(Instrução Normativa nº 39/2016), violando frontalmente os artigos 5º, incisos XXXV, LIV, LV
+e LXXVIII, da Constituição Federal, que consagram preceitos fundamentais da ordem
+constitucional brasileira, pelas razões de fato e de direito a seguir aduzidas.
+
+1. DO CONTEXTO FÁTICO-PROCESSUAL DA LIDE
+
+O presente caso tem origem em uma Ação Civil Pública ajuizada pelo Ministério
+Público do Trabalho contra o Estado do Ceará, a Empresa de Tecnologia da Informação do
+Ceará e as empresas Request Informática S/C Ltda e Request For Informatica Ltda.
+
+Em breve sumário fático, no ano de 2000 houve a extinção do Serviço de
+Processamento de Dados do Estado do Ceará (SEPROCE), de quadro mais amplo, e a
+subsequente criação de nova empresa para tratar do assunto no Estado, a Empresa de
+Tecnologia da Informação do Ceará (ETICE).
+
+Para tanto, o Estado do Ceará instituiu um programa de demissão voluntária
+(PDV) para racionalizar o quadro de pessoal antes de efetuar a extinção do referido órgão
+público, o que seria benéfico aos obreiros, eis que, com a extinção da empresa, haveria a
+ruptura do contrato de trabalho apenas com o pagamento das verbas rescisórias.
+
+Centro Administrativo Bárbara de Alencar + Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 6081-520
+Fortaleza-CE + Fone: (85) 34596300
+
+O CC
+
+[[pagina 2 | ocr]]
+
+
+
+Na sequência dos atos, parte dos empregados (pouco mais de uma dezena da
+quase uma centena dos desligados do SEPROCE) passou a prestar serviços indiretos para
+a ETICE, por intermédio da empresa prestadora Request Informática, como autônomos.
+
+Portanto, foi proposta a ACP, onde o MPT questionou a situação de
+trabalhadores que passaram a constituir o vínculo por interposta pessoa, sob a alegativa de
+“pejotização” indevida, bem como também impugnou a validade do próprio PDV, sob
+argumento de possível coação dos trabalhadores.
+
+Após o regular trâmite processual, a ACP foi julgada parcialmente procedente
+em 1º grau, apenas para reconhecer o vínculo empregatício do pequeno grupo de
+trabalhadores com a empresa Request, com responsabilidade subsidiária do Estado quanto
+às verbas trabalhistas decorrentes. Porém, em sede de recurso ordinário, o Tribunal
+Regional do Trabalho da 7º Região (TRT-7) ampliou a condenação para também decretar a
+nulidade da adesão dos trabalhadores ao programa de demissão voluntária, determinando a
+reintegração imediata desses profissionais na nova empresa (ETICE).
+
+Diante do trânsito em julgado da decisão, que considerava manifestamente
+violadora de normas jurídicas e eivada de erro de fato, o Estado do Ceará ajuizou Ação
+Rescisória perante o TRT-7, autuada sob o número 0080037-67.2018.5.07.0000.
+
+A Ação Rescisória - e aqui reside ponto relevante - não objetivou questionar
+toda a condenação, mas apenas a parte em que se anulou o PDV, o que é permitido
+inclusive pela Súmula 100 do TST. Na petição inicial da ação desconstitutiva, pois, o Estado
+indicou para compor o polo passivo o Ministério Público do Trabalho da 72 Região, único
+autor da ação civil pública matriz.
+
+Acontece que o TRT-7 julgou improcedente o pedido de corte rescisório, o que
+motivou a interposição de Recurso Ordinário pelo Estado do Ceará perante o Tribunal
+Superior do Trabalho.
+
+O processo foi recebido no TST em 10 de março de 2020, sob a relatoria do
+Ministro Luiz José Dezena da Silva, tendo sido incluído em pauta pela primeira vez em
+outubro de 2024. Naquela oportunidade, o Ministro Relator proferiu voto favorável ao Estado
+do Ceará, propondo julgar procedente a rescisória para pronunciar a prescrição bienal da
+pretensão de nulidade do PDV, extinguindo a ACP com resolução de mérito. O julgamento
+foi suspenso por pedido de vista do Ministro Mauricio Godinho Delgado.
+
+Em março de 2025, o julgamento foi retomado. O Ministro Godinho Delgado
+apresentou divergência quanto ao mérito (prescrição), mas o julgamento foi novamente
+suspenso por vista da Ministra Liana Chaib. Somente em março de 2026 (seis anos após a
+chegada dos autos ao TST e oito anos após o ajuizamento da rescisória), o Tribunal
+introduziu, de ofício e sem qualquer provocação das partes, a tese de que as empresas
+Request deveriam ter integrado o polo passivo.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone (85) 34596300
+
+O OO a
+
+[[pagina 3 | ocr]]
+
+
+
+Em resumo: o julgamento propriamente dito estendeu-se por aproximadamente
+18 (dezoito) meses, atravessando ao menos 5 (cinco) sessões deliberativas na
+Subseção Il Especializada em Dissídios Individuais (SDI-2), conforme se extrai das
+sucessivas interrupções por pedidos de vista regimental ocorridas em 01/04/2025 (Vice-
+Presidência), 14/10/2025 (Ministra Liana Chaib), 02/12/2025 e 10/03/2026.
+
+Como resultado, a Corte, alterando radicalmente o rumo da lide, entendeu tratar-
+se de litisconsórcio passivo necessário. O Ministro Relator, reformulando seu voto anterior
+que analisava o mérito, aderiu à tese de que a ausência dessas empresas seria um vício
+insanável, pois o prazo decadencial de dois anos para a rescisória já havia expirado.
+
+Durante esse vasto período de maturação do julgado, em nenhum momento —
+seja nos despachos ordinatórios, nas manifestações do Ministério Público ou nas
+intervenções dos Ministros nas quatro primeiras sessões de debate — cogitou-se a
+existência de vício na formação do polo passivo, e o Estado do Ceará, confiando na
+estabilidade da relação processual estabelecida há mais de oito anos, aguardou o
+pronunciamento de mérito da Corte.
+
+Em um ato de inadvertida surpresa processual, a SDI-2 do TST introduziu a
+inédita tese de necessidade de inclusão das empresas Request no polo passivo, para
+extinguir o processo de ofício e sem resolução de mérito, sem conceder ao Estado do Ceará
+um único dia para se manifestar sobre essa nova exigência processual ou sobre a
+viabilidade da inclusão dessas empresas — que, frise-se, encontram-se baixadas ou
+inaptas perante a Receita Federal desde 2018 e 2019. O TST justificou a ausência de
+intimação prévia com base na Instrução Normativa nº 39/2016, que autorizaria o
+afastamento do princípio da não surpresa em casos de pressupostos processuais.
+
+Reitere-se: conforme certidões extraídas do Cadastro Nacional da Pessoa
+Jurídica (CNPJ), a empresa Request IT encontra-se na situação cadastral BAIXADA desde
+24 de setembro de 2018, em razão de encerramento por liquidação voluntária. Já a
+empresa Request For figura como INAPTA desde 30 de maio de 2019, por omissão de
+declarações.
+
+Com isso, a exigência de citação de pessoas jurídicas formalmente extintas ou
+inexistentes de fato como condição para o prosseguimento da Ação Rescisória constitui
+formalismo excessivo e desproporcional, que subverte a finalidade instrumental do processo
+para transformá-lo em um fim em si mesmo, bloqueando o exame de mérito sobre uma
+prescrição bienal manifesta.
+
+Percebe-se que o Tribunal não apenas suscitou a questão de ofício após seis
+anos de permanência do processo na Corte, como também impediu qualquer tentativa
+de saneamento, declarando a extinção imediata do feito sob o argumento de que o prazo
+decadencial para a rescisória já havia expirado.
+
+Centro Administrativo Bárbara de Atencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone. (85) 34596300
+
+O
+
+[[pagina 4 | ocr]]
+S.
+CEARA
+
+
+A Corte fundamentou sua conclusão na Súmula 406, |, do TST para declarar
+que as empresas Request deveriam obrigatoriamente ter integrado o polo passivo da
+demanda desconstitutiva. Todavia, o Tribunal aplicou o verbete de modo unilateral,
+contrariando diretamente a própria literalidade da Súmula que invocou, ou seja, foi criado
+requisito de propositura novo, até então inexistente na lei ou na jurisprudência, de forma
+retroativa.
+
+Ademais, Tribunal Superior do Trabalho amparou a extinção abrupta do
+processo na alegação de que o prazo decadencial de dois anos para o ajuizamento da ação
+rescisória já havia transcorrido, o que inviabilizaria qualquer tentativa de emenda à petição
+inicial para inclusão das empresas supostamente litisconsortes, olvidando que estas sequer
+teriam qualquer ligação com o objeto restrito da Rescisória, que estaria jungido à questão
+da anulação do PDV, momento em que sequer se cogitava de qualquer relação com as
+citadas empresas, que somente apareceram quando do surgimento da ETICE.
+
+Em acréscimo à lesão aos preceitos fundamentais, o acórdão rescindendo
+expressamente justificou a ausência de intimação prévia do Estado do Ceará invocando a
+Instrução Normativa 39/2016 do TST, que, contrariando as normas processuais civis e a
+principiologia constitucional, autoriza decisões surpresa quando se trata de pressupostos
+processuais, sem abrir manifestação das partes a respeito.
+
+Ão justificar a ausência de intimação prévia do Estado do Ceará para se
+manifestar sobre o novo óbice processual (o suposto litisconsórcio passivo necessário), O
+Tribunal valeu-se do art. 4º, & 2º, da referida IN, consignando que "não se considera
+decisão surpresa” a que (...) as partes tinham obrigação de prever, concernente às
+condições da ação [e] aos pressupostos processuais”.
+
+Ocorre que tal dispositivo da Instrução Normativa nº 39/2016 não representa
+apenas um erro de julgamento isolado, mas sim o instrumento normativo suporte de
+uma "prática institucional defensiva" do Tribunal Superior do Trabalho. Sob o pretexto de
+regulamentar a aplicação do CPC ao processo do trabalho, a Corte erigiu uma barreira
+administrativa que aniquila o Princípio da Não Surpresa (Art. 10 do CPC) e o Dever de
+Consulta do magistrado, esvaziando o núcleo essencial do contraditório material (Art. 5º,
+LV, CF).
+
+Essa prática institucionalizada permite ao TST criar "emboscadas processuais"
+onde temas complexos e interpretativos, como a cindibilidade de capítulos de sentença
+rescidenda, são qualificados como óbvios pressupostos processuais para dispensar o
+diálogo judicial. Trata-se de uma política de "extermínio de processos" que eleva o rigor
+formal irrealizável acima do dever de prestar jurisdição sobre lesões graves ao erário
+público, transformando o acesso à jurisdição rescisória em um direito meramente teórico.
+
+Centro Administrativo Bárbara de Alencar + Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 3459.6300
+
+o MM ad
+
+[[pagina 5 | ocr]]
+
+
+
+Portanto, a aplicação da IN 39/2016 neste caso concreto configura ato do
+Poder Público violador de preceito fundamental, pois institucionaliza a negação
+do Acesso à Justiça (art. 5º, XXXV, CF) e do Devido Processo Legal (art. 5º, LIV, CF). Ao
+blindar-se contra o debate de mérito mediante a aplicação de um regulamento interno que
+se sobrepõe à Constituição, o TST deixa de atuar como órgão jurisdicional para agir como
+barreira burocrática contra a Fazenda Pública.
+
+Essa interpretação ampliativa e não demonstrada do instituto do litisconsórcio
+necessário, somada à recusa deliberada em ouvir a parte por força de uma norma interna
+defensiva, constitui o fundamento central da extinção do processo. Evidencia-se que a
+violação aos preceitos fundamentais não decorre apenas da ausência de contraditório, mas
+da própria construção de uma prática de poder voltada a impedir, sistematicamente, o
+reexame de títulos executivos eivados de nulidade e prescrição.
+
+Dessa forma, a postura da Corte Trabalhista converteu o processo em um
+ambiente de imprevisibilidade total, onde um fundamento inédito, surgido após 8 anos de
+litígio, foi utilizado para encerrar a discussão jurídica sem franquear à parte afetada o direito
+de defesa. Consumou-se, assim, uma violação direta ao núcleo essencial do devido
+processo legal, do contraditório material e do direito fundamental de obter uma resposta
+jurisdicional fundamentada sobre a pretensão deduzida.
+
+2. DO OBJETO 4a]
+
+Conforme já dito, em resumo, após o trâmite regular perante o TRT-7, o feito
+ascendeu ao TST via Recurso Ordinário, de modo que seu julgamento, no âmbito da SDI-2,
+estendeu-se por diversas sessões. Contudo, em sessão realizada no dia 17 de março de
+2026, a Corte adotou uma postura processual surpreendente e lesiva ao Estado do Ceará.
+
+Suscitaram-se, de ofício, questões nunca ventiladas em qualquer momento
+anterior — desde a propositura da ação em 2018 — e sequer pontuadas pelo MPT em sua
+contestação ou contrarrazões. A SDI-2 do TST, em uma guinada hermenêutica defensiva,
+decidiu extinguir o processo sem resolução de mérito, alegando um suposto vício insanável
+na formação do polo passivo. Veja-se ementa:
+
+“POLO PASSIVO DA AÇÃO RESCISÓRIA. AUSÊNCIA DAS PARTES QUE
+INTEGRARAM O POLO PASSIVO DA RECLAMAÇÃO TRABALHISTA
+MATRIZ. HIPÓTESE DE LITISCONSÓRCIO PASSIVO NECESSÁRIO.
+SÚMULA N.º 405, | DO TST. AUSÊNCIA DE PRESSUPOSTO
+PROCESSUAL DE DESENVOLVIMENTO E CONSTITUIÇÃO VÁLIDO E
+REGULAR. TEMA N.º 18 DA TABELA DE RECURSOS REPETITIVOS DO
+TST. IMPOSSIBILIDADE DE SANEAMENTO ANTE O DECURSO DO
+PRAZO DECADENCIAL DA AÇÃO DE CORTE. EXTINÇÃO DO FEITO DE
+OFÍCIO, SEM RESOLUÇÃO DE MÉRITO. PRECEDENTES.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE » Fone (85) 3459.6300
+
+O
+
+[[pagina 6 | ocr]]
+
+
+
+1. Trata-se de ação rescisória ajuizada pelo Estado do Ceará, com
+fundamento no art. 485, V e IX, do CPC de 1973, com vistas a obter a
+desconstituição de acórdão proferido pelo TRT no capítulo que declarou a
+nulidade da adesão de trabalhadores ao PRYVI instituído pelo autor e suas
+subsequentes reintegrações.
+
+2. Discutiu-se, na ação civil pública originária, relação típica de terceirização
+inquinada de fraudulenta pelo Ministério Público, ocorrida após a extinção
+de órgão da Administração Pública (SEPROCE), em que seus antigos
+empregados, após aderirem a programa de demissão voluntária instituído
+pelo autor, foram recontratados por empresa prestadora de serviços,
+Request, desta vez como autônomos, e mantiveram sua prestação laboral
+sem solução de continuidade.
+
+3. O TRT, no acórdão rescindendo, decretou a nulidade da adesão dos
+trabalhadores ao PRYVI, determinando sua reintegração aos quadros da
+ETICE, na condição de sucessora da SEPROCE; é dizer, o capítulo
+decisório que ora se analisa pela perspectiva do art 485 do CPC de 1973
+encerra condenação direcionada unicamente ao Estado do Ceará, a quem
+foi imposta a obrigação de reintegração dos antigos empregados da
+SEPROCE que aderiram ao PRVI, em ato declarado nulo pelo TRT no
+processo matriz.
+
+4. A ação rescisória, por sua vez, foi ajuizada pelo Estado do Ceará, que
+indicou para o polo passivo somente o Ministério Público do Trabalho da 7.º
+Região, autor da ação civil pública originária.
+
+5. É bem verdade que, em uma primeira leitura, poderia emergir a
+conclusão de não se tratar, aqui, de hipótese de litisconsórcio passivo
+necessário, uma vez que a condenação se resumiu ao autor da ação de
+corte; não obstante, o interesse da empresa prestadora, Request, em
+integrar o polo passivo apresenta-se de forma manifesta, no sentido de
+defender a improcedência da ação rescisória. A procedência do pedido
+desconstitutivo, nos termos em que formulado, implicaria revitalizar as
+relações jurídicas anuladas no processo matriz, que possuem a ré Request
+como titular, o que impactaria sobremaneira sua esfera patrimonial.
+
+6. Exsurge daí a necessidade de solução uniforme a ser dada a todas as
+partes envolvidas nas relações jurídicas abrangidas pelo presente feito,
+facultando-se-lhes o exercício do contraditório e da ampla defesa, à luz da
+tese jurídica firmada no item 1 do Tema n.º 18 da Tabela de Recursos
+Repetitivos desta Corte.
+
+7. Trata-se, em verdade, de hipótese de litisconsórcio passivo necessário,
+nos termos do art. 47 do CPC de 1973, que dispõe que “Há litisconsórcio
+necessário, quando, por disposição de lei ou pela natureza da relação
+jurídica, o juiz tiver de decidir a lide de modo uniforme para todas as partes;
+caso em que a eficácia da sentença dependerá da citação de todos os
+fitisconsortes no processo”. E não há como escapar a tal conclusão, uma
+vez que a desconstituição da coisa julgada, nos termos pretendidos pelo
+autor, afeta diretamente a esfera de direitos dos demais componentes do
+polo passivo da ação cívil pública subjacente, de modo a exigir a integração
+daqueles alcançados pelos seus limites subjetivos no polo passivo da ação
+de corte.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone (85) 34596300
+
+O E a
+
+[[pagina 7 | ocr]]
+
+
+
+8. É bem verdade que o parágrafo único do art. 47 do CPC/1973 estabelece
+que “O juiz ordenará ao autor que promova a citação de todos os
+litisconsortes necessários, dentro do prazo que assinar, sob pena de
+declarar extinto o processo”. Porém, no caso específico da ação rescisória,
+a referida integração somente é possível dentro do biênio a que alude o art.
+495 do CPC/1973, pois, escoado esse prazo, opera-se a decadência da
+ação rescisória, inviabilizando a retificação.
+
+9. Registre-se, por fim, que o reconhecimento de ofício da decadência não
+configura decisão surpresa, nos moldes previstos pelo art. 10 do CPC de
+2015, ante o disposto no $ 2.º do art. 4.º da Instrução Normativa n.º 39
+deste Tribunal Superior, de 15/3/2016, no sentido de que “Não se considera
+“decisão surpresa' a que, à luz do ordenamento jurídico nacional e dos
+princípios que informam o Direito Processual do Trabalho, as partes tinham
+obrigação de prever, concernente às condições da ação, aos pressupostos
+de admissibilidade de recurso e aos pressupostos processuais, salvo
+disposição legal expressa em contrário”.
+
+10. Assim, constatando-se a ausência de pressuposto processual de
+constituição e desenvolvimento válido e regular da ação rescisória, impõe-
+se a extinção do feito de oficio, sem resolução de mérito, nos termos do art.
+485, Ve $3.º, do CPC de 2015, na linha dos precedentes desta SBDI-2.
+
+1f. Recurso Ordinário conhecido e processo extinto ex officio sem
+resolução de mérito.”
+
+A fundamentação do acórdão repousou sobre uma aplicação absolutamente
+equivocada da Súmula 406, |, do TST, cuja redação é a seguinte:
+
+Súmula nº 406 do TSTAÇÃO RESCISÓRIA. LITISCONSÓRCIO.
+(incorporadas as Orientações Jurisprudenciais nºs 82 e 110 da SBDI-2) -
+Res. 137/2005, DJ 22, 23 e 24.08.2005
+
+1 - O litisconsórcio, na ação rescisória, é necessário em relação ao
+polo passivo da demanda, porque supõe uma comunidade de direitos
+ou de obrigações que não admite solução dispar para os
+litisconsortes, em face da indivisibilidade do objeto. (...)
+
+! - O Sindicato, substituto processual e autor da reclamação trabalhista, em
+cujos autos fora proferida a decisão rescindenda, possuí legitimidade para
+figurar como réu na ação rescisória, sendo descabida a exigência de
+citação de todos os empregados substituídos, porquanto inexistente
+litisconsórcio passivo necessário.
+
+O Tribunal Superior partiu da premissa de que a referida súmula imporia, de
+forma automática, a formação de litisconsórcio passivo necessário abrangendo todos os
+sujeitos que participaram da relação processual originária. Ocorre que o reconhecimento do
+litisconsórcio passivo necessário exige a presença cumulativa de dois requisitos: (i) a
+existência de relação jurídica unitária; e (ii) a necessidade de solução uniforme da
+controvérsia para todos os sujeitos envolvidos.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60BII-520
+Fortaleza-CE « Fone: (85) 34596300
+
+O Cn rm
+
+[[pagina 8 | ocr]]
+
+
+
+Dessa forma, pela identificação dos dois requisitos supramencionados na leitura
+da súmula, toma-se evidente que, no caso concreto, o requisito essencial
+da indivisibilidade do objeto é flagrantemente inexistente.
+
+À ação rescisória proposta pelo Estado do Ceará, em estrita observância à
+técnica processual e à Súmula 100 do TST, não pretendeu desconstituir a integralidade da
+decisão proferida na Ação Civil Pública matriz. O corte rescisório dirigiu-se exclusivamente
+ao capítulo autônomo que declarou a nulidade do programa de demissão voluntária
+(PDV) instituído no ano 2000 e determinou a reintegração dos trabalhadores.
+
+Trata-se de capítulo divisível e independente. A eventual procedência da ação
+rescisória para validar o PDV impactaria apenas a obrigação de reintegração imposta ao
+Estado e à ETICE. Tal desconstituição não interfere, direta ou juridicamente, nos demais
+capítulos da decisão originária, notadamente aqueles relativos às condenações pecuniárias
+impostas às empresas terceirizadas Request Informática S/C Ltda. e Request For
+Informática Ltda. decorrentes da fraude na contratação ("pejotização") verificada entre 2000
+e 2007.
+
+Nesse contexto de delimitação objetiva, as empresas Request não detêm
+qualquer interesse jurídico ou "comunidade de obrigações" com o Ente Público. Tais
+empresas surgiram na relação fática anos após a implementação do PDV, de modo
+que a discussão sobre a validade de um ato administrativo de demissão voluntária ocorrido
+entre o Estado e seus servidores no ano 2000 é juridicamente estranha à esfera de direitos
+dessas prestadoras de serviços.
+
+Não há, portanto, risco de "solução díspar" que as afete, pois a eventual
+procedência da rescisória para validar o PDV impactaria apenas a obrigação de
+reintegração imposta ao Estado e à ETICE, mantendo-se hígidos (ou passíveis de execução
+autônoma) os demais capítulos da sentença que porventura condenem as empresas
+Request por outros fundamentos.
+
+Ao exigir a inclusão de sujeitos que não integram a relação jurídica específica
+objeto da desconstituição, o TST não apenas aplicou erroneamente seu próprio verbete
+sumular, como criou um requisito de admissibilidade retroativo e inexistente na lei. Essa
+interpretação ampliativa e não demonstrada confundiu conexão fática com indivisibilidade
+jurídica, transformando o litisconsórcio em uma barreira artificial ao acesso à jurisdição.
+
+O gravame aos preceitos fundamentais atingiu seu ápice quando a Corte, em
+vez de intimar o Estado do Ceará para se manifestar sobre a questão — conforme impõe o
+Princípio da Não Surpresa e o dever de colaboração —, decidiu pelo extermínio imediato do
+processo. O fundamento utilizado para essa extinção abrupta foi que o prazo decadencial
+de dois anos para o ajuizamento da rescisória já havia transcorrido, o que inviabilizaria
+qualquer tentativa de emenda à petição inicial para inclusão das empresas.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 6081-520
+Fortaleza-CE « Fone: (85) 34596300
+
+DO ru
+
+[[pagina 9 | ocr]]
+
+
+
+À decisão impugnada, ao barrar o exame de mérito por meio de um formalismo
+exacerbado e teratológico, impõe ao Estado do Ceará a manutenção de uma condenação
+cujas execuções de atrasados já estão orçadas em mais de R$ 300 milhões, além da
+obrigação indevida de reintegração de pessoal em um órgão já extinto.
+
+Essa interpretação ampliativa e não demonstrada do instituto do litisconsórcio
+necessário constitui o fundamento central da extinção do processo, evidenciando que a
+violação aos preceitos fundamentais não decorre apenas da ausência de contraditório, mas
+também da própria construção jurídica adotada pelo acórdão impugnado.
+
+Dessa forma, a postura da Corte Trabalhista converteu o processo em um
+ambiente de imprevisibilidade total, onde um fundamento inédito, surgido após 8 anos de
+litígio, foi utilizado para encerrar a discussão jurídica sem franquear à parte afetada o direito
+de defesa. Consumou-se, assim, uma violação direta ao núcleo essencial do devido
+processo legal, do contraditório material e do direito fundamental de obter uma resposta
+jurisdicional fundamentada sobre a pretensão deduzida.
+
+3. DO CABIMENTO E DA SUBSIDIARIEDADE DA ARGUIÇÃO DE DESCUMPRIMENTO
+DE PRECEITO FUNDAMENTAL
+
+O art. 1º da Lei nº 9.882/99 estipula que esta ação tem por objetivo evitar ou
+reparar lesão a preceito fundamental resultante de ato do Poder Público.
+
+Além disso, o art. 4º, 81º, do mesmo diploma prevê o requisito da
+
+subsidiariedade, segundo o qual se admitirá a arguição apenas quando inexistir outro meio
+eficaz de sanar a lesividade alegada.
+
+3.1. Natureza do ato impugnado
+
+Como se sabe, é impugnável pela ADPF qualquer ato do Poder Público que lese
+preceito fundamental. Nos termos dispostos acima, o ato lesivo questionado nesta demanda
+constitucional consiste em um acórdão proferido pelo TST que extinguiu uma ação
+rescisória sem resolução do mérito, com base na aplicação de regras processuais
+infraconstitucionais relativas a litisconsórcio necessário e decadência processual.
+
+Nos termos da jurisprudência do STF, é plenamente admissível o ajuizamento
+de ADPF em face de um conjunto de decisões judiciais que atingem preceito fundamental,
+conforme definido no julgamento da ADPF 485:
+
+DIREITO CONSTITUCIONAL E PROCESSO CONSTITUCIONAL.
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL.
+BLOQUEIO, PENHORA E SEQUESTRO DE VERBAS PÚBLICAS PELA
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+O Cia a
+
+[[pagina 10 | ocr]]
+
+
+
+PROCU GERAL DO
+
+JUSTIÇA DO TRABALHO. CABIMENTO DA ADPF PARA IMPUGNAR ATO
+JURISDICIONAL.
+
+1. Arguição proposta pelo Governador do Amapá contra decisões judiciais
+proferidas sob a jurisdição do TRT-8º Região que determinaram o bloqueio,
+a penhora e/ou o sequestro de verbas estaduais, ao fundamento de que os
+valores em questão constituiriam créditos devidos pelo Estado a empresas
+que são rés em ações trabalhistas.
+
+2. As decisões judiciais se enquadram na definição de “ato do poder
+público” de que trata o caput do art. 1º da Lei nº 9.882/1999, o que as
+sujeita ao controle concentrado de constitucionalidade via ADPF. A
+jurisprudência desta Corte firmou-se no sentido de que o requisito da
+subsidiariedade é satisfeito quando inexiste, no caso, outro meio
+processual eficaz para sanar a lesão a preceito fundamental de forma
+ampla, geral e imediata. Precedentes.
+
+3. Atos de constrição praticados pela Justiça do Trabalho sobre verbas
+públicas, sob alegação de que as empresas reclamadas deteriam créditos a
+receber da administração estadual. Violação do contraditório, da ampla
+defesa, do princípio do juiz natural, do sistema de precatórios e da
+segurança orçamentária. Precedentes.
+
+4. Conversão da apreciação da liminar em exame de mérito, para julgar
+procedente o pedido, com fixação da seguinte tese: “Verbas estaduais não
+podem ser objeto de bloqueio, penhora e/ou sequestro para pagamento de
+valores devidos em ações trabalhistas, ainda que as empresas reclamadas
+detenham créditos a receber da administração pública estadual, em virtude
+do disposto no art. 167, Vl e X, da CF, e do princípio da separação de
+poderes (art. 2º da CF)”.
+
+(ADPF 485, Relator(a): ROBERTO BARROSO, Tribunal Pleno, julgado em
+07-12-2020, PROCESSO ELETRÔNICO DJe-021 DIVULG 03-02-2021
+PUBLIC 04-02-2021)
+
+Verifica-se que o ato jurisdicional impugnado não representa um erro isolado,
+mas sim a concretização de uma prática institucional defensiva da Corte Trabalhista,
+amparada na Instrução Normativa nº 39/2016.
+
+Tal normativo autoriza, por via administrativa, a supressão do princípio da não
+surpresa e do contraditório e ampla dafesa em questões de pressupostos processuais,
+criando um bloqueio sistêmico que impede o exame de mérito de questões fundamentais —
+como a observância da Súmula Vinculante nº 10 e do princípio do concurso público. O
+ajuizamento desta arguição justifica-se, portanto, para impugnar esse conjunto de decisões
+que, sob o manto de regras processuais, aniquilam garantias constitucionais.
+
+Com isso, a Instrução Normativa nº 39/2016, ao autorizar, em seu art. 4º, 82º,
+que o Tribunal decida de ofício sobre pressupostos processuais sem oportunizar a
+manifestação das partes, institucionalizou uma zona de exceção ao devido processo legal,
+criando um bloqueio sistemático ao acesso à jurisdição rescisória.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone (85) 34596300
+
+O
+
+[[pagina 11 | ocr]]
+
+
+
+Para além da decisão proferida, impugna-se igualmente a própria Instrução
+Normativa nº 39/2016 do TST, especificamente em seu art. 4º, 8 2º, na qualidade de ato
+normativo autônomo, de caráter geral e abstrato, emanado do Poder Público, dotado de
+eficácia normativa própria e apto, por si só, a produzir lesão a preceitos fundamentais da
+ordem constitucional. O acórdão concreto é, nessa perspectiva, a manifestação mais
+recente e mais grave de uma prática institucionalizada por aquele dispositivo — mas não é
+o único ato lesivo, nem seria sua eventual anulação isolada suficiente para extirpar a fonte
+normativa do problema.
+
+A Instrução Normativa nº 39/2016 foi editada pelo TST no exercício de
+competência regulamentar intema, com a finalidade declarada de disciplinar a aplicação do
+Código de Processo Civil de 2015 ao processo do trabalho. Ocorre que, ao fazê-lo, a Corte
+não se limitou a interpretar ou a adaptar normas processuais: ela criou, por ato próprio e
+unilateral, uma regra de exclusão do princípio da não surpresa, estabelecendo no arí. 4º, 8
+2º, que não se considera "decisão surpresa" aquela que verse sobre condições da ação ou
+pressupostos processuais.
+
+Trata-se de norma geral, abstrata, impessoal e de aplicação compulsória a todos
+os feitos que tramitem perante a Justiça do Trabalho em todo o território nacional —
+características que a distinguem radicalmente de um mero ato administrativo concreto ou de
+uma decisão judicial pontual.
+
+Conforme já dito, a jurisprudência do STF é firme no sentido de que o conceito
+de “ato do Poder Público" previsto no art. 1º da Lei nº 9.882/1999 abrange não apenas leis
+em sentido formal, mas qualquer ato normativo estatal capaz de produzir efeitos jurídicos
+sobre a esfera de direitos dos jurisdicionados, independentemente de sua denominação ou
+da autoridade que o editou.
+
+Nesse sentido, esta Corte já admitiu o cabimento de ADPF para impugnar
+resoluções, portarias, instruções normativas e atos regulamentares de órgãos do Poder
+Público, desde que dotados de generalidade e abstração suficientes. A IN 39/2016, editada
+pelo Plenário do TST, publicada no Diário Eletrônico da Justiça do Trabalho e de
+observância obrigatória por todos os juizes e tribunais trabalhistas do país, preenche com
+folga esse requisito.
+
+Tampouco se pode enquadrar a presente arguição como simples impugnação
+de interpretação judicial de norma infraconstitucional, hipótese que, de fato, não comportaria
+controle concentrado. O que se questiona aqui é a validade constitucional da própria
+norma regulamentar que autoriza tribunais a suprimir o contraditório em questões de
+pressupostos processuais, independentemente da complexidade ou da novidade do tema
+enfrentado.
+
+Essa norma opera de forma geral e prospectiva: ela não foi criada para o caso
+do Estado do Ceará, e seus efeitos lesivos se replicam, continuamente, em todos os
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60871-520
+Fortaleza-CE + Fone (85) 34596300
+
+DR o
+
+[[pagina 12 | ocr]]
+
+
+
+processos em que o TST decida de ofício sobre pressupostos processuais sem ouvir as
+partes. Há, portanto, uma lesão continuada e difusa a preceitos fundamentais, que
+transcende o caso concreto e exige o instrumento do controle concentrado para ser
+adequadamente neutralizada.
+
+Por fim, registre-se que a impugnação da IN 39/2016 como ato normativo
+autônomo não encontra obstáculo na circunstância de ter sido editada por um tribunal, e
+não pelo Poder Legislativo, pois, ao disciplinar a relação entre os juízes trabalhistas e as
+partes que litigam perante eles, produz efeitos externos evidentes, não se abrigando sob o
+manto da autonomia administrativa interna dos tribunais para escapar ao escrutínio
+constitucional desta Suprema Corte.
+
+À luz dessas ponderações, identifica-se a ADPF como o instrumento idôneo
+para impugnar não apenas leis, mas um "conjunto de decisões judiciais" ou uma "prática
+institucional" que resulte em lesão a preceito fundamental. Tal entendimento foi reafirmado
+na já mencionada ADPF 485, que reconheceu o cabimento da ação para obstar atos de
+constrição praticados de forma reiterada pela Justiça do Trabalho.
+
+No mesmo sentido, a ADPF 789 corroborou a viabilidade do controle
+concentrado de constitucionalidade sobre atos jurisdicionais que, sob o pretexto de aplicar
+regras processuais ou interpretativas, vulneram a estrutura orçamentária e a separação de
+poderes:
+
+EMENTA: Direito constitucional, administrativo e financeiro. Arguição de
+Descumprimento de Preceito Fundamental. Bloqueio judicial de verbas de
+estatal prestadora de serviço público. 1. Arguição de Descumprimento de
+Preceito Fundamental — ADPF proposta pelo Governador do Estado do
+Maranhão contra decisões judiciais proferidas pelo Tribunal Regional! do
+Trabalho da 16º Região que determinaram bloqueio, penhora, arresto e
+sequestro de valores da Empresa Maranhense de Serviços Hospitalares —
+EMSERH, empresa pública prestadora de serviços gratuitos de assistência
+médico-hospitalar, ambulatorial e farmacêutica, sem a observância do
+regime de precatórios previsto no art. 100 da Constituição Federal de 1988.
+2. Cabimento de ADPF para impugnar um conjunto de decisões judiciais
+tidas como violadoras de preceitos fundamentais. A jurisprudência desta
+Corte firmou-se no sentido de que o requisito da subsidiariedade é satisfeito
+quando inexiste, no caso, outro meio processual eficaz para sanar a lesão a
+preceito fundamental de forma ampla, geral e imediata (cf. ADPF 33, Rel.
+Min. Gilmar Mendes). 3. Atos de constrição do patrimônio de estatal
+prestadora de serviço público essencial, em regime não concorrencial:
+afronta aos princípios da separação dos poderes (art. 2º, CF/1988), da
+eficiência (art. 37, caput, CF/1988) e da legalidade orçamentária (art. 167,
+Vi, CF/1988) e ao sistema constitucional de precatórios (art. 100, CF/1988).
+Precedentes: ADPF 485, sob minha relatoria; ADPF 556, Rel. Min. Cármen
+Lúcia; ADPF 387, Rel. Min. Gilmar Mendes; e ADPF 114 MC, Rel. Min.
+Joaquim Barbosa. 4. Ação conhecida e pedido julgado procedente para
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE + Fone: (85) 34596300
+
+O rins
+
+[[pagina 13 | ocr]]
+g
+
+
+
+determinar a suspensão das decisões judiciais que promoveram constrições
+judiciais por bloqueio, penhora, arresto ou sequestro e determinar a
+sujeição da Empresa Maranhense de Serviços Hospitalares - EMSERH ao
+regime constitucional de precatórios. (ADPF 789, Relator(a): ROBERTO
+BARROSO, Tribunal Pleno, julgado em 23/08/2021, PROCESSO
+ELETRÔNICO DJe-178 DIVULG 07-09-2021 PUBLIC 08-09-2021)
+
+A conduta da Subseção Il Especializada em Dissídios Individuais do TST, ao
+extinguir a ação rescisória do Estado do Ceará com base em fundamento jurídico inédito e
+sem facultar o direito à emenda ou manifestação, é o subproduto de uma orientação
+normativa interna (IN 39/2016) que se sobrepõe ao próprio Código de Processo Civil e ao
+núcleo essencial do contraditório (art. 5º, LV, CF).
+
+Dessa forma, é indiscutível que as decisões judiciais decorrem de manifestações
+
+do Poder Público e, ao afrontarem preceito fundamental, são passíveis de serem
+impugnadas por este meio processual de controle.
+
+3.2. Subsidiariedade
+
+O segundo pressuposto de cabimento apresenta o caráter residual da ADPF,
+que só será admitida quando inexistir outro meio eficaz para sanar a lesão a preceito
+fundamental. Veja-se o que dispõe o art. 4º, 81º, da Lei nº 9.882/99:
+
+Art. 4º A petição inicial será indeferida liminarmente, pelo relator, quando
+não for o caso de argúição de descumprimento de preceito fundamental,
+faltar algum dos requisitos prescritos nesta Lei ou for inepta.
+
+& 1º Não será admitida argúição de descumprimento de preceito
+fundamental quando houver qualquer outro meio eficaz de sanar a
+lesividade.
+
+O Supremo Tribunal Federal, em sua consolidada jurisprudência, tem
+interpretado tal requisito de forma a reconhecer a admissibilidade da ADPF sempre que não
+houver outro meio rápido, seguro, abrangente e definitivo para afastar a lesão ao preceito
+fundamental impugnado.
+
+No julgamento da ADPF 33, o STF ressaltou a necessidade de uma
+interpretação mais cuidadosa do $1º do art. 4º da Lei nº 9.882/1999. O Ministro Gilmar
+Mendes esclareceu que o requisito da subsidiariedade deve ser compreendido dentro da
+ordem constitucional global e que meio eficaz é aquele capaz de solucionar a controvérsia
+de maneira ampla, geral e imediata:
+
+“À primeira vista poderia parecer que somente na hipótese de absoluta
+inexistência de qualquer outro meio eficaz para afastar a eventual lesão
+poder-se-ia manejar, de forma útil, a arguição de descumprimento de
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE + Fone: (85) 34596300
+
+DO
+
+[[pagina 14 | ocr]]
+
+
+
+preceito fundamental. É fácil ver que uma leitura excessivamente literal
+dessa disposição, que tenta introduzir entre nós o principio da
+subsidiariedade vigente no direito alemão (recurso constitucional) e no
+direito espanhol! (recurso de amparo), acabaria por retirar desse instituto
+qualquer significado prático.
+
+De uma perspectiva estritamente subjetiva, a ação somente poderia ser
+proposta se já se tivesse verificado a exaustão de todos os meios eficazes
+de afastar a lesão no âmbito judicial.
+
+Uma leitura mais cuidadosa há de revelar, porém, que na análise sobre a
+eficácia da proteção de preceito fundamental nesse processo deve
+predominar um enfoque objetivo ou de proteção da ordem constitucional
+objetiva. Em outros termos, o princípio da subsidiariedade - inexistência de
+outro meio eficaz de sanar a lesão - contido no 81º do art. 4º da Lei n.
+9.882, de 1999, há de ser compreendido no contexto da ordem
+constitucional global.
+
+Nesse sentido, se se considera o caráter enfaticamente objetivo do instituto
+(o que resulta, inclusive, da legitimação ativa), meio eficaz de sanar a lesão
+parece ser aquele apto a solver a controvérsia constitucional relevante de
+forma ampla, geral e imediata”.
+
+(STF, ADPF n. 33/PA, Rel. Min. Gilmar Mendes, Plenário, DJ 27.10.2006)
+
+No mesmo julgamento, restou assentado que a relevância do interesse
+público deve ser considerada na análise do requisito da subsidiariedade:
+
+“Dessa forma, o Supremo Tribunal Federal sempre poderá, ao lado de
+outros requisitos de admissibilidade, emitir juízo sobre a relevância e o
+interesse público contido na controvérsia constitucional.
+
+Essa leitura compreensiva da cláusula da subsidiariedade contida no art. 4º,
+8 1º, da Lei nº 9.882, de 1999, parece solver, com superioridade, a
+controvérsia em torno da aplicação do princípio do exaurimento das
+instâncias.
+
+Assim, é plausível admitir que o Tribunal deverá conhecer da arguição de
+descumprimento toda vez que o princípio da segurança jurídica restar
+seriamente ameaçado, especialmente em razão de confitos de
+interpretação ou de incongruências hermenêuticas causadas pelo modelo
+pluralista de jurisdição constitucional, desde que presentes os demais
+pressupostos de admissibilidade”
+
+(STF, ADPF n. 33/PA, Rel. Min. Gilmar Mendes, Plenário, DJ 27.10.2006)
+
+Ainda, no julgamento da ADPF 237-AgR/SC, de relatoria do Ministro Celso de
+Mello, foi enfatizado que a mera existência de outros meios processuais não é suficiente
+para afastar o cabimento da ADPF, caso não sejam aptos a neutralizar a lesão
+constitucional de maneira eficaz:
+
+“O ajuizamento da ação constitucional de arguição de descumprimento de
+preceito fundamental rege-se pelo princípio da subsidiariedade (Lei nº
+9.882/99, art. 4º, 8 1º), a significar que não será ela admitida, sempre que
+houver qualquer outro meio juridicamente idôneo apto a sanar, com
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE + Fone: (85) 34596300
+
+O Cu
+
+[[pagina 15 | ocr]]
+
+
+PROC GERAL DO
+
+efetividade real, o estado de lesividade emergente do ato impugnado.
+Precedentes.
+
+A mera possibilidade de utilização de outros meios processuais, contudo,
+não basta, só por si, para justificar a invocação do princípio da
+subsidiariedade, pois, para que esse postulado possa legitimamente incidir
+— impedindo, desse modo, o acesso imediato à arguição de
+descumprimento de preceito fundamental — revela-se essencial que os
+instrumentos disponíveis mostrem-se capazes de neutralizar, de maneira
+eficaz, a situação de lesividade que se busca obstar com o ajuizamento
+desse “writ” constitucional.”
+
+(STF, ADPE 237 AgR, Relator(a): CELSO DE MELLO, Tribunal Pleno,
+julgado em 28-05-2014)
+
+No caso concreto, a demonstração da subsidiariedade é inequívoca e decorre
+da própria natureza da matéria tratada e da forma como a lesão foi consumada pelo TST.
+
+Assim sendo, a prenunciada inviabilidade do Recurso Extraordinário para
+discutir regras de litisconsórcio processual cria um cenário perigoso de total ausência de
+controle jurisdicional sobre o ato praticado.
+
+Ora, se o Recurso Extraordinário não é cabível por se tratar de matéria
+processual infraconstitucional, o Estado do Ceará ficaria absolutamente desamparado
+diante de uma decisão judicial de última instância que, a pretexto de aplicar regras
+processuais, o fez de forma totalmente teratológica e esvaziou por completo garantias
+constitucionais fundamentais. A ADPF surge, portanto, como a única via constitucional
+adequada e efetiva para, na extensão pretendida, reparar a violação dos preceitos
+fundamentais causados pela decisão surpresa do Tribunal Trabalhista.
+
+O entendimento ora sustentado encontra respaldo direto na jurisprudência
+recente deste STF. Ao apreciar a ADPF 982 AgR, o Plenário da Suprema Corte reafirmou
+não apenas que o requisito da subsidiariedade se considera satisfeito quando inexistente
+outro meio processual apto a sanar a lesão de forma ampla, geral e imediata, mas também
+reconheceu expressamente a legitimidade do manejo da Arguição de Descumprimento de
+Preceito Fundamental contra decisões judiciais potencialmente violadoras de preceitos
+fundamentais.
+
+Na ocasião, assentou-se que: “Legítimo o uso de ADPF para contestar decisões
+judiciais que supostamente violem preceitos fundamentais, dada a inexistência de outro
+meio processual igualmente eficaz para sanar a lesão de forma ampla, geral e imediata.”
+(ADPF 982 AgR, Rel. Min. Flávio Dino, Tribunal Pleno, julgado em 07/08/2024, DJe
+08/10/2024).
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+o TT
+
+[[pagina 16 | ocr]]
+
+
+
+O STF, em jurisprudência consolidada (Tema 660 da Repercussão Geral)',
+firmou o entendimento de que a alegação de violação aos princípios do contraditório, da
+ampla defesa e do devido processo legal, quando dependente do exame prévio de normas
+infraconstitucionais (como as regras de litisconsórcio do CPC), configura ofensa meramente
+reflexa à Constituição Federal. Este óbice processual tornaria o Recurso Extraordinário uma
+via natimorta para o Estado do Ceará, impedindo que esta Suprema Corte enfrentasse o
+núcleo da arbitrariedade praticada pelo TST.
+
+Ademais, a lesão aqui combatida não decorre de um erro isolado de subsunção
+fática, mas da aplicação de uma prática institucional defensiva amparada na Instrução
+Normativa nº 39/2016 do TST. Tal ato normativo interno criou uma barreira sistêmica que
+autoriza o "extermínio de processos" sem observância do princípio da não surpresa, do
+contraditório e da ampla defesa.
+
+O caráter geral e autônomo da IN 39/2016, portanto, é decisivo para demonstrar
+a subsidiariedade da presente arguição. Não existe, no ordenamento processual vigente,
+recurso ou ação capaz de impugnar, com efeitos erga omnes e força vinculante, a validade
+constitucional de uma instrução normativa de tribunal superior que institucionaliza a
+supressão do contraditório.
+
+O Recurso Extraordinário, mesmo que superado o óbice do Tema 660 de RG,
+conforme se verá adiante, seria apto apenas a produzir efeitos inter partes no caso
+concreto, deixando intocada a norma que continuará a gerar, sistematicamente, decisões
+surpresa em todo o país. Por outro lado, a ADPF, por sua natureza objetiva e seus efeitos
+vinculantes, é o único instrumento capaz de solver a controvérsia constitucional de forma
+ampla, geral e imediata, nos termos consagrados desde o julgamento da ADPF 33.
+
+Assim, como o Recurso Extraordinário, por sua natureza subjetiva e restrita, é
+incapaz de desconstituir a validade dessa prática institucionalizada que vulnera a ordem
+constitucional objetiva, a ADPF é o único meio apto a solver a controvérsia de forma ampla
+e imediata, restaurando a autoridade da Constituição perante um mecanismo procedimental
+que bloqueia o acesso à jurisdição rescisória.
+
+| 4. DOS FUNDAMENTOS JURÍDICOS E DOS PRECEITOS FUNDAMENTAIS VIOLADOS
+
+A decisão proferida pelo TST deve ser declarada inconstitucional por promover
+uma ruptura grave e imemediável com o sistema de garantias processuais, formais e
+materiais, instituído pela Constituição Federal de 1988.
+
+t Tema 660 de Repercussão Geral: A questão da ofensa aos princípios do contraditório, da ampla defesa, do
+devido processo legal e dos limites à coisa julgada, tem natureza infraconstitucional, e a ela se atribuem os
+efeitos da ausência de repercussão geral, nos termos do precedente fixado no RE n. 584.608, rel. a Ministra
+Ellen Gracie, DJe 13/03/2009.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+A
+
+[[pagina 17 | ocr]]
+
+
+
+Ora, o julgamento que extingue um processo de ofício em instância recursal
+superior, negando à parte qualquer oportunidade de manifestação prévia sobre argumento
+nunca levantado nos 8 (oito) anos de tramitação do feito e que não se encontra previsto em
+regra normativa alguma ou em nenhum precedente judicial específico, afeta diretamente os
+pilares mais sagrados da jurisdição constitucional moderna, ainda mais quando calcado na
+aplicação de uma norma infraconstitucional que viola o núcleo essencial do princípio da
+confiança legítima e do contraditório e da ampla defesa.
+
+4.1. Da Violação ao Preceito Fundamental da Não Surpresa e da Proteção à
+Confiança Legítima (art. 5º, inciso LV, da CF/88)
+
+O ato jurisdicional ora impugnado configura o que a doutrina mais moderna
+denomina de "emboscada processual. Ao extinguir a Ação Rescisória de ofício, com base
+em fundamento jurídico inédito e sem oportunizar qualquer manifestação ao Estado do
+Ceará, a SDI-2 do TST rompeu o núcleo essencial do princípio da não surpresa, emanação
+direta das garantias fundamentais do contraditório e da ampla defesa inscritas no art. 5º,
+inciso LV, da Constituição Federal.
+
+Antes de avançar na demonstração da lesão concreta, é necessário precisar o
+fenômeno jurídico que aqui se combate. O contraditório, em sua acepção constitucional
+contemporânea, não se reduz à mera ciência formal dos atos processuais, mas impõe às
+partes o direito de influenciar efetivamente a formação do convencimento judicial, exigindo
+que qualquer fundamento potencialmente decisivo — ainda que cognoscível de ofício —
+seja previamente submetido ao debate dialético entre os sujeitos do processo.
+
+Essa dimensão substancial do contraditório, consagrada no art. 10 do CPC/2015
+com a vedação expressa à decisão surpresa, não é inovação infraconstitucional: ela
+representa a densificação legislativa de um conteúdo que já habitava o art. 5º, inciso LV, da
+Carta de 1988. A norma processual apenas tornou explicito o que a Constituição sempre
+exigiu implicitamente ao vedar categoricamente que o magistrado decida com base em
+fundamento sobre o qual não se tenha dado às partes oportunidade de se manifestar, ainda
+
+que se trate de matéria sobre a qual deva decidir de ofício.
+
+Nesse ponto, a jurisprudência do STF é elucidativa, ainda que formada
+principalmente no contexto do recurso extraordinário. No julgamento do RE 266.397/PR, a
+Primeira Turma do STF, sob a relatoria do Ministro Sepúlveda Pertence, assentou que "a
+garantia constitucional do contraditório e da ampla defesa tem o conteúdo mínimo: a
+decisão que o desconhece viola diretamente o art. 5º, LV, da Constituição, ainda que se
+pretenda conforme à lei estadual”.
+
+2 STF, RE 266.397-2/PR, 1º Turma, rel. Min. Sepúlveda Pertence, j. 09/03/2004, DJ 07/05/2004
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+O ia a
+
+[[pagina 18 | ocr]]
+
+
+
+O Min. Pertence atuou com precisão cirúrgica: há um núcleo duro do
+contraditório que não comporta mediação infraconstitucional, ele é, por si mesmo, conteúdo
+constitucional diretamente exigível. A decisão que o viola, viola a Constituição, não a lei
+ordinária. Quando o TST extingue um processo de ofício com base em fundamento inédito,
+sem ouvir a parte atingida, está precisamente a descumprir esse conteúdo mínimo que a
+Suprema Corte reconheceu como de natureza constitucional direta.
+
+Em sentido convergente, ao examinar normas que condicionavam a
+admissibilidade de recursos administrativos ao prévio depósito de valores, hipótese
+funcionalmente análoga à ora debatida, pois em ambos os casos o que está em jogo é o
+acesso efetivo ao direito de defesa, o Plenário do STF declarou a inconstitucionalidade das
+exigências por afrontarem diretamente o art. 5º, LV, da Constituição. Essa circunstância
+gerou, inclusive, a edição da Súmula Vinculante nº 21:
+
+Súmula Vinculante nº 21: É inconstitucional a exigência de depósito ou
+arrolamento prévios de dinheiro ou bens para admissibilidade de recurso
+administrativo.
+
+O paralelo com o caso concreto é imediato: se a exigência de depósito prévio
+viola diretamente a Constituição por obstruir o direito de defesa, com muito mais razão a
+extinção sumária de um processo sem qualquer oportunidade de manifestação sobre
+fundamento inédito, imposta por norma intema de tribunal, configura lesão da mesma
+natureza e da mesma intensidade.
+
+A gravidade do cerceamento de defesa é acentuada pelo fator temporal: durante
+os oito anos de tramitação do feito (2018 a 2026), em nenhum momento — repita-se,
+nenhum — o MPT suscitou a necessidade de litisconsórcio passivo com as empresas
+Request, nem o Tribunal sinalizou tal vício. Ao contrário: o processo foi regularmente
+instruído, julgado improcedente no TRT-7 e pautado reiteradas vezes no TST, chegando ao
+ponto de o Ministro Relator proferir voto favorável ao Estado do Ceará no mérito. Em quatro
+sessões deliberativas, o Colegiado debateu o tema central da prescrição bienal, sem que
+qualquer dos participantes aventasse a questão do polo passivo. A confiança legítima
+depositada pelo Estado na estabilidade da relação processual estabelecida há quase uma
+década é, portanto, objetivamente demonstrável.
+
+A decisão surpresa proferida pela Corte Trabalhista estilhaça o princípio da
+proteção à confiança legítima, corolário do Estado Democrático de Direito e da segurança
+jurídica, que impõe ao Poder Público, inclusive ao Poder Judiciário, o dever de não frustrar
+expectativas legitimamente criadas pela conduta reiterada dos próprios órgãos estatais.
+
+Com isso, o jurisdicionado não pode ser penalizado por guinada hermenêutica
+repentina que, de ofício, cria um óbice instransponível e retroativo sobre matéria que nem o
+adversário processual nem os próprios julgadores haviam identificado como relevante ao
+longo de quase uma década de litígio. Ser expulso da jurisdição sem o direito de contra-
+argumentar sobre um tema de tamanha complexidade, qual seja a cindibilidade de capítulos
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP. 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+[[pagina 19 | ocr]]
+a
+
+
+
+autônomos de sentença rescindenda e a indivisibilidade do objeto do litisconsórcio, é a
+negação cabal do modelo processual democrático e cooperativo que a Constituição Federal
+de 1988 consagra.
+
+Ademais, o fundamento utilizado pelo TST para justificar a ausência de
+intimação, qual seja o art. 4º, 8 2º, da Instrução Normativa nº 39/2016, é flagrantemente
+inconstitucional, pois nenhum ato administrativo interno de tribunal pode criar uma "zona de
+exclusão" do contraditório, desobrigando o julgador de consultar as partes sobre questões
+de pressupostos processuais cuja interpretação seja controversa e cuja aplicação ao caso
+concreto sequer havia sido cogitada.
+
+Tal dispositivo da IN 39/2016 institucionaliza a supressão preventiva do direito
+de influência, núcleo do contraditório substancial, transformando a complexidade do tema
+em justificativa para a dispensa do diálogo judicial, em sentido exatamente oposto ao que
+exige a Constituição. Como demonstrado no item 3 desta arguição, esse ato normativo
+possui autonomia e generalidade suficientes para ser diretamente impugnado por esta via,
+não se tratando de mera questão hermenêutica concreta.
+
+Ao blindar-se contra o diálogo judicial e encerrar sumariamente uma discussão
+que envolve centenas de milhões de reais em execuções em curso e a reintegração
+compulsória de dezenas de trabalhadores em órgão já extinto, o TST violou o preceito
+fundamental que garante que ninguém será privado de seus bens ou direitos sem o devido
+processo legal (art. 5º, LIV, CF) — em sua dimensão de cooperação, lealdade processual
+e primazia da decisão de mérito. Consumou-se, assim, a supressão do núcleo essencial do
+contraditório material, exatamente o conteúdo mínimo cuja violação, como assentou a
+Primeira Turma do STF no RE 266.397/PR, atinge diretamente o texto constitucional.
+
+4.2 Da Afronta ao Devido Processo Legal Material e ao Acesso ao Judiciário (Art. 5º,
+incisos XXXV e LIV, da CF/88)
+
+O presente tópico concentra-se em dois preceitos fundamentais que, embora
+distintos em sua formulação, convergem para uma mesma conclusão no caso concreto: a
+extinção sumária da Ação Rescisória do Estado do Ceará violou simultaneamente o acesso
+à jurisdição (art. 5º, XXXV, CF), que garante que nenhuma lesão ou ameaça a direito será
+excluída da apreciação do Poder Judiciário, e o devido processo legal em sua dimensão
+material (art. 5º, LIV, CF), que impõe que os atos do Poder Público, inclusive os
+jurisdicionais, observem padrões mínimos de adequação, razoabilidade e proporcionalidade.
+Ambos os preceitos integram o núcleo pétreo da Constituição Federal e constituem, por
+isso, parâmetro idôneo de controle concentrado via ADPF.
+
+A jurisprudência do STF consolidou, a partir da cláusula do due process of law
+inscrita no art. 5º, LIV, da Constituição, um padrão substantivo de controle dos atos do
+Poder Público que vai muito além do aspecto procedimental. Em julgamentos reiterados, a
+
+Centro Administrativo Bárbara de Alencar + Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE + Fone: (85) 34596300
+
+O Oii a
+
+[[pagina 20 | ocr]]
+g
+
+
+
+Corte tem assentado que a garantia do devido processo legal implica a sujeição de todos os
+atos emanados do Estado, legislativos, administrativos e judiciais, à observância de critérios
+mínimos de razoabilidade e proporcionalidade, sob pena de inconstitucionalidade material.
+
+Na ADI 5.468/DF (rel. Min. Celso de Mello, Plenário, j. 29/06/2016), o STF
+reafirmou que "todos os atos emanados do Poder Público estão necessariamente sujeitos,
+para efeito de sua validade material, à indeclinável observância de padrões mínimos de
+razoabilidade", extraindo essa exigência diretamente da cláusula do substantive due
+process of law do art. 5º, LIV, da Constituição. O acórdão reiterou que o princípio da
+proporcionalidade "proíbe o excesso e veda o arbítrio do Poder”, extraindo sua "justificação
+dogmática de diversas cláusulas constitucionais, notadamente daquela que veicula, em sua
+dimensão substantiva ou material, a garantia do 'due process of law". Veja-se:
+
+“TODOS OS ATOS EMANADOS DO PODER PÚBLICO ESTÃO
+NECESSARIAMENTE SUJEITOS, PARA EFEITO DE SUA VALIDADE
+MATERIAL, À INDECLINÁVEL OBSERVÂNCIA DE PADRÕES MÍNIMOS
+DE RAZOABILIDADE — As normas legais devem observar, no processo de
+sua formulação, critérios de razoabilidade que guardem estrita consonância
+com os padrões fundados no princípio da proporcionalidade, pois todos os
+atos emanados do Poder Público devem ajustar-se à cláusula que
+consagra, em sua dimensão material, o princípio do “substantive due
+process of law”. Lei Distrital que, no caso, não observa padrões mínimos de
+razoabilidade. A EXIGÊNCIA DE RAZOABILIDADE QUALIFICA-SE COMO
+PARÂMETRO DE AFERIÇÃO DA CONSTITUCIONALIDADE MATERIAL
+DOS ATOS ESTATAIS — A exigência de razoabilidade — que visa a inibir e
+a neutralizar eventuais abusos do Poder Público, notadamente no
+desempenho de suas funções normativas — atua, enquanto categoria
+fundamental de limitação dos excessos emanados do Estado, como
+verdadeiro parâmetro de aferição da constitucionalidade material dos atos
+estatais. APLICABILIDADE DA TEORIA DO DESVIO DE PODER AO
+PLANO DAS ATIVIDADES NORMATIVAS DO ESTADO — A teoria do
+desvio de poder, quando aplicada ao plano das atividades legislativas,
+permite que se contenham eventuais excessos decorrentes do exercício
+imoderado e arbitrário da competência institucional outorgada ao Poder
+Público, pois o Estado não pode, no desempenho de suas atribuições, dar
+causa à instauração de situações normativas que comprometam e afetem
+os fins que regem a prática da função de legislar.
+
+(STF, ADI 2667, Min. Rel. Celso de Mello, Tribunal Pleno, julgado em
+05/10/2020, DJe-252 publicado em 19-10-2020)
+
+No caso concreto, a decisão do TST viola diretamente esses padrões mínimos
+de razoabilidade. É materialmente irrazoável e desproporcional extinguir, sem resolução de
+mérito, uma ação rescisória com oito anos de tramitação, que havia chegado a um ponto de
+amadurecimento em que o Ministro Relator já havia votado pelo provimento no mérito, com
+base em fundamento inédito erguido de ofício na quinta sessão deliberativa, sem que as
+partes sequer soubessem que o tema estava em discussão.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+O Cn re
+
+[[pagina 21 | ocr]]
+
+
+
+
+O sacrifício imposto ao Estado do Ceará, qual seja a manutenção de uma
+condenação cujo custo estimado supera R$ 370 milhões, além da obrigação de
+reintegração de 81 servidores em órgão já extinto, é flagrantemente superior a qualquer
+benefício processual auferido com a extinção. O formalismo adotado pelo TST não é
+apenas excessivo: ele é, à luz do substantive due process, constitucionalmente inválido.
+
+O art. 5º, XXXV, da Constituição Federal consagra a inafastabilidade da
+jurisdição como direito fundamental de primeira grandeza. A norma não se limita a garantir
+o acesso formal ao Judiciário, ela assegura o direito a uma resposta jurisdicional efetiva
+sobre o mérito da pretensão deduzida, impedindo que obstáculos processuais artificiais ou
+desproporcionais se interponham entre o jurisdicionado e a tutela do seu direito.
+
+O STF tem interpretado esse preceito com extensão e firmeza, declarando
+inconstitucionais, ao longo de décadas, normas que criavam barreiras ao acesso à
+jurisdição sem justificativa constitucional adequada. Na ADI 1.074/DF (rel. Min. Eros Grau,
+Plenário, j. 28/03/2007, DJE 23 de 25/05/2007), o STF, por unanimidade, declarou
+inconstitucional o art. 19 da Lei n. 8.870/94, que exigia depósito prévio para o ajuizamento
+de ações judiciais discutindo créditos tributários.
+
+No caso concreto, o obstáculo criado pelo TST é ainda mais grave do que o que
+motivou a ADI 1.074, por três razões: (i) não estava previsto em lei ou em qualquer
+precedente anterior à época da propositura da rescisória; (ii) foi criado de ofício pelo próprio
+julgador, sem qualquer participação da parte; e (iii) é materialmente impossível de ser
+superado, pois as empresas cuja citação foi exigida estão extintas ou inaptas desde 2018 e
+2019.
+
+Uma exigência processual impossível de ser cumprida, seja por razão
+financeira, seja por razão fática, não é um pressuposto legítimo: é uma barreira arbitrária ao
+acesso à jurisdição, incompatível com o art. 5º, XXXV, da Constituição Federal.
+
+Ainda em sede de controle concentrado, a ADI 173/DF (julgada pelo Plenário do
+STF), ao tratar das chamadas "sanções políticas" em matéria tributária, assentou que
+normas que condicionam o exercício de direitos à quitação de créditos tributários violam o
+art. 5º, XXXV, da Constituição, "na medida em que ignoram sumariamente o direito do
+contribuinte de rever em âmbito judicial ou administrativo a validade de créditos tributários",
+e também o "devido processo legal substantivo (falta de proporcionalidade e razoabilidade
+de medidas gravosas que se predispõem a substituir os mecanismos [legítimos/".
+
+O mesmo raciocínio se aplica mutatis mutandis ao caso dos autos: a exigência
+de citação de entes inexistentes como condição de validade do processo é, funcionalmente,
+uma “sanção processual" que suprime o acesso à jurisdição rescisória de forma tão efetiva
+quanto uma sanção política suprime o acesso ao Judiciário tributário.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+a E
+
+[[pagina 22 | ocr]]
+g
+
+
+
+A análise do ato impugnado pelo teste da proporcionalidade — que o próprio
+STF extrai do substantive due process do art. 5º, LIV — demonstra sua invalidade em todas
+as três dimensões do princípio.
+
+Quanto à adequação, a extinção do processo sem resolução de mérito não é
+apta a realizar o fim que o instituto do litisconsórcio passivo necessário visa a proteger (a
+uniformidade de tratamento de todos os sujeitos afetados pela decisão rescisória) pois as
+empresas Request, extintas ou inaptas, não têm mais qualquer patrimônio ou personalidade
+jurídica que pudesse ser afetado pelo resultado da rescisória. Não há utilidade processual
+em uma extinção que protege entes inexistentes.
+
+Quanto à necessidade, havia alternativa muito menos gravosa ao alcance do
+Tribunal: a intimação do Estado do Ceará para manifestação sobre a questão, com abertura
+de prazo para eventual saneamento ou para demonstração da impossibilidade material da
+diligência. Essa providência mínima, expressamente exigida pelo art. 10 do CPC/2015, não
+foi adotada.
+
+Quanto à proporcionalidade em sentido estrito, o sacrifício imposto ao Estado
+do Ceará é manifestamente desproporcional à finalidade pretendida: impedir o exame de
+mérito de uma rescisória que aponta prescrição bienal de pretensão que gera ao Estado um
+passivo superior a R$ 370 milhões, para preservar um pressuposto processual que protege
+empresas que há anos não existem, é subverter a lógica da jurisdição em favor de um
+formalismo estéril e constituticionalmente insustentável.
+
+4.3 Da Rejeição da Primazia da Decisão de Mérito e a Inversão do Sistema
+Processual (Art. 5º, inciso LXXVIII, da CF/88)
+
+O art. 5º, inciso LXXVII, inserido na Constituição Federal pela Emenda
+Constitucional nº 45/2004, consagra como direito fundamental a razoável duração do
+processo e os meios que garantam a celeridade de sua tramitação.
+
+Esse preceito não se traduz apenas na vedação à mora processual: ele encerra,
+em sua dimensão mais profunda, o direito do jurisdicionado a obter do Estado uma
+resposta jurisdicional útil e efetiva, capaz de pacificar o conflito de interesses que
+motivou o acionamento do Poder Judiciário.
+
+Um processo que se prolonga por oito anos para ser encerrado sem resolução
+de mérito, com base em fundamento inédito suscitado de ofício na fase final do julgamento,
+viola esse preceito fundamental em sua expressão mais grave: não como mora, mas como
+negação absoluta da prestação jurisdicional substantiva, após consumir toda a energia
+processual das partes e do próprio Tribunal durante quase uma década.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE + Fone: (85) 3459.6300
+
+O Ci
+
+[[pagina 23 | ocr]]
+
+
+
+
+A garantia constitucional do art. 5º, LXXVIII, não se satisfaz com a mera
+conclusão rápida do processo, independentemente de seu resultado. A "razoável duração"
+pressupõe que o processo chegue a um fim juridicamente útil, a decisão de mérito, pois
+uma extinção sem resolução de mérito, proferida após anos de tramitação, não realiza a
+efetividade da jurisdição: ao contrário, a nega.
+
+Conforme já assentou o Supremo Tribunal Federal na ADI 5.941/DF (rel. Min.
+Luiz Fux, Plenário, j. 09/02/2023), "o acesso à justiça reclama tutela judicial tempestiva,
+específica e efetiva sob o ângulo da sua realização prática" e "a morosidade e inefetividade
+das decisões judiciais são lesivas ao direito fundamental de acesso à justiça". A ratio
+desse julgamento é diretamente aplicável ao caso concreto: a extinção de um processo
+após oito anos, sem apreciação do mérito, não realiza a tutela efetiva, ela simplesmente
+cancela os anos investidos, devolvendo o jurisdicionado ao ponto zero sem qualquer
+resposta sobre o fundo do seu direito. Veja-se:
+
+1. O acesso à justiça reclama tutela judicial tempestiva, específica e efetiva
+sob o ângulo da sua realização prática.
+
+2. A morosidade e inefetividade das decisões judiciais são lesivas à toda a
+sociedade, porquanto, para além dos efeitos diretos sobre as partes do
+processo, são repartidos pela coletividade os custos decorrentes da
+manutenção da estrutura institucional do Poder Judiciário, da
+movimentação da sua máquina e da prestação de assistência jurídica
+integral e gratuita aos que comprovarem insuficiência de recursos.
+
+3. A efetividade e celeridade das decisões judiciais constitui uma das linhas
+mestras do processo civil contemporâneo, como se infere da inclusão, no
+texto constitucional, da garantia expressa da razoável duração do processo
+(artigo 5º, LXXVIII, após a Emenda Constitucional nº 45/2004) e da
+positivação, pelo Novo Código de Processo Civil, do direito das partes “de
+obter em prazo razoável a solução integral do mérito, incluída a atividade
+satisfativa” (...)
+
+(STF, ADI 5941, Min. Rel. Luiz Fux, Tribunal Pleno, julgado em 09/02/2023,
+DJe 28/04/2023)
+
+O CPC/2015, ao positivar o princípio da primazia da decisão de mérito nos arts.
+4º e 6º, deu densidade infraconstitucional a essa exigência, mas sua fonte normativa
+primária é precisamente o art. 5º, LXXVIII, da Constituição Federal, que impõe ao Estado-
+juiz o dever de conduzir o processo até sua finalidade natural: a resposta sobre o litígio. A
+extinção sem resolução do mérito é medida excepcional e de última instância, apenas
+justificável quando absolutamente impossível o saneamento do vício ou o prosseguimento
+do feito. Não é o que ocorre no caso dos autos, em que a questão poderia ter sido debatida
+com as partes antes de qualquer decisão extintiva.
+
+O sistema processual brasileiro, construído sob a égide constitucional do art. 5º,
+LXXVIII, é orientado por uma premissa fundamental: a forma processual é instrumento a
+serviço da justiça, não um fim em si mesmo.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 1550 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE + Fone. (85) 34596300
+
+MM Cs
+
+[[pagina 24 | ocr]]
+
+
+
+A razoável duração do processo, no sentido constitucionalmente garantido pelo
+art. 5º, LXXVIII, impõe que os oito anos de tramitação resultem em algum pronunciamento
+sobre o mérito. O tempo investido pelo Estado do Ceará, pelo Ministério Público do
+Trabalho, pelos julgadores e pela estrutura do Poder Judiciário ao longo desse período não
+pode ter sido desperdiçado por um fundamento suscitado de ofício no último instante. A
+garantia constitucional exige que processos maduros para julgamento sejam julgados — e
+não encerrados por formalismos que o próprio órgão jurisdicional omitiu por anos.
+
+4.4. Da Impossibilidade Material de Cumprimento da Diligência e a Violação à
+Proporcionalidade (Ad Impossibilia Nemo Tenetur)
+
+Sem prejuízo do quanto demonstrado no item 2 desta ADPF, onde se comprova
+que as empresas Request jamais deveriam integrar o polo passivo da rescisória, por
+ausência do requisito de indivisibilidade do objeto, impõe-se demonstrar que, mesmo
+admitindo-se, em caráter puramente subsidiário e por mera hipótese acadêmica, a
+tese de litisconsórcio passivo necessário adotada pelo acórdão impugnado, a extinção do
+processo ainda assim seria inconstitucional por fundamento autônomo e independente: a
+exigência de uma diligência materialmente impossível viola, de forma direta e autônoma, o
+devido processo legal em sua dimensão material (art. 5º, LIV, CF) e o postulado da
+proporcionalidade que dele emana.
+
+O acórdão impugnado, ao exigir a inclusão das empresas Request IT
+Consultoria em Soluções Tecnológicas Ltda. e Request For Informática Sociedade Simples
+Ltda. no polo passivo da ação rescisória sob pena de extinção imediata, impõe ao Estado
+do Ceará o cumprimento de uma obrigação jurídica e materialmente impossível.
+
+Conforme demonstram as certidões da Receita Federal anexas, a empresa
+Request IT encontra-se com o CNPJ BAIXADO desde 24/09/2018 por liquidação voluntária,
+enquanto a Request For figura como INAPTA desde 30/05/2019 por omissão de
+declarações.
+
+A impossibilidade a que se refere o presente tópico não é hipotética nem
+conjectural: ela é documentalmente demonstrada por certidões emitidas pela Receita
+Federal do Brasil, órgão de máxima confiabilidade no tocante ao cadastro de pessoas
+jurídicas no território nacional. A REQUEST IT CONSULTORIA EM SOLUÇÕES
+TECNOLÓGICAS LTDA. (sucessora da Request Informática S/C Ltda.) encontra-se com o
+CNPJ BAIXADO desde 24 de setembro de 2018, por liquidação voluntária. A REQUEST
+FOR INFORMÁTICA SOCIEDADE SIMPLES LTDA. figura como INAPTA desde 30 de maio
+de 2019, em razão de omissão de declarações.
+
+A situação cadastral "BAIXADA" implica o encerramento jurídico formal da
+pessoa jurídica: a empresa não existe mais como sujeito de direitos e obrigações. A
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+O Cs
+
+[[pagina 25 | ocr]]
+
+
+
+situação "INAPTA", embora não equivalente ao encerramento formal, corresponde ao mais
+grave grau de irregularidade cadastral, indicando abandono das obrigações legais por parte
+da empresa, que se torna, na prática, inencontrável e sem representação regular. Em
+ambos os casos, a citação judicial exigida pelo TST é uma diligência sem destinatário
+legítimo: não há sujeito passivo apto a ser citado, nem representante legal regularmente
+constituído para receber a intimação, nem patrimônio ou personalidade jurídica para
+responder ao comando rescisório.
+
+O TST jamais chegou a verificar essa realidade fática antes de proferir o
+acórdão extintivo, e não poderia tê-lo feito, justamente porque não abriu qualquer
+oportunidade para que o Estado do Ceará a demonstrasse. Essa circunstância agrava a
+violação ao postulado da proporcionalidade: a medida de extinção foi adotada sem que o
+Tribunal dispusesse de todas as informações relevantes para aferir sua adequação,
+necessidade e proporcionalidade, o que viola, adicionalmente, o dever de fundamentação
+das decisões judiciais consagrado no art. 93, IX, da Constituição Federal.
+
+A exigência de citação de entes desprovidos de existência operacional e
+capacidade jurídica atual afronta o postulado ad impossibilia nemo tenetur (ninguém é
+obrigado a fazer o impossivel). Ao transformar a participação de pessoas jurídicas extintas
+em pressuposto de validade intransponível de uma ação que visa proteger o erário contra
+uma execução de mais de R$ 370 milhões, o TST incorre em formalismo excessivo e
+desproporcional.
+
+Em outras palavras: a "forma" (litisconsórcio com empresas “fantasmas” ou
+inexistentes) foi elevada a um patamar de importância superior ao "conteúdo" (a higidez do
+patrimônio público e a prescrição manifesta da pretensão originária).
+
+Uma exigência jurídica que não pode ser cumprida por razão fática objetiva,
+alheia ao controle do obrigado, perde sua aptidão para ser condição legítima de exercício de
+direitos. Transformá-la em óbice intransponível ao acesso à jurisdição equivale a punir o
+jurisdicionado por uma impossibilidade que não lhe é imputável — o que o princípio
+constitucional da proporcionalidade, na perspectiva da proibição do excesso,
+simplesmente veda.
+
+Na mesma esteira, à luz da proibição do excesso como desdobramento da
+proporcionalidade, quando o TST exige, como pressuposto de validade do processo, a
+citação de pessoas jurídicas que há anos não possuem existência operacional, e extingue
+sumariamente um processo de oito anos sem sequer verificar se a diligência é realizável,
+viola o padrão mínimo de razoabilidade que o art. 5º, LIV, da Constituição exige de todo ato
+do Poder Público.
+
+Vale lembrar que o STF, em sede de controle concentrado, já assentou que os
+princípios da proporcionalidade e da razoabilidade constituem preceitos fundamentais da
+ordem constitucional (ADPF 186 e ADPF 387), servindo como parâmetro de controle contra
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE - Fone: (85) 34596300
+
+O VT
+
+[[pagina 26 | ocr]]
+
+
+
+
+atos do Poder Público que, a pretexto de aplicar regras procedimentais, impõem sacrifícios
+excessivos e irracionais aos jurisdicionados (ADPF 485), exatamente como se verifica na
+hipótese vertente.
+
+Submetendo o ato impugnado ao teste trifásico da proporcionalidade que o
+próprio STF extrai do art. 5º, LIV, da Constituição — conforme aplicado na ADI 3.112/DF e
+sistematizado no RE 374.981 —, constata-se sua invalidade em todas as três dimensões.
+
+Quanto à adequação, a extinção do processo sem resolução de mérito não é
+apta a realizar o fim que o instituto do litisconsórcio passivo necessário visa a proteger.
+Esse instituto existe para garantir que todos os sujeitos cujos direitos seriam afetados pela
+decisão rescisória tenham oportunidade de se defender. Mas as empresas Request,
+extintas ou inaptas, não têm mais qualquer direito ou patrimônio que possam ser afetados
+pelo resultado da rescisória. Extinguir o processo para "proteger" entes que não existem
+mais não realiza o fim constitucional do litisconsórcio: nega-o. A medida é, portanto,
+inadequada em sua própria finalidade.
+
+Quanto à necessidade, existia (e ainda existe) uma alternativa
+incomparavelmente menos gravosa: a intimação do Estado do Ceará para manifestação
+sobre a questão, com abertura de prazo para demonstrar a impossibilidade material da
+diligência ou para apresentar solução alternativa. Essa providência, que deriva diretamente
+do art. 10 do CPC/2015 e do dever constitucional de colaboração, foi simplesmente
+suprimida pelo TST. Diante da existência de meio igualmente idôneo e muito menos lesivo,
+a extinção imediata não passa no critério da necessidade.
+
+Quanto à proporcionalidade em sentido estrito, o sacrifício imposto ao Estado
+do Ceará é manifesta e absurdamente desproporcional ao benefício processual auferido. De
+um lado, o Estado perde o direito de ver apreciada uma ação rescisória que busca
+desconstituir uma condenação com passivo estimado em mais de R$ 370 milhões — sendo
+que já foram expedidos precatórios no valor incontroverso de R$ 84,7 milhões — e que
+impõe a reintegração de 81 trabalhadores a um órgão já extinto, gerando custo mensal de
+R$ 1,7 milhão ao erário estadual. De outro lado, nenhum bem jurídico legítimo é protegido
+pela extinção, pois as empresas cuja citação foi exigida há anos não possuem existência
+real. À equação é constitucionalmente insustentável: sacrifício desmedido do erário público
+em troca de proteção a entes juridicamente inexistentes.
+
+Consuma-se, assim, uma violação aos princípios da proporcionalidade
+e razoabilidade, pois o Judiciário não pode exigir do jurisdicionado diligências que
+dependam de fatos fora de seu controle jurídico, como a "ressurreição" de empresas
+extintas. Punir a Fazenda Pública com a manutenção de uma condenação bilionária e
+eivada de nulidade, apenas por não ter incluído no polo passivo entes que juridicamente
+não mais existem, é subverter a lógica da justiça em favor de uma burocracia processual
+estéril e lesiva ao interesse público.
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 6081-520
+Fortaleza-CE +» Fone: (85) 34596300
+
+O
+
+[[pagina 27 | ocr]]
+
+
+
+
+5. DO PEDIDO DE MEDIDA CAUTELAR LIMINAR |
+
+A concessão de medida cautelar liminar no bojo da presente Arguição de
+Descumprimento de Preceito Fundamental encontra fundamento expresso no art. 5º, 8 1º,
+da Lei nº 9.882/99, segundo o qual, em caso de extrema urgência ou perigo de lesão grave,
+poderá o relator conceder a liminar ad referendum do Tribunal Pleno. A jurisprudência desta
+Suprema Corte é pacífica ao exigir, para a concessão da medida, a presença concomitante
+de dois pressupostos: o fumus boni iuris, entendido como a plausibilidade jurídica do direito
+alegado, e o periculum in mora, consistente no fundado receio de consumação de lesão
+grave, atual e irreparável ao direito do postulante. Ambos os requisitos estão robustamente
+configurados no caso concreto, como se passa a demonstrar.
+
+A probabilidade do direito postulado nesta arguição não é uma mera conjectura:
+ela decorre da análise da mecânica processual adotada pelo TST confrontada com os
+preceitos fundamentais catalogados no item 4 desta peça, cujo desrespeito evidencia-se de
+forma clara e direta. São, ao menos, quatro vetores independentes de plausibilidade
+jurídica, cada qual suficiente, per se, para caracterizar a verossimilhança constitucional
+exigida.
+
+O primeiro vetor diz respeito à violação ao princípio da não surpresa e ao
+contraditório substancial (art. 5º, LV, CF). A extinção de ofício, após oito anos de
+tramitação regular e quatro sessões deliberativas sem qualquer sinalização sobre o polo
+passivo, com base em fundamento inédito jamais suscitado pelas partes ou pelo próprio
+Tribunal, viola o conteúdo mínimo constitucional do contraditório tal como definido pelo STF
+no RE 266.397/PR (rel. Min. Sepúlveda Pertence): nenhuma decisão pode ser proferida
+sobre fundamento sobre o qual as partes não tiveram oportunidade de influenciar. A
+Instrução Normativa nº 39/2016, invocada para dispensar essa oportunidade, é norma
+interna de natureza infralegal que não pode suprimir uma garantia de assento constitucional
+direto.
+
+O segundo vetor é a violação ao acesso à jurisdição e ao devido processo
+legal material (art. 5º, XXXV e LIV, CF). O TST impôs ao Estado do Ceará um pressuposto
+processual que, além de inédito, é materialmente impossível de ser cumprido: a citação de
+pessoas jurídicas que, à época do acórdão, já se encontravam extintas ou inaptas perante a
+Receita Federal há seis e sete anos, respectivamente. Uma exigência fática irrealizável não
+é um pressuposto legítimo — é uma barreira arbitrária ao acesso à jurisdição, que não
+resiste ao teste mínimo de proporcionalidade que o STF extrai do art. 5º, LIV (RE 374.981;
+ADI 1.074/DF; ADI 5.468/DF).
+
+O terceiro vetor é a violação à razoável duração do processo e à primazia da
+decisão de mérito (art. 5º, LXXVIII, CF). Como assentou esta Suprema Corte na ADI
+5.941/DF (rel. Min. Luiz Fux, 2023), "o acesso à justiça reclama tutela judicial tempestiva,
+específica e efetiva". Uma rescisória com oito anos de tramitação, que produziu voto de
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone: (85) 3459.6300
+
+O On
+
+[[pagina 28 | ocr]]
+
+
+
+mérito favorável ao Estado na primeira sessão e foi debatida em pelo menos cinco rodadas
+deliberativas, não pode ser simplesmente descartada por fundamento surgido na última
+hora, sem que os oito anos de trabalho jurisdicional resultem em qualquer pronunciamento
+sobre o conflito de interesses deduzido.
+
+O quarto vetor é o caráter institucional da lesão, que ultrapassa o caso
+concreto. A Instrução Normativa nº 39/2016 do TST, ao estabelecer em seu art. 4º, 8 2º, que
+não constituem decisão surpresa as deliberações sobre pressupostos processuais,
+institutionaliza a supressão preventiva do contraditório em toda a Justiça do Trabalho do
+país, com efeito continuado e difuso sobre incontáveis processos. A ADPF 982 AgR (rel.
+Min. Flávio Dino, j. 07/08/2024) reafirmou a legitimidade da arguição para contestar
+exatamente esse tipo de prática jurisdicional sistêmica, o que reforça a plausibilidade da
+pretensão no plano do cabimento e do mérito.
+
+Presentes, portanto, em grau qualificado, os elementos que identificam o fumus
+boni iuris.
+
+O perigo da demora é, no presente caso, não apenas presente mas
+quantificável, progressivo e de recuperabilidade incerta. A manutenção dos efeitos do
+acórdão impugnado enquanto não apreciada a presente arguição produz dano financeiro
+concreto, atual e documentalmente demonstrado ao erário do Estado do Ceará, que se
+agrava mês a mês com a continuidade das execuções e a permanência dos reintegrados
+em folha.
+
+Sob o aspecto operacional imediato, existem atualmente 81 empregados
+reintegrados nos quadros da ETICE por força da condenação objeto da ação rescisória.
+Esses reintegrados geram um custo mensal global de R$ 1.714.645,34 e custo anual de R$
+20.575.744,08, correspondendo a 40,38% da folha de pagamento da empresa. A
+remuneração de alguns dos reintegrados alcança, individualmente, o patamar bruto de R$
+56.495,01 mensais, o que evidencia a magnitude do comprometimento orçamentário
+progressivo decorrente de uma condenação cuja prescrição o próprio Ministro Relator do
+TST reconheceu em seu voto original de mérito.
+
+Sob o aspecto executório, tramita execução de salários pretéritos cujo
+montante foi atualizado até agosto de 2025 em R$ 372.603.682,16 (trezentos e setenta e
+dois milhões, seiscentos e três mil, seiscentos e oitenta e dois reais e dezesseis centavos),
+tendo já sido expedido precatório no valor incontroverso de R$ 84.735.896,48 (oitenta e
+quatro milhões, setecentos e trinta e cinco mil, oitocentos e noventa e seis reais e quarenta
+e oito centavos). Cada mês de tramitação sem a suspensão cautelar implica acréscimo de
+correção monetária e juros sobre esse passivo, elevando progressiva e irreversivelmente o
+montante a ser suportado pelo erário estadual.
+
+A irreparabilidade do dano em caso de procedência tardia da arguição é patente:
+os valores já pagos a título de salários dos reintegrados, ao longo de meses ou anos de
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 608TI-520
+Fortaleza-CE « Fone: (85) 3459.6300
+
+DR raras
+
+[[pagina 29 | ocr]]
+
+
+
+tramitação deste processo, dificilmente serão recuperados pela via administrativa ou judicial,
+dada a natureza alimentar das verbas trabalhistas e as garantias de impenhorabilidade a
+elas inerentes.
+
+Quanto aos precatórios, uma vez expedidos e pagos, sua devolução ao erário
+envolve ação judicial autônoma de cobrança de difícil execução prática. O dano, portanto,
+não é meramente hipotético — ele está em curso, se acumula e, na medida em que se
+consolida, torna cada vez mais onerosa a restituição ao status quo ante, mesmo que a
+presente arguição seja ao final julgada procedente.
+
+identifica-se, ainda, um risco de consolidação estrutural da situação
+impugnada: com o exaurimento da via rescisória, a condenação da ACP ganha
+definitivamente exequibilidade plena, permitindo que novos precatórios sejam expedidos,
+que a folha de reintegrados continue crescendo em razão de progressões e incorporações
+remuneratórias, e que o quadro de pessoal da ETICE, empresa já onerada por uma folha
+que em quase 41% é composta por trabalhadores judicialmente reintegrados em órgão
+funcional e administrativamente extinto, torne-se progressivamente insustentável.
+
+Registre-se, por fim, que o periculum está conectado à própria natureza do ato
+impugnado: ao extinguir a rescisória sem resolução de mérito, o TST não apenas proferiu
+uma decisão desfavorável ao Estado, ele fechou definitivamente a via de questionamento
+da coisa julgada rescindenda. A única janela processual para reverter o título executivo que
+originou toda essa condenação foi suprimida. A demora na apreciação desta arguição
+equivale, portanto, à consolidação progressiva e irreversível de todos os efeitos financeiros
+e administrativos decorrentes de uma condenação que carrega, na avaliação do próprio
+Relator original do caso, uma prescrição bienal manifesta.
+
+Por fim, a análise dos requisitos do fumus boni iuris e do periculum in mora, para
+sua concessão, admite maior discricionariedade por parte do STF, com a realização de
+verdadeiro juízo de conveniência política da suspensão da eficácia”, pelo qual deverá
+ser verificada a conveniência da suspensão cautelar da lei impugnada* , permitindo, dessa
+forma, uma maior subjetividade na análise da relevância do tema, bem assim em juízo de
+conveniência, ditado pela gravidade que envolve a discussão”.
+
+A suspensão cautelar dos efeitos do acórdão não implica prejuízo a terceiros
+privados, pois os trabalhadores reintegrados continuam protegidos pelo contrato de trabalho
+existente durante a tramitação da arguição, e a eventual procedência do pedido no mérito
+somente determinará o retorno dos autos ao TST para novo julgamento com observância do
+contraditório, não implicará extinção automática de qualquer direito adquirido
+individualmente. Por outro lado, a não concessão da liminar sujeita o erário estadual ao
+
+3ADI 3.401 MC, Rel. Min. GILMAR MENDES, Pleno, decisão em 3/2/2005
+
+4 AD! 425 MC, Rei. Min. PAULO BROSSARD, Pleno, decisão em 4/4/1991; ADI 467 MC, Rel. Min. OCTÁVIO
+GALLOTTI, Pleno, decisão em 3/4/1991
+
+5 ADI 490 MC, Rel. Min. CELSO DE MELLO, Pleno, decisão em 6/12/1990; ADI 508 MC, Rel. Min. OCTÁVIO
+GALLOTTI, Pleno, decisão em 14/6/1991
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE « Fone: (85) 3459.6300
+
+[[pagina 30 | ocr]]
+
+
+
+dano financeiro progressivo e potencialmente irrecuperável descrito no tópico anterior,
+
+comprometendo a capacidade do Estado do Ceará de cumprir obrigações orçamentárias de
+interesse coletivo.
+
+O equilíbrio entre os interesses em jogo é, portanto, inequivocamente favorável
+à suspensão cautelar. O custo da medida para as partes contrárias é mínimo (manutenção
+do status quo anterior ao acórdão extintivo), ao passo que o custo da sua não concessão
+para o Estado é astronômico e crescente.
+
+Preenchidos, assim, com folga, os requisitos do fumus boni iuris e do periculum
+in mora, e presente a conveniência da providência antecipada, requer o Estado do Ceará,
+com fundamento no art. 5º, & 1º, da Lei nº 9.882/99 e no art. 21, V, do RISTF, que Vossa
+Excelência se digne a conceder, de forma monocrática e ad referendum do Tribunal Pleno,
+medida cautelar liminar para suspender imediatamente os efeitos processuais e executórios
+do acórdão proferido pela SDI-2 do Tribunal Superior do Trabalho nos autos do TST-ROT-
+80037-67.2018.5.07.0000, sobrestando o andamento das execuções dele decorrentes e
+impedindo a expedição de novos precatórios até o julgamento final desta arguição.
+
+| 6. DOS PEDIDOS
+
+Diante do exposto, o Governador do Estado do Ceará, com fundamento no art.
+102, 8 1º, da Constituição Federal, nos arts. 1º e seguintes da Lei nº 9.882/99 e no art. 21,
+V, do RISTF, requer a Vossa Excelência:
+
+a) o recebimento, conhecimento e regular processamento da presente Arguição
+de Descumprimento de Preceito Fundamental, uma vez atendidos os
+requisitos constitucionais e legais, reconhecendo-se:
+
+ii a legitimidade ativa do Governador do Estado do Ceará, nos termos
+do art. 2º, |, da Lei nº 9.882/99, cic ar. 103, V, da Constituição
+Federal;
+
+iii o cabimento da ADPF para impugnar ato jurisdicional do Tribunal
+Superior do Trabalho violador de preceitos fundamentais, na linha
+dos precedentes firmados nas ADPFs 485 e 789;
+
+iii. a satisfação do requisito de subsidiariedade, diante da ineficácia do
+Recurso Extraordinário para sanar a lesão de forma ampla, geral e
+imediata, ante o óbice do Tema 660 da Repercussão Geral, e da
+incapacidade do recurso para impugnar, com eficácia erga omnes, a
+instrução Normativa nº 39/2016 do TST na qualidade de ato
+normativo autônomo;
+
+b) A concessão, de forma monocrática e ad referendum do Tribunal Pleno, com
+fundamento no art. 5º, 8 1º, da Lei nº 9.882/99 c/c o art. 21, V, do RISTF, de
+medida cautelar liminar, inaudita altera parte, para:
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz « CEP: 60811-520
+Fortaleza-CE « Fone: (85) 34596300
+
+Do l[..
+
+[[pagina 31 | ocr]]
+g
+
+
+
+ii suspender imediatamente todos os efeitos processuais e
+materiais do acórdão proferido pela Subseção Il Especializada em
+Dissídios Individuais do Tribunal Superior do Trabalho nos autos do
+TST-ROT-80037-67.2018.5.07.0000, em sessão de 17 de março de
+2026, que extinguiu a Ação Rescisória sem resolução de mérito;
+
+iii sobrestar o andamento de todas as execuções instauradas com
+base no acórdão do TRT-7 rescindendo, impedindo a expedição de
+novos precatórios, a realização de novos bloqueios patrimoniais, e a
+produção de quaisquer efeitos executórios adicionais decorrentes da
+condenação impugnada pela rescisória, enquanto pendente o
+julgamento definitivo desta arguição;
+
+iii manter o presente estado de fato e de direito relativo aos 81
+trabalhadores reintegrados, sem prejuízo dos efeitos já consolidados
+dos contratos de trabalho em curso, mas impedindo novas
+reintegrações compulsórias fundadas na decisão rescindenda
+enquanto não julgada esta arguição.
+
+c) A notificação do Excelentíssimo Ministro Presidente do Tribunal Superior do
+Trabalho e do Ministro Relator do acórdão impugnado (TST-ROT-80037-
+67.2018.5.07.0000), nos termos do art. 10, caput, da Lei nº 9.882/99, para
+que prestem as informações que entenderem necessárias, no prazo legal de
+dez dias;
+
+d) A abertura de vista à Advocacia-Geral da União, na qualidade de curadora
+da constitucionalidade dos atos do Poder Público, no prazo de cinco dias,
+nos termos do art. 6º, 8 2º, da Lei nº 9.882/99;
+
+e) A abertura de vista ao Procurador-Geral da República para manifestação,
+no prazo de cinco dias, nos termos do art. 7º, parágrafo único, da Lei nº
+9.882/99.
+
+f) No mérito, a procedência integral da presente arguição, para que o
+Supremo Tribunal Federal:
+
+ii Declare a inconstitucionalidade do acórdão proferido pela SDI-2
+do Tribunal Superior do Trabalho nos autos do TST-ROT-80037-
+67.2018.5.07.0000, por violação aos preceitos fundamentais inscritos
+nos arts. 5º, incisos XXXV, LIV, LV e LXX4VIII, da Constituição
+Federal, determinando sua nulidade e o retorno dos autos ao
+Tribunal Superior do Trabalho para novo julgamento, observadas
+as seguintes balizas constitucionais inafastáveis: (1) qualquer
+fundamento potencialmente decisivo que não tenha sido previamente
+debatido no processo deverá ser submetido às partes antes da
+deliberação, com abertura de prazo razoável para manifestação; (2) O
+
+Centro Administrativo Bárbara de Alencar + Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE - Fone: (85) 34596300
+
+O Cass
+
+[[pagina 32 | ocr]]
+g
+
+
+
+resultado do novo julgamento deverá ser pronunciado sobre o mérito
+da pretensão rescisória, sendo vedada nova extinção sem
+resolução de mérito com base no mesmo fundamento ora declarado
+inconstitucional; (3) na hipótese de o TST reputar necessária, após
+ouvir as partes, a integração de quaisquer litisconsortes, deverá
+antes apurar se a diligência é materialmente realizável, considerada a
+situação cadastral atual das empresas perante a Receita Federal;
+
+ii Declare a inconstitucionalidade parcial, sem redução de texto,
+do art. 4º, 8 2º, da Instrução Normativa nº 39/2016 do TST, para
+excluir de seu âmbito de aplicação as hipóteses em que o
+pressuposto processual suscitado de ofício: (1) jamais tenha sido
+ventilado pelas partes ou pelo Tribunal em momento anterior do
+processo; (2) exija interpretação jurídica não pacificada ou não
+prevista em norma legal expressa; ou (3) resulte em extinção do
+processo sem que seja concedida à parte afetada qualquer
+oportunidade de manifestação ou tentativa de saneamento —
+assegurando-se, nesses casos, a incidência plena e incondicional do
+princípio da não surpresa previsto no art. 10 do CPC/2015, como
+densificação do art. 5º, inciso LV, da Constituição Federal.
+
+g) Na hipótese de não ser acolhida a declaração de inconstitucionalidade
+integral do acórdão impugnado, requer-se, em caráter subsidiário, a
+declaração de inconstitucionalidade da aplicação do referido acórdão ao
+Estado do Ceará, pela via da interpretação conforme à Constituição,
+determinando-se ao TST que, antes de qualquer nova deliberação sobre o
+polo passivo da rescisória, abra prazo para que o Estado demonstre a
+impossibilidade material de citação das empresas Request — dada sua
+situação cadastral perante a Receita Federal — e delibere sobre os efeitos
+jurídicos dessa impossibilidade à luz dos princípios constitucionais da
+proporcionalidade e da primazia da decisão de mérito.
+
+Atribui-se à causa o valor de R$ 1.000,00 (mil reais), para efeitos meramente
+fiscais.
+
+ASSINADO DIGITALMENTE
+ATILLA DJAZIANNY DE OLIVEIRA
+
+A conformidade com a assinatura pode ser verificada em:
+https://serpro.gov.br/assinador-digital
+
+6 Serpro
+
+Centro Administrativo Bárbara de Alencar « Av. Dr. José Martins Rodrigues, 150 - Edson Queiroz + CEP: 60811-520
+Fortaleza-CE - Fone: (85) 34596300
+
+O A a
+

@@ -33,10 +33,10 @@ with st.sidebar:
     modo = st.selectbox("Modo", ["hibrido", "denso", "lexical"], format_func=lambda m: {
         "hibrido": "Híbrido (semântico + palavras)", "denso": "Só semântico", "lexical": "Só palavras (BM25)"
     }[m])
-    classe = st.selectbox("Classe", ["Todas", "ADI", "ADC"])
+    classe = st.selectbox("Classe", ["Todas", "ADI", "ADC", "ADO", "ADPF"])
     rerank = st.toggle("Reranker (cross-encoder)", value=True, help="Mais preciso, porém ~40 s por consulta em CPU.")
     limiar = st.slider(
-        "Relevância mínima", 0.0, 1.0, float(config.LIMIAR_RERANK), 0.05, disabled=not rerank,
+        "Relevância mínima", 0.5, 1.0, float(config.LIMIAR_RERANK), 0.05, disabled=not rerank,
         help="Petições cujo melhor trecho fica abaixo disso não aparecem.",
     )
 

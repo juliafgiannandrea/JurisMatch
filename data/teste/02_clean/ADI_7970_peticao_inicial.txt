@@ -1,0 +1,960 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+A FEDERAÇÃO NACIONAL DAS ASSOCIAÇÕES DOS REVENDEDORES DE
+VEÍCULOS AUTOMOTORES – FENAUTO, entidade de classe de âmbito nacional,
+inscrita no CNPJ sob nº 03.461.438/0001-65 , com sede em Av. Marquês de São Vicente,
+1350, Edifício CGD, Torre 1, Conjunto 1034 e 1035, 13º andar, Água Branca, CEP: 05001-
+100, São Paulo/SP, representada por seu Presidente, Sr. José Éverton Fernandes, na forma
+de seu Estatuto Social (doc. anexo), por seus advogados infra-assinados, com fulcro no art.
+102, I, "a", c/c art. 103, IX, ambos da Constituição Federal, e nos arts. 2º, IX, e 3º da Lei nº
+9.868/1999, vem, respeitosamente, à elevada presença de Vossa Excelência, propor a
+presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+tendo por objeto a retirada do ordenamento jurídico do art. 16 da Lei Estadual nº
+14.605, de 16 de dezembro de 2009, do Estado do Ceará (com a redação dada pela
+Lei Estadual nº 14.826, de 28 de dezembro de 2010), pelos fundamentos de fato e de direito
+a seguir aduzidos.
+
+I. DAS INTIMAÇÕES
+
+Inicialmente, requer sejam as publicações referentes ao presente feito realizadas em
+nome do advogado ROGÉRIO FEITOSA CARVALHO MOTA, OAB/CE nº 16.686 com
+endereço profissional à Rua Nunes Valente, nº 3.291, Dionísio Torres, CEP: 60102-295,
+Fortaleza/CE, Fone: 85999661111, E-mail: escritorio@rfmadvocacia.com, sob pena de
+nulidade.
+
+II. SÍNTESE DA CONTROVÉRSIA E DA NORMA IMPUGNADA
+
+Cuida-se de Ação Direta de Inconstitucionalidade que tem por objeto o art. 16 da Lei
+Estadual nº 14.605/2010 do Estado do Ceará, dispositivo imposição às serventias
+extrajudiciais de Registro de Títulos e Documentos (RTD) a obrigação de "registrar e
+informar eletronicamente operações de venda e compra ou qualquer forma de
+transferência de propriedade de veículos ao órgão de trânsito do Estado do
+Ceará".
+
+
+[[pagina 2 | nativo]]
+Eis a redação literal do dispositivo combatido:
+
+Art. 16. Ficam os Cartórios de Títulos de documentos obrigados a
+registrar e informar eletronicamente operações de venda e
+compra ou qualquer forma de transferência de propriedade de
+veículos ao órgão de trânsito do Estado do Ceará.
+§1º O envio das informações a que alude o caput deverá ser
+efetuado por via digital, observados os mecanismos de segurança
+que assegurem o seu efetivo recebimento, sendo emitidos recibos
+digitais de operação, o qual deverá ser aprovado pelo Detran/CE.
+§2º O Tribunal de Justiça regulamentará o disposto neste artigo
+por Resolução.
+§2º O serviço que alude o caput deverá ser protocolado e efetivado
+imediatamente pelas serventias extrajudiciais de Registro de
+Títulos e Documentos, aplicando para o registro o código 6001 da
+tabela de custas extrajudiciais do Tribunal de Justiça,
+independente do valor do bem, observadas as formalidades legais.
+(Redação dada pela lei n.º 14.826, de 28.12.10)
+§3º Os Cartórios de Registro de Títulos e Documentos
+disponibilizarão às partes o recibo digital de operação a que alude
+este artigo.
+
+Conquanto promulgada em 2010, a norma permaneceu integralmente dormente
+por mais de 15 (quinze) anos. Não havia, em todo esse intervalo, qualquer exigência
+prática de registro cartorário como condição da transferência de propriedade veicular no
+Estado do Ceará. As transferências eram realizadas eletronicamente, na sistemática federal
+vigente, sem custo adicional ao consumidor.
+
+Esse cenário foi abruptamente alterado pela edição do Provimento nº
+05/2025/CGJCE, emanado da Corregedoria-Geral da Justiça do Estado do Ceará, que,
+invocando o art. 16 da Lei Estadual nº 14.605/2010, como suposto fundamento,
+transformou o registro cartorário em etapa procedimental obrigatória, prévia
+e onerosa para a efetivação da transferência veicular — exigindo que a Autorização
+para Transferência de Propriedade de Veículo Eletrônica (ATPV-e) - documento federal
+eletrônico instituído pela Resolução CONTRAN nº 809/20201 - seja registrada em serventia
+de RTD do Ceará e autenticada por selo digital específico, sob pena de recusa da
+transferência pelo DETRAN/CE.
+
+A engenharia normativa adotada pelo Estado do Ceará revela, assim, característica
+peculiarmente nociva: a Lei Estadual nº 14.605/2010, com alteração promovida pela Lei
+Estadual nº 14.826, de 28.12.10, que jamais fora aplicada na sua integralidade durante mais
+de 15 (quinze) anos, foi ressuscitada como pretexto de legalidade para sustentar
+provimento que, a rigor, inovando substancialmente na ordem jurídica e cria mercado cativo
+em favor das serventias extrajudiciais.
+
+1 Alterada a partir de 02 de outubro de 2023 pela Resolução 999/23; Alterada pela Resolução 817/21 e
+Alterada pelas Portarias CONTRAN 197/21; 198/21
+
+
+[[pagina 3 | nativo]]
+Dessa forma, ataca-se, na presente ADI, a fonte primária dessa cadeia de
+inconstitucionalidades, qual seja, o art. 16 da Lei Estadual nº 14.605/2010. Assim o caminho
+que se impõe é, pela via constitucional única e adequada, a propositura desta Ação
+Direta de Inconstitucionalidade perante o Supremo Tribunal Federal.
+
+II.1. Do impacto financeiro concreto: aumento superior a 700% no custo da
+transferência veicular
+
+Antes da operacionalização do sistema fundado na Lei Estadual nº 14.605/2010, e
+regulado pelo Provimento nº 05/2025/CGJCE, a comunicação de venda e a transferência de
+propriedade veicular podiam ser realizadas no Estado do Ceará pelo próprio proprietário
+diretamente junto ao DETRAN/CE, por empresas habilitadas e credenciadas pela
+SENATRAN, mediante plataformas integradas ao SERPRO e ao RENAVAM, ou por
+serventias extrajudiciais com selos físicos, todas a custos significativamente reduzidos.
+
+A composição original de custos era, em síntese, a seguinte:
+
+Prestador Serviço Qt. Total
+
+Cartório Reconhecimento de firma (R$ 6,16) 2 R$ 12,32
+
+Empresa Comunicação de venda eletrônica (R$ 1 R$ 18,00
+SENATRAN 18,00)
+
+TOTAL ANTERIOR R$ 30,32
+
+Referido Provimento nº 05/2025/CGJCE criou a sistemática, o qual, em sua origem
+formal, dispõe sobre a migração dos selos físicos tipos 2, 3 e 14 para o formato digital, no
+âmbito dos serviços notariais e registrais.
+
+Com efeito, a implementação do chamado selo digital para reconhecimento de firma em
+transferências veiculares passou a estar atrelada à imposição de pagamento obrigatório de
+boleto no valor aproximado de R$ 209,00 (duzentos e nove reais), por veículo, com a
+obrigatoriedade de registro da APTV e comunicação de venda junto a uma serventia de
+Registro de Títulos e Documentos, no caso, à SINOREDI/CE (RTD).
+
+
+[[pagina 4 | nativo]]
+Assim, após a aplicação concreta do art. 16 da Lei Estadual nº 14.605/2010, e
+operacionalizada pelo Provimento nº 05/2025/CGJCE, a composição de custos passou a ser
+a seguinte:
+
+Prestador Serviço Qt. Total
+
+Cartório de Notas Reconhecimento de firma — selo digital (R$ 2 R$ 54,00
+27,00)
+
+SINOREDI/CE Registro/comunicação de venda — boleto DUT 1 R$ 209,00
+(RTD)
+
+TOTAL ATUAL R$ 263,00
+
+Os números, por si só, denunciam a desproporção: o que custava R$ 30,32 passou a
+custar R$ 263,00 — aumento de aproximadamente 767% (setecentos e sessenta
+e sete por cento) no custo total da operação. Tal elevação, totalmente desprovida de
+qualquer demonstração de utilidade pública, é paga DIARIAMENTE por cada cidadão
+cearense que adquire veículo no Estado do Ceará. Não há setor, mercado, atividade ou
+interesse legítimo que justifique imposição financeira dessa magnitude.
+
+II.2. Da recusa do DETRAN/CE: coerção administrativa direta
+
+A partir de 30/03/2026, o Departamento Estadual de Trânsito do Ceará – DETRAN/CE,
+em estrita aplicação da norma cuja inconstitucionalidade ora se argui, passou a recusar
+sumariamente o andamento e a efetivação de transferências de veículos cuja comunicação
+de venda haja sido realizada por meios não cartorários, ainda que pelas vias federais
+expressamente previstas e legitimadas pela Resolução CONTRAN nº 809/2020.
+
+Essa conduta administrativa tem natureza inequivocamente coercitiva, pois o cidadão é
+formalmente compelido a aceitar e custear o procedimento cartorário oneroso, sob pena
+de ver inviabilizado o exercício pleno do direito de propriedade sobre veículo legitimamente
+adquirido. As consequências dessa coerção são severas e crescentes. Vejamos:
+
+• Insegurança jurídica: o adquirente fica sem o registro legal do veículo em seu nome,
+em situação de incerteza patrimonial.
+
+• Risco de penalidades de trânsito: o art. 233 do CTB qualifica como infração média
+o atraso na regularização da transferência, com multa e retenção do veículo. O cidadão é,
+portanto, submetido à escolha forçada entre pagar emolumentos abusivos ou sujeitar-se a
+penalidades oficiais — situação intolerável em Estado de Direito.
+
+• Impossibilidade de atos subsequentes: a falta de regularização impede o
+licenciamento anual, a contratação de seguros, novas vendas e quaisquer atos que dependam da
+propriedade formalizada.
+
+• Inviabilização das empresas credenciadas pela SENATRAN: prestadores de
+serviços de comunicação de venda eletrônica habilitados em todo o território nacional pela
+autoridade federal competente foram, na prática, alijados do mercado cearense, com perda
+imediata e irrecuperável de operações e clientes.
+
+
+[[pagina 5 | nativo]]
+II.3. Do reconhecimento expresso pelo CNJ da "aparente ilegitimidade"
+da norma
+
+A controvérsia foi inicialmente submetida à apreciação do Conselho Nacional de Justiça,
+no Pedido de Providências nº 0002759-53.2026.2.00.0000, ajuizado pelo Sindicato dos
+Revendedores de Veículos Automotores do Estado do Ceará – SINDIVEL/CE, entidade
+filiada à ora Requerente, e ainda no PP nº 0002308-28.2026.2.00.0000, ajuizado por
+empresa credenciada pela SENATRAN com atuação nacional.
+
+Em decisão proferida em 23.04.2026, o eminente Min. Mauro Campbell Marques,
+Corregedor Nacional de Justiça, deixou de conhecer do pedido, por entender
+que a controvérsia exigiria juízo sobre a constitucionalidade de lei estadual,
+competência que, por expressa determinação constitucional, escapa à esfera administrativa
+do CNJ. Na mesma decisão, o CNJ reconheceu, expressamente, a "aparente
+ilegitimidade" da exigência impugnada, registrando, verbis:
+
+"(...) esclareço ao requerente que a Corregedoria Nacional de Justiça
+já tem ciência da aparente ilegitimidade apontada e que as
+medidas administrativas de sua competência para sanar a questão
+na origem legislativa (art. 16 da Lei Estadual n. 14.605/2010) já
+foram adotadas e determinadas nos autos da Inspeção n. 0007590-
+81.2025.2.00.0000." (CNJ, PP nº 0002759-53.2026.2.00.0000, Rel.
+Min. Mauro Campbell Marques, Corregedoria Nacional de Justiça,
+decisão de 23/04/2026)
+
+Reconhecida no plano administrativo a aparente ilegitimidade da norma — e admitida,
+pelo próprio Conselho Nacional de Justiça, sua impotência para invalidá-la em sede de
+controle abstrato —, o caminho que se impõe é, pela via constitucional única e
+adequada, a propositura da presente Ação Direta de Inconstitucionalidade perante esta
+Suprema Corte, sob a luz do paradigma fixado no RE 611.639/RJ e nas ADIs 4.227, 4.333,
+5.656 e 2.150.
+
+III – DA LEGITIMIDADE ATIVA DA REQUERENTE
+
+III.1 Enquadramento da FENAUTO no art. 103, IX, da Constituição Federal
+
+A Constituição Federal, no art. 103, IX, atribui legitimidade ativa para a propositura
+de Ação Direta de Inconstitucionalidade às "confederações sindicais ou entidades de
+classe de âmbito nacional". A Requerente, FENAUTO, é a entidade representativa, em
+escala nacional, do setor de revendas de veículos automotores seminovos e usados —
+categoria econômica autônoma, dotada de atividade própria e de interesses específicos,
+perfeitamente identificáveis e diferenciados.
+
+A FENAUTO congrega 30 (trinta) Associações Regionais distribuídas por todas as
+regiões do território nacional, que reúnem, em conjunto, aproximadamente 48.000
+(quarenta e oito mil) revendedores de veículos seminovos e usados, conforme
+demonstrado no portal institucional da entidade (https://fenauto.org.br/institucional.htm).
+Trata-se, portanto, de federação efetivamente representativa — não meramente nominal —
+de uma categoria econômica claramente identificada, que opera no segmento mais relevante
+do comércio automotivo brasileiro, responsável por movimentar trilhões de reais em
+faturamento e gerar centenas de milhares de empregos diretos e indiretos.
+
+
+[[pagina 6 | nativo]]
+III.2 – O requisito jurisprudencial dos nove Estados: pleno atendimento
+
+A jurisprudência desta Suprema Corte, há muito sedimentada, exige, como requisito
+para o reconhecimento do caráter nacional da entidade, a comprovação de que ela conte com
+associados em ao menos nove unidades da Federação. Vejamos:
+
+ADPF 566: "No caso de entidades de classe de âmbito nacional, a
+legitimidade deve observar três condicionantes procedimentais:
+
+a) homogeneidade entre os membros integrantes da entidade (ADI
+108-QI, rel. min Celso de Mello, Plenário, DJ de 5/6/1992; ADI 146,
+rel. min. Maurício Corrêa, Plenário, DJ de 19/12/2002);
+
+b) representatividade da categoria em sua totalidade e comprovação
+do caráter nacional da entidade, pela presença efetiva de associados
+em, pelo menos, nove estados-membros (ADI 386, rel. min. Sydney
+Sanches, Plenário, DJ de 28/6/1991; e ADI 1.486-MC, rel. min.
+Moreira Alves, Plenário, DJ de 13/12/1996); e
+
+c) pertinência temática entre os objetivos institucionais da entidade
+postulante e a norma objeto da impugnação (ADI 1.873, rel. min.
+Marco Aurélio, Plenário, DJ de 19/9/2003)". (ADPF 566 AgR,
+Relator: Luiz Fux, Tribunal Pleno, julgado em 23.08.2019, grifei).
+
+A FENAUTO atende — e supera com larguíssima margem — esses requisitos. Sua
+presença é capilar e nacional, abrangendo, conforme se verifica em seu portal institucional
+(https://fenauto.org.br/associacoes-lojistas-automoveis.htm), as cinco regiões do país e a
+totalidade dos Estados-membros mais relevantes para o setor automotivo:
+
+Região Estados com Associação FENAUTO Coberturas
+
+Norte AM, AP, PA, RO, TO 5 estados
+
+Nordeste AL, BA, CE, MA, PB, PE, PI, RN, SE 9 estados — completa
+
+Centro-Oeste DF, GO, MT e MS 4 estados + DF
+
+Sudeste ES, MG, RJ e SP Cobertura integral
+
+Sul PR, RS e SC Cobertura integral
+
+TOTAL 30 Associações Regionais: Requisito plenamente
+26 Estados + DF atendido
+
+Não há, portanto, como negar o caráter genuinamente nacional da Requerente. A
+FENAUTO está presente em todas as cinco regiões geográficas brasileiras, com
+associações ativas em vinte e seis Estados e no Distrito Federal — quase três vezes
+mais do que o mínimo jurisprudencial exigido por esta Suprema Corte.
+
+III.3. Da Pertinência Temática dos Legitimados Especiais
+
+A jurisprudência desta Corte exige, ainda, a presença de pertinência temática,
+consubstanciado no vínculo material entre a finalidade institucional da entidade requerente
+
+
+[[pagina 7 | nativo]]
+e o objeto da ação. No presente caso, o nexo é absolutamente direto, inequívoco e
+demonstrável documentalmente.
+
+ADIn 1157-MC: “O requisito da pertinência temática – que se traduz
+na relação de congruência que necessariamente deve existir entre os
+objetivos estatutários ou as finalidades institucionais da entidade
+autora e o conteúdo material da norma questionada em sede de
+controle abstrato – foi erigido à condição de pressuposto qualificador
+da própria legitimidade ativa ad causam para efeito de instauração
+do processo objetivo de fiscalização concentrada de
+constitucionalidade.” (ADIn 1157-MC, Rel. Min. Celso de Mello,
+Julgamento em 01.12.1994, Plenário, DJ de 17.11.2006)
+
+Conforme se extrai literalmente do estatuto e do material institucional da FENAUTO, a
+entidade tem por missão expressa "representar os agentes do comércio de veículos
+usados, estimulando o desenvolvimento do setor automotivo, através de
+ações transparentes e responsáveis [...]. A entidade busca a defesa e
+representação dos interesses da categoria na esfera política nacional, além
+de promover programas e serviços que ofereçam qualificação a esses
+empresários e profissionais." Colha-se o que diz o artigo 2º, item 2.3 do Estatuto:
+
+Artigo 2º
+São prerrogativas e finalidades da Fenauto:
+2.1 Integrar a categoria econômica que representa.
+2.2 Celebrar convenções, acordos e todos os atos de interesse da
+categoria econômica que representa.
+2.3 Exercer a representação judicial da categoria econômica
+que representa, nos termos e nas condições estabelecidas
+pelas normas jurídicas que regulam a participação judicial
+das federações e entidades nacionais.
+
+A norma impugnada, qual seja o art. 16 da Lei Estadual nº 14.605/2010, disciplina
+exatamente o ato comercial que constitui o núcleo da atividade econômica dos
+associados da FENAUTO: a transferência de propriedade de veículos automotores. Cada
+associado, ao exercer sua atividade-fim, depende diretamente do regular funcionamento do
+sistema de comunicação de venda.
+
+A norma estadual cearense afeta imediata e gravemente a operação econômica de
+todos os revendedores que atuam naquele Estado, filiados ao SINDIVEL/CE, que, por sua
+vez, integra a estrutura federativa nacional da FENAUTO; e, mais grave ainda, cria
+precedente normativo de risco evidente de replicação por outras unidades
+federativas, com potencial de afetar a totalidade da categoria representada em escala
+nacional.
+
+Em síntese, tem-se que o objeto desta ADI corresponde, com precisão, ao núcleo da
+finalidade institucional da Requerente. A pertinência temática, portanto, é
+plenamente verificada e dispensa qualquer demonstração adicional.
+
+
+[[pagina 8 | nativo]]
+IV. DO PRECEDENTE PARADIGMÁTICO DESTA SUPREMA CORTE: O
+CASO DA ALIENAÇÃO FIDUCIÁRIA DE VEÍCULOS (RE 611.639/RJ E ADI
+4.333)
+
+Antes de adentrar nos fundamentos específicos da inconstitucionalidade da norma
+cearense, impõe-se demonstrar que esta Suprema Corte já enfrentou — e decidiu, à
+unanimidade, controvérsia SUBSTANCIALMENTE, por não se dizer idêntica,
+mas totalmente aplicável ao caso à ora submetida. O paralelismo entre os dois casos
+é tão preciso que a presente ADI, em rigor, encontra-se praticamente julgada por
+antecipação, restando apenas a aplicação da ratio decidendi fixada por este Plenário em
+21.10.2015, vejamos:
+
+IV.1. A controvérsia decidida no RE 611.639/RJ e na ADI 4.333
+
+O Plenário desta Corte, em sessão histórica de 21.10.2015, sob a relatoria do Eminente
+Ministro Marco Aurélio, julgou conjuntamente o RE 611.639/RJ (com repercussão geral
+reconhecida) e a ADI 4.333, ocasião em que se discutia exatamente a mesma matéria:
+a obrigatoriedade ou não de registro em cartório de Títulos e Documentos de ato relacionado
+a veículos automotores (no caso, a alienação fiduciária em garantia).
+
+Os Cartórios de RTD, em conjunto com o Tribunal de Justiça do Rio de Janeiro,
+sustentavam a obrigatoriedade do registro cartorário exatamente com os mesmos
+argumentos que hoje servem de pretexto para a manutenção da exigência cearense,
+inscrito na necessidade de publicidade do ato, segurança jurídica, função registral típica das
+serventias extrajudiciais e o suposto amparo em norma de natureza registral.
+
+Esta Suprema Corte, à unanimidade (com apenas os impedimentos pontuais dos
+Ministros Roberto Barroso, Dias Toffoli e Luiz Fux), rejeitou integralmente esses
+argumentos e fixou, com força vinculante e em sede de repercussão geral, a tese de que é
+desnecessário o registro em cartório de Títulos e Documentos para atos
+relativos a veículos automotores, bastando, para todos os efeitos jurídicos — inclusive
+para a oponibilidade contra terceiros —, a anotação no órgão de trânsito2.
+
+2 https://noticias.stf.jus.br/postsnoticias/stf-reconhece-desnecessidade-de-registro-em-cartorio-de-alienacao-
+fiduciaria-de-veiculo/
+
+
+[[pagina 9 | nativo]]
+IV.2. A ratio decidendi fixada pelo Min. Marco Aurélio: aplicação direta ao
+presente caso
+
+O voto condutor do eminente Min. Marco Aurélio (acolhido por unanimidade pelo
+Plenário) assentou, com clareza solar, três premissas que se aplicam, mutatis mutandis
+e com força ainda maior, ao caso ora submetido a julgamento:
+
+Primeira premissa: a exigência de registro em serventia extrajudicial, quando
+inexistente justificativa concreta de utilidade pública e quando essa publicidade já é
+assegurada por outro meio, "acarreta ônus e custos desnecessários ao consumidor,
+além de não conferir ao ato a publicidade adequada". Foram palavras textuais do
+voto vencedor, transcritas pela Assessoria de Imprensa do STF e reproduzidas em todas as
+fontes oficiais da decisão.
+
+Segunda premissa: a publicidade de atos relativos a veículos é mais efetiva e
+adequadamente atendida pela anotação no órgão de trânsito do que pelo registro
+cartorário. Conforme assentou o Eminente Relator: "Para o leigo, é mais fácil, intuitivo e
+célere verificar a existência de gravame no próprio certificado do veículo em vez de
+peregrinar por diferentes cartórios de títulos e documentos ou ir ao cartório de
+distribuição nos estados que contam com serviço integrado em busca de informações."
+
+Terceira premissa: os limites da atividade registral das serventias extrajudiciais
+"não são previamente definidos na Constituição da República". Compete ao
+legislador federal, no caso de matéria de competência privativa da União definir quais
+atos jurídicos serão (ou não) submetidos a registro cartorário, mediante análise
+de custo-benefício. Essa definição, contudo, não pode ser feita por lei estadual
+quando a matéria escapa à competência legislativa do Estado-membro.
+
+IV.3. A ADI 5.656: precedente sobre selo notarial em DUT como requisito
+de validade
+
+Em complemento ao precedente da alienação fiduciária, esta Suprema Corte, no
+julgamento da ADI 5.656, sob a relatoria do Eminente Ministro Edson Fachin (Tribunal
+Pleno, j. 24/02/2021, DJe 10/03/2021), enfrentou hipótese ainda mais próxima da que ora
+se discute. Naquela ocasião, a Corte declarou inconstitucional Lei Estadual do Amapá (nº
+1.847/2014) que, sob pretexto análogo, criava selo notarial específico como requisito de
+validade de atos de transferência veicular. A ementa, na parte aqui pertinente, é didática:
+
+EMENTA: "AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI
+1.847/2014 DO ESTADO DO AMAPÁ. SELO DE ATOS NOTARIAIS.
+REQUISITO DE VALIDADE DO ATO. INCONSTITUCIONALIDADE.
+COMPETÊNCIA PRIVATIVA DA UNIÃO. DOCUMENTO ÚNICO DE
+TRANSFERÊNCIA DE VEÍCULO. VISTORIA VEICULAR. TRÂNSITO.
+INCONSTITUCIONALIDADE. (...) 1. A norma estadual que cria
+requisitos de validade para atos notariais usurpa a
+competência privativa da União para legislar sobre
+registro público e direito civil, nos termos do art. 22, I e XXV, da
+Constituição da República. 2. Os artigos 3º a 6º da lei estadual,
+referentes: (i) à obrigatoriedade de envio de notificação eletrônica do
+DUT pelas serventias extrajudiciais, à Fazenda Pública e ao
+DETRAN; (ii) ao agendamento eletrônico de vistoria veicular em caso
+de transferência de propriedade; (iii) e à remessa do documento de
+
+
+[[pagina 10 | nativo]]
+transferência veicular ao proprietário adquirente, vão de encontro
+ao que atualmente dispõem o art. 134 do Código de Trânsito
+Brasileiro e a Resolução 398/2011 do Conselho Nacional de
+Trânsito (CONTRAN). A repartição constitucional de
+competências outorgou privativamente à União a
+competência para legislar sobre trânsito, nos termos do art.
+22, XI, da CRFB (...)." (STF, ADI 5656, Rel. Min. EDSON FACHIN,
+Tribunal Pleno, j. 24/02/2021, DJe 10/03/2021)
+
+A ratio decidendi da ADI 5.656 é idêntica e perfeitamente aplicável ao caso
+cearense, na medida em que se o Estado do Amapá não pôde exigir selo notarial ou
+notificação eletrônica em DUT como requisito de validade da transferência, com mais
+razão ainda o Estado do Ceará não pode exigir registro cartorário em RTD como
+condição da própria transferência veicular.
+
+IV.4. ACP 0802043-54.2014.4.05.8100 (TRF-5): precedente direto sobre o
+Estado do Ceará
+
+De peculiar relevância para o caso presente, o Tribunal Regional Federal da 5ª
+Região, no julgamento da Ação Civil Pública nº 0802043-54.2014.4.05.8100, sob a
+relatoria do Des. Federal Paulo Roberto de Oliveira Lima (2ª Turma, j. 30/05/2017),
+já declarou ilegal conduta análoga praticada pelo próprio Estado do Ceará e
+pelo DETRAN/CE, em hipótese envolvendo registro cartorário obrigatório de contratos
+com alienação fiduciária. Confira-se a ementa:
+
+EMENTA: "ADMINISTRATIVO. AÇÃO CIVIL PÚBLICA.
+CONTRATO DE FINANCIAMENTO DE VEÍCULOS COM CLÁUSULA
+DE ALIENAÇÃO FIDUCIÁRIA. OBRIGATORIEDADE DE REGISTRO
+EM CARTÓRIO DE TÍTULOS E DOCUMENTOS COMO CONDIÇÃO
+PARA OBTENÇÃO DE LICENCIAMENTO. ILEGALIDADE. (...) 4. A
+anotação da alienação fiduciária no certificado de registro do veículo
+é suficiente para produzir efeitos perante terceiros, nos termos do
+disposto no art. 6º, § 1º, da Lei nº 11.882/2008, restando vedada a
+exigência de qualquer outro registro público, e considerado
+nulo qualquer ato ou negócio que disponha de modo
+diverso, inclusive convênios entre órgãos/entidades de
+trânsito e entidades registradoras públicas. 5. Dessarte,
+apresenta-se ilegítima e descabida a imposição de obrigação de
+registro prévio dos contratos de financiamentos de veículos com
+alienação fiduciária e os de aquisição de veículos sob o regime de
+consórcio com alienação fiduciária, pelo Detran e pelo Estado do
+Ceará aos interessados, como condição para concessão do
+licenciamento ou expedição do certificado de registro do veículo. (...)".
+(TRF-5, APELAÇÃO: 0802043-54.2014.4.05.8100, Rel. Des. Federal
+PAULO ROBERTO DE OLIVEIRA LIMA, 2ª Turma, j. 30/05/2017)
+
+Mais um paralelismo é absoluto e revelador: a tentativa atual do Estado do Ceará,
+calcada agora no art. 16 da Lei Estadual nº 14.605/2010 e no Provimento nº
+05/2025/CGJCE, é exatamente a reedição, sob nova roupagem, da prática já
+condenada judicialmente em 2017 pelo TRF-5. O modus operandi é o mesmo: utilizar
+a estrutura cartorária como condição obrigatória para etapa essencial do procedimento de
+transferência veicular, com cobrança de emolumentos e benefício direto às serventias
+estaduais.
+
+
+[[pagina 11 | nativo]]
+IV.5. Atuação direta do CNJ: PP nº 0006970-06.2024.2.00.0000
+
+Acrescente-se, ainda, que o próprio Conselho Nacional de Justiça, ao apreciar o
+Pedido de Providências nº 0006970-06.2024.2.00.0000 — que envolveu o
+Provimento nº 17/2024 da Corregedoria-Geral da Justiça do Estado do Ceará, predecessor
+imediato do Provimento nº 05/2025 ora referido —, já reconheceu, em decisão liminar
+do Conselheiro Alexandre Teixeira, verbis:
+
+"(...) a plausibilidade do direito vindicado pelo requerente salta
+aos olhos, uma vez que o ato normativo [...] ocasionaria
+exclusividade na forma de comunicação da venda,
+procedimento necessário para a formalização do ato, de
+forma contrária ao previsto na Resolução CONTRAN nº
+809/2020. (...) Há fundada dúvida quanto à competência
+do TJ/CE para regulamentar procedimentos
+relacionados à transferência de veículos."
+
+A reiteração da prática — agora sob a roupagem do Provimento nº 05/2025 e calcada no
+art. 16 da Lei Estadual nº 14.605/2010 — caracteriza conduta sistemática do Estado
+do Ceará em desconformidade com o ordenamento constitucional, o que torna ainda mais
+imperiosa a atuação desta Suprema Corte para encerrar definitivamente a controvérsia
+
+IV.6. A inaplicabilidade do art. 16 da Lei Estadual nº 14.605/2010 à luz do
+precedente
+
+Aplicando-se a ratio decidendi do RE 611.639/RJ ao caso presente, a conclusão é
+absolutamente inevitável:
+
+• pois, se o legislador federal competente já decidiu, e esta
+Corte chancelou por unanimidade, que o registro cartorário
+em RTD não é necessário para atos jurídicos relativos a
+veículos, em especial a alienação fiduciária, sendo suficiente a
+anotação no órgão de trânsito;
+
+• com mais razão ainda o legislador estadual, que sequer
+dispõe de competência para legislar sobre a matéria, como se
+demonstrará no item IV.1, não pode reintroduzir, por via
+reflexa, a obrigatoriedade que o legislador federal
+expressamente afastou e que esta Suprema Corte declarou
+incompatível com os princípios constitucionais. Há, portanto,
+contradição frontal e direta entre o art. 16 da Lei Estadual
+nº 14.605/2010 e o entendimento firmado por esta Corte.
+
+Aliás, o paralelismo é ainda mais agudo no caso presente do que naquele que originou o
+leading case. No RE 611.639/RJ discutia-se a obrigatoriedade do registro como condição de
+eficácia probatória contra terceiros. No caso ora submetido, o registro cartorário é
+exigido como condição da própria transferência da propriedade, condicionante,
+portanto, ainda mais grave e mais onerosa do que aquela já rechaçada por esta Corte.
+
+
+[[pagina 12 | nativo]]
+V. DOS FUNDAMENTOS DA INCONSTITUCIONALIDADE
+
+Não obstante o precedente do RE 611.639/RJ, por si só, suficiente para o
+reconhecimento da inconstitucionalidade da norma impugnada, cumpre demonstrar que o
+art. 16 da Lei Estadual nº 14.605/2010 padece de quatro vícios autônomos e
+cumulativos de inconstitucionalidade, cada um deles bastante, isoladamente, para a
+declaração de invalidade pretendida.
+
+V.1. Inconstitucionalidade formal: usurpação da competência privativa da
+União para legislar sobre trânsito e registros públicos (art. 22, XI e XXV, da CF)
+
+A Constituição Federal, em seu art. 22, atribui à União, com exclusividade, a
+competência para legislar sobre as matérias que envolvem o objeto da norma impugnada.
+Confiram-se os incisos pertinentes:
+
+Art. 22. Compete privativamente à União legislar sobre:
+XI – trânsito e transporte;
+XXV – registros públicos;
+
+A norma cearense impugnada invade, simultaneamente, a competência
+privativa federal, pois disciplina o procedimento de transferência de propriedade de
+veículos automotores (matéria de trânsito) e impõe obrigação de registro cartorário em
+serventia extrajudicial (matéria de registros públicos).
+
+Quanto à matéria de trânsito, o Congresso Nacional, no exercício de sua competência
+privativa, promulgou a Lei nº 9.503/1997 (Código de Trânsito Brasileiro), cujo art. 134
+disciplina, com exclusividade, o procedimento de comunicação de venda de veículos:
+
+Art. 134. No caso de transferência de propriedade, o proprietário
+antigo deverá encaminhar ao órgão executivo de trânsito do Estado
+dentro de um prazo de trinta dias, cópia autenticada do comprovante
+de transferência de propriedade, devidamente assinado e datado, sob
+pena de ter que se responsabilizar solidariamente pelas penalidades
+impostas e suas reincidências até a data da comunicação.
+
+Parágrafo único. O comprovante de transferência de propriedade de
+que trata o caput poderá ser substituído por documento eletrônico, na
+forma regulamentada pelo Contran.
+
+A regulamentação infralegal foi delegada ao Conselho Nacional de Trânsito –
+CONTRAN, que, por meio da Resolução CONTRAN nº 809/2020, estabeleceu, com
+força nacional e exaustiva, as formas legítimas e plurais de comunicação de venda de
+veículos. Em seus arts. 19 e 20, a referida Resolução prevê, alternativamente:
+
+• comunicação por sistema eletrônico implantado pela
+União, com assinatura digital ou certificado ICP-
+Brasil;
+• comunicação por entidades públicas ou privadas com
+atribuição legal, expressamente autorizadas pela
+SENATRAN;
+
+
+[[pagina 13 | nativo]]
+• comunicação direta pelos órgãos executivos de
+trânsito dos Estados e do Distrito Federal.
+
+A própria Secretaria Nacional de Trânsito – SENATRAN, por meio da Nota
+Técnica nº 1.554/2024, confirmou que a pluralidade de formas de comunicação
+de venda é elemento essencial e estruturante do sistema federal, voltada a assegurar
+eficiência, inclusão e aderência ao Sistema Nacional de Trânsito.
+
+A norma cearense impugnada rompe frontalmente com essa lógica de pluralidade e
+descentralização ao impor pelo deslocamento sistêmico que opera, em conjunto com o
+Provimento nº 05/2025/CGJCE uma única via obrigatória: o registro em serventia de
+RTD do Estado do Ceará, com cobrança compulsória de emolumentos. Ao fazê-lo,
+extingue, na prática, a pluralidade de meios prevista pelo CONTRAN e usurpa,
+sem qualquer autorização constitucional, a esfera de competência privativa da União.
+
+Quanto à matéria de registros públicos, esta Suprema Corte, em sede de repercussão
+geral, no julgamento do RE 611.639/RJ (Tema 349), assentou de modo definitivo a
+competência privativa da União para legislar sobre serviços notariais e de registro. O Estado-
+membro pode regular aspectos administrativos de funcionamento das serventias localmente
+sediadas, mas não pode criar atos sujeitos a registro nem impor obrigações
+registrais não previstas, ou já afastadas, pela legislação federal, sob pena de incidir em
+manifesta inconstitucionalidade formal.
+
+No caso, a transgressão é ainda mais grave. O parágrafo único do art. 22 da Constituição
+Federal admite que a União, por lei complementar federal, autorize os Estados a
+legislar sobre questões específicas das matérias arroladas no caput. No entanto, não
+existe, nem nunca existiu, lei complementar federal que autorize o Estado do
+Ceará a legislar sobre transferência de propriedade de veículos ou sobre seu
+registro em cartório. A invasão de competência é, portanto, pura, simples, total e
+irremediável.
+
+V.2. Inconstitucionalidade material: incompatibilidade com o sistema
+federal de trânsito e ofensa ao princípio da supremacia federal (art. 24, § 4º,
+c/c art. 22, XI, da CF)
+
+Ainda que se admitisse, hipótese que se debate apenas para argumentar, competência
+estadual para a matéria, a norma impugnada padeceria de outro vício de
+inconstitucionalidade, este de natureza material: a incompatibilidade frontal com o
+sistema federal de trânsito.
+
+O Código de Trânsito Brasileiro (art. 134) e a Resolução CONTRAN nº 809/2020
+estabelecem sistema normativo completo, eletrônico, autossuficiente e
+desburocratizado para a transferência de propriedade de veículos automotores. A ATPV-
+e (Autorização para Transferência de Propriedade do Veículo) - o documento digital que
+formaliza a venda de um carro ou moto usado no Brasil - foi concebida exatamente para
+eliminar etapas cartorárias intermediárias, conferindo ao adquirente, ao alienante e
+ao Estado um documento único, eletrônico, dotado de fé pública federal e plenamente apto
+a operar a transferência da propriedade.
+
+
+[[pagina 14 | nativo]]
+No entanto, a norma estadual cearense cria obrigação não prevista, e
+incompatível, com esse modelo federal. Ao exigir o registro da ATPV-e em cartório de
+RTD como etapa procedimental obrigatória, a Lei Estadual nº 14.605/2010 institui
+condicionante que contraria, na sua essência, a sistemática federal eletrônica da
+transferência veicular. O conflito entre as normas é frontal e direto e deve ser resolvido
+pela prevalência da norma federal, conforme o art. 24, §4º, c/c o art. 22, XI, da Constituição
+Federal.
+
+Acrescente-se que não há, em todo o território nacional, qualquer outro ente
+federativo que adote a comunicação isolada e o registro de ATPV-e e cobrança de
+emolumentos em RTD como condição para transferência de propriedade veicular. Essa
+singular excepcionalidade do Estado do Ceará não é virtude inovadora, mas sim
+desvio inconstitucional. Trata-se de iniciativa que destoa da experiência federativa
+nacional e que se coloca em manifesto descompasso com as diretrizes de modernização e
+digitalização que orientam, há mais de uma década, o aprimoramento dos sistemas
+estaduais de trânsito.
+
+Mais grave: a sistemática cearense inviabiliza, na prática, a utilização da Venda
+Digital (funcionalidade integrada ao aplicativo Carteira Digital de Trânsito – CDT, do
+sistema GOV.BR), que vem sendo gradualmente implementada em todo o país justamente
+para eliminar a necessidade de documentos físicos, reconhecimentos de firma e
+intermediações cartorárias. O Estado do Ceará regride para o passado enquanto a União
+avança rumo à desburocratização integral.
+
+V.3. Inconstitucionalidade material: violação à ordem econômica
+constitucional (arts. 1º, IV; 170, IV; e 5º, XXXII, da CF)
+
+Mesmo se afastadas as objeções de competência o que, repise-se, é hipótese aventada
+apenas para argumentar, a norma cearense padece de inconstitucionalidade material por
+violar diretamente a ordem econômica constitucional, assentada nos arts. 1º, IV (livre
+iniciativa); 170, IV (livre concorrência); e 5º, XXXII (defesa do consumidor), todos da
+Constituição Federal.
+
+a) Reserva de mercado inconstitucional. Ao vincular a transferência veicular ao
+registro em cartório de RTD localmente sediado no Estado do Ceará, a norma elimina, por
+via legal, a concorrência de prestadores credenciados pela SENATRAN, empresas que, sem
+qualquer vinculação geográfica, atendem o mercado nacional. Cria-se, na prática, um
+monopólio estadual em favor das serventias cearenses, em ofensa direta ao princípio
+constitucional da livre concorrência e em desconformidade com a jurisprudência desta
+Corte).
+
+b) Venda casada e abuso da posição regulamentar. Ao condicionar a
+transferência veicular ao pagamento de emolumento cartorário sem que o consumidor
+disponha de qualquer alternativa de prestador, a norma configura a prática abusiva
+de venda casada, expressamente vedada pelo art. 39, I, do Código de Defesa do
+Consumidor. O consumidor cearense é, contra sua vontade, forçado a contratar serviço
+cartorário oneroso para realizar ato de transferência veicular, cuja execução o sistema
+federal lhe garantiria pela via eletrônica.
+
+
+[[pagina 15 | nativo]]
+c) Onerosidade desproporcional. O salto do custo médio do serviço de R$ 30,00
+para R$ 263,00 representa aumento superior a 700% (setecentos por cento) por
+operação. Esse aumento não encontra qualquer correspondente em utilidade
+pública demonstrada: a anotação eletrônica federal já existe, é gratuita ou de baixíssimo
+custo e cumpre — com a chancela desta Suprema Corte no RE 611.639/RJ — com sobras
+a função de publicidade do ato. A imposição estadual viola, frontalmente, os princípios
+constitucionais da razoabilidade e da proporcionalidade, que proíbem o Estado de
+impor encargos desconectados da finalidade legítima alegada.
+
+d) Barreira econômica indireta ao exercício de atividade negocial. A
+imposição compromete não apenas operações isoladas, mas também a regularidade do
+fluxo negocial dos associados da Requerente, com impactos diretos e crescentes
+sobre o setor de revenda de veículos automotores no Estado do Ceará. Concessionárias,
+frotistas, comerciantes e despachantes são igualmente afetados.
+
+V.4. Desvio de finalidade legislativa: a lei dormente por 15 (quinze) anos
+como instrumento de captura de mercado
+
+Para além dos vícios formais e materiais já demonstrados, a norma impugnada
+apresenta um dado fático absolutamente revelador do desvio de finalidade que a
+contamina: o art. 16 da Lei Estadual nº 14.605/2010 permaneceu integralmente sem
+aplicação por mais de quinze anos.
+
+Entre a edição da norma, em 2010, e o advento do Provimento nº 05/2025/CGJCE,
+NENHUMA serventia de RTD do Estado do Ceará exigiu o registro cartorário
+como condicionante de transferência veicular. As transferências eram processadas pelo
+DETRAN/CE com base na sistemática federal vigente, sem qualquer intervenção cartorária.
+O dispositivo, embora formalmente em vigor, jamais se incorporou à realidade
+prática da transferência veicular cearense.
+
+Esse silêncio regulamentar de uma década e meia não é casual, muito menos
+inocente. Revela, a contrario sensu, que a própria Administração Estadual reconhecia,
+tacitamente, a desnecessidade da exigência. O ressurgimento da norma, exatamente no
+contexto de consolidação federal da ATPV-e como documento eletrônico único e
+desburocratizante somente pode ser explicado por uma motivação: a captura, pelas
+serventias estaduais, do SINOREDI, do mercado que a tecnologia federal estava
+por flexibilizar.
+
+A pesquisa minuciosa realizada nos arquivos legislativos da Assembleia Legislativa do
+Estado do Ceará – ALECE não localizou qualquer projeto, debate, emenda ou
+justificativa técnica recente que respaldasse a regulamentação tardia da norma. O
+Provimento nº 05/2025/CGJCE foi editado sem qualquer respaldo em deliberação
+parlamentar, sem participação social, sem estudo de impacto regulatório e sem qualquer
+demonstração de necessidade da medida. Apenas, súbita e abruptamente, decidiu-se invocar
+uma lei dormente para criar — onde antes não havia — uma exigência que onera diariamente
+os consumidores cearenses em centenas de reais por operação.
+
+Esse desvio caracteriza inconstitucionalidade por violação aos princípios da
+boa-fé legislativa, da segurança jurídica e da proteção da confiança (CF, arts. 5º,
+XXXVI, e 37, caput). Quando o Estado, durante 15 (quinze) anos, pratica uma conduta
+
+
+[[pagina 16 | nativo]]
+administrativa específica (o não-uso da norma) e, abruptamente, sem nova deliberação
+parlamentar e sem justificativa técnica, instrumentaliza um dispositivo dormente para criar
+mercado cativo, viola os fundamentos mais elementares do Estado de Direito.
+
+V.5. Violação ao art. 236 da CF: desvirtuamento da função registral
+
+Por fim, é imperioso registrar que a norma impugnada ao transformar atividade
+registral facultativa (registro em RTD para fins de publicidade adicional) em imposição
+compulsória (etapa obrigatória da transferência veicular) promove indevida intervenção
+na livre iniciativa (art. 170, caput, CF) e desvirtua a própria função registral prevista no art.
+236 da Constituição Federal.
+
+Os serviços notariais e de registro são exercidos em caráter privado, por delegação do
+Poder Público, e devem servir à sociedade não o contrário. Quando a lei estadual
+transforma o registro em barreira procedimental obrigatória, com cobrança compulsória de
+emolumentos em valor desproporcional, a função registral torna-se finalidade em si
+mesma, em prejuízo do interesse público, subvertendo a lógica constitucional do art.
+236 da CF.
+
+VI. DO RECONHECIMENTO ADMINISTRATIVO DA "APARENTE
+ILEGITIMIDADE" PELO CONSELHO NACIONAL DE JUSTIÇA
+
+Acresça-se, como elemento de notável reforço da pretensão, que a aparente
+ilegitimidade do art. 16 da Lei Estadual nº 14.605/2010 foi reconhecida expressamente
+pelo Conselho Nacional de Justiça, em decisão prolatada pelo Eminente Min. Mauro
+Campbell Marques, Corregedor Nacional de Justiça, no PP nº 0002759-
+53.2026.2.00.0000, conforme já transcrito no item I, supra. O CNJ — órgão de cúpula do
+controle administrativo da magistratura nacional, integrado por representantes de diversos
+setores do Sistema de Justiça — reconheceu, verbis, que:
+
+(i) há aparente ilegitimidade na exigência decorrente do
+Provimento nº 05/2025/CGJCE;
+
+(ii) a origem do problema está na própria lei estadual (art. 16
+da Lei nº 14.605/2010); e
+
+(iii) "medidas administrativas para sanar a questão na
+origem legislativa" já foram determinadas em sede de
+Inspeção (nº 0007590-81.2025.2.00.0000).
+
+Essa manifestação do CNJ, conquanto não tenha caráter vinculante para esta Suprema
+Corte, ostenta inegável valor argumentativo: demonstra que a tese de
+inconstitucionalidade ora deduzida não é fruto da imaginação isolada da
+Requerente, mas é compartilhada por instância oficial do Sistema de Justiça que
+examinou detidamente a matéria. O Estado do Ceará, na pessoa de sua Corregedoria de
+Justiça, foi formalmente alertado, há tempo, sobre a aparente
+inconstitucionalidade da norma e, ainda assim, mantém-na em plena vigência,
+prejudicando diariamente os consumidores cearenses.
+
+
+[[pagina 17 | nativo]]
+VI. DO PEDIDO DE MEDIDA CAUTELAR
+
+A presente ação vem instruída com pedido de medida cautelar, com fulcro no art. 10 da
+Lei nº 9.868/1999, para que esta Suprema Corte, inaudita altera parte (ou,
+sucessivamente, após informações), defira a suspensão imediata da eficácia do art. 16
+da Lei Estadual nº 14.605/2010; e, por consequência, a suspensão da exigibilidade
+e da aplicação do Provimento nº 05/2025/CGJCE.
+
+VI.1. Do fumus boni iuris
+
+A plausibilidade jurídica da pretensão é manifesta e decorre dos seguintes
+elementos cumulativos:
+
+• Precedente vinculante desta Corte (RE 611.639/RJ, Tema 349, Rel. Min.
+Marco Aurélio): o STF já decidiu, à unanimidade, em sede de repercussão geral,
+que é desnecessário o registro em cartório de Títulos e Documentos para atos relativos
+a veículos automotores. A norma cearense impugnada se opõe diretamente a essa
+orientação.
+
+• ADI 5.656 (Rel. Min. Edson Fachin): o STF declarou inconstitucional lei
+estadual análoga (Amapá) que criava selo notarial como requisito de validade de
+transferência veicular, em hipótese diretamente aplicável ao caso cearense.
+
+• Precedente do TRF-5 sobre o próprio Estado do Ceará (ACP 0802043-
+54.2014.4.05.8100): o Tribunal já declarou ilegal a imposição de registro
+cartorário obrigatório para transferência veicular pelo DETRAN/CE e pelo Estado do
+Ceará — exatamente a prática que ora se reedita sob nova roupagem normativa.
+
+• Reconhecimento expresso de "aparente ilegitimidade" pelo CNJ: o próprio
+Conselho Nacional de Justiça, em decisão recente (23/04/2026, PP nº 0002759-
+53.2026.2.00.0000, Rel. Min. Mauro Campbell Marques), reconheceu textualmente
+a aparente ilegitimidade da norma impugnada e a necessidade de sanar a questão na
+"origem legislativa".
+
+• Precedente liminar correlato no CNJ (PP nº 0006970-
+06.2024.2.00.0000): o Conselheiro Alexandre Teixeira já reconheceu, em
+hipótese análoga, que a "plausibilidade do direito vindicado salta aos olhos" e que há
+"fundada dúvida quanto à competência do TJ/CE para regulamentar procedimentos
+relacionados à transferência de veículos".
+
+• Manifesta usurpação de competência privativa da União: a norma cearense
+invade as matérias reservadas pelo art. 22, XI e XXV, da CF, sem qualquer autorização
+por lei complementar federal (art. 22, parágrafo único).
+
+• Nota Técnica nº 1.554/2024 da SENATRAN: o próprio órgão federal
+competente já reconheceu, em manifestação técnica oficial, que a pluralidade de
+formas de comunicação de venda é elemento essencial e estruturante do sistema
+federal de trânsito.
+
+
+[[pagina 18 | nativo]]
+VI.2. Do periculum in mora
+
+O perigo na demora é agudo, quantificável e crescente, e independe de qualquer
+especulação, decorrendo de fatos e diariamente reproduzidos:
+
+• Lesão patrimonial direta, contínua e diariamente reproduzida aos
+consumidores: cada transferência veicular realizada no Ceará, sob a vigência da
+norma impugnada, gera lesão patrimonial de cerca de R$ 230,00, diferença entre o
+custo cobrado anteriormente (R$ 30,32) e o emolumento total hoje obrigatório (R$
+263,00). Considerada a média de transferências diárias no Estado, o valor agregado
+da lesão alcança montante de muitos milhões de reais por mês, quantia que sequer
+pode ser facilmente recomposta após o eventual provimento final desta ação, dada a
+multiplicidade e a difusão dos prejudicados.
+
+• Recusa sistemática de transferências pelo DETRAN/CE: desde 30/03/2026,
+o DETRAN/CE recusa transferências veiculares que não cumpram a exigência
+cartorária, expondo cidadãos a multas e penalidades do art. 233 do CTB, impedindo
+o licenciamento anual de veículos, a contratação de seguros e quaisquer atos
+subsequentes que dependam da propriedade formalizada situação intolerável em um
+Estado de Direito.
+
+• Inviabilização de empresas credenciadas pela SENATRAN: os prestadores
+credenciados pela União para a comunicação eletrônica de venda, que operam
+regularmente em todo o território nacional, encontram-se hoje formalmente alijados
+do mercado cearense, com prejuízos econômicos crescentes e potencial encerramento
+de operações no Estado.
+
+• Comprometimento direto da atividade econômica dos associados da
+FENAUTO: os revendedores filiados ao SINDIVEL/CE que integram a estrutura
+federativa nacional da Requerente sofrem perdas operacionais diárias decorrentes da
+inviabilização e do encarecimento das transferências veiculares, com impacto direto
+e mensurável sobre seus negócios.
+
+• Risco de replicação por outros Estados-membros: o sucesso da iniciativa
+cearense, caso não interrompido judicialmente, abre perigoso precedente para que
+outras unidades federativas implementem medidas semelhantes, multiplicando
+exponencialmente os danos sobre o setor automotivo nacional e sobre a população
+consumidora.
+
+• Consolidação progressiva da prática inconstitucional: quanto mais tempo a
+norma permanecer eficaz, maior a consolidação do mercado cativo cartorário, mais
+difícil a reversão da situação e maior o dano sistêmico ao Sistema Nacional de
+Trânsito.
+
+A conjugação do fumus boni iuris robustíssimo, apoiado em precedentes vinculantes
+desta Corte, em decisão correlata do TRF-5 sobre o próprio Estado do Ceará, em precedente
+do CNJ e em manifestação técnica oficial da SENATRAN. Ainda assim existe periculum
+in mora agudo, contínuo e quantificável, impõe o deferimento da medida cautelar,
+a fim de evitar que o tempo necessário ao julgamento de mérito da ADI converta-se em fator
+de consolidação dos danos econômicos e jurídicos que se pretende evitar.
+
+
+[[pagina 19 | nativo]]
+VII. DOS PEDIDOS
+
+Diante de todo o exposto, a Requerente requer, respeitosamente, que esta Suprema
+Corte:
+
+a) Conheça da presente Ação Direta de Inconstitucionalidade e, reconheça a
+legitimidade ativa da FENAUTO como entidade de classe de âmbito nacional (CF, art. 103,
+IX), bem como a pertinência temática entre seu objeto e a finalidade institucional da
+Requerente;
+
+b) PRELIMINARMENTE, defira, inaudita altera parte, com fulcro no art. 10, 3º,
+da Lei nº 9.868/1999, medida cautelar para:
+
+b.1) suspender a eficácia do art. 16 da Lei Estadual nº 14.605/2010 do Estado do Ceará
+(redação dada pela Lei nº 14.826/2010), até o julgamento definitivo da presente ação;
+consequentemente, suspender a exigibilidade e a aplicação do Provimento nº
+05/2025/CGJCE, da Corregedoria-Geral da Justiça do Estado do Ceará, naquilo que se vale
+do dispositivo legal impugnado como fundamento;
+
+b.2) determinar a comunicação imediata da medida cautelar à Corregedoria-Geral da
+Justiça do Estado do Ceará, ao Tribunal de Justiça do Estado do Ceará, ao DETRAN/CE e
+ao SENATRAN, para imediata observância em todo o território cearense;
+
+c) Determine, na forma do art. 6º da Lei nº 9.868/1999, que se colham informações da
+Assembleia Legislativa do Estado do Ceará e do Tribunal de Justiça do Estado do Ceará
+(autor da proposição da qual se originou a norma);
+
+d) Determine a oitiva sucessiva, nos termos do art. 8º da Lei nº 9.868/1999, do
+Excelentíssimo Senhor Procurador-Geral da República e do Excelentíssimo Senhor
+Advogado-Geral da União, no prazo legal;
+
+e) No MÉRITO, julgue procedente a presente Ação Direta de
+Inconstitucionalidade (CF, art. 102, §2º; Lei nº 9.868/1999, art. 28, parágrafo único), a
+inconstitucionalidade integral do art. 16 da Lei Estadual nº 14.605/2010 do
+Estado do Ceará, com a redação dada pela Lei Estadual nº 14.826/2010; e, em
+consequência, a invalidade do Provimento nº 05/2025/CGJCE, no que se vale
+daquele dispositivo legal como fundamento;
+
+Termos em que,
+Pede e espera deferimento.
+Fortaleza, 14 de maio de 2026.
+
+ROGERIO FEITOSA MOTA
+
+Assinado digitalmente por JOSE MAGNO
+VASCONCELOS NASCIMENTO:65965833334 OAB/CE nº 16.686 JOSE MAGNO DN: C=BR, O=ICP-Brasil, OU=AC SOLUTI
+
+OU=Certificado PF A1, VASCONCELOS MultiplaOU=Videoconferencia,CN=JOSEv5,MAGNOOU=48484727000118,VASCONCELOS
+NASCIMENTO: NASCIMENTO:65965833334Razão:Localização: MAGNO VASCONCELOS Data: 2026-05-14Eu sou o autor15:18:19deste documento 65965833334 Foxit Reader Versão: 9.3.0
+OAB/CE 39.788
+
+JANDER FROTA
+OAB/CE 26.155
+
+

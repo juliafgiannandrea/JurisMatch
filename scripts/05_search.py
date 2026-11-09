@@ -1,7 +1,7 @@
 """Etapa 05 — busca pela linha de comando.
 
 Uso: python scripts/05_search.py "sua consulta" [--k 5] [--modo hibrido|denso|lexical]
-     [--classe ADI|ADC] [--limiar 0.8] [--sem-rerank]"""
+     [--classe ADI|ADC|ADO|ADPF] [--limiar 0.8] [--sem-rerank]"""
 import sys
 from pathlib import Path
 
