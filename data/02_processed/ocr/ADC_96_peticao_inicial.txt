@@ -1,0 +1,1822 @@
+[[pagina 1 | ocr]]
+
+ADVOCACIA-GERAL DA UNIÃO
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+Pedido de distribuição por prevenção à ADI nº 7.827 e à
+ADI nº 7.839. Coincidência parcial de objetos
+
+URGENTE. Pedido Cautelar
+
+O Presidente da República, representado pelo Advogado-Geral da
+União (artigo 4º, incisos VII e IX, da Lei Complementar nº 73, de 10 de fevereiro
+de 1993), com fundamento nos artigos 102, inciso 1, alínea “a” e 103, inciso I, da
+Constituição Federal, bem como no art. 2º, inciso I, da Lei nº 9.868, de 10 de
+
+novembro de 1999, vem à presença dessa Suprema Corte propor
+
+AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+
+cumulada com ação direta de inconstitucionalidade, com pedidos de medida
+
+cautelar tendo por objeto o Decreto nº 12.499, de 11 de junho de 2025, a ter sua
+validade confirmada; e o Decreto Legislativo nº 176/2025, por violação aos
+princípios da separação dos poderes (artigos 2º e 60, 8 4º, inciso III c/c artigo 49,
+inciso V, da Constituição Federal) e da legalidade tributária (artigo 150, inciso 1,
+c/c artigo 153, inciso V e $1º, da Constituição Federal).
+
+[[pagina 2 | ocr]]
+
+I- DA DISTRIBUIÇÃO POR DEPENDÊNCIA ÀS ADIs 7.827 e 7.839
+
+l. Antes de adentrar no mérito, convém arguir a existência de
+prevenção entre a presente ação declaratória e as ADIs nº 7.827 e 7.839, em
+
+trâmite nesse Supremo Tribunal Federal.
+
+A Em 04/06/2025, o Partido Liberal (PL) propôs a ADI nº 7.827,
+
+distribuída à relatoria do Ministro ALEXANDRE DE MORAES, questionando a
+
+constitucionalidade dos Decretos nº 12.466/2025 e nº 12.467/2025, por violação
+
+ao art. 153, 81º, da Constituição Federal, em razão de suposto desvio de
+
+finalidade na alteração das alíquotas de IOF. Os pedidos foram assim redigidos
+na petição inicial:
+
+b) seja imediatamente concedida medida liminar acautelatória, inaudita
+
+altera para, para suspender, na íntegra, efeitos dos Decretos nº 12.466,
+
+de 22 de maio de 2025 e nº 12.467, de 23 de maio de 2025, até o
+
+julgamento final da presente Ação Direta de Inconstitucionalidade, na
+forma dos artigos 10 e 11 da Lei nº 9.868/1999;
+
+[...]
+
+e) seja, ao final, julgado procedente o pedido e declarada, em definitivo,
+a inconstitucionalidade da integralidade dos Decretos nº 12.466, de 22
+de maio de 2025 e nº 12.467, de 23 de maio de 2025.
+
+3. Na presente ação, como se passará a demonstrar, requer-se a
+declaração de inconstitucionalidade do Decreto Legislativo nº 176/2025 — que
+suspendeu os Decretos nº 12.466/2025, nº 12.467/2025 e nº 12.499/2025 —,
+cumulada com pedido de declaração de constitucionalidade dos decretos
+
+presidenciais que alteraram as alíquotas de IOF.
+
+4. Como se percebe, existe clara conexão entre esta demanda e a
+ADI nº 7.827, porque os seus pedidos e fundamentos coincidem parcialmente. Em
+ambas, como matéria de fundo, debate-se a constitucionalidade dos decretos
+
+presidenciais que alteraram as alíquotas do IOF incidentes sobre determinadas
+
+[[pagina 3 | ocr]]
+
+operações financeiras. Por imperativos de racionalidade e coerência processual,
+as demandas devem tramitar conjuntamente sob supervisão jurisdicional
+
+unificada.
+
+de De acordo com o artigo 55 do Código de Processo Civil,
+“Reputam-se conexas 2 (duas) ou mais ações quando lhes for comum o pedido ou
+a causa de pedir”, determinando ainda o & 3º do mesmo dispositivo que “Serão
+reunidos para julgamento conjunto os processos que possam gerar risco de
+prolação de decisões conflitantes ou contraditórias caso decididos
+
+separadamente, mesmo sem conexão entre eles”.
+
+6. Já pelo art. 56, “dá-se a continência entre 2 (duas) ou mais
+ações quando houver identidade quanto às partes e à causa de pedir, mas o
+pedido de uma, por ser mais amplo, abrange o das demais”. Além disso, a
+legislação processual civil em vigor determina que em casos como o presente “as
+ações serão necessariamente reunidas”, hipótese em que “a reunião das ações
+propostas em separado far-se-á no juízo prevento, onde serão decididas
+
+simultaneamente” (artigos 57 e 58 do CPC).
+
+Te Na mesma linha, o art. 77-B do Regimento Interno do
+
+Supremo Tribunal Federal define a seguinte regra de distribuição por prevenção
+para processo objetivo de controle de constitucionalidade:
+
+Art. 77-B. Na ação direta de inconstitucionalidade, na ação dircta de
+
+inconstitucionalidade por omissão, na ação declaratória de
+
+constitucionalidade e na arguição de descumprimento de preceito
+
+fundamental, aplica-se a regra da distribuição por prevenção quando
+haja coincidência total ou parcial de objetos. (grifou-se)
+
+8. Desse modo, é notória a existência de identidade parcial com
+
+a ADI nº 7.827, o que torna plenamente justificável a aplicação da regra de
+
+[[pagina 4 | ocr]]
+
+distribuição por prevenção, a fim de que a presente ação tramite sob a relatoria do
+
+Ministro ALEXANDRE DE MORAES.
+
+9. Foi pelos mesmos motivos, aliás, que, ao ser designado para
+oficiar como relator da Ação Direta de Inconstitucionalidade nº 7.839, em que o
+Partido Socialismo e Liberdade (Psol) questiona a legitimidade do Decreto
+Legislativo nº 176/2025, o Min. GILMAR MENDES submeteu à Presidência
+
+dessa Suprema Corte ponderações sobre a pertinência de redistribuição da causa.
+
+10. No despacho encaminhado à Presidência, o Min. GILMAR
+MENDES observou que tanto a ADI º 7.827 quanto a ADI 7.839 exigem, ao fim
+e ao cabo, avaliação a respeito da legitimidade política dos mesmos atos
+normativos presidenciais (o Decreto nº 12.499/2025 e os que foram por ele
+revogados), o que configuraria causa processual suficiente para a uniformização
+
+da relatoria de ambos os feitos.
+
+11. Em 30/06/2025, o Min. ROBERTO BARROSO acolheu a
+ponderação, determinando a redistribuição da ADI nº 7.839 à relatoria do Min.
+
+ALEXANDRE DE MORAES, nos seguintes termos:
+
+Na presente ação direta de inconstitucionalidade, impugna-se o Decreto
+Legislativo nº 176/2025. Já na ADI 7.827, Rel. Min. Alexandre de
+Moracs, são questionados os Decretos do Presidente da República nº
+12.466/2025 e 12.467/2025. Assim, em uma primeira análise, não se
+aplicaria a regra prevista no art. 77-B do RISTF.
+
+Apesar disso, as peculiaridades da causa convencem da necessidade
+de redistribuição do processo. Isso porque o Decreto Legislativo nº
+176/2025 sustou os efeitos dos Decretos do Presidente da República
+nº 12.466/2025, 12.467/2025 e 12.499/2025. Conforme apontou o
+Min. Gilmar Mendes, a análise do tema exige que primeiro se
+delimite se, ao editar os Decretos nº 12.466/2025, 12.467/2025 e
+12.499/2025, “o Presidente da República exerceu seu poder dentro
+dos limites regulamentares ou da delegação legislativa, para, na
+sequência, analisar se o procedimento suspensivo do Parlamento
+encontra amparo no texto constitucional”. Sendo assim, havendo
+importante grau de afinidade entre os temas em discussão e
+
+[[pagina 5 | ocr]]
+
+fundado risco de decisões contraditórias, incide a regra prevista no
+art. 55, 8 3º, do CPC. (grifou-se)
+
+12. Diante dessa circunstância, pleiteia-se a distribuição da
+
+presente ação aos cuidados do Ministro Relator da ADI nº 77.827.
+
+II- DOS OBJETOS DA PRESENTE AÇÃO
+
+I3. A presente ação tem como objeto a declaração de
+constitucionalidade do Decreto nº 12.499/2025, editado pelo Presidente da
+República no exercício da competência constitucional do artigo 153, $ 1º; bem
+como o reconhecimento da inconstitucionalidade do Decreto Legislativo nº
+176/2025, editado pelo Congresso Nacional com a pretensão de sustar os efeitos
+dos Decretos nº 12.466, de 22 de maio de 2025, nº 14.467, de 23 de maio de 2025,
+e nº 12.499, de 11 de junho de 2025.
+
+14. Eisoteor dos atos normativos que compõe o objeto da presente
+
+ação:
+
+Decreto Legislativo nº 176/2025
+
+O Congresso Nacional decreta:
+
+Art. 1º Ficam sustados, com fundamento no inciso V do caput do art.
+49 da Constituição Federal, os Decretos nºs 12.466, de 22 de maio de
+2025, 12.467, de 23 de maio de 2025, e 12.499, de 11 de junho de 2025,
+com restabelecimento da redação do Decreto nº 6.306, de 14 de
+dezembro de 2007, em vigor anteriormente às alterações promovidas
+pelos referidos Decretos.
+
+Art. 2º Este Decreto Legislativo entra em vigor na data de sua
+publicação.
+
+Decreto nº 12.499, de 11 de junho de 2025
+
+Art. 1º O Decreto nº 6.306, de 14 de dezembro de 2007, passa a vigorar
+com as seguintes alterações:
+
+“Art. 2º (...)
+
+[[pagina 6 | ocr]]
+
+III - operações de seguro realizadas por seguradoras, entidades abertas
+de previdência complementar e outras entidades equiparadas a
+instituições financeiras;
+
+(5)
+CAR. 7º Cu)
+
+I-(..)
+a) (...)
+
+1. mutuário pessoa jurídica: 0,0082% ao dia;
+(...)
+
+b) (...)
+
+1. mutuário pessoa jurídica: 0,0082% ao dia;
+foi)
+
+M—(...)
+
+a) mutuário pessoa jurídica: 0,0082% ao dia;
+(...)
+
+HI — (...)
+
+a) mutuário pessoa jurídica: 0,0082% ao dia;
+(1a)
+
+IV—(...)
+
+a) mutuário pessoa jurídica: 0,0082% ao dia;
+(...)
+
+V-(.)
+
+a) (...)
+
+1. mutuário pessoa jurídica: 0,0082% ao dia;
+(...)
+
+b)(...)
+
+1. mutuário pessoa jurídica: 0,0082% ao dia;
+
+(ue)
+
+[[pagina 7 | ocr]]
+
+VI - nas operações referidas nos incisos 1 a V, quando se tratar de
+mutuário pessoa jurídica optante pelo Regime Especial Unificado de
+Arrecadação de Tributos e Contribuições devidos pelas Microempresas
+e Empresas de Pequeno Porte — Simples Nacional, de que trata a Lei
+Complementar nº 123, de 14 de dezembro de 2006, inclusive
+microempreendedor individual - MEI, em que o valor seja igual ou
+inferior a R$ 30.000,00 (trinta mil reais), observado o disposto no art.
+45, caput, inciso TI: 0,00274% ou 0,00274% ao dia, conforme o caso;
+
+tie)
+
+$ 15. Sem prejuízo do disposto no caput, o IOF incide sobre as
+operações de crédito, independentemente do prazo da operação, à
+alíquota adicional de 0,38% (trinta e oito centésimos por cento), seja o
+mutuário pessoa jurídica ou pessoa física, exceto no caso de operação
+de antecipação de pagamentos a fornecedores c demais financiamentos
+a fornecedores (“forfait” ou “risco sacado”).
+
+(...)
+
+$ 23. A operação de antecipação de pagamentos a fornecedores e
+demais financiamentos a fornecedores (“forfait” ou “risco sacado”) é
+considerada operação de crédito.
+
+$ 24. A operação de que trata o $ 23 fica sujeita à incidência do TOF
+nos termos deste artigo, sendo a instituição a responsável pela cobrança
+e pelo recolhimento do imposto.” (NR)
+
+“Art. 8º (...)
+
+I - em que figure como tomadora cooperativa que tenha realizado, no
+ano-calendário imediatamente anterior, valor global de operações de
+crédito, como credora e tomadora, inferior a R$ 100.000.000,00 (cem
+milhões de reais), observado o disposto no art. 45, caput, inciso I,
+
+(...)
+
+$ 8º Sujeitam-se à incidência do art. 7º as cooperativas não abrangidas
+pelo inciso I do caput deste artigo, compreendendo as cooperativas
+centrais, as federações de cooperativas, as confederações de
+cooperativas e as demais formas associativas de cooperativas e as
+entidades por elas controladas, inclusive as instituições financeiras.
+
+89º Para fins do disposto no inciso I do caput, o limite deve considerar
+o valor global de operações de crédito das entidades referidas no $ 8º
+que componham o grupo econômico.” (NR)
+
+“Art. 15-B. A alíquota do IOF será de:
+
+(sc)
+
+[[pagina 8 | ocr]]
+
+VII -nas operações de câmbio destinadas ao cumprimento de
+obrigações das instituições que participem de arranjos de pagamento de
+abrangência transfronteiriça na qualidade de emissores destes,
+decorrentes de aquisição de bens e serviços do exterior efetuada por
+seus usuários, observado o disposto no inciso VIII: 3,5% (três inteiros
+e cinco décimos por cento);
+
+(a)
+
+IX - nas operações de câmbio destinadas ao cumprimento de obrigações
+das instituições que participem de arranjos de pagamento de
+abrangência transfronteiriça na qualidade de emissores destes,
+decorrentes de saques no exterior efetuados por seus usuários: 3,5%
+(três inteiros e cinco décimos por cento);
+
+X - nas liquidações de operações de câmbio para aquisição de moeda
+estrangeira em cheques de viagens e para carregamento de cartão
+internacional pré-pago, destinadas a atender gastos pessoais em viagens
+internacionais: 3,5% (três inteiros e cinco décimos por cento);
+
+(...)
+
+XII - nas liquidações de operações de câmbio para ingresso de recursos
+no País, inclusive por meio de operações simultâneas, referente a
+empréstimo externo, sujeito a registro no Banco Central do Brasil,
+contratado de forma direta ou mediante emissão de títulos no mercado
+internacional com prazo médio mínimo de até trezentos e sessenta e
+quatro dias: 3,5% (três inteiros e cinco décimos por cento);
+
+fo)
+
+XVILA - nas liquidações de operações de câmbio para fins de retorno
+de recursos aplicados por investidor estrangeiro em participações
+societárias no país: zero;
+
+(=)
+
+XX - nas liquidações de operações de câmbio, para aquisição de moeda
+estrangeira, em espécie: 3,5% (três inteiros e cinco décimos por cento);
+
+XXI - nas liquidações de operações de câmbio para transferência de
+recursos ao exterior, com vistas à colocação de disponibilidade de
+residente no País, ou de seu cônjuge, companheiro ou parente,
+consanguíneo ou afim, observado o disposto no inciso XXI-A: 3,5%
+(três inteiros e cinco décimos por cento);
+
+XXIA - nas liquidações de operações de câmbio para transferência de
+recursos ao exterior, com vistas à colocação de disponibilidade de
+residente no País com finalidade de investimento: 1,10% (um inteiro e
+dez centésimos por cento);
+
+[[pagina 9 | ocr]]
+
+XXII - nas operações de câmbio para transferência ao exterior de
+recursos em moeda nacional, mantidos em contas de depósito no País
+de titularidade de residentes, domiciliados ou com sede no exterior e
+recebidos originalmente em cumprimento de obrigações das
+instituições que participem de arranjos de pagamento de abrangência
+transfronteiriça, na qualidade de emissoras destes, decorrentes da
+aquisição de bens e serviços do exterior e de saques no exterior,
+realizados pelos usuários finais dos referidos arranjos, observado o
+disposto no inciso XXIII: 3,5% (três inteiros e cinco décimos por
+cento);
+
+(-..)
+
+XXTIV - nas demais operações de câmbio realizadas para transferência
+de recursos ao exterior, não isentas e não abarcadas nos incisos 1 a
+XXIII: 3,5% (três inteiros e cinco décimos por cento); e
+
+XXV -nas demais operações de câmbio realizadas de entrada de
+recursos do exterior, não isentas e não abarcadas nos incisos 1a XXTV:
+0,38% (trinta e oito centésimos por cento).
+
+(...)
+
+85º A Secretaria Especial da Receita Federal do Brasil do Ministério
+da Fazenda poderá regulamentar o disposto no inciso XXI-A
+do caput.” (NR)
+
+“Art. 20. São responsáveis pela cobrança do IOF e pelo seu
+recolhimento ao Tesouro Nacional as seguradoras, as entidades abertas
+de previdência complementar ou as instituições financeiras a quem
+estas encarregarem da cobrança do prêmio.
+
+8 1º A seguradora, a entidade aberta de previdência complementar c as
+entidades equiparadas a instituições financeiras são responsáveis pelos
+dados constantes da documentação remetida para cobrança.
+
+8 2º A responsabilidade da seguradora pela cobrança e pelo
+recolhimento do IOF no caso de plano de seguro de vida com cobertura
+por sobrevivência inclui a obrigação de recálculo e recolhimento do
+valor devido considerando-se o valor total aportado por pessoa física,
+devendo ser disponibilizado ao segurado canal para informar os aportes
+realizados em planos de sua titularidade em outras seguradoras.
+
+$ 3º O segurado deverá calcular e recolher o IOF relativo aos aportes
+destinados ao custeio de plano de seguro de vida com cobertura por
+sobrevivência, em caso de impossibilidade de cobrança e recolhimento
+pela seguradora ou entidade, decorrente de falta de informação sobre o
+aporte realizado em planos de outras seguradoras ou entidades.” (NR)
+
+CArt. 22. À...)
+
+[[pagina 10 | ocr]]
+
+$1º (...)
+I-(...)
+(ue)
+
+e) em que o valor dos prêmios pagos por pessoa física a partir de 1º de
+janeiro de 2026 seja destinado ao custeio de planos de seguro de vida
+com cobertura por sobrevivência desde que a somatória dos valores
+aportados em todos os planos de titularidade do segurado no ano, ainda
+que de seguradoras distintas, seja inferior ou igual a R$ 600.000,00
+(seiscentos mil reais);
+
+(ua)
+
+i)em que o valor dos prêmios pagos por pessoa física até 31 de
+dezembro de 2025 seja destinado ao custeio de planos de seguro de vida
+com cobertura por sobrevivência, desde que a somatória dos valores
+aportados em todos os planos de titularidade do segurado entre a data
+de entrada em vigor do Decreto nº 12.499, de 11 de junho de 2025, c 31
+de dezembro de 2025, em uma mesma seguradora, seja inferior ou igual
+a R$ 300.000,00 (trezentos mil reais); e
+
+1) em que o valor dos prêmios pagos por empregador pessoa jurídica
+seja destinado ao custeio de planos de seguro de vida com cobertura por
+sobrevivência de empregado pessoa física.
+
+(...)
+
+V - nos aportes destinados ao custeio de plano de seguro de vida com
+cobertura por sobrevivência pagos por pessoa física a partir de 1º de
+janeiro de 2026, desde que a somatória dos valores aportados em todos
+os planos de titularidade do segurado no ano, ainda que de seguradoras
+distintas, seja superior a R$ 600.000,00 (seiscentos mil reais): 5%
+(cinco por cento) sobre o valor que exceder a R$ 600.000,00 (seiscentos
+mil reais) ao ano; e
+
+VI - nos aportes destinados ao custeio de plano de seguro de vida com
+cobertura por sobrevivência pagos por pessoa física até 31 de dezembro
+de 2025, desde que a somatória dos valores aportados em todos os
+planos de titularidade do segurado entre a data de entrada em vigor do
+Decreto nº 12.499, de 11 de junho de 2025, e 31 de dezembro de 2025,
+em uma mesma seguradora, seja superior a R$ 300.000,00 (trezentos
+mil reais): 5% (cinco por cento) sobre o valor que exceder a R$
+300.000,00 (trezentos mil reais).
+
+(...)” (NR)
+
+“Art. 32-D. O IOF será cobrado à alíquota de 0,38% (trinta e oito
+centésimos por cento) sobre o valor de aquisição primária de cotas de
+
+[[pagina 11 | ocr]]
+
+fundos de investimento em direitos creditórios — FIDC, inclusive nas
+aquisições realizadas por instituições financeiras.
+
+Parágrafo único. A tributação prevista no capuí não se aplica a
+aquisições de cotas:
+
+I- subscritas até 13 de junho de 2025; ou
+II - realizadas no mercado secundário.” (NR)
+“Art. 45. (...)
+
+I-no caso de cooperativa, declaração, em duas vias, por ela firmada,
+de que atende ao limite de valor total de operações de crédito previsto
+no art. 8º, caput, inciso I, e aos requisitos da legislação cooperativista;
+
+(..)” (NR)
+Art. 2º Ficam revogados:
+
+I-o art. 15-C do Decreto nº 6.306, de 14 de dezembro de 2007;
+
+I - o Decreto nº 12.466, de 22 de maio de 2025: e
+
+HI - o Decreto nº 12.467, de 23 de maio de 2025.
+
+Art. 3º Este Decreto entra em vigor na data de sua publicação.
+
+15. De acordo com as justificativas expostas no projeto que
+originou o referido Decreto Legislativo (PLD nº 314/2015), os decretos
+presidenciais suspensos teriam desbordado das competências normativas
+atribuídas ao Poder Executivo federal, conferindo finalidade exclusivamente
+arrecadatória ao Imposto sobre Operações de Crédito, Câmbio e Seguro, ou
+
+relativas a Títulos ou Valores Mobiliários — IOF.
+
+16. Sustado pelo ato normativo impugnado, o Decreto nº 12.499,
+de 11 de junho de 2025 — decorrente do exercício da competência prevista no art.
+153, inciso V, 81º, da Constituição Federal — promoveu alterações nas alíquotas
+
+do IOF, sucedendo os Decretos nº 12.466, de 22 de maio de 2025, e nº 12.467, de
+
+23 de maio de 2025, ambos expressamente revogados.
+
+[[pagina 12 | ocr]]
+
+17. Por entender que o Decreto Legislativo nº 176/2025 não
+observou os pressupostos jurídicos da prerrogativa de sustação (art. 49, inciso V,
+da Constituição Federal), representando intervenção ilegítima no exercício das
+competências regulamentares atribuídas ao Poder Executivo (art. 153, inciso V,
+$1º, da Constituição Federal), o Presidente da República propõe a presente ação,
+a qual merece ser conhecida e provida, tanto para invalidar o ato congressual,
+quanto para chancelar a legitimidade do Decreto Presidencial nº 12.499, de 11 de
+
+junho de 2025, pelos fundamentos a seguir deduzidos.
+
+HI —- DO CABIMENTO
+
+HI.1. Do cabimento do pedido de declaração de inconstitucionalidade do
+
+Decreto Legislativo nº 176/2025
+
+18. De partida, registra-se ser cabível a propositura da presente
+ação, porquanto o decreto legislativo questionado possui hierarquia legal, isto é,
+situa-se no mesmo patamar das leis de modo geral. Tratando-se de ato normativo
+dotado de efeitos sustatórios, mostra-se ainda mais evidente o cabimento da
+impugnação, ante à necessidade de confirmação dos pressupostos legitimadores
+
+previstos no art. 49, inciso V, da Constituição Federal.
+
+19. Sobre o assunto, esse Supremo Tribunal Federal consolidou
+entendimento no sentido de admitir a propositura de ações diretas, cujo objeto seja
+a declaração de inconstitucionalidade de decretos legislativos destinados a sustar
+os efeitos de atos regulamentares editados pelo Poder Executivo. A propósito,
+confira-se o acórdão abaixo ementado, proferido no bojo da ADI nº 748 MC/RS
+(Rel. Min. CELSO DE MELLO):
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE - ASSEMBLÉIA
+LEGISLATIVA DO RIO GRANDE DO SUL - DECRETO
+
+[[pagina 13 | ocr]]
+
+LEGISLATIVO - CONTEUDO NORMATIVO - SUSPENSÃO DA
+EFICACIA DE ATO EMANADO DO GOVERNADOR DO ESTADO
+- | CONTROLE PARLAMENTAR DA ATIVIDADE
+REGULAMENTAR DO PODER EXECUTIVO (CF, ART. 49, V) -
+POSSIBILIDADE DE FISCALIZAÇÃO NORMATIVA ABSTRATA
+- AÇÃO DIRETA CONHECIDA. REDE ESTADUAL DE ENSINO -
+CALENDARIO ESCOLAR ROTATIVO - PREVISÃO NO PLANO
+PLURIANUAL - ALEGADA INOBSERVANCIA DO POSTULADO
+DA SEPARAÇÃO DE PODERES - EXERCÍCIO DE FUNÇÃO
+REGULAMENTAR PELO EXECUTIVO - RELEVÂNCIA
+JURÍDICA DO TEMA - MEDIDA CAUTELAR DEFERIDA. - O
+CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE
+TEM OBJETO PRÓPRIO. INCIDE EXCLUSIVAMENTE SOBRE
+ATOS ESTATAIS PROVIDOS DE DENSIDADE NORMATIVA. A
+NOÇÃO DE ATO NORMATIVO, PARA EFEITO DE
+FISCALIZAÇÃO DA CONSTITUCIONALIDADE EM TESE,
+REQUER, ALÉM DE SUA AUTONOMIA JURÍDICA, A
+CONSTATAÇÃO DO SEU COEFICIENTE DE GENERALIDADE
+ABSTRATA, BEM ASSIM DE SUA IMPESSOALIDADE. - O
+DECRETO LEGISLATIVO, EDITADO COM FUNDAMENTO NO
+ART. 49, V, DA CONSTITUIÇÃO FEDERAL, NÃO SE DESVESTE
+DOS ATRIBUTOS TIPIFICADORES DA NORMATIVIDADE
+PELO FATO DE LIMITAR-SEMATERIALMENTE, A
+SUSPENSÃO DE EFICACIA DE ATO ORIUNDO DO PODER
+EXECUTIVO. TAMBÉM REALIZA FUNÇÃO NORMATIVA O
+ATO ESTATAL QUE EXCLUI, EXTINGUE OU SUSPENDE A
+VALIDADE OU A EFICACIA DE UMA OUTRA NORMA
+JURÍDICA. A EFICACIA DERROGATÓRIA OU INIBITORIA DAS
+CONSEQUENCIAS JURIDICAS DOS ATOS ESTATAIS
+CONSTITUI UM DOS MOMENTOS CONCRETIZADORES DO
+PROCESSO NORMATIVO. A SUPRESSAO DA EFICACIA DE
+UMA REGRA DE DIREITO POSSUI FORÇA NORMATIVA
+EQUIPARAVEL A DOS PRECEITOS JURIDICOS QUE INOVAM,
+DE FORMA POSITIVA, O ORDENAMENTO ESTATAL, EIS QUE
+A DELIBERAÇÃO PARLAMENTAR DE SUSPENSÃO DOS
+EFEITOS DE UM PRECEITO JURÍDICO INCORPORA,
+AINDA QUE EM SENTIDO INVERSO, A CARGA DE
+NORMATIVIDADE INERENTE AO ATO QUE LHE
+CONSTITUI o OBJETO. (0) EXAME DE
+CONSTITUCIONALIDADE DO DECRETO LEGISLATIVO QUE
+SUSPENDE A EFICACIA DE ATO DO PODER EXECUTIVO
+IMPÕE A ANALISE, PELO SUPREMO TRIBUNAL FEDERAL,
+DOS PRESSUPOSTOS LEGITIMADORES DO EXERCÍCIO
+DESSA EXCEPCIONAL COMPETÊNCIA DEFERIDA A
+INSTITUIÇÃO PARLAMENTAR. CABE A CORTE SUPREMA,
+EM CONSEQUENCIA, VERIFICAR SE OS ATOS NORMATIVOS
+EMANADOS DO EXECUTIVO AJUSTAM-SE, OU NÃO, AOS
+LIMITES DO PODER REGULAMENTAR OU AOS DA
+
+[[pagina 14 | ocr]]
+
+DELEGAÇÃO LEGISLATIVA. A FISCALIZAÇÃO ESTRITA
+DESSES PRESSUPOSTOS JUSTIFICA-SE COMO IMPOSIÇÃO
+DECORRENTE DA NECESSIDADE DE PRESERVAR, "HIC ET
+NUN", A INTEGRIDADE DO PRINCÍPIO DA SEPARAÇÃO DE
+PODERES. - A PREVISÃO DO CALENDARIO ROTATIVO
+ESCOLAR NA LEI QUE INSTITUI O PLANO PLURIANUAL
+PARECE LEGITIMAR O EXERCÍCIO, PELO CHEFE DO
+EXECUTIVO, DO SEU PODER REGULAMENTAR, TORNANDO
+POSSIVEL, DESSE MODO, A IMPLANTAÇÃO DESSA
+PROPOSTA PEDAGOGICA MEDIANTE DECRETO. POSIÇÃO
+DISSIDENTE DO RELATOR, CUJO ENTENDIMENTO PESSOAL
+FICA RESSALVADO.
+
+(ADI nº 748 MC/RS, Relator: Ministro CELSO DE MELLO; Órgão
+Julgador: Pleno; julgamento em 01/07/1992; Publicação em 06/11/1992
+— grifou-se)
+
+20. Conforme enunciado pelo Ministro Relator, “o decreto
+legislativo impugnado na presente ação direta ostenta conteúdo normativo, eis
+que inibiu, ainda que parcialmente, as virtualidades jurídicas do ato do Poder
+Executivo veiculador de regras gerais, impessoais e abstratas. E, ao suspender a
+
+aplicabilidade do decreto governamental, inovou o ordenamento positivo local”.
+
+21. Mais recentemente, ao julgar a ADI nº 5.740 (Rel. Min?
+CÁRMEN LÚCIA), o Supremo Tribunal Federal voltou a examinar a
+constitucionalidade de decreto legislativo que sustava os efeitos de atos editados
+
+pelo Poder Executivo. Veja-se:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DECRETO
+LEGISLATIVO DISTRITAL N. 2.146/2017. SUSPENSÃO DOS
+EFEITOS DO DECRETO DISTRITAL N. 38.923/2017.
+REGULAMENTAÇÃO DA LEI DISTRITAL N. 2.615/2000:
+PREVISÃO DE SANÇÕES ADMINISTRATIVAS A ATOS
+DISCRIMINATÓRIOS EM RAZÃO DA ORIENTAÇÃO SEXUAL
+DAS PESSOAS. AUSÊNCIA DE ABUSO DE PODER
+REGULAMENTAR PELO GOVERNADOR DO DISTRITO
+FEDERAL. IMPOSIÇÃO DE JÓBICE, PELA CÂMARA
+LEGISLATIVA DO DISTRITO FEDERAL, À PROTEÇÃO
+CONTRA CONDUTAS DISCRIMINATÓRIAS EM RAZÃO DA
+ORIENTAÇÃO SEXUAL DAS PESSOAS. OFENSA AO INC. II DO
+ART. 1º, AO ART. 2º, AO INC. IV DO ART. 3º AO CAPUT E AO
+
+[[pagina 15 | ocr]]
+
+INC. XLI DO ART. 5º, AO INC. V DO ART. 49 E AO INC. IV DO
+ART. 84 DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO DIRETA
+JULGADA PROCEDENTE.
+
+(ADI nº 5740, Relatora: Ministra CÁRMEN LÚCIA; Órgão julgador:
+Tribunal Pleno; Julgamento em 23/11/2020; Publicação em
+03/12/2020).
+
+22. Na esteira da jurisprudência desse STF, considerando que o
+Decreto Legislativo nº 176/2025 possui conteúdo normativo primário, impõe-
+se o conhecimento da presente ação direta de inconstitucionalidade, na forma do
+art. 102, inciso I, alínea “a”, da Constituição Federal e do art. 3º da Lei nº
+
+9.868/1999.
+
+JI.2. Do cabimento do pedido de declaração de constitucionalidade do Decreto
+
+nº 12.499, de 11 de junho de 2025
+
+23. Como antecipado nos tópicos anteriores, a presente ação
+veicula pedidos de declaração de inconstitucionalidade (Decreto Legislativo nº
+176/2025) acrescidos de um pedido de reconhecimento de constitucionalidade
+(Decreto Presidencial nº 12.499, de 11 de junho de 2025), cumulação que,
+segundo jurisprudência dessa Suprema Corte, “é processualmente cabível em uma
+única demanda de controle de constitucionalidade, desde que satisfeitos os
+requisitos previstos na legislação processual civil (CPC, art. 292)” (ADInº 5316,
+Pleno, Rel. Min. LUIZ FUX, DJe de 06/08/2015).
+
+24. Para viabilizar o conhecimento do pedido de declaração de
+constitucionalidade do Decreto nº 12.499, de 11 de junho de 2025, cumpre
+demonstrar existência de controvérsia judicial relevante sobre a aplicação desse
+
+ato normativo, requisito que é exigido artigo 14, inciso III, da Lei nº 9.868/1999.
+
+25. Sobre o tema, sabe-se que a ação declaratória de
+
+constitucionalidade não é o meio adequado para dirimir qualquer dúvida em torno
+
+[[pagina 16 | ocr]]
+
+da constitucionalidade de lei ou ato normativo federal, mas para corrigir uma
+situação particularmente grave de incerteza, que se manifesta não só pela “ao
+princípio da presunção de constitucionalidade — esta independe de um
+número quantitativamente relevante de decisões de um e de outro lado —, mas
+também, e sobretudo, à invalidação prévia de uma decisão tomada por segmentos
+expressivos do modelo representativo” (ADC nº 58, Pleno, Rel. Min. GILMAR
+MENDES, DJe de 07/04/2021).
+
+26. A avaliação da existência de controvérsia também adquire um
+sentido contextual, ligado ao significado e consequências da ameaça de lesão
+constitucional envolvida, pelo que não deve ser condicionada a uma aferição de
+natureza numérica ou quantitativa, como se colhe da seguinte manifestação do
+
+Ministro GILMAR MENDES:
+
+Como se sabe, a importância da controvérsia judicial também deixa
+avistar seus contornos pelo significado e consequências derivados do
+potencial lesivo que certa postura jurisprudencial pode implicar para
+bens jurídico-fundamentais.
+
+É exatamente esse o caso dos autos. Não se pode olvidar que a questão
+de fundo versa sobre tema de grande potencial para lesionar os mais
+elevados bens jurídico-constitucionais de cunho individual (como vida
+e integridade física) e valores coletivos de primeira ordem, como a paz
+social e o Estado Democrático de Direito — assim ilustra a sequência de
+acontecimentos transcorridos no período situado entre o fim das
+eleições gerais c o atentado terrorista de 8 de janeiro de 2023,
+abertamente patrocinados por grupos armamentistas.
+
+Esse potencial de lesão a direitos fundamentais convola-se, desde logo,
+em violação ao postulado da segurança jurídica pela só propositura de
+demandas judiciais objetivando a invalidação do Decreto 11.366/2023,
+e por se saber que já existe caso de provimento judicial afastando a
+aplicabilidade da norma (v.g., decisão do Juízo da 2º Vara Federal de
+Umuarama/PR:
+
+https://g1 .globo.com/pr/nortenoroeste/noticia/2023/02/15/juiz-federal-
+do-parana-concede-liminar-paraque-cac-autor-da-acao-nao-recadastre-
+armas-de-fogo-em-sistema-dapf.ghtml). Esses elementos de realidade
+constitucional mostram, a não mais poder, que é sábia a jurisprudência
+deste Tribunal de não exigir que a controvérsia jurídica seja relevante
+em termos tão somente numéricos (Assim: ADC 9, Red. para o Acórdão
+
+[[pagina 17 | ocr]]
+
+Min. Ellen Gracie, Pleno, DJ 6.2.2002). Num caso como o presente, que
+coloca em jogo um estado de incerteza jurídica cujo desdobramento
+concreto é a continuidade de um armamentismo desenfreado, que
+patentemente viola os mais básicos valores democráticos, sobressai,
+para fins de cabimento, o aspecto qualitativo da controvérsia judicial.
+
+Tudo a demonstrar que, para fins de cabimento de ADC, são múltiplas
+as formas de manifestação desse estado de incerteza quanto à
+legitimidade da norma (MENDES, Gilmar Ferreira. “A Ação
+Declaratória de Constitucionalidade: a inovação da Emenda
+Constitucional n. 3, de 1993 In: MENDES, Gilmar Ferreira;
+MARTINS, Ives Gandra. Ação Declaratória de Constitucionalidade.
+São Paulo: Saraiva, 1996, p. 86).
+
+(ADC nº 85- Ref, Pleno, Rel. Min. GILMAR MENDES, DJe de
+05/05/2023)
+
+27. Na espécie, a própria existência de ações diretas, propostas
+perante essa Suprema Corte, questionando a validade do decreto presidencial
+(ADI nº 7.827) e a constitucionalidade do DL nº 176/2025 (ADI nº 7.839),
+delineia um contexto de controvérsia suficiente para justificar a pretensão de
+
+constitucionalidade veiculada na presente ação.
+
+28. Importante ressaltar que o exame da constitucionalidade do
+Decreto nº 12.499/2025 constitui questão prejudicial ao exame da validade do
+decreto legislativo sustatório. Afinal, a conclusão pela conformidade
+constitucional dos atos normativos editados pelo Poder Executivo leva a
+
+invalidação do ato sustatório aprovado pelo Congresso Nacional.
+
+29. Resta patente, assim, a existência de controvérsia judicial
+relevante, apta a ensejar a admissibilidade de pretensão declaratória de
+
+constitucionalidade.
+
+IV - DO MÉRITO
+
+IV.1 - Da conformidade do Decreto Presidencial nº 12.499/2025 com o art. 153,
+
+$1º, da Constituição Federal — Do caráter extrafiscal das alterações promovidas
+
+[[pagina 18 | ocr]]
+
+30. Desde já, importante ter-se claro que se trata de tributo
+extrafiscal, cujos ajustes ora em debate tiveram o fim precípuo de corrigir
+distorções e a promoção de justiça social, como destacado na Nota SEI nº
+
+30/2025/CASTF/PGAJUD/PGFN-MF:
+
+10. (...) As propostas ressaltam a necessidade de ajustar o tratamento
+tributário das operações de crédito e de câmbio, tendo como objeto
+central a uniformização das alíquotas aplicáveis a pessoas físicas e
+jurídicas. Tal equiparação visou eliminar a assimetria existente,
+promovendo maior coerência normativa, neutralidade tributária.
+
+11. Adicionalmente, a exposição de motivos evidencia a adoção de
+medidas voltadas à padronização conceitual e à mitigação de práticas
+de elisão fiscal, com vistas à construção de um ambiente tributário mais
+isonômico e eficiente. As alterações introduzidas buscam fortalecer a
+segurança jurídica e facilitar a aplicação da norma pelas instituições
+envolvidas nas referidas operações, conferindo previsibilidade e
+racionalidade à incidência do imposto e simplicidade operacional.
+
+31. E, de fato, o Decreto nº 12.499, de 11 de junho de 2025 (e
+aqueles que os antecederam) — sustados pelo Decreto Legislativo nº 176/2025 —
+não padecem de inconstitucionalidade, porque o fundamento de sua edição é
+
+plenamente compatível com o art. 153, inciso V, 81º, da Constituição Federal.
+
+32. Com efeito, nos termos do art. 153, inciso V, e $ 1º, da
+Constituição Federal, compete privativamente à União instituir imposto sobre
+“operações de crédito, câmbio e seguro, ou relativas a títulos ou valores
+mobiliários”, facultando-se ao Poder Executivo a alteração das alíquotas,
+
+desde que atendidas as condições e os limites previstos em lei específica.
+
+33. Assim, embora a instituição do IOF dependa de lei, a
+calibragem das suas alíquotas figura como uma exceção ao princípio da
+estrita legalidade tributária, podendo ser efetivada por ato normativo infralegal.
+Para melhor contextualizar, confira-se a íntegra do texto do dispositivo
+
+constitucional:
+
+[[pagina 19 | ocr]]
+
+Art. 153. Compete à União instituir impostos sobre:
+I - importação de produtos estrangeiros;
+
+H - exportação, para o exterior, de produtos nacionais ou
+nacionalizados;
+
+HI - renda e proventos de qualquer natureza;
+TV - produtos industrializados;
+
+V - operações de crédito, câmbio e seguro, ou relativas a títulos ou
+valores mobiliários;
+
+VI - propriedade territorial rural;
+VII - grandes fortunas, nos termos de lei complementar.
+
+VIII - produção, extração, comercialização ou importação de bens e
+serviços prejudiciais à saúde ou ao meio ambiente, nos termos de lei
+complementar. (Incluído pela Emenda Constitucional nº 132, de
+
+2023)
+
+8 1º É facultado ao Poder Executivo, atendidas as condições e os
+limites estabelecidos em lei, alterar as alíquotas dos impostos
+enumerados nos incisos I, II, IV e V.
+
+(grifou-se)
+34. A mesma exceção à legalidade tributária encontra-se no art. 65
+
+do Código Tributário Nacional.
+
+Art. 63. O impôsto, de competência da União, sôbre operações de
+crédito, câmbio e seguro, e sôbre operações relativas a títulos e valôres
+mobiliários tem como fato gerador:
+
+I - quanto às operações de crédito, a sua efetivação pela entrega total ou
+parcial do montante ou do valor que constitua o objeto da obrigação, ou
+sua colocação à disposição do interessado;
+
+II - quanto às operações de câmbio, a sua efetivação pela entrega de
+moeda nacional ou estrangeira, ou de documento que a represente, ou
+sua colocação à disposição do interessado em montante equivalente à
+moeda estrangeira ou nacional entregue ou posta à disposição por êste;
+III - quanto às operações de seguro, a sua efetivação pela emissão da
+apólice ou do documento equivalente, ou recebimento do prêmio, na
+forma da lei aplicável;
+
+IV - quanto às operações relativas a títulos e valóres mobiliários, a
+emissão, transmissão, pagamento ou resgate dêstes, na forma da lei
+aplicável.
+
+[..]
+
+Art. 65. O Poder Executivo pode, nas condições e nos limites
+estabelecidos em lei, alterar as alíquotas ou as bases de cálculo do
+impôsto, a fim de ajustá-lo aos objetivos da política monetária.
+
+[[pagina 20 | ocr]]
+
+(grifou-se)
+
+35. A respeito das exceções ao princípio da legalidade tributária,
+Luís Eduardo Schoueri! explica que o constituinte percebeu um potencial
+diferenciado em certos tributos, capaz de justificar a introdução de normas
+indutoras de comportamentos no ordenamento jurídico. Por isso, outorgou ao
+Poder Executivo a competência para regular as alíquotas de certos impostos — a
+exemplo do IOF — como um instrumento de intervenção do Estado no domínio
+
+econômico, em reconhecimento da natureza extrafiscal dos tributos.
+
+36. À luz dos dispositivos constitucionais e legais referidos, não
+pairam dúvidas acerca da competência do Poder Executivo federal para
+alterar as alíquotas do IOF, desde que respeitados os limites previstos em lei
+específica, que, no contexto da Lei nº 8.894/1994, dizem respeito apenas às
+
+aspirações finalísticas e às alíquotas máximas a serem observadas:
+
+Art. 1º O Imposto sobre Operações de Crédito, Câmbio e Seguro, ou
+relativas a Títulos e Valores Mobiliários será cobrado à alíquota
+máxima de 1,5% ao dia, sobre o valor das operações de crédito e
+relativos a títulos e valores mobiliários.
+
+(...)
+
+$ 1º No caso de operações envolvendo contratos derivativos, a alíquota
+máxima é de 25% (vinte e cinco por cento) sobre o valor da operação.
+(..)
+
+Art. 5º O Imposto sobre Operações de Crédito, Câmbio e Seguro, ou
+relativas a Títulos e Valores Mobiliários (IOF), incidente sobre
+operações de câmbio será cobrado à alíquota de vinte c cinco por cento
+sobre o valor de liquidação da operação cambial.
+
+Parágrafo único. O Poder Executivo poderá reduzir e restabelecer a
+alíquota fixada neste artigo, tendo em vista os objetivos das políticas
+monetária, cambial e fiscal.
+
+37. No caso em apreço, não há qualquer controvérsia sobre o
+respeito ao teto quantitativo fixado na Lei nº 8.894/1994. Também não há dúvidas
+
+sobre o preenchimento dos requisitos aspiracionais, uma vez que os atos
+
+! SCHOQUERI, Luís Eduardo. Direito tributário. São Paulo: Saraiva, 2021, p. 335
+
+[[pagina 21 | ocr]]
+
+normativos aprovados pelo Executivo buscaram sua razão de ser na promoção de
+“nadronização normativa, simplificação operacional e maior neutralidade
+tributária” (EM nº 00040/2025 MF), propósitos orientados ao ajuste de dinâmicas
+distorcidas de funcionamento do mercado e à realização de justiça social nos
+mercados de crédito e câmbio, conforme expressamente consignado na Exposição
+
+de Motivos apresentada pelo Ministério da Fazenda:
+
+1. O objetivo da proposta é alterar dispositivos relativos a operações
+de crédito, câmbio, seguros e títulos e valores mobiliários, com o
+intuito de promover padronização normativa, simplificação
+operacional e maior neutralidade tributária, considerando
+discussões posteriores à edição do Decreto nº 12.466, de 22 de maio
+de 2025.
+
+2. Em relação ao IOF-Crédito, propõe-se a redução da alíquota
+adicional de 0,95% para 0,38%, aplicável às pessoas jurídicas. Além
+disso, a proposta estabelece que essa alíquota adicional de IOF não
+será aplicada às operações de risco sacado (“forfait”), considerando
+a natureza específica em relação ao curto prazo dessas operações.
+
+3. Busca-se, dessa forma, promover novo ajuste com vistas a
+promover uma maior eficiência no funcionamento do mercado
+de crédito em seu papel fundamental de financiamento à
+atividade produtiva, mitigando-se ainda os efeitos da tributação
+sobre operações de curto prazo, tipicamente utilizadas para o
+financiamento do capital de giro das empresas.
+
+4. Ademais, a alteração proposta resulta na harmonização das
+alíquotas aplicáveis a pessoas físicas e pessoas jurídicas.
+
+5. No tocante ao IOF-Câmbio, propõe-se estabelecer alíquota zero
+para a liquidação de operações de câmbio destinadas a transferências
+relativas ao retorno ao exterior de recursos aplicados sem
+participações societárias no país. Busca-se harmonizar o
+tratamento das operações de câmbio de investimento,
+contribuindo para manter a neutralidade no tratamento tributário
+entre investimentos diretos c investimentos realizados por meio dos
+mercados financeiro e de capitais, criando condições ainda mais
+favoráveis à ampliação do investimento no país.
+
+6. No que se refere ao IOF-Seguro, propõe-se substituir o limite
+mensal de aportes para a isenção de tributação por um limite anual
+compatível. Além disso, define-se uma regra transitória até o final
+de 2025, em que a apuração dos montantes aportados seja efetuada
+com base em planos contratados em uma mesma seguradora, com
+
+[[pagina 22 | ocr]]
+
+limite diferenciado.
+
+7. Adicionalmente, propõe-se que a alíquota de IOF de 5% seja
+aplicada sobre o valor excedente aos limite previstos e sem
+considerar aportes de empregadores.
+
+8. Em relação ao IOF aplicado a títulos e valores mobiliários (TOF-
+TVM), a proposta inclui a aplicação do IOF sobre o valor das
+aquisições primárias de cotas de fundos de investimentos em direitos
+creditórios - FIDC, com o objetivo de promover a harmonização
+no tratamento de operações envolvendo direitos creditórios e
+mitigar assimetrias existentes no âmbito do mercado financeiro.
+A medida possui caráter extrafiscal, no sentido de desestimular o
+crescente uso de FDICs por motivação tributária
+
+38. Na medida em que estão presentes as justificações exigidas
+pelo artigo 153, * 1º, da Constituição, o Presidente da República dispunha de
+
+prerrogativa política incontestável para a alteração de alíquota proposta.
+
+39. Esse Supremo Tribunal Federal já se manifestou sobre o tema,
+confirmando a competência do Presidente da República — delegável ao
+Ministério da Fazenda — para alterar as alíquotas de IOF. Na oportunidade,
+refutou a tese de que a normatização infralegal comprometeria a separação dos
+poderes ou a natureza jurídica da exação. Transcreva-se, a propósito, a ementa de
+acórdão proferido pela Segunda Turma, no julgamento do Recurso Extraordinário
+nº 788.064/SP (Rel. Min. GILMAR MENDES):
+
+Agravo regimental em recurso extraordinário. 2. Direito Tributário. 3.
+CPMF. Majoração da alíquota o Imposto sobre Operações
+Financeiras — IOF. Descaracterização da natureza do tributo.
+Desvio de finalidade. Não comprovação. 4. Ausência de argumentos
+
+capazes de infirmar a decisão agravada. 5. Agravo regimental a que se
+nega provimento.
+
+(RE nº 788.034/SP, Relator: Ministro GILMAR MENDES; Órgão
+Julgador: Segunda Turma; julgamento em 29/0/2017; Publicação em
+10/10/2017- grifou-se)
+
+40. De acordo com o voto condutor do Min. GILMAR MENDES,
+
+“[...] o acórdão recorrido não diverge do entendimento desta Corte, segundo o
+
+[[pagina 23 | ocr]]
+
+qual é constitucional a edição de norma infraconstitucional com o intuito de
+delegar a Ministro de Estado a competência para alterar as alíquotas dos
+
+impostos enumerados no art. 153, & 1º, da Constituição Federal”.
+
+41. Ainda sobre o ponto, saliente-se que a Constituição Federal e
+a legislação pertinente preveem o fato gerador do IOF em termos vagos, sem
+definir em que consistem as operações sujeitas à tributação?. Por isso, inclui-se
+na competência normativa do Poder Executivo a tarefa de identificar e
+enquadrar as operações sujeitas à incidência do imposto. Tal flexibilidade
+conceitual é compatível com a função predominantemente regulatória do tributo,
+permitindo que o seu campo de incidência acompanhe as transformações e as
+inovações do mercado financeiro e das práticas negociais, sem que isso implique
+
+ofensa ao princípio da legalidade tributária.
+
+r
+
+42. E importante ressaltar que as operações de crédito não se
+restringem àquelas realizados no âmbito bancário. A incidência do imposto
+alcançava a generalidade das relações jurídicas em que haja a disponibilização
+onerosa de capital, independentemente da intermediação de instituições
+financeiras, evidenciando a vocação abrangente e instrumental desse tributo
+
+dentro da estrutura normativa do sistema fiscal.
+
+43. A esse propósito, no Julgamento do Tema 328 de Repercussão
+Geral, o Ministro ALEXANDRE DE MORAES elucidou que: “Quanto ao IOF,
+previsto no art. 153, V, da CF/1988, e, em nível infraconstucional, no art. 63 do
+Código Tributário Nacional — CTN, o fato gerador do imposto em tela (IOF-
+
+Crédito) tem por aspecto temporal a “entrega total ou parcial do montante ou do
+
+2 Art. 153, inciso V, da Constituição Federal; art. 63 do Código Tributário Nacional; arts.1º e 2º da Lei nº
+5.143/1966.
+
+[[pagina 24 | ocr]]
+
+valor que constua o objeto das obrigações, ou sua colocação à disposição do
+
+interessado ' ”.
+
+44.
+
+Tal interpretação acompanha a jurisprudência consolidada do
+
+Supremo Tribunal Federal sobre a matéria, como se observa na ementa da ADI nº
+
+1763 (Rel. Ministro DIAS TOFFOLIT):
+
+Ação direta de inconstitucionalidade. Direito Tributário. Imposto
+sobre operações de crédito, câmbio e seguro, ou relativas a títulos ou
+valores mobiliários (IOF). Alienações de direitos creditórios
+resultantes de vendas a prazo às empresas de factoring. Artigo 58 da
+Lei nº 9.532/97. Constitucionalidade.
+
+1. As empresas de factoring são distintas das instituições financeiras,
+não integrando o Sistema Financeiro Nacional. Não há atividade
+bancária no factoring nem vinculação entre o contrato de factoring e
+as atividades desenvolvidas pelas instituições financeiras.
+
+2. O fato de as empresas de factoring não necessitarem ser
+instituições financeiras não é razão suficiente para inquinar de
+inconstitucional a norma questionada. E isso porque nada há na
+Constituição Federal, ou no próprio Código Tributário Nacional, que
+restrinja a incidência do IOF sobre as operações de crédito realizadas
+por instituições financeiras.
+
+3. A noção de operação de crédito descreve um tipo. Portanto,
+quando se fala que as
+
+operações de crédito devem envolver vários elementos (tempo,
+confiança, interesse e risco), a exclusão de um deles pode não
+descaracterizar por inteiro a qualidade creditícia de tais
+operações quando a presença dos demais elementos for suficiente
+para que se reconheça a elas essa qualidade.
+
+4. No caso do conventional factoring, há, inegavelmente, uma
+antecipação de recursos financeiros, pois, ordinariamente, o
+empresário aguarda o vencimento dos créditos decorrentes da venda
+de mercadorias a seus clientes. Cedendo tais créditos ao factor, o
+empresário recebe no presente aquilo que cle somente perceberia no
+futuro, descontado, evidentemente, o fator de compra, que é a própria
+remuneração do factor.
+
+5. Também é constitucional a incidência do IOF sobre o maturity
+factoring. Nessa modalidade de faturização (como na modalidade
+conventional factoring), as alienações de direito creditório podem ser
+enquadradas no art. 153, inciso V, da Constituição Federal, na parte
+referente a “operações relativas a títulos ou valores mobiliários”.
+
+6. A alienação de direitos creditórios a empresa de factoring envolve,
+sempre, uma operação
+
+de crédito ou uma operação relativa a títulos ou valores mobiliários.
+7. E, aliás, própria do IOF a possibilidade de ocorrência de
+superposição da tributação das operações de crédito e daquelas
+
+[[pagina 25 | ocr]]
+
+relativas a títulos e valores mobiliários, motivo pelo qual o Código
+Tributário Nacional, no parágrafo único do seu art. 63, traz uma regra
+de tributação alternativa, de sorte a evitar o bis in idem.
+
+1. Ação direta de inconstitucionalidade julgada improcedente,
+declarando-se a constitucionalidade do art. 58 da Lei nº 9.532, de 10
+de dezembro de 1997.
+
+(ADI nº 1763, Relator: Ministro DIAS TOFFOLI; Órgão Julgador:
+Pleno; julgamento em 16/06/2020; Publicação em 30/07/2020 —
+grifou-se)
+
+45. No caso vertente, o Presidente da República editou o Decreto
+nº 12.499/2025, em observância estrita à competência normativa que lhe conferiu
+o artigo 153, inciso V, e $1º, da Constituição Federal, alterando as alíquotas
+incidentes sobre determinados fatos geradores, e incluindo as operações de
+antecipação de pagamentos a fornecedores e demais financiamentos
+correlatos no conceito de operação de crédito. Além de adstrito à regra de
+competência, o ato não extrapolou os limites previstos na lei Lei nº 8.894/1994,
+
+observando a alíquota máxima estabelecida em 1,5% ao dia”.
+
+46. Estando o decreto presidencial enquadrado nos contornos
+da regra de competência contida no art. 153, 81º, da Constituição Federal, e
+observadas as limitações expressas em lei específica, a sua
+constitucionalidade é manifesta. Por consequência, o ato de sustação
+veiculado pelo DL nº 176/2025 importa interferência indevida do Congresso
+Nacional na competência regulamentar atribuída ao Poder Executivo, e
+
+consequentemente, violação frontal ao princípio da separação dos poderes.
+
+47. Reitere-se que o Decreto nº 12.499/2025 teve seus aspectos
+regulatórios devidamente motivados pelo Ministério da Fazenda. Em linhas
+
+gerais, o ato normativo possui a finalidade de promover uma maior eficiência
+
+3 Art. 1º O Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos c Valores Mobiliários
+será cobrado à alíquota máxima de 1,5% ao dia, sobre o valor das operações de crédito c relativos a títulos e valores
+mobiliários.
+
+[[pagina 26 | ocr]]
+
+nos mercados de crédito e câmbio, mediante o ajuste de certas distorções na
+fixação das alíquotas de IOF, que geravam assimetrias no âmbito do mercado
+financeiro. Inquestionável, portanto, a presença de uma lógica extrafiscal na
+
+edição desse ato pelo Presidente da República.
+
+48. Todavia, ainda que o teor extrafiscal do Decreto nº
+12.499/2025 não fosse tão ostensivo (como é), a validade dos ajustes por ele
+promovidos não poderia ser fulminada tendo como fundamento apenas o
+
+conceito de “extrafiscalidade”.
+
+49. A bem da verdade, a expressão “extrafiscalidade” carece de
+previsão textual na Constituição Federal e na legislação tributária, não servindo
+
+como parâmetro objetivo de validade das leis e atos normativos.
+
+50. Trata-se de um atributo de origem doutrinária e
+jurisprudencial, que denota a utilização dos tributos — alguns mais do que outros
+—, como instrumentos de intervenção do Estado no domínio econômico. Ela não
+desnatura a finalidade arrecadatória típica do poder de tributar. Desse modo, um
+tributo dotado de caráter extrafiscal também desempenha função fiscal, servindo
+como fonte de receitas para custeio das funções estatais. Nesse sentido são as
+
+lições de Heleno Taveira Torres*:
+
+A "extrafiscalidade", na forma como concebida no passado, como algo
+diverso cla "fiscalidade", já não tem cabimento teórico ou finalidade
+prática. Veja-se o aumento clo Imposto sobre Operações de Câmbio
+(IOF) para 6,38% nas hipóteses de compras com cartões de crédito e
+outros meios de pagamento, pelo Dec. 7.454/2011, e, recentemente,
+pelo Dec. 8.175/2 7.12.2013, para tentar reduzir as compras de
+brasileiros no exterior e assegurar equilíbrio elo balanço ele
+pagamentos. Decerto que o resultado da arrecadação igualmente
+interessa e justifica a decisão política. E não se confirmou qualquer
+mudança na conduta dos brasileiros, antes, seguiram crescentes as
+viagens ao exterior. O destino ela arrecadação será sempre aquele
+tipicamente "fiscal", ainda que cumpra outras funções legítimas de
+
+4 TORRES, Heleno Taveira. Direito Constitucional Financeiro: Teoria da Constituição Financeira, p. 203
+
+[[pagina 27 | ocr]]
+
+intervencionismo na economia ou na concretização dos fins
+constitucionais do Estado, para o atendimento da função distributiva da
+Constituição.
+
+O destino ela arrecadação será sempre aquele tipicamente "fiscal",
+ainda que cumpra outras funções legítimas de intervencionismo na
+economia ou na concretização dos fins constitucionais do Estado, para
+o atendimento da função distributiva da Constituição.
+
+51. Importante destacar, inclusive, que qualquer tributo pode ser
+utilizado com caráter extrafiscal, sendo impossível realizar uma separação dos
+tributos em dois grupos, o grupo dos tributos extrafiscais, com função indutora de
+comportamentos, e o grupo dos tributos sem caráter extrafiscal, com função
+
+exclusivamente arrecadatória.
+
+52. Para comprovar isso, bastar recordar que, quando se pretendeu
+desestimular a terceirização empresarial, que possuía relação com o custo da
+contribuição sobre folha de salários, o constituinte se utilizou da contribuição
+sobre faturamento ou receita, como forma de atingi-la, por meio da Emenda
+Constitucional nº 42, de 2003, que previu, na ocasião, “aplica-se o disposto no $
+12 inclusive na hipótese de substituição gradual, total ou parcial, da contribuição
+
+incidente na forma do inciso I, a, pela incidente sobre a receita ou o faturamento”.
+
+53. Em outra situação, o próprio STF, na ADI nº 5.277 e no
+RE nº 1.043.313, permitiu o estabelecimento de alíquotas do PIS e da COFINS,
+por meio de decretos, desde que presente o caráter extrafiscal, fixando a seguinte
+tese: “"É constitucional a flexibilização da legalidade tributária constante do $
+2º do art. 27 da Lei nº 10.865/04, no que permitiu ao Poder Executivo, prevendo
+as condições e fixando os tetos, reduzir e restabelecer as alíquotas da
+contribuição ao PIS e da COFINS incidentes sobre as receitas financeiras
+auferidas por pessoas jurídicas sujeitas ao regime não cumulativo, estando
+
+presente o desenvolvimento de função extrafiscal".
+
+[[pagina 28 | ocr]]
+
+54. Estes exemplos demonstram que, a princípio, qualquer tributo
+pode ter caráter extrafiscal, mesmo a contribuição sobre a folha de salários ou as
+contribuições ao PIS e à COFINS, sendo que o caráter extrafiscal de qualquer
+tributo não exclui eventual efeito — positivo, neutro ou negativo — sobre a
+
+arrecadação.
+
+55. Em 2002 e 2003, por exemplo, o legislador infraconstitucional
+— posteriormente apoiado pela CF — transformou o PIS e a COFINS em tributos
+não-cumulativos, por meio das Medidas Provisórias nº 66 e 135, convertidas nas
+leis nº 10.637 e 10.833. A medida teve claro propósito extrafiscal de induzir ao
+crescimento econômico e reduzir a complexidade tributária. No entanto, ela
+
+trouxe, consigo um indesejado aumento da carga tributária.
+
+56. O que se pretende dizer, com isso, é que o uso de medidas
+extrafiscais por meio da alteração do desenho normativos de tributos sempre
+possuirá algum efeito tributário, o que não desnaturaliza sua natureza de tributo
+
+extrafiscal, como no presente caso.
+
+57. Corroborando o entendimento doutrinário, ao julgar recurso
+em que se discutia a constitucionalidade de alterações das alíquotas de IOF (RE
+nº 147.2012/RS), o Ministro ANDRÉ MENDONÇA ponderou, “com relação ao
+alegado 'desvirtuamento da finalidade do tributo” (e-doc. 15, p.9), [...] que a
+receita dos impostos compõe as reservas necessárias para as despesas de forma
+geral, não havendo que se presumir que a majoração do IOF tenha ocorrido
+
+necessariamente “com fins de sustentar o Auxílio Brasil” '*,
+
+58. Seguindo a mesma linha de intelecção, ao decidir o RE nº
+
+800.282/SP (Rel. Min. ROBERTO BARROSO), a Primeira Turma desse STF
+
+* RE nº 1.472.012, Relator: Ministro André Mendonça: Decisão Monocrática; Publicação em 23/01/2024 — grifou-
+se
+
+[[pagina 29 | ocr]]
+
+concluiu que “A receita de impostos compõe a reserva necessária para fazer
+frente a toda e qualquer despesa uti universi, não havendo que se presumir que a
+majoração do IOF tenha ocorrido necessariamente para repor a perda dos
+valores anteriormente arrecadados por meio da CPMF”. O acórdão recebeu a
+
+seguinte ementa:
+
+AGRAVO REGIMENTAL RECURSO EXTRAORDINÁRIO. CPMF.
+MAJORAÇÃO DA ALÍQUOTA DO IMPOSTO SOBRE
+OPERAÇÕES FINANCEIRAS — IOF. DESCARACTERIZAÇÃO DA
+NATUREZA DO TRIBUTO. NÃO COMPROVAÇÃO.
+
+A receita de impostos compõe a reserva necessária para fazer frente a
+toda e qualquer despesa uti universi, não havendo que se presumir
+que a majoração do IOF tenha ocorrido necessariamente para
+repor a perda dos valores anteriormente arrecadados por meio da
+CPMF.
+
+Não há qualquer evidência de que a majoração do IOF, perpetrada pela
+Portaria MF 348/1998, teve o condão de modificar a natureza jurídica
+do imposto, desviando sua finalidade e transformando-o em tributo com
+arrecadação vinculada. A tese da agravante está embasada em meras
+suposições, carecendo de efetivo fundamento jurídico. Agravo
+regimental a que se nega provimento.
+
+(RE nº 800.282, Relator: Ministro ROBERTO BARROSO; Julgamento
+em: 10/02/2015; Publicação em 06/03/2015- grifou-se)
+
+59. Nesse cenário, considerados os entendimentos doutrinário e
+jurisprudencial sobre os efeitos regulatórios dos tributos, conclui-se que o IOF
+conserva a sua finalidade arrecadatória, mesmo que ostente um caráter
+extrafiscal eminente. O fato de as alterações das alíquotas impactarem
+positivamente as estimativas de receitas não denota desvio de finalidade,
+
+tampouco contamina a constitucionalidade do decreto presidencial.
+
+60. No exercício legítimo da sua competência regulamentar, o
+Poder Executivo alterou as alíquotas do IOF, com o intuito de “promover
+padronização normativa, simplificação operacional e maior neutralidade
+
+tributária”. As funções fiscais e extrafiscais do tributo, como ocorre aliás com
+
+[[pagina 30 | ocr]]
+
+todos os tributos, apresentam-se de forma complementar no decreto sustado, em
+
+absoluta harmonia com os ditames legais e constitucionais.
+
+61. Face ao exposto, atendidos os critérios elencados no art. 153,
+$1º, da Constituição Federal, e tendo o Poder Executivo agido nos limites da sua
+competência normativa, é mister que esse Supremo Tribunal Federal declare a
+constitucionalidade do Decreto nº 12.499, de 11 de junho de 2025 — que revogou
+os Decretos nº 12.466, de 22 de maio de 2025 e nº 12.467, de 23 de maio de 2025.
+
+IV.2. Da inconstitucionalidade do Decreto Legislativo nº 176/2025: Violação ao
+
+princípio da separação dos poderes: art. 49, inciso V, da Constituição Federal
+
+62. Ao sustar os Decretos nº 12.466, de 22 de maio de 2025, nº
+12.467, de 23 de maio de 2025, e nº 12.499, de 11 de junho de 2025, editados pelo
+Presidente da República no exercício de competência normativa, o Decreto
+Legislativo nº 176/2025 incidiu em inconstitucionalidade material, violando o
+
+princípio da separação dos poderes.
+
+63. De fato, a Constituição Federal, em seu artigo 49, inciso V,
+atribui exclusivamente ao Congresso Nacional a competência para “sustar os atos
+normativos do Poder Executivo que exorbitem do poder regulamentar ou dos
+
+limites de delegação legislativa”.
+
+64. O dispositivo prevê uma espécie de controle político de
+constitucionalidade, a ser exercido pelo Congresso Nacional, com a única
+finalidade de resguardar direitos e garantias fundamentais contra eventuais abusos
+de competência regulamentar praticados pelo Poder Executivo. Conforme
+salientam Dimitri Dimoulis e Leonardo Martins, o poder de sustação, previsto no
+artigo 49, inciso V, integra o elenco das garantias preventivas dos direitos
+
+fundamentais:
+
+[[pagina 31 | ocr]]
+
+As garantias preventivas dos direitos fundamentais se relacionam
+diretamente com as formas de organização do Estado. Consistem em
+competências de autoridades estatais que objetivam impedir abusos de
+poder. O texto constitucional estabelece qual autoridade poderá
+fiscalizar as demais e sob quais condições, regulamentando a atuação
+de vários órgãos e comissões. A Constituição Federal de 1988 adota o
+princípio da separação dos poderes que, nesse âmbito, objetiva
+estabelecer mecanismos de controles recíprocos das autoridades
+estatais no intuito de preservar os direitos dos indivíduos de indevidas
+interferências dos detentores de poder”.
+
+65. A competência de sustação tem como fundamento o princípio
+da separação dos poderes, devendo ser exercida quando evidenciada a atuação
+ultra vires do Poder Executivo, na hipótese de o regulamento questionado versar
+sobre matéria submetida à reserva legal. Na medida em que traduz uma
+perspectiva atípica de controle congressual, o art. 49, V, da Constituição Federal
+tem sido interpretado de forma rigorosa, não se prestando a viabilizar embates
+
+institucionais ou a alterar a legislação em vigor.
+
+66. A prerrogativa não pode servir de instrumento para que as
+instâncias legislativas busquem alterar legítimas decisões políticas de outros
+
+Poderes.
+
+67. Por isso mesmo, ao deliberar sobre uma proposta de sustação,
+o Congresso Nacional não deve adentar o mérito do ato questionado, mas
+restringir o seu juízo aos limites contidos nas regras legais ou constitucionais
+que atribuem competência regulamentar ao Poder Executivo. O controle
+congressual deve incidir exclusivamente sobre possíveis transgressões a regras
+
+de distribuição de competências, e não sobre a legalidade ou constitucionalidade
+
+º DIMOULIS, Dimitri; MARTINS, Leonardo. Teoria geral dos direitos fundamentais. 5º ed. rev., atual. e ampl.
+São Paulo: Atlas, 2014, p. 85.
+
+[[pagina 32 | ocr]]
+
+material do ato regulamentar. Nesse mesmo sentido é a lição de Anna Cândida da
+
+Cunha Ferraz e Rebecca Groterhorst”:
+Consiste num controle de constitucionalidade porquanto a sustação
+prevista no texto constitucional deverá recair sobre atos normativos
+executivos que exorbitem do poder regulamentar ou da delegação
+legislativa, o que significa dizer, atos que ultrapassam os limites da
+competência do Executivo, importando em abuso de poder e usurpação
+de competência do Legislativo. Não se cogita, pois, na hipótese, de
+sustação apenas ditada por mera ilegalidade ou por discricionariedade
+ou pelo mérito do ato questionado. O abuso do poder regulamentar ou
+
+da delegação legislativa que fundamentam a sustação importa em
+transgressão de regras de competências constitucionais do Legislativo.
+
+68. Com efeito, o poder de sustação constitui corolário do sistema
+de “freios e contrapesos” que se estabelece entre os poderes da República. Seus
+pressupostos jurídicos se encontram taxativamente previstos no art. 49, inciso V,
+da Constituição Federal, compreendendo apenas situações de flagrante
+
+usurpação das competências legislativas.
+
+69. Se acionada à revelia dos critérios constitucionais, a
+prerrogativa congressual passa a confrontar o princípio da separação dos poderes
+— em vez de reafirmá-lo —, configurando limitação ilegítima ao exercício da
+
+competência administrativa conferida ao Poder Executivo.
+
+70. Ao julgar ações propostas para questionar a
+constitucionalidade de decretos legislativos, esse Supremo Tribunal Federal tem
+interpretado restritivamente o art. 49, V, da Constituição Federal, assentando que
+o poder de sustação deve ser exercido nos estritos limites definidos na
+Constituição Federal, apenas quando verificado abuso de competência
+
+regulamentar pelo Poder Executivo.
+
+7 FERRAZ, Anna Cândida da Cunha; GROTERHORST, Rebecca. Comentários ao artigo 49, V. MENDES, Gilmar
+F. Comentários À Constituição do Brasil - Série IDP - 3º Edição 2023. 3. ed. Rio de Janeiro: Saraiva Jur, 2023. E-
+book. p.1083.
+
+[[pagina 33 | ocr]]
+
+71. A esse respeito, confira-se o acórdão proferido pelo Plenário,
+por ocasião da ADI nº 5.740/DF:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DECRETO
+LEGISLATIVO DISTRITAL N. 2.146/2017. SUSPENSÃO DOS
+EFEITOS DO DECRETO DISTRITAL JN. 38.923/2017.
+REGULAMENTAÇÃO DA LEI DISTRITAL N. 2.615/2000:
+PREVISÃO DE SANÇÕES ADMINISTRATIVAS A ATOS
+DISCRIMINATÓRIOS EM RAZÃO DA ORIENTAÇÃO SEXUAL
+DAS PESSOAS. AUSÊNCIA DE ABUSO DE PODER
+REGULAMENTAR PELO GOVERNADOR DO DISTRITO
+FEDERAL. IMPOSIÇÃO DE ÓBICE, PELA CÂMARA
+LEGISLATIVA DO DISTRITO FEDERAL, À PROTEÇÃO
+CONTRA CONDUTAS DISCRIMINATÓRIAS EM RAZÃO DA
+ORIENTAÇÃO SEXUAL DAS PESSOAS. OFENSA AO INC. III DO
+ART. 1º, AO ART. 2º, AO INC. IV DO ART. 3º AO CAPUT E AO
+INC. XLI DO ART. 5º, AO INC. V DO ART. 49 E AO INC. IV DO
+ART. 84 DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO DIRETA
+JULGADA PROCEDENTE.
+
+(ADI nº 5.740/DF, Relatora: Ministra CÁRMEN LÚCIA; Órgão
+Julgador: Pleno; julgamento em 23/11/2020; Publicação em
+03/12/2020).
+
+72. No voto condutor do acórdão acima transcrito, ao examinar
+decreto legislativo que sustava ato regulamentar do governo do Distrito Federal,
+a Ministra Relatora assentou que a competência prevista no art. 49, V, da
+Constituição “somente pode ser exercida — como em todos os casos de
+desempenho de atribuição constitucional ou legal — nos estritos moldes definidos
+no sistema jurídico, a saber, se extrapolar o Chefe do Poder Executivo seu
+
+poder”.
+
+73. Noutra oportunidade, ao declarar inconstitucionais decretos
+presidenciais que versavam sobre armas de fogo e munições, esse Supremo
+Tribunal Federal manteve o seu posicionamento. Destacou que os decretos se
+subordinam ao espaço de delegação normativa, vedada a regulamentação de
+
+matéria subordina à reserva legal, sob pena de violação ao postulado da separação
+
+[[pagina 34 | ocr]]
+
+dos poderes. Senão, confira-se o acórdão do Plenário proferido na ADI nº
+6.680/DF (Rel. Min. ALEXANDRE DE MORAES):
+
+Ações diretas de inconstitucionalidade. Medida liminar deferida.
+Conversão do referendo em julgamento de mérito. Apreciação conjunta
+das ADIs 6675, 6676, 6677, 6680 e 6695. Decretos Presidenciais que
+dispõem sobre aquisição, cadastro, registro, posse e porte de armas de
+fogo, acessórios e munições (Decretos nºs 10.627, 10.628, 10.629 e
+10.630, de 12 de fevereiro de 2021). Atos normativos editados com o
+propósito de promover a chamada “flexibilização das armas”no Brasil.
+Inovações regulamentares incompatíveis com o sistema de controle e
+fiscalização de armas instituído pelo Estatuto do Desarmamento. Dever
+estatal de promover a segurança pública como corolário do direito à
+vida. Normas que exorbitam dos limites do poder regulamentar
+outorgado pela Constituição ao Presidente da República, vulnerando,
+ainda, políticas públicas de proteção a direitos fundamentais.
+
+l. Conversão o referendo em julgamento final de mérito, em
+observância dos ditames da economia processual c da duração razoável
+do processo. Precedentes.
+
+2. O modelo contemporâneo de segurança pública — positivado no texto
+constitucional e no âmbito do Sistema Global (ONU) e Regional (OEA)
+de Proteção dos Direitos Humanos — preconiza o controle rigoroso do
+acesso da população às armas de fogo, acessórios e munições, devido
+aos efeitos prejudiciais desses produtos sobre a segurança das pessoas,
+o bem-estar da comunidade, o desenvolvimento social e econômico do
+Estado e o direito à convivência em harmonia e paz.
+
+[.]
+
+4. A segurança pública é corolário do direito à vida. É a tutela prestada
+pelo Estado em favor da vida digna, livre do medo, livre dos atos de
+barbárie que revoltam a consciência da humanidade. O Estatuto do
+Desarmamento é o diploma legislativo que consubstancia os valores
+constitucionais concernentes à proteção da vida humana (CF, art. 5º,
+caput) c à promoção da segurança pública (CF, art. 144, caput) contra
+o terror c a mortalidade provocada pelo uso indevido das armas de fogo.
+
+5. Os regulamentos estão subordinados às leis que lhes dão fundamento,
+devendo observância ao espaço restrito de delegação normativa. O
+respeito a este limite de conformação regulamentar adquire relevância
+constitucional, na medida em que configura corolário do postulado da
+separação dos Poderes.
+
+6. Os Decretos presidenciais impugnados, ao inovarem na ordem
+jurídica, fragilizaram o programa normativo estabelecido na Lei
+10.826/2003, que inaugurou uma política de controle responsável de
+armas de fogo e munições no território nacional. 7. Ações diretas
+conhecidas em parte e, nessa extensão, julgadas procedentes.
+
+[[pagina 35 | ocr]]
+
+(ADI nº 6680/DF, Relator: Ministro ALEXANDRE DE MORAES;
+Orgão Julgador: Pleno; julgamento em 04/07/2020; Publicação em
+05/09/2020 — grifou-se)
+
+74. De acordo com o voto condutor do acórdão, “o campo de
+liberdade de atuação do Executivo regulador tem suas margens definidas pelos
+conteúdos que podem ser extraídos da lei e do propósito manifesto do Legislador.
+Desse modo, mostra-se legítima a atuação normativa do Executivo regulador
+sempre que passível de ser justificada como integração de prévia escolha
+
+legislativa ”.
+
+75. A partir do exposto até aqui, percebe-se que a jurisprudência e
+a doutrina convergem para um entendimento comum, voltado a restringir o
+alcance do poder de sustação àquelas situações de patente abuso de competência
+regulamentar. Estando o ato normativo adstrito às regras de distribuição de
+competências — independentemente do seu conteúdo — reputa-se indevido o uso
+
+do mecanismo previsto no art. 49, V, da Constituição Federal.
+
+76. Incasu, o Congresso Nacional editou o Decreto Legislativo nº
+176/2025, com fundamento no art. 49, inciso V, da Constituição Federal, sustando
+os efeitos dos Decretos Presidenciais nº 12.466, de 22 de maio de 2025; nº 12.467,
+de 23 de maio de 2025; e nº 12.499, de 11 de junho de 2025, que “regulamenta o
+Imposto sobre Operações de Crédito, Câmbio e Seguro, ou relativas a Títulos
+ou Valores Mobiliários — IOF”. O texto do ato normativo impugnado é o
+
+seguinte:
+
+O Congresso Nacional decreta:
+
+Art. 1º Ficam sustados, com fundamento no inciso V do caput do art.
+49 da Constituição Federal, os Decretos nºs 12.466, de 22 de maio de
+2025, 12.467, de 23 de maio de 2025, e 12.499, de 11 de junho de 2025,
+com restabelecimento da redação do Decreto nº 6.306, de 14 de
+dezembro de 2007, em vigor anteriormente às alterações promovida
+pelos referidos Decretos.
+
+[[pagina 36 | ocr]]
+
+Art. 2º Este Decreto Legislativo entra em vigor na data de sua
+publicação.
+
+77. Contudo, os decretos presidenciais que regulam as alíquotas
+de IOF — cujos efeitos foram sustados pelo Decreto Legislativo —, não se
+houveram com qualquer excesso regulamentar. Pelo contrário, como visto no
+tópico anterior, seu fundamento jurídico é claramente compatível com as balizas
+do artigo 153, $1º, que faculta ao Poder Executivo Federal “atendidas as
+condições e os limites estabelecidos em lei, alterar as alíquotas dos impostos
+
+enumerados nos incisos E, IL, IV e V”.
+
+78. Nessa linha de argumentação, o Decreto nº 12.499/2025 — bem
+
+como aqueles que o antecederam — não se enquadram no espectro do art. 49,
+inciso V, da Constituição. Ou seja, não competia ao Congresso Nacional
+deliberar, por meio dessa limitada atribuição de controle, sobre a sustação de atos
+normativos respaldados diretamente na Constituição Federal. Ao sustar os
+decretos presidenciais que regulavam as alíquotas de IOF, o Congresso Nacional
+
+arvorou-se em uma atribuição exclusiva da jurisdição constitucional,
+
+praticando um ato inválido, pois exercido sob motivação de mérito que não
+
+lhe cabia apreciar.
+
+79. Isso é o que se pode depreender com facilidade da curta
+Justificativa que acompanhou o Projeto de Decreto Legislativo (PDL) nº
+214/2025, segundo a qual as novas alíquotas de IOF seriam demasiadamente
+elevadas para alguns setores, encarecendo atividades econômicas. A partir dessa
+premissa, concluiu-se que as alterações previstas nos decretos presidenciais
+possuiriam intuito meramente arrecadatório, desviando da finalidade extrafiscal
+
+típica do imposto. A propósito confira-se:
+
+O reajuste é estarrecedor.
+
+[[pagina 37 | ocr]]
+
+Para as empresas, a alíquota quase dobrou, passando de até 1,88% a.a.
+para até 3,95% a.a. (geral) e de 0,88% para até 1,95% aa. (micro e
+pequenos empresários optantes do Simples — Lei Complementar nº 123,
+de 14 de dezembro de 2006).
+
+Ademais, operações como antecipação de pagamento a fornecedores
+também serão taxadas. No câmbio, a cobrança sobe para 3,5%,
+enquanto planos de previdência do tipo VGBL pagarão 5% para aportes
+mensais acima de R$ 50 mil.
+
+Além da incontroversa inadequação técnica da medida — que encarecerá
+o custo do capital de giro e empréstimos, pressionando a inflação — Lula
+recorre ao IOF para tentar cumprir a regra fiscal sem abdicar de
+sua obsessão pelo aumento desenfreado dos gastos públicos, com
+cargos, emendas secretas, doações vultosas a “ONGs amigas”, shows e
+toda a sorte de mordomias a si, ao cônjuge e militantes. O IOF, porém,
+é um imposto extrafiscal que somente pode ser utilizado como
+instrumento para controle da política econômica, inadmitindo o
+desejado feitio arrecadatório.
+
+80. Como se extrai da leitura das justificativas acima transcritas,
+no exercício do poder de sustação, o Congresso Nacional adentrou o próprio
+
+mérito dos decretos presidenciais.
+
+81. Destarte, uma vez ultrapassados os pressupostos legitimadores
+previstos no art. 49, inciso V, da Constituição Federal, o Decreto Legislativo nº
+176/2025 acaba por violar o princípio da separação dos poderes, e, por isso,
+
+merece ser declarado inconstitucional por esse Supremo Tribunal Federal.
+
+V-— DO PEDIDO CAUTELAR
+
+82. Os argumentos acima expendidos revelam a probabilidade do
+direito invocado na presente ação, demonstrando a plena legitimidade do contexto
+discursivo de edição do Decreto Presidencial nº 12.499/2025 (e também dos
+Decretos nº 12.466/2025 e 12.467/2025).
+
+[[pagina 38 | ocr]]
+
+83. Como visto, os atos normativos aprovados pelo Executivo
+buscaram sua razão de ser na promoção de “padronização normativa,
+simplificação operacional e maior neutralidade tributária” (EM nº 00040/2025
+MF), propósitos orientados não só à alteração de dinâmicas distorcidas de
+funcionamento do mercado (desincentivo à elisão fiscal), como à realização de
+Justiça social nos mercados de crédito e câmbio (mediante correção de assimetrias
+
+nas alíquotas cobradas de pessoas jurídicas e físicas).
+
+84. Não há dúvidas, portanto, da existência de sérias
+reivindicações extrafiscais na edição desses atos normativos, o que já é
+suficiente para sinalizar a compatibilidade desses Decretos com os requisitos
+exigidos pelo artigo 153, $ 1º, da Constituição e artigos 1º,$ 2º; e 5º, 8 2º, da
+Lei nº 8.894/1994 para a utilização do poder normativo excepcional
+
+garantido ao Presidente da República pelo Texto Constitucional.
+
+85. Diante da inequívoca inspiração extrafiscal do Decreto nº
+12.499/2025, fica claro que a aprovação, pelo Congresso Nacional, do Decreto
+Legislativo nº 176/2025 ocorreu fora das balizas justificativas que são
+próprias da prerrogativa sustatória hospedada no artigo 49, inciso V, da
+Constituição, configurando, por isso, uma medida anômala de interrupção
+
+de prerrogativa política típica do presidencialismo brasileiro.
+
+86. A manutenção da vigência do Decreto Legislativo nº
+176/2025 acarreta, no mínimo, três consequências indesejáveis bastante
+ostensivas, que reclamam pronta intervenção corretiva por parte dessa Suprema
+
+Corte.
+
+87. Em primeiro plano, ela inibe a efetivação dos ajustes buscados
+pelo Poder Executivo nos mercados de crédito, de câmbio e de seguros,
+
+concorrendo com a perpetuação de distorções de eficiência e de justiça fiscal
+
+[[pagina 39 | ocr]]
+
+mencionadas nas justificativas de edição dos Decretos Presidenciais, e impedindo,
+
+com isso, a efetivação de objetivos constitucionais de primeira grandeza.
+
+88. Em segundo plano, ao tolher o exercício legítimo, pelo
+Presidente da República, de uma prerrogativa constitucional que é típica do
+núcleo essencial da autonomia política do Poder Executivo, o ato legislativo aqui
+impugnado cria um forte abalo na delicada equação de harmonia que é consagrada
+na cláusula da separação de poderes. O exercício expansivo dessa competência
+congressual de controle desestabiliza as expectativas normativas dos atores
+políticos, prejudicando os pressupostos colaborativos de funcionamento do
+
+modelo presidencialista eleito pela Constituição de 1988.
+
+89. Em terceiro plano, a ativação indevida da competência de
+controle prevista no artigo 49, inciso V, da Constituição também provoca
+consequências pemniciosas no plano da segurança jurídica. Isso porque os
+Decretos Presidenciais alcançados pelo Decreto Legislativo nº 176/2025
+produziram efeitos entre maio e junho de 2025, efeitos esses que provavelmente
+serão contestados em juízo, sob a perspectiva equivocada de que teria havido
+
+desvio de finalidades na origem dos atos Presidenciais.
+
+90. Ademais, na linha do que já consolidado na jurisprudência
+dessa Suprema Corte, a existência de repercussões fiscais em decorrência da
+edição do Decreto nº 12.499/2025 não contamina a sua origem, porque a
+extrafiscalidade não existe em estado puro, sendo sempre indissociável da faceta
+arrecadatória que a acompanha. Trata-se, na verdade, de dois lados da mesma
+moeda, pois o Estado só conseguirá garantir a autoridade das medidas de indução
+econômica adotadas se elas provocarem uma mudança em termos de custos de
+
+oportunidade na realidade econômica.
+
+[[pagina 40 | ocr]]
+
+91. Isso demonstra que não há nada de inconstitucional ou de
+ilegal nas consequências arrecadatórias geradas pela incidência de tributos tidos
+como extrafiscais, a fim de que o Estado faça frente a políticas públicas tão
+
+importantes para a sociedade brasileira.
+
+92. O quadro abaixo reproduzido, extraído da exposição de
+motivos que fundamentou o decreto presidencial, demonstra a previsão de
+
+arrecadação do IOF após a aplicação das novas alíquotas:
+
+2025
+Estimativa de Estimativa de Estimativa de Redução de
+Arrecadação Arrecadação Arrecadação Receitas em
+com Decreto nº com Decreto nº com novo relação a
+12.466/25 12.467/25 decreto estimativa
+prevista após o
+decreto
+nº12.467/25
+Arrecadação
+Adicional para o 20.500 19.100 12.001 7.099
+IOF
+2026
+Arrecadação
+Adicional para o 41.000 38.200 31.269 6.931
+IOF
+2027 .
+Arrecadação
+Adicional para o | 43.050 40.110 32.833 Err
+IOF
+Em resumo:
+2025 2026 2027
+Redução de Receitas
+com o novo decreto 7:099 6.931 Ed caidá
+
+93. Suprimir a incidência imediata do IOF nos termos editados
+pelo decreto executivo refletiria a troca de uma tributação isonômica por uma
+política orçamentária contracionista, tendente a afetar a continuidade de
+
+políticas públicas destinadas à população mais vulnerável.
+
+94. Desse modo, presentes os requisitos do fumus boni iuris e do
+periculum in mora, destacando-se o provável risco de contingenciamento de
+volume considerável de despesas, é necessário que seja deferida medida cautelar
+
+suspendendo a eficácia do Decreto Legislativo questionado.
+
+[[pagina 41 | ocr]]
+
+VI- DOS PEDIDOS
+
+95. Diante do exposto, requer-se:
+
+a) Seja a presente ação distribuída, por prevenção, ao Ministro
+Relator vinculado à ADI nº 7.827 e à ADI nº 7.839, com fundamento no art. 55,
+q 3; CPC;
+
+b) Liminarmente, a suspensão dos efeitos do Decreto Legislativo
+nº 176/2025 — que, por ter sido praticado fora do espectro de competências
+próprias do Congresso Nacional, é inválido — com a consequente retomada
+da aplicação do Decreto nº 12.499, de 11 de junho de 2025, na forma do art.
+10, 8 3º, da Lei nº 9.868/1999;
+
+c) Sejam colhidas as informações do Congresso Nacional e ouvidos,
+
+sucessivamente, o Advogado-Geral da União e o Procurador-Geral da República;
+
+d) Ao final, a procedência desta ação declaratória, confirmando-
+se a medida liminar, para que seja declarada a constitucionalidade do
+Decreto nº 12.499, de 11 de junho de 2025, e reafirmada a
+inconstitucionalidade do Decreto Legislativo nº 176/2025.
+
+[[pagina 42 | ocr]]
+
+Nesses termos, pede deferimento.
+
+Brasília, junho de 2025.
+
+LUIZ INÁEI LVA
+Presidente da República
+
+-—
+
+uu
+
+JORGE R IGO ARAÚJO MESSIAS
+Adyógado-Geral da União
+
+ISADORA MARIA BELÉM ROCHA CARTAXO DE ARRUDA
+
+Secretária-Geral de Contencioso
+
+ICP Documento assinado digitalmente
+
+Brasil MURILO PEREIRA LORENCIO DA SILVA
+Data: 01/07/2025 09:52:27-0300
+Verifique em https://validar.iti.gov.br
