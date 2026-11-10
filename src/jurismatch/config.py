@@ -20,6 +20,9 @@ ARQ_DOCUMENTOS = DIR_METADATA / "documentos.csv"
 # Índices de busca: FAISS + BM25 + cópia dos chunks + manifesto (04_index)
 DIR_INDICE = RAIZ / "vectorstore"
 
+# PWA estático servido pela API (python -m jurismatch.api)
+DIR_WEB = RAIZ / "app" / "web"
+
 # Embeddings: multilingual-e5 exige os prefixos abaixo (ver card do modelo)
 MODELO_EMBEDDING = "intfloat/multilingual-e5-base"
 PREFIXO_CONSULTA = "query: "

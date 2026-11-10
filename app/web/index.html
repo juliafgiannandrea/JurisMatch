@@ -1,0 +1,172 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>JurisMatch</title>
+  <meta name="description" content="Busca semântica em petições iniciais de ações de controle concentrado do STF.">
+  <meta name="theme-color" content="#f4efe4" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#17150f" media="(prefers-color-scheme: dark)">
+  <meta name="color-scheme" content="light dark">
+  <link rel="manifest" href="/manifest.webmanifest">
+  <link rel="icon" href="/icons/icon.svg" type="image/svg+xml">
+  <link rel="icon" href="/icons/icon-192.png" sizes="192x192" type="image/png">
+  <link rel="apple-touch-icon" href="/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="JurisMatch">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <link rel="stylesheet" href="/styles.css">
+  <script type="module" src="/app.js"></script>
+</head>
+<body>
+  <svg width="0" height="0" style="position:absolute" aria-hidden="true">
+    <defs>
+      <symbol id="i-ajustes" viewBox="0 0 24 24"><path d="M4 7h10M18 7h2M4 17h4M12 17h8" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/><circle cx="16" cy="7" r="2.2" fill="none" stroke="currentColor" stroke-width="1.8"/><circle cx="10" cy="17" r="2.2" fill="none" stroke="currentColor" stroke-width="1.8"/></symbol>
+      <symbol id="i-lupa" viewBox="0 0 24 24"><circle cx="10.5" cy="10.5" r="6.5" fill="none" stroke="currentColor" stroke-width="1.9"/><path d="M15.5 15.5 20 20" stroke="currentColor" stroke-width="1.9" stroke-linecap="round"/></symbol>
+      <symbol id="i-fechar" viewBox="0 0 24 24"><path d="M6 6l12 12M18 6 6 18" stroke="currentColor" stroke-width="1.8" stroke-linecap="round"/></symbol>
+      <symbol id="i-pdf" viewBox="0 0 24 24"><path d="M7 3h7l5 5v13H7z" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linejoin="round"/><path d="M14 3v5h5M10 13h6M10 17h6" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-copiar" viewBox="0 0 24 24"><rect x="8" y="8" width="12" height="12" rx="1.5" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M16 8V5.5A1.5 1.5 0 0 0 14.5 4h-9A1.5 1.5 0 0 0 4 5.5v9A1.5 1.5 0 0 0 5.5 16H8" fill="none" stroke="currentColor" stroke-width="1.7"/></symbol>
+      <symbol id="i-ok" viewBox="0 0 24 24"><path d="M5 12.5l4.5 4.5L19 7.5" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-relogio" viewBox="0 0 24 24"><circle cx="12" cy="12" r="8" fill="none" stroke="currentColor" stroke-width="1.7"/><path d="M12 7.5V12l3 2" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round"/></symbol>
+      <symbol id="i-baixar" viewBox="0 0 24 24"><path d="M12 4v11M7 10.5l5 5 5-5M5 20h14" fill="none" stroke="currentColor" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+      <symbol id="i-compartilhar" viewBox="0 0 24 24"><path d="M12 15V4M8 8l4-4 4 4M6 12v8h12v-8" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round"/></symbol>
+    </defs>
+  </svg>
+
+  <a class="pular" href="#consulta">Ir para a busca</a>
+
+  <div id="aviso-rede" class="faixa faixa--offline" role="status" hidden>
+    Você está offline. Mostrando a última busca salva neste aparelho.
+  </div>
+  <div id="aviso-versao" class="faixa faixa--versao" role="status" hidden>
+    <span>Há uma versão nova do JurisMatch.</span>
+    <button type="button" id="btn-atualizar" class="link-botao">Atualizar</button>
+  </div>
+
+  <header class="topo">
+    <div class="topo__marca">
+      <a href="/" class="marca" aria-label="JurisMatch, início">
+        <svg class="marca__selo" viewBox="0 0 64 64" aria-hidden="true"><rect width="64" height="64" rx="14" fill="currentColor"/><g fill="none" stroke="var(--cartao)"><path d="M25 18.5h20" stroke-width="5"/><path d="M38 16v21a9 9 0 0 1-17.3 3.5" stroke-width="6"/></g></svg>
+        <span class="marca__nome">JurisMatch</span>
+      </a>
+      <p class="topo__linha">Busca semântica em petições iniciais do STF<span id="contagem"></span></p>
+    </div>
+    <div class="topo__acoes">
+      <button type="button" id="btn-instalar" class="botao botao--fantasma" hidden>
+        <svg class="ic" aria-hidden="true"><use href="#i-baixar"/></svg><span>Instalar app</span>
+      </button>
+    </div>
+  </header>
+
+  <div class="layout">
+    <div id="fundo-folha" class="fundo-folha" hidden></div>
+    <aside id="opcoes" class="opcoes" aria-labelledby="titulo-opcoes">
+      <div class="opcoes__alca" aria-hidden="true"></div>
+      <div class="opcoes__cabeca">
+        <h2 id="titulo-opcoes" class="opcoes__titulo">Opções da busca</h2>
+        <button type="button" id="btn-fechar-opcoes" class="botao-icone so-celular" aria-label="Fechar opções">
+          <svg class="ic" aria-hidden="true"><use href="#i-fechar"/></svg>
+        </button>
+      </div>
+
+      <div class="campo">
+        <div class="campo__linha">
+          <label for="opt-k">Petições no resultado</label>
+          <output id="saida-k" for="opt-k" class="valor">5</output>
+        </div>
+        <input type="range" id="opt-k" min="1" max="20" step="1" value="5">
+      </div>
+
+      <fieldset class="campo">
+        <legend>Modo</legend>
+        <div class="segmentos" role="radiogroup">
+          <label class="segmento"><input type="radio" name="modo" value="hibrido" checked><span>Híbrido</span></label>
+          <label class="segmento"><input type="radio" name="modo" value="denso"><span>Só semântico</span></label>
+          <label class="segmento"><input type="radio" name="modo" value="lexical"><span>Só palavras</span></label>
+        </div>
+        <p class="ajuda" id="ajuda-modo">Combina significado e palavras exatas (BM25).</p>
+      </fieldset>
+
+      <div class="campo">
+        <label for="opt-classe">Classe</label>
+        <select id="opt-classe">
+          <option value="">Todas</option>
+          <option value="ADI">ADI</option>
+          <option value="ADC">ADC</option>
+          <option value="ADO">ADO</option>
+          <option value="ADPF">ADPF</option>
+        </select>
+      </div>
+
+      <div class="campo campo--chave">
+        <label class="chave">
+          <span class="chave__texto">
+            <span>Reranker</span>
+            <span class="ajuda">Mais preciso, porém leva uns 40 s por consulta em CPU.</span>
+          </span>
+          <input type="checkbox" id="opt-rerank" role="switch" checked>
+          <span class="chave__trilho" aria-hidden="true"></span>
+        </label>
+      </div>
+
+      <div class="campo" id="campo-limiar">
+        <div class="campo__linha">
+          <label for="opt-limiar">Relevância mínima</label>
+          <output id="saida-limiar" for="opt-limiar" class="valor">80%</output>
+        </div>
+        <input type="range" id="opt-limiar" min="0.5" max="1" step="0.05" value="0.8" aria-describedby="ajuda-limiar">
+        <p class="ajuda" id="ajuda-limiar">Petições cujo melhor trecho fica abaixo disso não aparecem.</p>
+      </div>
+
+      <button type="button" id="btn-aplicar" class="botao botao--primario so-celular">Pronto</button>
+    </aside>
+
+    <main id="principal" class="principal">
+      <form id="form-busca" class="busca" role="search" autocomplete="off">
+        <label for="consulta" class="busca__rotulo">O que você procura nas petições?</label>
+        <div class="busca__caixa">
+          <svg class="ic busca__lupa" aria-hidden="true"><use href="#i-lupa"/></svg>
+          <input type="search" id="consulta" name="q" maxlength="500" enterkeyhint="search"
+                 placeholder="ex.: cotas raciais" required>
+          <button type="submit" id="btn-buscar" class="botao botao--primario busca__enviar">Buscar</button>
+        </div>
+        <div class="busca__rodape">
+          <button type="button" id="btn-opcoes" class="chip-opcoes so-celular" aria-controls="opcoes" aria-expanded="false">
+            <svg class="ic" aria-hidden="true"><use href="#i-ajustes"/></svg>
+            <span id="resumo-opcoes">5 petições · híbrido · reranker 80%</span>
+          </button>
+        </div>
+      </form>
+
+      <section id="painel" class="painel" aria-live="polite" aria-busy="false"></section>
+    </main>
+  </div>
+
+  <footer class="rodape">
+    <p>Projeto acadêmico, Ibmec DF. Os resultados apontam trechos para leitura; não substituem a análise da peça.</p>
+    <p id="dica-ios" class="dica-ios" hidden>
+      <svg class="ic" aria-hidden="true"><use href="#i-compartilhar"/></svg>
+      <span>No iPhone, toque em Compartilhar e depois em <strong>Adicionar à Tela de Início</strong> para instalar.</span>
+      <button type="button" id="btn-fechar-ios" class="botao-icone" aria-label="Dispensar dica">
+        <svg class="ic" aria-hidden="true"><use href="#i-fechar"/></svg>
+      </button>
+    </p>
+  </footer>
+
+  <template id="tpl-cartao">
+    <article class="cartao">
+      <header class="cartao__cabeca">
+        <span class="cartao__pos"></span>
+        <h3 class="cartao__titulo"></h3>
+        <div class="cartao__nota"></div>
+      </header>
+      <p class="cartao__meta"></p>
+      <div class="cartao__trecho">
+        <p class="trecho"></p>
+      </div>
+      <button type="button" class="link-botao cartao__expandir" hidden>Mostrar trecho inteiro</button>
+      <div class="cartao__acoes"></div>
+    </article>
+  </template>
+</body>
+</html>

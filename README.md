@@ -32,6 +32,23 @@ python -m jurismatch.busca "liberdade de imprensa e capital estrangeiro" --k 5
 
 Opções da busca: `--modo hibrido|denso|lexical` e `--classe ADI|ADC`.
 
+## Interface web (PWA)
+
+A interface é um PWA (app web instalável no celular e no desktop), servido por uma API FastAPI que usa o mesmo `Buscador` da linha de comando. Não precisa de Node nem de build: um comando sobe a API e o app.
+
+```bash
+pip install -e ".[app]"                  # fastapi + uvicorn
+python -m jurismatch.api                 # http://127.0.0.1:8000  (--host, --port)
+```
+
+- Precisa do índice em `vectorstore/` (`python -m jurismatch.indexar`). Sem ele o app abre e mostra como montar o índice.
+- No celular (mesma rede): `python -m jurismatch.api --host 0.0.0.0` e abra `http://<ip-do-notebook>:8000`. Para instalar como app de verdade o navegador exige HTTPS fora do `localhost`.
+- Offline, o app abre e mostra a última busca feita. Buscar exige o servidor.
+- `app/molde.html` é uma ferramenta de desenvolvimento: abre o app dentro de um iPhone 17 Pro Max para conferir o layout.
+- Ao mudar arquivos de `app/web/`, suba `VERSAO` em `app/web/sw.js` para os usuários receberem a versão nova.
+
+Rotas da API: `GET /api/status`, `POST /api/buscar`, `GET /api/pdf/{arquivo}`. O contrato está em `docs/superpowers/plans/2026-11-10-frontend-pwa.md`.
+
 ## Testes
 
 ```bash
@@ -234,7 +251,12 @@ JurisMatch/
 │   ├── config.py                                # parâmetros de chunking, modelo e ranking
 │   ├── pipeline_chunks.py                       # etapa 3: limpeza e chunking
 │   ├── indexar.py                               # etapa 4: embeddings, FAISS e BM25
-│   └── busca.py                                 # etapa 5: busca híbrida
+│   ├── busca.py                                 # etapa 5: busca híbrida
+│   └── api.py                                   # API FastAPI que serve a busca, os PDFs e o PWA
+├── app/
+│   ├── web/                                     # PWA: HTML, CSS e JS puro, manifest e service worker
+│   └── molde.html                               # ferramenta: o app dentro de um iPhone 17 Pro Max
+├── scripts/gerar_icones_pwa.py                  # gera os ícones PNG do PWA
 ├── dados/                                       # chunks, relatório e índice gerados
 ├── docs/pesquisa/                               # estudo que embasa as escolhas de stack
 └── metricas/                                    # avaliação e benchmark
