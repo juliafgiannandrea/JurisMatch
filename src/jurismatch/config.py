@@ -17,6 +17,10 @@ ARQ_RELATORIO_CHUNKS = DIR_CHUNKS / "relatorio_chunks.csv"
 DIR_METADATA = RAIZ / "metadata"
 ARQ_DOCUMENTOS = DIR_METADATA / "documentos.csv"
 
+# Link oficial do processo no portal do STF (incidente vem do log de download dos PDFs)
+ARQ_INCIDENTES = DIR_PDF / "log_download.csv"
+URL_PROCESSO_STF = "https://portal.stf.jus.br/processos/detalhe.asp?incidente={incidente}"
+
 # Índices de busca: FAISS + BM25 + cópia dos chunks + manifesto (04_index)
 DIR_INDICE = RAIZ / "vectorstore"
 

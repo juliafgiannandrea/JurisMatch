@@ -1,7 +1,7 @@
 // Service worker do JurisMatch.
 // App shell em pré-cache (versão no nome do cache). /api/* vai sempre para a rede: busca e PDF nunca são cacheados.
 
-const VERSAO = "v2";
+const VERSAO = "v3";
 const CACHE = `jurismatch-shell-${VERSAO}`;
 const SHELL = [
   "/",

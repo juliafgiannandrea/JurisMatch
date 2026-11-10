@@ -41,11 +41,26 @@ def dir_web(tmp_path):
 
 
 @pytest.fixture
-def cliente(dir_indice, dir_pdf, dir_web, embedder_falso):
+def arq_incidentes(tmp_path):
+    arq = tmp_path / "log_download.csv"
+    linhas = [
+        "processo;incidente;status;arquivos;obs",
+        "ADI 1;111222;ja_existia;;",
+        "ADI 2;;falhou;;sem incidente",
+        "ADO 9;abc;falhou;;nao numerico",
+    ]
+    arq.write_text(chr(10).join(linhas) + chr(10), encoding="utf-8-sig")
+    return arq
+
+
+@pytest.fixture
+def cliente(dir_indice, dir_pdf, dir_web, embedder_falso, arq_incidentes):
     def fabrica():
         return Buscador(dir_indice, embedder=embedder_falso, reranker=RerankerFalso())
 
-    return TestClient(criar_app(fabrica, dir_indice=dir_indice, dir_pdf=dir_pdf, dir_web=dir_web))
+    return TestClient(
+        criar_app(fabrica, dir_indice=dir_indice, dir_pdf=dir_pdf, dir_web=dir_web, arq_incidentes=arq_incidentes)
+    )
 
 
 @pytest.fixture
@@ -99,6 +114,26 @@ def test_buscar_ok(cliente):
     assert primeiro["pdf_disponivel"] is True
     assert primeiro["url_pdf"] == "/api/pdf/ADI_1_peticao_inicial.pdf#page=1"
     assert isinstance(primeiro["similaridade"], float)
+
+
+def test_buscar_url_stf(cliente):
+    r = cliente.post("/api/buscar", json={"consulta": "imposto sobre liberdade de imprensa", "k": 10, "rerank": False})
+    por_doc = {x["doc_id"]: x for x in r.json()["resultados"]}
+    assert por_doc["ADI_1"]["url_stf"] == "https://portal.stf.jus.br/processos/detalhe.asp?incidente=111222"
+    assert por_doc["ADI_2"]["url_stf"] is None  # linha sem incidente
+    assert por_doc["ADC_3"]["url_stf"] is None  # fora do csv
+
+
+def test_buscar_url_stf_nula_com_csv_ausente(dir_indice, dir_pdf, dir_web, embedder_falso, tmp_path):
+    def fabrica():
+        return Buscador(dir_indice, embedder=embedder_falso)
+
+    c = TestClient(
+        criar_app(fabrica, dir_indice=dir_indice, dir_pdf=dir_pdf, dir_web=dir_web, arq_incidentes=tmp_path / "nao.csv")
+    )
+    r = c.post("/api/buscar", json={"consulta": "liberdade de imprensa", "rerank": False})
+    assert r.status_code == 200
+    assert all(x["url_stf"] is None for x in r.json()["resultados"])
 
 
 def test_buscar_pdf_indisponivel(cliente):

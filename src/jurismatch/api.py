@@ -59,11 +59,26 @@ def _json_seguro(valor):
     return valor
 
 
+def carregar_incidentes(arquivo: Path) -> dict[str, str]:
+    """doc_id (ex.: ADC_27) -> incidente numérico do STF, lido de log_download.csv. Ausente = vazio."""
+    try:
+        tabela = pd.read_csv(arquivo, sep=";", encoding="utf-8-sig", dtype=str)
+        pares = zip(tabela["processo"], tabela["incidente"])
+    except (OSError, KeyError, ValueError, pd.errors.ParserError):
+        return {}
+    return {
+        processo.strip().replace(" ", "_"): incidente.strip()
+        for processo, incidente in pares
+        if isinstance(processo, str) and isinstance(incidente, str) and incidente.strip().isdigit()
+    }
+
+
 def criar_app(
     fabrica_buscador: Callable[[], Buscador] | None = None,
     dir_indice: Path = config.DIR_INDICE,
     dir_pdf: Path = config.DIR_PDF,
     dir_web: Path = config.DIR_WEB,
+    arq_incidentes: Path = config.ARQ_INCIDENTES,
 ) -> FastAPI:
     if fabrica_buscador is None:
         fabrica_buscador = lambda: Buscador(dir_indice)  # noqa: E731
@@ -73,6 +88,7 @@ def criar_app(
     trava_carga = threading.Lock()
     trava_busca = threading.Lock()
     dir_pdf_real = Path(dir_pdf).resolve()
+    incidentes = carregar_incidentes(Path(arq_incidentes))
 
     def indice_pronto() -> bool:
         return (Path(dir_indice) / "chunks.parquet").exists() and (Path(dir_indice) / "faiss.index").exists()
@@ -128,6 +144,8 @@ def criar_app(
             disponivel = pdf_existe(item["arquivo_pdf"])
             item["pdf_disponivel"] = disponivel
             item["url_pdf"] = f"/api/pdf/{item['arquivo_pdf']}#page={item['pagina']}" if disponivel else None
+            incidente = incidentes.get(item["doc_id"])
+            item["url_stf"] = config.URL_PROCESSO_STF.format(incidente=incidente) if incidente else None
             resultados.append(item)
         return {
             "consulta": corpo.consulta,

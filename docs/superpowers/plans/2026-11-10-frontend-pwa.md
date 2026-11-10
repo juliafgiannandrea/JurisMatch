@@ -45,9 +45,14 @@ Resposta 200:
 {"consulta": "...", "rerank": true, "limiar": 0.8, "tempo_ms": 812,
  "resultados": [{"posicao": 1, "doc_id": "ADI_1", "classe": "ADI", "numero": 1, "score": 0.93,
    "similaridade": 0.81, "chunk_id": "...", "secao": "...", "trecho": "...", "arquivo_pdf": "ADI_1_peticao_inicial.pdf",
-   "pagina": 3, "metodo_extracao": "nativo", "pdf_disponivel": true, "url_pdf": "/api/pdf/ADI_1_peticao_inicial.pdf#page=3"}]}
+   "pagina": 3, "metodo_extracao": "nativo", "pdf_disponivel": true, "url_pdf": "/api/pdf/ADI_1_peticao_inicial.pdf#page=3",
+   "url_stf": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1234567"}]}
 ```
-- Mesmos campos do `Buscador._resultados`, SEM `link_pdf` (caminho local), COM `pdf_disponivel` e `url_pdf`.
+- Mesmos campos do `Buscador._resultados`, SEM `link_pdf` (caminho local), COM `pdf_disponivel`, `url_pdf` e `url_stf`.
+- `url_stf`: link oficial do processo no portal do STF (`config.URL_PROCESSO_STF`), ou null quando o doc_id não
+  tem incidente numérico em `data/01_raw/pdf/log_download.csv` (colunas `processo;incidente;...`, processo com
+  espaço trocado por `_` = doc_id; arquivo ausente = mapa vazio). Mapa carregado uma vez em `criar_app`
+  (parâmetro `arq_incidentes`). O frontend mostra o botão "Ver no STF" (nova aba) só quando não for null.
 - `secao` pode ser null. Converter NaN/numpy para tipos JSON.
 - Índice ausente: 503 `{"detail": "Índice não encontrado. Rode python -m jurismatch.indexar."}`.
 - Buscador carregado de forma preguiçosa na 1ª busca, com lock (um carregamento só); `buscar` também

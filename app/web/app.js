@@ -119,6 +119,7 @@ function fecharFolha({ devolverFoco = true } = {}) {
 
 function mostrar(...nos) {
   ui.painel.replaceChildren(...nos.filter((n) => n instanceof Node)); // ignora false/0 de "cond && el(...)"
+  ui.painel.dataset.tela = "";
 }
 
 function telaInicio() {
@@ -207,6 +208,7 @@ function telaOfflineSemDados() {
     el("h2", { class: "estado__titulo" }, "Sem conexão"),
     el("p", { class: "estado__texto" }, "A busca precisa do servidor. Assim que a conexão voltar, é só buscar de novo."),
   ));
+  ui.painel.dataset.tela = "offline";
 }
 
 function telaCarregando(opcoes) {
@@ -358,6 +360,14 @@ function cartao(r, comRerank, termos) {
     setTimeout(() => copiar.replaceChildren(icone("copiar"), "Copiar referência"), 2000);
   });
   acoes.append(copiar);
+
+  const urlStf = api.urlStfSegura(r.url_stf); // ausente em buscas salvas antes do campo existir
+  if (urlStf) {
+    acoes.append(el("a", {
+      class: "botao botao--fantasma", href: urlStf, target: "_blank", rel: "noopener noreferrer",
+      "aria-label": `Ver ${referencia} no site do STF`,
+    }, icone("externo"), "Ver no STF"));
+  }
   return no;
 }
 
@@ -412,20 +422,17 @@ async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) 
   cancelarBusca();
   encerrarBusca();
 
-  const urlAtual = new URL(location.href);
-  const qAtual = urlAtual.searchParams.get("q") || "";
-  if (salvarHistorico && qAtual !== consulta) {
-    const url = new URL(location.href);
-    url.searchParams.set("q", consulta);
-    history.pushState(null, "", url);
-  } else if (!salvarHistorico || qAtual === consulta) {
-    const url = new URL(location.href);
-    url.searchParams.set("q", consulta);
-    history.replaceState(null, "", url);
-  }
+  // Offline antes de mexer no histórico: senão fica uma entrada ?q= que não corresponde ao que está na tela.
+  if (!navigator.onLine) { mostrarUltimaOuOffline(); return; }
+
+  // Consulta nova vira entrada nova (Voltar funciona); a mesma consulta, ou a vinda do popstate/?q=, só substitui.
+  const url = new URL(location.href);
+  const qAtual = url.searchParams.get("q") || "";
+  url.searchParams.set("q", consulta);
+  if (salvarHistorico && qAtual !== consulta) history.pushState(null, "", url);
+  else history.replaceState(history.state, "", url);
 
   if (estado.status && !estado.status.indice_pronto) { telaIndiceAusente(); return; }
-  if (!navigator.onLine) { mostrarUltimaOuOffline(); return; }
 
   const controlador = new AbortController();
   const inicio = performance.now();
@@ -447,6 +454,8 @@ async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) 
     if (estado.status) estado.status.buscador_carregado = true;
     store.registrarBusca(consulta, o);
     store.salvarUltima(resposta, o);
+    // Guarda a resposta na própria entrada do histórico: Voltar/Avançar redesenha sem buscar de novo.
+    try { history.replaceState({ resposta, opcoes: o }, "", location.href); } catch { /* state grande demais: popstate busca */ }
     telaResultados(resposta);
   } catch (e) {
     if (!vigente()) return;
@@ -457,7 +466,12 @@ async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) 
       if (estado.status) estado.status.indice_pronto = false;
       telaIndiceAusente();
     } else if (e.tipo === "rede") {
-      navigator.onLine ? telaErro("Servidor fora do ar", "Não deu para falar com o servidor do JurisMatch. Confira se ele está rodando (python -m jurismatch.api) e tente de novo.") : mostrarUltimaOuOffline();
+      if (navigator.onLine) {
+        telaErro("Servidor fora do ar", "Não deu para falar com o servidor do JurisMatch. Confira se ele está rodando (python -m jurismatch.api) e tente de novo.");
+        ui.painel.dataset.tela = "rede";
+      } else {
+        mostrarUltimaOuOffline();
+      }
     } else if (e.tipo === "validacao") {
       telaErro("Consulta inválida", e.message, { tentar: false });
     } else {
@@ -588,24 +602,29 @@ function ligarEventos() {
   window.addEventListener("online", () => {
     atualizarRede();
     carregarStatus();
-    if (!document.querySelector(".lista") && !document.querySelector(".carregando")) {
-      const q = ui.consulta.value.trim();
+    // Só refaz sozinho se a tela é "sem conexão" ou "servidor fora"; não dispara busca do que a pessoa só digitou.
+    const tela = ui.painel.dataset.tela;
+    if (tela === "offline" || tela === "rede") {
+      const q = new URLSearchParams(location.search).get("q")?.trim() || "";
       if (q) buscar(q, null, { salvarHistorico: false });
       else telaInicio();
     }
   });
   window.addEventListener("offline", atualizarRede);
 
-  window.addEventListener("popstate", () => {
+  window.addEventListener("popstate", (ev) => {
     const q = new URLSearchParams(location.search).get("q")?.trim() || "";
     ui.consulta.value = q;
-    if (q) {
-      buscar(q, null, { salvarHistorico: false });
-    } else {
-      cancelarBusca();
-      encerrarBusca();
-      telaInicio();
+    cancelarBusca();
+    encerrarBusca();
+    if (!q) { telaInicio(); return; }
+    const salvo = ev.state;
+    if (salvo?.resposta && salvo.resposta.consulta === q) {
+      if (salvo.opcoes) { aplicarOpcoesNoFormulario(normalizarOpcoes(salvo.opcoes)); aoMudarOpcao(); }
+      telaResultados(salvo.resposta);
+      return;
     }
+    buscar(q, null, { salvarHistorico: false }); // entrada sem resposta guardada (busca cancelada ou com erro)
   });
 }
 

@@ -399,8 +399,13 @@ mark { background: var(--grifo); color: var(--grifo-tinta); padding: 0 1px; bord
 @media (max-width: 420px) {
   .busca__enviar { padding: 0 14px; }
   .cartao__titulo { font-size: 1.3rem; }
+}
+
+/* Celular e tablet estreito: ações sem recuo; a principal (PDF) ocupa a linha e as secundárias dividem a de baixo */
+@media (max-width: 600px) {
   .cartao__meta, .cartao__trecho, .cartao__expandir, .cartao__acoes { margin-left: 0; }
-  .cartao__acoes .botao { flex: 1 1 auto; }
+  .cartao__acoes > .botao--primario, .cartao__acoes > .sem-pdf { flex: 1 1 100%; }
+  .cartao__acoes > .botao--fantasma { flex: 1 1 0; min-width: max-content; }
 }
 
 /* Desktop: painel lateral fixo */

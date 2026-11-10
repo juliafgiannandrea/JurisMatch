@@ -46,6 +46,17 @@ export async function buscar(corpo, { signal } = {}) {
   return resp.json();
 }
 
+/** Página oficial do processo: só https no portal do STF (resposta antiga sem o campo, null ou outro domínio = sem link). */
+export function urlStfSegura(url) {
+  if (typeof url !== "string" || !url.startsWith("https://portal.stf.jus.br/")) return null;
+  try {
+    const u = new URL(url);
+    return u.protocol === "https:" && u.hostname === "portal.stf.jus.br" ? u.href : null;
+  } catch {
+    return null;
+  }
+}
+
 /** Só aceita link de PDF servido pela própria API (evita javascript: ou domínio externo vindo do JSON). */
 export function urlPdfSegura(url) {
   if (typeof url !== "string") return null;
