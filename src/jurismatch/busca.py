@@ -6,6 +6,7 @@ Uso: python scripts/05_search.py "consulta" [--k 5] [--modo hibrido|denso|lexica
 from __future__ import annotations
 
 import argparse
+import time
 from pathlib import Path
 
 import faiss
@@ -40,6 +41,8 @@ class Buscador:
         self.lexical = IndiceLexical.carregar(dir_indice / "bm25")
         self._embedder = embedder
         self._reranker = reranker
+        # Tempos da última chamada a buscar(), em segundos: recuperacao, reranking (0 sem reranker) e total
+        self.ultimos_tempos: dict[str, float] = {}
         if self.faiss.ntotal != len(self.chunks):
             raise ValueError("Índice FAISS e chunks.parquet estão desalinhados; rode jurismatch.indexar")
 
@@ -79,6 +82,7 @@ class Buscador:
     ) -> list[dict]:
         if modo not in MODOS:
             raise ValueError(f"modo deve ser um de {MODOS}")
+        inicio = time.perf_counter()
         tabela = self.chunks[["doc_id"]].copy()
         colunas = []
         if modo in ("hibrido", "denso"):
@@ -95,7 +99,10 @@ class Buscador:
         # RRF sobre os rankings de chunks: escolhe o melhor trecho e os candidatos do reranker
         score_chunk = rrf([posicoes(tabela[c]) for c in colunas])
         if rerank:
-            return self._reranquear(consulta, score_chunk, similaridade, k, limiar, candidatos)
+            fim_recuperacao = time.perf_counter()
+            resultados = self._reranquear(consulta, score_chunk, similaridade, k, limiar, candidatos)
+            self._registrar_tempos(inicio, fim_recuperacao)
+            return resultados
 
         # 1) MaxP: a petição vale o seu melhor chunk, em cada sistema
         por_doc = tabela.groupby("doc_id")[colunas].max()
@@ -104,7 +111,17 @@ class Buscador:
         score_doc = score_doc[score_doc > 0].sort_values(ascending=False, kind="stable").head(k)
         # 3) Melhor trecho de cada petição
         melhores = [(score_chunk[tabela["doc_id"] == doc_id].idxmax(), score) for doc_id, score in score_doc.items()]
-        return self._resultados(melhores, similaridade)
+        resultados = self._resultados(melhores, similaridade)
+        self._registrar_tempos(inicio, time.perf_counter(), rerank=False)
+        return resultados
+
+    def _registrar_tempos(self, inicio: float, fim_recuperacao: float, rerank: bool = True) -> None:
+        fim = time.perf_counter() if rerank else fim_recuperacao
+        self.ultimos_tempos = {
+            "recuperacao": fim_recuperacao - inicio,
+            "reranking": fim - fim_recuperacao,
+            "total": fim - inicio,
+        }
 
     def _reranquear(
         self,
@@ -151,6 +168,14 @@ class Buscador:
         return resultados
 
 
+def formatar_tempos(tempos: dict[str, float]) -> str:
+    partes = [f"Recuperação {tempos['recuperacao']:.2f} s"]
+    if tempos["reranking"] > 0:
+        partes.append(f"Reranking {tempos['reranking']:.2f} s")
+    partes.append(f"Total {tempos['total']:.2f} s")
+    return "Tempo: " + " · ".join(partes)
+
+
 def main() -> None:
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("consulta")
@@ -163,9 +188,11 @@ def main() -> None:
     args = parser.parse_args()
 
     rerank = not args.sem_rerank
-    resultados = Buscador(args.dir_indice).buscar(
+    buscador = Buscador(args.dir_indice)
+    resultados = buscador.buscar(
         args.consulta, k=args.k, modo=args.modo, classe=args.classe, rerank=rerank, limiar=args.limiar
     )
+    print(formatar_tempos(buscador.ultimos_tempos))
     if not resultados:
         if rerank:
             print(

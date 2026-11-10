@@ -14,7 +14,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1] / "src"))  # funciona
 import streamlit as st
 
 from jurismatch import config
-from jurismatch.busca import Buscador
+from jurismatch.busca import Buscador, formatar_tempos
 
 st.set_page_config(page_title="JurisMatch", page_icon="⚖️", layout="wide")
 
@@ -29,7 +29,7 @@ st.caption("Busca semântica em petições iniciais de ADI e ADC do STF")
 
 with st.sidebar:
     st.header("Opções")
-    k = st.slider("Petições no resultado (k)", 1, 20, 5)
+    k = st.slider("Petições no resultado (k)", 1, 100, 5)
     modo = st.selectbox("Modo", ["hibrido", "denso", "lexical"], format_func=lambda m: {
         "hibrido": "Híbrido (semântico + palavras)", "denso": "Só semântico", "lexical": "Só palavras (BM25)"
     }[m])
@@ -48,6 +48,7 @@ if st.button("Buscar", type="primary", disabled=not consulta.strip()):
         resultados = buscador.buscar(
             consulta, k=k, modo=modo, classe=None if classe == "Todas" else classe, rerank=rerank, limiar=limiar
         )
+    st.caption(formatar_tempos(buscador.ultimos_tempos))
 
     if not resultados:
         if rerank:
