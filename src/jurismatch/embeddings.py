@@ -10,21 +10,25 @@ class Embedder:
     def __init__(
         self,
         nome_modelo: str = config.MODELO_EMBEDDING,
-        prefixo_consulta: str = config.PREFIXO_CONSULTA,
-        prefixo_passagem: str = config.PREFIXO_PASSAGEM,
+        prefixo_consulta: str | None = None,
+        prefixo_passagem: str | None = None,
+        device: str | None = None,
     ):
+        import torch
         from sentence_transformers import SentenceTransformer
 
+        padrao_consulta, padrao_passagem = config.prefixos(nome_modelo)
         self.nome_modelo = nome_modelo
-        self.prefixo_consulta = prefixo_consulta
-        self.prefixo_passagem = prefixo_passagem
-        self.modelo = SentenceTransformer(nome_modelo, device="cpu")
-        self.modelo.max_seq_length = 512
+        self.prefixo_consulta = padrao_consulta if prefixo_consulta is None else prefixo_consulta
+        self.prefixo_passagem = padrao_passagem if prefixo_passagem is None else prefixo_passagem
+        self.device = device or ("cuda" if torch.cuda.is_available() else "cpu")
+        self.modelo = SentenceTransformer(nome_modelo, device=self.device)
+        self.modelo.max_seq_length = 512  # os chunks têm até TETO_TOKENS (480); contexto maior só deixaria mais lento
 
     def _codificar(self, textos: list[str], mostrar_progresso: bool) -> np.ndarray:
         vetores = self.modelo.encode(
             textos,
-            batch_size=16,
+            batch_size=64 if self.device == "cuda" else 16,
             normalize_embeddings=True,  # com vetores unitários, produto interno = cosseno
             show_progress_bar=mostrar_progresso,
             convert_to_numpy=True,

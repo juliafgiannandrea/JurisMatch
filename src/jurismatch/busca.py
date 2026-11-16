@@ -6,6 +6,7 @@ Uso: python scripts/05_search.py "consulta" [--k 5] [--modo hibrido|denso|lexica
 from __future__ import annotations
 
 import argparse
+import json
 import time
 from pathlib import Path
 
@@ -34,8 +35,17 @@ def rrf(rankings: list[pd.Series], k: int = config.RRF_K) -> pd.Series:
     return total
 
 
+def modelo_do_indice(dir_indice: Path) -> str:
+    """Modelo com que o índice foi gerado: a consulta tem de ser codificada pelo mesmo modelo."""
+    manifesto = dir_indice / "manifesto.json"
+    if manifesto.exists():
+        return json.loads(manifesto.read_text())["modelo"]
+    return config.MODELO_EMBEDDING
+
+
 class Buscador:
-    def __init__(self, dir_indice: Path = config.DIR_INDICE, embedder=None, reranker=None):
+    def __init__(self, dir_indice: Path = config.DIR_INDICE, embedder=None, reranker=None, modelo: str | None = None):
+        self.modelo = modelo or modelo_do_indice(dir_indice)
         self.chunks = pd.read_parquet(dir_indice / "chunks.parquet")
         self.faiss = faiss.read_index(str(dir_indice / "faiss.index"))
         self.lexical = IndiceLexical.carregar(dir_indice / "bm25")
@@ -51,7 +61,7 @@ class Buscador:
         if self._embedder is None:
             from jurismatch.embeddings import Embedder
 
-            self._embedder = Embedder()
+            self._embedder = Embedder(self.modelo)
         return self._embedder
 
     @property

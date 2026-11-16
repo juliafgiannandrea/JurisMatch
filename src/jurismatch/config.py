@@ -20,10 +20,25 @@ ARQ_DOCUMENTOS = DIR_METADATA / "documentos.csv"
 # Índices de busca: FAISS + BM25 + cópia dos chunks + manifesto (04_index)
 DIR_INDICE = RAIZ / "vectorstore"
 
-# Embeddings: multilingual-e5 exige os prefixos abaixo (ver card do modelo)
+# Embeddings. A busca usa o modelo gravado no manifesto do índice, não este padrão.
 MODELO_EMBEDDING = "intfloat/multilingual-e5-base"
-PREFIXO_CONSULTA = "query: "
-PREFIXO_PASSAGEM = "passage: "
+# Alternativa testada: "Qwen/Qwen3-Embedding-0.6B" (~2,4 GB de RAM, mais lento em CPU)
+
+# Cada modelo espera um texto antes da consulta e da passagem (ver o card de cada um no Hugging Face).
+INSTRUCAO_BUSCA = "Dada uma consulta, encontre trechos de petições iniciais do STF relevantes para ela"
+PREFIXOS_POR_MODELO = {  # trecho do nome do modelo -> (prefixo da consulta, prefixo da passagem)
+    "multilingual-e5-large-instruct": (f"Instruct: {INSTRUCAO_BUSCA}\nQuery: ", ""),
+    "multilingual-e5": ("query: ", "passage: "),
+    "Qwen3-Embedding": (f"Instruct: {INSTRUCAO_BUSCA}\nQuery:", ""),
+}
+
+
+def prefixos(nome_modelo: str) -> tuple[str, str]:
+    """(prefixo da consulta, prefixo da passagem); modelos fora da tabela (ex.: bge-m3) não usam prefixo."""
+    for trecho, par in PREFIXOS_POR_MODELO.items():
+        if trecho in nome_modelo:
+            return par
+    return ("", "")
 
 # Chunking: alvo de tokens por chunk e teto rígido (o modelo trunca em 512)
 ALVO_TOKENS = 350
