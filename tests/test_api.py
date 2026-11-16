@@ -2,6 +2,7 @@ import numpy as np
 import pytest
 from fastapi.testclient import TestClient
 
+from jurismatch import config
 from jurismatch.api import criar_app
 from jurismatch.busca import Buscador
 from jurismatch.indexar import construir_indice
@@ -83,13 +84,17 @@ def test_status_com_indice(cliente):
     assert corpo["modos"] == ["hibrido", "denso", "lexical"]
     assert corpo["classes"] == ["ADI", "ADC", "ADO", "ADPF"]
     assert corpo["limiar_padrao"] == 0.8
-    assert corpo["modelo_embedding"] and corpo["modelo_reranker"]
+    assert corpo["modelo_embedding"] == "falso-64d"
+    assert corpo["modelo_reranker"]
+    assert corpo["k_max"] == 100
 
 
 def test_status_sem_indice(cliente_sem_indice):
     corpo = cliente_sem_indice.get("/api/status").json()
     assert corpo["indice_pronto"] is False
     assert corpo["peticoes"] is None and corpo["trechos"] is None
+    assert corpo["modelo_embedding"] == config.MODELO_EMBEDDING
+    assert corpo["k_max"] == 100
 
 
 def test_status_nao_carrega_buscador_e_busca_marca_carregado(cliente):
@@ -105,8 +110,14 @@ def test_buscar_ok(cliente):
     assert r.status_code == 200
     corpo = r.json()
     assert corpo["consulta"] == "liberdade de imprensa e censura"
+    assert corpo["modo"] == "hibrido"
     assert corpo["rerank"] is False
     assert isinstance(corpo["tempo_ms"], int)
+    assert isinstance(corpo["tempos"], dict)
+    assert "recuperacao" in corpo["tempos"]
+    assert "reranking" in corpo["tempos"]
+    assert "total" in corpo["tempos"]
+    assert isinstance(corpo["tempos"]["total"], float)
     primeiro = corpo["resultados"][0]
     assert primeiro["doc_id"] == "ADI_1"
     assert primeiro["posicao"] == 1
@@ -114,6 +125,23 @@ def test_buscar_ok(cliente):
     assert primeiro["pdf_disponivel"] is True
     assert primeiro["url_pdf"] == "/api/pdf/ADI_1_peticao_inicial.pdf#page=1"
     assert isinstance(primeiro["similaridade"], float)
+
+
+def test_buscar_modo_denso_e_tempos(cliente):
+    r = cliente.post(
+        "/api/buscar",
+        json={"consulta": "liberdade de imprensa", "modo": "denso", "rerank": True},
+    )
+    assert r.status_code == 200
+    corpo = r.json()
+    assert corpo["modo"] == "denso"
+    assert corpo["tempos"]["recuperacao"] >= 0
+    assert corpo["tempos"]["total"] >= corpo["tempos"]["recuperacao"]
+
+
+def test_buscar_k_100_valido(cliente):
+    r = cliente.post("/api/buscar", json={"consulta": "imprensa", "k": 100, "rerank": False})
+    assert r.status_code == 200
 
 
 def test_buscar_url_stf(cliente):
@@ -175,7 +203,7 @@ def test_buscar_com_filtro_de_classe(cliente):
         {"consulta": "   "},
         {"consulta": "x" * 501},
         {"consulta": "ok", "k": 0},
-        {"consulta": "ok", "k": 21},
+        {"consulta": "ok", "k": 101},
         {"consulta": "ok", "modo": "magico"},
         {"consulta": "ok", "classe": "RE"},
         {"consulta": "ok", "limiar": 1.5},
@@ -253,6 +281,9 @@ def test_app_sobe_sem_pasta_web(dir_indice, dir_pdf, tmp_path):
 
 def test_buscar_lida_com_arquivo_pdf_nulo(dir_indice, dir_pdf, dir_web, embedder_falso):
     class BuscadorPdfNulo:
+        def __init__(self):
+            self.ultimos_tempos = {"recuperacao": 0.01, "reranking": 0.0, "total": 0.01}
+
         def buscar(self, *args, **kwargs):
             return [{
                 "posicao": 1,

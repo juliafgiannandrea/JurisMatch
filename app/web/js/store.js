@@ -30,14 +30,15 @@ const MODOS = ["hibrido", "denso", "lexical"];
 const CLASSES = ["ADI", "ADC", "ADO", "ADPF"];
 
 /** Valida e completa as opções (o localStorage pode ter lixo de versões antigas). */
-export function normalizarOpcoes(o = {}) {
-  const k = Number.parseInt(o.k, 10);
-  const limiar = Number(o.limiar);
+export function normalizarOpcoes(o) {
+  const obj = o && typeof o === "object" ? o : {};
+  const k = Number.parseInt(obj.k, 10);
+  const limiar = Number(obj.limiar);
   return {
-    k: Number.isFinite(k) ? Math.min(20, Math.max(1, k)) : OPCOES_PADRAO.k,
-    modo: MODOS.includes(o.modo) ? o.modo : OPCOES_PADRAO.modo,
-    classe: CLASSES.includes(o.classe) ? o.classe : null,
-    rerank: typeof o.rerank === "boolean" ? o.rerank : OPCOES_PADRAO.rerank,
+    k: Number.isFinite(k) ? Math.min(100, Math.max(1, k)) : OPCOES_PADRAO.k,
+    modo: MODOS.includes(obj.modo) ? obj.modo : OPCOES_PADRAO.modo,
+    classe: CLASSES.includes(obj.classe) ? obj.classe : null,
+    rerank: typeof obj.rerank === "boolean" ? obj.rerank : OPCOES_PADRAO.rerank,
     limiar: Number.isFinite(limiar) ? Math.min(1, Math.max(0.5, Math.round(limiar * 20) / 20)) : OPCOES_PADRAO.limiar,
   };
 }

@@ -75,18 +75,9 @@
           <label for="opt-k">Petições no resultado</label>
           <output id="saida-k" for="opt-k" class="valor">5</output>
         </div>
-        <input type="range" id="opt-k" min="1" max="20" step="1" value="5">
+        <input type="range" id="opt-k" min="1" max="100" step="1" value="5" aria-describedby="aviso-k">
+        <p class="ajuda" id="aviso-k" hidden>Valores altos deixam a lista mais longa e podem demorar mais com o reranker.</p>
       </div>
-
-      <fieldset class="campo">
-        <legend>Modo</legend>
-        <div class="segmentos" role="radiogroup">
-          <label class="segmento"><input type="radio" name="modo" value="hibrido" checked><span>Híbrido</span></label>
-          <label class="segmento"><input type="radio" name="modo" value="denso"><span>Só semântico</span></label>
-          <label class="segmento"><input type="radio" name="modo" value="lexical"><span>Só palavras</span></label>
-        </div>
-        <p class="ajuda" id="ajuda-modo">Combina significado e palavras exatas (BM25).</p>
-      </fieldset>
 
       <div class="campo">
         <label for="opt-classe">Classe</label>
@@ -131,6 +122,24 @@
                  placeholder="ex.: cotas raciais" required>
           <button type="submit" id="btn-buscar" class="botao botao--primario busca__enviar">Buscar</button>
         </div>
+        <fieldset id="seletor-modo" class="seletor-modo">
+          <legend class="so-tela">Modo de busca</legend>
+          <div class="segmentos segmentos--destaque" role="radiogroup" aria-label="Modo de busca" aria-describedby="ajuda-modo">
+            <label class="segmento">
+              <input type="radio" name="modo" value="denso">
+              <span><strong>Semântica</strong></span>
+            </label>
+            <label class="segmento">
+              <input type="radio" name="modo" value="lexical">
+              <span><strong>Palavras</strong></span>
+            </label>
+            <label class="segmento">
+              <input type="radio" name="modo" value="hibrido" checked>
+              <span><strong>Híbrido</strong><em class="tag-rec">recomendado</em></span>
+            </label>
+          </div>
+          <p class="ajuda modo-ajuda" id="ajuda-modo">Combina busca semântica e por palavras (RRF); costuma trazer os melhores trechos.</p>
+        </fieldset>
         <div class="busca__rodape">
           <button type="button" id="btn-opcoes" class="chip-opcoes so-celular" aria-controls="opcoes" aria-expanded="false">
             <svg class="ic" aria-hidden="true"><use href="#i-ajustes"/></svg>

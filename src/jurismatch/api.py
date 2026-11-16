@@ -19,7 +19,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field, field_validator
 
 from jurismatch import config
-from jurismatch.busca import MODOS, Buscador
+from jurismatch.busca import MODOS, Buscador, modelo_do_indice
 
 CLASSES = ("ADI", "ADC", "ADO", "ADPF")
 NOME_PDF = re.compile(r"^[A-Za-z0-9_.-]+\.pdf$")
@@ -28,7 +28,7 @@ MSG_SEM_INDICE = "Índice não encontrado. Rode python -m jurismatch.indexar."
 
 class Consulta(BaseModel):
     consulta: str = Field(min_length=1, max_length=500)
-    k: int = Field(default=5, ge=1, le=20)
+    k: int = Field(default=5, ge=1, le=100)
     modo: Literal["hibrido", "denso", "lexical"] = "hibrido"
     classe: Literal["ADI", "ADC", "ADO", "ADPF"] | None = None
     rerank: bool = True
@@ -115,14 +115,16 @@ def criar_app(
     def status():
         pronto = indice_pronto()
         peticoes, trechos = contagens() if pronto else (None, None)
+        modelo_embedding = modelo_do_indice(Path(dir_indice)) if pronto else config.MODELO_EMBEDDING
         return {
             "indice_pronto": pronto,
             "buscador_carregado": estado["buscador"] is not None,
             "peticoes": peticoes,
             "trechos": trechos,
-            "modelo_embedding": config.MODELO_EMBEDDING,
+            "modelo_embedding": modelo_embedding,
             "modelo_reranker": config.MODELO_RERANKER,
             "limiar_padrao": config.LIMIAR_RERANK,
+            "k_max": 100,
             "modos": list(MODOS),
             "classes": list(CLASSES),
         }
@@ -138,6 +140,7 @@ def criar_app(
                 corpo.consulta, k=corpo.k, modo=corpo.modo, classe=corpo.classe,
                 rerank=corpo.rerank, limiar=corpo.limiar,
             )
+            tempos = dict(getattr(b, "ultimos_tempos", {}))
         resultados = []
         for r in brutos:
             item = {k: _json_seguro(v) for k, v in r.items() if k != "link_pdf"}
@@ -149,9 +152,11 @@ def criar_app(
             resultados.append(item)
         return {
             "consulta": corpo.consulta,
+            "modo": corpo.modo,
             "rerank": corpo.rerank,
             "limiar": corpo.limiar,
             "tempo_ms": int((time.perf_counter() - inicio) * 1000),
+            "tempos": tempos,
             "resultados": resultados,
         }
 

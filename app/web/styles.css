@@ -170,6 +170,22 @@ button, input, select { font: inherit; color: inherit; }
 #consulta:focus { outline: none; border-color: var(--acento); box-shadow: 0 0 0 3px var(--acento-suave); }
 #consulta::-webkit-search-cancel-button { cursor: pointer; }
 .busca__enviar { min-height: 52px; }
+.seletor-modo { border: 0; margin: 12px 0 0; padding: 0; min-width: 0; }
+.segmentos--destaque { background: var(--cartao); }
+.segmentos--destaque .segmento span {
+  display: flex; flex-wrap: wrap; align-items: center; justify-content: center; gap: 3px 6px;
+  padding: 6px 8px; font-size: 0.9rem;
+}
+.segmentos--destaque .segmento strong { font-weight: 600; }
+.tag-rec {
+  font-style: normal; font-size: 0.65rem; font-weight: 600; letter-spacing: 0.04em; text-transform: uppercase;
+  padding: 1px 5px; border-radius: 4px;
+  background: var(--acento-suave); color: var(--acento);
+}
+.segmento input:checked + span .tag-rec {
+  background: transparent; color: inherit; border: 1px solid currentColor; opacity: .85;
+}
+.modo-ajuda { margin-top: 6px; font-size: 0.84rem; }
 .busca__rodape { margin-top: 10px; display: flex; }
 
 .chip-opcoes {
@@ -374,7 +390,15 @@ mark { background: var(--grifo); color: var(--grifo-tinta); padding: 0 1px; bord
 .cartao__acoes .botao .ic { width: 18px; height: 18px; }
 .sem-pdf { color: var(--tinta-3); font-size: 0.85rem; align-self: center; }
 
-.explica-rrf { color: var(--tinta-2); font-size: 0.85rem; margin: 12px 0 0; }
+.explica-rrf, .explica-modo { color: var(--tinta-2); font-size: 0.85rem; margin: 12px 0 0; max-width: var(--largura-texto); }
+.explica-modo + .explica-rrf { margin-top: 6px; }
+.exemplos-subtitulo { color: var(--tinta-2); font-size: 0.84rem; margin: -4px 0 10px; }
+.exemplo__tag {
+  display: inline-block; margin-left: 6px; padding: 1px 6px; border-radius: 4px;
+  font-size: 0.72rem; font-weight: 600; letter-spacing: 0.02em;
+  background: var(--papel-fundo); color: var(--tinta-2); vertical-align: middle;
+}
+.exemplo:hover .exemplo__tag { background: var(--acento-suave); color: var(--acento); }
 
 /* Rodapé */
 .rodape {

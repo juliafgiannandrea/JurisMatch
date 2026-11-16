@@ -27,9 +27,11 @@ src/jurismatch/api.py   FastAPI: /api/* + arquivos estáticos de app/web na raiz
 ```json
 {"indice_pronto": true, "buscador_carregado": false, "peticoes": 97, "trechos": 5123,
  "modelo_embedding": "intfloat/multilingual-e5-base", "modelo_reranker": "BAAI/bge-reranker-v2-m3",
- "limiar_padrao": 0.8, "modos": ["hibrido", "denso", "lexical"], "classes": ["ADI", "ADC", "ADO", "ADPF"]}
+ "limiar_padrao": 0.8, "k_max": 100, "modos": ["hibrido", "denso", "lexical"], "classes": ["ADI", "ADC", "ADO", "ADPF"]}
 ```
 - `indice_pronto`: existe `DIR_INDICE/chunks.parquet` e `faiss.index`. Se falso, `peticoes` e `trechos` = null.
+- `modelo_embedding`: lido do manifesto do índice via `modelo_do_indice(dir_indice)` quando o índice existe; senão `config.MODELO_EMBEDDING`.
+- `k_max`: limite máximo aceito para `k` (100).
 - Não carrega modelo nenhum (resposta instantânea). Contagens vêm do parquet lido uma vez.
 
 ### `POST /api/buscar`
@@ -37,17 +39,20 @@ Corpo:
 ```json
 {"consulta": "liberdade de imprensa", "k": 5, "modo": "hibrido", "classe": null, "rerank": true, "limiar": 0.8}
 ```
-Validação (pydantic): consulta 1..500 chars (strip, vazia = 422); k 1..20; modo em MODOS; classe null ou
+Validação (pydantic): consulta 1..500 chars (strip, vazia = 422); k 1..100; modo em MODOS; classe null ou
 ADI/ADC/ADO/ADPF; limiar 0..1.
 
 Resposta 200:
 ```json
-{"consulta": "...", "rerank": true, "limiar": 0.8, "tempo_ms": 812,
+{"consulta": "...", "modo": "hibrido", "rerank": true, "limiar": 0.8, "tempo_ms": 812,
+ "tempos": {"recuperacao": 0.12, "reranking": 0.34, "total": 0.46},
  "resultados": [{"posicao": 1, "doc_id": "ADI_1", "classe": "ADI", "numero": 1, "score": 0.93,
    "similaridade": 0.81, "chunk_id": "...", "secao": "...", "trecho": "...", "arquivo_pdf": "ADI_1_peticao_inicial.pdf",
    "pagina": 3, "metodo_extracao": "nativo", "pdf_disponivel": true, "url_pdf": "/api/pdf/ADI_1_peticao_inicial.pdf#page=3",
    "url_stf": "https://portal.stf.jus.br/processos/detalhe.asp?incidente=1234567"}]}
 ```
+- `modo`: modo efetivamente usado na busca.
+- `tempos`: tempos em segundos (`recuperacao`, `reranking`, `total`), copiados de `b.ultimos_tempos` dentro do lock `trava_busca`.
 - Mesmos campos do `Buscador._resultados`, SEM `link_pdf` (caminho local), COM `pdf_disponivel`, `url_pdf` e `url_stf`.
 - `url_stf`: link oficial do processo no portal do STF (`config.URL_PROCESSO_STF`), ou null quando o doc_id não
   tem incidente numérico em `data/01_raw/pdf/log_download.csv` (colunas `processo;incidente;...`, processo com
@@ -76,7 +81,7 @@ Arquivos: `index.html`, `styles.css`, `app.js` (pode quebrar em módulos), `sw.j
 
 Funcional (paridade com o Streamlit + o que faz ser PWA):
 1. Campo de consulta grande, Enter busca. Exemplos clicáveis quando vazio.
-2. Opções: k (1 a 20), modo (Híbrido / Só semântico / Só palavras), classe (Todas, ADI, ADC, ADO, ADPF),
+2. Opções: k (1 a 100), modo (Híbrido / Só semântico / Só palavras), classe (Todas, ADI, ADC, ADO, ADPF),
    reranker (liga/desliga, aviso de ~40 s em CPU), relevância mínima (0,5 a 1,0, passo 0,05, só com reranker).
    Desktop: painel lateral. Celular: folha inferior (bottom sheet). Opções lembradas em localStorage.
 3. Resultado em cartões: posição, "ADI 1234", relevância (com reranker: %, barra) ou "Score RRF" (sem

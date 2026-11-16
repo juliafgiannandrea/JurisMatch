@@ -6,26 +6,28 @@ import * as api from "./js/api.js";
 const $ = (sel) => document.querySelector(sel);
 
 const EXEMPLOS = [
-  "liberdade de imprensa e capital estrangeiro",
-  "vaquejada e maus-tratos a animais",
-  "guerra fiscal de ICMS e benefícios sem convênio",
-  "piso salarial nacional do magistério",
-  "foro por prerrogativa de função em constituição estadual",
-  "cotas raciais em universidades públicas",
+  { consulta: "proibição de verba pública para propaganda disfarçada de notícia", modo: "denso", rotulo: "semântica" },
+  { consulta: "demissão de empregado público sem motivação", modo: "denso", rotulo: "semântica" },
+  { consulta: "liberdade de imprensa e capital estrangeiro", modo: "hibrido", rotulo: "híbrido" },
+  { consulta: "vaquejada e maus-tratos a animais", modo: "lexical", rotulo: "palavras" },
+  { consulta: "guerra fiscal de ICMS e benefícios sem convênio", modo: "lexical", rotulo: "palavras" },
+  { consulta: "cotas raciais em universidades públicas", modo: "hibrido", rotulo: "híbrido" },
 ];
 
 const AJUDA_MODO = {
-  hibrido: "Combina significado e palavras exatas (BM25).",
-  denso: "Procura pelo sentido, mesmo que o texto use outras palavras.",
-  lexical: "Só palavras exatas (BM25). Não calcula similaridade.",
+  hibrido: "Combina busca semântica e por palavras (RRF); costuma trazer os melhores trechos.",
+  denso: "Encontra pelo sentido, mesmo quando o texto usa outras palavras.",
+  lexical: "Busca por palavras (BM25): exige os termos da consulta no texto.",
 };
-const NOME_MODO = { hibrido: "híbrido", denso: "só semântico", lexical: "só palavras" };
+const NOME_MODO = { hibrido: "híbrido", denso: "semântica", lexical: "palavras" };
+const ROTULO_MODO = { hibrido: "Modo híbrido", denso: "Busca semântica", lexical: "Busca por palavras" };
 const LIMITE_TRECHO = 650; // caracteres a partir dos quais o trecho começa recolhido
 
 const ui = {
   form: $("#form-busca"),
   consulta: $("#consulta"),
   botaoBuscar: $("#btn-buscar"),
+  seletorModo: $("#seletor-modo"),
   painel: $("#painel"),
   opcoes: $("#opcoes"),
   fundo: $("#fundo-folha"),
@@ -33,6 +35,7 @@ const ui = {
   resumoOpcoes: $("#resumo-opcoes"),
   k: $("#opt-k"),
   saidaK: $("#saida-k"),
+  avisoK: $("#aviso-k"),
   classe: $("#opt-classe"),
   rerank: $("#opt-rerank"),
   limiar: $("#opt-limiar"),
@@ -74,6 +77,7 @@ function aplicarOpcoesNoFormulario(o) {
 
 function atualizarRotulosOpcoes(o) {
   ui.saidaK.textContent = o.k;
+  ui.avisoK.hidden = o.k <= 20;
   ui.saidaLimiar.textContent = formatar.pct(o.limiar);
   ui.limiar.disabled = !o.rerank;
   ui.campoLimiar.classList.toggle("campo--off", !o.rerank);
@@ -156,8 +160,16 @@ function telaInicio() {
 
   blocos.push(el("section", { "aria-labelledby": "t-ex" },
     el("h2", { class: "secao-titulo", id: "t-ex" }, historico.length ? "Ou experimente" : "Experimente"),
+    el("p", { class: "exemplos-subtitulo" }, "Consultas por tema funcionam melhor em Semântica; termos exatos funcionam em Palavras ou Híbrido."),
     el("ul", { class: "exemplos" },
-      EXEMPLOS.map((ex) => el("li", {}, el("button", { type: "button", class: "exemplo", onclick: () => buscar(ex) }, ex)))
+      EXEMPLOS.map((ex) =>
+        el("li", {},
+          el("button", {
+            type: "button", class: "exemplo",
+            onclick: () => buscar(ex.consulta, { ...estado.opcoes, modo: ex.modo }),
+          }, ex.consulta, el("span", { class: "exemplo__tag" }, ex.rotulo))
+        )
+      )
     ),
   ));
 
@@ -233,21 +245,43 @@ function telaCarregando(opcoes) {
 }
 
 function telaVazia(resposta) {
-  const texto = resposta.rerank
-    ? `Nenhum resultado significativo: nenhuma petição atingiu relevância de ${formatar.pct(resposta.limiar)}. Reformule a consulta ou reduza a relevância mínima.`
-    : "Nenhum resultado: nenhum trecho tem relação com a consulta.";
+  const modo = resposta.modo || estado.opcoes.modo;
+  let texto;
   const acoes = [];
-  if (resposta.rerank && resposta.limiar > 0.5) {
-    const novo = Math.max(0.5, Math.round((resposta.limiar - 0.2) * 20) / 20);
+
+  if (modo === "lexical") {
+    texto = "Nenhum trecho contém essas palavras exatas. No modo Palavras (BM25), os termos da consulta precisam aparecer no texto. Tente a busca Semântica para encontrar pelo sentido.";
     acoes.push(el("button", {
-      type: "button", class: "botao botao--fantasma",
-      onclick: () => {
-        aplicarOpcoesNoFormulario({ ...estado.opcoes, limiar: novo });
-        aoMudarOpcao();
-        buscar(resposta.consulta);
-      },
-    }, `Buscar com mínimo de ${formatar.pct(novo)}`));
+      type: "button", class: "botao botao--primario",
+      onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "denso" }),
+    }, "Tentar em Semântica"));
+  } else if (resposta.rerank) {
+    texto = `Nenhum resultado significativo em ${ROTULO_MODO[modo] ?? "busca"}: nenhuma petição atingiu relevância de ${formatar.pct(resposta.limiar)}. Reformule a consulta, reduza a relevância mínima ou tente outro modo.`;
+    if (resposta.limiar > 0.5) {
+      const novo = Math.max(0.5, Math.round((resposta.limiar - 0.2) * 20) / 20);
+      acoes.push(el("button", {
+        type: "button", class: "botao botao--fantasma",
+        onclick: () => buscar(resposta.consulta, { ...estado.opcoes, limiar: novo }),
+      }, `Buscar com mínimo de ${formatar.pct(novo)}`));
+    }
+    if (modo === "denso") {
+      acoes.push(el("button", {
+        type: "button", class: "botao botao--fantasma",
+        onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "lexical" }),
+      }, "Tentar em Palavras"));
+    }
+  } else {
+    texto = modo === "denso"
+      ? "Nenhum trecho atingiu correspondência semântica. Tente reformular a tese ou mudar para Palavras se procura um termo exato."
+      : "Nenhum resultado: nenhum trecho tem relação com a consulta.";
+    if (modo === "denso") {
+      acoes.push(el("button", {
+        type: "button", class: "botao botao--fantasma",
+        onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "lexical" }),
+      }, "Tentar em Palavras"));
+    }
   }
+
   mostrar(el("div", { class: "estado bloco" },
     el("h2", { class: "estado__titulo" }, "Nada encontrado"),
     el("p", { class: "estado__texto" }, texto),
@@ -255,16 +289,33 @@ function telaVazia(resposta) {
   ));
 }
 
+function formatarTempos(tempos, tempoMs) {
+  if (tempos && typeof tempos.recuperacao === "number" && typeof tempos.total === "number") {
+    const partes = [`Recuperação ${formatar.dec(tempos.recuperacao, 2)} s`];
+    if (typeof tempos.reranking === "number" && tempos.reranking > 0) {
+      partes.push(`Reranking ${formatar.dec(tempos.reranking, 2)} s`);
+    }
+    partes.push(`Total ${formatar.dec(tempos.total, 2)} s`);
+    return partes.join(" · ");
+  }
+  return typeof tempoMs === "number" ? tempoLegivel(tempoMs) : null;
+}
+
 function telaResultados(resposta, { offlineDesde = null } = {}) {
   const resultados = Array.isArray(resposta.resultados) ? resposta.resultados : [];
   if (!resultados.length) return telaVazia(resposta);
 
-  const termos = termosDaConsulta(resposta.consulta ?? "");
+  const modo = resposta.modo || estado.opcoes.modo;
+  // No modo denso (semântica), o trecho vem pelo sentido e pode não conter as palavras literais da consulta;
+  // grifar termos literais passaria a impressão errada de que a busca foi por palavra-chave.
+  const mostrarGrifo = modo !== "denso";
+  const termos = mostrarGrifo ? termosDaConsulta(resposta.consulta ?? "") : [];
   const n = resultados.length;
   const meta = offlineDesde
-    ? `salva ${formatar.quando(offlineDesde)}`
+    ? `${ROTULO_MODO[modo] ?? "Busca"} · salva ${formatar.quando(offlineDesde)}`
     : [
-        typeof resposta.tempo_ms === "number" ? tempoLegivel(resposta.tempo_ms) : null,
+        ROTULO_MODO[modo] ?? null,
+        formatarTempos(resposta.tempos, resposta.tempo_ms),
         resposta.rerank ? `reranker, mínimo ${formatar.pct(resposta.limiar)}` : "sem reranker",
       ].filter(Boolean).join(" · ");
 
@@ -274,10 +325,13 @@ function telaResultados(resposta, { offlineDesde = null } = {}) {
     el("span", { class: "resumo__meta" }, meta),
   );
 
-  const lista = el("ol", { class: "lista" }, resultados.map((r) => el("li", {}, cartao(r, resposta.rerank, termos))));
+  const lista = el("ol", { class: "lista" },
+    resultados.map((r) => el("li", {}, cartao(r, { comRerank: resposta.rerank, modo, termos, mostrarGrifo }))));
 
   mostrar(
     cabeca,
+    !mostrarGrifo && el("p", { class: "explica-modo" },
+      "Na busca semântica, os trechos são escolhidos pelo sentido da frase, mesmo sem repetir as palavras da consulta; por isso não há termos grifados."),
     !resposta.rerank && el("p", { class: "explica-rrf" },
       "Sem o reranker, o número de cada petição é o score RRF: ele só ordena a lista, não mede relevância."),
     lista,
@@ -288,7 +342,7 @@ function tempoLegivel(ms) {
   return ms < 1000 ? `${Math.round(ms)} ms` : `${formatar.dec(ms / 1000, 1)} s`;
 }
 
-function cartao(r, comRerank, termos) {
+function cartao(r, { comRerank, modo, termos, mostrarGrifo }) {
   const no = ui.tplCartao.content.firstElementChild.cloneNode(true);
   const referencia = `${r.classe} ${r.numero}`;
 
@@ -320,13 +374,15 @@ function cartao(r, comRerank, termos) {
     `${r.arquivo_pdf}, p. ${r.pagina}`, sep(),
     `extração ${r.metodo_extracao}`,
   );
-  if (r.similaridade !== null && r.similaridade !== undefined) {
-    meta.append(sep(), el("span", { title: "Cosseno entre a consulta e o trecho." }, `similaridade ${formatar.dec(Number(r.similaridade), 2)}`));
+  if (modo !== "lexical" && r.similaridade !== null && r.similaridade !== undefined) {
+    meta.append(sep(), el("span", { title: "Similaridade de cosseno entre a consulta e o trecho." }, `similaridade ${formatar.dec(Number(r.similaridade), 2)}`));
   }
 
   const caixaTrecho = no.querySelector(".cartao__trecho");
   const trecho = String(r.trecho ?? "");
-  no.querySelector(".trecho").append(grifar(trecho, termos));
+  const pTrecho = no.querySelector(".trecho");
+  if (mostrarGrifo) pTrecho.append(grifar(trecho, termos));
+  else pTrecho.textContent = trecho;
   if (trecho.length > LIMITE_TRECHO) {
     const id = `trecho-${r.posicao}`;
     caixaTrecho.id = id;
@@ -589,6 +645,7 @@ function ligarEventos() {
   ui.consulta.addEventListener("input", aoLimparCampo);
   ui.consulta.addEventListener("search", aoLimparCampo);
 
+  ui.seletorModo.addEventListener("change", aoMudarOpcao);
   ui.opcoes.addEventListener("input", aoMudarOpcao);
   ui.opcoes.addEventListener("change", aoMudarOpcao);
 
