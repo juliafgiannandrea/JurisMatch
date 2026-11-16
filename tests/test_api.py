@@ -1,3 +1,5 @@
+import threading
+import time
 import numpy as np
 import pytest
 from fastapi.testclient import TestClient
@@ -307,4 +309,98 @@ def test_buscar_lida_com_arquivo_pdf_nulo(dir_indice, dir_pdf, dir_web, embedder
     res = r.json()["resultados"][0]
     assert res["pdf_disponivel"] is False
     assert res["url_pdf"] is None
+
+
+def test_aquecimento_modelos_chamados(dir_indice, dir_pdf, dir_web):
+    evento_embedder = threading.Event()
+    evento_reranker = threading.Event()
+
+    class EmbedderFake:
+        def codificar_consulta(self, consulta):
+            evento_embedder.set()
+            return np.zeros(64, dtype="float32")
+
+    class RerankerFake:
+        def pontuar(self, consulta, textos):
+            evento_reranker.set()
+            return np.array([0.9], dtype="float32")
+
+    class BuscadorFake:
+        def __init__(self):
+            self.embedder = EmbedderFake()
+            self.reranker = RerankerFake()
+
+    c = TestClient(
+        criar_app(
+            lambda: BuscadorFake(),
+            dir_indice=dir_indice,
+            dir_pdf=dir_pdf,
+            dir_web=dir_web,
+            aquecer=True,
+        )
+    )
+    assert evento_embedder.wait(timeout=2.0)
+    assert evento_reranker.wait(timeout=2.0)
+    assert c.get("/api/status").status_code == 200
+
+
+def test_aquecimento_desligado_por_padrao(dir_indice, dir_pdf, dir_web):
+    chamadas = []
+
+    def fabrica():
+        chamadas.append("buscador")
+        return Buscador(dir_indice)
+
+    c = TestClient(
+        criar_app(
+            fabrica,
+            dir_indice=dir_indice,
+            dir_pdf=dir_pdf,
+            dir_web=dir_web,
+        )
+    )
+    time.sleep(0.05)
+    assert len(chamadas) == 0
+    assert c.get("/api/status").json()["buscador_carregado"] is False
+
+
+def test_aquecimento_com_erro_nao_derruba_status(dir_indice, dir_pdf, dir_web):
+    def fabrica_com_erro():
+        raise RuntimeError("falha simulada no aquecimento")
+
+    c = TestClient(
+        criar_app(
+            fabrica_com_erro,
+            dir_indice=dir_indice,
+            dir_pdf=dir_pdf,
+            dir_web=dir_web,
+            aquecer=True,
+        )
+    )
+    time.sleep(0.05)
+    r = c.get("/api/status")
+    assert r.status_code == 200
+    assert r.json()["indice_pronto"] is True
+
+
+def test_aquecimento_sem_indice_nao_roda(tmp_path, dir_pdf, dir_web):
+    chamadas = []
+
+    def fabrica():
+        chamadas.append(1)
+        raise AssertionError("não deve chamar fábrica sem índice")
+
+    c = TestClient(
+        criar_app(
+            fabrica,
+            dir_indice=tmp_path / "sem_indice",
+            dir_pdf=dir_pdf,
+            dir_web=dir_web,
+            aquecer=True,
+        )
+    )
+    time.sleep(0.05)
+    assert len(chamadas) == 0
+    assert c.get("/api/status").json()["indice_pronto"] is False
+
 

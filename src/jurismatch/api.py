@@ -79,6 +79,7 @@ def criar_app(
     dir_pdf: Path = config.DIR_PDF,
     dir_web: Path = config.DIR_WEB,
     arq_incidentes: Path = config.ARQ_INCIDENTES,
+    aquecer: bool = False,
 ) -> FastAPI:
     if fabrica_buscador is None:
         fabrica_buscador = lambda: Buscador(dir_indice)  # noqa: E731
@@ -171,6 +172,19 @@ def criar_app(
             headers={"Content-Disposition": f'inline; filename="{arquivo}"'},
         )
 
+    def aquecer_modelos() -> None:
+        """Carrega índice, embedder e reranker já na subida, para a 1ª busca não pagar o carregamento."""
+        try:
+            b = buscador()
+            with trava_busca:
+                b.embedder.codificar_consulta("aquecimento")
+                b.reranker.pontuar("aquecimento", ["aquecimento"])
+        except Exception:  # sem índice ou sem modelos: a busca reporta o erro quando for chamada
+            pass
+
+    if aquecer and indice_pronto():
+        threading.Thread(target=aquecer_modelos, daemon=True, name="aquecimento").start()
+
     # Por último: as rotas /api têm precedência. check_dir=False deixa a API subir sem app/web.
     app.mount("/", _Estaticos(directory=dir_web, html=True, check_dir=False), name="web")
     return app
@@ -186,7 +200,7 @@ def main() -> None:
     parser.add_argument("--host", default="127.0.0.1")
     parser.add_argument("--port", type=int, default=8000)
     args = parser.parse_args()
-    uvicorn.run(app, host=args.host, port=args.port)
+    uvicorn.run(criar_app(aquecer=True), host=args.host, port=args.port)
 
 
 if __name__ == "__main__":

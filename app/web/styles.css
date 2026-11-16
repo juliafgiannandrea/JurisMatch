@@ -168,6 +168,7 @@ button, input, select { font: inherit; color: inherit; }
 }
 #consulta::placeholder { color: var(--tinta-3); }
 #consulta:focus { outline: none; border-color: var(--acento); box-shadow: 0 0 0 3px var(--acento-suave); }
+#consulta:disabled { opacity: .65; cursor: not-allowed; background: var(--papel-fundo); }
 #consulta::-webkit-search-cancel-button { cursor: pointer; }
 .busca__enviar { min-height: 52px; }
 .seletor-modo { border: 0; margin: 12px 0 0; padding: 0; min-width: 0; }
@@ -240,6 +241,17 @@ select {
   border: 1px solid var(--linha-forte); border-radius: var(--raio-p);
   -webkit-appearance: none; appearance: none; cursor: pointer;
 }
+select:disabled { opacity: .55; cursor: not-allowed; }
+
+.aviso-travado {
+  margin: 10px 0 0; padding: 8px 10px;
+  border-left: 3px solid var(--aviso); border-radius: 0 var(--raio-p) var(--raio-p) 0;
+  background: var(--aviso-fundo); color: var(--aviso);
+  font-size: 0.8125rem; line-height: 1.4;
+}
+.opcoes.travado .campo { opacity: .65; }
+.chave input:disabled + .chave__trilho { opacity: .55; cursor: not-allowed; }
+.chave:has(input:disabled) { cursor: not-allowed; }
 
 .segmentos {
   display: grid; grid-template-columns: repeat(3, 1fr);
@@ -253,6 +265,8 @@ select {
   font-size: 0.85rem; text-align: center; line-height: 1.2; color: var(--tinta-2);
 }
 .segmento input:checked + span { background: var(--tinta); color: var(--papel); font-weight: 600; }
+.segmento input:disabled { cursor: not-allowed; }
+.segmento input:disabled + span { opacity: .55; cursor: not-allowed; }
 .segmento input:focus-visible + span { outline: 2px solid var(--acento); outline-offset: -4px; }
 
 .chave { display: flex; align-items: center; gap: 14px; cursor: pointer; position: relative; min-height: var(--alvo); font-weight: 400 !important; }
@@ -334,6 +348,8 @@ code {
 }
 @keyframes corre { from { top: -40%; } to { top: 100%; } }
 .carregando__tempo { font-family: var(--serifa); font-variant-numeric: tabular-nums; font-size: 1.1rem; }
+.carregando .estado__acoes .botao { border-color: var(--acento); color: var(--acento); }
+.carregando .estado__acoes .botao:hover { background: var(--acento-suave); }
 
 /* Cabeçalho do resultado */
 .resumo {

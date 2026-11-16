@@ -118,3 +118,6 @@ pip install -e ".[app]"         # app = fastapi + uvicorn
 python -m jurismatch.api        # http://127.0.0.1:8000
 ```
 Precisa do índice em `vectorstore/` (`python -m jurismatch.indexar`). Sem índice o PWA abre e mostra o aviso.
+Na inicialização padrão (`main`), o servidor dispara o aquecimento assíncrono dos modelos via thread daemon (`aquecer=True`).
+Índice, embedder e reranker são pré-carregados na subida para evitar latência na primeira consulta.
+Falhas no aquecimento ou ausência de índice não interrompem a inicialização nem afetam a rota de status.

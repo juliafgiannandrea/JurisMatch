@@ -43,6 +43,8 @@ const ui = {
   campoLimiar: $("#campo-limiar"),
   ajudaModo: $("#ajuda-modo"),
   avisoRede: $("#aviso-rede"),
+  avisoBuscaOpcoes: $("#aviso-busca-opcoes"),
+  avisoBuscaModo: $("#aviso-busca-modo"),
   contagem: $("#contagem"),
   tplCartao: $("#tpl-cartao"),
 };
@@ -92,9 +94,26 @@ function atualizarRotulosOpcoes(o) {
 }
 
 function aoMudarOpcao() {
+  if (estado.busca) return;
   estado.opcoes = lerOpcoesDoFormulario();
   atualizarRotulosOpcoes(estado.opcoes);
   store.salvarOpcoes(estado.opcoes);
+}
+
+function travarControles(travado) {
+  ui.consulta.disabled = travado;
+  ui.botaoBuscar.disabled = travado;
+  ui.seletorModo.disabled = travado;
+  for (const radio of ui.seletorModo.querySelectorAll('input[name="modo"]')) {
+    radio.disabled = travado;
+  }
+  ui.k.disabled = travado;
+  ui.classe.disabled = travado;
+  ui.rerank.disabled = travado;
+  ui.limiar.disabled = travado || !estado.opcoes.rerank;
+  ui.opcoes.classList.toggle("travado", travado);
+  ui.avisoBuscaOpcoes.hidden = !travado;
+  ui.avisoBuscaModo.hidden = !travado;
 }
 
 /* Folha inferior (celular) */
@@ -106,7 +125,7 @@ function abrirFolha() {
   ui.botaoOpcoes.setAttribute("aria-expanded", "true");
   ui.opcoes.setAttribute("role", "dialog");
   ui.opcoes.setAttribute("aria-modal", "true");
-  requestAnimationFrame(() => ui.k.focus({ preventScroll: true }));
+  requestAnimationFrame(() => (estado.busca ? $("#btn-aplicar") : ui.k).focus({ preventScroll: true }));
 }
 
 function fecharFolha({ devolverFoco = true } = {}) {
@@ -464,14 +483,15 @@ function encerrarBusca() {
   clearInterval(estado.busca.timer);
   estado.busca = null;
   ui.painel.setAttribute("aria-busy", "false");
-  ui.botaoBuscar.disabled = false;
+  travarControles(false);
 }
 
 async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) {
+  if (estado.busca) return;
   consulta = consulta.trim().slice(0, 500);
   if (!consulta) { ui.consulta.focus(); return; }
   if (opcoes) { aplicarOpcoesNoFormulario(opcoes); aoMudarOpcao(); }
-  const o = estado.opcoes;
+  const o = { ...estado.opcoes };
 
   ui.consulta.value = consulta;
   fecharFolha({ devolverFoco: false });
@@ -496,7 +516,7 @@ async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) 
   const timer = setInterval(() => { relogio.textContent = `${Math.floor((performance.now() - inicio) / 1000)} s`; }, 250);
   estado.busca = { controlador, timer };
   ui.painel.setAttribute("aria-busy", "true");
-  ui.botaoBuscar.disabled = true;
+  travarControles(true);
 
   const vigente = () => estado.busca?.controlador === controlador; // falso se outra busca tomou o lugar
 
@@ -632,7 +652,7 @@ function prepararInstalacao() {
 /* ------------------------------------------------------------------ início */
 
 function ligarEventos() {
-  ui.form.addEventListener("submit", (ev) => { ev.preventDefault(); buscar(ui.consulta.value); });
+  ui.form.addEventListener("submit", (ev) => { ev.preventDefault(); if (!estado.busca) buscar(ui.consulta.value); });
 
   const aoLimparCampo = () => {
     if (!ui.consulta.value && !estado.busca && (!estado.status || estado.status.indice_pronto)) {
