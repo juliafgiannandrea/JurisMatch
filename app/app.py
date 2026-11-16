@@ -25,7 +25,6 @@ def carregar_buscador() -> Buscador:
 
 
 st.title("JurisMatch")
-st.caption("Busca semântica em petições iniciais de ADI e ADC do STF")
 
 with st.sidebar:
     st.header("Opções")
