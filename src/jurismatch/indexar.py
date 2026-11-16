@@ -29,9 +29,15 @@ def carregar_cache(dir_indice: Path, nome_modelo: str) -> dict[str, np.ndarray]:
     return dict(zip(hashes, vetores))
 
 
-def construir_indice(chunks: pd.DataFrame, embedder, dir_indice: Path) -> None:
-    """Gera embeddings (reaproveitando o cache), índice FAISS exato e índice BM25."""
-    cache = carregar_cache(dir_indice, embedder.nome_modelo)
+def construir_indice(chunks: pd.DataFrame, embedder, dir_indice: Path, reaproveitar: list[Path] = ()) -> None:
+    """Gera embeddings (reaproveitando o cache), índice FAISS exato e índice BM25.
+
+    reaproveitar: outros índices do mesmo modelo cujos vetores servem de cache (casados pelo hash do texto).
+    """
+    cache = {}
+    for outro in reaproveitar:
+        cache.update(carregar_cache(outro, embedder.nome_modelo))
+    cache.update(carregar_cache(dir_indice, embedder.nome_modelo))
     faltam = chunks[~chunks["hash"].isin(cache.keys())].drop_duplicates("hash")
     print(f"{len(chunks)} chunks; {len(faltam)} embeddings a calcular")
     if len(faltam):
@@ -67,11 +73,13 @@ def main() -> None:
     parser.add_argument("--chunks", type=Path, default=config.ARQ_CHUNKS)
     parser.add_argument("--dir-indice", type=Path, default=config.DIR_INDICE)
     parser.add_argument("--modelo", default=config.MODELO_EMBEDDING)
+    parser.add_argument("--reaproveitar", type=Path, nargs="*", default=[],
+                        help="outros índices do mesmo modelo para reaproveitar embeddings já calculados")
     args = parser.parse_args()
 
     from jurismatch.embeddings import Embedder
 
-    construir_indice(pd.read_parquet(args.chunks), Embedder(args.modelo), args.dir_indice)
+    construir_indice(pd.read_parquet(args.chunks), Embedder(args.modelo), args.dir_indice, args.reaproveitar)
     print(f"Índice gravado em {args.dir_indice}")
 
 

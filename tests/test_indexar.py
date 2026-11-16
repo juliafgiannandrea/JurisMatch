@@ -27,3 +27,14 @@ def test_construir_indice_reaproveita_embeddings(tmp_path, chunks_exemplo, embed
     embedder_falso.codificar_passagens = lambda textos: chamadas.append(len(textos)) or original(textos)
     construir_indice(chunks_exemplo, embedder_falso, tmp_path)
     assert chamadas == []  # nada mudou: nenhum embedding recalculado
+
+
+def test_construir_indice_reaproveita_embeddings_de_outro_indice(tmp_path, chunks_exemplo, embedder_falso):
+    outro, novo = tmp_path / "outro", tmp_path / "novo"
+    construir_indice(chunks_exemplo, embedder_falso, outro)
+    chamadas = []
+    original = embedder_falso.codificar_passagens
+    embedder_falso.codificar_passagens = lambda textos: chamadas.append(len(textos)) or original(textos)
+    construir_indice(chunks_exemplo, embedder_falso, novo, reaproveitar=[outro])
+    assert chamadas == []  # todos os vetores vieram do outro índice
+    assert np.allclose(np.load(novo / "embeddings.npy"), np.load(outro / "embeddings.npy"))
