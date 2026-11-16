@@ -248,7 +248,10 @@ function telaCarregando(opcoes) {
   if (estado.status && !estado.status.buscador_carregado) {
     dicas.push("A primeira busca carrega o índice e os modelos na memória e pode levar mais de um minuto.");
   }
-  if (opcoes.rerank) dicas.push("Com o reranker ligado, cada consulta leva uns 40 s em CPU.");
+  if (opcoes.rerank) {
+    dicas.push("Com o reranker ligado, cada consulta leva de 40 s a mais de 1 minuto em CPU.");
+    dicas.push("O corte de relevância mínima pode zerar o resultado; se preferir, cancele e busque sem reranker.");
+  }
 
   mostrar(el("div", { class: "carregando" },
     el("span", { class: "carregando__marca", "aria-hidden": "true" }),
@@ -268,14 +271,8 @@ function telaVazia(resposta) {
   let texto;
   const acoes = [];
 
-  if (modo === "lexical") {
-    texto = "Nenhum trecho contém essas palavras exatas. No modo Palavras (BM25), os termos da consulta precisam aparecer no texto. Tente a busca Semântica para encontrar pelo sentido.";
-    acoes.push(el("button", {
-      type: "button", class: "botao botao--primario",
-      onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "denso" }),
-    }, "Tentar em Semântica"));
-  } else if (resposta.rerank) {
-    texto = `Nenhum resultado significativo em ${ROTULO_MODO[modo] ?? "busca"}: nenhuma petição atingiu relevância de ${formatar.pct(resposta.limiar)}. Reformule a consulta, reduza a relevância mínima ou tente outro modo.`;
+  if (resposta.rerank) {
+    texto = `Nenhuma petição atingiu a relevância mínima de ${formatar.pct(resposta.limiar)}. O reranker descarta o que fica abaixo desse corte, em qualquer modo.`;
     if (resposta.limiar > 0.5) {
       const novo = Math.max(0.5, Math.round((resposta.limiar - 0.2) * 20) / 20);
       acoes.push(el("button", {
@@ -283,12 +280,16 @@ function telaVazia(resposta) {
         onclick: () => buscar(resposta.consulta, { ...estado.opcoes, limiar: novo }),
       }, `Buscar com mínimo de ${formatar.pct(novo)}`));
     }
-    if (modo === "denso") {
-      acoes.push(el("button", {
-        type: "button", class: "botao botao--fantasma",
-        onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "lexical" }),
-      }, "Tentar em Palavras"));
-    }
+    acoes.push(el("button", {
+      type: "button", class: "botao botao--primario",
+      onclick: () => buscar(resposta.consulta, { ...estado.opcoes, rerank: false }),
+    }, "Buscar sem reranker"));
+  } else if (modo === "lexical") {
+    texto = "Nenhum trecho contém essas palavras exatas. No modo Palavras (BM25), os termos da consulta precisam aparecer no texto. Tente a busca Semântica para encontrar pelo sentido.";
+    acoes.push(el("button", {
+      type: "button", class: "botao botao--primario",
+      onclick: () => buscar(resposta.consulta, { ...estado.opcoes, modo: "denso" }),
+    }, "Tentar em Semântica"));
   } else {
     texto = modo === "denso"
       ? "Nenhum trecho atingiu correspondência semântica. Tente reformular a tese ou mudar para Palavras se procura um termo exato."
@@ -304,7 +305,7 @@ function telaVazia(resposta) {
   mostrar(el("div", { class: "estado bloco" },
     el("h2", { class: "estado__titulo" }, "Nada encontrado"),
     el("p", { class: "estado__texto" }, texto),
-    acoes.length && el("div", { class: "estado__acoes" }, acoes),
+    !estado.busca && acoes.length && el("div", { class: "estado__acoes" }, acoes),
   ));
 }
 
