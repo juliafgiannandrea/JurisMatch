@@ -1,0 +1,1846 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL
+
+(Distribuição por prevenção ADPF n. 695/DF)
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO BRASIL
+– CFOAB, serviço público dotado de personalidade jurídica própria e forma federativa,
+regulamentado pela Lei 8.906/94, com endereço eletrônico pc@oab.org.br e sede em
+Brasília/DF, no SAUS, Qd. 05, Lote 01, Bloco M, inscrito no CNPJ sob no 33.205.451/0001-
+14, por seu Presidente e por seus advogados que esta subscrevem, vem, à presença de Vossa
+Excelência, com fulcro nos arts. 102, I, a, e 103, VII, da Constituição, no art. 54, XIV, da Lei
+nº 8.906/94, e no art. 2º, VII, da Lei nº 9.868/1999, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO CAUTELAR
+
+em face da integralidade dos dispositivos estabelecidos pelo Decreto nº 10.046,
+de 09 de outubro de 2019, por afronta ao artigo 84, incisos IV e VI, ‘a’, da Constituição
+Federal, tendo em vista que este ato infralegal exorbita os poderes normativos concedidos
+pela Constituição ao Presidente da República, e por violação direta aos artigos 1º, caput,
+inciso III e 5º, caput, e incisos X, XII e LXXII da Constituição Federal, os quais
+asseguram, respectivamente, a dignidade da pessoa humana; a inviolabilidade da
+intimidade, da privacidade e da vida privada, da honra e da imagem das pessoas; o sigilo
+dos dados; a garantia do habeas data, a proteção de dados pessoais e a autodeterminação
+informativa.
+
+
+[[pagina 2 | nativo]]
+Ementa: “Decreto que exorbita os poderes normativos
+concedidos pela Constituição Federal ao Presidente da
+República e viola os direitos fundamentais à Dignidade da
+Pessoal Humana, à Intimidade, à Privacidade, ao Sigilo dos
+Dados e à Proteção de Dados Pessoais e à Autodeterminação
+Informativa. Invasão de competência legislativa.
+Inconstitucionalidade formal e material”.
+
+I – DA PRELIMINAR DE PREVENÇÃO
+
+Preliminarmente, o autor requer a distribuição por dependência desta petição inicial à
+Ação de Descumprimento de Preceito Fundamental nº 695/DF, ajuizada pelo Partido
+Socialista Brasileiro (PSB) em junho de 2020, cujo relator é o Eminente Ministro Gilmar
+Mendes, o qual se tornará prevento para o julgamento de ambos os processos, nos termos do
+que dispõe o art. 69 do RISTF: “A distribuição da ação ou do recurso gera prevenção para
+todos os processos a ele vinculados por conexão ou continência”.
+
+A causa de pedir desta ação direta de inconstitucionalidade possui conexão com a
+causa de pedir da supracitada ADPF, haja vista que ambas discutem questões relativas à
+privacidade, à proteção de dados pessoais, ao compartilhamento de dados pelo Poder Público
+e à constitucionalidade do Decreto nº 10.046/2019, devendo os feitos ser reunidos para
+julgamento conjunto a fim de que não sejam proferidas decisões conflitantes ou
+contraditórias.
+Como amplamente analisado nesta decisão, o regime jurídico de compartilhamento
+de dados entre órgãos e instituições do Poder Público é matéria de extrema
+relevância para a proteção constitucional do direito constitucional à privacidade
+(art. 5º, caput e incisos X, da Constituição Federal), situando-se como garantia
+elementar de qualquer sociedade democrática contemporânea.
+Por esse motivo, é dever constitucional deste STF debruçar-se sobre a matéria,
+evitando-se que situações graves que colocam em risco a violação de preceitos
+fundamentais sejam perpetradas com suposto fundamento no Decreto nº.
+10.046, de 9 de outubro de 2019. Destaca-se ainda que a presente decisão não
+obsta a eventual análise de medida acauteladora relacionada a alegações de
+inconstitucionalidade deste ato normativo.1 (...) (grifos nossos)
+
+1 Supremo Tribunal Federal, Ação de Descumprimento de Preceito Fundamental nº 695/DF, Relator
+Ministro Gilmar Mendes. Decisão Monocrática 24/06/2020. Disponível em:
+http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=TP&docID=753005479&prcID=5938693
+Acesso em: 08/08/2020.
+
+
+[[pagina 3 | nativo]]
+II – DO ATO NORMATIVO IMPUGNADO: O DECRETO nº 10.046/2019
+
+Em 10/10/2019 foi publicado o Decreto nº 10.046, de 09/10/2019, que “dispõe sobre a
+governança no compartilhamento de dados no âmbito da administração pública federal e
+institui o Cadastro Base do Cidadão e o Comitê Central de Governança de Dados”.
+
+O supracitado decreto indica, no seu preâmbulo, que se vale das atribuições conferidas
+pelo art. 84, caput, incisos IV e VI, alínea ‘a’ da Constituição Federal. Tais dispositivos
+constitucionais disciplinam a competência privativa do Presidente da República para
+“(...)expedir decretos e regulamentos” (inciso IV), bem como, para “dispor, mediante decreto,
+sobre organização e funcionamento da administração federal, quando não implicar aumento
+de despesa nem criação ou extinção de órgãos públicos” (inciso VI, alínea ‘a’). Além disso, o
+decreto sustenta seu fundamento “no art. 5º, caput, inciso XXXIII, no art. 37, § 3º, inciso II, e
+no art. 216, § 2º, da Constituição, na Lei nº 12.527, de 18 de novembro de 2011, no art. 11 da
+Lei nº 13.444, de 11 de maio de 2017, e no Capítulo IV da Lei nº 13.709, de 14 de agosto de
+2018”.
+
+O Decreto nº 10.046/2019 ostenta inconstitucionalidades formais e materiais,
+como analisaremos nesta petição inicial. Quanto às inconstitucionalidades formais, o decreto
+invade matérias de competência privativa de lei, exorbitando os poderes normativos
+concedidos pela Lei Fundamental ao Presidente da República, em afronta ao artigo 84, incisos
+IV e VI, ‘a’. No tocante às inconstitucionalidades materiais, o ato infralegal viola os direitos
+fundamentais à privacidade, à proteção de dados pessoais e à autodeterminação informativa.
+
+O Decreto nº 10.046/2019 contraria a ordem constitucional, notadamente a recente
+decisão do Plenário do Supremo Tribunal Federal que ratificou a decisão cautelar deferida na
+Ação Direta de Inconstitucionalidade 6.387/DF - proposta pelo Conselho Federal da Ordem
+dos Advogados do Brasil - e nas ADIs 6.388/DF, 6.389/DF, 6.390/DF e 6.391/DF. Na sessão
+ocorrida entre os dias 06 e 07 de maio de 2020, a Excelsa Corte Constitucional reconheceu a
+autonomia do direito fundamental à proteção de dados pessoais ao referendar a medida
+cautelar deferida para suspender a eficácia da Medida Provisória 954/2020, que dispunha
+sobre o compartilhamento de dados de milhões de usuários brasileiros de telefonia fixa e
+
+
+[[pagina 4 | nativo]]
+móvel com o IBGE.2
+
+Nesta histórica decisão do STF, foi superado antigo paradigma da própria Corte, com
+o reconhecimento do direito à proteção de dados pessoais e à autodeterminação informacional
+como um novo direito fundamental, destacado e independente do direito à privacidade, com a
+identificação de uma série de liberdades individuais, atreladas ao direito à proteção de dados
+pessoais, que não são abraçadas pelo direito à privacidade - na concepção da privacidade
+como uma garantia de abstenção do Estado na esfera privada individual.
+
+Sob o argumento de que as medidas previstas no Decreto nº 10.046/2019 facilitarão o
+acesso dos brasileiros a serviços públicos federais, está sendo erigida uma ferramenta de
+vigilância estatal extremamente poderosa, que inclui informações pessoais, familiares e
+laborais básicas de todos os brasileiros, mas também dados pessoais sensíveis, como dados
+biométricos, tanto quanto “características biológicas e comportamentais mensuráveis da
+pessoa natural que podem ser coletadas para reconhecimento automatizado, tais como a palma
+da mão, as digitais dos dedos, a retina ou a íris dos olhos, o formato da face, a voz e a maneira
+de andar” (art. 2º, II, do Decreto nº 10.046/2019).
+
+Consoante aludiu o Tribunal Constitucional alemão na paradigmática decisão de 1983,
+“não há mais dados insignificantes”. Vivemos a era da informação, na qual passamos a
+conviver com a crescente assimetria de poder – tecnológico, econômico e político – e novos
+fenômenos, como o “big data”, as redes sociais, as “fake news”, as “filter bubbles” e o
+“gabinete do ódio”.
+
+A professora Laura Schertel Mendes assevera que a relevância do direito fundamental
+à proteção de dados “reside menos nos dados em si, mas no processo de coleta,
+armazenamento, utilização ou transferência, a partir do qual são extraídas informações
+pessoais a serem utilizadas em um determinado contexto para determinados fins”3.
+
+Diante da gravidade e da potencialidade de violações aos direitos fundamentais de
+todos os brasileiros, a Ordem dos Advogados do Brasil debruçou-se sobre este tormentoso
+tema e elaborou dois importantes pareceres sobre o Decreto nº 10.046/2019, nos quais são
+
+2 Supremo Tribunal Federal, Ação Direta de Inconstitucionalidade nº 6.387/DF, Relatora Ministra Rosa
+Weber, Decisão Monocrática 24/04/2020. Decisão do Plenário da Corte: 07/05/2020.
+3 MENDES, Laura Schertel Ferreira. Habeas Data e Autodeterminação Informativa: Os Dois Lados da Mesma
+Moeda. Direitos Fundamentais & Justiça. Revista Brasileira De Direitos Fundamentais & Justiça, 12(39), 185-
+216. Disponível em: https://doi.org/10.30899/dfj.v12i39.655 Acesso em: 08/08/2020.
+
+
+[[pagina 5 | nativo]]
+analisados os fundamentos jurídicos que apresentaremos nesta exordial: o primeiro parecer4
+foi elaborado por Lucia Maria Teixeira Ferreira, Coordenadora de Estudos e Pareceres da
+Comissão de Proteção de Dados e Privacidade da OAB/RJ; o segundo parecer foi elaborado
+por Ilton Norberto Robl Filho e aprovado por unanimidade pela Comissão Nacional de
+Estudos Constitucionais do Conselho Federal da OAB.
+
+O Decreto nº 10.046/2019 padece, neste sentido, de: a) inconstitucionalidade formal,
+por afronta ao artigo 84, incisos IV e VI, ‘a’, da Constituição Federal, visto que este decreto
+inova no ordenamento jurídico, tendo o Presidente da República extrapolado a sua
+competência constitucional regulamentar ao editar este ato infralegal; b)
+inconstitucionalidade material, por violação direta aos artigos 1º, inciso III, e 5º, caput,
+incisos X e XII e LXXII da Constituição Federal, os quais asseguram, respectivamente, a
+dignidade da pessoa humana; a inviolabilidade da intimidade, da privacidade e da vida
+privada, da honra e da imagem das pessoas; o sigilo dos dados; a garantia do habeas data
+enquanto instrumento de tutela material do direito à autodeterminação informativa; e por
+ferimento aos direitos fundamentais à proteção de dados pessoais e à autodeterminação
+informativa, reconhecidos como direitos fundamentais autônomos, com fulcro nos arts. 1º,
+inciso III e 5º, caput, e incisos X, XII e LXXII da Constituição Federal, através da decisão
+proferida pelo Plenário dessa Egrégia Corte nos autos da Ação Direta de
+Inconstitucionalidade 6.387. É o que se passa a expor.
+
+III – DO CABIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+A Ação Direta de Inconstitucionalidade é instrumento de controle abstrato de atos
+normativos estaduais e federais, nos termos do art. 102, I, ‘a’, CF/88. Frise-se que, para o
+STF, é irrelevante a forma ou o nome do ato para se identificar se um ato normativo é
+primário ou secundário.5 O que importa, para a Corte Constitucional, é o verdadeiro conteúdo
+
+4 FERREIRA, Lucia Maria Teixeira. Parecer sobre a legalidade dos Decretos nº 10.046/2019 e 10.047/2019 em
+face das normas que disciplinam os direitos fundamentais à proteção de dados e à privacidade no ordenamento
+jurídico brasileiro. In: Revista do Ministério Público do Estado do Rio de Janeiro, Rio de Janeiro, nº 75, p. 257-
+289, jan./mar. 2020. Disponível em:
+http://www.mprj.mp.br/documents/20184/1606722/Lucia_Maria_Teixeira_Ferreira.pdf. Acesso em 10/09/2020.
+
+5 Nesta perspectiva, destaca-se o magistério do Ministro Luís Roberto Barroso: “Os atos normativos secundários,
+como decretos regulamentares, portarias, resoluções, por estarem subordinados à lei, não são suscetíveis de
+controle em ação direta de inconstitucionalidade. Não assim, porém, os atos normativos que, ostentando embora
+o nome ou a roupagem formal de ato secundário, na verdade pretendem inovar autonomamente na ordem
+
+
+[[pagina 6 | nativo]]
+normativo do ato; se é genérico e abstrato, será considerado ato normativo primário, mesmo
+que se denomine decreto regulamentar, portaria ou aviso.
+
+Neste diapasão, destacam-se inúmeros precedentes desse Excelso Supremo Tribunal
+Federal6 em ações de grande repercussão, como a Ação Direta de Inconstitucionalidade (com
+medida cautelar) nº 1.748/RJ, proposta pelo Procurador-Geral da República em face de Ato
+Normativo (o Aviso nº 227/1997) expedido pelo Corregedor-Geral de Justiça do Estado do
+Rio de Janeiro, que instituía a figura do Promotor de Justiça ad hoc. Foi acolhido o
+argumento da representação da Associação do Ministério Público do Estado do Rio de
+Janeiro, evidenciando-se que a forma escolhida pelo Corregedor – Aviso – nenhuma
+relevância tinha para qualificar o ato ou para impedir que este fosse tido como ato normativo
+primário7.
+
+Em verdade, a jurisprudência consolidada ratifica a possibilidade de controle de
+constitucionalidade dos decretos editados pelo Presidente da República, conforme se observa
+no seguinte precedente:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA
+LIMINAR. DECRETO 1.719/95. TELECOMUNICAÇÕES: CONCESSÃO OU
+PERMISSÃO PARA A EXPLORAÇÃO. DECRETO AUTÔNOMO:
+POSSIBILIDADE DE CONTROLE CONCENTRADO. OFENSA AO ARTIGO
+84-IV DA CF/88. LIMINAR DEFERIDA. A ponderabilidade da tese do requerente
+é segura. Decretos existem para assegurar a fiel execução das leis (artigo 84-IV da
+CF/88). A Emenda Constitucional no 8, de 1995 - que alterou o inciso XI e alínea a
+do inciso XII do artigo 21 da CF - é expressa ao dizer que compete à União
+explorar, diretamente ou mediante autorização, concessão ou permissão, os
+serviços de telecomunicações, nos termos da lei. Não havendo lei anterior que
+possa ser regulamentada, qualquer disposição sobre o assunto tende a ser adotada
+em lei formal. O decreto seria nulo, não por ilegalidade, mas por
+inconstitucionalidade, já que supriu a lei onde a Constituição a exige. A Lei
+
+jurídica atuando com força de lei”. (O Controle de Constitucionalidade no Direito Brasileiro. São Paulo:
+Editora Saraiva, 2019, p. 248)
+6 “Com efeito, a jurisprudência desta Corte tem afirmado que, para que determinado ato normativo possa ser
+impugnável por meio das ações do controle concentrado, deve se revestir de abstratividade e de generalidade
+suficientes para tanto, pelo que se afirma não caber ação direta de inconstitucionalidade contra atos normativos
+de efeitos concretos. Esse entendimento, inclusive, já foi aplicado a casos nos quais se impugnavam decretos
+legislativos editados por Assembleias Legislativas estaduais, como, por exemplo, nos seguintes precedentes:
+ADI 1.937-MC-QO, rel. min. Sepúlveda Pertence, Tribunal Pleno, DJe de 31/8/2007; ADI 1.555, rel. min.
+Maurício Corrêa, Tribunal Pleno, DJ de 10/10/1997; ADI 769-MC, rel. min. Celso de Mello, DJ de 8/4/1993”.
+(STF, ADI 5184. Órgão julgador: Tribunal Pleno, Relator(a): Min. Luiz Fux, Julg. 30/08/2019, Public.
+16/09/2019).
+7 Supremo Tribunal Federal, ADI 1.748/RJ, Rel. Min. Sidney Sanches, Medida Cautelar deferida – Votação
+unânime do Plenário do STF em 15/12/1997.
+
+
+[[pagina 7 | nativo]]
+9.295/96 não sana a deficiência do ato impugnado, já que ela é posterior ao
+decreto. Pela ótica da maioria, concorre, por igual, o requisito do perigo na demora.
+Medida liminar deferida.8
+
+Pelo acima exposto, conclui-se que o Decreto nº 10.046/2019 assume a figura de um
+ato normativo primário e exorbita sobremaneira os poderes normativos previstos no art. 84,
+inciso IV e VI, alínea ‘a’, da Constituição Federal, desafiando a propositura de ação direta de
+inconstitucionalidade. Por isso, perfeitamente cabível a medida aqui proposta.
+
+Contudo, caso o Tribunal não entenda pela adequação da via eleita, indica o
+Requerente a viabilidade do conhecimento da presente ação como Arguição de
+Descumprimento de Preceito Fundamental (ADPF), com base no imperativo da fungibilidade,
+muitas vezes adotado pelo Excelso Pretório em casos limítrofes9, quando também atendidos
+os demais requisitos de cabimento da medida, como se mostra no presente caso, tendo em
+vista: (i) a existência de ato do Poder Público, consistente na edição do Decreto 9.926/2019;
+(ii) a afronta a preceitos constitucionais consubstanciados no princípio democrático, no direito
+à informação e no princípio da publicidade; (iii) o atendimento do requisito da
+subsidiariedade, dada a inexistência de outro meio capaz de reparar as lesões apontadas.
+
+Tratando-se o Requerente de legitimado universal, nos termos da ADI 3 (Rel. Min.
+Moreira Alves, Tribunal Pleno, DJ 18.9.1992), e existindo incompatibilidade entre os
+dispositivos ora impugnados e a Constituição Federal de 1988, é perfeitamente admissível a
+fungibilidade da ação, se esse for o caso.
+
+IV – DA INCONSTITUCIONALIDADE FORMAL. AFRONTA AO ART. 84, INCISOS
+
+IV e VI, alínea ‘a’ DA CF. DECRETO QUE INOVA NO ORDENAMENTO
+
+JURÍDICO, TENDO O PRESIDENTE DA REPÚBLICA EXTRAPOLADO NA SUA
+
+COMPETÊNCIA REGULAMENTAR
+
+8 Supremo Tribunal Federal. ADI 1435. Órgão julgador: Tribunal Pleno, Relator(a): Min. FRANCISCO
+REZEK, Julgamento: 07/11/1996, Publicação: 06/08/1999.
+9 Vide ADI 4180-MC-REF (Rel. Min. Cezar Peluso, Tribunal Pleno, DJ 16.4.2010) e ADPF 72-QO (Rel. Min.
+Ellen Gracie, Tribunal pleno, DJ 2.12.2005), entre outros precedentes. São casos limítrofes aqueles que
+apresentam dúvida razoável quanto ao devido enquadramento jurídico do ato questionado.
+
+
+[[pagina 8 | nativo]]
+O Presidente da República possui competência para expedir decretos e regulamentos
+para fiel execução das leis, conforme o art. 84, IV, CF/88, e “ dispor, mediante decreto, sobre:
+a) organização e funcionamento da administração federal, quando não implicar aumento de
+despesa nem criação ou extinção de órgãos públicos”, de acordo com o art. 84, VI, ‘a’, CF/88.
+
+O art. 84, IV, CF/88 fixa atividade normativa secundária ao Presidente da República,
+que é limitada à expedição de decretos para fiel execução da lei. Entretanto, no tocante ao
+inciso VI, do art. 84, há relevante discussão doutrinária sobre a correta interpretação deste
+dispositivo.
+
+Clèmerson Merlin Clève defende que o “art. 84, VI, da Constituição não apresenta
+hipótese de regulamento autônomo, mas antes de um tipo que fica a meio caminho entre este e
+o de execução, muito mais próximo deste do que daquele (...)”10. No magistério de Ilton
+Norberto Robl Filho, inexiste margem para o Chefe do Poder Executivo inovar
+substancialmente no ordenamento jurídico, pois seu poder restringe-se à fiel execução da lei
+(art. 84, IV, CF/88) e ao regulamento de organização (art. 84, VI, alínea ‘a’, CF/88). Neste
+sentido:
+
+No Brasil, discute-se de que forma a Emenda Constitucional nº 32 acolheu essa
+modalidade de regulamento autônomo, existindo três correntes sobre o tema: 1)
+essa modalidade de regulamento autônomo não foi admitida no ordenamento
+pátrio, 2) há poder regulamentar autônomo e 3) a legislação (lei em sentido formal)
+pode disciplinar assuntos previstos no art. 84, VI, conforme disciplina da EC nº 32,
+porém em situação de lacuna normativa legal inexiste óbice para que a disciplina
+ocorra exclusivamente mediamente regulamento da administração pública.
+Por meio da referida Emenda Constitucional, o art. 84, VI fixou a competência
+privativa do Presidente da República: “VI - dispor, mediante decreto, sobre: a)
+organização e funcionamento da administração federal, quando não implicar
+aumento de despesa nem criação ou extinção de órgãos públicos; b) extinção de
+funções ou cargos públicos, quando vagos;”. Sobre esse poder atribuído ao Chefe
+do Executivo Federal, impõem-se três considerações.
+Nos termos do art. 49, V, CF, o Congresso Nacional pode sustar os efeitos do
+poder regulamentar que exacerbe a competência constitucional, além de ser
+possível ainda o controle judicial desse ato normativo do Poder Executivo. Desse
+modo, os outros poderes podem analisar a juridicidade do ato.
+Ainda, a matéria que pode ser objeto de regulamentação no art. 84, VI, CF, possui
+escopo bem mais restrito do que os temas objeto de disciplina por meio do poder
+regulamentar do CNJ, o qual foi fixado no art. 103 – B, § 4º, I, CF.
+Também, a edição de decretos sobre organização e funcionamento da
+administração pública e extinção de funções ou cargos tem, pela natureza dos
+
+10 CLÈVE, Clèmerson Merlin. Atividade Legislativa do Poder Executivo. 3ª ed. São Paulo: Revista dos
+Tribunais, 2011, p. 326.
+
+
+[[pagina 9 | nativo]]
+assuntos, menor possibilidade de incursionar em situações constitucionais de
+destaque, como direitos fundamentais, em comparação com a edição de atos
+normativos do CNJ, os quais incidem em matérias constitucionais sensíveis como
+processo administrativo disciplinar, autonomia do Poder Judiciário e restrições e
+vedações aos magistrados.11
+
+Neste sentido, o regulamento de organização teria competência para disciplinar
+questões de menor expressão na administração pública, não obstando que o legislador trate do
+tema, prevalecendo a lei em sentido formal quando em eventual contradição com o decreto.
+Ainda que seja adotada a corrente de que existe um poder regulamentar autônomo consagrado
+no art. 84, VI, da CF, é determinante que a atividade normativa do Poder Executivo esteja
+adequada e concernente aos valores e normas constitucionais, bem como, aos atos normativos
+primários produzidos pelo Poder Legislativo.
+
+Em síntese, a competência constitucional do Presidente da República deve ser exercida
+em conformidade com a legislação em sentido formal existente e com a Lei Fundamental da
+República, que está no ápice do ordenamento jurídico.
+
+O Decreto nº 10.046/2019 possui conflitos e antinomias inconciliáveis com a
+legislação constitucional e infraconstitucional relacionada à proteção de dados e à
+privacidade, apresentando riscos e descompassos que desestabilizam o sistema de proteção de
+dados insculpido no nosso ordenamento jurídico e fragilizam liberdades e direitos
+fundamentais.
+
+No seu preâmbulo, o Decreto impugnado indica como fundamento da sua edição a Lei
+12.527/2011 (Lei de Acesso à Informação), o art. 11 da Lei 13.444/2017 (Lei que cria a
+Identificação Civil Nacional) e o Capítulo IV da Lei 13.709/2018 (o capítulo da Lei Geral de
+Proteção de Dados Pessoais que disciplina o Tratamento de Dados Pessoais pelo Poder
+Público). Neste aspecto, o Decreto nº 10.046/2019 tenta parecer um decreto regulamentar.
+
+Todavia, ao examinar melhor as disposições deste Decreto, constatamos que o ato do
+Poder Executivo não regulamenta fielmente: a Lei 12.527/2011; o art. 11 da Lei 13.444/2017
+e o Cap. IV da Lei Geral de Proteção de Dados Pessoais. Ao contrário, o Decreto contraria
+frontalmente diversos dispositivos das leis federais que ele alega regulamentar.
+
+Em primeiro lugar, a Lei Federal nº 12.527/2011 – Lei de Acesso à Informação (LAI)
+- versa sobre o acesso a informações, nos termos do art. 5º, XXXIII e do art. 216, § 2º, CF/88.
+
+11 ROBL FILHO, Ilton Norberto. Direitos Fundamentais e Poder Regulamentar do Conselho Nacional de Justiça:
+Bases Teóricas e Análise da Resolução nº 226/2016. AREL FAAR, Ariquemes, RO, v. 5, n. 1, p. 46-47, jan.
+2017.
+
+
+[[pagina 10 | nativo]]
+Destarte, esta lei regulamenta questões referentes, por exemplo, à documentação
+governamental e à divulgação de informações de interesse público, segundo o art. 3º, II, Lei
+Federal nº. 12.527/2011.
+
+É reconhecido pela LAI que cabe aos “aos órgãos e entidades do poder público,
+observadas as normas e procedimentos específicos aplicáveis, assegurar a (...) III - proteção
+da informação sigilosa e da informação pessoal, observada a sua disponibilidade,
+autenticidade, integridade e eventual restrição de acesso”, de acordo com seu artigo 6º. Desta
+forma, considera-se conduta ilícita que enseja a responsabilidade do agente público: “IV -
+divulgar ou permitir a divulgação ou acessar ou permitir acesso indevido à informação
+sigilosa ou informação pessoal”, de acordo com art. 32 da Lei Federal nº. 12.527/2011.
+
+Na Lei de Acesso à Informação, o tema das informações pessoais é disciplinado no
+artigo 31, com a seguinte redação:
+
+Art. 31. O tratamento das informações pessoais deve ser feito de forma
+transparente e com respeito à intimidade, vida privada, honra e imagem das
+pessoas, bem como às liberdades e garantias individuais.
+
+Por consequência, as disposições previstas no art. 31 da Lei de Acesso à Informação
+exigem de qualquer ato infralegal regulamentador a estrita observância e respeito às
+informações pessoais, aos direitos fundamentais e à transparência em relação aos
+titulares das informações – os titulares de dados pessoais. Contudo, o Decreto nº
+10.046/2019, ao disciplinar o compartilhamento de informações e dados pessoais, não
+estabelece proteção suficiente aos direitos dos titulares dessas informações.
+
+Sob outra perspectiva, concordamos com a construção no Brasil de um sistema seguro
+e legítimo de identidade digital do cidadão, tema que já foi objeto de lei específica - Lei
+13.444/2017, cujo art. 11 do Decreto nº 10.046/2019 prevê regulamentar. Dispõe o referido
+art. 11 que “o poder público deverá oferecer mecanismos que possibilitem o cruzamento de
+informações constantes de bases de dados oficiais, a partir do número de inscrição no CPF do
+solicitante, de modo que a verificação do cumprimento de requisitos de elegibilidade para a
+concessão e a manutenção de benefícios sociais possa ser feita pelo órgão concedente”.
+
+O artigo 1º da Lei Federal nº 13.444/2017 cria a Identificação Nacional Civil, não
+sendo possível o art. 16, III, do Decreto nº 10.046/2019 desconsiderar a lei formal e, por sua
+vez, estabelecer Cadastro Base do Cidadão com a mesma finalidade: “Art. 16, inciso III -
+viabilizar a criação de meio unificado de identificação do cidadão para a prestação de serviços
+públicos”.
+
+
+[[pagina 11 | nativo]]
+Em síntese, a Identificação Civil Nacional possui como objetivo “identificar o
+brasileiro em suas relações com a sociedade e com os órgãos e entidades governamentais e
+privados”, de acordo com o artigo 1º da Lei 13.444/2017. As bases de dados utilizadas advêm
+da Justiça Eleitoral, do Sistema Nacional de Informações de Registro Civil (SIRC) do
+Executivo Federal, da Central Nacional de Informações do Registro Civil e outras
+informações, segundo o art. 2º, Lei Federal nº 13.444/2017.
+
+Esta Lei também prevê um Comitê Gestor do ICN, o qual é composto por
+representantes do Poder Executivo Federal, do Tribunal Superior Eleitoral, da Câmara dos
+Deputados, do Senado Federal e do Conselho Nacional de Justiça, conforme o art. 5º, Lei
+Federal nº. 13.444/2017. Por fim, nos termos do art. 12, “o Poder Executivo federal e o
+Tribunal Superior Eleitoral editarão, no âmbito de suas competências, atos complementares
+para a execução do disposto nesta Lei”.
+
+Se o Decreto nº. 10.046/2019 regulamenta a Lei Federal nº 13.444/2017, não há
+necessidade de criação de um outro Comitê Gestor, nos termos do arts. 21 e 22 do Decreto,
+pois já existe Comitê previsto pela Lei 13.444/2017 com composição diversa e mais plural.
+Importante registrar que, no dia 18 de junho de 2020, o Comitê Gestor de Identificação
+Nacional realizou sua primeira reunião, na Presidência da República, sendo que a
+“coordenação do CGICN, alternada a cada dois anos entre Poder Executivo Federal e TSE,
+atualmente é exercida pela Secretaria Especial de Modernização do Estado da Secretaria
+Geral da Presidência da República, até o final de 2021”.12 Assim sendo, é absolutamente
+desnecessária a criação de outro Comitê pelo Poder Executivo Federal.
+
+É evidente que o Decreto nº 10.046/2019 descumpre, por completo, a sua função
+constitucional de determinar a fiel execução das leis que alega regulamentar. Neste
+sentido, vejamos o lacunoso artigo 3º do Decreto:
+
+Art. 3º. O compartilhamento de dados pelos órgãos e entidades de que trata o art. 1º
+observará as seguintes diretrizes:
+I - a informação do Estado será compartilhada da forma mais ampla possível,
+observadas as restrições legais, os requisitos de segurança da informação e
+comunicações e o disposto na Lei no 13.709, de 14 de agosto de 2018 - Lei Geral
+de Proteção de Dados Pessoais;
+II - o compartilhamento de dados sujeitos a sigilo implica a assunção, pelo
+
+12 BRASIL, Presidência da República, Secretaria-Geral. Comitê Gestor da Identificação Civil Nacional
+realiza primeira reunião de 2020. Identificação Civil Nacional é projeto estruturante e fundamental para a
+Modernização do Estado Brasileiro. Disponível em: https://www.gov.br/secretariageral/pt-br/noticias/comite-
+gestor-da-identificacao-civil-nacional-realiza-primeira-reuniao. Acesso em: 08/08/2020.
+
+
+[[pagina 12 | nativo]]
+recebedor de dados, dos deveres de sigilo e auditabilidade impostos ao custodiante
+dos dados;
+III - os mecanismos de compartilhamento, interoperabilidade e auditabilidade
+devem ser desenvolvidos de forma a atender às necessidades de negócio dos órgãos
+e entidades de que trata o art. 1o, para facilitar a execução de políticas públicas
+orientadas por dados;
+IV - os órgãos e entidades de que trata o art. 1º colaborarão para a redução dos
+custos de acesso a dados no âmbito da administração pública, inclusive, mediante o
+reaproveitamento de recursos de infraestrutura por múltiplos órgãos e entidades;
+V - nas hipóteses em que se configure tratamento de dados pessoais, serão
+observados o direito à preservação da intimidade e da privacidade da pessoa
+natural, a proteção dos dados e as normas e os procedimentos previstos na
+legislação.
+VI- a coleta, o tratamento e o compartilhamento de dados por cada órgão serão
+realizados nos termos do disposto no art. 23 da Lei nº 13.709/2018.
+
+Dentre as diversas finalidades previstas no artigo 1º do Decreto nº. 10.046/2019,
+nenhuma objetiva o tratamento adequado e transparente dos dados pessoais. O decreto
+apresenta uma falsa aparência de legalidade; ao ser confrontado com a legislação
+constitucional e infraconstitucional, torna-se cristalino que este decreto, na realidade,
+desprotege os dados pessoais e retira os requisitos mínimos do conteúdo dos direitos
+fundamentais à privacidade e à proteção de dados pessoais, não só em comparação com a Lei
+Federal nº 12.527/2011 e com o art. 11 da Lei 13.444/2017, mas em total desarmonia com a
+Lei nº 13.709/2018, como será analisado no item V infra.
+
+V- DA INCONSTITUCIONALIDADE MATERIAL – VIOLAÇÃO FRONTAL AOS
+
+ARTS. 1º, III e 5º, CAPUT E INCISOS X, XII E LXXII DA CONSTITUIÇÃO
+
+FEDERAL – TUTELA DIGNIDADE DA PESSOA HUMANA, DIREITO À
+
+INTIMIDADE, PRIVACIDADE, SIGILO DOS DADOS PESSOAIS, DA PROTEÇÃO
+
+DE DADOS PESSOAIS E DA AUTODETERMINAÇÃO INFORMATIVA
+
+V. a) – A autonomia do Direito à Proteção de Dados Pessoais em relação ao direito à
+
+Privacidade – Breve Panorama Internacional
+
+O direito à privacidade tem como marco fundador o conceito ao direito à vida privada,
+o “direito a ficar só”, formulação atribuída inicialmente à Samuel Warren e Louis Brandeis
+(“The right to privacy”, Harvard Law Review 193, 1890).
+
+
+[[pagina 13 | nativo]]
+Há mais de 50 anos, Alan Westin publicava aquela que seria uma das mais
+importantes obras sobre privacidade e que influenciaria a construção da doutrina erigida em
+torno da proteção de dados pessoais: Privacy and Freedom. Em 1967, nesta obra seminal,
+Westin “já enunciava a estreita ligação entre privacidade, liberdade e democracia. O
+renomado professor da Universidade de Columbia identificou a relação entre a privacidade e
+o desenvolvimento da autonomia e do sentido de livre-arbítrio como requisitos fundamentais
+para a formação de uma sociedade democrática”.13
+
+Segundo Danilo Doneda, “sem perder de vista que o controle sobre a informação foi
+sempre um elemento essencial na definição de poderes dentro de uma sociedade, a tecnologia
+proporcionou a intensificação dos fluxos de informação e, consequentemente, a multiplicação
+de suas fontes e de seus destinatários”.14
+
+A garantia da cidadania depende que os cidadãos tenham efetivamente um poder
+social – o de controlar diretamente quem trata os dados pessoais – entidades públicas ou
+privadas, de acordo com as lições de Stefano Rodotà:
+
+Assim, em uma sociedade na qual as informações se tornam a riqueza mais
+importante, a tutela da privacidade contribui de forma decisiva para o equilíbrio
+dos poderes. Eis porque o fim da privacidade não representaria somente um risco
+para as liberdades individuais: ele pode efetivamente conduzir ao fim da
+democracia.
+
+(...) Confirma-se assim que a privacidade, neste seu significado mais amplo,
+constitui um elemento fundamental da cidadania da nossa época, da “cidadania
+eletrônica”. A sociedade da informação requer novos instrumentos, um novo
+quadro institucional.15
+
+Ao longo das últimas décadas, foi-se construindo, paulatinamente, a configuração do
+direito à proteção de dados como um novo direito fundamental, destacado e independente
+do direito à privacidade.
+
+Há uma série de liberdades individuais, atreladas ao direito à proteção de dados
+pessoais, que não são abraçadas pelo direito à privacidade. E como assevera Bruno Bioni, o
+
+13 FERREIRA, Lucia Maria Teixeira. Novas Tecnologias, Cidadania e o Cuidado: Premissas para a Regulação
+Jurídica da Inteligência Artificial. In: PEREIRA, Tania da Silva; OLIVEIRA, Guilherme de; COLTRO, Antônio
+Carlos Mathias (org.). Cuidado e Cidadania: Desafios e Possibilidades. Rio de Janeiro: Editora GZ, 2019, p. 341-
+365.
+14 DONEDA, Danilo. Da Privacidade à Proteção de Dados Pessoais. Rio de Janeiro: Renovar, 2006. p. 15/16.
+15 RODOTÀ, Stefano. A Vida na Sociedade da Vigilância – A privacidade hoje. Tradução: Danilo Doneda e
+Luciana Cabral Doneda. Rio de Janeiro: Renovar, 2008. p. 144/145.
+
+
+[[pagina 14 | nativo]]
+“centro gravitacional da proteção dos dados pessoais é diferente do direito à privacidade – i.e.,
+a percepção de que a sua tutela jurídica opera fora da dicotomia do público e do privado”. 16
+
+Um marco jurisprudencial do direito fundamental à proteção de dados e da
+autodeterminação informacional foi a celebrada decisão histórica, em 1983, do Tribunal
+Constitucional Federal Alemão, apreciando justamente a previsão de coleta e uso de dados
+pessoais pelo poder público. Ao deliberar sobre o alcance do direito à autodeterminação sobre
+a informação em relação às intervenções nas quais o Estado exige a informação de dados
+pessoais do cidadão, a Corte Constitucional Alemã assentou que “o livre desenvolvimento
+da personalidade pressupõe, sob as modernas condições do processamento de dados, a
+proteção do indivíduo contra levantamento, armazenagem, uso e transmissão irrestritos
+de seus dados pessoais. Esta proteção, portanto, é abrangida pelo direito fundamental do Art.
+2 I c. c. Art. 1 I GG [direito geral da personalidade]. O direito fundamental garante o poder do
+cidadão de determinar em princípio ele mesmo sobre a exibição e o uso de seus dados
+pessoais”.17
+
+Na paradigmática decisão alemã, afirma-se que, com ajuda do processamento
+eletrônico de dados, informações detalhadas de uma pessoa determinada podem ser, do ponto
+de vista técnico, ilimitadamente armazenadas e consultadas a qualquer momento, a qualquer
+distância e em segundos. Além disso, estes dados podem ser combinados, sobretudo na
+estruturação de sistemas de informação integrados, com outros bancos de dados, formando
+um quadro da personalidade relativamente completo ou quase, sem que a pessoa atingida
+possa controlar suficientemente sua exatidão e seu uso.
+
+Ainda que seja possível a relativização do direito à autodeterminação informacional,
+o Tribunal Alemão aduz que o legislador deve observar em sua regulamentação o princípio
+constitucional da proporcionalidade. Este princípio “resulta da própria essência dos direitos
+fundamentais, que, como expressão da pretensão jurídica geral de liberdade do cidadão frente
+ao Estado, só podem ser limitados pelo poder público quando isso for imprescindível para
+proteção de interesses públicos (BVerfGE 19, 342 [348]; jurisprudência consolidada).
+
+Em face dos já expostos riscos criados pelo uso do processamento eletrônico de
+dados, o legislador deve, mais do que antes, tomar precauções organizacionais e processuais
+que combatam o perigo de uma violação do direito da personalidade (cf. BVerfGE 53, 30
+[65]; 63, 131 [143]).
+
+Da leitura do clássico precedente alemão, extrai-se que o compartilhamento de dados
+
+16 BIONI, Bruno Ricardo. Proteção de Dados Pessoais – a função e os limites do consentimento. Rio de Janeiro:
+Forense, 2019, p. 99.
+17 SCHWABE, Jürgen. Cinquenta Anos de Jurisprudência do Tribunal Constitucional Federal Alemão. Konrad-
+Adenauer-Stiftung, 2005, p. 238-239.
+
+
+[[pagina 15 | nativo]]
+depende, dentre outros requisitos, da observância dos seguintes critérios: a) finalidade de uso
+de forma precisa; b) demonstração de que os dados sejam adequados e necessários; c)
+acesso aos dados no mínimo indispensável para alcançar o seu objetivo pretendido; d)
+necessidade de proteção, “tendo em vista os perigos do processamento eletrônico de dados”.
+
+No direito comunitário europeu, a primeira grande normatização sobre o tema da
+proteção de dados pessoais foi na década de 1980 através da Convenção 108, de Strasbourg,
+do Conselho da Europa18. Esta norma de direito internacional foi atualizada em 2018.
+
+Em 2000, a Carta dos Direitos Fundamentais da União Europeia estabeleceu, no seu
+preâmbulo, que era necessário, para a União Europeia, reforçar a proteção dos direitos
+fundamentais, conferindo-lhes maior visibilidade por meio de uma Carta, “à luz da evolução
+da sociedade, do progresso social e da evolução científica e tecnológica”.19 Desta forma, a
+Carta regulamentou o direito à privacidade no seu art. 7º e tratou especificamente da proteção
+de dados pessoais em seu artigo 8º, propiciando a interpretação e aplicação destes direitos
+fundamentais não só pelos órgãos administrativos e jurisdicionais dos Estados-Membros,
+porém notadamente pela Corte de Justiça da União Europeia:
+
+Artigo 7º. Respeito pela vida privada e familiar
+Todas as pessoas têm direito ao respeito pela sua vida privada e familiar, pelo seu
+domicílio e pelas suas comunicações.
+Artigo 8º. Proteção de dados pessoais
+1. Todas as pessoas têm direito a proteção dos dados de caráter pessoal que lhes
+digam respeito.
+2. Esses dados devem ser objeto de um tratamento leal, para fins específicos e com
+o consentimento da pessoa interessada ou com outro fundamento legítimo previsto
+por lei. Todas as pessoas têm o direito de aceder aos dados coligidos que lhes
+digam respeito e de obter a respectiva retificação.
+3. O cumprimento destas regras fica sujeito a fiscalização por parte de uma
+autoridade independente.20
+
+V. b) - O direito fundamental à proteção de dados pessoais e a tutela da
+
+autodeterminação informativa no Brasil
+
+Fundado na interpretação sistemática do princípio da dignidade da pessoa humana
+(CF, art. 1º, III), na tutela da privacidade (CF, art. 5º, X) e garantia do habeas data (CF, art. 5º,
+
+18 Disponível em: https://www.coe.int/en/web/conventions/full-list/-/conventions/treaty/108. Acesso em:
+08/08/2020.
+19 Disponível em: https://www.europarl.europa.eu/charter/pdf/text_pt.pdf Acesso em 08/08/2020.
+
+20Disponível em: https://www.europarl.europa.eu/charter/pdf/text_pt.pdf Acesso em 08/08/2020.
+
+
+[[pagina 16 | nativo]]
+LXXII), o âmbito de proteção do direito fundamental à proteção dos dados pessoais
+compreende ao mesmo tempo (i) a tutela da pessoa titular dos dados diante dos riscos que o
+tratamento de dados gera ao desenvolvimento da sua personalidade, e (ii) a atribuição a este
+titular de poderes de controle e gestão de suas próprias informações.
+
+O direito à proteção de dados pessoais procura responder a demandas que,
+ainda que individuais, hoje, no mais das vezes, atingem elevado número de pessoas, dada a
+frequência do tratamento massificado de dados em diversos serviços e modelos de negócio.
+Isso expressa, a bem da verdade, duas principais mudanças que caracterizam o campo da
+proteção de dados pessoais nos últimos decênios: (i) a complexidade da atividade de
+tratamento de dados pessoais e (ii) a emersão da dimensão coletiva da tutela dos dados.
+
+Para a efetiva garantia dos direitos e interesses dos titulares dos dados pessoais,
+torna-se necessário, portanto, que o ordenamento disponha de instrumentos para a garantia de
+direitos individuais, baseados na pressuposição da capacidade de gestão individual, racional e
+consciente de suas informações e do conjunto de operações de tratamento que lhe tocam,
+porém igualmente de algo mais. O fato do crescimento exponencial da complexidade e do
+volume dos tratamentos de dados pessoais, cuja gestão, se realizada exclusivamente em nível
+individual, é hoje capaz de ultrapassar tanto a capacidade cognitiva de um indivíduo quando
+lhe demandaria mais tempo do que seria minimamente razoável justifica o recurso a outra
+ordem de instrumentos de tutela para o direito fundamental à proteção de dados, na forma de
+normas que, atribuindo maior responsabilidade aos autores dos processos de tratamento de
+dados, visem a diminuir a probabilidade e o risco de que ocorra a ofensa a este direito.
+
+Para a verificação plena do direito fundamental à proteção de dados pessoais, portanto,
+são hoje necessários cuidados com o tratamento de dados pessoais mesmo antes da
+concretização de eventual dano à pessoa. Este caráter, que tanto é preventivo quanto
+necessário, dada a escala com que hoje os dados são processados, implica que a efetiva
+verificação deste direito fundamental compreenda a verificação de uma série de deveres de
+conduta por parte daqueles que, concretamente, executam as operações de tratamento de
+dados pessoais.
+
+Tais deveres de conduta são visíveis na formulação de diversos dos princípios de
+proteção de dados pessoais, diretamente derivados deste direito fundamental e que, justamente
+por possuirem forte caráter instrumental, são capazes de orientar tanto a verificação e
+identificação de condutas capazes de fulminar o direito fundamental, como de informar
+práticas e procedimentos que, por outro lado, levando-os em conta, procurem fortalecer esta
+garantia. Com este objetivo, desenvolveu-se um conjunto coerente e sistemático de princípios
+que hão de ser vistos como corolários do direito à proteção de dados pessoais, necessários
+
+
+[[pagina 17 | nativo]]
+para que sejam identificados os contornos de sua atuação em casos concretos. Os mais
+relevantes destes princípios são os seguintes:
+
+a) Princípio da finalidade ou especificação de propósitos. O preceito estabelece que o
+tratamento de dados pessoais será realizado em consonância com um propósito legítimo,
+explícito e específico comunicado ao titular dos dados quando da coleta das informações. O
+princípio da finalidade encontra-se presente em praticamente todos os marcos regulatórios
+modernos sobre proteção de dados, desde que foi enunciado na forma atual em 1973. Trata-se,
+ademais, de instrumento que já possui uma série de expressões no ordenamento jurídico
+nacional. Consagram expressamente este princípio setorial o art. 5º, VII, da Lei 12.414/2011
+(Lei do Cadastro Positivo), e o art. 7º, VIII, da Lei 12.965/2014 (Marco Civil da Internet);
+
+b) Princípio da transparência. Com ampla tessitura normativa, a transparência “pode se
+referir à informação dada ao indivíduo antes do tratamento ter início, à informação que deve
+estar prontamente acessível aos titulares dos dados durante o tratamento, mas também à
+informação fornecida ao titular dos dados após ao requerimento de acesso aos seus próprios
+dados”21. Junto ao princípio da finalidade, faz parte do núcleo duro do direito à proteção de
+dados pessoais, eis que “os objetivos principais da proteção de dados consistem em
+proporcionar uma série de salvaguardas específicas para proteger a privacidade dos indivíduos
+e promover a responsabilidade de governos e entes privados em relação à sua promoção"22.
+Cuida-se de preceito que possui várias manifestações positivadas na legislação
+infraconstitucional especial, que regula aspectos da atividade de tratamento de informações
+pessoais nas relações de consumo, nas interações mediante a internet e pelos atos da
+administração pública — da Lei n. 8.078/1990, art. 7º, VI e VIII; Lei do Cadastro Positivo,
+art. 3º, §§ 1º e 2º, art. 4º, § 4º, III, art. 7º-A, § 1º, e art. 43, §§ 1º, 2º e 6º, Marco Civil da
+Internet; Lei de Acesso à Informação, art. 31;
+
+c) Princípio da adequação. Trata-se de norma que determina que a licitude da operação
+de tratamento depende da sua compatibilidade com a(s) finalidade(s) legítima, específica e
+explícita informada ao titular dos dados, levando-se em consideração o contexto em que se
+realiza o tratamento. Na tradição do direito de proteção de dados, a noção de “adequação” e
+“uso compatível” são compreendidas com um dos elementos estruturantes do princípio da
+
+21 Council of Europe. Handbook on European Data Protection Law. Bruxelas: Publications Office of the
+EU, 2018, p. 120.
+22 "[t]he main aims of data protection consist in providing various specific procedural safeguards to
+protect individuals’ privacy and in promoting accountability by government and private record-holders”
+(trad. livre). HERT, Paul De; GUTWIRTH, Serge. Privacy, data protection and law enforcement:
+opacity of the individual and transparency of power. In: CLAES, Erik; GUTWIRTH, Serg; DUFF,
+Antony (Orgs.). Privacy and the Criminal Law. Antwerpen-Oxford: Intersentia, 2006, p. 77.
+
+
+[[pagina 18 | nativo]]
+finalidade (purpose limitation principle);
+
+d) Princípio da necessidade. O preceito conformador do princípio da necessidade ou
+da minimização dos dados (data minimization), determina que as informações pessoais
+tratadas nas bases de dados dos agentes de tratamento devem ser reduzidas ao mínimo
+necessário para a implementação dos específicos fins pretendidos pela atividade desenvolvida.
+Tal parâmetro normativo se vê insculpido no art. 3º da Lei do Cadastro Positivo, art. 31, §§ 1º
+e 3º da Lei n. 12.527/2011 (Lei de Acesso à Informação), bem como no Marco Civil da
+Internet em seu art. 16, II.
+
+A presença deste direito fundamental à proteção de dados foi reconhecida pelo
+Plenário do STF no julgamento histórico da ADI 6.387/DF (em conjunto com a ADI
+6.388/DF, ADI 6.389/DF, ADI 6.390/DF e ADI 6.391/DF), em que foi ratificada, por maioria
+absoluta, a decisão cautelar proferida pela Relatora Ministra Rosa Weber, pelo que restou
+configurado que a Constituição da República assegura a autonomia do direito
+fundamental à proteção de dados pessoais e à autodeterminação informativa em relação
+ao direito à privacidade e ao sigilo dos dados.
+
+Nas ADIs mencionadas, foi impugnada a Medida Provisória 954, de 17 de Abril de
+2020, que dispunha sobre “o compartilhamento de dados por empresas de telecomunicações
+prestadoras de Serviço Telefônico Fixo Comutado e de Serviço Móvel Pessoal com a
+Fundação Instituto Brasileiro de Geografia e Estatística, para fins de suporte à produção
+estatística oficial durante a situação de emergência de saúde pública de importância
+internacional decorrente do coronavírus (covid-19), de que trata a Lei nº 13.979, de 6 de
+fevereiro de 2020”. A Ministra Relatora Rosa Weber deferiu a cautelar pleiteada,
+suspendendo a eficácia da medida, com a seguinte fundamentação:
+
+A Constituição da República confere especial proteção à intimidade, à vida
+privada, à honra e à imagem das pessoas ao qualificá-las como invioláveis,
+enquanto direitos fundamentais da personalidade, assegurando indenização pelo
+dano material ou moral decorrente da sua violação (art. 5º, X). O assim chamado
+direito à privacidade (right to privacy) e os seus consectários direitos à intimidade,
+à honra e à imagem emanam do reconhecimento de que a personalidade individual
+merece ser protegida em todas as suas manifestações. A fim de instrumentalizar
+tais direitos, a Constituição prevê, no art. 5º, XII, a inviolabilidade do “sigilo da
+correspondência e das comunicações telegráficas, de dados e das comunicações
+telefônicas, salvo, no último caso, por ordem judicial, nas hipóteses e na forma que
+a lei estabelecer para fins de investigação criminal ou instrução penal” (...)
+
+Tais informações, relacionadas à identificação – efetiva ou potencial – de pessoa
+natural, configuram dados pessoais e integram, nessa medida, o âmbito de proteção
+das cláusulas constitucionais assecuratórias da liberdade individual (art. 5º, caput),
+
+
+[[pagina 19 | nativo]]
+da privacidade e do livre desenvolvimento da personalidade (art. 5º, X e XII). Sua
+manipulação e tratamento, desse modo, hão de observar, sob pena de lesão a esses
+direitos, os limites delineados pela proteção constitucional. Decorrências dos
+direitos da personalidade, o respeito à privacidade e à autodeterminação
+informativa foram positivados, no art. 2º, I e II, da Lei nº 13.709/2018 (Lei Geral
+de Proteção de Dados Pessoais), como fundamentos específicos da disciplina da
+proteção de dados pessoais.
+
+Nessa linha, ao não definir apropriadamente como e para que serão utilizados os
+dados coletados, a MP nº 954/2020 não oferece condições para avaliação da sua
+adequação e necessidade, assim entendidas como a compatibilidade do tratamento
+com as finalidades informadas e sua limitação ao mínimo necessário para alcançar
+suas finalidades. Desatende, assim, a garantia do devido processo legal (art. 5º,
+LIV, da Lei Maior), em sua dimensão substantiva23
+
+Por conseguinte, os direitos à proteção de dados pessoais e à autodeterminação
+informativa foram reconhecidos como direitos fundamentais autônomos, com fulcro nos
+artigos 1º, inciso III e 5º, caput, e incisos X, XII e LXXII da Constituição Federal, através da
+decisão proferida pelo Plenário dessa Egrégia Corte nos autos da Ação Direta de
+Inconstitucionalidade 6.387.
+
+Na esfera infraconstitucional, com a edição da Lei 13.709 (LGPD) em 14/08/2018 e
+sua entrada em vigor em 18 de setembro de 202024, o Brasil passou a integrar o grupo de mais
+de 140 países que possuem a sua própria lei de proteção dos dados pessoais. A Lei Geral de
+Proteção de Dados Pessoais (LGPD) aplica-se a operações de tratamento de dados pessoais
+realizadas por pessoa natural ou por pessoa jurídica de direito público ou privado e tem como
+alguns dos seus fundamentos o respeito à privacidade, a autodeterminação informativa, os
+direitos humanos, o livre desenvolvimento da personalidade, a dignidade e o exercício da
+cidadania pelas pessoas naturais.
+
+V. c) - Das inconstitucionalidades materiais do Decreto nº 10.046/2019
+
+De acordo com o preâmbulo do Decreto nº 10.046/2019, pretende-se regulamentar o
+Capítulo IV da LGPD, que cuida especificamente do tratamento de dados pelos órgãos
+
+23 Supremo Tribunal Federal, Ação Direta de Inconstitucionalidade nº. 6387, Relatora Ministra Rosa Weber,
+Decisão Monocrática 24/04/2020.
+24 Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2018/lei/L13709.htm Acesso em:
+20/09/2020.
+
+
+[[pagina 20 | nativo]]
+públicos. Nos termos do art. 26 da LGPD, o uso compartilhado de dados pessoais pelo Poder
+Público deve atender a finalidades específicas de execução de políticas públicas e atribuição
+legal pelos órgãos e pelas entidades públicas, respeitados os princípios de proteção de dados
+pessoais elencados no art. 6º da própria LGPD, que são os seguintes:
+
+I- finalidade: realização do tratamento para propósitos legítimos, específicos,
+explícitos e informados ao titular, sem possibilidade de tratamento posterior de
+forma incompatível com essas finalidades;
+II - adequação: compatibilidade do tratamento com as finalidades informadas ao
+titular, de acordo com o contexto do tratamento;
+III - necessidade: limitação do tratamento ao mínimo necessário para a realização
+de suas finalidades, com abrangência dos dados pertinentes, proporcionais e não
+excessivos em relação às finalidades do tratamento de dados;
+IV - livre acesso: garantia, aos titulares, de consulta facilitada e gratuita sobre a
+forma e a duração do tratamento, bem como sobre a integralidade de seus dados
+pessoais;
+V - qualidade dos dados: garantia, aos titulares, de exatidão, clareza, relevância e
+atualização dos dados, de acordo com a necessidade e para o cumprimento da
+finalidade de seu tratamento;
+VI - transparência: garantia, aos titulares, de informações claras, precisas e
+facilmente acessíveis sobre a realização do tratamento e os respectivos agentes de
+tratamento, observados os segredos comercial e industrial;
+VII - segurança: utilização de medidas técnicas e administrativas aptas a proteger
+os dados pessoais de acessos não autorizados e de situações acidentais ou ilícitas de
+destruição, perda, alteração, comunicação ou difusão;
+VIII - prevenção: adoção de medidas para prevenir a ocorrência de danos em
+virtude do tratamento de dados pessoais;
+IX - não discriminação: impossibilidade de realização do tratamento para fins
+discriminatórios ilícitos ou abusivos;
+X - responsabilização e prestação de contas: demonstração, pelo agente, da
+adoção de medidas eficazes e capazes de comprovar a observância e o
+cumprimento das normas de proteção de dados pessoais e, inclusive, da eficácia
+dessas medidas.
+
+Entretanto, o Cadastro Base do Cidadão e o Comitê Central de Governança instituídos
+pelo Decreto nº 10.046/2019 desrespeitam princípios basilares da LGPD, como veremos a
+seguir, ao institucionalizar e regulamentar um cadastro unificado que será compartilhado
+pelos órgãos do poder público federal de forma praticamente livre.
+
+Outra grande apreensão são as prováveis vulnerabilidades de segurança de um banco
+de dados descomunal, como esse Cadastro Base do Cidadão. Desta forma, são preocupantes
+
+
+[[pagina 21 | nativo]]
+os riscos de vazamentos e de incidentes de segurança que podem comprometer
+irreversivelmente a privacidade e a proteção de dados dos cidadãos brasileiros.25
+
+O Decreto nº 10.046/2019 revogou o Decreto nº 8.789/2016. Este último já era
+passível de críticas por carregar lacunas e possíveis riscos à privacidade e à proteção de dados
+dos cidadãos.26 O Decreto nº 8.789/2016 dispunha, no seu art. 8º, que a solicitação de acesso a
+bases de dados de outros órgãos públicos federais (apenas do Poder Executivo Federal) se
+daria por uma solicitação formal específica e fundamentada, com diversos requisitos, como a
+identificação do solicitante e do seu endereço eletrônico institucional, a descrição clara dos
+dados objeto da solicitação e da periodicidade da necessidade de utilização, bem como a
+descrição das finalidades de uso dos dados, além de medidas atinentes à segurança de acesso à
+base de dados. Além disso, previa, no seu art. 3º, hipóteses de liberação automática do
+compartilhamento de dados cadastrais, e no caso de dados individualizados não cadastrais, o
+compartilhamento seria realizado de acordo com as necessidades dos órgãos interessados (art.
+5º).
+
+Na época da sua edição, o Decreto nº 8.789/2016 fora divulgado como medida de
+“modernização da administração pública” e “simplificação” dos mecanismos de promoção da
+eficiência na gestão pública, o que gera total perplexidade diante dos resultados inexpressivos
+desse ato normativo.
+
+Todavia, em outubro de 2019, com o mesmo discurso de “moderna solução
+tecnológica para os graves problemas das bases de dados governamentais, das fraudes e das
+inconsistências na execução das políticas públicas”, entrou em vigor o Decreto 10.046/2019,
+trazendo riscos infinitamente maiores à privacidade e à proteção de dados em comparação
+ao Decreto nº 8.789/2016.
+
+Outrossim, o cenário jurídico de 2019 era totalmente diverso do cenário de 2016, uma
+vez que a Lei Geral de Proteção de Dados Pessoais fora sancionada em 2018, aguardando
+
+25 O vazamento de dados é um tema que tem chamado cada vez mais atenção e este foi um dos maiores impulsos
+para a criação de lei específica sobre o tema. Uma das exigências para o ingresso do Brasil na OCDE
+(Organização para a Cooperação e Desenvolvimento Econômico) e em outras entidades internacionais
+importantes - como a Eurojustice e a Europol - foi a aprovação de uma lei geral de proteção de dados pessoais. É
+indispensável, contudo, que o nosso país demonstre que a LGPD não terá um caráter meramente decorativo.
+Todos os países que ingressam nesses organismos internacionais devem cumprir requisitos técnicos para se
+adequar aos princípios defendidos pelas organizações, que incluem a proteção dos dados pessoais nas transações
+comerciais e existência de uma autoridade nacional de proteção de dados independente.
+26 É importante destacar que os dados protegidos por sigilo fiscal sob gestão da Secretaria da Receita Federal
+estavam excluídos desse compartilhamento sob a égide do Decreto nº 8.789/2016 e continuam excluídos, nos
+termos do §2º do art. 1º do Decreto nº 10.046/2019.
+
+
+[[pagina 22 | nativo]]
+apenas o término do período da vacatio legis, enquanto a PEC 17/2019 já tramitava no
+Congresso Nacional.27 Ressalte-se que o período de vacatio da LGPD destinava-se à
+adequação dos setores público e privado, de forma que, até setembro de 2020, todo o sistema
+de proteção de dados insculpido pela LGPD fosse a referência para a elaboração de políticas
+públicas e para as regulamentações setoriais necessárias.
+
+Embora o art. 3º, inciso I, do Decreto nº 10.046/2019 preveja - dentre as diretrizes
+elencadas para o compartilhamento de dados - que se observe o disposto na LGPD, verifica-se
+no detalhamento das demais normas do decreto que as regras adotadas para o
+compartilhamento de dados pelos órgãos governamentais permitem interligar bases e cruzar
+dados pessoais sem critérios que sejam conhecidos dos cidadãos: sem informações claras,
+adequadas e transparentes sobre a realização da coleta e do tratamento, bem como, sobre
+quem são e como agem os agentes do tratamento.
+
+O sistema de controle desses agentes é totalmente falho, de forma a fragilizar os
+direitos fundamentais. Essa opacidade também trará insegurança jurídica, tendo em conta
+que o tratamento de dados pessoais com genéricos objetivos - como o aumento da eficiência
+na prestação dos serviços públicos - pode facilitar violações aos direitos humanos.
+
+Os fundamentos da decisão cautelar de suspensão da Medida Provisória nº 954/2020
+aplicam-se à análise da constitucionalidade do Decreto nº 10.046/2019, visto que inexiste uma
+definição apropriada de como e com quais finalidades serão tratados os dados pessoais.
+
+Aliás, não há condições para aferição e avaliação da adequação e necessidade do
+compartilhamento pelos órgãos do governo federal - entidades da administração pública direta
+federal e indireta -, incluindo não só Poder Executivo Federal, como também os demais
+Poderes. Destacou a Min. Rosa Weber na sua belíssima decisão já citada: “Não bastasse, a
+ausência de garantias de tratamento adequado e seguro dos dados compartilhados parece-
+me agravada pela circunstância de que, embora aprovada, ainda não está em vigor a Lei
+Geral de Proteção de Dados Pessoais (Lei nº 13.709/2018), definidora dos critérios para a
+
+27 A PEC 17/2019 inclui, no art. 5º da Constituição Federal, a proteção de dados pessoais entre os direitos e
+garantias fundamentais, além de fixar a competência privativa da União para legislar sobre proteção e tratamento
+de dados pessoais. Ademais, de acordo com o substitutivo do Relator da PEC, fica estabelecido que o órgão
+regulador será entidade independente, integrante da administração pública federal indireta, submetida a regime
+autárquico especial.
+
+
+[[pagina 23 | nativo]]
+responsabilização dos agentes por eventuais danos ocorridos em virtude do tratamento de
+dados pessoais”.28
+
+Deve-se ressaltar que os atos arbitrários do governo federal não cessaram após a
+histórica decisão do STF: situação análoga ao que já fora exposto na ADI nº 6.387/DF foi
+apresentada na Arguição de Descumprimento de Preceito Fundamental nº 695/DF, na qual é
+objeto de análise um ato do Poder Executivo que autorizava o compartilhamento de dados
+pessoais de cerca de 76 milhões de brasileiros, justamente com fundamento no Decreto nº
+10.046/2019. Neste caso, o compartilhamento de dados pessoais de cerca de 30% da
+população - sem a previsão de finalidade, adequação e necessidade - entre DENATRAN e
+ABIN, sob gerenciamento do SERPRO, configuraria situação de afronta aos direitos
+fundamentais, bem como, de desrespeito a princípios da Administração Pública.
+
+Após a iniciativa do governo - que resolveu revogar o termo de autorização que
+permitia o mencionado compartilhamento - o Eminente Ministro Relator Gilmar Mendes
+proferiu decisão nos autos da ADPF nº 695/DF na qual asseverou que “é dever
+constitucional deste STF debruçar-se sobre a matéria, evitando-se que situações graves
+que colocam em risco a violação de preceitos fundamentais sejam perpetradas com
+suposto fundamento no Decreto nº 10.046, de 9 de outubro de 2019. Destaca-se ainda
+que a presente decisão não obsta a eventual análise de medida acauteladora relacionada
+a alegações de inconstitucionalidade deste ato normativo”29 (grifos nossos).
+
+O Decreto nº 10.046/2019 não possibilita uma análise do contexto do uso das
+informações, das hipóteses previstas para compartilhamento de dados, da finalidade de sua
+utilização, dos riscos a que ficam expostos os cidadãos e da legitimidade das atividades
+envolvendo tratamento de dados pessoais. Neste sentido, “entra em ação a proteção
+constitucional se a informação for usada para uma finalidade que cause riscos aos cidadãos,
+ou para fins considerados ilícitos a priori (como é o caso, por exemplo, de bancos de dados
+criados para fins discriminatórios)”.30
+
+A LGPD foi elaborada com específicos mecanismos legais de compatibilização do
+fluxo de dados pessoais com a privacidade e a proteção de dados pessoais, haja vista que
+
+28 Supremo Tribunal Federal, Ação Direta de Inconstitucionalidade nº 6.387/DF, Relatora Ministra Rosa
+Weber, Decisão Monocrática 24/04/2020.
+29 Supremo Tribunal Federal, Arguição de Descumprimento de Preceito Fundamental nº. 695/DF, Relator
+Ministro Gilmar Mendes, Decisão Monocrática 24/06/2020.
+30 MENDES, Laura Schertel Ferreira. Habeas Data e Autodeterminação Informativa: Os Dois Lados da Mesma
+Moeda. Direitos Fundamentais & Justiça. Revista Brasileira De Direitos Fundamentais & Justiça, 12(39), 185-
+216. Disponível em: https://doi.org/10.30899/dfj.v12i39.655 Acesso em: 08/08/2020.
+
+
+[[pagina 24 | nativo]]
+prevê a possibilidade de compartilhamento de dados para a execução de políticas públicas
+com a observância de normas que salvaguardam os direitos fundamentais. Portanto, a LGPD
+não admite a integração a priori dos dados em um cadastro unificado e gigantesco.
+
+A partir de uma abordagem voltada ao risco (risk-based approach), a LGPD prevê
+específicos mecanismos legais de compatibilização do fluxo de dados pessoais com o
+imperativo (constitucional) de proteção de dados pessoais, de sorte a diminuir a probabilidade
+e o risco de, em razão das operações de tratamento de dados, de ofensa a esse direito e outras
+liberdades fundamentais31. A possibilidade de legítimo compartilhamento de dados para a
+execução de políticas públicas é um exemplo em que dita compatibilização é levada a efeito.
+Isso, porém, se dá, de acordo com o sistema de proteção de dados pessoais brasileiro, à luz
+dos riscos ensejados pelas operações de tratamento que se pretende realizar, os quais podem
+tornar imprescindíveis a adoção de medidas e procedimentos para salvaguardar os direitos e
+liberdades fundamentais dos titulares dos dados. A complexidade e volume de dados
+envolvidos na criação de um cadastro único têm tamanho significado que, para a estipulação
+das medidas e salvaguardas necessárias, importa a realização de avaliação de impacto à
+proteção de dados pessoais e do respectivo relatório (LGPD, art. 38). Tal análise de impacto
+sequer foi ventilada pelo Poder Executivo.
+
+Ademais, a LGPD obriga, no seu art. 23, que as pessoas jurídicas de direito público
+interno previstas no parágrafo único do art. 1º da Lei de Acesso à Informação observem, em
+relação ao tratamento de dados pessoais que estão sob a sua guarda, que este se dê para o
+atendimento de sua finalidade pública, na persecução do interesse público, com o objetivo de
+executar as competências legais ou cumprir as atribuições legais do serviço público, desde
+que:
+
+I- sejam informadas as hipóteses em que, no exercício de suas competências,
+realizam o tratamento de dados pessoais, fornecendo informações claras e
+atualizadas sobre a previsão legal, a finalidade, os procedimentos e práticas
+utilizadas para a execução dessas atividades, em veículos de fácil acesso,
+preferencialmente em seus sítios eletrônicos;
+II-seja indicado um encarregado quando realizarem operações de tratamento de
+dados pessoais.
+
+O art. 4º do Decreto nº 10.046/2019, que teve o seu § 3º alterado pelo Decreto nº
+10.403/2020, prevê a criação de 3 níveis de compartilhamento, de acordo com sua
+confidencialidade (amplo, restrito e específico), ficando a cargo do “gestor de dados” a
+
+31 Cf. MANTELERO, Alessandro. Responsabilità e rischio nel Reg. UE 2016/679. Le Nuove Leggi
+Civili Commentate, v. XL, n. 1, p. 144–164, 2017, p. 150 et. seq.
+
+
+[[pagina 25 | nativo]]
+categorização do nível de compartilhamento. A opacidade desta regra é preocupante e o nível
+de governança desse sistema padece de grande subjetividade. Neste sentido, nota-se uma
+despreocupação do Decreto na definição das modalidades de compartilhamento de dados
+pessoais. Ao definir estes níveis de compartilhamento levando em consideração se os dados
+são "públicos" ou "protegidos por sigilo", o Decreto aposta em uma dicotomia absolutamente
+superada. O binômio dados públicos - dados sigilosos, com foco no regime de acesso ao dado,
+é incompatível com as salvaguardas impostas pela disciplina de proteção de dados pessoais. O
+nível de acesso ao dado, se público ou restrito, não pode ser o balizador da proteção. Deve-se
+considerar, por sua vez, se o dado é pessoal ou não.
+
+A bem da verdade, qualquer sistema de proteção de dados baseado na mera efetivação
+do dever de sigilo afigura-se, hoje, absolutamente insuficiente em vista do direito fundamental
+à proteção de dados. Na perspectiva do sigilo não estão contido diversos aspectos deste
+referido direito, quais sejam aqueles referentes aos poderes de controle do cidadão sobre seus
+dados - que inclusive lhe facultam que forneça seus dados a terceiros e que depois possa
+controlar o regime de uso que lhes é proporcionado, bem como diversos aspectos da
+transparência. Regimes baseados no sigilo, hoje, falham impiedosamente em perceber e dar
+uma uma resposta eficiente à natureza complexa e multifacetada do uso de informações
+pessoais, que implicam na utilização de instrumentos normativos mais complexos, tais quais
+os que a Lei Geral de Proteção de Dados procura implementar
+
+Ainda, a figura do “gestor de dados” presente no referido Decreto foge completamente
+às figuras do controlador e do operador, previstas na LGPD, não havendo clareza quanto às
+regras acerca da responsabilização e prestação de contas.
+
+Não há qualquer previsão no tocante à elaboração de relatórios de impacto de
+proteção de dados nem são evidenciados os mecanismos adequados de segurança da
+informação. E o “gestor de dados” também não se compatibiliza com a figura do encarregado
+de tratamento de dados pessoais, conforme o disposto no art. 23, inciso III, da lei geral.
+
+Art. 4º. O compartilhamento de dados entre os órgãos e as entidades de que trata o
+art. 1º é categorizado em três níveis, de acordo com sua confidencialidade:
+I – compartilhamento amplo, quando se tratar de dados públicos que não estão
+sujeitos a nenhuma restrição de acesso, cuja divulgação deve ser pública e
+garantida a qualquer interessado, na forma da legislação;
+II – compartilhamento restrito, quando se tratar de dados protegidos por sigilo,
+nos termos da legislação, com concessão de acesso a todos os órgãos e entidades de
+que trata o art. 1º para a execução de políticas públicas, cujo mecanismo de
+compartilhamento e regras sejam simplificados e estabelecidos pelo Comitê
+Central de Governança de Dados; e
+
+
+[[pagina 26 | nativo]]
+III – compartilhamento específico, quando se tratar de dados protegidos por
+sigilo, nos termos da legislação, com concessão de acesso a órgãos e entidades
+específicos, nas hipóteses e para os fins previstos em lei, cujo compartilhamento e
+regras sejam definidos pelo gestor de dados.
+§ 1º. A categorização do nível de compartilhamento será feita pelo gestor de
+dados, com base na legislação.
+§ 2º. A categorização do nível de compartilhamento será detalhada de forma a
+tornar clara a situação de cada item de informação.
+§ 3º. A categorização do nível de compartilhamento como restrito ou
+específico observará as regras de compartilhamento de que trata o art. 31 e
+será publicada pelo respectivo gestor de dados, em prazo a ser definido pelo
+Comitê Central de Governança de Dados, que considerará, para a tomada de
+decisão, o disposto no Decreto Legislativo nº 6, de 20 de março de 2020.
+§ 4º. A categorização do nível de compartilhamento como restrito e específico
+especificará o conjunto de bases de dados por ele administrado com restrições de
+acesso e as respectivas motivações.
+§ 5º. A categorização do nível de compartilhamento, na hipótese de ainda não ter
+sido feita, será realizada pelo gestor de dados quando responder a solicitação de
+permissão de acesso ao dado.
+§ 6º. A categorização do nível de compartilhamento será revista a cada cinco anos,
+contados da data de publicação deste Decreto ou sempre que identificadas
+alterações nas diretrizes que ensejaram a sua categorização.
+
+§ 7º. Os órgãos e entidades de que trata o art. 1º priorizarão a categoria de
+compartilhamento de dados de maior abertura, em compatibilidade com as
+diretrizes de acesso a informação previstas na legislação.
+
+Insta frisar que interligar bases de dados e permitir o seu cruzamento sem critérios
+devidamente esclarecidos enfraquece o direito à autodeterminação informativa. Os titulares
+dos dados serão privados de informações claras, adequadas e facilmente acessíveis sobre a
+coleta e sobre a realização do tratamento dos dados. E ainda causa maior temor a eventual
+implementação de programas futuros de compartilhamento através de convênios de acesso
+com empresas privadas - que se conectariam a esses dados pessoais através do cadastro
+centralizado.
+
+O cidadão estaria obrigado a aceitar a coleta estatal de um dado pessoal para uma
+estipulada finalidade (como a execução de uma determinada política pública), com base no
+art. 7º, inciso III, da LGPD. Contudo, viveria em um regime de permanente insegurança,
+posto que o dado coletado mediante aquela finalidade poderia ser utilizado seguidamente para
+uma outra finalidade e assim sucessivamente, sem o seu conhecimento. Isto viola a
+Constituição Federal e a LGPD, bem como, está em total desconformidade com as regras e os
+padrões internacionais de proteção de dados.
+
+
+[[pagina 27 | nativo]]
+Neste sentido, a LGPD prevê que o tratamento e compartilhamento de dados pela
+administração pública, dentre as hipóteses elencadas nas bases legais do art. 7º, restringe-se
+aos dados necessários para a execução daquela determinada política pública, não para uma
+cadeia indefinida e indeterminada de finalidades inadequadas e/ou obscuras.
+
+Entendemos que qualquer compartilhamento de dados pessoais sem critérios claros,
+sem a finalidade adequada, definida e compatível - com preocupante opacidade quanto aos
+procedimentos adotados - estaria vedado pela LGPD e violaria os dispositivos
+constitucionais atinentes à privacidade e à proteção de dados.
+
+V. d) - Criação de novos conceitos de dados pessoais alheios à LGPD: Ampliação da
+
+coleta de dados pessoais sensíveis e criação de um sistema de vigilância massivo
+
+Causou perplexidade entre os especialistas em proteção de dados a inserção, no
+Decreto nº 10.046/2019, de conceitos estranhos à LGPD no que diz respeito aos dados
+pessoais, como atributos biográficos e biométricos. Os atributos biométricos, em uma relação
+não taxativa (art. 2º, II, do Decreto), incluem a retina ou a íris dos olhos, o formato da face, a
+voz e a maneira de andar. Desta forma, amplia-se sobremaneira a extensão dos dados
+cadastrais que serão coletados e tratados pelos órgãos governamentais.
+
+Nos incisos VI e VII, o art. 2º cria a base integradora (inciso VI) - que é a base de
+dados que integra os atributos biográficos ou biométricos das bases temáticas - e a base
+temática (inciso VII) - base de dados de determinada política pública que contenha dados
+biográficos ou biométricos que possam compor a base integradora.
+
+Art. 2º. Para fins deste Decreto, considera-se:
+I- atributos biográficos – dados de pessoa natural relativos aos fatos da sua vida,
+tais como nome civil ou social, data de nascimento, filiação, naturalidade,
+nacionalidade, sexo, estado civil, grupo familiar, endereço e vínculos
+empregatícios;
+II- atributos biométricos - características biológicas e comportamentais
+mensuráveis da pessoa natural que podem ser coletadas para reconhecimento
+automatizado, tais como a palma da mão, as digitais dos dedos, a retina ou a íris
+dos olhos, o formato da face, a voz e a maneira de andar; (...)
+VI - base integradora - base de dados que integra os atributos biográficos ou
+biométricos das bases temáticas;
+
+
+[[pagina 28 | nativo]]
+VII - base temática - base de dados de determinada política pública que contenha
+dados biográficos ou biométricos que possam compor a base integradora; (...).
+
+O conteúdo dos dados biográficos inclui dados inexistentes nas anteriores bases
+cadastrais e de conceituação extremamente vaga, como “fatos da sua vida” (art. 2º, I, do
+Decreto 10.046/2019) e “grupo familiar”. Atualmente o conceito de família não se limita à
+família biológica, mas inclui a família socioafetiva, o que, por si só, já amplia vastamente a
+base de dados biográficos dos cidadãos.
+
+O art. 2º do Decreto nº 10.046/2019 considera, no seu inciso I, como atributos
+biográficos, os dados de pessoa natural relativos aos fatos da sua vida, tais como nome civil
+ou social, data de nascimento, filiação, naturalidade, nacionalidade, sexo, estado civil, grupo
+familiar, endereço e vínculos empregatícios. No inciso II do art. 2º, ficam definidos, como
+atributos biométricos, características biológicas e comportamentais mensuráveis da pessoa
+natural que podem ser coletadas para reconhecimento automatizado, tais como a palma da
+mão, as digitais dos dedos, a retina ou a íris dos olhos, o formato da face, a voz e a maneira de
+andar.
+
+Além disso, as chamadas base integradora e base temática (art. 2º, incisos VI e VII do
+Decreto 10.046/2019) - bases que integrarão os atributos biográficos previstos no art. 2º, I, e
+os atributos biométricos previstos no art. 2º, II - provocam indagações sobre o contexto em
+que ocorrerão o tratamento e a utilização dessas novas bases e o cruzamento desses dados,
+principalmente diante dos avanços dos sistemas de tratamento automatizado e dos
+mecanismos de decisão automatizada decorrentes do crescimento exponencial da inteligência
+artificial (como o reconhecimento facial). Tais informações podem ser utilizadas para um
+controle político intenso dos cidadãos, típico de regimes totalitários.
+
+Como a chamada Biometria Comportamental está em franca expansão - sendo
+especialmente incorporada pelas tecnologias de monitoramento -, temos um indício de que a
+coleta desses dados poderá ser massiva, com o argumento de que o Estado está adotando
+políticas públicas para evitar fraudes e para promover maior segurança para a população.
+Essas políticas deveriam ser adotadas com maior grau de transparência, sob pena de se criar
+um estado de permanente vigilância, com drásticas consequências para os direitos individuais.
+
+Uma outra grande preocupação surge do descompasso entre as normas do Decreto
+nº 10.046/2019 e o tratamento que a LGPD disciplina para a coleta dos dados pessoais
+sensíveis, que estão elencados no art. 5º, inciso II: dado pessoal sobre origem racial ou étnica,
+
+
+[[pagina 29 | nativo]]
+convicção religiosa, opinião política, filiação a sindicato ou a organização de caráter religioso,
+filosófico ou político; dado referente à saúde ou à vida sexual; dado genético ou biométrico.
+
+Muitos desses novos atributos biográficos e biométricos que integrarão as bases
+integradora e temática serão considerados dados sensíveis, exigindo a observância das regras
+específicas do art. 11 da LGPD, que disciplina procedimentos diferenciados para a coleta e o
+tratamento de dados sensíveis. Por exemplo, deve ser dada publicidade à dispensa do
+consentimento, nos termos do §2º do art. 11 e do inciso I do art. 23 da LGPD.
+
+Além disso, o Decreto, ao permitir o compartilhamento de dados cadastrais, tenta
+transmitir a ideia que o uso de "dados cadastrais" seria livre de riscos para os cidadãos. Nada
+mais incorreto. Em primeiro lugar, dados cadastrais são dados pessoais. Neste sentido, a mera
+presença de simples dados cadastrais - como nome ou CPF - em um tipo específico de banco
+de dados pode revelar uma série de outras informações pela análise do contexto. Basta pensar
+nas múltiplas possibilidades de bancos de dados envolvendo políticas públicas que apontem
+pessoas em estado de vulnerabilidade social (situação de pobreza, analfabetismo, subnutrição,
+etc). Ainda, a presença do nome de uma pessoa em um cadastro relacionado com políticas
+públicas de proteção à comunidade LGBT, por exemplo, revelariam uma "situação sensível".
+O dado cadastral, por si só, não seria considerado sensível, mas sua presença naquele banco
+de dados poderia revelar, pelo contexto, a orientação sexual dos envolvidos. Nada disso,
+conforme se depreende pela leitura do Decreto, foi levado em consideração.
+
+V. e) - Superposição de Órgãos e Problemas de Governança, Fiscalização e Enforcement
+
+No art. 21, o Decreto nº 10.046/2019 institui o Comitê Central de Governança, que é
+integrado apenas por funcionários da administração direta federal (art. 22), sem qualquer
+previsão de composição multissetorial. Todavia, em questões relacionadas à tecnologia, a
+experiência brasileira (e internacional) mostra que o multissetorialismo é a melhor prática.32
+
+Trata-se de um desenho institucional inadequado para promover a segurança, a
+necessidade, a adequação e a boa-fé no compartilhamento e utilização das informações
+pessoais. Os §§ 1º a 3º do art. 21 são insuficientes para o adequado, democrático e plural
+exercício das atribuições do Comitê, haja vista que: a) o § 1º somente estabelece a
+
+32 A participação no Comitê (com garantia de assento) do setor privado, da sociedade civil organizada e da
+comunidade técnica garantiria que as questões relacionadas entre direito e tecnologia tivessem uma visão
+multidisciplinar. A LGPD e o Marco Civil da Internet (Lei 12.485/2014) apontam para essa composição, com o
+Conselho Nacional de Proteção de Dados e Privacidade (CNPD) e o Comitê Gestor da Internet (CGI.Br).
+
+
+[[pagina 30 | nativo]]
+observância da Comissão Mista de Reavaliação de Informações a respeito do acesso público
+de informações; b) o § 2º fixa a possibilidade de consulta apenas ao Comitê Interministerial
+de Governança apenas em “casos considerados estratégicos”; c) os subcomitês técnicos
+previstos no § 3º terão o papel limitado a assessoria e não deliberação.
+
+Art. 21. Fica instituído o Comitê Central de Governança de Dados, a quem
+compete deliberar sobre:
+§ 1º Para fins do disposto no caput, o Comitê Central de Governança de Dados
+observará as deliberações da Comissão Mista de Reavaliação de Informações, de
+que trata a Lei nº 12.527, de 18 de novembro de 2011, a respeito do acesso público
+a dados e informações.
+§ 2º O Comitê Central de Governança de Dados poderá consultar o Comitê
+Interministerial de Governança em casos considerados estratégicos.
+§ 3º Os subcomitês técnicos de que trata o inciso X do caput:
+I - serão instituídos e compostos na forma de ato do Comitê;
+II - não poderão ter mais de sete membros;
+III - na hipótese de serem temporários, terão duração não superior a um ano; e
+IV - estão limitados a quatro operando simultaneamente.
+
+Os níveis de compartilhamento de dados previstos no Decreto nº 10.046/2019 são três:
+amplo, restrito e específico, nos termos do art. 4º, I a III, Em relação a esses níveis de
+compartilhamento e a outras questões centrais relativas à governança desse sistema, não há
+delimitação precisa sobre pontos relevantes, atribuindo-se ao Comitê Central de
+Governança, nos incisos I a XIII do art. 21, as seguintes deliberações:
+
+Art. 21. Fica instituído o Comitê Central de Governança de Dados, a quem
+compete deliberar sobre:
+I - as orientações e as diretrizes para a categorização de compartilhamento amplo,
+restrito e específico, e a forma e o meio de publicação dessa categorização,
+observada a legislação pertinente, referente à proteção de dados pessoais;
+II - as regras e os parâmetros para o compartilhamento restrito, incluídos os
+padrões relativos à preservação do sigilo e da segurança;
+III - a compatibilidade entre as políticas de segurança da informação e as
+comunicações efetuadas pelos órgãos e entidades de que trata o art. 1º, no âmbito
+das atividades relativas ao compartilhamento de dados;
+IV - a forma de avaliação da integridade, da qualidade e da consistência de bases
+de dados derivadas da integração de diferentes bases com o Cadastro Base do
+Cidadão;
+V - as controvérsias sobre a validade das informações cadastrais e as regras de
+prevalência entre eventuais registros administrativos conflitantes, quando ocorrer o
+cruzamento de informações entre bases de dados do Cadastro Base do Cidadão;
+VI - as orientações e as diretrizes para a integração dos órgãos e das entidades de
+que trata o art. 1º com o Cadastro Base do Cidadão;
+
+
+[[pagina 31 | nativo]]
+VII - a inclusão, na base integradora do Cadastro Base do Cidadão, de novos dados
+provenientes das bases temáticas, considerada a eficiência técnica e a
+economicidade;
+VIII - a escolha e aprovação das bases temáticas que serão integradas ao Cadastro
+Base do Cidadão e a definição do cronograma de integração, em comum acordo
+com os gestores de dados;
+IX - as propostas relativas à estratégia para viabilizar, econômica e
+financeiramente, o Cadastro Base do Cidadão no âmbito do setor público;
+X - a instituição de subcomitês técnicos permanentes ou temporários, para
+assessorá-lo em suas atividades;
+XI - a instituição de outros cadastros base de referência do setor público de uso
+obrigatório pelos órgãos e entidades de que trata o art. 1º; e
+XI - a instituição de outros cadastros base de referência do setor público de uso
+obrigatório pelos órgãos e entidades de que trata o art. 1º; (Redação dada pelo
+Decreto nº 10.403, de 2020)
+XII - seu regimento interno.
+XII - seu regimento interno; e (Redação dada pelo Decreto nº 10.403, de
+2020)
+XIII - o prazo para a publicação da categorização do nível de compartilhamento de
+que trata o § 3º do art. 4º. (Incluído pelo Decreto nº 10.403, de 2020)
+
+Sendo um comitê que definirá questões fundamentais para o sistema jurídico de
+proteção de dados pessoais de todos os brasileiros, a falta da Autoridade Nacional de Proteção
+de Dados (ANPD) importa na ausência de supervisão e de fiscalização da autoridade
+competente, o que pode resultar em deliberações desastrosas para os titulares de dados
+pessoais.
+
+Além do mais, existem evidências de que ocorrerão conflitos de atribuições ou mesmo
+uma superposição de atribuições entre a ANPD e o Comitê Central de Governança, diante das
+antinomias de normas jurídicas.
+
+O art. 55-K da LGPD prevê que a aplicação das sanções previstas na lei compete
+exclusivamente à ANPD e suas competências prevalecerão, no que se refere à proteção de
+dados pessoais, sobre as competências correlatas de outras entidades ou órgãos da
+administração pública.
+
+Nos termos do parágrafo único do art. 55-K, a ANPD articulará sua atuação com
+outros órgãos e entidades com competências sancionatórias e normativas afetas ao tema de
+proteção de dados pessoais e será o órgão central de interpretação desta Lei e do
+estabelecimento de normas e diretrizes para a sua implementação.
+
+Como analisado, o decreto impugnado, nos seus arts. 21 e 31, delega atribuições ao
+Comitê Central de Governança de Dados no tocante à deliberação sobre as regras de
+
+
+[[pagina 32 | nativo]]
+compartilhamento e segurança, além de diversas matérias que deveriam ser objeto de
+deliberação da ANPD. O art. 26, caput, do Decreto nº 10.046/2019 prevê que as
+controvérsias no compartilhamento de dados entre órgãos e entidades públicas federais
+solicitantes de dados e o gestor de dados serão decididas pelo Comitê Central de Governança
+de Dados, com a possibilidade de consulta ao Comitê Interministerial de Governança, sem
+qualquer previsão de consulta à ANPD, contrariando o art. 55-K da LGPD.
+
+Art. 26. As controvérsias no compartilhamento de dados entre órgãos e entidades
+públicas federais solicitantes de dados e o gestor de dados serão decididas pelo
+Comitê Central de Governança de Dados.
+
+§ 1º. As resoluções do Comitê Central de Governança de Dados a respeito de
+controvérsias observarão as normas que protegem os dados objeto da controvérsia.
+§ 2º Para fins do disposto no caput, o Comitê Central de Governança de Dados
+poderá consultar o Comitê Interministerial de Governança.
+§ 3º O Comitê Central de Governança de Dados atuará de forma a buscar a
+composição de interesses entre as partes envolvidas na solução das controvérsias
+que lhe forem encaminhadas e se manifestará por meio de resolução.
+§ 4º A revisão da categorização dos níveis de compartilhamentos de dados pelo
+Comitê Central de Governança de Dados será de ofício, com a anuência do Comitê
+Interministerial de Governança, ou mediante provocação do solicitante de dados.
+
+§ 5º A Secretaria de Governo Digital da Secretaria Especial de Desburocratização,
+Gestão e Governo Digital do Ministério da Economia, na qualidade de Secretaria-
+Executiva do Comitê Central de Governança de Dados, poderá responder
+diretamente ao solicitante de dados, se houver resolução anterior sobre o mesmo
+pleito.
+
+Reitere-se: o fato de a Autoridade Nacional de Proteção de Dados (ANPD) ainda não
+ter sido instalada fragiliza ainda mais os direitos fundamentais à privacidade e à
+proteção de dados pessoais, causando insegurança jurídica aos brasileiros, porquanto
+compete à ANPD solicitar aos órgãos e às entidades do poder público informações sobre o
+âmbito e a natureza dos dados e outros detalhes do tratamento realizado, podendo emitir
+parecer técnico complementar para garantir o cumprimento da LGPD (art. 29); estabelecer
+normas complementares para as atividades de comunicação e de uso compartilhado de dados
+pessoais (art. 30); enviar informes com medidas cabíveis para cessar violações (art. 31);
+solicitar relatórios de impacto à proteção de dados pessoais, bem como, sugerir a adoção de
+padrões e de boas práticas para os tratamentos de dados pessoais pelo Poder Público (art. 32
+da LGPD).
+
+
+[[pagina 33 | nativo]]
+Atribuições fundamentais da ANPD - relacionadas aos seus poderes de fiscalização e
+de enforcement, previstos na LGPD - incluem, ainda, a averiguação de violações em
+decorrência do tratamento de dados pessoais por órgãos públicos e a adoção de medidas
+cabíveis para fazer cessar a violação, inclusive as sanções administrativas previstas nos
+incisos I, IV, V, VI, X, XI e XII do art. 52, que podem ser aplicadas às entidades e aos órgãos
+públicos, sem prejuízo do disposto no Estatuto do Servidor Público, na Lei de Improbidade
+Administrativa e na Lei de Acesso à Informação.
+
+É incontestável que o Decreto nº 10.046/2019 invade competência normativa que
+não lhe é outorgada pela Carta Magna, viola direitos fundamentais e, na prática,
+estabelece regras que sugerem uma quase-exclusão do Poder Público Federal do arcabouço
+normativo da Lei Geral de Proteção de Dados Pessoais.
+
+Por outro lado, o Decreto nº 10.046/2019 cria um poderoso instrumento estatal para
+elaboração de profilings, confecção de dossiês de espionagem contra opositores políticos e
+atividades de vigilância totalitária. Desta forma, “coloca em risco a própria democracia
+liberal, no contexto da sociedade da informação, ao ignorar a divisão informacional de
+poderes, pavimentando, com isso, o caminho para a criação de um indomável Leviathan
+4.0”.33
+
+Por todas as razões aduzidas, o Decreto nº 10.046/2019 padece de
+inconstitucionalidade material, tendo em vista a violação direta aos princípios da dignidade da
+pessoa humana, da intimidade, da privacidade, do sigilo dos dados e da proteção de dados
+pessoais e da autodeterminação informativa.
+
+VI – A VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE, A VEDAÇÃO DE
+
+PROTEÇÃO INSUFICIENTE E A PROIBIÇÃO DE EXCESSO
+
+A autodeterminação informativa tem uma dimensão subjetiva – que protege os
+indivíduos contra intervenções indevidas do poder estatal ou privado no direito fundamental à
+proteção de dados – e uma dimensão objetiva, que exige do Estado obrigações positivas para
+a garantia desse direito, tanto nas relações do cidadão com o Poder Público, quanto nas
+relações privadas.
+
+33 Disponível em: https://www.jota.info/paywall?redirect_to=//wwwjota.info/opiniao-e-analise/artigos/a-divisao-
+informacional-de-poderes-e-o-cadastro-base-do-cidadao-18102019 Acesso em: 08/08/2020.
+
+
+[[pagina 34 | nativo]]
+Laura Schertel assevera que, na dimensão subjetiva da autodeterminação
+informacional, “a atribuição de um direito subjetivo ao cidadão acaba por delimitar uma
+esfera de liberdade individual de não sofrer intervenção indevida do poder estatal ou
+privado.”34
+
+O Ministro Gilmar Mendes, em seu voto na ADI 6.387/RJ (no caso do IBGE), afirma
+que é possível identificar, como corolário da dimensão subjetiva do direito à proteção de
+dados pessoais, o “devido processo informacional”:
+
+“É possível identificar como corolário da dimensão subjetiva do direito à proteção
+de dados pessoais, a preservação de verdadeiro “devido processo informacional”
+(informational due process privacy right), voltado a conferir ao indivíduo o direito
+de evitar exposições de seus dados sem possibilidades mínimas de controle,
+sobretudo em relação a práticas de tratamento de dados capazes de sujeitar o
+indivíduo a julgamentos preditivos e peremptórios.” 35
+
+No estágio atual da sociedade da informação cada vez mais dependente do Big Data e
+das decisões automatizadas, o devido processo legal assume novos contornos, muito além de
+sua dimensão de ser um instrumento vital para as garantias processuais constitucionais (que
+asseguram princípios como a ampla defesa, o contraditório, o juiz natural, a inafastabilidade
+da jurisdição, a motivação das decisões, a duração razoável do processo e todas as demais
+garantias previstas pelo sistema processual).
+
+Como assinalam Bruno Bioni e Pedro Martins, o devido processo legal também deve
+ser entendido como uma ferramenta para assegurar a simetria e a proporcionalidade de uma
+forma mais ampla. “Tanto as relações indivíduo-estado, quanto as relações privadas em que
+há uma assimetria de poder devem ser permeadas pela garantia do devido processo, evitando
+que ações arbitrárias e intrusivas sejam tomadas sem que o sujeito tenha a capacidade de se
+defender.”36 (grifos nossos)
+
+Com relação à dimensão objetiva da autodeterminação informativa, esta “representa a
+necessidade de concretização e delimitação desse direito por meio da ação estatal, a partir da
+
+34 MENDES, Laura Schertel. Decisão histórica do STF reconhece direito fundamental à proteção de dados
+pessoais. Disponível em: https://www.jota.info/opiniao-e-analise/artigos/decisao-historica-do-stf-reconhece-
+direito-fundamental-a-protecao-de-dados-pessoais-10052020 Acesso em: 08/08/2020.
+35 Supremo Tribunal Federal, Ação Direta de Inconstitucionalidade nº 6.387/DF, Relatora Ministra Rosa
+Weber, Decisão Monocrática 24/04/2020. Decisão do Plenário da Corte: 07/05/2020 (Voto do Min.Gilmar
+Mendes)
+36 BIONI, Bruno Ricardo e MARTINS, Pedro. Devido processo informacional: um salto teórico-dogmático
+necessário? https://www.jota.info/opiniao-e-analise/artigos/devido-processo-informacional-um-salto-teorico-
+dogmatico-necessario-15072020 Acesso em: 08/08/2020.
+
+
+[[pagina 35 | nativo]]
+qual surgem deveres de proteção do Estado para a garantia desse direito nas relações
+privadas.” Desta forma, conclui a Professora Laura Schertel: “Isso significa que os atos do
+Estado passam a ser controlados tanto por sua ação, como também por sua omissão.”37
+
+Como sabido, a norma jurídica, para não ser excessiva e, portanto, inconstitucional,
+deve ultrapassar os testes da adequação, necessidade e proporcionalidade em sentido estrito
+ou justa medida, que são os subprincípios da proporcionalidade.
+
+A adequação pressupõe a conformidade entre o ato do Poder Público e os fins
+justificativos para a sua adoção. O Decreto nº 10.046/2019 não demonstra se a megaestrutura
+do Cadastro Base do Cidadão é adequada nem tampouco quais são as finalidades a serem
+atendidas. Diversos fins inadequados podem ser almejados com total violação aos direitos
+fundamentais. Além disso, os dados podem ser tratados de forma irregular ou sofrerem graves
+incidentes de vazamento.
+
+A necessidade - exigibilidade ou menor ingerência possível - parte do reconhecimento
+de que o cidadão possui direito à menor desvantagem quanto à restrição de seu direito
+fundamental. Assim, para a realização de uma determinada ação governamental não se faz
+necessário o acesso compartilhado, sem finalidades definidas, aos dados pessoais de todos os
+brasileiros, violando direitos fundamentais. Outros meios e sistemas podem ser utilizado para
+a consecução do mesmo fim.
+
+A proporcionalidade em sentido estrito ou justa medida diz respeito a ponderar as
+desvantagens dos meios em relação às vantagens dos fins e requer o sopesamento entre as
+vantagens do fim almejado com as desvantagens ou restrições dos meios propostos.
+Realizando um juízo proporcionalidade, analisando-se a criação de um cadastro colossal
+unificado com um sistema de governança deturpado que apresenta evidente risco de violação
+de dados pessoais de todos os brasileiros, o ato normativo não resiste a uma verificação
+pautada pelo bom senso do razoável.
+
+As políticas públicas podem e devem ser compatíveis com o direito à proteção de
+dados. Não se está aqui a subestimar a importância das políticas públicas que são executadas
+pelo Poder Executivo federal. Estas devem ser realizadas, porém, há que se compatibilizar
+meios e fins, buscando-se os instrumentos mais adequados para tal, sem violar - ou
+vulnerando o mínimo possível - os direitos fundamentais dos cidadãos.
+
+37 MENDES, Laura Schertel. Decisão histórica do STF reconhece direito fundamental à proteção de dados
+pessoais. Disponível em: https://www.jota.info/opiniao-e-analise/artigos/decisao-historica-do-stf-reconhece-
+direito-fundamental-a-protecao-de-dados-pessoais-10052020 . Acesso em: 08/08/2020.
+
+
+[[pagina 36 | nativo]]
+Por premissa legal e em respeito ao direito à privacidade, à intimidade e à proteção
+de dados pessoais, o tratamento de dados deverá se limitar ao mínimo necessário para atingir
+a finalidade, com abrangência dos dados pertinentes, proporcionais e não excessivos.
+
+O Excelso Supremo Tribunal Federal tem sólida jurisprudência sobre a vedação de
+proteção insuficiente e a proibição de excesso, com precedentes que legitimam o controle
+jurisdicional diante de atos omissivos ou comissivos do Poder Público:
+
+Recurso Extraordinário com Agravo (lei nº 12.322/2010) – Manutenção de rede de
+assistência à saúde da criança e do adolescente – Dever estatal resultante de norma
+constitucional – Configuração , no caso, de típica hipótese de omissão
+inconstitucional imputável ao Município – Desrespeito à Constituição provocado
+por inércia estatal (RTJ 183/818-819) – Comportamento que transgride a
+autoridade da Lei Fundamental da República (RTJ 185/794-796) – (...) controle
+jurisdicional de legitimidade da omissão do poder público : atividade de
+fiscalização judicial que se justifica pela necessidade de observância de certos
+parâmetros constitucionais (Proibição de Retrocesso Social, Proteção ao Mínimo
+Existencial, Vedação da Proteção Insuficiente e Proibição de Excesso) –
+Doutrina – Precedentes do Supremo Tribunal Federal em tema de implementação
+de políticas públicas delineadas na Constituição da República (RTJ 174/687 – RTJ
+175/1212-1213 – RTJ 199/1219-1220) – Existência, no caso em exame, de
+relevante interesse social – Recurso de agravo improvido.38
+
+Agravo Regimental em Recurso Extraordinário. O reconhecimento, em favor de
+populações carentes e desassistidas, postas à margem do sistema jurídico, do
+“direito a ter direitos” como pressuposto de acesso aos demais direitos, liberdades e
+garantias – Intervenção jurisdicional concretizadora de programa constitucional
+destinado a viabilizar o acesso dos necessitados à orientação jurídica integral e à
+assistência judiciária gratuitas (cf, art. 5º, inciso LXXIV, e art. 134) – legitimidade
+dessa atuação dos juízes e tribunais – O papel do Poder Judiciário na
+implementação de políticas públicas instituídas pela constituição e não efetivadas
+pelo Poder Público – A fórmula da reserva do possível na perspectiva da teoria dos
+custos dos direitos: impossibilidade de sua invocação para legitimar o injusto
+inadimplemento de deveres estatais de prestação constitucionalmente impostos ao
+Estado – A teoria da “restrição das restrições” (ou da “limitação das limitações”) –
+controle jurisdicional de legitimidade sobre a omissão do estado: atividade de
+fiscalização judicial que se justifica pela necessidade de observância de certos
+parâmetros constitucionais (proibição de retrocesso social, proteção ao mínimo
+existencial, vedação da proteção insuficiente e proibição de excesso) – Doutrina
+– Precedentes – A função constitucional da Defensoria Pública e a essencialidade
+
+38 Supremo Tribunal Federal, ARE 745.745 Agr, Órgão Julgador: Segunda Turma, Relator: Min. Celso de Mello,
+julg. 02/12/2014, pub. 19/12/2014.
+
+
+[[pagina 37 | nativo]]
+dessa instituição da República – Recurso de Agravo Improvido.39
+
+A proporcionalidade veda tanto o excesso na atuação estatal, como a deficiência na
+sua intervenção. A máxima da proporcionalidade, no âmbito da proibição de excesso,
+estabelece que a medida a) seja apropriada para o fim que almeja e b) necessária, c) não
+podendo as restrições ser desproporcionais ao objetivo buscado40.
+
+O Decreto nº 10.046/2019 não concretiza o art. 5º, caput, inciso XXXIII, o art. 37, §
+3o, inciso II, e o art. 216, § 2o, da Constituição, a Lei no 12.527/11, o art. 11 da Lei no
+13.444/17, e o Capítulo IV da Lei no 13.709/18, conforme demonstrado no item II. Desse
+modo, não é apropriado para os fins que indica. O referido decreto também é desnecessário,
+porque a) existe a previsão legal de Identificação Nacional Civil, sendo dispensável o
+desenvolvimento do Cadastro Base do Cidadão e b) o Comitê Central de Governança de
+Dados não pode e não deveria substituir a Autoridade Nacional de Proteção de Dados ou o
+Comitê Gestor do ICN.
+
+O supracitado decreto ainda restringe de forma indevida a privacidade e a proteção de
+dados para promover o acesso à informação e o compartilhamento de dados. No âmbito da
+proteção insuficiente, a privacidade e a proteção de dados não são corretamente tuteladas. O
+compartilhamento de dados entre órgãos da administração pública federal é ampliado
+substancialmente, inexistindo o imprescindível cuidado com a preservação da privacidade e
+com a proteção de dados.
+
+Realizando a ponderação necessária conclui-se que a violação à proteção de dados
+normatizada pelo Decreto nº 10.046/2019 não preenche o requisito do respeito ao princípio da
+proporcionalidade, sendo excessivamente onerosa ao cidadão, em detrimento de um objetivo
+indefinido, sem qualquer transparência. Também por tal aspecto, o ato normativo é
+flagrantemente inconstitucional.
+
+VII - DOS REQUISITOS PARA A CONCESSÃO DA MEDIDA CAUTELAR
+
+A concessão de medida cautelar em Ação Direta de Inconstitucionalidade está prevista
+
+39 Supremo Tribunal Federal, Ag.Reg. no RE 763.667/CE, Órgão Julgador: Segunda Turma, Relator: Min. Celso
+de Mello, julg. 22/10/2013, pub. 13/12/2013.
+40 JUSTEN FILHO, Marçal. Curso de Direito Administrativo. 9ª edição. São Paulo: Revista dos Tribunais, 2013,
+p. 165.
+
+
+[[pagina 38 | nativo]]
+nos arts. 10 a 12 da Lei 9.868/1999, com a indicação de que deve ser concedida por decisão
+da maioria absoluta dos membros do Tribunal [...], após a audiência dos órgãos ou
+autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se
+no prazo de cinco dias.
+
+Em situações de excepcional urgência ou de inconstitucionalidade chapada, admite- se
+a concessão da cautelar antes mesmo da manifestação do órgão ou autoridade do qual emanou
+o ato normativo impugnado, ou mesmo o Advogado-Geral da União e o Procurador-Geral da
+República (art. 10, § 3º, da Lei 9.868/1999), tendo a jurisprudência desse Egrégio Supremo
+Tribunal Federal consolidado a possibilidade de concessão de liminar por decisão
+monocrática, ad referendum do Plenário.
+
+É o que ocorreu, a título de exemplo, no julgamento da ADI 4.310/DF (Rel. Min.
+Cármen Lúcia, DJe 14/04/2010), no qual, em face da urgência qualificada e dos riscos
+objetivamente comprovados de efeitos de desfazimento dificultoso, foi deferida a cautelar
+requerida, ad referendum do Plenário dessa E. Corte.
+
+No presente caso, não apenas os requisitos cautelares do fumus boni iuris e do
+periculum in mora estão presentes, como também existe situação de urgência qualificada,
+uma vez que a lesão é aviada por decreto presidencial - cuja inconstitucionalidade foi
+cabalmente demonstrada na presente ação. Ademais, a criação e instalação do órgão estatal
+denominado Comitê Central de Governança de Dados, cujas atribuições são colidentes com a
+ainda não instalada Autoridade Nacional de Proteção de Dados – torna mais grave o quadro
+institucional.
+
+A ausência da ANPD (Autoridade Nacional de Proteção de Dados) fragiliza um dos
+pilares do direito fundamental à proteção de dados pessoais, mesmo com a entrada em vigor
+da LGPD (Lei Geral de Proteção de Dados Pessoais). Parafraseando o voto da Ministra Rosa
+Weber na ADI 6.387/DF, ainda vivemos um quadro-normativo-institucional de debilidade,
+haja vista que não temos uma autoridade independente em nosso país, apta a fiscalizar a
+violação de direitos e garantias fundamentais no processo de coleta, uso e compartilhamento
+de dados pessoais.
+
+À toda evidência, as medidas chanceladas e eventualmente implementadas pelo
+Comitê Central de Governança de Dados, com fulcro no Decreto 10.046/2019, colocam em
+risco os direitos fundamentais à proteção de dados e à privacidade e, dificilmente, serão
+reparadas.
+
+A manifestação da AGU (Advocacia Geral da União) nos autos da ADPF 695/DF
+
+
+[[pagina 39 | nativo]]
+deixa patente os riscos que a atuação do Comitê Central de Governança de Dados -
+autorizando o compartilhamento de dados com base no Decreto 10.046/2019 - pode ocasionar
+no atual contexto de ausência da Autoridade Nacional de Proteção de Dados independente:
+
+“Feitos os necessários esclarecimentos de ordem fática, contata-se que a
+insurgência do arguente quanto ao mérito não merece prosperar. Isso porque a
+conduta administrativa impugnada, respaldada por diversas disposições normativas
+e, em especial, por autorização expressa concedida no Decreto nº 10.046/2019, não
+vulnera os preceitos fundamentais invocados no presente processo objetivo.
+Com efeito, o compartilhamento de dados entre entidades e órgãos vinculados à
+Administração Pública foi idealizado pelo referido ato normativo, editado pelo
+Presidente da República, com o fito de atribuir maior eficiência na prestação de
+serviços públicos, implementando diretriz de viés desburocratizante.”.
+
+Desde a edição do Decreto 10.046/2019, estamos assistindo a uma sucessão de atos do
+Poder Executivo que podem ser identificados no âmbito do chamado “constitucionalismo
+abusivo” - fenômeno danoso que vêm atingindo os regimes democráticos, cuja expressão foi
+cunhada por David Landau41. Deve-se ressaltar que, de acordo com Estefânia Barboza e Ilton
+Norberto Robls Filho, a norte-americana Kim Lane Scheppele utiliza o termo “democratura”
+para descrever alguns desses fenômenos nocivos:
+
+De um lado, os líderes populares obtêm mandatos por meio de eleições, porém se
+utilizam do poder, das competências e dos institutos constitucionais para restringir
+a separação dos poderes, a transparência no trato com a coisa pública e as
+liberdades constitucionais especialmente de grupos oposicionistas, de grupos da
+sociedade civil, de mecanismos de comunicação social e de coletivos.
+Em síntese, a hipocrisia guia a criação de novos regimes políticos, uma vez que os
+líderes empenhados em consolidar o poder agora orientam a criação de novas
+modalidades de governo, tentando adotar o escudo do constitucionalista e o nome
+da democracia, mas concentrando poderes desordenados e descontrolados em
+poucas mãos.42
+
+O “constitucionalismo abusivo” e a “democratura” utilizam institutos de origem
+democrática para ceifar o pluralismo em um determinado país, “adaptando” os próprios
+mecanismos formais do sistema democrático para minar a democracia e os direitos
+
+41 LANDAU, David. Abusive constitucionalism. University of California Davis Law Review, Estados Unidos,
+v. 47, n. 1, 2013, p. 189-260.
+42 BARBOZA, Estefânia Maria Queiroz; ROBL FILHO, Ilton Norberto. Constitucionalismo Abusivo:
+Fundamentos Teóricos e Análise da sua Utilização no Brasil Contemporâneo. In: Direitos Fundamentais &
+Justiça | Belo Horizonte, ano 12, n. 39, p. 79-97, jul./dez. 2018, p. 85.
+
+
+[[pagina 40 | nativo]]
+fundamentais. Com muita propriedade, aduziu o Ministro Luís Roberto Barroso na Medida
+Cautelar na ADPF 622/DF:
+
+(...) os retrocessos democráticos, no mundo atual, não decorrem mais de golpes de
+estado com o uso das armas. Ao contrário, as maiores ameaças à democracia e ao
+constitucionalismo são resultado de alterações normativas pontuais, aparentemente
+válidas do ponto de vista formal, que, se examinadas isoladamente, deixam dúvidas
+quanto à sua inconstitucionalidade. Porém, em seu conjunto, expressam a adoção
+de medidas que vão progressivamente corroendo a tutela de direitos e o regime
+democrático.
+
+Esse fenômeno tem recebido na ordem internacional diversas denominações, entre
+as quais: “constitucionalismo abusivo”, “legalismo autocrático” e “democracia
+iliberal”. Todos esses conceitos aludem a experiências estrangeiras que têm em
+comum a atuação de líderes carismáticos, eleitos pelo voto popular, que, uma vez
+no poder, modificam o ordenamento jurídico, com o propósito de assegurar a sua
+permanência no poder. O modo de atuar de tais líderes abrange: (i) a tentativa de
+esvaziamento ou enfraquecimento dos demais Poderes, sempre que não
+compactuem com seus propósitos, com ataques ao Congresso Nacional e às cortes;
+(ii) o desmonte ou a captura de órgãos ou instituições de controle, como conselhos,
+agências reguladoras, instituições de combate à corrupção, Ministério Público etc;
+(iii) o combate a organizações da sociedade civil, que atuem em prol da defesa de
+direitos no espaço público; (iv) a rejeição a discursos protetivos de direitos
+fundamentais, sobretudo no que respeita a grupos minoritários e vulneráveis –
+como negros, mulheres, população LGBTI e indígenas; (v) o ataque à imprensa,
+sempre que leve ao público informações incômodas para o governo.43
+
+Em conclusão, enfatizamos que os atos discricionários do Presidente da República, ao
+exercer a direção superior da administração pública federal e ao regulamentar e dispor sobre a
+organização e o funcionamento dos órgãos do Poder Executivo, encontram limites na
+Constituição da República e nas leis federais. A inobservância desses limites autoriza o Poder
+Judiciário a revisá-los porque, nesta hipótese, estamos diante de um juízo quanto à
+constitucionalidade e legalidade dos atos do Chefe do Poder Executivo.
+
+Reiterando a decisão do Ministro Roberto Barroso nos autos da ADPF supracitada,
+entendemos que cabe à Corte Constitucional, como a corte de mais alta hierarquia em matéria
+constitucional, estar atenta a alterações normativas que, a pretexto de dar cumprimento à
+Constituição, em verdade se inserem em uma estratégia mais ampla de concentração de
+poderes abusiva e distorcida, de violação a direitos fundamentais e de retrocesso
+
+43 Disponível em:
+https://www.jota.info/wp-content/uploads/2019/12/efddc66cf24522b5830084f2ee8430ca.pdf Acesso em: 15 de
+janeiro de 2020.
+
+
+[[pagina 41 | nativo]]
+democrático, como entendemos ser exatamente o que resulta do Decreto 10.046/2019, nos
+termos desta exordial.
+
+Nos termos das assertivas do Ministro Gilmar Mendes na decisão proferida na ADPF
+nº 695/DF, é dever constitucional do Colendo STF evitar que situações graves –
+perpetradas com suposto fundamento no Decreto nº 10.046/2019 – violem preceitos
+fundamentais.
+
+Isto posto, restaram devidamente configurados o fumus boni juris e o periculum in
+mora, pois ausentes os requisitos constitucionais que autorizam o exercício excepcional de
+competência legislativa por parte do Presidente da República, bem como, demonstrado o risco
+de que ocorram situações e medidas violadoras de preceitos fundamentais adotadas com
+fulcro no Decreto 10.046/2019. A gravidade da situação gerada pelo Decreto nº 10.046/2019
+não permite sequer que se aguarde a manifestação do Presidente da República ou dos demais
+órgãos elencados no art. 10 da Lei 9.868/1999, e, menos ainda, que se espere pela designação
+de pauta para a apreciação da medida cautelar pelo Plenário desta Egrégia Corte. Eventual
+pedido de informação resultará em agravamento da situação, de modo que a concessão de
+medida cautelar por decisão monocrática é a solução mais adequada.
+
+Ressalte-se que não é possível vislumbrar no caso qualquer marca de periculum in
+mora reverso, capaz de impor maiores precauções no deferimento da medida cautelar. Não
+há qualquer risco em se suspender cautelarmente a vigência do referido Decreto. Outrossim, a
+suspensão do Decreto nº 10.046/2019 fará com que o governo implemente corretamente as
+normas da LGPD e não permitirá que a ANPD seja substituída pelo Comitê Central de
+Governança de Dados – quadro institucional que se apresenta absolutamente temerário no
+atual momento.
+
+Por conseguinte, considerando a dimensão dos direitos implicados na presente ação e
+a premência de sua apreciação, requer-se o deferimento de liminar para a suspensão da
+eficácia, na íntegra, do Decreto nº 10.046/2019 (e, consequentemente, do Decreto
+10.403/2020, que alterou dispositivos do Decreto 10.046/2019), ad referendum do Plenário
+desse Pretório Excelso, bem como, para que seja suspenso imediatamente o Cadastro Base do
+Cidadão e para que cesse qualquer compartilhamento indevido de dados pessoais.
+
+VIII- DOS PEDIDOS
+
+Ante todo o exposto, requer o Conselho Federal da Ordem dos Advogados do Brasil:
+
+
+[[pagina 42 | nativo]]
+a) a distribuição por dependência desta presente Ação Direta de
+Inconstitucionalidade à Ação de Descumprimento de Preceito Fundamental nº 695/DF, tendo
+em vista a conexão entre os feitos e a prevenção do Eminente Ministro Gilmar Mendes,
+Relator da ADPF nº 695/DF, nos termos do que dispõe o art. 69 do Regimento Interno do
+STF;
+
+b) a admissão e o conhecimento desta Ação Direta de Inconstitucionalidade por esse
+Excelso Supremo Tribunal Federal;
+
+c) a concessão de medida liminar monocraticamente pelo Ministro Relator, ad
+referendum do Plenário (art. 10, § 3º, da Lei 9.868/1999), para: i) suspender imediatamente a
+eficácia da integralidade do Decreto nº 10.046/2019 (e, consequentemente, do Decreto
+10.403/2020, que alterou dispositivos do Decreto 10.046/2019), ad referendum do Plenário
+desse Pretório Excelso, e, ii) suspender imediatamente o Cadastro Base do Cidadão e para
+que cesse qualquer compartilhamento indevido de dados pessoais, sob pena de danos
+irreparáveis aos direitos fundamentais de toda a população brasileira, tornando inviável o
+retorno ao status quo ante.
+
+d) o referendo da medida cautelar pelo Plenário, após a oitiva dos órgãos e
+autoridades previstos na Lei 9.868/1999, mantendo-se a suspensão da eficácia da norma
+impugnada até o julgamento final da presente ação;
+
+e) a notificação do Exmo. Presidente da República, para se manifestar no prazo legal
+sobre o mérito da presente ação, na condição de autoridade responsável pela edição do ato
+normativo impugnado;
+
+f) a notificação do Exmo. Advogado-Geral da União para se manifestar sobre a
+presente ação, nos termos do art. 103, § 3º, da Constituição Federal;
+
+g) a notificação do Exmo. Procurador-Geral da República para que emita o seu
+parecer, nos termos do art. 103, § 1º, da Constituição Federal;
+
+h) no mérito, a procedência da presente Ação Direta de Inconstitucionalidade, para
+declarar a inconstitucionalidade, na íntegra, do Decreto nº 10.046/2019 (e, consequentemente,
+do Decreto 10.403/2020, que alterou dispositivos do Decreto 10.046/2019), com a definitiva
+exclusão do Cadastro Base do Cidadão e do Comitê Central de Governança de Dados, na
+forma como foi concebido no decreto atacado:
+
+
+[[pagina 43 | nativo]]
+h.1) por afronta ao artigo 84, incisos IV e VI, ‘a’, da Constituição Federal
+pelo fato de o Decreto inovar no ordenamento jurídico, tendo o Presidente
+da República extrapolado a sua competência constitucional e
+
+h.2) por violação direta aos artigos 1º, inciso III e 5º, caput, e incisos X, XII
+e LXXII da Constituição Federal, os quais asseguram, respectivamente a
+dignidade da pessoa humana; a inviolabilidade da intimidade, da
+privacidade e da vida privada, da honra e da imagem das pessoas; o sigilo
+dos dados, a garantia do habeas data enquanto instrumento de tutela
+material do direito à autodeterminação informativa; bem como,
+
+h.3) por ferimento aos direitos fundamentais à proteção de dados pessoais e
+à autodeterminação informativa, reconhecidos como direitos fundamentais
+autônomos, com fulcro nos artigos 1º, inciso III e 5º, caput, e incisos X, XII
+e LXXII da Constituição Federal, através da decisão proferida pelo Plenário
+dessa Egrégia Corte nos autos da Ação Direta de Inconstitucionalidade
+6.387/DF.
+
+Subsidiariamente, apenas a argumentar, caso essa Corte não considere a ADI como a
+via adequada para o presente pleito, espera o Autor que seja a presente ação admitida como
+Ação de Descumprimento de Preceito Fundamental, com fulcro no 1º, caput, da Lei
+9.882/1999, pois há clara violação aos preceitos fundamentais da dignidade humana, da
+legalidade, da privacidade, da proteção de dados pessoais e da autodeterminação informativa.
+
+Caso seja necessário, requer seja deferida a produção de provas (art. 20, § 1º, da Lei
+9.868/99).
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de aferi-lo.
+
+Pede Deferimento.
+
+Brasília, 18 de dezembro de 2020.
+
+Felipe Santa Cruz Oliveira Scaletsky
+Presidente Nacional da OAB
+OAB/RJ 95.573
+
+
+[[pagina 44 | nativo]]
+Ilton Norberto Robl Filho
+Membro da Comissão Nacional de Estudos Constitucionais
+OAB/DF 38.677
+
+Estela Aranha
+Presidente da Comissão de Proteção de Dados e Privacidade da OAB/RJ
+OAB/RJ 202.221
+
+Lucia Maria Teixeira Ferreira
+Coordenadora de Estudos e Pareceres da Comissão de Proteção de
+Dados e Privacidade da OAB/RJ
+OAB/RJ 207.385
+
+Danilo Doneda
+OAB/RJ 156.590
+
+Diego Machado
+OAB/MG 122.372
+
+Guilherme Damásio Goulart
+OAB/RS 59.290
+
+

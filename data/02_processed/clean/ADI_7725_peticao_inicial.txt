@@ -1,0 +1,839 @@
+[[pagina 1 | nativo]]
+Marçal Justen Filho Luísa Quintão
+Cesar Pereira Doshin Watanabe
+Fernão Justen de Oliveira Isabella Félix da Fonseca
+Eduardo Talamini Isabella Rossito
+André Guskow Cardoso Raphaela Thêmis Leite Jardim
+Alexandre Wagner Nester Marina Kirsten Felix
+Marçal Justen Neto Stella Farfus Santos
+Rafael Wallbach Schwind Jefferson Lemes dos Santos
+Felipe Scripes Wladeck Letícia Alle Antonietto
+Paulo Osternack Amaral Eduardo Nadvorny Nascimento
+Guilherme F. Dias Reisdorfer Izabela Moriggi Costa
+Karlin Olbertz Niebuhr Rodrigo Costa Protzek
+William Romero Caroline Martynetz
+Rodrigo Goulart de Freitas Pombo Mariana Randon Savaris
+Mônica Bandeira de Mello Lefèvre Júlia Venzi Gonçalves Guimarães
+Guilherme Augusto Vezaro Eiras Gabriela Assis Corrêa Demeterco
+Isabella Moreira de Andrade Vosgerau Edson Francisco Rocha Neto
+Diego R. Camargo Franzoni Matheus Guimarães Pitto
+Mayara Gasparoto Tonin Nicole Mendes Müller
+Marina Kukiela Gabriel Lucas Santos Bonfim
+Vanelis Mucelin Ana Paula Sovierzoski
+Fernanda Caroline Maia Paola Gabriel Ábila
+Bruno Gressler Wontroba Maria Julia Bezerra Castelo Branco
+Victor Hugo Pavoni Vanelli Jolivê Alves da Rocha Filho
+Gabriela Sasson Rassi
+
+Excelentíssimo Senhor Ministro LUÍS ROBERTO BARROSO,
+
+DD. Presidente do E. Supremo Tribunal Federal.
+
+Distribuição por prevenção ao
+
+Exmo. Min. André Mendonça
+
+(arts. 69 e 77-B do RISTF).
+
+ASSOCIAÇÃO BRASILEIRA DAS EMPRESAS ESTADUAIS DE
+
+SANEAMENTO (AESBE), associação civil de direito privado, CNPJ/MF
+
+26.990.358/0001-00, com sede em Brasília (DF), no SEPS 702/902, Ed. General
+
+Alencastro, cj. B, bloco A, 3º andar, Asa Sul, CEP 70.390-025, por seus advogados
+
+(documentos constitutivos e de representação em anexo – Doc. 1), comparece
+
+respeitosamente perante Vossa Excelência para propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIADE
+
+contra o art. 1.º da Lei 3.533, de 14 de agosto de 2019, do Estado
+
+do Tocantins, publicada no Diário Oficial nº 5.419 (Doc. 2), o que faz com fundamento
+
+nos arts. 102, I, “a”, e 103, IX, da Constituição Federal, e na Lei 9.868.
+
+Rua Visconde do Rio Branco, 237 • Curitiba-PR • 80.410-000 • Tel 55 41 3017.1800
+Rua Joaquim Floriano, 413, Conjunto 111 • São Paulo-SP • 04.534-011 • Tel 55 11 3706.1500
+SHIS, QL 10, Cj 07, Casa 01, Lago Sul • Brasília-DF • 71.630-075 • Tel 55 61 3578.8787
+www.justen.com.br
+
+[[pagina 2 | nativo]]
+O Estado do Tocantins, pessoa jurídica de direito público,
+
+CNPJ/MF 01.786.029/0001-03, com sede na Praça dos Girassóis, sem número,
+
+Palmas (TO), CEP 77.016-524, é representado judicialmente pela Procuradoria-Geral
+
+do Estado do Tocantins, com sede na Praça dos Girassóis, sem número, Esplanada
+
+das Secretarias, Palmas (TO), CEP 77.054-970.
+
+Por sua vez, a Assembleia Legislativa do Estado do Tocantins
+
+tem sede no Palácio Deputado João D’Abreu, Praça dos Girassóis, sem número,
+
+Plano Diretor Norte, Palmas (TO), CEP 77.001-902, e é representada judicialmente
+
+por sua Procuradoria Jurídica, situada no mesmo endereço.
+
+A. A legitimidade ativa da Autora
+
+1. A legitimidade ativa da AESBE decorre do art. 103, IX, da CF,
+
+segundo o qual “podem propor a ação direta de inconstitucionalidade (...) entidade de
+
+classe de âmbito nacional” (dispositivo reproduzido no art. 2., IX, da Lei 9.868), e já
+
+foi reconhecida pelo E. STF em três oportunidades: ADI 6.912, ADI 6.882 e ADI 6.668.
+
+2. A AESBE é uma entidade de classe de âmbito nacional: congrega
+
+“prestadoras de serviço público de saneamento básico ou ambiental (...) que atuem
+
+em serviços de saneamento regional ou estadual” (arts. 1.º e 4.º do Estatuto Social) e
+
+está presente em todos os Estados-membros da República Federativa do Brasil.
+
+3. Por isso, também está presente a pertinência temática da AESBE
+
+com relação ao tema desta ação direta de inconstitucionalidade.
+
+4. A Lei 3.533/2019 do Estado do Tocantins, objeto da ação, “dispõe
+
+sobre a proibição de corte no fornecimento de energia elétrica e água com menos de
+
+60 dias de atraso do pagamento no âmbito do Estado do Tocantins”.
+
+5. A AESBE tem como uma de suas associadas, por exemplo, a
+
+Companhia de Saneamento do Tocantins (SANEATINS), principal prestadora do
+
+serviço público de abastecimento de água no Estado do Tocantins. Ainda, entre os
+
+objetivos da AESBE (art. 3.º do Estatuto Social), estão os de:
+
+I – assistir e zelar pelos interesses comuns das associadas, bem como representá-
+las e defende-las perante órgãos, entidades, instituições ou poderes executivo,
+legislativo e judiciário em todo o território nacional, sem vinculação a partidos
+políticos e em consonância com os princípios e diretrizes definidos pelo Estatuto e
+pautados no apoio à gestão regional do saneamento, na preservação da saúde
+pública, do meio ambiente e da promoção do bem-estar social; (...)
+
+V – cooperar com órgãos e entidades nacionais e internacionais visando o
+aprimoramento do setor de saneamento e a universalização dos serviços com
+qualidade, regularidade, adequação e preços módicos que garantam a
+sustentabilidade e a preservação da saúde e do meio ambiente;
+
+
+[[pagina 3 | nativo]]
+VI – colaborar com as associadas em questões legais e institucionais e em matérias
+técnicas, econômicas, financeiras, regulatórias, jurídicas, dentre outras que sejam de
+interesse comum; (...)
+
+IX – diligenciar no sentido da criação e aperfeiçoamento das leis, normas,
+regulamentos e práticas relacionadas ao setor ou que tenham influência sobre os
+interesses comuns das associadas.
+B. O objeto da ação
+
+6. A presente ação se volta contra o art. 1.º da Lei 3.533, de 14 de
+
+agosto de 2019, do Estado do Tocantins, que tem a seguinte redação:
+
+Art. 1º É proibida, no âmbito do Estado do Tocantins, a suspensão do fornecimento
+de energia elétrica e água tratada pelas concessionárias por falta de pagamento de
+seus usuários em prazo inferior a 60 dias corridos, contados a partir da data do
+vencimento da fatura.
+C. A prevenção do Exmo. Min. André Mendonça
+
+7. O art. 77-B do Regimento Interno do E. STF prevê que, nas ações
+
+de controle concentrado de inconstitucionalidade, “aplica-se a regra de distribuição
+
+por prevenção quando haja coincidência total ou parcial de objetos”. Conforme a
+
+jurisprudência do E. STF, o art. 77-B do RISTF deve ser interpretado em conjunto com
+
+o art. 69 do RISTF, segundo o qual “a distribuição da ação ou do recurso gera
+
+prevenção para todos os processos a ele vinculados por conexão ou continência”.
+
+8. No caso, a prevenção do Exmo. Min. André Mendonça para a
+
+presente ação direta de inconstitucionalidade decorre do RE 1.363.641, que está em
+
+trâmite perante este E. STF. O RE 1.363.641 tem origem em ação direta de
+
+inconstitucionalidade (ou seja, em ação de controle concentrado de
+
+constitucionalidade) proposta pela própria AESBE contra a mesma Lei 3.533/2019 do
+
+Estado do Tocantins (de modo que há coincidência total de objetos).
+
+D. A inconstitucionalidade do art. 1.º da Lei 3.533/2019 do Estado do Tocantins
+
+9. Como visto, o art. 1.º da Lei 3.533/2019 do Estado do Tocantins
+
+estabelece que:
+
+Art. 1º É proibida, no âmbito do Estado do Tocantins, a suspensão do fornecimento
+de energia elétrica e água tratada pelas concessionárias por falta de pagamento de
+seus usuários em prazo inferior a 60 dias corridos, contados a partir da data do
+vencimento da fatura.
+10. O dispositivo de lei deve ser declarado inconstitucional, pois ofende
+
+(i) o art. 2.º da CF; (ii) o art. 61, § 1.º, II, “b”, da CF; (iii) o art. 30, I e V, da CF; (iv) os
+
+arts. 21, XX e 24, VI e § 1.º, da CF; e (v) o art. 37, XXI, da CF.
+
+
+[[pagina 4 | nativo]]
+E. A ofensa ao art. 2.º da CF: serviços públicos e reserva de administração
+
+11. Nos termos do art. 2.º da CF:
+
+Art. 2º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o
+Executivo e o Judiciário.
+12. A regra consagra o princípio da independência dos Poderes, e
+
+deste princípio se extrai a “reserva de administração”. A reserva de administração
+
+consiste em espaço de exclusivas competências do Poder Executivo. Nesse espaço,
+
+reservado à Administração, estão inseridos os serviços públicos.
+
+13. Em interpretação do art. 2.º da CF, este E. STF já decidiu que:
+
+Ofende a denominada reserva de administração, decorrência do conteúdo nuclear
+do princípio da separação de poderes (CF, art. 2º), a proibição de cobrança de tarifa
+de assinatura básica no que concerne aos serviços de água e gás, em grande medida
+submetidos também à incidência de leis federais (CF, art. 22, IV), mormente quando
+constante de ato normativo emanado do Poder Legislativo fruto de iniciativa
+parlamentar, porquanto supressora da margem de apreciação do chefe do Poder
+Executivo distrital na condução da administração pública, no que se inclui a
+formulação da política pública remuneratória do serviço público.1
+14. Do voto do Min. Luiz Fux na ADI 3.343, extrai-se:
+
+Com relação aos serviços de água e gás, que em grande medida se sujeitam também
+à incidência de competência legislativa federal (CF, art. 22, IV - "águas e energia"),
+há de ser reconhecida a inconstitucionalidade do Diploma impugnado diante da
+ofensa à denominada reserva de administração, decorrência do conteúdo nuclear do
+princípio da Separação de Poderes (CF, art. 22), porquanto ato normativo emanado
+do Poder Legislativo - fruto de iniciativa parlamentar, ressalte-se - que suprime de
+forma expressiva a margem de apreciação do Chefe do Poder Executivo Distrital na
+condução da Administração Pública, no que se inclui a formulação da política pública
+remuneratória do serviço público.
+15. No mesmo sentido:
+
+• Agravo regimental no recurso extraordinário com agravo. 2. Direito
+Constitucional e Administrativo. 3. Representação de inconstitucionalidade.
+Lei 19.687/2018, do estado do Paraná. Iniciativa parlamentar. Gratuidade da
+cobrança de pedágio em situações de demora no atendimento aos
+motoristas. 4 Interferência na concessão de serviços públicos. Violação ao
+equilíbrio econômico-financeiro do contrato. Representação de
+inconstitucionalidade julgada procedente pelo Órgão Especial do TJPR. 5. O
+Supremo Tribunal Federal já firmou o entendimento no sentido de que padece
+de inconstitucionalidade formal a lei resultante de iniciativa parlamentar que
+disponha sobre matéria afeta à reserva de administração, como aquela
+atinente aos contratos de concessão celebrados pela Administração Pública.
+Precedentes. 6. Ausência de argumentos capazes de infirmar a decisão
+agravada. 7. Negado provimento ao agravo regimental.2
+• Nos termos da jurisprudência do Supremo Tribunal Federal, configuram
+ofensa aos princípios da separação dos Poderes e da reserva de
+
+1 STF, Tribunal Pleno, ADI 3.343, rel. Min. Ayres Britto, red. do ac. Min. Luiz Fux, j. 1.º.9.2011.
+
+2 STF, 2ª T., ARE 1.393.729 AgR, rel. Min. Gilmar Mendes, j. 15.5.2023.
+
+
+[[pagina 5 | nativo]]
+administração a lei de inciativa parlamentar ou a emenda parlamentar a
+projeto de lei do Poder Executivo pelas quais se altere o equilíbrio econômico-
+financeiro de contrato de concessão de serviços públicos.3
+• AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO.
+CONSTITUCIONAL. PROCESSO LEGISLATIVO. CÂMARA MUNICIPAL.
+LEI QUE ESTABELECE OBRIGAÇÃO A LOCATÁRIO DE IMÓVEL.
+SERVIÇO PÚBLICO DE ÁGUA. MATÉRIA DE RESERVA DE
+ADMINISTRAÇÃO. VÍCIO DE INICIATIVA. COMPETÊNCIA PRIVATIVA DO
+CHEFE DO PODER EXECUTIVO. AGRAVO INTERNO DESPROVIDO.4
+• O Supremo Tribunal Federal tem declarado a inconstitucionalidade de leis de
+iniciativa do poder legislativo que preveem determinado benefício tarifário no
+acesso a serviço público concedido, tendo em vista a interferência indevida
+na gestão do contrato administrativo de concessão, matéria reservada ao
+Poder Executivo, estando evidenciada a ofensa ao princípio da separação
+dos poderes.5
+16. Ao impedir o corte do fornecimento de água mesmo em caso de
+
+longo inadimplemento do usuário, o Poder Legislativo do Estado do Tocantins
+
+interferiu em matéria de serviços públicos, adentrando em área de reserva de
+
+administração e ofendendo o princípio da separação dos Poderes (art. 2.º da CF).
+
+17. Diante do exposto, a Lei 3.533/2019 do Estado do Tocantins é
+
+inconstitucional por ofensa ao art. 2.º da CF.
+
+F. A ofensa ao art. 61, § 1.º, II, “b”, da CF: vício de iniciativa do projeto de lei
+
+18. Nos termos do art. 61, § 1.º, II, “b”, da CF:
+
+§ 1º São de iniciativa privativa do Presidente da República as leis que: II – disponham
+
+b) organização administrativa e judiciária, matéria tributária e orçamentária,
+serviços públicos e pessoal da administração dos Territórios.
+19. A regra dispõe que são de iniciativa privativa do Chefe do Poder
+
+Executivo as leis que disponham sobre “serviços públicos”.
+
+20. Conforme a jurisprudência deste E. STF, “por tratar-se de evidente
+
+matéria de organização administrativa, a iniciativa do processo legislativo está
+
+reservada ao chefe do Poder Executivo local. Os Estados-membros e o Distrito
+
+Federal devem obediência às regras de iniciativa legislativa reservada, fixadas
+
+3 STF, 1ª T., ARE 1343233 AgR, rel. Min. Cármen Lúcia, j. 11.11.2021.
+
+4 STF, 1ª T., RE 777324 AgR, rel. Min. Luiz Fux, j. 30.8.2019.
+
+5 STF, 2ª T., AgInt no ARE 929.591, rel. Min. Dias Toffoli, j. 6.10.2017.
+
+
+[[pagina 6 | nativo]]
+constitucionalmente, sob pena de violação do modelo de harmônica tripartição de
+
+poderes, consagrado pelo constituinte originário”.6
+
+21. No mesmo sentido:
+
+• ...a iniciativa privativa de leis por parte do Presidente da República está
+prevista no artigo 61, § 1º, da Constituição da República. Nada obstante,
+apesar de a Constituição retratar essas situações como de iniciativa privativa
+do Presidente da República, por força do princípio da simetria, tal prerrogativa
+se estende aos Chefes do Executivo das outras Unidades Federativas.
+Consectariamente, as leis decorrentes das situações previstas no rol do
+mencionado artigo que forem editadas sem a devida iniciativa do Chefe do
+Poder Executivo são inconstitucionais, por vício formal de iniciativa.7
+• O Supremo Tribunal Federal tem declarado a inconstitucionalidade de leis de
+iniciativa do poder legislativo que preveem determinado benefício tarifário no
+acesso a serviço público concedido, tendo em vista a interferência indevida
+na gestão do contrato administrativo de concessão, matéria reservada ao
+Poder Executivo, estando evidenciada a ofensa ao princípio da separação
+dos poderes.8
+22. Apesar da (e contrariamente à) previsão do art. 61, § 1.º, II, “b”, da
+
+CF, a Lei 3.533/2019 do Estado do Tocantins, que dispõe sobre serviços públicos (de
+
+água e energia elétrica), foi o resultado de projeto de lei de iniciativa parlamentar (i.e.,
+
+de membro do Poder Legislativo do Estado do Tocantins), conforme anexos.
+
+23. Ao impedir o corte do fornecimento de água mesmo em caso de
+
+longo inadimplemento do usuário, o Poder Legislativo do Estado do Tocantins usurpou
+
+a competência do Chefe do Poder Executivo para iniciar a discussão de leis que tratem
+
+de serviços públicos (nos termos do art. 61, § 1.º, II, “b”, da CF).
+
+24. Afinal, a Lei 3.533/2019 do Estado do Tocantins impede o corte de
+
+fornecimento de água mesmo em caso de longo inadimplemento do usuário,
+
+interferindo na política tarifária aplicável às concessões dos serviços públicos.
+
+25. Diante do exposto, a Lei 3.533/2019 do Estado do Tocantins é
+
+inconstitucional também por ofensa ao art. 61, § 1.º, II, “b”, da CF.
+
+G. A ofensa ao art. 30, I e V, da CF: titularidade do serviço dos Municípios
+
+26. Nos termos do art. 30, I e V, da CF:
+
+Art. 30. Compete aos Municípios:
+
+I - legislar sobre assuntos de interesse local; (...).
+
+6 STF, Tribunal Pleno, ADI 1.182, rel. Min. Eros Grau, j. 24.11.2005. No mesmo sentido: STF, 2ª T., RE
+508.827 AgR, rel. Min. Cármen Lúcia, j. 25.9.2012.
+
+7 STF, 1ª T., AgInt no ARE 1.245.566, rel. Min. Luiz Fux, j. 3.3.2020.
+
+8 STF, 2ª T., AgInt no ARE 929.591, rel. Min. Dias Toffoli, j. 6.10.2017.
+
+
+[[pagina 7 | nativo]]
+V - organizar e prestar, diretamente ou sob regime de concessão ou permissão,
+os serviços públicos de interesse local, incluído o de transporte coletivo, que
+tem caráter essencial.
+27. A regra estabelece que os serviços públicos de interesse local são
+
+de titularidade dos Municípios, cabendo a estes entes federativos organizá-los, prestá-
+
+los (se não diretamente, sob o regime de concessão ou permissão).
+
+28. O saneamento e, mais especificamente, do serviço público de
+
+fornecimento de água, são serviços de interesse local e, portanto, de titularidade dos
+
+Municípios, conforme pacífica jurisprudência do E. STF:
+
+• AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI N. 12.035/2023 DO
+ESTADO DO MATO GROSSO. OBRIGATORIEDADE DAS
+CONCESSIONÁRIAS DOS SERVIÇOS PÚBLICOS DE ENERGIA
+ELÉTRICA E FORNECIMENTO DE ÁGUA NO ESTADO OFERECEREM
+OPÇÃO DE PAGAMENTO POR CARTÃO DE CRÉDITO OU DÉBITO.
+LEGITIMIDADE ATIVA LIMITADA QUANTO AOS SERVIÇOS DE
+SANEAMENTO BÁSICO. COMPETÊNCIA DO MUNICÍPIO PARA LEGISLAR
+SOBRE ASSUNTOS DE INTERESSE LOCAL: SANEAMENTO BÁSICO.
+INCS. I E V DO ART. 30 DA CONSTITUIÇÃO DA REPÚBLICA. AÇÃO
+DIRETA PARCIALMENTE CONHECIDA E, NESTA PARTE, JULGADA
+PROCEDENTE. 1. Instruído o processo nos termos do art. 10 da Lei n.
+9.868/1999, propõe-se o acolhimento do princípio da razoável duração do
+processo com o julgamento de mérito da ação direta por este Supremo
+Tribunal, ausente necessidade de novas informações. Precedentes. 2.
+Legitimidade ativa ad causam da Associação Brasileira das Concessionárias
+Privadas de Serviços Públicos de Água e Esgoto – ABCON para a presente
+ação direta de inconstitucionalidade apenas no ponto referente aos deveres
+dos concessionários de serviços de abastecimento de água, pelo nexo entre
+os objetivos institucionais da autora e o conteúdo das normas impugnadas.
+3. Ao determinar que as concessionárias dos serviços públicos de
+fornecimento de água deverão oferecer a opção de pagamento de débitos por
+cartão de débito ou crédito, fixando que os agentes concessionários que
+efetuem as suspensões de fornecimento do serviço deverão portar
+obrigatoriamente a máquina do cartão, o legislador estadual usurpou a
+competência dos Municípios para legislarem sobre fornecimento de água,
+assunto de interesse local. Precedentes. 4. Ação direta na qual convertida
+apreciação da medida cautelar em julgamento de mérito. Ação da qual se
+conhece parcialmente no que se refere à prestação dos serviços públicos de
+abastecimento de água, e, nesta parte, declarada a inconstitucionalidade da
+expressão “concessionárias dos serviços públicos de fornecimento de água”
+prevista no art. 1º da Lei n. 12.035/2023 do Estado de Mato Grosso.9
+• Direito constitucional. Ação direta de inconstitucionalidade. Regras sobre a
+suspensão dos serviços públicos de energia elétrica, água, telefonia fixa e
+móvel e internet. 1. Ação direta de inconstitucionalidade contra a Lei distrital
+nº 4.632/2011, que dispõe sobre a suspensão dos serviços públicos de
+energia elétrica, água, telefonia fixa e móvel e internet. 2. Descabimento da
+ADI quanto ao serviço público de distribuição de água, visto que a titularidade
+desse serviço público é dos municípios, nos termos da jurisprudência do
+
+9 STF, Tribunal Pleno, ADI 7405, rel. Min. Cármen Lúcia, j. 27.11.2023.
+
+
+[[pagina 8 | nativo]]
+Supremo Tribunal Federal (ADI 1.842, Rel. Min. Luiz Fux, e ADI 2.340, Rel.
+Min. Ricardo Lewandowski). 3. A União Federal detém competência privativa
+para legislar sobre energia elétrica e telecomunicações (art. 22, IV, da
+CF/1988). A lei impugnada, ao estipular regras sobre a suspensão dos
+serviços de energia elétrica, telefonia fixa e móvel e internet, invadiu a esfera
+de competências do ente federal, incorrendo em inconstitucionalidade formal.
+4. Ademais, a legislação estadual interferiu diretamente na relação jurídico-
+contratual existente entre a União Federal e as concessionárias dos serviços
+públicos supracitados, em afronta ao disposto no art. 175 da CF/1988 (v. ADI
+2.299, sob minha relatoria, j. em 23.08.2019). 5. Ação direta de
+inconstitucionalidade não conhecida quanto ao serviço público de distribuição
+de água e pedido julgado parcialmente procedente para declarar a
+inconstitucionalidade da Lei distrital nº 4.632/2011 quanto aos serviços de
+energia elétrica, telefonia fixa e móvel e internet.10
+• Como acentuou o Ministro Ricardo Lewandowski, Relator da Ação Direta de
+Inconstitucionalidade n. 2.340/SC (DJe de 10.5.20113), “não há dúvida de
+que a competência para legislar sobre assuntos locais que a Carta Magna
+atribuiu aos municípios, no art. 30, I, da CF, inclui a distribuição de água
+potável”, vedado aos Estados interferirem nas relações contratuais entre os
+Municípios e as concessionárias de fornecimento de água potável.11
+• Ação direta de inconstitucionalidade. 2. Lei 13.755/2002, do Paraná. Vedação
+de cobrança de tarifa mínima por prestação de serviços de água, luz e
+telefone. 3. Serviços públicos de titularidade dos municípios e da União, aos
+quais compete legislar sobre a matéria. Precedentes. 4. A competência
+suplementar dos Estados para legislar sobre direito do consumidor não
+alcança a disciplina da relação jurídica entre concessionários e usuários de
+serviços públicos. Precedentes. 5. Ação direta de inconstitucionalidade
+julgada procedente.12
+29. Do inteiro teor do v. acórdão proferido na ADI 2.790, extrai-se que
+
+“o serviço de fornecimento de água é de titularidade dos entes municipais, como
+
+resulta do art. 30, I, da CF, pois quanto a eles predomina o interesse local, como já
+
+assentado por este Tribunal na ADI 3.661, rel. Min. Cármen Lúcia, DJe 10.5.2011”.
+
+30. Assim, ao impedir o corte do fornecimento de água mesmo em caso
+
+de longo inadimplemento do usuário, o Poder Legislativo do Estado do Tocantins
+
+interferiu não apenas em matéria reservada ao Poder Executivo (art. 2.º da CF – tópico
+
+E, acima), como em matéria reserva a entes federativos diversos (os Municípios).
+
+31. Diante do exposto, a Lei 3.533/2019 do Estado do Tocantins é
+
+inconstitucional também por ofensa ao art. 30, I e V, da CF.
+
+10 STF, Tribunal Pleno, ADI 5.877, rel. Min. Edson Fachin, red. do ac. Min. Roberto Barroso, j. 17.2.2021.
+
+11 STF, Tribunal Pleno, ADI 5.868, rel. Min. Cármen Lúcia, j. 21.12.2020.
+
+12 STF, Tribunal Pleno, ADI 2.790, rel. Min. Gilmar Mendes, j. 13.3.2020.
+
+
+[[pagina 9 | nativo]]
+H. A ofensa aos arts. 21, XX e 24, VI e § 1.º, da CF: competência da União para
+
+estabelecer normas gerais
+
+32. Nos termos dos arts. 21, XX, 22, IV e 24, VI e § 1.º, da CF:
+
+Art. 21. Compete à União: (...)
+
+XX - instituir diretrizes para o desenvolvimento urbano, inclusive habitação,
+saneamento básico e transportes urbanos;
+
+Art. 24. Compete à União, aos Estados e ao Distrito Federal legislar
+concorrentemente sobre: (...)
+
+VI - florestas, caça, pesca, fauna, conservação da natureza, defesa do solo e
+dos recursos naturais, proteção do meio ambiente e controle da poluição; (...)
+
+§ 1º No âmbito da legislação concorrente, a competência da União limitar-se-á
+a estabelecer normas gerais.
+33. As regras em questão estabelecem cabe à União instituir diretrizes
+
+para o desenvolvimento do saneamento básico. Do ponto de vista legislativo,
+
+estabelecem que é concorrente a competência da União, dos Estados e do Distrito
+
+Federal para legislar em matéria de defesa dos recursos naturais (de modo que à
+
+União cabe estabelecer normas gerais).
+
+34. A Lei 3.533/2019 do Estado do Tocantins é inconstitucional, porque
+
+é contrária à legislação nacional editada pela União no exercício de sua competência
+
+para estabelecer normas gerais.
+
+35. A Lei 3.533/2019 do Estado do Tocantins viola as diretrizes gerais
+
+do setor de saneamento e, ao fazê-lo, usurpa a competência legislativa exclusiva da
+
+União para estabelecer normas gerais em matéria de saneamento.
+
+36. A Lei Federal 11.445/2007, ao estabelecer as diretrizes nacionais
+
+para o saneamento básico, previu no art. 40, V e §§ 2.º e 3.º, que “os serviços poderão
+
+ser interrompidos pelo prestador nas seguintes hipóteses”:
+
+V - inadimplemento, pelo usuário do serviço de abastecimento de água ou de
+esgotamento sanitário, do pagamento das tarifas, após ter sido formalmente
+notificado, de forma que, em caso de coleta, afastamento e tratamento de esgoto, a
+interrupção dos serviços deverá preservar as condições mínimas de manutenção da
+saúde dos usuários, de acordo com norma de regulação ou norma do órgão de
+política ambiental.
+§ 2o A suspensão dos serviços prevista nos incisos III e V do caput deste artigo será
+precedida de prévio aviso ao usuário, não inferior a 30 (trinta) dias da data prevista
+para a suspensão.
+§ 3o A interrupção ou a restrição do fornecimento de água por inadimplência a
+estabelecimentos de saúde, a instituições educacionais e de internação coletiva de
+pessoas e a usuário residencial de baixa renda beneficiário de tarifa social deverá
+obedecer a prazos e critérios que preservem condições mínimas de manutenção da
+saúde das pessoas atingidas.
+
+
+[[pagina 10 | nativo]]
+37. Em outros termos, a União já estabeleceu normas gerais a respeito
+
+de interrupção do fornecimento do serviço de água em caso de inadimplemento.
+
+Conforme o art. 40, §§ 2.º e 3.º, da Lei 11.445/2007, é permitida a interrupção do
+
+serviço público em caso de inadimplemento, desde que ele seja formalmente
+
+notificado, desde que a interrupção seja precedida de aviso, com antecedência não
+
+inferior a trinta dias, e ressalvados estabelecimentos como de saúde e de educação.
+
+38. Ao modificar tais regras, para proibir “a suspensão do fornecimento
+
+de energia elétrica e água tratada pelas concessionárias por falta de pagamento de
+
+seus usuários em prazo inferior a 60 dias corridos, contados a partir da data do
+
+vencimento da fatura”, o art. 1.º da Lei 3.533/2019 do Estado do Tocantins contrariou
+
+a norma geral estabelecida pela União sobre o tema (art. 40, §§ 2.º e 3.º, da Lei
+
+11.445/2007). Consequentemente, usurpou competência legislativa da União.
+
+39. A Lei 3.533/2019 não poderia sequer dispor sobre o assunto, sob
+
+pena de violar a diretriz nacional fixada pela lei federal (o que se dirá, então, de dispor
+
+para contrariar a diretriz nacional). Os entes estaduais não possuem competência
+
+para estabelecer regra que contrarie a previsão da lei federal, porque isso implica
+
+usurpar a competência legislativa da União. Conforme a jurisprudência do E. STF:
+
+• A Constituição de 1988 estabeleceu uma competência concorrente não
+cumulativa, na qual há expressa delimitação dos modos de atuação de cada
+ente federativo, os quais não se sobrepõem. Compete à União editar as
+normas gerais (art. 24, § 1º), não cabendo aos estados contrariar ou substituir
+o que definido em norma geral, mas sim o suplementar (art. 24, § 2º). Se, por
+um lado, a norma geral não pode impedir o exercício da competência estadual
+de suplementar as matérias arroladas no art. 24, por outro, não se pode
+admitir que a legislação estadual possa adentrar a competência da União e
+disciplinar a matéria de forma contrária à norma geral federal, desvirtuando o
+mínimo de unidade normativa almejado pela Constituição Federal. A
+inobservância dos limites constitucionais impostos ao exercício da
+competência concorrente implica a inconstitucionalidade formal da lei.13
+• Se é certo, de um lado, que, nas hipóteses referidas no art. 24 da
+Constituição, a União Federal não dispõe de poderes ilimitados que lhe
+permitam transpor o âmbito das normas gerais, para, assim, invadir, de modo
+inconstitucional, a esfera de competência normativa dos Estados-membros,
+não é menos exato, de outro, que o Estado-membro, em existindo normas
+gerais veiculadas em leis nacionais (como a Lei Orgânica Nacional da
+Defensoria Pública, consubstanciada na LC 80/1994), não pode ultrapassar
+os limites da competência meramente suplementar, pois, se tal ocorrer, o
+diploma legislativo estadual incidirá, diretamente, no vício da
+inconstitucionalidade. A edição, por determinado Estado-membro, de lei que
+contrarie, frontalmente, critérios mínimos legitimamente veiculados, em sede
+
+13 STF, Tribunal Pleno, ADI 3.356, rel. Min. Dias Toffoli, j. 30.9.2017.
+
+
+[[pagina 11 | nativo]]
+de normas gerais, pela União Federal ofende, de modo direto, o texto da
+Carta Política.14
+40. Ainda nesse sentido, em matéria de fornecimento de água, existe
+
+precedente deste E. STF reconhecendo a inconstitucionalidade de lei estadual que,
+
+ao prever isenção de pagamento pelo serviço público de fornecimento de água,
+
+desrespeitou a distribuição da competência legislativa entre os entes federativos e que
+
+ofendeu a competência da União para estabelecer normas gerais:
+
+Direito Constitucional. Ação Direta de Inconstitucionalidade. Lei estadual. Isenção do
+pagamento de energia elétrica e água por trabalhadores desempregados. 1. Ação
+direta de inconstitucionalidade que impugna lei do Estado do Rio Grande do Sul que
+isenta trabalhadores desempregados do pagamento do consumo de energia elétrica
+e de água pelo período de seis meses. 2. Configurada violação aos arts. 21, XII, b;
+22, IV e 30, I e V, CF, pois a lei estadual afronta o esquema de competências
+legislativa e administrativa previsto na Constituição. 3. Configurada a violação ao art.
+175, caput e parágrafo único, I, III, V e ao art. 37, XXI, CF, tendo em vista que a lei
+estadual interferiu na concessão de serviços públicos federal e municipal, alterando
+condições da relação contratual que impacta a equação econômico-financeira em
+desfavor das concessionárias. 4. Medida cautelar confirmada. Ação direta de
+inconstitucionalidade julgada procedente.15
+41. Assim, também por esse motivo (ofensa ao art. 21, XX, 24, VI e §
+
+1.º, e 30, I e IV, da CF), a Lei 3.533/2019 do Estado do Tocantins é inconstitucional.
+
+I. A ofensa ao art. 37, XXI, da CF: equilíbrio econômico-financeiro
+
+42. Nos termos do art. 37, XXI, da CF:
+
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União,
+dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios de
+legalidade, impessoalidade, moralidade, publicidade e eficiência e, também, ao
+seguinte: (...)
+
+XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras
+e alienações serão contratados mediante processo de licitação pública que assegure
+igualdade de condições a todos os concorrentes, com cláusulas que estabeleçam
+obrigações de pagamento, mantidas as condições efetivas da proposta, nos termos
+da lei, o qual somente permitirá as exigências de qualificação técnica e econômica
+indispensáveis à garantia do cumprimento das obrigações.
+43. A regra, ao determinar que devem ser “mantidas as condições
+
+efetivas da proposta”, consagra a garantia constitucional da manutenção do equilíbrio
+
+econômico-financeiro dos contratos administrativos (e das concessões).
+
+44. Ao impedir o corte do fornecimento de água mesmo em caso de
+
+longo inadimplemento do usuário, o art. 1.º da Lei 3.533/2019 do Estado do Tocantins
+
+14 STF, Tribunal Pleno, ADI 2.903, rel. Min. Celso de Mello, j. 1.º.12.2005.
+
+15 STF, Tribunal Pleno, ADI 2.299, rel. Min. Roberto Barroso, j. 23.8.2019.
+
+
+[[pagina 12 | nativo]]
+ofende o art. 37, XXI, da CF e a garantia da manutenção do equilíbrio econômico-
+
+financeiro dos contratos administrativos.
+
+45. A estrutura tarifária das concessões do serviço público de
+
+abastecimento de água (que contempla a interrupção da prestação do serviço na
+
+forma do art. 40 da Lei Federal 11.445/2007) não é estabelecida aleatoriamente.
+
+Existe uma razão de ser para essa estrutura, que não pode ser ignorada.
+
+46. Por isso, o E. STF entende, por exemplo, que “os Estados-
+
+membros (...) não podem interferir na esfera das relações jurídico-contratuais
+
+estabelecidas entre o poder concedente (...) e as empresas concessionárias”,
+
+determinando, por exemplo, “a suspensão temporária do pagamento das tarifas”, sob
+
+pena de “afetar o equilíbrio financeiro resultante dessa relação jurídico-contratual”.16
+
+47. No caso concreto, ampliar o prazo de inadimplemento do usuário
+
+necessário para autorizar a interrupção do serviço de fornecimento de água (como faz
+
+a Lei 3.533/2019 do Estado do Tocantins) invariavelmente afeta a equação
+
+econômico-financeira das concessões desse serviço no Tocantins.
+
+48. Confira-se, nesse sentido:
+
+• Direito Constitucional. Ação Direta de Inconstitucionalidade. Lei estadual.
+Isenção do pagamento de energia elétrica e água por trabalhadores
+desempregados. 1. Ação direta de inconstitucionalidade que impugna lei do
+Estado do Rio Grande do Sul que isenta trabalhadores desempregados do
+pagamento do consumo de energia elétrica e de água pelo período de seis
+meses. 2. Configurada violação aos arts. 21, XII, b; 22, IV e 30, I e V, CF, pois
+a lei estadual afronta o esquema de competências legislativa e administrativa
+previsto na Constituição. 3. Configurada a violação ao art. 175, caput e
+parágrafo único, I, III, V e ao art. 37, XXI, CF, tendo em vista que a lei estadual
+interferiu na concessão de serviços públicos federal e municipal, alterando
+condições da relação contratual que impacta a equação econômico-financeira
+em desfavor das concessionárias. 4. Medida cautelar confirmada. Ação direta
+de inconstitucionalidade julgada procedente.17
+• A lei estadual afeta o equilíbrio econômico-financeiro do contrato de
+concessão de obra pública, celebrado pela administração capixaba, ao
+conceder descontos e isenções sem qualquer forma de compensação.
+Afronta evidente ao princípio da harmonia entre os poderes, harmonia e não
+separação, na medida em que o Poder Legislativo pretende substituir o
+Executivo na gestão dos contratos administrativos celebrados.18
+
+16 STF, Tribunal Pleno, ADI 2.337 MC, rel. Min. Celso de Mello, j. 20.2.2002. No mesmo sentido: STF,
+Tribunal Pleno, ADI 2.340, rel. Min. Ricardo Lewandowski, j. 6.3.2013.
+
+17 STF, Tribunal Pleno, ADI 2.299, rel. Min. Roberto Barroso, j. 23.8.2019.
+
+18 STF, Tribunal Pleno, ADI 2.733, rel. Min. Eros Grau, j. 26.10.2005.
+
+
+[[pagina 13 | nativo]]
+J. A suspensão da ação direta de inconstitucionalidade 0022938-
+
+98.2019.8.27.0000 (RE 1.363.641)
+
+49. Na medida em que coexistem ações de controle de
+
+constitucionalidade da Lei 3.533/2019 (a presente ação e a ação 0022938-
+
+98.2019.8.27.0000, ora em fase de recurso extraordinário – RE 1.363.641), impõe-se
+
+a suspensão da ação estadual até o julgamento final da presente ação.
+
+50. Trata-se de solução de há muito adotada neste E. STF:
+
+Ação direta de inconstitucionalidade. Pedido de liminar. Lei nº 9.332, de 27 de
+dezembro de 1995, do Estado de São Paulo. - Rejeição das preliminares de
+litispendência e de continência, porquanto, quando tramitam paralelamente duas
+ações diretas de inconstitucionalidade, uma no Tribunal de Justiça local e outra no
+Supremo Tribunal Federal, contra a mesma lei estadual impugnada em face de
+princípios constitucionais estaduais que são reprodução de princípios da
+Constituição Federal, suspende-se o curso da ação direta proposta perante o
+Tribunal estadual até o julgamento final da ação direta proposta perante o Supremo
+Tribunal Federal, conforme sustentou o relator da presente ação direta de
+inconstitucionalidade em voto que proferiu, em pedido de vista, na Reclamação 425.
+- Ocorrência, no caso, de relevância da fundamentação jurídica do autor, bem como
+de conveniência da concessão da cautelar. Suspenso o curso da ação direta de
+inconstitucionalidade nº 31.819 proposta perante o Tribunal de Justiça do Estado de
+São Paulo, defere-se o pedido de liminar para suspender, ex nunc e até decisão final,
+a eficácia da Lei n 9.332, de 27 de dezembro de 1995, do Estado de São Paulo.19
+51. Conforme se extrai do voto do Exmo. Min. Alexandre de Moraes na
+
+ADI 3.659, essa orientação visa preservar “a integridade dos mecanismos de controle
+
+de constitucionalidade no âmbito do Supremo Tribunal Federal, bem como da
+
+autoridade e da prevalência das decisões por ele proferidas”.
+
+52. O voto cita ainda outros – entre os diversos – casos de suspensão
+
+da ação estadual até o julgamento da ação proposta perante o STF: ADI 3.482, rel.
+
+Min. Celso de Mello, j. 14.3.2006; ADI 4.138, rel. Min. Celso de Mello, j. 14.12.2009;
+
+ADI 4.627, rel. Min. Luiz Fux, j. 30.8.2012.
+
+53. Por essas razões, a AESBE pede que se determine a suspensão
+
+da ação de direta de inconstitucionalidade 0022938-98.2019.8.27.0000, proposta
+
+perante o E. TJTO e que está em fase de recurso extraordinário, tramitando neste E.
+
+STF nos autos RE 1.363.641, sob a relatoria do Exmo. Min. André Mendonça), até o
+
+julgamento final da presente ação.
+
+19 STF, Tribunal Pleno, ADI 1.423 MC, rel. Min, Moreira Alves, j. 20.6.1996.
+
+
+[[pagina 14 | nativo]]
+K. Conclusão
+
+54. Diante do exposto e respeitosamente, a AESBE pede: (i) a
+
+suspensão da ação direta de inconstitucionalidade 0022938-98.2019.8.27.0000 (RE
+
+1.363.641); (ii) a notificação do Estado do Tocantins e da Assembleia Legislativa do
+
+Estado do Tocantins, para que prestem informações (art. 6.º da Lei 9.868); (iii) a oitiva
+
+do Advogado-Geral da União e do Procurador-Geral da República (art. 8.º da Lei
+
+9.868); e, ao final, (iv) o julgamento de procedência da ação para:
+
+... que seja declarado inconstitucional, com efeitos ex tunc, o art. 1.º da
+
+Lei 3.533/2019, de 14 de agosto de 2019, do Estado do Tocantins,
+
+publicada no Diário Oficial nº 5.419, que proibiu, no âmbito do Estado do
+
+Tocantins, a suspensão do fornecimento de energia elétrica e água
+
+tratada pelas concessionárias por falta de pagamento de seus usuários
+
+em prazo inferior a 60 dias corridos, contados a partir da data do
+
+vencimento da fatura, reconhecendo-se a ofensa aos arts. 2.º, 21, XX,
+
+24, VI e § 1.º, 30, I e V, 37, XXI, e 61, § 1.º, II, “b”, da CF.
+
+55. A Autora ressalva o direito de pleitear medida cautelar de
+
+suspensão dos efeitos da Lei 3.533/2019 do Estado do Tocantins, caso necessário.
+
+56. O valor da causa, para fins formais, é de R$ 10.000,00.
+
+Brasília (DF), 1.º de outubro de 2024.
+
+Cesar Pereira Eduardo Talamini
+
+OAB/PR 18.662 OAB/PR 19.920
+
+André Guskow Cardoso Rafael Wallbach Schwind
+
+OAB/PR 27.074 OAB/PR 35.318
+
+Bruno Gressler Wontroba
+
+OAB/PR 82.113
+
+

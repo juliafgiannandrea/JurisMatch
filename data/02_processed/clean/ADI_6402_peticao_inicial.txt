@@ -1,0 +1,1149 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+PETIÇÃO INICIAL ASCONST/PGR Nº 123771/2020
+
+O PROCURADOR-GERAL DA REPÚBLICA, com fundamento
+
+nos arts. 102, I, “a”; 103, VI, e 129, IV, da Constituição Federal; no art. 46,
+
+parágrafo único, I, da Lei Complementar 75, de 20.5.1993 (Lei Orgânica do
+
+Ministério Público da União), e na Lei 9.868, de 10.11.1999, vem propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+COM PEDIDO DE MEDIDA CAUTELAR
+
+contra o art. 28 da Lei 13.988, de 14.4.2020,1 a qual dispõe sobre
+
+requisitos para a transação resolutiva de litígios relativos a cobrança de créditos
+1 Acompanham a petição inicial cópia da lei impugnada, conforme preceitua o art. 3º,
+parágrafo único, da Lei 9.868/1999, e documentação do Sindifsco Nacional e da 2
+Câmara de Coordenação e Revisão do MPF.
+
+[[pagina 2 | nativo]]
+
+da Fazenda Pública federal. O dispositivo inseriu o art. 19-E na Lei 10.522, de
+
+19.7.2002, que “dispõe sobre o Cadastro Informativo dos créditos não quitados de
+
+órgãos e entidades federais e dá outras providências”.
+
+1. OBJETO DA AÇÃO
+
+Eis o teor da norma questionada:
+
+Lei 13.988/2020
+
+CAPÍTULO V
+DAS ALTERAÇÕES LEGISLATIVAS
+Art. 28. A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar
+acrescida do seguinte art. 19-E:
+“Art. 19-E. Em caso de empate no julgamento do processo
+administrativo de determinação e exigência do crédito tributário, não
+se aplica o voto de qualidade a que se refere o § 9º do art. 25 do
+Decreto nº 70.235, de 6 de março de 1972, resolvendo-se
+favoravelmente ao contribuinte.”
+
+A tese central defendida na ação é a de inconstitucionalidade
+
+formal, por vício no processo legislativo, em decorrência da inserção, em
+
+lei de conversão de medida provisória, de matéria de iniciativa reservada e
+
+sem pertinência temática com o texto originário, por meio de emenda
+
+parlamentar.
+
+
+[[pagina 3 | nativo]]
+
+Consoante se demonstrará, o art. 28 da Lei 13.988/2020 viola os
+
+arts. 1º, caput e parágrafo único, 2º, caput, 61, § 1º, II, “e”, e 84, VI, da
+
+Constituição Federal.
+
+2. INCONSTITUCIONALIDADE FORMAL
+
+Em 24.3.2020, mediante procedimento de deliberação remota, o
+
+Senado Federal aprovou o Projeto de Lei de Conversão (PLV) 2/2020,
+
+originário da Medida Provisória 899, de 16.10.2019, que tratou dos requisitos
+
+e condições para a realização de transação resolutiva de litígio entre a União e
+devedores de créditos fscais2.
+
+Na versão original, a MP 899/2020 disciplinava as circunstâncias em
+
+que o Fisco poderia negociar extrajudicialmente com seus devedores ou
+
+partes adversas, de forma a encerrar processos ou a evitar o ajuizamento de
+
+ações relativamente a créditos públicos já existentes.
+
+O alcance da proposição estava delimitado nos seus arts. 1º, § 3º, e
+
+2º, que dispunham:
+
+2 Cf. htps://www.congressonacional.leg.br/materias/medidas-provisorias/-/mpv/139427.
+Acesso em 20.4.2020.
+
+[[pagina 4 | nativo]]
+
+Art. 1º Esta Medida Provisória estabelece os requisitos e as condições
+para que a União e os devedores ou as partes adversas realizem
+transação resolutiva de litígio, nos termos do art. 171 da Lei nº
+5.172, de 25 de outubro de 1966 - Código Tributário Nacional.
+(…)
+§ 3º Aplica-se o disposto nesta Medida Provisória:
+I - aos créditos tributários não judicializados sob a
+administração da Secretaria Especial da Receita Federal do Brasil do
+Ministério da Economia;
+II - à dívida ativa e aos tributos da União, cuja inscrição,
+cobrança ou representação incumbam à Procuradoria-Geral da
+Fazenda Nacional, nos termos do disposto no art. 12 da Lei
+Complementar nº 73, de 10 de fevereiro de 1993; e,
+III - no que couber, à dívida ativa das autarquias e das
+fundações públicas federais, cuja inscrição, cobrança e representação
+incumbam à Procuradoria-Geral Federal e aos créditos cuja cobrança
+seja competência da Procuradoria-Geral da União, nos termos de ato
+do Advogado-Geral da União e sem prejuízo do disposto na Lei nº
+9.469, de 10 de julho de 1997.
+Art. 2º Para fns desta Medida Provisória, são modalidades de
+transação:
+I - a proposta individual ou por adesão na cobrança da dívida ativa;
+II - a adesão nos demais casos de contencioso judicial ou
+administrativo tributário; e
+III - a adesão no contencioso administrativo tributário de baixo valor.
+
+Contudo, durante o trâmite legislativo de conversão da MP 899/2020
+
+na Lei 13.988/2020, foi inserida matéria estranha ao texto original daquela
+
+proposição, que veio a constar do art. 28, ora questionado. Este incluiu o art.
+
+19-E na Lei 10.522/2002, com o escopo de estabelecer o fm do voto de
+
+
+[[pagina 5 | nativo]]
+
+qualidade em empate nos julgamentos administrativos fscais do Conselho
+
+Administrativo de Recursos Fiscais (CARF):
+
+Art. 28. A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar
+acrescida do seguinte art. 19-E:
+“Art. 19-E. Em caso de empate no julgamento do processo
+administrativo de determinação e exigência do crédito tributário, não
+se aplica o voto de qualidade a que se refere o § 9º do art. 25 do
+Decreto nº 70.235, de 6 de março de 1972, resolvendo-se
+favoravelmente ao contribuinte.”
+
+Percebe-se discrepância de conteúdos normativos entre a
+
+proposição submetida ao Parlamento pela Presidência da República e a lei
+
+aprovada pelo Congresso. Enquanto a MP 899/2020 tratava da negociação
+
+extrajudicial de créditos tributários existentes e constituídos, em dívida ativa
+
+ou não judicializados, o art. 28 da Lei 13.988/2020 disciplinou aspecto
+
+procedimental do julgamento de processo administrativo de determinação e
+
+exigência do crédito tributário, ou seja: regra de desempate em julgamento
+
+administrativo.
+
+O art. 28 da Lei 13.988/2020 é tema estranho ao que justifcou a
+
+edição da Medida Provisória 899/2019.
+
+Como evidenciam as disposições da MP 899/2020, não existe
+
+pertinência temática entre o texto normativo original, que tratou de transação
+
+
+[[pagina 6 | nativo]]
+
+em matéria tributária, envolvendo os créditos tributários já em fase de
+
+execução – portanto já constituídos e exigíveis –, e a norma acrescida por
+
+meio de emenda parlamentar, que alterou a forma de atuação de órgão
+
+colegiado disciplinado por legislação específca, cuja função é apreciar
+
+recursos em processos administrativos tributários.
+
+Por não guardar afnidade com a matéria inicialmente tratada na
+
+MP 899/2020, há violação do princípio democrático e do devido processo
+
+legislativo.
+
+Tal compreensão decorre do atual entendimento do Supremo
+
+Tribunal Federal, sedimentado a partir do julgamento da ADI 5.127/DF (Red.
+
+p/ acórdão: Min. Edson Fachin, DJe de 11/5/2016):
+
+DIREITO CONSTITUCIONAL. CONTROLE DE
+CONSTITUCIONALIDADE. EMENDA PARLAMENTAR EM
+PROJETO DE CONVERSÃO DE MEDIDA PROVISÓRIA EM
+LEI. CONTEÚDO TEMÁTICO DISTINTO DAQUELE
+ORIGINÁRIO DA MEDIDA PROVISÓRIA. PRÁTICA EM
+DESACORDO COM O PRINCÍPIO DEMOCRÁTICO E COM O
+DEVIDO PROCESSO LEGAL (DEVIDO PROCESSO
+LEGISLATIVO).
+1. Viola a Constituição da República, notadamente o princípio
+democrático e o devido processo legislativo (arts. 1º, caput, parágrafo
+único, 2º, caput, 5º, caput, e LIV, CRFB), a prática da inserção,
+mediante emenda parlamentar no processo legislativo de conversão
+de medida provisória em lei, de matérias de conteúdo temático
+estranho ao objeto originário da medida provisória.
+
+[[pagina 7 | nativo]]
+
+2. Em atenção ao princípio da segurança jurídica (art. 1º e 5º,
+XXXVI, CRFB), mantém-se hígidas todas as leis de conversão fruto
+dessa prática promulgadas até a data do presente julgamento,
+inclusive aquela impugnada nesta ação.
+3. Ação direta de inconstitucionalidade julgada improcedente por
+maioria de votos.
+
+O mesmo entendimento foi reafrmado no julgamento da ADI
+
+5.012/DF (Rel. Min. Rosa Weber, DJe 18, de 1º.2. 2018):
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 113
+A 126 DA LEI Nº 12.249/2010. CONVERSÃO DA MEDIDA
+PROVISÓRIA Nº 472/2009. DISPOSITIVOS INCLUÍDOS POR
+EMENDA PARLAMENTAR. AUSÊNCIA DE PERTINÊNCIA
+TEMÁTICA COM O OBJETO ORIGINAL DA MEDIDA
+PROVISÓRIA. INOBSERVÂNCIA DO DEVIDO PROCESSO
+LEGISLATIVO CONSTITUCIONAL. AFRONTA AO
+PRINCÍPIO DEMOCRÁTICO E AO POSTULADO DA
+SEPARAÇÃO DOS PODERES. ARTS. 1º, CAPUT, 2º, 5º, LIV, 62
+E 84, XXVI, DA CONSTITUIÇÃO DA REPÚBLICA.
+1. Inclusão, por emenda parlamentar, dos arts. 113 a 126, versando
+sobre alteração de limites de unidades de conservação, na redação
+fnal da Lei nº 12.249/2010, conversão da Medida Provisória nº
+472/2009.
+2. Afronta ao princípio democrático, ao postulado da separação entre
+os Poderes e à garantia do devido processo legislativo, à ausência de
+pertinência temática entre a matéria veiculada na emenda
+parlamentar e o objeto da medida provisória submetida à conversão
+em lei.
+3. Em 15.10.2015, o Plenário do Supremo Tribunal Federal, embora
+reconhecendo formalmente inconstitucional, a teor dos arts. 1º,
+caput e parágrafo único, 2º, caput, e 5º, LIV, da Carta Política, a
+inclusão de emenda, em projeto de conversão de medida provisória
+
+
+[[pagina 8 | nativo]]
+
+em lei, versando conteúdo divorciado do seu objeto originário, ao
+julgamento da ADI 5127, forte no princípio da segurança jurídica,
+afrmou a validade dos preceitos normativos resultantes de emendas
+a projetos de lei de conversão, ainda que sem relação com o objeto da
+medida provisória, aprovados antes da data daquele julgamento.
+4. Ação direta de inconstitucionalidade julgada improcedente.
+
+A desconformidade temática entre o conteúdo original da MP
+
+899/2020 e a regra contida no art. 28 da Lei 13.988/2020, inserida no Projeto de
+
+Lei de Conversão 2/2020 por emenda parlamentar, confgura violação da
+
+separação de poderes, do devido processo legislativo e do princípio
+
+democrático.
+
+A Constituição Federal reservou ao Presidente da República, na
+
+condição de chefe do Poder Executivo federal, a disciplina da organização e
+
+funcionamento dos órgãos da administração pública. Nos termos dos arts. 61,
+
+§ 1º, II, “e”, e 84, VI, tal prerrogativa é exercida tanto pela defagração de
+
+processo legislativo ordinário quanto pela edição de decretos autônomos:
+
+Art. 61. A iniciativa das leis complementares e ordinárias cabe a
+qualquer membro ou Comissão da Câmara dos Deputados, do Senado
+Federal ou do Congresso Nacional, ao Presidente da República, ao
+Supremo Tribunal Federal, aos Tribunais Superiores, ao Procurador-
+Geral da República e aos cidadãos, na forma e nos casos previstos
+nesta Constituição.
+§ 1o São de iniciativa privativa do Presidente da República as leis
+que:
+(…)
+
+
+[[pagina 9 | nativo]]
+
+II – disponham sobre:
+(…)
+e) criação e extinção de Ministérios e órgãos da administração
+pública, observado o disposto no art. 84, VI.
+(…)
+Art. 84. Compete privativamente ao Presidente da República:
+(…)
+VI – dispor, mediante decreto, sobre:
+a) organização e funcionamento da administração federal, quando
+não implicar aumento de despesa nem criação ou extinção de órgãos
+públicos; (…).
+
+A jurisprudência do Supremo Tribunal Federal é no sentido de ser
+
+indispensável a iniciativa do chefe do Executivo, mediante projeto de lei ou
+
+decreto, para elaboração de normas que de alguma forma remodelem a
+
+estrutura organizacional ou o funcionamento de órgãos pertencentes à
+
+administração pública da respectiva unidade federativa (ADI 3.254/ES, Rel.
+
+Min. Ellen Gracie, DJ de 2.12.2005). É o que se colhe dos seguintes julgados:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI DO
+ESTADO DO RIO GRANDE DO SUL QUE DISCIPLINA
+MATÉRIA A SER PUBLICADA NA IMPRENSA OFICIAL DO
+ESTADO. DIPLOMA LEGAL DE INICIATIVA
+PARLAMENTAR. VÍCIO FORMAL. EXISTÊNCIA TAMBÉM
+DE VÍCIO MATERIAL, POR VIOLAÇÃO DO PRINCÍPIO DA
+SEPARAÇÃO DOS PODERES. INCONSTITUCIONALIDADE
+RECONHECIDA.
+I – Lei que verse sobre a criação e estruturação de órgãos da
+administração pública é de iniciativa privativa do Chefe do Poder
+
+
+[[pagina 10 | nativo]]
+
+Executivo (art. 61, § 1o, II, e, da Constituição Federal). Princípio da
+simetria.
+II – Afronta também ao princípio da separação dos poderes (art. 2o da
+CF).
+III – Reconhecida a inconstitucionalidade de dispositivo de lei, de
+iniciativa parlamentar, que restringe matérias a serem publicadas no
+Diário Ofcial do Estado por vício de natureza formal e material.
+IV – Ação julgada procedente.
+(ADI 2.294/RS, Rel. Min. Ricardo Lewandowski, DJe 176, 11
+set. 2014.)
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI
+ALAGOANA N. 6.153, DE 11 DE MAIO DE 2000, QUE CRIA O
+PROGRAMA DE LEITURA DE JORNAIS E PERIÓDICOS EM
+SALA DE AULA, A SER CUMPRIDO PELAS ESCOLAS DA
+REDE OFICIAL E PARTICULAR DO ESTADO DE ALAGOAS.
+1. Iniciativa privativa do Chefe do Poder Executivo Estadual para
+legislar sobre organização administrativa no âmbito do Estado.
+2. Lei de iniciativa parlamentar que afronta o art. 61, § 1o, inc. II,
+alínea e, da Constituição da República, ao alterar a atribuição da
+Secretaria de Educação do Estado de Alagoas. Princípio da simetria
+federativa de competências.
+3. Iniciativa louvável do legislador alagoano que não retira o vício
+formal de iniciativa legislativa. Precedentes.
+4. Ação direta de inconstitucionalidade julgada procedente.
+(ADI 2.329/AL, Rel. Min. Cármen Lúcia, DJe 116, 25 jun. 2010.)
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGO
+117, INCISOS I, II, III E IV, DA LEI ORGÂNICA DO DISTRITO
+FEDERAL. ÓRGÃOS INCUMBIDOS DO EXERCÍCIO DA
+SEGURANÇA PÚBLICA. ORGANIZAÇÃO
+ADMINISTRATIVA. MATÉRIA DE INICIATIVA RESERVADA
+AO CHEFE DO PODER EXECUTIVO. MODELO DE
+
+
+[[pagina 11 | nativo]]
+
+HARMÔNICA TRIPARTIÇÃO DOS PODERES.
+INCONSTITUCIONALIDADE.
+1. Por tratar-se de evidente matéria de organização
+administrativa, a iniciativa do processo legislativo está
+reservada ao Chefe do Poder Executivo local.
+2. Os Estados-membros e o Distrito Federal devem obediência às
+regras de iniciativa legislativa reservada, fxadas
+constitucionalmente, sob pena de violação do modelo de harmônica
+tripartição de poderes, consagrado pelo constituinte originário.
+Precedentes.
+3. Ação direta de inconstitucionalidade julgada procedente.
+(ADI 1.182/DF, Rel. Min. Eros Grau, DJ, de 10 mar. 2006.)
+
+O Conselho Administrativo de Recursos Fiscais (CARF) é órgão
+
+colegiado, integrante do Ministério da Fazenda, responsável pelo julgamento
+
+administrativo de segunda instância do contencioso administrativo fscal na
+
+esfera federal.
+
+As Seções e Câmara Superior do CARF são integradas por Turmas,
+
+compostas paritariamente por representantes dos contribuintes e da Fazenda
+
+Pública, reservada a representante desta última a função de Presidente, ao
+
+qual é conferido o voto de qualidade em caso de empates. Nesse sentido,
+
+dispõe o Decreto 70.235, de 6.3.1972, com redação da Lei 11.941, de 27.5.2009:
+
+Art. 25. O julgamento do processo de exigência de tributos ou
+contribuições administrados pela Secretaria da Receita Federal
+compete:
+(…)
+
+
+[[pagina 12 | nativo]]
+
+II – em segunda instância, ao Conselho Administrativo de Recursos
+Fiscais, órgão colegiado, paritário, integrante da estrutura do
+Ministério da Fazenda, com atribuição de julgar recursos de ofício e
+voluntários de decisão de primeira instância, bem como recursos de
+natureza especial.
+§ 1º O Conselho Administrativo de Recursos Fiscais será constituído
+por seções e pela Câmara Superior de Recursos Fiscais.
+§ 2º As seções serão especializadas por matéria e constituídas por
+câmaras.
+§ 3º A Câmara Superior de Recursos Fiscais será constituída por
+turmas, compostas pelos Presidentes e Vice-Presidentes das câmaras.
+§ 4º As câmaras poderão ser divididas em turmas.
+§ 5º O Ministro de Estado da Fazenda poderá criar, nas seções,
+turmas especiais, de caráter temporário, com competência para
+julgamento de processos que envolvam valores reduzidos, que
+poderão funcionar nas cidades onde estão localizadas as
+Superintendências Regionais da Receita Federal do Brasil.
+§ 6º (VETADO)
+§ 7º As turmas da Câmara Superior de Recursos Fiscais serão
+constituídas pelo Presidente do Conselho Administrativo de
+Recursos Fiscais, pelo Vice-Presidente, pelos Presidentes e pelos
+Vice-Presidentes das câmaras, respeitada a paridade.
+§ 8º A presidência das turmas da Câmara Superior de Recursos
+Fiscais será exercida pelo Presidente do Conselho Administrativo de
+Recursos Fiscais e a vice-presidência, por conselheiro representante
+dos contribuintes.
+§ 9º Os cargos de Presidente das Turmas da Câmara Superior de
+Recursos Fiscais, das câmaras, das suas turmas e das turmas
+especiais serão ocupados por conselheiros representantes da Fazenda
+Nacional, que, em caso de empate, terão o voto de qualidade, e os
+cargos de Vice-Presidente, por representantes dos contribuintes.
+§ 10. Os conselheiros serão designados pelo Ministro de Estado da
+Fazenda para mandato, limitando-se as reconduções, na forma e no
+prazo estabelecidos no regimento interno. (Incluído pela Lei nº
+11.941, de 2009)
+
+
+[[pagina 13 | nativo]]
+
+§ 11. O Ministro de Estado da Fazenda, observado o devido processo
+legal, decidirá sobre a perda do mandato dos conselheiros que
+incorrerem em falta grave, defnida no regimento interno.
+
+Ao dispor que “em caso de empate no julgamento do processo
+
+administrativo de determinação e exigência do crédito tributário, não se aplica o voto
+
+de qualidade (…), resolvendo-se favoravelmente ao contribuinte”, o art. 19-E
+
+incluído na Lei 10.522/2002 pela Lei 13.988/2020 interferiu indevidamente no
+
+desempenho de competências institucionais e na forma de atuação do CARF,
+
+órgão da administração pública federal.
+
+Por decorrer de emenda parlamentar, há usurpação da iniciativa
+
+conferida ao chefe do Executivo pelos arts. 61, § 1º, II, “e”, e 84, VI, da CF.
+
+O processo legislativo de conversão de medida provisória em lei é
+
+excepcional e não se realiza da mesma forma que o procedimento ordinário
+
+de produção legislativa. As emendas parlamentares podem integrar o
+
+processo de superação da provisoriedade das MPs, mas não podem ser rota
+
+de fuga ao processo legislativo ordinário. Nesse sentido, observou o Ministro
+
+Edson Fachin, no mencionado julgamento da ADI 5.127/DF:
+
+Como a jurisprudência desta Suprema Corte entende incompatível
+com o delineamento constitucional a incorporação de emenda
+parlamentar a projeto de lei apresentado pelo Chefe do Poder
+Executivo nos limites do seu poder de iniciativa quando ausente o
+
+
+[[pagina 14 | nativo]]
+
+vínculo de afnidade material, a mesma ratio conduz a que tampouco
+se admita emenda absolutamente inovatória em rito legislativo
+sujeito a garantias mais brandas do que as que norteiam o processo
+legislativo ordinário.
+(…)
+A incorporação de emenda parlamentar sobre matéria estranha às
+versadas na medida provisória implica permitir se instaure o rito
+legislativo anômalo previsto excepcionalmente na Carta Política para
+a conversão de medida provisória em lei quanto a matéria não
+submetida ao Congresso Nacional na forma do art. 62, caput, da
+Constituição da República. Mais do que o poder de emenda, signifca
+conferir ao parlamentar a titularidade de iniciativa para, esquivando-
+se do procedimento para aprovação das leis ordinárias, submeter
+propostas legislativas avulsas ao rito dos projetos de lei de conversão,
+aproveitando-se da tramitação de medida provisória sobre outra
+matéria.
+
+Naquela assentada, a Suprema Corte atribuiu efeitos prospectivos à
+
+decisão (ex nunc), de modo que a vedação de emendas parlamentares de
+
+conteúdo temático distinto da proposição original não alcançasse leis de
+
+conversão promulgadas até a data do julgamento, em respeito ao princípio da
+
+segurança jurídica.
+
+Considerando que a conversão da Medida Provisória 899/2020 que
+
+deu origem ao art. 28 da Lei 13.988, de 14.4.2020, ocorreu após o precedente, há
+
+de incidir o entendimento nele frmado.
+
+Assim, resta confgurada a inconstitucionalidade formal da
+
+inclusão, por emenda parlamentar, do art. 19-E na Lei 10.522/2002 pelo art. 28
+
+[[pagina 15 | nativo]]
+
+da Lei 13.988/2020, porquanto o dispositivo tratou de tema de iniciativa
+
+reservada e sem pertinência temática com a matéria originalmente versada
+
+pela Medida Provisória 899/2020.
+
+3. DA LEGITIMIDADE DO VOTO DE QUALIDADE NO CARF
+
+O voto de qualidade constitui critério político de desempate de
+
+votações normalmente adotado em órgãos deliberativos de composição
+
+colegiada paritária.
+
+A compatibilidade constitucional do instituto, no âmbito de
+
+tribunal de natureza administrativa, foi inicialmente apreciada pela Primeira
+
+Turma do Supremo Tribunal Federal, no julgamento de agravo regimental
+
+no AI 682.486/DF (Rel. Min. Ricardo Lewandowski, DJe de 14.3.2008), no
+
+qual se examinou a disposição legal que conferia a prerrogativa de tal voto
+
+ao presidente do Tribunal Administrativo de Defesa Econômica, órgão do
+
+Conselho Administrativo de Defesa da Concorrência (CADE) responsável
+
+pelo julgamento de infrações à ordem econômica.
+
+
+[[pagina 16 | nativo]]
+
+Conquanto o tema de fundo não tenha sido conhecido no referido
+
+precedente, por ausência de prequestionamento da matéria, os Ministros
+
+Marco Aurélio e Ayres Brito expuseram considerações, em obter dictum, no
+
+sentido da inconstitucionalidade do instituto, entendimento que não
+
+prevaleceu em julgamentos posteriores, quando o Supremo Tribunal Federal
+
+decidiu no sentido da constitucionalidade do voto de minerva.
+
+Prevista no art. 13, IX, do Regimento Interno do STF3, a
+
+prerrogativa do voto de qualidade foi objeto de análise nos recursos
+
+extraordinários 630.147/DF (Rel. p/ acórdão Min. Marco Aurélio, DJe
+
+5.12.2011) e 631.102/PA (Rel. Min. Joaquim Barbosa, DJe 20.6.2011), quando o
+
+Supremo deparou-se com situações de empate, decorrentes da circunstância
+
+de se encontrar vaga uma das cadeiras na Corte por demora na nomeação de
+
+integrante pelo Presidente da República.
+
+Voltavam-se os recursos contra decisões do Tribunal Superior
+
+Eleitoral que aplicaram a chamada Lei da Ficha Limpa (Lei Complementar
+
+135/2010) para indeferir registros de candidatura aos cargos de Governador
+
+3 “Art. 13. São atribuições do Presidente: […]
+IX - proferir voto de qualidade nas decisões do Plenário, para as quais o Regimento Interno não
+preveja solução diversa, quando o empate na votação decorra de ausência de Ministro em virtude
+de:
+a) impedimento ou suspeição;
+b) vaga ou licença médica superior a trinta dias, quando seja urgente a matéria e não se possa
+convocar o Ministro licenciado.”
+
+[[pagina 17 | nativo]]
+
+do Distrito Federal e Senador da República, respectivamente. No RE 630.147,
+
+não se chegou a um acordo quanto à legitimidade constitucional do voto de
+
+qualidade do Presidente, conforme se verifca nos seguintes trechos dos
+
+debates (p. 322-340 do acórdão):
+
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) –
+Neste caso, nós temos um resultado prático que signifca que temos
+cinco votos que negam provimento aos recursos e cinco votos que
+lhes dão provimento.
+A Corte deve agora decidir qual é o resultado que deve ser
+proclamado.
+(…)
+O SENHOR MINISTRO MARCO AURÉLIO – Presidente,
+somente um aspecto. Gostaria de saber em que situação concreta de
+julgamento poderá ser aplicado o inciso IX do artigo 13 do
+Regimento Interno?
+(…)
+O SENHOR MINISTRO RICARDO LEWANDOWSKI – Matéria
+infraconstitucional, Ministro.
+O SENHOR MINISTRO GILMAR MENDES –
+Infraconstitucional não vem pra cá.
+(…)
+O SENHOR MINISTRO AYRES BRITTO (RELATOR) – Onde
+está dito que prevalece o voto de Vossas Excelências, que formam o
+bloco dos cinco?
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) –
+Não há voto para reformar e não há voto para manter o acórdão. Há
+empate.
+(…)
+O SENHOR MINISTRO MARCO AURÉLIO – Presidente, surgiu
+a pérola: no caso de empate, não prevalece a corrente na qual estiver o
+
+
+[[pagina 18 | nativo]]
+
+Presidente, mas prevalece a decisão. É interessante. Vamos emprestar
+a este julgamento a mesma regra que emprestamos ao habeas corpus!
+O SENHOR MINISTRO RICARDO LEWANDOWSKI – Perdão,
+Ministro, perdão. O Presidente, neste caso, é um Ministro do
+Supremo. Não tem um voto com peso específco superior aos demais.
+O SENHOR MINISTRO MARCO AURÉLIO - Eu não estava na
+sessão quando a maioria aprovou a emenda regimental, Excelência!
+O SENHOR MINISTRO RICARDO LEWANDOWSKI - A
+Maioria Regimental foi aprovada com essa ressalva, exatamente em
+homenagem ao princípio da reserva de Plenário, do artigo 97. Nós
+não íamos dar, com todo respeito, um cheque em branco ao
+Presidente.
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) -
+Ministro, nós não estamos chegando a nenhum consenso, vamos
+colher o voto de cada um e ver se é possível apurar, pela decisão do
+Plenário, qual é o resultado do julgamento.
+O SENHOR MINISTRO AYRES BRITTO (RELATOR) - Mas qual
+é a intenção de Vossa Excelência se houver novo empate? Vossa
+Excelência pretende desempatar?
+(…)
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) –
+Ministro, vamos partir do seguinte pressuposto: eu não tenho
+nenhuma vocação para déspota, nem acho que o meu voto valha mais
+do que qualquer dos outros Ministros, porque, se valesse, cinco
+Ministros não teriam discordado do meu voto!
+O SENHOR MINISTRO AYRES BRITTO (RELATOR) –
+Excelente.
+O SENHOR MINISTRO CELSO DE MELLO: Se substituir o
+empate, e desde que o eminente Ministro Presidente já afrmou que
+não irá exercer a prerrogativa de proferir o voto de qualidade, a única
+solução será suspender-se e aguardar-se a nomeação e posse do novo
+Ministro.
+O SENHOR MINISTRO MARCO AURÉLIO - Aguardemos a
+leitura pela sociedade.
+
+
+[[pagina 19 | nativo]]
+
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) - A
+mim me parece que é a única solução viável. Não há outra.
+O SENHOR MINISTRO JOAQUIM BARBOSA - Eu concordaria
+com essa solução se, ao mesmo tempo, nós revogássemos,
+imediatamente, o dispositivo do Regimento que dá voto de qualidade
+ao Presidente.
+O SENHOR MINISTRO MARCO AURÉLIO - De forma
+casuística, em cima do caso concreto.
+O SENHOR MINISTRO JOAQUIM BARBOSA - Por que?
+Porque é inconstitucional.
+O SENHOR MINISTRO CEZAR PELUSO (PRESIDENTE) –
+Não há nenhum impedimento para declarar isso depois, Ministro.
+
+O processo acabou extinto por perda de objeto, em 22.9.2010. No
+
+julgamento do RE 631.102, ante novo empate, a Corte voltou a apreciar
+
+propostas de solução do impasse.
+
+Discorreu, então, o Ministro Celso de Mello sobre o voto de
+
+qualidade do Presidente da Corte (p. 292-293 do acórdão):
+
+Há, ainda, um segundo critério passível de utilização por esta Corte.
+Refro-me ao voto de qualidade de que Vossa Excelência dispõe,
+Senhor Presidente, como prerrogativa inerente ao cargo que ora
+titulariza (RISTF, art. 13, IX).
+Entendo que o voto de qualidade somente não poderia ser utilizado
+em situações, inocorrentes no caso, em que se impusesse pronúncia
+de inconstitucionalidade de lei ou de ato normativo, não, porém,
+quando se tratasse de reconhecer a incompatibilidade de certa decisão
+judicial (como a emanada do TSE) com o texto da Constituição.
+Desejo enfatizar, neste ponto, por necessário que a Emenda
+Regimental nº 35/2009, ao introduzir a norma inscrita no inciso IX
+
+
+[[pagina 20 | nativo]]
+
+do art. 13 do RISTF, contemplou hipótese de verdadeira maioria
+fcta, produzida pelo exercício, sempre excepcional, do voto de
+qualidade atribuído ao Presidente do Supremo Tribunal Federal.
+É certo, no entanto, que essa técnica de votação (e de decisão),
+necessária para defnir situações insuperáveis de empate (ressalvados
+os casos previstos no parágrafo único do art. 146 e no art. 205,
+parágrafo único, inciso II, ambos do RISTF), não se mostrará
+compatível com a cláusula de reserva de plenário fundada no art. 97
+da Constituição, pois referida cláusula constitucional exige, para
+efeito de declaração de inconstitucionalidade de lei ou de ato
+normativo, maioria absoluta real dos membros do Tribunal, não
+permitindo, por isso mesmo, que a declaração de
+inconstitucionalidade de qualquer ato estatal resulte de maioria fcta.
+Essa, porém, não é a situação que se registra nos autos, pois a
+corrente que dá provimento ao presente recurso extraordinário não
+declara a inconstitucionalidade de qualquer regra inscrita na LC n–
+135/2010, limitando-se, tão somente, a reconhecer que foi
+inconstitucional a interpretação que o E. Tribunal Superior Eleitoral
+deu a referido diploma legislativo.
+De qualquer maneira, no entanto, esse segundo critério pode ser
+afastado, pois o eminente Senhor Presidente desta Corte já afrmou
+que não pretende valer-se dessa especial prerrogativa.
+
+Na ocasião, posicionou-se pela inconstitucionalidade do dispositivo
+
+regimental o Min. Joaquim Barbosa (p. 304 do acórdão):
+
+Senhor Presidente, faço aqui uma pequena alteração na conclusão do
+meu voto para aderir à proposta do Ministro Celso de Mello, que
+chega aos mesmos resultados no caso concreto. Mas, a minha
+preferência é pela aplicação do artigo 146.
+E, caso essa questão volte a aforar, em primeiro lugar, eu proporia,
+mais uma vez, que o dispositivo do Regimento Interno, artigo 13,
+
+
+[[pagina 21 | nativo]]
+
+inciso IX –, fosse revogado porque é “chapadamente inconstitucional,
+como diria o nosso Ministro Sepúlveda Pertence.
+
+A seu turno, os Ministros Dias Tofoli, Celso de Mello e Ricardo
+
+Lewandowski admitiram a possibilidade de aplicação do voto de qualidade
+
+pelo Presidente da Corte, desde que não incidente a regra da reserva de
+
+plenário prevista no art. 97 da Constituição (p. 305-309 do acórdão):
+
+O SENHOR MINISTRO DIAS TOFFOLI: (…)
+Senhor Presidente, já votei no sentido do adiamento do julgamento.
+Não encontro solução regimental, e, portanto, não vejo outro critério
+que não o do inciso IX do artigo 13: a solução da decisão por parte do
+Presidente para proferir o voto de desempate.
+(…)
+O SENHOR MINISTRO JOAQUIM BARBOSA (RELATOR) –
+Mas, Ministro Tofoli, o artigo 13, inciso IX, cria uma situação de
+artifcialidade: confere dois votos a um Membro deste Tribunal. Isso é
+um absurdo.
+O SENHOR MINISTRO CELSO DE MELLO: A Emenda
+Regimental nº 35/2009, ao introduzir a norma inscrita no inciso IX
+do art. 13 do RISTF, contemplou hipótese de verdadeira maioria
+fcta, produzida pelo exercício, sempre excepcional, do voto de
+qualidade atribuído ao Presidente do Supremo Tribunal Federal. É
+claro que essa técnica de votação (e de decisão), necessária para
+defnir situações insuperáveis de empate (ressalvados os casos
+previstos no parágrafo único do art. 146 e no art. 205, parágrafo
+único, inciso II, ambos do RISTF), não se mostrará compatível com
+a cláusula de reserva de plenário fundada no art. 97 da
+Constituição, pois referida cláusula constitucional exige, para efeito
+de declaração de inconstitucionalidade de lei ou de ato normativo,
+maioria absoluta real dos membros do Tribunal, não permitindo,
+
+
+[[pagina 22 | nativo]]
+
+por isso mesmo, que a declaração de inconstitucionalidade de
+qualquer ato estatal resulte de maioria fcta.
+(…)
+O SENHOR MINISTRO RICARDO LEWANDOWSKI – (…)
+Também ousaria dizer que o inciso IX do artigo 13, isoladamente
+considerado e aplicado para a matéria infraconstitucional, é legítimo,
+é válido, e pode ser utilizado mormente em situações de emergência,
+quando não haja outra solução. Mas, quando se trata de matéria
+constitucional, este inciso IX não pode ser aplicado sob pena de
+franca colidência com o artigo 97 da Carta da República.
+
+Relevantes considerações sobre a constitucionalidade do voto de
+
+qualidade como critério político de desempate de votações foram
+
+apresentadas pelo Ministro Gilmar Mendes (p. 315-320 do acórdão):
+
+Aí vêm as alternativas que se colocam: artigo 13, IX, e o artigo 146.
+Os dois foram pensados, Presidente, para essa situação de impasse,
+que passamos a viver continuadamente a partir de casos de ausência
+extensiva, extensa, alongada de Colegas por razões as mais variadas.
+Passou-se, então, a ver a necessidade de uma solução. É diferente do
+que se faz em várias Cortes no mundo? Vamos encontrar soluções as
+mais diversas. Há sistemas que consagram que, em caso de empate –
+e há modelos específcos, inclusive, pela conformação do Tribunal –
+mantém-se o ato impugnado, seja ele um ato judicial ou um ato
+legislativo.
+O modelo alemão é fácil de ver, porque cada senado, assim chamado,
+cada câmara, que é um tribunal como um todo, tem oito juízes.
+Então, a hipótese de empate é praticamente da rotina, especialmente
+nos casos amplamente controvertidos; o caso americano, também; a
+Corte de Haia já prevê o voto de qualidade do Presidente; a Corte
+constitucional italiana já prevê nesses casos de empate o voto de
+qualidade, excetuado na hipótese de matéria criminal, porque, aí, tal
+
+
+[[pagina 23 | nativo]]
+
+como nós, a solução é mais favorável. Portanto, não se dá ao
+Presidente essa possibilidade. Veja que é uma necessidade de decisão.
+Inconstitucionalidade por quê? Não há aqui nenhuma
+inconstitucionalidade no critério, questões de conveniência quanto ao
+processo decisório, questões ligadas a uma cultura do processo
+decisório. O que não se quer é que subsista o empate; pelo menos, que
+se atribua efeito ao empate, como nós fzemos e, rotineiramente, hoje,
+aplicamos em matéria criminal de habeas corpus.
+Então, inconstitucionalidade por quê? Não se trata de obter a
+declaração de inconstitucionalidade pela via do voto de qualidade.
+Não é disso que se cuida, até porque, nesse ponto, o 146 foi muito
+claro, ao dizer que, havendo empate, a pretensão será denegada;
+portanto, quando houver a exigência de maioria absoluta. Quando é
+que há exigência de maioria absoluta? A exigência de maioria
+absoluta ocorre quando precisamos declarar a inconstitucionalidade
+ou a constitucionalidade a lei. Neste caso, a norma regimental
+resolveu de forma adequada. Pedida a declaração de
+inconstitucionalidade para que se assegure uma pretensão, e houve
+empate, e não há outra forma de resolver, rejeita-se a pretensão. Foi
+isso que se consagrou.
+(…)
+Eu não vejo, Presidente, não acolhida a proposta de adiamento, como
+não aplicar o voto de qualidade. O voto de qualidade pode ser,
+eventualmente, inconveniente, mas não há nenhuma base para dizer
+que é inconstitucional, até porque não se está dando ao Presidente o
+voto de qualidade para declarar a constitucionalidade ou não de lei. É
+outra situação. É apenas para decidir o caso concreto, para que não
+façamos mistura quanto a aspectos fáticos.
+Uma coisa é declarar a inconstitucionalidade de lei ou ato normativo.
+Para isso, a Constituição, desde 1934, exige maioria absoluta. Está
+em João Mangabeira, explicando como que se deu essa mudança. Isso
+trata do tema da maioria absoluta.
+Outra coisa é declarar a eventual incompatibilidade – nem vou usar
+o termo “inconstitucionalidade” – entre uma decisão e a
+
+
+[[pagina 24 | nativo]]
+
+Constituição, uma decisão judicial. Para isso, nós podemos funcionar
+com seis; nós podemos decidir. E é disso que se cuida.
+(…)
+Portanto, Presidente, deixando isso muito claro, para que não haja
+essa confusão, eu estou caminhando no sentido da aplicação da
+norma que lhe dá o voto de qualidade. Pode ter inconvenientes, como
+têm também os outros critérios. Todos os outros critérios têm
+inconvenientes. Só se chega a esse impasse porque precisa se decidir,
+mas todos têm realmente inconvenientes.
+Imaginem como isso é recebido pela parte? Falamos muito em
+prestação jurisdicional. E é a parte que está pedindo prestação
+jurisdicional. Como isso repercute para a parte, se nós, decidindo o
+caso concreto, negamos com um desses artifícios e, daqui a pouco,
+reconhecemos esse direito com uma outra composição? Muito
+provavelmente vamos ter de conviver com ações rescisórias, por
+exemplo.
+Eu entendo as questões de ordem prática; não sou obtuso a ponto de
+não alcançá-las. Mas, se fosse para buscar um outro critério,
+Ministro Marco Aurélio já esboçou. Se se trata de analogia – porque
+é disso que estamos falando; nós estamos decidindo afastar a regra do
+inciso IX do artigo 13 e aplicar, então, por analogia –, por que não
+aplicar, então, a regra do habeas corpus que dá o empate para quem,
+eventualmente, está buscando o reconhecimento do direito?
+Igualmente plausível. Igualmente plausível. Vejam, portanto, com o
+mesmo peso, como sente o indivíduo que tem no empate, perante uma
+Corte, uma matéria que era pacífca, que era decidida por
+unanimidade, vem para o Supremo Tribunal Federal, provoca essa
+discussão e termina empatado? E diz-se assim: “Ah, você perdeu
+porque o julgamento terminou empatado”.
+Vejam o refexo que isso tem. E quero me abstrair do caso concreto.
+Estou a falar da repercussão do caso em tese. Nós temos bons
+argumentos. Precisamos decidir. Daqui a pouco, par ou ímpar, jogar
+dado, qualquer coisa, jogar uma água, chamar um mago, sei lá,
+qualquer coisa engraçada, mais inspirada. Mas, dizer que o critério
+do voto de qualidade é inconstitucional! O que é inconstitucional?
+
+
+[[pagina 25 | nativo]]
+
+Não se está dando voto para o Presidente declarar a
+inconstitucionalidade de lei! Não é disso que se cuida! É apenas um
+critério, tanto é que duas Cortes do maior relevo – a Corte
+Internacional de Haia e a Corte Interamericana de Direitos
+Humanos – adotam esse critério do voto de qualidade! Agora, é
+inconstitucional! É uma inconstitucionalidade espiritual.
+Desculpe, Presidente, realmente, a gente não pode brigar com os
+fatos. Nós temos que respeitar o senhor fato. Depois, podemos chegar
+às conclusões, as mais desaguisadas possíveis. Afora, respeitemos os
+fatos. Então declaração de inconstitucionalidade é declaração de
+inconstitucionalidade de norma.
+Eu reconheço o voto de qualidade de Vossa Excelência. E, aí, eu
+proponho uma outra alternativa: se é para buscar a analogia, poque é
+disso que se está falando, com todo o sentimento de injustiça que isso
+pode provocar, que se determine a aplicação da norma alternativa, a
+do habeas corpus. Se é para estender, que se estenda in bonam
+partem, num outro aspecto, que também é um critério. E será
+respeitoso do texto constitucional. Se se trata apenas de uma
+tecnologia de decisão, parece-me que é isso que se recomenda.
+Veja Vossa Excelência, portanto, que o tema é complexo, mas é
+fundamental deixar assente que o voto de qualidade que hoje se
+assegura a Vossa Excelência nada tem de inconstitucional, que é um
+critério comumente usado inclusive em Cortes Constitucionais e em
+Cortes de Direitos Humanos, e que Vossa Excelência não está
+votando duas vezes para declarar a inconstitucionalidade de lei. Essa
+hipótese é lá do 146 e está sendo resolvida no sentido da mantença do
+ato. São hipóteses que são distintas, muito claras.
+
+Também se manifestaram pela constitucionalidade da regra os
+
+Ministros Marco Aurélio e Cezar Peluso (p. 327 e 336 do acórdão):
+
+Ministro Marco Aurélio
+
+
+[[pagina 26 | nativo]]
+
+Presidente, hoje me defrontei com um artigo no Correio Braziliense
+citando situações, no âmbito internacional, relativamente a
+Tribunais reconhecidos pelo Brasil, em que existe o voto de
+qualidade. Não participei – estive ausente – da sessão em que se
+aprovou, para inserção no Regimento Interno, a regra. Mas, se
+tivesse participado, e já havia me manifestado assim, votaria a favor
+dessa regra, entendendo-a como a revelar a prevalência não do duplo
+voto do Presidente, mas da corrente, no caso de empate, a que
+integrado o Presidente da Corte.
+
+Ministro Cézar Peluso
+
+Eu, com o devido respeito, tenho para mim que é fora de dúvida que
+qualquer solução aviltada no caso, qualquer que seja a alternativa
+adotada para o solucionar será sempre uma solução fcta, como, na
+assentada do RE nº 630.147, já disse que era uma decisão artifcial.
+E, de fato, o é. Por quê? Simplesmente pelo fato óbvio de que não há
+maioria que decidiu. A solução aqui é recorrer a uma fcção, isto é, é
+como se houvesse uma maioria que existiu; não há. Mas, como temos
+de aplicar, porque a maioria entendeu que deve aplicar algum critério
+para defnir o teor do julgamento, então nós vamos ter uma decisão
+fcta, sim, mas que prevalecerá como tal.
+(…)
+Então, temos que escolher algum critério, e o Tribunal aventou este
+critério.
+Nenhum dos critérios lembrados, a meu ver tirando o do artigo 13, é
+insuscetível de discussão; nenhum deles.
+O do artigo 13, inciso IX, eu não aplicaria ao caso, como não apliquei
+no caso anterior, dizendo que não tenho vocação para déspota, e de
+fato não o tenho, e disse-o diante do inusitado fato de que a maioria
+da Corte, que aprovou por unanimidade essa emenda regimental, não
+aceitava o voto do Presidente! Noutras palavras, eu não posso sequer
+invocar essa norma regimental para proclamar o resultado, porque a
+maioria, que aprovou essa norma regimental, não aceita essa decisão.
+De modo que, só sendo um déspota, eu teria de impor ao Tribunal
+essa solução, que não é de um segundo voto, ou que não seria de um
+
+[[pagina 27 | nativo]]
+
+segundo voto, como está previsto em outras decisões, mas que
+simplesmente adota o teor do voto do Presidente como o teor da
+decisão.
+A mim me parece, com o devido respeito, que essa norma nada tem de
+inconstitucional, é apenas opção legislativa no plano das normas de
+caráter regimental.
+
+Ante o quanto assentado nos precedentes, pode-se extrair que o
+
+voto de qualidade do presidente, enquanto opção político-legislativa de
+
+caráter procedimental, afgura-se opção legislativa recepcionada pelo
+
+ordenamento constitucional.
+
+A forma prevista no Decreto 70.235/1972, na redação da Lei
+
+11.941/2009, constitui-se, portanto, critério legítimo, proporcional e razoável
+
+para a solução de impasses em julgamentos de processos administrativos no
+
+Conselho Administrativo de Recursos Fiscais (CARF).
+
+Pelos motivos expostos, tem-se que a supressão do instituto por
+
+emenda parlamentar em medida provisória disciplinadora de matéria diversa
+
+ofende os arts. 1º, caput e parágrafo único, 2º, caput, 61, § 1º, II, “e”, e 84, VI,
+
+da Constituição Federal.
+
+
+[[pagina 28 | nativo]]
+
+4. DO PEDIDO CAUTELAR
+
+Estão presentes os pressupostos para a concessão de medida cautelar.
+
+A plausibilidade jurídica do pedido (fumus boni juris) está sufcientemente
+
+demonstrada pelos argumentos deduzidos nesta petição inicial, que encontram
+
+amparo na jurisprudência do Supremo Tribunal Federal.
+
+O perigo na demora processual (periculum in mora) decorre do fato
+
+de que a extinção do mecanismo de desempate previsto no art. 25, § 9º, do
+
+Decreto 70.235/1972 poderá impactar no julgamento de autos de infração
+
+tributária de empresas em grandes operações, com potenciais prejuízos à
+
+arrecadação. A alteração faz prevalecer o interesse privado sobre o público,
+
+afetando negativamente as receitas da União em uma conjuntura de queda
+
+de arrecadação, em decorrência dos impactos econômicos do surto de
+
+epidemia nacional do novo coronavírus (Covid-19).
+
+Os prejuízos decorrentes da medida implementada pelo dispositivo
+
+questionado foram evidenciadas pelo Sindicato Nacional dos Auditores-
+
+Fiscais da Receita Federal do Brasil (Sindifsco Nacional), em representação
+
+encaminhada a esta Procuradoria-Geral da República.
+
+Pede-se vênia para transcrever trecho do documento (anexo):
+
+
+[[pagina 29 | nativo]]
+
+Concretamente, essa medida retira do representante da Fazenda
+Nacional o voto de qualidade em grande número de situações,
+acarretando grave risco de que, em suas várias instâncias, seja
+enfraquecida a atuação dos representantes da Fazenda Pública. O
+voto de qualidade assegura, em caso de empate, a prevalência da
+opinião que melhor consulta o interesse público, inclusive, por vezes,
+em favor do recurso do contribuinte. Jamais existiu declaração
+automática em favor da Fazenda. Entretanto, a alteração proposta
+transfere, na prática, o voto de qualidade aos representantes dos
+contribuintes, com automática resolução contra a Fazenda Pública.
+(…) além da grave e patente inconstitucionalidade do dispositivo, são
+eloquentes os dados relativos à relevância da manutenção do voto de
+qualidade no CARF: de 2017 a 2019, uma média de 6,4% dos
+processos no CARF foram decididos por voto de qualidade.
+Apesar do número reduzido, os recursos julgados por voto de
+qualidade somaram, entre 2017 e 2019, o montante de R$
+221.197.697.858,51 (R$ 221 bilhões); desse total, R$
+177.436.812.298,81 (R$ 177 bilhões) de créditos tributários foram
+julgados a favor da Fazenda. Assim, a extinção do voto de qualidade
+no CARF nos termos aprovados e sancionados, resolvendo o recurso
+automaticamente a favor do contribuinte, acarretará uma perda de
+créditos tributários de aproximadamente R$ 60 bilhões anuais.
+A contestação dos créditos tributários no âmbito do contencioso
+administrativo, mediante recursos a instâncias superiores, é
+instrumento de uso regular pelas empresas em seus planejamentos
+tributários, permitindo a postergação do recolhimento dos tributos
+devidos.
+(…) as disputas no contencioso tributário são empregadas como
+modelo protelatório do recolhimento de tributos: em 2017, o
+julgamento defnitivo dos recursos administrativos que chegavam à
+terceira (e última) instância administrativa, a Câmara Superior de
+Recursos Fiscais, ocorriam, em média, após transcorridos 9,06 anos
+(3.306 dias, ou 9 anos e 21 dias). Para a 2ª. instância, as Seções do
+CARF, essa duração média era de 5,30 anos. (…) após as disputas no
+CARF, os contribuintes usualmente recorrerem ao judiciário,
+
+
+[[pagina 30 | nativo]]
+
+acrescentando, segundo dados estudo publicado pelo Instituto de
+Pesquisa Econômica Aplicada – IPEA, em média mais 3.571 dias, ou
+seja, mais 9 anos, 9 meses e 16 dias.
+(…)
+O atual modelo brasileiro de contencioso tributário federal, que
+permite o recurso a três instâncias administrativas para discussão do
+crédito, além do recurso ao Poder Judiciário, não somente possibilita
+como incentiva o planejamento tributário e o não pagamento
+espontâneo de suas obrigações tributárias. Com a modifcação
+adotada, de forma ilegítima e inconstitucional, pela Lei nº 13.988, de
+2020, que benefcia automaticamente o particular recorrente, em caso
+de empate, haverá ainda mais incentivo a condutas oportunistas,
+notadamente pelos grandes contribuintes.
+
+Além do sinal do bom direito evidenciado pelos fundamentos
+
+constitucionais em que se apoia esta ação direta, há premência em que seja
+
+implementada medida cautelar para determinar a imediata suspensão dos
+
+efeitos do art. 28 da Lei 13.988/2020.
+
+5. PEDIDOS E REQUERIMENTOS
+
+Em face do exposto, requer o PROCURADOR-GERAL DA REPÚBLICA
+
+que o Supremo Tribunal Federal conceda, por decisão monocrática e sem a
+
+intimação dos interessados, medida cautelar, determinando a suspensão da
+
+efcácia da norma impugnada, para os fns expostos acima e nos termos do art. 10,
+
+
+[[pagina 31 | nativo]]
+
+§ 3º, da Lei 9.868/1999, a ser oportunamente submetida a referendo do
+
+Plenário.
+
+Em seguida, pede que se colham informações do Congresso
+
+Nacional e do Presidente da República e que se ouça a Advocacia-Geral da
+
+União, nos termos do art. 103, § 3º, da Constituição Federal. Superadas essas
+
+fases, pede prazo para a manifestação da Procuradoria-Geral da República.
+
+Ao fnal, postula que se julgue procedente o pedido para declarar
+
+a inconstitucionalidade do art. 28 da Lei 13.988/2020.
+
+Brasília, data da assinatura digital.
+
+Augusto Aras
+Procurador-Geral da República
+Assinado digitalmente
+
+AMO
+
+

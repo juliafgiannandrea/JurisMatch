@@ -1,0 +1,671 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+PARTIDO NOVO, partido político registrado no Tribunal Superior Eleitoral e com
+representação no Congresso Nacional, inscrito no CNPJ sob o n. 13.405.866/0001-24,
+com sede no Setor de Rádio e TV Sul (SRTVS), quadra 701, lote 05, bloco B, sala 322,
+Centro Empresarial Brasília, Asa Sul, Brasília/DF, CEP: 70340-000, representado por seu
+Presidente, sr. Eduardo Rodrigo Fernandes Ribeiro, e por intermédio de seus
+advogados, vem, à presença de Vossa Excelência, com fundamento no art. 102, inc. I,
+alíneas ‘a’ e ‘p’, da Constituição, e na Lei n. 9.868/99, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+-compedidodemedidacautelar-
+
+contra os arts. 3º, inc. XIV, 8º, inc. II, e 10, todos da Lei n. 11.445/07 (na redação dada
+pelo novo Marco Legal do Saneamento), para o fim de que seja declarada a sua
+inconstitucionalidade parcial, sem redução de texto, na parte em que supostamente
+autorizam (i) que nas hipóteses de prestação regionalizada os serviços de saneamento
+sejam prestados de forma direta pelas empresas estaduais de saneamento; (ii) que a
+prestação regionalizada seja implementada sem qualquer critério fático que a justifique.
+
+SGAN 601, Ed. Condomínio Rua Dr. Manoel Pedro, 365
+ION, Mod. H, Sala SE/35, Asa Cabral, 17º andar, conj 1702
+Norte, Brasília/DF 70830-018 Curitiba/PR 80.035-030
+
+[[pagina 2 | nativo]]
+
+1. OBJETO DA AÇÃO
+
+1. A presente ação direta questiona a constitucionalidade de determinada
+interpretação que tem sido atribuída ao art. 8º, inc. II, e ao art. 10, ambos da Lei n.
+11.445/07 (na redação dada pelo novo Marco Legal do Saneamento Básico), segundo a
+qual nas hipóteses de prestação regionalizada as atividades de saneamento podem ser
+prestadas de forma direta pela empresa estatal vinculada ao estado-membro.
+
+2. Questiona-se, ainda, a constitucionalidade da implementação de estruturas
+de prestação regionalizada sem a observância do critério evidenciador de interesse
+comum previsto no inc. XIV do art. 3º da mesma Lei.
+
+3. As normas em questão são as seguintes:
+
+Art. 3º Para fins do disposto nesta Lei, considera-se:
+
+[...]
+
+XIV - serviços públicos de saneamento básico de interesse comum: serviços de
+saneamento básico prestados em regiões metropolitanas, aglomerações
+urbanas e microrregiões instituídas por lei complementar estadual, em que se
+verifique o compartilhamento de instalações operacionais de infraestrutura
+de abastecimento de água e/ou de esgotamento sanitário entre 2 (dois)
+ou mais Municípios, denotando a necessidade de organizá-los, planejá-los,
+executá-los e operá-los de forma conjunta e integrada pelo Estado e pelos
+Munícipios que compartilham, no todo ou em parte, as referidas
+instalações operacionais. (g.n.)
+
+Art. 8º Exercem a titularidade dos serviços públicos de saneamento básico:
+
+[...]
+
+II - o Estado, em conjunto com os Municípios que compartilham efetivamente
+instalações operacionais integrantes de regiões metropolitanas, aglomerações
+urbanas e microrregiões, instituídas por lei complementar estadual, no caso de
+interesse comum.
+
+Art. 10. A prestação dos serviços públicos de saneamento básico por entidade
+que não integre a administração do titular depende da celebração de
+contrato de concessão, mediante prévia licitação, nos termos do art. 175 da
+Constituição Federal, vedada a sua disciplina mediante contrato de programa,
+convênio, termo de parceria ou outros instrumentos de natureza precária.
+
+4. Como se nota, nos termos do inc. XIV do art. 3º, somente existe interesse
+comum, a justificar a regionalização dos serviços, quando há compartilhamento de
+
+[[pagina 3 | nativo]]
+
+instalações operacionais entre dois ou mais municípios. Trata-se de requisito obrigatório
+a ser observado na edição de toda e qualquer lei complementar estadual que busque
+instituir a prestação regionalizada das atividades de saneamento, sob pena de violação
+ao sistema constitucional de repartição de competências (inc. XX do art. 21) e à
+autonomia dos municípios para organizar o modo de prestação dos serviços públicos
+de interesse local (inc. V do art. 30).
+
+5. E o art. 10 é claro: sempre que os serviços de saneamento serão prestados
+por terceiros, leia-se, por entidade que não integra a Administração do seu titular
+(ordinariamente os municípios1), é compulsória a celebração de contrato de concessão,
+devidamente licitado. Todavia, a leitura dessa regra em conjunto com o inc. II do art. 8º
+tem levado à conclusão de que, quando o interesse é comum, o estado-membro passa
+a ser o titular dos serviços e, via de consequência, a estatal a ele vinculada pode ser
+contratada de forma direta.
+
+6. Essa interpretação tem sido adotada por diversos estados brasileiros,
+sobretudo a partir do modelo de microrregiões. Para ficar em dois exemplos, podemos
+citar a Lei Complementar n. 168/21, que dividiu os municípios do Estado da Paraíba em
+quatro microrregiões de saneamento básico (MSBs) e autorizou, no inc. XI do seu art. 7º,
+a contratação da estatal paraibana de forma direta para a prestação dos serviços em
+cada uma das MSBs; e a Lei Complementar n. 182/23, que incluiu todos os municípios
+de Goiás em três MSBs e, de igual forma, autorizou a contratação direta da estatal goiana
+em cada uma delas (inc. V do art. 4º).2
+
+7. O raciocínio é o seguinte: ao estabelecer que nos casos de interesse comum
+a titularidade dos serviços de saneamento básico é compartilhada entre o estado-
+membro e os municípios que compartilham infraestruturas, o inc. II do art. 8º acabou
+por transformar o estado no titular de tais serviços quando prestados de forma
+regionalizada; a partir disso, a prestação direta pela empresa estadual de saneamento
+
+1 Conforme já reconhecido por esta Corte em diversas oportunidades; mais recentemente, no julgamento
+da ADI n. 4.454/PR, de relatoria da Min. CÁRMEN LÚCIA, e da ADI n. 6.912/MG, de relatoria do Min. ALEXANDRE
+DE MORAES.
+
+2 A constitucionalidade de ambas as legislações está sendo questionada neste Corte. A Lei Complementar
+n. 168/21, da Paraíba, é objeto da ADI n. 7.335/PB; e a Lei Complementar n. 182/2023, de Goiás, é objeto
+da ADI n. 7.595/GO.
+
+[[pagina 4 | nativo]]
+
+estaria abarcada pela exceção do art. 10 (prestação direta por entidade vinculada ao
+titular dos serviços).
+
+8. Essa interpretação, ainda que aparentemente possível, desconsidera que o
+Brasil é um Estado Constitucional de Direito, pautado na supremacia da Constituição.3
+Quando partimos dessa premissa, ela se revela insustentável, por violar diretamente
+diversos preceitos da Constituição:
+
+i. o art. 175, que determina que o repasse a terceiros da
+responsabilidade pela prestação de serviços públicos deve ocorrer
+mediante celebração de contrato de concessão;
+
+ii. o inc. XXI do art. 37, que estabelece a regra de licitação para a
+contratação de obras, serviços, compras e alienações pelo Poder
+Público e somente autoriza a sua dispensa nos casos expressamente
+previstos em lei;
+
+iii. o sistema constitucional de repartição de competências, que atribui
+à União a competência para instituir: a) diretrizes gerais sobre
+saneamento básico (inc. XX do art. 21); e b) normas gerais sobre
+licitação e contratos administrativos (inc. XXVII do art. 22).
+
+9. Por sua vez, a interpretação que conduz à desnecessidade de observância do
+requisito previsto no inc. XIV do art. 3º da Lei n. 11.445/07 para a edição da lei
+complementar que institui a prestação regionalizada viola não só o sistema brasileiro de
+repartição de competências como também a autonomia concedida aos municípios para
+gerir o modo de prestação dos serviços de saneamento nas hipóteses de interesse local.
+
+10. Há, nesse sentido, violação direta e frontal aos seguintes dispositivos da
+Constituição: a) inc. XX do art. 21; b) inc. XXVII do art. 22; c) inc. V do art. 30; d) inc. XXI
+
+3 Como pontua Ingo Sarlet, por força do princípio da supremacia da Constituição todos os atos, de quaisquer
+dos Poderes, devem guardar compatibilidade com as normas constitucionais, sob pena de nulidade. Em
+SARLET, Ingo; MARINONI, Luiz Guilherme; MITIDIERO, Daniel. Curso de direito constitucional. 6. ed. São
+Paulo: Saraiva, 2017, p. 224. No mesmo sentido, Eros Grau lembra que a interpretação do Direito deve
+sempre partir de uma análise sistemática do ordenamento que toma como critério de medida a
+Constituição, “[...] na medida em que apenas e tão somente ela nos permitirá a realização do sistema
+normativodoEstadoDemocrático”. GRAU, Eros. Prefácio. In.: FREITAS, Juarez. A interpretação sistemática
+do direito. 5. ed. São Paulo: Malheiros, 2010, p. 13.
+
+[[pagina 5 | nativo]]
+
+do art. 37; e) art. 175. E, tendo em vista os profundos reflexos na ordem jurídica da
+decisão a ser tomada na presente ação, demonstrar-se-á estarem presentes os requisitos
+para a concessão de medida cautelar na forma prevista no art. 10 da Lei n. 9.868/99.
+
+2. CABIMENTO DA AÇÃO E LEGITIMIDADE ATIVA
+
+11. Considerando que se pleiteia a declaração de inconstitucionalidade parcial
+sem redução de texto de dispositivos da Lei n. 11.445/05, a presente ação é cabível, nos
+termos da alínea ‘a’ do inc. I do art. 102 da Constituição. Inclusive, destaca-se que a
+técnica da nulidade parcial sem redução de texto é amplamente utilizada por esta Corte
+em sede de controle concentrado – por todos, o decidido na ADI n. 491/AM –, a par de
+estar prevista expressamente no parágrafo único do art. 28 da Lei n. 9.868/99.
+
+12. Além disso, conforme comprovante que segue anexo,4 o PARTIDO NOVO está
+devidamente representado no Congresso Nacional, tendo elegido três Deputados
+Federais e um Senador, pelo que é parte legítima para a propositura da presente ação
+direta (inc. VIII do art. 103 da Constituição). E, por ser partido político, é um dos
+legitimados universais para a propositura de ações em sede de controle concentrado de
+constitucionalidade, sendo desnecessária a demonstração de pertinência temática entre
+os seus fins institucionais e as normas questionadas.
+
+13. Logo, os requisitos formais para propositura dessa ação estão satisfeitos.
+
+3. CONTEXTO NECESSÁRIO: O NOVO MARCO LEGAL DO SANEAMENTO BÁSICO E
+
+SEUS REFLEXOS
+
+14. A Lei n. 14.026/20, mais conhecida como novo Marco Legal do Saneamento
+Básico, foi aprovada num contexto de precariedade na prestação dos serviços de água
+e esgoto no Brasil.
+
+15. O modelo até então vigente, pautado na atuação direta das empresas
+estaduais de saneamento junto aos municípios, passou longe de alcançar a tão almejada
+universalização. Segundo dados contidos na exposição de motivos do novo Marco, em
+
+4 Captura de tela realizada em 26.04.2023 a partir do site do Congresso Nacional, na aba “parlamentares
+em exercício”, que segue anexa como Doc.03.
+
+[[pagina 6 | nativo]]
+
+2017haviaumdéficitde40,8e103,2milhõesdebrasileirossemacessoainfraestruturas
+de água e esgotamento sanitário, respectivamente. Consta ainda que apesar de a
+iniciativa privada atuar de forma mais direta em pouquíssimos municípios (6%), ela era
+responsável por mais de 20% dos investimentos realizados.
+
+16. Foi considerando essa realidade, de prestação majoritariamente pública, mas
+investimentos mais expressivos pela área privada, que o legislador optou por prestigiar
+a concorrência e realizar a abertura do setor de saneamento à iniciativa privada. Para
+tanto, modificou a redação do art. 10 da Lei n. 11.445/07 e estabeleceu que adelegação
+do serviço de saneamento a um terceiro alheio ao seu titular (ordinariamente, os
+municípios) exige competição. A regra agora é que os contratos devem ser licitados,
+gerando disputa entre todos os potenciais interessados, independentemente de sua
+natureza pública ou privada. Isso com o objetivo de atrair os investimentos necessários
+para se alcançar a universalização.
+
+17. No exercício do seu juízo político, o legislador federal houve por bem acabar
+com o espaço privilegiado garantido até então às empresas estaduais. Uma das apostas
+do modelo foi vedar os arranjos diretos que permitiam às estatais atuarem nos
+municípios sem licitação. A eficiência demonstrada no procedimento licitatório tornou-
+se a regra, tanto que a "seleção competitiva do prestador de serviços" foi alçada ao
+patamar de princípio fundamental do novo arranjo institucional (art. 2º, inc. XV, da Lei
+11.445/2007).
+
+18. Enfim, concorde-se ou não com ela, fato é que esses são os contornos da
+estratégia adotada para se atingir a universalização dos serviços de saneamento até 2033
+(art. 10-B da Lei n. 11.445/07). E, portanto, é com isso em mente que as disposições aqui
+questionadas devem ser interpretadas. Não cabe ao intérprete deturpar a interpretação
+da nova Lei – quefoireputadaconstitucionalporessaC.Corte– com vistas a exumar o
+antigo modelo em que empresas estatais atuavam diretamente, sem a necessidade de
+se submeterem a seleções competitivas. Com o devido respeito, isso seria retroceder ao
+modelo anterior que, como visto, gerou um enorme passivo no que se refere ao
+saneamento básico.
+
+[[pagina 7 | nativo]]
+
+4. A INCONSTITUCIONALIDADE DO INC. II DO ART. 8º E DO ART. 10, AMBOS DA
+LEI N. 11.445/07
+
+Violaçãoaoart.175daConstituição
+
+19. A primeira das inconstitucionalidades que recai sobre a interpretação que
+retira de uma leitura conjunta do inc. II do art. 8º c/c o art. 10 autorização para que a
+empresa estadual de saneamento preste os serviços de forma direta nas hipóteses de
+prestação regionalizada é a violação à exigência de celebração de contrato de concessão
+para a delegação de serviços públicos. Nos termos do art. 175 da Constituição, “Incumbe
+ao Poder Público, na forma da lei, diretamente ou sob regime de concessão ou
+permissão, sempre através de licitação, a prestação de serviços públicos”.
+
+20. Foi em reforço a essa regra que a Lei n. 14.026/20 alterou a redação do art.
+10 da Lei n. 11.445/07 para exigir a concessão sempre que os serviços de saneamento
+serão prestados por entidade que não integra a Administração do seu titular.
+
+21. Isso implica que das duas, uma: ou o titular dos serviços os presta
+diretamente, por meio de órgão ou entidade que integre a sua Administração, ou os
+repassa a terceiro; e, neste último caso, é obrigatória a celebração de contrato de
+concessão (sejaesseterceiroumaentidadededireitopúblicoalheiaaotitularoupessoa
+de direitoprivado). Enfim, ou o titular presta diretamente os serviços ou os delega a
+terceiro por meio de contrato de concessão. Não há terceira opção.
+
+22. Inclusive, essa restrição da autonomia municipal para gerir e organizar o
+modo de prestação dos serviços de saneamento (ou presta diretamente ou celebra
+concessão) foi validada por esta Corte no julgamento das ADIs nos 6.492/DF,
+6.356/DF, 6.583/DF e 6.882/DF. Nos termos do voto do Min. ALEXANDRE DE MORAES:
+
+O legislador pretendeu conformar as práticas administrativas e negociais
+comumente adotadas no setor em questão, abandonando um modelo tido
+por ineficiente e propenso a irregularidades, pela aplicação da regra de
+licitação e concessão de serviços. (g.n.)
+
+23. No mesmo sentido, o Min. GILMAR MENDES observou que,
+
+É digno de nota, aliás, que o novo art. 10 da Lei 11.107/2005 fez homenagem
+expressa ao art. 175 da Constituição Federal, que exige licitação para a
+
+[[pagina 8 | nativo]]
+
+delegação administrativa da execução de todo e qualquer serviço público [...].
+Assim, com a edição da Lei 14.026/20, a delegação da prestação dos
+serviços de saneamento básico pelos titulares a entidade (pública ou
+privada) que não integra a sua administração será sempre feita por meio
+do contrato de concessão. (g.n.)
+
+24. Portanto, até aqui não há controvérsia. Não há dúvidas de que quando o
+titular dos serviços de saneamento entender por adequado o repasse da sua
+prestação a um terceiro, necessária a celebração de contrato de concessão. Trata-se
+de um reflexo direto da aplicação da regra prevista no art. 175 da Constituição ao setor
+de saneamento, como consta na própria redação do dispositivo e foi reconhecido no
+voto do Min. GILMAR MENDES.
+
+25. A inconstitucionalidade surge quando cotejamos o art. 10 com o inc. II do
+art. 8, segundo o qual, na hipótese de a prestação dos serviços de saneamento assumir
+característica de interesse comum, a titularidade deixa de ser do município e passa a ser
+compartilhada entre estado-membro e municípios. É dessa leitura conjunta que alguns
+estados têm retirado suposta autorização para que empresas estaduais de saneamento
+prestem diretamente os serviços. O raciocínio é o seguinte: na hipótese de prestação
+regionalizada a titularidade é compartilhada entre estado e municípios (inc. II do art. 8º);
+logo, como o estado é um dos titulares do serviço, a estatal a ele vinculada pode ser
+contratada de forma direta por força da exceção prevista no art. 10.
+
+26. Nesse contexto é que se tem assistido à profusão de leis complementares
+que, a pretexto de instituir a regionalização, instalam verdadeiros monopólios em favor
+das empresas estaduais, que voltariam ser contratadas sem licitação. E agora num quadro
+ainda mais grave pois, se antes, a contratação direta era feita individualmente pelos
+municípios, agora atinge de uma só vez todos os municípios vinculados à microrregião.
+
+27. Todavia, tal interpretação colide com a jurisprudência desta Corte e com a
+previsão do art. 175 da Constituição. Sobretudo porque, conforme ficou decidido no
+julgamento da ADI n. 1.842/RJ, nas hipóteses de prestação regionalizada o titular dos
+serviços de saneamento não é o estado; não são os municípios; mas o órgão coletivo
+por eles integrado. Nos termos do voto do Min. JOAQUIM BARBOSA,
+
+[...] a criação de uma região metropolitana não pode, em hipótese alguma,
+significar o amesquinhamento da autonomia política dos municípios dela
+
+[[pagina 9 | nativo]]
+
+integrantes, materializado no controle e na gestão solitária pelo estado das
+funções públicas de interesse comum. Vale dizer, a titularidade do exercício
+das funções públicas de interesse comum passa para a nova entidade
+público-territorial-administrativa, de caráter intergovernamental, que nasce
+em conseqüência da criação da região metropolitana. Em contrapartida, o
+exercício das funções normativas, diretivas e administrativas do novo ente deve
+ser compartilhado com paridade entre o estado e os municípios envolvidos.
+(g.n.)
+
+28. Logo, se o estado não é o titular dos serviços de saneamento quando
+prestados de forma regionalizada (como visto acima, o titular é o consórcio formado por
+estado e municípios), a contratação da sua estatal se enquadra no conceito de prestação
+indireta de serviços públicos, sendo imperativa a realização de licitação, bem como a
+celebração de contrato de concessão (art. 175 da Constituição).
+
+29. O fato de um dos entes políticos que formam o consórcio (no caso, o estado)
+possuir uma estatal não justifica a violação ao dever constitucional de licitação e de
+celebração de concessão. O estado-membro e a microrregião são pessoas jurídicas
+públicas distintas, e o fato daquele participar desta não altera isto. Então, na prática, a
+partir da interpretação aqui posta em xeque, o que ocorre não é a atribuição do serviço
+a ente que integra a Administração do seu titular, mas a sua delegação, sem prévia
+licitação, a um terceiro alheio a essa estrutura.
+
+30. Tais razões conduzem à necessidade de se declarar a inconstitucionalidade
+parcial sem redução de texto do art. 8º, inc. II, e do art. 10, ambos da Lei n. 11.445/07
+(na redação dada pelo novo Marco Legal do Saneamento Básico), especificamente da
+interpretação que autorizam, a contrario sensu, que a estatal vinculada ao estado-
+membro seja contratada de forma direta para a prestação dos serviços de saneamento
+nas hipóteses de prestação regionalizada. Trata-se de leitura que viola o art. 175 da
+Constituição ao autorizar a contratação direta de terceiros alheios ao titular para a
+prestação dos serviços públicos de saneamento.
+
+Violaçãoaoinc.XXIdoart.37daConstituição
+
+31. Subjacente à violação ao art. 175 da Constituição está a afronta à regra de
+licitação prevista no inc. XXI do art. 37. Uma vez que a prestação dos serviços pela
+empresa estadual de saneamento não configura prestação direta, é obrigatória a
+
+[[pagina 10 | nativo]]
+
+realização de licitação como condição da delegação. Conforme já decidiu esta Corte em
+caso semelhante,
+
+Podem os serviços públicos, ser prestados, segundo a Constituição,
+diretamente ou sob o regime de concessão ou permissão, na forma da lei, mas
+“sempre através de licitação”. Este advérbio (“sempre”), enfaticamente
+utilizado no art. 175 da Lei Fundamental, não dá margem alguma de dúvida
+sobre a eficácia plena, imediata e automática do preceito, que está a obrigar,
+tanto o legislador e o poder regulamentar, quanto a vincular o ato concreto
+de concessão [...] à prévia licitação, toda vez que não se trate de exploração
+direta do serviço pelo Poder Público.5 (g.n.)
+
+32. Com efeito, fixada a premissa de que o estado não é o titular dos serviços, a
+interpretação aqui questionada incorre em dupla violação à Constituição: primeiro, ao
+art. 175, quando autoriza que um ente estranho à Administração do titular dos serviços
+seja contratado de forma direta, sem celebração de concessão ou mesmo prévia licitação;
+segundo, ao inc. XIX do art. 37, ao dispensar procedimento licitatório para a delegação
+da prestação de serviços públicos fora das hipóteses previstas em lei.
+
+33. Novamente: a prestação direta dos serviços de saneamento é aquela realizada
+por entidade que pertence à Administração (i) do município, no caso de interesse local,
+ou (ii) da entidade regional, no caso de interesse comum. Essa é única leitura dos incs. I
+e II do art. 8º e do art. 10 que os compatibilizam com a Constituição e com a
+jurisprudência deste Tribunal. Qualquer outra modalidade6 de prestação dos serviços de
+saneamento simplesmente não se qualifica como prestação direta, pelo que incidentes
+tanto a exigência de prévia licitação quanto a exigência de celebração de contrato de
+concessão.
+
+34. A exigência de licitação, inclusive, prestigia um dos principais objetivos do
+legislador ao editar o novo Marco Legal do Saneamento: a abertura do setor às empresas
+privadas, favorecendo a competitividade. Isto fica comprovado, sobretudo, pela inclusão
+da “seleção competitiva do prestador dos serviços” como um dos princípios
+
+5 RE n. 140.989-4/RJ.
+
+6 Fica fora dessa análise, por falta de pertinência com o objeto da presente ação, a prestação dos serviços
+na hipótese de formalização de consórcios intermunicipais (art. 8º, § 1º, inc. I, da Lei n. 11.445/07) e a
+prestação na forma de gestão associada de serviços públicos, prevista no art. 241 da Constituição. Tais
+figuras nada tem a ver com o modelo de regionalização ora questionado.
+
+[[pagina 11 | nativo]]
+
+fundamentais da política nacional de saneamento básico (inc. XV do art. 2º da Lei n.
+11.445/07). Nesse sentido, para além de regra constitucional, a licitação se revela como
+o instrumento materializador da concorrência,7 promovendo a competição pelo mercado
+entre licitantes em iguais condições, sejam eles empresas de direito público ou privado.
+
+35. Nesses termos, deve ser reputada inconstitucional, também por violação
+ao inc. XIX do art. 37 da Constituição, qualquer interpretação da Lei de Saneamento
+que autorize a contratação de forma direta da empresa estadual para a prestação
+dos serviços de saneamento básico. O estado nunca é, sozinho, o titular dos serviços;
+consequentemente, a contratação de entidade a ele vinculada se sujeita, em todos os
+casos, à observância da regra constitucional de licitação.
+
+Violaçãoaoinc.XXdoart.21eaoinc.XXVIIdoart.22,daConstituição
+
+36. Em terceiro lugar, a leitura impugnada na presente ação incorre em violação
+às competências constitucionais da União para a edição (i) de diretrizes gerais em matéria
+de saneamento básico (inc. XX do art. 20) e (ii) de normas gerais sobre licitações e
+contratos administrativos (inc. XXVII do art. 22). E como toda regra de competência é, a
+contrario sensu, uma regra de incompetência, ao atribuir ao legislador federal a
+prerrogativa de deliberar sobre essas matérias a Constituição suprimiu a autonomia de
+outros entes para tratar dos mesmos temas, que estão proibidos de criar exceções alheias
+ao modelo instituído no âmbito nacional.
+
+37. A Lei n. 11.445/07 e a Lei n. 14.026/20 são o resultado do exercício de ambas
+as competências.8 Por meio delas, a União estabeleceu as diretrizes básicas aplicáveis ao
+setor de saneamento básico e previu normas específicas sobre a necessidade de licitação
+em caso de delegação a terceiros da responsabilidade pela prestação dos serviços.
+
+7 Inclusive, recentemente, no julgamento da ADI n. 1.923/DF, esse Egrégio Tribunal entendeu ser possível o
+uso do procedimento licitatório como instrumento de regulação da economia, mediante o estímulo a
+adoção de práticas com efeitos econômicas e sociais positivos para os objetivos do Estado brasileiro.
+
+8 E isso foi reconhecido por este Tribunal no julgamento conjunto das ADIs nos 6.492/DF, 6.356/DF, 6.583/DF
+e 6.882/DF. Nos termos do voto do Min. LUIZ FUX, “A leitura atenta da Lei 14.026/2020 revela que o
+Congresso Nacional dispôs sobre diretrizes para o saneamento básico e sobre normas gerais para a
+respectivacontrataçãopública.AmbasasmatériascorrespondemacompetênciasprivativasdaUnião,nos
+termosdoart.21,incisoXX,eaoart.22,XXVII,daCF”.
+
+[[pagina 12 | nativo]]
+
+Tratam-se de disposições editadas pelo legislador federal no pleno exercício de sua
+competência privativa e que, portanto, devem ser observadas por todos os entes da
+Federação quando tratarem dessas matérias, sob pena de inconstitucionalidade. Afinal,
+como já decidiu esta Corte,
+
+Se é certo, de um lado, que, nas hipóteses referidas no art. 24 da Constituição,
+a União Federal não dispõe de poderes ilimitados que lhe permitam transpor
+o âmbito das normas gerais, para, assim, invadir, de modo inconstitucional, a
+esfera de competência normativa dos estados-membros, não é menos exato,
+de outro, que o estado-membro, em existindo normas gerais veiculadas em
+leis nacionais (…), não pode ultrapassar os limites da competência meramente
+suplementar, pois, se tal ocorrer, o diploma legislativo estadual incidirá,
+diretamente, no vício da inconstitucionalidade. A edição, por determinado
+Estado-membro, de lei que contrarie, frontalmente, critérios mínimos
+legitimamente veiculados, em sede de normas gerais, pela União Federal
+ofende, de modo direto, o texto da Carta Política.9 (g.n.)
+
+38. Nesse sentido, na medida em que a interpretação questionada autoriza a
+contratação direta de entidade não vinculada ao titular dos serviços de saneamento,
+configurada violação modelo de repartição de competências traçado pela Constituição.
+E nesses casos, em que desrespeitada a competência legislativa privativa de algum dos
+entes da Federação, a violação é frontal e direta ao texto constitucional.10 Em suma, não
+é lícito aos estados, a título de interpretá-la, ignorar as previsões contidas na Lei de
+Saneamento, instituindo, ainda que pela via hermenêutica, nova hipótese de dispensa
+de licitação sem qualquer respaldo normativo.
+
+5. A INCONSTITUCIONALIDADE DO INC. XIV DO ART. 3º DA LEI N.
+11.445/07
+
+39. Por decisão do constituinte originário, os municípios foram alçados à
+categoria de legítimo ente da Federação brasileira, em paridade com a União, os estados
+e o Distrito Federal (por todos, o disposto no caputdo art. 18). Tanto é que a Constituição
+atribui a eles uma série de competências, com destaque para a prorrogativa de gerir o
+
+9 ADI 2.903/PR.
+
+10 “AinvocaçãodeinvasãodacompetêncialegislativadaUniãoenvolve,diretamente,aconfrontaçãodalei
+atacadacomaConstituição,nãohavendoquesefalarnessashipótesesemofensareflexaàLeiMaior.” STF,
+ADI 3.870/SP.
+
+[[pagina 13 | nativo]]
+
+modo de prestação dos serviços públicos de interesse local (art. 30, inc. V). E como já
+visto, fiel a essas diretrizes, a Lei n. 11.445/07 previu duas ordens de titularidade: no que
+toca ao saneamento básico. Quando o interesse é local, a titularidade é dos municípios;
+quando é comum, a titularidade é dos municípios e do estado-membro, em conjunto
+(incs. I e II do art. 8º).
+
+40. Indo além, e com o fim de evitar possíveis ofensas à autonomia municipal, o
+legisladorpreviuumcritérioobjetivoparaidentificaroqueéointeresselocaleoqueé
+interessecomumemmatériadesaneamento.
+
+41. De acordo com os incs. XIV e XV do art. 3º da Lei n. 11.445/07, o interesse é
+local quando as “funções públicas e serviços cujas infraestruturas e instalações
+operacionais atendam a um único Município”. E é comum quando os serviços são
+prestados por meio de compartilhamento de instalações por dois ou mais municípios,
+“... denotando a necessidade de organizá-los, planejá-los, executá-los e operá-los de
+forma conjunta e integrada pelo Estado e pelos Munícipios que compartilham, no todo
+ou em parte, as referidas instalações operacionais”.
+
+42. É por isso que o inc. II do art. 8º, quando regula a hipótese de titularidade
+compartilhada entre estado e municípios, exige expressamente a necessidade de efetivo
+compartilhamento de instalações operacionais. O advérbio “efetivamente” enfatiza o fato
+de que o compartilhamento é condição necessária para a adoção do modelo de
+prestação regionalizada, que não pode ser criado a partir de mera ficção legal. A Lei
+assim proíbe a criação de uma regionalização fake como maneira de retirar dos
+municípios de competências que a Constituição lhes assegurou.
+
+43. A Lei que cria solução compartilhada tem caráter meramente declaratório, e
+não constitutivo. A título de instituir a prestação regionalizada, não se pode criar uma
+ficção de compartilhamento, pois isso seria possibilitar que o legislativo estadual
+sacrifique uma competência que, segundo o nosso texto constitucional, pertence aos
+municípios.
+
+44. Atento a isso, o legislador federal adotou um critério claro e objetivo para
+balizar a atuação do legislador estadual, condicionando o exercício da faculdade a ele
+conferida pelo § 3º do art. 25 da Constituição à observância de um requisito material
+
+[[pagina 14 | nativo]]
+
+principal:11 se há compartilhamento de instalações, o interesse é comum, a justificar a
+prestação regionalizada; se não há, o interesse é local, cumprindo exclusivamente aos
+municípios decidir os serviços de saneamento.
+
+45. Tal critério, inclusive, foi validado por este Supremo Tribunal no julgamento
+conjunto das ADIs nos 6.492/DF, 6.536/DF, 6.583/DF e 6.882/DF. Nos termos do voto do
+Min. GILMAR MENDES,
+
+[...] não há qualquer inconstitucionalidade em se assentar como critério
+fático objetivo da identificação do interesse comum, como delineado pelos
+incisos XIV e XV do art. 3º, o compartilhamento de instalações operacionais
+de infraestrutura de abastecimento de água e/ou de esgotamento sanitário
+entre 2 (dois) ou mais Municípios. (g.n.)
+
+46. Em outras palavras, com o advento do novo Marco Legal Básico houve um
+incremento da autonomia dos municípios em matéria de saneamento. Se para a
+prestação regionalizada de outros serviços públicos de interesse comum basta a edição
+da lei complementar a que faz referência o § 3º do art. 25 da Constituição, no caso dos
+serviços de saneamento necessário ainda que exista compartilhamento de
+infraestruturas;12 se não há, a adesão dos municípios à nova estrutura regionalizada é
+meramente facultativa, nos termos do art. 8º-A da Lei n. 11.445/07.
+
+47. Nesses termos, qualquerinterpretaçãodaLeideSaneamentoqueconduzaà
+desnecessidadedeobservânciadocritérioprevistonoinc.XIVdoart.3ºparafinsde
+estruturação da prestação regionalizada (compartilhamento efetivo de infraestruturas
+entredoisoumaismunicípios)serevelainconstitucional. Primeiro, por configurar uma
+violação à autonomia dos municípios para gerir o modo de prestação dos serviços
+públicos de interesse local. Segundo, por representar uma violação ao sistema
+constitucional de repartição de competências, afinal, aos estados não é lícito editar leis
+
+11 “Os Estados poderão, mediante lei complementar, instituir regiões metropolitanas, aglomerações urbanas
+e microrregiões, constituídas por agrupamentos de municípios limítrofes, para integrar a organização, o
+planejamento e a execução de funções públicas de interesse comum.”
+
+12 Com efeito, se no julgamento das ADIs nos 1.842/RJ e 6.911/AL esta Corte decidiu que a integração dos
+municípios às estruturas regionalizadas criadas pelos estados é obrigatória, independentemente da
+existência ou não de interligação de infraestruturas, fato é que ambos os julgamentos tiveram por base a
+redação original da Lei n. 11.445/07. Hoje, com as modificações e inovações trazidas pelo novo Marco Legal,
+alterou-se substancialmente o parâmetro de análise, com a criação de um critério evidenciador de interesse
+comum que deve ser obrigatoriamente observado pelo legislador estadual.
+
+[[pagina 15 | nativo]]
+
+que contrariam frontalmente os critérios previstos em normais gerais editadas pela União
+no exercício da sua competência privativa.
+
+6. A MEDIDA CAUTELAR
+
+48. O deferimento da medida cautelar em sede de ações de controle
+concentrado de constitucionalidade segue o mesmo regime previsto no art. 300 do
+Código de Processo Civil: ou seja, necessária a presença no caso concreto dos elementos
+do fumusboniiurise periculuminmora.13
+
+49. Inclusive, este último requisito vem sendo mitigado por esta Corte, que tem
+adotado um “critério de conveniência”, no sentido de perquirir, à luz do ordenamento e
+das consequências de uma ou outra decisão, o que é mais adequado: manter os efeitos
+do ato impugnado até o julgamento do mérito da ação ou sustá-los de imediato?14
+
+50. Seja como for, no presente caso estão satisfeitos os três requisitos. A
+probabilidade do direito está evidenciada na manifesta inconstitucionalidade da
+interpretação que alguns estados têm atribuído à Lei de Saneamento (tanto no que se
+refere à criação de regionalizações fake, quanto no que concerne à contratação direta).
+
+51. O perigo da demora, por sua vez, está presente pois a prolongação desse
+estado de indecisão, com os estados brasileiros interpretando cada um do modo que
+quer a Lei de Saneamento, gera intensa instabilidade jurídica; sobretudo porque nos
+âmbitos dos estados que adotaram a regionalização poderão ser feitas contratações
+diretas para a prestação dos serviços de saneamento. E, valendo a vontade do estado-
+membro, a contratada será a empresa estadual de saneamento de forma direta, em
+frontal desrespeito à Constituição.
+
+52. Em suma, o risco de dano grave, de difícil ou impossível reparação, decorre
+do fato de que, caso não sejam sustados de imediato os efeitos das normas
+questionadas, na leitura que vem sendo adotada pelos estados, possibilitar-se-á que o
+sistema de saneamento básico de inúmeros municípios continue sendo moldado com
+fundamento em interpretações inconstitucionais, o que terá impactos profundos sobre
+
+13 MC na ADI n. 4.062/SC e MC na ADI n. 3.923/MA.
+
+14 Por todos, MC na ADI n. 2.487/SC.
+
+[[pagina 16 | nativo]]
+
+o desenvolvimento do setor, sobre o atingimento das metas de universalização e, claro,
+sobre os próprios usuários.
+
+53. Quanto ao critério de conveniência, veja que a postergação da resolução da
+presente controvérsia provocará cenário no qual os municípios serão tolhidos em sua
+autonomia e compelidos a seguir os ditames arbitrariamente impostos pelos estados. E,
+nessa medida, irão impugnar judicialmente buscando garantir o seu direito de organizar
+e prestar os serviços públicos de interesse local. Isso gerará um ambiente de insegurança
+jurídica de proporções nacionais, impactando a prestação dos serviços de saneamento
+em todo o país. Além disso, uma vez implementadas as contratações irregulares ou
+criadas regiões de modo irregular, torna-se impossível retornar ao statusquoante.
+
+54. Com efeito, a implementação de soluções inconstitucionais gera um quadro
+de difícil reversão que milita em favor da concessão da medida liminar pleiteada.
+
+7. PEDIDOS
+Anteoexposto,requer-se:
+
+i. a concessão de medida cautelar, nos termos do art. 10 da Lei n.
+9.868/99, para suspender a eficácia:
+
+a. do inc. II do art. 8º e do art. 10, ambos da Lei n. 11.445/07,
+naquilo em que supostamente autoriza que, nas hipóteses de
+prestação regionalizada, os serviços de saneamento sejam
+atribuídos sem licitação às empresas estaduais de
+saneamento;
+
+b. do inc. XIV do art. 3º, na parte em que supostamente autoriza
+que a prestação regionalizada seja implementada sem
+qualquer critério fático que a justifique.
+
+ii. subsidiariamente, na – remota – hipótese de se entender ausentes
+os requisitos para a concessão da medida cautelar pleiteada, que
+sejam os autos encaminhados ao colegiado deste Tribunal para
+decisão definitiva, nos termos do artigo 12 da Lei n. 9.868/99;
+
+[[pagina 17 | nativo]]
+
+iii. a notificação do Exmo. Advogado-Geral da União para se manifestar
+sobre o mérito da presente ação, no prazo de quinze dias, nos
+termos do art. 8º da Lei n. 9.868/99 e do art. 103, § 3, da Constituição;
+
+iv. a notificação do Exmo. Procurador Geral da República para que emita
+o seu parecer, nos termos do art. 103, § 1º, da Constituição;
+
+v. no mérito, nos termos do parágrafo único do art. 28 da Lei n.
+9.868/99, a declaração de nulidade parcial sem redução de texto:
+
+a. do inc. II do art. 8º e do art. 10, ambos da Lei n. 11.445/07,
+naquilo em que supostamente autorizam que nas hipóteses
+de prestação regionalizada os serviços de saneamento sejam
+prestados de forma direta pelas empresas estaduais de
+saneamento;
+
+b. do inc. XIV do art. 3º, na parte em que supostamente autoriza
+que a prestação regionalizada seja implementada sem
+qualquer critério fático que a justifique.
+
+Pede deferimento.
+
+De Curitiba/PR para Brasília/DF, 17 de maio de 2024.
+
+ANA CAROLINA SPONZA BRAGA BERNARDO STROBEL GUIMARÃES
+OAB/RJ 158.492 OAB/PR 32.838
+
+CAIO AUGUSTO NAZÁRIO DE SOUZA JORDÃO VIOLIN
+OAB/PR 89.959 OAB/PR 57.615
+
+LUIS HENRIQUE MADALENA PEDRO HENRIQUE BRAZ DE VITA
+OAB/PR 48.454 OAB/PR 58.070

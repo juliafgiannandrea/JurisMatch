@@ -1,0 +1,1346 @@
+[[pagina 1 | nativo]]
+
+Excelentíssimos Senhores Ministros
+Supremo Tribunal Federal
+Brasília - DF
+
+Assunto: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE
+DIREITO PÚBLICO | CONTROLE DE CONSTITUCIONALIDADE (10645)1
+
+Ementa: Constitucional. ADI. Emenda Constitucional nº 103, de 2019.
+Contribuição previdenciária. Aumento da alíquota de 11% para até 19% sobre a
+maior faixa remuneratória dos subsídios de membros do Poder Judiciário e
+Ministério Público. Inconstitucionalidade por abolição de cláusulas pétreas
+(separação de poderes e direitos individuais). Violação à irredutibilidade.
+Prejuízo à independência funcional e à unidade orgânica. Ausência da relação de
+aumento entre a contribuição e o benefício. Ausência de déficit orçamentário.
+Confisco. Falta de estudo atuarial.
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS - AMB,
+inscrita no CNPJ sob o nº 34.102.228/0001-04, com sede no SCN, Quadra 2, Bloco
+D, Torre B, Sala 1302, Shopping Liberty Mall, CEP: 70712-903, Brasília-DF;
+ASSOCIAÇÃO NACIONAL DOS MEMBROS DO MINISTÉRIO PÚBLICO –
+CONAMP, inscrita no CNPJ sob o nº 54.284.583/0001-59, com sede no SHS,
+Quadra 6, Conjunto “A”, Complexo Brasil 21, Bloco “A”, salas 305/306, CEP n.º
+70.322-915, Brasília-DF; ASSOCIAÇÃO NACIONAL DOS PROCURADORES
+DO TRABALHO - ANPT, inscrita no CNPJ sob o nº 03.495.090/0001-27, com sede
+no SBS, Quadra 2, bloco S, Edifício Empire Center, 11º andar, salas 1103/1108,
+CEP.: 70.070-904, Brasília-DF, ASSOCIAÇÃO NACIONAL DOS
+MAGISTRADOS DA JUSTIÇA DO TRABALHO - ANAMATRA, inscrita no
+CNPJ sob o nº 00.536.110/0001-72, com sede no SHS, Quadra 06, bloco E, conjunto
+A, salas 602 a 608, CEP.: 70.316-000, Brasília-DF; e ASSOCIAÇÃO NACIONAL
+DOS PROCURADORES DA REPÚBLICA - ANPR, inscrita no CNPJ sob o nº
+00.392.696/0001-49, com sede no SAF Sul, Quadra 4, conjunto C, bloco B sala
+113/114, Brasília-DF, CEP: 70.050-900, por seus procuradores regularmente
+constituídos (mandatos inclusos), que recebem intimações e notificações em Brasília-
+DF, no SAUS, quadra 5, bloco N, salas 212 a 217, edifício OAB, CEP 70.070-913,
+telefone (61) 3223-0552, e-mail: publica@servidor.adv.br, com suporte nos artigos
+
+1 Assunto de acordo com as Tabelas Processuais Unificadas do Poder Judiciário expedidas pelo Conselho
+Nacional de Justiça (Resolução nº 46, de 2007).
+1 de 31
+
+[[pagina 2 | nativo]]
+
+102, I, “a”, e 103, IX, da Constituição da República de 19882, e no artigo 2º, IX, da
+Lei 9.868, de 19993, propõe AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de MEDIDA CAUTELAR, em razão da inconstitucionalidade dos §§
+1º, 1º-A, 1º-B e 1º-C do artigo 149 da Constituição da República - na redação dada
+pelo artigo 1º da Emenda Constitucional nº 103, de 2019 – e dos §§ 4º e 5º do artigo
+9º, caput, §§ 1º, 2º, 3º e 4º do artigo 11 da Emenda Constitucional nº 103, de 2019,
+conforme se passa a demonstrar:
+
+1. OBJETO
+
+As autoras congregam membros do Judiciário e do Ministério
+Público e agem contra a confiscatória majoração da alíquota previdenciária
+promovida pela Emenda Constitucional nº 103, de 2019 (anexo), pois instituiu
+progressividade que impacta desproporcionalmente os subsídios dessa parcela, sem a
+criação de benefícios correspondentes ao abusivo aumento, sem a consideração
+atuarial da situação superavitária decorrente das elevadas contribuições patrocinadas
+por essa parcela do funcionalismo público, e sem consideração do montante
+contributivo arrecadado destes agentes políticos.
+
+O conjunto inconstitucional é formado pela nova redação dada aos
+§§ 1º, 1º-A, 1º-B e 1º-C do artigo 149 da Constituição da República pelo artigo 1º da
+Emenda Constitucional 103, de 2019, §§ 4º e 5º do artigo 9º e caput, §§ 1º, 2º, 3º e 4º
+do artigo 11, todos da mesma norma:
+
+Art. 1° A Constituição Federal passa a vigorar com as seguintes alterações: [...]
+‘Art. 149. .............................
+§ 1º A União, os Estados, o Distrito Federal e os Municípios instituirão, por
+meio de lei, contribuições para custeio de regime próprio de previdência
+social, cobradas dos servidores ativos, dos aposentados e dos pensionistas,
+que poderão ter alíquotas progressivas de acordo com o valor da base de
+contribuição ou do benefício recebido.
+§ 1º-A A contribuição ordinária dos aposentados e pensionistas poderá
+incidir sobre o valor dos proventos de aposentadoria e de pensões que
+superem o salário mínimo quando houver deficit atuarial.
+§ 1º-B Demonstrada a insuficiência da medida prevista no § 1º-A para
+
+2 Constituição da República: “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+Constituição, cabendo-lhe: I - processar e julgar, originariamente: a) a ação direta de inconstitucionalidade de
+lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo
+federal; [...] Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (...) IX - confederação sindical ou entidade de classe de âmbito nacional.”
+3 Lei 9.868, de 1999: “Art. 2º Podem propor a ação direta de inconstitucionalidade: (...) IX - confederação sindical
+ou entidade de classe de âmbito nacional”
+2 de 31
+
+[[pagina 3 | nativo]]
+
+equacionar o deficit atuarial, é facultada a instituição de contribuição
+extraordinária, no âmbito da União, dos servidores públicos ativos, dos
+aposentados e dos pensionistas.
+§ 1º-C A contribuição extraordinária de que trata o § 1º-B deverá ser
+instituída simultaneamente com outras medidas para equacionamento do
+deficit e vigorará por período determinado, contado da data de sua
+instituição. [...]
+
+Art. 9º [...]
+§ 4º Os Estados, o Distrito Federal e os Municípios não poderão estabelecer
+alíquota inferior à da contribuição dos servidores da União, exceto se
+demonstrado que o respectivo regime próprio de previdência social não possui
+deficit atuarial a ser equacionado, hipótese em que a alíquota não poderá ser
+inferior às alíquotas aplicáveis ao Regime Geral de Previdência Social.
+§ 5º Para fins do disposto no § 4º, não será considerada como ausência de deficit
+a implementação de segregação da massa de segurados ou a previsão em lei de
+plano de equacionamento de deficit.
+
+Art. 11. Até que entre em vigor lei que altere a alíquota da contribuição
+previdenciária de que tratam os arts. 4º, 5º e 6º da Lei n° 10.887, de 18 de junho
+de 2004, esta será de quatorze por cento.
+§ 1º A alíquota prevista no caput será reduzida ou majorada, considerado o valor
+da base de contribuição ou do benefício recebido, de acordo com os seguintes
+parâmetros:
+I - até um salário-mínimo, redução de seis inteiros e cinco décimos pontos
+percentuais;
+II - acima de um salário-mínimo até R$ 2.000,00 (dois mil reais), redução de
+cinco pontos percentuais;
+III - de R$ 2.000,01 (dois mil reais e um centavo) até R$ 3.000,00 (três mil reais),
+redução de dois pontos percentuais;
+IV - de R$ 3.000,01 (três mil reais e um centavo) até R$ 5.839,45 (cinco mil
+oitocentos e trinta e nove reais e quarenta e cinco centavos), sem redução ou
+acréscimo;
+V - de R$ 5.839,46 (cinco mil oitocentos e trinta e nove reais e quarenta e seis
+centavos) até R$ 10.000,00 (dez mil reais), acréscimo de meio ponto percentual;
+VI - de R$ 10.000,01 (dez mil reais e um centavo) até R$ 20.000,00 (vinte mil
+reais), acréscimo de dois inteiros e cinco décimos pontos percentuais;
+VII - de R$ 20.000,01 (vinte mil reais e um centavo) até R$ 39.000,00 (trinta e
+nove mil reais), acréscimo de cinco pontos percentuais; e
+VIII - acima de R$ 39.000,01 (trinta e nove mil reais e um centavo), acréscimo
+de oito pontos percentuais.
+§ 2º A alíquota, reduzida ou majorada nos termos do disposto no § 1º, será
+aplicada de forma progressiva sobre a base de contribuição do servidor público,
+incidindo cada alíquota sobre a faixa de valores compreendida nos respectivos
+limites.
+§ 3º Os valores previstos no § 1º serão reajustados, a partir da data de entrada em
+
+3 de 31
+
+[[pagina 4 | nativo]]
+
+vigor desta Emenda Constitucional, na mesma data e no mesmo índice em que se
+der o reajuste dos benefícios do Regime Geral de Previdência Social, ressalvados
+aqueles vinculados ao salário-mínimo, aos quais se aplica a legislação específica.
+§ 4º A contribuição de que trata o caput, com a redução ou a majoração
+decorrentes do disposto no § 1º, será devida pelos aposentados e pensionistas de
+quaisquer dos Poderes da União, incluídas suas entidades autárquicas e suas
+fundações, incidentes sobre o valor da parcela dos proventos de aposentadorias e
+pensões que superem o limite máximo estabelecido para os benefícios do Regime
+Geral de Previdência Social, hipótese em que será considerada a totalidade do
+valor do benefício para fins de definição das alíquotas aplicáveis.
+
+Em resumo, esse conjunto de regras institui a progressividade das
+alíquotas de contribuição previdenciária (§ 1º do artigo 149 da Constituição) de forma
+agressiva para a faixa em que estão inseridos os subsídios dos membros do Judiciário
+e do Ministério Público, vez que, arcarão com: 12% (de R$ 2.001,00 e R$ 3.000,00),
+14% (de R$ 3.001,00 e R$5.839,45), 14,5% (de R$ 5.839,46 a R$ 10.000,00); 16,5%
+(de R$ 10.000,01 a R$ 20.000,00) e 19% (de R$ 20.000,01 a R$ 39.000,00) para o
+Regime Próprio de Previdência Social (incisos III a VII do § 1º do artigo 11 da
+Emenda Constitucional).
+
+Não fosse suficiente, apenas para “para equacionar o déficit atuarial”
+e não para assegurar algum benefício correspondente, essa classe corre o risco de ter
+majorada a sua contribuição com a instituição de tributo extraordinário e de ter
+ampliada a base contributiva das aposentadorias e pensões (§§ 1º-A, 1º-B e 1º-C do
+artigo 149 da Constituição). No entanto, mesmo que as altas contribuições arcadas
+pela classe demonstrem que inexiste déficit no sustento dos benefícios desse
+segmento do funcionalismo, a norma impede a categoria de ter a análise setorizada
+da sua situação atuarial (§§ 4º e 5º do artigo 9º da Emenda Constitucional).
+
+O que se tem é o aumento substancial das alíquotas de contribuição
+previdenciária, fixadas entre 14% a 19%, incidentes sobre expressivo montante
+remuneratório de magistrados e membros do Ministério Público, sem a comprovação
+atuarial de que seus benefícios são a causa do alegado déficit previdenciário e,
+principalmente, sem a consideração de que 46,5% de parcela expressiva de seus
+subsídios serão consumidos por tributação (podendo ser mais, se instituídas as
+contribuições extraordinárias), dada a cobrança simultânea do Imposto de Renda. Isso
+sem contar a tributação sobre o consumo e a propriedade que, no somatório com a
+exação sobre a renda, devora mais de 50% dos rendimentos dessa categoria.
+
+Conforme se fundamentará adiante, essas inovações violam a
+
+4 de 31
+
+[[pagina 5 | nativo]]
+
+separação de Poderes e os direitos individuais constitucionais que protegem o
+contribuinte contra a abusividade fiscal, protegidos pelo rol das cláusulas pétreas,
+consubstanciados nas seguintes regras da Constituição da República de 1988: (i) a
+irredutibilidade dos subsídios, a independência funcional (III do artigo 95, “c” do
+inciso I do § 5º do artigo 128, artigo 2º e § 1º do artigo 127) e a unidade orgânica por
+escalonamento de subsídios ; (ii) a vedação ao confisco tributário (IV do artigo 150);
+(iii) a exigência de correspondência entre majoração de contribuição e majoração de
+benefícios (§ 5º do artigo 195); (iv) o direito de propriedade (XII do artigo 5º); (v) a
+impossibilidade de discriminação pela atividade exercida (II do artigo 150); o direito
+à previdência social com participação equânime no financiamento (artigos 6º e 194);
+as garantias do sistema contributivo (artigo 40 e § 11 do artigo 201); (vi) a finalidade
+beneficiária das contribuições arcadas pelos agentes políticos envolvidos (XI do
+artigo 161); (vii) a exigência de estudo atuarial (artigo 40).
+
+2. CONHECIMENTO
+
+A despeito do inciso IX do artigo 103 da Constituição da República,
+que assegura legitimidade às entidades de classe de âmbito nacional, não obstante o
+Supremo Tribunal Federal exija que a pertinência temática tenha “referibilidade
+direta entre as normas contestadas e os objetos sociais das requerentes” (ADI 4.400),
+considerando a injusta restrição de acesso à justiça por inexistir assunto que não
+tangencie outras classes, a Corte passou a entender que basta demonstração de que a
+norma contestada afeta os fins institucionais das entidades que provocam o controle
+concentrado:
+
+EMENTA Agravo regimental em ação direta de inconstitucionalidade.
+Tributação incidente sobre verbas de comissão de corretagem. Sociedades
+seguradoras. CONSIF. Objetivos institucionais. Objeto da ação. Correlação.
+Pertinência temática. Existência. 1. Existe correlação entre os objetivos
+institucionais da CONSIF, entidade sindical de grau superior que “congrega as
+federações que agrupam as entidades de classe representativas das instituições
+financeiras e assemelhadas, empresas seguradoras e empresas de capitalização e
+previdência”, e o objeto de ação direta com que se busca afastar a incidência da
+contribuição previdenciária sobre verbas de comissão de corretagem. 2. Agravo
+regimental provido para, afastando o óbice da ausência de pertinência temática,
+dar regular prosseguimento ao feito. (ADI 4673 AgR, Rel. Min. Alexandre de
+Moraes, Rel.p/ Acórdão Min. Dias Toffoli, Tribunal Pleno, j. 13/06/2018, p. DJe-
+225 d. 22/10/2018 p. 23/10/2018)
+
+Com base nesse posicionamento, em relação às autoras, houve
+reconsideração de decisão que não reconheceu sua legitimidade em caso em que
+
+5 de 31
+
+[[pagina 6 | nativo]]
+
+diploma impugnado também se referia a outras classes do funcionalismo público:
+
+Trata-se de Agravo Regimental interposto pela Associação dos Magistrados
+Brasileiros – AMB, pela Associação Nacional dos Magistrados da Justiça do
+Trabalho – ANAMATRA, e pela Associação dos Juízes Federais do Brasil –
+AJUFE, contra decisão monocrática que extinguiu arguição de descumprimento
+de preceito fundamental proposta por essas entidades em face do art. 127, IV, e
+art. 134 da Lei Federal 8.112/1990, Estatuto dos Servidores Civis da União, que
+tratam da aplicação da penalidade de cassação de aposentadoria.
+A decisão agravada acatou preliminar suscitada pelo Procurador-Geral da
+República de ilegitimidade ativa das autoras, ora agravantes, sob o aspecto da
+ausência de pertinência temática entre a norma impugnada e suas finalidades
+institucionais e o seu âmbito de representatividade.
+Em suas razões recursais, as agravantes sustentam terem efetivamente
+demonstrado, na petição inicial, a existência de pertinência temática entre o
+objeto da arguição e seus objetos sociais, mediante a demonstração de que os
+dispositivos questionados da Lei 8.112/1990 têm sido regularmente aplicados
+pelos Tribunais aos membros da magistratura. Aduziram ainda ser possível ao
+SUPREMO TRIBUNAL FEDERAL tanto proclamar a nulidade desses
+dispositivos quanto declarar a sua inaplicabilidade aos magistrados. Invocaram
+precedentes. pelos quais, segundo alegam, a jurisprudência da CORTE daria
+respaldo à legitimidade da AMB para a impugnação, em sede de controle
+concentrado, de normas atinentes a todos os servidores públicos. Em relação à
+ANAMATRA e AJUFE, argumentam que a aplicação das normas impugnadas
+dependerá da atuação particular de cada Tribunal (Federal ou Trabalhista) na
+imposição dessa sanção (cassação de aposentadoria), pelo que entendem presente
+a legitimidade dessas entidades para a propositura da arguição em foco.
+É o relatório.
+No julgamento do Agravo Regimental interposto nos autos da Ação Direta de
+Inconstitucionalidade 4.673, na qual figuro como Relator, este SUPREMO
+TRIBUNAL FEDERAL houve por bem assentar entendimento em prol da maior
+flexibilidade no reconhecimento do requisito da pertinência temática como
+pressuposto para a legitimidade ativa em controle abstrato de constitucionalidade
+(ADI 4.673 AgR, de minha Relatoria, Tribunal Pleno, j. em 13/6/2018). O
+posicionamento que externei naquele caso – semelhante ao adotado na decisão
+agravada neste processo – não foi acolhido pelos demais membros desta CORTE.
+Em homenagem ao princípio da colegialidade, considerando o quanto
+sedimentado no referido precedente, RECONSIDERO a decisão agravada, para
+reconhecer a legitimidade das autoras, e JULGO PREJUDICADO o presente
+Agravo Regimental.
+(Decisão do Min. Alexandre de Moraes no Ag.Reg. na Argüição de
+Descumprimento de Preceito Fundamental 418)
+
+Conforme se passa a demonstrar, em que pese a reforma
+previdenciária discutida também afetar outras categorias do funcionalismo público,
+
+6 de 31
+
+[[pagina 7 | nativo]]
+
+constatam-se efeitos negativos específicos sobre a independência exclusivamente
+assegurada aos agentes públicos que compõem essa parcela da Administração da
+Justiça, bem como que o fato de que as maiores alíquotas de contribuição serão
+suportadas por essas classes, pelo que restará evidente a pertinência temática.
+
+3. INCONSTITUCIONALIDADES
+
+O conjunto de violações apresentado nos tópicos seguintes envolve
+matéria que não admite abolição por emendas constitucionais (Constituição de 1988,
+artigo 60, § 4º, incisos III e IV), integrando o núcleo de direitos contra a arbitrariedade
+fiscal e previdenciária.
+
+Conforme se verá, o que se instituiu foi contribuição previdenciária
+abusiva, sem que ocorra efetiva retribuição, de modo que, como consequência,
+apropria-se de bem alheio que não pertence à tributação, de encontro à vedação ao
+confisco e ao direito de propriedade.
+
+Nesse sentido, os parâmetros de controle se referem a projeções
+específicas de direitos fundamentais no âmbito tributário, assim, constituem-se como
+cláusulas pétreas, impondo limites ao poder constituinte derivado, conforme já
+decidiu o Supremo Tribunal Federal nos autos da ADI 1.075-MC-7/DF.
+
+Naquela oportunidade, ressaltou que a vedação ao confisco “traduz
+consequência necessária da tutela jurídica-constitucional que ampara o direito de
+propriedade (CF, art. 5º, incisos XXII, XXIV e XXV; art. 182, 2º, e art. 184, caput)”,
+a qual se estende ao domínio da atividade tributária do Estado e, portanto, insere
+limites insuperáveis, a fim de barrar práticas em detrimento do patrimônio privado e
+que comprometem o desempenho regular de direitos que o sistema constitucional
+reconhece como garantias individuais.
+
+3.1. Violação à independência funcional, à irredutibilidade remuneratória e a
+unidade orgânica por escalonamento: inciso III do artigo 95, letra “c” do inciso
+I do § 5º do artigo 128, artigo 2º, § 1º do artigo 127 e inciso V do artigo 93
+
+A garantia da independência assegurada aos membros do Poder
+Judiciário e do Ministério Público não se esgota nas prerrogativas funcionais, dada a
+clara preocupação constitucional com a sua estabilidade remuneratória, a fim de
+evitar desequilíbrio na relação com as demais instituições e atores sociais.
+
+7 de 31
+
+[[pagina 8 | nativo]]
+
+Não por acaso a Constituição insere tais carreiras na condição de
+agentes políticos ou órgãos institucionais, integrando-as ao topo da cadeia salarial do
+funcionalismo nacional (já que o teto é parametrizado pelos subsídios da
+magistratura, com correspondência imediata para os membros do parquet em função
+da simetria, aplicando-se o escalonamento). Bem por isso, é assegurada autonomia
+organizacional plena ao Judiciário (artigo 99 da Constituição) e ao Ministério Público
+(§§ 2º e 3º do artigo 127 da Constituição) para assegurar aos seus membros condições
+financeiras em prol da sua independência funcional.
+
+Do tratamento da Justiça como valor supremo desde o preâmbulo da
+Constituição, é decorrência lógica que se atribua cuidado especial aos agentes
+públicos responsáveis pela sua realização.
+
+Vale dizer, a vitaliciedade e a inamovibilidade são garantias
+insuficientes, caso não se preserve em patamares dignos os seus subsídios, motivo
+pelo qual a irredutibilidade ganha especial relevância no diz respeito à independência
+funcional dessas classes (inciso III do art. 954 e § 5º, I, “c”, do artigo 1285 da
+Constituição), pois, sem Administração da Justiça independente e imparcial, não há
+que se falar em efetivação da carta de direitos fundamentais:
+
+[...] Nesse ponto, ressalte-se que, no Estado Democrático de Direito, a
+independência judicial é mais importante para a eficácia dos direitos
+fundamentais do que o próprio catálogo de direitos contido nas Constituições. [...]
+A irredutibilidade de vencimentos, antes garantia exclusiva dos magistrados e
+hoje integrante da proteção dos servidores públicos em geral, completa esse
+elenco de garantias pessoais voltadas a assegurar a independência dos
+magistrados. Afasta-se, aqui, a possibilidade de qualquer decisão legislativa
+com o intuito de afetar os subsídios pagos aos juízes.6
+
+Assim, não obstante a taxação sobre a renda ser ordinariamente
+admissível, qualquer modificação tributária que implique em majoração da carga
+suportada por magistrados e membros do parquet deve observar a necessária
+sincronia com o destaque constitucional a elas conferido. Isso leva à conclusão de
+
+4 Constituição da República de 1988: “Art. 95. Os juízes gozam das seguintes garantias: [...] III - irredutibilidade
+de subsídio, ressalvado o disposto nos arts. 37, X e XI, 39, § 4º, 150, II, 153, III, e 153, § 2º, I.”
+5 Constituição da República de 1988: “Art. 128. O Ministério Público abrange: [...] § 5º Leis complementares da
+União e dos Estados, cuja iniciativa é facultada aos respectivos Procuradores-Gerais, estabelecerão a
+organização, as atribuições e o estatuto de cada Ministério Público, observadas, relativamente a seus
+membros: I - as seguintes garantias: [...] c) irredutibilidade de subsídio, fixado na forma do art. 39, § 4º, e
+ressalvado o disposto nos arts. 37, X e XI, 150, II, 153, III, 153, § 2º, I;”
+6 STRECK, L.; MENDES, G. F. Comentário ao artigo 95. In: CANOTILHO, J. J. G.; SARLET, I.; _____ (Coords.).
+Comentários à Constituição do Brasil. São Paulo: Saraiva/Almedina, 2013. p. 1320-1330.
+8 de 31
+
+[[pagina 9 | nativo]]
+
+que, em se tratando de contribuição previdenciária, a majoração que não implique em
+instituição ou melhoria de benefícios somente pode ser compreendida como redução
+inconstitucional dos seus subsídios, com violação direta à independência funcional.
+
+O desvio de finalidade e a consequente violação à irredutibilidade,
+enquanto corolário da independência funcional desses agentes, é facilmente
+percebido desde as justificativas da Proposta de Emenda à Constituição nº 6, de 2019.
+Ao invés de justificar algum benefício, sob o discurso infundado da equidade e
+“combate ao privilégio”, alegou-se que os salários dessas classes deveriam suportar
+mais tributação como solução para a “desigualdade social”:
+
+[...] 13. Esse projeto para uma nova previdência é estruturado em alguns pilares
+fundamentais: combate às fraudes e redução da judicialização; cobrança das
+dívidas tributárias previdenciárias; equidade, tratando os iguais de forma igual
+e os desiguais de forma desigual, com todos brasileiros contribuindo para o
+equilíbrio previdenciário na medida de sua capacidade; além da criação de um
+novo regime previdenciário capitalizado e equilibrado, destinado às próximas
+gerações.[...]
+18. O terceiro pilar refere-se à equidade. A proposta ora submetida à Vossa
+Excelência altera tanto os regimes próprios como o regime geral de previdência
+social, mas busca tratar os desiguais de forma desigual, de acordo com suas
+especificidades. Ciente da desigualdade social que ainda permeia nossa
+sociedade, buscou-se exigir maior contribuição daqueles que recebem mais.
+Aqueles que ganham mais pagarão mais e aqueles que ganham menos pagarão
+menos.
+19. Ainda em relação à equidade, a presente proposta busca incluir todos os
+brasileiros no esforço pela recuperação da previdência social. Assim, mesmo para
+categorias que hoje não estão tratadas no texto constitucional, como os militares
+das forças armadas, será promovida a apresentação de projetos de lei em
+separado, promovendo ajustes em seus sistemas. [...]
+50. Ricos tendem a se aposentar mais cedo e com maiores valores. Em geral, em
+especial no setor urbano, os trabalhadores socialmente mais favorecidos (maior
+renda, formalidade, estabilidade ao longo da vida laboral e melhores condições
+de trabalho) tendem a se aposentar por tempo de contribuição. Isto é, sem idade
+mínima, com idade média de 54,6 54 anos em 2018, tendo expectativa de
+recebimento do benefício de 27,2 anos, e com valor médio de cerca de R$
+2.231,00. [...]
+108. Entende-se que um dos principais problemas que, atualmente, enfrentam os
+regimes próprios é a ausência de uma estrutura de financiamento mais adequada
+e em que haja uma melhor distribuição na imposição de ônus financeiros ao ente
+instituidor e contribuintes, de tal forma que a correção de rumos passa,
+necessariamente, por uma expansão das atuais fontes de custeio dos RPPS e pela
+redefinição das participações, nesse custeio, dos entes, segurados e pensionistas.
+A Emenda impõe a definição, para todos os regimes próprios, de critérios gerais
+
+9 de 31
+
+[[pagina 10 | nativo]]
+
+de responsabilidade previdenciária e organização, contemplando além de modelo
+de apuração dos compromissos e seu financiamento, arrecadação de
+contribuições, aplicação e utilização dos recursos, concessão, manutenção e
+pagamento dos benefícios, fiscalização desses regimes pela União e sujeição aos
+órgãos de controle interno e externo, conforme será definido por lei
+complementar a ser prevista no § 1º do art. 40 da Constituição. Dessa forma,
+possibilitará que o Estado brasileiro possa garantir o pagamento dos benefícios
+devidos a esses trabalhadores, os servidores públicos, de forma isonômica aos
+demais, respeitadas as suas capacidades contributivas e a situação jurídica
+de seus vínculos com o ente federativo.
+
+Em resumo: a partir de um preconceito, a razão legislativa dessa
+norma supõe erroneamente que as prerrogativas dessas classes são indevidas,
+supondo ainda que contribuem para o alegado déficit previdenciário e, portanto,
+devem suportar ônus maior nas medidas de recuperação.
+
+Percebe-se que tais alegações ignoram a necessária diferença
+atribuída ao regime jurídico dos membros do Judiciário e do Ministério Público
+(regidos por leis orgânicas), sem o que seria impossível falar em autonomia para os
+que contribuem com o sistema jurisdicional. Tais prerrogativas, nelas inseridas a
+garantia de irredutibilidade dos subsídios - próprias dessas classes - não refletem
+anomalia institucional, mas sim a forma que a Constituição da República reputou
+necessária à consecução dos seus fundamentos (artigo 1º) e objetivos (artigo 3º).
+
+Daí porque a isonomia invocada como justificativa teve o seu
+conteúdo jurídico invertido, pois “a norma atribui tratamentos jurídicos diferentes em
+atenção a fator de discrímen adotado que, entretanto, não guarda relação de
+pertinência lógica com a disparidade de regimes outorgados”7.
+
+Aliás, a situação criada pela Emenda Constitucional em questão
+viola a isonomia aplicada especificamente a essas classes, decorrente do princípio da
+unidade orgânica (artigo 93 e § 1º do artigo 127 da Constituição), traduzida na
+garantia ampla do escalonamento salarial das carreiras (V do artigo 93 da
+
+7 MELLO, C. A. B.; O conteúdo jurídico do princípio da igualdade. 3ª ed. São Paulo: Malheiros, 2007. p. 47.
+10 de 31
+
+[[pagina 11 | nativo]]
+
+Constituição8-9), cuja função é servir de mediador paritário da relação de direito que
+preserva a autonomia e a independência entre esses membros.
+
+É que a submissão da classe à alíquotas diferentes (vez que os
+subsídios estão entre a antepenúltima e penúltima faixas) viola a imposição
+constitucional de um regime jurídico-previdenciário único; a tributação mais pesada
+dos que figuram nas faixas contributivas superiores deforma o escalonamento
+salarial, já que a exação progressiva não se coaduna com a exigência de que a
+diferença do efetivamente recebido entre uma e outra categoria seja “superior a dez
+por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do
+subsídio mensal dos Ministros dos Tribunais Superiores”.
+
+O cuidado do Supremo Tribunal Federal para que seja mantida em
+toda a sua amplitude a unidade orgânica refletida no escalonamento salarial foi
+evidenciada no julgamento da ADI 3.854:
+
+Se a Constituição da República estipula idênticos princípios e normas
+fundamentais para modelagem de toda a magistratura, com plena abstração
+das várias categorias de Justiça à que estejam seus membros vinculados,
+sobretudo no delicado tema de disciplina dos subsídios (art. 93, inc. V), não
+se descobre, dentre todas as razões passíveis de serem consideradas em
+termos de valoração e argumentação jurídico-normativa, nenhuma que seja
+suficiente para fundamentar e justificar permissão para tão desconcertante
+desigualdade no seio da mesmíssima instituição de caráter nacional e
+unitário. Se, para usar a terminologia do texto constitucional mesmo (art. 93, V),
+a mera diversidade das respectivas categorias da estrutura judiciária nacional não
+legitima, como critério teórico de diferenciação, quebra do modelo unitário de
+escalonamento vertical dos subsídios dos magistrados, válido em nível federal e
+estadual, então não pode, tampouco, como razão suficiente, legitimar fratura
+no modelo quanto a um aspecto secundário da temática dos vencimentos,
+que é o limite máximo da remuneração! (...) O critério de discernimento e
+desigualação, aqui, vê-se logo que, não transpondo as fronteiras de uma
+contingência funcional inconseqüente para fins remuneratórios, que é o só
+pertencer a este ou àquele ramo burocrático do Poder Judiciário, não guarda
+nenhum relevo axiológico capaz de permitir tratamento normativo heterogêneo.
+
+8 Constituição da República: Art. 93 [...] V - o subsídio dos Ministros dos Tribunais Superiores corresponderá a
+noventa e cinco por cento do subsídio mensal fixado para os Ministros do Supremo Tribunal Federal e os
+subsídios dos demais magistrados serão fixados em lei e escalonados, em nível federal e estadual, conforme
+as respectivas categorias da estrutura judiciária nacional, não podendo a diferença entre uma e outra ser
+superior a dez por cento ou inferior a cinco por cento, nem exceder a noventa e cinco por cento do subsídio
+mensal dos Ministros dos Tribunais Superiores, obedecido, em qualquer caso, o disposto nos arts. 37, XI, e 39,
+§ 4º;
+9 Aplicável aos membros do Ministério Público pela simetria.
+11 de 31
+
+[[pagina 12 | nativo]]
+
+Essa heterogeneidade fere de imediato a percepção vulgar e intuitiva de que
+a exigência de igualdade como valor universal não suporta tratamento
+desigual de pessoas em condições objetivas substancialmente idênticas, como
+a dos magistrados, que, embora pertencendo a ramos distintos da mesma
+estrutura judiciária, desempenham iguais funções, debaixo de um só
+estatuto de âmbito nacional, que lhes dita regras iguais de garantias, vantagens
+e restrições. E, no mundo jurídico, que assume e incorpora o valor da igualdade
+como objeto de um direito primário da ordem constitucional, agride as regras da
+isonomia, enquanto se revela produto de uma decisão legislativa que, destituída
+de razão suficiente, é, em todos os sentidos, materialmente arbitrária.
+(Voto do rel. Min. Cezar Peluso na ADI 3854 MC, j. 28/02/2007, DJe-047 d.
+28/06/2007 p. 29/06/2007)
+
+Esse entendimento torna evidente que as regras que estipulam
+parâmetros remuneratórios – e com razão redobrada os parâmetros previdenciários –
+devem obedecer à conformação única constitucionalmente garantida a essas classes,
+como corolário das garantias de autonomia e independência funcional.
+
+Ademais, é antiga a disseminação de falsas afirmações sobre tais
+classes quando aventadas alterações previdenciárias, com o fito exclusivo de
+prejudicá-las diante da opinião pública. À época da reforma de 2003, Romano José
+Enzweiler escreveu sobre tais preconceitos e sobre os efeitos nefastos da majoração
+da contribuição sobre carreira da Administração da Justiça10, chamando atenção não
+só para o prejuízo dos que ocupam tais cargos, mas também para a perda de
+atratividade e retenção de talentos desses postos fundamentais para o Estado
+Democrático de Direito:
+
+Pelo que representa para a nação, o princípio da separação dos poderes (e a
+independência dos juízes) não se pode ver mitigado, mesmo que tangencialmente,
+através de expedientes menores, que coloquem em risco, por exemplo, o
+recrutamento dos mais destacados talentos jurídicos para as fileiras da
+Magistratura, desestimulando-os com a certeza de uma vida repleta de privações
+pessoais e familiares, sem qualquer perspectiva de dignidade quando da
+aposentação. [...]
+Assim, trivializar a Magistratura a pretexto de satisfazer o “desejo popular” de
+igualização ou com o objetivo de equacionar momentaneamente as contas do
+tesouro tem sentido apenas para o cenário político do dia ou, ainda, para
+sinalização aos mercados e instituições financeiras. A conseqüência da
+mediocrização do Poder Judiciário tende a ser, no limite, a fragilização da
+cidadania brasileira, na medida em que se esboroa um dos princípios nucleares e
+
+10 Embora tenha abordado a magistratura, suas conclusões são perfeitamente aplicáveis aos membros do
+Ministério Público.
+12 de 31
+
+[[pagina 13 | nativo]]
+
+estruturantes da organização política nacional.11
+
+Assim, acertadamente, o autor defende uma leitura sistemática do §
+4º do artigo 60 da Constituição da República, que enquadre esse tipo de majoração
+da contribuição previdenciária como causa de abolição da separação dos Poderes (por
+violação à independência funcional), especialmente quando a possibilidade formal de
+tributação sobre a renda é utilizada abusivamente para ferir as prerrogativas
+funcionais dessa classe:
+
+[...] Em conclusão, para os efeitos do art. 60, § 4º, da Constituição Federal, a
+expressão “tendente a abolir” possui caráter extremamente sensível, e qualquer
+proposta que “ofenda”, “enfraqueça”, “mitigue”, “atenue”, “reduza o significado”
+ou “ameace” a separação dos Poderes ou a aplicação da justiça e, pois, os direitos
+e garantias individuais, mesmo que tangencial ou obliquamente, sequer poderá
+ser objeto de deliberação, sob pena de se “deflagrar um processo de erosão da
+própria Constituição”.12
+
+Em verdade, percebe-se a incoerência da indevida transferência do
+ônus previdenciário a essas classes, fundamentada apenas em preconceitos, quando
+se considera que o § 5º do artigo 9º da Emenda Constitucional não admite a análise
+setorizada da situação de cada parcela do funcionalismo.
+
+Ou seja, ao passo em que a justificativa da norma tenha sido tratar
+“os iguais de forma igual e os desiguais de forma desigual” e respeitar “as suas
+capacidades contributivas e a situação jurídica de seus vínculos com o ente
+federativo”, apresentou números para impressionar o público sem a estimativa
+particularizada da situação dessas classes diante da previdência social:
+
+[...] 46. Perspectiva de insustentabilidade no futuro dos RPPS. As dificuldades
+em relação a sustentabilidade financeira e atuarial nos RPPS é preocupante. O
+deficit atuarial do RPPS da União em 2017 era de R$ 1,2 trilhão. Os Estados,
+Distrito Federal e parte dos Municípios também possuem deficit atuarial em
+montante expressivo, que no seu conjunto ultrapassa o deficit da União. Ainda
+que haja elevada heterogeneidade em relação à situação financeira dos mais
+de 2.130 RPPS existentes, com diversos municípios tendo seu regime totalmente
+capitalizado e equilibrado, destaca-se o total do deficit dos RPPS dos Estados e
+da União, que respondem por mais de 70% do deficit atuarial total. A maior parte
+dos regimes previdenciários desses entes federativos não formaram reservas
+suficientes para arcar com as despesas atuais nem futuras com o pagamento dos
+
+11 In “Magistratura e Previdência: Mitos e Realidades”. Disponível em
+https://www.camara.leg.br/internet/Comissao/index/esp/reformaprevidenciaamb080503.pdf
+12 Idem.
+13 de 31
+
+[[pagina 14 | nativo]]
+
+benefícios de seus servidores e a sua iliquidez pode contribuir para a insolvência
+do seu instituidor.
+47. Fontes do desequilíbrio nos RPPS. A evidente situação de desequilíbrio
+atuarial dos RPPS é oriunda, em larga medida, da existência de regras que
+garantem benefícios de valores médios bastante elevados e de regras de
+aposentadorias especiais que possibilitam concessões antecipadas de benefícios,
+principalmente no caso dos RPPS dos Estados. Apesar dos recursos acumulados
+por esses regimes, o grau de cobertura dos compromissos ainda é incipiente e
+esses são, em sua maioria, ainda estruturados em regime de repartição, o que
+combinado ao modelo de benefício definido, cujas regras de elegibilidade
+atualmente estabelecidas na Constituição, ainda garantem reposição integral dos
+proventos com relação à fase ativa, dificultam o atingimento do seu equilíbrio
+atuarial.
+
+Com efeito, pertinentes são os seguintes dados apresentados pela
+Ajufe, que revelam a inexistência de desequilíbrio entre ativos e inativos dado o alto
+valor da contribuição previdenciária, o ingresso relativamente cedo na carreira, a
+expectativa de sobrevida e o consequente prolongamento em atividade13, bem como
+que as contribuições superam as despesas previdenciárias:
+
+O Regime Próprio Previdenciário dos magistrados federais é superavitário. Os
+números refletem isso com absoluta clareza.
+O subsídio de juiz federal, atualmente no valor bruto de R$ 33.689,11 mensais,
+sofre desconto previdenciário, destinado ao custeio dos benefícios que serão
+pagos na inatividade, de 11% sobre o total da remuneração (art. 4º da Lei n.
+10.887/2004), ou seja, R$ 3.715,80.
+Assim, considerando a gratificação natalina, que também integra a base de
+incidência da contribuição previdenciária, ao longo de 1 (um) ano de trabalho,
+um juiz federal irá contribuir com R$ 48.175,43 para o seu Sistema
+Previdenciário.
+Por sua vez, por força do art. 8º da Lei n. 10.887/2004, a contribuição da União
+(22% sobre a folha de salários) – empregadora -, assim como acontece com todos
+os demais trabalhadores do Brasil, deve ser somada ao patrimônio constituído
+pelo servidor – trabalhador.
+Dessa forma, o valor total de contribuições previdenciárias de um juiz federal, ao
+longo de 1 (um) ano, totaliza o montante de R$ 144.526,28.
+Diante disso, o juiz federal que ingressar no cargo com 25 anos de idade e
+contribuir até os 60 anos (idade mínima para se aposentar atualmente), contribui
+para o Regime Próprio de sua aposentadoria com a quantia de R$ 5.058,419,87,
+somente de capital, sem a atualização monetária e sem a incidência de juros de
+remuneração.
+Relevante ao debate esclarecer que se esse valor fosse aplicado, durante o período
+
+13 Aplicável na mesma medida aos membros do Ministério Público dada a similitude entre as bases de cálculo
+previdenciárias de ambas as carreiras.
+14 de 31
+
+[[pagina 15 | nativo]]
+
+de contribuição necessário para a aposentadoria - 35 anos -, em títulos públicos
+"Tesouro IPCA + Com Juros Semestrais 2050", cujo rendimento é de 4,46% a.a
+(fonte: site tesouro.fazenda.gov.br), alcançaria o montante final de R$
+11.682.726,68. Essa, portanto, é a “reserva previdenciária” dos magistrados
+federais esmiuçada em números fundados no ordenamento jurídico pátrio
+vigente.
+Considerando-se que a expectativa de sobrevida esperada de um sexagenário no
+Brasil é de 22,3 anos, apenas a reserva previdenciária acima é suficiente para
+pagar a aposentadoria desse juiz federal, sem considerar os juros que esse
+montante iria produzir a partir da data da sua implantação.
+A bem da verdade, os magistrados federais dificilmente se aposentam com 60
+anos, havendo uma tendência de adiar o pedido de aposentadoria, em virtude do
+recebimento do abono de permanência, bem como da perda remuneratória.
+Assim, considerando a idade compulsória de 75 anos, os valores nominais
+arrecadados seriam de R$ 7.226.314,10, com a possibilidade de pagar por dez
+anos (sobrevida até os 85 anos) uma aposentadoria de R$ 58.650,49.
+Além disso, por desinformação ou desonestidade intelectual, o estudo publicado
+considera generalizadamente a média salarial de um desembargador, quando
+apenas a minoria dos juízes se aposenta nesse cargo, via promoção.
+Saliente-se, mais uma vez, que o juiz aposentado ou seu dependente ainda
+permanece contribuindo para o Sistema Previdenciário com alíquota de 11%
+sobre o valor que ultrapassa o teto do Regime Geral de Previdência Social
+(atualmente, R$ 5.839,45).
+Registre-se que somente têm direito à integralidade (ou seja, direito de receber o
+mesmo salário da ativa) os servidores que ingressaram no serviço público até o
+ano de 2003.
+Para os que ingressaram depois da Emenda Constitucional n. 41/2003 o cálculo
+do benefício previdenciário será feito com base na média dos salários de
+contribuição.
+A magistratura federal é superavitária. Em 2016, a magistratura federal contava
+com 2.301 ativos, 268 aposentados e 85 pensionistas. A receita das contribuições
+dos magistrados e da União foi de, aproximadamente, R$ 203,09 milhões para os
+ativos e R$ 10,87 milhões para os inativos e pensionistas – eis que somente os
+servidores públicos continuam a recolher contribuição previdenciária mesmo
+estando aposentados -, totalizando a receita previdenciária aproximada de R$
+213,96 milhões. Por outro lado, o gasto com inativos e pensionistas foi de R$
+98,832 milhões, havendo por isso um superávit em torno de 116% em 2016.
+Por fim, aqueles que ingressaram no Judiciário Federal a partir de 14.10.2013
+estarão sujeitos ao teto do Regime Geral de Previdência Social, podendo aderir
+de forma facultativa ao regime de previdência complementar.14
+
+Ou seja, ao não permitir a essas classes comprovarem que o montante
+de suas contribuições não causa o alegado desequilíbrio, porquanto baseada em
+
+14 Disponível em <https://www.ajufe.org.br/imprensa/noticias/12404-nota-publica-de-esclarecimento>
+15 de 31
+
+[[pagina 16 | nativo]]
+
+preconceitos inconcebíveis acerca das suas prerrogativas funcionais, conclui-se que
+a abusiva majoração das suas alíquotas se dá apenas em razão das profissões por eles
+exercidas, em contrariedade à limitação do poder de tributar tratado no inciso II do
+artigo 150 da Constituição, com intenção ilegítima de reduzir-lhes seus salários, o
+que causa efeitos diretos e perversos sobre a independência funcional.
+
+Nessa linha, esse tratamento desigual também se destaca em razão
+de a norma afetar notadamente aqueles servidores que ingressaram no serviço público
+anteriormente à instituição do Regime de Previdência Complementar, haja vista que
+a eles, desde que não optem pela adesão, não se aplica o limitador da contribuição
+equivalente ao teto do regime geral e, portanto, são afetados pela abusiva majoração
+das alíquotas (inciso V e seguintes do § 1º do artigo 11 da EC nº 103, de 2019). Em
+contrapartida, os que ingressaram após a instituição da previdência complementar,
+bem como aqueles vinculados ao regime geral não serão atingidos pelas alíquotas
+adicionais ao teto do RGPS, não existindo motivo para esse gravame devido à
+remuneração.
+
+Daí a necessidade de se amparar os agentes afetados pela norma, seja
+pelo controle da sua inconstitucionalidade material, ou dos fatos e prognoses15 que
+envolvem a edição da Emenda Constitucional.
+
+3.2. Caráter confiscatório: violação ao inciso IV do artigo 150, ao § 5º do artigo
+195, ao inciso XXII do artigo 5º, ao inciso II do artigo 150, aos artigos 6º e 194,
+ao artigo 40 e § 11 do artigo 201 e ao inciso XI do artigo 167
+
+A função confiscatória da majoração aqui discutida é de fácil
+percepção, uma vez consideradas as (in)justificativas que embasaram a Emenda
+Constitucional, pois atropela a o direito fundamental ao binômio
+contribuição/benefício, conforme disposta no § 11 do artigo 201 da Carta Política:
+
+15 Segundo os ensinamentos de Gilmar Mendes: “Hoje não há como negar a “comunicação entre norma e fato”
+(Kommunikation zwischen Norm und Sachverhalt), que, como ressaltado, constitui condição da própria
+interpretação constitucional. É que o processo de conhecimento aqui envolve a investigação integrada de
+elementos fáticos e jurídicos. [...] É certo, por outro lado, que o Tribunal que exerce as funções de Corte
+Constitucional não pode deixar de exercer a sua competência, especialmente no que se refere à defesa dos
+direitos fundamentais em face de uma decisão legislativa, sob a alegação de que não dispõe dos mecanismos
+probatórios adequados para examinar a matéria. Em verdade, tal como já apontado, a competência do Tribunal
+para examinar os fatos e prognoses legislativos advém da própria competência que lhe é constitucionalmente
+reconhecida para proceder à aferição de leis ou atos normativos em face do parâmetro constitucional”. (Trecho
+dos Comentários ao art. 6º, § 1º da Lei 9.882/1999. In: MENDES, G. F., Argüição de descumprimento de
+preceito fundamental, 2ª Ed., São Paulo: Saraiva)
+16 de 31
+
+[[pagina 17 | nativo]]
+
+Art. 201 [...] § 11. Os ganhos habituais do empregado, a qualquer título, serão
+incorporados ao salário para efeito de contribuição previdenciária e consequente
+repercussão em benefícios, nos casos e na forma da lei. (grifou-se)
+
+Da disposição, depreende-se a regra taxativa, a contrario sensu: não
+poderá incidir contribuição sobre o que não reverterá em benefício do contribuinte.
+Mesmo diante da instituição da solidariedade previdenciária pela Emenda
+Constitucional 41, de 2003, recentemente, o Supremo Tribunal Federal, em sede de
+repercussão geral no Recurso Extraordinário nº 593.068, reafirmou que tal inovação
+não implica afastar os efeitos do caráter contributivo:
+
+Direito previdenciário. Recurso Extraordinário com repercussão geral. Regime
+próprio dos Servidores públicos. Não incidência de contribuições previdenciárias
+sobre parcelas não incorporáveis à aposentadoria.
+1. O regime previdenciário próprio, aplicável aos servidores públicos, rege-se
+pelas normas expressas do art. 40 da Constituição, e por dois vetores sistêmicos:
+(a) o caráter contributivo; e (b) o princípio da solidariedade.
+2. A leitura dos §§ 3º e 12 do art. 40, c/c o § 11 do art. 201 da CF, deixa claro que
+somente devem figurar como base de cálculo da contribuição previdenciária as
+remunerações/ganhos habituais que tenham “repercussão em benefícios”. Como
+consequência, ficam excluídas as verbas que não se incorporam à aposentadoria.
+3. Ademais, a dimensão contributiva do sistema é incompatível com a
+cobrança de contribuição previdenciária sem que se confira ao segurado
+qualquer benefício, efetivo ou potencial.
+4. Por fim, não é possível invocar o princípio da solidariedade para inovar
+no tocante à regra que estabelece a base econômica do tributo.
+5. À luz das premissas estabelecidas, é fixada em repercussão geral a seguinte
+tese: “Não incide contribuição previdenciária sobre verba não incorporável aos
+proventos de aposentadoria do servidor público, tais como ‘terço de férias’,
+‘serviços extraordinários’, ‘adicional noturno’ e ‘adicional de insalubridade.”
+6. Provimento parcial do recurso extraordinário, para determinar a restituição das
+parcelas não prescritas.
+(RE 593068, Rel. Min. Roberto Barroso, Tribunal Pleno, j. 11/10/2018, DJe-056
+d. 21/03/2019 p. 22/03/2019) (grifou-se)
+
+Vale dizer, a não incidência foi reconhecida pela necessidade do
+dever de harmonizar a dimensão solidária e contributiva do sistema previdenciário,
+pois a natureza contributiva não permite a cobrança de contribuição previdenciária
+sem que ocorra ao segurado qualquer contraprestação efetiva ou potencial, segundo
+o relator (folha 12 do voto do Min. Barroso):
+
+[...] Assim, o caráter solidário do sistema afasta a existência de uma simetria
+perfeita entre contribuição e benefício (como em um sinalagma), enquanto a
+
+17 de 31
+
+[[pagina 18 | nativo]]
+
+natureza contributiva impede a cobrança de contribuição previdenciária sem
+que se confira ao segurado qualquer contraprestação, efetiva ou potencial
+(grifou-se)
+
+E não poderia ser diferente a interpretação jurisprudencial sobre a
+matéria, até mesmo porque a doutrina é uníssona em diferenciar as contribuições
+sociais por serem “tributos qualificados pela finalidade que devem alcançar”16. Ora,
+a contribuição para a seguridade social é tributo de finalidade vinculada ao futuro
+benefício, portanto justificada na medida exata do que retribuirá no futuro, conforme
+se extrai da lição de Hugo de Brito Machado:
+
+Diante da vigente Constituição, portanto, pode-se conceituar a contribuição social
+como espécie de tributo com finalidade constitucionalmente definida, a saber,
+intervenção no domínio econômico, interesse de categorias profissionais ou
+econômicas e seguridade social.17
+
+Também é assim a lição de Ives Gandra Martins:
+
+Há a destacar-se no dispositivo o fato de que a pretérita discussão, sobre se a
+contribuição teria natureza dicotômica (taxa-imposto) ou não, fica no atual texto
+constitucional definitivamente solucionada. No texto pretérito a discussão ainda
+poderia ser colocada, em nível acadêmico, mas no atual, o problema inexiste. E
+na decisão do RE 146.733-9 o STF considerou que as contribuições sociais são
+tributos e que o sistema comporta uma divisão quinquipartida das espécies.
+Podem ter a mesma base de cálculo do imposto, mas sua vinculação a uma
+finalidade e referibilidade ao que o suporta a um fato social a que está vinculado
+é que os distingue dos impostos.
+As contribuições sociais, portanto, têm natureza tributária e não se encontram
+mais na parafiscalidade, isto é, à margem do sistema, mas a ele agregadas.18
+
+Com efeito, a contribuição social é espécie tributária e vinculada a
+um fim específico, ou seja, a uma contraprestação específica do Estado, que não pode
+redirecionar a receita arrecadada a esse título para outros fins. Tanto que o inciso XI
+do artigo 167 da Constituição da República diz19:
+
+16 CARRAZA, Roque Antonio, Curso de Direito Constitucional Tributário, São Paulo, RT, 1991, p. 273.
+17 MACHADO, Hugo de Brito. Curso de Direito Tributário, 24.ed., São Paulo, Malheiros, 2004, p. 389.
+18 MARTINS, Ives Gandra. Os Empréstimos Compulsórios e as Contribuições Especiais: Curso de Direito
+Tributário. 5. ed. Belém: Cejup, 1997. 2. v. p. 105-106.
+19 A alteração recente fixou assim para o Regime Próprio de Previdência Social: Art. 167. [...] XII –
+na forma estabelecida na lei complementar de que trata o § 22 do art. 40, a utilização de recursos
+de regime próprio de previdência social, incluídos os valores integrantes dos fundos previstos no
+art. 249, para a realização de despesas distintas do pagamento dos benefícios previdenciários do
+18 de 31
+
+[[pagina 19 | nativo]]
+
+Art. 167. São vedados: [...]
+XI - a utilização dos recursos provenientes das contribuições sociais de que trata
+o art. 195, I, a, e II, para a realização de despesas distintas do pagamento de
+benefícios do regime geral de previdência social de que trata o art. 201.
+
+Se, para haver acréscimo no benefício a ser percebido, deve ser
+proporcionada a respectiva fonte de custeio (§ 5º do artigo 195 da Constituição)20, do
+mesmo modo, à ampliação da fonte de custeio deve corresponder a ampliação do
+benefício.
+
+Esse entendimento integra a interpretação que compôs a maioria da
+Corte Constitucional no julgamento do RE nº 593.068 (folha 6 do voto do Ministro
+Fux):
+
+[...] É certo que o advento da EC nº 41/03 reforçou o caráter solidário do regime
+próprio. Entretanto, o fortalecimento de algumas regras de capitalização coletiva
+não pode fazer com que se perca em absoluto a intenção do constituinte de
+fazer incidir a contribuição apenas sobre parcelas cujo proveito ao
+beneficiário seja possível em alguma medida.
+Se o Estado busca um fortalecimento atuarial, pode agravar a alíquota incidente
+sobre os participantes ou até aumentar a sua participação no custeio. O que não
+se pode permitir é tributação sobre base não imponível aos auspícios do
+postulado da solidariedade. Não se pode perder de vista que a referibilidade
+entre remuneração e contribuição é confirmada pela interpretação
+sistemática dos parágrafos 2º e 3º do art. 40, c/c o parágrafo, do art. 201,
+todos da CRFB/88, já transcritos. [...]
+Não foi por outra razão que a jurisprudência se estruturou na natureza da verba e
+não na existência de previsão legal para a sua exclusão, com o fim de fixar a não-
+incidência das contribuições, o que afasta a tese da taxatividade das exclusões.
+À guisa de conclusão, e seguindo a pena do professor Ricardo Lobo Torres,
+Tratado de Direito Constitucional Financeiro e Tributário, v. 4, Renovar, Rio de
+Janeiro, 2007, p. 557, o princípio estrutural da solidariedade, que veio a substituir
+a solidariedade de grupo, desloca o fundamento das contribuições sociais do
+princípio do custo-benefício, que lhe é adequado, para o da capacidade
+contributiva, que seria típico dos impostos, justificando as distorções sistêmicas
+do regime das contribuições sociais no sistema constitucional brasileiro.
+
+respectivo fundo vinculado àquele regime e das despesas necessárias à sua organização e ao seu
+funcionamento;
+20 Constituição da República de 1988: “Art. 195. A seguridade social será financiada por toda a sociedade, de
+forma direta e indireta, nos termos da lei, mediante recursos provenientes dos orçamentos da União, dos
+Estados, do Distrito Federal e dos Municípios, e das seguintes contribuições sociais: [...] § 5º Nenhum benefício
+ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a correspondente fonte de
+custeio total.”
+19 de 31
+
+[[pagina 20 | nativo]]
+
+Nesse diapasão, ainda que o princípio da solidariedade seja pedra angular do
+sistema previdenciário dos servidores, não se pode, por força de interpretação
+sistemática do texto constitucional, esvaziar completamente de conteúdo o
+princípio contributivo, informado pelo princípio do custo-benefício, sob pena de
+mutilar-se o segundo pilar do regime de previdência pública, que possui como
+requisito legitimador um sinalagma mínimo, ainda que isso não importe em
+perfeita correlação e simetria entre o que se paga e o que se recebe.
+
+Aplica-se, na espécie, o que preceituado pelo Supremo na ADI 790-
+4/DF:
+
+(...) à regra segundo a qual nenhum benefício da seguridade social poderá ser
+criado, majorado, ou estendido sem a correspondente fonte de custeio total,
+correspondente à relativa exigibilidade de causa eficiente para a majoração, sob
+pena de esta última discrepar do móvel que lhe é próprio, ligado ao equilíbrio
+atuarial entre contribuições e benefícios, implicando, ai sim, um adicional sobre
+a renda do trabalhador.
+(ADIN 790-4/DF, Relator Ministro Marco Aurélio, Tribunal Pleno, julgado em
+26/0211993, DJ 23/04/1993, p. 6918)
+
+A perspectiva foi adotada no paradigmático julgamento da medida
+cautelar na ADI 2010, cuja ementa do acordão registra o seguinte:
+
+O REGIME CONTRIBUTIVO É, POR ESSÊNCIA, DE CARÁTER
+EMINENTEMENTE RETRIBUTIVO. A QUESTÃO DO EQUILÍBRIO ATUARIAL
+(CF, ART. 195, S 5°). CONTRIBUIÇÃO DE SEGURIDADE SOCIAL SOBRE
+PENSÕES E PROVENTOS. AUSÊNCIA DE CAUSA SUFICIENTE. - Sem causa
+suficiente, não se justifica a instituição (ou a majoração) da contribuição de
+seguridade social, pois, no regime. de previdência de caráter contributivo, deve
+haver, necessariamente, correlação entre custo e benefício. A existência de estrita
+vinculação causal entre contribuição e benefício põe em evidência a correção da
+fórmula segundo a qual não pode haver contribuição sem benefício, nem
+benefício sem contribuição. Doutrina. Precedente do STF [...]
+(ADI 2010 MC, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado
+em 30/09/1999, DJ 12-04-2002 PP-00051 EMENT VOL-02064-01 PP-00086)
+
+Logo, a contribuição previdenciária sem a devida
+retribuição/contraprestação, apenas reduz o valor/direito de propriedade de membros
+do Poder Judiciário e do Ministério Público (inciso XXII do artigo 5º da Constituição
+da República), levando ao confisco proibido pelo inciso IV do artigo 150 da
+Constituição da República:
+
+Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado
+à União, aos Estados, ao Distrito Federal e aos Municípios: [...]
+
+20 de 31
+
+[[pagina 21 | nativo]]
+
+IV - utilizar tributo com efeito de confisco;
+
+Celso Ribeiro Bastos, correlacionando direito de propriedade e
+confisco, diz:
+
+[...] A propriedade tornou-se, portanto, o anteparo constitucional entre o domínio
+privado e o público. Nesse ponto reside a essência da proteção constitucional: é
+impedir que o Estado, por medida genérica ou abstrata, evite a apropriação
+particular dos bens econômicos ou, já tendo esta ocorrido, venha a sacrificá-la
+mediante um processo de confisco21.
+
+Não fosse suficiente cobrar a contribuição previdenciária sem que
+ocorra efetiva retribuição, apropriando-se de bem alheio que não pertence à
+tributação, em violação ao inciso IV do artigo 150 da Constituição da República, o
+confisco resta concretamente comprovado quando vislumbrada a “carga tributária
+global” (RE 448.432 AgR).
+
+É que, conforme adiantado, a fixação de até 19% de contribuição
+previdenciária para faixa expressiva dos subsídios dessas classes (caso não sejam
+instituídas as contribuições extraordinárias ou ampliadas as bases de cálculo), somada
+aos 27,5% de Imposto de Renda, demonstra que 46,5% dos seus rendimentos serão
+consumidos por tributação. Isso, adicionado à exação sobre o consumo, demonstra
+que a carga tributária global suportada por esses agentes devora mais da metade da
+remuneração.
+
+Não se trata de fixar a alíquota efetiva (média) de incidência, porque
+ao retratar as faixas remuneratórias destinatárias de contribuições progressivas (em
+patamares nunca praticados), a Constituição institui imunidade parcial ou por escala
+(assim como a lei ordinária institui isenção sob mesma metodologia); em outras
+palavras: cada faixa remuneratória, que atrai a incidência de alíquotas de 14%, 14,5%,
+16,5% e 19% representa uma unidade avaliativa do confisco. Na parte situada sob a
+incidência de 14% não é admitida a incidência de 19%, portanto a progressividade
+não é amenizada pelo conceito de alíquota média ou efetiva.
+
+Percebe-se que quase todo o subsídio de juízes e promotores de
+justiça está situado nas faixas de 41,5% a 46,5%, somando-se contribuição
+previdenciária e imposto sobre a renda (ao que se deve adicionar as tributações do
+consumo, da propriedade e demais exações fiscais patrimoniais). Mais da metade do
+
+21 BASTOS, Celso Ribeiro. Curso de Direito econômico. São Paulo: Celso Bastos, 2004, p. 134/136.
+21 de 31
+
+[[pagina 22 | nativo]]
+
+que recebem esses agentes políticos, a título de verba alimentar, é retirada pelo Fisco.
+
+A ausência de benefícios, comparada à abusiva carga tributária, não
+se encerra apenas na questão previdenciária, pois, segundo a seguinte pesquisa de
+2019, que estuda o retorno social dos impostos cobrados dos 30 países de maior carga
+tributária em relação ao PIB (conforme dados da OCDE) e ao IDH (conforme dados
+do PNUD), o Brasil figura em último nesse quesito22:
+
+Para atingir o objetivo deste estudo, foi criado um índice para demonstrar o nível
+de retorno à população dos valores arrecadados com tributos, em cada país.
+O IRBES – Índice de Retorno De Bem-Estar à Sociedade, é resultado da
+somatória da carga tributária, ponderada percentualmente pela importância deste
+parâmetro, com o IDH, ponderado da mesma forma.
+A seguir, expomos a tabela com o resultado final (RANKING) encontrado por
+meio deste estudo:
+
+22 Disponível em <https://ibpt.com.br/noticia/2790/Estudo-sobre-carga-tributaria-PIB-x-IDH-CALCULO-DO-
+IRBES>
+22 de 31
+
+[[pagina 23 | nativo]]
+
+[...] No ano de 2019 completa-se a 9ª edição consecutiva deste estudo, em que o
+IBPT apresenta o IRBES, quase um estudo a cada ano, utilizando-se para efeitos
+comparativos um ranking dos 30 países de maior carga tributária.
+Desde a primeira edição do estudo, o Brasil tem se mantido em 30º lugar, o
+que demonstra que os tributos continuam sendo mal aplicados no país.
+Apesar de termos uma carga tributária alta, digna de países desenvolvidos, como
+Reino Unido e Alemanha, o IDH nacional reflete um desenvolvimento humano
+muito precário. [...]
+Certamente, se existisse uma melhor aplicação das receitas públicas oriundas dos
+tributos, isso se refletiria em um bem-estar social muito mais elevado.
+
+É inadmissível que direitos consolidados sejam lentamente retirados
+por um Estado que diz ter por fundamentos a dignidade da pessoa humana e os valores
+sociais do trabalho e da livre iniciativa, assim como diz ter por objetivos construir
+
+23 de 31
+
+[[pagina 24 | nativo]]
+
+uma sociedade livre, justa e solidária, além de garantir o desenvolvimento nacional e
+erradicar a pobreza, a marginalização e as desigualdades sociais e regionais (artigos
+1º, incisos III, IV 3º, incisos I, II e III da Constituição).
+
+Daí que, por não haver benefício previdenciário, tampouco qualquer
+outro retorno social, é preocupante a possibilidade de se aumentar
+“extraordinariamente” os valores da contribuição a pretexto de equacionar as contas,
+pois isso viola a garantia constitucional implícita da previsibilidade tributária,
+corolário da segurança jurídica e da proteção da confiança. Além disso, para a
+aferição das alíquotas previdenciárias em um regime contributivo, o princípio da
+graduação pela capacidade (próprio dos impostos) não é razão para aumento,
+especialmente quando o somatório dos valores descontados é mais que suficiente para
+o sustento da sobrevida do aposentado.
+
+Segundo o Supremo Tribunal Federal, é de ser rechaçado o abuso do
+direito de legislar quando notado o excessivo prejuízo ao contribuinte:
+
+[...] Não posso desconhecer – especialmente neste momento em que se amplia o
+espaço do dissenso e se intensificam, em função de uma norma tão claramente
+hostil a valores constitucionais básicos, as relações de antagonismo entre o Fisco
+e os indivíduos – que os princípios constitucionais tributários, sobre
+representarem importante conquista política-jurídica dos contribuintes,
+constituem expressão fundamental dos direitos outorgados, pelo ordenamento
+positivo, aos sujeitos passivos das obrigações fiscais. Desde que existem para
+impor limitações ao poder de tributar, esses postulados têm por destinatário
+exclusivo o poder estatal, que se submete, quaisquer que sejam os contribuintes,
+à imperatividade de suas restrições. A reconhecer-se como legítimo o
+procedimento da União Federal de ampliar, a cada vez, pelo exercício
+concreto do poder de reforma da Carta Política, as hipóteses derrogatórias
+dessa fundamental garantia tributária, chegar-se-á, em algum momento, ao
+ponto de nulificá-la inteiramente, suprimindo, por completo, essa
+importante conquista jurídica que integra, como um dos seus elementos mais
+relevantes, o próprio estatuto constitucional dos contribuintes. (Voto do Min.
+Celso de Melo na ADI 939, Rel. Min. Sydney Sanches, Tribunal Pleno, j.
+15/12/1993, DJ 18/03/1994)
+
+É nesse contexto que a doutrina trata da previsibilidade como uma
+das limitações ao poder de tributar:
+
+No Direito Tributário, a proteção da confiança legítima é uma implícita limitação
+constitucional ao poder de tributar. A Administração Tributária é parte
+diferenciada da relação obrigacional, tendo em vista que tem a prerrogativa de
+
+24 de 31
+
+[[pagina 25 | nativo]]
+
+constituir o crédito que vai exigir, administrativa ou judicialmente. Tal
+prerrogativa deixa a parte credora numa posição de vantagem em relação à
+devedora. Para equilibrar a relação que, apesar de ser uma relação obrigacional
+ex lege, não deixa de ser um vínculo obrigacional, a Constituição já delimita e
+direciona a atuação da Administração Tributária, através dos princípios expressos
+como limitações constitucionais ao poder de tributar.
+A confiança seria mais uma dessas limitações constitucionais, cuja proteção se
+torna imperiosa quando a legalidade, a irretroatividade e a anterioridade não são
+suficientes para garantir a previsibilidade para o contribuinte.23
+
+Portanto, considerando a falta de razoabilidade imediata (14% a 19%
+de contribuição) e potencial (possibilidade de aumento extraordinário desse
+percentual) dessa majoração, o Supremo Tribunal Federal deve seguir a sua
+consolidada jurisprudência contra o confisco:
+
+É cabível, em sede de controle normativo abstrato, a possibilidade de o STF
+examinar se determinado tributo ofende, ou não, o princípio constitucional
+da não confiscatoriedade consagrado no art. 150, IV, da CF. Hipótese que
+versa o exame de diploma legislativo (Lei 8.846/1994, art. 3º e seu parágrafo
+único) que instituiu multa fiscal de 300%. A proibição constitucional do confisco
+em matéria tributária – ainda que se trate de multa fiscal resultante do
+inadimplemento, pelo contribuinte, de suas obrigações tributárias – nada mais
+representa senão a interdição, pela Carta Política, de qualquer pretensão
+governamental que possa conduzir, no campo da fiscalidade, à injusta
+apropriação estatal, no todo ou em parte, do patrimônio ou dos rendimentos dos
+contribuintes, comprometendo-lhes, pela insuportabilidade da carga tributária, o
+exercício do direito a uma existência digna, ou a prática de atividade profissional
+lícita ou, ainda, a regular satisfação de suas necessidades vitais básicas. O poder
+público, especialmente em sede de tributação (mesmo tratando-se da definição
+do quantum pertinente ao valor das multas fiscais), não pode agir
+imoderadamente, pois a atividade governamental acha-se essencialmente
+condicionada pelo princípio da razoabilidade que se qualifica como
+verdadeiro parâmetro de aferição da constitucionalidade material dos atos
+estatais.
+(ADI 1.075 MC, rel. min. Celso de Mello, j. 17/06/1998, DJ de 24/11/2006)
+
+Nessa situação, caso não seja acatada a evidente
+inconstitucionalidade total da norma, ao menos devem ser afastadas: (i) a
+progressividade das alíquotas de contribuição previdenciária instituída pelo § 1º do
+artigo 149 da Constituição e incisos III, IV, V, VI, VII e VIII do § 1º do artigo 11 da
+Emenda Constitucional nº 103, de 2019; (ii) a possibilidade de instituição de tributo
+
+23 Fonseca, T. S. (2011). A Afirmação da Previsibilidade no Direito Tributário. Dissertação. Mestrado em Direito
+Público. UFMG. P. 71
+25 de 31
+
+[[pagina 26 | nativo]]
+
+extraordinário ou ampliação a base contributiva das aposentadorias e pensões tratadas
+nos §§ 1º-A, 1º-B e 1º-C do artigo 149 da Constituição.
+
+3.3. Violação ao artigo 40 da Constituição: ausência de estudo atuarial
+
+As violações demonstradas nos tópicos anteriores evidenciam que
+não há causa eficiente para o aumento das alíquotas previdenciárias do Regime
+Próprio, seja real ou demonstrada. A caraterização contributiva do benefício, se
+exaurida em adequado cálculo atuarial, afasta a suposta necessidade de mudança para
+magistrados e membros do Ministério Público, dado o montante acumulado ao longo
+da sua vida previdenciária.
+
+Os artigos 40 e 201 da Constituição exigem que o RPPS e o RGPS
+observem critérios que preservem seu equilíbrio financeiro e atuarial. Sob essa
+premissa, qualquer alteração constitucional na definição de alíquotas, assim como na
+instituição da progressividade, exige a demonstração de razão suficiente e ordenada
+a uma finalidade (exclusivamente, custeio dos benefícios).
+
+Ao RPPS, a exigência atuarial foi repetida pelo artigo 1º da Lei
+9.717, de 1998. A justificativa da PEC 6, de 2019, que deu origem à Emenda
+Constitucional nº 103, de 2019, não apresenta o estudo necessário, limitando-se a
+preconceitos e dados genéricos. Para tal estudo, exige-se “avaliação atuarial inicial e
+em cada balanço utilizando-se parâmetros gerais, para a organização e revisão do
+plano de custeio e benefícios”24.
+
+Não se trata de mera orientação para a gestão administrativa. O
+estudo atuarial é requisito formal para a regularidade material das condições
+previdenciárias em qualquer regime, em especial quando objeto de alteração
+constitucional.
+
+Isso não ocorre ao acaso, pois há uma relação de vinculação que
+permeia os institutos do regime. O sistema é correlacionado em todas as partes e nada
+pode ser usado para finalidade diversa, daí a afirmação do Ministro Marco Aurélio
+ao tratar da tentativa de aumento de custeio previdenciário sem correspondente
+
+24 Lei 9.717, de 1998: “Art. 1º Os regimes próprios de previdência social dos servidores públicos da União, dos
+Estados, do Distrito Federal e dos Municípios, dos militares dos Estados e do Distrito Federal deverão ser
+organizados, baseados em normas gerais de contabilidade e atuária, de modo a garantir o seu equilíbrio
+financeiro e atuarial, observados os seguintes critérios: I - realização de avaliação atuarial inicial e em cada
+balanço utilizando-se parâmetros gerais, para a organização e revisão do plano de custeio e benefícios;”
+26 de 31
+
+[[pagina 27 | nativo]]
+
+acréscimo de benefício25.
+
+Ao não instruir a PEC 6/2019 – vício que contamina a emenda
+aprovada desde a origem - com o suporte atuarial próprio, que apontasse para a
+necessidade de redução de benefícios com aumento de alíquotas, pautado em análises
+de longo prazo com receita e despesa historicamente consolidadas e hermeticamente
+inseridas no cálculo atuarial, o Poder Executivo apresentou proposta
+constitucionalmente inválida, com o que se manteve conivente o Poder Legislativo.
+
+Diante disso e considerando que a justificativa da PEC 6/2019, que
+deu origem à emenda constitucional impugnada, explicitou a motivação do envio da
+proposta em bases inconstitucionais, entre elas a de pretenso “combate ao privilégio”
+e mais tributação como solução para a “desigualdade social”, é evidente que o critério
+de equilíbrio atuarial não foi apresentado.
+
+A garantia desse equilíbrio se concretiza mediante a realização de
+estudos atuariais, que projetam, mediante a eleição de hipóteses biométricas,
+financeiras e econômicas, as receitas que serão arrecadadas a longo prazo e os
+correspondentes compromissos financeiros do regime, conforme reza o artigo 5º da
+Portaria MPS nº 464/201826 (documento anexado), tudo a ser ratificado em parecer
+atuarial.
+
+É com base nesse estudo atuarial, dada a fixação, por lei, da base de
+cálculo para o desconto das contribuições, que são estipuladas as alíquotas dos
+trabalhadores e dos empregadores, entre outros requisitos e critérios previdenciários.
+
+Apenas como exemplo, note-se que a manifestação elaborada por
+consultores atuariais no documento anexado (Manifestação Atuarial
+MA/SITRAEMG/0216), a respeito dos elementos que compuseram o envio da
+Proposta de Emenda Constitucional nº 287, de 2016, à Câmara dos Deputados,
+constata o mesmo tipo de ausência de análise atuarial específica que se percebe na
+justificativa da PEC 6/2019.
+
+A referida manifestação, após análise de dados presentes na proposta
+ou disponibilizados em documentos oficiais do Poder Executivo, atesta que:
+
+25 STF. ADIN 790-4/DF. Pleno. Relator: Ministro Marco Aurélio. 26 de fevereiro de 1993. DJ 23.04.1993. p.
+6918.
+26 Confira art. 5º da Portaria MPS nº 464/2018
+27 de 31
+
+[[pagina 28 | nativo]]
+
+1) não restou comprovado o equilíbrio financeiro e atuarial da PEC 287/2016,
+exigido constitucionalmente; 2) a realização dos estudos atuariais é competência
+privativa dos atuários; 3) sem publicação dos resultados quantitativos, a reforma
+da previdência mostra apenas um governo com uma opinião.
+
+Assim, considerando-se que a Previdência do país se constitui
+patrimônio público intangível, considerando-se que nenhum benefício previdenciário
+poderá ser criado, majorado ou estendido sem a correspondente fonte de custeio
+total27, é de se concluir que nenhum benefício previdenciário poderá ter as suas regras
+de elegibilidade e forma de cálculo agravadas em desfavor dos segurados do RPPS
+sem base adequadamente certificada de desequilíbrio atuarial e, ao mesmo tempo,
+fundamentação razoável para a proposição de gravames, como o aumento progressivo
+de alíquotas para membros do Poder Judiciário e do Ministério Público.
+
+Não ocorrendo a adequada demonstração atuarial na justificativa da
+emenda, houve violação aos artigos 40 e 201 da Constituição Federal de 1988.
+
+4. MEDIDA CAUTELAR
+
+A garantia de tutela jurisdicional tempestiva, nos termos do artigo
+5º, LXXVIII, da Constituição da República, assegura a todos, no âmbito judicial ou
+administrativo, a razoável duração do processo e os meios que garantam a celeridade
+de sua tramitação. Só assim distribui-se o inevitável ônus do tempo do processo.
+
+Entre os meios que garantem a celeridade da tramitação processual
+está a concessão de medida cautelar para suspender a ilegítima eficácia dos
+dispositivos inconstitucionais, nos termos do artigo 10 da Lei 9.868, de 1999.
+
+É o caso, pelos fundamentos postos até aqui, pois a relevância da
+matéria e seu especial significado para a ordem social e a segurança jurídica reside
+nos argumentos de mérito que demonstram violação constitucional inadmissível às
+prerrogativas das classes afetadas e às limitações ao poder de tributar, notadamente a
+vedação ao confisco, sem qualquer base atuarial.
+
+Se não fosse suficiente, o perigo na demora é evidenciado pela
+iminência do início dos efeitos da norma em novembro de 2019.
+
+A partir disso, a falta de deferimento de medida cautelar resultará na
+
+27Art. 195, § 5º, da Constituição Federal de 1988.
+28 de 31
+
+[[pagina 29 | nativo]]
+
+insegurança jurídica e na dificuldade posterior de restituição dos excedentes
+contributivos; sob outro viés, a concessão liminar não a torna irreversível.
+
+Ainda, tendo em vista o que dispõe o Ofício nº 1/SEJ/2017
+(documento anexado) - expedido pelo Supremo Tribunal Federal - que determina "a
+suspensão nacional do processamento dos feitos que versem sobre o Tema 933 do
+STF: “Balizas constitucionais para a majoração de alíquota de contribuição
+previdenciária de regime próprio de previdência social”, a análise e o deferimento da
+liminar são medidas que se impõem, nos termos do artigo 314 do Código de Processo
+Civil, o qual dispõem que “durante a suspensão é vedado praticar qualquer ato
+processual, podendo o juiz, todavia, determinar a realização de atos urgentes a fim
+de evitar dano irreparável, salvo no caso de arguição de impedimento e de
+suspeição”.
+
+Logo, revela-se urgente e juridicamente possível o deferimento de
+medida cautelar.
+
+5. PEDIDOS
+
+Ante o exposto, pedem:
+
+(a) o deferimento de medida cautelar para: (a.1) suspender os
+efeitos dos §§ 1º, 1º-A, 1º-B e 1º-C do artigo 149 da Constituição da República na
+redação dada pelo artigo 1º da Emenda Constitucional nº 103, de 2019, §§ 4º e 5º do
+artigo 9º e caput, §§ 1º, 2º, 3º e 4º do artigo 11, todos da mesma norma; ou (a.2)
+sucessivamente, suspender a progressividade das alíquotas de contribuição
+previdenciária instituída pelo § 1º do artigo 149 da Constituição e incisos III, IV, V,
+VI, VII e VIII do § 1º do artigo 11 da Emenda Constitucional nº 103, de 2019, bem
+como suspender a possibilidade de instituição de tributo extraordinário ou ampliação
+a base contributiva das aposentadorias e pensões tratadas nos §§ 1º-A, 1º-B e 1º-C do
+artigo 149 da Constituição;
+
+(b) a expedição de notificações às Mesas Diretoras da Câmara dos
+Deputados e do Senado Federal, bem como à Presidência da República, para que
+prestem informações, conforme artigo 6º da Lei 9.868, de 1999;
+
+(c) após, a notificação do Advogado-Geral da União e do
+Procurador-Geral da República para que se manifestem, conforme artigo 8º da Lei
+9.868, de 1999;
+
+29 de 31
+
+[[pagina 30 | nativo]]
+
+(d) no mérito, pelas violações à Constituição da República de 1988
+(artigo 60, § 4º, incisos III e VI, combinado com o inciso III do artigo 95, a letra “c”
+do inciso I do § 5º do artigo 128, o artigo 2º e § 1º do artigo 127, o inciso V do artigo
+93, o inciso IV do artigo 150, o § 5º do artigo 195, o inciso XII do artigo 5º, o inciso
+II do artigo 150, os artigos 6º e 194, o artigo 40 e § 11 do artigo 201, o inciso XI do
+artigo 167), pedem a procedência dos pedidos para confirmar a cautelar deferida e
+declarar a inconstitucionalidade: (d.1) dos §§ 1º, 1º-A, 1º-B e 1º-C do artigo 149 da
+Constituição da República, na redação dada pelo artigo 1º da Emenda Constitucional
+nº 103, de 2019, dos §§ 4º e 5º do artigo 9º e caput, §§ 1º, 2º, 3º e 4º do artigo 11,
+todos da Emenda Constitucional nº 103, de 2019; ou (d.2) sucessivamente, das
+alíquotas de contribuição previdenciária instituídas pelo § 1º do artigo 149 da
+Constituição e incisos III, IV, V, VI, VII e VIII do § 1º do artigo 11 da Emenda
+Constitucional nº 103, de 2019, bem como da possibilidade de instituição de tributo
+extraordinário e ampliação da base contributiva das aposentadorias e pensões tratadas
+nos §§ 1º-A, 1º-B e 1º-C do artigo 149 da Constituição, na redação dada pelo artigo
+1º da Emenda Constitucional nº 103, de 2019;
+
+(e) que as publicações das intimações sejam realizadas,
+exclusivamente, no nome dos advogados ALBERTO PAVIE RIBEIRO, OAB/DF
+nº 7.077, ARISTIDES JUNQUEIRA ALVARENGA, OAB/DF nº 12.500,
+ISABELA MARRAFON, OAB/DF nº 37.798 e RUDI MEIRA CASSEL, OAB/DF
+nº 22.256.
+
+Atribui-se à causa do valor de R$1.000,00 (mil reais).
+
+Brasília - DF, 13 de novembro de 2019.
+
+[assinado eletronicamente]
+Marcos Joel dos Santos
+OAB/DF 21.203
+
+Assinado de forma digital por MARCOS
+JOEL DOS SANTOS
+DN: c=BR, o=ICP-Brasil, ou=Autenticado MARCOS JOEL por AR Certisign OAB, ou=Assinatura Tipo
+A3, ou=0005420690, ou=ADVOGADO,
+cn=MARCOS JOEL DOS SANTOS, DOS SANTOS email=publica@servidor.adv.br
+Dados: 2019.11.13 10:33:00 -03'00'
+
+30 de 31
+
+[[pagina 31 | nativo]]
+
+RELAÇÃO DE ANEXOS
+
+Anexo Descrição
+1 a 10 Procurações, documentos constitutivos e declarações.
+11 Texto original da PEC nº 06/2019
+12 Publicação da EC nº 103, de 2019, no DOU de 13/11/2019
+13 Portaria MPS nº 464/2018.
+14 Manifestação Atuarial MA/SITRAEMG/0216.
+15 Ofício nº 1/SEJ/2017.
+
+31 de 31

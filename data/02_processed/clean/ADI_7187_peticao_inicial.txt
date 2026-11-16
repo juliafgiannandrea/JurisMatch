@@ -1,0 +1,1759 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO
+PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+Ação conexa à Ação Declaratória de Constitucionalidade n.° 81.
+Pedido de reconhecimento de prevenção ao Ministro Alexandre de Moraes.
+
+CONSELHO DE REITORES DAS UNIVERSIDADES BRASILEIRAS (CRUB), as
+sociação civil sem fins econômicos, fundada em 30 de abril de 1966, inscrita no CNPJ n.º
+33.622.929/0001-01, com sede na SEPN 516, Conjunto D, Lote 9, Edifício Universitas, Quar
+to Andar, Asa Norte, Brasília-DF, CEP: 70.770-524, e que congrega 130 Universidades, Cen
+tros Universitários e Faculdades em todos os perfis previstos no art. 19 da LDB1, sejam
+as IES2 públicas federais, estaduais e municipais, as IES privadas com fins econômicos e
+as IES comunitárias, todas elas distribuídas pelas cinco regiões do Brasil, em 23 Estados
+e no Distrito Federal, por sua Presidente Reitora Lia Maria Herzer Quintana e por seus ad
+vogados que esta subscrevem, vem à presença de Vossa Excelência, com base no art. 3º,
+§2º, do seu Estatuto Social, no art. 102, inciso I, alínea “a”, da CR3, no art. 1º e seguintes da
+Lei n.º 9.868, de 1999, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE COM PEDIDO DE
+CONCESSÃO DE MEDIDA CAUTELAR
+
+Contra o art. 3°, caput, todos os seus parágrafos e incisos da Lei n.° 12.871/2013,
+também amplamente conhecida como “Lei do Programa Mais Médicos”, e, por arrastamen
+to, as Portarias MEC n.° 328/2018, n.° 523/2018, n.° 343/2022 e n.° 371/2022, também co
+nhecidas como “Portarias da Moratória dos Cursos de Medicina”, tendo em vista a violação
+às garantias constitucionais de isonomia (art. 5°, caput), legalidade estrita (art. 5°, inciso
+II e art. 37, caput), direito de petição (art. 5°, inciso XXXIV, alínea “a”), autonomia univer
+sitária (art. 207), livre iniciativa (art. 1°, inciso IV e art. 170) e livre concorrência (art. 170,
+inciso IV).
+
+1 LDB: Lei de Diretrizes e Bases da Educação.
+2 IES: Instituições de Ensino Superior.
+3 Constituição da República (CR).
+
+
+[[pagina 2 | nativo]]
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+AUTOR:
+CONSELHO DE REITORES DAS UNIVERSIDADES BRASILEIRAS
+
+Sumário da Ação
+
+Parte 1: Legitimidade Ativa
+
+1.1. Introdução
+
+1.2. Altíssima Representatividade
+
+1.3. Pertinência Temática
+
+1.4. Normas e atos normativos objeto de declaração de inconstitucionalidade
+
+Parte 2: Preliminar
+
+2.1. Existência de Prevenção
+
+Parte 3: O Mérito da ADI
+
+3.1. Violações às garantias constitucionais da legalidade estrita (art. 5°, inciso
+II e art. 37, caput), da isonomia (art. 5°, caput) e do direito de petição (art. 5°, inciso XXXIV,
+alínea “a”); da autonomia universitária (art. 207); da livre iniciativa (art. 1°, inciso IV e art.
+170) e da livre concorrência (art. 170, inciso IV)
+
+3.2. Garantias Constitucionais de Petição, de Legalidade e de Isonomia
+
+3.3. Garantias Constitucionais de Livre Iniciativa e de Livre Concorrência
+
+3.4. Violação ao Núcleo Duro da Autonomia Universitária
+
+Parte 4: Os Pedidos
+
+4.1. Pedido Cautelar
+
+4.2. Pedidos de Mérito
+
+
+[[pagina 3 | nativo]]
+
+Parte 1: Legitimidade Ativa
+1.1. Introdução
+
+Há uma forte divergência no setor educacional sobre a constitucionalidade do
+art. 3°, seu caput, incisos e parágrafos da Lei n.° 12.871/2013, inclusive sobre as condutas
+administrativas tomadas pelo Ministério da Educação para dar cumprimento à essa norma
+com a edição dos “editais de chamamento público” e também da Portaria MEC n.° 328/2018.
+Sob o entendimento do Autor, a regra legal é inconstitucional, pois viola os princípios cons
+titucionais da legalidade estrita, da isonomia e do direito de petição; afronta também a auto
+nomia universitária constitucionalmente garantida; por fim, descumpre as garantias da livre
+iniciativa e da livre concorrência. Ademais, durante o período de vigência dessa lei existem
+indicativos de que a Administração Pública auxiliou diretamente na consolidação dos
+grandes grupos empresariais educacionais em operação no país em detrimento da de
+mais IES, na medida em que a interiorização dessas empresas contando já com a oferta do
+curso de graduação em medicina reduziu sensivelmente o risco empresarial delas, além
+de favorecer uma forte geração de caixa.
+
+Em conexão à presente ação, tramita também a Ação Declaratória de Cons
+titucionalidade n.° 81, ajuizada pela ANUP. É preciso dizer que aquela associação não
+representa o setor educacional nessa hipótese específica. Nesse caso, tal entidade não
+funcionou verdadeiramente como uma associação de caráter nacional e representativa de
+classe, mas, sim, como uma entidade associativa controlada pela KROTON e pela AFYA,
+e que submetem as demais IES às suas deliberações, pois esses dois grupos sozinhos de
+tiveram um total de 171 votos na assembleia geral extraordinária que autorizou o ingres
+so junto à Excelsa Suprema Corte, representando a ampla maioria em qualquer votação.
+Como análise, segundo a ata constante dos autos, dos 182 votos totais, apenas aqueles
+dois grupos empresariais controlavam 93,95%.
+
+O fator descrito acima é importante, pois, ao contrário, o CRUB é formado por
+todos os segmentos da educação superior, a incluir: a) as IES públicas federais; b) As IES
+públicas estaduais e municipais; c) As IES privadas; d) As IES comunitárias. O Autor adotou
+medidas estatutárias com vistas a evitar que os grandes grupos empresariais consoli
+dadores da educação superior o dominassem também, fazendo com que ele deixasse
+de ouvir e representar os demais espectros. Para tanto, as decisões são tomadas tendo
+em conta que cada segmento tem apenas um voto, não importa o número de IES que es
+tejam presentes (art. 10, §1°, do estatuto social) e, em caso de empate, o Presidente - que
+é um cargo rotativo - terá o voto de qualidade (art. 15, IV). Assim, os big players podem se
+associar ao CRUB, mas terão sua vontade sopesada com as dos demais integrantes.
+
+
+[[pagina 4 | nativo]]
+
+No que se refere ao dispositivo legal cuja inconstitucionalidade é cogitada,
+existem diversas fragilidades constantes diretamente no texto da norma. A primeira,
+a prerrogativa do Il. Ministro de Estado da Educação de escolher as cidades que podem
+ser pré-selecionadas, além de ter o poder de adotar critérios para autorização de fun
+cionamento de curso, com ampla liberdade para formalizar editais. Essa falta de clareza
+normativa deu origem a três concorrências para classificação de IES que relegaram a um
+segundo plano a qualidade acadêmica, tendo o Ministério da Educação adotado métricas
+financeiras de avaliação que claramente favorecem o modelo de empresas educacionais que
+se configuram como sociedades anônimas. O primeiro edital foi voltado à região mais rica
+e com mais médicos no Brasil, com preponderância de cidades no Sudeste e no Sul e
+com muitas cidades da região metropolitana de grandes capitais ou polos econômicos, o
+que é contrário aos objetivos de distribuição equitativa de médicos pelo país. O segundo,
+embora tenha finalmente focado nas regiões Norte, Nordeste e Centro-Oeste, foi ampla
+mente vencido pelos grandes grupos empresariais educacionais. O terceiro edital foi
+meramente residual e restrito a poucas cidades.
+
+A Administração Pública também ignorou a proposição contida no §3°, do art.
+3°, da Lei n.° 12.871/2013, sobre a atenção às normas contidas na lei de licitação e incluiu,
+como fator de qualificação, regras econômicas que medem a capacidade de geração de
+lucros pelas IES, algo de difícil compatibilização com o modelo comunitário, por exemplo,
+e com empresas educacionais de médio e pequeno porte. Tal situação afronta a proibição
+contida na Súmula TCU4 n.° 289, que proíbe que a capacidade de geração de lucro seja
+um fator de qualificação econômica. A análise de patrimônio líquido foi simplesmente
+desprezada.
+
+O comportamento da Administração Pública, embora escandaloso, só foi pos
+sível dada as inconstitucionalidades contidas no dispositivo legal. Uma demonstração do
+que se afirma é a edição da Portaria MEC n.° 328/2018, que instituiu “a moratória dos cursos
+de medicina e suspendeu aumento de vagas”. Após o MEC ter outorgado cursos e vagas aos
+big players, proibiu os demais concorrentes de solicitar a autorização de tais cursos. Ainda,
+o Ministério da Educação concedeu a possibilidade a quem obteve autorização de curso
+no Programa Mais Médicos de obter aumento de vagas, até o limite de 100, impedindo os
+demais de gozar da mesma benesse.
+
+Ao contrário do que diz a ANUP em sua Ação Declaratória de Constituciona
+lidade, é evidente que a sua ação concentrada foi proposta para alijar as demais IES que
+concorrem com a Kroton e com a AFYA. Isso deve ser averiguado com atenção por essa
+Excelsa Corte Constitucional para que as prerrogativas de legitimados constitucionais não
+sejam utilizadas abusivamente com a finalidade de proteger os detentores de grande po
+der econômico.
+
+4 TCU: Tribunal de Contas da União.
+
+
+[[pagina 5 | nativo]]
+
+1.2. Altíssima Representatividade do CRUB
+
+O CRUB, Autor nessa ação, é uma entidade representativa constituída em 30
+de abril de 1966, já com cinquenta e seis anos de existência e é a única a unir todos os
+segmentos da educação superior do Brasil e a ter associadas em todas as regiões da
+nação, de modo que pode ser classificada como uma “entidade de classe nacional” como
+se verifica da lista5 abaixo transcrita em pdf:
+
+5 O nome completo das entidades está descrito na lista de associadas anexada aos autos.
+
+[[pagina 6 | nativo]]
+
+O seu estatuto social consigna sua data de constituição e ressalta sua finalida
+de de promover a autonomia universitária para o aperfeiçoamento da educação superior, na
+articulação entre as Universidades e Centros Universitários e demais IES por todo o país, além
+da representação judicial de todas as associadas, nos termos do art. 3º, §2º:
+
+
+[[pagina 7 | nativo]]
+
+Também é certo que é a única entidade associativa que congrega a alegada
+“altíssima representatividade”, baseando-se tal afirmação em dois fatores totalmente liga
+dos às exigências constitucionais contidas no art. 103, inciso IX, da Carta Magna, pois:
+
+1. Entre suas associadas estão as Universidades, os Centros Universitários e
+as Faculdades públicas federais, estaduais e municipais e também as insti
+tuições privadas, com ou sem finalidade econômica, inclusive as empresas
+de educação e as associações e fundações comunitárias;
+
+
+[[pagina 8 | nativo]]
+
+2. Suas associadas estão distribuídas por todas as regiões do Brasil, em 23 es
+tados brasileiros e no Distrito Federal, de modo que se trata efetivamente
+de uma associação representativa de cunho nacional, nos moldes exigidos
+pela Lei Orgânica dos Partidos Políticos (Lei n.º 9.096, art. 7º, §1º), superan
+do a presença em mais de um terço dos estados da federação.
+
+Notadamente, tomando como base a doutrina do Exmo. Sr. Ministro Gilmar
+Mendes6, pode-se confirmar que o Autor não foi formado circunstancialmente; mas, ao
+contrário, é uma entidade duradoura e intrinsecamente distinta das demais, na medida em
+que discute os temas afetos à educação superior e defende as entidades de ensino superior,
+superando-se os óbices estabelecidos no Acórdão referente à ADI-MC7 n.º 34-DF.
+
+Ademais, como deriva expressamente da Lei de Diretrizes e Bases da Educa
+ção, em seu art. 19, as entidades públicas, privadas e comunitárias constituem as três cate
+gorias administrativas complementares do sistema nacional de ensino:
+
+LEI Nº 9.394, DE 20 DE DEZEMBRO DE 1996
+Art. 19. As instituições de ensino dos diferentes níveis classificam-se nas seguin
+tes categorias administrativas: (Regulamento) (Regulamento)
+I - públicas, assim entendidas as criadas ou incorporadas, mantidas e administra
+das pelo Poder Público;
+II - privadas, assim entendidas as mantidas e administradas por pessoas físicas ou
+jurídicas de direito privado.
+III - comunitárias, na forma da lei. (Incluído pela Lei nº 13.868, de 2019)
+
+Há homogeneidade na composição de suas associadas (ADI n.º 79), pois todas
+elas são entidades educacionais de ensino superior, sejam Universidades, Centros Univer
+sitários ou Faculdades, de modo que a “classe entidade de ensino superior” está devidamen
+te representada. O Autor também cumpre o requisito delimitado no Acórdão que julgou
+a ADI n.º 386, na medida em que tem associadas em muito mais de nove unidades da
+federação, como bem ressalta o Exmo. Sr. Ministro Gilmar Mendes8:
+
+Quanto ao caráter nacional da entidade, enfatiza-se que não basta simples decla
+ração formal ou manifestação de intenção constante de seus atos constitutivos.
+Faz-se mister que, além da atuação transregional, tenha a entidade membros em
+pelo menos um terço das unidades da federação, ou seja, em 9 dessas unidades
+(Estados-membros e Distrito federal) - número que resulta na aplicação analógica
+da “Lei Orgânica dos Partidos Políticos” (Lei n. 9-096/95, art. 7º, §1º).
+6 MENDES, Gilmar. COELHO, Inocêncio Mártires. BRANCO, Paulo Gustavo Gonet. Curso de direito constitucional. -
+6. ed. rev. e atual. - São Paulo: Saraiva, 2011, p. 1.180 a 1.185.
+7 ADI-MC: Medida Cautelar em Ação Direta de Inconstitucionalidade.
+8 Op. cit. p. 1.182.
+
+[[pagina 9 | nativo]]
+
+Ademais, o reconhecimento do CRUB como um dos legitimados constitu
+cionais para propor controle concentrado de constitucionalidade em relação ao tema
+da educação já foi confirmado por esse Excelso Supremo Tribunal Federal no julgamen
+to da ADPF9 n.° 706:
+
+EMENTA ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL. DIREI
+TO CONSTITUCIONAL. DIREITO FUNDAMENTAL À EDUCAÇÃO. INSTITUIÇÕES DE
+ENSINO SUPERIOR PRIVADAS. PANDEMIA DA COVID-19. REVISÃO CONTRATUAL.
+MENSALIDADES. LEGITIMIDADE ATIVA AD CAUSAM. PERTINÊNCIA TEMÁTI
+CA. CONHECIMENTO DA ARGUIÇÃO. CONTROLE DE CONSTITUCIONALIDA
+DE DE DECISÕES JUDICIAIS. JULGAMENTO DEFINITIVO. LEI Nº 14.040/2020.
+DESENVOLVIMENTO DO ENSINO MEDIANTE ATIVIDADES NÃO PRESENCIAIS. IN
+CONSTITUCIONALIDADE DA CONCESSÃO DE DESCONTOS LINEARES POR VIOLA
+ÇÃO DA LIVRE INICIATIVA, DA ISONOMIA, DA AUTONOMIA UNIVERSITÁRIA E DA
+PROPORCIONALIDADE. VIOLAÇÃO DOS ARTIGOS 1º, IV, 170, 209, 5º, CAPUT, E 207
+DA CONSTITUIÇÃO FEDERAL. PROCEDÊNCIA.
+1. Legitimidade ativa ad causam do Conselho de Reitores das Universida
+des Brasileiras – CRUB (art. 103, IX, da Constituição da República), em in
+terpretação mais abrangente do conceito de “entidade de classe”, na linha
+da jurisprudência mais atual do Supremo Tribunal Federal. Reconhecimento
+da pertinência temática com o objeto da demanda. Entidade representativa, em
+âmbito nacional, dos interesses das universidades e instituições de ensino supe
+rior privadas.
+2. Ajuizamento da arguição de descumprimento de preceito fundamental em
+face do conjunto de decisões judiciais que concedem descontos lineares nas men
+salidades das instituições de ensino superior privado no contexto das medidas de
+isolamento social adotadas para enfrentamento da pandemia da COVID-19. Ca
+bimento. Apreciação de lesão a preceito fundamental provocada por interpreta
+ção judicial. Subsidiariedade atendida. Suficientemente relevante a controvérsia
+constitucional.
+3. Julgamento definitivo do mérito em razão: (i) da postulação formalizada; (ii) da
+completa coleta das informações jurídicas; e (iii) da apresentação dos argumen
+tos necessários para a solução do problema constitucional posto, com respeito
+aos direitos fundamentais processuais. Perfectibilização do contraditório efetivo
+e presença de elevado grau de instrução processual.
+4. O problema constitucional referente à controvérsia advinda de decisões ju
+diciais com entendimentos diversos quanto à possibilidade de, no contexto da
+pandemia da Covid-19, determinar judicialmente a redução das mensalidades,
+semestralidades ou anuidades a serem pagas às instituições de ensino superior
+em razão unicamente do fato de o ensino ter deixado de ser prestado de forma
+presencial. Impacto da pandemia do novo coronavírus na área educacional reco
+nhecido pela Lei n.º 14.040/2020. Flexibilização excepcional do cumprimento do
+mínimo de dias de atividade acadêmica. Inauguração de regramento para asse
+gurar o desenvolvimento do ensino mediante atividades não presenciais a fim de
+
+9 ADPF: Arguição de Descumprimento de Preceito Fundamental.
+
+[[pagina 10 | nativo]]
+
+permitir a integralização da carga horária exigida.
+5. Decisões que deferem descontos gerais e lineares, com disciplinas díspares e
+percentuais diversos. Presunção de prejuízo automático de uma das partes. A im
+posição de descontos lineares desconsidera as peculiaridades de cada contrato
+individualmente considerado e viola a livre iniciativa, por impedir a via da rene
+gociação entre as respectivas partes envolvidas. Precedente.
+6. Interpretações judiciais a evidenciarem situação apartada da isonomia. Em se
+tratando de decisões judiciais, ausentes causas constitucionais que validem tra
+tamento diferenciado – igualdade material –, as hipóteses análogas hão de ser
+igualmente tratadas.
+7. Cabe a cada universidade ou instituição de ensino superior gerir os específicos
+contratos educacionais e efetuar eventuais negociações para descontos na con
+traprestação financeira de acordo com a peculiaridade de cada curso e com a rea
+lidade econômica particular de cada discente, sem prejuízo da apreciação judicial
+da avença, também à luz das especificidades contratuais surgidas após a eclosão
+da pandemia e da necessidade de manutenção da prestação do ensino sob o no
+vel formato exigido. A concessão de descontos lineares gera relevante impacto na
+obtenção de recursos financeiros suficientes, em detrimento da autonomia uni
+versitária garantida na Lei Fundamental.
+8. Na compreensão desta Suprema Corte, o texto constitucional exige a explici
+tação, pelo órgão jurisdicional, das razões de seu convencimento. Enfrentadas
+todas as causas de pedir veiculadas pela parte capazes de, em tese, influenciar o
+resultado da demanda, fica dispensado o exame detalhado de cada argumento
+suscitado, considerada a compatibilidade entre o que alegado e o entendimento
+fixado pelo órgão julgador. Violação do dever de fundamentação (art. 93, IX, da
+Carta Magna) não configurada.
+9. Ausência de afronta ao ato jurídico perfeito e à segurança jurídica. A teoria da
+imprevisão mitiga legitimamente a força obrigatória dos contratos (pacta sunt
+servanda) em nome da preservação da avença de forma equilibrada.
+10. A fixação de reduções ou descontos lineares nas contraprestações devidas às
+instituições revela desproporcionalidade. Não há adequação da medida à tutela
+do direito do consumidor-estudante concebido de forma genérica e ampla, ful
+crada em um raciocínio de presunção. Inexiste adequação da solução adotada
+para tutelar também a saúde, a manutenção do ensino, o equilíbrio financeiro
+das instituições, a função social das empresas, dentre outros aspectos relevantes.
+Inobservância da necessidade: menos gravosa exsurge a possibilidade de nego
+ciação concreta em via conciliatória entre as partes – com resultado sujeito ao
+escrutínio judicial –, caso a caso, à luz das circunstâncias fáticas efetivamente de
+monstradas. De difícil verificação a proporção entre o meio (interferência judicial
+geral e abstrata nos contratos de ensino superior privado para reduzir a contra
+prestação devida por estudantes) e o fim (proteção econômica do consumidor
+-estudante em razão do desequilíbrio contratual acarretado pela pandemia). O
+sopesamento entre os custos e benefícios da interferência conduz à conclusão de
+que os custos suportados pelas instituições superam os benefícios que poderiam
+ser ofertados aos discentes que verdadeiramente necessitem renegociar a contra
+prestação prevista no contrato celebrado. A generalidade da medida culmina no
+desfrute da benesse também por quem de nenhum modo sofreu perda econômi
+
+[[pagina 11 | nativo]]
+
+ca efetiva em decorrência da pandemia da Covid-19.
+11. À luz da necessária observância dos preceitos fundamentais da livre iniciativa,
+da isonomia, da autonomia universitária e da proporcionalidade, é inconstitu
+cional decisão judicial que, sem considerar as circunstâncias fáticas efetivamente
+demonstradas, deixa de sopesar os reais efeitos da pandemia em ambas as partes
+contratuais, e determina a concessão de descontos lineares em mensalidades de
+cursos prestados por instituições de ensino superior.
+12. Arguição de descumprimento de preceito fundamental conhecida e pedido
+julgado procedente para afirmar a inconstitucionalidade das interpretações ju
+diciais que, unicamente fundamentadas na eclosão da pandemia da Covid-19 e
+no respectivo efeito de transposição de aulas presenciais para ambientes virtuais,
+determinam às instituições de ensino superior a concessão de descontos lineares
+nas contraprestações dos contratos educacionais, sem considerar as peculiarida
+des dos efeitos da crise pandêmica em ambas as partes contratuais envolvidas na
+lide.
+13. A presente decisão não produz efeitos automáticos em processos com decisão
+com trânsito em julgado. (Tribunal Pleno, Relatora Ministra Rosa Weber, Julga
+mento em 18/11/2021, Publicação em 29/03/2022)
+
+Por fim, o Autor autorizou o ajuizamento da presente ação perante essa Ex
+celsa Corte Constitucional seguindo estritamente as normas estatutárias correlatas, com
+base em votação de suas associadas, ocorrida em Assembleia Geral Extraordinária realiza
+da na forma prevista em seu estatuto social, devidamente registrada em cartório.
+
+1.3. Pertinência Temática
+
+Conforme entendimento desse Excelso STF (ADI n.º 202), é exigível que o ob
+jeto da ação direta de inconstitucionalidade guarde relação com os fins da entidade de
+classe que propõe a ação de controle concentrado.
+
+Na hipótese dos autos, a matéria é estritamente educacional e claramente vin
+culada ao ensino superior, atinente à regulação dos cursos médicos e da gestão de suas
+vagas tanto pelo Poder Público como também pelas IES interessadas. Na perspectiva do
+CRUB, o dispositivo legal concedeu poderes irrestritos ao Il. Ministro de Estado da Educa
+ção e os abusos cometidos favoreceram a consolidação de grandes grupos empresariais
+educacionais em prejuízo das demais instituições de educação superior interessadas em
+ofertar tais serviços educacionais.
+
+
+[[pagina 12 | nativo]]
+
+1.4. Normas e atos normativos objeto de declaração de inconstitucionalidade
+
+O objeto de controle de constitucionalidade é o art. 3° da Lei n.° 12.871/2013,
+em sua integralidade, como transcrito a seguir:
+
+CAPÍTULO II
+DA AUTORIZAÇÃO PARA O FUNCIONAMENTO DE CURSOS DE MEDICINA
+Art. 3º A autorização para o funcionamento de curso de graduação em Medicina,
+por instituição de educação superior privada, será precedida de chamamento pú
+blico, e caberá ao Ministro de Estado da Educação dispor sobre:
+I - pré-seleção dos Municípios para a autorização de funcionamento de cursos de
+Medicina, ouvido o Ministério da Saúde;
+II - procedimentos para a celebração do termo de adesão ao chamamento públi
+co pelos gestores locais do SUS;
+III - critérios para a autorização de funcionamento de instituição de educação su
+perior privada especializada em cursos na área de saúde;
+IV - critérios do edital de seleção de propostas para obtenção de autorização de
+funcionamento de curso de Medicina; e
+V - periodicidade e metodologia dos procedimentos avaliatórios necessários ao
+acompanhamento e monitoramento da execução da proposta vencedora do
+chamamento público.
+§ 1º Na pré-seleção dos Municípios de que trata o inciso I do caput deste artigo,
+deverão ser consideradas, no âmbito da região de saúde:
+I - a relevância e a necessidade social da oferta de curso de Medicina; e
+II - a existência, nas redes de atenção à saúde do SUS, de equipamentos públicos
+adequados e suficientes para a oferta do curso de Medicina, incluindo, no míni
+mo, os seguintes serviços, ações e programas:
+a) atenção básica;
+b) urgência e emergência;
+c) atenção psicossocial;
+d) atenção ambulatorial especializada e hospitalar; e
+e) vigilância em saúde.
+§ 2º Por meio do termo de adesão de que trata o inciso II do caput deste artigo, o
+gestor local do SUS compromete-se a oferecer à instituição de educação superior
+vencedora do chamamento público, mediante contrapartida a ser disciplinada
+por ato do Ministro de Estado da Educação, a estrutura de serviços, ações e pro
+gramas de saúde necessários para a implantação e para o funcionamento do cur
+so de graduação em Medicina.
+§ 3º O edital previsto no inciso IV do caput deste artigo observará, no que couber,
+a legislação sobre licitações e contratos administrativos e exigirá garantia de pro
+posta do participante e multa por inexecução total ou parcial do contrato, confor
+me previsto, respectivamente, no art. 56 e no inciso II do caput do art. 87 da Lei nº
+8.666, de 21 de junho de 1993.
+§ 4º O disposto neste artigo não se aplica aos pedidos de autorização para fun
+cionamento de curso de Medicina protocolados no Ministério da Educação até a
+data de publicação desta Lei.
+
+[[pagina 13 | nativo]]
+
+§ 5º O Ministério da Educação, sem prejuízo do atendimento aos requisitos pre
+vistos no inciso II do § 1º deste artigo, disporá sobre o processo de autorização de
+cursos de Medicina em unidades hospitalares que:
+I - possuam certificação como hospitais de ensino;
+II - possuam residência médica em no mínimo 10 (dez) especialidades; ou
+III - mantenham processo permanente de avaliação e certificação da qualidade
+de seus serviços.
+§ 6º O Ministério da Educação, conforme regulamentação própria, poderá aplicar
+o procedimento de chamamento público de que trata este artigo aos outros cur
+sos de graduação na área de saúde.
+§ 7º A autorização e a renovação de autorização para funcionamento de cursos
+de graduação em Medicina deverão considerar, sem prejuízo de outras exigências
+estabelecidas no Sistema Nacional de Avaliação da Educação Superior (Sinaes):
+I - os seguintes critérios de qualidade:
+a) exigência de infraestrutura adequada, incluindo bibliotecas, laboratórios, am
+bulatórios, salas de aula dotadas de recursos didático-pedagógicos e técnicos
+especializados, equipamentos especiais e de informática e outras instalações in
+dispensáveis à formação dos estudantes de Medicina;
+b) acesso a serviços de saúde, clínicas ou hospitais com as especialidades básicas
+indispensáveis à formação dos alunos;
+c) possuir metas para corpo docente em regime de tempo integral e para corpo
+docente com titulação acadêmica de mestrado ou doutorado;
+d) possuir corpo docente e técnico com capacidade para desenvolver pesquisa de
+boa qualidade, nas áreas curriculares em questão, aferida por publicações cien
+tíficas;
+II - a necessidade social do curso para a cidade e para a região em que se localiza,
+demonstrada por indicadores demográficos, sociais, econômicos e concernentes
+à oferta de serviços de saúde, incluindo dados relativos à:
+a) relação número de habitantes por número de profissionais no Município em
+que é ministrado o curso e nos Municípios de seu entorno;
+b) descrição da rede de cursos análogos de nível superior, públicos e privados, de
+serviços de saúde, ambulatoriais e hospitalares e de programas de residência em
+funcionamento na região;
+c) inserção do curso em programa de extensão que atenda a população carente
+da cidade e da região em que a instituição se localiza.
+
+Além disso, e por arrastamento, são inconstitucionais as Portarias MEC n.°
+328/2018, n.° 523/2018, n.° 343/2022 e n.° 371/2022, que instituíram a moratória dos cur
+sos de graduação em medicina e a suspensão de solicitações de aumento de vagas com
+base no dispositivo legal acima referido.
+
+
+[[pagina 14 | nativo]]
+
+Parte 2: Preliminar
+
+2.1. Existência de Prevenção
+
+É importante esclarecer que, anteriormente à presente ação e também previa
+mente à ADC n.° 81, tramitaram duas outras ações de controle concentrado de constitu
+cionalidade, notadamente as ADI n.° 5.035 e n.° 5.037 nessa Excelsa Suprema Corte. Ambas
+ações concentradas foram ajuizadas em relação aos dispositivos da Lei n.° 12.871/2013,
+inclusive a última teve por objeto o art. 3°. No entanto, a ação n.° 5.037 foi extinta, sem
+julgamento de mérito por falta de legitimidade ativa da parte autora, como se verifica
+da ementa do acórdão abaixo transcrita:
+
+Ementa: PROGRAMA MAIS MÉDICOS. LEI 12.871/2013. CONVERSÃO DA MEDIDA
+PROVISÓRIA 621/2013. ILEGITIMIDADE ATIVA AD CAUSAM. CONFEDERAÇÃO
+NACIONAL DOS TRABALHADORES LIBERAIS UNIVERSITÁRIOS REGULAMEN
+TADOS – CNTU. IRREGULARIDADE DO REGISTRO SINDICAL. PRECEDENTES.
+AUSÊNCIA DE PERTINÊNCIA TEMÁTICA.
+1. A Confederação Nacional dos Trabalhadores Liberais Universitários Regula
+mentados – CNTU teve invalidado, por decisão judicial, seu registro sindical, de
+modo a carecer de legitimidade ativa ad causam. Precedente: ADI 4.380 (Ministro
+CELSO DE MELLO).
+2. O amplo rol de legitimados universais do art. 103 da Constituição não se coa
+duna com o afastamento do necessário vínculo entre o objeto impugnado e as
+finalidades próprias e específicas da confederação sindical. Ausência de pertinên
+cia temática.
+3. Ilegitimidade ativa ad causam reconhecida. (Tribunal Pleno, Relator Minis
+tro Marco Aurélio, Relator para Acórdão Ministro Alexandre de Moraes, Julga
+mento em 30/11/2017, Publicação em 29/07/2020)
+
+Ambas ações tiveram como relator inicialmente o Excelentíssimo Senhor Mi
+nistro Marco Aurélio e, posteriormente, o Excelentíssimo Senhor Ministro Alexandre de
+Moraes. Inclusive, em relação a ADI n.° 5.035 foram analisados diversos dispositivos da lei,
+mas não o art. 3°, que não era objeto daquela ação.
+
+Tais dados indicam a existência de prevenção dessa matéria, de modo que se
+requer que seja analisada a hipótese de redistribuição tanto da presente Ação Direta de
+Inconstitucionalidade, como da ADC n.° 81 à Relatoria do Ministro Alexandre de Moraes.
+
+
+[[pagina 15 | nativo]]
+
+Parte 3: O Mérito da ADI
+3.1. Violações às garantias constitucionais da legalidade estrita (art. 5°, inciso II
+e art. 37, caput), da isonomia (art. 5°, caput) e do direito de petição (art. 5°, inciso
+XXXIV, alínea “a”); da autonomia universitária (art. 207); da livre iniciativa (art. 1°,
+inciso IV e art. 170) e da livre concorrência (art. 170, inciso IV)
+
+O art. 3°, caput, incisos e parágrafos da Lei n.° 12.871/2013 outorgou poderes
+quase irrestritos ao Il. Ministro de Estado da Educação e o que se observou do ano de
+2013 até o momento foi uma conduta abusiva do Ministério da Educação que implicou
+não só na escolha de criar regras que claramente favorecem os big players do setor de educa
+ção superior, como também enfraqueceu fortemente a política pública do Programa Mais
+Médicos, seja pela opção inicial de outorga desses cursos e vagas nas regiões e nas cidades
+ricas do país, como também porque os grandes grupos empresariais educacionais domi
+naram as autorizações concedidas.
+
+Por uma questão de metodologia, antes de adentrar na matéria de mérito, é
+necessário identificar precisamente todos os dispositivos constitucionais cuja validade e
+eficácia foram fortemente vulnerados não só a partir da lei acima referida, como também
+em razão da moratória dos cursos de graduação em medicina e a proibição de aumento
+de vagas estabelecida pelo art. 1° e parágrafo único da Portaria MEC n.° 328/2018. Trans
+creve-se, portanto, os dispositivos constitucionais cuja defesa é feita na presente ADI:
+Constituição da República Federativa do Brasil
+
+Art. 1º A República Federativa do Brasil, formada pela união indissolúvel dos Es
+tados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de
+Direito e tem como fundamentos:
+IV - os valores sociais do trabalho e da livre iniciativa; (Vide Lei nº 13.874, de
+2019)
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garan
+tindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade do
+direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos
+seguintes:
+II - ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão em vir
+tude de lei;
+XXXIV - são a todos assegurados, independentemente do pagamento de taxas:
+a) o direito de petição aos Poderes Públicos em defesa de direitos ou contra ilega
+lidade ou abuso de poder;
+Art. 37. A administração pública direta e indireta de qualquer dos Poderes da
+
+[[pagina 16 | nativo]]
+
+União, dos Estados, do Distrito Federal e dos Municípios obedecerá aos princípios
+de legalidade, impessoalidade, moralidade, publicidade e eficiência e, também,
+ao seguinte: (Redação dada pela Emenda Constitucional nº 19, de 1998)
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na
+livre iniciativa, tem por fim assegurar a todos existência digna, conforme os dita
+mes da justiça social, observados os seguintes princípios:
+IV - livre concorrência;
+Art. 207. As universidades gozam de autonomia didático-científica, administrati
+va e de gestão financeira e patrimonial, e obedecerão ao princípio de indissocia
+bilidade entre ensino, pesquisa e extensão.
+§ 1º É facultado às universidades admitir professores, técnicos e cientistas estran
+geiros, na forma da lei. (Incluído pela Emenda Constitucional nº 11, de 1996)
+§ 2º O disposto neste artigo aplica-se às instituições de pesquisa científica e tecno
+lógica. (Incluído pela Emenda Constitucional nº 11, de 1996)
+
+3.2. Garantias Constitucionais de Petição, de Legalidade e de Isonomia
+
+O direito de petição (right of petition) tem origem Carta Magna de 1215 da In
+glaterra. É o direito de se requerer a atenção do Poder Público à uma dada situação, seja na
+dimensão individual ou coletiva, a ser exercido por qualquer pessoa independentemente
+do pagamento de taxas. Tais conclusões também são orientadas a partir da doutrina do
+Excelentíssimo Senhor Ministro Gilmar Mendes10:
+
+No conceito de petição há de se compreender a reclamação dirigida à autorida
+de competente para que reveja ou eventualmente corrija determinada medida, a
+reclamação dirigida à autoridade superior com o objetivo idêntico, o expediente
+dirigido à autoridade sobre a conduta de um subordinado, como também qual
+quer pedido ou reclamação relativa ao exercício ou à atuação do Poder Pú
+blico.
+
+Essa Excelsa Corte Constitucional tem entendimento de que há situações ex
+tremas em que referida garantia constitucional pode ser limitada, como é o caso das pes
+soas submetidas ao regime prisional, conforme a Lei de Execução Penal. Contudo, em
+hipóteses comuns, tal direito não deve ser restringido, inclusive por se tratar de uma
+expressão política de participação democrática das mais fundamentais. No caso desse
+controle de constitucionalidade, o caput do art. 3° da Lei dos Mais Médicos criou um blo
+queio em relação a possibilidade das IES peticionarem ao Poder Público, transferindo
+
+10 LENZA, Pedro. Direito constitucional esquematizado. - 19. ed. rev, atual. e ampl. - São Paulo: Saraiva, 2015, p. 1.195 e
+1.196.
+
+
+[[pagina 17 | nativo]]
+
+essa prerrogativa ao Il. Ministro de Estado da Educação, que passou a decidir quando, onde
+e como as IES poderão ofertar os cursos de graduação em medicina.
+
+A situação é de tal modo draconiana que passou a competir ao Il. Ministro de
+Estado da Educação o poder de pré-selecionar municípios (art. 3°, inciso I). Como se ve
+rificará dos fatos a serem explicitados adiante, isso prejudicou principalmente as IES de
+médio e pequeno porte, há décadas já interiorizadas e que muitas vezes não puderam
+participar da concorrência para oferta de tais cursos por serem locais, estruturadas em
+campus único e sem recursos financeiros para investir em estruturas fora de sede. A
+própria lista dos municípios escolhidos pela Administração Pública mostra pouca preocu
+pação com a interiorização, de fato, dos médicos.
+
+O fluxo normal de processos de autorização de cursos superiores demonstra
+que é necessária a manifestação de vontade da IES interessada para que seja iniciado o
+correlato procedimento administrativo. Tal manifestação de vontade, até o surgimento
+do dispositivo legal cuja inconstitucionalidade é discutida, inibiu, de modo absoluto, essa
+prerrogativa:
+
+Além disso, a fixação dos critérios para seleção de propostas para os referidos
+cursos médicos a serem estabelecidos em edital (art. 3°, inciso IV) acabou por criar uma
+situação de quebra à garantia da legalidade estrita, na medida em que a amplitude de
+prerrogativas colocadas à disposição do Il. Ministro de Estado da Educação culminou na
+criação de métricas sem previsão legal ou base em lei ou até contrárias às previsões de
+
+
+[[pagina 18 | nativo]]
+
+outras leis correlacionadas. Conforme será exposto detalhadamente adiante, a qualifica
+ção econômico-financeira que excluiu boa parte das IES partiu de uma técnica proibida
+tanto pela Lei de Licitações, como também pela jurisprudência do Colendo Tribunal de
+Contas da União, como se verifica do art. 31, §5°, da Lei n.° 8.666/1993:
+
+Art. 31. A documentação relativa à qualificação econômico-financeira limitar-se
+-á a:
+§ 5° A comprovação de boa situação financeira da empresa será feita de
+forma objetiva, através do cálculo de índices contábeis previstos no edital e devi
+damente justificados no processo administrativo da licitação que tenha dado iní
+cio ao certame licitatório, vedada a exigência de índices e valores não usual
+mente adotados para correta avaliação de situação financeira suficiente ao
+cumprimento das obrigações decorrentes da licitação. (Redação dada pela
+Lei nº 8.883, de 1994)
+
+Mas a questio iuris é muito mais complexa, como irá ser levantado a seguir,
+pois tanto municípios não interiorizados foram indicados nos editais de chamamento
+público, como também critérios econômicos dúbios foram utilizados. Ora, nem sempre
+houve foco nos estados mais pobres (com menos médicos, naturalmente) ou nos mu
+nicípios mais interiorizados e também as próprias regras de análise econômica foram
+modificadas após o instrumento editalício já ser público e a disputa ter sido iniciada.
+Essa condições induzem à conclusão sobre a confrontação da garantia constitucional
+de isonomia, uma vez que tais regras editalícias estão alinhadas principalmente às IES
+que adotaram a forma de sociedade anônima, o que, mais uma vez, prejudicou as demais
+instituições de pequeno e médio porte, sejam elas empresas, associações ou fundações.
+
+A verdade é que os critérios contidos no §1°, do art. 3°, da Lei dos Mais Médicos
+não são de fácil aferição como, por exemplo a averiguação da relevância e da necessidade
+de oferta do curso de medicina. Mesmo o que está contido no inciso II, do §1°, do dispositi
+vo sob análise carece de objetividade, na medida em que o Ministério da Educação usou
+a lógica de compatibilização de uma vaga do curso de graduação em medicina para cada
+cinco leitos SUS, mas é perceptível que tal regra não foi vinculante para expansão de vagas
+para as IES vencedoras dos referidos editais. Assim, também, o princípio da legalidade
+estrita, segundo o qual a Administração Pública só pode fazer o que a lei autoriza foi
+ofendido. Essa vagueza conceituou ilimitou o agir do MEC.
+
+Feitas as considerações acima é possível explicitar detalhadamente os mo
+tivos que levam à conclusão sobre o descumprimento de todo esse plexo de garantias
+constitucionais e no modo pelo qual o art. 3°, em sua inteireza, contribuiu diretamente
+para confrontação dos dispositivos constitucionais. Para tanto, é preciso esclarecer que
+o primeiro edital de chamamento público, notadamente o “Edital MEC n.° 6/2014” permi
+tiu novos cursos de graduação em medicina nas seguintes circunstâncias:
+
+[[pagina 19 | nativo]]
+
+1. A Administração Pública escolheu os estados e cidades mais ricos do país,
+muito próximos da capital ou de grandes polos econômicos. Basta dizer
+que só foram incluídos dois estados do Nordeste, Pernambuco (1 cida
+de), Bahia (6 cidades), e um do Norte (Rondônia - 1 cidade);
+
+2. No mais, o edital centrou-se justamente nas regiões com maior concen
+tração de médicos do país, como Minas Gerais (4 cidades), Espírito Santo
+(1 cidade), Paraná (4 cidades), Rio de Janeiro (2 cidades), Santa Catarina (1
+cidade), Rio Grande do Sul (4 cidades) e São Paulo (14 cidades).
+
+A distância entre Jaboatão dos Guararapes e Recife é de 14,39km, tratando
+-se efetivamente de cidade metropolitana e não interiorizada. O mesmo se pode dizer de
+Alagoinhas, cidade localizada à aproximadamente 116km de Salvador (considerando-se
+a dimensão do estado da Bahia, a cidade escolhida está na região de abrangência da capi
+tal). Sobre os demais estados, os municípios escolhidos no Rio Grande do Sul integram a
+região metropolitana da grande Porto Alegre, visivelmente Novo Hamburgo (distância
+de 44km) e São Leopoldo (35km). Sem dizer de São Paulo, no qual foram destacados mu
+nicípios da região mais próxima da capital, como Guarulhos (21,8km), Cubatão (58km),
+Guarujá (88km), Osasco (22km), São Bernardo do Campo (20km) e São José dos Campos
+(86,7km). Abaixo segue o pdf que confirma as informações ora prestadas:
+
+
+[[pagina 20 | nativo]]
+
+
+[[pagina 21 | nativo]]
+
+Em relação ao edital seguinte, agora no ano de 2018 - “Edital MEC n.° 1/2018”,
+o Ministério da Educação finalmente incluiu as regiões mais pobres e interiorizadas, con
+tudo, a análise dos campeões demonstra a dominação do resultado pelos grandes grupos
+educacionais. Inicialmente será reproduzida listagem dos municípios:
+
+
+[[pagina 22 | nativo]]
+
+
+[[pagina 23 | nativo]]
+
+Todas as falhas e problemas decorrentes dos editais são, em sua essência, re
+produções dos problemas constitucionais contidos no dispositivo legal objeto dessa ação,
+daí a necessidade da declaração de inconstitucionalidade, ainda que mediante a técnica de
+interpretação conforme.
+
+
+[[pagina 24 | nativo]]
+
+3.3. Garantias Constitucionais de Livre Iniciativa e de Livre Concorrência
+
+As garantias constitucionais atinentes à livre iniciativa e à livre concorrên
+cia integram as normas fundantes da ordem econômica nacional. Como dito, o setor de
+educação superior é composto por IES de naturezas pública, privada e comunitária. Estas
+duas últimas retiram do mercado, via mensalidades, os recursos financeiros de que ne
+cessitam para se sustentar. No entanto, com a crise decorrente da COVID-19 e o avanço
+do ensino a distância, os cursos de graduação em medicina tornaram-se ainda mais re
+levantes não só para distribuição de médicos pelo país, mas também para sustentabili
+dade das instituições de ensino superior em geral.
+
+O que se quer dizer com isso é que o art. 3°, §§2° a 7°, criou condições de inter
+pretação tão ampla, como o compromisso do Sr. Gestor Local do SUS11 para contrapartida
+em estrutura de serviços, ações e programas necessários à oferta do curso médico, que vá
+rias IES, cujos campi foram criados a partir da vitória nos editais, vivenciam falta de campo
+de internato para seus alunos. Isso, principalmente, porque as IES historicamente inte
+riorizadas foram simplesmente atropeladas pelo Ministério da Educação. Seja a obriga
+ção de observar a Lei de Licitações ou os critérios de qualidade previstos em lei são regras
+legais sem efetividade e que, ao final, culminaram numa política de interiorização que se
+demonstrou muito falha e injusta, sendo um meio, antes de tudo, para interiorização dos
+big players educacionais. Acabou por criar, artificialmente, posições de dominância de
+mercado, como se fosse o MEC um órgão planificador e organizador da economia.
+
+Tal modo de agir viola as garantias constitucionais da livre iniciativa e da livre
+concorrência. A Lei n.° 13.874/2019, que regulamenta tais dispositivos constitucionais, res
+salta a proibição de abuso do poder regulatório:
+
+Art. 4º É dever da administração pública e das demais entidades que se vinculam
+a esta Lei, no exercício de regulamentação de norma pública pertencente à legis
+lação sobre a qual esta Lei versa, exceto se em estrito cumprimento a previsão
+explícita em lei, evitar o abuso do poder regulatório de maneira a, indevida
+mente:
+I - criar reserva de mercado ao favorecer, na regulação, grupo econômico,
+ou profissional, em prejuízo dos demais concorrentes;
+II - redigir enunciados que impeçam a entrada de novos competidores na
+cionais ou estrangeiros no mercado;
+III - exigir especificação técnica que não seja necessária para atingir o fim deseja
+do;
+IV - redigir enunciados que impeçam ou retardem a inovação e a adoção de no
+vastecnologias, processos ou modelos de negócios, ressalvadas as situações con
+11 SUS: Sistema Único de Saúde.
+
+[[pagina 25 | nativo]]
+
+sideradas em regulamento como de alto risco;
+V - aumentar os custos de transação sem demonstração de benefícios;
+VI - criar demanda artificial ou compulsória de produto, serviço ou atividade pro
+fissional, inclusive de uso de cartórios, registros ou cadastros;
+VII - introduzir limites à livre formação de sociedades empresariais ou de
+atividades econômicas;
+VIII - restringir o uso e o exercício da publicidade e propaganda sobre um setor
+econômico, ressalvadas as hipóteses expressamente vedadas em lei federal; e
+IX - exigir, sob o pretexto de inscrição tributária, requerimentos de outra natureza
+de maneira a mitigar os efeitos do inciso I do caput do art. 3º desta Lei.
+
+A simples possibilidade de solicitação individual para autorização para ins
+taurar o curso de medicina não afasta a necessidade das instituições de ensino superior
+cumprirem com os requisitos mínimos de estrutura e qualidade para o seu funciona
+mento. Daí porque os editais têm funcionado como modo efetivo de restrição à concor
+rência, já que diminuem sensivelmente o número de IES qualificadas que podem obter
+essa autorização. José Vicente Santos de Mendonça12 assim se manifesta sobre a Lei de
+Liberdade Econômica:
+
+A segunda espécie de abuso de poder regulatório é a (ii) restrição à concorrên
+cia .
+A norma se extrai do art. 4º, incisos I, II, III e VI. Os incisos descrevem comporta
+mentos que, na regulamentação da legislação, implicam restrição indevida à
+concorrência: criar reserva de mercado (inciso I), barreiras de entrada artifi
+ciais (inciso II, 22 ); exigir especificações técnicas desnecessárias (inciso III); criar
+demanda não natural (inciso VI). Comenta-se as hipóteses.
+É proibido editar regulamento que favoreça, na regulação, grupo econômi
+co ou profissional, em prejuízo aos concorrentes (art. 4º, I) 23 - 24 . Acabaram
+os conselhos profissionais? Não, todos possuem legislação específica, com previ
+são de algum nível de poder normativo. O que pode ocorrer é a invalidação, no
+espaço da autorregulação profissional, de decisões que não tenham sido toma
+das, de modo saliente, pela lei. Conselho decide que certo tipo de atividade “só”
+pode ser realizada por seus afiliados: a decisão pode ser inválida. Órgão público
+edita resolução exigindo que empresas se credenciem junto a ele, sob pena de não
+operar: sem base normativa evidente, é exigência inválida.
+
+O que se está aqui a discutir é como o dispositivo legal objeto da presente
+
+12 Comentários à Lei de Liberdade Econômica - Lei 13.874/2019. Livro Eletrônico / Coordenadores Floriano Peixoto
+Marques Neto, Otavio Luiz Rodrigues Junior, Rodrigo Xavier Leonardo; Editora Revista dos Tribunais - Thomson Reu
+ters; 1ª Edição. 2019. Pág. 166.
+
+[[pagina 26 | nativo]]
+
+ação concentrada de controle de constitucionalidade viola diversas garantias constitucio
+nais das IES em geral e implicou em condutas administrativas do Ministério da Educação
+que favoreceram a criação de monopólios regionais de cursos. Sobre a disputa conti
+da nos editais de chamamentos públicos e a alegação de criação arbitrária de reserva de
+mercado, a própria União divulgou no DOU13 quais as IES vencedoras e suas respectivas
+mantenedoras. Justamente a partir da lista de mantenedoras pode-se estimar quantas
+estão ligadas aos big players educacionais:
+
+13 Diário Oficial da União (DOU).
+
+[[pagina 27 | nativo]]
+
+Com base na lista de mantenedoras divulgada no Diário Oficial da União, é
+possível estimar que:
+
+1. Das 26 mantenedoras que tiveram autorização de novos cursos em gra
+duação em medicina, apenas 1 não pertence aos grandes grupos em
+presariais educacionais, precisamente a Fiusa Educacional S/Simples LTDA
+- EPP;
+
+2. No restante, identifica-se quantas autorizações receberam cada big player:
+
+a) COGNA - 3 autorizações;
+
+b) AFYA - 7 autorizações;
+
+c) IDUQS - 5 autorizações;
+
+d) ANIMA - 2 autorizações;
+
+e) ATENAS - 2 autorizações;
+
+f) UNIASSELVI - 1 autorização;
+
+g) SÃO LEOPOLDO MANDIQ - 1 autorização;
+
+h) UNIT - 2 autorizações;
+
+i) UNINTA - 1 autorização.
+
+Logicamente, se fosse apenas meritória a eficiência dos grandes grupos em
+presariais educacionais, não haveria nada de estranho no resultado. Porém, o estudo mais
+detido demonstra, mais uma vez, uma conduta do Ministério da Educação no sentido de
+optar por auxiliar na consolidação desses grandes grupos. Um dos exemplos incide nas
+regras de qualificação econômica das IES em disputa, pois como já se ressaltou anterior
+mente não se deve esquecer que o art. 3°, §3°, da Lei dos Mais Médicos impõe que os editais
+de chamamento público devem ser orientados pela Lei n.° 8.666/1993. No entanto, as regras
+editalícias descumpriram frontalmente a Súmula TCU n.° 289:
+
+A exigência de índices contábeis de capacidade financeira, a exemplo dos de li
+quidez, deve estar justificada no processo da licitação, conter parâmetros atuali
+zados de mercado e atender às características do objeto licitado, sendo vedado o
+uso de índice cuja fórmula inclua rentabilidade ou lucratividade.
+
+
+[[pagina 28 | nativo]]
+
+O item 5.1 do Edital MEC n.° 6/2014 definiu as etapas do certame/concorrência
+para disputa das novas autorizações de curso em graduação de medicina e o item 5.1.1.1.
+previu a etapa eliminatória, tendo por base a análise da capacidade econômico-financeira,
+o que foi reproduzido nos editais seguintes. O “Anexo I”, ao tratar da habilitação das man
+tenedoras, impôs os indicadores a serem adotados:
+
+
+
+[[pagina 29 | nativo]]
+
+Entretanto, a divulgação do padrão decisório publicado pela SERES14, em ra
+zão da Nota Técnica n.° 1103/2015-SERES/MEC, surpreendeu o setor de educação, uma
+vez que indicou algo novo e que não constava do edital: a metodologia de análise da
+sustentabilidade econômico-financeira e o modelo para análise do Plano de Negócios e o fer
+ramental para análise criados pela FGV Projetos, posteriormente ao edital. A partir daí foram
+criadas “faixas de índices financeiros” descritas como: mínimo, modesto, intermediário,
+significante, agressivo e altamente alavancado.
+
+14 SERES: Secretária de Regulação e Supervisão da Educação Superior.
+
+[[pagina 30 | nativo]]
+
+
+[[pagina 31 | nativo]]
+
+É incontroverso, conforme parágrafo 19 do padrão decisório do MEC (docu
+mento em pdf acima), que tais critérios e hipóteses de eliminação não constavam do edi
+tal, de modo que o art. 3° da Lei dos Mais Médicos deu superpoderes ao Il. Ministro de
+Estado da Educação. A metodologia inadvertida da “FGV Projetos” estabeleceu também
+“novos critérios de eliminação das concorrentes”, entre as quais pode-se citar: Na fase 1, se
+a IES não alcançar o nível intermediário nos índices principais e intermediário ou acima nos
+índices suplementares estaria automaticamente fora da disputa.
+
+A Ministra do TCU Ana Arraes fez questão de destacar que tal metodolo
+gia incidiu na eliminação de 44% das IES que disputavam a autorização do curso de
+graduação em medicina. Das 205 entidades aprovadas na etapa regulatória, 90 foram
+prejudicadas pelas novas regras. O Plenário do TCU não nega os fatos acima e os deixou
+consignados expressamente no Acórdão abaixo transcrito:
+
+Voto do Ministro revisor
+Louvo o trabalho realizado pela Ministra Ana Arraes. Seu voto faz análise per
+cuciente acerca de todo arcabouço fático-jurídico que circunda o Edital 6/2014 da
+Secretaria de Regulação da Educação Superior, do Ministério da Educação (Seres/
+MEC), com fundamento no art. 3° da Lei 12.871/2013 (Programa Mais Médicos),
+destinado a selecionar mantenedores de Instituições de Ensino Superior (IES), com
+vistas à instauração de cursos de Medicina em 39 municípios pré-selecionados e
+indicados naquele instrumento convocatório.
+
+Sua Excelência manifesta-se pela inconstitucionalidade da Lei 12.871/2013 por
+colidir com o princípio da livre iniciativa insculpido no art. 209 da Constituição
+Federal. A ilustre relatora considera que o cerceamento à livre iniciativa estaria
+evidenciado pela impossibilidade de os particulares abrirem novos cursos de Me
+dicina em municípios que não aqueles expressamente indicados pelo MEC, ou em
+município no qual já haja curso em funcionamento.
+
+Defende, também, que a Lei 12.871/2013, ao limitar a um único agente privado
+a prestação dos serviços em determinada localidade, coloca em xeque o regime
+concorrencial de preços que rege a lógica empresarial, violando assim o princípio
+
+[[pagina 32 | nativo]]
+
+da livre concorrência a que alude o art. 170, IV, da Lei Maior.
+
+Com as devidas vênias à nobre relatora, considero temerário esta Corte de Con
+tas manifestar-se, neste momento, acerca da constitucionalidade do art. 3º da Lei
+12.871/2013. Isto porque a matéria está sendo apreciada pelo colendo Supremo
+Tribunal Federal por meio da ADI 5.037/2013, de relatoria do eminente Ministro
+Marco Aurélio Mello. Importa registrar que a mencionada ação visa a atacar jus
+tamente, entre outros o art. 3º da 12.871/2013, consoante pode-se depreender do
+excerto a seguir transcrito do Parecer 3.452/2014-ASJCONST/SAJ/PGR, de lavra do
+Procurador-Geral da República, Dr. Rodrigo Janot Monteiro de Barros:
+
+
+Peço vênias, também, para discordar do desfecho alvitrado por S. Exª para os pro
+cedimentos decorrentes do Edital Seres/MEC 6/2014. Acompanho a unidade téc
+nica quando esta propõe a sua continuidade, em caráter excepcional, de modo a
+prestigiar a segurança jurídica e evitar impactos imediatos negativos à adminis
+tração pública, em decorrência do eventual desfazimento, em definitivo, de todas
+as ações praticadas pelos agentes públicos envolvidos. As circunstâncias exis
+tentes, mormente os dispêndios já realizados na construção de unidades hospi
+talares nos municípios contemplados pelo chamamento instaurado por meio do
+Edital 6/2014, que, segundo representantes desses municípios, ultrapassam, em
+certos casos, a R$ 12.000.000,00, são deveras relevantes para se autorizar o pros
+seguimento do feito. Registre-se, por oportuno, que essas unidades hospitalares
+devem conter, por força do art. 3º, § 1º, inciso II, da Lei 12.871/2013, no mínimo, os
+seguintes serviços, atenção básica, urgência e emergência, atenção psicossocial,
+atenção ambulatórias especializada e hospitalar e vigilância de saúde.
+
+A despeito dessas ponderações, permito-me trazer breve considerações acerca do
+próprio certame licitatório.
+
+É fora de dúvida que a Nota Técnica 1.103/2015-Seres/MEC, a qual estabele
+ceu os critérios (parâmetros) de avaliação dos indicadores definidos no Edi
+tal 6/2014 para aferir a capacidade econômico-financeira das participantes
+do chamamento público, foi publicada somente após o resultado provisório
+do certame, fato que constitui sim violação ao princípio do julgamento ob
+jetivo, insculpido no art. 45 da Lei 8.666/1993, abaixo transcrito:
+
+
+Em apertada síntese, retomando o conteúdo do art. 45 da Lei 8.666/ 93, é forço
+so concluir que o Edital 6/2014, no que tange à capacidade econômico-fi
+nanceira das participantes, definiu “fatores” (no caso, indicadores) a serem
+avaliados, sendo omisso, no entanto, acerca dos “critérios” que seriam uti
+lizados nessa avaliação. Por outro lado, é importante frisar que não há nos au
+tos informação de que tal omissão tenha sido objeto de impugnação logo após a
+
+
+[[pagina 33 | nativo]]
+
+publicação do instrumento convocatório, tampouco tenha sido arguida, à época,
+a própria legitimidade dos indicadores eleitos.
+
+Para a Ministra Ana Arraes, a divulgação dos efetivos critérios de habilitação
+constantes da Nota Técnica 1.103/2015, de forma tardia, quando já haviam sido
+entregues e abertas todas as propostas, “constituiu porta aberta para manipula
+ção dos resultados, mediante estabelecimento de valores e combinações de índi
+ces capazes de favorecer competidores específicos”.
+
+
+Outrossim, e, por conseguinte, o atraso na disponibilização de profissionais for
+mados e capacitados para atender à demanda da sociedade. Não se pode olvi
+dar que, a prevalecer o entendimento da Ministra Ana Arraes, a anulação
+do Edital 6/2014 seria decorrência lógica da declaração de inconstituciona
+lidade do art. 3º da Lei 12.871/2013, restando inviabilizada, até a edição
+de nova lei disciplinando a sistemática de autorização para funcionamento
+dos cursos de Medicina, a criação de novos cursos no país, traduzindo-se em
+ônus insuportável a populações já tão carentes de assistência médica. Nesse
+sentido, concluo pela presença do perigo da demora reverso.
+
+Voto complementar
+Compreendo perfeitamente as preocupações externadas pelo ministro Vital do
+Rêgo que, com sua veia humanista, busca encontrar solução para um problema
+de inegáveis contornos sociais.
+
+
+Por outro lado, o eminente revisor assinalou textualmente que a publicação
+da Nota Técnica 1.103/2015 – Seres/MEC “constitui sim violação ao princí
+pio do julgamento objetivo, insculpido no art. 45 da Lei 8.666/1993”, mas
+compreende possível a harmonização de princípios constitucionais para permitir
+a validação do certame. Afirma, nessa esteira, que “a anulação do certame (...)
+não alteraria o resultado final da análise efetuada pela Seres/MEC realiza
+da a partir das demonstrações financeiras referentes a exercícios já concluí
+dos”.
+
+
+Também como transcrevi em meu voto:
+
+“74. Os critérios de habilitação tardiamente explicitados pela Seres/MEC
+levaram à inabilitação de 90 instituições, dentre as 205 que haviam sido
+classificadas na etapa de “análise da experiência regulatória da mantida
+indicada e da mantenedora” (44%). Em alguns municípios, a proporção de
+mantenedoras inabilitadas foi ainda maior, a exemplo de Alagoinhas/BA (64%),
+Araçatuba/SP (67%), Araras/SP (67%), Jaboatão dos Guararapes/PE (67%), Jaú/
+
+[[pagina 34 | nativo]]
+
+SP (60%), Juazeiro/BA (87,5%), Passos/MG (83,4%), Poços de Caldas/MG (60%),
+Sete Lagoas/MG (55,6%) e Tucuruí/PA (83,3%).
+
+75. Em onze municípios, a inabilitação atingiu as instituições melhor pontuadas
+na etapa de “análise da experiência regulatória da mantida indicada e da man
+tenedora”.
+
+Veja-se que não estamos a falar de instituições que pudessem ser consideradas
+como “meras aventureiras”, uma vez que o bom resultado por elas obtido na aná
+lise da “experiência regulatória da mantida indicada e da mantenedora” compro
+va a existência de um desempenho histórico favorável no campo da prestação de
+serviços universitários.
+
+Desta forma, com minhas escusas ao revisor, mantenho meu voto. (grifos edita
+dos)
+
+A maior celeuma existente em relação à concretização do art. 3° da Lei dos
+Mais Médicos tem muito menos a ver com experiência regulatória e qualidade acadêmica,
+estando vinculado sobremaneira às questões financeiras, que se sobrepuseram em re
+lação aos demais fatores de análise.
+
+Com certeza, o contexto acima demonstra que não só o Ministério da Educa
+ção fechou o protocolo eMEC para o recebimento das solicitações de novas autorizações
+de cursos de graduação em medicina, em claro descumprimento à garantia constitucio
+nal do direito de petição, como também não observou o princípio da legalidade estrita,
+adotando condutas abusivas com base nos amplos poderes recebidos pelo dispositivo
+legal cuja declaração de inconstitucionalidade se almeja. Ademais, ao estabelecer condi
+ções em tudo alinhadas aos big players quebrou a possibilidade de que a disputa ocor
+resse com respeito à garantia constitucional de isonomia entre as IES concorrentes.
+
+Essa escolha política de induzimento à consolidação de grandes grupos em
+presariais educacionais pode ser constatada também tendo por base outros indícios como
+o fato de que a imensa maioria das instituições de ensino superior no Brasil são de peque
+no porte, como foi constatado pela Consultoria Hoper:
+
+
+[[pagina 35 | nativo]]
+
+Em paralelo, não se pode perder de vista que o valor das mensalidades está a
+cair nacionalmente, logo o investimento no curso de graduação em medicina é relevante
+para o Poder Público enquanto política pública, mas é uma base de sustentação para as
+IES em geral, dado o seu ticket médio elevado. O “Censo da Educação Superior 2020”15 de
+monstra, por exemplo, que o mercado presencial no Brasil está se tornando restrito e é
+visível que nas regiões Norte e Sul a escolha de cursos presenciais tem sido muito baixa:
+
+15 https://www.gov.br/inep/pt-br/areas-de-atuacao/pesquisas-estatisticas-e-indicadores/censo-da-educacao-superior/
+resultados
+
+https://www.gov.br/i
+nep/pt-br/acesso-a-informacao/dados-abertos/sinopses-estatisticas/educacao-superior-graduacao
+
+[[pagina 36 | nativo]]
+
+Logo, a política de interiorização de médicos não é apenas uma questão
+pública, pois que ela está intrinsecamente conectada com as garantias constitucionais
+de livre iniciativa e de livre concorrência, que foram claramente desrespeitadas. Isso não
+só porque as condutas administrativas tomadas pela União, a partir do dispositivo legal
+questionado, tiveram pouquíssima preocupação em alcançar o interior de fato, como tam
+bém porque os instrumentos escolhidos tornaram extremamente deficitária uma ampla
+concorrência isonômica e com foco na qualidade acadêmica. A disputa por receita decor
+rente da oferta do curso de medicina não pode ser simplesmente ignorada, uma vez que
+o curso proporciona elevado retorno econômico para as instituições, especialmente se
+comparado com os demais em formato presencial ou em EaD:16:
+
+Por isso, há uma suspeita de que a ADC n.° 81, embora tenha por base expres
+sa a defesa da política pública de saúde e da interiorização com qualidade dos cursos de
+medicina, está muito mais vocacionada em defender os interesses das duas associadas
+que controlam a ANUP, perceptivelmente a KROTON e a AFYA, e em reduzir a possibili
+dade de concorrência com as demais IES.
+
+De acordo com o relatório Afya na NASDAQ, o mercado total endereçável para
+o segmento da carreira médica no Brasil era de R$ 16,4 bilhões em 31 de dezembro de
+2018 e deverá atingir o valor de R$ 64,9 bilhões até 2023. Diante deste cenário ampla
+mente lucrativo, é natural que grandes grupos educacionais tenham interesse em realizar,
+tal qual no EAD, uma espécie de reserva de mercado. Daí que uma análise consequencial
+em relação à distribuição de vagas de medicina após o Programa Mais Médicos é essencial
+para concluir não só pelo descumprimento da finalidade do Programa, como também
+pela própria inconstitucionalidade do dispositivo legal correlato.
+
+16 EAD: Ensino a Distância.
+
+[[pagina 37 | nativo]]
+
+Segundo o eMEC17, existem 41.803 vagas anuais autorizadas para os cursos de
+graduação em medicina. No setor público, 60,1% das vagas estão localizadas no interior
+do Brasil, sendo 51% nas regiões Norte, Nordeste e Centro-Oeste. Já em relação às IES não
+estatais, apenas 27,28% estão nessas regiões. Um dos motivos que podem justificar esse
+fato é o valor da mensalidade, que pode ser muito alto para a realidade daquelas localida
+des. Para tanto, é interessante observar o estudo do “SEMESP” de ano de 2021 sobre o valor
+médio das mensalidades:
+
+17 https://emec.mec.gov.br/
+
+
+[[pagina 38 | nativo]]
+
+Não pode ser simplesmente pensado como mera coincidência o fato de que até
+2013 a maior parte das vagas privadas nos cursos médicos estava em Faculdades e, após en
+trada em vigor do art. 3° da Lei n.° 12.871/2013, apenas 35% destas entidades terem sucesso
+na disputa das novas autorizações:
+
+Ao avaliar os critérios dos editais de chamamento público após a edição do
+dispositivo legal objeto dessa ADI, além das métricas financeiras, é pertinente mostrar
+que os requisitos de regulação prejudicaram as Faculdades e os Centros Universitários,
+que não estão normalmente submetidos a eles. Entre tais requisitos, pode-se citar, por
+exemplo: IES com 3 ou mais mantidas e/ou 3 ou mais cursos de medicina, com mais
+programas de residência médica e de mestrado e doutorado, contando com pontuação
+adicional na concorrência. Também esse fator pode ter contribuído para o resultado de
+expansão de vagas aos grandes grupos educacionais.
+
+
+[[pagina 39 | nativo]]
+
+A tabela abaixo exibe os atuais “Conceitos de Curso” conferidos pelo MEC du
+rante a avaliação in loco dos cursos de medicina no país e utilizados como referencial de
+qualidade regulatória e não há nenhum gap qualitativo entre as IES de grupos de capital
+aberto ou fechado ou as faculdades isoladas.
+
+Pelos “achados” da tabela 6 - eMec, não é possível afirmar que o fato do curso
+de medicina pertencer aos grupos educacionais ou às mantenedoras com experiência em
+mais de um campus ou com mais de um curso de medicina os torne, naturalmente, de
+melhor qualidade do que aqueles das IES isoladas ou de pequeno e médio porte porque
+os conceitos de curso dos maiores grupos nacionais e o das outras entidades é pratica
+mente o mesmo, ou seja, todas as instituições de ensino superior operam com um nível de
+qualidade muito semelhante.
+
+Ainda como base de estudo, tendo em conta as informações divulgadas por
+grandes grupos educacionais, inclusive de capital aberto e que operam no segmento su
+perior com um número elevado de vagas em medicina, é correto afirmar que tais cursos
+são estratégicos seja para recuperação de crescimento ou para incremento do fluxo de
+caixa. Um extrato da apresentação do “Cogna Day”18 corrobora as hipóteses levantadas:
+
+18 https://ri.cogna.com.br/documentos-cvm/investor-day/
+
+[[pagina 40 | nativo]]
+
+
+[[pagina 41 | nativo]]
+
+A ÂNIMA declarou19 o desempenho vertical de seus cursos de saúde, ressal
+tando que representam 29% da receita líquida de ensino, podendo crescer em base de alu
+nos e número de vagas:
+
+A YDUQS20 destaca também seu fortalecimento na área de cursos de saúde,
+inclusive tratando esse segmento como “mercado premium”. Essa expansão do ensino mé
+dico, como nos casos acima, é possivelmente atribuível ao art. 3° da Lei dos Mais Médicos
+e, consequentemente, aos editais dele decorrentes:
+
+19 https://ri.animaeducacao.com.br/default.aspx
+20 yduqs.com.br
+
+[[pagina 42 | nativo]]
+
+Neste contexto, é importante ressaltar que empresas de capital aberto depen
+dem da confiança de investidores na lucratividade futura dos seus negócios para expandir
+seu valor de mercado e a captação de novos recursos. A criação das verticais de medicina
+nas IES listadas no Brasil é parte integrante de uma estratégia para recuperar seus respec
+tivos valores de mercado. É importante entender a desvalorização dessas empresas nos
+últimos anos. As cotações das ações de empresas educacionais vêm caindo fortemente
+há, pelo menos, 4 anos. A COGNA acumula queda de 78% desde 14 de junho de 2019
+(terminou o dia de 13/06/2022 cotada a R$ 2,30, ante R$ 10,48 naquela data).
+
+
+[[pagina 43 | nativo]]
+
+Mesmo a ÂNIMA, com melhores resultados no período, teve uma queda acu
+mulada de 26% desde 12/06/2019. A YDUQS teve uma perda de valor de 53%. A AFYA, por
+outro lado, já nasce com a tese de ser uma empresa educacional temática, centrada na
+oferta de produtos e serviços para a área de saúde, notadamente nas verticais de cursos de
+graduação, pós-graduação e capacitação em medicina, produção de conteúdo específico
+embutido em plataformas de ensino adaptativo para o mercado de saúde e um conjunto
+de empresas de base tecnológica para o mercado de profissionais da medicina. Trata-se,
+portanto, de uma evolução da estratégia para empresas e grupos listados no Brasil. Isso
+também demonstra como a violação das garantias constitucionais da livre iniciativa e da
+concorrência são centrais ao entendimento sobre os perigos e abusos que só foram possíveis
+em razão do dispositivo legal cuja inconstitucionalidade se afirma.
+
+No prospecto preliminar divulgado pela AFYA à NASDAQ aos potenciais inves
+tidores em 201921, esse big player fez alusão, em diversas partes daquele documento, à
+influência das questões regulatórias no mercado de medicina brasileiro, notadamente
+ao chamado Programa Mais Médicos implementado pela União:
+
+21 Form 424B1, dd7pmep5szm19.cloudfront.net
+
+
+[[pagina 44 | nativo]]
+
+Absolutamente, nenhum dos documentos acima demonstra uma preocu
+pação central com o alinhamento entre as IES e a política pública de interiorização de
+médicos ou mesmo sobre a qualidade dela. Inclusive sobre isso é necessário afirmar que
+os editais de chamamento público permitiram, por escolha política do MEC, que as IES
+disputassem cursos em locais em que sequer possuíam campus já instalado (em algumas
+situações, isso é vedado pelos arts. 31 e 32 do Decreto n.° 9.235/2017), o que também
+alimenta a conclusão de despreocupação do Ministério da Educação com a qualidade
+durante a expansão.
+
+Todos esses motivos descrevem como o art. 3° da Lei n.° 12.871/2013, na
+sua inteireza, violou as diversas garantias constitucionais explicitadas aqui e implicou
+na criação de uma política de cursos de medicina superficialmente focada na interiori
+zação nos rincões que efetivamente distribuíssem os médicos pelo país. Pode-se afirmar
+o mesmo em relação à qualidade desses cursos. Conclusivamente, deve-se interpretar a
+ADC n.° 81 muito mais como uma ação que tenta controlar o mercado concorrencial do
+que qualquer outra coisa.
+
+3.4. Violação ao Núcleo Duro da Autonomia Universitária
+
+Como dito nos itens anteriores, o art. 3°, em sua inteireza, concedeu poderes
+irrestritos ao Il. Ministro de Estado da Educação. Além disso, o dispositivo legal serviu de
+base para edição da Portaria MEC n.º 328/2018, que criou o que ficou conhecido como
+“Moratória dos Cursos de Medicina” ao determinar a suspensão de novos editais e pedidos
+de aumento de vagas no curso. É preciso ressaltar que, nem o art. 3° da Lei 12.871/2013,
+nem a lei como um todo, tratam da matéria de aumento de vagas em cursos de medicina
+já instalados. Esta norma administrativa viola todas as garantias constitucionais que a pre
+sente ação objetiva proteger, entre elas, a legalidade estrita, a isonomia, o direito de petição,
+a autonomia universitária, a livre iniciativa e a livre concorrência.
+
+A questio iures está muito fortemente ligada ao núcleo duro do conceito cons
+titucional de autonomia universitária, centrada na ideia de autonomia acadêmica, como
+bem detalhado pelo Exmo. Sr. Ministro Eros Graus na ADI n.° 51:
+
+
+[[pagina 45 | nativo]]
+
+:
+
+
+[[pagina 46 | nativo]]
+
+Consequentemente, o conceito constitucional da autonomia universitária en
+volve três dimensões em relação às quais a primeira é seu núcleo essencial e as duas
+últimas possuem caráter acessório: a) Autonomia didático-científica ; b) Autonomia Ad
+ministrativa; c) Autonomia Financeira.
+
+Dessa conclusão, pode-se afirmar que sequer o art. 3° da Lei n.° 12.871/2013
+pode agir com a finalidade de reduzir o núcleo duro dessa garantia constitucional. Não se
+pode validar qualquer norma, ainda que derivada do Poder Legislativo, que, por exem
+plo, condicione a autonomia didático-científica à vontade de outras pessoas e órgãos.
+Assim, nem mesmo o Poder Público pode se utilizar da escusa da regulamentação para, de
+modo travestido, impor limites ou determinar os rumos da execução dos serviços e das ativi
+dades pedagógicas ou de pesquisa que as Universidades devam seguir, inclusive não pode
+interferir na gestão das vagas dos seus próprios cursos médicos, criando a restrição a
+priori de solicitação de aumento de vagas.
+
+Hipóteses como a apresentada no parágrafo anterior já foram colocadas sob
+teste, na medida em que foram levadas a essa Excelsa Corte Constitucional. Na ADI n.º
+3.792, decidiu-se pela impossibilidade de exercício legislativo que implique ingerência na es
+trutura e no funcionamento administrativo ou nas funções pedagógicas da Universidade:
+
+EMENTA Ação direta de inconstitucionalidade. Lei nº 8.865/06 do Estado do Rio
+Grande do Norte. Obrigação de a Universidade do Estado do Rio Grande do Norte
+prestar serviço de assistência judiciária, durante os finais de semana aos necessi
+tados presos em flagrante delito. Violação da autonomia universitária. Vício for
+mal. Ação julgada procedente. Modulação. Efeitos ex nunc.
+1. A previsão da autonomia universitária vem consagrada no art. 207 da
+Carta Política. Embora não se revista de caráter de independência (RMS nº
+22.047/DF-AgR, ADI nº 1.599/UF-MC), atributo dos Poderes da República, revela
+a impossibilidade de exercício de tutela ou indevida ingerência no âmago
+próprio das suas funções, assegurando à universidade a discricionariedade
+de dispor ou propor (legislativamente) sobre sua estrutura e funcionamen
+to administrativo, bem como sobre suas atividades pedagógicas.
+2. A determinação de que o escritório de prática jurídica preste serviço aos finais
+de semana, a fim de atender necessitados presos em decorrência de flagrante deli
+to, implica necessariamente a criação ou, ao menos, a modificação de atribuições
+conferidas ao corpo administrativo que serve ao curso de Direito da universidade.
+Isso sem falar que, como os atendimentos serão realizados pelos acadêmicos do
+Curso de Direito cursando o estágio curricular obrigatório, a Universidade, obri
+gatoriamente, teria que alterar as grades curriculares e os horários dos estudan
+tes para que desenvolvessem essas atividades em regime de plantão, ou seja, aos
+sábados, domingos e feriados. Peca, portanto, o diploma legislativo em sua to
+talidade, porque fere a autonomia administrativa, a financeira e, até mesmo, a
+didático-científica da instituição, uma vez que ausente seu assentimento para a
+criação/modificação do novo serviço a ser prestado.
+3. Por outro lado, verifica-se que o escopo da legislação é o suprimento parcial
+
+[[pagina 47 | nativo]]
+
+da deficiência do poder público em assegurar aos hipossuficientes o direito à as
+sistência judiciária integral e gratuita (art. 5º, LXXIV, CF/88) e o amplo acesso à
+Justiça (art. 5º, XXXV, CF/88). Ao invés de o Poder Público desempenhar esse dever
+fundamental por intermédio da Defensoria Pública, a teor do art. 134 da Consti
+tuição Federal, procurando, ao máximo, mitigar as deficiências dessa instituição
+permanente e essencial à Justiça, o legislador potiguar, em substituição, impôs,
+nos casos de ausência de defensor público constituído, que essa atividade fosse
+desempenhada por estudantes da universidade estadual, a qual, frise-se, tem por
+objetivo precípuo as atividades de ensino superior, mas que, aos finais de sema
+na e feriados, passaria a desempenhar, obrigatoriamente, por intermédio de seu
+corpo de alunos e professores, funções de assistência jurídica integral e gratuita
+aos financeiramente hipossuficientes. Note-se, inclusive, que essa atividade, con
+forme dispõe o art. 2º, § 2º, da lei estadual, deve ensejar o pagamento, pelo Poder
+Executivo, de “remuneração ao estudante/plantonista”. Nada impede, no entan
+to, que o Estado do Rio Grande do Norte realize convênio com a Universidade para
+viabilizar a prestação de serviço de assistência judiciária aos necessitados.
+4. Os arts. 2º e 3º da Lei nº 8.865/06, resultante de projeto de lei de iniciativa par
+lamentar, contêm, ainda, vício formal de iniciativa (art. 61, § 1º, II, c, CF/88), pois
+criam atribuições para a Secretaria de Estado da Educação, Cultura e dos Despor
+tos (art. 2), para a Secretaria de Estado de Defesa Social e Segurança Pública (art.
+2º) e para a Polícia Civil (art. 3º), sem observância da regra de iniciativa privati
+va do chefe do Poder Executivo estadual. 5. Ação julgada procedente para se de
+clarar, com efeitos ex nunc, a inconstitucionalidade da Lei nº 8.865/06 do Estado
+do Rio Grande do Norte. (ADI 3.792/RN; Relator Min. Dias Tofoli; Julgamento:
+22/09/2016, Tribunal Pleno, unanimidade)
+
+A citada portaria do MEC descumpre as garantias constitucionais e as demais
+regras legais correlatas, justamente as que detalham o conceito constitucional especifi
+cado. A LDB (art. 53, inciso IV) inclui no conceito de autonomia universitária o direito das
+IES de gerirem suas próprias vagas, inclusive de requerer o aumento delas, quando
+necessário. De outro lado, o Decreto n.° 9.235/2017 (posterior a Lei dos Mais Médicos), art.
+26, inciso I, ressalta que só é possível à Administração Pública impedir a solicitação de
+aumento de vagas na hipótese de aplicação de penalidades, precisamente na situação
+em que as instituições de ensino superior não tenham protocolizado os seus pedidos de
+recredenciamento no prazo previsto. Isso não muda, mesmo em se tratando de cursos de
+medicina, como se verifica do art. 41, §5°, da mesma norma. Para a exata compreensão dos
+termos da legislação citada, tais dispositivos serão transcritos a seguir:
+
+LDB
+Art. 53. No exercício de sua autonomia, são asseguradas às universidades, sem
+prejuízo de outras, as seguintes atribuições:
+IV - fixar o número de vagas de acordo com a capacidade institucional e as exi
+gências do seu meio;
+
+[[pagina 48 | nativo]]
+
+Decreto n.° 9.235/2007
+Art. 26. A ausência de protocolo do pedido de recredenciamento no prazo
+devido caracterizará irregularidade administrativa e a instituição ficará:
+I - impedida de solicitar aumento de vagas em cursos de graduação, de ad
+mitir novos estudantes e de criar novos cursos e polos de educação a distância,
+quando for o caso; e
+Art. 41. A oferta de cursos de graduação em Direito, Medicina, Odontologia, Psi
+cologia e Enfermagem, inclusive em universidades e centros universitários, de
+pende de autorização do Ministério da Educação, após prévia manifestação do
+Conselho Federal da Ordem dos Advogados do Brasil e do Conselho Nacional de
+Saúde.
+§ 5º O aumento de vagas em cursos de graduação em Direito e Medicina, in
+clusive em universidades e centros universitários, depende de ato autorizativo
+do Ministério da Educação.
+
+A leitura do art. 3° da Lei n.° 12.871/2013 corrobora as afirmações até então
+apresentadas, na medida em que a referida norma não regulamenta o instituto de au
+mento de vagas, limitando-se apenas aos casos de autorizações de novos cursos de
+graduação em medicina. Logo, não há nenhuma lei que outorgue ao MEC a prerrogativa de
+trancar o protocolo eMEC para pedidos de aumento de vagas, mesmo aos cursos de medicina.
+A norma tem como base, é correto dizer isso, exclusivamente a vontade política da Ad
+ministração Pública.
+
+Há outros atos concretos da parte do Il. Ministro de Estado da Educação que
+incidem em violações, por arrastamento, às garantias constitucionais cuja proteção se
+requer, o que pode ser demonstrado a partir do conjunto de portarias que foram editadas
+após a Portaria MEC n.° 328/2018:
+
+
+[[pagina 49 | nativo]]
+
+1. Portaria MEC n.° 328, de 12 de maio de 2018: em seu art. 1°, o Ministé
+rio da Educação suspende a edição de novos chamamentos públicos para
+autorização de novos cursos de graduação em medicina e, surpreenden
+temente, também cria um impedimento geral para requerimentos de
+aumento de vagas, escolhendo excetuar apenas as IES cujos cursos te
+nham sido autorizados com base na Lei dos Mais Médicos;
+
+
+[[pagina 50 | nativo]]
+
+2. Portaria MEC n.° 523, de 1° de junho de 2018: essa norma administrativa
+faz referência à Portaria n.° 328, citada no item anterior. Com base nela,
+é permitido apenas às IES cujos cursos tenham sido autorizados com
+base na Lei dos Mais Médicos a pedir, por uma vez, aumento de vagas,
+excluindo automaticamente todas as demais entidades;
+
+
+[[pagina 51 | nativo]]
+
+3. Portaria MEC n.° 343, de 12 de maio de 2022: alterou a Portaria MEC n.°
+523/2018 para permitir que as IES que tiveram seus cursos autorizados
+com base nos editais de chamamento público possam requerer, quantas
+vezes desejarem, aumento de vagas até o limite total de 100;
+
+
+[[pagina 52 | nativo]]
+
+4. Portaria MEC n.° 371, de 23 de maio de 2022: revogou a Portaria MEC n.°
+343/2022 sem, contudo, proibir as IES que tiveram cursos autorizados
+em conformidade à Lei dos Mais Médicos de requerer o aumento de va
+gas de medicina, apresentando uma única solicitação, até o limite de
+100 vagas.
+
+Há algumas conclusões que não podem ser obstadas diante dos fatos e consi
+derações acima expostos, entre elas, a de que o Il. Ministro de Estado da Educação imple
+mentou medidas efetivamente inconstitucionais e sem base em lei, violando das garantias
+constitucionais das IES como a suspensão da prerrogativa de protocolo de pedidos de
+aumento de vagas, cuja legislação vincula sua aplicação à hipótese de punição da IES e
+somente no caso dela perder o prazo para o seu pedido de recredenciamento, confor
+me o art. 26, inciso I, do Decreto n.° 9.235/2017.
+
+
+[[pagina 53 | nativo]]
+
+Tais normas administrativas atuam, implícita e fortemente, como modo de
+restringir a concorrência e beneficiam exclusivamente os vencedores dos editais de cha
+mamento público em detrimento do setor educacional como um todo.
+
+Inadvertidamente e em contraposição ao decreto referido, as portarias es
+tenderam essa punição às IES que não tenham cursos autorizados pelos editais de cha
+mamento público. Trata-se também de quebra ao princípio da legalidade estrita, como
+ressaltam Marcelo Alexandrino e Vicente Paulo22:
+
+Em suma, a Administração Pública, além de não poder atuar contra a lei ou
+além da lei, somente pode agir segundo a lei (a atividade administrativa não
+pode ser contra legem nem prater legem, mas apenas secundum legem). Os atos
+eventualmente praticados em desobediência a tais parâmetros são atos in
+válidos e podem ter sua invalidade decretada pela própria Administração que os
+haja editados (autotutela administrativa) ou pelo Poder Judiciário.
+Devemos observar que a possibilidade de o Poder Executivo expedir atos que
+inaugurem o direito positivo somente existe nas situações expressamente previs
+tas no próprio texto constitucional. Tais hipóteses possuem caráter excepcional,
+sendo as principais a edição de medidas provisórias “com força de lei” (CF, art. 62)
+e leis delegadas, cuja edição deve ser autorizada pelo Congresso Nacional (CF, art.
+68). Esses dois atos - medidas provisórias e leis delegadas -, entretanto, não são
+atos administrativos em sentido próprio, e sim atos de natureza legislativa.
+Merece menção, ainda, a atribuição, bastante restrita, acrescentada pela EC
+32/2--1, de edição de decretos autônomos pelo Poder Executivo, ou seja, decretos
+que retiram seu fundamento de validade diretamente do texto constitucio
+nal, atos primários, isto é, que não são editados em função de qualquer lei,
+não regulamentam lei alguma.
+
+Seja na hipótese da punição prevista no Decreto n.° 9.235/2017 ou nas Por
+tarias MEC n.° 328/2018, n.° 523/2018, n.° 343/2022 e n.° 371/2022, todas as portarias são
+normas editadas pelo Il. Ministro de Estado da Educação e que não têm lastro em lei, além
+de ofender a autonomia universitária. Para aplicar penalidade, é preciso que haja pre
+visão legal anterior que a torne possível, conforme ressalta a jurisprudência do Excelso
+Supremo Tribunal Federal, inclusive:
+
+Ementa: DIREITO ADMINISTRATIVO. AGRAVO INTERNO EM RECURSO ORDINÁRIO
+EM MANDADO DE SEGURANÇA. PROCESSO ADMINISTRATIVO DISCIPLINAR. PE
+NALIDADE DE CASSAÇÃO DE APOSENTADORIA.
+1. A competência para a aplicação da sanção de cassação de aposentadoria é do
+Ministro responsável pela supervisão administrativa do órgão ao qual o servidor
+efetivo era vinculado, ainda que estivesse cedido no momento da prática dos atos
+22 ALEXANDRINO, Marcelo. PAULO, Vincente. Direito administrativo descomplicado. - x20. ed. rev. e atual. - Rio de
+Janeiro: Forense; São Paulo: Método, 2012. Pág. 191.
+
+[[pagina 54 | nativo]]
+
+ilícitos.
+2. A aplicação da penalidade observou a previsão legal (art. 132, IV, VIII e X,
+e art. 134, ambos da Lei nº 8.112/1990). A análise da proporcionalidade da san
+ção demandaria o exame aprofundado do conjunto probatório e/ou produção
+de provas, o que não é admitido em sede de mandado de segurança. Precedentes.
+3. Salvo em caso de prescrição, não é nulo o processo administrativo disciplinar
+apenas em virtude do decurso do prazo máximo para sua conclusão.
+4. Agravo a que se nega provimento.(RMS n.° 34.944 AgR, Primeira Turma, Re
+lator Ministro Roberto Barroso, Julgamento em 07/11/2017, Publicação em
+17/11/2017)
+
+Todas as portarias citadas decorrem do dispositivo legal cuja inconstituciona
+lidade é discutida e descumprem as garantias constitucionais da legalidade estrita e da
+autonomia universitária - em seu núcleo duro - sendo inconstitucional por arrastamento.
+
+3.3. Dissídio Jurisprudencial
+
+No que pertine ao tema referente ao pretenso dissídio jurisprudencial que
+poderia justificar o ajuizamento da ADC n.° 81, há de se considerar as características das
+correlatas ações judiciais. Tomando por base os anexos daquela ação, pôde-se verificar
+que foram juntadas oitenta e três decisões que, em sua larga maioria, indicavam que as
+demandas foram ajuizadas por IES que não compunham grupos econômicos e trami
+tam principalmente em cidades do interior ou centros urbanos alocados em estados
+mais pobres e, apenas excepcionalmente, em capitais como Manaus-AM, São Luís-MA,
+Belém-PA, Porto Velho-RO, entre outras. A principal região de abrangência está adstrita ao
+interior, sendo possível citar as cidades de Ivaiporã-PR, Jundiaí-SP, Teófilo Otoni-MG, Cam
+po Limpo Paulista-SP, Ariquemes-RO, Maricá-RJ, Santarém-PA, Caldas Novas-GO, Itabira-MG,
+Icó-CE, Coarí-AM.
+
+Esse relato indica que essa é, provavelmente, uma reação normal e até espe
+rada da IES em relação à política de expansão dos cursos de medicina proposta pelo
+MEC a partir do art. 3° da Lei dos Mais Médicos e que, tudo indica, funcionou de modo a
+privilegiar a consolidação dos big players no interior em detrimento das IES ali já ins
+taladas há décadas. Para um entendimento mais preciso da questão, segue a lista com o
+detalhamento desses processos:
+
+
+[[pagina 55 | nativo]]
+
+
+[[pagina 56 | nativo]]
+
+
+[[pagina 57 | nativo]]
+
+É preciso adentrar outra vez no âmbito dos poderes irrestritos que foram con
+cedidos ao Il. Ministro de Estado da Educação em razão do art. 3° da Lei n.° 12.871/2013,
+porque diante dele foram emitidos editais de chamamento público os quais concede
+ram uma prerrogativa vedada até então, a de que as IES em geral pudessem concorrer
+em qualquer parte do país, ainda que não tivessem campus naquela localidade:
+
+
+[[pagina 58 | nativo]]
+
+Pensando na perspectiva dos grandes grupos empresariais educacionais, essa
+é a fórmula perfeita, na medida em que foi viabilizado que essas mantenedoras enviassem
+propostas para concorrer em municípios nos quais não estavam instaladas e que só só
+edificariam seus campi se previamente tivessem a garantia da autorização do curso
+de graduação em medicina. É evidente, isso levou à reação das IES pequenas e médias,
+historicamente interiorizadas e que foram simplesmente ignoradas pela política abusiva
+conduzida pelo Ministério da Educação.
+
+No plano constitucional, é conclusivo que isso quebrou com a garantia cons
+titucional da legalidade estrita na medida em que violou o Decreto n.° 9.235/2017, que
+regulamenta os poderes regulatórios do Ministério da Educação, pois apenas Universida
+des e Centros Universitários podem ter campus fora de sede e, mesmo assim, limitado
+ao estado em que está a sede da IES:
+
+
+[[pagina 59 | nativo]]
+
+Art. 31. Os centros universitários e as universidades poderão solicitar cre
+denciamento de campus fora de sede em Município diverso da abrangência
+geográfica do ato de credenciamento em vigor, desde que o Município esteja
+localizado no mesmo Estado da sede da IES.
+§ 1º As instituições de que trata o caput , que atendam aos requisitos dispostos
+nos art. 16 e art. 17 e que possuam CI maior ou igual a quatro, na última ava
+liação externa in loco realizada pelo Inep na sede, poderão solicitar creden
+ciamento de campus fora de sede.
+§ 2º O pedido de credenciamento de campus fora de sede será processado como
+aditamento ao ato de credenciamento, aplicando-se, no que couber, as disposi
+ções processuais que o regem.
+§ 3º O pedido de campus fora de sede será deferido quando o resultado da sua
+avaliação externa in loco realizada pelo Inep for maior ou igual a quatro.
+§ 4º O pedido de credenciamento de campus fora de sede será acompanhado do
+ato de autorização para a oferta de, no máximo, cinco cursos de graduação.
+§ 5º O quantitativo estabelecido no § 4º não se aplica aos cursos de licenciatura.
+§ 6º A Secretaria de Regulação e Supervisão da Educação Superior do Ministério
+da Educação poderá instituir processo simplificado para credenciamento de cam
+pus fora de sede de IFES e para extensão das atribuições de autonomia, processos
+de autorização de cursos e aumento de vagas em cursos a serem ofertados fora de
+sede, ouvida a Secretaria de Educação Superior do Ministério da Educação.
+Art. 32. O campus fora de sede integrará o conjunto da instituição.
+§ 1º Os campi fora de sede das universidades gozarão de atribuições de autono
+mia desde que observado o disposto nos incisos I e II do caput do art. 17 no cam
+pus fora de sede.
+§ 2º Os campi fora de sede dos centros universitários não gozarão de atribuições
+de autonomia.
+
+Por tudo isso, não é de se estranhar que, justamente as IES de pequeno ou mé
+dio porte, sejam elas privadas empresariais ou comunitárias, constituídas como fundações
+e associações, tenham buscado a justiça, pois todo o procedimento do mais médicos foi
+afrontoso a elas, na medida que permitiu a interiorização de seus concorrentes sem que
+esses tivessem quaisquer riscos empresarias ou laços com a comunidade local, sem quais
+quer obrigações de projetos de extensão ou da manutenção de outros cursos de interesse
+de tais municípios.
+
+Por isso, reafirma-se, a ADC n.° 81 não tem por objeto real a proteção da políti
+ca de interiorização de médicos mas a proteção dos big players em relação à concorrência.
+A verdade é que a Kroton e a AFYA, que constam como controladores da ANUP, não que
+rem que seja implementado um livre mercado, pois utilizam regras abusivas de regulação
+para manter uma posição de dominação artificialmente criada.
+
+
+[[pagina 60 | nativo]]
+
+Parte 4: Os Pedidos
+4.1. Pedido Cautelar
+
+Como explicitado na presente ADI, o art. 3° da Lei n.° 12.871/2013, em sua in
+teireza, concedeu superpoderes ao Il. Ministro de Estado da Educação e isso culminou na
+violação ao direito de petição, uma vez que a solicitação de requerimentos individuais de
+autorização de cursos foi substituída por editais de chamamento público que só ocorrem
+quando a vontade política da Administração Pública é manifestada. Ao mesmo tempo,
+quebrou-se a isonomia entre tais concorrentes, violando a livre iniciativa e a livre concor
+rência, uma vez que eles não puderam disputar em situação de igualdade, haja vista que
+várias das regras advindas do dispositivo legal em comento foram construídas sem consi
+derar os diferentes tipos de IES que compõem o sistema. Ademais, os editais previram re
+gras como a criação de campi fora de sede em descompasso com a legislação educacional
+geral.
+
+O conjunto de Portarias MEC, como foi demonstrado, violou as regras cons
+titucionais; pois, ao suspender novos editais de chamamento público, bem como solici
+tações de aumento de vagas, excepcionou as IES vencedoras do certames que poderiam
+continuar a estender suas vagas até o número de 100. Isso quebrou o princípio da isono
+mia e também de petição de todas as outras entidades que não estavam abarcadas pela
+vontade política do MEC. Logicamente, não é possível exercer a livre iniciativa e a livre
+concorrência nessas condições. Vê-se, então, que há a demonstração de fumus boni iuris.
+
+O periculum in mora é evidente, na medida em que agora os big players bus
+cam impedir a contestação judicial do dispositivo legal em tela. Nesse sentido, torna-se
+urgente que essa Excelsa Corte Constitucional, ao se convencer dos argumentos sope
+sados na presente petição, determine - em consonância ao art. 10 e seguintes da Lei n.°
+9.868/1999 - os ajustes mínimos quanto à interpretação e aos efeitos da legislação educa
+cional e das condutas tomadas pela Administração Pública para que esses grandes grupos
+educacionais não exerçam uma posição artificial de dominação de mercado.
+
+Consectariamente, entende-se que é o caso de requerer ordem liminar para
+determinar à União, por seu órgão Ministério da Educação, que autorize a abertura do
+protocolo individual de cursos - via eMEC - enquanto tramita a presente ação, fazendo
+tramitar e decidir os respectivos processos administrativos de autorização e aumento de
+vagas de cursos de graduação em medicina. Solicita-se, ainda, que tal ordem se mante
+nha em vigor até o julgamento de mérito da presente ação de controle concentrado de
+constitucionalidade.
+
+
+[[pagina 61 | nativo]]
+
+Ao contrário do que é dito na ADC n.° 81, não é possível supor que os cursos
+de medicina ou aumento de vagas autorizados fora dos editais de chamamento públi
+co tenham qualidade inferior aos demais justamente porque, também nessa hipótese,
+não é dispensada sua tramitação regular junto ao Ministério da Educação, que pode
+deferir ou não o pedido administrativo.
+
+4.2. Pedidos de Mérito
+
+Tendo sido cumpridos todos os requisitos para conhecimento e processamen
+to da presente Ação Direta de Inconstitucionalidade, na forma do art. 102, inciso I, alínea
+“a”, da Constituição da República, e também da Lei n.° 9.868/1999, respeitosamente, re
+quer-se à essa Excelsa Corte Constitucional que:
+
+1. Seja concedida ordem liminar para ou determinar a suspensão dos efei
+tos do art. 3°, em sua inteireza, da Lei n.° 12.871/2013 (Lei do Programa
+Mais Médicos), enquanto tramita a presente lide, ou determinar à União,
+por seu órgão Ministério da Educação, que autorize a abertura do protoco
+lo individual de cursos de graduação em medicina e de aumento de vagas
+- via eMEC - enquanto tramita a presente ação, processando e decidindo
+os respectivos processos administrativos das IES requerentes. Solicita-se,
+ainda, qualquer que seja a ordem liminar concedida, que ela seja mantida
+em vigor até o julgamento de mérito da presente ação de controle con
+centrado de constitucionalidade;
+
+2. No Mérito, seja declarada a inconstitucionalidade do art. 3°, caput, pará
+grafos e incisos da Lei n.° 12.871/2013 (Lei do Programa Mais Médicos), ou
+seja aplicada a técnica de interpretação conforme que implique a conclu
+são de que a União, por seu órgão Ministério da Educação, não pode uti
+lizar o referido dispositivo legal para criar editais de chamamento público
+com critérios vagos e que não favoreçam a efetiva interiorização de cursos
+de graduação em medicina e tampouco adote métricas que beneficie de
+terminado segmento educacional, como os big players, em detrimento das
+demais IES do sistema, principalmente as médias e pequenas, sejam elas
+empresas, fundações ou associações, quando todas demonstrem a mes
+ma aptidão à oferta dos cursos de graduação em medicina;
+
+
+[[pagina 62 | nativo]]
+
+3. No Mérito, seja declarada a inconstitucionalidade do art. 3°, caput, pará
+grafos e incisos da Lei n.° 12.871/2013 (Lei do Programa Mais Médicos),
+conferindo-se interpretação conforme que implique a conclusão de que os
+editais de chamamento público para autorização de vagas de graduação
+em medicina não impedem o requerimento individual de autorizações de
+cursos médicos ou de aumento de vagas;
+
+4. No Mérito, seja declarada a inconstitucionalidade e a nulidade, por arras
+tamento, das Portarias MEC n.° 328/2018, n.° 523/2018, n.° 343/2022 e n.°
+371/2022;
+
+5. Seja declarada a seguinte tese: O art. 3°, da Lei n.° 12.871 (Lei do Progra
+ma Mais Médicos), é inconstitucional na sua inteireza, por violar as garantias
+constitucionais da legalidade estrita (art. 5°, inciso II e art. 37, caput), da iso
+nomia (art. 5°, caput) e do direito de petição (art. 5°, inciso XXXIV, alínea “a”);
+da autonomia universitária (art. 207); da livre iniciativa (art. 1°, inciso IV e art.
+170) e da livre concorrência (art. 170, inciso IV), bem como é nula a edição
+de editais de chamamento público que impeçam o requerimento individual
+de cursos de graduação em medicina ou de aumento de vagas pelas IES em
+geral, além da adoção de modelo que favoreça a consolidação dos big players
+educacionais em evidente prejuízo às demais IES integrantes do setor educa
+cional;
+
+6. Seja intimado o Il. Advogado Geral da União para manifestar-se na presen
+te ação;
+
+7. Seja intimado o Il. Procurador Geral da República para manifestar-se na
+presente ação;
+
+
+[[pagina 63 | nativo]]
+
+8. Seja intimado o Il. Ministro de Estado da Educação para detalhar as falhas
+em relação à política de autorização de cursos de medicina e respetivos
+aumento de vagas;
+
+9. Sejam intimados os Il. Desembargadores Federais Presidentes dos Tribu
+nais Regionais Federais da 1° a 5° Regiões para relatarem todos os proces
+sos judiciais que tratem de novos cursos de graduação em medicina ou
+aumento de vagas.
+
+Termos em que,
+Pede Deferimento.
+Brasília, 17 de junho de 2022.
+
+Dyogo César Batista Viâna Patriota Walter Dantas Baía
+OAB/DF 19.397 OAB-SP 241.286 OAB-RS 87.553A OAB-SC 16.228-B OAB-RS 85.352A
+
+Igor Felipe Soares Baía Stênio Sérgio Xavier Tavares
+OAB/RS113.737 OAB/DF 19.492
+
+Ana Paula Bertei Fainello
+OAB/RS 95.037
+
+
+[[pagina 64 | nativo]]
+
+Lista de Documentos:
+
+Doc.1 – Estatuto social do CRUB
+Doc.2 – Ata de Eleição Diretoria-2021-2023
+Doc.3.1 – Termo de Posse-2021-2023
+Doc.3.2 - Procuração
+Doc.4 – Súmula nº 289 do TCU
+Doc.5 – Lista de Associadas CRUB
+Doc.6 – Acórdão ADI n.º 79
+Doc.7 – Acórdão ADI n.º 386
+Doc.8 – Acórdão ADPF n.° 706
+Doc.9 – Convocação e Ata da Assembleia Geral Extraordinária nº 97
+Doc.10 – Acórdão ADI n.º 202
+Doc.11 – Lei n.° 12.871/2013
+Doc.12 – Portaria MEC n.° 328/2018
+Doc.13 – Portaria MEC n.° 523/2018
+Doc.14 – Portaria MEC n.° 343/2022
+Doc.15 – Portaria MEC n.° 371/2022
+Doc.16 – Acórdão ADI n.° 5.035
+Doc.17 – Acórdão ADI n.° 5.037
+Doc.18 – Edital MEC nº 6/2014
+Doc.19 – Edital MEC nº 1/2018
+Doc.20 – Portaria SERES/MEC n.° 924/2018
+Doc.21 – Nota Técnica n.° 1103/2015-SERES/MEC
+Doc.22 – Acórdão TCU 022.106/2015-4
+Doc.23 – Relatórios Consultoria HOPER
+Doc.24 – Sinopses estatísticas. Educação superior. Graduação - Censo da Educação Superior
+Doc.25 – Estudo do SEMESP
+Doc.26 – Acórdão ADI nº 34
+Doc.27 – Documento Ânima
+Doc.28 – Documento YDUQS
+Doc.29 – Documento COGNA
+Doc.30 – Documento AFYA
+Doc.31 – Acórdão ADI n.° 51
+Doc.32 – Lista de Ações Judiciais que caracterizam o dissídio jurisprudencial
+
+

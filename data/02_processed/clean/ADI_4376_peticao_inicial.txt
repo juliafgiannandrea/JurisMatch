@@ -1,122 +1,4125 @@
-[[pagina 1 | nativo]]
+[[pagina 1 | ocr]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO g
+SUPREMO TRIBUNAL FEDERAL
 
-[[pagina 2 | nativo]]
+Supremo Tribunal Federal
+ADI 0004378
 
-[[pagina 3 | nativo]]
+0000868-78.2010.1.00.0000
+28/01/2010 13:10
 
-[[pagina 4 | nativo]]
+A
 
-[[pagina 5 | nativo]]
+CONFEDERAÇÃO NACIONAL DO COMÉRCIO DE BENS, SERVIÇOS E
+TURISMO — CNC, entidade sindical de grau máximo, representativa da categoria
+econômica do Comércio, de Bens, Serviços e Turismo com circunscrição em todo o
+território nacional e sede no Distrito Federal, no Setor Bancário Norte, Quadra 1,
+Bloco B, 14º ao 18º andares, Edifício Confederação Nacional do Comércio, CEP
+70040-000, em Brasília, por seu advogado infra assinado, devidamente constituído
+pelo instrumento de mandato em anexo, vem, com apoio no inciso IX do artigo 103
+da Constituição da República, e considerando os artigos 169 e 178 do Regimento
 
-[[pagina 6 | nativo]]
+) Interno dessa Excelsa Corte, propor
 
-[[pagina 7 | nativo]]
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO DE MEDIDA LIMINAR,
 
-[[pagina 8 | nativo]]
+com o objetivo de suspender a eficácia e declarar a INCONSTITUCIONALIDADE da
+Lei do Estado de São Paulo nº 13.296, publicada no Diário Oficial do Estado de São
+Paulo, no dia 23 de dezembro de 2008, aprovada pela Assembléia Legislativa e
+sancionada pelo Exmo. Sr. Governador do referido Estado, José Serra, o que faz
+pelas razões que passa a expor:
 
-[[pagina 9 | nativo]]
+Outrossim, informa que as autoridades requeridas que responderão esta ação
+0 podem ser notificadas, respectivamente, nos endereços seguintes:
 
-[[pagina 10 | nativo]]
+1) Excelentíssimo Senhor Governador do Estado de São Paulo, José Serra,
+Palácio dos Bandeirantes, Av. Morumbi 4.500, Morumbi São Paulo,
+Capital, CEP 05650-000 e
 
-[[pagina 11 | nativo]]
+2) Assembléia Legislativa do Estado de São Paulo, na pessoa de seu
+Presidente — Deputado Estadual Barros Munhoz, Palácio 9 de Julho,
+situado na Avenida Pedro Álvares Cabral, nº 201, Ibirapuera, São Paulo-
+SP, CEP 04097-900
 
-[[pagina 12 | nativo]]
 
-[[pagina 13 | nativo]]
 
-[[pagina 14 | nativo]]
+0)
 
-[[pagina 15 | nativo]]
+[[pagina 2 | ocr]]
+DISPOSITIVO IMPUGNADO
 
-[[pagina 16 | nativo]]
+Ú3
 
-[[pagina 17 | nativo]]
+De início, antes de abordarmos a legitimidade ativa e a pertinência temática,
+dando cumprimento à determinação prevista no inciso | do art. 3º da Lei nº 9.868, de
+10.11.99, que dispõe sobre o processo e julgamento da ação direta de
+inconstitucionalidade, transcreve-se, desde logo, os dispositivos cuja
+inconstitucionalidade se quer ver declarada por esta Corte Suprema, especialmente,
+os artigos 2º ao 4º e os demais correlatos por arrastamento, todos da Lei nº 13.296,
+de 23 de dezembro de 2008, do Estado de São Paulo, que estabeleceu novo
+tratamento tributário para o Imposto sobre a propriedade de veículos automotores -
+IPVA, que para facilidade do exame, transcrevemos (inteiro teor em anexo):
 
-[[pagina 18 | nativo]]
+“Artigo 2º - O Imposto sobre a Propriedade de Veículos
+Automotores - IPVA, devido anualmente, tem como fato
+gerador a propriedade de veículo automotor.
 
-[[pagina 19 | nativo]]
+Artigo 3º - Considera-se ocorrido o fato gerador do
+imposto:
 
-[[pagina 20 | nativo]]
+) X - relativamente a veículo de propriedade de empresa
+locadora:
+a) no dia 1º de janeiro de cada ano, em se tratando de
+veículo usado já inscrito no Cadastro de Contribuintes do
+IPVA deste Estado;
+b) na data em que vier a ser locado ou colocado à
+disposição para locação no território deste Estado, em se
+tratando de veículo usado registrado anteriormente em
+outro Estado;
+c) na data de sua aquisição para integrar a frota destinada
+a locação neste Estado, em se tratando de veículo novo.
+Parágrafo único - O disposto no inciso X deste artigo
+aplica-se às empresas locadoras de veículos qualquer
+O que seja o seu domicílio, sem prejuízo da aplicação das
+disposições dos incisos Il a IX, no que couber.
+Artigo 4º - O imposto será devido no local do
+domicílio ou da residência do proprietário do veículo
+neste Estado.
+8 1º - Para os efeitos desta lei, considerar-se-á domicílio:
 
-[[pagina 21 | nativo]]
+2-seo proprietário for pessoa jurídica de direito privado:
 
-[[pagina 22 | nativo]]
 
-[[pagina 23 | nativo]]
 
-[[pagina 24 | nativo]]
+[[pagina 3 | ocr]]
+a) o estabelecimento situado no território deste Estado,
+quanto aos veículos automotores que a ele estejam
+vinculados na data da ocorrência do fato gerador; U Â
+b) o estabelecimento onde o veículo estiver disponível
+para entrega ao locatário na data da ocorrência do fato
+gerador, na hipótese de contrato de locação avulsa;
 
-[[pagina 25 | nativo]]
+c) o local do domicílio do locatário ao qual estiver
+vinculado o veículo na data da ocorrência do fato gerador,
+na hipótese de locação de veículo para integrar sua frota;
+3 - qualquer de suas repartições no território deste
+Estado, se o proprietário ou locatário for pessoa jurídica
+de direito público.
 
-[[pagina 26 | nativo]]
+8 4º - No caso de pessoas jurídicas de direito privado, não
+sendo possível determinar a vinculação do veículo na
+data da ocorrência do fato gerador, nos termos do item 2
+do 8 1º deste artigo, presume-se como domicílio o local
+do estabelecimento onde haja indícios de utilização do
+veículo com predominância sobre os demais
 
-[[pagina 27 | nativo]]
+0 estabelecimentos da mesma pessoa jurídica.
 
-[[pagina 28 | nativo]]
+S 6º - Em se tratando de veículo de propriedade de
+empresa de arrendamento mercantil (leasing), o
+imposto será devido no local do domicílio ou
+residência do arrendatário, nos termos deste artigo.
 
-[[pagina 29 | nativo]]
+8 7º - Para os efeitos da alínea “b” do item 2 do 8 1º deste
+artigo, equipara-se a estabelecimento da empresa
+locadora neste Estado, o lugar de situação dos veículos
+mantidos ou colocados à disposição para locação.
 
-[[pagina 30 | nativo]]
+Artigo 6º - São responsáveis pelo pagamento do imposto
+e acréscimos legais:
 
-[[pagina 31 | nativo]]
+VIII - a pessoa jurídica de direito privado, bem como o
 
-[[pagina 32 | nativo]]
+0 sócio, diretor, gerente ou administrador, que tomar em
+locação veículo para uso neste Estado, em relação aos
+fatos geradores ocorridos nos exercícios em que o veículo
+estiver sob locação;
 
-[[pagina 33 | nativo]]
+X - o sócio, diretor, gerente, administrador ou
+responsável pela empresa locadora, em relação aos
+veículos locados ou colocados à disposição para locação
+neste Estado;
 
-[[pagina 34 | nativo]]
+
+
+[[pagina 4 | ocr]]
+8 2º - A responsabilidade prevista nos incisos |, II, II, VII,
+VIH, IX, X, Xl e XII deste artigo é solidária e não comporta
+benefício de ordem.” UI
+
+DA LEGITIMIDADE ATIVA & PERTINÊNCIA TEMÁTICA
+
+A requerente, entidade fundada em 4 de setembro de 1945 e reconhecida
+pelo Decreto 20.068, de 30 de novembro de 1945, com representação em todo o
+território nacional, tem por objetivo, segundo seus Estatutos, representar, no plano
+nacional, os direitos e interesses do comércio brasileiro de bens, de serviços e de
+turismo; bem como defender, na condição de postulado filosófico, o direito de
+propriedade, a livre iniciativa, a economia de mercado e o Estado Democrático de
+Direito, e ainda os princípios de liberdade para exercer o comércio, estando,
+legitimada, nos termos do art. 103, inciso IX, da Constituição Federal, para deflagrar
+o controle concentrado de constitucionalidade, por configurar entidade sindical de
+grau máximo, nos termos do art. 8º, inciso IV da CONSTITUIÇÃO FEDERAL e do
+535 da Consolidação das Leis do Trabalho, com o indispensável registro no
+
+) Ministério do Trabalho.
+
+Preenche, portanto, todos os requisitos de legitimidade para a propositura de
+ações diretas de inconstitucionalidade, o que já restou reconhecido em diversas
+ADINSs por ela formuladas perante esse Egrégio Tribunal.
+
+Da mesma forma, encontra-se preenchido o requisito objetivo da relação de
+pertinência entre o inferesse específico da classe dos comerciantes, para cuja
+defesa esta entidade foi constituída e o ato normativo que é arguido como
+inconstitucional (cf. as ADIN nºs 77, 138 e 159) uma vez que a norma estadual que
+se pretende ver declarada a inconstitucionalidade, alterou a legislação referente ao
+IPVA incidente sobre automóveis das empresas locadoras de veículos com
+estabelecimentos localizados no Estado de São Paulo.
+
+Por essa nova legislação as locadoras de veículos devem recolher esse
+tributo em favor do estado de São Paulo em total desconsideração ao real fato
+gerador do referido imposto, exigindo o pagamento do IPVA mesmo que já tenha
+sido recolhido, de acordo com a legislação, em outro Estado da Federação.
+
+Para alcançar tal fim oportunista, o legislador do Estado de São Paulo
+atropelou diversos ditames constitucionais, acabando por legislar sobre matéria
+afetada ao direito civil, especialmente no que concerne ao conceito de domicílio,
+
+
+
+[[pagina 5 | ocr]]
+“responsabilidade civil solidária” e “benefício de ordem” cuja competência é
+exclusiva da União.
+
+Neste diapasão, as empresas locadoras de automóveis e arrendamento
+mercantil tiveram o IPVA de sua frota onerado de forma ilegal e inconstitucional
+causando prejuízos para este segmento sob o prisma econômico, mercadológico e
+financeiro sendo certo que estes estabelecimentos estão albergados no “quadro e
+atividades e profissões” a que se refere o art. 577 da Consolidação das Leis do
+Trabalho, enquadradas no Plano sindical da Confederação Nacional do Comércio
+(2º e 3º Grupos).
+
+Portanto, é evidente o interesse da Requerente na presente causa, restando
+demonstrada a legitimação subjetiva específica da pertinência temática, pois a CNC
+representa todo o empresariado do comércio, de bens, serviços e turismo e a Lei
+apontada incide sob seus representados.
+
+o DAS CONSIDERAÇÕES FÁTICAS INICIAIS
+
+No afã de aumentar as suas receitas tributárias, que já é a maior do Brasil, o
+Estado de São Paulo editou a Lei nº 13.296, publicada em 24/12/2008, que
+estabeleceu novas regras quanto ao recolhimento do Imposto sobre a Propriedade
+de Veículos Automotores (IPVA/SP), com o indisfarçável intuito de que o Estado
+beneficiário do tributo, ou seja, o sujeito ativo da obrigação tributária, fosse este
+próprio ente federativo.
+
+Para tanto fez tábula rasa de diversos preceitos constitucionais, apenas para
+começar, um deles seria a vedação de invasão de competência privativa da União
+para legislar sobre direito civil.
+
+Nos termos do art. 4º, inciso Il, “b" e “c” da Lei 13.296, o domicílio tributário da
+O empresa locadora de veículos será, para fins de incidência do IPVA/SP, assim
+considerado:
+
+(i) O estabelecimento onde o veículo estiver disponível para entrega ao
+locatário na data da ocorrência do fato gerador, na hipótese de contrato de
+locação avulsa; e (ii) O local do domicílio do locatário ao qual estiver
+vinculado o veículo na data da ocorrência do fato gerador, na hipótese de
+locação de veículo para integrar sua frota.
+
+
+[[pagina 6 | ocr]]
+A primeira hipótese trata de locação para locação ao público, ao passo que a
+segunda hipótese trata de locação de frotas inteiras a terceiros.
+
+A Lei nº 13.296/2008 desconsiderou o fato dos veículos terem sido adquiridos
+pela sede da empresa fora do Estado de São Paulo, bem como ou se os veículos
+estão registrados em outro Estado.
+
+Desta forma, acabou alterando o conceito de domicílio adotado pelo direito
+civil e acolhido pela Constituição Federal, com o objetivo de fazer incidir o IPVA
+sobre todos os veículos de locação em operação no Estado, independentemente do
+local da sede da empresa ou do registro do veículo.
+
+O foco principal desta desordenada ação legislativa paulista são as
+transportadoras e as locadoras de veículo, que usufruindo do benefício tributário da
+alíquota reduzida de IPVA oferecido por outros estados, como por exemplo,
+Paraná e Tocantins, estabelecem suas sedes nestes estados, onde compram os
+veículos utilizados na realização de suas atividades econômicas e, nestes estados,
+os registram em conformidade com o mandamento do Art. 120 do Código de
+
+0 Trânsito determinando que o veículo deve ser registrado no órgão executivo
+(Detran) do Estado de domicílio ou residência de seu proprietário.
+
+Por sua vez, o Código Civil em seu Art. 75 prevê a possibilidade de
+pluralidade de domicílios para a pessoa jurídica, situação típica das empresas que
+possuem diversas filiais pelo território nacional.
+
+Ora, não nos é possível vislumbrar qualquer irregularidade no fato de uma
+empresa registrar os veículos de sua propriedade no domicílio de uma ou de mais
+de uma de suas filiais. Estando o veículo devidamente registrado e licenciado não há
+qualquer restrição que circule por todo território nacional e até internacional. Em
+momento algum se defende a fraude de endereços, endereços falsos ou até
+'empréstimo' de endereços para gozar de qualquer benefício, mas o fato de que é
+
+0 plenamente lícita a prática de elisão fiscal dentro do mais justo e legal planejamento
+tributário.
+
+Pela simples leitura da Lei Paulista é fácil observar que o Estado de São
+Paulo quer criar e enfrentar uma “Guerra Fiscal com a força e não com a
+competência. Melhor seria se o seu Poder Legislativo criasse alíquotas competitivas
+para o IPVA de forma a fomentar que as empresas colocassem suas sedes sob seu
+território e não fazendo uma pirotécnica legislativa tributária.
+
+
+
+[[pagina 7 | ocr]]
+O episódio não está causando desconforto apenas nas empresas
+transportadoras e locadoras, bem como seus respectivos locatários que também têm
+sofrido, mas qualquer cidadão que esteja circulando por outra Unidade da
+Federação distinta da de registro de seu veículo, uma vez que se vê ameaçado.
+
+us
+
+Ademais, a indevida exigência vem causando graves prejuízos às locadoras
+de automóveis, afetando sua liquidez e comprometendo todo o seu planejamento na
+medida em que, para locar seus veículos a clientes localizados dentro do Estado de
+São Paulo, estão sendo obrigadas a registrar seus veículos junto ao Departamento
+de Trânsito deste Estado, despendo com isso elevadas quantias com despachantes,
+taxas etc, além de serem obrigadas a recolher o IPVA para SP, mesmo que o
+respectivo tributo já tenha sido recolhido ao Estado onde localiza a sede da empresa
+locadora e onde está registrado o veículo.
+
+Por outro lado, caso as empresas locadoras de automóveis não se sujeitem à
+indevida exigência, tornar-se-ão devedoras de tal tributo, sofrerão lavratura de Autos
+de Infração e Imposição de Multa, ficando, ainda, impossibilitadas de obter Certidão
+Negativa de Débitos, o que lhes causará sérias restrições em relação à consecução
+
+0 de seus objetivos sociais, impossibilitando, inclusive, a participação em licitações e
+obtenção de financiamento junto às Instituições Financeiras.
+
+Por todas estas razões, urge que medidas judiciais sejam tomadas.
+
+DA INCONSTITUCIONALIDADE FORMAL
+
+A pretexto de estar legislando sobre direito tributário, especialmente sobre o
+imposto sobre propriedade de veículo automotor — IPVA de SP, o que, em teoria,
+atrair-lhe-ia a competência legislativa concorrente que cabe aos Estados, acabou se
+desarvorando a legislar sobre matéria de direito civil no que se refere à conceituação
+e definição de domicílio de pessoas jurídicas, sendo esta matéria de competência
+
+0 privativa da União como o Supremo tribunal federal já se manifestou diversas vezes
+neste sentido.
+
+Antes porém de deixarmos bem claro a violação da Constituição Federal
+quanto ao art. 22, inciso |, o que implica em vício de inconstitucionalidade formal,
+para boa compreensão da questão, cabe algumas considerações acerca do fato
+gerador do IPVA.
+
+O artigo 155, inciso Ill, da Constituição Federal traz a regra-matriz de
+incidência do tributo que é a “propriedade de um veículo automotor”.
+
+
+
+[[pagina 8 | ocr]]
+A partir deste fato que ocorre em alguma cidade brasileira nasce para o
+Estado, sujeito ativo da obrigação tributária, o direito de cobrar IPVA do proprietário, UI
+sujeito passivo da obrigação.
+
+Para tanto, o veículo para sair da “loja” deve ser registrado para definir a
+quem será atribuída à competência para figurar como sujeito ativo da obrigação
+tributário do IPVA.
+
+Neste diapasão, a União Federal, dentro da sua competência privativa para
+legislar sobre trânsito na forma do art. 22, inciso XI da CF, instituiu o Código de
+Transito Brasileiro através da Lei 9.503/97, cujo art. 120 tem a seguinte redação:
+
+“Art. 120. Todo veículo automotor, elétrico, articulado,
+reboque ou semi-reboque, deve ser registrado perante
+o órgão executivo de trânsito do Estado ou do Distrito
+Federal, no Município de domicílio ou residência de
+
+O seu proprietário, na forma da lei. (grifos não constam no
+original)
+
+Portanto, o Código de Trânsito Brasileiro determina que os veículos sejam
+registrados no local em que a pessoa jurídica tenha o seu domicílio cuja doutrina
+define como:
+
+"É a sede jurídica da pessoa onde ela se presume
+presente para efeitos de direito e onde exerce ou
+
+pratica, habitualmente, seus atos e negócios
+jurídicos" (Washington de Barros Monteiro). Para
+
+Orlando Gomes, "domicílio é o lugar onde a pessoa
+estabelece a sede principal de seus negócios
+O (constitutio rerum et fortunarum), o ponto central das
+
+ocupações habituais”.
+
+Em nosso Código Civil encontramos a definição do domicílio da pessoa
+jurídica no art. 75 nos seguintes termos:
+
+“Art. 75. Quanto às pessoas jurídicas, o domicílio é:
+| - da União, o Distrito Federal;
+|| - dos Estados e Territórios, as respectivas capitais;
+Hi - do Município, o lugar onde funcione a administração
+municipal;
+
+
+[[pagina 9 | ocr]]
+IV - das demais pessoas jurídicas, o lugar onde
+funcionarem as respectivas diretorias e
+
+administrações, ou onde elegerem domicílio especial . Q
+ss i
+no seu estatuto ou atos constitutivos.”
+
+Da leitura acima, já podemos ter certeza do Fato gerador do IPVA que tem
+um critério material corporificado na propriedade do veículo automotor, um critério
+espacial que é o Estado onde foi registrado o veículo na forma do art. 120 citado e
+falta o critério temporal, ou seja, quando passa a ser devido o imposto.
+
+Este último aspecto é definido nas legisiações de cada estado que regula o
+IPVA, em geral é na data de sua aquisição, no primeiro dia de cada ano ou na data
+do desembaraço aduaneiro em caso de carros importados diretamente por pessoas
+físicas.
+
+Pois bem! A título de justificar estar legislando sobre IPVA a lei paulista nº
+
+1) 13.296/08 ignorou o critério espacial do IPVA no que tange ao conceito de sede
+
+empresarial e domicílio da pessoal jurídica impondo que qualquer empresa locadora
+
+de automóvel ou de arrendamento mercantil da automóveis que circulem ou estejam
+
+à disposição para locação em seu território terão que pagar IPVA para o Estado de
+
+SP, independentemente de sua sede ou domicílio gerencial ou administrativo.
+
+Chegou ao ponto de equipar a simples garagem onde os automóveis ficam
+
+guardados esperando para serem locados como estabelecimento ou domicílio como
+veremos nos 88 6º e 7º do art. 4º da Lei 13.296/08.
+
+Os artigos eivados de inconstitucionalidade formal são os seguintes:
+
+“Artigo 2º - O Imposto sobre a Propriedade de Veículos
+o Automotores - IPVA, devido anualmente, tem como fato
+
+gerador a propriedade de veículo automotor.
+
+Artigo 3º - Considera-se ocorrido o fato gerador do
+
+imposto:
+
+X - relativamente a veículo de propriedade de empresa
+locadora:
+
+a) no dia 1º de janeiro de cada ano, em se tratando de
+veículo usado já inscrito no Cadastro de Contribuintes do
+IPVA deste Estado;
+
+
+
+[[pagina 10 | ocr]]
+b) na data em que vier a ser locado ou colocado à
+disposição para locação no território deste Estado,
+em se tratando de veículo usado registrado
+
+anteriormente em outro Estado;
+c) na data de sua aquisição para integrar a frota destinada
+à locação neste Estado, em se tratando de veículo novo.
+
+Parágrafo único - O disposto no inciso X deste artigo
+aplica-se às empresas locadoras de veículos qualquer
+que seja o seu domicílio, sem prejuízo da aplicação das
+disposições dos incisos Il a IX, no que couber.
+
+Artigo 4º - O imposto será devido no local do
+domicílio ou da residência do proprietário do veículo
+neste Estado.
+
+81º - Para os efeitos desta lei, considerar-se-á
+
+domicílio:
+1) 2 - se o proprietário for pessoa jurídica de direito
+privado:
+
+a) o estabelecimento situado no território deste
+Estado, quanto aos veículos automotores que a ele
+estejam vinculados na data da ocorrência do fato
+gerador;
+
+b) o estabelecimento onde o veículo estiver disponível
+para entrega ao locatário na data da ocorrência do
+
+fato gerador, na hipótese de contrato de locação
+avulsa;
+
+cjo local do domicílio do locatário ao qual estiver
+
+vinculado o veículo na data da ocorrência do fato
+
+gerador, na hipótese de locação de veículo para
+) integrar sua frota;
+
+3 - qualquer de suas repartições no território deste
+
+Estado, se o proprietário ou locatário for pessoa
+jurídica de direito público.
+
+8 4º - No caso de pessoas jurídicas de direito privado, não
+sendo possível determinar a vinculação do veículo na
+data da ocorrência do fato gerador, nos termos do item 2
+do 8 1º deste artigo, presume-se como domicílio o local
+do estabelecimento onde haja indícios de utilização do
+
+
+
+[[pagina 11 | ocr]]
+veículo com predominância sobre os demais
+estabelecimentos da mesma pessoa jurídica.
+
+8 6º - Em se tratando de veículo de propriedade de 12
+empresa de arrendamento mercantil (leasing), o
+imposto será devido no local do domicílio ou
+residência do arrendatário, nos termos deste artigo.
+
+S$ 7º - Para os efeitos da alínea “b” do item 2 do 8 1º
+deste artigo, equipara-se a estabelecimento da
+empresa locadora neste Estado, o lugar de situação
+
+dos veículos mantidos ou colocados à disposição
+
+para locação.”
+
+Como se vê, o conteúdo se sobrepõe a forma uma vez que na real verdade a
+lei paulista não legislou sobre IPVA e sim sobre o conceito de domicílio, instituto
+próprio de direito civil. Neste particular o Supremo Tribunal Federal, pela sua
+composição plena, já deixou evidente que a lei tributária não pode alterar a
+definição, conceitos e formas de direito privado utilizados expressa ou implicitamente
+
+0) ainda que na forma parece algo diferente do real conteúdo. Neste sentido RE
+390840, Relator(a): Min. MARCO AURÉLIO, Tribunal Pleno, julgado em 09/11/2005,
+DJ 15-08-2006 PP-00025 EMENT VOL-02242-03 PP-00372 RDDT n. 133, 2006, p.
+214-215):
+
+“CONSTITUCIONALIDADE SUPERVENIENTE - ARTIGO
+3º, 8 1º, DA LEI Nº 9.718, DE 27 DE NOVEMBRO DE
+1998 - EMENDA CONSTITUCIONAL Nº 20, DE 15 DE
+DEZEMBRO DE 1998. O sistema jurídico brasileiro não
+contempla a figura da constitucionalidade superveniente.
+TRIBUTÁRIO - INSTITUTOS - EXPRESSÕES E
+VOCÁBULOS - SENTIDO. A norma pedagógica do
+) artigo 110 do Código Tributário Nacional ressalta a
+impossibilidade de a lei tributária alterar a definição, o
+conteúdo e o alcance de consagrados institutos,
+conceitos e formas de direito privado utilizados
+
+expressa ou implicitamente. Sobrepõe-se ao aspecto
+
+formal o princípio da realidade, considerados os
+elementos tributários. CONTRIBUIÇÃO SOCIAL - PIS -
+RECEITA BRUTA - NOÇÃO -
+INCONSTITUCIONALIDADE DO $& 1º DO ARTIGO 3º DA
+
+
+
+[[pagina 12 | ocr]]
+LEI Nº 9.718/98. A jurisprudência do Supremo, ante a
+redação do artigo 195 da Carta Federal anterior à
+
+pot
+9%)
+
+Emenda Constitucional nº 20/98, consolidou-se no sentido
+de tomar as expressões receita bruta e faturamento como
+sinônimas, jungindo-as à venda de mercadorias, de
+serviços ou de mercadorias e serviços. É inconstitucional
+o 8 1º do artigo 3º da Lei nº 9.718/98, no que ampliou o
+conceito de receita bruta para envolver a totalidade das
+receitas auferidas por pessoas jurídicas,
+independentemente da atividade por elas desenvolvida e
+da classificação contábil adotada.”
+
+Pelo acima exposto, o Estado de SP usurpou da sua competência legislativa,
+
+fazendo indevida intervenção do Poder Público paulista na atividade econômica e
+
+na propriedade privada nas empresas de locação e arrendamento mercantil de
+
+automóveis no estado, legislando sobre Direito Civil cuja competência é privativa da
+
+) União e reconhecida na ADIN nº 1.918-1/ES, em 23/08/2001, proposta pela própria
+CNC, em que foi relator o Ministro Maurício Corrêa, cujo voto citamos, verbis:
+
+“Não há dúvida que a lei estadual invadiu a
+competência exclusiva da União para legislar sobre
+direito civil (CF, artigo 22, 1). Com efeito, não assiste
+razão ao Estado do Espírito Santo ao sustentar que se
+trata de matéria de sua competência, relacionada com a
+defesa do consumidor (fls. 133), tendo em vista que a
+hipótese se enquadra claramente no rol daquelas em que
+se dá a intervenção do Poder Público na propriedade
+privada e na ordem econômica, questões a serem
+disciplinadas exclusivamente pela União (CF, artigos
+) 22, Helile 173).
+
+Nessa linha de orientação ensina Hely Lopes Meirelles:
+
+“A competência para intervir na propriedade e atuar no
+domínio econômico não se distribui igualmente entre as
+entidades estatais. A legislação sobre direito de
+propriedade e intervenção no domínio econômico é
+privativa da União (CF, an. 22, ll e Ill, e 173). Aos
+Estados e Municípios só cabem as medidas de polícia
+
+
+
+[[pagina 13 | ocr]]
+administrativa, de condicionamento do uso da
+propriedade ao bem estar social e de ordenamento das
+atividades econômicas, nos limites das normas federais.
+A intervenção no domínio econômico pelos Estados e
+Municípios só poderá ser feita por delegação do Governo
+Federal, que é detentor de todo o poder nesse setor”
+(Direito Administrativo Brasileiro, 26º edição, Ed. Malh.,
+SP, p. 559).” (grifo nosso)
+
+io
+
+Jem
+
+O posicionamento do STF é claro quanto aos Estados não poderem legislar
+sobre direito civil e as normas tributárias, no caso IPVA, não poderem alterar
+definições de direito privado de outros ramos do direito, razão pela qual entendemos
+que o exame da Lei estadual paulista nº 13.296/2008, não ultrapassará esta primeira
+inconstitucionalidade formal argúida em função da invasão de competência
+legislativa.
+
+O DA IMPOSSIBILIDADE DA LEI PAULISTA
+REVOGAR O BENEFÍCIO DE ORDEM
+
+Na mesma ordem de argumentos acima, o legislador paulista acabou
+extrapolando sua competência ao adentrar sobre o conceitos da “responsabilidade
+civil solidária” e do “benefício de ordem”, ambos institutos consagrados no direito
+civil e disciplinados pelo Código de 2002.
+
+Observa-se que o artigo 6º, incisos VIII, IX e X e seu 8 2º da Lei 13.296/08,
+criou uma desmensurada responsabilidade OBJETIVA para os sócios, diretores,
+gerentes e administradores no que se refere ao pagamento do IPVA da frota dos
+automóveis da pessoa jurídica. Vejamos o texto legal:
+
+) “Artigo 6º - São responsáveis pelo pagamento do
+imposto e acréscimos legais:
+
+VIII - a pessoa jurídica de direito privado, bem como o
+sócio, diretor, gerente ou administrador, que tomar em
+locação veículo para uso neste Estado, em relação aos
+fatos geradores ocorridos nos exercícios em que o veículo
+estiver sob locação;
+
+IX- o agente público responsável pela contratação de
+locação de veículo, para uso neste Estado por pessoa
+
+
+
+[[pagina 14 | ocr]]
+jurídica de direito público, em relação aos fatos geradores
+ocorridos nos exercícios em que o veículo estiver sob
+
+locação; 15
+X- o sócio, diretor, gerente, administrador ou responsável
+
+pela empresa locadora, em relação aos veículos locados
+
+ou colocados à disposição para locação neste Estado;
+
+8 2º - A responsabilidade prevista nos incisos |, II, III,
+VII, VII, IX, X, XI e XII deste artigo é solidária e não
+comporta benefício de ordem.”
+
+Como se vê, tais institutos de direito civil foram objeto de disciplimanento pela
+lei 13.296/08 que a pretexto de legislar sobre direito tributário no que concerne ao
+IPVA, legislou sobre direito civil cuja competência é privativa da União federal
+consoante art. 22, |, da CF e as decisões unânimes do STF acima transcritos,
+ficando evidenciada mais esta inconstitucionalidade formal.
+
+Note-se que a lei paulista não determina que a responsabilidade seja pessoal
+) somente nos casos de atos praticados com excesso de poderes ou infração a lei,
+contrato social ou estatutos como dispõe o art. 135 do Código Tributário Nacional,
+
+mas em qualquer situação, independentemente de qualquer culpabilidade.
+
+AS INCONSTITUCIONALIDADES MATERIAIS
+
+DA OFENSA DIRETA AO ARTIGO 155, INCISO III
+& 24, parágrafos 1º e 3º
+
+A Constituição Federal de 1988, em seu artigo 155, inciso III, autorizou os
+O) Estados e o Distrito Federal a instituírem o Imposto sobre a Propriedade de
+Veículos Automotores, nos seguintes termos:
+
+“Art. 155. Compete aos Estados e ao Distrito Federal
+instituir impostos sobre:
+
+
+Il — propriedade de veículos automotores. (grifos
+nossos)
+
+
+
+[[pagina 15 | ocr]]
+O Imposto sobre a Propriedade de Veículos Automotores - IPVA foi
+introduzido no Sistema Tributário Nacional pela Emenda Constitucional nº 27/85, que
+acrescentou ao artigo 23 da Constituição Federal de 1967, com redação da Emenda 4 f
+nº 1/69, o inciso Ill que estabeleceu o rol de impostos de competência estadual,
+dentre eles o IPVA. Referido imposto veio substituir a antiga Taxa Rodoviária Única
+(TRU), cobrada anualmente pela União no licenciamento dos veículos. A
+Constituição Federal de 1988 manteve a competência dos Estados e do Distrito
+Federal para exigirem o IPVA.
+
+Esta exação, criada em 1985, ao contrário do que ocorre com os demais
+impostos, não se encontra regulado pelo Código Tributário Nacional, cuja
+aprovação ocorreu em 1966. Assim, atualmente não há, conforme determina o
+artigo 146, inciso III, aliena “a”, da Constituição Federal, Lei Complementar
+Nacional estabelecendo normas gerais em matéria de legislação tributária,
+especialmente no que concerne à “definições de tributos e de suas espécies,
+bem como, em relação aos impostos discriminados nesta Constituição, a dos
+respectivos fatos geradores, bases de cálculo e contribuintes”.
+
+) Por esta razão, com amparo nos artigos 24, 8 3º, da Constituição Federal
+combinado com o art. 34, 8 3º, do ADCT, os Estados e o Distrito Federal vêm
+legislando, de forma, plena, com relação ao IPVA, o que é rconhecido em diversos
+acordãos do Supremo tribunal Federal — STF -, a destacar o RE 414.259-7, cujo
+relator é o Ministro Eros Grau.
+
+Diante do exposto é de se admitir que o legislador paulista venha exercer a
+competência plena que lhe é oferecida sem, contudo, contrariar os próprios limites
+que a CF lhe impõe demarcando a estrutura jurídico-tributária do IPVA, ou seja, não
+pode inovar ILIMITADAMENTE na estrutura de tributação de forma diferente de
+todos os demais Estados da federação. E o que extraímos da lição do Mestre
+tributarista Roque Antonio Carraza:
+
+) “Indaga-se, amiúde, se o legislador, ao exercitar a
+competência tributária, encontra limites jurídicos. Parece-
+nos induvidoso que sim.
+
+Um primeiro limite ele encontra na observância das
+normas constitucionais. O respeito devido a tais
+normas é absoluto e sua violação importa irremissívei
+inconstitucionalidade da lei tributária. De fato, as
+normas legais têm sua validade vinculada à
+
+
+
+[[pagina 16 | ocr]]
+observância e ao respeito aos limites erigidos pelas
+normas constitucionais.
+
+O legislador encontra outro limite nos grandes princípios
+constitucionais, estudados na primeira parte deste livro,
+que também não podem ser violados. É o caso dos
+princípios republicano, federativo, da autonomia municipal
+e distrital, da segurança jurídica, da igualdade, da reserva
+de competência, da anterioridade etc., que operam como
+balizas intransponíveis à tributação. (...)
+
+Logo, a Constituição limita o exercício da
+competência tributária, seja de modo direto, mediante
+preceitos especificamente endereçados à tributação, seja
+de modo indireto, enquanto disciplina outros direitos,
+como o de propriedade, o de não sofrer confisco, o de
+exercer atividades lícitas, o de transitar livremente pelo
+território nacional etc. A competência tributária, portanto,
+O já nasce limitada.
+
+Ilimitada, de resto, não é nem mesmo a autonomia das
+pessoas políticas, que encontra na competência
+tributária uma das mais salientes manifestações.
+
+Com tais assertos, estamos acolhendo as lições clássicas
+de Albert Hensel, par quem “cada norma jurídica tributária
+deve respeitar as limitações jurídicas fixadas na
+
+Constituição, como lei suprema”. E o caso aqui
+repetirmos que a Lei Maior Tributária — pelo menos no
+
+Brasil —- é a Constituição. (in Curso de Direito
+Constitucional Tributário, 11º edição, revista, ampliada e
+0) atualizada. Ed. Malheiros: SP, 1998, p.306).º
+
+Como salientado acima, os elementos estruturantes do IPVA são os critérios
+material, espacial e temporal que correspondem, respectivamente, a propriedade do
+veículo (material), local de registro na sede ou domicílio da pessoa jurídica (espacial)
+e no dia primeiro de cada ano (temporal).
+
+Todavia, de forma sutil e subjetiva para que não fosse de início percebido, a
+lei paulista, contrariando todo arcabouço constitucional do IPVA, disciplinou que
+a simples circulação do automóvel no território paulista configura elemento espacial
+
+
+
+[[pagina 17 | ocr]]
+do IPVA e a mera disponibilização do automóvel para locação configura o elemento
+temporal, sem levar em consideração qualquer critério de estruturação sistêmica dos
+tributos nacionais, especialmente quanto ao IPVA.
+
+A prova disso está na violação do art. 24, 8 3º da CF, que permite ao ente
+federativo estadual legislar sobre normas gerais mas com uma limitação, qual seja:
+para atender interesses peculiares da aplicação da lei do IPVA no estado de
+São Paulo.
+
+“Art. 24. Compete à União, aos Estados e ao Distrito
+Federal legislar concorrentemente sobre:
+
+8 1º - No âmbito da legislação concorrente, a competência
+da União limitar-se-à a estabelecer normas gerais.
+
+8 3º - Inexistindo lei federal sobre normas gerais, os
+Estados exercerão a competência legislativa plena,
+para atender a suas peculiaridades.”
+
+Ora, alterar o conceito de domicílio da pessoa jurídica e revogar a
+solidariedade e benefício de ordem instituídos no código civil não traz qualquer
+relação com os interesses peculiares do estado de SP que, frise-se, esta fora de
+sintonia com o IPVA de todos os demais estados da Federação.
+
+Pelo exposto, por qualquer lado que se interprete, não há dúvidas que a Lei
+Paulista nos seus artigos 3º, inciso X, letras a, be c e $ único bem como art. 4º 8
+1º, nº 2, letras a, be c, 88 6º e 7º laboraram em desvirtuamento do fato gerador
+do IPVA, razão pela qual é inconstitucional contrariando o artigo 155, inciso Ill e 24,
+881º e 3º da CF.
+
+0) DA BITRIBUTAÇÃO
+
+Na ânsia incontida de tributar, a Lei 13.296/2008, no seu artigo 3º, inciso X,
+letra b, no caso de automóveis usados, acabou tributando duas vezes um mesmo
+veículo num mesmo ano calendário, cobrando o IPVA mesmo que este tributo já
+tenha sido cobrado e pago em outro estado. É o que se extrai da leitura do artigo
+abaixo:
+
+“Artigo 3º - Considera-se ocorrido o fato gerador do
+imposto:
+
+
+
+
+[[pagina 18 | ocr]]
+X - relativamente a veículo de propriedade de empresa
+locadora: 9
+
+b) na data em que vier a ser locado ou colocado à
+disposição para locação no território deste Estado,
+em se tratando de veículo usado registrado
+anteriormente em outro Estado; “
+
+Como se vê, com fundamento na supra referida Lei Estadual, o erário exigirá
+das empresas locadoras de automóveis o IPVA supostamente incidente sobre
+todos os veículos postos em locação dentro do Estado de São Paulo,
+independentemente do local da sede da empresa ou do registro do veículo, mesmo
+que o referido imposto já tenha sido recolhido a outro Estado da Federação,
+pelo que, neste caso, a bitributação é evidente, e dispensa maiores
+argumentações técnicas.
+
+DA OFENSA A LIBERDADE TRÁFEGO
+
+Na mesma linha da bitributação, os arts. 3 e 4º acima transcritos da malsinada
+lei paulista, quando tributa por meio do IPVA os veículos registrados em outros
+Estados, mas que circulam no Estado de São Paulo, está, da mesma forma,
+transgredindo o preceito consagrado pelo artigo 150, inciso V, da Constituição
+Federal,que trata do princípio da liberdade de trafego, qual seja:
+
+“Art. 150. Sem prejuízo de outras garantias asseguradas
+ao contribuinte, é vedado à União, aos Estados, ao
+Distrito Federal e aos Municípios:
+
+1) V - estabelecer limitações ao tráfego de pessoas ou
+bens, por meio de tributos interestaduais ou
+intermunicipais, ressalvada a cobrança de pedágio pela
+utilização de vias conservadas pelo Poder Público; (grifos
+nossos)”
+
+Segundo os professores Motta e Barchet, in seu curso de Direito
+Constitucional, “o objetivo da regra é impedir que seja instituído um tributo que tenha
+como hipótese de incidência, especificamente, a circulação entre Estados e
+
+
+
+[[pagina 19 | ocr]]
+Municípios de pessoas e bens”. Ora, o disciplinamento do IPVA pela Lei paulista nº
+13.269/08 é uma querra fiscal declarada contra os demais estados da federação que
+acaba por limitar o trafego dos bens que, por serem registrados em outros estados,
+não podem circular no seu território sob pena de autuação administrativa e aplicação “O
+de multas. Exatamente o que o dispositivo constitucional deseja evitar. Patente,
+assim, mais uma violação constitucional.
+
+DA OFENSA AO PRINCÍPIO DA ISONOMIA
+
+Um dos mais nobres princípios erigidos na CF é o da isonomia e o artigo 9º,
+8 1º, da Lei Estadual nº 13.296/2008, ao tratar de forma desigual contribuintes que
+se encontram em situações semelhantes conseguiu, nesta avalanche de
+inconstitucionalidades, afrontar o artigo 150 da carta Magna.Vejamos o que dispõe o
+citada dispositivo: :
+
+“Artigo 9º - À alíquota do imposto, aplicada sobre a base
+de cálculo atribuída ao veículo, será de:
+
+0 (-)
+IV - 4% (quatro por cento) para qualquer veículo
+automotor não incluído nos incisos | a Ill deste artigo.
+
+8 1º - A alíquota dos veículos automotores a que se refere
+o inciso IV deste artigo, destinados à locação, de
+propriedade de empresas locadoras, ou cuja posse estas
+detenham em decorrência de contrato de arrendamento
+mercantil, desde que registrados neste Estado, será
+reduzida em 50% (cinquenta por cento).'
+
+Pela leitura da lei é fácil concluir que somente os veículos registrados no
+Estado de São Paulo é que podem se submeter à tributação estabelecida pela Lei
+O estaduaino 1329672008.
+
+Assim, a expressão contida no supra referido artigo “desde que registrados
+neste Estado” é letra morta.
+
+No entanto, ao se pretender tributar a circulação de veículos locados,
+independente do local em que os mesmos se encontram registrados e
+licenciados, como fez a multicitada Lei e, ainda, conceder redução de cinquenta por
+cento da alíquota somente para os veículos registrados neste Estado, estar-se-á
+instituindo tratamento desigual entre contribuintes que se encontram em situação
+
+
+
+[[pagina 20 | ocr]]
+equivalente, isto é, entre locadoras de veículos, o que é vedado pela
+Constituição Federa, in verbis:
+
+“Art. 150. Sem prejuízo de outras garantias asseguradas o
+ao contribuinte, é vedado à União, aos Estados, ao
+
+Distrito Federal e aos Municípios:
+
+|| - instituir tratamento desigual entre contribuintes
+que se encontrem em situação equivalente, proibida
+qualquer distinção em razão de ocupação profissional ou
+função por eles exercida, independentemente da
+denominação jurídica dos rendimentos, títulos ou direitos;”
+
+Neste sentido o Plenário do E. Supremo Tribunal Federal, em julgado
+memorável, reconheceu a inconstitucionalidade de norma que estabelecia o
+tratamento desigual entre contribuintes que se encontravam na mesma situação
+econômica.
+
+) “AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI
+ESTADUAL 356/97, ARTIGOS 1º E 2º. TRATAMENTO
+FISCAL DIFERENCIADO AO TRANSPORTE ESCOLAR
+VINCULADO À COOPERATIVA DO MUNICÍPIO.
+AFRONTA AO PRINCÍPIO DA IGUALDADE E
+ISONOMIA. CONTROLE ABSTRATO DE
+CONSTITUCIONALIDADE. POSSIBILIDADE.
+CANCELAMENTO DE MULTA E ISENÇÃO DO
+PAGAMENTO DO IPVA. MATÉRIA AFETA À
+COMPETÊNCIA DOS ESTADOS E À DO DISTRITO
+FEDERAL. TRATAMENTO DESIGUAL A
+CONTRIBUINTES QUE SE ENCONTRAM NA MESMA
+ATIVIDADE ECONÔMICA. INCONSTITUCIONALIDADE.
+
+O 1. Norma de efeitos concretos. Impossibilidade de
+conhecimento da ação direta de inconstitucionalidade.
+Alegação improcedente. O fato de serem determináveis
+os destinatários da lei não significa, necessariamente, que
+se opera individualização suficiente para tê-la por norma
+de efeitos concretos. Preliminar rejeitada.
+
+2. Lei Estadual 356/97. Cancelamento de multa e isenção
+do pagamento do IPVA. Matéria afeta à competência dos
+Estados e à do Distrito Federal. Benefício fiscal concedido
+exclusivamente àqueles filiados à Cooperativa de
+
+
+
+[[pagina 21 | ocr]]
+Transportes Escolares do Município de Macapá.
+
+Inconstitucionalidade. A Constituição Federal outorga . ; 2
+
+aos Estados e ao Distrito Federal a competência para
+instituir o Imposto sobre Propriedade de Veículos
+
+Automotores e para conceder isenção, mas, ao
+
+mesmo tempo, proíbe o tratamento desiqual entre
+
+contribuintes que se encontrem na mesma situação
+econômica. Observância aos princípios da igualdade,
+
+da isonomia e da liberdade de associação. Ação direta
+de inconstitucionalidade julgada procedente. (STF,
+Plenário, Relator Min. Maurício Corrêa, ADI 1655/AP —
+AMAPÁ, AÇÃO DIRETA DE INCONSTITUCIONALIDADE,
+Julgamento: 03/03/2004, Publicação DJ 02-04-2004 PP-
+00008, EMENT VOL-02146-01 PP-00156; grifos nossos)"
+
+Do cotejo do texto da lei paulista acima transcrita, do mandamento
+constitucional e da própria linha de decisões do STF é de clareza solar perceber a
+quebra o princípio isonômico imposto pela Carta Maior.
+
+A QUESTÃO DO ARTIGO 127 DO CÓDIGO TRIBUTÁRIO NACIONAL
+
+Para que não paire dúvidas nos argumentos acima levantados, embora essa
+questão na tenha cunho de natureza constitucional, poder-se-ia imaginar que a lei
+paulista estaria mudando o domicílio tributário das empresas locadoras de
+automóveis com fulcro no art. 127 do CTN que dispõe:
+
+“Art. 127. Na falta de eleição, pelo contribuinte ou
+responsável, de domicílio tributário, na forma da
+
+legislação aplicável, considera-se como tal:
+(..)
+
+) Il — quanto às pessoas jurídicas de direito privado ou às
+firmas individuais, o lugar da sua sede, ou, em relação
+aos atos ou fatos que deram origem à obrigação, o de
+cada estabelecimento;”
+
+Do texto legal, interpreta-se com facilidade que o domicílio tributário do
+contribuinte é o que a pessoa jurídica elege no seu estatuto ou Contrato social e na
+falta deste será o da sua sede.
+
+
+
+[[pagina 22 | ocr]]
+Somente na falta da eleição é que Administração Fiscal poderá afastar esse seu
+direito subjetivo. “3
+
+Na presente situação fática, cabe ás locadoras de automóveis realizar o
+registro de seus veículos no Órgão Executivo de Trânsito do Estado em que se situa
+o seu domicílio como determina o art. 120 do Código Brasileiro de Trânsito. Por sua
+vez, o domicílio das pessoas jurídicas que a lei 12.296/08 pretende tributar estão
+fora do Estado de São Paulo e, como já explicado nos parágrafos precedentes,
+Administração Fiscal Estadual não pode afastar este direito ou estabelecer
+domicílios diversos dos eleitos, sob pena de violar, em última análise e de forma
+indireta, o preceito consagrado pelo artigo 150, inciso V, da Constituição Federal.
+
+DA URGÊNCIA DA MEDIDA CAUTELAR
+
+É incontroverso que a tutela jurisdicional cautelar se impõe, pois estão
+presentes os requisitos necessários ao deferimento para a concessão de liminar.
+
+) Os vícios de inconstitucionalidade apontados, com clareza, denotam a
+existência do fumus boni iuris.
+
+A lei estadual nº 13.296, de 23 de dezembro de 2008, que criou uma
+equivocada estrutura de cobrança do IPVA só existe no estado de São Paulo, o que
+já denota um contra-senso.
+
+Por outro lado, é evidente que a vigência de norma flagrantemente
+inconstitucional trará prejuízos às locadoras de automóveis, afetando sua liquidez e
+comprometendo todo o seu planejamento na medida em que, para locar seus
+veículos a clientes localizados dentro do Estado de São Paulo, estão sendo
+obrigadas a registrar seus veículos junto ao Departamento de Trânsito deste Estado,
+despendo com isso elevadas quantias com despachantes, taxas etc, além de serem
+
+1) obrigadas a recolher o IPVA para SP, mesmo que o respectivo tributo já tenha sido
+recolhido ao Estado onde localiza a sede da empresa locadora e onde está
+registrado o veículo. Por outro lado, caso as empresas locadoras de automóveis
+não se sujeitem à indevida exigência, tornar-se-ão devedoras de tal tributo, sofrerão
+lavratura de Autos de Infração e Imposição de Multa, ficando, ainda, impossibilitadas
+de obter Certidão Negativa de Débitos, o que lhes causará sérias restrições em
+relação à consecução de seus objetivos sociais, impossibilitando, inclusive, a
+participação em licitações e obtenção de financiamento junto às Instituições
+Financeiras.
+
+
+
+[[pagina 23 | ocr]]
+Sobreleva, assim, a urgência do provimento jurisdicional cautelar, para
+imediata suspensão dos efeitos dos malsinados dispositivos da citada lei, a fim de, 4
+(o
+garantir a ulterior eficácia da decisão.
+
+Desse modo, com base no art.170, 8 1º, do Regimento Interno do STF,
+requer o deferimento liminar de medida cautelar, no sentido de que seja suspensa a
+vigência dos dispositivos cuja inconstitucionalidade ora se argúi, todos relacionados
+com a cobrança do IPVA no estado de São Paulo, até que seja definitivamente
+julgada a presente ação.
+
+XI- DO PEDIDO
+
+Isto posto, a Confederação Nacional do Comércio de Bens, Serviços e
+Turismo, respeitosamente, requer a essa Excelsa Corte que, após concedida a
+Medida Liminar suspendendo a eficácia dos dispositivos impugnados, sejam
+solicitadas informações ao Excelentíssimo Senhor Governador do Estado de São
+Paulo e à Colenda Assembléia Legislativa do mesmo Estado, sendo citado o
+O Advogado Geral da União e ouvido o Procurador Geral da República e, afinal, seja
+julgada em caráter definitivo a presente ação, a fim de declarar a
+inconstitucionalidade dos artigos 2º, 3º, inços X, letras a,b e c, 8 único; 4º,8 1º
+item 2, letras a,b e c, 88 6º e 7º, 6º, incisos VIII, IX e X, e 8 2º, e os demais que
+tiverem eventual correlação com estes por arrastamento, todos da Lei do Estado
+de São Paulo nº 13.296, de 23 de dezembro de 2008 por afronta aos artigos 22,
+inciso |, da Constituição Federal, se esta Egrégia Corte entender que houve violação
+da competência exclusiva da União para legislar sobre Direito Civil, ou por violação
+do disposto nos parágrafos 1º e 3º do artigo 24, da Constituição Federal, se a
+hipótese for de violação da limitação constitucional de competência para o Estados
+de São Paulo Federal legislar sobre normas gerais em matéria de tributária que não
+atendem as suas peculiaridades locais, bem como dos arts 150 caput e seu inciso
+Il, 155, inciso III da Constituição Federal, confirmando a liminar que, como se
+1) espera, haverá de ser deferida, por ser de Direito e de Justiça!
+
+Dá-se a causa o valor de R$ 1.000,00 (hum mil reais)
+
+Nestes Termos,
+Pede Deferimento.
+
+Brasília,
+
+CO tom indIR «fl )
+Orlando Spirétti de Santa Rita Matta
+OAB/RS 27.957
+
+
+
+[[pagina 24 | ocr]]
+PROCURAÇÃO (5
+
+A CONFEDERAÇÃO NACIONAL DO COMÉRCIO DE BENS, SERVIÇOS E
+TURISMO - CNC, entidade sindical de grau superior, CNPJ nº33.423.575/0001-
+76, com sede no Setor Bancário Norte, Quadra 01, Bloco B, nº 14, Brasília/DF,
+neste ato representada pelo seu Presidente, ANTONIO JOSÉ DOMINGUES DE
+OLIVEIRA SANTOS, brasileiro, casado, empresário do comércio, portador da
+carteira de Identidade do IFP nº 655.276-4, de 30/01/85 e do CPF
+nº014.706.557/72, residente e domiciliado na Cidade do Rio de Janeiro, nomeia e
+constitui como seus procuradores, na forma do inciso Il, do artigo 15, de seu
+Estatuto, os DRS. MARCELO MELO BARRETO DE ARAUJO, JORGE CÉZAR
+MOREIRA LANNA, NEUILLEY ORLANDO SPINETTI DE SANTA RITA MATTA,
+ANTONIO GUIMARÃES FILHO, JANILTON FERNANDES LIMA, ARY JORGE
+ALMEIDA SOARES, ANDRÉA SALGADO ESPÍNDOLA, CÁCITO AUGUSTO DE
+FREITAS ESTEVES, TATIANA MACHADO DUNSHEE DE ABRANCHES,
+LETÍCIA MARIA A. DE M. P. MARIZ DE OLIVEIRA, FERNANDO CESAR
+
+O THIAGO DE MELLO, FRANCISCO GUILHERME BRAGA DE MESQUITA e
+DAGMAR MARIA DE SANT'ANNA, brasileiros, advogados, o primeiro divorciado,
+os nove seguintes casados, com exceção dos 3 últimos, que são solteiro,
+separado judicialmente e divorciada, respectivamente, todos com endereço na
+Avenida General Justo, nº307, 5º andar, Rio de Janeiro/RJ, inscritos na OAB/RJ
+nº. 30.299; OAB/RJ nº. 58.403, OAB/RS nº. 27.957; OAB/RJ nº.88.017, OAB/RJ
+nº. 79.551; OAB/RJ nº 64.904; OAB/RJ nº. 92.600; OAB/RJ nº 80.433, OAB/RJ
+nº. 97.613, OAB/RJ nº. 51.856, OAB/RJ nº. 63.608, OAB/RJ nº 150.250, e
+OAB/RJ nº. 22.605, e os DRS. CRISTINALICE MENDONÇA SOUZA DE
+OLIVEIRA, ANTONIO LISBOA CARDOSO e ANA PAULA TOMAZZETTI URROZ
+MACIEL PINHEIRO, brasileiros, advogados, casados, residentes e domiciliados
+em Brasília/DF, inscritos na OAB/DF sob os nºs. 10.891; nº 9.901 e nº 10.598,
+concedendo-lhes poderes especiais para propor, agindo em conjunto ou
+
+) separadamente, Ação Direta de Inconstitucionalidade perante o Supremo
+Tribunal Federal, em face da Lei nº 13296, de 23 de dezembro de 2008, do
+Estado de São Paulo, podendo formular requerimentos, apresentar memoriais,
+fazer sustentação oral e praticar os demais atos inerentes ao presente mandato,
+inclusive substabelecer.
+
+Rio de Janeirg,/18 de janeiro de 2010.
+
+ANTONIO JOSÉ DOMINGUES DE OLIVEIRA SANTOS
+Presidente
+
+
+[[pagina 25 | ocr]]
+Diário Oficial
+
+Estado de São Paulo
+
+Palácio dos Bandeirantes Av, Morumbi 4.500 Morumbi
+
+São Paulo
+
+Volume 118» Numero 243 + Sao Paulo, quarta-lena, 24 de dezembro de 2008
+
+Lei Complementar
+
+LEI COMPLEMENTAR Nº 1082,
+OE 17 DE OEZEM E2
+
+Altera a Les Complementar nº 478, de 18
+de julho de 1986 - Le Orgânica da
+Proaradons Geral do Estado, e da prow-
+dências correlatas
+
+Relificação do D.0. de 18-12-2008
+
+leis-se coma segue e não como constou:
+
+Artigo 3º - Ficam criados, na Tabela |, do Subqua-
+dro de Cargos Públicos (5QC-I), do Quadro da Procura-
+doria Geral do Estado, 2 (dois) cargos de Procurador
+do Estado Assessor, enquadrados na referência 7, de
+Escala de Vencimentos de que trata O artigo 2º da Les
+Complementar nº 724, de 15 de julhu de 1993, altera-
+«a pala inciso Il de artigo 1º da Lei nº 6.828, de 11 de
+julho de 1994,
+
+Publicada na Assessoria Técnico-Legislativa, aos 23
+da dezembro de 2008,
+
+LEI COMPLEMENTAR Nº 1084,
+DE 17 DE DEZEMBRO DE 2008
+
+Antera 3 Les Complementar nº 734, de 26
+de novembro de 1993 (ter Orgaruca do
+Monistério Publico do Estado) e dá auras
+promeércias
+
+Retificação do D.0. de 18-12-2008
+
+leia-se como segue E não coma constou:
+
+Antigo 9º - Os drsposilivos da Les Complementar nº
+734, de 26 de novembro de 1993, a seguir enumerados
+pessam a vigorar com a seguinte redação:
+
+XXI - os disposilivos à seguir indicados do artigo
+181;
+b) o $ 4º enclulde no artigo 187:
+
+“64º - À ajuda de custo de que trata O inciso XVI-
+A será disciplinada por ato do Procurador-Geral de hrs-
+tçã e seu valor anual não poderá exceder a 15% (quin-
+ze por cento) do valor correspondente ao subsidio
+mensa! devido 30 Promotor de Justiça Substituto. ”
+(NR)
+
+Publicada na Assessoria Técnico-Legislativa, aos 23
+de dezembro de 2008.
+
+Leis
+
+LEINº 13.296,
+DE 23 DE DEZEMBRO DE 2008
+
+Estabejfece 0 tratamento tnbutário do
+de
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber qua a Assembleta Legislativa decreta e
+eu promulgo a seguinte hei:
+
+SEÇÃO |
+
+DISPOSIÇÕES PRELIMINARES
+
+Artigo 1º - Fica estabelecide, por esta lei, a trata-
+mento tributário do Imposto sobre a Propriedade de
+Veicutos Automotores - IPVA.
+
+Parágrafo ónico - Considera-se veicula automotor
+aquele dotado de mecanismo de propulsão própria e
+que sirva para q transporte de pessoas ou coisas ou
+para a tração de veiculos utilizados paro 0 transporte
+
+DO FATO GERADOR
+Astigo 2º - O Imposto sabre a Propriedade de Vetcu-
+las Automotores - IPVA. devido rey tem como
+
+V- ma data em que deixar de ser preenchido regui-
+sito que tiver dado causa à imunidade, isenção ou dis-
+pensa de pagamento;
+
+VI - na date da amematação, em se tratando de
+veículo novo adquirido em leilão;
+
+VII - na data em que estiver autorizada sua utiliza-
+ção, em se tratando de velculo não fabricado em série,
+
+VIII - na deta de saída constante da Nota Fiscal de
+venda da carroceria, quando já acoplada ao chassi do
+vekulo objeto de encarroçamento;
+
+IX - na data em que o proprietário ou o responsá-
+vel pelo pagamento do imposto deveria Ler famecido
+us dados necessários à inscrição no Cadestro de Con-
+tribuntes do IPVA deste Estado, em se tratando de vet-
+culo procedente de outro Estado ou do Distrilo Federal;
+
+X - relativamente a veículo de propriedade de
+empresa locadora:
+
+a) no dia 7º de janeiro do cada ano, em se tratando
+de veiculo usado já inscrito na Cadastro de Contribuin-
+tes do IPVA deste Estado;
+
+b) na data em que mer a ser locado ou colocado à
+disposição para locação na território deste Estado, em
+se tratando de vekulo usade registrado arneriormente
+em outro Estado; ,
+
+c) na data de sua aquisição para imegras a froça
+destinada à locação neste Estado, em se tratando de
+velculo novo.
+
+Parágrafo único - O disposto na inciso X deste artt-
+go aplica-se às empresas locadoras de velculos qual-
+quer que seja 0 seu domíllio, sem prejulzo de aplica-
+ção das disposições dos incisas | a 1X, no que couber.
+
+Artigo 4" - O imposto será devido no local do
+domicilio ou da residência do proprietário do veleulo
+neste Estado,
+
+51º - Para os efeitos desta lei, considerar-se-á
+domicílio:
+
+1-se o proprietário for pessoa natural:
+
+a) a sua residência habitual;
+
+b) se à residência habituat for incerta ou desconhe-
+cida, o centro habitual de sua atividade onde o veículo
+esteja sando utilizado;
+
+2 - sê O proprietário for pessoa jurídea de direito
+privade:
+
+a) o estabelecimento situado no território deste
+Estado, quanto aos velculos automotores que a ele
+estejam vinculados na data da ocorrência do fato gera-
+dor,
+
+b) o estabelecimento onde 0 veículo estiver dispo-
+nível para entrega ão locatário ria data da ocomência
+do fara gerador, na hipótese de contrato de locação
+avulsa;
+
+€) o local do domicíio do locatário ao qual esliver
+vincutado o veiculo na data da ocorrência do fato gera-
+dor, na hipótese de locação de veiculo para integrar
+sua frota;
+
+3 - qualquer de suas repartições no temitorio deste
+Esado, se o proprietário ou locatário far pessoa jurídi-
+ca de direita público.
+
+$ 2º - No caso de pessoa natural com múltiplas
+
+idências, pr tomo icílio Irbutário pera
+fins de pagamento do IPVA:
+
+1-0 tocal onde, cumutativamente, possua cesidên-
+cia e exerça profissão;
+
+2 - caso pessua residência e exerça ptofissão em
+mais de um kocal, o endereço constante da Declaração
+de Imposto de Renda.
+
+53º - Na impossibilidade de se precisar o domicilio
+tributário da pessoa natural nos termos dus $8 1º e 2º
+deste arugo, à autoridade adrrynisirativa poderá fixá-lo
+tomando por base o endereço que viar a ser apurado
+em órgãos públicos, nos cadastros de domícílio eleito-
+rel e nos cadastros de empresa seguradora e conces-
+sionária de serviço público, dentre outros.
+
+54º - No caso de pessaas jurídicas de direito priva-
+da, não sendo possivel determinar a wncuilação do vel
+culo na data da ocorrência do fato gerador, nus termos
+do item 2 do $ Yº deste artigo, presume-se como domi-
+eilio v local do estabelecimento onde haja indicios da
+
+fato geradar a propriedade de veículo atamotor.
+
+Artigo 3º - Considera-se ocomido 0 fato gerador do
+imposto:
+
+1- no dia 1º de janeiro da cada ano, em se batan-
+do de velcula usado;
+
+91 - na data da sua primeira aquisição pelo consu-
+midor, em se tratando de veículo novo;
+
+IH - na data de seu desembaraço aduanevo, em se
+tratando de veículo importado diretamente de exterior
+pelo consumidor;
+
+WW - na data da incorporação do veículo novo aa
+ativo permanente do labricanta, do revendedor ou do
+importador;
+
+do veiculo com predominância sotye os
+demais estebelecamentos da mesma pessoa jurídica.
+
+& 5º - Presume-se domiciliado no Estado de São
+Paulo 0 proprietário cujo velculo estiver registrado no
+úrgão competente deste Estado.
+
+5 6º - Em se tratando de vekallo de propriedade de
+
+presa de arrend il (leasing), O
+imposto será dedo na local do domíílio ou residên-
+cia do amrenderario, nos termos deste artigo.
+
+57º - Para 0s efeitos da alinea "b” do item 2 do $
+1º deste artigo, equipara-se a estabelecimento da
+empresa locadora neste Estado, q lugar de situação
+dos veiculos mantidos ou colocados à disposição para
+locação.
+
+José Serra - Governador
+
+CEP 05650-000 Tel: 2193-8000
+
+way imprensaoticial.com.br
+
+SEÇÃO
+
+DO CONTRIBUINTE E DO RESPONSAVEL
+
+Anigo 5º - Contribuinte do imposto é 9 proprietário
+do veículo.
+
+Parágrafo unico - No caso de pessoa jurídica, con-
+sidera-se contribuire:
+
+1 - cada um dos seus estabelecimentos para fins de
+cumprimento das obrigações contidas nesta lei;
+
+2 - o conjunta dos estabelecimentos para fins de
+garantia do cumprimento das obrigações.
+
+Anigo 6º - São responsáveis palo pagamento do
+imposto e acréscimos legais:
+
+1-0 adquirente, em relação ao vekulo adquirido
+sem o pegamento do imposto e acréscimos legais do
+exercício ou exercícios anteriores;
+
+Il - o proprietario de velculo automotor que q Alie-
+nar e não famecer os dedos necessários à aileração no
+Cadastro de Contribuintes do IPVA no prazo de 30
+(trinta) dias, em relação dos fatos geradores ocorridos
+ente 0 ( eodo i
+
+PODER
+
+Executivo
+SEÇÃO |
+
+imprensaoficial
+
+veleulo usado cortante da tebela de que trate o 8 1º
+deste artigo;
+
+II - na hipotese do inciso Il e X, alinea “c”, do ani-
+go 3º desta lei, 0 valor total corslante do documento
+fiscal de aquisição do velcula palo consumidor;
+
+HI - na hipótese do snciso III do artigo 2º desta ter,
+o valor da de imp aces-
+cido dos valores dos tribulos devidos em razão da
+
+portação, ainda que não idos pelo importador;
+
+IY - na impotese do inciso IV do artigo 3º desta lei:
+
+a) para q fetricante, 0 vakor médio das operações
+com veicuks do mesmo tipo que tenha comercializado
+no mes anterior ao da ocorrência do fato geradar;
+
+b) para o revendedor, o valor da operação de aqui-
+sição do veículo, constante do documento fiscal de
+aquisição;
+
+c) para q importador, o valor a que se refere o inci-
+so III deste artigo.
+
+V- na hipótese do ineiso VI do artigo 3º desta lei, o
+valor da ido des despesas cobradas
+
+desta pela autoridade responsável,
+
+II) - o Ieiloeiro, em relação ao veículo adquirido ou
+arrematado em leilão € entregue sem comprovação do
+pagamento do IPVA e acréscimos legais pendentes
+sobre 9 mesmo, correspondente 20 exertkio ou exert-
+cios anteriores,
+
+IY - o inventariante, pelos débitos devidos pelo
+espólio;
+
+V- 0 tutor ou o curader, pelos débitos de seu tute-
+lado ou curatelado;
+
+Vi - a pessoa juridica que resultar da fusão, incor-
+poração ou cisão de outra ou em ousa pessoa juridica;
+
+Vil - o agente pública que autorizar nu efetuar o
+registro, licenciamento ou a trarrsferência de proprie-
+dade de vekulo automotor neste Estado, sem a com-
+
+ou da h da
+
+ou debitadas do arrematante e dos valores dos tributos
+incidentes sobre 3 operação, ainda que não recolhidos;
+VI - na hipótese dos incisos Vil e VII! do artigo 3º
+deste lei, & soma dos valores atualizados da aquisição
+de suas partes e peças e outras despesas, também
+alualizadas, que incorrerem na sua montagem.
+87º - Para eferto da disposto no inciso [ deste asti-
+go, o Poder Executivo divulgará o valor de mercado
+por meio de tabela, corsiderando na sua elaboração a
+marca, o modelo, a espécie e 0 ano de fabricação.
+42º - À tabela à que se refere o $ 1º deste artigo,
+deverá ser divulgada para vigorar no exercício seguirt-
+18, £ na fixação dos valores serão observados us preços
+médios de mercade vigentes no mês de setembro.
+53º - Havendo veículo cujo modelo não tenha sido
+izado no mês de setembro, adotar-se-á o
+
+provação do pag
+imunidade, da concessão da isenção ou dispensa do
+pagamento do imposto;
+
+Vill - a pessoa juridica de direito privado, bem
+como o sócio, diretor, gerente ou adrrunistrador, que
+lLomar em locação valculo para uso neste Estado, em
+relação dos fatos geradores ocorridos nos exercícios
+em que o veículo estiver sob locação:
+
+IX- o agente público resporsável pala contratação
+de Jocação de veículo, para uso neste Estado por pes-
+soa juridica de direito público, em relação aos fatos
+q ocorridos nas ios em que o veículo
+estiver sob locação;
+
+X-o sócio, duetor, gerente, administrador ou res-
+ponsável pela empresa locadora, em rejação 205 velou-
+los locados ou colocados & disposição para locação
+neste Estado;
+
+Xi - o blular do domínio ou o possuidor a qualquer
+ttulo;
+
+XI1 - todo aquele que efetivamente concorrer para
+a sanegação do imposto.
+
+$ 1º - No caso de velculo abrangido pela imunida-
+de, isenção ou dispensa do pagamento da imposto, o
+agente público ou q feiloeiro deverá exigir a respectiva
+comprovação.
+
+$ 2º - A resporsabulidade prevista nos incisos |, II,
+ME VU, VIE, IX, X, Xº e XII doste antigo é solidária e não
+tomporta beneficia de ordem.
+
+53º - Para eximir-se da prevista
+
+vaior de cuta da mesmo padrão,
+
+$4º - O Poder Exeanivo poderá adolar como base
+do cáículo:
+
+1- para o vekeulo com mais de 10 (dez) anos e até
+20 (vinte) anos de fabricação, valor equivaleme a 90%
+(noventa por cento) da base de calculo corespandente
+à do veículo fabricado no aou imediatamente poste-
+nor;
+
+2 - para 0 veículo com mais de 20 (vinte) anos da
+fabricação, a mesma base de cákulo do veículo com
+20 anos de tabricação;
+
+3 - para os velculos usados referidos nos incisos Vil
+e VIlk do artigo 3º desta lei, o valor de registro do vel-
+tulo novo, depreçiado à taxa de 10% (dez por cento)
+em relação à base de cálculo utilizada no ano imedia-
+ramente anterior.
+
+65º - O Poder Executivo poderá fumar convênios
+ou contratar serviços com entidades especializadas
+para a pesquisa dos vakwes médios de mercado dos
+velculos usados.
+
+$ 6º - Para determinação da base de cálculo é ime-
+levante o estade da corrservação do veículo.
+
+& 7º - Na falta do documenta referido no inciso Ill
+deste artigo, será considerado, para à fixação da base
+de cálculo, o valor constante do documento expedido
+pelo órgão federal campetante para a cobrança da tri-
+buto devido pela importação, acrescido dos demais
+
+nos incisos Vil e IX deste antigo, a pessoa juridica ou o
+agente público deverá exigir comprovação de regular
+inscrição da empresa locadora no Cadastro de Contri-
+buintes do IPYA, bem como do pagamento do imposto
+devido a este Estado, relativamente aos veiculos obje-
+tos da locação.
+
+SEÇÃO Iv
+
+DA BASE DE CALCULO DO IMPOSTO
+
+Artigo 7" - A base de cálculo do imposto é:
+
+| - na hipótese dos incisos |, V, IX e X, alineas “a”
+
+e "b”, do antigo 3º desta lei, u valor de mercado do
+
+& 8º - A atualização de que trata q inciso VI deste
+artigo far-se-á pela variação da Unidade Fiscal de Esta-
+do de São Paula - UFESP, mediante multiplicação da
+valor constante des dncumentos de equisição das par-
+tes, peças e despases de montagem, pelo coeliciente
+oblido com 4 divisão do valor nominal da UFESP, no
+mês da deta de ocomência do fato gerador, pelo valor
+da mesma unidade no mês de aquisição das partes,
+peças e despesas de montagem.
+
+5 9º - Nas setuações em que for cansiatada nolória
+redução nos preços médios de mertado vigentes entre
+
+Comunicado
+
+Conforme Decreto nº 53. 723, de
+
+terivelmente.
+
+IMPRENSA OFICIAL DO ESTADO S/A
+
+encerramento do expediente nas repartições publicas estaduais, a
+Imprensa Oficial do Estado comunica aos seus clientes que nos dias 24
+e 31-12 receberá os arquivos para publicação até às 12 horas, impre-
+
+25-11-2008, que dispõe sobre o
+
+/6
+
+
+[[pagina 26 | ocr]]
+quarta-feira. 24 de dezembro de 2008
+
+Oiário Oficial Poder Executivo - Seção |
+
+São Paulo, 118 (243) —
+
+O mês de setembro e o mês de dezembro, poderá o
+Poder Execunivo, excepcionalmente, autorizar a sedu-
+ção de hase de cálculo.
+
+Artigo àº - O Poder Executivo poderá arbitrar a
+base de cálculo:
+
+|. na impossitdiiade de determinação dos valores,
+nos termos do artigo 7º desta lei;
+
+Il - na verificação de incompatihilidade entre o
+valor de aquisição do veículo e q valor de mercado.
+
+SEÇÃO v
+
+DAS ALÍQUOTAS
+
+Artigo 9º - A alíquota do imposta, aplicada sobre a
+base de cálculo atribulda ao veículo, será de:
+
+)- 1,5% (um mteiro e cingdenta centésimos por
+cento) para veículos de carga, tipo ceminhão;
+
+1- 2% (dois por cento) para:
+
+a) onibus e microónibus;
+
+b) caminhonetes cabine ;
+
+€) motocicetas, ciciamotores, motonetas, treiclos
+e quadricicos,
+
+9) máquinas de terraplenagem, empilhadeiras,
+guindastes, locomotivas, tratores e similares;
+
+dit - 3% (três por certo) para velculos que ubliza-
+rem motor especificado para funcionar, exrlusivamen-
+te, com os seguintes combustíveis: álcool, gás natural
+veicular ou eletricidade, ainda que entre
+
+sobre fato gerador ocorrido anteriormente ao evento,
+ainda que no mesmo exerckcio.
+
+52º O Poder Executivo poderá dispensar o paga-
+mento do imposto incidente a partir do exercicio
+seguime 20 da data da ocumência du evento nas hipó-
+teses de perda total do veículo pos furto ou roubo
+ocorridos fora do termtório paulista, por sinistro ou por
+outros mativos, previstos em regulamento, que desca-
+racterizem o dominio ou a posse.
+
+83º - Os procedimentos concementes à dispensa,
+à restituição e à compensação serão disciplinados por
+ato do Poder Executiva.
+
+Antigo 15 - Poderá ser dispensado 0 pagamento do
+imposto relativo ao velculo de propriedade de empresa
+locadora:
+
+1- a part do mês seguinte ao da transferência
+para operação do veículo em outro Estado, em caráter
+hão esporádico, desde que seja comprovado o paga-
+mento proporcional aos meses restantes do 8no civil
+em favor do Estado de destino, se assim estiver previs-
+to na legislação do referido Estado;
+
+N - quando, na hipótese prevista na alinea “b” do
+inciso X do artigo 3º desta lei, tratar-se de veículo des-
+tinado à locação avulsa, £ a permanência neste Estado
+seja temporária, conforme disposição regulamentar,
+
+si;
+
+IY - 4% (quatro por cento) para qualquer velculo
+automotor não incluído nos incisos | a JH deste artigo.
+
+SIr-A aliquota dos veículos automotores à que
+se refere 0 inciso |V deste artigo, destinados à locação,
+de prog de Ou cuja posse
+estas detenham em decorrência de contrato de arren-
+damento mercantis, desde que registrados neste Esta-
+do, será redunde em 50% (cinquenta por cento).
+
+$ 2º - Considera-se empresa locadora de veículos,
+para os efeitos da $ 1º, a pessoa jurídica cuja atividade
+de locação de veículos represente no minima 50% (cin-
+quenta por cento) de sua receita bruta, mediante reco-
+
+ida pela
+
+Secretaria da Fazenda.
+$3º - Será aplicada, excepcionalmenta, aliquota
+de 3% (tres por certo) pera veiculos fabri até 31
+
+o disposto Do artigo 33 desta le.
+
+Parágrafo único - O imposta pago será restituldo
+proporcionaimente em telação ao pariado em que se
+configure 8 hipótese prevista no inciso | deste artigo,
+
+Arugo 16 - Vertficado que o beneficiário não
+preenchia ou deixou de preencher as condições exigi-
+das para A imunidade, enção qu dispersa, O imposto
+doverá ser recolhido no prazo de 30 (tiras) dias conta-
+dos da data da ocorrência do evento, observedo o dis-
+pasto no parágrafo onico do artigo 11, & a base de cál-
+culo do imposto será defmida em conformidade com os
+artigos 7º ou Bº, Lodos desta lei,
+
+SEÇÃO Vil
+
+DO LANÇAMENTO DO IMPOSTO
+
+Antigo 17 - O cortribunte ou 0 responsáveí eletua-
+ró anualmente o pagamento do imposto, na lurma
+estabelecida pelo Poder Executivo, o quai ficará sujeito
+
+peta
+
+de dezembro de 2008 que utilizarem motor especifica-
+do para funcionar exclusivamente a gasolina, quando
+adeptado, até a mesma data, para funcionar de manei-
+ra combinada com gás natural veicular, ficando conva-
+lidados 05 p
+
+SEÇÃO VI
+
+DO CÁLCULO DO IMPOSTO
+
+Artigo 10 - D valor do impostu será abtido medan-
+te a muhiplicação do aliquota pela base de cálculo.
+
+Artigo 11 - Nos casos de que tratam os incrsas Il a
+X, alineas "b” e “e” do artigo 3º desta les, o imposto
+será calculado de forma proporcionak ao número de
+meses restantes do ano civil.
+
+Parágrafo único - Para efeito de contagem do
+número de meses restantes do ana civil, será incluldo o
+mês da ocoriência do fato gerador.
+
+SEÇÃO Vil
+
+DA IMUNIDADE, DA ISENÇÃO E DA
+
+DISPENSA DO PAGAMENTO DO IMPOSTO
+
+Artigo 12 - O Poder Executivo disciplinará procedi-
+mena para o reconhecimento das imunidades, para a
+concessão des isenções e pará a dispensa do paga-
+mento da imposto.
+
+Anigo 13- Eisenta do IPVA a propriedade:
+
+I-de
+
+para fins
+
+agricolas;
+
+11 - de veiculo ferroviário;
+
+Mt - de um único veículo adequado para ser condu-
+2xdo por pessoa com deficiência fisica;
+
+IY - de um único velculo utilizado no Tersporta
+púbtico de passageiros na categoria alaguel (Láxi), de
+
+úpriedade de motorista profissional autónomo, por
+ele utilizado em sua atividade profissional;
+
+V - de veículo de propriedade de Embaixada,
+Representação Consular, de Embaixador & de Repre-
+sentante Cônsular, bem como de funcionário do carrei-
+ra diplomática ou de serviço corsular, quando façam
+jus 6 tratamento diplomático, e desde que o respectivo
+país de origem conceda reciprocidade de tratamento;
+
+4 - de ônibus ou miraônibus empregados exchusi-
+vamente no transporte público de passageiros, urbano
+
+compe-
+Hliva
+
+1- da data da emissão da Nola Fiscal referente à
+sua aquisição;
+
+| - da data de seu desembaraço aduaneiro, em se
+tratando de veículo importado diretamente pelo consu-
+midor;
+
+HI - da data de sua Meorparação ao ativo perma-
+nente, em se tratandu de veiculo colocado em uso por
+aquele que o falmcou ou por revendedores,
+
+Iv - da data de sua autorização pera uso, em se
+tratando de velculo não fabricado em série;
+
+V - da deta de salda constante de Nota Fiscal de
+venda da carroceria, em se uatando de veículo objeto
+de encaroçamento, nos casos em que 0 chass tenha
+sido adquirido separadamente,
+
+$ 1º - Sobre o valor da imposto recolhido integral-
+mente até o 5º (quinto) dia útil posterior à data da
+emissão da Nota Fiscal referente à aquisição do velculo
+novo, ou à data em que o mesmo tenha sido wcorpo-
+rado ao ativo pesmanente, poderá ser concedido des-
+conto à ser fixado pelo Poder Executivo.
+
+52º - O imposto relativo a veículo novo poderá ser
+pago em 3 (três) parcetas mensais, iguais é conseculi-
+vas, desde que a primera seja paga no prazo previsto
+no “caput” deste artigo, vencendo às demais no
+mesmo dia dos meses subsequentes aq do vencimento
+da primeira.
+
+Artigo 23 - No caso de veículo alienado em hasta
+pica, O débito vencido e não pago deverá ses dedu-
+
+na venda e alé
+[o E fercoo) dia util após à realização do teilão.
+
+Artigo 24 - Será exigido O recolhimento integral da
+imposto seferente ão exercicio, ressalvado 0 disposto
+no artigo 14 desta lei, bem como do debito em atraso,
+no momento da exclusão do velkulo do Cadastro de
+Contribuintes do IPVA,
+
+Parágrafo único - O disposto neste ertigo aplica-se,
+também, na hipótese de transferência do registro do
+velculo para outro Estado.
+
+Anigo 25 - Nenhum velculo será registrado ou
+ligenciado perante as repartições competentes sem a
+prova do pagamento do imposto ou de que é imune,
+Isento ou de que está dispensado o seu pagamento.
+
+Parágrafo único - O disposto neste artigo aplwa-se,
+igualmente, aos casos do renovação, averbação, can-
+
+Artigo 18 - que o ou res-
+ponsável deixou de recolher o imposta no prazo legal,
+no todo ou em pane, a autoridade administrativa tri-
+butária procederá ao lançamento de alicia, notificando
+o proprietária do veículo ou o responsável para o reco-
+Ihimento do imposto ou da diferença apurada, com os
+acréscimos legais, no prazo de 30 (trinta) dias conta-
+dos de data do recebimento de notilicação, reservado
+o reto de contesiação,
+
+57º - Diferença, para os eleitos deste artigo, é o
+valor do imposto E seus acréscimos legais, que resta-
+rem devidos após imputação efetuada mediante distri-
+buição proporcional do valor recolhida entre os compo-
+nentes do débito.
+
+$ 2º - A notificação prevista neste artigo conterá à
+identificação do contribuinte, do responsável solidário,
+quando for o caso, do velculo, à data da vencimento e
+A forma de pag doi to & legais,
+podendo ser realizada por meio de edital publicado no
+Diário Oficial do Estado, por correio, pessoalmenta ou
+por meio eletrônico.
+
+5 3º - Quando a notificação lor feita por meio de
+publicação no Diário Oficial do Estado, o contribuinte
+ou interessado será cientificado da publicação na
+forma estabelecida pelo Poder Executivo.
+
+Antigo 19 - Vesificada infração a qualquer dispositu-
+vo da legislação do imposto, será javrado Auto de
+Infração e imposição de Multa por Agente Fiscal de
+Rendas, aúmitida a chancela por meio eletrónico,
+
+Parágrafo único - Para efeito deste artigo, quando
+a infração estiver acompanhada de cedução ou supres-
+são do pagamento da imposto, este poderá ser exigido
+por meio de Auto de infração e Imposição de Muita.
+
+Antigo 20 - Enquanto não extinto o direxo de corrs-
+tituir o crédiso tributário, o lançamento poderá ser
+revisto de ofício pela autoridade administrativa, quando
+venicado erro ou fato não conhecido ou não provado.
+
+SEÇÃO |x
+
+DO RECOLHIMENTO DO IMPOSTO
+
+Artigo 21 - O imposto do veículo usado será devido
+
+ou pelos
+drgãos competentes;
+
+VII - do máquina de terraplanagem, empilhadeira,
+guindastá e demais máquinas utilizadas na corsuução
+civil ou por estabelecimemos industriais ou comestiais,
+para monte e desmonte do cargas;
+
+VIII - de veiculo com mais de 20 (vinte) anos de
+Tabricação.
+
+8 1º - As isenções previstas neste artigo, quando
+não concedidas em caráter geral, serão efetivadas, em
+cada caso, por desp da
+em requenmento com o qual o interessado faça prova
+do preenchimento das condições e do cumprimento
+dos requisitos para sua concessão.
+
+$2º - As isenções previstas nos incisos II a V)
+deste artigo aplicam-se:
+
+1- someme aos veículos em situação regular, na
+data de ocomência do Fato gerador, quanto as abriga-
+ções relativas 80 regisaro e licenciamento,
+
+2 - às hpóteses de arrendamento mercant.
+
+&3º- No caso do inciso Vi deste artigo, em se tra-
+tando de proprietario pessoa [isica, fica limitada a
+anca a um nico veículo, de propriedade de motóris-
+no órgão compe-
+lente & habilitado para condução do veículo objeto do
+beneficia,
+
+Artigo 14 - Fica dispensado o pagamento do
+imposto, a partir do més da ocorrência do evento, na
+hipótese de privação dos direitos de propriadada do
+veículo por furto ou roubo, quando ocorrido no temitó-
+rio do Estado de São Paulo, na seguínle conformidade,
+
+| - a imposto pago será resutuido proporcional-
+mente so periodo, incluído o mês da ocorrência em
+que ficar comprovada à privação da propriedade do
+veículo;
+
+H- a restituição ou compensação será efetuada a
+partur da exercicio subsegdente Bo da ocorrência.
+
+81º - A dispersa prevista neste astigo não desone-
+são da do imposto irexd
+
+ra na data da do fato gerador, e
+deverá ser pago à vista no mês de feverewa ou em três
+parcefas mensais, iguais € consecutivas, venciveis nos
+meses de janeiro, fevereiro e março, desde ques E] Leia
+meira seja "e no
+mento no mês de j janeiro e e o valor de cada perca se seja
+equivalenta a, no minimo, 2 (duas) UFESPs do mês do
+recolhimento.
+
+51º - O imposto relalivo ao veículo de carga
+usado, categoria caminhão, poderá ser pago à vista nO
+mês de abril ou em três parcelas iguais e corsecutivas,
+vencíveis nos meses de março, junho e setembro,
+desde que a primeira seja recolhida integralmente no
+respectivo vencimento no mês de março e o valor de
+cada parcela seja equivalente a, no mínimo, 2 (duas)
+UFESPs do mes do recolhimento.
+
+52º - A opção pela pagamento parcelado dar-se-á
+peto recolhimento voluntário da primeira parcela no
+mês de janexo, para os casos previstos no “caput”, e
+no més de março, para os casos previstos no 8 1º deste
+artigo.
+$ 3º - Sabre o valor do imposto recolhido integral.
+mente no mês de janeiro, conceder-se-á desconto, à
+ser fixado pelo Poder Executivo.
+
+54º. Os dias de vencimento do impasto serão
+Tixados palo Poder Executivo.
+
+65º - Será considerado rompida o parcelamento
+sempre que não for nhservada a data de vencimento é
+O pagamento imegral de qualquer uma das duas uli-
+mas parcelas, sujeitando-se o contribuinte ou 0 tes-
+ponsável 8os acrêscimos legais e à disciplina estebele-
+cida no artigo 18 deste lei.
+
+8 6º - O imposto devido por empresa Jocadora, nos
+lesmas da alinea “b” do inciso X do anigo 3º desta lei,
+será pago integralmente no prazo de 30 (pinta) dias,
+contados da date do fato gerador.
+
+Artigo 22 - D recolhimento do impasto, reletiva-
+mente à velculo novo, deverá ser efetuado integral-
+mente no prazo de 30 (trinta) dias contados:
+
+eaq outros atos que irupliquem
+alteração no registro do veículo.
+26 - Nao se exigirá, nos casos de irserição
+
+$4º- D Poder Executivo divulgará, mensalmente, a
+taxa a que se refese esse artigo.
+
+5 5º - Os juros serão calculados sabre os amrésci-
+mos moratórios € também sotre as valores das penali-
+dades.
+
+Anuga 28 - Os encargos previstos nos artigos 27 e
+28 desta lei são decorrência natural da mora e serão
+exigidos independentermente de lançamento de alicia.
+
+SEÇÃO X1
+
+DO CADASTRO DE CONTRIBUINTES DO IPVA
+
+30 - O Poder Executivo organizerá e marte-
+rá 0 Cadastro de Contribuintes do IPVA, podendo irtili-
+Jar as informações seletivas ao veleula ou ao proprie-
+tária constantes de registrus de outros órgãos públicos.
+
+Antigo 31 - A Secretaria da Fazendo estabejecerá
+disciplina para & inscrição no Cedastro de Contribuin-
+tes do IPVA podendo;
+
+| - estabelecer disciplinas distmtas é simplificadas
+por classes de contribuinte,
+
+I - dispensar a inscrição de velculos específicos,
+sem interesse pera a fiscalização & à arrecadação do
+imposto.
+
+Parágrafo único - No caso de velculo objeto de
+arrendamento mescanbi ou de alienação fiduciária em
+garantia, o Cadastro de Contribuintes do IPVA deverá
+conter a idemificação do edo
+ou do devedor fiduciante e do credor fiduciário.
+
+SEÇÃO XII
+
+DAS OBRIGAÇÕES ACESSÓRIAS
+
+Artigo 32 - Fica obrigado a fornecer os dados
+necessários à inscrição no Cadastro de Contribuintes
+do IPVA:
+
+| - toda proprietário de velculo automotor residente
+ou domiciliado naste Estado, nos termos desta lei;
+
+dl - o proprietário de velculo registrado anterior-
+meme em outro Estado, quando adquiri-lo ou transfere
+o seu domictko ou residência para este Estado.
+
+Artigo 33 - Também está obrigada a fornecer os
+dados necessários à irserição no Cadastro de Contri-
+buintes do IPVA a empresa locadora de velculos que
+operar neste Estado, em relação a todos os veículos
+que vierem a ser [ocados ou colocados à dispasição
+pasa locação neste Estado, inclusive aos veiculos a que
+se relere 0 mosso II do artigo 15 desta lei.
+
+Anigo 34 - Quaisquer altorações ocorridas em rela-
+ão ao proprietário ou ao veículo serão comunicadas
+
+no Cadastro de Contribuntes do IPVA, nova pag
+
+to do imposto já solvido em outra onidade da federa-
+ção, observado sempre O respectivo exercício fiscal,
+ressatvadas as hipoteses em que;
+
+| - deveria ter sido integralmente pago ao Fisco
+doste Estado;
+
+IL - seja devido proporcionalmente a este Estado
+por empresa locadora, nos termos das alineas “b” e
+“e” do emciso X do artigo 3º e do artigo 11, desta kei.
+
+51º - Os efeitos da insolvência ou do pagamento
+do imposto transmitem-sa 80 novo proprietário do vel-
+culo para fins de registro ou alteração da assentamao-
+105 parante o órgão da transko e q Cadéstro de Contri-
+buintes do IPVA,
+
+$ 2º - Sa não comprovar 0 pagamento do imposto
+a Dutra unidade federada, o proprietário deverá, para
+proceder à transferência, recolher o imposto proporcio-
+nalmente ao número de meses restantes do exestício
+fiscal, calculado 6 partir do mês em que deveria ter sa
+inserito na Cadastro de Contribuintes do IPVA daste
+Estado, conforme o disposto no artigo 17 desta lei.
+
+SEÇÃO X
+
+DOS ACRÉSCIMOS MORATORIOS E DOS JUROS
+
+Artigo 27 - D imposto não recolhido no praro
+determinado nesta lei estará sujeilo à acréscimos
+moratórios comrespondemes a 0,33% (trinta e três cen-
+tésimos por cento) por dia de alraso, até o limite de
+20% (vinte por cento), calculados sobre o vator do
+imposto.
+
+Parágrafo único - Após a imscrição em dívida ativa,
+Os acréscimos moralórios corresponderão a 1 (umB)
+vez 0 valor do Imposto.
+
+Artigo 28 - O montante do imposto recolhido &
+destempo fica ainda sujeito a juros equivalentes, por
+mês, à laxa referencial do Sistema Especial de Liquida-
+ção e Custódia - SELIC, para títulos federais, acumula-
+da mersalmene.
+
+61º - Os juros equivalerão a 1% (um por cento)
+para fração de mês, assim antendido qualquer período
+de témpo inferior a um mês.
+
+8 2º - Ocartaado a extinção, substituição ou moadi-
+ficação da taxa de juras prevista neste artigo, o Poder
+Executivo adotará outro indicador oficial que reflita o
+custo do crédito no mercado financeiro.
+
+& 3º - Em nenhuma hpotese a taxa de juros será
+inferior a 1% (um pos cento) ao mês.
+
+às sp is pala Cadastro de Contri-
+tuintes do IPVA.
+
+Parágrafo único - Cabe ao alienante e 40 adquiren-
+te a obrigação de comunicar a altenação do veículo.
+
+Astugo 35 - O Departamento Estadual do Trérisito -
+DETRAN e a Secretaria da Fazenda deverão compatihi-
+lzar seus cadestros com à finalidado de atingw maior
+eficiência administrativa e facilitar o cumprimento das
+abrigações acessórias.
+
+Parágrafo único - À Secretaria da Fazenda poderá
+firmer convênios com os drgãos e entidades componen-
+tês do Sistema Nacional de Trânsilo para a troca de
+informações, no interesse da administração do imposto.
+
+à Antigo 36 - Todo aqueto a quem forem solicitades
+
+de está nbrigado
+
+a prestá-las.
+
+Parágrafo unico - Os contribuintes e terceiros que
+Lenham informações sobse fatos relacionados ao
+imposto não poderão embaraçar a ação fiscalizadura e,
+medianre nolificaçãa, serão obrigados a exibir docu-
+mentos, guias, impressos ou arquivos magnéticos rela-
+clonados à ndminisgação e à arrecadação.
+
+Arugo 37 - São obrigados à fornecer ao fisco, na
+forma estabelecida pelo Poder Executivo:
+
+1 - 05 fabricantes, revendedores de veículos e os
+importadores, informações sobre velculos novos vendi-
+dos e respectivos adquirentes,
+
+M- os revendedores, informações sobre operações
+com veiculos usados;
+
+ll - as empresas jocadoras, informações sabre os
+velculos locados ou colocados à disposição para inca-
+ão neste Estado;
+
+IY - os leiloeiras que realizarem leilões de veleula
+automotor, relação dos velculas nbjetos do feitão, bem
+como valores das tronsferências e 0 nome e endereço
+dos alienantes e dos adquirentes,
+
+V- os despachantes que auxiliarem no registro ou
+transferência de veiculos, relação desses velçutos, bem
+como os valores das transferências & o nome e endere-
+o do alienante e do adquirente,
+
+Vi - os notários, informações sobre as trarsações
+com velculos perente eles realizadas, sem Orus para as
+partes do negõeo;
+
+VII - as seguradoras do veículos, informações sobre
+os veículos segurados ou inderizados,
+
+comunicado
+
+imprensaoficial
+
+edição do jornal.
+
+em nosso estoque.
+
+Aos Assinantes do Diário Oficial
+
+A Imprensa Oficial do Estado de São Paulo informa a todos os assinan-
+tes que q prazo para reclamação do não recebimento do exemplar do
+Diário Oficial, em domicílio, é de no máximo 48 horas após a data da
+
+Após esse período, o exemplar será enviado conforme disponibilidade
+
+Gerência de Produtos Gráficos e de Informação
+
+te
+
+
+
+[[pagina 27 | ocr]]
+4 — São Paulo, 118 (243)
+
+Diário Oficial Poder Executivo - Seção |
+
+quarta-feira, 24 de dezembro de 2008
+
+VIII - as empresas de arrendamento mercantil,
+informações sobre os veiculos arrendados e seus res-
+
+pectivos arrendatários;
+IK -asi financeiras, i sobre
+q veículos financiados e os respectivos adquirentes,
+X-os d oficinas de do e
+
+quaisquer pessoas, Ílskcas ou jurideas. que cedam ou
+aluguem espaços para estacionamento, ou que pres-
+lem serviços de guarda ou manutenção de velculos
+automotores, informações sobre os veículos que se
+encontram ou se encontraram estacionados em suas
+dependências ou sob sua quarda.
+
+Artigo 38 - As autundades responsáveis pelo regis-
+tro & manutenção de cadastrus de veículos ficam obri-
+gadas a famecer 20 fisco 6 relação de velcutos cons-
+lantes de seu cadastro, transferências registradas e
+valores das transferências, bem como a informar o
+nome e endereço dos alienantes e adquirentes.
+
+SEÇÃO xt
+
+DAS PENALIOADES
+
+Artigo 39 - Constituem condutas passiveis de
+imposição de multa:
+
+[- fraudar o recolhimentu do imposto, no todo ou
+em parte: multa de uma vez 0 valor do imposto não
+recolhida, nunca inferior a 100 (cem) UFESPs;
+
+II - deixar de exibyr no prazo estabelecido, quando
+notificado, quaisquer documentos exigidos peto frsco:
+multa correspondente a 30 (trinta) UFESPs por docu-
+mento, ate o limite de 150 (cerxo e cinquenta) UFESPs
+por veiculo;
+
+HI - deixar de prestar informações quando obriga-
+da, ou fazê-lo de forma inexata ou incompleta: muita
+correspandente a 30 (trinta) UFESPs por velcula;
+
+tV - procedes de modo a possibilitar a redução ou
+supressão da tnbuto devido por terceiro: multa de uma
+vez O valor da imposto não recolhudo, nunca inferior a
+100 (cem) UFESPs;
+
+V - deixar de fomecer documentos ou informações
+necessários à inscrição ou altaração do Cadastro de
+Contribuintes da IPVA; multa, por exercício, comrespon-
+dente a 50% (cinquenta por cento) do valor da umpos-
+to, nunca imerior a 10 (dez) UFESPs;
+
+4I.- indozir o fisco à proceder à inscrição ou altera-
+ção indevidas no Cadastro de Contribuintes do IPVA:
+muka, por exercício, corespondente a uma vez 0 valor
+do imposto, nunca inferior a 50 (cinquenta) UFESPs;
+
+VII - deixar, a locadora de velculos, de cumprw à
+obrigação acessória prevista no artigo 33 desta le):
+multa, por exercicio, equivalente a 100 (com) UFESPs
+
+veiculo;
+
+por ;
+
+VIII. cometer qualquer outra infração a dispositivo
+da legislação relativa ao imposto, sem penalidade
+específica: multa correspondente a 10 (dez) UFESPs.
+
+61º - As multas previstas neste artigo:
+
+1- não excluem o pagamento do emposto, quando
+devido;
+
+2 - são aplicáveis distinta e integralmente, na hipó-
+tese de concurso de infrações.
+
+42 - Para cálculo das multas baseadas em UFESP,
+deve ser crosiderado 0 seu valor na data da lavratura
+do Auto de Infração e Impasição de Multa, não se apli-
+cande o disposto no artigo 3º da Lei nº 10.175, de 30
+de dezembro de 1998,
+
+SEÇÃO XIV
+
+DA REPARTIÇÃO DA RECEITA
+
+Artigo 40 - Do produto da arrecadação do imposto,
+outras por lei fede-
+
+ral, 50% (cinquenta por certo) constituirá receita do
+Município onde astiver domiciliado, nos termos da arti-
+go 4º desta lei, O proprietário do velculo, incluldos os
+valores correspondentes aos juros e aos acrescimos
+moratórios.
+
+Artigo 41 - À percela pertencente ao Estado será
+repassada pelo estabejecimento harcário na forma e
+prazo estabelecidos pelo Poder Executrvo.
+
+5 1º- A parcela pestencenta au Municipio será cre-
+ditada na forma da legislação federal relativa à maté-
+ria, e dos convênios parventura firmados ermtre es pre-
+feituras e a instituição bancária asrecadadora.
+
+& Z - Nas hipóteses de restituição do impaslo, a
+parcela proporcional será deduzida da receita do Mont-
+cípio.
+
+SEÇÃO X'
+
+DO PROCEDIMENTO
+TRIBUTÁRIO
+
+Artigo 42 - O procedimento adeministralivo tributá-
+rio referente ao IPVA iniciar-se-á com a notificação do
+lançamento ou do Auto de Infração e Imposção de
+Multa.
+
+Parágrato única - Aplica-se ao procedimento inicia-
+
+ADMINISTRATIVO
+
+$ 1º - Não acolhida a defesa ou contestação, no
+lodo ou em parte, O interessado poderá, uma única
+vez, apresentar recurso dirigido à autoridade imediata-
+mente superior aquela que houver proferida a decisão
+recomida, no prazo de 30 (trinta) dias a contar da cien-
+lificação da decisão ou da publicação.
+
+42º - O recurso será apresentado por meio de
+requerimento contendo nome e qualificação do recor-
+rente, à Identificação do processo e 0 pedido de nova
+decisão, com us respectivos fundamentos de fato e de
+direto.
+
+Artigo 47 - Mantida a decisão recorrida, será o
+interessado cientificade a recolher o valor integral do
+débito fiscal no prazo de 30 (tinta) dias.
+
+Artigo 48 - Serão encaminhados para inscrição na
+dívida ativa:
+
+cio de 2009 será aquela divulgada pelo Poder Execut-
+vo de acordo vom 05 critérios fixados na Lei nº 6.606,
+de 20 de dezembro de 1989.
+
+Asugo 2º - O Poder Executivo poderá estabetecer
+prazos especias E para que os contribuintes e resporsa-
+veis p à
+cia do dispudo mesa tei.
+
+Artigo 3º - Enquanto não for instauldo o Cadastro
+de Contribuintes do IPVA a que se referem os rugas
+30 e 31 desta lei, serão utili asi
+
+Palácio dos Bandeirantes, 23 de dezembro de
+2008.
+JOSE SERRA
+Mauro Guihesme Jardim Arce
+Secretário dos Transportes
+Humberto Rodngues de Siva
+Adiunt
+
+f pelo expedi
+da Casa Civil
+Publicada na Assessoria Técnico-Legislaliva, aus 23
+
+tantes do cadastro de veículos da Departamento Esta
+daal de Tránuito - DETRAN.
+
+Palácio dos Bandeirantes, 23 de dezembro de
+2008.
+
+JOSE SERRA
+
+Franuisco Vidal Luna
+
+|- o debito lançado e não Ip s de Economia e Planejamento
+mente; Mauro Ricardo Machado Costa
+MN - o débito definitivamente julgado e não recolhy- Secretario da Fazenda
+do no prazo previsto no artigo 47 desta lei. Humberto Rodrigues da Silva
+SEÇÃO XV io- Adjunto, resp pelo exped
+DAS ONSPOSIÇÕES FINAIS da Casa Civil
+
+Artigo 49 - Aptica-se ao IPVA, no que couber, a
+legislação do ICMS referente às normas sobra adminis-
+tração tributária, especialmente os dispositivos da Lei
+r. Es, de 1º de março de 1989, no que refere:
+
+- BO procedimento administrativo de consulta
+sei pretação e aplicação da tributária;
+
+Ml - ao pagamento com desconto da multa fixada no
+Auto de Infração e Imposição de Multa;
+
+HU - ao parcelamento de débitos fiscais.
+
+Artigo 50 - As disposições desta lei relativas às
+empresas focadoras serão aphcáveis sos veículos de pro-
+priedade de empresas de amendamento mercantil ("lea-
+sing”) quando o arrendatário lar locadora.
+
+Artigo 57 - No caso de a UFESP deixar de existir
+como índice de referência, será aplicado o indice que
+vies a subsiituí-la.
+
+Artigo 52 - Ficam cancelados os débitos fiscais da
+IPVA, devidos 8 este Estado e relatiws a veículo auto-
+motar terrestre, decorrentes de fatos geradores ocormi-
+dos ata 31 de dezembro de 2008 e durente o período
+em que o veiculo permaneceu registrado em órgão de
+uBrsão de outra unidade (ederada, desde que o proprie-
+tário, com domicílio neste Estado, cumulauvamente:
+
+| - tratando-se de pessoa fisica, comprove, em con-
+formidada com o disposto no artigo 4º desta lei:
+
+a) em relação à totalidade de veículos de sua pro-
+priedade em 1º de janeiro de 2009, que estes foram
+objeto de registro no órgão de tránsito do Estado de
+São Paulo ou que, aliemativamente, já tenha Iniciado
+o procedimento para o relerido registro até 31 de
+março de 2009;
+
+b) em relação à Lotalidade dos velculos adquiridos
+apús 1º de janeiro de 2009, que estes se encontram
+registrados no órgão de transito do Estado de São
+Paulo;
+
+II - tratando-se de pessoa jurtdica, comprove, em
+conformidada com o disposto no artigo 4º desta lei;
+
+a) em relação à tutakdede de veículos de sua pro-
+predade em 1º de janeiro de 2009, que estes foram
+objeto de registro no órgão de trânsito do Estado de
+São Paulo até 30 de junho de 2008;
+
+b) em relação à totalidade dos veículos adquiridos
+após 1º de julho de 2008, que estes se encontram
+registrados no rgão de trânsito do Estedo de São
+Paulo;
+
+UM - apresente requenmento à Sersetaria da Fazen-
+da, até 29 de maio de 2009, solicitando 0 cancelamento
+dos dábios fiscais nos termos deste artigo, contendo:
+
+a) relação completá dos veículos com débitos fiscais,
+ainda que não tenham sido reclamados por maio de
+Norificação de Lançamento ou de Auto de Infração e
+Imposição de Multa;
+
+b) cemproventa do recolhimento integral do IPVA
+do exercício de 2009, em favor do Estado de São Paulo,
+relativo aos veículos mencianados nos incisos | e fl.
+
+$ 1º - Para fins do cancelamento previsto neste
+artigo, considera-se debito fiscal a soma do imposto,
+das multas e dos demais acréscimos legais corespon-
+dentes à cada faro gerador.
+
+52º. O cancelamento de que Lala este artigo
+abrange o débito fiscal relativo a veíçuto cuja proprie-
+dade foi translerida à terceiros em data anterior a 1º de
+Janexo de 2009, sp aos falos gi
+em idêntica situação é sob & responsabilidade do pro-
+prietário indicado no “caput”, desde que observadas,
+no que couber, as condições previstas neste artigo.
+
+63º. A extinção das execuções fiscais retalivas aos
+debito fiscais cancelados nos termos daste artigo será
+
+do por meio de Auto de Infração e h de Multa
+à disciplina que dispõe sotwe o processo aderunistrativo
+tributário estadual.
+
+Artigo 43 - As à ou omisso
+na notificação do lançamento de ofício, inclusive as
+decorrentes de cálculo, não acarretam a sua nulidade,
+desde que presentes elementos suficientes pera deter-
+minar, com segurança, a nalureza da infração e a pes-
+soa da umfrator.
+
+Parágrafo unico - As incorreções ou omissões de
+que trata este artigo poderão ser comgidas pela auto-
+nidade fiscal, cientificando-se o sujeitn passivo da cor-
+reção, por exito, e devolvendo-lhe o prazo do artigo
+44 desta hei,
+
+Artigo 44 - O interessado poderá, por escrito, apre-
+
+pelo i ficando di o Teto
+lhimento das custas judiciais e honorários advocatícios.
+5 4º - O disposto neste artigo não autoriza a resli-
+tuição ou compensação de importancia já recolhida ou
+| em julzo, i à situação em que
+haja decisãa trarsitada em julgado.
+85º - Na hipótese em que peto menos 80% (oiten-
+ta por cento) dos velculos de propriedade de pessoa
+jura tenha sido objeto do segistro a que se refere a
+alinea “a” do inciso )l, até a data ali indicada, será
+admitida, excepcionalmente, a aplicação do cancela-
+mento de débitos previsto neste artigo, desde que 0
+reslante dos veículos da pessoa juridica seja regisrado
+no órgão da trársito da Estado de São Paulo até 30 de
+janesro de 2009, observadas as demais condições esta-
+
+Publicada na Assessoria Ténico-Legislativa, aos 23
+de dezembro de 2008.
+
+LEINS 13.297,
+E 23 DE DEZEM
+
+(Projeto de lei nº 937/07,
+do Deputado Roberto Engler - PSDB)
+
+DB denominação à umidade da Fundação
+CASA que especifica
+
+D GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e
+eu promulgo a seguinte lei:
+
+Artigo 1º - Passa a dengminer-se “Arcebispo Dom
+Helder Câmara” a unidade da Fundação Centro de
+Atendimento Sócio-Educauvo ao Adolescente - Funda-
+ção CASA-SP de Franca.
+
+Artigo 2º - Esta lei emra em vigor na data de sua
+publicação.
+
+Palácio dos Bandeirantes, 23 de dezembro de
+
+
+2008.
+JOSE SERRA
+Luz Antônio Gumerães Marrey
+Secretário da Justiça e da Defese da Cidadania
+Humberto Rodrigues da Sia
+$ Adjunto, resp pelo exp
+
+da Casa Civil
+Publicada na Assessoria Témnico-Legislativa, aos 23
+de dezembro de 2008.
+
+LEI Nº 13.298,
+DE 23 DE DEZEMBRO DE 2008
+
+(Projeto de lei nº 1159/07,
+
+do Deputado João Caramez - PSDB)
+
+Dá denorrnação so Viaduto que especifica
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que 3 Assembléia Legislativa decreta e
+eu promulgo a seguinta lei:
+
+Artigo 1º - Passa a denominar-se “Dante Mario
+Verani” q viaduto localizado no km 60,600 da Rodovia
+Rapuso Tavares - SP 270, que e parte integrante do
+complexo viário de acesso ao Bairro Canguera, no
+
+Municipio de São Roque.
+
+Artigo 2º - Esta Jei entra em vigor na data de sua
+publicação.
+
+Palácio dos Bandeirantes, 23 de dezembro de
+2008.
+
+JOSÉ SERRA
+
+Mauro Guilherme Jardim Arce
+
+Secretário dos Transportes
+
+Humberto Rodrigues da Silva
+
+Secretário- Adjunto, respondende pelo exp
+da Casa Civil
+
+Pub na Ã ia Técnico-Legislativa, aos 23
+de dezembro de 2008.
+
+LEI Nº 13.299,
+23 DE DEZEM DE 200:
+(Projeto de lei nº 1258/07,
+do Deputado Cido Sério - PT)
+DB denominação 80 naduto que especifica
+
+de de 2008.
+
+LEINº 13.301,
+D DEZEMBRO DE 2008
+
+(Projeto de lei nº 34/08,
+
+do Deputado Bruno Covas - PSDB)
+
+Dá denorminação à Urwdade de Fundação
+CASA que espectfica
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço seber que a Assembieia Legislativa decreta e
+eu promulgo a seguinte lei:
+
+Artigo 1º - Passa à denominar-se “Dom Gabriel
+Paulino Bueno Couto” a unidade da Fundação Centro
+de Atendimento Sócia-Educalivo aa Adolescente - Fun-
+dação CASA-SP de Jundial.
+
+Arugo 2º - Esta lei entra em vigor na data de sua
+publicação.
+
+Palácio dos Bandeirantes, 23 de dezembro de
+
+JOSE SERRA
+Luz Amôno Guimarães Marrey
+Secretário da Justiça e da Delesa da Cidadania
+Humberto Rodrigues da Silva
+Adjunto, resp pelo exp
+da Casa Civil
+
+Publicada na Assessoria Técnico-Legislativa, aos 23
+de dezembro de 2008.
+
+LEI Nº 13.302,
+DE 23 DE DEZEMBRO DE 2008
+
+(Projeto de lei nº 121/08,
+
+do Deputado Rogério Nogueira - PDT)
+
+Dá denominação 30 trevo que especifica
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decretá e
+eu promulgo a seguinte lei:
+
+Artigo 1º - Passa a denominar-se “Luzia Aparecida
+Mársico Bruzadw” O trevo em nivel localizado na km
+145.200 da Rodona Nemésio Cadetl - Ceara - SP 333,
+na Municipio do Taquaritinga.
+
+Artigo 2º - Esta lei emira em vigor na data de sua
+pubicação.
+
+Palácio dos Bandeirantes, 23 de dezembro de
+2008,
+
+JOSÉ SERRA
+
+Mauro Guilhemie Jarckm Arce
+
+Secretário das Transportes
+
+Humberto Rodngues da Silva
+
+io-Adiunl sp pelo exp
+da Cas Civil
+
+Publicada na Assessona Técnico-Legislativa, aos 23
+de dezembro de 2008.
+
+LEI Nº 13.303,
+DE DEZEM E 2008
+
+(Projeto de lei nº 145/08,
+do Deputado Roque Barbiere - PTB)
+
+DB denarmnação à rotatória que espenifica
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+
+Faço saber que a Assembléia Legislativa decreta e
+eu promulgo a seguinte lei:
+
+Arugo 1º - Passa a denominar-se “Dr. Dnotre
+Assunção dos Santos” a rotatória localizada no km
+17,397 da Rodona Gabriel Melhado - SP 461, entron-
+camento no km O da Rodovia Tnotônio Vilela - SPA
+018/461, no Município de Binigui.
+
+Artigo 2º - Esta lei erxra em vigor na data de sua
+publicação.
+
+Palácio das Bandeirantes, 23 de dezembro de
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO: JOSE SERRA
+
+Faço saber que a Assembléia Legislativa decreta e Mauro Guilherme lardim Arce
+eu promulgo a seguinte lei: Secretário dos Transportes
+
+Artigo 1º - Passa a inar-se “h jo Tor- Rodrques da Siva
+rezan” o viaduto i no da $ Adjunto, resp pelo expedi
+Rodovia Marechal Rondon - SP 300, km 491,150, com | da Casa Civil
+
+a Rodovia Assis Chataaubriand - SP 425, km 293,600,
+no Munípia de Pendpalis.
+
+Artigo 2º - Esla lei entra em vigor na data de sua
+publicação.
+
+Palácia dos Bandeirantes, 23 de dezembro de
+2008.
+JOSÉ SERRA
+
+Mauro Guilherme Jartbm Arce
+
+Secretário dos Transportes
+
+Humberto Rodrigues da Silva
+
+Secretário- Adjunto, respondendo pelo expodienta
+da Casa Civil
+
+Publicada na Assessoria Técnico-Legislativa, a0s 23
+de dezembro de 2008.
+LEI Nº 13.304,
+DE 23 D£ DEZEMBRO DE 2008
+(Projeto de lei nº 169/08,
+do Deputado Celso Giglio - PSDB)
+Dá denarminação 30 trevo que específica
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO:
+Faço saber que à Assembléia Legislativa decreta e
+
+sentar defesa ou contestação d0 lançamento efetuado, | belecidas neste artigo. Publicada na À ja Témnico-L 20523 | eup lgo a seguinte lei:
+na prazo da 30 (trima) dias contados da data da nolifi- $ 6º - O Pnder Executivo estabelecerá disciplina | de dezembro de 2008. “Artigo 7º - Passa a denominar-se “Prefeito Olimpio
+cação. pera os procedimentos de cancalamento de debrtos de Andrade” a trevo localizado no km 99 da Rodovia Pre.
+Artigo 45 - À defesa ou contestação será apresen- | IPVA de que lrata este artigo. LEI Nº 13.300, sidente Castello Branco - SP 280, entro) fo com
+Fi ma pi cds | DE23DE DEZEMBRO DE 2008 | asp fem 12,650, no Municip de Puta Feliz
+|- a autoridade a quem é dirigida; Artigo 54 - Fica revogada 8 Lei nº 6.606, de 20 de | (Projeto de lei nº 1464/07, parte - Esta lei entra em vigor na data da sua
+1 - a qualificação do i eai da 1989. do Deputado Antonio Mentor - ir .
+de signatário; Artigo 55 - Esta lei £ suas Disposições Transitórias pu mm ração so pda xa Palácio dos Bandeirantes, 23 de dezembro de
+IN - as razões de fato e de direito sobre as quais se | entram em vigor na data de sua publicação, produzn- que es "
+fundamenta. do efeitos a partir de 1º de janeiro de 2009. O GOVERNADOR DO ESTADO DE SÃO PAULD: JOSE SERRA
+Parágrafo únxo - A defesa ou contestação deverá Parágrafo unico - O disposto no 5 4º do arugo 7º Faço saber que a Assembléia Legislativa decreta € Mauro Guilherme Jardhm Arce
+ser instruída com documentos, demonstrativos e | somente prodazirá efeitos à partir de 1º de janeiro de | eu promulgo a seguinte lei: Secretário dos Transpanes
+demais eb dos a comp as | 2010. Artigo 1º - Passa à denaminer-se "Ociavio Lodo” o Humberto Rodhgues da Siva
+alegações feitas, SEÇÃO XVII viaduto localizado no km 374,850 da Rodovia SP 322, io-Adjunto, sesp pelo
+Artigo 46 - Da decisão proferida, será q interessado OISPOSIÇÕES TRANSITORIAS no Municípia de Pitangueiras, da Casa Civil
+
+cientificado na forma estabelecida pelo Pnder Executi-
+vo.
+
+Artigo 1º - A base de cálculo utilizada para O cálcu-
+lo do imposto dos veículos usados referente o exesci-
+
+Astgo 2º - Esta lei entra em vigor na data da sua
+publicação.
+
+Publicada na Assessoria Técnico-Legistativa, aos 23
+de dezembro de 2008.
+
+de!
+
+
+[[pagina 28 | ocr]]
+
+1SSN 1677-7042
+
+Diário Oficial da União - seção 1
+
+Nº 92, quinta-feira, 15 de maio de 2008
+
+Ministério do Trabalho e Emprego
+
+GABINETE DO MINISTRO
+
+DESPACHO DO MINISTRO
+Lam LE de mun de 2604
+
+Concessão ele Regomro de Alteração de de-
+nominação
+
+O Minstro do Trabalho e Emprego, no uso de suas atri-
+buições legais com fundamento na Nota Técnica DIAN Nº 220/2008,
+tendo em vista que a alicração de denominação não altera a sua
+representação, resolve conceder o registro de alteração de denomi-
+nação da Confederação Nacional do Comércio para Confederação
+Nacional do Comércio de Bens, Serviços e Turismo - CNC, nº.
+46000.021935/2007-13, CNPJ: 33,423,578/0001-76.
+
+CARLOS ELI
+
+DESPACHO DO CIEEE DE GABINE
+Kim 14 de mato de 2008
+
+Concessão de Reguto Sindical
+
+O Chefe de Gabinete do Ministro do Trabalho e Emprego, no
+
+uso de suas amibuições legais e com fundamento nas Portarias 64/06,
+186/08 c Nota Técnica DIAN Nº 216/2008, resolve dar publicidade
+de arquuivamento da impugnação nº. 46000. 013378/2007- 59, por não
+ter instruído sua imf com a d e
+ceder o registra sindical ao Sindicato das Empresas de Distri
+ingenharia, Manutenção e Produção de Energia é Telecomunicações
+Estado do Espiriiw Santo - SINDIMETAES, nº.
+
+DO 010837/2006-61, CNPJ: 07.982.477/0001-69, para representar
+calegoria Econômica das Empresas de Distrihuição, Geração, Pro-
+dução, Ti i R ia
+de Telecomunicações e Energia, com abrangência estaqual e buse
+territorial no Estado do Espirito Santo v bem como para fims de
+
+anotação no Cadastro Nacional de Entidades Sindi a lusão da
+ômica das Emp de Distribunç: Geração, Pro
+dução, T issão, Instal M R =)
+
+de Telecomumcações e Energia da representação do Sindicato das
+Empresas de Prestação dc Serviços no Estado do Espirito Santo -
+SINDEPRES - ES, nº. 46000.004216/99-59.
+
+Uuncesso de Registro de Alieração Losla-
+
+Cut ta
+
+O Chefe de Gabinete do Ministro do Trabalho c Emprego, no
+uso de suas atribuições legais e com fundamento nas Portarias 64/06,
+186/08 e Nota Técnica DIAN Nº 217/2008, resolve dar publicidade
+do arquuivamento da impugnação nº 46000.017321/2007-29, por não
+apresentar o comprovante original do valor relativo ao custo da pu-
+blicação e conceder o Registro de Alteração Estarurária ao SJEMACO
+Nanhém c Região - Sindicato dos Empreg em Em de Pres-
+tação de Serviços de Asscio e Conservação, Limpeza Urbana c Ma-
+nutenção de Árcas Verdes Públicas e Privadas de Ianhém, Mongaguá,
+Peruibe, Cananéia, Regi iliba, Juquiá, Mi , Eldorado,
+Iguapé, ltarari, Jacupiranga, Cajati, Pariquera-Açu e Sete Barras - SP,
+nº. 46000.007590/2007-87, CNPJ: 04,877 637/0001-11, para repre-
+sentar a categona de Todos os trabalhadores em empresas de asscio €
+consurvação; mgjene; limpeza pública urbana, prestação de serviços &
+terceiros de limpeza é conservação ambiental; limpeza de fossas e
+caixas d'água; manutenção predial; pintura, restauração e limpeza de
+fachadas; dedetização; lavagem de carpetes; coleta de lixo domicihar,
+industrial, hosf selenva e de ; Serviços em destino final
+de lixo (usinas de recicl ) e alerros
+sanitários), varmição Se vias públicas; somplementares de limpeza
+urbana; jardi de áreas
+verdes públicas « e privadas (poda de árvores, capinação e limpeza de
+Ólregos, canais e sistemas de drenagens, pintura de postes e meio
+lo); prestação de serviços de terceiros de pontaria, tecenção e e copa;
+inclusive os trabalh das
+com abrangência intermunicipal e base territorial nos municipios de
+Nanhaém, Peruibe, Cananéia, Reg itiba, Juquiá, X
+Mongaguá, Eldorado, Iguape, Itariri, Jacupiranga, Cajati, Pariquera-
+Açu e Sete Barras no Estado de São Paulo e bem como para fins de
+anotação no Cadastro Nacional de Entidades Sindicais a exclusão da
+categoria prestação de serviços a terceiros de limpeza e conservação
+| da repr ação Sindi dos Empreg; em E
+de Prestação de Serviços a Terceiros, Colucação e Administração de
+Mão de Obra, Trabalho Temporário, Leitura de Medidores e Entrega
+de Avisos do Estado de São Paulo - SINDEEPRES, nos municipios
+de São Paulo: Jtanhaém, Peruibe, Cananéia, Registro, Juquitiba, Ju-
+quiá, Miracatu, Mongaguá, Eldorado, Iguape, IMariri, Jacupiranga, Ca-
+Jaú, Pariquera-Açu c Sete Baras - SP, nº. 24000.008123/92-30,
+CNPJ: 96.287.487/000 1-04,
+
+MARCELO PANFLIA
+
+COORDENAÇÃO-GERAL DE IMIGRAÇÃO
+
+DESPACHO DO COORDENADOR-GERAL
+Emi TI de mare de Qh0K
+
+O Coordenador-Geral de Imigração, no uso de suas arri-
+buições, deferu os seguintes pedidos de CANCELAMENTO:
+
+Processo; 46000010454200855 Empresa: CONCERTATO
+REPRESENTAÇÃO DE ARTISTAS LTOA. Passaporte: 701740977
+Estrangeiro: JON CHARLES PIERCE, Processo:
+46000028911200787 Empresa: SMITH INTERNATIONAL DO
+BRASIL LTDA Passaporte: CC65749282 Estrangeiro: NAIR MILE.
+NA MEDINA GALLEGO, Processo: 46000021526200717 Empresa:
+PAROLE COMUNICAÇÕES LTDA. Passaporte: D614869 Estran-
+geiro: GIANFRANCO PALLARO, Processo: 46000016970200711
+Empresa: GLAXOSMITHKLINE BRASIL LTDA. Passaporte:
+122342735 Estrangeiro: CLAUDIO ANDRES FLORES GUERRA,
+Processo: 46000016584200630 Empresa: MAERSK BRASIL
+(BRASMAR) LTDA P: 12464135 Es : EVA MA-
+RIA PERSSON, Processo: 46000015951200769 Empresa: BARWIL
+BRASIL AGENCIAS MARITIMAS LTDA. Passaporte: 34671627
+Estrangeiro: ANDERS SJODIJN, Processo: 4600001475620063] Em-
+prosa: FUNDAÇÃO ORQUESTRA SINFÔNICA DO ESTADO DE
+SÃO PAULO Passaporte: 120744! Estrangeiro: LUCIJA BRNADIC,
+Processo: 46000012425200666 Empresa: BIIP BILLITON METAIS
+SA.P: : E3003565 E geiro: MICHAEL JOHN AMUND-
+SEN, Processo: 46000010390200710 Empresa: BANCO CITIBANK
+S.A. Passaporte: 112733207 Estrangeiro: JUSTIN ALAN BAILES,
+Processo: 46000010222200635 Empresa: MAERSK BRASIL
+(BRASMAR) LTDA Passaporte: E978286 Estrangeiro: PEDRO MI-
+GUEL GEMA FERREIRA PINTO, Processo: 460000099 17200674
+Empresa: NOKIA SIEMENS NETWORKS DO BRASIL SISTEMAS
+DE COMUNICAÇÕES LTDA. Passaporte: 15640235 Estrangeiro
+KARI OLAVI LEHNTINEN, Processo: 46000004643200716 Empresa:
+CLUBE ATLETICO JOSEENSE P: M 43 E
+ro: INRONOR] MAEHATA, Processo: : 4600000222 1200889 Empre-
+sa: GERDAU AÇOMINAS SAAP TF4890089 E: g
+TSUTOMU MISAKI, Processo: 46000018314200744 Empresa:
+COMPTEL COMMUNICATIONS BRASIL - SOLUÇÕES EM
+SOFTWARE LTDA. Passaporte: 17163399 Estrangeiro: AR] PET-
+TERI MUTANEN, Processo: 46000022879200645 Empresa: BIO
+LATINA MÁQUINAS E EQUIPAMENTOS INDUSTRIAIS LTDA
+Passaporte. $042090699 Estrangeiro: DETLEF ERICH WILIIELM
+ALBERTS, Processo; 46000025753200711 Empresa: SHELL BRA-
+SIL LTDA. Passaporie' 404144163 Estrangeiro: RICHARD WAYNE
+KABRICI], Processo: 46000073459200767 Empresa: SIEMENS LT-
+DA. Passaparic: 20240433 Estrangeiro: BIN WU, Processo:
+46000022367200760 Empresa: ACERGY BRASIL S/A Passaporre;
+158355032 Estrangeiro: VICTOR GABRIEL BIRCIL, Processo:
+46000019891200753 Empresa: ACERGY BRASIL S/A Passaporte:
+107052837 Estrangeiro: ALEXANDER VALCOV, Processo:
+46000013326200782 Empresa: BRIDGESTONE FIRESTONE DO
+BRASIL INDUSTRIA E COMERCIO LTDA. Passaporte:
+TG7974824 Estrangeiro: KENICLI YAMAMURA, Processo:
+46000010987200756 Empresa: ALBANY SISTEMAS DO BRASIL
+LTDA Passaporte: UUO913417 Estrangeiro: EMMANUEL VELAS-
+QUEZ VALDERAMA, Processo: 46000010617200719 Empresa:
+SIEMENS LTDA Passaporte: G12125845 Estrangeiro: DA LI, Pro-
+cesso: 46000002563200807 Empresa: SHELL BRASIL LTDA, Pas-
+saporte: B00276088 Estrangeiro: CALUM ROBERT LOVE, Proves-
+so: 46000028230200638 Empresa: ACERGY BRASIL S/A Passa-
+poric: QQ04 122879 Estrangeiro: LORETO VALDEZ LAGUNDI,
+Processo: 46000026918200683 Empresa: SMITH INTERNATIONAL
+DO BRASIL LTDA P: 25043919N E o; GUSTAVO
+FERNANDO KINTER, Processo 46000024887200626 Empresa:
+PAN MARINE DO BRASIL LTDA, Passaporte: CC13540419 Es-
+trangeiro: ALWIN MARK YANK GÔMEZ ESPINEL, Processo:
+4600001 8659200706 Empresa: BRASDRIL SOCIEDADE DE PER-
+FURAÇÕES LTDA. Passaporte: 134459240 Estrangeiro. JAMES
+DONALD UNDERWOOD, Processo: 4600001844520072] Empresa:
+BRASDRIL SOCIEDADE DE PERFURAÇÕES LTDA Passaporte:
+016445368 Estrangeiro: ANDREAS RUDOLF YOUNG Passaponte:
+134184654 Estrangeiro: KENNETH RAY FALKE Passaporte:
+135412404 Estrangeiro: DOUGLAS DWAYNE CARTER, Processo:
+46000011759200701 Empresa: GEORESEARCH DO BRASIL LT-
+DA. P: D0150765 E: HELIO MANUEL 1 CHA-
+MATE LUZARDO Passaporte: 08459935M Estrangeiro: MATIAS
+JESUS VILLAGRA, Processo: 46000006937200774 Empresa: GEO-
+RESEARCH DO BRASIL LTDA. Passaporte: DOO84412 Estran-
+geiro: BENJAMIN JOSÉ MOISES GONZÁLES FUENTES, Pro-
+cesso: 46000002703200758 Empresa: ACERGY BRASIL S/A Pas-
+saporic: A756006 Estrangeiro: GIUSEPPE CARRANO, Processo:
+46000017932200262 Empresa: USC- USINA SIDERÚRGICA DO
+CEARÁ LTDA. Passaporte: Y424753 Estrangeiro: GIOVANNI
+COASSIN, Processo: 4600000982420005 Empresa: JT INTERNA-
+TIONAL DO BRASIL LTDA. Pass tc: E489659 E
+PAULO JORGE GARCIA LOPES, Processo: 4600000301 1200301
+Empresa: AOL BRASIL LTDA Passaporte: 13792932N Estrangeiro:
+FERNANDO JAVIER BOURDIEU
+
+O Coordenador-Geral de Imigi », nO uso de suas atri-
+buições, indeferiu os seguintes pedidos de autorização de trabalho:
+
+Provesso: 46000011084200R73 Empresa: KBL PROMO-
+ÇÕES E EVENTOS MUSICAIS LTDA Passaporte: W$103314 Es-
+trangeiro: ADAM KERSLIEN
+
+O Coord «Geral de Imig à, NO uso de suas AmI-
+buições, e, 1d Jo os di inhados pelo Depar-
+tamento de Policia Federal, em 01 « 29 de abnl de 2008, que cons-
+latou à inexistência da empresa "FZ COMÉRCIO DE ARTIGOS
+PARA PRESENTES LTDA” no endereço informado aos Orgãos Of-
+ciais. Considerando, também, o silêncio da interessada em face da
+notificação feita por meio do Ofício nº. 126/CG1g/GM/MTE, de 16 de
+abril de 2008, para que a mesma se manifestasse sobre tal cons-
+Latação, Considerando, ainda, o inciso If do am. 5º da Resolução
+Normativa n. 74, de 09 de fevereiro de 2007, do Conselho Nacional
+de Imigração, RESOLVE;
+
+Cancelar os seguintes despachos publicados no DOU, em
+21.01.2008, seção 1, p. 51, referentes sos processos MTE n.
+46000.028861/2007-38 c 46000.028262/2007-82, c em 25.01.2008,
+seção |, p. 75, referentes aos processos MTE n. 46000.029822/2007-
+58 e 46000.029823/2007-0], interessuda FZ COMERCIO DE AR-
+TIGOS PARA PRESENTES LTDA, que deferiram autorizações de
+
+per YANG NUL WANG DA-
+GUAN, LN BENDING. . CHUANWANG CHEN, respectivamente.
+oc dor Geral de , no uso de suas atri-
+
+buições, resolve:
+
+Não conhecer do pedido de reconsideração, em razão da
+intempesrividade do pedido e da ausência do preparo do recurso,
+previstos nas parágrafos 1º 2º do art. 4º da Resolução Normativa nº.
+74, de 2007 do Conselho Nacional de Imigração:
+
+Processo: 46000002798200891 Empresa: EURO SERVICE
+BRASIL TELEMARKETING E INFORMATICA LTDA Passaporte:
+AA 1067061 Estrangeiro: RICCARDO NOBILE
+
+Cc Jos-Geral de 1 no uso de suas atri-
+buições, deferm os seguintes pedidos de autorização de trabalho,
+constantes do(s) oficios) ao MRE nº.125/0R de 12/05/2008, 126/08
+de 13/05/2008 e 128/08 de 14/05/2008, respectivamente.
+
+Temporário - Com Contrato - RN 64, DE 19/09/2005:
+
+Processo: 4600000609 1200853 Empresa: NESTLÉ BRASIL
+LTDA. Prazo: 02 ANOS FP; F0643523 E: BJÓRN
+GORDON POÉLL, Processo 460000072702008 16 Empresa: GEAR -
+BULK MARÍTIMA LTDA. Prazo: 02 ANOS Passaporte: 20615456
+Estrangeiro: HAKON BRINOSVAERD, Processo:
+46000008294200884 Empresa: VITAPELLI LTDA Prazo: 02 ANOS
+Passaporte: 029002098 Estrangeiro: GARY STEVEN BROCK, Pro-
+cessa: 46000008682200865 Empresa: INSTITUTO CULTURAL OR-
+QUESTRA SINFÔNICA-MG Prazo: 02 ANOS Passuporte:
+AV95962150 Estrangeiro: VIATCHESLAV ZNATCHENII, Processo
+46000008845200818 Empresa: ENI OIL DO BRASIL S.A Prazo: 02
+ANOS Passaporte: C1838137 Estrangeiro: MIGUEL ANGEL CA-
+SANOVA POLO, Processo: 46000008949200814 Empresa: WHITE
+E CASE CONSULTORES EMPRESARIAIS LTDA. Prazo: 02
+ANOS Passaporte: 435015970 Estrangesro: ABRAHAM PAUL, Pro-
+cesso: 4600000896] 200829 Empresa: BARKER IIUGHES DO BRA-
+SIL LTDA. Prazo: 02 ANOS Passaporte: 761227671 Estrangeiro:
+JEREMY CHARLES LOFTS, Processo: 46000009145200832 Em-
+presa: VOLKSWAGEN DO BRASIL INDÚSTRIA DE VÉICULOS
+AUTOMOTORES LTDA. Prazo: 02 ANOS Passaporte: 1005366526
+Estrangeiro: THOMAS LAMPING, Processo: 460000102 18200839
+Empresa: TOWER AUTOMOTIVE DO BRASIL S.A Prazo: 02
+ANOS Passaporte: 214290478 Estrangeiro: TIIOMAS RICHARD
+SENZIG, Processo: 46000010221200852 Empresa: TRW AUTOMO-
+TIVE LTDA, Prazo: 02 ANOS Passaporte: BC885936 Estrangeiro:
+JOSE ENRIQUE PEREZ PEREIRA, Processo: 46000010254200801
+Empresa: SAF - HOLLAND DO BRASIL IND.E PROD. DE EIXOS
+E EQUIP. P/ REB |SEMI-REB.E CAMINHÕES LTDA. Prazo: 02
+ANOS Passaporte: E3057655 Estrangeiro: DUSAN BACKULIJA,
+Processo: 46000010318200865 Empresa: AREVA TRANSMISSÃO
+E DISTRIBUIÇÃO DE ENERGIA LTDA. Prazo: 02 ANOS Pas-
+saporte: F2829763 Estrangeiro: MIRKO BORIS SANTA CRUZ GO-
+MEZ, Processo: 46000010343200849 Empresa: RECKITT BENCKI-
+SER (BRASIL) LTDA Prazo: 02 ANOS Passaporte: E0267504 Es-
+trangeiro: KUNAL MUKHOPADIIYAY, Processo:
+46000010347200827 Empresa: ASSOCIAÇÃO INTERNACIONAL
+DE EDUCAÇÃO DE BELO [IORIZONTE Prazo: 02 ANOS Pas-
+saponic: JQ902184 Estrangeiro: COLLETTE MICIJELLE DEMAS-
+SON, Processo: 46000010378200888 Empresa: CLUB MED BRA-
+SIL S/A Prazo: 02 ANOS P: JU$20734 gera: NAN-
+CY LEMAY, Processo: 46000028917200754 Empresa; SANTA CA-
+SA DE MISERICORDIA PADRE EUSTAQUIO Prazo: 01 ANO
+Passaporte: 002340821 Estrangeiro: NOELIA RAMONA PORTILLO
+MIRANDA
+
+Temporária - Com Contrato - RN 59, DE 05/10/2004;
+
+Processo: 4600001070]200813 Empresa: PESQUEIRA NOÉ
+DO BRASIL S/A Prazo: ATÉ 22/04/2010 Passaporte: 29798756W
+Estrangeiro: JOSE MANUEL GARCIA DELGADO, Processo:
+46000010702200868 Empresa: PESQUEIRA NOÉ DO BRASIL S/A
+Prazo: ATÉ 22/04/2010 Passaporte: BD198189 Estrangeiro: JOSE
+MARIA ROMERO BARBOSA
+
+Temporário - Sem Contrato - RN 69, DE 22/03/2006:
+
+Processo: 46000008784200881 Empresa: ASSOCIAÇÃO
+DOS AMIGOS DO CENTRO DE ESTUDOS MUSICAIS TOM JO-
+BIM Prazo: 30 DIAS Passaporte: TF3390717 Estrangeiro: TOSHIO
+MASHIMA, Processo: 46000009408200811 Empresa: DUETO PRO-
+DUÇÕES E PUBLICIDADES LTDA. Prazo: 30 DIAS Passaporte:
+112969971 Estrangeiro: MELBOURNE ROBERT CRANSHAW Pas-
+saporte: 103301177 Estrangeiro: MARTIN PETER DOWNEY Pas-
+suporte: 141748709 Estrangeiro: KIMAT] DINIZULU Passaporte:
+028217092 Estrangeiro: ROBERT BROOM JR Passaporte:
+424074161 Estrangeiro: WALTER THEODORE ROLLINS Passapor-
+te: 211466777 Estrangeiro: CLIFTON ELLIOT ANDERSON Pas-
+saporte: 301664365 Estrangeiro: KOBIE BAYE WATKINS, Processor
+46000010658200896 Empresa: AZUL PRODUÇÕES ARTÍSTICAS
+LTDA. Prazo: 30 DIAS Passaporte; 200156258 Estrangeiro: TIO-
+MAS AVERY OLIN Passaporte: 113542041 Estrangeiro: JOHN
+
+
+[[pagina 29 | ocr]]
+3 Confederação Nacional do Comércio
+
+ATA DA SESSÃO ORDINÁRIA DO CONSELHO DE
+REPRESENTANTES DA CONFEDERAÇÃO NACIONAL :3()
+DO COMÉRCIO, CONVOCADA PARA ELEGER A
+DIRETORIA E CONSELHO FISCAL DA ENTIDADE,
+PARA O MANDATO 2004/2010.
+
+DATA — Brasília, 23 de setembro de 2004.
+LOCAL - Sede da Confederação Nacional do Comércio — CNC, Brasilia-DF, no Setor
+Bancário Norte , Quadra 1 — Bloco B, Nº 14, 17º andar.
+INSTALAÇÃO DA MESA RECEPTORA - APURADORA, às 9h45min., com a
+presença dos membros integrantes, designados pela Portaria “Nº CNC Nº 296/2004,
+a seguir nominados:
+Presidente: NATAN SCHIPER, Presidente do Sindicato do Comércio Varejista de
+Móveis e Decorações do Município do Rio de Janeiro;
+Mesários: ANTONIO TIAGO DE REZENDE, Presidente do Sindicato do Comércio
+Varejista de Congonhas;
+OSCAR PERNÉ DO CARMO, Presidente do Sindicato do Comércio
+Varejista de Automóveis e Acessórios do Distrito Federal;
+Suplente: EUGENIO PEREIRA DA CUNHA GARCIA, Assessor Sindical da CNC.
+VERIFICAÇÃO DA PARTE DOCUMENTAL (relação de votantes, folha de
+votação, cédulas para votação e etc.) E DA PARTE INSTRUMENTAL (cabine
+O indevassável, uma e etc), pelos integrantes da mesa Receptora-Apuradora.as
+9h50min. Inspeção e lacre da uma na presença dos integrantes da mesa
+Receptora-Apuradora e dos Suplentes de Delegados votantes, Srs. Alberto Ivair
+Rogoski Horny (RO) e Edimar Pereira Lima (RR).
+INÍCIO E TÉRMINO DA VOTAÇÃO: às 10 horas, o Presidente da Mesa Receptora-
+Apuradora declara abertos os trabalhos de votação. A votação encerrou-se às
+13h15mim, nos termos do parágrafo 1º do Art. 10 do Regulamento Eleitoral. A mesa
+localizou 1 (uma) cédula esquecida na cabine indevassável que, por determinação
+do Presidente da mesa, foi acondicionada em um envelope separado, lacrado e
+rubricado pelos mesários, sendo em seguida depositada na urna que foi lacrada na
+presença dos mesmos suplentes de delegados votantes que se encontravam no
+momento da abertura dos trabalhos eleitorais, quando da inspeção da urna.-------—---
+APURAÇÃO E SEU RESULTADO: Votaram 34 (trinta e quatro) delegados, de
+acordo com as assinaturas apostas na folha de votação, representando a
+unanimidade das Delegações Federativas. Aberta a urna foram identificadas 195
+(cento e noventa e cinco) cédulas e 1 (um) envelope lacrado. O Presidente da mesa
+determinou a abertura do envelope lacrado e a retirada da cédula nele contida que
+O foi juntada às demais existentes, totalizando assim, 196 (cento e noventa e seis)
+cédulas, em conformidade com o 8 2º do art. 1º do Regulamente Eleitoral. Efetuada
+a apuração não foram encontrados votos brancos ou nulos, tendo a chapa única
+concorrente recebido a unanimidade dos votos, no total de 196 (cento e noventa e
+seis) votos. O Presidente determinou fossem as cédulas acondicionadas em um
+envelope, sendo o mesmo lacrado e rubricado pelos mesários.
+PROCLAMAÇÃO DOS ELEITOS: O Senhor Presidente da Mesa Receptora-
+Apuradora proclama eleitos com 196 (cento e noventa e seis )votos a chapa única
+concorrente às eleições na CNC, de acordo com o aviso de registro divulgado no
+Diário Oficial da União, edição do dia 02 de julho de 2004 e que tem a seguinte
+composição: Presidente - Antonio Jose Domingues Oliveira Santos (ES); Vice-
+Presidentes - 1º) Abram Abe Szajman (SP), 2º) Renato Rossi (MG) e 3º) Orlando
+Sant s ig (RJ) Vice-Presidentes - Adelmir Araujo Santana (DF), Carlos
+
+Documento assinado A ente conf “ua nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+
+[[pagina 30 | ocr]]
+VZNOS 30 SONIIGIW INODHVW ISOr SJUSPISSIA-SIA
+SOLNYS SOG OLSINVAI ISOP SJupISSA-9MA
+a = 3 uoi isa) “91 O
+VAIS VC OHIILHY ISOr JUSPISSIA-SIA
+IVEVINYV OCNVNHIA SOTHVO USPISSIA-SIA
+YNVLNYS OPNvay SIANIAV ajuapisalg-a91A
+- E
+ZINIT SOLNYS OINNTIHO QJUBpISaLA-99A of
+ISSOH OLVNIH BJUBPISSIA-IA oZ
+NVINPVZS 39V Nvdav QBpSad aa o)
+SOLNYS VEIZANO 3Q SINONINOG 3SOF OINOLNY ajuapisala
+vantvnisgy JINON osuvo
+
+MM
+
+“PIO f NºQUOAY | N :83'2014
+piaBrd | L(s)ouioN y TEsuiANyEVA
+9E'941 :(Su)s Olson (pjoj
+
+96'Lbir4aa 4 09'LTHA LO DVP
+66 6:10PjNqUNA / TO 64 Qqueuin|oma
+
+PSLSPOL - MA-CLH,9
+
+ODJQLIOS OP |[DUODDPN OpÍDISpajuo”
+
+9 0<0-1 LVSTSY al
+
+“OPBUISSE UGqUI) LIL JOd BA anb oje ajuasasd o OJAB] 'Qls92IN
+JaBueJag Bal? NI Zap a |IWy siop ap oIquiarou ap ojiozap 2je ouenb a [iu siop ap oJquiaAou ap aAouazap ap '0,02/P00Z ojepuew o esed 'ogenb a ju stop ap oJquiajas
+ap S21) 9 SJuIA LS SOJtajo 'Spepju3 ep |22SIJ OYjasuos Op 8 BUOJaJI(] EP SOANaja SOJquIaL SO 'OULIS] a]Sap eINjeuisse ajueipaw 'sobspo soAdadsa! sou assod weJseuio) PA
+- OJQUBF SP OI “ONGS OP |EUOIEN OESBISpajuO? EU '/0€ 'OJSNF |esau9s) "Ay eu 'ogenh a |U SIOP ap OJQUISAOU Gp SAOU9ZSP BIP OP SBIOU SZUO Sy
+
+0L02/00€ — OLVONVIA
+
+TVOISII OHTAISNOO 00 d VIHOLIHIA VA SONININ SO ISSOd JA ONHIL
+
+B o
+
+DMkumento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O
+
+,
+
+
+[[pagina 31 | ocr]]
+JINVITVAVO VSNOS JO IDITIVA OOSIONVHA JOJoJId
+SIBVANH VEIIXIIL ODSIONVHA JOJSJG
+
+avo sIanona JOJJIG
+
+YNVId IDHVO JOJeJId
+
+ININOL XEVIA SOTAVO JOJSJIA
+
+OUISVO IG SOBIITIN OLNNVO JoJo]
+
++
+
+E
+
++s
+
+aNOVN SONINOB UANVI OJISINOSG | JOJSJIC o£
+
+ONIQSO OINOLNY OJISINOSA | JOJSIC og
+
+valadad OJANIS 9 ZM OJJBINOSS | -JOJSHQ o)
+
+SvIa VElIANO NOLalv OINOLNY OUBIIIIIS JOJBUIC o£
+
+093H9Vd OONNNTAI OINOLNY OUGJJISAOJBIIG 5
+
+INIQvdaVS OLHITON OIAVIA OnFoldO SOJA ob
+OdIINHVO VEIA ONA SJUSPISSIA-IIA
+
+aINduaINÔnaNv Ja vATIS Svisor
+
+SJuspissIq-99A
+
+DA
+
+SOdavI OLHIBON JSOF
+
+QJu9piSSId-991A
+
+0L02/b00Z OJEPUBIA — Ssspa op ouso |
+
+9040 Chstavol
+
+
+[[pagina 32 | ocr]]
+[3
+[2199 BIJP]9I009S
+
+Bo Emap valo
+
+“VAIS VO JLNIDIA OINQLNY
+
+OSOQUVO VIVAS HILOS OUTVNHY
+
+[BOSIJ OUJOSUOZ
+
+VIHHOO SIBH SOQ INVEIH
+OHIVAVO SNILHVA ENVM oe
+VIANA VEIBIA OYUSVEES Jena
+= OL3N OHT309 ONGad Joana
+LEVHNTT ZM NO LHON Fa
+SINDIHAO REZIAOHAS ONBANY ODEVIN Foda
+VZNOS ZA VHIZAVO INOLNVOMVA Fo
+
+|
+VAIS VO LHNOONLLIS OYISVO ZM Foto
+ONid VEIIXIZL SODNINOA QUANT Jojen
+o)
+A VEIZANO 30 350F OUVI Jojeug
+Z”
+: = 3 NOW OSOHGA OVISIOVT Jojan
+AN:
+/ C / TA NAONOY OTBONY NaSOr
+
+OLOc/h00Z OJEPUBIA — 9SSOd 9P OULUS |
+
+9 0-L0-
+
+Lo Fal
+
+JOJSNQ
+
+a 1
+
+né
+
+
+
+ônico
+
+pode ser acessado no endereço eletr
+
+documento
+
+0)
+
+[[pagina 33 | ocr]]
+
+[[pagina 34 | ocr]]
+
+Estatuto
+
+Confederação Nacional do Comércio
+de Bens, Serviços e Turismo
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 35 | nativo]]
+a esmo 0000000000
 
-[[pagina 36 | nativo]]
+[[pagina 35 | ocr]]
+Confederação Nacional do Comércio
+de Bens, Serviços e Turismo
 
-[[pagina 37 | nativo]]
+Brasília
+
+SBN Quadra 1 Bloco B nº 14, 15º ao 18º andar
+Edifício Confederação Nacional do Comércio
+CEP 70041-902
+
+PABX (61] 3329-9500 | 3329-9501
+
+E-mail:cnedf ão cne.com.br
+
+Rio de Janeiro
+
+Avenida General Justo, 307
+CEP 20021-130 Rio de Janeiro
+PABX (21) 3804-9200
+
+Fax (21) 2524-5916
+E-mail:encr)Ocnc.com.br
+
+Web site: www.portaldocomercio.org.br
+
+Programação visual: SG - DATIN - CDI/UPV
+
+Confederação Nacional do Comércio de Bens, Serviços e Turismo.
+Estatuto/Confederação Nacional do Comércio de Bens, Serviços e
+Turismo. - Rio de Janeiro: CNC, 2006.
+23p.
+
+Edição atualizada em 15/05/2008, com a consolidação resultante da
+Resolução CR/CNC nº 023/2003. « ,
+
+1. Estatuto. 2. Confederação Nacional do Comércio de Bens Serviços e
+Turismo. | Título.
+
+
+[[pagina 36 | ocr]]
+É CNC
+
+Estatuto
+
+Confederação Nacional do Comércio
+de Bens, Serviços e Turismo
+
+Edição atualizada em 15/05/2008,
+com a consolidação resultante da Resolução
+CR/CNC Nº 023/2003
+
+
+[[pagina 37 | ocr]]
+Carírutro 1
+
+Das Prerrogativas e Objetivos da Confederação
+
+Art. 1º A Confederação Nacional do Comércio de Bens, Serviços e Turismo
+(CNC), fundada em 4 de setembro de 1945, e reconhecida pelo Decreto nº.
+20.068, de 30 de novembro de 1945, com jurisdição em todo o território
+nacional e sede no Distrito Federal, rege-se por este Estatuto.
+
+8 1º São prerrogativas constitucionais e objetivos institucionais da CNC:
+
+| - representar, no plano nacional, os direitos e interesses do comércio
+brasileiro de bens, de serviços e de turismo (Constituição Federal, art. 8º,
+II);
+
+I| - organizar e disciplinar o Sistema Confederativo da Representação
+Sindical do Comércio (Sicomercio), de que é a entidade máxima
+(Constituição Federal, art. 8º, IV);
+
+Il - indicar representantes junto aos órgãos de jurisdição nacional;
+
+IV - arrecadar a contribuição para o custeio do Sicomercio [contribuição
+confederativa - art. 8º, IV, da Constituição Federal) e a contribuição sindical
+das empresas integrantes das categorias inorganizadas;
+
+V - conciliar divergências e conflitos entre federações filiadas;
+
+VI - celebrar convenções ou contratos coletivos de trabalho e prestar
+assistência em acordos coletivos nas localidades onde não haja sindicatos
+e/ou federações representativas da categoria econômica;
+
+VII - defender, na condição de postulado filosófico, o direito de
+propriedade, a livre iniciativa, a economia de mercado e o Estado
+Democrático de Direito;
+
+VIII - defender os principios de liberdade para exercer o comércio de
+bens, de serviços e de turismo, lealdade na concorrência e ética no
+desempenho da atividade profissional;
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 38 | nativo]]
+[[pagina 38 | ocr]]
+IX - preservar e consolidar a unidade nacional, com o desenvolvimento
+“harmônico do comércio de bens, de serviços e de turismo, em todas as
+regiões do Pais;
 
-[[pagina 39 | nativo]]
+X - pugnar pela conquista e o prestígio dos valores relacionados à
+confiança nas instituições, com realce para a moeda e crédito;
+
+XI - pugnar pelo Brasil aberto ao comércio internacional e integrado na
+economia mundial;
+
+XII - promover a harmonia e a solidariedade das categorias econômicas e o
+amplo entendimento com as categorias profissionais, visando à paz social;
+
+XIII - organizar e administrar o Serviço Nacional de Aprendizagem Comercial
+- SENAC e o Serviço Social do Comércio - SESC, (Decretos-leis nº. 8.621, de
+10 de janeiro de 1946 e nº. 9.853, de 13 de setembro de 1946).
+
+82º A CNC manterá relação com organizações internacionais afins,
+podendo a elas se filiar, desde que autorizada pelo Conselho de
+Representantes (CR).
+
+“APÍTULO II
+
+Das Federações Filiadas: Direitos e Deveres
+
+Art. 2º A filiação de federação à CNC depende do atendimento das
+exigências estatutárias e de decisão da Diretoria.
+
+8 1º O pedido de filiação, apresentado ao Presidente para ser submetido
+à Diretoria, será instruído com:
+
+| - certidão comprobatória do registro que lhe assegura personalidade
+jurídica de natureza sindical;
+
+|| - prova de prévio enquadramento sindical no plano da CNC, segundo as
+regras e os critérios do Sicomercio;
+
+III - prova de viabilidade econômico-financeira da entidade, mediante a
+
+Documgnto assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 39 | ocr]]
+comprovação de receita suficiente para manutenção dos serviços
+necessários à realização de suas finalidades, segundo critério da Diretoria 58
+“
+
+IV - cópia autêntica da ata da reunião do Conselho de Representantes
+(CR) que tiver autorizado o pedido de filiação e indicado seus
+representantes eleitos, especificada a identificação de cada um;
+
+V - cópia do Estatuto.
+
+82º O pedido de filiação será distribuído aos órgãos técnicos para exame
+e comunicado às federações filiadas para manifestação em 15 (quinze)
+dias úteis. Uma vez instruído, será incluído em pauta para deliberação.
+
+8 3º A decisão será comunicada por escrito à interessada e às demais
+filiadas, no prazo máximo de 10 [dez] dias úteis, a contar da reunião em
+que tiver sido adotada, declinados seus fundamentos, caso denegatória.
+
+8 4º Da decisão denegatória cabe recurso ao Conselho de Representantes
+(CR), no prazo de 15 (quinze) dias úteis a contar da ciência.
+
+8 5º A CNC manterá livro de registro das federações filiadas para
+lançamento dos dados necessários à sua identificação.
+
+Art. 3º São direitos da federação filiada:
+
+| - tomar parte, votar e ser votada, por seus representantes, nas reuniões
+do Conselho de Representantes (CR);
+
+I| - requerer, com número não inferior a 1/3 (um terço) das federações
+filiadas, a convocação da reunião extraordinária do Conselho de
+Representantes (CR);
+
+II - utilizar os serviços da CNC;
+IV - apresentar proposições sobre matérias de interesse do comércio.
+Art. 4º São deveres da federação filiada:
+
+| - pagar a contribuição associativa, cujos valor e prazo serão fixados
+pelo Conselho de Representantes (CR) na última reunião do ano anterior
+ou na primeira do de sua cobrança;
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 40 | nativo]]
+[[pagina 40 | ocr]]
+Il - observar o Estatuto, prestigiar a CNC e acatar suas deliberações;
 
-[[pagina 41 | nativo]]
+HI - repassar à CNC, nos prazos, as parcelas que lhe são devidas da
+contribuição confederativa e de quaisquer outras previstas em lei ou no
+Estatuto.
+
+Art. 5º A federação filiada está sujeita:
+| - à pena de suspensão de direitos até 6 (seis) meses:
+
+a) por ausência, sem justa causa, a três reuniões consecutivas do Conselho
+de Representantes (CR);
+
+b) por atraso no pagamento da contribuição associativa, por prazo superior
+a três meses e sem justa causa;
+
+c) por não acatar as deliberações da CNC;
+
+d) por não repassar à CNC, no prazo máximo de 15 dias, após o mês do
+recebimento, a parte que lhe couber na arrecadação da contribuição
+confederativa ou outra contribuição prevista em lei ou no Estatuto.
+
+Il - à pena de eliminação do quadro de filiadas:
+a) por cassação de seu registro;
+
+b) por reincidência ou, se for o caso, por persistência nas faltas de que
+trata o inciso 1.
+
+Art. 6º As penalidades previstas no art. 5º serão aplicadas pela Diretoria,
+com recurso ao Conselho de Representantes (CR), devendo ser assegurado,
+no respectivo processo, sob pena de nulidade:
+
+| - amplo direito de defesa;
+
+Il - prazo de 15 (quinze) dias úteis, a contar da respectiva notificação,
+para apresentação, por escrito, da defesa e do recurso.
+
+8 1º A simples manifestação da maioria não constitui motivo para
+aplicação de quaisquer penalidades diversas das estabelecidas neste
+
+Estatuto.
+Documgnito assinado digita mente conforme MP nº 2.200-2/2007 de 24/08/200 ; que institui a infra-estrutura de C
+
+
+[[pagina 41 | ocr]]
+8 22º A suspensão ou desfiliação de federação, seja a que titulo for, não a > Q
+desonera da obrigação de repassar à CNC a parte que lhe cabe na
+contribuição confederativa ou em outra estabelecida na lei ou no Estatuto.
+
+Art. 7º A federação eliminada poderá reingressar na CNC, desde que:
+
+| - por deliberação do Conselho de Representantes (CR) seja julgada
+reabilitada;
+
+Il - efetue a liquidação do seu débito, atualizado monetariamente e
+acrescido de multa de 10% (dez por cento).
+
+Caríruro HI
+
+Da Administração
+
+Seção |
+
+Disposições Gerais
+
+Art. 8º São órgãos de administração da CNC:
+| - o Conselho de Representantes (CR);
+
+| - a Diretoria;
+
+Ill - o Conselho Fiscal (CF).
+
+Seção Il
+Do Conselho de Representantes (CR)
+
+Art. 9º O CR, constituído pelas federações filiadas, é o órgão máximo da
+estrutura hierárquica da CNC, com a atribuição de:
+
+| - dispor sobre o Sicomercio (Constituição Federal, art. 8º, IV);
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 42 | nativo]]
+[[pagina 42 | ocr]]
+|| - estabelecer as diretrizes gerais de ação da CNC e verificar sua
+observância;
 
-[[pagina 43 | nativo]]
+III — eleger a Diretoria, o CF e seus representantes junto aos órgãos de
+jurisdição nacional ou, quando for o caso, referendar os nomes escolhidos
+pela Diretoria;
+
+IV - apreciar recurso de federação contra decisão da Diretoria que indeferir
+sua filiação à CNC;
+
+V - aplicar quaisquer das penalidades previstas neste Estatuto;
+
+VI - deliberar sobre a tomada e aprovação das contas da Diretoria e sobre
+a proposta orçamentária;
+
+VI — fixar contribuições;
+VIII - reformar o presente Estatuto;
+IX - deliberar sobre qualquer assunto de interesse do comércio.
+
+8 1º As deliberações do CR serão tomadas, em primeira convocação, por
+maioria absoluta de votos das federações filiadas e, em segunda, por
+maioria de votos das presentes, salvo nos casos em que o Estatuto exija
+quorum especial.
+
+8 2º A votação das matérias previstas nos incisos Ill a VI será feita por
+escrutínio secreto.
+
+8 32º Para tomada e aprovação de contas da Diretoria, os seus membros
+não podem votar, nem presidir os trabalhos.
+
+Art. 10. Nas votações do CR, inclutive para fins eleitorais, cada uma das
+Federações Estaduais e do Distrito Federal constitui uma Delegação
+Federativa.
+
+$ 1º Para os fins do disposto neste artigo, as Federações Nacionais filiadas
+constituem uma Delegação Federativa.
+
+8 2º A federação que se filiar durante o ano só poderá exercer o direito
+de voto a partir do ano subsequente.
+
+Documeptp assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 43 | ocr]]
+83º O representante-votante da federação filiada será o titular do cargo
+de maior hierarquia em sua diretoria ou, inocorrendo tal hipótese, o mais
+idoso.
+
+84º Afederação filiada somente poderá participar das discussões e exercer
+o direito de voto se estiver no gozo dos direitos de filiada e quite quanto
+ao pagamento e repasse das contribuições devidas.
+
+Art. 11. O CR reúne-se:
+
+| - ordinariamente, pelo menos uma vez por ano, para tomada de contas,
+discussão e votação do orçamento e eleições de sua atribuição;
+
+|| - extraordinariamente, quando convocado pelo Presidente, pela maioria
+da Diretoria ou do CF, ou por um terço das federações filiadas, feita a
+prévia e especificada indicação dos assuntos a tratar.
+
+8 1º As reuniões, desde que devidamente justificadas, poderão ser
+realizadas em jurisdição de qualquer federação filiada.
+
+8 2º As reuniões extraordinárias só poderão:
+| - tratar dos assuntos para que foram convocadas;
+
+|| — instalar-se, em primeira convocação, com a maioria absoluta das
+federações e, em segunda, no minimo 2 (duas) e no máximo até 24 (vinte
+e quatro) horas depois, com a presença, de pelo menos, 1/3 (um terço)
+delas, exigida a participação de, pelo menos, 2/3 (dois terços) dos que a
+convocaram no caso previsto na última parte do inciso Il.
+
+53º À convocação da reunião extraordinária do CR não poderá se opor o
+Presidente da CNC, que a promoverá em 5 (cinco) dias úteis da entrada
+do requerimento na Secretaria, para realização dentro de 20 (vinte) dias.
+Caso o Presidente não o faça, a reunião será convocada pelos que
+deliberarem realizá-la.
+
+8 4º As reuniões serão realizadas mediante convocação, por edital
+publicado no Diário Oficial da União, com antecedência minima de 10
+(dez) dias, e comunicado às filiadas juntamente com a pauta da reunião.
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 44 | nativo]]
+[[pagina 44 | ocr]]
+85º Em casos de comprovada urgência, a publicação de edital poderá ser
+dispensada, processando-se a convocação com antecedência minima de
+3 (três) dias.
 
-[[pagina 45 | nativo]]
+Seção III
+Da Diretoria
+
+Art. 12. A Diretoria é integrada por 35 (trinta e cinco] membros e até
+igual número de suplentes, eleitos pelo CR, para um mandato de 4 (quatro)
+anos.
+
+Parágrafo único. Os cargos da Diretoria são os seguintes:
+| - 1 (um) Presidente;
+
+Il - 12, 22 e 3º Vice-presidentes;
+
+III - 8 (oito) Vice-presidentes;
+
+IV - 1 (um) Vice-presidente Administrativo;
+
+V- 1 (um) Vice-presidente Financeiro;
+
+VI - 2 (dois) Diretores: 2º e 3º Secretários;
+
+VII - 2 (dois) Diretores: 22 e 3º Tesoureiros;
+
+VIH] - 17 (dezessete) Diretores.
+
+Art. 13. À Diretoria compete:
+
+| - apreciar qualquer assunto de interesse do comércio, deliberando sobre
+as medidas concretas a serem adotadas pela CNC;
+
+Il - orientar e fiscalizar a gestão administrativa;
+
+HI - cumprir e fazer cumprir as leis em vigor, as normas disciplinadoras
+do Sicomercio, o Estatuto, as Resoluções e demais atos seus, do CR e
+do CF;
+
+Documgnio assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 45 | ocr]]
+IV - aplicar o patrimônio da CNC e autorizar a alienação de bens imóv 3
+e de outros de valor significativo;
+
+V - organizar e submeter à aprovação do CR, com parecer do CF, o relatório
+e o balanço do ano anterior, bem como a proposta orçamentária para o
+exercicio seguinte e suas alterações;
+
+VI - elaborar o Regimento da CNC;
+VII - aplicar as penalidades previstas no Estatuto;
+
+VIII - eleger ou escolher, ad referendum do CR, seus representantes junto
+aos órgãos de jurisdição nacional;
+
+IX - desempenhar as atribuições que lhe sejam cometidas pelo CR.
+
+Parágrafo único. Ao término do mandato, a Diretoria fará prestação de
+contas de sua gestão, incluindo a do exercício em curso.
+
+Art. 14. A Diretoria reúne-se, ordinariamente, uma vez por mês e,
+extraordinariamente, quando convocada pelo Presidente ou pela maioria
+dos seus membros.
+
+8 1º As reuniões da Diretoria serão convocadas com antecedência minima
+de 72 [setenta e duas) horas, realizando-se em primeira convocação, com
+a maioria absoluta de seus membros e, em segunda convocação, no minimo
+2 (duas) horas e no máximo até 24 (vinte e quatro) horas depois da hora
+marcada, desde que presentes, pelo menos, 1/3 (um terço) dos diretores.
+
+8 2º As decisões serão tomadas por maioria de votos dos diretores
+presentes,
+
+Art. 15. Ão Presidente incumbe:
+
+| - exercer a função administrativa no comando direto dos órgãos e serviços
+da entidade;
+
+Il - representar legalmente a CNC, inclusive perante a Administração
+Pública e em Juízo, podendo delegar poderes;
+
+Il - convocar as reuniões do CR e da Diretoria, presidindo-as;
+
+estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço! 3
+
+[[pagina 46 | ocr]]
+IV - fazer elaborar e assinar as atas das sessões e os atos que instrumentam
+as deliberações e decisões do CR e da Diretoria, determinando e
+acompanhando seu cumprimento;
+
+V - autorizar despesas e assinar, juntamente com o Vice-presidente
+Financeiro, cheques e demais papéis de crédito;
+
+VI - contratar servidores, fixar-lhes a remuneração e demiti-los, feita a
+comunicação à Diretoria na reunião seguinte;
+
+Vil — designar, ouvida a Diretoria, representantes, quando se tratar de
+atribuição que independa de eleição;
+
+VIII - organizar, para submeter à Diretoria e à aprovação do CR, o relatório
+e o balanço do exercício anterior, bem como a proposta orçamentária do
+exercício seguinte;
+
+IX - desempenhar todas as atribuições que lhe tenham sido cometidas
+pelo CR e pela Diretoria.
+
+Parágrafo único. Aos Vice-presidentes compete auxiliar o Presidente e
+substituí-lo em suas faltas e afastamentos temporários, observada a ordem
+hierárquica de precedência.
+
+Art. 16. Ao Vice-presidente Administrativo compete:
+
+| - exercer atividades auxiliares da Presidência relacionadas com o
+desenvolvimento e acompanhamento de projetos destinados ao
+fortalecimento do Sicomercio;
+
+I| — auxiliar o Presidente na coordenação e no planejamento estratégico
+das atividades institucionais;
+
+III - desempenhar a função de Chanceler da Ordem do Mérito Comercial;
+IV — substituir:
+a) o Presidente, nas faltas e impedimentos de todos os Vice-presidentes;
+
+b) sem prejuízo de suas funções, o Vice-presidente Financeiro nas faltas e
+impedimentos, simultaneamente, dos Diretores 2º e 3º Tesoureiros.
+
+
+[[pagina 47 | ocr]]
+Parágrafo único. Aos Diretores 2º e 3º Secretários incumbe auxiliar O
+Vice-presidente Administrativo no desempenho de suas atribuições e
+substituí-lo em suas faltas e impedimentos. 4 2
+
+Art. 17. Ao Vice-presidente Financeiro incumbe:
+| - ter sob sua guarda e responsabilidade os fundos e valores financeiros da CNC;
+
+Il — assinar, com o Presidente, os cheques e demais papéis de crédito e
+efetuar pagamentos e recebimentos autorizados;
+
+Ill — dirigir e fiscalizar os trabalhos da Tesouraria;
+
+IV - apresentar, ao CF, balancetes semestrais e o balanço anual, bem como
+quaisquer informações e documentos financeiros quando pelo mesmo
+solicitado;
+
+V - depositar o dinheiro da CNC em estabelecimentos de créditos
+autorizados pela Diretoria, conservando, na Tesouraria, os fundos
+indispensáveis às necessidades imediatas;
+
+VI - manter registros dos bens da CNC e administrar seu patrimônio
+imobiliário destinado à produção de renda;
+
+VII — substituir, sem prejuizo de suas funções, o Vice-presidente
+Administrativo nas faltas e impedimentos, simultaneamente, dos Diretores
+2º e 3º Secretários.
+
+Parágrafo único. Aos Diretores 2º e 3º Tesoureiros compete auxiliar o
+Vice-presidente Financeiro no desempenho de suas atribuições e substituí-
+lo em suas faltas e impedimentos”?
+
+Art. 18. Aos Diretores, compete o desempenho das atribuições fixadas
+pela Diretoria, de acordo com as especificidades dos assuntos de
+conhecimento de cada Diretor e com as diretrizes institucionais.
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 46 | nativo]]
+[[pagina 48 | ocr]]
+Seção IV
+Do Conselho Fiscal (CF)
 
-[[pagina 47 | nativo]]
+Art. 19. O CF, órgão de fiscalização da gestão financeira, é composto de
+3 (três) membros efetivos e igual número de suplentes, eleitos, juntamente
+com a Diretoria, pelo CR, para um mandato de 4 (quatro) anos.
+
+8 1º Ao CF incumbe:
+| - eleger o Presidente, dentre seus membros efetivos;
+
+Il - dar parecer sobre a proposta orçamentária e suas retificações, o balanço
+anual, os balancetes semestrais e as alienações de bens que dependam da
+aprovação da Diretoria e de títulos de renda;
+
+Ill - opinar sobre as despesas extraordinárias e a aplicação do patrimônio;
+
+IV - visar os livros de escrituração contábil quando das tomadas de contas
+da Diretoria.
+
+82º O CF reúne-se:
+| - ordinariamente, para tratar dos assuntos previstos no 8 1º;
+
+|| - extraordinariamente, sempre que convocado por seu Presidente ou
+pela maioria de seus membros, observado, no que couber, o disposto no 8
+2º, do art. 11.
+
+8 32 Compete ao Presidente do CF convocar e presidir as reuniões do
+Conselho, sendo substituído, em suas faltas e impedimentos, pelo membro
+mais idoso. À primeira reunião do Conselho, para eleger seu Presidente,
+será convocada pelo Presidente da Confederação.
+
+Documagto assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 49 | ocr]]
+Carírutro IV
+
+Das Eleições 43
+
+Art. 20. À eleição para a Diretoria e CF será realizada por escrutínio secreto,
+dentro do prazo máximo de 60 (sessenta) e minimo do 30 (trinta) dias
+antes do término do mandato dos dirigentes em exercicio, observados os
+seguintes princípios:
+
+| - convocação mediante edital, mencionando data, local, e horário de
+votação, prazo para o registro de chapa, horário de funcionamento da
+Secretaria no período eleitoral, prazo para impugnação de candidaturas e
+quorum para instalação e votação, que será afixado na sede, remetido às
+federações filiadas e publicado, por resumo, com antecedência minima
+de 90 (noventa) e máxima de 120 (cento e vinte) dias sobre a data do
+pleito;
+
+Il - o sigilo e a inviolabilidade do voto, mediante utilização de cédula
+única e cabine indevassável;
+
+Il - para votar é preciso ser representante-eleitor e, para ser votado, o
+candidato deve integrar o plano sindical da CNC e:
+
+a) comprovar a condição de comerciante, com efetivo exercicio da
+atividade nos últimos 3 (três) anos;
+
+b) comprovar o exercicio, por prazo não inferior a 3 (três) anos, de cargo
+de administração ou representação sindical em qualquer entidade do
+Sicomercio;
+
+c) não ter desaprovação nas contas relativas ao exercicio de cargo de
+administração ou representação sindical que haja exercido;
+
+d) não incorrer na inelegibilidade de que trata o 8 2º do art. 23;
+
+e) não ter sido condenado por crime doloso, enquanto persistir os efeitos
+da pena.
+
+
+estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço! ?
+
+[[pagina 50 | ocr]]
+$ 1º Sendo o candidato integrante da administração de federação só
+
+- poderá concorrer a cargo de administração, se tiver sido eleito em pleito
+realizado no máximo 90 (noventa) dias antes do início do prazo para
+registro de chapa concorrente ao pleito da CNC.
+
+8 2º Na chapa concorrente ao pleito deverá constar, para O cargo de
+Presidente e para cada cargo numerado, o nome do respectivo candidato;
+os nomes dos Vice-presidentes não numerados e dos demais Diretores,
+em ordem alfabética, e a relação dos suplentes organizada também por
+ordem alfabética.
+
+$ 3º A Diretoria regulamentará este Capítulo, e o art. 26, por meio de
+Resolução, dispondo sobre o processo eleitoral.
+
+Art. 21. Para eleição de representantes junto aos órgãos de jurisdição
+nacional, a escolha será feita pelo CR ou Diretoria ou, havendo urgência,
+por esta ad referendum daquele, ou pelo Presidente, ad referendum da
+Diretoria, observados os seguintes princípios:
+
+| - eleição por voto secreto, quando a lei exigir;
+
+|| - nos demais casos, a escolha será feita por aclamação ou pelo processo
+que o respectivo colégio eleitoral decidir.
+
+CaríruLo V
+
+Da Suspensão e da Perda de Mandato
+
+Art. 22. Ao membro da Diretoria, do CF ou do CR que deixar de cumprir
+os deveres de seu cargo, violar dispositivo legal ou estatutário, faltar ao
+decoro ou praticar ato lesivo aos interesses da CNC, será aplicada a pena
+de suspensão por até 180 (cento e oitenta) dias.
+
+81º No caso de notória gravidade da falta cometida ou no de reincidência,
+será aplicada a pena de perda do mandato.
+
+arestrutura de
+tenticarDocu
+
+[[pagina 51 | ocr]]
+8 2º A federação representada será ouvida no respectivo processo para O
+fim de ser verificado se a penalidade lhe será extensiva, Tedená q
+
+declaração de que não lhe será dado indicar substituto durante o praz
+da condenação, que não poderá exceder o mandato em curso na Diretoria.
+Art. 23. O membro da Diretoria ou do CF perderá o mandato nos casos de:
+| - malversação do patrimônio social;
+
+| - abandono do cargo;
+
+Il - na hipótese referida no 8 1º, do art. 22.
+
+8 1º Considera-se abandono de cargo a ausência, sem justa causa, a 4
+(quatro) reuniões consecutivas da Diretoria ou do CF.
+
+82º OQ membro da Diretoria ou do CF que abandonar o cargo não poderá
+ser eleito para qualquer mandato de administração ou de representação
+pelo prazo de 4 (quatro) anos.
+
+Art. 24. As penalidades serão aplicadas pelo CR, por proposta da Diretoria,
+mediante processo regular em que deve ser assegurado amplo direito de
+defesa.
+
+Caríruto VI
+
+Das Substituições
+
+Art. 25. No caso de afastamento temporário (falta ou impedimento
+ocasional), assumirá O cargo, automaticamente e de pleno direito, o
+substituto previsto no Estatuto (artigo. 15, parágrafo único; artigo 16,
+inciso IV, alíneas “a” e "b" e parágrafo único, in fine; artigo 17, VIl e
+parágrafo único, e artigo 19, caput e 8 39).
+
+Art. 26. No caso de afastamento definitivo [vaga] serão adotados os
+seguintes procedimentos:
+
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 48 | nativo]]
+[[pagina 52 | ocr]]
+| - no caso de afastamento definitivo do Presidente, assumirá o Vice-
+presidente, observada a ordem hierárquica de precedência, que convocará
+eleição, a ser realizada no prazo de 30 (trinta) dias, a contar da data da
+vacância, para escolha, dentre os membros efetivos da Diretoria, do novo
+Presidente, para completar o mandato;
 
-[[pagina 49 | nativo]]
+Il - no caso de afastamento definitivo de outros Diretores, feita pelo
+Presidente a comunicação à Diretoria, será aberto prazo de 10 (dez) dias
+para apresentação, pelo membro efetivo da Diretoria interessado, de sua
+candidatura ao preenchimento da vaga, observando-se que, no caso de
+Diretor Vice-presidente, o preenchimento se dará sempre na última posição
+do respectivo bloco de cargos;
+
+III - a escolha será feita por eleição da Diretoria, em sua primeira reunião;
+
+IV - decorrido o prazo sem que se apresente candidato, ou eleito o que se
+apresentar, ou dentre os que se candidatarem, será aberto novo prazo,
+para que os suplentes se candidatem para preencher a vaga final resultante,
+nos prazos e condições previstos nos incisos Il e Ill, observando, sempre
+que possível, o critério de conservação da representatividade do Estado
+ou Região do Diretor afastado.
+
+Parágrafo único - No caso de afastamento definitivo de integrante da
+chapa eleita, a substituição deverá ocorrer após a posse, observando os
+mesmos principios deste artigo, iniciando-se a partir da data da posse a
+contagem dos prazos.
+
+Art. 27. Se ocorrer renúncia coletiva da Diretoria e não houver suplentes,
+o Presidente, ainda que resignatário, convocará o CR, que elegerá,
+imediatamente, uma Junta Governativa provisória, de 3 (três) membros.
+
+8 1º A Junta Governativa considera-se automaticamente empossada na
+data da sua eleição.
+
+8 2º A Junta Governativa adotará as providências necessárias à realização
+de novas eleições, no prazo de 90 (noventa) dias contados de sua posse.
+
+83º Se o Presidente se recusar a convocar o CR, o Presidente do CF, ou
+seu substituto, o fara.
+
+Documggto assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 53 | ocr]]
+Caríruro VII
+
+Da Receita 4
+
+o
+
+Art. 28. A receita da CNC constitui-se:
+
+| - da parcela, que lhe couber, da contribuição confederativa (Constituição
+Federal, art. 8º, IV) e da contribuição sindical arrecadada na forma da lei;
+
+Il - da contribuição associativa;
+
+|Il - de doações e legados;
+
+IV - de rendas patrimoniais;
+
+V — de auxílios e subvenções de entidades públicas e particulares;
+VI - de multas e outras rendas eventuais.
+
+Parágrafo único. Nenhuma contribuição poderá ser imposta às federações
+filiadas além das determinadas em lei e no Estatuto, salvo se aprovada
+por 3/4 (três quartos) das federações que integram o CR.
+
+Caríruto VII
+
+Das Disposições Gerais
+
+Art. 29. Nas hipóteses previstas nos artigo 3º Il; artigo 11, Ile 8 22 Il;
+artigo 20; artigo 27; e artigos 35 e 36, as federações filiadas serão
+computadas pelo número de votos que lhes cabe (artigo 10).
+
+Art. 30. Para os fins deste Estatuto, considera-se justa causa a que se
+constitua razão suficiente para justificar a ocorrência e cuja comunicação
+tenha sido feita por escrito e previamente.
+
+Art. 31. À Diretoria poderá instituir comunidade de serviços de secretaria
+
+e outros, que se relacionem com os objetivos da CNC, ou de quaisquer
+
+Documento assinado digitaimente conforme MP nº 2.200-2/2001 de 24/08/2007, que instituiainiras,
 estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
 
-[[pagina 50 | nativo]]
+[[pagina 54 | ocr]]
+entidades sindicais ou afins, mediante o pagamento ou o recebimento
+das quotas que forem fixadas.
 
-[[pagina 51 | nativo]]
-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
+Art. 32. À Diretoria, ad referendum do CR, poderá criar órgãos auxiliares,
+de assistência ou assessoramento, cuja presidência ou direção será sempre
+exercida pelo Presidente da CNC ou por membros da Diretoria de sua
+indicação.
 
-[[pagina 52 | nativo]]
+Parágrafo único. À estrutura e o funcionamento desses órgãos serão
+disciplinados por Regimento aprovado pela Diretoria.
 
-[[pagina 53 | nativo]]
-estrutura de Chaves Públicas Brasileira - ICP-Brasil. O documento pode ser acessado no endereço
+Art. 33. As despesas de viagem e estada de até 2 (dois) representantes
+por federação filiada, com sede fora do local onde se realizar a reunião
+do CR, a que compareçam, serão custeadas pela CNC, observados os
+critérios estabelecidos pela Diretoria.
 
-[[pagina 54 | nativo]]
+Art. 34. Das atas das reuniões do CR e da Diretoria constarão as
+deliberações tomadas.
 
-[[pagina 55 | nativo]]
+Art. 35. No caso de dissolução da CNC, deliberada pelo CR para esse fim
+especialmente convocado, e com a presença mínima de 3/4 (três quartos)
+das federações filiadas, o seu patrimônio terá o destino indicado pela
+maioria das delegações presentes.
 
-[[pagina 56 | nativo]]
+Art. 36. O Estatuto só poderá ser reformado pelo CR em assembléia
+especialmente convocada e com a presença de, pelo menos, 2/3 (dois
+terços) das federações filiadas.
+
+Parágrafo único. À proposta de alteração ou reforma do Estatuto será
+enviada às federações com antecedência minima de 15 (quinze) dias sobre
+a data da reunião em que deve ser discutida e votada.
+
+Docurgento assinado digitalmente conforme MP nº 2.200-2/2001 de 24/08/2001, que institui a Infra-estrutura de
+
+[[pagina 55 | ocr]]
+CaríruLo IX
+
+4b
+
+Das Disposições Transitórias
+
+Art. 37. Os membros da Diretoria e do CF a serem eleitos no ano de 2004,
+terão mandatos de 6 (seis) anos, a fim de que a nova periodicidade de 4
+(quatro) anos, prevista nos artigos 12 e 19, seja aplicada a partir da eleição
+que será realizada em 2010.
+
+Art. 38. À alteração das denominações dos cargos de 1º Secretário e 1º
+Tesoureiro, constantes da chapa eleita para o mandato de 2004 a 2010,
+para Vice-presidente Administrativo e Vice-presidente Financeiro,
+respectivamente, passam a vigorar a partir de 12 de dezembro de 2005,
+data da aprovação pelo Conselho de Representantes.
+
+Caríruto X
+
+Das Disposições Finais
+
+Art. 39. O presente Estatuto entra em vigor nesta data.
+
+Rio de Janeiro, 15 de maio de 2008.
+
+de Chaves Públicas Brasileira - ICP-Brasil. o documento pode ser acessado no “endereço eletrônico
+
+[[pagina 56 | ocr]]
+dpado € en teroo dest deco res
 

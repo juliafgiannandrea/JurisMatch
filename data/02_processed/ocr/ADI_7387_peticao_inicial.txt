@@ -1,0 +1,2700 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO C.
+SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO NOVO (“NOVO”), agremiação política registrada no
+Tribunal Superior Eleitoral, registrado no Cartório de Registro Civil das
+Pessoas Naturais e Jurídica do Distrito Federal, no Livro A-25, sob o nº.
+9.255 e com representatividade no Congresso Nacional, inscrito no
+CNPJ/MF sob o nº 13.405.866/0001-24, com sede no Setor de Rádio e TV
+SUL (SRTVS), quadra 701, lote 05, bloco B, sala 322, Centro Empresarial
+Brasília, Asa Sul, CEP 70340-000, em Brasília, DF, neste ato representado
+por seu Presidente, Sr. EDUARDO RODRIGO FERNANDES RIBEIRO, vem
+à presença de Vossa Excelência, por seus advogados, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO DE TUTELA DE URGÊNCIA
+
+com o intuito de trazer a esta e. Corte Suprema a pretensão de exame das
+Leis nºs. 21.670 e 21.671 do Estado de Goiás, ambas de 06 de dezembro
+de 2022, as quais instituíram e aparelharam a execução do “Fundo
+Estadual de Infraestrutura – FUNDEINFRA”, buscando o reconhecimento
+de sua inconstitucionalidade, com fundamento nas seguintes razões de
+fato e de direito que passa a expor:
+
+Pág. 1 de 65
+
+[[pagina 2 | nativo]]
+
+I. O CABIMENTO DESTA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE E A LEGITIMIDADE DO PARTIDO NOVO
+PARA PROMOVÊ-LA
+
+Esta ação direta tem como objeto o reconhecimento de
+inconstitucionalidade das Leis nºs. 21.670 e 21.671 do Estado de Goiás,
+ambas de 06 de dezembro de 2022, as quais instituíram e aparelharam a
+execução do “Fundo Estadual de Infraestrutura – FUNDEINFRA”, por
+afronta a várias disposições constitucionais tributárias e financeiras.
+
+Esse “fundo” passou a onerar os produtos daquele Estado, mas
+tais exigências se revelam contrárias à ordem jurídica. Daí o cabimento
+desta ação.1
+
+A pretensão se justifica na medida em que o art. 102, I, “a”, da
+Constituição da República confere a este Supremo Tribunal Federal,
+precipuamente, a guarda da Constituição, cabendo-lhe processar e julgar,
+originariamente, a ação direta de inconstitucionalidade de lei ou ato
+normativo federal ou estadual, dentre outras atribuições.
+
+A Lei nº 21.670 instituiu o FUNDEINFRA, ao passo que a Lei
+nº 21.671 alterou a legislação local, resultando de ambas a exigência de
+pagamento a esse “fundo” como condição para a fruição de benefícios ou
+incentivos fiscais, de diferimento e substituição tributária de ICMS e da
+imunidade das exportações – em flagrante e direto desrespeito ao texto da
+Carta Constitucional, como será detalhado adiante. Tal afronta é o mote
+da presente medida.
+
+O autor é partido político registrado perante o Tribunal
+Superior Eleitoral e está representado no Congresso Nacional, o que lhe
+confere legitimidade para o ajuizamento desta ação direta de
+
+1 Para fins de padronização desta peça, convenciona-se, desde já, que sempre que esse fundo for
+mencionado ele o será em caixa alta e sem aspas.
+
+Pág. 2 de 65
+
+[[pagina 3 | nativo]]
+
+inconstitucionalidade, nos termos do art. 103, VIII, da Constituição
+Federal e do art. 2º, VIII, da Lei nº 9.868/99.
+
+De acordo com a jurisprudência da Suprema Corte, os partidos
+políticos com representação no Congresso Nacional têm legitimidade
+universal, motivo pelo qual é inexigível a demonstração de pertinência
+temática para o ajuizamento da ADI, tal como decidido no julgamento da
+ADI nº 1.407, in verbis:
+
+Ementa: “Partido político. Ação direta. Legitimidade ativa.
+Inexigibilidade do vínculo de pertinência temática. Os partidos
+políticos, desde que possuam representação no Congresso
+Nacional, podem, em sede de controle abstrato, arguir, perante
+o STF, a inconstitucionalidade de atos normativos federais,
+estaduais ou distritais, independentemente de seu conteúdo
+material, eis que não incide sobre as agremiações partidárias
+a restrição jurisprudencial derivada do vínculo de pertinência
+temática.”2 (sem destaques no original)
+
+Portanto, demonstrados estão tanto o cabimento da medida,
+quanto a legitimidade do autor para promovê-la.
+
+II. OS ATOS NORMATIVOS IMPUGNADOS
+
+Em 06 de dezembro de 2022 foram sancionadas e publicadas
+as Leis nºs. 21.670 e 21.671 pelo Estado de Goiás, as quais são o cerne
+desta medida judicial. A primeira criou o FUNDEINFRA, enquanto que a
+segunda alterou o Código Tributário Estadual e outras leis para incorporar
+as modificações causadas por esse “fundo”.
+
+Eis o teor da Lei nº 21.670, com a redação dada pela Lei nº
+21.792, de 16.02.2023, cujo texto normativo foi retirado de repositório
+oficial do Estado. Os itens negritados são aqueles que, por sua ofensa
+
+2 ADI-MC nº 1.407. Rel. Min. Celso de Mello. DJU 24.11.2000.
+
+Pág. 3 de 65
+
+[[pagina 4 | nativo]]
+
+flagrante a disposições constitucionais, são o cerne da presente
+discussão:3
+
+“LEI Nº 21.670, DE 6 DE DEZEMBRO DE 2022
+Dispõe sobre a criação do Fundo Estadual de
+Infraestrutura – FUNDEINFRA.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos
+do art. 10 da Constituição Estadual, decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Fica instituído, na Secretaria de Estado da
+Infraestrutura – SEINFRA, o Fundo Estadual de Infraestrutura –
+FUNDEINFRA, de natureza orçamentária e dotado de autonomia
+administrativa, contábil e financeira, para a captação de recursos destinados
+ao desenvolvimento econômico do Estado de Goiás, sem prejuízo das dotações
+consignadas em outros fundos e entidades com a mesma finalidade, e ele tem
+ainda os seguintes objetivos:
+I – gerir os recursos oriundos da produção agrícola, pecuária e
+mineral no Estado de Goiás, além das demais fontes de receitas definidas
+nele; e
+II – implementar, em âmbito estadual, políticas e ações
+administrativas de infraestrutura agropecuária, dos modais de transporte,
+recuperação, manutenção, conservação, pavimentação e implantação de
+rodovias, sinalização, artes especiais, pontes, bueiros, edificação e
+operacionalização de aeródromos.
+§ 1º Para o desenvolvimento e a consecução dos objetivos do
+FUNDEINFRA, poderão ser contratados estudos técnicos de planejamento e
+avaliação de infraestrutura e logística.
+§ 2º Compete à SEINFRA garantir o suporte técnico e material
+necessário à organização administrativa e contábil para a implementação do
+FUNDEINFRA.
+Art. 2º A destinação dos recursos do FUNDEINFRA ficará a
+cargo de seu Conselho Gestor, o qual será composto por um presidente e demais
+membros com seus suplentes, em composição paritária, e terá representantes do
+Estado de Goiás e da iniciativa privada.
+§ 1º Os membros integrantes do Conselho Gestor e seus suplentes
+serão nomeados por ato do Governador do Estado de Goiás, sendo os
+representantes do Estado de Goiás membros natos e os da iniciativa privada
+sujeitos a mandato de 12 (doze) meses.
+§ 2º As deliberações do Conselho Gestor serão por maioria, e o
+Presidente votará somente em caso de empate.
+§ 3º Os membros do Conselho Gestor não serão remunerados pelos
+trabalhos desenvolvidos em favor do FUNDEINFRA.
+Art. 3º Competem ao Conselho Gestor do FUNDEINFRA a gestão
+e a definição da destinação dos recursos de que disporá, conforme está previsto
+no § 2º do art. 1º desta Lei.
+
+3 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106378/lei-21670.
+
+Pág. 4 de 65
+
+[[pagina 5 | nativo]]
+
+Art. 4º O acompanhamento das ações concernentes à captação de
+recursos e ao custeio das atividades implementadas competirá ao Conselho Fiscal,
+com a seguinte composição:
+I – um representante da Secretaria de Estado da Economia;
+II – um representante da Controladoria-Geral do Estado; e
+III – um representante do setor privado.
+§ 1º Cabe também ao Conselho Fiscal a publicação de relatórios
+trimestrais de arrecadação e aplicação dos recursos.
+§ 2º Os membros do Conselho Fiscal não serão remunerados pelos
+trabalhos desenvolvidos em favor do FUNDEINFRA.
+Art. 5º Constituem receitas do FUNDEINFRA:
+I – contribuição exigida no âmbito do Imposto sobre Operações
+Relativas à Circulação de Mercadorias e sobre Prestações de Serviços de
+Transporte Interestadual e Intermunicipal e de Comunicação – ICMS como
+condição para:
+a) a fruição de benefício ou incentivo fiscal;
+b) o contribuinte que optar por regime especial que vise ao
+controle das saídas de produtos destinados ao exterior ou com o fim
+específico de exportação e à comprovação da efetiva exportação; e
+c) o imposto devido por substituição tributária pelas operações
+anteriores ser:
+1. pago pelo contribuinte credenciado para tal fim por ocasião
+da saída subsequente; ou
+2. apurado juntamente com aquele devido pela operação de
+saída própria do estabelecimento eleito substituto, o que resultará um só
+débito por período;
+II – recursos oriundos de convênios firmados com o Governo
+Federal para a aplicação na infraestrutura geral do Estado de Goiás, nas áreas de
+modais de transporte, edificações públicas, produção mineral e energia;
+III – verbas, convênios e doações provenientes de organismos
+internacionais de fomento ao desenvolvimento da infraestrutura pública,
+produção mineral e geração de energia;
+IV – contribuições oriundas de taxas de prestação de serviços
+relativos a políticas de infraestrutura, edificação, desenvolvimento de modal de
+transporte, produção mineral e energia;
+V – receitas provenientes de concessões formalizadas para o
+desenvolvimento dos objetivos definidos no art. 1º desta Lei e de parcerias público-
+privadas;
+VI – dotações orçamentárias do Tesouro Estadual;
+VII – rendas oriundas de aplicação financeira dos recursos
+arrecadados;
+VIII – doações realizadas por pessoas físicas e jurídicas, públicas e
+privadas;
+IX – transferências à conta do orçamento do Estado; e
+X – transferências efetuadas de outros fundos.
+Parágrafo único. A contribuição referida no inciso I deste artigo
+pode ser cobrada:
+I – em percentual não superior a 1,65% (um inteiro e sessenta
+e cinco centésimos por cento) sobre o valor da operação com as mercadorias
+discriminadas na legislação do imposto; ou
+
+Pág. 5 de 65
+
+[[pagina 6 | nativo]]
+
+II – por unidade de medida adotada na comercialização da
+mercadoria.
+Art. 6º Os recursos do FUNDEINFRA serão empregados em
+projetos, atividades e ações inerentes aos seus objetivos e empenhados à
+conta das dotações específicas administradas pela SEINFRA, com recursos
+transitados pela conta única do Tesouro Estadual.
+Parágrafo único. As construções, os serviços, os equipamentos
+e os demais bens públicos construídos ou adquiridos com o FUNDEINFRA se
+incorporarão ao patrimônio do Estado.
+Art. 7º A SEINFRA poderá abrir conta-corrente específica na
+instituição de crédito oficial para a movimentação e a arrecadação de receitas
+relativas ao FUNDEINFRA.
+Art. 8º Os saldos financeiros apurados ao final do exercício e não
+comprometidos para o pagamento dos restos a pagar também as despesas
+liquidadas e não pagas do exercício corrente relativas ao FUNDEINFRA serão
+transferidos, a seu favor, para o ano seguinte.
+Art. 9º Fica autorizada a abertura de crédito especial destinado à
+implementação do FUNDEINFRA.
+Art. 10. As obras e os serviços de infraestrutura executados com
+recursos provenientes do FUNDEINFRA deverão ser identificados com o destaque:
+OBRA/SERVIÇO REALIZADO COM RECURSOS DO FUNDEINFRA.
+Art. 11. O Chefe do Poder Executivo regulamentará esta Lei antes
+da data da sua vigência.
+Art. 12. Esta Lei entra em vigor em 1º de janeiro de 2023.”
+
+A Lei nº 21.671, por sua vez, também extraída do mesmo
+repositório oficial do Estado, tem o teor a seguir. Novamente, negrita-se as
+disposições que fazem direta afronta à Constituição de 1988:4
+
+“LEI Nº 21.671, DE 6 DE DEZEMBRO DE 2022
+Altera as Leis nº 11.651, de 26 de dezembro de
+1991, Código Tributário do Estado de Goiás –
+CTE, nº 13.194, de 26 de dezembro de 1997, e
+nº 13.453, de 16 de abril de 1999, que tratam de
+matéria tributária.
+
+A ASSEMBLEIA LEGISLATIVA DO ESTADO DE GOIÁS, nos termos
+do art. 10 da Constituição do Estado de Goiás, decreta e eu sanciono a seguinte
+Lei:
+
+Art. 1º. A Lei nº 11.651, de 26 de dezembro de 1991, Código
+Tributário do Estado de Goiás – CTE, passa a vigorar com as seguintes alterações:
+
+4 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106377/lei-21671.
+
+Pág. 6 de 65
+
+[[pagina 7 | nativo]]
+
+‘Art. 38-A. A não incidência a que se referem a alínea
+“a” do inciso I do caput do art. 37 e o art. 38, em relação a
+mercadorias discriminadas em regulamento, fica condicionada à
+comprovação da efetiva exportação, na forma e no prazo
+estabelecidos na legislação tributária.
+§ 1º Para o controle das operações destinadas ao
+exterior e a comprovação da efetiva exportação, o regulamento
+pode:
+I – exigir o pagamento do ICMS relativo a cada
+operação ou prestação no momento da saída da mercadoria do
+estabelecimento remetente por meio de documento de
+arrecadação distinto, garantida a restituição do valor do imposto
+efetivamente pago após a comprovação da efetiva exportação; e
+II – em substituição ao disposto no inciso I deste
+parágrafo, instituir regime especial ao contribuinte que optar pelo
+pagamento de contribuição para fundo destinado a investimento
+em infraestrutura, mediante termo de credenciamento celebrado
+com a Secretaria de Estado da Economia, na forma, nas condições
+e nos prazos que dispuser.
+§ 2º O valor do ICMS previsto no inciso I do § 1º
+deste artigo deve ser obtido por meio da aplicação da alíquota
+prevista para as operações internas com a mercadoria objeto da
+operação sobre:
+I – o valor constante da pauta de valores elaborada
+pela Secretaria de Estado da Economia vigente no último dia do
+mês anterior ao da saída da mercadoria; ou
+II – o valor da operação, quando inexistir valor
+estabelecido para a mercadoria objeto da operação na pauta de
+valores de que trata o inciso I deste parágrafo.
+§ 3º A contribuição prevista no inciso II do § 1º deste
+artigo fica dispensada nas hipóteses em que o correspondente
+pagamento já houver ocorrido em operações anteriores com a
+mercadoria objeto da exportação.’ (NR)
+‘Art 50..........................................................................
+§ 1º..............................................................................
+II – da saída subsequente por ele promovida, ainda
+que seja isenta ou não tributada, desde que:
+a) seja credenciado para tal fim, na forma definida
+em regulamento e com o atendimento das condições
+estabelecidas na legislação tributária; e
+b) nas hipóteses previstas nos incisos I e II
+do caput deste artigo, em relação às mercadorias discriminadas
+em regulamento, contribua para fundo destinado a investimento
+em infraestrutura.
+§ 1º-A A contribuição para fundo destinado a
+investimento em infraestrutura referida na alínea “b” do inciso II
+do § 1º deste artigo incide na operação anterior e apenas uma vez.
+
+Pág. 7 de 65
+
+[[pagina 8 | nativo]]
+
+§ 2º Na hipótese do inciso II do § 1º deste artigo,
+ainda será observado o seguinte:
+....................................................................................
+V – ..............................................................................
+c) tenha sido feito o pagamento da contribuição para
+fundo destinado a investimento em infraestrutura referida na
+alínea “b” do inciso II do § 1º deste artigo.
+............................................................................’ (NR)
+Art. 2º. A Lei nº 13.194, de 26 de dezembro de 1997, passa a vigorar
+com as seguintes alterações:
+
+‘Art 2º..........................................................................
+§ 1º Quanto ao disposto no inciso III do caput deste
+artigo:
+I – o imposto devido por substituição tributária integra
+a base de cálculo do valor do benefício do FOMENTAR a que fizer jus
+o estabelecimento eleito substituto; e
+II – a permissão pode ser condicionada a que o
+substituto tributário contribua para fundo destinado a
+investimento em infraestrutura, conforme dispuser o
+regulamento.
+§ 1º-A A contribuição para fundo destinado a
+investimento em infraestrutura referida no inciso II do § 1º deste
+artigo incide na operação anterior e apenas uma vez.
+............................................................................’ (NR)
+
+Art. 3º. A Lei nº 13.453, de 16 de abril de 1999, passa a vigorar com
+a seguinte alteração:
+
+‘Art 2º..........................................................................
+§ 5º Quanto à isenção de que tratam as alíneas “f”,
+“g”, “o” e “w” do inciso II deste artigo, o regulamento pode, em
+relação a todas ou a algumas das mercadorias ali relacionadas,
+condicionar a fruição do benefício fiscal ao pagamento de
+contribuição para fundo destinado a investimento em
+infraestrutura, hipótese em que o destinatário fica responsável
+pelo seu pagamento.’ (NR)
+
+Art. 4º Fica o Chefe do Poder Executivo autorizado a condicionar a
+fruição de benefícios ou incentivos fiscais concedidos mediante a celebração de
+convênio no âmbito do Conselho Nacional de Política Fazendária – CONFAZ ao
+pagamento de contribuição a fundo destinado ao desenvolvimento econômico ou
+à manutenção do equilíbrio das finanças públicas estaduais.
+Art. 5º Esta Lei entra em vigor na data de sua publicação,
+produzindo efeitos, porém, somente até 31 de dezembro de 2026.”
+
+Pág. 8 de 65
+
+[[pagina 9 | nativo]]
+
+Para dar o acabamento necessário a esse mosaico de
+inconstitucionalidades, o Poder Executivo Estadual baixou o Decreto nº
+10.187, de 30 de dezembro de 2022, que contém os seguintes enunciados
+prescritivos:5
+“DECRETO Nº 10.187, DE 30 DE DEZEMBRO DE 2022
+Altera o Decreto nº 4.852, de 29 de dezembro de
+1997, Regulamento do Código Tributário do
+Estado de Goiás.
+
+O GOVERNADOR DO ESTADO DE GOIÁS, no uso de suas
+atribuições constitucionais, com fundamento no inciso IV do art. 37
+da Constituição do Estado de Goiás, no art. 4º das Disposições Finais e
+Transitórias da Lei nº 11.651, de 26 de dezembro de 1991, Código Tributário do
+Estado de Goiás – CTE, tendo em vista o disposto na Lei nº 21.671, de 6 de
+dezembro de 2022, e o que consta do Processo nº 202200004108597,
+
+DECRETA:
+
+Art. 1º O Decreto nº 4.852, de 29 de dezembro de 1997,
+Regulamento do Código Tributário do Estado de Goiás – RCTE, passa a vigorar
+com as seguintes alterações:
+
+‘Art. 79-A. A não incidência a que se referem a alínea
+‘a’ do inciso I do caput e o § 1º, ambos do art. 79, em relação às
+mercadorias discriminadas a seguir, fica condicionada à
+comprovação da efetiva exportação (Lei nº 11.651, de 26 de
+dezembro de 1991, art. 38-A):
+I – milho;
+II – soja;
+III – carne fresca, resfriada, congelada, salgada,
+temperada ou salmourada e miúdo comestível resultante do abate
+de gado bovino ou bufalino;
+IV – amianto;
+V – ferroliga;
+VI – minério de cobre e seus concentrados; e
+VII – ouro, incluído o ouro platinado.
+§ 1º Para o controle das operações destinadas ao
+exterior e a comprovação da efetiva exportação de que trata este artigo,
+fica exigido o pagamento do ICMS relativo a cada operação ou
+prestação, no momento da saída da mercadoria do
+estabelecimento remetente, por meio de documento de arrecadação
+distinto, cujo comprovante de recolhimento deve acompanhar o
+documento fiscal que acobertar a operação, garantida a restituição do
+valor do imposto efetivamente pago após a comprovação da efetiva
+exportação.
+
+5 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/106543/decreto-10187.
+
+Pág. 9 de 65
+
+[[pagina 10 | nativo]]
+
+§ 2º Em substituição ao disposto no § 1º deste
+artigo, o contribuinte pode optar pelo pagamento de contribuição
+ao Fundo Estadual de Infraestrutura – FUNDEINFRA, instituído
+pela Lei nº 21.670, de 6 de dezembro de 2022, e fica submetido a
+regime especial de controle de exportação, mediante termo de
+credenciamento celebrado com a Secretaria de Estado da Economia,
+observado ainda o disposto no § 6º também deste artigo.
+§ 3º O valor do ICMS previsto no § 1º deste artigo
+deve ser obtido por meio da aplicação da alíquota prevista para as
+operações internas com a mercadoria objeto da operação sobre:
+I – o valor constante da pauta de valores elaborada
+pela Secretaria de Estado da Economia, vigente no último dia do
+mês anterior ao da saída da mercadoria; ou
+II – o valor da operação, quando inexistir valor
+estabelecido para a mercadoria objeto da operação na pauta de
+valores de que trata o inciso I deste parágrafo.
+§ 4º O valor da contribuição para o FUNDEINFRA
+previsto no § 2º deste artigo deve ser obtido por meio da aplicação
+do percentual indicado no Anexo XVI deste Regulamento sobre o
+valor da operação.
+§ 5º Fica dispensada a contribuição para o
+FUNDEINFRA nas hipóteses em que o pagamento correspondente
+já tenha ocorrido em operações anteriores com a mercadoria
+objeto da exportação.
+§ 6º A contribuição para o FUNDEINFRA deve ser
+recolhida em documento de arrecadação distinto, à vista de cada
+operação, no momento da emissão da Nota Fiscal de saída para o
+exterior ou das remessas de que trata o § 1º do art. 79 deste
+Regulamento ou por período definido no termo de
+credenciamento, conforme for estabelecido em ato do titular da
+Secretaria de Estado da Economia.’ (NR)
+
+Art. 2º O Anexo VIII do Decreto nº 4.852, de 1997, passa a vigorar
+com as seguintes alterações:
+
+“Art 2º .........................................................................
+§ 1º-C Na hipótese de substituição tributária pelo
+industrial, prevista no inciso I do caput deste artigo, em relação
+às mercadorias discriminadas a seguir, o substituto tributário
+pode pagar o imposto devido nas referidas operações na saída
+subsequente promovida por ele, ainda que seja isenta ou não
+tributada, desde que contribua para o Fundo Estadual de
+Infraestrutura – FUNDEINFRA, instituído pela Lei nº 21.670, de 6 de
+dezembro de 2022 (Lei nº 11.651, de 1991, art. 50, § 1º, II, ‘b’):
+I – cana-de-açúcar;
+II – milho; e
+III – soja.
+§ 1º-D A contribuição para o FUNDEINFRA referida
+no § 1º-C deste artigo incide na operação anterior e apenas uma
+vez.
+
+Pág. 10 de 65
+
+[[pagina 11 | nativo]]
+
+§ 1º-E O valor da contribuição para o FUNDEINFRA
+deve ser obtido por meio da aplicação do percentual previsto no
+Anexo XVI deste regulamento sobre o valor da operação.
+§ 1º-F A contribuição para o FUNDEINFRA deve ser
+recolhida em documento de arrecadação distinto pelo remetente
+da mercadoria, à vista de cada operação, no momento da emissão
+da Nota Fiscal de saída ou periodicamente, pelo substituto
+tributário credenciado para tal fim, conforme for definido em ato do
+titular da Secretaria de Estado da Economia.
+............................................................................’ (NR)
+‘Art 3º..........................................................................
+Parágrafo único. O disposto nos §§ 1º-C a 1º-F do art.
+2º alcança a substituição tributária prevista no caput na
+aquisição efetuada diretamente ao estabelecimento produtor (Lei
+nº 11.651, de 1991, art. 50, § 1º, II, ‘b’).’ (NR)
+‘Art 14..........................................................................
+§ 3º A permissão prevista no § 1º deste artigo, em
+relação às mercadorias discriminadas a seguir, fica condicionada
+a que o substituto tributário contribua para o FUNDEINFRA na
+forma, nas condições e nos prazos que ato do titular da Secretaria de
+Estado da Economia estabelecer (Lei nº 13.194, de 1997, art. 2º, § 1º,
+II):
+I – milho; e
+II – soja.
+§ 4º A contribuição para o FUNDEINFRA a que se
+refere o § 3º deste artigo incide na operação anterior e uma única
+vez.
+§ 5º O valor da contribuição para o FUNDEINFRA
+deve ser obtido por meio da aplicação do percentual previsto no
+Anexo XVI deste Regulamento sobre o valor da operação.
+§ 6º A contribuição para o FUNDEINFRA deve ser
+recolhida em documento de arrecadação distinto pelo remetente
+da mercadoria, à vista de cada operação, no momento da emissão
+da Nota Fiscal de saída ou periodicamente, pelo substituto
+tributário credenciado para tal fim, conforme for definido em ato do
+titular da Secretaria de Estado da Economia.’ (NR)
+‘Art 16..........................................................................
+V – ..............................................................................
+c) tenha sido feito o pagamento da contribuição ao
+FUNDEINFRA referida no § 3º do art. 14 deste Anexo.’ (NR)
+
+Art. 3º O Anexo IX do Decreto nº 4.852, de 1997, passa a vigorar
+com as seguintes alterações:
+
+‘Art 6º..........................................................................
+LXXVIII – .....................................................................
+e) fica condicionada ao pagamento pelo destinatário
+da contribuição ao Fundo Estadual de Infraestrutura –
+FUNDEINFRA, instituído pela Lei nº 21.670, de 6 de dezembro de
+2022, sobre as operações com cana-de-açúcar, milho e soja (Lei nº
+13.453, de 16 de abril de 1999, art. 2º, § 5º);
+
+Pág. 11 de 65
+
+[[pagina 12 | nativo]]
+
+f) o valor da contribuição para o FUNDEINFRA deve
+ser obtido por meio da aplicação do percentual previsto no Anexo
+XVI deste Regulamento sobre o valor da operação;
+....................................................................................
+CXVI – .........................................................................
+c) fica condicionada ao pagamento pelo destinatário
+da contribuição ao FUNDEINFRA sobre as operações com bovino e
+bufalino (Lei nº 13.453, de 1999, art. 2º, § 5º);
+d) o valor da contribuição para o FUNDEINFRA deve
+ser obtido por meio da aplicação do percentual previsto no Anexo
+XVI deste Regulamento sobre o valor da operação.’ (NR)
+Art. 4º O Anexo XII do Decreto nº 4.852, de 1997, passa a vigorar
+com as seguintes alterações:
+
+‘Art 74..........................................................................
+§ 3º A aplicação da não incidência de que trata
+o caput é condicionada ao cumprimento do disposto no art. 79-A
+deste Regulamento.’ (NR)
+
+Art. 5º Fica acrescido o Anexo XVI ao Decreto nº 4.852, de 1997,
+com a redação dada pelo Anexo Único deste Decreto.
+Art. 6º A AGRODEFESA deve encaminhar à Secretaria de Estado
+da Economia informações sobre as atividades agropecuárias cuja produção
+esteja sujeita à contribuição para o FUNDEINFRA, nos termos estabelecidos em
+ato do Secretário.
+Art. 7º Os resultados alcançados com as medidas implementadas
+poderão ser objeto de avaliação quanto à sua adequação e ao seu impacto ao longo
+de 60 (sessenta) dias, a partir da vigência deste Decreto, e poderá, em
+consequência, haver a revisão das regras relacionadas às mercadorias sujeitas à
+contribuição e aos percentuais de contribuição ora estabelecidos.
+Art. 8º Fica o titular da Secretaria de Estado da Economia
+autorizado a editar os atos necessários ao cumprimento do disposto neste Decreto.
+Art. 9º Este Decreto entra em vigor na data de sua publicação.
+
+ANEXO ÚNICO
+
+‘ANEXO XVI
+PERCENTUAL DE CONTRIBUIÇÃO POR MERCADORIA PARA FUNDO
+ESTADUAL DE INFRAESTRUTURA – FUNDEINFRA, INSTITUÍDO PELA LEI Nº
+21.670, DE 6 DE DEZEMBRO DE 2022.
+ITEM MERCADORIA % CONTRIBUIÇÃO
+FUNDEINFRA
+1 Cana-de-açúcar 1,2%
+2 Milho 1,1%
+3 Soja 1,65%
+4 Carne fresca, resfriada, congelada, 0,50%
+salgada, temperada ou salmourada, e
+miúde comestível resultante do abate
+de gado bovino ou bufalino
+5 Gado bovino e bufalino 0,50%
+
+Pág. 12 de 65
+
+[[pagina 13 | nativo]]
+
+6 Amianto; ferroliga; minério de cobre e 1,65%’”
+seus concentrados; ouro, incluído o
+ouro platinado
+
+A transcrição foi longa, mas indispensável. Basta uma leitura
+rápida do texto para se perceber a gravidade institucional do problema
+trazido a esta e. Corte: a gênese de um sistema arrecadatório que desafia
+e viola o sistema financeiro-tributário da Constituição de 1988.
+
+Visando ao cumprimento do requisito processual do art. 3º,
+inciso I e parágrafo único, da Lei nº 9.868/99, o autor anexa a esta petição
+o texto integral em vigor dos atos normativos impugnados.
+
+III. A EXPOSIÇÃO, ÀS CLARAS, DAS VIOLAÇÕES CAUSADAS PELO
+FUNDEINFRA
+
+A reprodução dos dispositivos das leis questionadas e do
+respectivo instrumento regulamentador revela que o Estado de Goiás não
+apenas instituiu o FUNDEINFRA, como também procurou camuflar suas
+inconsistências através de expediente legislativo conhecido, que é o de
+alterar outros diplomas normativos, formando verdadeira colcha de
+retalhos para dificultar a compreensão da mensagem jurídica.
+
+A confusão de enunciados muitas vezes interessa ao Poder
+Público. Afinal, no caos linguístico cria-se um cenário de incertezas e
+obscurece-se a transparência, abrindo-se espaços para os abusos, como
+acontece neste caso. E sem transparência não há segurança jurídica. Por
+isso é necessário desfazer esse universo truncado, de tal modo que a
+clareza impere, viabilizando-se, assim, a exata dimensão das inválidas
+implicações que o FUNDEINFRA acarreta.
+
+Para que esse objetivo seja alcançado, o autor traz abaixo um
+quadro que resume bem os problemas submetidos a esta e. Corte:
+
+Pág. 13 de 65
+
+[[pagina 14 | nativo]]
+
+Lei nº 21.670/22
+Tema Preceito Problemas constatados
+Tratado Normativo
+Criação do Art. 1º Cria o FUNDEINFRA, de natureza orçamentária e dotado
+FUNDEINFRA de autonomia administrativa, contábil e financeira, tendo
+como objetivos gerir os recursos “oriundos da produção
+agrícola, pecuária e mineral” e implementar
+“políticas e ações administrativas de
+infraestrutura”.
+Aplicação dos Arts. 2º, 3º e Estabelecem que os recursos ficarão a cargo de um
+recursos 6º Conselho Gestor, ao qual se conferiu a competência para
+a “gestão” e “definição da destinação” dos recursos.
+Os valores transitarão pela conta única do Tesouro
+Estadual. As obras incorporar-se-ão ao patrimônio do
+Estado.
+Fonte de custeio Art. 5º, caput Fixa como receita do FUNDEINFRA, dentre outras, uma
+do FUNDEINFRA “contribuição” exigida no âmbito do ICMS.
+Causa jurídica Art. 5º, I A “contribuição” criada, de acordo com a lei, é uma
+para o pagamento “condição” para:
+do FUNDEINFRA a) “fruição de benefício ou incentivo fiscal”;
+b) o contribuinte que “optar por regime especial” que
+vise ao controle das saídas de produtos destinados ao
+exterior ou com o fim específico de exportação e “à
+comprovação da efetiva exportação”; e
+c) “o imposto devido por substituição tributária pelas
+operações anteriores” ser: 1) pago pelo contribuinte
+credenciado por ocasião da saída subsequente; ou 2)
+apurado junto com aquele devido pela operação de saída
+própria do estabelecimento substituto, o que resultará
+um só débito por período.
+Cálculo do Art. 5º, Dispõe como valor da “contribuição” um percentual não
+FUNDEINFRA parágrafo superior a 1,65% sobre o valor da operação com as
+único mercadorias discriminadas na legislação do imposto ou
+por unidade de medida adotada na comercialização da
+mercadoria.
+
+Lei nº 21.671/22
+Tema Preceito Problemas constatados
+Tratado Normativo
+Pagamento do Art. 1º, que A imunidade nas exportações diretas e indiretas “fica
+FUNDEINFRA acresceu o condicionada” à comprovação da efetiva exportação.
+como condição à art. 38-A à Para isso, o Regulamento pode (i) “exigir o pagamento
+realização de Lei nº do ICMS” relativo a cada exportação no momento da
+exportações 11.651/91 saída da mercadoria, garantida a restituição do valor do
+(Código imposto pago “após” a comprovação da exportação (sem
+Tributário se estabelecer em quanto tempo isso ocorrerá); (ii) ou “em
+Estadual) substituição” a esse modelo, aplicar regime especial ao
+contribuinte que “optar pelo pagamento de
+contribuição para fundo destinado a investimento
+
+Pág. 14 de 65
+
+[[pagina 15 | nativo]]
+
+em infraestrutura”. Se o exportador não “optar” pelo
+pagamento do FUNDEINFRA, aí o valor do ICMS será
+obtido por meio da aplicação da alíquota interna,
+conforme “o valor constante da pauta de valores” da
+Secretaria Estadual, “ou” o valor da operação, mas
+somente “quando inexistir” valor de pauta. Por fim, o
+pagamento ao FUNDEINFRA fica dispensado quando o
+“pagamento já houver ocorrido em operações
+anteriores”, a reforçar que a “contribuição” incide sobre
+mercadorias destinadas à exportação.
+Pagamento do Art. 1º, que Modifica o sistema de substituição tributária envolvendo
+FUNDEINFRA altera o art. operações anteriores. Prescreve que o imposto devido na
+como condição à 50 da Lei nº operação de saída “subsequente” praticada pelo
+aplicação do 11.651/91 substituto pode ser “dispensado”, mas “desde que”: (i)
+regime de (Código seja credenciado junto aos órgãos competentes; (ii) sendo
+substituição Tributário estabelecimento industrial que adquire produtos do
+tributária Estadual) agro mencionados na legislação (cana-de-açúcar, milho
+e soja), ou sendo estabelecimento comercial que
+adquire produtos minerais ou agropecuários, que
+contribuam para o “fundo destinado a investimento
+em infraestrutura”.
+Pagamento do Art. 2º, que Altera a regra que diz respeito à permissão para que o
+FUNDEINFRA altera o art. ICMS-substituição tributária envolvendo “produtos
+como condição à 2º da Lei nº agrícolas exportáveis” seja apurado com o ICMS próprio.
+aplicação do 13.194/97 Pela nova lei, a permissão “pode ser condicionada a que
+regime de o substituto tributário contribua para fundo
+substituição destinado a investimento em infraestrutura”.
+tributária
+Pagamento do Art. 3º, que Transforma o modelo de isenções tributárias aplicáveis
+FUNDEINFRA altera o art. aos produtos do agro, estabelecendo que “a fruição do
+como condição ao 2º da Lei nº benefício fiscal”, em relação “a todas ou algumas das
+gozo de isenção 13.453/99 mercadorias mencionadas” (amendoim, arroz, aveia,
+tributária sobre cacau, café, cana-de-açúcar, canola, girassol, milho, soja,
+produtos rurais leite para industrialização, produtos não-comestíveis
+decorrentes do abate de animais, como couro, madeira e
+de animais para abate) fica condicionada “ao pagamento
+de contribuição para fundo destinado a investimento
+em infraestrutura”.
+
+Decreto nº 10.187/22, que altera o
+Decreto nº 4.852/97 (Regulamento do CTE)
+Tema Preceito Problemas constatados
+Tratado Normativo
+Pagamento do Art. 1º, que Dispõe que a imunidade nas exportações diretas e
+FUNDEINFRA acresceu o indiretas envolvendo milho; soja; carne fresca, resfriada,
+como condição à art. 79-A. congelada, salgada, temperada ou salmourada e miúde
+realização de Art. 4º, que comestível resultante do abate de gado bovino ou
+exportações alterou o art. bufalino; amianto; ferroliga; minério de cobre e seus
+74 do Anexo concentrados; e ouro, incluindo o ouro platinado, “fica
+XII. condicionada” à comprovação da efetiva exportação.
+
+Pág. 15 de 65
+
+[[pagina 16 | nativo]]
+
+Para isso, (i) “fica exigido o pagamento do ICMS
+relativo a cada operação ou prestação, no momento
+da saída da mercadoria do estabelecimento
+remetente”; (ii) ou então, “em substituição” a essa
+regra, o exportador pode “optar” por pagar o
+FUNDEINFRA. Se não optar, o ICMS será exigido pela
+pauta, aplicando-se a alíquota interna; se optar, o cálculo
+do FUNDEINFRA seguirá a tabela de alíquotas conforme
+a mercadoria. E ainda, “a aplicação da não-incidência
+de que trata o caput é condicionada ao cumprimento
+do disposto no art. 79-A deste Regulamento”.
+Pagamento do Art. 2º, que Estabelece que as agroindústrias e os estabelecimentos
+FUNDEINFRA altera os comerciais que adquirem cana-de-açúcar, milho e soja
+como condição à arts. 2º e 3º poderão pagar o ICMS nas saídas subsequentes, “desde
+aplicação do do Anexo VIII que” contribuam para o FUNDEINFRA.
+regime de
+substituição
+tributária
+Pagamento do Art. 2º, que Prescreve que a regra de diferimento envolvendo milho e
+FUNDEINFRA altera os soja fica “condicionada a que o substituto tributário
+como condição à arts. 14 e 16 contribua para o FUNDEINFRA”.
+aplicação do do Anexo VIII Nesses casos, “fica dispensado o pagamento do
+regime de imposto devido pelas operações anteriores”, mas,
+diferimento “desde que tenha sido feito o pagamento da
+contribuição ao FUNDEINFRA”.
+Pagamento do Art. 3º, que Dispõe que a aplicação de isenções tributárias para os
+FUNDEINFRA altera o art. produtos do agro, envolvendo a comercialização de cana-
+como condição ao 6º do Anexo de-açúcar, milho, soja e de animais de origem bovina
+gozo de isenção IX e bufalina para abate, “fica condicionada ao
+tributária sobre pagamento pelo destinatário da contribuição ao
+produtos rurais Fundo Estadual de Infraestrutura – FUNDEINFRA”.
+Cálculo do Anexo Único, Estabelece as alíquotas aplicáveis ao FUNDEINFRA,
+FUNDEINFRA ao inserir o variando de 0,5% a 1,65%.
+Anexo XVI
+
+O Estado vale-se, propositadamente, de sua atividade
+legislativa para obscurecer a compreensão do FUNDEINFRA e, com isso,
+furtar-se a qualquer mecanismo de controle mais rígido, afeito ao sistema
+tributário ou orçamentário, os quais devem pautar os recursos públicos.
+
+Trata-se de uma “contribuição” criada pelo Estado a partir de
+materialidades típicas de impostos, para um “fundo” previsto para custear
+despesas típicas de impostos, que incide sobre as cadeias rural e de
+minérios e que é gerido através de entidades paraestatais mediante
+normas infralegais. Por qualquer perspectiva que se olhe esse “fundo”, é
+avassaladora sua afronta à Constituição da República.
+
+Pág. 16 de 65
+
+[[pagina 17 | nativo]]
+
+IV. A ESTRUTURA DOS FUNDAMENTOS JURÍDICOS ARTICULADOS
+NESTA PEÇA, POSTOS DE FORMA RESUMIDA
+
+A engenhosidade com que o FUNDEINFRA dribla os elementos
+jurídicos de controle é espantosa. Há um mosaico de impropriedades nesse
+fundo, a ponto de consistir um desafio intelectual conseguir organizá-las
+para a compreensão mais adequada desta c. Corte, de acordo com a
+temática envolvida em cada uma de suas inconsistências.
+
+O FUNDEINFRA é inconstitucional do início ao fim. Seja na sua
+origem, no mote de sua cobrança em si; seja no seu destino, na aplicação
+que se faz dos recursos auferidos. Sob o prisma tributário, financeiro ou
+orçamentário, a cobrança agride a Carta da República em muitas direções,
+como abaixo será detalhado.
+
+Para facilitar a análise de Vossas Excelências, o autor divide
+a matéria posta nesta ação, com suas respectivas subdivisões, em 05
+(cinco) grandes grupos, de modo a mostrar as inconstitucionalidades
+aqui denunciadas: (i) sobre os produtos rurais; (ii) sobre os minérios; (iii)
+sobre as exportações; (iv) sob o ângulo dos desdobramentos jurídicos
+comuns acarretados; (v) e sob a perspectiva orçamentária e financeira.
+
+Como se verá, a análise cuidadosa do FUNDEINFRA conduz
+irremediavelmente à conclusão de que se trata de instituto
+inconstitucional tanto na sua gênese (na origem da arrecadação dos
+recursos), quanto no seu destino (na gestão e aplicação dos recursos), de
+modo que, seja sob um prisma, seja sob outro, justifica-se a invalidação
+do ato normativo impugnado.
+
+V. A INCONSTITUCIONALIDADE DO FUNDEINFRA SOBRE OS
+PRODUTOS RURAIS
+
+A legislação transcrita revela que o FUNDEINFRA repercute em
+três perspectivas para os produtos rurais: (i) no gozo de isenções; (ii) na
+
+Pág. 17 de 65
+
+[[pagina 18 | nativo]]
+
+sistemática de substituição tributária; (iii) e nas exportações. Ou seja, o
+FUNDEINFRA atinge em cheio a cadeia rural.
+
+Como se isso não bastasse, a legislação do “fundo” estadual se
+enlaça ainda para agredir de diversas formas o livre trânsito das
+mercadorias do agro, por conta do leque de produtos carimbados pelos
+preceitos normativos. A forma com que as Leis nºs. 21.670 e 21.671 e o
+Decreto nº 10.187 disciplinaram a matéria permite as seguintes
+constatações:
+
+(i) no que toca às isenções dos produtos rurais: as saídas
+internas do produtor com destino à industrialização de cana-de-açúcar,
+de milho e de soja; ou as saídas internas do produtor com destino ao
+abate em frigorífico de bovino e bufalino só continuarão sendo isentas
+se o destinatário pagar o FUNDEINFRA, o que significa, na prática, que
+a “contribuição” tornar-se-á um custo para o produtor, pois os adquirentes
+irão computar esse gasto no preço, infirmando a própria isenção
+supostamente deferida.6
+
+Não é demais registrar que o Decreto restringiu, por ora, a
+aplicação do FUNDEINFRA a esses produtos, mas a lei dá uma carta
+branca à aplicação “em relação a todas ou a algumas das mercadorias
+ali relacionadas” [na lei], o que pode estender a incidência do
+FUNDEINFRA sobre madeira, amendoim em grão, arroz, aveia, cacau, café
+em coco e em grão, canola, cogumelo comestível, cominho, gergelim,
+girassol, leite em estado natural, mamona, sisal e trigo e sobre asinino,
+ave, caprino, equino, leporídeo, muar, ovino, ranídeo e suíno (art. 2º, § 5º,
+da Lei nº 13.453/99, com a redação dada pelo art. 3º da Lei nº 21.671/22).
+
+6 Não é demais registrar que o Decreto restringiu, por ora, a aplicação do FUNDEINFRA a esses
+produtos, mas a lei dá uma carta branca à aplicação “em relação a todas ou a algumas das
+mercadorias ali relacionadas” [na lei], o que pode estender a incidência do FUNDEINFRA
+sobre madeira, amendoim em grão, arroz, aveia, cacau, café em coco e em grão, canola, cogumelo
+comestível, cominho, gergelim, girassol, leite em estado natural, mamona, sisal e trigo e sobre
+asinino, ave, caprino, equino, leporídeo, muar, ovino, ranídeo e suíno (art. 2º, § 5º, da Lei nº
+13.453/99, com a redação dada pelo art. 3º da Lei nº 21.671/22).
+
+Pág. 18 de 65
+
+[[pagina 19 | nativo]]
+
+Essa situação mais do que nunca evidencia a natureza
+tributária do presente fundo, uma vez que se submete à definição
+estabelecida no art. 3º do Código Tributário Nacional.
+
+(ii) no que concerne à substituição tributária dos produtos
+rurais: a aquisição de cana-de-açúcar, de milho e de soja para utilização
+como matéria-prima por parte do estabelecimento industrial
+(agroindústria), ou para simples revenda por estabelecimento comercial,
+só estará submetida ao regime de substituição “pura” (com retenção do
+valor do ICMS e posterior recolhimento), de “diferimento” (com
+possibilidade de um só recolhimento posterior pelo industrial ou pelo
+comerciante) ou de genuína “isenção” (com dispensa do pagamento do
+imposto devido na etapa anterior) se o industrial ou o estabelecimento
+comercial pagarem o FUNDEINFRA, revelando, mais uma vez, que a
+“contribuição” tornar-se-á um custo para o produtor;7
+
+(iii) e no que diz respeito às exportações dos produtos
+rurais: as exportações diretas e indiretas de milho, de soja e de carne
+fresca, resfriada, congelada, salgada, temperada ou salmourada e miúdo
+comestível resultante do abate de gado bovino ou bufalino só não serão
+tributadas pelo ICMS se o exportador pagar o ICMS e, uma vez
+comprovada a exportação, pedir sua restituição (cuja devolução não se
+sabe quando será feita, pois a lei silencia-se sobre isso); ou então se ele
+pagar o FUNDEINFRA.8
+
+O quadro é grave, como se vê. Nos trechos abaixo o autor
+demonstrará, com vários fundamentos, o porquê essa exigência é
+inconstitucional.
+
+V.1. O 1º fundamento: a inequívoca natureza tributária desse fundo
+
+7 Arts. 2º, §§ 1º-C a 1º-F; 3º, parágrafo único; 14, §§ 3º a 6º; e 16, V, “c”, todos do Anexo VIII do
+Decreto nº 4.582/97, com a redação dada pelo art. 2º do Decreto nº 10.187/22.
+8 Art. 79-A e art. 74, § 3º, do Anexo XII do Decreto nº 4.852/97, com a redação dada pelo Decreto
+nº 10.187/22.
+
+Pág. 19 de 65
+
+[[pagina 20 | nativo]]
+
+O FUNDEINFRA é tributo e assim deve ser visto e tratado.
+Porém, um tributo à margem da Constituição, o qual, por isso mesmo,
+deve sofrer pronta reprimenda deste e. Tribunal.
+
+V.1.1. O sistema de arrecadação de receitas públicas previsto
+constitucionalmente e a irrelevância do nomen iuris adotado
+
+Desde a valiosa obra de Geraldo Ataliba, ficou evidenciado que,
+no Brasil, diferentemente do que se passa em outras nações, o direito
+tributário começa na Constituição, que dele se ocupou detidamente.9 É da
+tradição do direito brasileiro essa técnica legislativa, em especial a partir
+da Carta de 1946, o que historicamente sempre foi reconhecido também
+por esta Corte.
+
+Com a Constituição de 1988 esse norte se reforçou. Além de
+dividir as competências tributárias entre os entes federados, o constituinte
+tratou também de classificar as respectivas espécies tributárias. Essa
+classificação, contudo, não foi meramente nominal, senão conceitual,,
+como diversas vezes já reconhecido por esta Corte, conferindo a cada
+espécie tributária o seu respectivo regime jurídico, como bem demonstra
+o Prof. Roque Carrazza em conhecida passagem.10 Não há saída: ou os
+entes federados, para que exijam seus tributos, observam a Constituição;
+ou então estarão fadados a resvalar para o campo da invalidade e, por
+consequência, do arbítrio.
+
+Ocorre que o Estado de Goiás afirma ter criado não um tributo,
+mas uma “contribuição” em sentido lato. E mais do que isso, fez inserir
+
+9 “Sistema Constitucional Tributário Brasileiro”. São Paulo: RT, 1968, passim.
+10 “No Brasil a Constituição não só efetuou uma classificação estrita das espécies tributárias, como
+apontou o regime jurídico de cada uma. Portanto, como ressalta Geraldo Ataliba, a distinção das
+espécies tributárias, na Constituição, não é apenas nominal, mas conceitual. Queremos com isto
+exprimir que o arquétipo genérico de cada tributo está traçado no Texto Supremo e, destarte, o
+legislador ordinário não pode dele se afastar”. “Curso de Direito Constitucional Tributário”. 30. ed.
+São Paulo: Malheiros, 2015, p. 447, nota de rodapé.
+
+Pág. 20 de 65
+
+[[pagina 21 | nativo]]
+
+na sua legislação, em diversas passagens, que essa contribuição é
+“condição” para aplicação das regras nela previstas. E daí logo vêm à
+mente as seguintes perguntas: trata-se mesmo de uma contribuição? Se
+não, que figura jurídica é essa? Qual seu enquadramento à luz da ordem
+constitucional brasileira? E seu regime jurídico? É possível que Estado-
+membro crie uma “contribuição” como essa? E se for possível, qual o
+respaldo constitucional?
+
+Para desvendar esse cenário nebuloso, o ponto de partida é
+entender as rubricas previstas constitucionalmente que permitem aos
+entes federados receber quantias em dinheiro. A solução do problema
+depende do exame do sistema de arrecadação financeira previsto pela
+Constituição, universo do qual o sistema tributário é parte.
+
+Em alguma daquelas regras o FUNDEINFRA tem que se
+encaixar, porque não pode o Estado-membro agir fora dos contornos
+tracejados pelo constituinte, dada a dicotomia fundamental entre “receitas
+originárias” e “receitas derivadas”. Ou o FUNDEINFRA é receita originária
+(venda de bens públicos, uso de bens públicos, recursos de empresas
+estatais, exploração de riquezas públicas etc.) ou é receita derivada
+(tributos ou penalidades).
+
+Na hipótese, a inaplicabilidade do regime de receita originária
+ao FUNDEINFRA é evidente. Afinal de contas, não se está a tratar da
+exploração de bens do Estado, porque no FUNDEINFRA a justificativa
+dada – e explícita – é a de que sua exigência é condição para fruição de
+benefício ou incentivo fiscal de ICMS (para produtos rurais) e sem
+qualquer outro motivo para as exportações. Logo, de exploração do
+patrimônio do Estado não se trata.
+
+Se o FUNDEINFRA não é receita originária, só resta ser receita
+derivada. Sobre essa última modalidade, necessariamente a arrecadação
+há de decorrer da lei (no binômio lícito/ilícito) ou de contrato. Sendo
+previsto em lei, o motivo do recolhimento não pode ser visto como um ato
+ilícito, pois de multa ou indenização não se trata; se for compulsório e
+
+Pág. 21 de 65
+
+[[pagina 22 | nativo]]
+
+decorrente de ato lícito, é tributo. Por outro lado, em sendo enquadrado
+como um contrato, deve ter por pressuposto o elemento de vontade.
+
+O nomen iuris adotado, evidentemente, não é o critério de relevo
+para se fixar o enquadramento jurídico do FUNDEINFRA. Como diziam os
+romanos, verba non mutant substantiam rei. O que interessa, isso sim, é o
+regime jurídico aplicável, frente ao contexto da Carta Constitucional.
+Pudesse o legislador driblar as amarras constitucionais batizando as
+coisas do direito com nomes diferentes, seria bem fácil afastar a
+aplicabilidade dos preceitos do constituinte, preceitos esses que, bem
+demonstra a Carta brasileira, são de natureza rígida, como lembrado por
+Aliomar Baleeiro.11 O próprio art. 4º do CTN, de forma franca e direta,
+reconhece que a natureza jurídica do tributo independe da denominação
+legal.
+Portanto, as primeiras conclusões são as de que (i) o
+FUNDEINFRA há de enquadrar-se em alguma das modalidades
+arrecadatórias do Estado previstas constitucionalmente; (ii) o fundo não
+se amolda às receitas originárias, só restando as derivadas; (iii) nas
+derivadas, ele nem é ato ilícito, nem é receita oriunda de alguma forma de
+contrato administrativo; (iv) o nomen iuris adotado é irrelevante nessa
+análise; (v) por conta disso, ele se ajusta ao figurino constitucional típico
+de tributo.
+
+11 “Não poderia ter efetividade, nem sobrevivência, o sistema tributário nacional instituído pela
+Constituição com evidentes e confessados propósitos políticos, como a implantação do regime
+federativo, se fosse lícito ao legislador ordinário iludi-lo, pela troca dos nomes de cada tributo para
+invasão do campo tributário reservado a competência diversa. A jurisprudência do STF fulminou
+de inconstitucionalidade, no regime constitucional anterior, várias usurpações dessa natureza (p.
+ex., Súmula n.º 144 do STF, impostos estaduais que mascaravam o imposto federal sobre atos e
+instrumentos regulados por lei da União, falsas taxas etc.).” BALEEIRO, Aliomar. Direito Tributário
+Brasileiro - CTN Comentado. Ed. Forense, p. 37.
+
+Pág. 22 de 65
+
+[[pagina 23 | nativo]]
+
+V.1.2. A incontestável compulsoriedade do FUNDEINFRA, a revelar
+sua verdadeira natureza jurídica: o Estado de Goiás não se preocupou
+em disfarçá-lo sob a capa da “facultatividade”. Distinguishing case
+dos precedentes desta Corte envolvendo o “Fundersul”
+
+A proliferação envolvendo os “fundos do agronegócio” é algo
+espantoso e que ganhou corpo nos últimos tempos, estando a merecer, no
+entendimento do autor, uma análise aprofundada por esta c. Corte.
+Outros Estados, como Mato Grosso do Sul, ao exigir o FUNDERSUL, e
+Mato Grosso, ao instituir o FETHAB, sempre se pautaram pela premissa
+de que tais fundos não teriam natureza tributária, pois a eles faltaria o
+elemento essencial da compulsoriedade. No caso do FUNDEINFRA, porém,
+isso sequer entra em jogo.
+
+Com efeito, a grande armadilha que sustentou esses fundos
+por esses anos todos foi a premissa – equivocada, com a devida venia – de
+que não haveria compulsoriedade em sua cobrança, porque o
+contribuinte poderia “optar” por recolher o ICMS normalmente. A
+legislação sul-mato-grossense fez questão de estabelecer, de forma
+explícita e como um escudo retórico, que o recolhimento seria uma
+“opção”. Daí o alegado caráter facultativo dos “fundos”.
+
+Tal entendimento foi, inclusive, o indutor de julgamentos por
+esta c. Corte que, data maxima venia, não alcançaram o elemento nuclear
+de análise dessa figura tributária anômala, o que, por si só, revela que não
+podem ser utilizados como precedentes de referência para o exame da
+presente ADI.
+
+Acontece que nada disso se aplica ao caso FUNDEINFRA. E
+assim se afirma, sem medo de errar, porque na legislação do
+FUNDEINFRA por mais que o intérprete busque, por mais que ele
+vasculhe, não encontrará regra clara de que seu pagamento é
+facultativo para o produtor rural.
+
+Pág. 23 de 65
+
+[[pagina 24 | nativo]]
+
+Interpretar não é ler, evidentemente, até porque a interpretação
+necessita do método sistêmico por excelência e que tem a leitura como um
+dos estágios, conforme apontado por Paulo de Barros Carvalho12; a
+construção de sentido dos textos normativos pressupõe técnicas para que
+se delimite a projeção prescritiva dos preceitos do legislador. No entanto,
+ninguém há de negar que um estágio inicial necessário e imprescindível
+para que a mensagem legislada seja construída passa pela detecção do
+plano textual, dos vocábulos escolhidos pelo legislador para que, a partir
+deles, os sentidos possíveis das palavras possam ser torneados, moldando
+a disciplina jurídica conferida à matéria.
+
+Pois bem, nem na Lei nº 21.670, nem na Lei nº 21.671 ou
+mesmo no Decreto nº 10.187 os Ministros desta c. Suprema Corte
+encontrarão as expressões “opção”, “opcional”, “faculdade”,
+“facultativo” ou algo idêntico, como ocorre com o FUNDERSUL. Repita-
+se: não há em nenhum desses diplomas normativos vocábulos que possam
+amparar, de forma explícita, a pretensa facultatividade do modelo adotado
+pelo Estado goiano ao criar o FUNDEINFRA. E mesmo nas únicas 03
+(três) vezes em que o vocábulo “optar” aparece (uma vez em cada um
+dos veículos normativos citados), a ele vem atrelada uma inequívoca
+conduta obrigatória específica envolvendo o recolhimento nas
+exportações, algo de todo descabido, por bulir com o gozo da
+imunidade.13
+
+Aliás, é o contrário, muito ao contrário: o que se depreende do
+arcabouço legislativo são expressões como “condição”; “fica
+condicionada”; “exigir o pagamento do ICMS”; “em substituição (...)
+instituir regime especial ao contribuinte que optar pelo pagamento
+de contribuição para fundo”; “desde que”; “o regulamento pode
+condicionar a fruição do benefício fiscal ao pagamento de
+contribuição para fundo”; “a aplicação da não-incidência (...) é
+condicionada ao cumprimento”; e outras similares.
+
+12 Direito Tributário, Linguagem e Método. 5. ed. São Paulo: Noeses, 2013. p. 205.
+
+13 Art. 5º da Lei nº 21.670, art. 1º da Lei n° 21.671 e art. 1º do Decreto nº 10.187.
+
+Pág. 24 de 65
+
+[[pagina 25 | nativo]]
+
+Ora, de onde se pode tirar que o FUNDEINFRA é facultativo
+para os produtores rurais no que concerne aos produtos isentos ou mesmo
+para as operações envolvendo substituição tributária? Qual dispositivo dá
+amparo, de forma objetiva, a essa premissa, o que poderia levar o
+FUNDEINFRA, em tese, a esconder-se detrás da mesma lógica do
+FUNDERSUL?
+
+Não há. Não há regra explícita alguma, senão a conclusão óbvia
+e decorrente da exegese da lei no sentido de que ou os adquirentes dos
+produtos rurais pagam o FUNDEINFRA, ou não haverá mais quer
+isenções, quer substituição tributária para os produtos do agro em
+solo goiano. E mesmo nas exportações, como se verá adiante, o cenário é
+o mesmo, pois só se pode exportar sem recolhimento de ICMS (que é
+imunizado) se o exportador pagar o FUNDEINFRA.
+
+Essa questão é bastante importante que fique realçada, pois,
+diferentemente do FUNDERSUL, no FUNDEINFRA a lei não deixou
+escolha alguma ao produtor. De que maneira o produtor rural, pessoa
+física ou pessoa jurídica, pode continuar comercializando seus produtos,
+senão vendo seu preço ser onerado por um custo a ser embutido pelo
+adquirente, vendo um naco da sua produção ser gravada pelo Estado? Que
+facultatividade lhe foi concedida? Nenhuma.
+
+O caso é totalmente diferente do precedente do FUNDERSUL.
+No julgamento da ADI 2056/MS, de Relatoria do Min. Gilmar Mendes,
+ficou assentado que “não há como atribuir natureza jurídica tributária à
+contribuição criada pela lei estadual”, uma vez que, no entendimento dos
+julgadores à época, “está ela destituída do elemento essencial de
+compulsoriedade”. Assim, qualificou-se a contribuição ao FUNDERSUL
+como “uma obrigação facultativa, que, acaso seja cumprida, gera uma
+sanção premial, qual seja, o benefício do diferimento do ICMS nas operações
+internas com produtos agropecuários”.
+
+Na esteira desse julgamento, 04 (quatro) casos foram decididos
+monocraticamente pelos Ministros Dias Toffoli, Luís Roberto Barroso e
+Alexandre de Moraes. Tratam-se, respectivamente, do AI n° 859.321 e dos
+
+Pág. 25 de 65
+
+[[pagina 26 | nativo]]
+
+RE’s n°s. 602.492, 606.218 e 613.468. Em todos esses recursos a alegada
+facultatividade do programa foi aplicada mediante analogia ao
+FUNDERSUL, sem que houvesse a análise mais detida seja da
+compulsoriedade absoluta, evidente nas exportações, seja da
+compulsoriedade por indução, verificada na ameaça de perda do regime
+do diferimento.
+
+Ou seja, não foi analisado se verdadeiramente existiram
+facultatividades nesses casos. Tanto a facultatividade legal, quanto a
+facultatividade fática, bem como também não se analisou se é possível ter
+alguma facultatividade (como no caso das exportações).
+
+Por ocasião do pretenso leading case do FUNDERSUL, o debate
+acabou se tornando até certo ponto mais restrito – com todo respeito,
+evidentemente – talvez porque a ADI proposta à época por entidade de
+classe tenha questionado apenas quatro artigos da lei sul-mato-grossense
+(arts. 9º, 10, 11 e 22), e não a sistemática da lei como um todo, inclusive
+e especialmente com relação à possibilidade de criação de um fundo
+estadual como gestor dos recursos arrecadados, e mais, a possibilidade de
+uma cobrança com essa destinação específica, como se faz aqui em relação
+ao fundo goiano.14
+
+Fatalmente por conta disso este Supremo direcionou sua
+análise naquela ocasião apenas na compulsoriedade ou não do
+FUNDERSUL, sem examinar se há meios, por exemplo, para o produtor
+efetivamente “optar” por recolher o ICMS de forma adequada, com a
+sistemática de créditos, de um lado, e de débitos, de outro.
+
+Essas questões são relevantes na contextualização desta ação,
+passados mais de vinte anos do julgamento da liminar do fundo sul-mato-
+grossense – o qual acabou balizando o julgamento de mérito – a reclamar,
+pois, um novo pronunciamento por esta e. Corte, agora a partir de outros
+
+14 Somente em sede de embargos de declaração do julgamento de mérito na ADI 2056/MS a
+entidade autora suscitou as questões envolvendo os princípios da livre concorrência, da
+repartição das receitas e das dificuldades para a sistemática da não-cumulatividade, o que
+acabou levando o Supremo a não analisar esses argumentos.
+
+Pág. 26 de 65
+
+[[pagina 27 | nativo]]
+
+ângulos de análise, mais amplos, do relevante problema posto à
+apreciação. No FUNDEINFRA não há “opção” para o produtor rural. Por
+esse principal motivo, tais julgamentos são distinghishing cases em
+relação ao presente, o que deve levar esta ação a ser julgada de forma
+autônoma e sem aplicação dos precedentes citados.
+
+A não facultatividade do FUNDEINFRA é evidente. Nesse
+ínterim, além da escolha legislativa de modais deônticos como “deverá
+pagar” e “será exigido” que demonstram seu caráter compulsório,
+constata-se que aquele que tentar não pagar o FUNDEINFRA se depara
+com um sistema irracional e oneroso do tráfego comercial o que revela,
+ademais, uma compulsoriedade por indução, ou até mesmo uma
+compulsoriedade prática.
+
+Nesse anormal sistema paralelo de arrecadação, Goiás se
+avocou no direito de, sem atenção às regras constitucionais de controle,
+proibir a utilização do diferimento, inerente à tributação da produção rural
+em todos os Estados, e até afastar a imunidade constitucional das
+exportações em relação ao ICMS. Em alguns casos, nem mesmo a
+“contrapartida” do diferimento existe! Isso sem contar as situações nas
+quais o Estado sequer se preocupou em “limpar os vestígios tributários”
+de sua atuação, como na incidência sobre as exportações, orientada pelo
+modal compulsório (obrigatório), conforme demonstrado mais adiante.
+
+Assim, no caso do FUNDEINFRA não há sequer que se cogitar
+da “pseudofacultatividade” na qual buscam apoio o FUNDERSUL. A
+situação retratada em Goiás é diferente – revelada em uma
+compulsoriedade mais ostensiva – e deve ser vista com esse alcance, como
+medida de distinção do caso paradigma, como ordinariamente se
+apresenta nas lides de discussão do tema.
+
+Pág. 27 de 65
+
+[[pagina 28 | nativo]]
+
+V.1.3. Desdobramentos do raciocínio posto no subtópico anterior: o
+Estado impôs o pagamento do FUNDEINFRA para que haja isenção de
+produtos rurais ou mesmo substituição tributária, sob pena de
+cobrança “cheia” e a cada etapa do imposto, mas o produtor rural não
+é o destinatário de tais normas, não havendo “facultatividade”
+
+É curioso notar como o Estado de Goiás quis seguir na mesma
+esteira dos Estados de Mato Grosso do Sul para criar sua própria
+“contribuição” – na linguagem popular, “taxa” – do agro. Nas legislações
+desse Estado, porém, ficou estabelecido que as tais contribuições seriam
+“voluntárias”, porque seriam uma “opção”, seriam “facultativas” (ainda
+que isso não seja verdade). E mais, o destinatário dessas regras foi o
+produtor rural, que poderia “optar” por recolher o FUNDERSUL ou, então,
+se submeter ao ICMS (embora totalmente distorcido, por isso que não
+genuinamente facultativo).
+
+Acontece que os destinatários das normas goianas não são
+os produtores rurais! A eles não se conferiu “opção” alguma. Por isso,
+se alguma intenção havia de escamotear a compulsoriedade do
+FUNDEINFRA, esta cai por terra. Com efeito, a Lei nº 21.670 é composta
+por 12 artigos, mas nenhum deles tem por destinatário o produtor. A Lei
+nº 21.671, por sua vez, desdobra-se em 05 artigos, que alteram
+dispositivos do CTE e de outras leis, mas dessas regras não se colhe
+igualmente ser o produtor rural o destinatário direto e imediato dos seus
+comandos. E dos 09 artigos do Decreto nº 10.187, que consolida tais
+modificações, não se infere também que é a conduta do produtor rural que
+é disciplinada.
+
+Para facilitar o raciocínio, tome-se como parâmetro o Decreto
+nº 10.187, que regulamenta as inconstitucionais alterações da ordem
+jurídica de Goiás. O art. 1º insere um art. 79-A ao Regulamento do CTE,
+mas o comportamento regido por tal dispositivo é o do exportador, e não
+o do produtor rural. Não há ali nada que possa indicar, de algum modo,
+que o produtor poderia “optar” por algo. Já o art. 2º, que modifica os arts.
+2º, 3º, 14 e 16 do Anexo VIII do Regulamento do CTE, disciplina a conduta
+
+Pág. 28 de 65
+
+[[pagina 29 | nativo]]
+
+do substituto tributário (seja o industrial, seja o estabelecimento
+comercial), e não do produtor. Basta ver que de seus enunciados
+prescritivos a menção que se faz é ao “substituto tributário”, que “pode
+pagar o imposto devido nas referidas operações na saída
+subsequente promovida por ele” da mesma forma que fazia antes,
+“desde que” pague o FUNDEINFRA.
+
+A ação humana normatizada não é a do substituído, isto é, do
+produtor, mas sim do substituto, do adquirente. O art. 3º, a seu turno, ao
+modificar o Anexo IX do mesmo RCTE, dispõe que a isenção nas aquisições
+de cana-de-açúcar, milho e soja “fica condicionada ao pagamento pelo
+destinatário da contribuição ao Fundo Estadual de Infraestrutura –
+FUNDEINFRA”. Ora, aqui, mais uma vez, não se franqueou “opção”
+alguma ao produtor rural. Na prática, o adquirente (agroindústria) irá
+embutir o FUNDEINFRA no preço, algo como uma fatia de ICMS sobre a
+alegada isenção total do produto (resultando, por óbvio, em uma isenção
+parcial). Por fim, o art. 4º, quando altera o Anexo XII do Regulamento do
+CTE, torna a eleger como destinatário de seu núcleo o exportador.
+
+Diante desse quadro, é inequívoco que o produtor rural,
+embora tenha sido pressuposto na cadeia, não foi o destinatário dos
+comandos normativos do legislador goiano, o que significa dizer, por
+consequência, que a ele não foi dada “opção” alguma!
+
+Não se pode querer transportar para cá conclusões
+(equivocadas, no mais das vezes) sobre regimes jurídicos previstos por
+outros Estados, simplesmente porque eles não são iguais, porque entre o
+modelo paradigma e o modelo impugnado nesta ADI falta um elemento
+central, que é o da suposta voluntariedade, da escolha atribuída ao
+produtor rural entre comportamentos possíveis. E nessa medida o
+FUNDEINFRA assume incontornável caráter tributário, por se revelar
+compulsório ao produtor rural goiano.
+
+Pág. 29 de 65
+
+[[pagina 30 | nativo]]
+
+V.1.4. A roupagem jurídica do FUNDEINFRA: adicional de ICMS com
+destinação específica. Um “quase” tributo, “quase” constitucional?
+
+A Constituição de 1988 é singular pelo grau de detalhamento e
+minúcia quanto às competências tributárias. Nela, a competência
+tributária é a atribuição de prerrogativa conferida aos entes políticos
+federais para instituir e cobrar os tributos que menciona.
+
+Para Geraldo Ataliba, a própria rigidez do sistema
+constitucional tributário pode ser compreendida como princípio
+constitucional implícito, que reflete nas competências tributárias
+detalhadas na Carta Magna, não havendo margem de liberdade para o
+legislador “desenhar qualquer traço fundamental”. Nessa esteira, o autor
+identificava a rigidez do sistema constitucional tributário com a rigidez da
+atribuição de competências tributárias, in verbis:
+
+“Ora, tanto a rigidez da discriminação, quanto a do próprio
+sistema tributário – que se traduz na necessidade de
+permissão, autorização, outorga expressa e específica do
+próprio texto constitucional – são peculiaridades da nossa
+Constituição. (...) Nos demais estados federais, a repartição
+das competências tributárias é formada em termos genéricos,
+que caracterizam os respectivos sistemas constitucionais como
+flexíveis. Desta flexibilidade decorre – via de regra – a
+flexibilidade de todo o sistema tributário, como da
+inflexibilidade da nossa discriminação decorre a do próprio
+sistema, como um todo.”15 (sem destaque no original).
+
+Nesse sentido, além da possibilidade de instituição de taxas e
+contribuições de melhoria, cada Estado é detentor de uma faixa privativa
+de impostos a exigir. Nas palavras de Ataliba, “quem diz privativa, diz
+exclusiva”, isto é, a Constituição priva a cada ente o uso de seu texto de
+forma exclusiva, individual, não competindo aos demais sua utilização.
+Tendo em vista a demarcação exclusiva estabelecida pela Constituição de
+
+15 “Sistema Constitucional Tributário Brasileiro”. São Paulo: Revista dos Tribunais, 1968, p. 20.
+
+Pág. 30 de 65
+
+[[pagina 31 | nativo]]
+
+1988 com tal rigidez, qualquer criação de tributos à margem desses
+critérios é inconstitucional.
+
+Pois bem, considerando a demonstrada compulsoriedade do
+FUNDEINFRA, é evidente que sua cobrança ostenta natureza jurídica
+tributária. E enquanto tributo, o FUNDEINFRA não tem base
+constitucional. Não há na demarcação de competências da Constituição a
+possibilidade de instituição dessa estranha figura por parte do Estado de
+Goiás.
+
+Como é cediço, o constituinte atribuiu aos Estados o poder de
+instituir (i) impostos; (ii) taxas; e (iii) contribuições de melhoria (art. 145
+da Constituição). As contribuições sociais, de intervenção no domínio
+econômico e de interesse de categorias profissionais ou econômicas –
+figuras que poderiam até dificultar a compreensão da natureza do
+FUNDEINFRA em razão de sua complexidade pós-arrecadatória – são de
+competência exclusiva da União, de modo que o debate fica restrito a essas
+três exações, pois se for diferente a inconstitucionalidade é flagrante.
+
+Postas as coisas dessa forma, parece claro, por razões óbvias,
+que o FUNDEINFRA nem é taxa, nem é contribuição de melhoria. Restam,
+então, os impostos. E nesse âmbito, o constituinte deferiu aos Estados a
+possibilidade de exigir o ITCD, o ICMS e o IPVA.
+
+Embora com sutil diferença, e observando essa tributação
+pelos mais variados contornos para além das possibilidades da
+inconstitucionalidade flagrante, o FUNDEINFRA se aproxima de forma
+promíscua dos contornos normativos do ICMS, se comparadas as regras-
+matrizes de incidência (“RMIT”) de uma e de outra figura. Confira-se:
+
+RMIT DO ICMS-GO RMIT DO FUNDEINFRA
+Critério material: realizar operações Critério material: realizar operações
+relativas à circulação de mercadorias, relativas à circulação de mercadorias,
+no mercado interno ou interestadual, no mercado interno, interestadual ou
+com produtos do agronegócio, como para o exterior, com produtos do
+cana-de-açúcar, milho, soja, carne agronegócio, como cana-de-açúcar,
+milho, soja, carne (fresca, resfriada,
+
+Pág. 31 de 65
+
+[[pagina 32 | nativo]]
+
+(fresca, resfriada, congelada etc.) e congelada etc.) e gado (bovino ou
+gado (bovino ou bufalino) bufalino)
+Critério espacial: qualquer ponto do Critério espacial: qualquer ponto do
+território do Estado de Goiás território do Estado de Goiás
+Critério temporal: no momento da Critério temporal: no momento da
+realização da operação mercantil realização da operação mercantil
+Sujeito ativo: Estado de Goiás Sujeito ativo: Estado de Goiás
+Sujeito passivo: aquele que realizou a Sujeito passivo: aquele que realizou a
+operação mercantil de venda desses operação mercantil de compra desses
+produtos produtos
+Base de cálculo: valor da mercadoria Base de cálculo: valor da mercadoria
+comercializada comercializada
+Alíquota: X% (definido conforme as Alíquota: 1,2%, 1,1%, 1,65% e 0,5%,
+alíquotas nacionais) respectivamente
+
+Ora, diante desse contexto, é evidente que o FUNDEINFRA
+pretende ser um adicional de ICMS. Afinal de contas, os fatos geradores
+são os mesmos e a base de cálculo é a mesma, havendo pequena diferença
+por se estabelecer como sujeito passivo o adquirente (e não o remetente)
+da mercadoria e por se computar um percentual das alíquotas admitidas
+para o ICMS.
+
+É tão somente na delimitação de competência do ICMS que o
+FUNDEINFRA pode encontrar um mínimo de aderência ao Sistema
+Constitucional Tributário. Uma vez que somente a União tem competência
+para criar impostos residuais ou extraordinários (art. 154, I e II) e que a
+instituição do ICMS é sujeita a limites, nos termos do art. 155, como a
+não-cumulatividade e a necessidade de uniformidade nacional por
+deliberação dos Estados, dentre outros, a identificação do FUNDEINFRA
+com o ICMS simplifica a demonstração de sua inconstitucionalidade.
+
+A nenhum Estado foi atribuída competência para cobrar dois
+impostos sobre os mesmos fatos (como o FUNDEINFRA e o ICMS). Ainda
+que assim o fosse, em razão de seu caráter antecipado, cumulativo e da
+não observância da regra federativa de deliberação entre Estados, estaria
+o FUNDEINFRA, igualmente, fulminado pela inconstitucionalidade.
+
+Pág. 32 de 65
+
+[[pagina 33 | nativo]]
+
+V.2. O 2º fundamento: violação ao postulado da segurança jurídica. O
+FUNDEINFRA não pode reduzir o acesso a benefícios fiscais criados
+por lei (art. 178 do CTN e art. 150, § 6º, da Constituição de 1988)
+
+A legislação do Estado de Goiás prevê, inequivocamente, regras
+de isenção e de diferimento para produtos rurais. Nem mesmo o Estado
+coloca isso em dúvida. A questão é que, maliciosamente, com o
+FUNDEINFRA a fruição desse “benefício” (nas palavras da lei) passou a ser
+“condicionada” ao pagamento da “contribuição” para esse fundo.
+
+Sucede que o FUNDEINFRA não pode reduzir o acesso a
+benefícios fiscais criados por lei, na esteira do art. 178 do CTN e do art.
+150, § 6º, da Constituição da República, os quais se aplicam a
+benefícios fiscais desonerativos em sentido amplo16-17, no que se
+inserem os regimes de isenção e de diferimento. Normas superiores – de
+índole constitucional e veiculadas nacionalmente por lei complementar –
+tolhem essa iniciativa.
+
+Tais normas trazem, em conjunto, a necessidade de
+observância de requisitos mínimos de controle para a criação e, por
+consectário lógico evidente, supressão de regimes especiais. Os
+microparâmetros que tais dispositivos impõem às autoridades políticas
+(legalidade, respeito às condições de fruição e prazo etc.) revelam a
+preocupação do legislador complementar e do constituinte de garantir ao
+contribuinte certeza do direito, elemento fundamental do princípio
+constitucional da segurança jurídica.
+
+16 “Deve-se destacar, todavia, a importância central do regime legal das isenções para as reflexões
+destinadas ao controle de segurança jurídica dos regimes especiais tributários. Sua relevância é
+tamanha que a jurisprudência tem adotado as regras que tratam da revogação de isenções como
+ponto de referência para o tratamento dos benefícios fiscais de forma ampla.” SOUZA, Pedro G.
+G. Regimes especiais tributários. São Paulo: Quartier Latin, 2018, p. 265.
+17 “PROCESSUAL CIVIL E TRIBUTÁRIO – EMBARGOS À EXECUÇÃO FISCAL – ICMS – REDUÇÃO
+DA BASE DE CÁLCULO – ISENÇÃO PARCIAL – REVOGAÇÃO: POSSIBILIDADE – ART. 178 C/C 104
+DO CTN [...] A revogação da isenção e do benefício da redução da base de cálculo do imposto pode-
+se ocorrer a qualquer tempo, exceto se concedidos por prazo certo e em função de determinadas
+condições (art. 178 c/c 104, III do CTN)”. REsp. nº 762.754/MG. 2ª Turma. Rel.ª Min.ª Eliana
+Calmon. DJ 02.10.2007, p. 230.
+
+Pág. 33 de 65
+
+[[pagina 34 | nativo]]
+
+A isenção decorre da lei, não podendo uma “contribuição”
+estadual e setorial minimizar seus efeitos. O mesmo se diga quanto ao
+diferimento, que é regime de tributação especial, o qual tem respaldo legal
+e que deve ser preservado. O FUNDEINFRA não pode servir de embaraço
+a isso.
+
+Atrelar o gozo da isenção à submissão a um “desconto” de
+FUNDEINFRA é menosprezar o direito concedido, é violar o que se
+pretendeu com a própria regra desonerativa. E condicionar a aplicação da
+regra de substituição tributária, no que se insere a do diferimento, à
+incidência do FUNDEINFRA é tornar obrigatória a propalada
+“contribuição”, porque, sob o ângulo prático, nem o alienante (o produtor),
+nem o adquirente (a agroindústria) manifestam “opção” alguma ao
+recolhimento a esse fundo.
+
+Os regimes especiais vinculam os Estados. Assim se afirma
+porque o art. 178 do Código Tributário Nacional, exercendo legitimamente
+o papel de norma geral em matéria tributária, estabelece que as isenções
+condicionais concedidas com prazo certo não podem ser livremente
+suprimidas enquanto estivem sendo cumpridas as condições previstas e
+antes do advento do seu termo. A lei complementar, nesse aspecto, exerce
+função hierárquica superior, dotada de eficácia de bloqueio sobre as
+normas que não se conformem à sua disciplina normativa.
+
+A isenção com prazo certo confere ao cidadão o direito adquirido
+à continuidade desse direito no limite do referido prazo – isso, é claro,
+enquanto estiverem sendo cumpridas as condições. Não é outro o teor da
+Súmula 544 desta Corte, aplicável inteiramente aqui, segundo a qual
+“isenções tributárias concedidas, sob condição onerosa, não podem ser
+livremente suprimidas”.
+
+A aplicação expansiva do art. 178 do Código Tributário
+Nacional como mecanismo de controle de todos os regimes especiais que
+contemplam alguma carga desonerativa, como é o caso da isenção
+propriamente dita e do diferimento, resulta em satisfatória concretização
+do postulado da certeza da duração temporal dos regimes especiais. O
+
+Pág. 34 de 65
+
+[[pagina 35 | nativo]]
+
+tratamento conferido por José Souto Maior Borges aos benefícios fiscais,
+os quais qualificou como “isenções parciais”,18 atribuindo àqueles as
+condicionantes eficaciais destas, trouxe importante contribuição para a
+sedimentação desse entendimento na seara dos regimes especiais
+tributários.
+
+Ofende a lógica tributária e a racionalidade constitucional no
+contexto de regimes especiais forçar o contribuinte a ter que “optar” trocar
+um sistema pelo outro. Isso não é verdadeira opção e infringe a ideia
+de segurança jurídica, de boa-fé estatal e de confiança legítima
+depositada no Estado. Destarte, conclui-se que é inconstitucional o
+dispositivo que vincula a isenção dos produtos rurais e a substituição
+tributária em matéria de ICMS ao prévio recolhimento do FUNDEINFRA,
+por ofensa direta ao postulado de segurança jurídica decorrente da estrita
+legalidade para concessão (e supressão) de regimes especiais
+desonerativos prevista no art. 150, § 6º, da Constituição da República.
+
+V.3. O 3º fundamento: as peculiaridades do agronegócio, que se situa
+no início da cadeia
+
+Por força de mandamento constitucional, o Estado deve
+observar os ditames aplicáveis à técnica da não-cumulatividade em
+matéria de ICMS. E isso ganha especial destaque na cadeia do
+agronegócio.
+
+Isto porque, na atividade rural, o contribuinte (produtor) está
+no início da cadeia, inaugurando um novo ciclo econômico (colheita de
+grãos ou produção de bezerros, por exemplo), sem que necessariamente
+os insumos necessários à produção repercutam proporcionalmente em
+valor expressivo frente à mercadoria produzida (o valor do fertilizante para
+o grão ou da vacina para o bezerro). E mais, sem que esses insumos,
+
+18 Isenções tributárias. São Paulo: Sugestões Literárias S.A., 1969, p. 281.
+
+Pág. 35 de 65
+
+[[pagina 36 | nativo]]
+
+necessários à produção, tenham sofrido obrigatoriamente a incidência de
+ICMS.
+
+Ora, é por essa razão que as legislações de todos os Estados
+preveem mecanismos de desoneração ou de diferimento para os
+produtos do agro, justamente porque, a se levar no rigor terminológico o
+princípio da não-cumulatividade, não haveria como, de forma adequada,
+aplicar esse princípio àquele que está no início da cadeia produtiva. Há
+aqui uma questão lógica, de possibilidade e eficiência que justificam essa
+regra desonerativa.
+
+Perceba-se que a cadeia primária do agronegócio gera produtos
+novos oriundos da natureza (seja pela colheita de grãos, pelo nascimento
+de bezerros ou pelo corte da madeira), diferentemente da cadeia industrial,
+que depende de investimentos em maquinários e outros insumos. Mais do
+que isso, muitas vezes não há várias fases de ciclo produtivo desde o início
+dessa cadeia até seu final. Esses são aspectos peculiares que não podem
+passar à margem da contextualização do problema que o FUNDEINFRA
+traz. Eis um quadro sinótico de alguns desses produtos:
+
+PRODUTO INSUMOS ATIVIDADE DO DESTINAÇÃO
+PRODUTOR
+Soja Corretivos de solo Plantio, colheita e Cooperativa,
+(calcário e gesso), venda do grão armazém geral,
+sementes e revendedora de
+defensivos agrícolas grãos ou trading
+(pesticidas,
+fungicidas e
+herbicidas)
+Milho Corretivos de solo Plantio, colheita e Cooperativa,
+(calcário e gesso), venda do grão armazém geral,
+sementes e revendedora de
+defensivos agrícolas grãos ou trading
+(pesticidas,
+fungicidas e
+herbicidas)
+
+Pág. 36 de 65
+
+[[pagina 37 | nativo]]
+
+Bezerro Inseminação Cria e venda de Produtores que
+artificial, sal mineral, bezerros irão acabar a fase
+vacinas etc. da cria e engordar
+o animal para
+abate
+
+A pergunta é: como compatibilizar um imposto plurifásico, que
+incide sobre a circulação de mercadorias e para o qual, por isso mesmo,
+deve estar previsto o sistema de créditos e débitos, com a realidade da
+atividade rural em si e examinando-se especificamente a posição do
+produtor rural, que está no início do elo?
+
+A resposta dada por praticamente todos Estados da Federação
+é a mesma: diferimento nas vendas dentro do Estado. Essa é a razão
+da existência do diferimento em relação aos produtos agrícolas.
+
+O FUNDEINFRA acaba por quebrar esse sistema, exigindo um
+ICMS disfarçado do produtor rural como condição para a “isenção” e
+para o “diferimento” do próprio ICMS. É como se cobrasse uma parte
+do imposto do produtor, de forma antecipada, diminuindo a desoneração
+completa ou o diferimento por ele próprio falado. Poder-se-ia, em tese,
+então, afirmar que o FUNDEINFRA é uma isenção parcial de ICMS, diante
+da redução de alíquota.
+
+Ocorre que, à luz da Constituição da República e da Lei Kandir,
+devem ser assegurados ao produtor todos os créditos da cadeia ou alguma
+outra forma de compensação que faça frente à ausência de créditos, como,
+por exemplo, a isenção ou o diferimento, reforçando-se tal direito em
+relação ao agronegócio, já que o produtor inaugura um novo ciclo
+produtivo. A ausência dessa característica demonstra que não se está a
+falar de um ICMS, ou de sua isenção parcial.
+
+A compulsoriedade do FUNDEINFRA por indução ou por
+coação nesse aspecto fica ainda mais evidente, pois boa parte dos insumos
+utilizados na atividade rural não é tributada, especialmente em operações
+dentro do Estado. E se não são tributados os insumos, o art. 155, § 2º, I,
+
+Pág. 37 de 65
+
+[[pagina 38 | nativo]]
+
+“a”, da Constituição de 1988 estabelece que a sua aquisição “não implicará
+crédito para compensação com o montante devido nas operações ou
+prestações seguintes”.
+
+Eis mais uma distorção decorrente do FUNDEINFRA: o Estado
+desonera a cadeia dos insumos de ICMS e não concede nenhum benefício
+ou incentivo fiscal de ICMS ao produtor se ele não “aderir” ao
+FUNDEINFRA. Paga-se a “contribuição” em etapa única, sem direito a
+crédito, no início da cadeia. É compulsório e conflitante com a não-
+cumulatividade, se tomado como ICMS. Ou se tomado como uma outra
+figura, é inconstitucional por falta de competência.
+
+V.4. O 4º fundamento: garantias constitucionais da igualdade e da
+livre concorrência no mercado nacional
+
+Não bastassem todos os fundamentos trazidos até aqui, os
+desdobramentos danosos que o FUNDEINFRA acarreta para os
+contribuintes goianos, agride também as garantias constitucionais da
+igualdade e da livre concorrência no mercado nacional.
+
+Limitar a fruição da isenção e do diferimento do ICMS, além de
+ir de encontro a princípios outros, viola o princípio da isonomia e a vedação
+ao tratamento desigual para contribuintes em situação de igualdade,
+previstos nos artigos 5º, caput, e 150, inciso II, da Constituição.
+
+É isso o que ocorre em Goiás em razão do FUNDEINFRA. A
+prática adotada pelo Estado faz com que os produtores situados em seu
+território percam competitividade com aqueles que exerçam a mesma
+atividade e estejam situados em outras unidades da Federação, diante do
+custo que, naturalmente, recai sobre o preço da mercadoria. Evidencia-se
+também ataque ao princípio do federalismo.
+
+Os produtores abarcados pela ampla fruição do diferimento,
+não sujeitos à contribuição de um fundo cada vez mais oneroso,
+
+Pág. 38 de 65
+
+[[pagina 39 | nativo]]
+
+prevalecerão no mercado nacional e internacional, gozando de condições
+que os produtores goianos não têm, já que o FUNDEINFRA, em total
+dissonância com os ditames legais, também incide sobre as operações
+interestaduais e de exportação.
+
+Além do mais, a instituição e exigência do fundo têm um efeito
+que, antagonicamente, limita as operações com gado, carne, soja, milho e
+cana-de-açúcar ao âmbito interno, já que, como dito, retira a
+competitividade nacional do produto produzido em seu território.
+
+Este c. Supremo Tribunal Federal, marcado pela defesa da
+isonomia entre contribuintes, historicamente consolidou em sua
+jurisprudência a vedação ao tratamento desigual entre contribuintes em
+situação equivalente, nos termos do julgado abaixo transcrito:
+
+Ementa: “RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL.
+TRIBUTÁRIO. REMUNERAÇÃO DE MAGISTRADOS. IMPOSTO DE
+RENDA SOBRE A VERBA DE REPRESENTAÇÃO. ISENÇÃO.
+SUPERVENIÊNCIA DA PROMULGAÇÃO DA CONSTITUIÇÃO
+FEDERAL DE 1988. ISONOMIA TRIBUTÁRIA. INSUBSISTÊNCIA
+DO BENEFÍCIO.
+1. O artigo 150, inciso II, da Constituição Federal, consagrou
+o princípio da isonomia tributária, que impede a diferença de
+tratamento entre contribuintes em situação equivalente,
+vedando qualquer distinção em razão do trabalho, cargo ou
+função exercidos. 2. Remuneração de magistrados. Isenção do
+imposto de renda incidente sobre a verba de representação,
+autorizada pelo Decreto-lei 2.019/83. Superveniência da Carta
+Federal de 1988 e aplicação incontinenti dos seus artigos 95,
+III, 150, II, em face do que dispõe o § 1º do artigo 34 do ADCT-
+CF/88. Conseqüência: Revogação tácita, com efeitos imediatos,
+da benesse tributária. Recurso extraordinário não conhecido.”
+(RE 236881, Relator(a): Min. MAURÍCIO CORRÊA, Segunda Turma,
+julgado em 05/02/2002, DJ 26-04-2002, PP-00090 EMENT VOL-
+02066-02 PP-00432).(o destaque não consta no original)
+
+A questão se agrava, na medida em que os produtores não
+podem, obviamente, deslocar suas fazendas e sua produção para outro
+
+Pág. 39 de 65
+
+[[pagina 40 | nativo]]
+
+Estado mais competitivo, que respeite seus direitos. Portanto, tornam-se
+dependentes das políticas fiscais inconstitucionais do Estado.
+
+As propriedades rurais não comportam simples deslocamento
+de um lugar para outro, como podem fazer o setor comercial ou, até
+mesmo, o industrial. A produção agrícola, especialmente a cultivada em
+grandes extensões, como é a vocação de Goiás, tem dificuldades
+impeditivas para alterar o local da produção a curto e médio prazos. Uma
+vez feito o investimento em uma fazenda, que requer vultosas somas e tem
+pouca liquidez, não se muda de Estado sem muito tempo de planejamento
+e transição. Um cenário competitivo, de acordo com os parâmetros
+constitucionais, envolve a igualdade de tratamento para contribuintes do
+mesmo segmento.
+
+Ademais, a violação aos artigos 5º, caput, e 150, inciso II, da
+Constituição de 1988 independe da natureza jurídica do FUNDEINFRA,
+já que o que se discute, nessa hipótese, é a indevida limitação da fruição
+da isenção e do diferimento do ICMS, condicionada ao recolhimento ao
+fundo, quando, em outros Estados, essa técnica ocorre de forma ampla e
+desonerada. De fato, o FUNDEINFRA, sobre violar o ordenamento jurídico
+brasileiro, provoca ainda vários tipos de distorções, dentre elas as que
+envolvem a aplicação, na sua inteireza, do princípio isonômico e da
+liberdade econômica no seu sentido mais genuíno, como lembra Ives
+Gandra da Silva Martins.19
+
+Não se pode admitir que uma “contribuição” estadual ocasione
+desarranjos no mercado competitivo, a qual é cobrada de uns, mas não de
+outros, sendo que todos se encontram em situação equivalente. Assim, a
+
+19 “Equivalente é um vocábulo de densidade ôntica mais abrangente do que ‘igual’. A igualdade
+exige absoluta consonância em todas as partes, o que não é da estrutura do princípio da
+equivalência. Situações iguais na equipolência, mas diferentes na forma, não podem ser tratadas
+diversamente. A equivalência estende à similitude de situações a necessidade de tratamento igual
+pela política impositiva, afastando a tese de que os desiguais devem ser tratados,
+necessariamente, de forma desigual. Os desiguais, em situação de aproximação, devem ser
+tratados, pelo princípio da equivalência, de forma igual em matéria tributária, visto que a igualdade
+absoluta, na equivalência não existe, mas apenas a igualdade na equiparação de elementos (peso,
+valor etc.)”. MARTINS, Ives Gandra da Silva. “Obrigações acessórias no interesse da fiscalização
+e da livre concorrência entre empresas. Direito assegurado ao Fisco pelas leis suprema e
+complementar”. Revista Dialética de Direito Tributário. v. 105. São Paulo: Dialética, 2004, p. 131.
+
+Pág. 40 de 65
+
+[[pagina 41 | nativo]]
+
+legislação impugnada deve ser reputada inconstitucional também sob as
+perspectivas da igualdade tributária e da livre concorrência.
+
+VI. A INCONSTITUCIONALIDADE DO FUNDEINFRA SOBRE AS
+OPERAÇÕES COM MINÉRIOS
+
+Demonstrada a inconstitucionalidade do FUNDEINFRA sobre
+os produtos rurais, cabe agora examinar os fundamentos que indicam a
+invalidade do fundo estadual especificamente sobre as operações com
+minérios.
+
+O art. 1º, I, da Lei nº 21.670 estabeleceu que um dos objetivos
+do FUNDEINFRA é “gerir os recursos oriundos da produção agrícola,
+pecuária e mineral no Estado de Goiás”. Pois bem, logo de pronto vem
+à mente a seguinte indagação: o que significa, com exatidão, um fundo
+estadual que pretende “gerir os recursos da produção mineral”? Com que
+legitimidade ou autorização constitucional pode o Estado de Goiás “gerir”
+os recursos oriundos desse setor?
+
+A comercialização de minérios envolve operações relativas à
+circulação de mercadorias, as quais, como tais, são em tudo e por tudo
+colocadas debaixo do regramento típico do ICMS. Aliás, os minérios, e
+especificamente o ouro, mereceram do legislador constituinte menção
+expressa. Tanto assim que o art. 155, § 3º, da Carta da República
+prescreve que “à exceção dos impostos de que tratam o inciso II do caput
+deste artigo e o art. 153, I e II, nenhum outro imposto poderá incidir sobre
+operações relativas a energia elétrica, serviços de telecomunicações,
+derivados de petróleo, combustíveis e minerais do País”. Esse
+mandamento é corroborado pelo art. 155, X, “c”, segundo o qual o ICMS
+não incidirá “sobre o ouro, nas hipóteses definidas no art. 153, § 5º”, isto
+é, quando definido como ativo financeiro ou instrumento cambial, estando
+livre sua incidência para as demais hipóteses.
+
+Pág. 41 de 65
+
+[[pagina 42 | nativo]]
+
+Se a comercialização de minérios, inclusive do ouro, foi
+explicitamente pressuposta pelo constituinte como sujeita ao regramento
+do ICMS, como se admitir uma “contribuição” estadual sobre esses
+produtos? O legislador local, porém, não se sentiu intimidado.
+Confirmando sua natureza jurídica típica de ICMS, a lei atribuiu ao
+FUNDEINFRA a força para incidir, de forma compulsória, sobre operações
+com minérios.
+
+Cabe aqui um esclarecimento. Nem a Lei Estadual nº 21.670,
+nem a Lei nº 21.671 trataram, de forma clara, sobre a materialidade em
+torno da qual incidiria o FUNDEINFRA-minérios. Essa tarefa, por
+delegação dessas leis, ficou a cargo do Decreto nº 10.187, que, ao inserir
+um art. 79-A ao Regulamento do Código Tributário Estadual, previu no
+art. 1º a repercussão do FUNDEINFRA sobre amianto, ferroliga, minério
+de cobre e seus concentrados e ouro, incluído o ouro platinado.
+
+Não bastasse o descabimento de uma “contribuição” estadual
+sobre materialidades típicas de ICMS (tornando o FUNDEINFRA, portanto,
+um inequívoco adicional de ICMS), o legislador escolheu para esses
+produtos a faixa de incidência que recai especificamente sobre a
+exportação. Ou seja, as exportações de minérios, em Goiás, estão sujeitas
+ao pagamento do FUNDEINFRA, e pior, com a delimitação da
+materialidade feita por meio de instrumento infralegal.
+
+É isso o que estabeleceu o art. 79-A, segundo o qual “a não
+incidência a que se referem a alínea ‘a’ do inciso I do caput e o § 1º, ambos
+do art. 79, em relação às mercadorias discriminadas a seguir, fica
+condicionada à comprovação da efetiva exportação”, sendo certo que
+para a comprovação da efetiva exportação “fica exigido o pagamento do
+ICMS”, ou, “em substituição ao disposto no § 1º deste artigo, o
+contribuinte pode optar pelo pagamento de contribuição ao Fundo
+Estadual de Infraestrutura – FUNDEINFRA”.
+
+Como se vê, o legislador goiano, em relação aos minérios
+(amianto, ferroliga, minério de cobre e seus concentrados e ouro, incluído
+
+Pág. 42 de 65
+
+[[pagina 43 | nativo]]
+
+o ouro platinado), prescreveu que as exportações desses produtos serão
+gravadas pelo ICMS ou pelo FUNDEINFRA, à “escolha” do exportador.
+
+A incidência é inconstitucional, em primeiro lugar, porque
+apenas o ICMS pode repercutir sobre a comercialização de minérios (e não
+uma “contribuição” estadual). E o ICMS, por inferência constitucional, é
+fixado a partir de alíquotas padronizadas em todos os Estados. Vai daí
+que se o Estado de Goiás cria um “ICMS diferente” para esses produtos,
+fugindo da sistemática nacional, o ente federado, na tentativa de driblar a
+Constituição, acaba por ser por ela sancionado em preservação ao pacto
+federativo, já que o arcabouço normativo fulmina de invalidade qualquer
+tentativa de modificar localmente – sem o crivo de outros entes federativos,
+e.g. Confaz – a incidência do ICMS.
+
+Por outro lado, o FUNDEINFRA-minérios não se sustenta
+também porque as exportações estão submetidas ao regramento da
+imunidade tributária, de modo que se nem mesmo o ICMS pode
+menoscabar esse mandamento constitucional, com muito menos razão
+ainda o FUNDEINFRA.
+
+Em síntese, por qualquer ângulo que se analise a questão a
+conclusão é a mesma: não há como defender a exigibilidade do
+FUNDEINFRA sobre a exportação de minérios. Destarte, a
+inconstitucionalidade torna-se ainda mais flagrante, em virtude do art.
+155, § 3º, da Constituição da República.
+
+VII. A INCONSTITUCIONALIDADE DO FUNDEINFRA SOBRE AS
+EXPORTAÇÕES EM GERAL
+
+De forma autônoma o FUNDEINFRA se mostra inválido, de
+igual maneira, sob a perspectiva das exportações. O referido art. 79-A do
+Regulamento do Código Tributário do Estado de Goiás, inserido pelo art.
+1º do Decreto nº 10.187, passou a condicionar, como se viu, as
+exportações diretas e indiretas ao pagamento do ICMS ou do
+
+Pág. 43 de 65
+
+[[pagina 44 | nativo]]
+
+FUNDEINFRA, mas não só para os minérios, como também para o milho,
+a soja e a carne (fresca, resfriada, congelada, salgada, temperada ou
+salmourada e miúdo comestível resultante do abate de gado bovino ou
+bufalino).
+
+Sobre isso, é importante aprofundar-se nos problemas
+jurídicos suscitados pela legislação goiana. O art. 5, I, “b”, da Lei nº 21.670
+prescreveu que constitui receita do FUNDEINFRA a “contribuição”
+exigida no âmbito do ICMS como “condição” para o contribuinte que
+“optar por regime especial” que vise ao controle das saídas de produtos
+destinados ao exterior ou com fim específico de exportação e à
+comprovação da efetiva exportação.
+
+O art. 1º da Lei nº 21.671, por sua vez, inserindo o art. 38-A
+ao CTE/GO, dispôs que a imunidade nas exportações diretas e indiretas
+“fica condicionada à comprovação da efetiva exportação”. Até aí, não
+haveria problema algum. O problema foi o subterfúgio criado: para
+comprovar a exportação, ou se paga o ICMS, ou se paga o FUNDEINFRA,
+não há outro jeito.
+
+Com efeito, o art. 38-A, § 1º, passou a prever que para o
+controle das exportações o Regulamento pode (i) “exigir o pagamento do
+ICMS” relativo a cada operação ou prestação no momento da saída da
+mercadoria do estabelecimento remetente por meio de documento de
+arrecadação distinto, garantida a restituição do valor do imposto
+efetivamente pago após a comprovação da exportação (mas não se sabe
+em quanto tempo, já que a lei não trata de prazo ou modo de devolução);
+(ii) e “em substituição ao disposto no inciso I deste parágrafo”,
+instituir regime especial ao contribuinte que “optar pelo pagamento de
+contribuição” para o fundo destinado a investimento em infraestrutura,
+mediante termo de credenciamento celebrado com a Secretaria de Estado
+de Economia, na forma, nas condições e nos prazos que dispuser.
+
+Ora, nesse modelo não há opção legítima alguma. A
+Constituição não tolera o ICMS sobre as exportações, mas o Estado
+entendeu que poderia “exigir o pagamento” do imposto mesmo assim. A
+
+Pág. 44 de 65
+
+[[pagina 45 | nativo]]
+
+fraseologia adotada é forte: não se trata de uma hipótese, de uma
+possibilidade, mas sim de um dever. Para quem não “quiser” pagar o ICMS,
+aí basta recolher o FUNDEINFRA. O jogo de palavras invocado pela
+legislação dá bem a conta de quão maquiavélico é o regramento do
+FUNDEINFRA-exportações.
+
+A trama criada é de todo modo extremamente maléfica. Ou se
+paga o ICMS sem qualquer previsão para devolução do tributo diante da
+imunidade da exportação ou se paga o FUNDEINFRA, sem qualquer direito
+à restituição. No fim, como não há restituição de um modo ou de outro, o
+que se tem de “opção” ao contribuinte é pagar um tributo maior ou menor,
+em dois cenários de inconstitucionalidade por desrespeito à imunidade
+existente.
+
+E para não deixar dúvida alguma de que não há facultatividade
+nas exportações, o art. 38-A, § 2º, ameaçou os exportadores goianos no
+sentido de que, caso “optem” por pagar o ICMS, ao invés do FUNDEINFRA,
+o imposto estadual será calculado pela “aplicação da alíquota prevista
+para as operações internas” com a mercadoria objeto da operação, a
+qual será projetada sobre “o valor constante da pauta de valores
+elaborada pela Secretaria de Estado da Economia”, ou então sobre
+“o valor da operação”, mas nessa última hipótese somente “quando
+inexistir valor estabelecido para a mercadoria objeto da operação
+na pauta de valores de que trata o inciso I deste parágrafo”.
+
+Em poucas palavras: se o exportador não pagar o
+FUNDEINFRA, ele será obrigado a recolher o ICMS na exportação, apurado
+com base no valor de pauta da Secretaria Estadual e com incidência da
+alíquota interna (geralmente de 17%), pouco importando o valor da
+exportação em si, já que tudo será calculado pelo valor de pauta, situação
+que também é completamente ilegal/inconstitucional.20 Apenas se, por
+uma eventualidade, a mercadoria não estiver na pauta de valores da
+Secretaria (o que é bastante improvável, por se tratar de soja, milho, carne
+e minérios), aí sim o contribuinte terá direito a calcular o imposto com
+
+20 Como estabelece o Enunciado da Súmula nº. 431 do STJ.
+
+Pág. 45 de 65
+
+[[pagina 46 | nativo]]
+
+base no valor da exportação. Pago o ICMS, depois de comprovar a remessa
+para o exterior (cujo meio de prova não é tratado na lei), o contribuinte
+poderá pedir a restituição do ICMS pago (sendo certo também que a lei
+não prevê em quanto tempo irá restituí-lo, muito menos sobre a forma, se
+em dinheiro ou em créditos).
+
+A situação é uma afronta à imunidade constitucional das
+exportações em relação ao ICMS, mas não para nisso. O art. 38-A, § 3º,
+admite, claramente, que o FUNDEINFRA será exigido nas operações
+destinadas à exportação, ao dispor que a contribuição fica dispensada nos
+casos em que “o correspondente pagamento já houver ocorrido em
+operações anteriores com a mercadoria objeto da exportação”. Ou
+seja, de um modo ou de outro, haverá FUNDEINFRA na exportação, ainda
+que de forma monofásica.
+
+Há franca incompetência do Estado para impedir o direito à
+imunidade nas exportações, violadora do princípio da desoneração e, por
+consequência, causadora de confisco. Todo o arcabouço jurídico nacional
+está estruturado de modo a desonerá-las, sendo certo que essa
+“contribuição” cria pedágio a esse direito constitucionalmente assegurado.
+
+A Constituição brasileira contém diversas normas veiculando
+imunidades tributárias em matéria de exportação: (i) por exemplo, a
+imunidade de contribuições sociais e de intervenção no domínio
+econômico (art. 149, § 2º, I); (ii) a imunidade de IPI (art. 153, § 3º, III); (iii)
+além da imunidade do próprio ICMS (art. 155, § 2º, X, “a”). É razoável,
+portanto, sustentar a presença de um princípio constitucional de
+desoneração das exportações, que se dá de maneira explicita.
+
+O legislador goiano acreditou que poderia amesquinhar esse
+direito e criar um “regime especial de exportação”, e muito mais do que
+isso, que poderia condicionar as exportações desoneradas desses
+produtos ao prévio pagamento do FUNDEINFRA.
+
+A “não-incidência” de impostos na exportação decorre de
+norma genuinamente constitucional, que veicula uma imunidade
+
+Pág. 46 de 65
+
+[[pagina 47 | nativo]]
+
+tributária, de tal modo que Estado algum pode criar condicionantes à sua
+fruição, máxime se o condicionante é o pagamento de um valor em
+dinheiro.
+
+Não há esteio para se onerar as exportações em matéria de
+imposto estadual. Por isso que o fundo aqui questionado, nessa dimensão,
+assume feição compulsória para os exportadores e viola o princípio
+constitucional da desoneração das exportações, que é da essência da
+imunidade do ICMS e, em última análise, implica o uso do FUNDEINFRA
+com efeito de confisco, afrontando o art. 155, § 2º, X, “a”, da Carta da
+República.
+
+VIII. OS FUNDAMENTOS JURÍDICOS COMUNS AOS PRODUTOS
+RURAIS E AOS MINÉRIOS INDICADORES DA
+INCONSTITUCIONALIDADE DO FUNDEINFRA
+
+Além dos fundamentos específicos que sustentam a
+inconstitucionalidade do FUNDEINFRA, de forma individualizada, sobre
+os produtos rurais, sobre os minérios e sobre as operações de exportação,
+há também aspectos comuns que evidenciam a invalidade do fundo
+estadual.
+
+VIII.1. Afetação ao princípio da não-cumulatividade nas operações
+internas e interestaduais
+
+O FUNDEINFRA, apesar de se apropriar, em vários trechos, de
+materialidades típicas de ICMS, de seus sujeitos passivos e até de suas
+bases de cálculo, não segue o imposto estadual naquilo que ele tem de
+mais essencial, que é a ideia de não-cumulatividade. E sem se conceder,
+efetivamente, o direito ao crédito ao contribuinte não há respeito ao
+princípio da não-cumulatividade, levando, por corolário, à infringência da
+regra constitucional que assim o estabelece.
+
+Pág. 47 de 65
+
+[[pagina 48 | nativo]]
+
+A cobrança do FUNDEINFRA se dá sem que haja direito a
+crédito. O mandamento da não-cumulatividade estipula, inexoravelmente,
+que há de estar viabilizado o sistema de créditos e débitos; sem isso, seu
+efeito em cascata o torna mais gravoso ainda. É por isso que a tal
+“contribuição” estadual interfere nas operações econômicas. Ou há
+exigência do ICMS, com garantia do diferimento ou, ao menos, com
+garantia do sistema não-cumulativo, ou então não pode ser exigido o
+FUNDEINFRA.
+
+Na verdade, no âmbito das operações envolvendo (i) os
+produtos isentos do agro e (ii) as transações submetidas ao regime de
+substituição tributária, o FUNDEINFRA torna-se um custo para o
+produtor, pelos motivos já expostos, sem que ele possa “descontar
+créditos” dessa contribuição. E sob o ângulo (iii) das exportações a
+contribuição mostra-se compulsória, onerando toda a cadeia pelo custo
+igualmente envolvido. Nesse quadro, a cobrança faz pouco caso da regra
+constitucional, estando a merecer, por isso mesmo, aniquilação por este
+c. Supremo Tribunal Federal.
+
+VIII.2. Quebra do princípio da uniformidade de alíquotas do ICMS,
+definidas nacionalmente, e definição de valores distintos produto a
+produto, sem critérios transparentes
+
+Outro ponto que comporta questionamento é a quebra do
+princípio da uniformidade de alíquotas do ICMS, definidas nacionalmente,
+ao lado da definição de valores distintos produto a produto, sem critérios
+transparentes.
+
+Com efeito, a carga tributária do FUNDEINFRA é definida via
+decreto em percentuais que variam conforme o tipo de produto envolvido,
+o que viola a ideia de legalidade. As cargas são as seguintes: (i) na cadeia
+da cana-de-açúcar, 1,2%; (ii) no milho, são 1,1% de FUNDEINFRA; (iii)
+
+Pág. 48 de 65
+
+[[pagina 49 | nativo]]
+
+para a soja, 1,65%; (iv) para a carne, 0,5%; (v) para o gado bovino e
+bufalino, também 0,5%; (vi) e para os minérios 1,65%.
+
+Parece por si só evidente a flagrante inconstitucionalidade das
+alíquotas adotadas. Afinal de contas, o sistema de definição de alíquotas
+incidentes sobre a circulação de mercadorias foi cuidadosamente pensado
+pela Constituição da República, justamente com o objetivo de evitar a
+denominada “guerra fiscal” (em que pese a constatação fática de que os
+Estados, infelizmente, continuam a praticá-la).
+
+Segundo o Texto Constitucional, “resolução do Senado Federal,
+de iniciativa do Presidente da República ou de um terço dos Senadores,
+aprovada pela maioria absoluta de seus membros, estabelecerá as
+alíquotas aplicáveis às operações e prestações, interestaduais e de
+exportação” (art. 155, § 2º, IV).
+
+Além disso, “é facultado ao Senado Federal: a) estabelecer
+alíquotas mínimas nas operações internas, mediante resolução de iniciativa
+de um terço e aprovada pela maioria absoluta de seus membros; b) fixar
+alíquotas máximas nas mesmas operações para resolver conflito específico
+que envolva interesse de Estados, mediante resolução de iniciativa da
+maioria absoluta e aprovada por dois terços de seus membros” (art. 155, §
+2º, V).
+
+E ainda, “salvo deliberação em contrário dos Estados e do
+Distrito Federal, nos termos do disposto no inciso XII, ‘g’, as alíquotas
+internas, nas operações relativas à circulação de mercadorias e nas
+prestações de serviços, não poderão ser inferiores às previstas para as
+operações interestaduais” (art. 155, § 2º, VI).
+
+O FUNDEINFRA põe tudo isso abaixo. O fundo é definido
+aleatória e internamente, por ato praticado fora do concerto de vontades
+entre os Estados da Federação, e o que é pior, sobre produtos que têm
+clara vocação interestadual, por envolver alimentos e minérios. E
+relembre-se que, ao exigir o FUNDEINFRA, o Estado não abre mão do
+
+Pág. 49 de 65
+
+[[pagina 50 | nativo]]
+
+ICMS, o que torna o ICMS goiano sobretaxado, se levada em conta a
+soma do ICMS com o FUNDEINFRA.
+
+Outro aspecto que põe em xeque a sistemática de alíquotas
+adotada é a estipulação de percentuais desprovidos de qualquer critério
+transparente de calibração, variando conforme o produto envolvido.
+Alguns ficaram debaixo da alíquota de 0,5%, outros na de 1,1%, outros
+ainda no patamar de 1,2%, até chegar a 1,65%. Faltam transparência e
+critérios de distinção na definição desses patamares, principalmente
+porque para alguns desses produtos é necessária a observância da
+seletividade em razão da essencialidade.
+
+Há mais. Se o fundo foi criado sob o pretexto de melhorias nas
+estradas, a pergunta a ser colocada é a seguinte: qual é a relação entre o
+valor da produção ou o tipo de produto gerado dentro da porteira com o
+gasto feito pelo Estado na estrada, que é usada por todos, sendo certo que
+muitas vezes o investimento é feito em outra região, que não aquela onde
+está situada a fazenda do produtor? Se fosse essa a justificativa de relação
+entre o critério e o aumento da tributação a alíquota violaria claramente a
+isonomia.
+
+Para os impostos a medida de distinção entre os contribuintes
+é a capacidade contributiva, nos termos do art. 145, § 1º, da Constituição
+Federal, o que evidencia uma clara inconstitucionalidade, como bem
+colocado por Humberto Ávila.21
+
+Na situação em voga não há respeito à capacidade contributiva
+mesmo se considerado que aquele produtor que produz determinado bem
+tem maior capacidade econômica do que o que produz outro bem.
+
+Não há correspondência entre uma coisa e outra, pois não é
+porque o produtor tem uma produtividade maior (ou de valor individual
+
+21 “O decisivo é que o poder de tributar é limitado pelo critério da capacidade contributiva
+subjetiva: a instituição de impostos ’pessoais’ é inconstitucional quando não obedecer a
+capacidade econômica dos contribuintes”. ÁVILA, Humberto. Teoria da Igualdade Tributária. 2
+ed. São Paulo: Malheiros, 2009, p. 160.
+
+Pág. 50 de 65
+
+[[pagina 51 | nativo]]
+
+maior) que ele irá “gastar mais” estrada. Somente um pensamento arcaico
+poderia respaldar esse tipo de raciocínio. Ou seja, para custear a
+manutenção de despesas com estradas (que são utilizadas por todos) o
+Estado leva em conta a geração de riquezas dentro da fazenda e discrimina
+tais riquezas arbitrariamente de acordo com o tipo de produto.
+
+Destarte, também por violar o art. 155, § 2º, incisos IV, V e
+VI, da Constituição, deve ser declarada a inconstitucionalidade das
+normas de referência do FUNDEINFRA.
+
+Observe que diante desse arquétipo criado pelo legislador
+goiano se está a usar um critério de taxa ou de contribuição – diante da
+ideia de referencialidade entre o suposto impacto de cada um tipo de
+produto e a alíquota (carga tributária) para se apresentar a maior ou
+menor intensidade da exação tributária. Ocorre que inexiste possibilidade
+de se cobrar taxa ou contribuição na presente situação por motivos óbvios,
+no primeiro caso pela impossibilidade da indivisibilidade, no segundo caso
+por falta de competência constitucional.
+
+VIII.3. Violação ao princípio da legalidade na calibração da carga
+incidente: alíquotas fixadas por decreto
+
+Em complemento ao tópico anterior, as alíquotas do
+FUNDEINFRA comportam crítica também sob o ângulo constitucional
+porque elas afastam-se do campo da legalidade, tendo sido fixadas por
+decreto.
+
+Ao invés de as Leis nºs. 21.670 e 21.671 estabelecerem, de uma
+vez por todas, quais seriam os percentuais aplicáveis ao FUNDEINFRA,
+esses veículos normativos pretenderam delegar tal função a instrumento
+subalterno, infralegal. E assim foi feito: foi o Decreto nº 10.187 que fixou
+as alíquotas do FUNDEINFRA, não as leis instituidoras.
+
+Parece desnecessário expor a este c. Supremo Tribunal Federal
+que somente lei, em sentido material e formal, pode fixar a alíquota
+
+Pág. 51 de 65
+
+[[pagina 52 | nativo]]
+
+dos tributos brasileiros, exceções feitas aos casos em que o próprio
+constituinte permitiu a variação de alíquotas por decreto – ainda assim,
+apenas a variação, respeitadas as balizas mínimas e máximas definidas
+por lei.
+
+O caso versado nesta ação, no entanto, é absolutamente
+diferente. Por ato normativo subalterno (decreto) o FUNDEINFRA teve suas
+alíquotas definidas, o que, evidentemente, viola a Constituição. Portanto,
+o FUNDEINFRA agride a ordem jurídica também pelo flanco da legalidade
+tributária.
+
+IX. A INCONSTITUCIONALIDADE DO FUNDEINFRA SOB A
+PERSPECTIVA ORÇAMENTÁRIA E FINANCEIRA
+
+Chega-se, finalmente, ao último, mas não menos importante,
+ângulo de análise a ser considerado para a declaração de
+inconstitucionalidade postulada. Trata-se da perspectiva que enfoca o
+FUNDEINFRA a partir das suas graves inconsistências à luz dos capítulos
+da Constituição de 1988 dedicados à repartição de receitas tributárias, às
+finanças públicas e ao orçamento (“Título VI – Da Tributação e do
+Orçamento”, “Capítulo II – Das Finanças Públicas”), a chamada
+“Constituição Financeira”.
+
+Não é só a atividade tributária em si que é menosprezada pelo
+FUNDEINFRA. Não há distorções apenas sob os ângulos da igualdade, da
+legalidade, da rígida distribuição de competências, da não-
+cumulatividade, da imunidade das exportações e da liberdade econômica.
+Também todo o arcabouço normativo envolvendo as regras financeiras e
+orçamentárias do Estado são vilipendiadas – escancaradamente
+vilipendiadas – pelo FUNDEINFRA. Tudo à margem absoluta do Estado de
+Direito.
+
+Pág. 52 de 65
+
+[[pagina 53 | nativo]]
+
+IX.1. Um mecanismo paralelo de arrecadação
+
+O processo de controle do Estado constitucional não se exaure
+na arrecadação, mas se sujeita a uma série de procedimentos
+condicionados a partir da Constituição Financeira. As palavras de Kiyoshi
+Harada são ilustrativas a esse respeito, ao afirmar que “ao direito de
+autorizar a arrecadação de tributos seguiu-se o direito de controlar as
+despesas, dando origem ao orçamento como processo de fiscalização
+financeira e cerceamento das tendências abusivas dos
+governantes”.22
+
+O controle sobre a execução orçamentária é múnus caríssimo
+do administrador público brasileiro na ordem constitucional de 1988. O
+artigo 70 da Constituição23 dispõe que o orçamento será fiscalizado pelo
+Congresso Nacional, mediante controle externo, e pelo sistema de controle
+interno de cada Poder, observando a legalidade, legitimidade,
+economicidade, aplicação das subvenções e renúncia de receitas.24
+
+Vê-se que o princípio da legalidade é nota essencial do Estado
+de Direito e sujeita a atuação estatal à lei. É nesse sentido que se deve
+entender a assertiva de que o Estado, ou o Poder Público, ou os
+administradores não podem exigir qualquer ação, nem impor qualquer
+abstenção, nem mandar, tampouco proibir nada aos administrados, senão
+em virtude de lei.25
+
+Assim, para que o Estado de Goiás pudesse realizar a cobrança
+do FUNDEINFRA, deveria encontrar na Constituição o permissivo legal
+
+22 “Fiscalização Financeira e Orçamentária e a Atuação dos Tribunais de Contas. Controle
+Interno, Controle Externo e Controle Social do Orçamento”. In: Orçamentos Públicos e Direito
+Financeiro. São Paulo: Revista dos tribunais, 2011, p. 1.257 (sem destaques no original).
+23 “Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e
+das entidades da administração direta e indireta, quanto à legalidade, legitimidade,
+economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso
+Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.”
+24 Há correspondência com os artigos 49, X, e 74 da Constituição de 1988.
+25 SILVA, Jose Afonso. Curso de Direito Constitucional Positivo. 33. ed. São Paulo: Malheiros,
+2009, p. 420.
+
+Pág. 53 de 65
+
+[[pagina 54 | nativo]]
+
+a essa geração de receita pública, o que não fez, conforme já esclarecido
+nesta peça. Por outro lado, também para gastar os recursos arrecadados
+o Estado há de observar as limitações e regras de controle decorrentes da
+Constituição Financeira, sob pena de atuar de forma incompatível com
+sua natureza de entidade política da Federação.
+
+Acontece que o FUNDEINFRA não é fundo constitucional, isto
+é, não é fundo previsto na Carta da República. Não é, portanto, fundo
+legítimo. O Estado criou um subsistema de arrecadação, à custa do
+produtor rural, de quem comercializa minérios e do exportador, sem
+qualquer exploração de um patrimônio público.
+
+Esse método sui generis de arrecadação e empenho de receitas
+derivadas, nitidamente, viola o arcabouço normativo em vigor. E tudo isso,
+repita-se, driblando a ordem jurídica tributária, mas também ao arrepio
+da Constituição Financeira.
+
+IX.2. A existência de regra constitucional expressa que proíbe a
+criação de fundo para fazer frente a despesas previstas nas leis
+orçamentárias: a pujança da regra estabelecida pela Emenda
+Constitucional nº 109/21
+
+Outro aspecto relevantíssimo desta ADI – e que não foi
+examinado até o momento por esta e. Corte, até mesmo porque à época do
+caso FUNDERSUL sequer existia – envolve o mandamento trazido pela
+Emenda Constitucional nº 109/21, que proíbe a criação de fundo para
+fazer frente a despesas previstas nas leis orçamentárias, como se dá no
+FUNDEINFRA.
+
+O art. 167, inciso XIV, da Constituição, incluído pelo
+constituinte reformador através da EC 109/21, passou a vedar “a
+criação de fundo público, quando seus objetivos puderem ser
+alcançados mediante a vinculação de receitas orçamentárias
+específicas ou mediante a execução direta por programação
+
+Pág. 54 de 65
+
+[[pagina 55 | nativo]]
+
+orçamentária e financeira de órgão ou entidade da administração
+pública”.
+
+A regra constitucional inovadora é importante e há de ter sua
+aplicabilidade respeitada neste caso. O que buscou o constituinte,
+claramente, foi tolher a criação desenfreada de fundos, impedindo que tais
+categorias jurídicas fossem instituídas nas hipóteses em que seus
+objetivos possam ser atingidos “mediante a vinculação de receitas
+orçamentárias específicas” ou então “mediante a execução direta
+por programação orçamentária e financeira de órgão ou entidade
+da administração pública”.
+
+Ora, o que motivou a exigência do FUNDEINFRA, isto é, qual
+foi a vinculação das receitas arrecadadas às respectivas despesas? De
+acordo com o art. 1º da Lei nº 21.670, o FUNDEINFRA serve para
+implementar, em âmbito estadual, políticas e ações administrativas:
+(i) de infraestrutura agropecuária; (ii) dos modais de transporte; (iii)
+recuperação, manutenção, conservação, pavimentação e implantação de
+rodovias; (iv) sinalização, artes especiais, pontes e bueiros; (v) e edificação
+e operacionalização de aeródromos. E conforme o art. 6º os recursos serão
+empregados em projetos, atividades e ações inerentes aos seus objetivos,
+com recursos transitados pela conta única do Tesouro Estadual.
+
+Pois bem, a pergunta a ser feita é a seguinte: por acaso alguma
+dessas despesas pode ser classificada como extraordinária, que não
+possa ser custeada mediante a vinculação de receita orçamentária
+específica ou – o que é o caso – mediante a execução direta por
+programação orçamentária e financeira de órgão ou entidade da
+administração pública, já constante das leis orçamentárias? Não, não há
+nenhuma que se enquadre nessa exceção e, portanto, não há legitimidade
+para a instituição ou a manutenção de um fundo que está preordenado a
+custear essas despesas corriqueiras.
+
+Questões como políticas públicas em infraestrutura
+envolvendo modais de transporte, recuperação, manutenção, conservação
+e pavimentação de estradas, sinalização, construção de pontes e bueiros
+
+Pág. 55 de 65
+
+[[pagina 56 | nativo]]
+
+e edificação e operacionalização de aeroportos podem e devem ser
+custeadas com as receitas previstas no próprio orçamento. O
+FUNDEINFRA não é nem um fundo transitório, nem está voltado para
+despesas específicas ou extraordinárias. Muito pelo contrário: os seus
+motivos se inserem em tudo e por tudo nas despesas normais do Estado,
+a serem custeadas pelos impostos.
+
+Portanto, não bastasse a robustez dos demais argumentos
+trazidos nesta peça, o fato é que, diante do mandamento do art. 167, XIV,
+da Carta Constitucional, o fundo estadual não para em pé.
+
+IX.3. A burla ao sistema de repasse do montante arrecadado com o
+ICMS aos Municípios
+
+A Constituição de 1988, como se sabe, cuida do regime de
+repasse dos recursos arrecadados entre os entes federados. Um deles se
+dá por meio do FPM – Fundo de Participação dos Municípios (art. 159).
+Não se pode esquecer que “pertencem aos Municípios: (...) IV – vinte e cinco
+por cento do produto da arrecadação do imposto do Estado sobre operações
+relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação” (art. 158, IV,
+da Constituição).
+
+Ora, a partir do momento em que o Estado cria um “ICMS
+paralelo”, com o nome de “fundo”, é evidente que há violações também a
+essas regras orçamentárias, cuja aplicabilidade fica comprometida porque
+o FUNDEINFRA, na prática, não se submete aos mesmos comandos
+constitucionais de controle, isso por força da manobra realizada pelo
+Estado.
+
+Noutras palavras, quando Goiás institui uma “contribuição”
+com materialidades e bases de cálculo típicas de ICMS, deixando de
+repassar os valores arrecadados aos Municípios, há uma burla ao sistema
+de transferências de recursos entre os entes federativos, o qual foi alçado
+
+Pág. 56 de 65
+
+[[pagina 57 | nativo]]
+
+ao patamar constitucional. Ao adotar essa prática o Estado menospreza a
+Constituição da República, o que é um fundamento a mais para levar à
+declaração de inconstitucionalidade do FUNDEINFRA.
+
+IX.4. Violações à Lei de Responsabilidade Fiscal, ao art. 37, caput, e
+ao art. 163 da Constituição da República
+
+A Constituição Financeira é regulamentada em seus
+pormenores por leis infraconstitucionais, a exemplo da Lei nº 4.320/64 e
+da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/00).
+
+Esses diplomas legislativos têm um objetivo muito claro:
+disciplinar, com rigor, o agir do homem público no que pertine ao manejo
+do dinheiro do povo. Não basta apenas normatizar os modos de
+arrecadação dos recursos; hoje, felizmente, a ênfase é muito maior na
+gestão dos recursos públicos.
+
+Nesse particular a denominada Lei de Responsabilidade Fiscal
+foi um passo importante no estabelecimento de novos padrões de gestão
+pública, de maneira a proibir e a punir os administradores que não agirem
+conforme suas regras. O escopo da lei é garantir que a verba pública seja
+aplicada conforme o bem comum.
+
+Todavia, com o FUNDEINFRA não é isso o que se passa, pois a
+“contribuição” contorna os mecanismos de controle, inclusive pela falta de
+orçamento próprio para sua gestão. A pretexto de ser um “fundo”, e não
+tributo, o FUNDEINFRA busca escapar do regime jurídico da Lei de
+Responsabilidade Fiscal, que disciplina o art. 163 da Constituição de
+1988.
+
+Nesse desenho, não há transparência, não há participação
+popular nas discussões das políticas públicas, não há rigor na aplicação
+da lei. Há, sim, violação ao art. 37, caput, da Constituição da República,
+que exige do administrador público o atendimento aos princípios da
+
+Pág. 57 de 65
+
+[[pagina 58 | nativo]]
+
+legalidade, impessoalidade, moralidade, publicidade e eficiência. Afinal de
+contas, as regras de responsabilidade fiscal alcançam a gestão de fundos
+públicos, devendo guardar observância às normas de controle.
+
+Todavia, o Estado parece não se importar muito com isso. É
+que os arts. 2º e 3º da Lei nº 21.670, de forma absurda, confiam ao
+Conselho Gestor do FUNDEINFRA – cujos integrantes, evidentemente, não
+são eleitos pelo povo – o poder envolvendo a “destinação dos recursos
+do FUNDEINFRA”, abrangendo “a gestão e a definição da destinação
+dos recursos”.
+
+Como pode isso? Como o dinheiro arrecadado dos produtores
+rurais, das mineradoras e dos exportadores pode ficar sujeito ao bel-prazer
+de um órgão cujos membros não têm legitimidade democrática para
+“decidir” sobre a aplicação dos recursos, inclusive com o poder para
+estabelecer prioridades e a ordem das obras?
+
+Para tudo há de haver um limite, até para os devaneios. A
+legislação cria uma “contribuição” estadual a pretexto de instituir um
+“fundo” para custear despesas ordinárias e confia a um órgão sem
+legitimidade democrática a definição dos destinos dos recursos. É uma
+demonstração escancarada de desrespeito.
+
+Assim, também pelo descumprimento das normas
+orçamentárias e das regras de transparência e controle da gestão fiscal, o
+FUNDEINFRA deve ser declarado inconstitucional.
+
+X. CONCLUSÕES E AS ADI’s PROPOSTAS PELA CNI E PELA
+APROSOJA SOBRE O TEMA
+
+A exposição minuciosa dos fatos e dos aspectos jurídicos
+relacionados ao FUNDEINFRA demonstra que essa figura está em absoluto
+descompasso com a Constituição da República. O rol de violações é amplo,
+é vastíssimo.
+
+Pág. 58 de 65
+
+[[pagina 59 | nativo]]
+
+Os argumentos aqui trazidos são autônomos e todos eles
+suficientes para se levar ao pronunciamento de inconstitucionalidade do
+fundo. Para tanto, basta uma de duas abordagens: (i) ou bem se
+reconhece, conforme pormenorizadamente demonstrado, que a
+facultatividade do FUNDEINFRA é uma falácia, aplicando-se as já
+sedimentadas regras constitucionais de competência e limitação ao poder
+de tributar; (ii) ou, mesmo que se entenda pela alegada facultatividade (o
+que não corresponde à realidade, pelos motivos expostos), declara-se a
+inconstitucionalidade por violação das regras de controle da
+Administração Pública e do orçamento.
+
+Qualquer saída que se distinga dessas alternativas implicará
+na manutenção desse mecanismo paralelo de arrecadação, em franca
+afronta à Carta Constitucional. O FUNDEINFRA nada mais é do que um
+desdobramento do preocupante alastramento dos “fundos do agro” e por
+isso mesmo deve ser barrado.
+
+Alguns dos argumentos aqui trazidos foram objeto de ADI’s
+prévias, uma proposta pela CNI (ADI 7.363) e outra pela APROSOJA (ADI
+7.366), ambas distribuídas ao Ministro Dias Toffoli. Sua Excelência,
+inclusive, proferiu substanciosa decisão na ADI 7.363, com o intuito de
+sustar, em parte, os efeitos das leis impugnadas. Entende o autor que,
+através desta medida judicial, tem a contribuir de forma significativa com
+a demonstração cabal das inconstitucionalidades denunciadas, inclusive
+sob a perspectiva das regras orçamentárias e financeiras e sob o prisma
+de atividades econômicas não afeitas ao campo (e.g. mineração).
+
+Desse modo, o autor espera ver reconhecida a
+inconstitucionalidade dos seguintes dispositivos:
+
+(i) em relação à Lei nº 21.670, de 06 de dezembro de 2022:
+art. 5º, I, e parágrafo único;
+
+(ii) quanto à Lei nº 21.671, de 06 de dezembro de 2022: o art.
+1º, na sua integralidade, naquilo que inseriu o art. 38-A e alterou o art.
+
+Pág. 59 de 65
+
+[[pagina 60 | nativo]]
+
+50 do Código Tributário do Estado de Goiás; o art. 2º, em parte,
+especificamente no que diz respeito à alteração promovida no art. 2º, § 1º,
+II, e § 1º-A, da Lei nº 13.194/97; e o art. 3º, na sua integralidade, quanto
+à modificação promovida no art. 2º, § 5º, da Lei nº 13.453/99;
+
+(iii) e, por arrastamento, no que toca o Decreto nº 10.187,
+de 30 de dezembro de 2022: art. 1º, na sua integralidade, envolvendo a
+inserção do art. 79-A ao Regulamento do Código Tributário do Estado de
+Goiás (Decreto nº 4.852/97); art. 2º, na sua integralidade, quanto às
+modificações promovidas nos arts. 2º, § 1º-C, I, II e III, e §§ 1º-D a 1º-F;
+3º, parágrafo único; 14, § 3º, I e II, e §§ 4º a 6º; e 16, V, “c”, todos do Anexo
+VIII do Regulamento do Código Tributário do Estado de Goiás (Decreto nº
+4.852/97); art. 3º, na sua integralidade, com relação às alterações
+promovidas no art. 6º, LXXVIII, “e” e “f”, e CXVI, “c” e “d”, do Anexo IX do
+Regulamento do Código Tributário do Estado de Goiás (Decreto nº
+4.852/97); art. 4º, na sua integralidade, envolvendo a modificação
+realizada no art. 74, § 3º, do Anexo XII do Regulamento do Código
+Tributário do Estado de Goiás (Decreto nº 4.852/97); art. 5º, ao incluir o
+Anexo XVI ao Regulamento do Código Tributário do Estado de Goiás
+(Decreto nº 4.852/97); e art. 6º.
+
+XI. OS FUNDAMENTOS PARA CONCESSÃO DE LIMINAR COM O
+OBJETIVO DE SUSPENDER OS EFEITOS DOS ATOS NORMATIVOS
+IMPUGNADOS
+
+Percorrido todo esse trajeto, parece claro que o caso está a
+reclamar a concessão de medida liminar, com o intuito de suspender os
+efeitos dos atos normativos impugnados.
+
+O Código de Processo Civil prevê no art. 300 a possibilidade de
+concessão de tutela de urgência, a qual será concedida “quando houver
+elementos que evidenciem a probabilidade do direito e o perigo de dano ou
+o risco ao resultado útil do processo”.
+
+Pág. 60 de 65
+
+[[pagina 61 | nativo]]
+
+É exatamente a hipótese. A probabilidade do direito invocado
+foi demonstrada, articuladamente, em cada um dos itens e subitens desta
+peça, todos evidenciando que o programa normativo impugnado apresenta
+sérios e diversos vícios de inconstitucionalidade.
+
+Já o perigo de dano ou o risco ao resultado útil do processo
+decorrem da posição assumida pelo Estado, que previu o “FUNDEINFRA”
+até 31 de dezembro de 2026, além de os contribuintes daquele Estado
+estarem sujeitos à obrigatoriedade de recolhimento a esse fundo, o qual é
+totalmente dissociado da ordem constitucional em vigor.
+
+Os artigos 10 a 12 da Lei Federal nº 9.868/99 igualmente
+contêm prescrições no mesmo sentido, assegurando à parte a prerrogativa
+de postular medida cautelar em ação direta, quando estiverem presentes
+os requisitos de relevância e urgência reclamados nas medidas cautelares
+em geral, inclusive com a possibilidade de abreviação do rito para
+julgamento diretamente do mérito da ação, em face da relevância da
+matéria e de seu especial significado para a ordem social e a segurança
+jurídica, como se dá na espécie.
+
+Por essa razão, a concessão de medida liminar que suspenda a
+eficácia dos dispositivos impugnados enquanto estiver a presente ação
+pendente de julgamento de mérito é medida que se impõe.
+
+P E D I D O
+
+Diante do exposto, requer:
+
+a) o recebimento e regular processamento desta ação
+direta de inconstitucionalidade, de tal modo a que este c. Supremo
+Tribunal Federal conceda a medida liminar postulada a título de tutela
+de urgência, com o objetivo de suspender a cobrança do FUNDEINFRA,
+envolvendo especificamente os seguintes dispositivos:
+
+(i) em relação à Lei nº 21.670, de 06 de dezembro de
+
+Pág. 61 de 65
+
+[[pagina 62 | nativo]]
+
+2022: art. 5º, I, e parágrafo único;
+
+(ii) quanto à Lei nº 21.671, de 06 de dezembro de 2022:
+o art. 1º, na sua integralidade, naquilo que inseriu o art. 38-A e alterou o
+art. 50 do Código Tributário do Estado de Goiás; o art. 2º, em parte,
+especificamente no que diz respeito à alteração promovida no art. 2º, § 1º,
+II, e § 1º-A, da Lei nº 13.194/97; e o art. 3º, na sua integralidade, quanto
+à modificação promovida no art. 2º, § 5º, da Lei nº 13.453/99;
+
+(iii) e, por arrastamento, no que toca o Decreto nº
+10.187, de 30 de dezembro de 2022: art. 1º, na sua integralidade,
+envolvendo a inserção do art. 79-A ao Regulamento do Código Tributário
+do Estado de Goiás (Decreto nº 4.852/97); art. 2º, na sua integralidade,
+quanto às modificações promovidas nos arts. 2º, § 1º-C, I, II e III, e §§ 1º-
+D a 1º-F; 3º, parágrafo único; 14, § 3º, I e II, e §§ 4º a 6º; e 16, V, “c”, todos
+do Anexo VIII do Regulamento do Código Tributário do Estado de Goiás
+(Decreto nº 4.852/97); art. 3º, na sua integralidade, com relação às
+alterações promovidas no art. 6º, LXXVIII, “e” e “f”, e CXVI, “c” e “d”, do
+Anexo IX do Regulamento do Código Tributário do Estado de Goiás
+(Decreto nº 4.852/97); art. 4º, na sua integralidade, envolvendo a
+modificação realizada no art. 74, § 3º, do Anexo XII do Regulamento do
+Código Tributário do Estado de Goiás (Decreto nº 4.852/97); art. 5º, ao
+incluir o Anexo XVI ao Regulamento do Código Tributário do Estado de
+Goiás (Decreto nº 4.852/97); e art. 6º.
+
+b) em consequência, requer o afastamento momentâneo
+dessas regras, de modo a que os contribuintes goianos não sejam
+compelidos a recolher valores a esse “fundo” como condição para o gozo
+de isenções, de substituição tributária, de diferimento e de imunidades
+tributárias de ICMS asseguradas pela legislação local e nacional para as
+operações internas, para a realização de transações interestaduais e para
+as exportações de produtos rurais e de minérios;
+
+c) após, requer a oitiva da Assembleia Legislativa do
+Estado de Goiás, na pessoa do seu Exm.º Sr. Presidente, e do Exm.º Sr.
+Governador de Estado de Goiás;
+
+Pág. 62 de 65
+
+[[pagina 63 | nativo]]
+
+d) na sequência, requer sejam colhidos os pareceres do
+Exm.º Sr. Advogado-Geral da União e do Exm.º Sr. Procurador-Geral da
+República;
+
+e) por fim, requer a confirmação da medida liminar e o
+julgamento de integral procedência do pedido, com o intuito de se
+pronunciar a inconstitucionalidade dos dispositivos indicados na
+alínea “a” do pedido, de tal modo a se invalidar a cobrança da
+contribuição ao “FUNDEINFRA – Fundo Estadual de Infraestrutura”,
+instituído por aquele Estado;
+
+f) como desdobramento do julgamento de procedência,
+requer o afastamento em definitivo dessas regras, de modo a que os
+contribuintes goianos não sejam compelidos a recolher valores a esse
+“fundo” como condição para o gozo de isenções, de substituição tributária,
+de diferimento e de imunidades tributárias de ICMS asseguradas pela
+legislação local e nacional para as operações internas, transações
+interestaduais e para as exportações de produtos rurais e de minérios.
+
+O autor junta neste ato todos os documentos exigidos na
+legislação, bem como aqueles necessários à adequada compreensão da
+causa, inclusive cópia atual dos atos normativos impugnados, na forma
+exigida pelo art. 3º, parágrafo único, da Lei Federal nº 9.868/99.
+
+Dá-se à causa, apenas para fins fiscais em razão da
+incomensurabilidade do direito em discussão, o valor de R$ 10.000,00 (dez
+mil reais).
+
+Por fim, requer-se a anotação do nome dos subscritores
+desta, para que todas as intimações sejam realizadas em nome de
+LEONARDO FURTADO LOUBET (OAB/MS 9.444), MANUEL EDUARDO
+C. M. BORGES (OAB/SP 280.216), MARCELO GUARITÁ BORGES
+BENTO (OAB/SP 207.199), PEDRO GUILHERME GONÇALVES DE
+SOUZA (OAB/SP 246.785), RODOLFO GIL MOURA REBOUÇAS (OAB/DF
+31.994) e ANA CAROLINA SPONZA BRAGA (OAB/RJ 158.492), sob pena
+
+Pág. 63 de 65
+
+[[pagina 64 | nativo]]
+
+de nulidade.
+Termos em que, pede deferimento.
+Brasília, 18 de abril de 2023.
+
+Leonardo Furtado Loubet Marcelo Guaritá Borges Bento
+OAB/MS 9.444 OAB/SP 207.199
+
+Pedro Guilherme G. de Souza Manuel Eduardo C. M. Borges
+OAB/SP 246.785 OAB/SP 280.216
+
+Rodolfo Gil Moura Rebouças Ana Carolina Sponza Braga
+OAB/DF 31.994 OAB/RJ 158.492
+
+Paulo Vitor Marques
+OAB/GO 36.603
+
+RELAÇÃO DE DOCUMENTOS
+
+I. Procuração
+
+II. Estatuto do autor
+
+III. Ata de eleição da Diretoria
+
+IV. Cópia integral consolidada do texto em vigor da Lei
+Estadual nº 21.670 do Estado de Goiás, de 06 de dezembro
+de 2022
+
+V. Cópia integral consolidada do texto em vigor da Lei
+Estadual nº 21.671 do Estado de Goiás, de 06 de dezembro
+
+Pág. 64 de 65
+
+[[pagina 65 | nativo]]
+
+de 2022
+
+VI. Cópia integral consolidada do texto em vigor do Decreto
+Estadual nº 10.187 do Estado de Goiás, de 30 de dezembro
+de 2022
+
+Pág. 65 de 65

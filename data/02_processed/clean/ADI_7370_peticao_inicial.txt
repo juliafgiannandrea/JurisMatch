@@ -1,0 +1,1723 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO
+BRASIL – CFOAB, serviço público dotado de personalidade jurídica própria e forma
+federativa, regulamentado pela Lei nº 8.906/94, com endereço eletrônico: pc@oab.org.br e
+com sede em Brasília/DF, no SAUS, Qd. 05, Lote 01, Bloco M, inscrito no CNPJ sob nº
+33.205.451/0001-14, por seu Presidente e pelos/as advogados/as que a esta subscrevem (doc.
+anexo), vem, à presença de Vossa Excelência, com fulcro nos arts. 102, I, a, e 103, VII, da
+Constituição, no art. 54, XIV, da Lei nº 8.906/94 e no art. 2º, VII, da Lei nº 9.868/99, propor
+
+AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE
+COM PEDIDO DE MEDIDA CAUTELAR
+
+tendo por objeto os arts. 5º e 9º da Lei nº 9.964/00, que instituiu o Programa de Recuperação
+Fiscal – “REFIS I”, o que o faz pelos seguintes fundamentos, pelas razões que passa a expor.
+
+I –
+
+[[pagina 2 | nativo]]
+ESCLARECIMENTO – peticionamento repetido
+
+De início, requer que seja desconsiderado o protocolo petição 97750 / 2021
+realizado dia 07/10 às 12:15 via Central de Autenticação/STF por tratar-se de petição idêntica,
+contendo o mesmo conteúdo da ora apresentada, em virtude da existência de erro material na
+representação processual da parte no primeiro protocolo.
+
+I - OS DISPOSITIVOS LEGAIS CUJA CONSTITUCIONALIDADE SE QUER VER
+DECLARADA:
+
+Como se sabe, em outubro de 1999, foi editada a Medida Provisória nº
+1.923/99, instituindo o Programa de Recuperação Fiscal – “REFIS I”, com o especial
+desiderato de restaurar a capacidade operacional das empresas que, em um momento de crise,
+encontravam-se sufocadas pelo passivo tributário acumulado e incapazes de gerar novos
+empregos (crise da moratória Russa de 1998, no final do Governo FHC).
+
+É de se recordar que tais empresas já estavam enfraquecidas diante de uma
+década extremamente intensa e hostil vivenciada pela sociedade brasileira, com um histórico
+de hiperinflação, planos econômicos de estabilização desastrosos (Plano Collor), acordos
+incessantes com o FMI (Dívida Externa), taxas de juros astronômicas em vigor durante anos e
+anos, o que sem dúvida potencializou eventuais créditos fazendários de forma
+desproporcional aos indicadores da economia real e produtiva, além de outras crises
+internacionais (que não simplesmente a da Rússia), como México e Tigres Asiáticos.
+
+Assim, após diversas reedições, em 13/03/00, foi publicada a Medida
+Provisória nº 2.004-6, convertida na Lei nº 9.964/00, publicada em 11 de abril de 2000.
+
+Corroborando o cenário desolador para as empresas e que culminou com a
+edição do REFIS I, destaca-se registro realizado pelo Deputado Gerário Silva na discussão do
+projeto de conversão em Lei da Medida Provisória nº 2.004-6/2000, em que o expôs que “as
+empresas hoje marginalizadas no mercado, por estarem inscritas no Cadin ou por não terem
+acesso às certidões negativas, tanto da Receita Federal como da Dívida Ativa da União, e ao
+CND da Previdência Social, estão nessa situação porque não tem acesso às licitações
+públicas e ao crédito, automaticamente não tem a condição necessária para fazer a sua
+expansão e gerar empregos”, assim, “tão importante quanto arrecadação, (...), também é que
+essas empresas voltem a operar na normalidade, voltem a gerar empregos” (doc. anexo).
+
+De igual modo, o Deputado Ricardo Noronha, em sua exposição, foi preciso ao
+ressaltar o impacto da inflação e da crise econômica na Taxa SELIC nos anos que
+antecederam ao REFIS, no que destacou que “... uma das causas desse endividamento foi a
+taxa de juros SELIC, incidente sobre os tributos e contribuições em atraso ou sobre
+parcelamento de débitos anteriores. Em 1998, por exemplo, a média das taxas SELIC
+anualizadas foi de 29,X% a.a., tendo chegado a até 41,6% a.a. no mês de outubro de 1998 ...”
+
+[[pagina 3 | nativo]]
+Dessa forma, a Lei nº 9.964/00, conforme disposto em seu art. 1º, possibilitou a
+“regularização de créditos da União, decorrentes de débitos de pessoas jurídicas, relativos a
+tributos e contribuições, administrados pela Secretaria da Receita Federal e pelo Instituto
+Nacional do Seguro Social – INSS, com vencimento até 29 de fevereiro de 2000, constituídos
+ou não, inscritos ou não em dívida ativa, ajuizados ou a ajuizar, com exigibilidade suspensa
+ou não, inclusive os decorrentes de falta de recolhimento de valores retidos”.
+
+Para tanto, conforme disposto no §4º do art. 2º, foi possibilitado o pagamento
+via parcelamento, sem número de parcelas previamente definidas, em que os pagamentos
+mensais e sucessivos, vencíveis no último dia útil de cada mês, teriam o seu valor
+determinado em função de percentual da receita bruta do mês imediatamente anterior.
+Confira-se:
+
+“Art. 2o O ingresso no Refis dar-se-á por opção da pessoa jurídica, que fará jus a
+regime especial de consolidação e parcelamento dos débitos fiscais a que se refere o
+art. 1o.
+§ 4o O débito consolidado na forma deste artigo:
+
+I - independentemente da data de formalização da opção, sujeitar-se-á, a partir de 1o de
+março de 2000, a juros correspondentes à variação mensal da Taxa de Juros de Longo
+Prazo - TJLP, vedada a imposição de qualquer outro acréscimo; (Redação dada pela
+Lei nº 10.189, de 2001)
+
+II – será pago em parcelas mensais e sucessivas, vencíveis no último dia útil de cada
+mês, sendo o valor de cada parcela determinado em função de percentual da receita
+bruta do mês imediatamente anterior, apurada na forma do art. 31 e parágrafo único da
+Lei no 8.981, de 20 de janeiro de 1995, não inferior a:
+
+a) 0,3% (três décimos por cento), no caso de pessoa jurídica optante pelo Sistema
+Integrado de Pagamento de Impostos e Contribuições das Microempresas e Empresas
+de Pequeno Porte – Simples e de entidade imune ou isenta por finalidade ou objeto;
+
+b) 0,6% (seis décimos por cento), no caso de pessoa jurídica submetida ao regime de
+tributação com base no lucro presumido;
+
+c) 1,2% (um inteiro e dois décimos por cento), no caso de pessoa jurídica submetida
+ao regime de tributação com base no lucro real, relativamente às receitas decorrentes
+das atividades comerciais, industriais, médico-hospitalares, de transporte, de ensino e
+de construção civil;
+
+d) 1,5% (um inteiro e cinco décimos por cento), nos demais casos.”
+
+
+[[pagina 4 | nativo]]
+A lei, em seu art. 5º, ocupou-se em definir as hipóteses de exclusão dos
+contribuintes do parcelamento, mediante ato do Comitê Gestor. Veja-se, a título ilustrativo, o
+referido dispositivo legal:
+
+“Art. 5o A pessoa jurídica optante pelo Refis será dele excluída nas seguintes
+hipóteses, mediante ato do Comitê Gestor:
+
+I – inobservância de qualquer das exigências estabelecidas nos incisos I a V
+do caput do art. 3o;
+
+II – inadimplência, por três meses consecutivos ou seis meses alternados, o que
+primeiro ocorrer, relativamente a qualquer dos tributos e das contribuições abrangidos
+pelo Refis, inclusive os com vencimento após 29 de fevereiro de 2000;
+
+III – constatação, caracterizada por lançamento de ofício, de débito correspondente a
+tributo ou contribuição abrangidos pelo Refis e não incluídos na confissão a que se
+refere o inciso I do caput do art. 3o, salvo se integralmente pago no prazo de trinta
+dias, contado da ciência do lançamento ou da decisão definitiva na esfera
+administrativa ou judicial;
+
+IV – compensação ou utilização indevida de créditos, prejuízo fiscal ou base de
+cálculo negativa referidos nos §§ 7o e 8o do art. 2o;
+
+V – decretação de falência, extinção, pela liquidação, ou cisão da pessoa jurídica;
+
+VI – concessão de medida cautelar fiscal, nos termos da Lei no 8.397, de 6 de janeiro
+de 1992;
+
+VII – prática de qualquer procedimento tendente a subtrair receita da optante,
+mediante simulação de ato;
+
+VIII – declaração de inaptidão da inscrição no Cadastro Nacional da Pessoa Jurídica,
+nos termos dos arts. 80 e 81 da Lei no 9.430, de 1996;
+
+IX – decisão definitiva, na esfera judicial, total ou parcialmente desfavorável à pessoa
+jurídica, relativa ao débito referido no § 6o do art. 2o e não incluído no Refis, salvo se
+integralmente pago no prazo de trinta dias, contado da ciência da referida decisão;
+
+X – arbitramento do lucro da pessoa jurídica, nos casos de determinação da base de
+cálculo do imposto de renda por critério diferente do da receita bruta;
+
+XI – suspensão de suas atividades relativas a seu objeto social ou não auferimento de
+receita bruta por nove meses consecutivos.
+
+§ 1o A exclusão da pessoa jurídica do Refis implicará exigibilidade imediata da
+totalidade do crédito confessado e ainda não pago e automática execução da garantia
+
+
+[[pagina 5 | nativo]]
+prestada, restabelecendo-se, em relação ao montante não pago, os acréscimos legais na
+forma da legislação aplicável à época da ocorrência dos respectivos fatos geradores.
+
+§ 2o A exclusão, nas hipóteses dos incisos I, II e III deste artigo, produzirá efeitos a
+partir do mês subseqüente àquele em que for cientificado o contribuinte.
+
+§ 3o Na hipótese do inciso III, e observado o disposto no § 2o, a exclusão dar-se-á, na
+data da decisão definitiva, na esfera administrativa ou judicial, quando houver sido
+contestado o lançamento.”
+
+Importa ainda destacar que, em seu art. 9º, a Lei nº 9.964/00, estabeleceu a
+possibilidade de o Poder Executivo editar normas regulamentares necessárias à execução do
+REFIS, dentre elas as relacionadas “às formas de homologação da opção e de exclusão da
+pessoa jurídica do Refis, bem assim às suas consequências”.
+
+Apesar da clareza do texto da Lei nº 9.964/00 e após decorridos treze anos da
+sua edição, foi lavrado o Parecer PGFN/CDA nº 1.206/2013 (doc. anexo), pela Fazenda
+Nacional, por meio do qual restou firmado o entendimento de que, se os valores recolhidos
+pelos contribuintes de acordo com o critério legal (porcentagem da receita bruta) forem
+insuficientes para amortizar a dívida, estes pagamentos não podem ser considerados válidos,
+configurando-se a inadimplência da empresa prevista como causa de exclusão do
+parcelamento no art. 5º, II, da Lei nº 9.964.
+
+Com base na aludida orientação, diversos contribuintes foram excluídos do
+REFIS I e tiveram seus débitos restabelecidos em patamares exorbitantes (face aos juros e
+correção monetária incidentes sobre o original), o que ocasionou a instauração de
+controvérsias judiciais que culminaram na atual jurisprudência do Superior Tribunal de
+Justiça (sob a ótica exclusivamente infraconstitucional) no sentido de ser possível a exclusão
+de contribuinte do Programa de Recuperação Fiscal - REFIS, com fulcro no art. 5º, II da Lei
+nº 9.964/2000 (inadimplência), se restar demonstrada a ineficácia do parcelamento como
+forma de quitação do débito, considerando-se o valor do débito e o valor das prestações
+efetivamente pagas (parcelas ínfimas).
+
+Com o fim de exemplificar o posicionamento do Superior Tribunal de Justiça
+acerca da matéria, destaca-se, a Ementa formada no Recurso Especial nº 1.447.131/RS:
+
+“PROCESSUAL CIVIL. TRIBUTÁRIO. REFIS. PARCELAMENTO. PESSOA
+JURÍDICA OPTANTE PELO SIMPLES. RECOLHIMENTO COM BASE EM 0,3%
+DA RECEITA BRUTA. POSSIBILIDADE DE EXCLUSÃO DO PROGRAMA
+DE PARCELAMENTO SE RESTAR DEMONSTRADA A SUA INEFICÁCIA
+COMO FORMA DE QUITAÇÃO DO DÉBITO. ART. 2º, §4º, II E ART. 5º, II,
+DA LEI N. 9.964/2000.
+
+
+[[pagina 6 | nativo]]
+1. É possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no
+art. 5º, II da Lei n. 9.964/2000 (inadimplência), se restar demonstrada a ineficácia do
+parcelamento como forma de quitação do débito, considerando-se o valor do débito e
+o valor das prestações efetivamente pagas. Situação em que a impossibilidade de
+adimplência há que ser equiparada à inadimplência para efeitos de exclusão do dito
+programa de parcelamento. Precedente específico para o REFIS: REsp 1.238.519/PR,
+Segunda Turma, Rel. Min. Eliana Calmon, julgado em 20.08.2013. Precedentes em
+casos análogos firmados no âmbito do Programa de Parcelamento Especial - PAES:
+REsp 1.187.845/ES, Segunda Turma, Rel. Min. Mauro Campbell, DJe 28.10.10; EDcl
+no AREsp 277.519/DF, Primeira Turma, Rel. Min. Arnaldo Esteves Lima, julgado em
+21/03/2013; REsp 1.321.865/PE, Segunda Turma, Rel. Min. Humberto Martins,
+julgado em 26/06/2012; REsp 1.237.666/PR, Segunda Turma, Rel. Min. Mauro
+Campbell Marques, julgado em 22/03/2011; REsp. nº 1.307.628/GO, Segunda Turma,
+Rel. Min. Mauro Campbell Marques, julgado em 18.09.2012.
+2. A tese da possibilidade de exclusão por parcela irrisória firmada nos precedentes
+relativos ao Programa de Parcelamento Especial - PAES, instituído pela Lei n.
+10.684/2003,"tese da parcela ínfima", é perfeitamente aplicável ao Programa de
+Recuperação Fiscal - REFIS, posto que compatíveis os fundamentos decisórios.
+3. Caso em que o valor do débito originalmente parcelado era de aproximadamente R$
+200.000,00 (duzentos mil reais) e após dez anos de parcelamento aumentou para valor
+superior a R$ 390.000,00 (trezentos e noventa mil reais), já que o valor irrisório da
+parcela, que variava entre R$ 30,00 (trinta e cinco reais) e R$ 57, 00 (cinquenta e sete
+reais), sequer era suficiente para quitar os encargos mensais do débito (TJLP) que
+chegavam a aproximadamente R$ 1.000,00 (mil reais), de modo que o valor devido,
+acaso seja mantido o parcelamento, tenderá a aumentar com o tempo, não havendo
+previsão para a sua quitação, contrariando a teleologia dos programas de
+parcelamento.
+4. Recurso especial não provido.”1
+
+A controvérsia que se espera ver sanada por esta Corte Constitucional reside,
+portanto, em aferir e declarar a constitucionalidade, por interpretação conforme, do art. 5º da
+Lei nº 9.964/00 c/c o art. 9º da mesma norma, para a exclusão de contribuinte do REFIS I,
+uma vez que, diferentemente da interpretação dada pela Fazenda Nacional e pelo Superior
+Tribunal de Justiça, inexiste margem constitucional para que, em exercício de hermenêutica, o
+Poder Judiciário venha a criar hipótese de exclusão não prevista no texto legal.
+
+Fica evidente, portanto, que a negativa ou a limitação da incidência de uma
+norma se equipara a uma declaração – integral ou parcial – de inconstitucionalidade, na
+medida em que igualmente caracteriza um desacordo entre a posição judicial e a deliberação
+do Poder Legislativo que aprovou a norma. Não por outro motivo a Súmula Vinculante 10
+estende a cláusula de reserva de plenário para as situações em que o ato normativo não é
+declarado inconstitucional pelo órgão fracionário, mas tem sua incidência afastada:
+
+1 Superior Tribunal de Justiça. Segunda Turma. Recurso Especial nº 1.447.131/RS. Relator Ministro Mauro
+Campbell Marques. Julgado em 20/05/2014. DJe 26/05/2014.
+
+[[pagina 7 | nativo]]
+“Súmula Vinculante 10: Viola a cláusula de reserva de plenário (CF, artigo 97) a
+decisão de órgão fracionário de tribunal que, embora não declare expressamente a
+inconstitucionalidade de lei ou ato normativo do Poder Público, afasta sua incidência,
+no todo ou em parte.”
+
+A existência de atos judiciais que afastam a aplicação ou restringem a eficácia
+de um comando legal é suficiente para criar um estado de incerteza quanto à validade da
+norma. Foi nesse sentido, aliás, o julgamento da ADC 57, de relatoria do Excelentíssimo
+Senhor Ministro Edson Fachin, que declarou constitucional a norma do art. 25, § 1º, da Lei nº
+8.987/1995, relativa à terceirização em empresas concessionárias de serviço público. A
+controvérsia judicial dizia respeito à aplicação da Súmula 331 do TST que, ao proibir a
+terceirização, negava eficácia ao dispositivo legal objeto da ação, conforme se extrai da
+ementa transcrita a seguir:
+
+“AÇÃO DECLARATÓRIA DE CONSTITUCIONALIDADE. CNI.
+LEGITIMIDADE DA AUTORA. ART. 25, § 1º, DA LEI 8.987/1995.
+CONCESSIONÁRIAS DE SERVIÇO PÚBLICO. TERCEIRIZAÇÃO. SÚMULA
+331 DO TST. ORIENTAÇÃO JURISPRUDENCIAL FIRMADA NO
+JULGAMENTO DA ADPF 324 E DO RE 958.252 – TEMA 725 DA
+REPERCUSSÃO GERAL. PRINCÍPIO DA COLEGIALIDADE. PROCEDÊNCIA
+DA AÇÃO.
+(...) 2. Declaração de constitucionalidade do art. 25, § 1º, da Lei nº 8.987/1995 quanto
+à terceirização de atividades por empresas concessionárias de serviço público. 3.
+Jurisprudência do STF consolidada, durante os julgamentos da ADPF 324, Rel.
+Ministro Roberto Barroso e, sob a sistemática da repercussão geral, do RE 958.252,
+Rel. Ministro Luiz Fux, no sentido de reconhecer a constitucionalidade do instituto da
+terceirização em qualquer área da atividade econômica, afastando a incidência do
+enunciado sumular trabalhista. 4. Controvérsia acerca da aplicação da Súmula 331 do
+TST frente ao princípio da legalidade, visto que aquela retira eficácia do dispositivo
+questionado ao proibir a terceirização por parte de empresas privadas e da
+Administração Pública Direta e Indireta, incluídas aí as concessionárias de serviços
+públicos. 5. Pedido julgado integralmente procedente para declarar a
+constitucionalidade do art. 25, § 1º, da Lei nº 8.987/1995. (ADC 57, Relator(a): Min.
+EDSON FACHIN, Tribunal Pleno, julgado em 03/10/2019, DJe-265 DIVULG 04-12-
+2019 PUBLIC 05-12-2019)
+
+Dessa forma, a equivocada interpretação promovida pela Fazenda Nacional e
+pela jurisprudência do Superior Tribunal de Justiça, por violar abertamente “a Constituição, a
+ordem jurídica do Estado democrático de direito, (...) a justiça social”, cuja defesa incumbe à
+Ordem dos Advogados do Brasil (Lei nº 8.906/94, art. 44, I), suscita a iniciativa do Conselho
+Federal da entidade, legitimado universal à propositura da presente Ação Declaratória de
+Constitucionalidade, com o fim de assegurar a “boa aplicação das leis, pela rápida
+administração da justiça e pelo aperfeiçoamento (...) das instituições jurídicas”.
+
+
+[[pagina 8 | nativo]]
+Com efeito, pela sua própria estrutura normativa, as regras são aplicadas pela
+lógica da subsunção e não se sujeitam a juízos de ponderação ou de otimização. Trata-se de
+garantia de segurança jurídica e de estabilidade do sistema normativo. Desse modo, a
+invocação de princípios ou meios enviesados de interpretação para afastar a aplicação de
+regras gera uma indesejável e absolutamente censurável instabilidade constitucional, além de
+abrir margem para arbitrariedades e voluntarismos judiciais. Nesses termos, configura-se,
+igualmente, ofensa à segurança jurídica protegida pelo art. 5º, caput e XXXVI, da CF/1988.
+
+II - DELIMITAÇÃO DO OBJETO E CABIMENTO DA AÇÃO DECLARATÓRIA:
+
+Volta-se a presente Ação Declaratória de Constitucionalidade ao
+reconhecimento da constitucionalidade e declaração da forma de interpretação da Lei nº
+9.964/00, especialmente quanto aos seus arts. 5º e 9º, que, ao fixar o rol das hipóteses de
+exclusão de contribuinte do REFIS, não estabeleceu a possibilidade de que as pessoas
+jurídicas optantes, adimplentes e de boa-fé sejam excluídas do parcelamento em razão de
+parcelas mensais de pagamento em valores considerados, na ótica da Receita Federal,
+insuficientes para a quitação da dívida em um prazo razoável.
+
+A declaração da constitucionalidade acima delimitada assentará a prevalência
+das hipóteses expressamente dispostas no texto legal sobre a interpretação dada pelo Parecer
+PGFN/CDA nº 1.206/2013 e pelo Superior Tribunal de Justiça ao estender o conceito de
+inadimplência contido no art. 5º, II da Lei nº 9.964/2000 às denominadas “parcelas ínfimas”
+(ineficácia do parcelamento como forma de quitação do débito, considerando-se o valor do
+débito e o valor das prestações efetivamente pagas).
+
+Dessa forma, por meio da propositura da presente ação, pugna-se para que não
+haja distinção interpretativa que extrapole o texto legal ou afaste reiteradamente a aplicação
+da norma, à revelia da vontade do legislador. Noutras palavras, que não se tolere hipóteses de
+exclusão não previstas na lei – e que, portanto, não eram do conhecimento do contribuinte no
+momento da adesão (e que, se fossem, poderiam ter influído decisivamente na decisão de
+adesão, uma vez que ela pressupunha uma série de obrigações por parte dos contribuintes,
+como por exemplo, a desistência de todas as discussões judiciais a respeito dos tributos
+parcelados).
+
+Importante ressaltar que se considera aqui a situação em que o
+contribuinte, desde a adesão ao Refis até sua exclusão, efetuou, de boa-fé, o pagamento
+regular das prestações nos exatos termos estipulados pela Lei nº 9.964/00.
+
+De acordo com a Lei nº 9.868/99, a admissibilidade para a ação declaratória de
+constitucionalidade (ADC) pressupõe existência de controvérsia judicial relevante sobre a
+
+
+[[pagina 9 | nativo]]
+aplicação da disposição objeto do pedido2. Acerca da exigência legal, o decano Gilmar
+Ferreira Mendes observa que:
+
+“Embora o texto constitucional não tenha contemplado expressamente esse
+pressuposto, é certo que ele é inerente às ações declaratórias, mormente às ações
+declaratórias de conteúdo positivo. Assim, não se afigura admissível a propositura de
+ação declaratória de constitucionalidade se não houver controvérsia ou dúvida
+relevante quanto à legitimidade da norma. Evidentemente, são múltiplas as formas de
+manifestação desse estado de incerteza quanto à legitimidade da norma. A insegurança
+poderá resultar de pronunciamentos contraditórios da jurisdição ordinária sobre a
+constitucionalidade de determinada disposição.”
+
+Adotando-se tal posicionamento, observa-se o preenchimento do quesito da
+controvérsia jurídica relevante, especialmente diante do potencial multiplicador da discussão
+decorrente do atual entendimento emanado Superior Tribunal de Justiça que, após anos de
+divergência em seus posicionamentos, acabou por posicionar-se favoravelmente aos
+argumentos sustentados pela Fazenda Nacional. Contudo, não tendo sido editada Súmula ou
+mesmo a fixação de tese por Recurso Repetitivo nos termos do art. 1.036 do CPC, impõe-se a
+manifestação dessa Suprema Corte a fim de afastar a insegurança jurídica em torno da
+matéria.
+
+O tema é extremamente relevante para uma série de contribuintes que, uma vez
+excluídos do REFIS após décadas da adesão, enfrentam execuções fiscais em valores
+extremamente elevados. Muitas dessas empresas não possuem capital suficiente para fazer
+frente a tais débitos e podem até vir a encerrar a sua atividade econômica.
+
+Neste contexto, recorre-se a Ação Declaratória de Constitucionalidade como
+única medida cabível para dirimir as controversas em torno dos dispositivos.
+
+III – A POSSIBILIDADE DE CONHECIMENTO DA PRESENTE AÇÃO
+DECLARATÓRIA DE CONSTITUCIONALIDADE COMO AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE, COM O FIM DE DAR INTERPRETAÇÃO
+CONFORME AOS ARTIGOS DA LEI 9.964/2000
+
+Consoante será mais à frente explicado, na eventualidade de esse Supremo
+Tribunal Federal não considerar atendidos os pressupostos da ação declaratória de
+constitucionalidade, pede o Conselho Federal da Ordem dos Advogados do Brasil – CFOAB
+seja recebida e julgada essa ação como ação direta de inconstitucionalidade, para dar
+interpretação conforme à Constituição aos artigos 5º e 9º da Lei 9.964/2000.
+
+2 “Art. 14. A petição inicial indicará: (...)
+III - a existência de controvérsia judicial relevante sobre a aplicação da disposição objeto da ação declaratória.”
+
+[[pagina 10 | nativo]]
+IV - A CONSTITUCIONALIDADE DOS ARTS. 5º E 9º DA LEI Nº 9.964/2000:
+
+IV.1 – A prevalência da interpretação literal do art. 5º da Lei nº 9.964/2000, face à
+atenção ao disposto no art. 5º, II e art. 37, caput da Constituição Federal
+
+Conforme exposto previamente, a edição do Parecer PGFN/CDA nº
+1.206/2013 pela Fazenda Nacional e o posicionamento adotado atualmente pelo Superior
+Tribunal de Justiça puseram em dúvida a constitucionalidade dos arts. 5º e 9º da Lei nº
+9.964/2000, ao firmar o entendimento no sentido de que, se os valores recolhidos pelos
+contribuintes de acordo com o critério legal (porcentagem da receita bruta) forem
+insuficientes para amortizar a dívida, estes pagamentos não podem ser considerados válidos,
+configurando-se a inadimplência da empresa prevista como causa de exclusão do
+parcelamento.
+
+Miguel Záchia Paludo, em artigo publicado na Revista Direito Tributário Atual
+nº 37, foi preciso ao descrever que o Parecer PGFN/CDA nº 1.206/2013, “advoga a tese de
+que os critérios de pagamento definidos na Lei n. 9.964 e a ausência de um prazo máximo de
+duração do programa de recuperação fiscal não se prestam a autorizar a eternização do
+REFIS, uma vez que a finalidade de todo parcelamento é a quitação da dívida. Dito de outro
+modo, a Fazenda Nacional entende que o art. 2º, § 4º, II, da Lei n. 9.964 não pode permitir o
+pagamento mensal de valor insuficiente para saldar a dívida, sob pena de distorção da
+finalidade do instituto do parcelamento (quitação do débito em tempo razoável), razão pela
+qual a impossibilidade de adimplemento deve ser equiparada à inadimplência para efeitos de
+exclusão do REFIS”3.
+
+O doutrinador, ao aprofundar a análise, reconheceu que o fundamento adotado
+pela Fazenda Nacional “está visivelmente embasada em um argumento teleológico
+(finalístico), uma vez que encontra respaldo na suposta mens legis, que, no caso da Lei n.
+9.964, conforme a Fazenda Nacional, seria obter a satisfação dos tributos em atraso em um
+prazo razoável mediante a amortização da dívida com o pagamento de cada parcela
+mensal”4.
+
+3 PALUDO, Miguel Záchia. O REFIS (lei n. 9.964) e os casos de “valor irrisório da parcela”: crítica à
+jurisprudência do Superior Tribunal de Justiça. Revista Direito Tributário Atual nº. 37/2017. IBDT - Instituto
+Brasileiro de Direito Tributário.
+https://ibdt.org.br/RDTA/o-refis-lei-n-9-964-e-os-casos-de-valor-irrisorio-da-parcela-critica-a-jurisprudencia-do-
+superior-tribunal-de-justica/#note-436-1
+4 PALUDO, Miguel Záchia. O REFIS (lei n. 9.964) e os casos de “valor irrisório da parcela”: crítica à
+jurisprudência do Superior Tribunal de Justiça. Revista Direito Tributário Atual nº. 37/2017. IBDT - Instituto
+Brasileiro de Direito Tributário.
+https://ibdt.org.br/RDTA/o-refis-lei-n-9-964-e-os-casos-de-valor-irrisorio-da-parcela-critica-a-jurisprudencia-do-
+superior-tribunal-de-justica/#note-436-1
+
+[[pagina 11 | nativo]]
+Corroborando o exposto, é possível constatar que o Superior Tribunal de
+Justiça, no julgamento do Recurso Especial nº 1.447.131/RS, de forma expressa, destacou a
+prevalência da interpretação teleológica para concluir pela possibilidade de exclusão de
+contribuinte do REFIS I por parcela irrisória. Confira-se:
+
+“PROCESSUAL CIVIL. TRIBUTÁRIO. REFIS. PARCELAMENTO. PESSOA
+JURÍDICA OPTANTE PELO SIMPLES. RECOLHIMENTO COM BASE EM 0,3%
+DA RECEITA BRUTA. POSSIBILIDADE DE EXCLUSÃO DO PROGRAMA
+DE PARCELAMENTO SE RESTAR DEMONSTRADA A SUA INEFICÁCIA
+COMO FORMA DE QUITAÇÃO DO DÉBITO. ART. 2º, §4º, II E ART. 5º, II,
+DA LEI N. 9.964/2000.
+3. Caso em que o valor do débito originalmente parcelado era de
+aproximadamente R$ 200.000,00 (duzentos mil reais) e após dez anos de
+parcelamento aumentou para valor superior a R$ 390.000,00 (trezentos e noventa
+mil reais), já que o valor irrisório da parcela, que variava entre R$ 30,00 (trinta e
+cinco reais) e R$ 57, 00 (cinquenta e sete reais), sequer era suficiente para quitar
+os encargos mensais do débito (TJLP) que chegavam a aproximadamente R$
+1.000,00 (mil reais), de modo que o valor devido, acaso seja mantido o
+parcelamento, tenderá a aumentar com o tempo, não havendo previsão para a
+sua quitação, contrariando a teleologia dos programas de parcelamento.
+4. Recurso especial não provido.”5 (grifou-se)
+
+Contudo, a interpretação realizada pela Fazenda Nacional e pelo Superior
+Tribunal de Justiça esbarram no fato de que a hipótese de exclusão do parcelamento com base
+no “pagamento de valor irrisório”, ou seja, de montante insuficiente para amortizar o débito
+em tempo razoável, não encontra previsão legal específica. A aplicação dessa interpretação
+malfere o texto constitucional, não apenas por uma enviesada declaração de
+inconstitucionalidade da norma, mas principalmente por desconsiderar princípios
+constitucionais estruturantes, como segurança jurídica e boa-fé do contribuinte.
+
+Na realidade, a Lei nº 9.964, ao tratar das causas de exclusão de contribuintes
+apresenta, em seu art. 5º, um rol limitado de hipóteses, inexistindo qualquer previsão que
+faça referência ao valor da dívida consolidada no parcelamento, ao valor mínimo da
+parcela e, muito menos, à definição de prazo máximo para a duração do REFIS.
+
+Ao se analisar o disposto no art. 5º, II da Lei nº 9.964/00, é possível constatar
+que a inadimplência referida na norma é aquela decorrente do recolhimento de valor inferior
+ao percentual da receita bruta estabelecido no art. 2º, § 4º, II, da Lei n. 9.964 por três meses
+consecutivos ou seis meses alternados.
+
+5 Superior Tribunal de Justiça. Segunda Turma. Recurso Especial nº 1.447.131/RS. Relator Ministro Mauro
+Campbell Marques. Julgado em 20/05/2014. DJe 26/05/2014.
+
+[[pagina 12 | nativo]]
+Tal reflexão se faz essencial à compreensão da constitucionalidade do art. 5º da
+Lei nº 9.964/00, especialmente porque o art. 5º, II da Constituição Federal estabelece como
+cláusula pétrea, a máxima de que “ninguém será obrigado a fazer ou deixar de fazer alguma
+coisa senão em virtude de lei”.
+
+Como bem ressaltado pelo Exmo. Ministro Alexandre de Moraes, em sua obra
+Direito Constitucional, “o art. 5º, II, da Constituição Federal, preceitua que ninguém será
+obrigado a fazer ou a deixar de fazer alguma coisa senão em virtude de lei. Tal princípio visa
+combater o poder arbitrário do Estado. Só por meio das espécies normativas devidamente
+elaboradas conforme as regras do processo legislativo constitucional podem-se criar
+obrigações para o indivíduo, pois são expressão da vontade geral. Com o primado soberano
+da lei, cessa o privilégio da vontade caprichosa do detentor do poder em benefício da lei”6.
+
+Para a perfeita compreensão da matéria, há de se destacar que o parcelamento
+instituído pela Lei n.º 9.964/00 não possui qualquer previsão acerca da prestação mínima a ser
+adimplida, tampouco de prazo para quitação. A norma dispõe apenas que será realizado o
+pagamento de uma parcela mensal a ser calculada tendo por base percentual da receita bruta
+obtida pelo contribuinte no mês anterior, conforme previsão contida no art. 2º, §4º da Lei n.º
+9.964/00.
+
+O REFIS I foi um parcelamento especial, diferenciado em função do grave
+cenário econômico da época, cuja legislação de regência não especifica prazo para a extinção
+do parcelamento. Se a Lei n.º 9.964/00 não definiu prazo para extinção do parcelamento,
+inviável considerar que qualquer interpretação da norma possa limitar o alcance e a extensão
+da legislação concessiva do parcelamento. Não se trata, aqui, de interpretar a lei, mas de
+constatar que a norma foi desvirtuada ao largo do texto constitucional, estabelecendo
+parâmetros inexistentes e desconsiderando, como antes salientado, princípios básicos do
+Estatuto do Contribuinte.
+
+Igualmente, não se pode admitir uma interpretação que, fundada em um
+argumento teleológico, ampliou a literalidade da norma contida no art. 5º, II da Lei n.º
+9.964/00, para criar hipótese não contemplada na lei como causa de exclusão do REFIS, de
+forma a impor uma revisão arbitrária da forma e do prazo do parcelamento sem amparo na
+legislação de regência.
+
+Há manifesta violação ao princípio da legalidade estrita, pois se está diante de
+caso de ampliação da lei, de alargamento do significado da própria norma jurídica, em que
+falta a dimensão do texto legal à qual o conjunto de fatos deve ser correlacionado. Este
+processo é proibido pelo sistema constitucional tributário, conforme se infere dos arts. 5º, II,
+37 e 150, I, da CF7.
+
+6 MORAES, Alexandre de. Direito constitucional. 20 ed. São Paulo: Atlas, 2006. p. 36.
+7 PALUDO, Miguel Záchia. O REFIS (lei n. 9.964) e os casos de “valor irrisório da parcela”: crítica à
+jurisprudência do Superior Tribunal de Justiça. Revista Direito Tributário Atual nº. 37/2017. IBDT - Instituto
+Brasileiro de Direito Tributário.
+
+[[pagina 13 | nativo]]
+A estrita legalidade é um postulado fundamental do Direito Tributário,
+porquanto necessária para conferir a certeza quanto ao Direito aplicado, conforme explicitado
+por Leandro Paulsen:
+
+“O conteúdo de certeza do direito diz respeito ao conhecimento do direito vigente e
+aplicável aos casos, de modo que as pessoas possam orientar suas condutas conforme
+os efeitos jurídicos estabelecidos, buscando determinado resultado jurídico ou
+evitando consequência indesejada. A compreensão das garantias dos artigos 150, I
+(legalidade estrita), 150, III, a (irretroatividade), b (anterioridade de exercício) e c
+(anterioridade nonagesimal mínima), e 195, §6º (anterioridade nonagesimal das
+contribuições da seguridade social), da Constituição como realizadoras da certeza do
+direito no que diz respeito à instituição e à majoração dos tributos, permite que se
+perceba mais adequadamente o alcance de de cada uma e o acréscimo de proteção que
+representam relativamente às garantias gerais da legalidade relativa (art. 5º, II, da CF),
+do direito adquirido, do ato jurídico perfeito e da coisa julgada (art. 5º, XXXVIII, da
+CF)”8
+
+Igualmente, o princípio da legalidade vincula a Administração Pública, nos
+termos do art. 37, caput da Constituição da República, conforme explicitado por Maria Sylvia
+Di Pietro:
+
+“Este princípio, juntamente com o de controle da Administração pelo Poder Judiciário,
+nasceu com o Estado de Direito e constitui uma das principais garantias de respeito
+aos direitos individuais. Isto porque a lei, ao mesmo tempo em que os define,
+estabelece também os limites da atuação administrativa que tenha por objeto a
+restrição ao exercício
+de tais direitos em benefício da coletividade. É aqui que melhor se enquadra aquela
+ideia de que, na relação administrativa, a vontade da Administração Pública é a
+que decorre da lei. [...] Em decorrência disso, a Administração Pública não pode,
+por simples ato administrativo, conceder direitos de qualquer espécie, criar
+obrigações ou impor vedações aos administrados; para tanto, ela depende de lei.”
+(grifou-se)
+
+Ora, considerando o princípio da legalidade que rege a administração pública
+(art. 37, caput da Constituição Federal), bem como por ser a exclusão do REFIS um ato
+administrativo plenamente vinculado, é constitucional a interpretação da Fazenda Nacional
+e do Superior Tribunal de Justiça ao art. 5º, II da Lei nº 9.964/2000, para excluir contribuinte
+do REFIS com base na inadimplência decorrente de parcelas irrisórias, sendo que inexiste
+previsão legal expressa para exclusão nesta hipótese?
+
+https://ibdt.org.br/RDTA/o-refis-lei-n-9-964-e-os-casos-de-valor-irrisorio-da-parcela-critica-a-jurisprudencia-do-
+superior-tribunal-de-justica/#note-436-1
+8 PAULSEN, Leandro. Curso de direito tributário: completo / Leandro Paulsen. 6. ed. rev. atual. e ampl. – Porto
+Alegre: Livraria do Advogado Editora, 2014.
+
+[[pagina 14 | nativo]]
+A resposta, certamente, é negativa, pois o princípio da legalidade estrita impõe
+o respeito às decisões do Poder Legislativo, refletidas no texto legal vigente, motivo pelo qual
+a Fazenda Nacional, por estar totalmente vinculada a ela, não pode exigir senão o
+cumprimento das condições previstas na Lei n.º 9.964/00.
+
+A garantia da legalidade e da segurança jurídica se pressupõem e se reforçam
+mutuamente. O respeito à legalidade tem a função de estabilizar expectativas de
+comportamento e, assim, conferir previsibilidade às relações jurídicas. Resguarda-se, dessa
+maneira, o preceito da segurança jurídica, que se compõe por dois vetores básicos: a
+perspectiva da certeza baseada “no conhecimento seguro das normas e atividades jurídicas” e
+a perspectiva da estabilidade, que consolida as situações jurídicas contra mudanças
+atentatórias aos direitos dos cidadãos. Segundo a lição de Humberto Ávila9, o instituto da
+segurança jurídica consiste em “norma princípio que exige dos Poderes Legislativo,
+Executivo e Judiciário, a adoção de comportamentos que contribuam mais para a existência,
+em benefício dos cidadãos e na sua perspectiva, de um estado de confiabilidade e de
+calculabilidade jurídicas, com base na sua cognoscibilidade, por meio da controlabilidade
+jurídico-racional das estruturas argumentativas reconstrutivas de normas gerais e individuais,
+como instrumento garantidor do respeito à sua capacidade de – sem engano, frustração,
+surpresa e arbitrariedade – plasmar digna e responsavelmente o seu presente e fazer um
+planejamento estratégico juridicamente informado do seu futuro.”
+
+Importante frisar que o art. 9º da Lei n.º 9.964/00 somente autorizou ao Poder
+Executivo editar “as normas regulamentares necessárias à execução do REFIS”. Isto é, a
+atividade da Administração se vincula ao império da lei formal, de forma que qualquer norma
+regulamentar editada não pode contrariar ou prejudicar direito assegurado em Lei.
+
+A Administração Pública deve se limitar a executar a lei, a qual é vinculante
+para todos os Poderes estatais, inclusive no âmbito da fiscalização e cobrança de tributos, não
+sendo possível inovar sobre normas expressamente dispostas.
+
+Ou seja, a Fazenda Nacional não é livre para instituir e alterar
+administrativamente os critérios que regulam o programa de recuperação fiscal no intuito de
+exigir valor significativamente superior àquele previsto na legislação, sob pena de violação
+aos arts. 5º, II, 37 e 150, I, da CF.
+
+IV.2 – A necessidade de prevalência dos princípios da segurança jurídica, confiança
+legítima, e da boa-fé objetiva, em consonância com a proteção prevista no art. 5º, XXXVI
+da Constituição Federal ao ato jurídico perfeito
+
+9 Segurança jurídica: entre permanência, mudança e realização no Direito Tributário. São Paulo: Malheiros,
+2011, p. 682
+
+[[pagina 15 | nativo]]
+Outrossim, a necessidade de que seja declarada a constitucionalidade dos
+artigos 5º e 9º da Lei nº 9.964/00 se evidencia como medida essencial para assegurar a
+segurança jurídica, enquanto princípio orientador do Estado de Direito.
+
+Como de conhecimento, o aspecto objetivo da segurança jurídica relaciona-se
+com a estabilidade das relações jurídicas, por meio da proteção ao direito adquirido, ao ato
+jurídico perfeito e à coisa julgada, constitucionalmente assegurados pelo art. 5º, XXXVI, da
+CF. Com efeito, referido princípio está amparado nas noções de certeza, previsibilidade e
+estabilidade das relações jurídicas.
+
+Conforme disposto no §1º do art. 6º da Lei de Introdução às normas do Direito
+Brasileiro, reputa-se “ato jurídico perfeito o já consumado segundo a lei vigente ao tempo em
+que se efetuou”, enquanto que o §2º do mesmo dispositivo, esclarece que “consideram-se
+adquiridos assim os direitos que o seu titular, ou alguém por êle, possa exercer, como
+aquêles cujo comêço do exercício tenha têrmo pré-fixo, ou condição pré-estabelecida
+inalterável, a arbítrio de outrem”.
+
+Acerca do tema, José Afonso da Silva explica que “a diferença entre direito
+adquirido e ato jurídico perfeito está em que aquele emana diretamente da lei em favor de um
+titular, enquanto que o segundo é um negócio fundado na lei. (...) É perfeito ainda que possa
+estar sujeito a termo ou condição”.
+
+Sobre esse aspecto, é importante avaliar que a homologação da adesão do
+contribuinte ao REFIS, tal qual estabelecida no art. 9º, III da Lei nº Lei nº 9.964/00 e
+regulamentada pelos art. 10º do Decreto nº 3.431/00 por ser um ato administrativo
+plenamente vinculado, encontra amparo na proteção destinada pelo art. 5º, XXXVI, da CF,
+ao ato jurídico perfeito.
+
+Assim se afirma, pois os contribuintes, ao procederem à adesão ao REFIS I,
+estavam sujeitos a diversas obrigações, que incluíam, conforme disposto no art. 3º da Lei nº
+9.964/0010, (i) autorização, no ato da opção, de acesso irrestrito, pela Secretaria da Receita
+Federal, às informações relativas à sua movimentação financeira, ocorrida durante o período
+em que a optante estiver submetida ao Programa; bem como (ii) o acompanhamento fiscal
+
+10 “Art. 3o A opção pelo Refis sujeita a pessoa jurídica a:
+I – confissão irrevogável e irretratável dos débitos referidos no art. 2o;
+II – autorização de acesso irrestrito, pela Secretaria da Receita Federal, às informações relativas à sua
+movimentação financeira, ocorrida a partir da data de opção pelo Refis;
+III – acompanhamento fiscal específico, com fornecimento periódico, em meio magnético, de dados, inclusive os
+indiciários de receitas;
+IV – aceitação plena e irretratável de todas as condições estabelecidas;
+V – cumprimento regular das obrigações para com o Fundo de Garantia do Tempo de Serviço – FGTS e para
+com o ITR;
+VI – pagamento regular das parcelas do débito consolidado, bem assim dos tributos e das contribuições com
+vencimento posterior a 29 de fevereiro de 2000.
+
+[[pagina 16 | nativo]]
+específico, com fornecimento periódico, em meio magnético, de dados, inclusive os
+indiciários de receitas.
+
+Nesse sentido, considerando que o Fisco detinha ciência das condições
+financeiras dos contribuintes no momento em que houve a adesão ao REFIS e que o
+parcelamento foi devidamente homologado pela autoridade administrativa competente, resta
+configurada a existência de ato jurídico perfeito e que não pode ser desprezado por ato
+interpretativo da Fazenda Nacional e inovação jurisprudencial.
+
+Não poderia, portanto, a Fazenda Nacional, após mais de uma década da
+adesão dos contribuintes ao REFIS I, com base no Parecer PGFN/CDA nº 1.206/2013,
+sustentar a exclusão de contribuintes sob o fundamento de “parcela ínfima”, se o
+parcelamento foi devidamente homologado pela autoridade administrativa competente, e se o
+contribuinte vinha cumprindo com o pagamento das parcelas no percentual sobre o
+faturamento indicado na própria Lei nº 9.964/00.
+
+Necessário ainda destacar que o aspecto subjetivo da segurança jurídica é o
+princípio da proteção à confiança, também denominado de princípio da proteção à confiança
+legítima que, nos dizeres de Humberto Ávila, “representa uma aplicação reflexiva, subjetiva
+e concretamente orientada do princípio objetivo da segurança jurídica”, servindo de
+importante instrumento de “proteção do cidadão em face do Estado”11.
+
+A segurança e a proteção da confiança exigem a garantia de estabilidade, de
+confiabilidade, de previsibilidade e de proteção de expectativas legitimamente constituídas
+aos indivíduos em relação à atuação dos Poderes Públicos, de forma que em relação a ela o
+cidadão veja garantida a segurança nas suas disposições pessoais e nos efeitos jurídicos de
+seus próprios atos12.
+
+Isso porque, os atos estatais dos governantes, tais como as leis, podem gerar
+expectativas nos particulares que, acreditando na validade e na estabilidade desses atos,
+pautam sua conduta conforme as expectativas legitimamente criadas pelo Estado. Quando
+essa confiança é frustrada por ato posterior e contraditório do próprio Poder Público, o
+particular tem o direito de ser protegido.
+
+Afinal, conforme assevera Ricardo Lobo Torres, “a Administração não pode
+prejudicar interesses do contribuinte, se este agiu na conformidade das regras então
+vigentes”13
+
+11 ÁVILA, Humberto. Segurança jurídica entre permanência, mudança e realização no direito tributário. São
+Paulo: Malheiros, 2011. p. 363 e 366.
+12 ÁVILA, Humberto. Sistema constitucional tributário: de acordo com a Emenda Constitucional n. 42, de
+19.12.03. São Paulo: Saraiva, 2004. p. 295.
+13 TORRES, Ricardo Lobo. Curso de direito financeiro e tributário. 15. ed. Rio de Janeiro: Renovar, 2008. p.
+117.
+
+[[pagina 17 | nativo]]
+Sintetizando a análise do professor Humberto Ávila acerca dos requisitos para
+a aplicação do princípio da proteção da confiança, devem estar presentes: (i) a confiança, que
+pressupõe a existência de uma base de confiança, consubstanciada na norma que serviu de
+fundamento para uma ação individual, (ii) o exercício concreto da confiança, assim entendido
+como a colocação em prática da confiança através do exercício concreto da liberdade de agir,
+e (iii) a frustração da confiança, compreendida como a manifestação estatal posterior que,
+vindo em sentido diametralmente oposto àquele tomado anteriormente, tem o efeito de
+frustrar as expectativas do sujeito em questão14.
+
+Importa destacar que o cenário enfrentado pelos contribuintes excluídos pela
+Fazenda Nacional do REFIS I se amolda perfeitamente aos requisitos elencados pelo
+Professor Humberto Ávila, uma vez que (i) estes contribuintes, interessados em regularizar a
+sua situação fiscal, formalizaram, à época, o seu ingresso ao Programa, passando, desde então,
+a efetuar o pagamento dos débitos consolidados em parcelas mensais exatamente conforme
+estipulado na Lei nº 9.964/00 e (ii) decorridos mais de 13 anos da adesão ao REFIS, pautada
+pela confiança no cumprimento das normas dispostas na Lei nº 9.964/00, foram surpreendidos
+com a total alteração dos critérios do parcelamento através de ato administrativo expedido
+pela Fazenda Nacional e pela Receita Federal do Brasil.
+
+Ou seja: após longo período no qual os contribuintes cumpriram fielmente as
+condições e obrigações estipuladas na lei de regência, a Fazenda Nacional manifesta-se em
+total contradição com o disposto na Lei nº 9.964/00, que orientou a conduta adotada pelo
+sujeito passivo há mais de dez anos, afrontando ao princípio da segurança jurídica que deveria
+nortear a relação do Estado com o cidadão.
+
+Agrava-se, ainda, o fato de que o art. 3º, I da Lei nº 9.964/0015, de forma
+expressa, estabeleceu que a opção pelo REFIS importaria em “confissão irrevogável e
+irretratável dos débitos”, sendo, ainda, obrigatória a adesão de todos os débitos existentes em
+face da pessoa jurídica que optasse pela adesão (art. 2º, § 3º16).
+
+Ou seja, os contribuintes optantes foram obrigados a parcelar todos os
+débitos existentes ao tempo da adesão e, ao serem excluídos do REFIS, não apenas tiveram
+
+14 ÁVILA, Humberto. Segurança jurídica entre permanência, mudança e realização no direito tributário. São
+Paulo: Malheiros, 2011. p. 367-401.
+15 “Art. 3o A opção pelo Refis sujeita a pessoa jurídica a:
+I – confissão irrevogável e irretratável dos débitos referidos no art. 2o;
+16 “Art. 2o O ingresso no Refis dar-se-á por opção da pessoa jurídica, que fará jus a regime especial de
+consolidação e parcelamento dos débitos fiscais a que se refere o art. 1o.
+§ 1o A opção poderá ser formalizada até o último dia útil do mês de abril de 2000.
+§ 2o Os débitos existentes em nome da optante serão consolidados tendo por base a data da formalização do
+pedido de ingresso no Refis.
+§ 3o A consolidação abrangerá todos os débitos existentes em nome da pessoa jurídica, na condição de
+contribuinte ou responsável, constituídos ou não, inclusive os acréscimos legais relativos a multa, de mora ou de
+ofício, a juros moratórios e demais encargos, determinados nos termos da legislação vigente à época da
+ocorrência dos respectivos fatos geradores.” (grifou-se)
+
+[[pagina 18 | nativo]]
+tais débitos restabelecidos pela Fazenda Nacional, como também se encontram impedidos de
+discuti-los judicialmente, uma vez que são considerados confessados. É dizer: afora a
+inquestionável insegurança jurídica a posição adotada pelo Fisco Federal acabou por
+transformar a opção pela adesão ao Parcelamento em uma verdadeira armadilha, um
+resultado inesperado e prejudicial aos contribuintes de boa-fé.
+
+Por certo, não pode o contribuinte ser surpreendido com a alteração
+administrativa e unilateral de critérios depois de mais de uma década seguindo as regras que
+lhe foram impostas nos termos da lei (ainda que as condições postas pelo legislador possam
+merecer críticas), sob pena de romper-se com a indispensável garantia de previsibilidade,
+estabilidade e confiabilidade do ordenamento jurídico17.
+
+Intrinsecamente ligado à segurança jurídica e ao princípio da confiança
+legítima, pode-se falar, também, na boa-fé objetiva, pois que, em última análise, encontra-se
+vinculado à moralidade que dispõe o caput do art. 37 da Constituição Federal18.
+
+Um dos desdobramentos do mandamento ético-jurídico da boa-fé se encontra
+materializado na máxima romana que veda o “venire contra factum proprium” (o “ir contra
+o próprio ato”), no sentido de que é de se repudiar veementemente condutas contraditórias e
+incompatíveis entre si empreendidas por uma mesma parte e que defraudam a confiança
+infundida na outra parte.
+
+Não se pode admitir que a Fazenda Nacional tenha anuído, ao longo de mais de
+uma década com o parcelamento dos débitos pelo REFIS e possa vir a querer pretender alterar
+situação fática já consolidada (ato jurídico perfeito). Enfim, não pode a Fazenda Nacional
+atentar contra os seus próprios atos, que gerou toda uma sorte de legítimas expectativas dos
+contribuintes, entre elas, e acima de todas, a de não sofrerem prejuízos em razão do
+parcelamento formalizado (o que se encarta no princípio geral de direito do neminem
+laedere).
+
+Nessa mesma linha de entendimento, destaca-se voto proferido pelo Ministro
+Luiz Fux, à época membro do Superior Tribunal de Justiça, em caso análogo ao presente, em
+representativo acórdão repetitivo. Confira-se:
+
+“PROCESSO CIVIL. RECURSO ESPECIAL REPRESENTATIVO DE
+CONTROVÉRSIA. ARTIGO 543-C, DO CPC. TRIBUTÁRIO. PROCESSO
+
+17 PALUDO, Miguel Záchia. O REFIS (lei n. 9.964) e os casos de “valor irrisório da parcela”: crítica à
+jurisprudência do Superior Tribunal de Justiça. Revista Direito Tributário Atual nº. 37/2017. IBDT - Instituto
+Brasileiro de Direito Tributário.
+https://ibdt.org.br/RDTA/o-refis-lei-n-9-964-e-os-casos-de-valor-irrisorio-da-parcela-critica-a-jurisprudencia-do-
+superior-tribunal-de-justica/#note-436-1
+18 Art. 37. A administração pública direta e indireta de qualquer dos Poderes da União, dos Estados, do Distrito
+Federal e dos Municípios obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e
+eficiência e, também, ao seguinte:
+
+[[pagina 19 | nativo]]
+ADMINISTRATIVO FISCAL. PAES. PARCELAMENTO ESPECIAL.
+DESISTÊNCIA INTEMPESTIVA DA IMPUGNAÇÃO ADMINISTRATIVA X
+PAGAMENTO TEMPESTIVO DAS PRESTAÇÕES MENSAIS
+ESTABELECIDAS POR MAIS DE QUATRO ANOS SEM OPOSIÇÃO DO
+FISCO. DEFERIMENTO TÁCITO DO PEDIDO DE ADESÃO. EXCLUSÃO DO
+CONTRIBUINTE. IMPOSSIBILIDADE. PROIBIÇÃO DO COMPORTAMENTO
+CONTRADITÓRIO (NEMO POTEST VENIRE CONTRA FACTUM PROPRIUM).
+(…)”19 (grifou-se)
+
+No mesmo sentido, pontifica Weida Zancaner20, “os limites ao dever de
+invalidar surgem do próprio sistema jurídico-positivo, pois, como todos sabemos, coexistem
+com o princípio da legalidade outros princípios que devem ser levados em conta quanto ao
+estudo da invalidação ... (como por exemplo) o princípio da boa fé (que) assume importância
+capital no Direito Administrativo, em razão da presunção da legitimidade dos atos
+administrativos, presunção esta que só cessa quando esses atos são contestados (...)
+Portanto, a boa fé dos administrados passou a ter importância imperativa no Estado
+Intervencionista, constituindo, juntamente com a segurança jurídica, expediente
+indispensável à distribuição da justiça material. É preciso tomá-lo em conta perante
+situações geradas por atos inválidos”.
+
+Ante o exposto, resta evidenciado que, ante a prevalência dos princípios da
+segurança jurídica, confiança legítima, e da boa-fé objetiva, deve ser declarada a
+constitucionalidade dos arts. 5º e 9º da Lei nº 9.964/00, assegurando, por mais uma vez, a
+proteção prevista no art. 5º, XXXVI da Constituição Federal ao ato jurídico perfeito.
+
+IV.3 – A mens legislatoris na promulgação da Lei nº 9.964/00 e a preservação do
+princípio da separação entre os poderes
+
+Conforme já adiantado, o REFIS I foi instituído sob delicada conjuntura
+econômica, tendo como objetivo a restauração da capacidade operacional das empresas,
+extremamente sufocadas e incapazes de gerar novos empregos, conforme exposto pelo
+Deputado Gerário Silva na discussão do projeto de conversão em Lei da Medida Provisória nº
+2.004-6/2000, ao destacar que “as empresas hoje marginalizadas no mercado, por estarem
+inscritas no Cadin ou por não terem acesso às certidões negativas, tanto da Receita Federal
+como da Dívida Ativa da União, e ao CND da Previdência Social, estão nessa situação
+porque não tem acesso às licitações públicas e ao crédito, automaticamente não tem a
+condição necessária para fazer a sua expansão e gerar empregos”, assim, “tão importante
+quanto arrecadação, (...), também é que essas empresas voltem a operar na normalidade,
+voltem a gerar empregos” (doc. anexo).
+
+19 Superior Tribunal de Justiça, Primeira Seção, Recurso Especial nº 1.143.216/RS, Rel. Ministro LUIZ FUX,
+DJe 09/04/2010, repetitivo.
+20 - Weida Zancaner, in “Da Convalidação e da Invalidação do Atos Administrativos”, RJ, 1990, pp. 58/59.
+
+
+[[pagina 20 | nativo]]
+Como exposto em tópico específico, há grave violação ao princípio da
+legalidade ao se promover a exclusão de contribuinte do REFIS I com fundamento no
+recolhimento de “parcelas ínfimas”, uma vez que o Poder Judiciário transborda a sua atuação
+constitucionalmente prevista, promovendo um julgamento desconsiderando não apenas as
+circunstâncias fáticas/políticas/econômicas da época da criação do parcelamento, mas também
+a própria mens legis e mens legislatoris.
+
+Como se sabe, não cabe ao judiciário atuar como legislador positivo, sendo tal
+conduta reiteradamente rechaçada por esse Supremo Tribunal Federal21.
+
+Da análise da discussão na Câmara dos Deputados acerca da conversão em Lei
+da Medida Provisória nº 2.004-6/2020 (doc. anexo), é possível verificar que o legislador
+brasileiro, ao editar o texto legal, tinha plena consciência de que as condições de pagamento
+poderiam se estender por décadas, mas, ainda assim, concluíram ser a anistia impositiva no
+cenário de dificuldades em que o país se encontrava. Confira-se:
+
+“(...) Sr. Presidente, o fator determinante para o pagamento da dívida não será, como
+anteriormente, o seu parcelamento em determinado número de meses, forma em que,
+após determinado tempo, o contribuinte novamente estava inadimplente, porque seu
+faturamento ou a condição da empresa não absorvia o compromisso financeiro
+assumido. A nova forma de parcelamento é inédita, não depende do valor da
+dívida ou de determinados números, mas da condição do contribuinte de honrar
+seu débito, de honrar o seu passivo fiscal, o que pode demorar dez, vinte, trinta,
+cinquenta ou cem anos.” (grifou-se)
+
+21 Exemplificativamente:
+“AGRAVO INTERNO NO RECURSO EXTRAORDINÁRIO COM AGRAVO. TRIBUTÁRIO. ICMS.
+RECEITAS DECORRENTES DO TRANSPORTE INTERNO (FRETE INTERESTADUAL) DE
+MERCADORIAS DESTINADAS À ZONA FRANCA DE MANAUS. PRETENSÃO DE EQUIPARAÇÃO A
+TRANSPORTE INTERNACIONAL,PARA FINS DE IMUNIDADE. INAPLICÁVEL. EXTENSÃO DE
+BENEFÍCIO FISCAL A CONTRIBUINTE NÃO CONTEMPLADO NA LEI. IMPOSSIBILIDADE. NÃO
+CABE AO PODER JUDICIÁRIO ATUAR COMO LEGISLADOR POSITIVO. AGRAVO INTERPOSTO
+SOB A ÉGIDE DO NOVO CÓDIGO DE PROCESSO CIVIL.MAJORAÇÃO DOS HONORÁRIOS DE
+SUCUMBÊNCIA. ARTIGO 85, § 11, DO CPC/2015. AGRAVO DESPROVIDO.”
+(Supremo Tribunal Federal. Primeira Turma. Relator Ministro Luiz Fux. Agravo Regimental no Recurso
+Extraordinário com Agravo nº 990239. Julgado em 05/11/2019)
+***
+“Agravo regimental no recurso extraordinário com agravo. Tributário. ICMS. Benefício fiscal. Redução da base
+de cálculo. Isonomia. Impossibilidade de atuação do judiciário como legislador positivo. 1. Impossibilidade de
+o Poder Judiciário atuar como legislador positivo para estabelecer benefícios tributários não previstos em
+lei. 2. Agravo regimental não provido.”
+(Supremo Tribunal Federal. Segunda Tuma. Relator Ministro Dias Toffoli. Agravo Regimental no Recurso
+Extraordinário com Agravo nº 936963, publicado em 02/05/2016)
+
+[[pagina 21 | nativo]]
+Da análise dos Anais da Câmara dos Deputados acerca da conversão em Lei da
+Medida Provisória nº 2.004-6/2020, é possível, portanto, verificar que o legislador, ao editar a
+Lei n° 9.964/00, promoveu uma verdadeira ponderação entre o interesse arrecadatório do
+Fisco e a grave situação dos setores produtivos da economia.
+
+Tal escolha realizada pelo Poder Legislativo não pode ser ignorada e muito
+menos suprimida pelo Poder Executivo via edição do Parecer PGFN/CDA nº 1.206/2013, ou
+mesmo pelo Poder Judiciário, conforme precedentes do Superior Tribunal de Justiça. Trata-se
+de grave violação ao princípio da separação de poderes, eternizado no art. 2º da
+Constituição Federal22.
+
+Relevante, neste momento, destacar que a metodologia estabelecida no REFIS
+que possibilitou o pagamento de parcelas em percentual sobre as receitas brutas dos
+contribuintes não se tratou de uma teratologia circunstancial, mas trata-se de critério replicado
+constantemente, como pode ser observar da análise do art. 9º, da recente Portaria nº 14.402,
+editada pela Procuradoria-Geral da Fazenda em 16 de junho de 2020, ao criar a Transação
+Excepcional de débitos em função da pandemia de COVID. Veja-se:
+
+“Art. 9º São modalidades de transação excepcional na cobrança da dívida ativa da
+União:
+a) pagamento, a título de entrada, de valor mensal equivalente a 0,334% (trezentos e
+trinta e quatro centésimos por cento) do valor consolidado dos créditos transacionados,
+durante 12 (doze) meses, e o restante pago com redução de até 100% (cem por cento)
+do valor dos juros, das multas e dos encargos-legais, observado o limite de até 70%
+(setenta por cento) sobre o valor total de cada crédito objeto da negociação, em até 36
+(trinta e seis) parcelas mensais e sucessivas, sendo cada parcela determinada pelo
+maior valor entre 1% (um por cento) da receita bruta do mês imediatamente
+anterior, apurada na forma do art. 12 do Decreto-Lei n. 1.598/77, e o valor
+correspondente à divisão do valor consolidado pela quantidade de prestações
+solicitadas; (...)”
+
+Tal critério é, inclusive, objeto de do Projeto de Lei nº 2735/202023, proposto
+pelo atual Presidente da Câmara, Deputado Federal Arthur Lira (PP-AL), que estabelece o que
+se segue:
+
+“Art. 2º. O débito consolidado na forma deste artigo, será pago:
+§1º Em parcelas mensais e sucessivas, vencíveis no último dia útil de cada mês, sendo
+o valor de cada parcela determinado em função do percentual da receita bruta do
+mês imediatamente anterior, apurada na forma do Capítulo II, Seção II, Subseção I,
+
+22 Art. 2º São Poderes da União, independentes e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
+23 https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=1894828&filename=PL+2735/2020
+
+[[pagina 22 | nativo]]
+Art. 12 e parágrafo 1º a 5º da Lei no Decreto-Lei n° 1.598, de 26 de dezembro de
+1977, não inferior a: I - Ano calendário 2021 e 2022:
+a) 0,3% (três décimos por cento), no caso de pessoa jurídica submetida ao regime de
+tributação com base no lucro presumido; e
+b) 0,5% (cinco décimos por cento), nos demais casos.
+II - Ano calendário 2023 e posteriores:
+a) 0,5% (cinco décimos por cento), no caso de pessoa jurídica submetida ao regime de
+tributação com base no lucro presumido; e
+b) 1,0% (um inteiro por cento), nos demais casos.”
+
+Qual garantia terão os contribuintes que promoverem a adesão na recentíssima
+Transação Excepcional de que, futuramente, o seu parcelamento não venha a ser rescindido
+unilateralmente pela Fazenda Nacional? Pela experiência advinda das exclusões de
+contribuintes do REFIS I, a conclusão é que, para o contribuinte, não há qualquer segurança
+ou previsibilidade.
+
+Importante rememorar ainda que, atualmente, encontra-se em curso perante a
+Câmara Federal de Deputados o Projeto de Lei nº 5.317/2019 (antigo PL 2.281/2015), que
+discute a inclusão de parágrafos ao art. 9º da Lei n° 9.964/2000, para vetar, de forma
+expressa, a exclusão de pessoas jurídicas do Programa de Recuperação Fiscal - Refis,
+cujas parcelas de desembolso não sejam consideradas suficientes para amortizar a dívida
+assumida.
+
+O tema, como se constata, além de ser extremamente sensível, está sendo
+objeto de debate legislativo, evidenciando a necessidade de que este Supremo Tribunal
+Federal reafirme a constitucionalidade dos arts. 5º e 9º da Lei n° 9.964/00.
+
+Afinal, conforme demonstrado, na conversão da Medida Provisória nº 2.004-
+6/2020 na Lei n° 9.964/2000, o legislador brasileiro possuía a plena consciência de que as
+condições de pagamento previstas no REFIS I poderiam se estender por décadas e, portanto,
+as hipóteses de exclusão do parcelamento contidas no arts. 5º da Lei n° 9.964/00 refletem não
+apenas a mens legis, como a mens legislatoris.
+
+Interpretar de forma diversa o referido dispositivo de forma a criar hipótese de
+exclusão do REFIS não prevista no texto legal, representa direta e clara violação ao princípio
+da separação dos poderes, uma vez que não cabe ao Poder Judiciário atuar como
+legislador positivo, como assegurado por essa Corte Constitucional.
+
+IV.4 – A constitucionalidade dos arts. 5º e 9º da Lei nº 9.964/00 face ao princípio da
+preservação da empresa e a desatenção ao disposto nos arts. 21, 24 e 27 da Lei de
+Introdução às normas do Direito Brasileiro – “LINDB”
+
+
+[[pagina 23 | nativo]]
+Como último aspecto impositivo à análise da necessidade de declaração da
+constitucionalidade dos arts. 5º e 9º da Lei nº 9.964/00, faz-se relevante verificar a adequação
+dos dispositivos ao princípio da preservação da empresa.
+
+Isso porque, como já destacado anteriormente, a Fazenda Nacional, com base
+no Parecer PGFN/CDA nº 1.206/13 e amparada na jurisprudência do Superior Tribunal de
+Justiça, ao promover o restabelecimento dos débitos decorrentes da exclusão de contribuintes
+do REFIS I, tem gerado execuções fiscais em valores extremamente elevados e diversos
+contribuintes vêm sendo submetidos a penhoras e atos constritivos em patamares superiores
+ao seu próprio patrimônio, colocando em risco as suas atividades econômicas.
+
+A exclusão de contribuintes do REFIS I com Parecer PGFN/CDA nº 1.206/13
+e fundada na "tese da parcela ínfima", atinge direta e excessivamente os direitos de
+propriedade e de liberdade dos contribuintes, porquanto a expressiva ampliação inesperada e
+discricionária do montante devido no Programa, na maioria dos casos, limita em demasia o
+exercício da atividade econômica, inviabilizando por completo o prosseguimento das
+empresas.
+
+Como destacado por Miguel Záchia Paludo, no caso, o poder de tributar
+assume a vestimenta do poder de destruir, pois, para muitos contribuintes, a nova forma de
+cobrança imposta arbitrariamente pela Receita Federal do Brasil aniquila a sua saúde
+econômico-financeira, impedindo o desenvolvimento de seu objeto social24. Não há dúvidas
+de que, para se alcançar os objetivos fundamentais elencados no artigo 3º da Constituição
+Federal de 1988, a saber, a construção de uma sociedade livre, justa e solidária, com o pleno
+desenvolvimento nacional e a redução e erradicação das desigualdades e marginalização, bem
+como das diferenças regionais, é mister o papel desempenhado pelas empresas.
+
+Para tanto, além dos fundamentos que regem a ordem econômica nacional e os
+princípios constitucionais expressos no artigo 170, da Constituição Federal, é importante que
+se vislumbre no texto constitucional - ainda de que na forma de princípio constitucional não
+escrito - a preservação de empresa com o escopo assegurar que esta atinja sua função social.
+
+É necessário, como função social da atividade econômica, o pleno
+desenvolvimento empresarial, ou seja, na atuação como organização dos fatores de produção
+destinados à criação e circulação de bens e serviços, com a geração de riquezas, empregos,
+tributos, desenvolvimento local, regional e nacional, aquecimento e movimento do mercado
+consumidor, reserva de capital responsável pela propulsão da representatividade do Estado no
+cenário nacional e internacional.
+
+24 PALUDO, Miguel Záchia. O REFIS (lei n. 9.964) e os casos de “valor irrisório da parcela”: crítica à
+jurisprudência do Superior Tribunal de Justiça. Revista Direito Tributário Atual nº. 37/2017. IBDT - Instituto
+Brasileiro de Direito Tributário.
+https://ibdt.org.br/RDTA/o-refis-lei-n-9-964-e-os-casos-de-valor-irrisorio-da-parcela-critica-a-jurisprudencia-do-
+superior-tribunal-de-justica/#note-436-1
+
+[[pagina 24 | nativo]]
+Portanto, tão somente a partir do pleno desenvolvimento da atividade
+empresarial poderá a empresa cumprir com a sua função social e, assim, contribuir para a
+ordem econômica nacional que, fundamentada em dois princípios constitucionais, a saber: os
+princípios da livre iniciativa e da valorização do trabalho humano, expressos no rol do artigo
+170, da Constituição Federal (de forma implícita, o próprio princípio da preservação da
+empresa).
+
+É certo que o ordenamento pátrio, como assente em doutrina e jurisprudência,
+há muito acolhe o mandamento da proporcionalidade – que para muitos se confunde ou
+mesmo constitui um desdobramento concretizador da exigência de razoabilidade e do devido
+processo legal -, sendo certo que a sedes materiae de tal normativa encontra-se prevista no art.
+5°, LIV, da Constituição Federal, ou como preferem outros, na própria cláusula do Estado
+Democrático de Direito, que inaugura o texto da Lei Maior (artigo 1º).
+
+Seja como for, quer se fale de proporcionalidade, ou de razoabilidade, ou
+mesmo de devido processo legal, certo é que tais princípios decorrem do imperativo de que os
+atos intersubjetivos se coadunem com a noção de um direito justo.
+
+E a ideia de direito justo remete, imediatamente e inexoravelmente, ao não
+excesso, de equilíbrio, de medida ponderada, adequada, razoável e, numa palavra,
+proporcional. Remete, pois, à ideia de um tratamento não excessivo, nem para mais, nem para
+menos. Aqui, convém lembrar, uma vez mais, que os contribuintes que aderiram ao REFIS no
+ano 2000 ficaram por mais de treze (treze) anos incólumes no parcelamento, antes que a
+Fazenda Nacional editasse o Parecer PGFN/CDA nº 1.206/13.
+
+Passado todo esse período, não se afigura justo, razoável, ou mesmo
+proporcional a exclusão de contribuintes que, desde o momento da adesão ao parcelamento,
+vinham, de boa-fé, promovendo o pagamento regular das prestações nos exatos termos
+estipulados pela Lei nº 9.964/00, especialmente quando tal exclusão acarreta no
+restabelecimento de débitos em patamares tão elevados que colocam em risco a própria
+atividade econômica desenvolvida.
+
+Necessário, portanto, atentar-se ao disposto no art. 24 da Lei de Introdução às
+normas do Direito Brasileiro - “LINDB” (Decreto-Lei nº 4.657/1942), abaixo transcrito:
+
+“Art. 24. A revisão, nas esferas administrativa, controladora ou judicial, quanto à
+validade de ato, contrato, ajuste, processo ou norma administrativa cuja produção já se
+houver completado levará em conta as orientações gerais da época, sendo vedado que,
+com base em mudança posterior de orientação geral, se declarem inválidas situações
+plenamente constituídas.
+Parágrafo único. Consideram-se orientações gerais as interpretações e especificações
+contidas em atos públicos de caráter geral ou em jurisprudência judicial ou
+administrativa majoritária, e ainda as adotadas por prática administrativa reiterada e de
+amplo conhecimento público.”
+
+[[pagina 25 | nativo]]
+Isso porque, pela simples leitura do dispositivo, é possível perceber que os
+tribunais administrativos e judiciais, ao reavaliarem os atos praticados pelos contribuintes,
+devem levar em consideração quais eram as interpretações e especificações contidas em atos
+públicos de caráter geral, tudo isto em favor da segurança jurídica do ordenamento.
+
+Como previamente destacado, a homologação da adesão do contribuinte ao
+REFIS, tal qual estabelecida no art. 9º, III da Lei nº Lei nº 9.964/00 e regulamentada pelos art.
+10º do Decreto nº 3.431/00 por ser um ato administrativo plenamente vinculado, encontra
+amparo na proteção destinada pelo art. 5º, XXXVI, da CF, ao ato jurídico perfeito.
+
+Note-se que, diante do que dispõe o art. 24 da LINDB, o desiderato da Fazenda
+Nacional perde totalmente o seu sentido e fundamento, afinal, como poderiam os
+contribuintes supor que, após mais de uma década, seriam excluídos do REFIS, quando
+estavam procedendo ao pagamento regular das parcelas nos estritos termos da Lei nº
+9.964/00?
+
+Ainda que restasse qualquer dúvida quanto à aplicabilidade do art. 24 da
+LINDB na análise de questões tributárias, os professores Carlos Ari Sundfeld e Floriano de
+Azevedo Marques Neto, autores do projeto de lei (doc. anexo) que foi convertido na Lei nº
+13.655/18 (que introduziu o referido artigo no Decreto-Lei nº 4.657/1942), fizeram questão de
+esclarecer de uma vez por todas a questão:
+
+“Seus dispositivos são abrangentes e serão observados nas operações jurídicas
+envolvendo o direito público em geral. Entendem-se como tal as operações cuja tutela
+tenha como centro as autoridades administrativas, embora com fiscalização e
+participação de controladores externos e juízes. Em suma, os arts. 20 a 30 da Lei de
+Introdução tratam do direito público cuja aplicação primária seja administrativa. Está
+fora o direito penal, pois sua aplicação primária é judicial, não administrativa, ainda
+que nele atuem as autoridades policiais e penitenciárias vinculadas à administração
+pública, mas como coadjuvantes.
+Importante é que as novas normas da Lei de Introdução são obrigatórias não
+apenas para toda a administração pública – e com independência das matérias
+envolvidas (contratuais, funcionais, tributárias, não importa). A obrigatoriedade
+vai muito além.25” (grifou-se)
+
+25 SUNDFELD, Carlos Ari. LINDB: Direito tributário está sujeito à Lei de Introdução reformada. Jota, São
+Paulo. 10 ago. 2018. Disponivel em < https://www.jota.info/opiniao-e-analise/artigos/lindb-direito-tributario-
+esta-sujeito-a-lei-de-introducao-reformada-10082018>.
+
+[[pagina 26 | nativo]]
+Registra-se, aqui, que o tema em questão não se adequa ao enunciado da
+Súmula nº 473 deste Supremo Tribunal Federal26, uma vez que esta somente a autoriza a
+anulação dos atos emanados pela administração quando eivados de vícios que o tornam
+ilegais; ou revogá-los quando, por motivo de conveniência ou oportunidade, respeitados os
+direitos adquiridos
+
+Como já demonstrado previamente, a Fazenda Nacional vem promovendo a
+exclusão de contribuintes que obtiveram a sua homologação ao REFIS ainda no ano 2000, e
+que, desde então vinham cumprindo fielmente com os pagamentos nos termos fixados pela
+Lei nº 9.964/00, válida e plenamente vigente. Ou seja, inexiste qualquer vício de legalidade na
+norma a justificar a anulação de um ato jurídico perfeito.
+
+Mas não é só, o art. 21 da mesma LINDB, expressamente destaca do dever da
+autoridade administrativa e judiciária, ao decretar a invalidação de qualquer ato, indicar de
+modo expresso suas consequências jurídicas e administrativas, indicando as condições para
+que a regularização ocorra de modo proporcional e equânime e sem prejuízo aos interesses
+gerais, não se podendo impor aos sujeitos atingidos ônus ou perdas que, em função das
+peculiaridades do caso, sejam anormais ou excessivos. Confira-se:
+
+“Art. 21. A decisão que, nas esferas administrativa, controladora ou judicial, decretar
+a invalidação de ato, contrato, ajuste, processo ou norma administrativa deverá indicar
+de modo expresso suas consequências jurídicas e administrativas.
+
+Parágrafo único. A decisão a que se refere o caput deste artigo deverá, quando for o
+caso, indicar as condições para que a regularização ocorra de modo proporcional e
+equânime e sem prejuízo aos interesses gerais, não se podendo impor aos sujeitos
+atingidos ônus ou perdas que, em função das peculiaridades do caso, sejam anormais
+ou excessivos.”
+
+Considerando o que dispõe o art. 21 da LINDB, é possível constatar que a
+Fazenda Nacional, bem como o Superior Tribunal de Justiça em razão de seus diversos
+precedentes acerca da matéria, flagrantemente violaram os princípios da segurança jurídica,
+proporcionalidade e razoabilidade, pois, ao excluir os contribuinte do REFIS sob a “tese da
+parcela ínfima”, (i) não indicaram as condições para que a regularização ocorresse de modo
+proporcional e equânime e sem prejuízo aos interesses gerais; e mais grave ainda (ii) impôs
+aos contribuintes ônus manifestamente excessivo decorrente do restabelecimento dos débitos,
+massivamente majorados por décadas de juros e correção monetária incidentes sobre o
+original, capazes de levar a diversas empresas à falência e, consequentemente, aumentando
+significativamente o nível de desemprego do país.
+
+26 Súmula nº 473/STF: A administração pode anular seus próprios atos, quando eivados de vícios que os tornam
+ilegais, porque dêles não se originam direitos; ou revogá-los, por motivo de conveniência ou oportunidade,
+respeitados os direitos adquiridos, e ressalvada, em todos os casos, a apreciação judicial.
+
+[[pagina 27 | nativo]]
+Embora a Fazenda Nacional, ao promover a exclusão dos contribuintes de
+REFIS, oportunize a possibilidade de quitação do saldo remanescente, assim o faz sem
+qualquer base legal e fixando prazos totalmente arbitrários, desconsiderando o montante do
+débito, tampouco a viabilidade de o contribuinte possuir capacidade de arcar com tais
+pagamentos.
+
+É válido destacar, ainda, que aquele contribuinte que aderiu ao Programa e
+agora foi excluído fica limitado ao pagamento do débito, eis que, como condição da adesão,
+foi obrigado a confessar sua origem, de modo que sequer lhe é garantida a viabilidade de
+exercer o amplo direito de defesa sobre tais débitos que se acreditava parcelar. Os
+contribuintes foram compelidos a desistir da defesa quanto ao mérito da discussão.
+
+Consequentemente, a partir do momento que a Fazenda Nacional exclui
+determinados contribuintes do REFIS, estes se veem totalmente tolhidos, vez que, quando da
+adesão, havia a esperada segurança jurídica de que não seriam excluídos por hipóteses
+inexistentes na lei de regência e, por outro lado, agora não podem mais retomar sua defesa, o
+status quo ante à opção pelo regime do Parcelamento. É dizer: a Fazenda Nacional “ofereceu”
+uma suposta possibilidade de quitação dos débitos, que, em realidade, é praticamente
+impossível de ser adimplida, após quase 20 anos de acréscimos moratórios.
+
+Assim, os contribuintes ficaram totalmente sem opções, acarretando na
+distribuição de diversas execuções fiscais, que novamente encontra a inviabilidade de
+discussão, seja porque não conseguem garantir o vultuoso débito para se defenderem em sede
+de embargos, seja porque, tampouco poderiam discutir o mérito da cobrança.
+
+Os contribuintes optaram por desistir de defesas e parcelar o débito de acordo
+com sua capacidade contributiva e, de repente, o efeito surpresa da inovação de uma
+construção jurisprudencial, inexistente na normativa de regência, de exclusão por parcela
+ínfima. Ora, se, ao menos, fosse viabilizada a retomada da situação anterior se preservaria a
+segurança jurídica e a legitima confiança, mas a Fazenda Nacional garante aos contribuintes
+apenas a possibilidade de quitação de débitos inflados de astronômicos encargos de quase 20
+(vinte) anos de mora.
+
+Portanto, ante a previsão do artigo 27 da LINDB que determina que “a decisão
+do processo, nas esferas administrativa, controladora ou judicial, poderá impor
+compensação por benefícios indevidos ou prejuízos anormais ou injustos resultantes do
+processo ou da conduta dos envolvidos”, é possível afirmar que a Fazenda Nacional, ou
+mesmo o Superior Tribunal de Justiça, ao possibilitar a exclusão do REFIS depois de extenso
+lapso temporal de pagamentos, deveria, no mínimo, ter previsto medida de compensação com
+o fim de evitar ou mitigar o prejuízo imposto ao contribuinte de boa-fé, evitando o
+restabelecimento de débitos em valores exorbitantes.
+
+
+[[pagina 28 | nativo]]
+O cenário descrito acima configura manifesta violação aos princípios
+constitucionais da legalidade, razoabilidade e proporcionalidade, além da segurança jurídica,
+em conformidade ao devido processo legal – art. 5º, II e LIV c/c 150, I, da Constituição
+Federal, bem como uma afronta a ato jurídico perfeito assegurado pelo art. 5º, XXXVI da
+Carta Magna c/c art. 6º da LINDB pois, convém lembrar, uma vez mais, que os contribuintes
+que aderiram ao REFIS I ficaram por mais de uma década incólumes no parcelamento.
+
+Passado todo esse período, não se afigura justo, razoável ou proporcional a
+exclusão do parcelamento de contribuintes que tiveram a sua adesão devidamente
+homologada pela autoridade administrativa e que vinham cumprindo, de boa-fé, com o
+pagamento regular das prestações nos exatos termos estipulados pela Lei nº 9.964/00, sob
+pena de fazer prevalecer a insegurança e colocando em risco a própria perpetuação das
+empresas.
+
+IV.5 – A inovação jurisprudencial face a expressividade da legalidade tributária.
+Comparativo com as normativas de regência dos demais programas de parcelamento
+
+Conforme adiantado no tópico anterior, o estudo do processo de conversão em
+Lei da Medida Provisória nº 2.004-6/2020, conduz à conclusão de que o legislador tinha
+absoluta consciência das condições e regras de exclusão do REFIS I.
+
+Isso porque, ao editar a Lei nº 9.964/00, o legislador buscou, como ressaltado
+pelo Deputado Gerário Silva, uma forma de parcelamento “inédita”, que “não depende do
+valor da dívida ou de determinados números, mas da condição do contribuinte de honrar seu
+débito, de honrar o seu passivo fiscal”.
+
+Ao se analisar o disposto no §4º do art. 2º, nota-se que foi estabelecido
+pagamento via parcelamento, sem número de parcelas previamente definidas, em que os
+pagamentos mensais e sucessivos, vencíveis no último dia útil de cada mês, teriam o seu valor
+determinado em função de percentual da receita bruta do mês imediatamente anterior.
+
+A hipótese de exclusão prevista no REFIS I em caso de inadimplência decorre,
+por sua vez, do recolhimento de valor inferior ao percentual da receita bruta estabelecido no
+art. 2º, § 4º, II, da Lei n. 9.964 por três meses consecutivos ou seis meses alternados – é o que
+dispõe de forma clara e taxativa do art. 5º, II da Lei nº 9.964/00.
+
+Ocorre que, a interpretação finalística promovida pela Fazenda Nacional e
+ratificada pelo Superior Tribunal de Justiça, desconsiderou que cada parcelamento especial de
+débitos promovido pelo Poder Executivo teve características próprias, de acordo com as
+conjunturas econômicas da época de sua instituição.
+
+
+[[pagina 29 | nativo]]
+Para fins comparativos com o REFIS I, é possível verificar que o parcelamento
+especial instituído pela Lei nº 10.684/03 - denominado PAES – fixou em seu artigo 1º27 o
+prazo máximo de 180 (cento e oitenta) prestações mensais e sucessivas para o adimplemento
+do débito negociado.
+
+O fato da Lei nº 10.684/03 prever um número máximo de parcelas para a
+conclusão do pagamento pelo PAES possibilitou ao Superior Tribunal de Justiça concluir ser
+“possível a exclusão do PAES se o valor das prestações mensais pagas se mostrarem
+incapazes de adimplir o parcelamento dentro do prazo máximo fixado na lei, considerando-se
+o valor total do débito consolidado. Interpretação teleológica dos arts. 1º e 7º da Lei
+10.684/2003”.28
+
+Igualmente, nota-se que, o Parcelamento Excepcional (PAEX), instituído pela
+Medida Previsória nº 303/0629 também estabeleceu prazo máximo para a quitação que, no
+caso, foi de 130 parcelas mensais e sucessivas; assim como, também, o subsenquente
+Programa instituído pela a Lei nº 11.941/0930, se precoupou com um número máximo de 180
+parcelas.
+
+27 Art. 1o Os débitos junto à Secretaria da Receita Federal ou à Procuradoria-Geral da Fazenda Nacional, com
+vencimento até 28 de fevereiro de 2003, poderão ser parcelados em até cento e oitenta prestações mensais e
+sucessivas.
+28 Superior Tribunal de Justiça. Segunda Turma. REsp 1242772/SC. Relatora Ministra Eliana Calmon. DJe
+18/02/2014.
+29 Art. 1º Os débitos de pessoas jurídicas junto à Secretaria da Receita Federal - SRF, à Procuradoria-Geral da
+Fazenda Nacional - PGFN e ao Instituto Nacional do Seguro Social - INSS, com vencimento até 28 de fevereiro
+de 2003, poderão ser, excepcionalmente, parcelados em até cento e trinta prestações mensais e sucessivas, na
+forma e condições previstas nesta Medida Provisória.
+30 “Art. 1o Poderão ser pagos ou parcelados, em até 180 (cento e oitenta) meses, nas condições desta Lei, os
+débitos administrados pela Secretaria da Receita Federal do Brasil e os débitos para com a Procuradoria-Geral da
+Fazenda Nacional, inclusive o saldo remanescente dos débitos consolidados no Programa de Recuperação Fiscal
+– REFIS, de que trata a Lei no 9.964, de 10 de abril de 2000, no Parcelamento Especial – PAES, de que trata
+a Lei no 10.684, de 30 de maio de 2003, no Parcelamento Excepcional – PAEX, de que trata a Medida
+Provisória no 303, de 29 de junho de 2006, no parcelamento previsto no art. 38 da Lei no 8.212, de 24 de julho
+de 1991, e no parcelamento previsto no art. 10 da Lei no 10.522, de 19 de julho de 2002, mesmo que tenham
+sido excluídos dos respectivos programas e parcelamentos, bem como os débitos decorrentes do aproveitamento
+indevido de créditos do Imposto sobre Produtos Industrializados – IPI oriundos da aquisição de matérias-primas,
+material de embalagem e produtos intermediários relacionados na Tabela de Incidência do Imposto sobre
+Produtos Industrializados – TIPI, aprovada pelo Decreto no 6.006, de 28 de dezembro de 2006, com incidência
+de alíquota 0 (zero) ou como não-tributados. (Vide Lei nº 12.865, de 2013) (Vide Lei nº
+12.996, de 2014) (Vide Lei nº 13.043, de 2014) (...)
+§ 3o Observado o disposto no art. 3o desta Lei e os requisitos e as condições estabelecidos em ato conjunto do
+Procurador-Geral da Fazenda Nacional e do Secretário da Receita Federal do Brasil, a ser editado no prazo de 60
+(sessenta) dias a partir da data de publicação desta Lei, os débitos que não foram objeto de parcelamentos
+anteriores a que se refere este artigo poderão ser pagos ou parcelados da seguinte forma: (...)
+V – parcelados em até 180 (cento e oitenta) prestações mensais, com redução de 60% (sessenta por cento) das
+multas de mora e de ofício, de 20% (vinte por cento) das isoladas, de 25% (vinte e cinco por cento) dos juros de
+mora e de 100% (cem por cento) sobre o valor do encargo legal.”
+
+
+[[pagina 30 | nativo]]
+A análise individualizada das normas instituídoras do PAES, PAEX e do
+parcelamento objeto da Lei nº 11.941/09 permite a compreensão de que o legislador
+considerou e compreendeu a necessidade de fixação de parcelas máximas para garantir o
+adimplemento dessas negociações.
+
+Entretanto, em relação ao REFIS I, a ausência de uma previsão expressa legal
+não decorreu de uma “desatenção” ou atecnicidade, mas de uma ponderação realizada pelos
+legisladores, ante o cenário econômico da época. O que deve ser respeitado pelo Poder
+Judiciário.
+
+Corroborando o exposto, necessário lembrar que, na própria exposição de
+motivos (interministerial) nº 821/1999, anexa à Mensagem que submeteu ao Congresso o
+primeiro diploma da Medida Provisória, é estabelecido que se propõe “um modelo em que os
+débitos fiscais sejam consolidados em determinada data, com todos os acréscimos legais a
+que estiverem sujeitos, e, a partir daí, pagos de forma parcelada, sem limitação de prazo,
+mas mediante comprometimento de percentual fixo de, no mínimo, dois por cento da receita
+bruta mensal da empresa, acrescidos, tão-somente, de juros determinados com base na Taxa
+de Juros de Longo Prazo - T JLP, índice financeiro reconhecidamente mais adequado para
+financiamento de prazos mais alongados” – (doc. anexo).
+
+É dizer, o próprio racional da parcela ínfima ou impagável é contraditório às
+intenções do legislador, que claramente pretendia viabilizar ao contribuinte uma forma de
+parcelar os débitos conforme sua capacidade contributiva e sem limite de tempo para tanto. A
+Fazenda Nacional acaba por especificar prazos sem base legal. Se por um lado é possível que
+algumas dívidas possam se tornar impagáveis, qual seria a base legal para especificação de
+uma regra não prevista em lei?
+
+A orientação jurisprudencial formada desfavoravelmente aos contribuintes,
+repita-se, evidencia clara invasão do Poder Judiciário às funções constitucionais destinadas ao
+Poder Legislativo.
+
+IV.6 – A necessidade de previsibilidade da conduta da administração pública para o
+planejamento empresarial dos contribuintes – inexistência de margem interpretativa no
+texto da Lei nº 9.964/00
+
+Para a profunda compeensão do tema e demonstrar a mácula ao princípio da
+segurança jurídica, necessário analisar o caso sob o aspecto volitivo do contribuinte no
+momento da adesão ao REFIS I.
+
+Assim se afirma, pois o gestor de uma pessoa jurídica, ao se confrontar com o
+REFIS I, se viu diante de uma norma clara, contendo orientações expressas de como será
+regido o parcelamento oferecido pela própria administração pública.
+
+[[pagina 31 | nativo]]
+Nota-se que não se está diante de uma negociação entre iguais, em que se pode
+discutir os termos de um contrato com uma outra parte. O parcelamento posto ao contribuinte
+pela Lei nº 9.964/00 continha condições pré-definidas para adesão pagamento dos débitos.
+Ao contribuinte competia apenas decidir se iria acatar a norma para ter acesso à condição
+especial de pagamento, ou se continuaria a administrar o seu passivo tributário, seguindo os
+meios ordinários.
+
+O fato de que o contribuinte não ter qualquer ingerência sobre condições
+impostas pelo REFIS I importou aos seus gestores uma avaliação, organização e também
+projeção da sua atividade comercial, de forma a cumprir com os requisitos estabelecidos para
+o parcelamento.
+
+É dizer se o contribuinte aderiu ao REFIS I em 2000, assim o fez seguindo as
+normas legais e a confiança de que estes termos seriam mantidos até o adimplemento do
+débito/extinção do parcelamento.
+
+A gravidade da alteração de entendimento promovida pela Fazenda Nacional
+ao editar o Parecer PGFN/CDA nº 1.206/13 é verificável na quebra da confiança que o
+contribuinte depositou no Estado brasileiro, uma vez que ignorou a sua vontade manifestada
+quanto ao cumprimento daqueles termos outrora definidos na edição da Lei nº 9.964/00.
+Seguro afirmar que, se ao contribuinte tivesse sido colocada a possibilidade de
+que, passados treze anos da adesão, haveria uma reanálise das condições de pagamentos
+inicialmente previstas, certamente seria promovido um novo estudos dos gestores acerca
+da possibilidade de adesão e, para muitos, esses termos seriam inviáveis.
+
+Um racional contratual, em que duas partes acordaram com os termos de um
+negócio jurídico jamais tornaria cabível a supresa de interpretação jurisprudencial de regras
+supervenientes, especialmente quando sequer foi oportunizado o questionamento, ou debate
+das condições pré-estabelecidas.
+
+O ônus imposto aos contribuintes nada mais representa que a transferência ao
+particular da falência da administração pública nacional e repercute muito mal
+internacionalmente, prejudicando a segurança jurídica e a falta de transparência, o que resulta
+no conhecido “Custo Brasil” que, como se sabe, corresponde à medição do conjunto de
+dificuldades estruturais, burocráticas e econômicas que encarecem o investimento no Brasil,
+dificultando o desenvolvimento nacional, aumentando o desemprego, o trabalho informal, a
+sonegação de impostos e a evasão de divisas.
+
+Não há, portanto, como se desenvolver a economia de um país ou mesmo atrair
+investimentos se o Estado brasileiro não garante a mínima segurança nas relações jurídicas.
+
+
+[[pagina 32 | nativo]]
+V – DA EXISTÊNCIA DE RELEVANTE CONTROVÉRSIA JUDICIAL SOBRE A
+APLICABILIDADE DOS ARTS. 5º E 9º DA LEI Nº 9.964/2000:
+
+À revelia dos argumentos apresentados, a jurisprudência brasileira tem
+demonstrado alta controvérsia jurídica quanto à temática.
+
+Como aduzido anteriormente, após a edição do Parecer PGFN/CDA nº
+1.206/13 pela Fazenda Nacional, diversos contribuintes foram sumariamente excluídos do
+parcelamento objeto do REFIS I, o que ocasionou uma ampla judicialização do tema.
+
+No Superior Tribunal de Justiça, havia jurisprudência tranquila e formada a
+respeito da exclusão de programas de parcelamento quando o valor da parcela se revela
+irrisório, caracterizando inadimplência. Contudo, tais precedentes tratavam especificamente
+do Programa de Parcelamento Especial - PAES.
+
+Quanto à situação específica do REFIS isntituído pela Lei nº 9.964/00, a
+Segunda Turma do Superior Tribunal de Justiça, no julgamento dos Recursos Especiais nº
+1.242.772/SC, chegou a sustentar a impossibilidade de, no REFIS I, aplicar o mesmo
+entendimento desenvolvido para o PAES no que se refere à exclusão do programa, por
+absoluta falta de previsão legal de prazo máximo de duração do parcelamento. Veja-se:
+
+“TRIBUTÁRIO E ADMINISTRATIVO. PAES. EXCLUSÃO. VALOR IRRISÓRIO
+DA PARCELA MENSAL. POSSIBILIDADE. INTERPRETAÇÃO TELEOLÓGICA
+DOS ARTS. 1º E 7º DA LEI 10.684/03. PREVISÃO DE PRAZO MÁXIMO PARA O
+FIM DO PARCELAMENTO. PRECEDENTES. HIPÓTESE DIVERSA DA QUE
+OCORRE NO REFIS 2000 (LEI 9.964/2000).
+1. É possível a exclusão do PAES se o valor das prestações mensais pagas se
+mostrarem incapazes de adimplir o parcelamento dentro do prazo máximo fixado na
+lei, considerando-se o valor total do débito consolidado. Interpretação teleológica dos
+arts. 1º e 7º da Lei 10.684/2003. Precedentes.
+2. Caso concreto referente ao PAES regido pela Lei 10.684/2003.
+3. Hipótese diversa da que ocorre no REFIS 2000, uma vez que a lei de regência
+(Lei 9.964/2000) não contempla prazo máximo para o fim do parcelamento.
+4. No caso do REFIS 2000, a exclusão do contribuinte somente pode ocorrer por
+umas das hipóteses previstas no art. 5º da Lei 9.964/2000, dentre as quais não foi
+contemplada a possibilidade de desligamento do contribuinte do programa por
+ser irrisório o valor da prestação em comparação com o débito geral consolidado.
+5. Impossibilidade, no REFIS 2000, de aplicação do mesmo entendimento
+desenvolvido para o PAES no que se refere à exclusão do programa, por absoluta
+falta de previsão legal de prazo máximo de duração do parcelamento. Obediência
+ao Princípio da Legalidade.
+6. Recurso especial não provido.”31
+
+31 Superior Tribunal de Justiça. Segunda Turma. REsp 1242772/SC. Relatora Ministra Eliana Calmon. DJe
+18/02/2014.
+
+[[pagina 33 | nativo]]
+***
+
+“PROCESSUAL CIVIL E ADMINISTRATIVO. REFIS. EXCLUSÃO -
+VIOLAÇÃO DO ART. 535 DO CPC NÃO CARACTERIZADA. VALOR
+IRRISÓRIO DE PARCELA. HIPÓTESE NÃO CONTEMPLADA NA LEI
+9.964/2000. IMPOSSIBILIDADE.
+1. Não ocorre ofensa ao art. 535, II, do CPC, se o Tribunal de origem decide,
+fundamentadamente, as questões essenciais ao julgamento da lide.
+2. As condições e cláusulas de acordo de parcelamento especial, dentre os quais se
+insere o REFIS, são estipulas por lei, nos termos do art. 155 do CTN, de modo
+que diante da dicção do art. 2º, § 4º, II, "c", da Lei 9964/2000, a exclusão do
+contribuinte só poderia ocorrer por uma das hipóteses prevista em lei.
+3. A lei do REFIS não contempla a hipótese de exclusão do contribuinte do
+programa por ser irrisório o valor da prestação em comparação com o débito
+consolidado.
+4. Ilegalidade da sanção imposta, por falta de previsão legal.
+5. Recurso especial provido.”32 (grifou-se)
+
+Nessa mesma linha de raciocínio foram proferidos acórdãos pelos Tribunais
+Regionais Federais. Confira-se, exemplificativamente, Ementa de precedente proferido pela
+Sétima Turma do Tribunal Regional Federal da Primeira Região, in verbis:
+
+“PROCESSO CIVIL E TRIBUTÁRIO - MANDADO DE SEGURANÇA -
+PARCELAMENTO - REFIS 2000 (LEI 9.964/2000) - PESSOA JURÍDICA
+OPTANTE PELO SIMPLES - INADEQUAÇÃO DAS RAZÕES DE EXCLUSÃO
+- OBSERVÂNCIA DAS EXIGÊNCIAS LEGAIS - INTERPRETAÇÃO
+LITERAL.
+1. O ato impugnado pela apelante é a Portaria do Comitê Gestor do Programa de
+Recuperação Fiscal nº 2.423, publicada no Diário Oficial da União de 31 de agosto de
+2011, que indicou como fundamento da exclusão o art. 5º, II, da Lei 9.964/2000.
+2. Consoante se verifica da literalidade do dispositivo legal especificado, a hipótese de
+exclusão refere-se à inadimplência, cuja redação é a seguinte: Art. 5º A pessoa jurídica
+optante pelo Refis será dele excluída nas seguintes hipóteses, mediante ato do Comitê
+Gestor: I - (...); II - inadimplência, por três meses consecutivos ou seis meses alternados,
+o que primeiro ocorrer, relativamente a qualquer dos tributos e das contribuições
+abrangidos pelo Refis, inclusive os com vencimento após 29 de fevereiro de 2000;"
+3. In casu, revela-se esclarecedor para o deslinde da controvérsia os argumentos
+lançados no douto parecer ministerial, cujo trecho transcrevo: "Acontece que o
+pagamento do valor considerado irrisório pela Fazenda Nacional decorre do percentual
+de 0,3% previsto no art. 2°, §4°, 354 de 356 inciso I I , alínea "a", da Lei 9.964/2000.
+Deste modo, o valor da prestação a ser paga mensalmente pela apelante
+corresponde às regras estabelecidas na Lei que rege o Programa.(...) As hipóteses
+
+32 Superior Tribunal de Justiça. Segunda Turma. REsp 1100843/PR. Relatora Ministra Eliana Calmon. Dje
+02/12/2009.
+
+[[pagina 34 | nativo]]
+de exclusão do Programa estão expressamente previstas no art. 5°, da Lei
+9.964/2000, não podendo a Administração excluir a apelante do REFIS com base
+em situação não prevista no diploma de regência.
+4. Na espécie, pois, não restou demonstrada qualquer violação à legislação de regência
+que justifique a exclusão do contribuinte do REFIS, limitando-se a parte apelada a
+suscitar tão somente a infringência aos princípios básicos da moratória, caracterizada
+pelo crescimento constante da dívida e a incapacidade financeira de quitação do
+débito.
+5. Portanto, o ato de exclusão da apelante padece de ilegalidade, devendo ser
+reconhecido o direito de manutenção da empresa no Programa de Recuperação Fiscal
+2000. Precedente do STJ (REsp 1242772/SC, Rel. Ministra ELIANA CALMON,
+SEGUNDA TURMA, DJe 18/02/2014).
+6. Apelação provida.”33 (grifou-se)
+
+Entretanto, ao longo dos últimos anos, a jurisprudência de ambas as Turmas de
+Direito Público do Superior Tribunal de Justiça, se alinhou no sentido de reconhecer a
+possibilidade de exclusão dos contribuintes do REFIS I, com fulcro no art. 5º, II da Lei nº
+9.964/00 (inadimplência), se restar demonstrada a ineficácia do parcelamento como forma de
+quitação do débito (parcelas ínfimas). Confira-se precedentes elucidativos acerca do
+posicionamento adotado pelo Tribunal Cidadão:
+
+“PROCESSUAL CIVIL. TRIBUTÁRIO. REFIS. PARCELAMENTO. PESSOA
+JURÍDICA OPTANTE PELO SIMPLES. RECOLHIMENTO COM BASE EM 0,3%
+DA RECEITA BRUTA. POSSIBILIDADE DE EXCLUSÃO DO PROGRAMA
+DE PARCELAMENTO SE RESTAR DEMONSTRADA A SUA INEFICÁCIA
+COMO FORMA DE QUITAÇÃO DO DÉBITO. ART. 2º, §4º, II E ART. 5º, II,
+DA LEI N. 9.964/2000.
+1. É possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no
+art. 5º, II da Lei n. 9.964/2000 (inadimplência), se restar demonstrada a ineficácia do
+parcelamento como forma de quitação do débito, considerando-se o valor do débito e
+o valor das prestações efetivamente pagas. Situação em que a impossibilidade de
+adimplência há que ser equiparada à inadimplência para efeitos de exclusão do dito
+programa de parcelamento. Precedente específico para o REFIS: REsp 1.238.519/PR,
+Segunda Turma, Rel. Min. Eliana Calmon, julgado em 20.08.2013. Precedentes em
+casos análogos firmados no âmbito do Programa de Parcelamento Especial - PAES:
+REsp 1.187.845/ES, Segunda Turma, Rel. Min. Mauro Campbell, DJe 28.10.10; EDcl
+no AREsp 277.519/DF, Primeira Turma, Rel. Min. Arnaldo Esteves Lima, julgado em
+21/03/2013; REsp 1.321.865/PE, Segunda Turma, Rel. Min. Humberto Martins,
+julgado em 26/06/2012; REsp 1.237.666/PR, Segunda Turma, Rel. Min. Mauro
+Campbell Marques, julgado em 22/03/2011; REsp. nº 1.307.628/GO, Segunda Turma,
+Rel. Min. Mauro Campbell Marques, julgado em 18.09.2012.
+
+33 Tribunal Regional Federal da Primeira Reginão. Sétima Turma. Apelação em Mandado de Segurança nº
+0069929-57.2011.4.01.3400. Desembargador Federal Reynaldo Fonseca. e-DJF1 20/03/2015. Pág. 714.
+
+[[pagina 35 | nativo]]
+2. A tese da possibilidade de exclusão por parcela irrisória firmada nos precedentes
+relativos ao Programa de Parcelamento Especial - PAES, instituído pela Lei n.
+10.684/2003,"tese da parcela ínfima", é perfeitamente aplicável ao Programa de
+Recuperação Fiscal - REFIS, posto que compatíveis os fundamentos decisórios.
+3. Caso em que o valor do débito originalmente parcelado era de aproximadamente R$
+200.000,00 (duzentos mil reais) e após dez anos de parcelamento aumentou para valor
+superior a R$ 390.000,00 (trezentos e noventa mil reais), já que o valor irrisório da
+parcela, que variava entre R$ 30,00 (trinta e cinco reais) e R$ 57, 00 (cinquenta e sete
+reais), sequer era suficiente para quitar os encargos mensais do débito (TJLP) que
+chegavam a aproximadamente R$ 1.000,00 (mil reais), de modo que o valor devido,
+acaso seja mantido o parcelamento, tenderá a aumentar com o tempo, não havendo
+previsão para a sua quitação, contrariando a teleologia dos programas de
+parcelamento.
+4. Recurso especial não provido.”34 (grifou-se)
+
+***
+
+“PROCESSUAL CIVIL. AGRAVO INTERNO NO AGRAVO EM RECURSO
+ESPECIAL.
+CÓDIGO DE PROCESSO CIVIL DE 2015. APLICABILIDADE. ARGUMENTOS
+INSUFICIENTES PARA DESCONSTITUIR A DECISÃO ATACADA.
+PROGRAMA DE RECUPERAÇÃO FISCAL - REFIS. EXCLUSÃO. LEI N.
+9.964/00. APLICAÇÃO.
+INEFICÁCIA DO PARCELAMENTO PARA A QUITAÇÃO DO DÉBITO.
+INCIDÊNCIA DA SÚMULA N. 83/STJ. I - Consoante o decidido pelo Plenário desta
+Corte na sessão realizada em 09.03.2016, o regime recursal será determinado pela data
+da publicação do provimento jurisdicional impugnado. Assim sendo, in casu, aplica-se
+o Código de Processo Civil de 2015.
+II - É pacífico o entendimento no Superior Tribunal de Justiça segundo o qual é
+possível a exclusão do Programa de Recuperação Fiscal - REFIS, com fulcro no art.
+5º, II, da Lei n. 9.964/00 (inadimplência), se restar demonstrada a ineficácia do
+parcelamento como forma de quitação do débito, considerando-se o valor do débito e
+o valor das prestações efetivamente pagas.
+III - O recurso especial, interposto pelas alíneas a e/ou c do inciso III do art. 105 da
+Constituição da República, não merece prosperar quando o acórdão recorrido
+encontra-se em sintonia com a jurisprudência desta Corte, a teor da Súmula n. 83/STJ.
+IV - A Agravante não apresenta, no agravo, argumentos suficientes para desconstituir
+a decisão recorrida.
+V - Agravo Interno improvido.”35
+
+Como demosntrado, a relevância da controvérsia judicial se evidencia do fato
+de que embora, ao longo dos últimos anos, o Superior Tribunal Federal tenha consolidado sua
+
+34 Superior Tribunal de Justiça. Segunda Turma. Recurso Especial nº 1.447.131/RS. Relator Ministro Mauro
+Campbell Marques. Julgado em 20/05/2014. DJe 26/05/2014.
+35 Superior Tribunal de Justiça. Primeira Turma. AgInt no AREsp 942.390/RS. Relatora Ministra Regina Helena
+Costa. DJe 10/05/2017.
+
+[[pagina 36 | nativo]]
+jurisprudência ao entendimento sustentado pela Fazenda Nacional no Parecer PGFN/CDA nº
+1.206/13, ou seja, favorável à “tese da parcela ínfima”, até o presente momento, a matéria
+não foi analisada em quórum qualificado, e nem houve qualquer afetação do tema para
+julgamento em sede de Recurso Repetitivo.
+
+Isto é, atualmente, os precedentes emanados pelo Superior Tribunal de Justiça -
+que têm guiado a compreensão dos Tribunais Regionais Federais - foram objeto de análise
+somente pela Primeira e Segunda Turmas isoladas, não tendo precedente da matéria proferido
+pela Primeira Seção, ou pela Corte Especial – que traz uma grande insegurança aos
+contribuintes jurisdicionados.
+
+Portanto, faz-se necessário que este Supremo Tribunal Federal, mediante a
+declaração da constitucionalidade dos arts. 5º e 9º da Lei nº 9.964/00, ponha um termo na
+controvérsia promovida pela “tese da parcela ínfima”, de forma a garantir a uniformização
+do tema para todo o Poder Judiciário.
+
+VI – A POSSIBILIDADE DE FUNGIBILIDADE ENTRE A AÇÃO DECLARATÓRIA
+DE CONSTITUCIONALIDADE E A AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE
+
+Conforme demonstrado no curso dessa petição inicial, há controvérsia judicial
+relevante acerca da constitucionalidade da norma. A interpretação que se lhe está sendo dada
+equivale a uma verdadeira – em que pese não revelada - declaração de inconstitucionalidade.
+
+A norma, ao contrário do que entende a Receita Federal do Brasil, não permite
+múltiplas interpretações. Há uma – e apenas uma – que se amolda ao texto constitucional e
+essa é exatamente a que se busca nessa ação declaratória de constitucionalidade.
+
+Em que pese assim seja, caso esse Supremo Tribunal Federal compreenda não
+ser hipótese de ação declaratória de constitucionalidade, que a receba como ação direta de
+inconstitucionalidade (procedimento perfeitamente possível, considerando serem ações de
+controle concentrado “com sinais trocados”), para reconhecer como inconstitucional qualquer
+interpretação das normas aqui tratadas de molde a excluir, do parcelamento Refis,
+contribuintes que aderiram regularmente a essa especial moratória e vinham adimplindo as
+parcelas tal qual previsto na lei. A interpretação a permitir a exclusão dos contribuintes por
+pagamento de suposta parcela ínfima é inteiramente inconstitucional e deve ser afastada.
+
+VII - O PEDIDO CAUTELAR:
+
+Como se sabe, o artigo 21 e seu Parágrafo Único da Lei nº 9.868, de 1999,
+permitem a concessão de liminar em Ação Declaratória de Constitucionalidade, cujos
+
+[[pagina 37 | nativo]]
+requisitos para concessão da medida são os tradicionais: i) fumus boni iuris e ii) periculum in
+mora.
+
+Ambos estão fartamente comprovados no caso concreto.
+
+Incontroverso é que a Lei emanada pelo Congresso Nacional exsurge dotada de
+presunção de constitucionalidade, possuindo caráter cogente desde logo em vigor.
+
+No presente caso, revela-se imprescindível a pronúncia deste Egrégio Supremo
+Tribunal, guardião institucional da Constituição, para firmar natureza absoluta à presunção de
+constitucionalidade atribuída ao ato normativo.
+
+Tal necessidade de declaração advém da imperiosa manutenção da segurança
+jurídica, pilar de sustentação do ordenamento jurídico, apto a garantir a estabilidade das
+instituições democráticas, uma vez que posto em xeque pelo Parecer PGFN/CDA nº
+1.206/2013 e pela jurisprudência do Superior Tribunal de Justiça.
+
+E é nesse diapasão que segue este caso sob análise.
+
+A probabilidade do direito foi exaustivamente demonstrada no bojo dessa peça,
+ressaltando-se que os dispositivos legais cuja constitucionalidade se quer ver declarada
+resguardam os princípios da legalidade, segurança jurídica, bem como ao princípio da
+preservação da empresa e aos princípios da confiança e boa-fé objetiva que regem a
+administração pública, estando em plena compatibilidade com o ordenamento jurídico
+brasileiro.
+
+Ademais, a manifesta insegurança jurídica causada pela edição do Parecer
+PGFN/CDA nº 1.206/2013 e pelos precedentes do Superior Tribunal de Justiça acerca da
+matéria, expuseram os contribuintes à situação danosa e capaz de causar graves lesões,
+uma vez que vários foram excluídos do REFIS após décadas da adesão e, atualmente,
+enfrentam execuções fiscais em valores extremamente elevados. Muitas dessas empresas não
+possuem capital suficiente para fazer frente a tais débitos (que datam mais de 30 anos de
+atualização) e podem até vir a encerrar a sua atividade econômica.
+
+Ademais, sequer existe qualquer prejuízo à Fazenda Nacional com a concessão
+da medida que apenas restabelecerá situações de fato que perduraram por mais de 10, 20 anos,
+a depender de contribuinte que ainda hoje seguem sofrendo com exclusões indevidas do
+REFIS I.
+
+Portanto, a medida cautelar é instrumento eficaz e indispensável no caso
+concreto para a manutenção da segurança jurídica e para a tutela da legítima expectativa dos
+contribuintes que, desde a adesão ao Refis até sua exclusão, efetuaram, de boa-fé, o
+pagamento regular das prestações nos exatos termos estipulados pela Lei nº 9.964/00.
+
+
+[[pagina 38 | nativo]]
+Diante do exposto, requer o Conselho Federal da OAB o deferimento da
+cautelar a fim de determinar (i) que os juízes e os Tribunais suspendam o julgamento dos
+processos que discutam a exclusão de contribuintes do REFIS I, com base na "tese da parcela
+ínfima", bem como, (ii) que sejam também suspensas as Execuções Fiscais que promovem a
+cobrança de débitos restabelecidos pela Fazenda Nacional, decorrente da exclusão de
+contribuintes fundada na aludida "tese da parcela ínfima", até o definitivo julgamento desta
+ADC, por decisão monocrática, ad referendum do Plenário36, ou mediante a pronta inclusão
+do feito em pauta.
+
+VIII - O PEDIDO FINAL:
+
+Pelo exposto, o Conselho Federal da Ordem dos Advogados do Brasil requer:
+
+a) a concessão de medida cautelar, com base no art. 21 da Lei nº 9.868/99,
+por decisão monocrática, ad referendum do Plenário, ou mediante a pronta
+inclusão do feito em pauta, para que (i) sejam suspensos os julgamentos dos
+processos (administrativos ou judiciais) que discutam a exclusão de
+contribuintes do REFIS I, com base na "tese da parcela ínfima", bem como
+que, (ii) sejam também suspensas as cobranças e execuções fiscais de débitos
+restabelecidos pela Fazenda Nacional, decorrente da exclusão de contribuintes
+fundada na aludida "tese da parcela ínfima", até o definitivo julgamento desta
+ADC;
+
+b) a notificação da PRESIDÊNCIA DA REPÚBLICA, da CÂMARA
+DOS DEPUTADOS, e do SENADO FEDERAL, por intermédio de seus
+Presidentes, para que, como responsáveis pela elaboração das normas
+impugnadas, manifestem-se, querendo, sobre o mérito da presente ação, no
+prazo de 30 (trinta) dias, nos termos do art. 6º, parágrafo único da Lei nº
+9.868/99;
+
+c) a notificação do Exmo. Sr. Procurador Geral da República para que
+emita o seu parecer, nos termos do art. 103, § 1º da Carta Política;
+
+36 Exemplo recente deste procedimento é a ADI nº 4.917/DF (DJe 21.03.2013).
+
+[[pagina 39 | nativo]]
+d) por fim, a procedência desta Ação Declaratória de Constitucionalidade
+dos arts. 5º e 9º da Lei nº 9.964/00, gerando efeitos vinculantes para ser
+acatado por todo o Poder Judiciário desse país, inclusive com interpretação
+conforme para afirmar não ser possível a exclusão de contribuintes do REFIS I
+por fundamento em situação de parcelas ínfimas ou impagáveis.
+
+e) e caso entenda a Corte não ser hipótese de ação declaratória de
+constitucionalidade, que receba e julgue a ação como ação direta de
+inconstitucionalidade, para o fim de declarar a inconstitucionalidade da
+interpretação que permitiu e permite a exclusão dos contribuintes que, aceitos
+no programa de parcelamento, vinham adimplindo-o em estrita conformidade
+com as normas existentes do programa (afastada a tese da parcela ínfima);
+
+Caso seja necessário, requer seja deferida a produção de provas (art. 20, § 1º,
+da Lei nº 9.868/99).
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de aferi-lo.
+
+Nesses termos, pede deferimento.
+
+Brasília/DF, 7 de outubro de 2021
+
+Felipe de Santa Cruz Oliveira Scaletsky
+Presidente do Conselho Federal da OAB
+OAB/RJ 95.573
+
+Luiz Gustavo A. S. Bichara
+Procurador Especial Tributário do Conselho Federal da OAB
+OAB/DF 21.445
+
+Lizandra Nascimento Vicente Manuela Elias Batista
+OAB/DF 39.992 OAB/DF 55.415
+

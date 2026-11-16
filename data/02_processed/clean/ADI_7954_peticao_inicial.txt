@@ -1,0 +1,870 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO
+BRASIL – CFOAB, serviço público dotado de personalidade jurídica própria e forma
+Federativa, regulamentado pela Lei nº 8.906/94, com sede em Brasília/DF, no SAUS, Qd. 05,
+Lote 01, Bloco M, Asa Sul, CEP: 70070-050, inscrito no CNPJ sob nº 33.205.451/0001-14,
+endereço eletrônico pc@oab.org.br, vem, à presença de Vossa Excelência, com fulcro nos
+arts. 102, I, a, e 103, VII, da Constituição, no art. 54, XIV, da Lei nº 8.906/94 e no art. 2º, VII,
+da Lei nº 9.868/99, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+C/C PEDIDO DE CAUTELAR
+
+em face dos artigos 6º-A e 16-A da Lei nº 9.250/1995 (redação da Lei nº 15.270/2025). Os
+dispositivos impugnados instituem modelo de tributação que, ao incidir sobre a totalidade da
+renda sem escalonamento marginal ocasionam o “efeito degrau” (efeito confiscatório por
+salto), subvertem a progressividade do sistema e contrariam regras e princípios da
+Constituição Federal, conforme as razões a seguir expostas.
+
+
+[[pagina 2 | nativo]]
+I. DO OBJETO: DISPOSITIVOS QUESTIONADOS
+
+A presente ação direta de inconstitucionalidade tem por objeto a declaração da
+
+inconstitucionalidade do modelo de tributação de dividendos instituído pelos artigos 6º-A e
+
+16-A da Lei nº 9.250/95, introduzidos pela Lei nº 15.270, sancionada em 26 de novembro de
+
+2025 e com vigência a partir de 1º de janeiro de 2026. Os dispositivos preconizam:
+
+i.Tributação mensal de altas rendas (art. 6º-A): Retenção na fonte de
+10% sobre lucros e dividendos superiores a R$ 50.000,00 mensais
+pagos por uma mesma pessoa jurídica a uma mesma pessoa física;
+
+ii.Tributação anual de altas rendas (art. 16-A): Tributação mínima de
+IRPF para pessoas físicas cuja soma de rendimentos anuais supere R$
+600.000,00, com alíquota progressiva até 10% para rendimentos
+superiores a R$ 1.200.000,00;
+
+iii.Redutor de tributação (art. 16-B): Mecanismo de compensação para
+evitar que a carga tributária conjunta (PJ + PF) ultrapasse as alíquotas
+nominais de IRPJ e CSLL no regime do lucro real.
+
+Confira-se a redação da norma:
+
+CAPÍTULO II-A
+DA TRIBUTAÇÃO MENSAL DE ALTAS RENDAS
+
+Art. 6º-A. A partir do mês de janeiro do ano-calendário de 2026, o pagamento, o
+creditamento, o emprego ou a entrega de lucros e dividendos por uma mesma pessoa
+jurídica a uma mesma pessoa física residente no Brasil em montante superior a
+R$ 50.000,00 (cinquenta mil reais) em um mesmo mês fica sujeito à retenção na fonte do
+Imposto sobre a Renda das Pessoas Físicas à alíquota de 10% (dez por cento) sobre o
+total do valor pago, creditado, empregado ou entregue.
+§ 1º São vedadas quaisquer deduções da base de cálculo.
+§ 2º Caso haja mais de 1 (um) pagamento, crédito, emprego ou entrega de lucros e
+dividendos no mesmo mês, realizado por uma mesma pessoa jurídica a uma mesma
+pessoa física residente no Brasil, o valor retido na fonte referente ao Imposto sobre a
+Renda das Pessoas Físicas deve ser recalculado de modo a considerar o total dos
+valores pagos, creditados, empregados ou entregues no mês.
+§ 3º Não se sujeitam ao Imposto sobre a Renda das Pessoas Físicas de que trata este
+artigo os lucros e dividendos:
+I - relativos a resultados apurados até o ano-calendário de 2025;
+II - cuja distribuição tenha sido aprovada até 31 de dezembro de 2025; e
+
+
+[[pagina 3 | nativo]]
+III - exigíveis nos termos da legislação civil ou empresarial, desde que seu pagamento,
+crédito, emprego ou entrega ocorra nos termos originalmente previstos no ato de
+aprovação.”(...)
+
+CAPÍTULO III-A
+DA TRIBUTAÇÃO ANUAL DE ALTAS RENDAS
+Art. 16-A. A partir do exercício de 2027, ano-calendário de 2026, a pessoa física cuja
+soma de todos os rendimentos recebidos no ano-calendário seja superior a
+R$ 600.000,00 (seiscentos mil reais) fica sujeita à tributação mínima do Imposto sobre a
+Renda das Pessoas Físicas, nos termos deste artigo.
+§ 1º Para fins do disposto no caput deste artigo, serão considerados, na definição da
+base de cálculo da tributação mínima, o resultado da atividade rural, apurado na forma
+dos arts. 4º, 5º e 14 da Lei nº 8.023, de 12 de abril de 1990, e os rendimentos recebidos
+no ano-calendário, inclusive os tributados de forma exclusiva ou definitiva e os isentos
+ou sujeitos à alíquota zero ou reduzida, deduzindo-se, exclusivamente:
+§ 2º A alíquota da tributação mínima do Imposto sobre a Renda das Pessoas Físicas será
+fixada com base nos rendimentos apurados nos termos do § 1º deste artigo, observado o
+seguinte:
+I - para rendimentos iguais ou superiores a R$ 1.200.000,00 (um milhão e duzentos mil
+reais), a alíquota será de 10% (dez por cento); e
+II - para rendimentos superiores a R$ 600.000,00 (seiscentos mil reais) e inferiores a
+R$ 1.200.000,00 (um milhão e duzentos mil reais), a alíquota crescerá linearmente de 0
+(zero) a 10% (dez por cento), conforme a seguinte fórmula:
+Alíquota % = (REND/60.000) - 10, em que:
+REND = rendimentos apurados na forma prevista no § 1º deste artigo.
+§ 3º O valor devido da tributação mínima do Imposto sobre a Renda das Pessoas Físicas
+será apurado a partir da multiplicação da alíquota pela base de cálculo, com a
+dedução:
+I - do Imposto sobre a Renda das Pessoas Físicas devido na declaração de ajuste anual,
+calculado nos termos do art. 12 desta Lei;
+II - do Imposto sobre a Renda das Pessoas Físicas retido exclusivamente na fonte
+incidente sobre os rendimentos incluídos na base de cálculo da tributação mínima do
+imposto;
+III - do Imposto sobre a Renda das Pessoas Físicas apurado com fundamento nos arts. 1º
+a 13 da Lei nº 14.754, de 12 de dezembro de 2023;
+IV - do Imposto sobre a Renda das Pessoas Físicas pago definitivamente referente aos
+rendimentos computados na base de cálculo da tributação mínima do imposto e não
+considerado nos incisos I, II e III deste parágrafo; e
+V - do redutor apurado nos termos do art. 16-B desta Lei.
+§ 4º Caso o valor apurado nos termos do § 3º deste artigo seja negativo, o valor devido a
+título de tributação mínima do Imposto sobre a Renda das Pessoas Físicas será 0 (zero).
+§ 5º Do valor apurado na forma prevista nos §§ 3º e 4º deste artigo será deduzido o
+montante do Imposto sobre a Renda das Pessoas Físicas na fonte antecipado nos termos
+do art. 6º-A desta Lei.
+§ 6º O resultado obtido nos termos do § 5º deste artigo será adicionado ao saldo do
+Imposto sobre a Renda das Pessoas Físicas, a pagar ou a restituir, apurado na
+declaração de ajuste anual, nos termos do art. 12 desta Lei.
+
+
+[[pagina 4 | nativo]]
+A Lei nº 15.270/2025, editada no complexo cenário de reestruturação do
+
+Sistema Tributário Nacional, instituiu um arcabouço normativo de densa tecnicidade,
+
+marcado pela coexistência de tabelas progressivas, fórmulas de alíquotas lineares e
+
+mecanismos de ajuste de carga efetiva. Essa arquitetura legislativa, embora ancorada em uma
+
+aparente pretensão de justiça distributiva, acabou por criar um sistema que compromete a
+
+previsibilidade do ônus fiscal pelo contribuinte.
+
+Ocorre que, para além da complexidade operacional, a norma padece de
+
+contradições estruturais e falhas de técnica legislativa que, ao tentarem capturar a capacidade
+
+econômica das altas rendas, atropelaram garantias constitucionais consolidadas, demandando
+
+a imediata intervenção desse Excelso Pretório para restaurar a higidez do ordenamento. O
+
+CFOAB adianta que o ponto nevrálgico da presente ADI é a ausência de dedução na base de
+cálculo do tributo, ocasionando o denominado "efeito degrau" (notch effect)1.
+
+O artigo 6º-A inaugura a distorção ao instituir uma retenção na fonte de 10%
+
+sobre o total dos lucros e dividendos que ultrapassarem o teto mensal de R$ 50.000,00, sem
+
+prever qualquer escalonamento ou parcela a deduzir. A norma ignora a técnica das
+
+alíquotas marginais e, por meio da vedação contida em seu § 1º, interdita a preservação da
+
+faixa de isenção anterior, fazendo com que o contribuinte que atinge o "gatilho de incidência"
+
+sofra uma redução nominal imediata em sua disponibilidade financeira, o que caracteriza um
+
+confisco por salto e afronta o princípio da capacidade contributiva.
+
+Sob a mesma lógica viciada, o artigo 16-A estende essa "progressividade às
+
+avessas" para o ajuste anual de altas rendas, utilizando uma fórmula de alíquota linear que,
+
+embora aparente suavidade, retroage para tributar montantes que o próprio sistema declarou
+
+isentos até o patamar de R$ 600.000,00.
+
+1 Sobre o conceito de notch effect (efeito degrau) na tributação, vide: ÁVILA, Humberto. Sistema
+Constitucional Tributário. 5. ed. São Paulo: Saraiva, 2012. O autor leciona que a progressividade deve ser
+estruturada de forma a evitar que o aumento da base de cálculo gere um ônus tributário superior ao próprio
+incremento da riqueza, sob pena de violação à igualdade e à capacidade contributiva. Na literatura econômica
+internacional, a referência clássica é KLEVEN, Henrik J.; WASEEM, Mazhar. Using Notches to Uncover
+Optimization Frictions and Structural Elasticities: Theory and Evidence from Pakistan. The Quarterly Journal
+of Economics, v. 128, n. 2, p. 669-723, 2013, que define o notch como uma descontinuidade no valor líquido
+que cria incentivos distorcidos e confisco marginal.
+
+
+[[pagina 5 | nativo]]
+Ao determinar que a alíquota final incida sobre a base de cálculo integral, o
+
+dispositivo cria um abismo arrecadatório que pune o incremento patrimonial, subvertendo a
+
+geometria constitucional da progressividade e transformando o imposto em uma sanção ao
+
+êxito econômico.
+
+Cabe destacar que cenário de insegurança jurídica e injustiça tributária
+
+ocasionada pelo erro matemático, o já citado “efeito degrau” contido nos arts. 6º-A e 16-A
+
+não é corrigido posteriormente, embora aparente ser essa a intenção do redutor de carga
+
+tributária previso no art. 16-B. Além de erguer uma barreira de complexidade operacional
+
+(que não será objeto desta impugnação), o redutor é um benefício ilusório que, na prática, não
+
+sana o efeito confiscatório engendrado pelos dispositivos objetos desta ação.
+
+O legislador, embora tenha reconhecido o risco de sobrecarga tributária do
+
+sistema, falhou ao tentar remediá-la, mantendo uma incongruência aritmética insuperável.
+
+A ratio legis da norma, conforme exposição de motivos, consiste em ampliar a
+
+progressividade do sistema tributário e combater o planejamento tributário abusivo de
+
+contribuintes de alta capacidade contributiva que distribuem lucros para evitar a tributação
+
+progressiva do IRPF. Contudo, ao instituir alíquotas incidentes sobre a totalidade da base, a
+
+norma subverte sua própria lógica e falha em seu cerne: em sistemas progressivos hígidos, a
+
+tributação deve incidir exclusivamente sobre o que excede o teto de desoneração, preservando
+
+a integridade do patrimônio consolidado nos patamares inferiores.
+
+O que se observa, em verdade, é uma fraude à garantia da isenção: o legislador
+
+estabelece um 'mínimo imune' para, no centavo seguinte, capturá-lo retroativamente por meio
+
+de um cálculo cego à capacidade contributiva. Essa contradição sistêmica aniquila a
+
+segurança jurídica, pois transforma a faixa de isenção em uma armadilha arrecadatória, onde o
+
+incremento da renda ocasiona uma punição confiscatória de valores que o Estado já havia
+
+renunciado a tributar.
+
+
+[[pagina 6 | nativo]]
+II. DO MÉRITO: FUNDAMENTOS DA INCONSTITUCIONALIDADE
+
+A controvérsia jurídica submetida ao crivo dessa E. Corte não se limita a mera
+
+divergência sobre política fiscal ou conveniência arrecadatória; ela toca o cerne da higidez do
+
+Sistema Tributário Nacional e a própria moralidade da exação estatal. Os dispositivos
+
+impugnados, ao ignorarem a técnica elementar da progressividade marginal, rompem com o
+
+pacto de previsibilidade e justiça que deve reger a relação entre o Fisco e o contribuinte.
+
+A norma ora combatida institui um modelo de tributação que subverte a lógica
+
+da capacidade contributiva, transformando o incremento patrimonial — que deveria ser sinal
+
+de prosperidade — em um gatilho de punição econômica. Para o deslinde desta ação, o
+
+CFOAB invoca como parâmetros de controle princípios que formam a coluna vertebral da
+
+proteção ao contribuinte, os quais restaram frontalmente vulnerados pela Lei nº 15.270/2025:
+
+1. Princípio da Progressividade (Art. 153, § 2º, I, CF): preceitua que o
+ônus fiscal deve crescer mediante alíquotas marginais, incidindo apenas sobre
+o que excede a faixa anterior. A norma viola este vetor ao instituir uma
+progressividade simples (por salto) que tributa a totalidade da renda e anula a
+parcela a deduzir, transfigurando o imposto em uma exação linear agressiva.
+
+2. Capacidade contributiva (art. 145, § 1º, CF/88): determina a graduação
+do imposto conforme o rendimento disponível. Ao tributar a totalidade da
+renda sem escalonamento, a norma cria situações em que o ganho marginal
+bruto é inferior ao imposto devido, penalizando o contribuinte precisamente
+no momento em que ele demonstra maior êxito econômico, o que esvazia o
+conceito de riqueza tributável.
+
+3. Vedação ao confisco e ao retrocesso (art. 150, IV, CF/88): interdita o
+uso de tributo com efeito expropriatório e protege o mínimo isento. A
+inexistência de escalonamento gera um confisco marginal, uma vez que o
+Estado retroage para capturar montantes sobre os quais já havia renunciado a
+tributar, anulando o benefício econômico do incremento de renda.
+
+4. Isonomia tributária (art. 150, II, CF/88): Exige tratamento equivalente
+entre contribuintes em situações análogas. A norma rompe a isonomia ao
+estabelecer um desequilíbrio comparativo arbitrário, no qual o contribuinte
+com maior renda bruta termina com renda líquida inferior à daquele que
+permaneceu na faixa de isenção.
+
+
+[[pagina 7 | nativo]]
+Ante esse cenário de manifesta insegurança jurídica, a intervenção desta
+
+Suprema Corte faz-se inadiável para restaurar a racionalidade do sistema. Não se trata de uma
+
+discussão meramente contábil, mas de impedir que o Estado desnature garantias fundamentais
+
+e promova uma expropriação patrimonial transversa sob o pretexto de tributar altas rendas.
+
+A manutenção da eficácia dos dispositivos impugnados sujeita o contribuinte a
+
+um estado de perene vulnerabilidade, em que o legítimo incremento patrimonial é capturado
+
+por uma carga tributária cega e desproporcional, que ignora o rendimento líquido disponível.
+
+É imperativo, portanto, que a geometria constitucional da progressividade seja resguardada,
+
+assegurando-se que a tributação sobre a renda atue como instrumento de justiça fiscal, e não
+
+como uma barreira confiscatória que aniquila a previsibilidade e a própria higidez do
+
+ordenamento tributário.
+
+a. Da ofensa à progressividade graduada: o "efeito degrau" e a ausência de alíquotas
+
+marginais
+
+A progressividade, insculpida no Art. 153, § 2º, I, da Constituição Federal, não
+
+se resume à mera previsão de alíquotas crescentes conforme o aumento da base de cálculo.
+
+Para que o imposto de renda cumpra sua função constitucional, a progressividade deve ser
+
+graduada (ou marginal), técnica que pressupõe a fragmentação da base tributável em faixas
+
+sucessivas.
+
+Diferente da progressividade simples, onde uma única alíquota incide sobre a
+
+totalidade do montante ao se atingir determinado patamar, a progressividade marginal exige
+
+que o novo percentual onere exclusivamente a parcela que excede o limite da faixa anterior. É
+
+essa mecânica que permite a coexistência de uma faixa isenta com alíquotas superiores,
+
+garantindo que o incremento de renda não seja anulado pelo incremento do tributo.
+
+
+[[pagina 8 | nativo]]
+Ao instituir, nos Arts. 6º-A e 16-A, alíquotas que incidem sobre o total dos lucros
+
+ou da renda anual, sem a previsão de uma parcela a deduzir, a Lei nº 15.270/2025 incorre no
+
+vício do "efeito degrau". Trata-se de uma anomalia aritmética em que a carga tributária salta
+
+de forma desproporcional no exato ponto de transição entre a isenção e a tributação.
+
+A ausência de escalonamento marginal produz um resultado absurdo: o
+
+contribuinte que ultrapassa o teto de isenção (R$ 50.000,00 mensais ou R$ 600.000,00 anuais)
+
+experimenta uma redução nominal de sua renda líquida. Em termos matemáticos, o ganho
+
+marginal aciona uma tributação que retroage sobre a base anteriormente isenta,
+
+"sequestrando" o valor que o próprio legislador inicialmente definiu como imune.
+
+Como ensina a doutrina de Ricardo Lobo Torres2, a progressividade marginal é a
+
+única forma de conciliar a arrecadação estatal com a preservação do mínimo existencial e da
+
+capacidade contributiva. Ao anular essa técnica, a norma impugnada transfigura o Imposto de
+
+Renda em um confisco sobre o êxito econômico, violando a segurança jurídica de quem
+
+planeja suas finanças com base nas isenções legalmente prometidas.
+
+A proibição de deduções contida no § 1º do Art. 6º-A é a prova cabal dessa
+
+ruptura. Ao vedar qualquer mecanismo de ajuste que preserve a faixa isenta, o legislador
+
+bloqueou a aplicação da progressividade constitucional, substituindo-a por um modelo de
+
+"arrecadação por gatilho" que fere a geometria do sistema tributário e a boa-fé do
+
+contribuinte.
+
+2 TORRES, Ricardo Lobo. Tratado de Direito Constitucional Financeiro e Tributário, Vol. IV: Os Direitos
+Fundamentais e a Tributação. 3. ed. Rio de Janeiro: Renovar, 2005. O autor defende que a progressividade
+marginal é o instrumento técnico indispensável para a realização da justiça distributiva, pois impede que o
+tributo avance sobre o "mínimo isento" ou sobre a parcela da renda necessária à dignidade humana, evitando que
+o imposto se transforme em instrumento de espoliação patrimonial ou confisco.
+
+
+[[pagina 9 | nativo]]
+b. Da ofensa simultânea à capacidade contributiva e à isonomia tributária: a "punição" ao
+
+incremento patrimonial
+
+O princípio da isonomia tributária (arts. 5º, caput e I, e 150, II, CF/88) veda o
+
+tratamento desigual entre contribuintes em situação equivalente, bem como o tratamento igual
+
+aos contribuintes em situação desigual, consagrando a igualdade formal e material como
+
+direito fundamental. Constituiu, portanto, a proibição de discriminações arbitrárias, de modo
+
+que situações equivalentes devem receber tratamento idêntico, e situações distintas,
+
+tratamento diferenciado na medida de suas desigualdades.
+
+O princípio da capacidade contributiva (art. 145, § 1º, CF/88), por sua vez,
+
+determina que os impostos sejam graduados segundo a capacidade econômica do contribuinte.
+
+Trata-se de corolário da isonomia material e critério de justiça distributiva, impondo que a
+
+tributação recaia sobre manifestações concretas de riqueza e seja graduada de modo a não
+
+onerar desproporcionalmente contribuintes com menor aptidão econômica para suportar o
+
+ônus fiscal.
+
+Se a progressividade é a técnica, a capacidade contributiva e a isonomia são
+
+valores que a sustentam. A norma impugnada, contudo, subverte ambos ao ignorar o impacto
+
+real da exação sobre o rendimento líquido.
+
+A isonomia tributária não se resume à igualdade aritmética, mas exige
+
+tratamento proporcional às desigualdades. A inexistência de uma parcela a deduzir cria uma
+
+aberração normativa: o fenômeno da alíquota marginal efetiva superior a 100%. Isso
+
+significa que, no ponto de transição da faixa de isenção para a tributada, o Estado captura não
+
+apenas o "ganho extra" do contribuinte, mas avança sobre o patrimônio que o próprio
+
+legislador declarou imune.
+
+Para demonstrar a incongruência aritmética e a quebra da isonomia, observem-
+
+se a comparação entre dois contribuintes hipotéticos sob a égide do Art. 6º-A (retenção
+
+mensal) e do art. 16-A (ajuste anual):
+
+
+[[pagina 10 | nativo]]
+Rendimento Bruto Alíquota Imposto Rendimento
+(Lucros) (Art. 6º-A) Retido Líquido
+Contribuinte
+R$50.000,00 0% (Isento) R$0,00 R$50.000,00
+A
+Contribuinte 10% (sobre o
+R$50.001,00 R$5.000,10 R$45.000,90
+B total)
+
+Tabela 1: Comparativo de Rendimento Líquido Mensal (Efeito Notch)
+
+Renda Bruta Anual Alíquota Imposto Devido Renda Líquida
+(REND) Efetiva (Mínimo) Final
+Contribuinte
+R$600.000,00 0% (Isento) R$0,00 R$600.000,00
+C
+Contribuinte ~1,6% (s/ o
+R$600.001,00 R$9.600,02 R$590.400,98
+D total)3
+
+Tabela 2: Impacto na Tributação Mínima Anual (Art. 16-A)
+
+O diagnóstico extraído dos dados acima é inequívoco: enquanto a retenção
+
+mensal pune o fluxo de caixa, o ajuste anual cristaliza a perda patrimonial definitiva. Em
+
+ambos os casos, o legislador criou um "abismo fiscal" onde o incremento de apenas R$ 1,00
+
+na renda bruta resulta em uma perda líquida de milhares de reais.
+
+Tal distorção fere de morte a capacidade contributiva, pois o imposto deixa de
+
+ser uma participação do cidadão proporcional à sua riqueza para se tornar uma sanção
+
+confiscatória. Ao ignorar o rendimento líquido disponível, o Estado promove uma "nivelagem
+
+por baixo", retirando do contribuinte os meios necessários para a manutenção e melhorias da
+
+atividade econômica.
+
+Dessa forma, a norma cria uma discriminação arbitrária e injustificável, e
+
+institui uma isonomia às avessas, na medida em que confere um tratamento mais oneroso e
+
+prejudicial precisamente àquele que demonstrou maior produtividade. Rompe-se, assim, a
+
+harmonia e a razoabilidade que devem reger o Sistema Tributário Nacional.
+
+3 Alíquota de 1,6% estimada com base na fórmula do Art. 16-A, § 2º, II, que incide sobre a totalidade da base
+(REND).
+
+
+[[pagina 11 | nativo]]
+c. Da vedação ao confisco: o sequestro do mínimo isento e a expropriação do ganho
+
+marginal
+
+O princípio da vedação ao confisco (art. 150, IV, CF/88) atua como um limite
+
+intransponível ao poder de tributar, impedindo que o Estado utilize o tributo para expropriar o
+
+patrimônio ou a renda do contribuinte. No cenário em tela, a inconstitucionalidade é
+
+duplamente qualificada: pela expropriação do ganho marginal e pelo retrocesso na garantia da
+
+isenção.
+
+Conforme já exposto, a técnica da progressividade marginal existe
+
+precisamente para evitar o confisco. Quando a lei estabelece que rendimentos até R$
+
+50.000,00 são isentos, ela cria uma esfera de disponibilidade econômica protegida.
+
+Ao determinar que o recebimento de qualquer valor acima dessa esfera (por
+
+exemplo R$ 50.001,00) aciona uma alíquota de 10% sobre a integralidade da base, o
+
+legislador promove o sequestro retroativo daquela faixa que ele mesmo declarou imune.
+
+Colocando de outra forma, o imposto do exemplo acima será de R$ 5.000,10. Considerando
+
+que o acréscimo foi de apenas R$ 1,00 revela a incidência de uma alíquota marginal de
+
+500.010% sobre o incremento da renda. Tal fenômeno não é tributação, mas sim confisco, na
+
+medida em que aniquila não apenas o ganho adicional, mas avança sobre o patrimônio
+
+consolidado na faixa de isenção.
+
+A isenção técnica estabelecida no caput do Art. 6º-A e no Art. 16-A não é uma
+
+benesse, mas o reconhecimento do patamar mínimo de imunidade fiscal para as altas rendas
+
+produtivas. A tentativa de "anular" esse benefício por meio de fórmulas que impedem a
+
+dedução da base de cálculo, explicitada pelo § 1º Art. 6º-A, constitui um retrocesso
+
+institucional.
+
+O Supremo Tribunal Federal, no julgamento da ADI 2.010 MC/DF, já
+
+sinalizou que a tributação não pode ser utilizada como instrumento de destruição do
+
+patrimônio ou de inviabilização da atividade econômica. A Lei nº 15.270/2025, ao instituir o
+
+
+[[pagina 12 | nativo]]
+"efeito degrau", utiliza a técnica tributária para promover uma expropriação transversa
+
+(confisco por salt0), punindo o contribuinte precisamente no momento em que ele ultrapassa o
+
+limiar de subsistência econômica definido pela própria legislação.
+
+Ao fim e ao cabo, a inexistência de uma parcela a deduzir converte o imposto
+
+de renda em um mecanismo de sanção. Enquanto o texto constitucional exige graduação e
+
+harmonia, a norma impõe uma ruptura aritmética que consome a riqueza produzida, ferindo a
+
+segurança jurídica e o direito de propriedade (Art. 5º, XXII, CF/88).
+
+d. Da jurisprudência: a orientação consolidada sobre os limites ao poder de tributar
+
+A fundamentação ora exposta não apenas ecoa os preceitos constitucionais,
+
+como encontra arrimo em sólida e recente orientação dessa Corte, que já enfrentou — e
+
+repeliu — estruturas tributárias que guardam identidade material com o vício ora combatido, e
+
+consolidou jurisprudência no sentido de que a isonomia tributária e a capacidade contributiva
+
+constituem limites materiais ao poder de tributar, vinculando o legislador ordinário.
+
+Merece destaque o entendimento fixado no RE 562.045/RS (Rel. p/ acórdão
+Min. Cármen Lúcia)4, que sublinhou a função da capacidade contributiva como critério de
+
+justiça que deve nortear a atividade do legislador, impedindo que o tributo onere de forma
+
+desarrazoada o patrimônio do contribuinte.
+
+Especificamente sobre a técnica da progressividade no Imposto de Renda, o
+
+Tribunal assentou distinção fundamental no julgamento do RE 852.796/RS (Tema 833, Rel.
+
+4 EMENTA: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. LEI ESTADUAL:
+PROGRESSIVIDADE DE ALÍQUOTA DE IMPOSTO SOBRE TRANSMISSÃO CAUSA MORTIS E
+DOAÇÃO DE BENS E DIREITOS. CONSTITUCIONALIDADE. ART. 145, § 1º, DA CONSTITUIÇÃO DA
+REPÚBLICA. PRINCÍPIO DA IGUALDADE MATERIAL TRIBUTÁRIA. OBSERVÂNCIA DA
+CAPACIDADE CONTRIBUTIVA. RECURSO EXTRAORDINÁRIO PROVIDO.
+(RE 562045, Relator(a): RICARDO LEWANDOWSKI, Relator(a) p/ Acórdão: CÁRMEN LÚCIA, Tribunal
+Pleno, julgado em 06-02-2013, REPERCUSSÃO GERAL - MÉRITO DJe-233 DIVULG 26-11-2013 PUBLIC
+27-11-2013 EMENT VOL-02712-01 PP-00001 RTJ VOL-00228-01 PP-00484)
+
+
+[[pagina 13 | nativo]]
+Min. Dias Toffoli)5, oportunidade em que o Plenário reconheceu, ao validar a progressividade
+
+simples para as contribuições previdenciárias, que o Imposto de Renda opera, por
+
+determinação constitucional, mediante progressividade gradual — técnica em que a alíquota
+
+incide exclusivamente sobre a parcela da renda inserida em cada faixa, e não sobre a
+
+totalidade dos rendimentos. Cuida-se, portanto, de premissa assentada pela própria Corte: a
+
+progressividade gradual é a técnica constitucionalmente associada ao IR, por força do art.
+
+153, §2º, I, da Constituição Federal.
+
+Essa premissa foi reafirmada e densificada no julgamento do ARE 1.327.491
+(Tema 1174, Rel. Min. Dias Toffoli)6, no qual o Plenário, por unanimidade, declarou
+
+inconstitucional a incidência de alíquota fixa de 25% de IRPF retido na fonte sobre a
+
+totalidade dos rendimentos de aposentadorias e pensões de residentes no exterior, por violação
+
+aos princípios da progressividade, da capacidade contributiva, da isonomia e da vedação ao
+
+confisco. A Corte destacou expressamente que a inconstitucionalidade decorria do fato de os
+
+25% incidirem sobre a totalidade dos rendimentos, sem deduções relativas a faixas inferiores
+
+— estrutura que guarda identidade com o vício ora apontado no art. 6º-A da Lei nº
+
+15.270/2025.
+
+Igualmente relevante, o Tribunal já assentou que a tributação não pode
+
+comprometer o direito a uma existência digna nem a prática de atividade profissional lícita.
+
+Na ADI 1.075 MC/DF (Rel. Min. Celso de Mello)⁴, firmou-se o entendimento de que a
+
+proibição constitucional do confisco representa a interdição de qualquer pretensão
+
+governamental que possa conduzir à injusta apropriação estatal do patrimônio ou dos
+
+rendimentos dos contribuintes, comprometendo-lhes, pela insuportabilidade da carga
+
+tributária, o exercício do direito a uma existência digna, ou a prática de atividade profissional
+
+lícita, não podendo o Poder Público agir imoderadamente em sede de tributação.
+
+5 RE 852.796/RS, Rel. Min. Dias Toffoli, Tribunal Pleno, julgamento virtual finalizado em 14/05/2021, DJe
+17/05/2021. Tese fixada (Tema 833): "É constitucional a expressão 'de forma não cumulativa' constante do
+caput do art. 20 da Lei 8.212/1991."
+6 ARE 1.327.491, Rel. Min. Dias Toffoli, Tribunal Pleno, julgamento virtual encerrado em 18/10/2024, acórdão
+publicado em 30/10/2024. Tese fixada (Tema 1174): "É inconstitucional a sujeição, na forma do art. 7º da Lei nº
+9.779/99, com a redação conferida pela Lei nº 13.315/16, dos rendimentos de aposentadoria e de pensão pagos,
+creditados, entregues, empregados ou remetidos a residentes ou domiciliados no exterior à incidência do
+imposto de renda na fonte à alíquota de 25%."
+
+
+[[pagina 14 | nativo]]
+No mesmo sentido, a ADI 2.010 MC/DF (Rel. Min. Celso de Mello)⁵
+
+reafirmou que o poder de tributar não é absoluto, encontrando barreiras intransponíveis na
+
+preservação do patrimônio e da liberdade dos contribuintes, sob pena de incidir em flagrante
+
+desrespeito ao princípio do não-confisco.
+
+Tais julgados confirmam que o STF não admite modelos de tributação que, sob
+
+o manto da arrecadação, aniquilem a disponibilidade econômica do contribuinte por falhas de
+
+técnica legislativa.
+
+e. Da quebra da confiança e da insegurança jurídica: a ineficácia das salvaguardas e o
+
+caráter ilusório do direito ao ajuste
+
+O legislador, ciente do potencial confiscatório e desproporcional da nova
+
+sistemática, tentou instituir no Art. 16-B um mecanismo de "redutor de danos". Contudo, tal
+
+salvaguarda revela-se meramente inidônea e ilusória. Ao condicionar o alívio fiscal a
+
+variáveis externas e cálculos de impossível verificação pelo contribuinte — que muitas vezes
+
+dependem de dados sigilosos de terceiros ou de perícias complexas —, o Estado transforma o
+
+direito à não-expropriação em uma barreira burocrática intransponível.
+
+A norma institui um sistema opaco que fere o dever de transparência e a boa-fé
+
+objetiva que devem pautar a relação tributária. Não se pode exigir do cidadão o cumprimento
+
+de uma obrigação cujo cálculo é incerto ou cujo benefício de ajuste é, na prática, inalcançável.
+
+Essa "arquitetura do labirinto" afronta a segurança jurídica e o devido processo legal, pois
+
+sujeita o contribuinte ao arbítrio de uma cobrança automática, enquanto empurra para um
+
+futuro incerto e processualmente custoso o direito de reaver o que lhe foi indevidamente
+
+confiscado.
+
+
+[[pagina 15 | nativo]]
+III. DO PEDIDO CAUTELAR:
+
+A medida cautelar em ação direta de inconstitucionalidade constitui
+
+instrumento processual de tutela de urgência destinado a preservar a efetividade do controle
+
+abstrato de constitucionalidade, evitando que a demora no julgamento de mérito cause danos à
+
+ordem jurídica, à segurança jurídica ou a direitos fundamentais. Sua concessão, nos termos do
+
+Art. 10 da Lei nº 9.868/99 e do Art. 170, § 1º, do RISTF, justifica-se pela coexistência da
+
+plausibilidade jurídica das teses aventadas e da urgência qualificada pela iminência de danos
+
+irreversíveis.
+
+A probabilidade do direito (fumus bonis iuris) restou sobejamente demonstrada
+
+nos tópicos precedentes. A Lei nº 15.270/2025 promove uma ruptura com a geometria
+
+constitucional da progressividade marginal, instituindo um modelo de "tributação por salto"
+
+que aniquila o rendimento disponível e afronta os princípios da capacidade contributiva, da
+
+isonomia e da vedação ao confisco. A evidência aritmética do "efeito degrau" é, por si só,
+
+prova inequívoca da inconstitucionalidade material da norma.
+
+A urgência é premente e decorre da própria dinâmica do calendário fiscal. Na
+
+data de hoje, contribuintes em todo o território nacional encontram-se sob a iminente ameaça
+
+de retenções na fonte baseadas em alíquotas lineares e confiscatórias. O risco de dano é
+
+multidimensional:
+
+1. Risco à sobrevivência financeira: Autuações fiscais em massa e
+retenção imediata de até 10% sobre a totalidade de lucros anteriormente isentos
+compromete o fluxo de caixa de profissionais liberais e sociedades simples,
+inclusive escritórios de advocacia, impedindo o cumprimento de obrigações
+básicas e o reinvestimento na atividade produtiva.
+
+2. Irreparabilidade do dano: Uma vez constituído o crédito ou recolhido
+o tributo sob a sistemática inconstitucional, o contribuinte será submetido à via
+crucis da repetição de indébito ou ao labirinto burocrático do ajuste anual (Art.
+16-B), cujas falhas e opacidade já foram demonstradas. O prejuízo à
+disponibilidade financeira é imediato e severo, enquanto a recomposição
+patrimonial é incerta e tardia.
+
+
+[[pagina 16 | nativo]]
+3. Insegurança e risco de autuação: A ausência de uma definição
+judicial célere sujeita milhares de advogados e demais contribuintes a
+autuações fiscais, inscrições em dívida ativa e impossibilidade de obtenção de
+Certidões Negativas de Débitos (indispensáveis para participação em
+licitações, celebração de contratos com o Poder Público e obtenção de crédito
+bancário), paralisando o exercício regular de suas atividades profissionais.
+Além de judicialização desordenada e pulverizada, bloqueios de bens, custos
+de conformidade elevados e impossibilidade de planejamento empresarial.
+
+A ponderação de interesses também favorece a concessão da medida cautelar,
+
+uma vez que o interesse público primário, consubstanciado na proteção à ordem
+
+constitucional, à segurança jurídica e aos direitos fundamentais de milhares de pessoas físicas
+
+e jurídicas, deve prevalecer sobre o interesse público secundário de arrecadação tributária,
+
+cuja eventual perda financeira revela-se ínfima se comparada à gravidade dos danos causados
+
+pela manutenção da norma, além de ser manifestamente ilegítima por derivar de exegese
+
+frontalmente oposta à Carta Magna.
+
+O perigo da demora no julgamento de mérito da presente ADI é concreto,
+
+atual, iminente e de extrema gravidade, configurando risco de dano irreparável ou de difícil
+
+reparação à ordem jurídica, à segurança jurídica e à economia nacional.
+
+Ante o exposto, e considerando que a manutenção da eficácia da norma atacada
+
+importa em expropriação patrimonial transversa de contornos irreversíveis, o Conselho
+
+Federal da OAB requer, inaudita altera pars, a suspensão cautelar da eficácia dos Arts. 6º-A,
+
+16-A e 16-B da Lei nº 15.270/2025, até o julgamento definitivo do mérito desta ação.
+
+Supletivamente, caso este Excelso Pretório entenda por uma solução
+
+intermediária, requer-se a concessão de liminar para determinar que as alíquotas ali previstas
+
+incidam exclusivamente sobre a parcela da renda que exceder os limites de isenção (aplicação
+
+da técnica da progressividade marginal), garantindo-se, assim, a preservação do mínimo
+
+isento e a racionalidade do sistema enquanto perdurar a lide.
+
+
+[[pagina 17 | nativo]]
+IV. DOS PEDIDOS
+
+Ante todo o exposto, o Conselho Federal da Ordem dos Advogados do Brasil
+
+requer:
+
+1) concessão de medida cautelar, inaudita altera parte e ad referendum
+
+do Plenário, nos termos do art. 10 da Lei nº 9.868/1999 e do art. 170 do RISTF,
+
+para determinar a imediata suspensão da eficácia dos artigos 6º-A e 16-A da
+
+Lei nº 15.270/2025, inclusive o mecanismo previsto no Art. 16-B, cuja
+
+aplicação prática resta inviabilizada pela suspensão dos dispositivos
+
+precedentes, sobrestando-se a exigibilidade de qualquer retenção ou pagamento
+
+de tributo neles fundamentado até o julgamento final desta ação;
+
+2) subsidiariamente, caso não seja este o entendimento de Vossa
+
+Excelência, que a liminar seja deferida para conferir interpretação conforme
+
+a Constituição aos referidos dispositivos, determinando que as alíquotas ali
+
+previstas incidam exclusivamente sobre a parcela da base de cálculo que
+
+exceder os limites de isenção;
+
+3) no mérito, a confirmação da medida cautelar para julgar totalmente
+
+procedente o pedido formulado na presente Ação Direta de
+
+Inconstitucionalidade para:
+
+a. Declarar a inconstitucionalidade parcial, sem redução de
+
+texto, dos artigos 6º-A e 16-A da Lei nº 9.250/1995 na redação
+
+dada pela Lei nº 15.270/2025, de modo a excluir qualquer
+
+interpretação que permita a incidência das alíquotas neles
+
+previstas sobre a totalidade da base de cálculo;
+
+
+[[pagina 18 | nativo]]
+b. Determinar, por decorrência lógica e em respeito aos princípios
+
+da progressividade, capacidade contributiva e não-confisco, que
+
+a tributação instituída na norma seja processada mediante a
+
+técnica da progressividade marginal, incidindo as alíquotas
+
+exclusivamente sobre a parcela que exceder os limites de
+
+isenção estabelecidos pela própria norma, preservando-se a
+
+higidez do sistema e a segurança jurídica dos contribuintes.
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de aferi-lo.
+
+Nesses termos, pede deferimento.
+
+Brasília/DF, 08 de abril de 2025.
+
+José Alberto Ribeiro Simonetti Cabral
+Presidente do Conselho Federal da OAB
+OAB/AM 3.725
+OAB/DF 45.240
+
+Marcus Vinicius Furtado Coêlho
+Procurador Constitucional do Conselho Federal da OAB
+OAB/DF 18.958
+
+Lizandra Nascimento Vicente Manuela Elias Batista
+OAB/DF 39.992 OAB/DF 55.415
+
+MANUELA AssinadoMANUELAdeELIASformaBATISTAdigital por
+ELIAS BATISTA Dados:-03'00' 2026.04.08 13:39:00
+
+

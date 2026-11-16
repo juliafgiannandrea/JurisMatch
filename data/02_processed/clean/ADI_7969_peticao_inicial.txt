@@ -1,0 +1,3835 @@
+[[pagina 1 | nativo]]
+AO EXCELENTÍSSIMO SENHOR MINISTRO EDSON FACHIN, PRESIDENTE
+DO SUPREMO TRIBUNAL FEDERAL
+
+URGENTE
+
+PARTIDO VERDE – PV, pessoa jurídica de direito privado (CNPJ nº
+
+31.886.963/0001-68), com sede na SAUS Quadra 5, Bloco K, Salas 508 a 511, Edifício OK
+
+Office Tower, CEP: 70070-050, Asa Sul, Brasília-DF, representado por seu Presidente
+
+Nacional, JOSÉ LUIZ DE FRANÇA PENNA, brasileiro, casado, empresário e músico,
+
+residente e domiciliado em São Paulo – SP e estabelecido, para fins desta demanda, na
+
+sede nacional do PV; PARTIDO DOS TRABALHADORES - PT, pessoa jurídica de
+
+direito privado (CNPJ nº 00.676.262/0001-70), com sede no SCS Quadra 02 Bloco C nº
+
+256 - Edifício Toufic, Asa Sul, Brasília – DF, CEP 70.302-000, representado por seu
+
+Presidente, EDINHO ANTONIO SILVA, brasileiro, casado, sociólogo, residente e
+
+domiciliado em Araraquara – SP e estabelecido, para fins desta demanda, na sede
+
+nacional do PT, e; PARTIDO COMUNISTA DO BRASIL – PCdoB, pessoa jurídica
+
+de direito privado (CNPJ nº 54.956.495/0001-56), com sede nas salas 1.219 a 1222, do
+
+Edifício Executivo Office Tower, localizado no Bloco F, da Quadra 2, do SHN, Asa
+
+Norte, Brasília - DF, representado por sua Presidenta Nacional em exercício, NÁDIA
+
+CAMPEÃO, brasileira, casada, engenheira agrônoma, residente e domiciliada em São
+
+Paulo - SP e estabelecida, para fins desta demanda, na sede nacional do PCdoB; vêm,
+
+respeitosamente, perante V. Exa., por meio dos seus advogados (procuração anexa),
+
+nos termos do art. 102, I, “a”, c/c art. 103, VIII, da CF, da Lei Federal 9.868/1999, ajuizar
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de Medida Cautelar
+
+tendo por objeto a Lei nº 15.402, de 8 de maio de 2026, que altera a Lei n° 7.210, de 11
+
+de julho de 1984 (Lei de Execução Penal – LEP) e o Decreto-Lei n° 2.848, de 7 de
+
+dezembro de 1940 (Código Penal - CP), notadamente seu art. 1º, que alterou a redação
+
+do art. 112, incisos I e II, da LEP, e seu art. 2º, que inseriu o art. 359-M-A e o art. 359-
+
+M-B ao CP, com fundamento nos elementos fáticos e jurídicos a seguir.
+
+
+[[pagina 3 | nativo]]
+I. DO CABIMENTO E DA LEGITIMIDADE.
+
+1. A presente Ação Direta de Inconstitucionalidade (ADI) é o instrumento
+
+cabível para impugnar os dispositivos da Lei Federal nº 15.402/2026, conhecida como
+
+“Lei da Dosimetria”, cuja incompatibilidade vertical com a Carta Magna é
+
+demonstrada tanto por vícios formais, que macularam o processo legislativo de sua
+
+criação, quanto por vícios materiais, que contaminam o seu conteúdo normativo.
+
+2. Em conformidade com a Lei 9.868/1999 e o art. 103, VIII, da CF, o PARTIDO
+
+VERDE (PV), O PARTIDO COMUNISTA DO BRASIL (PCDOB) E O PARTIDO DOS
+
+TRABALHADORES (PT) são agremiações partidárias com representação no Congresso
+
+Nacional, sendo partes legítimas para propor a presente ADI.
+
+3. Nos termos da jurisprudência consolidada desta Corte Constitucional, o
+
+partido político com representação no Congresso Nacional possui legitimidade ativa
+
+universal, de modo que não sofre as restrições decorrentes da exigência de pertinência
+
+temática nas ações do controle concentrado (ADI 1.096 MC, Rel. Min. Celso de Mello,
+
+j. 16-3-1995, DJ de 22-9-2004).
+
+4. Além disso, os Partidos autores atuam por meio de seus respectivos Diretórios
+
+Nacionais, representados pelos respectivos Presidentes Nacionais, com representação
+
+processual por meio de advogados constituídos via procurações com poderes
+
+específicos (documentos anexos).
+
+II. DO ATO NORMATIVO IMPUGNADO.
+
+5. A presente ADI volta-se contra a Lei nº 15.402, de 8 de maio de 2026
+
+(decorrente do Projeto de Lei – PL nº 2.162/2023), notadamente seu art. 1º, que alterou
+
+a redação do art. 112 da Lei de Execução Penal, e seu art. 2º, que inseriu o art. 359-M-
+
+A e o art. 359-M-B ao Código Penal.
+
+
+[[pagina 4 | nativo]]
+6. Em suma, o diploma impugnado busca beneficiar, em matéria de Direito Penal
+
+(redução de penas) e de execução da pena (facilitação da progressão de regime), os
+
+condenados pelo STF diante de crimes contra o Estado Democrático de Direito (Título
+
+XII do Código Penal).
+
+7. Para tanto, a lei impugnada promove alterações em dois diplomas normativos
+
+estruturantes do sistema penal brasileiro: a Lei nº 7.210/1984 (Lei de Execução Penal –
+
+LEP) e o Decreto-Lei nº 2.848/1940 (Código Penal – CP).
+
+8. A redação integral da lei impugnada possui o seguinte teor:
+
+LEI Nº 15.402, DE 8 DE MAIO DE 2026
+Altera a Lei nº 7.210, de 11 de julho de 1984 (Lei
+de Execução Penal) e o Decreto-Lei nº 2.848, de
+7 de dezembro de 1940 (Código Penal).
+Faço saber que o Congresso Nacional rejeitou o veto total aposto ao
+Projeto de Lei nº 2.162, de 2023, e eu, Davi Alcolumbre, Presidente do Senado
+Federal, nos termos do § 7º do art. 66 da Constituição Federal, promulgo a
+seguinte Lei:
+
+Art. 1º A Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal),
+passa a vigorar com as seguintes alterações:
+“Art. 112. A pena privativa de liberdade será executada de
+forma progressiva com a transferência para regime menos rigoroso, a
+ser determinada pelo juiz, quando o preso tiver cumprido ao menos 1/6
+(um sexto) da pena no regime anterior e seu mérito indicar a
+progressão, observadas as seguintes exceções:
+I – se o apenado for primário e for condenado pela prática de
+crime mediante o exercício de violência ou grave ameaça, salvo em
+relação aos crimes previstos no Título XII da Parte Especial do Decreto-
+Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), deverão ser
+cumpridos ao menos 25% (vinte e cinco por cento) da pena;
+II – se o apenado for reincidente e for condenado pela prática
+de crime mediante o exercício de violência ou grave ameaça, salvo em
+relação aos crimes previstos no Título XII da Parte Especial do Decreto-
+Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), deverão ser
+cumpridos ao menos 30% (trinta por cento) da pena;
+III – se o apenado for reincidente em crime diverso dos crimes
+referidos nos incisos I e II do caput deste artigo, deverão ser cumpridos
+ao menos 20% (vinte por cento) da pena;
+IV – (VETADO);
+V – (VETADO);
+VI – (VETADO);
+
+
+[[pagina 5 | nativo]]
+VII – (VETADO);
+VIII – (VETADO);
+IX – (VETADO);
+X – (VETADO).
+
+§ 9º O cumprimento da pena restritiva de liberdade em regime
+domiciliar não impede a remição da pena.” (NR)
+
+Art. 2º O Capítulo II do Título XII da Parte Especial do Decreto-Lei nº
+2.848, de 7 de dezembro de 1940 (Código Penal), passa a vigorar acrescido dos
+seguintes arts. 359-M-A e 359-M-B:
+
+“Art. 359-M-A. Quando os delitos deste Capítulo estão
+inseridos no mesmo contexto, a pena deverá ser aplicada, ainda que
+existente desígnio autônomo, na forma do concurso formal próprio de
+que trata a primeira parte do art. 70, vedando-se a aplicação do
+cômputo cumulativo previsto na segunda parte desse dispositivo e no
+art. 69, todos deste Código.”
+“Art. 359-M-B. Quando os crimes previstos neste Capítulo
+forem praticados em contexto de multidão, a pena será reduzida de 1/3
+(um terço) a 2/3 (dois terços), desde que o agente não tenha praticado
+ato de financiamento ou exercido papel de liderança.”
+
+Art. 3º Esta Lei entra em vigor na data de sua publicação..
+
+9. Como se verifica, no âmbito da execução penal, o diploma reescreve
+
+integralmente o art. 112 da LEP, que disciplina a progressão de regime prisional. De
+
+forma específica, facilita a progressão de regime em relação a todos os crimes contra o
+
+Estado Democrático de Direito (tipificados no Título XII da Parte Especial do Código
+
+Penal), mesmo que praticados por apenado reincidente e condenado por crime
+
+mediante violência e grave ameaça.
+
+10. No plano do direito penal material, a lei impugnada insere dois novos
+
+dispositivos (os arts. 359-M-A e 359-M-B) no Capítulo II do Título XII da Parte Especial
+
+do Código Penal (crimes contra o Estado Democrático de Direito).
+
+11. Tal Capítulo II versa sobre os chamados crimes contra as instituições
+
+
+[[pagina 6 | nativo]]
+democráticas, que se subdividem em dois diferentes tipos penais: (a) abolição violenta
+
+do Estado Democrático de Direito (art. 359-L) e (b) Golpe de Estado (art. 359-M), nos
+
+termos do Código Penal:
+
+TÍTULO XII
+DOS CRIMES CONTRA O ESTADO
+DEMOCRÁTICO DE DIREITO
+CAPÍTULO II
+DOS CRIMES CONTRA AS INSTITUIÇÕES DEMOCRÁTICAS
+
+Abolição violenta do Estado Democrático de Direito
+Art. 359-L. Tentar, com emprego de violência ou grave ameaça, abolir o
+Estado Democrático de Direito, impedindo ou restringindo o exercício dos
+poderes constitucionais:
+Pena - reclusão, de 4 (quatro) a 8 (oito) anos, além da pena correspondente à
+violência.
+
+Golpe de Estado
+Art. 359-M. Tentar depor, por meio de violência ou grave ameaça, o governo
+legitimamente constituído:
+Pena - reclusão, de 4 (quatro) a 12 (doze) anos, além da pena correspondente
+à violência.
+
+12. O art. 359-M-A, inserido pela lei impugnada, estabelece regra de aplicação da
+
+pena: quando os delitos do referido Capítulo forem praticados no “mesmo contexto”,
+
+a pena deverá ser calculada segundo a sistemática do concurso formal próprio
+
+(primeira parte do art. 70 do CP), vedando-se expressamente a incidência do cômputo
+
+cumulativo (segunda parte do art. 70) e do concurso material (art. 69), ainda que
+
+verificado “desígnio autônomo” por parte do agente.
+
+13. O art. 359-M-B institui causa especial de diminuição de pena, de 1/3 (um terço)
+
+a 2/3 (dois terços), aplicável quando a conduta for praticada em “contexto de
+
+multidão”, desde que o agente não tenha praticado ato de financiamento nem exercido
+
+papel de liderança.
+
+14. Porém, o diploma normativo impugnado, a pretexto de promover ajustes na
+
+legislação penal e de execução penal, subverte regras e princípios da Constituição,
+
+
+[[pagina 7 | nativo]]
+tanto no plano formal de sua produção quanto no conteúdo material de suas
+
+disposições.
+
+III. DA INCONSTITUCIONALIDADE POR VÍCIOS FORMAIS.
+
+III.I. BREVE HISTÓRICO DO PROCESSO LEGISLATIVO (PL Nº 2.162/2023).
+
+15. Para a adequada compreensão dos vícios de natureza formal, cumpre uma
+
+breve contextualização do processo legislativo que originou a Lei nº 15.402/2026,
+
+decorrente da rejeição parcial do veto integral aposto pelo Presidente da República ao
+
+Projeto de Lei nº 2.162/2023.
+
+16. Iniciada a tramitação do PL n. 2.162/2023, na Câmara dos Deputados, o
+
+Substitutivo apresentado pelo Relator desta proposição legislativa, Deputado Paulo
+
+Pereira da Silva, foi aprovado pelo Plenário da Câmara dos Deputados, em regime de
+
+urgência, nos seguintes termos (doc. anexo):
+
+Art. 1º A Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), passa a
+vigorar com as seguintes alterações:
+“Art. 112. A pena privativa de liberdade será executada em forma progressiva
+com a transferência para regime menos rigoroso, a ser determinada pelo juiz,
+quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime
+anterior e seu mérito indicar a progressão, observadas as seguintes exceções:
+I – Se o apenado for primário e for condenado pela prática de crimes previstos
+nos Títulos I e II da Parte Especial do Código Penal mediante exercício de
+violência ou grave ameaça, deverá ser cumprido ao menos 25% (vinte e cinco
+por cento) da pena;
+II – Se o apenado for reincidente e for condenado pela prática de crimes
+previstos nos Títulos I e II da Parte Especial do Código Penal mediante
+exercício de violência ou grave ameaça, deverá ser cumprido ao menos 30%
+(trinta por cento) da pena;
+III – Se o apenado for reincidente em crimes diversos dos apontados nos
+incisos I e II, deverá ser cumprido ao menos 20% (vinte por cento) da pena;
+IV – Se o apenado for condenado pela prática de crime hediondo ou
+equiparado e for primário, deverá ser cumprido ao menos 40% (quarenta por
+cento) da pena;
+V – Se o apenado for condenado pela prática de crime hediondo ou
+equiparado, com resultado morte e se for primário, vedado o livramento
+
+
+[[pagina 8 | nativo]]
+condicional, deverá ser cumprido ao menos 50% (cinquenta por cento) da
+pena;
+VI – Se o apenado for condenado por exercer o comando, individual ou
+coletivo, de organização criminosa estruturada para a prática de crime
+hediondo ou equiparado, deverá ser cumprido ao menos 50% (cinquenta por
+cento) da pena;
+VII – Se o apenado for condenado pela prática do crime de constituição de
+milícia privada, deverá ser cumprido ao menos 50% (cinquenta por cento) da
+pena;
+VIII – Se o apenado for condenado pela prática de feminicídio e se for
+primário, vedado o livramento condicional, deverá ser cumprido ao menos
+55% (cinquenta e cinco por cento) da pena;
+IX – Se o apenado for reincidente na prática de crime hediondo ou equiparado,
+deverá ser cumprido ao menos 60% (sessenta por cento) da pena;
+X – Se o apenado for reincidente em crime hediondo ou equiparado com
+resultado morte, vedado o livramento condicional, deverá ser cumprido ao
+menos 70% (setenta por cento) da pena.
+§ 9º O cumprimento da pena restritiva de liberdade em regime domiciliar não
+impede a remição da pena.” (NR)
+Art. 2º O Decreto-Lei nº 2.848, de 7 de dezembro de 1940 (Código Penal), passa
+a vigorar acrescido dos seguintes artigos:
+Art. 359-M-A. Quando os delitos deste Capítulo estão inseridos no mesmo
+contexto, a pena deverá ser aplicada, ainda que existente desígnio autônomo,
+na forma do concurso formal próprio de que trata a primeira parte do art. 70,
+vedando-se a aplicação do cômputo cumulativo previsto na segunda parte
+desse dispositivo e no art. 69 deste Código.
+Art. 359-M-B. Quando os crimes previstos neste capítulo forem praticados em
+contexto de multidão, a pena será reduzida de um terço a dois terços, desde
+que o agente não tenha praticado ato de financiamento ou exercido papel de
+liderança.
+Art. 3º Esta Lei entra em vigor na data de sua publicação.
+
+17. Em 10/12/2025, o Presidente da Câmara dos Deputados encaminhou ao
+
+Presidente do Senado, o Ofício nº 327/2025/SGM-P, com o texto do PL 2162/2023,
+
+aprovado pela Câmara dos Deputados, para a revisão prevista no art. 65 da
+
+Constituição Federal.
+
+18. Em 17/12/2025, esta proposição legislativa foi aprovada pelo Plenário do
+
+Senado, nos seguintes termos:
+
+Art. 1º A Lei nº 7.210, de 11 de julho de 1984 (Lei de Execução Penal), passa a
+vigorar com as seguintes alterações:
+
+
+[[pagina 9 | nativo]]
+“Art. 112. A pena privativa de liberdade será executada de forma progressiva
+com a transferência para regime menos rigoroso, a ser determinada pelo juiz,
+quando o preso tiver cumprido ao menos 1/6 (um sexto) da pena no regime
+anterior e seu mérito indicar a progressão, observadas as seguintes exceções:
+I – se o apenado for primário e for condenado pela prática de crime mediante
+o exercício de violência ou grave ameaça, salvo em relação aos crimes
+previstos no Título XII1 da Parte Especial do Decreto-Lei nº 2.848, de 7 de
+dezembro de 1940 (Código Penal), deverão ser cumpridos ao menos 25%
+(vinte e cinco por cento) da pena;
+II – se o apenado for reincidente e for condenado pela prática de crime
+mediante o exercício de violência ou grave ameaça, salvo em relação aos
+crimes previstos no Título XII da Parte Especial do Decreto-lei nº 2.848, de 7
+de dezembro de 1940 (Código Penal), deverão ser cumpridos ao menos 30%
+(trinta por cento) da pena;
+III – se o apenado for reincidente em crime diverso dos crimes referidos nos
+incisos I e II do caput deste artigo, deverão ser cumpridos ao menos 20% (vinte
+por cento) da pena;
+IV – se o apenado for primário e for condenado pela prática de crime
+hediondo ou equiparado, deverão ser cumpridos ao menos 40% (quarenta por
+cento) da pena;
+V – se o apenado for primário e for condenado pela prática de crime hediondo
+ou equiparado, com resultado morte, vedado o livramento condicional,
+deverão ser cumpridos ao menos 50% (cinquenta por cento) da pena;
+VI – se o apenado for condenado por exercer o comando, individual ou
+coletivo, de organização criminosa estruturada para a prática de crime
+hediondo ou equiparado, deverão ser cumpridos ao menos 50% (cinquenta
+por cento) da pena;
+VII – se o apenado for condenado pela prática do crime de constituição de
+milícia privada, deverão ser cumpridos ao menos 50% (cinquenta por cento)
+da pena;
+VIII – se o apenado for primário e for condenado pela prática de feminicídio,
+vedado o livramento condicional, deverão ser cumpridos ao menos 55%
+(cinquenta e cinco por cento) da pena;
+IX – se o apenado for reincidente na prática de crime hediondo ou equiparado,
+deverão ser cumpridos ao menos 60% (sessenta por cento) da pena;
+X – se o apenado for reincidente em crime hediondo ou equiparado com
+resultado morte, vedado o livramento condicional, deverão ser cumpridos ao
+menos 70% (setenta por cento) da pena.
+§ 9º O cumprimento da pena restritiva de liberdade em regime domiciliar não
+impede a remição da pena.” (NR)
+Art. 2º O Capítulo II do Título XII da Parte Especial do Decreto-Lei nº 2.848,
+de 7 de dezembro de 1940 (Código Penal), passa a vigorar acrescido dos
+seguintes arts. 359-M-A e 359-M-B:
+
+1 DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO
+
+
+[[pagina 10 | nativo]]
+“Art. 359-M-A. Quando os delitos deste Capítulo estão inseridos no mesmo
+contexto, a pena deverá ser aplicada, ainda que existente desígnio autônomo,
+na forma do concurso formal próprio de que trata a primeira parte do art. 70,
+vedando-se a aplicação do cômputo cumulativo previsto na segunda parte
+desse dispositivo e no art. 69, todos deste Código.”
+“Art. 359-M-B. Quando os crimes previstos neste Capítulo forem praticados
+em contexto de multidão, a pena será reduzida de 1/3 (um terço) a 2/3 (dois
+terços), desde que o agente não tenha praticado ato de financiamento ou
+exercido papel de liderança.”
+Art. 3º Esta Lei entra em vigor na data de sua publicação
+
+19. A acima transcrita redação do PL 2162/2023, aprovada pelo Senado, foi
+
+remetida, pelo Presidente do Senado por intermédio da Mensagem n. 334, de
+
+19/12/2025 (doc. anexo), à sanção do Presidente da República, nos termos do disposto
+
+no caput do art. 66 da Constituição Federal.
+
+20. Em 8 de janeiro de 2026, o Presidente da República encaminhou ao Presidente
+
+do Senado a Mensagem n. 17, publicada na edição extra do Diário Oficial da União
+
+deste mesmo dia (doc. anexo), informando sua decisão no sentido de vetar
+
+integralmente o PL 2162/2023, de acordo com as seguintes razões:
+
+Comunico a Vossa Excelência que, nos termos previstos no § 1º do art. 66 da
+Constituição, decidi vetar integralmente, por inconstitucionalidade e
+contrariedade ao interesse público, o Projeto de Lei nº 2.162, de 2023, que
+“Altera a Lei nº 7.210, de 11 de julho de 1984 – Lei de Execução Penal e o
+Decreto-Lei nº 2.848, de 7 de dezembro de 1940 – Código Penal.”.
+Ouvidos, Advocacia-Geral da União, o Ministério dos Direitos Humanos e da
+Cidadania e o Ministério da Justiça e Segurança Pública manifestaram-se pelo
+veto ao Projeto de Lei pelas seguintes razões:
+“Em que pese a boa intenção do legislador, a proposição é inconstitucional e
+contraria o interesse público uma vez que a redução da resposta penal a
+crimes contra o Estado Democrático de Direito daria o condão de aumentar a
+incidência de crimes contra a ordem democrática e indicaria retrocesso no
+processo histórico de redemocratização que originou a Nova República,
+violando o fundamento disposto no art. 1º da Constituição.
+Além disso, a facilitação de condutas que ameaçam o Estado Democrático de
+Direito representaria não apenas a impunidade baseada em interesses
+casuísticos, mas também a ameaça ao ordenamento jurídico e a todo o sistema
+de garantias fundamentais alicerçado na Constituição ao afrontar os
+princípios constitucionais da proporcionalidade, da isonomia e da
+impessoalidade, incorrendo em uma proteção deficiente de bens jurídicos
+fundamentais.
+
+
+[[pagina 11 | nativo]]
+Por fim, o encaminhamento da proposição legislativa à sanção presidencial
+após a alteração de mérito promovida na Casa Revisora violaria a integridade
+do processo legislativo e o modelo bicameral disposto no parágrafo único do
+art. 65 da Constituição.”
+Essas, Senhor Presidente, são as razões que me conduziram a vetar o Projeto
+de Lei em causa, as quais submeto à elevada apreciação dos Senhores
+Membros do Congresso Nacional.
+
+21. Em 30/04/2026, o Senado rejeitou parcialmente o veto integral do Presidente
+
+da República, ao PL 2162/2023, após o Presidente do Senado ter informado o Plenário,
+
+que considerou prejudicada a apreciação de parte dos dispositivos aprovados pela
+
+Câmara dos Deputados e pelo Senado Federal, em manifestação nos seguintes termos:
+
+Esclarecimentos sobre o Veto nº 3, de 2026, relacionado ao PL da Dosimetria.
+
+A Presidência solicita a atenção do Plenário, como disse, para fazer alguns
+esclarecimentos. Esta matéria, como todos sabem, altera normas do Código
+Penal referentes à fixação das penas aplicadas para os crimes contra as
+instituições democráticas. Também altera regras de progressão de regime de
+cumprimento de pena contidas na Lei de Execução Penal (Lei nº 7.210, de
+1984).
+Este projeto foi aprovado e remetido à sanção presidencial em dezembro de
+2025. E, em 8 de janeiro de 2026, o Presidente da República vetou
+integralmente a proposição.
+Posteriormente — peço atenção a V.Exas. —, em fevereiro de 2026, foi
+aprovado e remetido à sanção o Projeto de Lei nº 5.582, de 2025 — o
+denominado PL Antifacção —, que foi transformado na Lei nº 15.358, de 2026,
+querido Deputado Derrite.
+Ocorre que essa Lei Antifacção, entre outros pontos, altera regras de
+progressão de regime de cumprimento de pena que também tinham sido
+objeto do PL da Dosimetria, de modo que, caso o veto a este projeto fosse
+rejeitado em sua integralidade, algumas de suas disposições iriam também
+revogar normas contidas na lei sancionada, denominada Lei Antifacção.
+Assim, a fim de não frustrar a deliberação do Congresso Nacional no PL
+Antifacção e, ao mesmo tempo, não prejudicar os propósitos do PL da
+Dosimetria, analisamos ponto a ponto as alterações propostas por esta
+matéria, para verificar eventual conflito com as normas vigentes.
+Após a análise, concluímos que uma parte do art. 112 da Lei de Execução
+Penal proposto pelo PL da Dosimetria entra em choque com o que aprovamos
+recentemente no PL Antifacção.
+Refiro-me aos incisos IV a X do art. 112 da Lei de Execução Penal, que tratam
+da progressão de regime em hipóteses que foram recentemente alteradas pela
+Lei Antifacção. São dispositivos que tratam da progressão de condenados pela
+prática de crimes de constituição de milícia privada, de feminicídio e
+hediondos, inclusive quando cometidos por organizações criminosas.
+
+
+[[pagina 12 | nativo]]
+Essas normas, caso tivessem o seu veto derrubado, revogariam as novas
+regras de progressão de regime trazidas pela Lei Antifacção, inclusive a que
+trata da progressão de condenados que exercem o comando de facções
+criminosas.
+Esse cenário representaria uma invalidação da recente manifestação de
+vontade do Congresso Nacional acerca desta matéria, bem como significaria
+um passo atrás nas ações de combate à criminalidade, em especial ao
+feminicídio e ao crime organizado.
+Dessa forma, cabe à Presidência compatibilizar a intenção do legislador em
+ambas as matérias, reconhecendo a prejudicialidade da parte do veto que foi
+objeto da Lei Antifacção.
+Isso porque o art. 334, inciso II2, do Regimento Interno do Senado Federal, de
+aplicação subsidiária ao Regimento Comum do Congresso Nacional,
+determina que a Presidência declare a prejudicialidade de determinada
+matéria em virtude de seu prejulgamento pelo Plenário em outra deliberação.
+Nesse sentido, esclareço ao Plenário que a prejudicialidade dos dispositivos
+mencionados se dá por duas razões.
+A primeira delas diz respeito à temporalidade. Quando os Congressistas
+aprovaram o PL Antifacção já estavam cientes do conteúdo — aprovado e,
+posteriormente, vetado — do PL da Dosimetria. Em outras palavras, a
+deliberação do PL Antifacção, por ter ocorrido depois, supera as disposições
+coincidentes que foram votadas no PL da Dosimetria.
+A outra razão diz respeito à finalidade buscada pelo legislador. O PL da
+Dosimetria não tinha a intenção de alterar os requisitos de progressão de
+regime para os casos contidos nos incisos IV a X. Pelo contrário, apenas
+mudou a sua redação para ficar condizente com o novo caput do art. 112 e os
+novos incisos I a III, mantendo os percentuais mínimos de cumprimento de
+pena anteriormente vigentes na Lei de Execução Penal.
+Assim, o eventual restabelecimento desses dispositivos seria contrário às
+vontades expressadas pelo Congresso tanto no PL da Dosimetria, que era no
+sentido de não dispor sobre o mérito de tais normas, quanto no PL Antifacção,
+que era no sentido de tornar mais rígidos os critérios de progressão do regime
+de cumprimento de penas para os casos neles contidos.
+Portanto, em virtude do prejulgamento da matéria pela aprovação do PL
+Antifacção e a sua conversão na Lei nº 15.358, de 24 de março de 2026, esta
+Presidência declara a prejudicialidade dos vetos aos incisos IV a X do art. 112
+da Lei de Execução Penal, alterados pelo art. 1º do PL da Dosimetria. Ficam,
+assim, excluídos da votação do Veto 3, de 2026, os referidos dispositivos.
+
+2 Art. 334. O Presidente, de ofício ou mediante consulta de qualquer Senador, declarará prejudicada
+matéria dependente de deliberação do Senado: I – por haver perdido a oportunidade; II – em virtude
+de seu prejulgamento pelo Plenário em outra deliberação. § 1º Em qualquer caso, a declaração de
+prejudicialidade será feita em plenário, incluída a matéria em Ordem do Dia, se nela não figurar quando
+se der o fato que a prejudique. § 2º Da declaração de prejudicialidade poderá ser interposto recurso ao
+Plenário, que deliberará ouvida a Comissão de Constituição, Justiça e Cidadania. § 3º Se a
+prejudicialidade, declarada no curso da votação, disser respeito a emenda ou dispositivo de matéria em
+apreciação, o parecer da Comissão de Constituição, Justiça e Cidadania será proferido oralmente. § 4º
+A proposição prejudicada será definitivamente arquivada.
+
+
+[[pagina 13 | nativo]]
+Por fim, esclareço ao Plenário que essa matéria é um veto total, e, por essa
+razão, teremos apenas uma votação, com apuração no painel. Caso o veto seja
+rejeitado, será promulgada a integralidade do PL da Dosimetria, com exceção
+dos dispositivos que foram declarados prejudicados pela decisão desta
+Presidência.
+
+22. Em 08/05/2026, diante da não promulgação pelo Presidente da Republica,
+
+houve a promulgação da Lei nº 15.402 pelo Presidente do Senado, com fundamento no
+
+art. 66, §7º, da Constituição.
+
+23. Ocorre que, como se demonstrará a seguir, do ponto de vista dos vícios
+
+formais, o diploma normativo impugnado é inconstitucional: (i) pela apreciação
+
+fracionada de veto integral, em violação ao art. 66, § 4º, da CF; e (ii) pela supressão do
+
+retorno da matéria à Casa iniciadora após alteração substancial promovida pela Casa
+
+revisora, em afronta ao art. 65, parágrafo único, da CF.
+
+III.II. INCONSTITUCIONALIDADE DE APRECIAÇÃO FRACIONADA DE VETO TOTAL.
+VIOLAÇÃO AO ART. 66, § 4º, DA CF.
+
+24. Como visto, no caso do PL nº 2.162/2023, o Presidente da República opôs veto
+
+integral à proposição legislativa, circunstância que delimita, de forma objetiva, o
+
+âmbito de atuação do Congresso Nacional: manter ou rejeitar o veto em sua
+
+integralidade.
+
+25. Apesar disso, na hipótese, o que se verificou foi uma indevida apreciação
+
+fracionada do veto total, com a análise seletiva de dispositivos do projeto
+
+originalmente vetado, de modo a afastar apenas parte dos efeitos do veto presidencial.
+
+26. A Presidência do Congresso Nacional, invocando a aplicação subsidiária de
+
+norma do Regimento Interno do Senado, o inciso II, do seu art. 334, declarou a
+
+prejudicialidade da apreciação dos “incisos IV a X do art. 112 da Lei de Execução
+
+
+[[pagina 14 | nativo]]
+Penal”, contido no art. 1º do PL 2162/2023, após este ter sido integralmente vetado pelo
+
+Presidente da República, nos seguintes termos:
+
+[...] Dessa forma, cabe à Presidência compatibilizar a intenção do
+legislador em ambas as matérias, reconhecendo a prejudicialidade
+da parte do veto que foi objeto da Lei Antifacção.
+Isso porque o art. 334, inciso II3, do Regimento Interno do Senado
+Federal, de aplicação subsidiária ao Regimento Comum do
+Congresso Nacional, determina que a Presidência declare a
+prejudicialidade de determinada matéria em virtude de seu
+prejulgamento pelo Plenário em outra deliberação.
+Nesse sentido, esclareço ao Plenário que a prejudicialidade dos
+dispositivos mencionados se dá por duas razões.
+A primeira delas diz respeito à temporalidade. Quando os
+Congressistas aprovaram o PL Antifacção já estavam cientes do
+conteúdo — aprovado e, posteriormente, vetado — do PL da
+Dosimetria. Em outras palavras, a deliberação do PL Antifacção, por
+ter ocorrido depois, supera as disposições coincidentes que foram
+votadas no PL da Dosimetria.
+A outra razão diz respeito à finalidade buscada pelo legislador. O PL
+da Dosimetria não tinha a intenção de alterar os requisitos de
+progressão de regime para os casos contidos nos incisos IV a X. Pelo
+contrário, apenas mudou a sua redação para ficar condizente com o
+novo caput do art. 112 e os novos incisos I a III, mantendo os
+percentuais mínimos de cumprimento de pena anteriormente vigentes
+na Lei de Execução Penal.
+Assim, o eventual restabelecimento desses dispositivos seria contrário
+às vontades expressadas pelo Congresso tanto no PL da Dosimetria,
+que era no sentido de não dispor sobre o mérito de tais normas, quanto
+no PL Antifacção, que era no sentido de tornar mais rígidos os critérios
+de progressão do regime de cumprimento de penas para os casos neles
+contidos.
+Portanto, em virtude do prejulgamento da matéria pela aprovação do
+PL Antifacção e a sua conversão na Lei nº 15.358, de 24 de março de
+
+3 Art. 334. O Presidente, de ofício ou mediante consulta de qualquer Senador, declarará prejudicada
+matéria dependente de deliberação do Senado: I – por haver perdido a oportunidade; II – em virtude
+de seu prejulgamento pelo Plenário em outra deliberação. § 1º Em qualquer caso, a declaração de
+prejudicialidade será feita em plenário, incluída a matéria em Ordem do Dia, se nela não figurar quando
+se der o fato que a prejudique. § 2º Da declaração de prejudicialidade poderá ser interposto recurso ao
+Plenário, que deliberará ouvida a Comissão de Constituição, Justiça e Cidadania. § 3º Se a
+prejudicialidade, declarada no curso da votação, disser respeito a emenda ou dispositivo de matéria em
+apreciação, o parecer da Comissão de Constituição, Justiça e Cidadania será proferido oralmente. § 4º
+A proposição prejudicada será definitivamente arquivada.
+
+
+[[pagina 15 | nativo]]
+2026, esta Presidência declara a prejudicialidade dos vetos aos
+incisos IV a X do art. 112 da Lei de Execução Penal, alterados pelo art.
+1º do PL da Dosimetria. Ficam, assim, excluídos da votação do Veto
+3, de 2026, os referidos dispositivos.
+Por fim, esclareço ao Plenário que essa matéria é um veto total, e, por
+essa razão, teremos apenas uma votação, com apuração no painel.
+Caso o veto seja rejeitado, será promulgada a integralidade do PL da
+Dosimetria, com exceção dos dispositivos que foram declarados
+prejudicados pela decisão desta Presidência. (grifos nossos)
+
+27. Assim, foram retirados da apreciação parlamentar os incisos IV a X do art. 112
+
+da Lei de Execução Penal, abrangidos pelo veto presidencial, sob alegação de
+
+prejudicialidade fundada em norma regimental do Senado Federal (art. 334, II, do
+
+RI/SF).
+
+28. Em outras palavras, embora formalmente reconhecido o caráter integral do
+
+veto aposto ao PL nº 2.162/2023, admitiu-se, na prática, sua cisão para fins de
+
+apreciação parlamentar, preservando-se parte dos efeitos do ato presidencial e
+
+submetendo-se apenas determinados trechos à deliberação do Congresso Nacional.
+
+29. O procedimento adotado, com máxima venia, não encontra amparo no texto
+
+constitucional. O art. 66 da CF disciplina de maneira exaustiva a apreciação de vetos
+
+presidenciais, não contemplando hipótese de fracionamento de veto total nem
+
+autorização para exclusão seletiva de dispositivos por fundamento regimental.
+
+30. Nesse sentido, dispõe o art. 66, § 4º, da CF, que “o veto será apreciado em
+
+sessão conjunta, dentro de trinta dias a contar de seu recebimento, só podendo ser
+
+rejeitado pelo voto da maioria absoluta dos Deputados e Senadores”.
+
+31. Assim, a Constituição Federal confere ao Congresso Nacional competência
+
+apenas para manter ou rejeitar o veto presidencial, total ou parcial, tal como formulado
+
+pelo Presidente da República. Não lhe é dado, contudo, redefinir o alcance do ato de
+
+veto, excluindo trechos de sua incidência ou declarando prejudicados dispositivos
+
+
+[[pagina 16 | nativo]]
+abrangidos por veto integral, sob pena de usurpação da competência constitucional
+
+atribuída ao Poder Executivo no âmbito do processo legislativo.
+
+32. A Constituição distingue expressamente o veto parcial do veto total. Apenas
+
+na hipótese de veto parcial é possível a deliberação do Congresso sobre dispositivos
+
+específicos da proposição legislativa. Diversamente, sendo o veto total, inexiste base
+
+constitucional para o seu desmembramento, sob pena de subversão da lógica do
+
+processo legislativo.
+
+33. Nessa perspectiva, a atuação do Congresso Nacional, ao realizar a análise
+
+seletiva de partes de um veto total, ultrapassa os limites de sua competência
+
+constitucional nessa fase procedimental. Em vez de simplesmente manter ou rejeitar o
+
+veto, promove-se verdadeira recomposição do conteúdo normativo da proposição, o
+
+que equivale, na prática, à elaboração de novo texto legislativo fora do devido processo
+
+legislativo ordinário.
+
+34. A apreciação fracionada de veto total configura, portanto, hipótese de atuação
+
+como legislador positivo em momento procedimental inadequado, em afronta direta
+
+ao art. 66 da Constituição Federal.
+
+35. Além disso, o fracionamento indevido do veto compromete a própria unidade
+
+do ato presidencial, que, ao vetar integralmente o projeto, o fez como um todo
+
+coerente. A cisão artificial desse ato pelo Legislativo desfigura o mecanismo de freios
+
+e contrapesos, permitindo a manipulação casuística do resultado legislativo.
+
+36. Em se tratando de veto total, é inadmissível sua fragmentação para fins de
+
+deliberação parlamentar, sob pena de criação de uma terceira via decisória não
+
+prevista na Constituição, distinta tanto da manutenção quanto da rejeição do veto.
+
+37. A norma contida no art. 334, II, do Regimento Interno do Senado Federal não
+
+autoriza sua aplicação subsidiária ao Regimento Comum do Congresso Nacional, pois
+
+
+[[pagina 17 | nativo]]
+se destina às proposições legislativas ainda em tramitação, cuja deliberação
+
+parlamentar não tenha sido concluída. Os vetos presidenciais, ao contrário, incidem
+
+precisamente sobre proposições já aprovadas pelo Congresso Nacional, conforme
+
+expressamente previsto no caput do art. 66 da Constituição Federal.
+
+38. Não havia, portanto, espaço constitucional para utilização de norma
+
+regimental do Senado como mecanismo do Congresso Nacional de restrição parcial
+
+dos efeitos de veto integral regularmente oposto pelo Presidente da República.
+
+Admitir solução diversa equivaleria a conferir ao regimento interno do Senado aptidão
+
+para inovar em matéria constitucionalmente reservada ao Congresso Nacional.
+
+39. Por outro lado, também não procede a justificativa de que a declaração de
+
+prejudicialidade seria necessária para evitar incompatibilidade entre o PL nº
+
+2.162/2023 e as alterações legislativas supervenientes promovidas pela Lei nº
+
+15.358/2026.
+
+40. Quando concluída a deliberação parlamentar do PL 5.582/2025 (24/2/2026),
+
+que deu origem à Lei nº 15.358/2026, o Congresso Nacional já possuía pleno
+
+conhecimento da existência do veto integral oposto ao PL nº 2.162/2023. Ainda assim,
+
+optou por aprovar a nova disciplina legislativa, ciente da possibilidade de futura
+
+rejeição do veto presidencial e do eventual conflito normativo daí decorrente.
+
+41. Não é juridicamente admissível, portanto, que circunstância legislativa
+
+superveniente, conhecida e deliberadamente assumida pelo próprio Congresso
+
+Nacional, seja posteriormente utilizada como fundamento para restringir
+
+parcialmente os efeitos de veto integral regularmente submetido ao procedimento
+
+constitucional de apreciação previsto no art. 66 da Constituição Federal.
+
+42. O modelo constitucional de apreciação do veto é exaustivo, admitindo apenas
+
+duas soluções juridicamente possíveis: a manutenção ou a rejeição do veto. A criação
+
+de solução intermediária, consistente na derrubada parcial de veto integral, extrapola
+
+
+[[pagina 18 | nativo]]
+o espaço decisório conferido ao Congresso Nacional e subverte a taxatividade do art.
+
+66, § 4º, da CF.
+
+43. O devido processo legislativo, enquanto garantia constitucional, impõe
+
+observância estrita das etapas e formas previstas na Constituição para a formação da
+
+lei. A fragmentação de veto integral, por constituir desvio do modelo
+
+constitucionalmente estabelecido, compromete a validade do produto normativo e não
+
+pode ser convalidada sem esvaziamento das garantias formais que condicionam a
+
+própria legitimidade da produção legislativa.
+
+44. Desse modo, ao proceder à apreciação parcial de veto integral, o Congresso
+
+Nacional incorreu em vício formal insanável, por violação ao devido processo
+
+legislativo constitucionalmente estabelecido ao introduzir prática não prevista na
+
+Constituição e sujeita a manipulações casuísticas.
+
+45. Diante disso, requer-se o reconhecimento da inconstitucionalidade formal do
+
+procedimento de apreciação fracionada do veto presidencial, com a consequente
+
+recomposição da ordem constitucional do processo legislativo, mediante
+
+restabelecimento da eficácia integral do veto originalmente oposto.
+
+III.III. BURLA AO BICAMERALISMO DELIBERATIVO. USURPAÇÃO DA COMPETÊNCIA DA
+CASA INICIADORA. VIOLAÇÃO AO ART. 65, PARÁGRAFO ÚNICO, DA CF.
+
+46. A higidez do processo de criação normativa é condição de legitimidade das
+
+leis. A observância das regras procedimentais assegura o equilíbrio entre os Poderes e
+
+o pacto federativo. A lei ora impugnada desrespeitou normas constitucionais cardeais,
+
+comprometendo sua validade desde a origem.
+
+47. No processo legislativo para a edição de leis nacionais ou federais, vige o
+
+sistema bicameral, com funções deliberativas a serem exercidas pela Câmara dos
+
+
+[[pagina 19 | nativo]]
+Deputados e pelo Senado Federal.
+
+48. Segundo o art. 65, caput, da Constituição, “o projeto de lei aprovado por uma
+
+Casa será revisto pela outra, em um só turno de discussão e votação, e enviado à sanção
+
+ou promulgação, se a Casa revisora o aprovar, ou arquivado, se o rejeitar”. Ainda, o
+
+parágrafo único do referido dispositivo determina que “sendo o projeto emendado,
+
+voltará à Casa iniciadora”.
+
+49. Na hipótese, a tramitação do PL nº 2.162/2023, que deu origem à lei ora
+
+impugnada, foi marcada por uma série de atropelos procedimentais que, em seu
+
+conjunto, culminaram na violação direta do adequado processo legislativo
+
+constitucional.
+
+50. Iniciado na Câmara dos Deputados, o projeto seguiu para o Senado Federal,
+
+atuando este como Casa revisora. Contudo, no âmbito do Senado, o texto original foi
+
+objeto de profundas e substanciais alterações, que desfiguraram a sua teleologia inicial.
+
+51. O Senado Federal, por meio da Emenda nº 6 / CCJ - PL 2162/20234, introduziu
+
+conteúdo novo e de mérito substancial, especialmente no que tange à criação de
+
+causas de diminuição de pena e critérios concursais específicos para crimes contra a
+
+ordem constitucional.
+
+52. Ocorre que, de maneira surpreendente e processualmente heterodoxa, foram
+
+rotuladas como meras “emendas de redação” alterações que se referem ao mérito do
+
+projeto – que deveriam, portanto, ser enquadradas como “emendas de mérito”.
+
+53. A emenda não se limitou a sanar vício de linguagem, técnica legislativa ou
+
+lapso material. Promoveu alteração deliberada do alcance normativo da proposição,
+
+ao redefinir os crimes alcançados pelo regime mais benéfico de progressão de pena.
+
+4 CONGRESSO NACIONAL. Matérias Bicamerais – Projeto de Lei nº 2162/2023. Disponível em:
+<https://legis.senado.leg.br/sdleg-getter/documento?dm=10127724&ts=1766587044214>. Acesso em 29
+dez. 2025.
+
+
+[[pagina 20 | nativo]]
+54. A própria justificativa da emenda revela que sua finalidade consistia em evitar
+
+que determinados crimes fossem alcançados pela disciplina aprovada na Câmara dos
+
+Deputados, o que demonstra inequívoca modificação de mérito. A utilização da
+
+rubrica “emenda de redação”, nesse contexto, operou como expediente formal
+
+destinado a afastar a incidência do art. 65, parágrafo único, da Constituição Federal e
+
+impedir o retorno da matéria à Casa iniciadora.
+
+55. Não se trata de simples questão interna corporis do Poder Legislativo. Mas, do
+
+esvaziamento da regra constitucional que garante o retorno à Casa iniciadora no caso
+
+de alteração do projeto pela Casa revisora (art. 65, parágrafo único, da CF).
+
+56. Caso admitido tal procedimento, forma-se um precedente de consequências
+
+graves e incalculáveis à higidez do sistema bicameral delineado pela Carta de 1988: a
+
+Casa revisora poderá inserir qualquer matéria em “emendas de redação”, ainda que
+
+modifiquem o conteúdo normativo de projetos de lei, com vistas a suprimir o retorno
+
+do projeto à Casa iniciadora.
+
+57. O comparativo entre versão do projeto deliberado pela Câmara dos
+
+Deputados e aquela votada no Senado, após aprovação de “emenda de redação”
+
+demonstra a substancial alteração quanto ao conteúdo normativo do projeto:
+
+PL nº 2.162/2023 aprovado na CD5 PL nº 2.162/2023 aprovado no Senado6
+Art. 1º A Lei nº 7.210, de 11 de julho de Art. 1º A Lei nº 7.210, de 11 de julho de 1984
+1984 (Lei de Execução Penal), passa a (Lei de Execução Penal), passa a vigorar com
+vigorar com as seguintes alterações: as seguintes alterações:
+
+“Art. 112. A pena privativa de liberdade “Art. 112. A pena privativa de liberdade será
+será executada em forma progressiva com executada de forma progressiva com a
+
+5 CONGRESSO NACIONAL. Matérias Bicamerais – Projeto de Lei nº 2162/2023. Disponível em: <
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=3068421&filename=Tramit
+acao-63-PL-2162-2023>. Acesso em 7/5/2026.
+6 CONGRESSO NACIONAL. Matérias Bicamerais – Projeto de Lei nº 2162/2023. Disponível em: <
+https://legis.senado.leg.br/sdleg-
+getter/documento?dm=10140420&ts=1770316798400&rendition_principal=S&disposition=inline>
+Acesso em 7/5/2026.
+
+
+[[pagina 21 | nativo]]
+a transferência para regime menos transferência para regime menos rigoroso, a
+rigoroso, a ser determinada pelo juiz, ser determinada pelo juiz, quando o preso
+quando o preso tiver cumprido ao menos tiver cumprido ao menos 1/6 (um sexto) da
+1/6 (um sexto) da pena no regime anterior pena no regime anterior e seu mérito indicar
+e seu mérito indicar a progressão, a progressão, observadas as seguintes
+observadas as seguintes exceções: exceções:
+
+I – Se o apenado for primário e for I – se o apenado for primário e for
+condenado pela prática de crimes condenado pela prática de crime mediante o
+previstos nos Títulos I7 e II8 da Parte exercício de violência ou grave ameaça,
+Especial do Código Penal mediante salvo em relação aos crimes previstos no
+exercício de violência ou grave ameaça, Título XII9 da Parte Especial do Decreto-Lei
+deverá ser cumprido ao menos 25% (vinte nº 2.848, de 7 de dezembro de 1940 (Código
+e cinco por cento) da pena; Penal), deverão ser cumpridos ao menos
+25% (vinte e cinco por cento) da pena;
+
+II – Se o apenado for reincidente e for II – se o apenado for reincidente e for
+condenado pela prática de crimes condenado pela prática de crime mediante o
+previstos nos Títulos I e II da Parte exercício de violência ou grave ameaça,
+Especial do Código Penal mediante salvo em relação aos crimes previstos no
+exercício de violência ou grave ameaça, Título XII da Parte Especial do Decreto-lei nº
+deverá ser cumprido ao menos 30% 2.848, de 7 de dezembro de 1940 (Código
+(trinta por cento) da pena; Penal), deverão ser cumpridos ao menos
+30% (trinta por cento) da pena;
+
+III – Se o apenado for reincidente em
+III – se o apenado for reincidente em crime
+crimes diversos dos apontados nos
+diverso dos crimes referidos nos incisos I e II
+incisos I e II, deverá ser cumprindo ao
+do caput deste artigo, deverão ser
+menos 20% (vinte por cento) da pena;
+cumpridos ao menos 20% (vinte por cento)
+da pena;
+
+IV – Se o apenado for condenado pela
+IV – se o apenado for primário e for
+prática de crime hediondo ou equiparado
+condenado pela prática de crime hediondo
+e for primário, deverá ser cumprido ao
+ou equiparado, deverão ser cumpridos ao
+menos 40% (quarenta por cento) da pena;
+menos 40% (quarenta por cento) da pena;
+
+V – Se o apenado for condenado pela
+V – se o apenado for primário e for
+prática de crime hediondo ou equiparado,
+condenado pela prática de crime hediondo
+com resultado morte e se for primário,
+
+7 DOS CRIMES CONTRA A PESSOA
+8 DOS CRIMES CONTRA O PATRIMÔNIO
+9 DOS CRIMES CONTRA O ESTADO DEMOCRÁTICO DE DIREITO
+
+
+[[pagina 22 | nativo]]
+vedado o livramento condicional, deverá ou equiparado, com resultado morte,
+ser cumprido ao menos 50% (cinquenta vedado o livramento condicional, deverão
+por cento) da pena; ser cumpridos ao menos 50% (cinquenta por
+cento) da pena;
+VI – Se o apenado for condenado por
+exercer o comando, individual ou VI – se o apenado for condenado por exercer
+coletivo, de organização criminosa o comando, individual ou coletivo, de
+estruturada para a prática de crime organização criminosa estruturada para a
+hediondo ou equiparado, deverá ser prática de crime hediondo ou equiparado,
+cumprido ao menos 50% (cinquenta por deverão ser cumpridos ao menos 50%
+cento da pena); (cinquenta por cento) da pena;
+
+VII – Se o apenado for condenado pela
+prática do crime de constituição de milícia VII – se o apenado for condenado pela
+privada, deverá ser cumprido ao menos prática do crime de constituição de milícia
+50% (cinquenta por cento) da pena; privada, deverão ser cumpridos ao menos
+50% (cinquenta por cento) da pena;
+VIII – Se o apenado for condenado pela
+prática de feminicídio e se for primário, VIII – se o apenado for primário e for
+vedado o livramento condicional, deverá condenado pela prática de feminicídio,
+ser cumprido ao menos 55% (cinquenta e vedado o livramento condicional, deverão
+cinco por cento) da pena; ser cumpridos ao menos 55% (cinquenta e
+cinco por cento) da pena;
+
+IX – Se o apenado for reincidente na
+prática de crime hediondo ou equiparado, IX – se o apenado for reincidente na prática
+deverá ser cumprido ao menos 60% de crime hediondo ou equiparado, deverão
+(sessenta por cento) da pena; ser cumpridos ao menos 60% (sessenta por
+X – Se o apenado for reincidente em crime cento) da pena;
+hediondo ou equiparado com resultado X – se o apenado for reincidente em crime
+morte, vedado o livramento condicional, hediondo ou equiparado com resultado
+deverá ser cumprido ao menos 70% morte, vedado o livramento condicional,
+(setenta por cento) da pena. deverão ser cumpridos ao menos 70%
+liberdade em regime domiciliar não § 9º O cumprimento da pena restritiva de
+impede a remição da pena.” (NR) liberdade em regime domiciliar não impede
+a remição da pena.” (NR)
+Art. 2º O Decreto-Lei nº 2.848, de 7 de
+dezembro de 1940 (Código Penal), passa a Art. 2º O Capítulo II do Título XII da Parte
+vigorar acrescido dos seguintes artigos: Especial do Decreto-Lei nº 2.848, de 7 de
+
+
+[[pagina 23 | nativo]]
+dezembro de 1940 (Código Penal), passa a
+vigorar acrescido dos seguintes arts. 359-M-
+A e 359-M-B:
+Art. 359-M-A. Quando os delitos deste
+Capítulo estão inseridos no mesmo “Art. 359-M-A. Quando os delitos deste
+contexto, a pena deverá ser aplicada, Capítulo estão inseridos no mesmo contexto,
+ainda que existente desígnio autônomo, a pena deverá ser aplicada, ainda que
+na forma do concurso formal próprio de existente desígnio autônomo, na forma do
+que trata a primeira parte do art. 70, concurso formal próprio de que trata a
+vedando-se a aplicação do cômputo primeira parte do art. 70, vedando-se a
+cumulativo previsto na segunda parte aplicação do cômputo cumulativo previsto
+desse dispositivo e no art. 69 deste na segunda parte desse dispositivo e no art.
+Código. 69, todos deste Código.”
+
+Art. 359-M-B. Quando os crimes previstos
+neste capítulo forem praticados em “Art. 359-M-B. Quando os crimes previstos
+contexto de multidão, a pena será neste Capítulo forem praticados em contexto
+reduzida de um terço a dois terços, desde de multidão, a pena será reduzida de 1/3
+que o agente não tenha praticado ato de (um terço) a 2/3 (dois terços), desde que o
+financiamento ou exercido papel de agente não tenha praticado ato de
+liderança. financiamento ou exercido papel de
+liderança.”
+Art. 3º Esta Lei entra em vigor na data de
+sua publicação. Art. 3º Esta Lei entra em vigor na data de sua
+publicação.
+
+58. Na própria justificativa da Emenda nº 6 / CCJ - PL 2162/202310, apresentada
+
+pelo Senador Sérgio Moro, reconhece-se o objetivo de alteração do conteúdo
+
+normativo da redação aprovada pela Câmara dos Deputados. Aponta-se
+
+expressamente que a emenda pretende direcionar os benefícios para a progressão do
+
+regime apenas aos condenados pelos atos contra a democracia brasileira que
+
+culminaram no 8 de janeiro de 2023 – de modo a afastar sua incidência para
+
+condenados por outros crimes (que seriam beneficiados caso fosse mantida a redação
+
+aprovada pela Câmara).
+
+10 CONGRESSO NACIONAL. Matérias Bicamerais – Projeto de Lei nº 2162/2023. Disponível em:
+<https://legis.senado.leg.br/sdleg-getter/documento?dm=10127724&ts=1766587044214>. Acesso em 29
+dez. 2025.
+
+
+[[pagina 24 | nativo]]
+59. Veja-se a justificativa da referida Emenda:
+
+JUSTIFICAÇÃO
+Na redação dada pelo Projeto de Lei nº 2.162, de 2023, a alteração ao art. 112
+da Lei de Execução Penal vai além do que se necessitava para se conceder uma
+progressão de regime mais justa aos condenados pelos atos do dia 8 de janeiro
+de 2023. O texto afirma que os crimes que se utilizam de violência ou grave
+ameaça para sua consumação, além daqueles previstos nos Títulos I e II da
+Parte Especial do Código Penal (os Crimes contra a Pessoa e contra o
+Patrimônio – como homicídio, roubo, latrocínio, sequestro, extorsão, etc.)
+devem progredir a partir do cumprimento de 25% da pena.
+Isso quer dizer que, se não há violência, nem previsão nos citados Títulos, se
+progredirá com 1/6 da pena. Ocorre que não somente os crimes contra a
+Ordem Democrática estão nessa condição, mas também outros crimes como:
+a) favorecimento da prostituição ou outra forma de exploração sexual
+qualificada pela violência (art. 228, § 2º, do CP); b) rufianismo qualificado pela
+violência (art. 230, § 2º, CP); c) afastamento de licitante (art. 337-K); d) coação
+no curso do processo (art. 344, CP), etc.; além de outros crimes graves, como
+os e) arts. 21- A e 21-B da Lei de Organização criminosa (obstrução de ações
+contra o crime organizado e Conspiração para obstrução de ações contra o
+crime organizado).
+Então, esse equívoco - que não possui conteúdo de mérito - deve ser corrigido
+com uma nova redação ao texto do art. 112 do Projeto que seja direcionado
+tão somente aos condenados pelos Crimes Contra o Estado Democrático de
+Direito, razão pela qual sugerimos a presente emenda.
+
+60. Como se percebe, a alteração promovida pelo Senado alterou o conteúdo
+
+normativo do projeto. Impôs um regime concursal específico e mais benéfico apenas
+
+para os crimes contra o Estado Democrático de Direito (e não para todos aqueles que
+
+não estão tipificados nos Títulos I e II do Código Penal – conforme versão aprovada na
+
+Câmara dos Deputados).
+
+61. Um exemplo ilustra o caráter meritório dessa alteração. De um lado, na versão
+
+da Câmara dos Deputados, o condenado por crime de favorecimento da prostituição
+
+ou outra forma de exploração sexual qualificada pela violência (art. 228, § 2º, do CP)
+
+poderia obter a progressão do regime desde que cumpridos 1/6 (um sexto) da pena.
+
+Por outro lado, a versão do Senado Federal dificultou a progressão para esse mesmo
+
+condenado, que apenas poderá obtê-la a partir do cumprimento de 25% (vinte e cinco
+
+por cento), isto é, 1/4 (um quarto) da pena.
+
+
+[[pagina 25 | nativo]]
+62. Por se tratar de uma matéria que modifica o impacto do projeto referente à
+
+execução penal em relação a diferentes crimes, é nítido que a alteração realizada no
+
+Senado se refere ao mérito do projeto.
+
+63. A supressão do retorno da matéria à Câmara dos Deputados compromete não
+
+apenas a regularidade formal do processo legislativo, mas a própria legitimidade
+
+democrática da deliberação parlamentar. Isso porque a Casa iniciadora foi privada da
+
+possibilidade constitucional de deliberar sobre conteúdo normativo substancialmente
+
+distinto daquele originalmente aprovado, em violação à lógica do bicameralismo
+
+paritário instituído pela Constituição de 1988.
+
+64. Até mesmo porque, conforme conceito adotado pelo Congresso Nacional
+
+“emenda de redação” se limita apenas a “sanar vício de linguagem, incorreção de
+
+técnica legislativa ou lapso manifesto da proposição, bem como conferir ao texto maior
+
+clareza, precisão ou ordem lógica, sem alteração de mérito”11 (vide o art. 118, § 8º, do
+
+RICD e os arts. 234 e 323 do RISF).
+
+65. Na hipótese, o procedimento adotado representou um desvio de finalidade
+
+das chamadas “emendas de redação”, com um propósito claro e inconstitucional:
+
+evitar que o projeto, modificado em seu âmago, retornasse à Câmara dos Deputados
+
+para a devida deliberação sobre as alterações promovidas, conforme exige o parágrafo
+
+único do artigo 65 da Constituição.
+
+66. Com máxima venia, o Senado Federal, ao assim proceder, usurpou a
+
+competência da Casa iniciadora e converteu-se, indevidamente, em instância única e
+
+final de deliberação sobre matéria que a Câmara dos Deputados jamais teve a
+
+oportunidade de analisar e votar a alteração realizada.
+
+11 CONGRESSO NACIONAL. Glossário de Termos Legislativos – Emenda de Redação. Disponível em:
+<https://www.congressonacional.leg.br/legislacao-e-publicacoes/glossario-legislativo/-
+/legislativo/termo/emenda_de_redacao>. Acesso em 29 dez. 2025.
+
+
+[[pagina 26 | nativo]]
+67. Ocorre que o Supremo Tribunal Federal possui o entendimento de que a
+
+introdução, pela Casa revisora, de emenda que implica alteração, supressão ou
+
+complementação de conteúdo, obriga o retorno da proposição à Casa iniciadora, para
+
+análise e deliberação, configurando-se inconstitucionalidade incontornável o
+
+eventual encaminhamento direto à sanção presidencial.
+
+68. Com base nisso, no recente julgamento da ADI 6.085, analisando matéria
+
+semelhante, o STF declarou a inconstitucionalidade de dispositivo legal cuja
+
+proposição fora iniciada pela Câmara, alterada pelo Senado por meio de “emenda de
+
+redação”, e deixou de retornar à Casa iniciadora.
+
+69. O retorno à Casa iniciadora, em hipóteses de alteração substancial do
+
+conteúdo normativo, constitui imposição constitucional vinculante, e não faculdade
+
+política da Casa revisora.
+
+70. Nesse julgamento, tal como a hipótese aqui analisada, também houve a
+
+aprovação de “emenda de redação” com aptidão para alterar o mérito da proposição,
+
+o que atrai a necessidade de retorno à Casa iniciadora.
+
+71. Veja-se a ementa do referido julgado:
+
+Ação direta de inconstitucionalidade. Lei 13.714/2018. Preliminar. Ausência
+de impugnação específica. Acolhimento. Art. 2º da Lei 13.714/2018.
+Inconstitucionalidade formal. Violação ao devido processo legislativo.
+Emenda modificativa de proposição jurídica aprovada pela Casa Revisora.
+Necessidade de observância do art. 65, parágrafo único, da Constituição
+Federal. Ação parcialmente conhecida e, nessa extensão, pedido julgado
+procedente.
+I. Caso em exame
+1. Trata-se de ação direta de inconstitucionalidade proposta em face da Lei
+13.714/2018, que dispõe sobre a normatização da identidade visual do Sistema
+Único de Assistência Social – SUAS e sobre o acesso de famílias e indivíduos
+em situação de vulnerabilidade ou risco social e pessoal à atenção integral à
+saúde.
+2. O requerente sustenta a inconstitucionalidade da Lei 13.714/2018, alegando
+vício formal no processo legislativo, pois a Casa Revisora (Senado Federal)
+teria alterado o mérito do projeto de lei original, aprovado pela Casa
+Iniciadora (Câmara dos Deputados), sem o devido retorno para nova
+
+
+[[pagina 27 | nativo]]
+deliberação, em violação ao art. 65, parágrafo único, da Constituição Federal.
+II. Questão em discussão
+3. A controvérsia submetida à apreciação consiste em saber se a emenda
+promovida pelo Senado Federal no projeto de lei que culminou na Lei
+13.714/2018 caracterizou alteração do mérito do projeto originalmente
+encaminhado pela Casa Iniciadora, a exigir o retorno à Câmara dos
+Deputados, nos termos do art. 65, parágrafo único, da Constituição Federal.
+III. Razões de decidir
+4. Preliminar. Ausência de impugnação específica. Acolhimento.
+Conhecimento parcial da ação. O requerente deixou de apresentar, de forma
+fundamentada e específica, argumentos que amparem a pretendida
+inconstitucionalidade da integralidade da Lei 13.714/2018, o que evidencia,
+nos termos da jurisprudência do Supremo Tribunal Federal, a parcial inépcia
+da petição inicial. Por outro lado, em relação ao art. 2º da Lei 13.714/2018, é
+possível extrair de forma clara e objetiva os fundamentos mínimos necessários
+à sua arguição de inconstitucionalidade, o que autoriza o conhecimento
+parcial desta ação.
+5. Preliminar. Controvérsia de natureza interna corporis. Rejeição. Na
+presente sede, o fundamento central desta ação está amparado diretamente
+no texto constitucional, notadamente no art. 65, parágrafo único, da
+Constituição Federal. Assim, muito embora seja necessário examinar o iter
+procedimental do processo legislativo que culminou na Lei 13.714/2018, tal se
+faz imprescindível para aferir o cumprimento das normas constitucionais
+pertinentes ao devido processo legislativo.
+6. Mérito. Bicameralismo. Vetores interpretativos. A leitura do devido
+processo legislativo em um contexto de bicameralismo requer que se leve na
+devida conta dois traços essenciais: (i) a estrutura do bicameralismo volta-se
+à finalidade de gerar condições para que o poder seja limitado e controlado
+pelo próprio poder; (ii) o processo legislativo bicameral serve de instrumento
+para tanto, e, dessa forma, exige que a produção das leis espelhe a paridade
+entre Câmara dos Deputados e Senado Federal.
+7. Mérito. Bicameralismo. Interpretação do art. 65 da Constituição Federal.
+Mostra-se relevante perquirir, diante de uma emenda apresentada pela Casa
+Revisora, se ela possui, ou não, aptidão para modificar a proposição jurídica
+originalmente encaminhada pela Casa Iniciadora. Caso se compreenda que a
+Casa Revisora introduziu emenda que implica alteração, supressão ou
+complementação de conteúdo, mostra-se indispensável o retorno à Casa
+Iniciadora para análise e deliberação. Caso se entenda em sentido diverso, ou
+seja, que a emenda inserida pela Casa Revisora não acarretou modificação
+quanto à substância do projeto, revela-se prescindível o retorno à Casa
+Iniciadora.
+8. Mérito. Art. 2º da Lei 13.714/2018. Dispositivo fruto de emenda promovida
+pela Casa Revisora. Necessidade de retorno à Casa Iniciadora. O projeto
+inicial da Câmara dos Deputados tratava exclusivamente da normatização e
+padronização da identidade visual do Sistema Único de Assistência Social
+(SUAS), enquanto o Senado Federal inseriu um novo dispositivo (art. 2º da
+Lei 13.714/2018) que fixou a dispensabilidade de comprovante de domicílio
+ou de inscrição no Sistema Único de Saúde – SUS para o acesso de famílias
+
+
+[[pagina 28 | nativo]]
+e indivíduos em situação de vulnerabilidade ou risco social e pessoal à
+atenção integral à saúde.
+9. Mérito. Art. 2º da Lei 13.714/2018. Dispositivo fruto de emenda promovida
+pela Casa Revisora. Necessidade de retorno à Casa Iniciadora. A emenda,
+introduzida pelo Senado Federal, atuando como Casa Revisora, no projeto
+de lei que culminou na Lei 13.714/2018, modificou substancialmente a
+proposição jurídica originalmente encaminhada pela Câmara dos
+Deputados (Casa Iniciadora).
+10. Mérito. Art. 2º da Lei 13.714/2018. Dispositivo fruto de emenda promovida
+pela Casa Revisora. Necessidade de retorno à Casa Iniciadora. Ainda que se
+trate de emenda que visa à maximização da Constituição Federal ou mesmo
+emenda que, de alguma forma, materialize interpretação passível de ser
+extraída do texto constitucional ou ainda emenda que signifique o
+adimplemento de um mandamento constitucional, mostra-se
+indispensável, para se tornar validamente norma jurídica, aprovação por
+ambas as Casas do Congresso Nacional.
+IV. Dispositivo
+11. Ação direta de inconstitucionalidade conhecida, em parte, e, nessa
+extensão, pedido julgado procedente, para declarar a inconstitucionalidade,
+sem pronúncia de nulidade, do art. 2º da Lei 13.714/2018, mantendo sua
+vigência pelo prazo de 18 (dezoito) meses, lapso temporal razoável dentro do
+qual o legislador poderá reapreciar o tema.
+(ADI 6085, Relator(a): Cristiano Zanin, Relator(a) p/ Acórdão: Gilmar Mendes,
+Tribunal Pleno, julgado em 19-08-2025, DJe 08-10-2025)
+
+72. A hipótese dos autos corresponde precisamente ao cenário de preocupação
+
+identificado pelo Supremo Tribunal Federal no julgamento da ADI nº 6.085, em que se
+
+advertiu para o “uso estratégico da emenda de redação” como mecanismo destinado
+
+a evitar o retorno da proposição à Casa iniciadora.
+
+73. Foi exatamente o que ocorreu na tramitação do PL em questão: alteração
+
+substancial do conteúdo normativo acompanhada de classificação formal artificial, a
+
+fim de afastar etapa constitucionalmente obrigatória do processo legislativo.
+
+74. No mencionado julgado, conforme voto do Ministro Gilmar Mendes, redator
+
+para o acórdão, o STF pode examinar se eventuais emendas de redação aprovadas na
+
+Casa revisora alteram o conteúdo jurídico de proposições legislativas, de modo a
+
+obrigar o seu retorno para deliberação da Casa iniciadora. Não se trata de matéria
+
+interna corporis nem de questão meramente regimental. Em suas palavras, conforme
+
+registrado em seu voto,
+
+
+[[pagina 29 | nativo]]
+o argumento não gira em torno da inobservância de regras de caráter
+meramente regimental. A bem da verdade, o fundamento central da presente
+ação está amparado diretamente no texto constitucional, notadamente no art.
+65, parágrafo único, da Constituição Federal. Assim, muito embora seja
+necessário, de fato, examinar o iter procedimental do processo legislativo que
+culminou na Lei 13.714/2018, tal se faz imprescindível para aferir o
+cumprimento das normas constitucionais pertinentes ao devido processo
+legislativo, motivo pelo qual, assim como o Ministro Cristiano Zanin, rechaço
+a questão preliminar arguida pelo Senado Federal.
+
+75. Na mesma oportunidade, sobre as chamadas “emendas de redação”, o
+
+Ministro revelou preocupação quanto a sua utilização indiscriminada como manobra
+
+para se atropelar etapas do processo legislativo – tal como verificado na hipótese em
+
+questão.
+
+76. Ainda de acordo com seu voto é preciso que “o Tribunal se mantenha atento
+
+às alterações ditas de redação, notadamente diante daquilo que se tem identificado,
+
+em âmbito doutrinário, como um uso estratégico da emenda de redação para evitar o
+
+retorno da proposição à Casa Iniciadora, tendo em vista que, em algumas situações,
+
+pode ficar caracterizada uma inconstitucionalidade formal”.
+
+77. Sobre o tema, também esclareceu que, na hipótese sob julgamento, a alteração
+
+da proposição pela Casa revisora não poderia ser considerada simples emenda de
+
+redação, porque não realizou “saneamento de vício de linguagem, de incorreção de
+
+técnica legislativa, de lapso, defeito ou erro manifesto, tampouco ocorreu
+
+aprimoramento redacional para explicitar o que já se continha no projeto original”.
+
+78. Por isso, ao reconhecer a inconstitucionalidade formal da lei então
+
+questionada, o voto ainda aponta que
+
+a definição da Casa Iniciadora e da Casa Revisora constitui questão
+fundamental no regime democrático brasileiro, uma vez que a Casa em que
+se inicia a tramitação do projeto tem a palavra final sobre as emendas
+propostas pela Casa Revisora.
+[...] Na realidade, a mim me parece, com o devido respeito às posições em
+sentido diverso, que acolher a argumentação deduzida pelo Senado Federal
+
+
+[[pagina 30 | nativo]]
+nestes autos levaria a consequências inimagináveis e, ao fim e ao cabo,
+resultaria no desprezo das finalidades próprias do bicameralismo e na
+prevalência quase irrestrita da Casa Revisora, em nítida violação à
+Constituição Federal.
+Além disso, bem vistas as coisas, a prevalência da posição sustentada pelo
+Senado Federal nesta ADI significaria reconhecer que um dado projeto, por
+supostamente ser decorrente direto da Constituição Federal, pode se tornar
+lei com a aprovação de apenas uma das Casas do Congresso Nacional,
+quando, na verdade, sabe-se bem que, em nosso sistema bicameral – por força
+do art. 65 do texto constitucional –, uma proposição somente se torna lei pela
+aprovação de ambas as Casas que compõem nosso Parlamento.
+Trata-se, assim, de entendimento que, ao mesmo tempo, preserva a dignidade
+e a centralidade do devido processo legislativo, enquanto assegura o respeito
+às prerrogativas constitucionais atribuídas a ambas as Casas do Congresso
+Nacional. Além disso, tal compreensão reafirma a importância da atuação
+harmônica e independente entre a Câmara dos Deputados e o Senado Federal,
+para, garantindo a legitimidade e a juridicidade dos atos normativos
+produzidos, resguardar não apenas a higidez do processo legislativo, mas
+também a estabilidade institucional e a confiabilidade das normas editadas
+pelo Parlamento.
+
+79. Esse também foi o entendimento que orientou o julgamento da ADI nº 2.238.
+
+Como explicitou o voto do Relator, Ministro Alexandre de Moraes,
+
+a observância de regularidade do devido processo legislativo em ambas as
+Casas Legislativas é imprescindível em face do bicameralismo de nosso
+Congresso Nacional, que consagra a necessidade de discussão e aprovação de
+um projeto de lei por ambas as casas, exigindo que qualquer alteração de
+conteúdo ao projeto aprovado por uma das Casas, haverá, obrigatoriamente,
+que retornar à outra, para que se pronuncie somente sobre esse ponto, para
+aprová-lo ou rejeitá-lo, de forma definitiva (ADI 2.238/DF, Rel. Min.
+Alexandre de Moraes, Tribunal Pleno, j. 24.6.2020, DJe 15.9.2020).
+
+80. Quanto à abrangência do vício formal indicado, na hipótese em tela, a
+
+inconstitucionalidade contamina todo o produto normativo da proposição legislativa
+
+– a íntegra da Lei nº 15.402/2026.
+
+81. Há nulidade total do diploma legal em razão da incindibilidade e da
+
+reestruturação do núcleo da norma. As alterações no artigo 112 da LEP e os novos tipos
+
+do Código Penal formam um complexo normativo conexo. A permanência de apenas
+
+
+[[pagina 31 | nativo]]
+uma parte da lei geraria um sistema incompleto e incoerente com a vontade (ainda que
+
+viciada) do legislador.
+
+82. A segurança do procedimento constitucional exige que, constatado o
+
+comprometimento estrutural do iter legislativo, a nulidade se estenda a todo o
+
+diploma, evitando a subsistência de normas que não passaram pelo crivo integral do
+
+Congresso Nacional.
+
+83. De todo modo, em caráter subsidiário, requer-se a declaração de
+
+inconstitucionalidade dos dispositivos alterados sem o devido retorno à Casa
+
+iniciadora, quais sejam, o art. 1º da lei impugnada, que deu nova redação aos incisos I
+
+e II do art. 112 da Lei nº 7.210/1984.
+
+IV. DA INCONSTITUCIONALIDADE POR VÍCIOS MATERIAIS.
+
+84. A lei impugnada também é materialmente inconstitucional, uma vez que,
+
+como se demonstra a seguir, seu conteúdo normativo é incompatível com as regras e
+
+princípios que regem a Carta de 1988.
+
+IV.I. DA VIOLAÇÃO AO PRINCÍPIO DA INDIVIDUALIZAÇÃO DA PENA, À SEPARAÇÃO DOS
+PODERES E À FUNÇÃO JURISDICIONAL NA DOSIMETRIA DA PENA (ARTS. 5º, XLVI,
+E 2º DA CF).
+
+85. Os arts. 359-M-A e 359-M-B do Código Penal, introduzidos pelo art. 2º da lei
+
+impugnada, estabelecem comandos normativos que subtraem do Poder Judiciário a
+
+função constitucional de individualizar a pena nos crimes contra o Estado Democrático
+
+de Direito.
+
+86. Tais dispositivos não apenas limitam, mas efetivamente esvaziam o espaço
+
+decisório judicial, substituindo a análise concreta das circunstâncias do caso por
+
+automatismos legislativos em relação aos dois crimes previstos no Capítulo II do
+
+
+[[pagina 32 | nativo]]
+Título XII da Parte Especial do Código Penal: (a) abolição violenta do Estado
+
+Democrático de Direito (art. 359-L) e (b) golpe de Estado (art. 359-M), nos termos do
+
+Código Penal.
+
+87. Ambos os dispositivos compartilham uma característica comum que os torna
+
+incompatíveis com a Constituição Federal: a imposição de automatismos que
+
+substituem a valoração judicial concreta por comandos legislativos rígidos e
+
+inflexíveis, em frontal violação aos princípios da individualização da pena (art. 5º,
+
+XLVI, CF) e da separação dos Poderes (art. 2º, CF).
+
+88. O princípio da individualização da pena, consagrado no art. 5º, inciso XLVI, da
+
+Constituição Federal, constitui garantia fundamental do cidadão em face do poder
+
+punitivo estatal. O dispositivo constitucional dispõe que “a lei regulará a
+
+individualização da pena”, conferindo ao legislador ordinário a competência para
+
+estabelecer os parâmetros e critérios da atividade individualizadora. Sua natureza de
+
+cláusula pétrea (art. 60, § 4º, IV, CF) impede qualquer alteração tendente a aboli-lo ou
+
+restringi-lo substancialmente.
+
+89. Essa delegação legislativa, contudo, não é ilimitada. O legislador pode
+
+estabelecer balizas abstratas – penas mínimas e máximas, circunstâncias agravantes e
+
+atenuantes, causas de aumento e diminuição –, mas não pode suprimir o núcleo
+
+essencial da garantia, que consiste na possibilidade de adequação da resposta penal às
+
+circunstâncias concretas de cada caso e à culpabilidade individual do agente.
+
+90. De acordo com a jurisprudência do Supremo Tribunal Federal, normas que
+
+estabelecem automatismos na aplicação ou execução da pena conflitam com a garantia
+
+constitucional da individualização. Foi o entendimento adotado no paradigmático
+
+julgamento do HC 82.959/SP, de relatoria do Ministro Marco Aurélio:
+
+PENA – CRIMES HEDIONDOS – REGIME DE CUMPRIMENTO –
+PROGRESSÃO – ÓBICE – ART. 2º, § 1º, DA LEI 8.072/1990 –
+INCONSTITUCIONALIDADE – EVOLUÇÃO JURISPRUDENCIAL. Conflita
+
+
+[[pagina 33 | nativo]]
+com a garantia da individualização da pena – art. 5º, inciso XLVI, da
+Constituição Federal – a imposição, mediante norma, do cumprimento da
+pena em regime integralmente fechado. Nova inteligência do princípio da
+individualização da pena, em evolução jurisprudencial, assentada a
+inconstitucionalidade do art. 2º, § 1º, da Lei 8.072/1990 (HC 82.959/SP, Rel.
+Min. Marco Aurélio, Plenário, j. 23.02.2006, DJ 01.09.2006)
+
+91. O voto-vista do Ministro Cezar Peluso naquele julgamento elucida o
+
+conteúdo normativo da garantia constitucional, indicando as três dimensões do
+
+princípio da individualização da pena:
+
+Evidente, assim, que, perante a CF/1988, o princípio da individualização da
+pena compreende: a) proporcionalidade entre o crime praticado e a sanção
+abstratamente cominada no preceito secundário da norma penal; b)
+individualização da pena aplicada em conformidade com o ato singular
+praticado por agente em concreto (dosimetria da pena); c) individualização
+da sua execução, segundo a dignidade humana (art. 1º, III), o comportamento
+do condenado no cumprimento da pena (no cárcere ou fora dele, no caso das
+demais penas que não a privativa de liberdade) e à vista do delito cometido
+(art. 5º, XLVIII). Logo, tendo predicamento constitucional o princípio da
+individualização da pena (em abstrato, em concreto e em sua execução),
+exceção somente poderia ser aberta por norma de igual hierarquia
+nomológica.
+(HC 82.959/SP, Rel. Min. Marco Aurélio, voto-vista do Min. Cezar Peluso,
+Plenário, j. 23.02.2006, DJ 01.09.2006)
+
+92. Do paradigmático precedente extraem-se duas conclusões fundamentais para
+
+o presente caso: (i) o princípio da individualização da pena possui três dimensões
+
+constitucionalmente protegidas – a legislativa, a judicial e a executória –, sendo vedado
+
+ao legislador ordinário aniquilar qualquer delas; e (ii) a imposição, mediante norma
+
+infraconstitucional, de regras automáticas que suprimam a valoração judicial concreta
+
+viola frontalmente o art. 5º, XLVI, da Constituição.
+
+93. A primeira dimensão – individualização legislativa – refere-se à adequação
+
+abstrata entre a gravidade do delito e a pena cominada. É o momento em que o
+
+legislador, ao tipificar condutas e estabelecer sanções, deve observar critérios de
+
+proporcionalidade entre o desvalor da conduta e a resposta punitiva. Essa dimensão,
+
+
+[[pagina 34 | nativo]]
+embora sujeita a algum grau de discricionariedade legislativa, encontra limites na
+
+proibição de excesso e na proibição de proteção deficiente, que serão abordadas em
+
+tópico seguinte.
+
+94. A segunda dimensão – individualização judicial – é a que mais diretamente
+
+interessa ao presente tópico desta ação. Trata-se do momento em que o juiz, à luz das
+
+circunstâncias concretas do fato e das condições pessoais do agente, define a pena
+
+aplicável dentro dos parâmetros legais. Essa dimensão pressupõe necessariamente um
+
+espaço de valoração judicial, que não pode ser suprimido ou esvaziado pelo legislador.
+
+O sistema trifásico de dosimetria da pena (art. 68 do Código Penal) é expressão dessa
+
+dimensão, permitindo ao juiz adequar a pena-base às circunstâncias judiciais (art. 59),
+
+considerar as circunstâncias atenuantes e agravantes (arts. 61 a 67) e aplicar as causas
+
+de aumento e diminuição.
+
+95. A terceira dimensão – individualização executória – refere-se à adequação do
+
+cumprimento da pena às condições pessoais do condenado e ao seu comportamento
+
+durante a execução. A progressão de regime, o livramento condicional e outros
+
+institutos da execução penal são expressões dessa dimensão, que visa à ressocialização
+
+do condenado mediante tratamento individualizado.
+
+96. Essa interdependência evidencia que a supressão ou esvaziamento de
+
+qualquer das três dimensões compromete a integridade da garantia constitucional
+
+como um todo.
+
+97. Normas que eliminam o espaço de valoração judicial na fase de aplicação da
+
+pena – como os arts. 359-M-A e 359-M-B – não apenas violam a segunda dimensão da
+
+individualização, mas contaminam todo o sistema, impedindo que a resposta penal
+
+seja efetivamente adequada às circunstâncias do caso concreto, conforme se detalha a
+
+seguir.
+
+
+[[pagina 35 | nativo]]
+98. Na hipótese, de um lado, o art. 359-M-A12 impõe, de forma cogente e
+
+inafastável, a aplicação do concurso formal próprio aos crimes contra o Estado
+
+Democrático de Direito praticados “no mesmo contexto”, vedando expressamente a
+
+aplicação do concurso formal impróprio (segunda parte do art. 70 do CP) e do
+
+concurso material (art. 69 do CP), “ainda que existente desígnio autônomo”.
+
+99. Para compreender a gravidade dessa violação, é necessário examinar a
+
+sistemática do concurso de crimes no direito penal brasileiro e o papel central que a
+
+análise do desígnio autônomo desempenha na dosimetria da pena.
+
+100. O Código Penal brasileiro distingue entre concurso material (art. 69) e
+
+concurso formal (art. 70). No concurso material, o agente pratica duas ou mais ações
+
+ou omissões, resultando em dois ou mais crimes; as penas são somadas (sistema de
+
+cumulação). No concurso formal, o agente pratica uma única ação ou omissão que
+
+resulta em dois ou mais crimes; em regra, aplica-se a pena do crime mais grave,
+
+aumentada de 1/6 a 1/2 (sistema de exasperação).
+
+101. Contudo, o próprio art. 70 do Código Penal estabelece uma ressalva
+
+fundamental: “as penas aplicam-se, entretanto, cumulativamente, se a ação ou
+
+omissão é dolosa e os crimes concorrentes resultam de desígnios autônomos”. É o
+
+chamado concurso formal impróprio ou imperfeito, que se caracteriza quando o
+
+agente, embora praticando uma única ação ou omissão, atua com desígnios autônomos
+
+em relação a cada resultado criminoso.
+
+102. O desígnio autônomo é elemento subjetivo que revela a existência de vontades
+
+distintas e independentes direcionadas a cada resultado criminoso. Quando verificada
+
+sua presença, o legislador entendeu que a unidade de ação não deve beneficiar o
+
+12 Art. 359-M-A. Quando os delitos deste Capítulo estão inseridos no mesmo contexto, a pena deverá
+ser aplicada, ainda que existente desígnio autônomo, na forma do concurso formal próprio de que trata
+a primeira parte do art. 70, vedando-se a aplicação do cômputo cumulativo previsto na segunda parte
+desse dispositivo e no art. 69, todos deste Código.
+
+
+[[pagina 36 | nativo]]
+agente, pois a pluralidade de vontades criminosas revela maior reprovabilidade e
+
+justifica a cumulação de penas, tal como no concurso material.
+
+103. A análise da existência de desígnios autônomos é, por sua própria natureza,
+
+atividade eminentemente judicial. Trata-se de valoração que depende da análise das
+
+provas produzidas no processo, das circunstâncias concretas do fato e da reconstrução
+
+do iter criminis. O juiz deve examinar se o agente, ao praticar a conduta, tinha
+
+consciência e vontade direcionadas a cada resultado típico de forma autônoma, ou se
+
+os resultados decorreram de uma única deliberação criminosa.
+
+104. A expressão “ainda que existente desígnio autônomo” constante do art. 359-
+
+M-A revela a intenção deliberada do legislador de neutralizar esse elemento central da
+
+dosimetria penal. O dispositivo determina que, mesmo quando comprovada a
+
+existência de desígnios autônomos – ou seja, mesmo quando demonstrado que o
+
+agente agiu com vontades distintas e independentes em relação a cada crime –, deve-
+
+se aplicar o concurso formal próprio, como se houvesse uma única vontade criminosa.
+
+105. Essa determinação legislativa viola o princípio da individualização da pena
+
+em múltiplas dimensões:
+
+106. Primeiro, retira do juiz a competência para analisar a existência de desígnios
+
+autônomos. O magistrado está impedido de valorar se o agente, ao praticar crimes de
+
+abolição violenta do Estado Democrático de Direito (art. 359-L) e de golpe de Estado
+
+(art. 359-M), por exemplo, agiu com vontades distintas e autônomas direcionadas a
+
+cada resultado criminoso. A lei impõe, de antemão, que tais crimes sejam tratados
+
+como se decorressem de uma única vontade, ainda que a realidade fática demonstre o
+
+contrário.
+
+107. Essa imposição legislativa subverte a lógica do sistema penal. O desígnio
+
+autônomo é elemento fático-jurídico cuja existência deve ser aferida caso a caso,
+
+mediante análise das provas e das circunstâncias concretas. Não se trata de presunção
+
+
+[[pagina 37 | nativo]]
+legal que possa ser estabelecida abstratamente pelo legislador, mas de constatação
+
+empírica que depende da atividade probatória e da valoração judicial.
+
+108. Segundo, viola a separação dos Poderes ao substituir a valoração judicial por
+
+comando legislativo. A análise da existência de desígnios autônomos constitui função
+
+típica do Poder Judiciário, que deve ser exercida caso a caso, à luz das provas
+
+produzidas e das circunstâncias concretas. Ao predeterminar o resultado dessa análise
+
+– impondo sempre o concurso formal próprio, independentemente da realidade fática
+
+–, o legislador invade competência constitucionalmente reservada ao Judiciário.
+
+109. O Supremo Tribunal Federal tem afirmado que o legislador pode estabelecer
+
+parâmetros para a atuação judicial, mas não pode substituir-se ao juiz na valoração do
+
+caso concreto.
+
+110. No HC 97.256/RS, a Corte declarou a inconstitucionalidade de dispositivos da
+
+Lei de Drogas que vedavam a substituição da pena privativa de liberdade por
+
+restritivas de direitos, em precedente cujo fundamento se aplica diretamente ao caso
+
+em exame:
+
+HABEAS CORPUS. TRÁFICO DE DROGAS. ART. 44 DA LEI 11.343/2006:
+IMPOSSIBILIDADE DE CONVERSÃO DA PENA PRIVATIVA DE
+LIBERDADE EM PENA RESTRITIVA DE DIREITOS. DECLARAÇÃO
+INCIDENTAL DE INCONSTITUCIONALIDADE. OFENSA À GARANTIA
+CONSTITUCIONAL DA INDIVIDUALIZAÇÃO DA PENA (INCISO XLVI
+DO ART. 5º DA CF/88). ORDEM PARCIALMENTE CONCEDIDA. 1. O
+processo de individualização da pena é um caminhar no rumo da
+personalização da resposta punitiva do Estado, desenvolvendo-se em três
+momentos individuados e complementares: o legislativo, o judicial e o
+executivo. Logo, a lei comum não tem a força de subtrair do juiz
+sentenciante o poder-dever de impor ao delinqüente a sanção criminal que
+a ele, juiz, afigurar-se como expressão de um concreto balanceamento ou de
+uma empírica ponderação de circunstâncias objetivas com protagonizações
+subjetivas do fato-tipo. Implicando essa ponderação em concreto a opção
+jurídico-positiva pela prevalência do razoável sobre o racional; ditada pelo
+permanente esforço do julgador para conciliar segurança jurídica e justiça
+material. 2. No momento sentencial da dosimetria da pena, o juiz sentenciante
+se movimenta com ineliminável discricionariedade entre aplicar a pena de
+privação ou de restrição da liberdade do condenado e uma outra que já não
+
+
+[[pagina 38 | nativo]]
+tenha por objeto esse bem jurídico maior da liberdade física do sentenciado.
+Pelo que é vedado subtrair da instância julgadora a possibilidade de se
+movimentar com certa discricionariedade nos quadrantes da
+alternatividade sancionatória [...] (HC 97.256/RS, Rel. Min. Ayres Britto,
+Plenário, j. 01.09.2010, DJe 16.12.2010)
+
+111. Esse entendimento foi posteriormente reafirmado pelo STF no ARE 663.261-
+
+RG/MG. Conforme voto do Relator, Ministro Luiz Fux, a Corte reiterou o
+
+entendimento de que “a vedação à conversão, de forma abstrata pelo legislador, colide
+
+com o princípio constitucional da individualização da pena e impede que o juiz da
+
+execução penal faça a aferição de natureza subjetiva” (ARE 663.261-RG/MG, Rel. Min.
+
+Luiz Fux, Plenário, j. 14.01.2013).
+
+112. Terceiro, cria um regime excepcional de privilégio para os crimes contra o
+
+Estado Democrático de Direito, em contradição com o mandamento constitucional de
+
+repressão qualificada a tais condutas (art. 5º, XLIV, CF). Enquanto em todos os demais
+
+crimes o juiz deve analisar a existência de desígnios autônomos para definir a técnica
+
+concursal aplicável, nos crimes do Capítulo II do Título XII da Parte Especial do
+
+Código Penal essa análise está expressamente vedada.
+
+113. Essa excepcionalidade não encontra qualquer justificativa constitucional. Pelo
+
+contrário, a Constituição, em seu art. 5º, XLIV, determina tratamento especialmente
+
+severo às ações de grupos contra a ordem constitucional e o Estado Democrático. A
+
+criação de um regime de privilégio sancionatório para tais crimes – mediante a
+
+imposição do concurso formal próprio mesmo quando verificados desígnios
+
+autônomos – contraria frontalmente o mandamento constitucional.
+
+114. A título ilustrativo, considere-se a seguinte situação: um indivíduo, no
+
+contexto de invasão das sedes dos Poderes da República, pratica os crimes de abolição
+
+violenta do Estado Democrático de Direito (art. 359-L) e de golpe de Estado (art. 359-
+
+M), com plena consciência e vontade direcionadas a cada resultado. Pelo sistema geral
+
+
+[[pagina 39 | nativo]]
+do Código Penal, verificada a existência de desígnios autônomos, o juiz deveria aplicar
+
+o concurso formal impróprio ou o concurso material, com cumulação de penas. Pelo
+
+art. 359-M-A, contudo, o juiz está impedido de fazê-lo: deve aplicar o concurso formal
+
+próprio, como se houvesse uma única vontade criminosa, resultando em pena
+
+substancialmente menor.
+
+115. Essa distorção é ainda mais grave quando se considera que, para crimes
+
+comuns praticados nas mesmas circunstâncias, o juiz manteria plena liberdade para
+
+analisar a existência de desígnios autônomos e aplicar a técnica concursal adequada.
+
+O tratamento mais benéfico é reservado precisamente aos crimes que, segundo a
+
+Constituição, deveriam receber tratamento mais severo.
+
+116. Por outro lado, o art. 359-M-B13 estabelece uma redução automática da pena
+
+para crimes cometidos “em contexto de multidão” e, com isso, comprime o espaço
+
+decisório judicial para calibrar culpabilidade e ofensividade. Substitui a análise
+
+concreta por um gatilho situacional desprovido de qualquer racionalidade jurídico-
+
+penal.
+
+117. A minorante prevista no art. 359-M-B apresenta amplitude redutora
+
+significativa – de 1/3 a 2/3 da pena – e é de aplicação obrigatória sempre que verificada
+
+a presença do agente em “contexto de multidão”, desde que não tenha praticado ato
+
+de financiamento ou exercido papel de liderança. O juiz é obrigado a aplicar a redução,
+
+restando-lhe apenas a definição do quantum dentro da faixa legalmente estabelecida.
+
+118. As causas de diminuição de pena (minorantes) são circunstâncias legais que,
+
+quando presentes, impõem a redução da pena em determinada fração. Diferentemente
+
+das circunstâncias atenuantes – que influenciam a pena na segunda fase da dosimetria,
+
+13 Art. 359-M-B. Quando os crimes previstos neste Capítulo forem praticados em contexto de multidão,
+a pena será reduzida de 1/3 (um terço) a 2/3 (dois terços), desde que o agente não tenha praticado ato
+de financiamento ou exercido papel de liderança.
+
+
+[[pagina 40 | nativo]]
+sem poder ultrapassar os limites legais –, as causas de diminuição incidem na terceira
+
+fase e podem conduzir a pena abaixo do mínimo legal.
+
+119. A previsão de causas de diminuição pelo legislador deve observar critérios de
+
+racionalidade jurídico-penal. As minorantes tradicionalmente reconhecidas no direito
+
+penal brasileiro fundamentam-se em circunstâncias que efetivamente reduzem a
+
+culpabilidade ou a ofensividade da conduta.
+
+120. Como exemplo, a tentativa (art. 14, parágrafo único, CP) justifica redução de
+
+1/3 a 2/3 porque o crime não se consumou, havendo menor lesão ao bem jurídico. Além
+
+disso, o arrependimento posterior (art. 16, CP) justifica redução de 1/3 a 2/3 porque o
+
+agente, voluntariamente, reparou o dano antes do recebimento da denúncia, revelando
+
+menor censurabilidade. Ainda, a participação de menor importância (art. 29, § 1º, CP)
+
+justifica redução de 1/6 a 1/3 porque o agente contribuiu de forma menos relevante
+
+para o resultado criminoso. Cite-se também o tráfico privilegiado (art. 33, § 4º, da Lei
+
+11.343/2006), que justifica redução de 1/6 a 2/3 quando o agente é primário, de bons
+
+antecedentes, não se dedica a atividades criminosas nem integra organização
+
+criminosa, revelando menor periculosidade.
+
+121. Em todos esses casos, há uma correlação lógica entre a circunstância que
+
+fundamenta a minorante e a redução da culpabilidade ou da ofensividade da conduta.
+
+O legislador identifica situações em que a resposta penal integral seria
+
+desproporcional às circunstâncias do caso, autorizando a redução da pena em
+
+determinada fração.
+
+122. Ocorre que, na hipótese analisada, o “contexto de multidão” previsto no art.
+
+359-M-B não se enquadra nessa lógica. A mera presença do agente em meio a uma
+
+multidão não implica, por si só, menor culpabilidade ou menor ofensividade de sua
+
+conduta. Pelo contrário.
+
+123. Primeiro, a premissa de que a dinâmica de multidão reduziria a capacidade
+
+
+[[pagina 41 | nativo]]
+de autodeterminação do agente – eventualmente invocado para justificar a minorante
+
+– não encontra respaldo na dogmática penal. A participação consciente e deliberada
+
+em ação coletiva contra as instituições democráticas pode revelar, em muitos casos,
+
+maior determinação criminosa, não menor. O agente que adere a um grupo mobilizado
+
+para atacar as sedes dos Poderes da República age com plena consciência da ilicitude
+
+e da gravidade de sua conduta. A pressão da multidão não elimina nem diminui a
+
+liberdade de escolha do agente.
+
+124. Segundo, o “contexto de multidão” não reduz a ofensividade da conduta.
+
+Crimes praticados coletivamente contra as instituições apresentam, tipicamente, maior
+
+potencial de lesividade, não menor. A força da multidão potencializa os danos
+
+materiais, dificulta a atuação das forças de segurança, gera efeitos de intimidação sobre
+
+os agentes públicos e produz consequências sistêmicas de desestabilização
+
+institucional.
+
+125. A lógica penal tradicional reconhece que a ação em grupo normalmente
+
+agrava a responsabilidade do agente. O Código Penal prevê diversas circunstâncias
+
+agravantes relacionadas à pluralidade de agentes: o art. 62 agrava a pena de quem
+
+promove ou organiza a cooperação no crime ou dirige a atividade dos demais agentes,
+
+de quem coage ou induz outrem à execução material do crime, de quem instiga ou
+
+determina a cometer o crime alguém sujeito à sua autoridade ou não punível em
+
+virtude de condição ou qualidade pessoal, e de quem executa o crime mediante paga
+
+ou promessa de recompensa.
+
+126. Terceiro, o “contexto de multidão” é fator contingente e aleatório, que não
+
+guarda correlação com a conduta individual do agente. A presença ou ausência de
+
+uma multidão depende de circunstâncias externas, não do comportamento pessoal do
+
+agente ou de seu grau de participação no crime. Dois agentes com idêntico grau de
+
+participação, idêntica culpabilidade e idêntica ofensividade podem receber penas
+
+
+[[pagina 42 | nativo]]
+radicalmente diferentes apenas porque um deles praticou o crime em dia de maior
+
+mobilização coletiva.
+
+127. A resposta penal deve ser proporcional à conduta individual do agente, não a
+
+fatores externos e contingentes sobre os quais ele não tem controle. A minorante do
+
+art. 359-M-B premia ou pune o agente não pelo que ele fez, mas pelas circunstâncias
+
+em que se encontrava – circunstâncias que, em muitos casos, foram criadas
+
+deliberadamente pelos próprios participantes da ação criminosa.
+
+128. Como mencionado, o STF tem considerado inconstitucionais normas que
+
+gerem, em âmbito penal, automatismos legislativos que suprimem a valoração
+
+judicial (cf. HC 82.959/SP, Rel. Min. Marco Aurélio, voto-vista do Min. Cezar Peluso,
+
+Plenário, j. 23.02.2006, DJ 01.09.2006).
+
+129. Além de violarem o princípio da individualização da pena, os arts. 359-M-A e
+
+359-M-B afrontam diretamente o princípio da separação dos Poderes, inscrito no art.
+
+2º da Constituição Federal como cláusula pétrea (art. 60, § 4º, III).
+
+130. Trata-se de garantia contra a concentração e o abuso do poder estatal, que
+
+impõe a distribuição das funções estatais entre órgãos distintos e independentes. No
+
+Estado Democrático de Direito, essa distribuição não é meramente formal, mas
+
+substantiva: cada Poder exerce funções típicas que lhe são constitucionalmente
+
+reservadas, não podendo ser suprimidas ou esvaziadas pelos demais.
+
+131. A função jurisdicional – consistente na aplicação do direito aos casos
+
+concretos, mediante processo judicial, com força de definitividade – é função típica do
+
+Poder Judiciário. No campo do direito penal, essa função compreende não apenas a
+
+verificação da tipicidade, ilicitude e culpabilidade, mas também a fixação da pena
+
+adequada ao caso concreto. A dosimetria da pena é, por excelência, atividade
+
+jurisdicional, que pressupõe a análise das circunstâncias específicas do fato e das
+
+condições pessoais do agente.
+
+
+[[pagina 43 | nativo]]
+132. O Poder Legislativo pode – e deve – estabelecer as balizas dentro das quais o
+
+juiz exercerá sua função individualizadora. Essa é a dimensão legislativa da
+
+individualização da pena, que se expressa na cominação de penas mínimas e máximas,
+
+na previsão de circunstâncias agravantes e atenuantes, e na definição de causas de
+
+aumento e diminuição. O que o legislador não pode fazer é substituir-se ao juiz na
+
+valoração do caso concreto, impondo resultados predeterminados
+
+independentemente das circunstâncias específicas.
+
+133. É precisamente isso que fazem os dispositivos impugnados:
+
+• O art. 359-M-A substitui a valoração judicial sobre a existência de desígnios
+
+autônomos por um comando legislativo que impõe sempre o concurso formal
+
+próprio. O juiz, que deveria analisar as provas e as circunstâncias do caso para
+
+definir se o agente agiu com uma ou mais vontades criminosas, está impedido
+
+de fazê-lo. A lei decidiu por ele, de forma abstrata e prévia, que em todos os
+
+casos de crimes contra o Estado Democrático de Direito praticados "no mesmo
+
+contexto" haverá concurso formal próprio, independentemente da realidade
+
+fática, e;
+
+• O art. 359-M-B substitui a valoração judicial sobre a culpabilidade e a
+
+ofensividade da conduta por um gatilho automático: verificado o “contexto de
+
+multidão”, a redução deve ser aplicada, independentemente de qualquer
+
+análise concreta sobre as circunstâncias do crime ou a personalidade do
+
+agente. O juiz não pode deixar de aplicar a minorante, ainda que conclua, à
+
+luz das provas, que o agente atuou com especial determinação criminosa ou
+
+que sua conduta foi particularmente grave.
+
+134. Essa substituição da valoração judicial por comandos legislativos automáticos
+
+constitui invasão de competência constitucionalmente reservada ao Poder Judiciário.
+
+O legislador, ao predeterminar o resultado da análise que deveria ser feita pelo juiz,
+
+
+[[pagina 44 | nativo]]
+exerce função que não lhe compete, violando a separação dos Poderes.
+
+135. O STF tem sido firme em repudiar ingerências do Poder Legislativo na função
+
+jurisdicional. No julgamento do HC 111.840/ES, o Plenário declarou a
+
+inconstitucionalidade do art. 2º, § 1º, da Lei 8.072/90, que impunha o regime inicial
+
+fechado para crimes hediondos, reafirmando que automatismos legislativos violam a
+
+separação dos Poderes (Rel. Min. Dias Toffoli, DJ 12/12/2013).
+
+136. Esse entendimento foi sedimentado na Súmula Vinculante nº 26, segundo a
+
+qual: "Para efeito de progressão de regime no cumprimento de pena por crime
+
+hediondo, ou equiparado, o juízo da execução observará a inconstitucionalidade do
+
+art. 2º da Lei nº 8.072, de 25 de julho de 1990, sem prejuízo de avaliar se o condenado
+
+preenche, ou não, os requisitos objetivos e subjetivos do benefício, podendo
+
+determinar, para tal fim, de modo fundamentado, a realização de exame
+
+criminológico."
+
+137. No mesmo sentido, no Tema 972 da Repercussão Geral (ARE 1.052.700-
+
+RG/MG), o STF fixou a tese de que “é inconstitucional a fixação ex lege, com base no
+
+art. 2º, § 1º, da Lei 8.072/1990, do regime inicial fechado, devendo o julgador, quando
+
+da condenação, ater-se aos parâmetros previstos no artigo 33 do Código Penal.”
+
+138. Os arts. 359-M-A e 359-M-B, ao imporem resultados predeterminados
+
+independentemente das circunstâncias específicas, incorrem no mesmo vício que
+
+levou à declaração de inconstitucionalidade do art. 2º, § 1º, da Lei 8.072/90.
+
+139. Os efeitos práticos dos dispositivos impugnados são devastadores para o
+
+sistema de dosimetria penal e para a coerência do ordenamento jurídico como um
+
+todo.
+
+140. Considere-se o seguinte exemplo ilustrativo, baseado em situação fática
+
+análoga aos eventos de 8 de janeiro de 2023: um indivíduo, integrando grupo
+
+
+[[pagina 45 | nativo]]
+organizado, invade as sedes dos três Poderes da República com o objetivo de impedir
+
+a posse do Presidente eleito e restabelecer o governo anterior. No curso da invasão,
+
+pratica depredações, ameaça servidores públicos e participa de atos que configuram,
+
+simultaneamente, os crimes de abolição violenta do Estado Democrático de Direito
+
+(art. 359-L, pena de 4 a 8 anos) e golpe de Estado (art. 359-M, pena de 4 a 12 anos). O
+
+indivíduo não exerceu papel de liderança nem praticou ato de financiamento.
+
+141. Pela sistemática anterior à lei impugnada, o juiz deveria analisar se os crimes
+
+foram praticados com desígnios autônomos. Verificando – como seria provável, dada
+
+a natureza distinta dos tipos penais e a necessidade de vontades específicas para cada
+
+resultado – que o agente agiu com desígnios autônomos em relação a cada crime, o
+
+juiz aplicaria o concurso material ou o concurso formal impróprio.
+
+142. No concurso material, as penas seriam somadas. Considerando as penas
+
+mínimas (4 anos + 4 anos = 8 anos), a pena final seria de, no mínimo, 8 anos de
+
+reclusão.
+
+143. No concurso formal impróprio, as penas também seriam somadas
+
+(cumulação). O resultado seria idêntico ao concurso material.
+
+144. Por outro lado, com a aplicação dos arts. 359-M-A e 359-M-B, decorrentes da
+
+lei ora impugnada, o cenário é radicalmente diverso.
+
+145. Primeiro, o art. 359-M-A impõe a aplicação do concurso formal próprio,
+
+independentemente da existência de desígnios autônomos. Nesse sistema, aplica-se a
+
+pena do crime mais grave (art. 359-M, pena mínima de 4 anos), aumentada de 1/6 a
+
+1/2. Com o aumento mínimo de 1/6, a pena base do concurso seria de 4 anos e 8 meses.
+
+146. Segundo, o art. 359-M-B impõe redução de 1/3 a 2/3 pelo “contexto de
+
+multidão”. Aplicando-se a redução máxima de 2/3, a pena final seria de
+
+aproximadamente 1 ano e 7 meses.
+
+
+[[pagina 46 | nativo]]
+147. A diferença é abissal: de uma pena mínima de 8 anos no sistema atual para
+
+uma pena de aproximadamente 1 ano e 7 meses com a aplicação dos dispositivos legais
+
+ora impugnados.
+
+148. Essa redução de mais de 80% da pena, no exemplo citado, não encontra
+
+qualquer justificativa em menor culpabilidade ou menor ofensividade da conduta;
+
+decorre exclusivamente dos automatismos legislativos que suprimem a valoração
+
+judicial.
+
+149. Mas, as distorções não param aí. Compare-se essa situação com crimes
+
+patrimoniais comuns. O furto qualificado (art. 155, § 4º, CP) – por exemplo, o furto de
+
+alimento em supermercado mediante escalada ou destreza – tem pena de 2 a 8 anos de
+
+reclusão. Não há qualquer causa de diminuição que permita redução de 2/3. Um réu
+
+primário, de bons antecedentes, que furta um bem de pequeno valor pode ser
+
+submetido a uma pena de 2 anos de reclusão.
+
+150. Com a aplicação das alterações da lei ora impugnada, chega-se à absurda
+
+consequência de que um indivíduo que furta um alimento em supermercado pode
+
+receber pena maior (2 anos) do que um indivíduo que participa de tentativa de golpe
+
+de Estado em contexto de multidão (1 ano e 7 meses).
+
+151. A imposição de um regime sancionatório mais brando para crimes contra a
+
+democracia, em comparação com crimes patrimoniais comuns, representa subversão
+
+completa da hierarquia de bens jurídicos protegidos pela Constituição.
+
+152. Os crimes contra o Estado Democrático de Direito constituem o núcleo mais
+
+grave de ofensas ao ordenamento jurídico, pois atentam contra as próprias bases do
+
+sistema constitucional. O bem jurídico protegido – a ordem democrática e as
+
+instituições do Estado de Direito – é pressuposto para a proteção de todos os demais
+
+bens jurídicos.
+
+
+[[pagina 47 | nativo]]
+153. Sem Estado Democrático de Direito, não há garantia de propriedade, de
+
+integridade física, de liberdade ou de qualquer outro direito fundamental.
+
+154. Diante do exposto, impõe-se a declaração de inconstitucionalidade dos arts.
+
+359-M-A e 359-M-B do Código Penal, introduzidos pelo art. 2º da lei ora impugnada,
+
+uma vez que violam frontalmente os princípios constitucionais da individualização da
+
+pena (art. 5º, XLVI, CF) e da separação dos Poderes (art. 2º, CF).
+
+IV.II. DA PROIBIÇÃO DE PROTEÇÃO DEFICIENTE, DA VEDAÇÃO DO RETROCESSO EM
+
+MATÉRIA DE PROTEÇÃO À DEMOCRACIA E DA INCOMPATIBILIDADE COM A
+REPRESSÃO A ATAQUES AO ESTADO DEMOCRÁTICO DE DIREITO (ARTS. 1º,
+PARÁGRAFO ÚNICO, 5º, XLIV, 60, § 4º, IV, E 226, § 8º, DA CF).
+
+155. A Constituição Federal de 1988, forjada no contexto histórico de superação do
+
+regime autoritário, estabeleceu o Estado Democrático de Direito como princípio
+
+estruturante da República (art. 1º, caput), emanando do povo todo o poder (parágrafo
+
+único). A proteção da ordem democrática não é, portanto, uma opção política
+
+contingente, mas um imperativo constitucional que vincula todos os Poderes do
+
+Estado, inclusive o Legislativo em sua função legiferante.
+
+156. O texto constitucional não se limitou a proclamar o Estado Democrático de
+
+Direito como fundamento da República. Foi além, estabelecendo um complexo sistema
+
+de garantias institucionais destinadas a proteger a ordem democrática contra ameaças
+
+internas e externas.
+
+157. Esse sistema inclui um tratamento jurídico qualificado para tais condutas. O
+
+art. 5º, inciso XLIV, da Constituição Federal dispõe que “constitui crime inafiançável e
+
+imprescritível a ação de grupos armados, civis ou militares, contra a ordem
+
+constitucional e o Estado Democrático”.
+
+158. Desse mandamento constitucional decorrem duas importantes consequências
+
+para o legislador ordinário: (i) o dever de proteção adequada, que se expressa na
+
+
+[[pagina 48 | nativo]]
+proibição de proteção deficiente; e (ii) a vedação de retrocesso na tutela penal da
+
+ordem democrática.
+
+159. De um lado, o princípio da proibição de proteção deficiente (untermassverbot)
+
+constitui a dimensão positiva do princípio da proporcionalidade. No campo da
+
+legislação penal, a proibição de proteção deficiente manifesta-se de diversas formas:
+
+(i) na obrigação de tipificar condutas que atentem contra bens jurídicos
+
+constitucionalmente protegidos; (ii) na obrigação de estabelecer sanções proporcionais
+
+à gravidade das condutas; (iii) na vedação de criar benefícios ou privilégios que
+
+esvaziem a proteção penal; e (iv) na vedação de revogar ou flexibilizar a tutela penal
+
+existente de forma a torná-la ineficaz.
+
+160. O Supremo Tribunal Federal tem reconhecido a proibição de proteção
+
+deficiente como parâmetro de controle de constitucionalidade das leis penais. No
+
+julgamento da ADI 4.424/DF, que tratou da Lei Maria da Penha, a Corte aplicou
+
+expressamente o princípio para afastar interpretação que esvaziava a proteção penal
+
+às vítimas de violência doméstica.
+
+161. Naquele julgamento, discutia-se se o crime de lesão corporal leve praticado
+
+contra mulher no âmbito doméstico deveria ser processado mediante ação penal
+
+pública condicionada à representação (como previsto na Lei 9.099/95 para os crimes de
+
+menor potencial ofensivo) ou mediante ação penal pública incondicionada (como
+
+sustentava o Ministério Público). A questão tinha enorme relevância prática, pois a
+
+exigência de representação permitia que a vítima – frequentemente pressionada pelo
+
+agressor ou por circunstâncias de dependência econômica e emocional – desistisse de
+
+prosseguir com a ação penal, esvaziando a proteção legal.
+
+162. O Ministro Luiz Fux, em seu voto, invocou expressamente a proibição de
+
+proteção deficiente:
+
+Sob o ângulo da tutela da dignidade da pessoa humana, que é um dos pilares
+
+
+[[pagina 49 | nativo]]
+da República Federativa do Brasil, exigir a necessidade da representação, no
+meu modo de ver, revela-se um obstáculo à efetivação desse direito
+fundamental porquanto a proteção resta incompleta e deficiente, mercê de
+revelar subjacentemente uma violência simbólica e uma afronta a essa
+cláusula pétrea (ADI 4.424/DF, voto do Min. Luiz Fux, Plenário, j. 09.02.2012,
+DJe 01.08.2014)
+
+163. Com base nesse dever de proteção adequada às vítimas de violência doméstica
+
+e na proibição de proteção deficiente, o Tribunal concluiu que os crimes de lesão
+
+corporal praticados contra a mulher no âmbito doméstico devem ser processados
+
+mediante ação penal pública incondicionada.
+
+164. Na hipótese, os dispositivos impugnados – arts. 359-M-A e 359-M-B do Código
+
+Penal e art. 112, incisos I e II (com a ressalva expressa aos crimes do Título XII), da Lei
+
+de Execução Penal – violam frontalmente a proibição de proteção deficiente ao
+
+instituírem um regime de clemência estrutural para os crimes contra o Estado
+
+Democrático de Direito.
+
+165. Essa clemência estrutural resulta da combinação de três mecanismos
+
+normativos que, em conjunto, produzem drástica redução da resposta penal:
+
+166. Primeiro mecanismo: o art. 359-M-A e a imposição do concurso formal
+
+próprio. Como demonstrado no Tópico I, o art. 359-M-A impõe a aplicação do
+
+concurso formal próprio aos crimes contra o Estado Democrático de Direito praticados
+
+“no mesmo contexto”, vedando o concurso material e o concurso formal impróprio
+
+“ainda que existente desígnio autônomo”.
+
+167. Essa imposição resulta em significativa redução das penas aplicáveis, pois
+
+substitui o sistema de cumulação (soma das penas) pelo sistema de exasperação (pena
+
+do crime mais grave aumentada de 1/6 a 1/2).
+
+168. A proteção deficiente decorrente desse mecanismo é evidente: condutas
+
+pluriofensivas, que atentam simultaneamente contra múltiplos aspectos da ordem
+
+
+[[pagina 50 | nativo]]
+democrática, recebem tratamento sancionatório equivalente ao de condutas menos
+
+graves. O agente que pratica, no mesmo contexto, crimes de abolição violenta do
+
+Estado Democrático de Direito e de golpe de Estado recebe pena apenas ligeiramente
+
+superior àquela que receberia se tivesse praticado um único desses crimes.
+
+169. Segundo mecanismo: o art. 359-M-B e a minorante por “contexto de
+
+multidão”. O art. 359-M-B cria causa especial de diminuição de pena de 1/3 a 2/3 para
+
+crimes praticados “em contexto de multidão”.
+
+170. Como demonstrado anteriormente, essa minorante não se fundamenta em
+
+qualquer critério dogmaticamente consistente que justifique a redução da
+
+culpabilidade ou da ofensividade. Pelo contrário, crimes praticados coletivamente
+
+contra as instituições apresentam tipicamente maior gravidade.
+
+171. A proteção deficiente decorrente desse mecanismo é ainda mais evidente:
+
+justamente as condutas mais graves – os ataques coordenados e massivos às
+
+instituições democráticas – recebem tratamento sancionatório mais benéfico. A
+
+minorante inverte a lógica constitucional, atribuindo menor reprovabilidade penal às
+
+condutas que, segundo o art. 5º, XLIV, deveriam receber tratamento mais severo.
+
+172. Terceiro mecanismo: o art. 112 da LEP e a exclusão do regime mais gravoso
+
+de progressão. O art. 112 da Lei de Execução Penal, com a nova redação dada pela lei
+
+impugnada, estabelece sistema escalonado de percentuais mínimos para progressão
+
+de regime. Os incisos I e II preveem percentuais de 25% e 30% para crimes praticados
+
+com violência ou grave ameaça à pessoa, conforme se trate de réu primário ou
+
+reincidente, respectivamente. Contudo, esses incisos ressalvam expressamente os
+
+crimes previstos no Título XII da Parte Especial do Código Penal – precisamente os
+
+crimes contra o Estado Democrático de Direito.
+
+173. Essa ressalva significa que os condenados por crimes contra o Estado
+
+Democrático de Direito, mesmo quando praticados com violência ou grave ameaça,
+
+
+[[pagina 51 | nativo]]
+não se submetem aos percentuais mais gravosos de progressão. Permanecem sujeitos
+
+à regra geral de progressão com 1/6 da pena cumprida, regime significativamente mais
+
+benéfico.
+
+174. A proteção deficiente decorrente desse mecanismo é patente: crimes violentos
+
+contra a ordem democrática recebem tratamento executório mais benéfico do que
+
+crimes violentos comuns contra o patrimônio ou a integridade física. Um condenado
+
+por roubo com grave ameaça deve cumprir 25% ou 30% da pena para progredir de
+
+regime; um condenado por golpe de Estado com grave ameaça pode progredir com
+
+apenas 1/6 (aproximadamente 16,67%) da pena cumprida.
+
+175. A combinação desses três mecanismos produz regime de clemência estrutural
+
+que esvazia a proteção penal da ordem democrática.
+
+176. Considere-se, novamente, o exemplo do indivíduo que pratica crimes de
+
+abolição violenta do Estado Democrático e de golpe de Estado em contexto de
+
+multidão.
+
+177. Pelo art. 359-M-A, aplica-se concurso formal próprio, resultando em pena de
+
+aproximadamente 4 anos e 8 meses (pena mínima do crime mais grave + 1/6). Pelo art.
+
+359-M-B, reduz-se a pena em até 2/3, resultando em aproximadamente 1 ano e 7 meses.
+
+Pelo art. 112 da LEP, o condenado pode progredir para o regime semiaberto com 1/6
+
+da pena cumprida, ou seja, após aproximadamente 3 meses.
+
+178. Compare-se com um condenado por roubo simples (art. 157, CP), que recebe
+
+pena mínima de 4 anos e deve cumprir 25% (1 ano) para progressão de regime. O
+
+roubador de celular permanece mais tempo em regime fechado do que o golpista
+
+que tentou derrubar o governo democraticamente eleito.
+
+179. Essa inversão de valores configura proteção manifestamente deficiente ao bem
+
+jurídico “ordem democrática”, em violação ao dever constitucional de tutela adequada
+
+
+[[pagina 52 | nativo]]
+imposto pelo art. 5º, XLIV, da Constituição Federal.
+
+180. Especificamente quanto art. 359-M-B, trata-se de previsão que inverte
+
+completamente a lógica constitucional, que determina tratamento mais severo – não
+
+mais brando – às ações de grupos contra a ordem constitucional e o Estado
+
+Democrático.
+
+181. Como visto, o art. 5º, XLIV, da Constituição Federal estabelece que “constitui
+
+crime inafiançável e imprescritível a ação de grupos armados, civis ou militares, contra
+
+a ordem constitucional e o Estado Democrático”.
+
+182. Note-se que o dispositivo constitucional se refere expressamente a “ação de
+
+grupos”, indicando que o caráter coletivo da conduta constitui elemento de especial
+
+gravidade, que justifica o tratamento qualificado (inafiançabilidade e
+
+imprescritibilidade).
+
+183. O “contexto de multidão” mencionado no art. 359-M-B corresponde, em
+
+essência, à “ação de grupos” referida no texto constitucional. A multidão que invade
+
+as sedes dos Poderes da República com o objetivo de impedir a posse do Presidente
+
+eleito ou de restabelecer governo anterior constitui precisamente o tipo de “grupo”
+
+cuja ação o constituinte determinou que recebesse tratamento especialmente severo.
+
+184. A Constituição determina que tais ações recebam tratamento qualificado:
+
+inafiançabilidade e imprescritibilidade. Essas características denotam a especial
+
+gravidade atribuída pelo constituinte às condutas. A inafiançabilidade impede que o
+
+agente aguarde o processo em liberdade mediante pagamento de fiança, reconhecendo
+
+que a gravidade da conduta justifica a manutenção da prisão preventiva. A
+
+imprescritibilidade impede que o decurso do tempo elimine a pretensão punitiva
+
+estatal, reconhecendo que o interesse na punição de tais crimes transcende as gerações.
+
+185. O art. 359-M-B, inversamente, confere tratamento especialmente benéfico às
+
+
+[[pagina 53 | nativo]]
+mesmas condutas: redução de 1/3 a 2/3 da pena. Essa redução pode fazer com que
+
+crimes gravíssimos contra a ordem democrática resultem em penas de 1 a 2 anos,
+
+permitindo a substituição da pena privativa de liberdade por restritivas de direitos
+
+(art. 44, I, CP) e, em muitos casos, a suspensão condicional do processo (art. 89 da Lei
+
+9.099/95, quando a pena mínima não ultrapassar 1 ano).
+
+186. Além de violar a proibição de proteção deficiente, os dispositivos impugnados
+
+afrontam o princípio da vedação de retrocesso (efeito cliquet ou princípio de não
+
+regressividade) em matéria de proteção institucional da democracia.
+
+187. O princípio da vedação de retrocesso impede que o legislador ordinário
+
+suprima ou reduza substancialmente o nível de proteção já alcançado em relação a
+
+determinado direito ou bem jurídico constitucionalmente tutelado. Embora
+
+tradicionalmente aplicado no campo dos direitos sociais, o princípio pode ser
+
+estendido a outras áreas do direito constitucional, incluindo a proteção penal de bens
+
+jurídicos fundamentais.
+
+188. Os dispositivos impugnados representam retrocesso evidente nesse patamar
+
+de proteção:
+
+189. Primeiro, o art. 359-M-A elimina a possibilidade de cúmulo de penas por
+
+crimes com desígnios autônomos, reduzindo drasticamente a resposta penal aos
+
+ataques pluriofensivos às instituições.
+
+190. Segundo, o art. 359-M-B cria benefício penal inédito para condutas praticadas
+
+em “contexto de multidão”, invertendo a lógica de maior reprovabilidade das ações
+
+coletivas contra as instituições;
+
+191. Terceiro, o art. 112 da LEP, com a ressalva expressa, exclui os crimes contra o
+
+Estado Democrático de Direito do regime mais gravoso de progressão, mesmo quando
+
+praticados com violência ou grave ameaça.
+
+
+[[pagina 54 | nativo]]
+192. Esse conjunto normativo não apenas reduz, mas efetivamente desmantela o
+
+sistema de proteção penal da ordem democrática, em flagrante violação ao princípio
+
+da vedação de retrocesso.
+
+193. O retrocesso é particularmente grave quando se considera o contexto histórico
+
+em que os dispositivos foram aprovados. Nos últimos anos, o país vivenciou um
+
+ataque sistemático e orquestrado para o desmantelamento da democracia brasileira. O
+
+ápice desses ataques ocorreu em 8 de janeiro de 2023, com a invasão e a depredação
+
+da sede dos três Poderes.
+
+194. A aprovação de legislação que beneficia retroativamente os condenados por
+
+esses crimes – mediante a imposição de concurso formal próprio e a criação de
+
+minorante por “contexto de multidão” – representa não apenas retrocesso normativo,
+
+mas verdadeira anistia disfarçada. A aplicação do princípio da retroatividade da lei
+
+penal mais benéfica (art. 5º, XL, CF) resultará na revisão das condenações já proferidas,
+
+com drástica redução das penas e potencial soltura de condenados.
+
+195. Esse resultado não pode ser admitido à luz do princípio da vedação de
+
+retrocesso. A proteção penal da ordem democrática, uma vez alcançado determinado
+
+patamar, não pode ser desmontada pelo legislador ordinário mediante artifícios
+
+normativos que esvaziem a resposta sancionatória. O retrocesso em matéria de
+
+proteção institucional da democracia afeta não apenas os casos passados, mas
+
+compromete a própria capacidade do Estado de prevenir e reprimir futuros ataques às
+
+instituições.
+
+196. Os dispositivos impugnados apresentam ainda outra grave
+
+inconstitucionalidade: afetam a capacidade do Estado de distinguir, com rigor, entre
+
+manifestação legítima e ações coletivas de ruptura ou ataque institucional.
+
+197. O Estado deve garantir ampla liberdade para manifestações pacíficas, ainda
+
+que críticas ou inconvenientes ao governo; ao mesmo tempo, deve reprimir com rigor
+
+
+[[pagina 55 | nativo]]
+as ações que ultrapassam os limites da manifestação e configuram ataques às
+
+instituições.
+
+198. O art. 359-M-B, ao criar causa de diminuição de pena para crimes praticados
+
+“em contexto de multidão”, compromete essa distinção. O dispositivo trata
+
+igualmente – como merecedores de redução de pena – tanto o manifestante que, em
+
+meio a uma multidão, deixa-se envolver em atos criminosos de menor gravidade,
+
+quanto o participante ativo de ação coordenada de invasão e depredação das sedes
+
+dos Poderes da República.
+
+199. Essa equiparação é inadequada e perigosa. Ao reduzir o custo penal de crimes
+
+praticados em “contexto de multidão”, o dispositivo diminui o efeito dissuasório da
+
+legislação penal em relação a ataques coletivos às instituições, incentivando a
+
+organização de ações de massa contra os Poderes constituídos.
+
+200. Com isso, cria-se incentivo perverso para que organizadores de ataques às
+
+instituições mobilizem grandes contingentes de pessoas, sabendo que a presença da
+
+“multidão” beneficiará todos os participantes.
+
+201. Por essas razões, impõe-se a declaração de inconstitucionalidade dos arts. 359-
+
+M-A e 359-M-B do Código Penal, bem como do art. 112, incisos I e II, da Lei de
+
+Execução Penal, na parte em que ressalva os crimes do Título XII da Parte Especial do
+
+Código Penal do regime mais gravoso de progressão, por violação aos arts. 1º,
+
+parágrafo único, 5º, XLIV, e 60, § 4º, IV, da Constituição Federal.
+
+IV.III. DA VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA (ART. 5º, CAPUT, DA CF).
+
+202. O princípio da isonomia, consagrado no caput do art. 5º da Constituição
+
+Federal, constitui garantia fundamental que impõe ao Estado o dever de tratar
+
+igualmente os iguais e desigualmente os desiguais, na medida de suas desigualdades.
+
+
+[[pagina 56 | nativo]]
+203. Opera em duas dimensões complementares. De um lado, a igualdade formal
+
+impede discriminações baseadas em critérios arbitrários. O legislador não pode criar
+
+distinções desprovidas de fundamento racional, beneficiando ou prejudicando
+
+determinados grupos sem justificativa legítima. No campo penal, essa dimensão
+
+impede, por exemplo, que crimes idênticos recebam tratamentos sancionatórios
+
+distintos em razão de características pessoais dos agentes não relacionadas à conduta
+
+ou à culpabilidade.
+
+204. Por outro lado, a igualdade material impõe que situações substancialmente
+
+diferentes recebam tratamentos proporcionalmente distintos. Crimes mais graves
+
+devem receber sanções mais severas; condutas menos reprováveis devem receber
+
+respostas mais brandas. Essa dimensão fundamenta o sistema de dosimetria penal,
+
+que permite ao juiz adequar a pena à gravidade concreta da conduta e à culpabilidade
+
+individual do agente.
+
+205. O Supremo Tribunal Federal tem afirmado reiteradamente que o princípio da
+
+isonomia não impede a criação de tratamentos diferenciados, mas exige que tais
+
+diferenciações sejam justificadas por critérios objetivos e razoáveis, que guardem
+
+correlação lógica com o fim perseguido pela norma (MI 58, Rel. Min. Celso de Mello,
+
+Plenário, j. 14.12.1990).
+
+206. No campo do direito penal, esse princípio exige que a resposta sancionatória
+
+seja proporcional à gravidade da conduta e à culpabilidade do agente, vedando-se
+
+diferenciações arbitrárias ou destituídas de fundamento racional.
+
+207. Diferenciações sancionatórias devem corresponder a diferenças de gravidade
+
+das condutas ou de culpabilidade dos agentes. Tratamentos distintos para situações
+
+semelhantes, ou tratamentos semelhantes para situações distintas, configuram
+
+violação do princípio da isonomia.
+
+208. Na hipótese, o art. 359-M-B do Código Penal cria um privilégio sancionatório
+
+
+[[pagina 57 | nativo]]
+atrelado a um critério meramente situacional: o “contexto de multidão”. Como visto,
+
+a lei transforma esse elemento em gatilho automático para redução de pena de 1/3 a
+
+2/3, gerando diferenciações sancionatórias que não guardam qualquer correlação
+
+necessária com menor culpabilidade ou menor ofensividade da conduta.
+
+209. A diferenciação sancionatória estabelecida pelo art. 359-M-B viola o princípio
+
+da isonomia por três razões fundamentais.
+
+210. Primeiro, porque trata desigualmente situações materialmente iguais.
+
+Agentes com idêntica culpabilidade e idêntico grau de participação recebem penas
+
+radicalmente diferentes apenas em razão de circunstância externa (presença ou
+
+ausência de multidão) sobre a qual não têm controle.
+
+211. Segundo, porque trata igualmente situações materialmente desiguais. Todos
+
+os participantes do “contexto de multidão” – desde aqueles que se deixaram envolver
+
+ocasionalmente até os participantes ativos e deliberados – recebem o mesmo benefício
+
+da minorante, independentemente de seu grau de culpabilidade individual.
+
+212. Terceiro, porque inverte a lógica da proporcionalidade. Crimes praticados
+
+coletivamente contra as instituições são tipicamente mais graves, não menos graves,
+
+do que crimes praticados individualmente. A força da multidão potencializa os danos,
+
+dificulta a contenção e gera efeitos sistêmicos de desestabilização. A criação de
+
+benefício penal para essas condutas inverte a relação que deveria existir entre
+
+gravidade e sanção.
+
+213. A aplicação dos dispositivos impugnados produz distorções inaceitáveis
+
+quando comparada com o tratamento dispensado a crimes patrimoniais comuns. Essa
+
+comparação revela violação frontal aos princípios da proporcionalidade e da
+
+razoabilidade, pois crimes contra bens jurídicos de menor estatura constitucional
+
+recebem tratamento mais severo do que crimes contra o núcleo mais sensível do
+
+ordenamento – a ordem democrática.
+
+
+[[pagina 58 | nativo]]
+214. O crime de furto qualificado (art. 155, § 4º, CP) – por exemplo, o furto de uma
+
+peça de carne em supermercado mediante escalada, destreza, emprego de chave falsa
+
+ou concurso de pessoas – tem pena de 2 a 8 anos de reclusão. Não há qualquer causa
+
+de diminuição que permita redução de 2/3. Um réu primário, de bons antecedentes,
+
+que furta um bem de pequeno valor pode receber pena de 2 anos de reclusão, em
+
+regime inicial aberto.
+
+215. O crime de abolição violenta do Estado Democrático de Direito (art. 359-L,
+
+CP), quando praticado em “contexto de multidão”, pode ter sua pena reduzida de 4-8
+
+anos para aproximadamente 1 ano e 4 meses a 2 anos e 8 meses (com redução de 2/3).
+
+Um réu primário pode receber pena de 1 ano e 4 meses, substituível por penas
+
+restritivas de direitos.
+
+216. Como resultado, o furto de uma peça de carne (pena de 2 anos) pode resultar
+
+em sanção mais grave do que a tentativa de derrubar violentamente o regime
+
+democrático (pena de 1 ano e 4 meses).
+
+217. Portanto, verifica-se que o conjunto normativo impugnado deve ser declarado
+
+inconstitucional, por afronta diretamente o princípio constitucional da isonomia (art.
+
+5º, caput, da CF).
+
+IV.IV. DA VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE.
+
+218. O princípio da proporcionalidade, extraído do art. 5º, inciso LIV, da
+
+Constituição Federal (devido processo legal substantivo) e implícito no Estado de
+
+Direito, opera como parâmetro de controle da constitucionalidade das leis.
+
+219. Segundo a formulação consagrada na jurisprudência do Supremo Tribunal
+
+Federal, o exame da proporcionalidade desdobra-se em três subprincípios: adequação,
+
+necessidade e proporcionalidade em sentido estrito. A aplicação desse teste trifásico
+
+
+[[pagina 59 | nativo]]
+aos dispositivos impugnados revela sua flagrante inconstitucionalidade.
+
+(a) Inadequação
+
+220. O subprincípio da adequação exige que o meio escolhido pelo legislador seja
+
+apto a promover o fim perseguido pela norma. A medida legislativa que não contribui
+
+para a realização do objetivo alegado é inadequada e, portanto, desproporcional.
+
+221. Os dispositivos impugnados – especialmente o art. 359-M-B – foram
+
+justificados, no processo legislativo, como medidas destinadas a adequar a resposta
+
+penal às circunstâncias de menor culpabilidade individual de participantes de ações
+
+coletivas. Argumentou-se que a “dinâmica de multidão” reduziria a capacidade de
+
+autodeterminação dos agentes, justificando tratamento sancionatório mais brando.
+
+222. Esse argumento não resiste ao escrutínio técnico-jurídico. Como demonstrado
+
+anteriormente o “contexto de multidão” não implica, necessariamente, menor
+
+culpabilidade individual. A participação consciente e deliberada em ação coletiva
+
+contra as instituições democráticas revela, em muitos casos, maior determinação
+
+criminosa. O agente que adere a grupo mobilizado para atacar as sedes dos Poderes
+
+age com plena consciência da ilicitude.
+
+223. Além disso, a pressão da multidão não elimina a liberdade de escolha do
+
+agente. A imputabilidade e a culpabilidade são aferidas individualmente, e a mera
+
+presença em um grupo não constitui causa de exclusão ou diminuição da capacidade
+
+de autodeterminação. Se o agente manteve capacidade de entender o caráter ilícito do
+
+fato e de determinar-se de acordo com esse entendimento, responde integralmente.
+
+224. Ainda, o sistema penal brasileiro já dispõe de mecanismos adequados para
+
+considerar circunstâncias atenuantes relacionadas a menor culpabilidade – como a
+
+coação resistível (art. 65, III, "c", CP) ou a atenuante inominada do art. 66 do CP. A
+
+criação de minorante automática, aplicável independentemente de análise concreta da
+
+
+[[pagina 60 | nativo]]
+culpabilidade, não é meio adequado para o fim alegado.
+
+225. Ademais, o “contexto de multidão” previsto no art. 359-M-B não guarda
+
+correlação com a culpabilidade individual do agente. A presença ou ausência de
+
+multidão depende de circunstâncias externas, não do comportamento pessoal do
+
+agente ou de seu grau de participação no crime. Dois agentes com idêntica
+
+culpabilidade podem receber penas radicalmente diferentes apenas porque um deles
+
+praticou o crime em dia de maior mobilização popular.
+
+226. O meio escolhido pelo legislador – a minorante automática por “contexto de
+
+multidão” – não é adequado para promover o fim alegado (adequação da pena à
+
+culpabilidade individual), pois não há correlação necessária entre o critério adotado e
+
+o resultado pretendido.
+
+(b) Desnecessidade
+
+227. O subprincípio da necessidade exige que, dentre os meios igualmente
+
+adequados para promover o fim perseguido, o legislador escolha aquele menos
+
+restritivo de direitos ou menos gravoso para outros bens jurídicos constitucionalmente
+
+protegidos. A medida legislativa que impõe restrição desnecessária é desproporcional.
+
+228. Ainda que se admitisse – apenas para argumentar – que o art. 359-M-B fosse
+
+adequado para promover algum fim legítimo, a medida seria claramente
+
+desnecessária, pois existem meios alternativos menos gravosos para a proteção da
+
+ordem democrática.
+
+229. O sistema penal brasileiro já dispõe de múltiplos mecanismos para adequar a
+
+pena às circunstâncias concretas do caso. As circunstâncias judiciais do art. 59 do
+
+Código Penal permitem ao juiz considerar, na primeira fase da dosimetria, a
+
+culpabilidade, os antecedentes, a conduta social, a personalidade do agente, os
+
+motivos, as circunstâncias e as consequências do crime, bem como o comportamento
+
+
+[[pagina 61 | nativo]]
+da vítima. Essas circunstâncias abrangem todas as situações de menor culpabilidade
+
+que eventualmente decorram do "contexto de multidão".
+
+230. Além disso, as circunstâncias atenuantes dos arts. 65 e 66 do Código Penal
+
+permitem a redução da pena em razão de diversas situações de menor
+
+reprovabilidade, incluindo a coação resistível e “qualquer outra circunstância
+
+relevante, anterior ou posterior ao crime, embora não prevista expressamente em lei”.
+
+231. Ademais, o próprio regime de progressão de pena permite que a execução
+
+seja individualizada conforme o comportamento do condenado, possibilitando
+
+tratamento mais brando para aqueles que demonstrem menor periculosidade.
+
+232. Esses mecanismos – já existentes no ordenamento jurídico – permitem que o
+
+juiz considere todas as circunstâncias relevantes para a dosimetria, incluindo eventual
+
+menor culpabilidade decorrente de participação em contexto coletivo. A criação de
+
+minorante automática, aplicável independentemente de análise judicial, é medida
+
+desnecessária, pois os fins alegados podem ser alcançados por meios menos gravosos
+
+para a proteção da ordem democrática.
+
+233. A desnecessidade é ainda mais evidente quando se considera que a minorante
+
+do art. 359-M-B não apenas é redundante em relação aos mecanismos existentes, mas
+
+os neutraliza. Ao impor redução automática de 1/3 a 2/3, o dispositivo subtrai do juiz
+
+a possibilidade de valorar concretamente as circunstâncias do caso, substituindo a
+
+análise individualizada por um automatismo que trata igualmente situações
+
+materialmente distintas.
+
+(c) Desproporcionalidade em sentido estrito
+
+234. O subprincípio da proporcionalidade em sentido estrito exige que os
+
+benefícios promovidos pela medida legislativa superem os custos ou restrições que ela
+
+impõe a outros bens jurídicos. Trata-se de um juízo de ponderação entre os valores em
+
+
+[[pagina 62 | nativo]]
+jogo, que deve considerar a intensidade da restrição imposta e a importância do fim
+
+perseguido.
+
+235. Os dispositivos impugnados são flagrantemente desproporcionais em sentido
+
+estrito, pois os alegados benefícios – adequação da pena à culpabilidade individual em
+
+contextos de ação coletiva – são amplamente superados pelos custos que impõem à
+
+proteção da ordem democrática.
+
+236. De um lado, os benefícios alegados são, como demonstrado, ilusórios. O
+
+“contexto de multidão” não implica necessariamente menor culpabilidade, e o sistema
+
+penal já dispõe de mecanismos adequados para considerar circunstâncias atenuantes
+
+quando efetivamente presentes. A minorante do art. 359-M-B não promove adequação
+
+da pena à culpabilidade; promove, isto sim, redução indiscriminada da resposta penal
+
+a todos os participantes de ações coletivas contra as instituições.
+
+237. De outro lado, os custos impostos à proteção da ordem democrática são
+
+devastadores. Primeiro, tem-se redução drástica das penas aplicáveis aos crimes
+
+contra o Estado Democrático de Direito, que podem resultar inferiores às penas de
+
+crimes patrimoniais comuns, subvertendo a hierarquia de bens jurídicos protegidos
+
+pela Constituição.
+
+238. Verifica-se também esvaziamento do efeito dissuasório da legislação penal,
+
+incentivando a organização de ações coletivas contra as instituições. Se a presença de
+
+"multidão" reduz a pena em até 2/3, há incentivo perverso para que organizadores
+
+mobilizem grandes contingentes de pessoas.
+
+239. Além disso, constata-se comprometimento da capacidade de resposta do
+
+Estado a ameaças à ordem democrática. A redução generalizada das penas diminui a
+
+eficácia da resposta penal como instrumento de proteção institucional.
+
+240. Também se verifica violação do mandamento constitucional de repressão
+
+
+[[pagina 63 | nativo]]
+qualificada às ações de grupos contra a ordem constitucional e o Estado Democrático
+
+(art. 5º, XLIV, CF). A Constituição determina tratamento severo; a lei confere
+
+tratamento brando.
+
+241. E, como já mencionado, tem-se retrocesso no patamar de proteção já
+
+alcançado pela legislação penal brasileira, configurando violação ao princípio da
+
+vedação de retrocesso em matéria de proteção institucional.
+
+242. A ponderação entre esses elementos não deixa dúvidas: os custos impostos
+
+pelos dispositivos impugnados à proteção da ordem democrática são
+
+incomparavelmente superiores aos alegados benefícios de adequação da pena à
+
+culpabilidade. Os dispositivos são, portanto, desproporcionais em sentido estrito.
+
+243. Dessa forma, o teste trifásico da proporcionalidade confirma a
+
+inconstitucionalidade do conjunto normativo impugnado: é inadequado (não
+
+promove adequação da pena à culpabilidade), desnecessário (existem meios
+
+alternativos menos gravosos) e desproporcional em sentido estrito (os custos para a
+
+proteção da ordem democrática superam amplamente os alegados benefícios).
+
+244. Diante do exposto, resta demonstrado que os dispositivos impugnados violam
+
+frontalmente o princípio constitucional implícito da proporcionalidade.
+
+IV.V. DA VIOLAÇÃO AO PRINCÍPIO DA IMPESSOALIDADE E DO DESVIO DE FINALIDADE
+LEGISLATIVA (ART. 37, CAPUT, DA CF).
+
+245. O princípio da impessoalidade, inscrito no art. 37, caput, da Constituição,
+
+constitui vetor fundamental da atuação estatal em todas as suas manifestações.
+
+Embora tradicionalmente associado à Administração Pública em sentido estrito, o
+
+princípio irradia seus efeitos para todas as funções estatais, inclusive a legislativa,
+
+vedando a edição de leis que visem a beneficiar ou prejudicar pessoas ou grupos
+
+determinados por razões estranhas ao interesse público.
+
+
+[[pagina 64 | nativo]]
+246. O texto constitucional dispõe que “a administração pública direta e indireta
+
+de qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios
+
+obedecerá aos princípios de legalidade, impessoalidade, moralidade, publicidade e
+
+eficiência [...]”.
+
+247. A referência a “qualquer dos Poderes” evidencia que o princípio da
+
+impessoalidade não se limita ao Poder Executivo, mas vincula também o Legislativo e
+
+o Judiciário no exercício de suas funções.
+
+248. No caso do Poder Legislativo, a impessoalidade impõe que a produção
+
+normativa seja orientada pelo interesse público, vedando-se a edição de leis que
+
+constituam privilégios odiosos ou perseguições disfarçadas.
+
+249. O princípio da impessoalidade, no campo legislativo, conecta-se intimamente
+
+com a proibição de leis de efeito individual (ou leis-medida) e com a exigência de
+
+generalidade e abstração das normas jurídicas. Embora o legislador possa criar
+
+tratamentos diferenciados para situações distintas, não pode editar normas cujo
+
+objetivo primário seja beneficiar ou prejudicar pessoas ou grupos específicos,
+
+identificáveis no momento da edição da lei.
+
+250. Na hipótese, a lei impugnada, conhecida como “Lei da Dosimetria” (de forma
+
+atécnica, já que a dosimetria se insere na função jurisdicional), foi editada com alegada
+
+finalidade de racionalizar o sistema sancionatório aplicável aos crimes contra o Estado
+
+Democrático de Direito. Contudo, a análise de seus dispositivos revela que os
+
+principais beneficiários das alterações propostas são precisamente os condenados
+
+pelos eventos de 8 de janeiro de 2023.
+
+251. O art. 359-M-A beneficia diretamente os condenados que foram sentenciados
+
+por múltiplos crimes em concurso material ou formal impróprio. A imposição do
+
+concurso formal próprio – mesmo quando verificados desígnios autônomos – resultará
+
+em drástica redução das penas já aplicadas, mediante revisão criminal ou execução
+
+
+[[pagina 65 | nativo]]
+penal.
+
+252. O art. 359-M-B beneficia diretamente os participantes da invasão às sedes dos
+
+Poderes, que ocorreu precisamente em "contexto de multidão". A minorante de 1/3 a
+
+2/3 reduzirá as penas de todos os condenados que não exerceram “papel de liderança”
+
+nem praticaram “ato de financiamento”.
+
+253. O art. 112 da LEP, ao ressalvar os crimes do Título XII do regime mais gravoso
+
+de progressão, beneficia os condenados que cumprem pena em regime fechado,
+
+permitindo progressão mais rápida para o regime semiaberto.
+
+254. A coincidência entre os dispositivos aprovados e as necessidades específicas
+
+dos condenados pelos eventos de 8 de janeiro de 2023 não pode ser atribuída ao acaso.
+
+Os três mecanismos, combinados, produzem efeito de substancial redução sob
+
+medida, por encomenda e customizada, em benefício desproporcional e desarrazoado
+
+para um grupo específico de condenados, das penas e aceleração da progressão de
+
+regime.
+
+255. Além disso, a narrativa utilizada para justificar politicamente a aprovação da
+
+lei, no sentido de que haveria um quadro generalizado de desproporcionalidade das
+
+penas impostas aos condenados pelos atos de 8 de janeiro de 2023, não encontra
+
+respaldo nos dados oficiais atualmente disponíveis acerca da execução das sanções
+
+penais impostas pelo Supremo Tribunal Federal.
+
+256. Conforme relatório oficial14 divulgado pelo Gabinete do Ministro Alexandre
+
+de Moraes em 29/4/2026, dos 1.402 réus sentenciados pelos atos antidemocráticos,
+
+apenas 111 cumprem pena em regime fechado (7,92% do total):
+
+14 STF. Gabinete do Ministro Alexandre de Morais. Democracia inabalada: atos antidemocráticos e
+tentativa de Golpe de Estado em 8 de janeiro de 2023. Relatório 29 de abril de 2026. Disponível em:
+<https://noticias-stf-wp-prd.s3.sa-east-1.amazonaws.com/wp-
+content/uploads/wpallimport/uploads/2026/04/29155000/Relatorio_do_Gabinete_Alexandre_de_Mora
+es_08_de_janeiro____29-4-26-15h34.pdf>. Acesso em: 7/5/2026.
+
+
+[[pagina 66 | nativo]]
+257. Os demais condenados tiveram aplicação de medidas alternativas, penas
+
+restritivas de direitos, acordos de não persecução penal, progressão de regime, prisão
+
+domiciliar ou já tiveram suas penas extintas.
+
+258. Os dados oficiais evidenciam, portanto, que a ampla maioria dos investigados
+
+e condenados pelos atos antidemocráticos não se encontra submetida ao cumprimento
+
+de pena privativa de liberdade em regime fechado, circunstância que afasta a narrativa
+
+de encarceramento massivo ou de repressão penal indiscriminada utilizada como
+
+fundamento político para a aprovação da legislação ora impugnada.
+
+259. Na realidade, o panorama atual das execuções penais demonstra que o sistema
+
+de justiça criminal já vem promovendo individualização concreta das sanções penais,
+
+com utilização de mecanismos consensuais, aplicação de medidas alternativas,
+
+progressões de regime e extinções de punibilidade, em conformidade com as
+
+circunstâncias específicas de cada caso.
+
+260. Os próprios dados oficiais revelam, portanto, que mesmo entre os casos
+
+considerados mais graves houve relevante flexibilização das modalidades executórias,
+
+
+[[pagina 67 | nativo]]
+reforçando a inexistência de política de encarceramento uniforme ou indiscriminado
+
+em relação aos condenados pelos atos antidemocráticos.
+
+261. Tal cenário evidencia a fragilidade da premissa fática invocada para sustentar
+
+a necessidade de criação de um regime legal excepcionalmente mais benéfico para
+
+crimes contra o Estado Democrático de Direito.
+
+262. A individualização atualmente verificada na execução das penas evidencia
+
+que o ordenamento jurídico já dispõe de instrumentos suficientes para modular
+
+adequadamente a resposta penal em cada situação concreta, sem necessidade de
+
+criação de disciplina legislativa excepcional voltada especificamente aos crimes contra
+
+o Estado Democrático de Direito.
+
+263. Os dados acima demonstram que a narrativa de desproporcionalidade
+
+generalizada das penas impostas aos condenados pelos atos de 8 de janeiro não
+
+encontra respaldo na realidade concreta das execuções penais atualmente em curso.
+
+Os elementos comprovam uma ampla adoção de mecanismos de individualização
+
+executória, com reduzido número de condenados efetivamente submetidos ao regime
+
+fechado.
+
+264. Desse modo, enfraquece-se substancialmente a justificativa político-legislativa
+
+invocada para a aprovação do PL nº 2.162/2023, revelando-se relevante investigar se a
+
+norma impugnada efetivamente buscou promover alteração geral e abstrata da
+
+política criminal ou se foi concebida para beneficiar situação específica e destinatários
+
+determinados.
+
+265. Nesse contexto, o direcionamento do projeto a grupo específico está também
+
+evidenciado na justificativa da emenda apresentada pelo Senador Sergio Moro
+
+durante a tramitação no Senado Federal (Emenda nº 6).
+
+266. A manobra configura o desvio de finalidade (ou desvio de poder legislativo).
+
+
+[[pagina 68 | nativo]]
+Representa vício de inconstitucionalidade quando o legislador utiliza sua competência
+
+normativa para fins diversos daqueles que legitimam a atuação estatal. Assim como o
+
+administrador público não pode utilizar competências discricionárias para fins
+
+pessoais ou de favorecimento, o legislador não pode editar leis com finalidade de
+
+beneficiar ou prejudicar grupos específicos por razões estranhas ao interesse público.
+
+267. O desvio de finalidade legislativa caracteriza-se quando: (i) a lei é editada com
+
+finalidade diversa daquela que justificaria a intervenção normativa; (ii) os meios
+
+escolhidos pelo legislador não guardam correlação com o fim alegado; (iii) O contexto
+
+de aprovação revela motivações estranhas ao interesse público.
+
+268. No caso da lei impugnada, decorrente do PL 2.162/2023, estão presentes os três
+
+elementos.
+
+269. Finalidade diversa: o projeto foi apresentado como medida de racionalização
+
+da dosimetria penal, mas seus efeitos concretos são de beneficiamento de grupo
+
+específico de condenados. A alegada finalidade de adequar a resposta penal às
+
+circunstâncias de menor culpabilidade em contextos de ação coletiva não se sustenta,
+
+pois – como demonstrado – o "contexto de multidão" não implica necessariamente
+
+menor culpabilidade, e o sistema penal já dispõe de mecanismos adequados para
+
+considerar circunstâncias atenuantes.
+
+270. Meios inadequados: os dispositivos aprovados – especialmente a minorante
+
+automática por "contexto de multidão" – não são meios adequados para promover a
+
+alegada finalidade de adequação da pena à culpabilidade. A minorante não distingue
+
+entre situações de menor e maior culpabilidade individual; aplica-se
+
+indiscriminadamente a todos os participantes do “contexto de multidão”,
+
+independentemente de seu grau efetivo de participação ou reprovabilidade.
+
+271. Contexto revelador: a coincidência entre os dispositivos aprovados e as
+
+necessidades dos condenados por aqueles eventos, a rejeição da emenda que impediria
+
+
+[[pagina 69 | nativo]]
+a aplicação retroativa, e os debates parlamentares que reconheceram expressamente o
+
+direcionamento aos condenados – todos esses elementos revelam que a verdadeira
+
+finalidade do projeto não era a racionalização do sistema penal, mas o beneficiamento
+
+de grupo específico.
+
+272. É sedimentada, na cultura jurídica brasileira, a diferença entre leis gerais (ou
+
+leis em sentido material) e leis de efeito concreto (ou leis-medida). As leis gerais
+
+caracterizam-se pela abstração e generalidade: aplicam-se a situações indeterminadas
+
+e a destinatários não individualizados no momento da edição. As leis de efeito
+
+concreto, inversamente, embora revistam a forma de lei, produzem efeitos
+
+equivalentes aos de atos administrativos, destinando-se a regular situações específicas
+
+ou a beneficiar/prejudicar pessoas determinadas.
+
+273. A Constituição Federal não proíbe, em absoluto, a edição de leis de efeito
+
+concreto. Em diversas situações, a própria Constituição exige que determinadas
+
+matérias sejam tratadas por lei, ainda que seus efeitos sejam individualizados (como
+
+nas leis de desapropriação ou nas leis que concedem anistia). Contudo, as leis de efeito
+
+concreto sujeitam-se a controle de constitucionalidade mais rigoroso, especialmente
+
+quando seus efeitos revelam favorecimento ou perseguição a pessoas ou grupos
+
+determinados.
+
+274. A lei ora impugnada apresenta características híbridas. Formalmente, trata-se
+
+de lei geral, aplicável a todos os crimes contra o Estado Democrático de Direito.
+
+Materialmente, contudo, seus efeitos concretos são fortemente direcionados a grupo
+
+específico de beneficiários – os condenados pelos eventos de 8 de janeiro de 2023.
+
+275. Essa característica híbrida não afasta o vício de inconstitucionalidade. Pelo
+
+contrário, a utilização da forma de lei geral para produzir efeitos de beneficiamento de
+
+grupo específico revela sofisticação no desvio de finalidade, que deve ser reprimida
+
+pelo controle de constitucionalidade. A aparência de generalidade não sana o vício
+
+
+[[pagina 70 | nativo]]
+quando a análise do contexto e dos efeitos concretos revela o direcionamento.
+
+276. O STF tem demonstrado sensibilidade para identificar situações em que a
+
+forma de lei geral é utilizada para produzir efeitos de favorecimento específico. Na
+
+ADI 4.425, por exemplo, a Corte examinou emenda constitucional que, sob aparência
+
+de regular o regime de precatórios, produzia efeitos de beneficiamento de entes
+
+federativos específicos em detrimento de credores determinados. A análise não se
+
+limitou à forma da norma, mas examinou seus efeitos concretos e o contexto de sua
+
+aprovação.
+
+277. A presença de indícios de direcionamento a grupo específico impõe ao
+
+Supremo Tribunal Federal o dever de escrutínio rigoroso da constitucionalidade dos
+
+dispositivos impugnados. Quando há elementos que indicam que a lei foi editada com
+
+finalidade de beneficiar ou prejudicar pessoas determinadas, o controle de
+
+constitucionalidade deve ser especialmente atento aos princípios da impessoalidade e
+
+da igualdade.
+
+278. A presença de desvio de finalidade – utilização da competência legislativa
+
+para fins de beneficiamento de grupo específico – configura vício de
+
+inconstitucionalidade material que justifica a declaração de nulidade dos dispositivos.
+
+279. Diante do exposto, resta demonstrado que o diploma impugnado apresenta
+
+fortes indícios de violação ao princípio da impessoalidade (art. 37, caput, CF) e de
+
+desvio de finalidade legislativa.
+
+280. Por essas razões, impõe-se a declaração de inconstitucionalidade dos arts. 359-
+
+M-A e 359-M-B do Código Penal, bem como do art. 112 da Lei de Execução Penal na
+
+parte em que ressalva os crimes do Título XII, por violação ao art. 37, caput, da
+
+Constituição.
+
+
+[[pagina 71 | nativo]]
+V. DA MEDIDA CAUTELAR.
+
+281. Nos termos do art. 10 da Lei 9.868/99, a concessão de medida cautelar em ação
+
+direta de inconstitucionalidade exige a demonstração cumulativa de dois requisitos:
+
+(i) a plausibilidade jurídica da tese de inconstitucionalidade (fumus boni iuris); e (ii) o
+
+risco de dano irreparável ou de difícil reparação decorrente da vigência da norma
+
+impugnada (periculum in mora).
+
+282. Quanto à plausibilidade jurídica da tese de inconstitucionalidade, restou
+
+demonstrado que, do ponto de vista dos vícios formais, o diploma normativo é
+
+inconstitucional: (i) pela apreciação fracionada de veto integral, em violação ao art. 66,
+
+§ 4º, da CF; e (ii) pela supressão do retorno da matéria à Casa iniciadora após alteração
+
+substancial promovida pela Casa revisora, em afronta ao art. 65, parágrafo único, da
+
+CF.
+
+283. Como visto, o fracionamento indevido do veto compromete a própria unidade
+
+do ato presidencial, que, ao vetar integralmente o projeto, o fez como um todo
+
+coerente. A cisão artificial desse ato pelo Legislativo desfigura o mecanismo de freios
+
+e contrapesos, permitindo a manipulação casuística do resultado legislativo.
+
+284. Em se tratando de veto total, é inadmissível sua fragmentação para fins de
+
+deliberação parlamentar, sob pena de criação de uma terceira via decisória não
+
+prevista na Constituição, distinta tanto da manutenção quanto da rejeição do veto.
+
+285. Por outro lado, STF possui o entendimento de que a introdução, pela Casa
+
+revisora, de emenda que implica alteração, supressão ou complementação de
+
+conteúdo, obriga o retorno da proposição à Casa iniciadora, para análise e deliberação,
+
+configurando-se inconstitucionalidade incontornável o eventual encaminhamento
+
+direto à sanção presidencial.
+
+286. Noutro giro, do ponto de vista dos vícios materiais, o diploma impugnado
+
+
+[[pagina 72 | nativo]]
+viola:
+
+(a) o princípio da individualização da pena (art. 5º, XLVI, CF): o art. 359-M-A
+
+impõe a aplicação do concurso formal próprio "ainda que existente desígnio
+
+autônomo", neutralizando elemento subjetivo essencial à dosimetria e subtraindo do
+
+juiz a competência para analisar as circunstâncias concretas do caso. O art. 359-M-B
+
+estabelece causa de diminuição automática para crimes praticados “em contexto de
+
+multidão”, comprimindo o espaço decisório judicial para calibrar culpabilidade e
+
+ofensividade. Como explicitado, a jurisprudência do STF é inequívoca no sentido de
+
+que automatismos legislativos que suprimem a valoração judicial violam o princípio
+
+da individualização da pena;
+
+(b) o princípio da separação dos Poderes (art. 2º, CF): os dispositivos
+
+impugnados substituem a valoração judicial por comandos legislativos automáticos,
+
+invadindo competência constitucionalmente reservada ao Poder Judiciário. A fixação
+
+da pena é atividade tipicamente jurisdicional, que pressupõe a análise das
+
+circunstâncias específicas do fato e das condições pessoais do agente. O legislador
+
+pode estabelecer balizas abstratas, mas não pode predeterminar o resultado da análise
+
+que deveria ser feita pelo juiz;
+
+(c) os princípios da proibição de proteção deficiente e da vedação de retrocesso (arts.
+
+1º, parágrafo único, 5º, XLIV, e 60, § 4º, IV, CF): os dispositivos instituem regime de
+
+clemência estrutural para crimes contra o Estado Democrático de Direito, esvaziando
+
+a proteção penal da ordem democrática. O art. 359-M-B inverte a lógica do art. 5º,
+
+XLIV, da Constituição, que determina tratamento especialmente severo às ações de
+
+grupos contra a ordem constitucional, criando benefício penal para essas mesmas
+
+condutas. Como visto, o STF reconhece expressamente a proibição de proteção
+
+deficiente como parâmetro de controle de constitucionalidade (ADI 4.424/DF, voto do
+
+Min. Luiz Fux, Plenário, j. 09.02.2012);
+
+
+[[pagina 73 | nativo]]
+(d) o princípio da isonomia (art. 5º, caput, CF): a minorante por "contexto de
+
+multidão" cria privilégio sancionatório atrelado a critério que não guarda correlação
+
+com culpabilidade ou ofensividade;
+
+(e) o princípio da proporcionalidade: a aplicação dos dispositivos produz
+
+distorções graves: crimes contra a ordem democrática podem receber penas inferiores
+
+às de furtos e roubos, subvertendo a hierarquia de bens jurídicos protegidos pela
+
+Constituição, e;
+
+(f) o princípio da impessoalidade (art. 37, caput, CF): o direcionamento da lei a grupo
+
+específico, evidenciado na justificativa da emenda apresentada pelo Senador Sergio
+
+Moro durante a tramitação no Senado Federal (Emenda nº 6), indica o desvio de
+
+finalidade (ou desvio de poder legislativo). O legislador não pode editar leis com
+
+finalidade de beneficiar ou prejudicar grupos específicos por razões estranhas ao
+
+interesse público, sobretudo quando se enfraquece a tutela penal ao núcleo central do
+
+Estado de Direito brasileiro: a democracia e suas instituições.
+
+287. Por outro lado, o periculum in mora está configurado de forma especialmente
+
+intensa no caso em exame. A manutenção da vigência dos dispositivos impugnados
+
+produzirá danos irreparáveis ou de difícil reparação à ordem constitucional, à
+
+proteção do Estado Democrático de Direito e à própria credibilidade das instituições
+
+judiciárias.
+
+288. Diante da aplicação do princípio da retroatividade da lei penal mais benéfica
+
+(art. 5º, XL, CF), os dispositivos impugnados, uma vez em vigor, aplicam-se
+
+imediatamente aos processos em curso e às execuções penais pendentes, beneficiando
+
+imediatamente condenados, investigados e executados em processos relacionados a
+
+crimes contra o Estado Democrático de Direito, com potencial impacto em centenas de
+
+processos criminais e execuções penais em curso no país.
+
+289. As normas impugnadas podem gerar efeitos irreversíveis. Uma vez aplicada
+
+
+[[pagina 74 | nativo]]
+a lei mais benéfica e reduzidas as penas, eventual declaração posterior de
+
+inconstitucionalidade não permitiria uma aplicação automática das penas originais. O
+
+art. 5º, XL, da Constituição impede que lei posterior, mais gravosa, retroaja para
+
+prejudicar o réu. Uma vez aplicada a lei mais benéfica e promovida a soltura de
+
+condenados, eventual declaração posterior de inconstitucionalidade dos dispositivos
+
+não terá o condão de, por si só, restabelecer as penas originais ou de determinar o
+
+recolhimento dos que já tiverem sido soltos. O princípio da irretroatividade da lei
+
+penal mais gravosa (art. 5º, XL, CF) impediria a reaplicação das penas anteriores.
+
+290. Além do mais, a manutenção da vigência e dos efeitos dos dispositivos
+
+impugnados até o julgamento definitivo da presente ADI cria incentivo perverso para
+
+a organização de novos ataques às instituições democráticas.
+
+291. Se a participação em ação coletiva contra as sedes dos Poderes da República
+
+pode resultar em pena de 1-2 anos — substituível por penas restritivas de direitos —,
+
+o custo penal esperado de tais condutas torna-se aceitável para grupos radicalizados.
+
+O efeito dissuasório da legislação penal, que deveria prevenir condutas gravíssimas
+
+contra a ordem democrática, é neutralizado pela perspectiva de punição branda.
+
+292. Esse incentivo perverso representa risco concreto à segurança das instituições.
+
+O Brasil atravessa período de polarização política intensa, com grupos organizados
+
+que contestam a legitimidade das instituições democráticas. A manutenção de
+
+legislação que premia a participação em ataques coletivos às instituições — mediante
+
+a minorante por “contexto de multidão” — pode encorajar novas tentativas de
+
+ruptura.
+
+293. O risco não é hipotético ou especulativo. Os eventos de 8 de janeiro de 2023
+
+demonstraram a capacidade de mobilização de grupos dispostos a atacar fisicamente
+
+as sedes dos Poderes. A redução do custo penal esperado dessas condutas, mediante
+
+a aplicação dos dispositivos impugnados, aumenta a probabilidade de novas
+
+
+[[pagina 75 | nativo]]
+tentativas.
+
+294. Dada a excepcional urgência do caso, faz-se necessária a medida cautelar para
+
+suspender os efeitos dos dispositivos impugnados, inclusive monocraticamente pelo
+
+Ministro Relator, ad referendum do Plenário, nos termos do art. 10, § 3º, da Lei 9.868/99.
+
+VI. DOS PEDIDOS.
+
+295. Diante do exposto, os PARTIDOS AUTORES requerem:
+
+(a) a concessão da medida cautelar, para suspender, com efeitos ex tunc, os
+
+dispositivos combatidos, uma vez que presentes o fumus boni iuris e o periculum in mora
+
+(conforme tópico V desta petição), inclusive monocraticamente pelo(a) Ministro(a)
+
+Relator(a), ad referendum do Plenário, dada a excepcional urgência do caso, nos termos
+
+do art. 10, § 3º, da Lei 9.868/99;
+
+(b) no mérito, a procedência da presente Ação Direta de Inconstitucionalidade,
+
+para que seja declarada a inconstitucionalidade, com efeitos retroativos (ex tunc) e
+
+eficácia contra todos (erga omnes) da íntegra da Lei nº 15.402/2026, ou, subsidiariamente,
+
+de forma específica, do art. 359-M-A do Código Penal, com redação dada pelo art. 2º
+
+da Lei nº 15.402/2026; do art. 359-M-B do Código Penal, com redação dada pelo art. 2º
+
+da Lei nº 15.402/2026, e do art. 112, incisos I e II, da Lei de Execução Penal, na parte
+
+em que ressalva os crimes previstos no Título XII da Parte Especial do Código Penal
+
+do regime mais gravoso de progressão de regime, com redação dada pelo art. 1º da Lei
+
+nº 15.402/2026;
+
+(c) ou, ainda no mérito, alternativamente, para que seja conferida interpretação
+
+conforme à Constituição ou, ainda, declaração de inconstitucionalidade parcial sem
+
+redução de texto aos arts. 359-M-A e 359-M-B do Código Penal e ao art. 112, I e II, da
+
+LEP, para excluir de seu âmbito de aplicação: (i) os crimes praticados com violência ou
+
+grave ameaça às pessoas ou às instituições e (ii) os crimes praticados mediante prévia
+
+
+[[pagina 76 | nativo]]
+organização ou articulação de grupos.
+
+296. Por fim, pede, ainda, que todas as publicações relativas a este feito sejam feitas,
+
+sob pena de nulidade, aos patronos que subscrevem esta exordial: VERA LÚCIA DA
+
+MOTTA (OAB/SP nº 59.837); RENATO JOSÉ RAMALHO ALVES (OAB/SP nº
+
+535.959 e OAB/PE nº 54.943); MIGUEL FILIPI PIMENTEL NOVAES (OAB/DF nº
+
+57.469); ÂNGELO LONGO FERRARO (OAB/DF nº 37.922); PAULO MACHADO
+
+GUIMARÃES (OAB/DF nº 5.358).
+
+Termos em que pedem e esperam deferimento.
+
+Brasília, 8 de maio de 2026.
+
+RENATO RAMALHO VERA LÚCIA DA MOTTA
+OAB/SP nº 535.959 e OAB/PE nº 54.943 OAB/SP 59.837
+
+MAYARA DE SÁ PEDROSA TORRES GEOVANE COUTO DA SILVEIRA
+OAB/DF nº 40.281 OAB/DF nº 82.892
+
+MIGUEL NOVAES ÂNGELO FERRARO
+OAB/DF nº 57.469 OAB/DF nº 37.922
+
+PAULO MACHADO GUIMARÃES
+OAB/DF nº 5.358
+
+

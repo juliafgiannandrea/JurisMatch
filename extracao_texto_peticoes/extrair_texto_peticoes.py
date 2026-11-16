@@ -96,6 +96,17 @@ def cobertura_imagem(pagina) -> float:
     return min(area_img / area_pagina, 1.0)
 
 
+# Carimbo de assinatura digital que o STF imprime em cada página, inclusive nas digitalizadas.
+# Tem mais de 100 caracteres: sem descontá-lo, uma página escaneada parece ter texto nativo e o OCR é pulado.
+RE_CARIMBO = re.compile(
+    r"documento assinado digitalmente[^\n]*"
+    r"|documento pode ser acessado no endere[çc]o eletr[ôo]nico[^\n]*"
+    r"|assinado por [^\n]+? em \d{2}/\d{2}/\d{4}[^\n]*"
+    r"|signature not verified",
+    re.IGNORECASE,
+)
+
+
 def ocr_pagina(pagina, dpi: int, idioma: str, psm: int, timeout: int) -> str:
     """Rasteriza a página e passa o PNG para o tesseract pela entrada padrão."""
     png = pagina.get_pixmap(dpi=dpi).tobytes("png")
@@ -131,7 +142,7 @@ def processar_pdf(caminho: str, cfg: dict) -> dict:
                 texto = pagina.get_text(sort=True, flags=pymupdf.TEXT_DEHYPHENATE)
             except Exception:
                 texto = ""
-            chars = len(re.sub(r"\s", "", texto))
+            chars = len(re.sub(r"\s", "", RE_CARIMBO.sub("", texto)))  # carimbo não conta como texto
 
             if chars >= cfg["min_chars"]:
                 metodo = "nativo"

@@ -1,0 +1,896 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRI-
+BUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS
+DO BRASIL – CFOAB, serviço público dotado de personalidade jurídica própria e
+forma federativa, regulamentado pela Lei 8.906/94, com endereço eletrônico
+pc@oab.org.br e sede em Brasília/DF, no SAUS, Qd. 05, Lote 01, Bloco M, inscrito
+no CNPJ sob nº 33.205.451/0001-14, por seu Presidente e por seus advogados que
+esta subscrevem, vem, à presença de Vossa Excelência, com fulcro nos arts. 102, I,
+a, e 103, VII, da Constituição, no art. 54, XIV, da Lei nº 8.906/94, e no art. 2º, VII,
+da Lei nº 9.868/999, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO CAUTELAR
+
+em face do artigo 1º da Medida Provisória n. 928, de 23 de março de 2020, na
+parte em que acrescenta o art. 6º-B à Lei 13.979, de 6 de fevereiro de 2020, para
+estabelecer novos requisitos e novas exceções para os pedidos de acesso à informa-
+ções no atual contexto da emergência de saúde pública decorrente da propagação do
+coronavírus (COVID-19).
+
+
+
+[[pagina 2 | nativo]]
+1 – DO ATO NORMATIVO IMPUGNADO E SUA CONTEXTUALIZAÇÃO:
+
+Na noite da última segunda-feira, dia 23 de março de 2020, foi editada
+a Medida Provisória nº 928, cujo art. 1º altera a Lei 13.979, de 6 de fevereiro de
+2020, que dispõe sobre medidas de enfrentamento à emergência do novo coronavírus
+(COVID-19).
+
+Entre as alterações promovidas pelo art. 1º da MP 928/2020 está a in-
+serção do art. 6º-B na Lei 13.979/2020, para dispor sobre o atendimento dos pedidos
+de acesso à informação enquanto durar o período de calamidade pública. É a redação
+do dispositivo em questão, nessa parte:
+
+Art. 1º A Lei nº 13.979, de 6 de fevereiro de 2020, passa a vigorar
+com as seguintes alterações:
+
+“Art. 6º-B Serão atendidos prioritariamente os pedidos de
+acesso à informação, de que trata a Lei nº 12.527, de 2011,
+relacionados com medidas de enfrentamento da emergência
+de saúde pública de que trata esta Lei.
+
+§ 1º Ficarão suspensos os prazos de resposta a pedidos de
+acesso à informação nos órgãos ou nas entidades da adminis-
+tração pública cujos servidores estejam sujeitos a regime de
+quarentena, teletrabalho ou equivalentes e que, necessaria-
+mente, dependam de:
+
+I - acesso presencial de agentes públicos encarregados da
+resposta; ou
+
+II - agente público ou setor prioritariamente envolvido com
+as medidas de enfrentamento da situação de emergência de
+que trata esta Lei.
+
+§ 2º Os pedidos de acesso à informação pendentes de res-
+posta com fundamento no disposto no § 1º deverão ser reite-
+rados no prazo de dez dias, contado da data em que for en-
+cerrado o prazo de reconhecimento de calamidade pública a
+que se refere o Decreto Legislativo nº 6, de 20 de março de
+2020.
+
+§ 3º Não serão conhecidos os recursos interpostos contra
+negativa de resposta a pedido de informação negados com
+fundamento no disposto no § 1º.
+
+
+
+[[pagina 3 | nativo]]
+§ 4º Durante a vigência desta Lei, o meio legítimo de apre-
+sentação de pedido de acesso a informações de que trata o
+art. 10 da Lei nº 12.527, de 2011, será exclusivamente o sis-
+tema disponível na internet.
+
+§ 5º Fica suspenso o atendimento presencial a requerentes
+relativos aos pedidos de acesso à informação de que trata a
+Lei nº 12.527, de 2011.” (NR)
+
+No que interessa à presente ação, a MP 928/2020:
+(i) suspende os prazos de resposta a pedidos de acesso à informa-
+ção em órgãos que tenham estabelecido regime de quarentena,
+teletrabalho ou equivalentes, quando os pedidos dependam de
+acesso presencial do servidor encarregado da resposta ou
+quando o órgão público ou setor esteja prioritariamente envol-
+vido com as medidas de enfrentamento da emergência (art. 6º-
+(ii) determina que os pedidos de acesso à informação pendentes de
+resposta sejam reiterados em prazo de até dez dias contado do
+fim do período de calamidade pública (art. 6º-B, §2º); e
+(iii) nega a possibilidade de recurso contra negativas a pedidos de
+informação que tenham sido fundamentadas no permissivo
+previsto no §1º (art. 6º-B, §3º).
+
+A Exposição de Motivos justifica as medidas listadas acima como
+“decorrência da adoção de estratégias de isolamento social, bem como de situações
+em que as equipes técnicas e administrativas dos órgãos e entidades públicas, que
+poderiam auxiliar na preparação da resposta a pedidos de informação, estejam envol-
+vidas com as medidas decorrentes da situação da emergência sanitária enfrentada”.
+
+Segundo informações publicadas no sítio eletrônico da Controladoria-
+Geral da União, a medida se justifica tendo em conta a abrangência nacional da LAI,
+“estando muitas prefeituras do país em situação delicada de pessoal”. Também ob-
+serva que os prazos da LAI serão observados quando for possível produzir a resposta
+de forma digital.1
+
+Especialistas em transparência pública questionaram a MP, tanto pelo
+conteúdo como pela forma como foi editada. Um dos pontos criticados foi a falta de
+
+1 Informações disponíveis em: https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/03/governo-
+estabelece-alteracoes-em-prazos-de-atendimento-da-lai
+
+
+
+[[pagina 4 | nativo]]
+diálogo com a sociedade civil para discutir a alteração das regras. Os especialistas
+também manifestaram preocupação com o fato de a MP restringir, ao invés de ampli-
+ar, a transparência em um contexto de emergência de saúde pública. Argumentaram,
+ainda, que as restrições impostas são desnecessárias e desproporcionais.2
+
+Diante das implicações que a MP 928/2020 apresenta para o exercício
+do direito à informação e para a garantia de transparência e de publicidade dos atos
+da Administração Pública, o Conselho Federal da Ordem dos Advogados do Brasil,
+legitimado universal para a apresentação de ações objetivas de controle de constitu-
+cionalidade, comparece a esse egrégio Supremo Tribunal Federal para suscitar a in-
+constitucionalidade do art. 6º-B inserido pelo art. 1º da MP 928/2020 na Lei
+13.979/2020.
+
+Como será devidamente explanado, o dispositivo legal padece de ví-
+cios de inconstitucionalidade formal, uma vez que não preenche os requisitos auto-
+rizadores da edição de medida provisória, nos termos do art. 62, caput, da CF, e de
+inconstitucionalidade material, uma vez que as alterações inseridas representam
+restrições desproporcionais e arbitrárias ao direito à informação, à transparência e à
+publicidade, em afronta aos arts. 5º, XXXIII, e 37, §3º, III, da CF.
+
+É o que se passa a expor.
+
+2 – DOS FUNDAMENTOS JURÍDICOS:
+
+2.1. INCONSTITUCIONALIDADE FORMAL. AFRONTA AOS ARTS. 62,
+CAPUT, E 2º DA CF. AUSÊNCIA DOS REQUISITOS AUTORIZADORES À
+EDIÇÃO DA MEDIDA PROVISÓRIA E DESRESPEITO AO PRINCÍPIO DA
+SEPARAÇÃO DE PODERES.
+
+2.1.1. Da possibilidade de controle jurisdicional dos requisitos à edição de medi-
+das provisórias
+
+Por força do art. 62 da Constituição Federal, “em caso de relevância e
+urgência, o Presidente da República poderá adotar medidas provisórias, com força
+de lei, devendo submetê-las de imediato ao Congresso Nacional”.
+
+2 “ “Equivocada e desproporcional’: especialistas em dados abertos criticam medida de Bolsonaro que
+suspende Lei de Acesso à Informação”. Disponível em: https://politica.estadao.com.br/blogs/fausto-
+macedo/equivocada-e-desproporcional-especialistas-criticam-medida-de-bolsonaro-que-suspende-
+prazo-da-lei-de-acesso-/a-informacao/
+
+
+
+[[pagina 5 | nativo]]
+Quanto ao cabimento de controle jurisdicional sobre a presença dos re-
+quisitos autorizadores da edição de medidas provisórias, “a jurisprudência deste Su-
+premo Tribunal admite, em caráter excepcional, a declaração de inconstitucionali-
+dade de medida provisória quando se comprove abuso da competência normativa do
+Chefe do Executivo, pela ausência dos requisitos constitucionais de relevância e
+urgência” (ADI 4717, Rel. Min. Cármen Lúcia, DJe 15.02.2019)3. A excepcionali-
+dade se aplica a situações “em que a ausência desses pressupostos seja evidente”
+(ADI 2.527-MC, Rel. Min. Ellen Gracie, DJe 23.11.2007).
+
+A necessidade – mais do que a possibilidade – de controle pelo Poder
+Judiciário em tais situações restou asseverada em voto do Min. Luiz Fux no julga-
+mento da ADI 4029 (Rel. Min. Luiz Fux, julgado em 08/03/2012, DJe 26/06/2012),
+no qual salientou-se que a edição de medidas provisórias sem os pressupostos consti-
+tucionais gera efeitos deletérios para a atuação do Congresso Nacional, em vista dos
+trancamentos de pauta provocados por tais medidas, que acabam exigindo a aprecia-
+ção açodada de matérias que demandariam maior reflexão:
+
+A atuação do Judiciário no controle da existência dos requisitos consti-
+tucionais de edição de Medidas Provisórias, ao contrário de denotar in-
+gerência contramajoritária nos mecanismos políticos de diálogo dos ou-
+tros Poderes, serve à manutenção da Democracia e do equilíbrio entre
+os três baluartes da República. John Hart Ely explicita de forma precisa o
+papel do Judiciário no jogo democrático: “Courts thus should ensure not on-
+ly that administrators follow those legislative policy directions that do exist
+(...) but also that such directions are given” (em tradução livre: “As Cortes,
+então, deveriam assegurar não somente que os administradores sigam essas
+orientações políticas dadas pelo Legislativo já existentes, mas também que
+tais orientações sejam dadas”. Democracy and Distrust – A Theory of Judi-
+cial Review. Cambridge: Harvard University Press, 2002. p. 133). O Su-
+premo Tribunal Federal, nesta esteira, deve assegurar que o Legislativo
+não se torne um simples anexo do Executivo, subserviente e pouco ativo,
+que se limite a apreciar, na maior parte do tempo, as medidas materi-
+almente legislativas adotadas pelo Chefe da Administração.
+
+A má utilização dos provimentos de urgência pelo Executivo pode gerar
+efeitos indesejados, não somente para a ordem social, mas igualmente
+para a dinâmica decisória das Casas parlamentares, com constantes
+trancamentos de pauta e apressando a deliberação sobre temas que de-
+mandariam maior reflexão. [...]
+
+3 No mesmo sentido: RE 526353 (Rel. Min. Roberto Barroso, DJe 07.10.2015), ADI 2527 (Rel. Min.
+Ellen Gracie, DJ 23.11.2007).
+
+
+
+[[pagina 6 | nativo]]
+In casu, o abuso do poder de editar Medidas Provisórias afigura-se evidenci-
+ado de forma patente, sendo impossível defender com seriedade que a cri-
+ação de um ente para desincumbir-se das mesmas atribuições de autarquia já
+em operação revista-se da urgência necessária para afastar a adoção do rito
+legislativo ordinário.
+[...] (sem grifos no original)
+
+Cabe destacar que o rigor dos requisitos previstos para a edição de medi-
+das provisórias destina-se justamente a assegurar a observância de preceitos funda-
+mentais da República, como é o princípio da separação dos poderes, insculpido no
+art. 2º da CF/1988. Na esteira desse princípio estruturante do Estado Democrático, a
+atribuição atípica da função legislativa ao Chefe do Poder Executivo deve ser inter-
+pretada dentro dos estritos limites fixados pela Constituição, que garantem seu exer-
+cício em caráter excepcional.
+
+A imprescindibilidade do controle jurisdicional para garantir a observância
+desse princípio foi destacada pelo Min. Celso de Mello no julgamento da ADI 2213-
+MC (Rel. Min. Celso de Mello, Tribunal Pleno, DJ 23/04/2004), ao afirmar que:
+
+O exercício dessa excepcional prerrogativa presidencial, precisamente por-
+que transformado em inaceitável prática ordinária de governo, torna neces-
+sário – em função dos paradigmas constitucionais, que, de um lado, con-
+sagram a separação de poderes e o princípio da liberdade e que, de outro,
+repelem a formação de ordens normativas fundadas em processo legislativo
+de caráter autocrático – que se imponha moderação no uso da extraordi-
+nária competência de editar atos com força de lei, outorgada, ao Chefe do
+Poder Executivo da União, pelo art. 62 da Constituição da República. […]
+
+Desse modo, e mesmo que o exercício (sempre excepcional) da atividade
+normativa primária pelo Poder Executivo possa justificar-se em situações
+absolutamente emergenciais, abrandando, em tais hipóteses, “o monopólio
+legislativo dos Parlamentos” (RAUL MACHADO HORTA, “Medidas Pro-
+visórias”, in Revista de Informação Legislativa, vol. 107/5), ainda assim
+revela-se profundamente inquietante – na perspectiva da experiência insti-
+tucional brasileira – o progressivo controle hegemônico do aparelho de Es-
+tado, decorrente da superposição da vontade unipessoal do Presidente da
+República, em função do exercício imoderado da competência extraordi-
+nária que lhe conferiu o art. 62 da Constituição. […]
+
+Eventuais dificuldades de ordem política – exceto quando verdadeiramen-
+te presentes razões constitucionais de urgência, necessidade e relevância
+material – não podem justificar a utilização de medidas provisórias, sob pe-
+na de o Executivo, além de apropriar-se ilegitimamente da mais relevante
+função institucional que pertence ao Congresso Nacional, converter-se em
+
+
+
+[[pagina 7 | nativo]]
+instancia hegemônica de poder no âmbito da comunidade estatal, afetando,
+desse modo, com grave prejuízo para o regime das liberdades públicas e sé-
+rios reflexos sobre o sistema de checks and balances, a relação de equilíbrio
+que necessariamente deve existir entre os Poderes da República. […]
+
+Vê-se, pois que a relevância e a urgência – que se revelam noções redutí-
+veis à categoria de conceitos relativamente indeterminado – qualificam-se
+como pressupostos constitucionais legitimadores da edição das medidas
+provisórias. Constituem requisitos condicionantes do exercício desse poder
+extraordinário de legislar que a Carta Política outorgou ao Presidente da Re-
+pública.
+
+Tratando-se de requisitos de índole constitucional, cabe, ao Supremo Tribu-
+nal Federal, em cada caso ocorrente, analisar a configuração desses pressu-
+postos, cuja existência se revela essencial ao processo de legitimação do
+exercício, pelo Presidente da República, do seu poder de editar medidas pro-
+visórias. […]
+
+Assentada a possibilidade de controle judicial das medidas provisórias
+quando claramente ausentes os pressupostos constitucionais para sua edição, a fim de
+preservar a competência legislativa do Congresso Nacional e, portanto, o princípio da
+separação de poderes, passa-se à verificação de tais requisitos em relação à MP
+928/2020.
+
+2.1.2. Da ausência de urgência e relevância a autorizar a edição da MP 928/2020
+
+Quanto aos pressupostos aptos a ensejar a edição de medidas provisórias
+(relevância e urgência), convém colacionar entendimento exposto em sede doutriná-
+ria pela Min. Cármen Lúcia4, que não deixa dúvidas sobre o conteúdo a ser atendido
+em cada um deles.
+
+A relevância exigida é a que diz com “circunstância constatada como de
+necessidade imperiosa na sociedade e a ser objeto de um cuidado normativo”. Tal
+circunstância, ademais, “tem de ser objetivamente demonstrativa de uma necessidade
+social de importância insuperável por outra medida que não aquela de natureza
+normativa (com força de lei) adotada, provisoriamente, pelo Presidente da Re-
+pública”.
+
+4 ROCHA, Cármen Lúcia Antunes. Medidas provisórias e princípio da separação de poderes. In:
+Direito contemporâneo: estudos em homenagem a Oscar Dias Corrêa, p. 44-69. Rio de Janeiro: Fo-
+rense Universitária, 2001. p. 58-60.
+
+
+
+[[pagina 8 | nativo]]
+No tocante à urgência, restará configurada “somente quando a necessi-
+dade social imperiosa for urgente e demandar uma imediata resposta por meio da
+adoção da medida normativa presidencial”. Significa dizer que “se o cuidado nor-
+mativo de uma determinada matéria a incidir sobre uma circunstância social puder
+aguardar pelo menos o prazo mínimo para a tramitação urgente de um projeto de lei
+(hoje fixado em 45 dias), é evidente não se poder fazer uso do instituto da medida
+provisória por carência de um dos seus pressupostos”.
+
+O conceito de urgência, por sua vez, já foi objeto de manifestação do
+Supremo Tribunal Federal. O Ministro Gilmar Mendes, no julgamento da ADI 6229-
+MC (DJ 22.10.2019), ressaltou que há dois aspectos do requisito da urgência que
+devem ser examinados: (i) a urgência na produção de efeitos imediatos e (ii) a urgên-
+cia em deflagrar processo legislativo para alterar o regramento da matéria.
+
+Dessarte, as ideias de relevância e urgência estão pautadas por cir-
+cunstâncias qualificadas pelo quadro fático e jurídico, capazes tanto de exigir uma
+atuação firme e imediata quanto de justificar a superação dos canais regulares do
+processo legislativo.
+
+O estudo da sistemática da Lei de Acesso à Informação permite-nos
+concluir pelo desatendimento dos requisitos de relevância e urgência, diante da des-
+necessidade do exercício de competência legislativa excepcional pelo Presidente da
+República. O marco legal é suficiente para contemplar a situação de crise, sendo des-
+necessária a superação do processo legislativo regular.
+
+Afinal, segundo a previsão expressa do art. 11, § 1º, II, da referida lei,
+é possível que o agente público informe o requerente sobre a impossibilidade de con-
+ceder acesso imediato à informação pública desde que o faça por meio de resposta
+justificada, no prazo de vinte dias, na qual indique “as razões de fato ou de direito da
+recusa, total ou parcial, do acesso pretendido”.
+
+É a redação do dispositivo em questão:
+
+Art. 11. O órgão ou entidade pública deverá autorizar ou conceder
+o acesso imediato à informação disponível.
+
+§ 1º Não sendo possível conceder o acesso imediato, na forma dis-
+posta no caput, o órgão ou entidade que receber o pedido deverá,
+em prazo não superior a 20 (vinte) dias:
+
+I - comunicar a data, local e modo para se realizar a consulta, efe-
+tuar a reprodução ou obter a certidão;
+
+
+
+[[pagina 9 | nativo]]
+II - indicar as razões de fato ou de direito da recusa, total ou parci-
+al, do acesso pretendido; ou
+
+III - comunicar que não possui a informação, indicar, se for do seu
+conhecimento, o órgão ou a entidade que a detém, ou, ainda, reme-
+ter o requerimento a esse órgão ou entidade, cientificando o inte-
+ressado da remessa de seu pedido de informação.
+
+§ 2º O prazo referido no § 1º poderá ser prorrogado por mais 10
+(dez) dias, mediante justificativa expressa, da qual será cientificado
+o requerente.
+
+Referido dispositivo, perfeitamente aplicável em um cenário de crise,
+já é capaz de fornecer suficiente flexibilidade para eventuais atrasos na prestação de
+informação que decorram de circunstâncias excepcionais. Quando houver dificuldade
+na obtenção de informação no caso concreto, devido a restrições de acesso e circula-
+ção, poderá o agente público simplesmente indicar ao requerente as razões que o
+impedem de prestar a informação de maneira imediata, no prazo de vinte dias, pror-
+rogáveis pela metade.
+
+Ainda nesse contexto, a inserção, em medida provisória, de restrição
+ao cabimento de recurso, diferentemente da atual regência da Lei de Acesso à Infor-
+mação, não está devidamente contemplada pelas circunstâncias de relevância e ur-
+gência exigidas pela Carta Cidadã.
+
+Além de permitir a análise dos requisitos de relevância e urgência diante
+do quadro fático-jurídico, a jurisprudência desse egrégio STF tem exigido que o
+cumprimento dos referidos requisitos fique cabalmente demonstrado na exposição de
+motivos da medida provisória. Tanto que, ao apreciar a ADI 4.717 (Rel. Min. Cár-
+men Lúcia, julgado em 05/04/2018, DJe 14/02/2019), não tendo a exposição de mo-
+tivos se desincumbido de tal comprovação, assentou que a medida não atendia aos
+pressupostos do art. 62 da CF/1988, conforme se denota da ementa do julgado:
+
+[...] 2. A jurisprudência deste Supremo Tribunal admite, em caráter
+excepcional, a declaração de inconstitucionalidade de medida pro-
+visória quando se comprove abuso da competência normativa do
+Chefe do Executivo, pela ausência dos requisitos constitucionais de
+relevância e urgência. Na espécie, na exposição de motivos da
+medida provisória não se demonstrou, de forma suficiente, os
+requisitos constitucionais de urgência do caso. [...]
+
+
+
+[[pagina 10 | nativo]]
+A exposição de motivos da MP 928/2020 não é capaz de justificar ne-
+cessidade urgente e imperiosa das medidas adotadas. O texto sustenta que “o mo-
+mento impõe a necessidade de que a administração pública federal esteja trabalhando
+da melhor forma possível para que todas as informações relacionadas com a emer-
+gência de saúde em curso estejam amplamente à disposição da sociedade de forma
+transparente”. Nesse sentido, a MP 928/2020 prevê que será dada prioridade ao aten-
+dimento de pedidos relacionados à emergência do novo coronavírus (COVID-19),
+sem, contudo, especificar de que modo essa estratégia de priorização será levada a
+cabo ou detalhar os meios e procedimentos que serão empregados para definir as
+prioridades.
+
+Não há, dessa forma, nenhuma comprovação específica de que os pe-
+didos de acesso à informação relativos à saúde impedirão o atendimento dos pedidos
+de acesso à informação referentes a outros temas. Além disso, a ausência de qualquer
+indicação quanto aos mecanismos que viabilizariam eventual priorização torna a me-
+dida inócua.
+
+Nesse ponto, é possível notar que as justificativas da MP estão funda-
+das apenas em suposições, não em necessidades concretas. A exposição de motivos
+do governo parte de uma hipótese arbitrária de que haverá a impossibilidade de aten-
+dimento dos pedidos de acesso à informação, construindo um conflito artificial entre
+o acesso a informações de saúde e o acesso a informações de outras espécies. Com
+base nessa oposição, é então adotada a medida extrema e desproporcional de autori-
+zar a suspensão de resposta a pedidos de acesso à informação do segundo grupo.
+
+Além de lhe faltar clareza e concretude, a exposição de motivos ignora
+que, em uma situação de calamidade pública como a que temos vivenciado, não são
+somente informações relacionadas à saúde que despontam como informações rele-
+vantes ao interesse público. Em outros campos da atividade estatal, como a economia
+e as políticas sociais, a publicidade e a transparência de informações são igualmente
+cruciais. O levantamento de dados e informações é essencial tanto para a formulação
+de políticas públicas multifacetadas pelos diversos entes federados quanto para o
+planejamento individual de cada cidadão.
+
+Por conseguinte, a adoção de medidas generalizadas de restrição do
+acesso à informação por meio de medida provisória desatende os requisitos constitu-
+cionais de relevância e urgência, traduzindo-se em violação ao art. 62, caput, da
+Constituição Federal, a configurar inconstitucionalidade formal do art. 1º da MP
+928/2020, na parte em que acrescenta o art. 6º-B à Lei 13.979/2020.
+
+
+
+[[pagina 11 | nativo]]
+2.2 – INCONSTITUCIONALIDADE MATERIAL. RESTRIÇÕES DESPRO-
+PORCIONAIS E ARBITRÁRIAS AO DIREITO À INFORMAÇÃO, À
+TRANSPARÊNCIA E À PUBLICIDADE (ARTS. 5º, XXXIII, E 37, §3º, III,
+CF)
+
+A Constituição de 1988 foi promulgada em um contexto de redemo-
+cratização do país e de ruptura com a ordem política autoritária que praticava a cen-
+sura e o sigilo como políticas de Estado. O art. 5o, XXXIII, da CF/1988 passou a
+prever o direito à informação como um direito fundamental, que protege tanto inte-
+resses individuais como o interesse coletivo ou geral.
+
+A outra face do direito à informação é o dever de publicidade que vin-
+cula a Administração Pública e está consagrado como um dos princípios norteadores
+da sua atuação, nos termos do art. 37, caput, da CF/1988. Especificamente, o art. 37,
+§ 3o, II, prevê o acesso a registros e informações sobre atos do governo como meca-
+nismo para garantir a participação dos usuários na Administração Pública direta e
+indireta. A Constituição também atribui à Administração Pública o dever de gerir a
+documentação governamental e de franquear a sua consulta, conforme disposto no
+art. 216, § 2o.
+
+O regramento constitucional estabelece que a transparência deve ser
+obedecida como regra. O sigilo de informações públicas é previsto como exceção,
+restrito aos casos em que se mostre “imprescindível à segurança da sociedade e do
+Estado”, segundo a ressalva feita pelo art. 5o, XXXIII.
+
+A despeito do claro comando estabelecido pelo texto constitucional,
+por muito tempo a cultura do segredo continuou a atuar como óbice ao direito à in-
+formação, à publicidade e à transparência. Isso ocorria em grande medida pela au-
+sência de um marco regulador adequado que fixasse parâmetros e procedimentos
+bem definidos a respeito da divulgação e acesso a dados públicos.
+
+A lacuna foi preenchida pela Lei n. 12.527/2011, Lei de Acesso à In-
+formação (LAI), que entrou em vigor em maio de 2012. A LAI representou o marco
+de uma mudança de paradigma no sentido de efetivar a abertura do Estado aos con-
+troles democráticos. A diretriz central firmada pelo art. 3º, I, da LAI concretiza a
+cultura da transparência acolhida pela CF/1988 ao prever a “observância da publici-
+dade como preceito geral e do sigilo como exceção”.
+
+
+
+[[pagina 12 | nativo]]
+A LAI é regida pelo princípio da máxima transparência das informa-
+ções públicas, bem explicado pelos autores Márcio Camargo Cunha Filho e Vitor
+César Filho Xavier5:
+
+O conteúdo normativo deste princípio implica no estabelecimento de pre-
+sunção em favor da publicidade de informações públicas, a qual vincula a
+atividade de todos os órgãos públicos. Assim, a aplicação deste princípio
+implica que requerimentos de acesso à informação somente podem ser dene-
+gados quando a autoridade pública demandada demonstrar concretamente
+que a sua publicação pode trazer risco de dano substancial a um direito cons-
+titucional ou legalmente protegido.
+
+A promoção da transparência é viabilizada pela LAI não só a partir da
+limitação do poder de manter dados públicos sob sigilo, mas também por meio da
+previsão de procedimentos e de prazos para a resposta aos pedidos de acesso e para a
+disponibilização das informações solicitadas, incluindo o direito de recurso contra
+eventual negativa de acesso.
+
+O regramento nacional da matéria está alinhado com as obrigações in-
+ternacionais assumidas pelo Brasil. O art. 13 da Convenção Americana de Direitos
+Humanos protege a liberdade de expressão e, como um de seus corolários, o direito à
+informação. Em atenção ao princípio da máxima divulgação que também rege a
+norma interamericana, o acesso à informação pública deve ser efetivo e o mais amplo
+possível.6
+
+À luz desses parâmetros constitucionais e internacionais, as restrições
+impostas pela MP 928 não se sustentam. Como relatado, a MP suspende, enquanto
+durar a situação de calamidade pública, o prazo para resposta aos pedidos de acesso à
+informação por órgãos que estejam trabalhando em regime de quarentena ou de tele-
+trabalho e quando se exigir atividade presencial dos servidores encarregados da res-
+posta ou quando o setor responsável estiver envolvido nas medidas de enfrentamento
+ao novo coronavírus (COVID-19). A MP também impõe um requisito a mais para a
+apreciação dos pedidos de acesso ao exigir que sejam reiterados no prazo de 10 dias
+a contar do fim do período de calamidade. Além disso, retira o direito de recurso
+contra negativas de resposta a pedidos de acesso à informação com fundamento na
+situação de emergência.
+
+5 Lei de Acesso à Informação: teoria e prática. Editora Lumen Juris: Rio de Janeiro, 2014, p. 108.
+6 Comissão Interamericana de Direitos Humanos. Relatoria Especial para a Liberdade de Expressão. O
+direito de acesso à informação no marco jurídico interamericano. 2ª ed. (2012). Doc. OEA Série
+L/V/II CIDH/RELE/INF. p. 16.
+
+
+
+[[pagina 13 | nativo]]
+Segundo o entendimento firmado pela Comissão Interamericana de
+Direitos Humanos (CIDH), quaisquer restrições ao direito à informação “devem dar
+cumprimento estrito aos requisitos emanados do art. 13.2 da Convenção Americana,
+ou seja, condições de caráter excepcional, previsão legal, objetivos legítimos, ne-
+cessidade e proporcionalidade”7. As restrições impostas pela MP 928 não passam
+por esse crivo e, no sentido contrário, abrem margem para uma atuação discricionária
+do Estado em face dos pedidos de acesso à informação e em detrimento dos princí-
+pios da transparência e da publicidade.
+
+Em primeiro lugar, nota-se que a suspensão dos prazos para aprecia-
+ção de pedidos, na forma prevista pelo §1º do art. 6º-B, atinge de forma despropor-
+cional e desnecessária o direito de acesso à informação. Trata-se de autorização ge-
+nérica e aberta de negativa à apreciação dos pedidos, que abre margem excessiva de
+discricionariedade à autoridade pública, sem oferecer, como contrapartida, parâme-
+tros suficientemente claros e detalhados e tampouco vias de controle jurídico ou so-
+cial.
+
+O texto da MP não deixa claro em quais situações se exige a presença
+de um servidor para atender ao pedido de acesso à informação, isto é, em quais casos
+a informação não pode ser tratada remotamente. Considerando o nível de informati-
+zação da gestão documental, especialmente no âmbito da administração pública fede-
+ral, é de se esperar que a grande maioria das informações solicitadas estejam dispo-
+níveis em meio digital. Nesses termos, o dispositivo não aponta claramente as cir-
+cunstâncias em que é necessário o atendimento presencial, a justificar a suspensão do
+prazo.
+
+Sem o imprescindível detalhamento das hipóteses em que incide a res-
+trição de acesso, a MP não é capaz de proteger o cidadão contra invocações abusivas
+da justificativa oferecida para a suspensão do prazo de resposta. Assim, contraria
+frontalmente a indicação da Comissão Interamericana de Direitos Humanos no senti-
+do de que a inclusão de restrições ao direito de buscar, receber e divulgar informa-
+ções “deve ser suficientemente clara e precisa, de modo a não conferir um nível ex-
+cessivo de discricionariedade aos funcionários públicos que decidem sobre a divul-
+gação ou não da informação”8.
+
+Além disso, como exposto, a LAI já estabelece mecanismo pelo qual o
+agente público pode informar sobre a impossibilidade de atender de forma imediata
+determinado pedido de acesso, nos termos do art. 11, § 1º, II. Este dispositivo, ao
+contrário do comando genérico da MP, garante uma apreciação caso a caso e funda-
+
+7 Idem, p. 15.
+8 Idem, p. 16.
+
+
+
+[[pagina 14 | nativo]]
+mentada nas circunstâncias concretas, que atende à exigência de motivação dos atos
+administrativos. Assim, com base nos protocolos e nos procedimentos já previstos na
+LAI, o agente público pode justificar a inviabilidade de, durante o período de cala-
+midade pública, dar acesso a uma informação que demonstre exigir sua atuação pre-
+sencial no órgão ou setor responsável.
+
+Fica evidente, portanto, a existência de meio menos gravoso já dispo-
+nível para atingir a mesma finalidade invocada pela MP, a demonstrar o caráter abu-
+sivo da medida restritiva, que sacrifica além do necessário o direito à informação e à
+transparência, em ofensa ao princípio da proporcionalidade. Também se configura
+clara ofensa ao princípio da máxima divulgação, que consagra a excepcionalidade
+das restrições, que devem ser proporcionais aos objetivos visados e interferir o mí-
+nimo possível no exercício do direito.
+
+Por sua vez, o §2º do art. 6º-B, ao exigir que o pedido de acesso seja
+reiterado ao término do período de calamidade, impõe um ônus excessivo sobre o
+cidadão que requer acesso a informações. A medida representa um obstáculo a mais,
+indevido e desnecessário, à apreciação do pedido. Não há justificativa para se obrigar
+o solicitante a renovar seu interesse na obtenção da informação, sob pena de ter seu
+pedido desconsiderado. Na prática, a medida permite que uma série de pedidos não
+só deixe de ser respondida no período de calamidade, mas seja de todo ignorada, se
+não houver a reiteração.
+
+A demora na resposta, mesmo que justificada por eventuais dificulda-
+des operacionais em um momento de crise, não pode se reverter contra o cidadão. Ao
+contrário, deve exigir empenho do Estado em fornecer informações no momento em
+que são úteis e atualizadas e, na impossibilidade momentânea de fazê-lo, que cumpra
+a obrigação tão logo recobre condições para tanto.
+
+Com relação ao disposto no §3º do art. 6º-B, a recusa do direito a re-
+curso nega ao cidadão meios de defesa contra uma negativa arbitrária ou sem funda-
+mento do seu pedido de informação, em flagrante ofensa ao devido processo legal
+que deve informar a atuação administrativa do Estado. A Exposição de Motivos da
+MP 928 justifica a supressão da análise recursal “a fim de que não haja colapso do
+serviço de acesso à informação”. Não se trata de motivação pertinente ou aceitável
+para suspender o exercício de um direito básico, como é o direito de defesa. Além de
+conferir ao Estado uma licença aberta e genérica para deixar de atender a pedidos de
+acesso à informação, a MP retira do cidadão a possibilidade de questionar a negativa,
+deixando-o inteiramente vulnerável a atuações abusivas.
+
+
+
+[[pagina 15 | nativo]]
+Tome-se como exemplo uma hipótese em que os dados requeridos es-
+tejam disponíveis em meio digital, o que não autoriza a suspensão do prazo de res-
+posta, como reconhece a própria CGU. Se o pedido de acesso deixa de ser apreciado
+por invocação abusiva do §1º do art. 6º-B, o cidadão estaria desprovido de meios
+para contestar a decisão. Ou seja, o governo abre espaço para negativas ou omissões
+indevidas de informações, para depois blindá-las de qualquer questionamento.
+
+Não se ignora que há restrições legítimas a direitos em períodos de ca-
+lamidade, bem como há restrições legítimas ao direito à informação, que não consiste
+em um direito absoluto. É patente, no entanto, a ilegitimidade das restrições impostas
+pelo art. 1º da MP 928, ao permitir que o dever de transparência seja desconsiderado
+pelo Estado de forma desproporcional e discricionária. Reitera-se que o regramento
+da LAI é suficiente e adequado para responder aos desafios de prestar informações
+públicas em uma situação de emergência, na medida em que assegura a transparência
+como regra, ao mesmo tempo em que admite justificativas excepcionais que funda-
+mentem, caso a caso, a impossibilidade de prestar as informações requeridas nos
+prazos estabelecidos pela lei.
+
+O resguardo à publicidade e à transparência dos atos da Administração
+tem recebido proteção destacada pela jurisprudência desse eg. Supremo Tribunal
+Federal. Ressalte-se, nesse ponto, a recente decisão do ministro Gilmar Mendes que
+deferiu o pedido de medida cautelar na ADI 6229, que questionava a medida provi-
+sória editada pelo atual governo que dispensava a publicação de atos da Administra-
+ção em jornais de grande circulação. A decisão do eminente ministro relator suspen-
+deu os efeitos do ato normativo considerando os riscos à publicidade e à transparên-
+cia, com base no princípio da proporcionalidade:
+
+Além de o princípio da proporcionalidade possibilitar a análise de
+vício de inconstitucionalidade consubstanciado em excesso de Po-
+der Legislativo, a utilização desta técnica de decisão também per-
+mite avaliar o cumprimento do dever do legislador em assegurar
+uma proteção suficiente aos direitos fundamentais em jogo (unter-
+massverbot).
+
+Assim, cabe avaliar no presente caso se o regramento inaugurado
+pela Medida Provisória 896/2019 é apto a garantir a proteção do
+direito à informação e dos princípios constitucionais da publicidade
+e isonomia que incidem no regime jurídico de licitações públicas.
+Contudo, ao se substituir o regime anterior por um novo, o legisla-
+dor deve ter cautela para que as novas regras sejam precisamente
+definidas, de modo a garantir que as informações públicas che-
+guem à maior extensão possível de cidadãos.
+
+
+
+[[pagina 16 | nativo]]
+A legislação que regulamenta a publicação dos atos oficiais pre-
+cisa ser, ao máximo possível, minudente, detalhista e descritiva,
+até mesmo por buscar adequar a sistemática de publicação ao di-
+namismo da vida social.
+
+As alegações trazidas pela parte autora, no entanto, indicam que as
+disposições da Medida Provisória 896/2019 não lograram regula-
+mentar de forma minudente a matéria. Na realidade, o regime
+inaugurado parece ter previsto de forma bastante genérica a publi-
+cação em sítio eletrônico oficial, sem adentrar em detalhes sobre
+como as informações deveriam ser divulgadas para garantir o fácil
+acesso pelo público em geral. (...)
+
+No caso dos autos, pelo menos nesse juízo preliminar, me parece
+que – da forma como construída a norma impugnada – a falta de
+clareza sobre a nova forma de publicidade dos atos administrati-
+vos em sítios eletrônicos compromete a publicidade dos atos ad-
+ministrativos e a transparência da atuação administrativa, colo-
+cando em risco o direito à informação, a transparência e a reali-
+zação do princípio da publicidade nas licitações públicas (art. 37,
+inciso XXI, da CF)
+(ADI 6229 MC, Relator(a): Min. GILMAR MENDES, julgado em
+18/10/2019)
+
+Uma análise das recentes orientações expedidas pela Controladoria-
+Geral da União para a aplicação da MP 928/2020 pelos demais órgãos da administra-
+ção pública enfraquecem ainda mais os fundamentos trazidos pela Presidência da
+República para justificar a medida9. Como fica claro de diversas circunstâncias indi-
+cadas pelo ente controlador (necessidade de alteração do e-SIC para contemplar as
+situações de suspensão, necessidade de prestação de informações diárias à CGU so-
+bre os prazos suspensos, necessidade de envio do instrumento normativo de teletra-
+balho ou quarentena do órgão), os custos da medida extrema, decorrentes de novas
+exigências administrativas, são muito mais elevados do que a simples aplicação dos
+dispositivos existentes na Lei de Acesso à Informação.
+
+Desse modo, as medidas adotadas pela MP são contraditórias com os
+objetivos que pretendem justificá-la. Ao supostamente aliviar os trabalhos referentes
+ao acesso à informação, a Presidência da República acaba por sobrecarregar a atua-
+ção da Controladoria-Geral da União, com a necessidade de acompanhamento das
+
+9 Disponível em: <https://www.gov.br/cgu/pt-br/assuntos/noticias/2020/03/orientacoes-aos-orgaos-
+medida-provisoria-no-928-2020>. Último acesso em 25.03.2020.
+
+
+
+[[pagina 17 | nativo]]
+suspensões de prazo. Adota, assim, medida irracional e antieconômica, que marcha
+em sentido contrário ao que exigido no momento de crise de saúde.
+
+As medidas adotadas pelo Governo Federal estão na contramão das
+melhores práticas internacionais de combate ao COVID-19, que adotaram a divulga-
+ção de dados em formato aberto como mecanismo mais econômico e eficiente para
+manter a população informada sobre a situação da pandemia no país e para reduzir os
+gastos com pedidos individuais de acesso à informação. É o que já havia sido notado
+de maneira percuciente pela Associação Brasileira de Jornalismo Investigativo
+(ABRAJI) em nota pública assim redigida:
+
+Em vez de estabelecer novos procedimentos que dificultam o aces-
+so a informações, o governo federal deveria seguir o exemplo dos
+países que foram mais bem-sucedidos no combate à covid-19 (co-
+ronavírus) e ampliar a transparência, orientando estados e municí-
+pios a fazer o mesmo.
+
+A divulgação ampla de dados, especialmente em formato aberto
+(como boletins epidemiológicos; testes administrados e disponí-
+veis; metodologia da coleta de dados; contratos e informações so-
+bre compras públicas e orçamento; status de ocupação dos leitos
+nos hospitais, principalmente nas UTIs etc.), pode eliminar uma
+eventual sobrecarga de pedidos de informação e a necessidade de
+ajustes em prazos e procedimentos.
+
+Dessa forma, repudiamos o artigo 6º-B da Lei nº 13.979, de 6 de
+fevereiro de 2020, estabelecido pela MP 928 e defendemos enfati-
+camente sua revogação imediata. Além disso, esperamos medidas
+que visem ao aprimoramento da transparência ativa, bem como
+mecanismos e instrumentos necessários para que os servidores te-
+nham plenas condições de cumprimento da lei sem comprometer
+sua segurança. Não se pode instituir um regime de operação parale-
+lo à Lei de Acesso à Informação, nem tampouco retroceder nas
+conquistas sobre transparência alcançadas pela sociedade, especi-
+almente em um momento de evidente crise.10
+
+Ao invés de restringir o acesso à informação, o momento de combate
+à pandemia exige maior publicidade por parte da administração pública. Mediante a
+promoção de cidadãos e profissionais bem informados, estaremos mais bem prepara-
+dos para enfrentar essa crise.
+
+10 Disponível em: https://abraji.org.br/noticias/so-venceremos-a-pandemia-com-transparencia
+
+
+
+[[pagina 18 | nativo]]
+Por todos esses argumentos, a suspensão dos prazos de resposta aos
+pedidos de acesso à informação, na forma prevista pelo art. 1º da MP 928, bem como
+a exigência de reiteração do pedido e a vedação de recursos contra a negativa estatal,
+configuram uma restrição desproporcional, arbitrária e desnecessária ao direito à
+informação e à transparência. O momento atual de emergência de saúde pública sem
+precedentes exige uma ampliação, e não uma restrição à publicidade dos atos gover-
+namentais.
+
+O direito à informação é pressuposto para o exercício da cidadania e
+para o controle social das atividades do Estado, que deve ser reforçado em um con-
+texto de calamidade pública. Por isso qualquer restrição de acesso às informações
+públicas deve ser excepcional e cercada de todas as cautelas possíveis, como forma
+de impedir abusos e arroubos autoritários sob o manto de exceções genéricas e aber-
+tas à regra da transparência.
+
+3 – DOS REQUISITOS PARA A CONCESSÃO DA MEDIDA CAUTELAR
+
+A concessão de medida cautelar em Ação Direta de Inconstitucionali-
+dade está prevista nos arts. 10 a 12 da Lei 9.868/1999, com a indicação de que deve
+ser concedida por decisão da maioria absoluta dos membros do Tribunal [...], após a
+audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo im-
+pugnado, que deverão pronunciar-se no prazo de cinco dias.
+
+Em situações de excepcional urgência ou de inconstitucionalidade
+chapada, admite-se a concessão da cautelar antes mesmo de ouvidos o órgão ou auto-
+ridade do qual emanou o ato normativo impugnado, ou mesmo o Advogado-Geral da
+União e o Procurador-Geral da República (art. 10, § 3º, da Lei 9.868/1999), tendo a
+jurisprudência desse egrégio Supremo Tribunal Federal consolidado a possibilidade
+de concessão de liminar por decisão monocrática, ad referendum do Plenário.
+
+É o que ocorreu, a título de exemplo, no julgamento da ADI 4.310-
+MC (Rel. Min. Cármen Lúcia, DJe 14/04/2010), no qual, em face da urgência quali-
+ficada e dos riscos objetivamente comprovados de efeitos de desfazimento dificulto-
+so, foi deferida a cautelar requerida, ad referendum do Plenário desta E. Corte.
+
+No presente caso, não apenas os requisitos cautelares do fumus boni
+iuris e do periculum in mora estão presentes, como também existe situação de urgên-
+cia qualificada, uma vez que a lesão é aviada por medida provisória de efeitos imedi-
+atos e que as lesões ao direito à informação dificilmente serão reparadas.
+
+
+
+[[pagina 19 | nativo]]
+Em primeiro lugar, está devidamente configurado o fumus boni juris,
+pois ausentes os requisitos constitucionais que autorizam o exercício excepcional de
+competência legislativa por parte do Presidente da República. Consideradas (i) a re-
+levância constitucional do princípio da publicidade, (ii) a suficiência do atual marco
+legal e (iii) a inexistência de evidente relação meio-fim entre as restrições adotadas e
+os fins visados pelo combate excepcional da dispersão do COVID-19, as medidas
+previstas na MP não contam com o respaldo do bom direito.
+
+Em segundo lugar, está presente o periculum in mora, uma vez que o
+ato normativo impugnado justificará a negativa generalizada de pedidos de acesso à
+informação (art. 6º-B, § 1º), em detrimento de direitos e princípios de hierarquia
+constitucional. Além disso, é extremamente grave a estipulação de novos critérios
+arbitrários que impõem importantes e graves ônus aos cidadãos (art. 6º-B, §§ 2º e 3º),
+o que per se também seria capaz de fundamentar a concessão da cautelar.
+
+A gravidade da situação gerada pela MP não permite sequer que se
+aguarde a manifestação do Presidente da República ou dos demais órgãos elencados
+no art. 10 da Lei 9.868/1999, e, menos ainda, que se espere pela designação de pauta
+para a apreciação da medida cautelar pelo Plenário desta Egrégia Corte. A concessão
+de medida cautelar por decisão monocrática é a solução mais adequada.
+
+Ressalte-se que não é possível vislumbrar no caso qualquer marca de
+periculum in mora reverso, capaz de impor maiores precauções no deferimento da
+medida cautelar. Como já explanado ao longo desta peça, os mecanismos existentes
+na Lei de Acesso à Informação para justificar a impossibilidade de prestação imedia-
+ta de informações são suficientemente flexíveis como para também contemplar even-
+tuais dificuldades de acesso a arquivos físicos que estejam ligadas à atual situação de
+crise.
+
+E não apenas isso. Uma vez que os atuais mecanismos da LAI deman-
+dam a análise das restrições fáticas concretas para a formulação de uma negativa
+fundamentada a ser apresentada ao requerente em prazo hábil, tais dispositivos estão
+em mais perfeita harmonia com a disciplina constitucional sobre o direito de petição,
+garantia fundamental de nossa ordem constitucional (art. 5º, XXXIV, da CF/1988),
+em contraste com os requisitos excessivamente genéricos previstos na MP (art. 6º-B).
+
+A suficiência do marco legal da LAI reforça não apenas o cabimento
+da medida cautelar, como também a possibilidade de apreciação do pedido através de
+rápida decisão unipessoal, a ser posteriormente referendada pelo Plenário.
+
+
+
+[[pagina 20 | nativo]]
+Por conseguinte, considerando a dimensão dos direitos implicados na
+presente ação e a premência de sua apreciação, requer-se o deferimento de liminar
+para a suspensão da eficácia, na íntegra, do art. 1º da Medida Provisória 928/2020, na
+parte em que acrescenta o art. 6º-B à Lei 13.979/2020, ad referendum do Plenário
+desse Pretório Excelso.
+
+4 - DOS PEDIDOS
+
+Ante todo o exposto, requer o Conselho Federal da Ordem dos Advo-
+gados do Brasil:
+
+a) a admissão e o conhecimento desta Ação Direta de Inconstituciona-
+lidade por esse Egrégio Supremo Tribunal Federal;
+
+b) a concessão de medida liminar ad referendum do Plenário (art. 10,
+§ 3º, da Lei 9.868/1999), para suspender imediatamente a eficácia do art. 1º da Me-
+dida Provisória 928/2020, na parte em que acrescenta o art. 6º-B à Lei 13.979/2020;
+
+c) o referendo da medida cautelar pelo Plenário, após a oitiva dos ór-
+gãos e autoridades previstos na Lei 9.868/1999, mantendo-se a suspensão da eficácia
+da norma impugnada até o julgamento final da presente ação;
+
+d) a notificação do Exmo. Presidente da República, para se manifestar
+no prazo legal sobre o mérito da presente ação, na condição de autoridade responsá-
+vel pela edição do ato normativo impugnado;
+
+e) a notificação do Exmo. Advogado-Geral da União para se manifes-
+tar sobre a presente ação, nos termos do art. 103, § 3º, da Constituição Federal;
+
+f) a notificação do Exmo. Procurador-Geral da República para que
+emita o seu parecer, nos termos do art. 103, § 1º, da Constituição Federal;
+
+g) no mérito, a procedência da presente Ação Direta de Inconstitucio-
+nalidade, para declarar a inconstitucionalidade do art. 1º da Medida Provisória
+928/2020, na parte em que acrescenta o art. 6º-B à Lei 13.979/2020, por afronta aos
+requisitos de relevância e urgência para a edição de medida provisória (art. 62, caput,
+da CF/1988), ao direito à informação (art. 5º, XXXIII, da CF/1988) e ao princípio da
+publicidade (art. 37, caput e § 3o, II, da CF/1988).
+
+
+
+[[pagina 21 | nativo]]
+Caso seja necessário, requer seja deferida a produção de provas (art.
+20, § 1º, da Lei 9.868/99).
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de afe-
+ri-lo.
+
+Pede deferimento.
+
+Brasília, 25 de março de 2020.
+
+Felipe Santa Cruz Oliveira Scaletsky
+Presidente Nacional da OAB
+OAB/RJ 95.573
+
+Marcus Vinicius Furtado Coêlho
+Presidente da Comissão Nacional de Estudos Constitucionais
+OAB/DF 18.958
+
+Guilherme Del Negro Barroso Freitas Claudia Paiva Carvalho
+OAB/DF 48.893 OAB/MG 129.382
+
+
+

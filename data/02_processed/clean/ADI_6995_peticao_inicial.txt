@@ -1,0 +1,1003 @@
+[[pagina 1 | nativo]]
+EXMO. SR. MINISTRO LUIZ FUX – PRESIDENTE DO EG. SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO NOVO NACIONAL – NOVO, pessoa jurídica de direito privado, com
+registro definitivo no Tribunal Superior Eleitoral, com sede no SRTVS Quadra 701, Lote 05, Bloco B, Sala
+322, Centro Empresarial Brasília, Brasília – DF, CEP: 70.340-000, inscrito no CNPJ sob o nº
+13.405.866/0001-24, por seus advogados regularmente constituídos mediante instrumento específico,
+nos termos dos arts. 102, I, a, e 103, VIII, da Constituição Federal, e da Lei nº 9.868/1999, propor a
+presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+tendo como objeto a Medida Provisória (MP) nº 1.068, de 06 de setembro de 2021 . A MP nº 1.068/21
+foi editada para impedir que, em matéria de moderação de contas e conteúdo, os provedores de
+aplicações de internet cumpram suas políticas e termos de uso, acordados com os usuários, exceto nas
+hipóteses autorizadas pelo Poder Executivo federal (doc. nº 03). As razões que conduzem ao
+conhecimento da ação direta e à procedência dos pedidos serão desenvolvidas adiante.
+
+I. DO OBJETO DA PRESENTE AÇÃO DE DIRETA
+
+1. A presente ação direta impugna a MP nº 1.068, de 06 de setembro de 2021, em sua totalidade e,
+especialmente, seu (i) art. 1º, que inclui no texto do Marco Civil da Internet os arts. 8º-A, 8º-B, 8º-C,
+8º-D e 28-A; e (ii) art. 2º, que inclui no texto da Lei nº 9.610/98 o art. 109-B. Para facilitar a visualização,
+o/a requerente pede vênia para transcrever as disposições incluídas pela MP questionada:
+
+“Art. 8º - A Aos usuários, nas relações com os provedores de redes sociais, são
+assegurados os seguintes direitos, sem prejuízo do disposto na Seção I deste
+Capítulo:
+I - acesso a informações claras, públicas e objetivas sobre quaisquer políticas,
+procedimentos, medidas e instrumentos utilizados para fins de eventual
+
+[[pagina 2 | nativo]]
+moderação ou limitação do alcance da divulgação de conteúdo gerado pelo
+usuário, incluídos os critérios e os procedimentos utilizados para a decisão
+humana ou automatizada, ressalvados os segredos comercial e industrial;
+II - contraditório, ampla defesa e recurso, a serem obrigatoriamente observados
+nas hipóteses de moderação de conteúdo, devendo o provedor de redes sociais
+oferecer, no mínimo, um canal eletrônico de comunicação dedicado ao exercício
+desses direitos;
+III - restituição do conteúdo disponibilizado pelo usuário, em particular de dados
+pessoais, textos, imagens, dentre outros, quando houver requerimento;
+IV - restabelecimento da conta, do perfil ou do conteúdo no mesmo estado em
+que se encontrava, na hipótese de moderação indevida pelo provedor de redes
+sociais;
+V - não exclusão, cancelamento ou suspensão, total ou parcial, de serviços e
+funcionalidades da conta ou do perfil, exceto por justa causa, observado o
+disposto no art. 8º-B;
+VI - não exclusão, suspensão ou bloqueio da divulgação de conteúdo gerado pelo
+usuário, exceto por justa causa, observado o disposto no art. 8º-C; e
+VII - acesso a resumo dos termos de uso da rede social, com destaque às regras
+de maior significância para o usuário.
+Parágrafo único. É vedada aos provedores de redes sociais a adoção de critérios
+de moderação ou limitação do alcance da divulgação de conteúdo que
+impliquem censura de ordem política, ideológica, científica, artística ou religiosa,
+observado o disposto nos art. 8º-B e art. 8º-C (NR)"
+
+Art. 8º-B Em observância à liberdade de expressão, comunicação e manifestação
+de pensamento, a exclusão, o cancelamento ou a suspensão, total ou parcial, dos
+serviços e das funcionalidades da conta ou do perfil de usuário de redes sociais
+somente poderá ser realizado com justa causa e motivação.
+§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses:
+I - inadimplemento do usuário;
+II - contas criadas com o propósito de assumir ou simular identidade de terceiros
+para enganar o público, ressalvados o direito ao uso de nome social e à
+pseudonímia e o explícito ânimo humorístico ou paródico;
+III - contas preponderantemente geridas por qualquer programa de computador
+ou tecnologia para simular ou substituir atividades humanas na distribuição de
+conteúdo em provedores;
+
+[[pagina 3 | nativo]]
+IV - prática reiterada das condutas previstas no art. 8º-C;
+V - contas que ofertem produtos ou serviços que violem patente, marca
+registrada, direito autoral ou outros direitos de propriedade intelectual; ou
+VI - cumprimento de determinação judicial.
+§ 2º O usuário deverá ser notificado da exclusão, do cancelamento ou da
+suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do
+perfil.
+§ 3º A notificação de que trata o § 2º:
+I - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede
+social;
+II - ocorrerá de forma prévia ou concomitante à exclusão, ao cancelamento ou à
+suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do
+perfil; e
+III - conterá a identificação da medida adotada, a motivação da decisão e as
+informações sobre prazos, canais eletrônicos de comunicação e procedimentos
+para a contestação e a eventual revisão pelo provedor de redes sociais.
+§ 4º As medidas de que trata o caput também poderão ser adotadas a
+requerimento do próprio usuário, de seu representante legal ou de seus
+herdeiros, ressalvadas as hipóteses de guarda obrigatória de registros previstas
+na legislação." (NR)
+
+"Art. 8º-C Em observância à liberdade de expressão, comunicação e
+manifestação de pensamento, a exclusão, a suspensão ou o bloqueio da
+divulgação de conteúdo gerado por usuário somente poderá ser realizado com
+justa causa e motivação.
+§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses:
+I - quando o conteúdo publicado pelo usuário estiver em desacordo com o
+disposto na Lei nº 8.069, de 13 de julho de 1990;
+II - quando a divulgação ou a reprodução configurar:
+a) nudez ou representações explícitas ou implícitas de atos sexuais;
+b) prática, apoio, promoção ou incitação de crimes contra a vida,
+pedofilia, terrorismo, tráfico ou quaisquer outras infrações penais sujeitas à ação
+penal pública incondicionada;
+c) apoio, recrutamento, promoção ou ajuda a organizações criminosas ou
+terroristas ou a seus atos;
+d) prática, apoio, promoção ou incitação de atos de ameaça ou violência,
+
+[[pagina 4 | nativo]]
+inclusive por razões de discriminação ou preconceito de raça, cor, sexo, etnia,
+religião ou orientação sexual;
+e) promoção, ensino, incentivo ou apologia à fabricação ou ao consumo,
+explícito ou implícito, de drogas ilícitas;
+f) prática, apoio, promoção ou incitação de atos de violência contra
+animais;
+g) utilização ou ensino do uso de computadores ou tecnologia da
+informação com o objetivo de roubar credenciais, invadir sistemas,
+comprometer dados pessoais ou causar danos a terceiros;
+h) prática, apoio, promoção ou incitação de atos contra a segurança
+pública, defesa nacional ou segurança do Estado;
+i) utilização ou ensino do uso de aplicações de internet, sítios eletrônicos
+ou tecnologia da informação com o objetivo de violar patente, marca registrada,
+direito autoral ou outros direitos de propriedade intelectual;
+j) infração às normas editadas pelo Conselho Nacional de
+Autorregulamentação Publicitária referentes a conteúdo ou material publicitário
+ou propagandístico;
+k) disseminação de vírus de software ou qualquer outro código de
+computador, arquivo ou programa projetado para interromper, destruir ou
+limitar a funcionalidade de qualquer recurso de computador; ou
+l) comercialização de produtos impróprios ao consumo, nos termos do
+disposto no § 6º do art. 18 da Lei nº 8.078, de 11 de setembro de 1990;
+III - requerimento do ofendido, de seu representante legal ou de seus herdeiros,
+na hipótese de violação à intimidade, à privacidade, à imagem, à honra, à
+proteção de seus dados pessoais ou à propriedade intelectual; ou
+IV - cumprimento de determinação judicial.
+§ 2º O usuário deverá ser notificado da exclusão, da suspensão ou do bloqueio
+da divulgação de conteúdo por ele gerado.
+§ 3º A notificação de que trata o § 2º:
+I - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede
+social;
+II - ocorrerá de forma prévia ou concomitante à exclusão, à suspensão ou ao
+bloqueio da divulgação de conteúdo; e
+III - conterá a identificação da medida adotada, a motivação da decisão e as
+informações sobre prazos, canais eletrônicos de comunicação e procedimentos
+para a contestação e a eventual revisão pelo provedor de redes sociais.
+
+[[pagina 5 | nativo]]
+§ 4º As medidas de que trata o caput também poderão ser adotadas a
+requerimento do próprio usuário, ressalvadas as hipóteses de guarda obrigatória
+de registros previstas na legislação." (NR)
+
+"Art. 8º-D Para aplicação do disposto nos art. 8º-B e art. 8º-C, será considerada
+motivada a decisão que:
+I - indicar a parte específica do contrato de prestação de serviços ou do termo
+de uso relativo aos serviços fornecidos pelo provedor de aplicações de internet
+que foi violada;
+II - especificar a postagem ou a conduta considerada afrontosa ao contrato de
+prestação de serviços ou ao termo de uso; e
+III - informar o fundamento jurídico da decisão." (NR)
+
+“Art. 28-A. Sem prejuízo das demais sanções cíveis, criminais ou administrativas,
+as infrações às normas previstas nos art. 8º-A, art. 8º-B, art. 8º-C, art. 10 e art.
+11 ficam sujeitas, conforme o caso, às seguintes sanções:
+I - advertência, com indicação de prazo para adoção de medidas corretivas;
+II - multa de até dez por cento do faturamento do grupo econômico no País em
+seu último exercício, excluídos os tributos, considerados a condição econômica
+do infrator e o princípio da proporcionalidade entre a gravidade da falta e a
+intensidade da sanção;
+III - multa diária, observado o limite total a que se refere o inciso II;
+IV - suspensão temporária das atividades que envolvam os atos previstos no art.
+11; ou
+V - proibição de exercício das atividades que envolvam os atos previstos no art.
+11.
+§ 1º Na hipótese de empresa estrangeira, responde solidariamente pelo
+pagamento da multa de que trata ocaputa filial, a sucursal, o escritório ou o
+estabelecimento situado no País.
+§ 2º As sanções previstas neste artigo serão aplicadas pela autoridade
+administrativa, no âmbito de suas competências, isolada ou cumulativamente,
+inclusive por medida cautelar, antecedente ou incidente de procedimento
+administrativo.
+§ 3º As sanções previstas neste artigo serão aplicadas de forma proporcional, de
+acordo com as peculiaridades do caso concreto, e dependerão de procedimento
+administrativo, assegurados a ampla defesa e o contraditório. (NR)”.
+
+[[pagina 6 | nativo]]
+“Art. 109-B. O titular de conteúdo protegido por direitos autorais tornado
+indisponível em redes sociais sem que esteja caracterizada a justa causa prevista
+nos art. 8º-B e art. 8º-C da Lei nº 12.965, de 23 de abril de 2014, poderá requerer
+ao órgão responsável, a ser definido em regulamento, a aplicação de penalidade
+prevista no art. 28-A da referida Lei, e o restabelecimento do conteúdo, sem
+prejuízo da indenização cabível. (NR)".
+
+2. Como se vê, a Medida Provisória ora contestada impôs profundas modificações na Lei nº
+12.965/2014 (Marco Civil da Internet – MCI), procedimentalizando e limitando a atuação dos
+provedores de aplicações de internet1. Em síntese, os dispositivos acima: (i) proíbem os provedores de
+aplicações de internet de dar cumprimento às políticas e termos de uso a que se vinculam eles e os
+usuários, e que lhes permitam definir conteúdo admissível ou não em suas plataformas (tendo em vista
+a atividade que desenvolvem e seu público-alvo), e de não prestar serviços a usuários que não as
+cumprem; (ii) impõem, como regra, a judicialização de todos os casos de descumprimento das políticas
+e termos de uso; e (iii) admitem, como exceção, que os provedores de aplicações suspendam/excluam
+usuários e conteúdo nas limitadas hipóteses elencadas pelo Executivo.
+
+2. Em suma, o que se observa é uma clara tentativa, por parte do Poder Executivo federal, às vésperas
+das comemorações da Independência do Brasil (7 de setembro), de blindar discursos que lhes são
+favoráveis, mesmo que envolvam atos de desinformação, discursos de ódio ou outras ilicitudes.
+
+3. Com isso, evidencia-se a edição de medida provisória com manifesta usurpação dos fundamentos
+e dos objetivos da República (arts. 1.º e 3.º da CF/88), bem como dos princípios da impessoalidade
+e moralidade administrativa (art. 37, caput, da CF/88), na medida em que o ato normativo ora
+impugnado tem o propósito de autopromoção e objetiva atribuir ao Poder Executivo o papel de
+interferência na circulação de informações.
+
+4. Com base em cláusulas vagas e sem sequer definir autoridades específicas, a MP trata de matérias
+vedadas pelo art. 62, I, “a” da CF/88 (nacionalidade, cidadania, direitos políticos, partidos políticos
+e direito eleitoral), criando um regime híbrido de autorizações (art. 21, XII da CR/88) que viola a livre
+iniciativa (art. 170, parágrafo único da CR/88), em patente subversão dos critérios de urgência e
+relevância, permitindo que autoridades administrativas iniciem processos e apliquem pesadas
+
+1 Nos termos do art. 5º, VII, do MCI, as aplicações de internet são “o conjunto de funcionalidades que podem ser acessadas
+por meio de um terminal conectado à internet”.
+
+[[pagina 7 | nativo]]
+sanções seletivamente, para proteger discursos políticos de aliados. Não fosse suficiente, dá novo
+contexto às sanções do art. 12 do Marco Civil da Internet cujo julgamento de inconstitucionalidade já
+foi iniciado na ADI 5527, rel. Min. Rosa Weber. A invalidade, portanto, é clara. Antes de desenvolver o
+tema, vale fazer uma breve exposição quanto à admissibilidade da presente ação.
+
+II. PRELIMINARMENTE: ADMISSIBILIDADE DA AÇÃO DIRETA
+
+5. Estão presentes todos os requisitos necessários ao conhecimento da presente ação direta. O objeto
+da ação é um “ato normativo federal”, nos termos do art. 102, I, a, da Constituição. Como se sabe, as
+medidas provisórias são atos normativos primários, situados no mesmo nível hierárquico das leis
+ordinárias e, por isso, passíveis de controle por via de ação direta.
+
+6. Quanto à legitimidade ativa, o Partido NOVO possui registro válido no Tribunal Superior Eleitoral e
+representação no Congresso Nacional. Não há dúvida, portanto, quanto à legitimidade do ora
+requerente para propor a presente ação.
+
+7. Feito o registro, pode-se passar às razões que levam à procedência dos pedidos formulados.
+
+II. NO MÉRITO: INCONSTITUCIONALIDADE DA MEDIDA PROVISÓRIA Nº 1.068/21
+
+II.1. Inconstitucionalidade formal
+
+a) Limitação formal à edição de medidas provisórias: manifesta ausência de urgência (CF/88, art. 62,
+caput)
+
+8. Como se sabe, as medidas provisórias são instrumentos de evidente excepcionalidade em uma
+democracia representativa: são atos unilaterais do Presidente da República com a mesma força
+atribuída a uma deliberação final e conjunta dos Poderes Executivo e Legislativo, tomada após um
+processo dialógico, plural e aberto, envolvendo as duas Casas do Congresso e a sociedade civil. Diante
+da centralidade assumida pela lei na ordem constitucional, inclusive como veículo de eventual restrição
+a direitos fundamentais (CF/88, art. 5º, II), substituir a colaboração das diversas maiorias envolvidas
+no processo legislativo por uma decisão pessoal do Chefe do Executivo é algo excepcional.
+
+9. Por isso, o próprio dispositivo que confere ao Presidente a competência para editar medidas
+
+[[pagina 8 | nativo]]
+provisórias condiciona o seu exercício, não só à relevância do tema, mas também à urgência envolvida
+na sua disciplina (CF/88, art. 62, caput). Como já observou esse Eg. STF, “[o] que justifica a edição das
+medidas provisórias é a existência de um estado de necessidade, que impõe ao Poder Executivo a
+adoção imediata de providências de caráter legislativo, inalcançáveis segundo as regras ordinárias de
+legiferação, em face do próprio ‘periculum in mora’ que certamente decorreria do atraso na
+concretização da prestação legislativa” (grifos acrescentados)2.
+
+10. Exige-se “uma urgência qualificada pela relevância”3, capaz de justificar a imediata produção de
+efeitos da medida – antes, assim, da (necessária) discussão pelo Poder Legislativo. Isso só se mostra
+possível quando as circunstâncias provarem ser inviável aguardar o curso do processo legislativo
+ordinário, ainda que observada a urgência solicitada pelo Executivo (CF/88, art. 64, §§ 1º e 4º)4. É o
+que aponta a doutrina:
+
+“O conceito de urgência é relacional e, nessa medida, relativo. Uma ação é
+urgente quando inadiável para alcançar determinado fim. Manifesta-se
+quando ‘o desenvolvimento do procedimento legislativo ordinário, inclusive o
+abreviado, não permite a obtenção tempestiva de uma finalidade proposta pelo
+Governo’” (negrito acrescentado)5.
+
+“Por serem, como visto, excepcionais, efêmeras, precárias, suscetíveis de perder
+eficácia desde o início e cabíveis apenas ante questões relevantes que
+demandem urgente suprimento, é óbvio que só podem ser expedidas quando a)
+situação muito grave demande providências imediatas, que tenham de ser
+tomados incontinenti pena de perecimento do interesse público que devem
+suprir e b) a natureza da medida seja compatível com a fragilidade inerente ao
+seu caráter efêmero e precário.
+(...) 4. Que é urgência? Que coisa deve ser havida como urgente? Mesmo que a
+palavra contenha em si algum teor de fluidez, qualquer pessoa entenderá que
+só é urgente o que tem de ser enfrentado imediatamente, o que não pode
+aguardar o decurso do tempo, caso contrário o benefício pretendido será
+inalcançável ou o dano que se quer evitar consumar-se-á ou no mínimo, existirão
+
+2 STJ, DJ 16 abr. 1993, ADI 293 MC/DF, Rel. Min. Celso de Mello.
+
+3 Manoel Gonçalves Ferreira Filho, Do processo legislativo, 2009, p. 242.
+
+4 Com ampla referência à doutrina, v. Edilson Pereira Nobre Júnior, Medidas provisórias, 2000, p. 127.
+
+5 Clèmerson Merlin Cléve, Atividade legislativa do Poder Executivo, 2011, pp. 175-6.
+
+[[pagina 9 | nativo]]
+sérios riscos de que sobrevenham efeitos desastrosos em caso de demora.
+Acresce que, ante o texto constitucional, existe ainda um parâmetro
+suplementar: para os fins do art. 62 não será em hipótese alguma configurável
+como urgente aquilo que possa aguardar, sem comprometimento do interesse
+público, o prazo necessário para que o Congresso Nacional aprecie projeto de
+lei de iniciativa do Executivo para o qual este haja solicitado regime de
+tramitação urgente previsto nos §§ 1.º a 4.º do art. 64” (negrito acrescentado)6.
+
+11. Segundo a orientação desse Eg. STF, cabe principalmente ao Congresso Nacional o controle do
+cumprimento dos requisitos de relevância e urgência na edição de medidas provisórias. A apreciação
+judicial, por sua vez, limita-se aos casos em que “restar evidente a inexistência de relevância e urgência
+ou a caracterização de abuso de poder do Presidente da República”7. É, no entanto, perfeitamente
+cabível, até porque “o sistema de limitação de poderes não permite que práticas governamentais
+abusivas venham a prevalecer sobre os postulados constitucionais que informam a concepção
+democrática de Poder e de Estado, especialmente naquelas hipóteses em que se registrar o exercício
+anômalo e arbitrário das funções estatais”8.
+
+12. O fato de termos como relevância e urgência serem “vagos” ou “fluidos” não impede o exercício
+da jurisdição constitucional, ao menos nos casos em que a atuação do Presidente da República se deu
+na “zona de certeza negativa” de aplicação desses conceitos – i.e., hipóteses em que é “induvidosa sua
+inaplicabilidade”, como ressalta Celso Antônio Bandeira de Mello. Prossegue o autor:
+
+“(...) a circunstância do Parlamento avaliar ou dever avaliar, in limine, se uma
+medida provisória encontra ou não respaldo na Lei Magna – no que procederá a
+uma simples rotina em relação a quaisquer atos de sua alçada – não significa,
+sob aspecto algum, que seja dele e só dele o juízo sobre a ocorrência dos
+pressupostos ‘relevância e urgência’ a que alude o art. 62. Muito menos
+significará, pois, que o Judiciário esteja impedido de cumprir aquela que é sua
+missão exclusiva: pronunciar-se com força de verdade jurídica definitiva para
+verificar se acodem os pressupostos cujas emergências propiciarão a irrupção de
+uma competência e cujas ausências tornarão nula qualquer medida provisória,
+
+6 Celso Antônio Bandeira de Mello, Perfil constitucional das medidas provisórias. In: Clémerson Merlin Clève e Luís Roberto
+Barroso (Orgs.), Doutrinas essenciais de direito constitucional, v. 4, 2011, pp. 115-121 (edição online).
+
+7 STF, DJ 16 abr. 2019, ADI 2.332/DF, Rel. Min. Luís Roberto Barroso.
+
+8 STF, DJ 23 abr. 2004, ADI 2.213 MC/DF, Rel. Min. Celso de Mello.
+
+[[pagina 10 | nativo]]
+dessarte indevidamente expedida.
+9. A última alternativa cogitável seria a de pretender que o juízo sobre a
+existência ou inexistência de ‘interesse público relevante e urgência’ seria um
+juízo político e – bem por isto – alheio à esfera judicial. Dita alegação pecaria
+pela base, pois o próprio do Estado de Direito é precisamente conformar o
+‘político’ a certas pautas – as pautas jurídicas – com o específico propósito de
+impedir que sejam tomadas quaisquer ‘decisões políticas’, por ‘quaisquer meios’
+e em face de ‘quaisquer circunstâncias’.
+Assim, é específico do Estado de Direito fixar os condicionantes jurídicos ao
+exercício do poder político. Tratando-se, então, como se trata, do
+estabelecimento de condições ‘de direito’, o titulado para examiná-las e
+pronunciar-se com definitividade sobre o ajustamento de determinada
+competência política aos seus pressupostos normativos de validade é o Judiciário.
+Este, ademais, sempre que devidamente provocado, não pode deixar de fazê-lo,
+caso contrário estará se evadindo ao cumprimento de sua missão constitucional:
+a de juris dicere”9.
+
+13. Também o Ministro Eros Grau, em obra doutrinária, observou que “se impõe ao Presidente da
+República, na ordem constitucional vigente, a motivação da relevância e da urgência da medida”, o
+que afasta a indeterminação que, em abstrato, envolve esses termos. Por isso, “superada essa
+indeterminação, já não se afasta a possibilidade do controle judicial em relação ao vício, no processo
+legislativo, que se vier a alegar”10.
+
+14. Com o devido respeito, é essa a hipótese dos autos. As relações que envolvem os usuários da
+internet – entre si e com os provedores, e de uns e outros com o Poder Público – foram objeto de
+disciplina expressa e recente, em especial pelo Marco Civil da Internet (Lei nº 12.965/2014), com
+impacto relevante também da Lei Geral de Proteção de Dados (Lei nº 13.709/2018). O primeiro
+diploma já conta, inclusive, com um corpo robusto e crescente de jurisprudência, desenvolvido
+principalmente pelo Superior Tribunal de Justiça. Em matéria eleitoral, destacam-se, e.g., as Leis nºs
+13.165/2015 e 13.488/2017, além da regulamentação a cargo do Tribunal Superior Eleitoral (e.g.,
+
+9 Celso Antônio Bandeira de Mello, Controle jurisdicional dos pressupostos de validade das medidas provisórias. In:
+Clémerson Merlin Clève e Luís Roberto Barroso (Orgs.), Doutrinas essenciais de direito constitucional, v. 5, 2011, pp. 103-
+110 (edição online).
+
+10 Eros Roberto Grau, Medidas provisórias na Constituição de 1988. In: Clémerson Merlin Clève e Luís Roberto Barroso
+(Orgs.), Doutrinas essenciais de direito constitucional, v. 4, 2011, pp. 457-460 (edição online).
+
+[[pagina 11 | nativo]]
+Resolução/TSE nº 23.610/2019).
+
+15. Basta observar que um dos dispositivos da medida provisória ora impugnada, o parágrafo único
+do art. 8-A11, é idêntico à proposta de redação dada ao §1.º do art. 514 do Substitutivo ao PLP 112/2021
+(“Novo Código Eleitoral”)12, a evidenciar que o tema já tramita no Congresso Nacional sob um projeto
+de lei complementar, enquanto o Presidente da República almeja tratá-lo de forma idêntica por meio
+de medida provisória, sem a devida urgência e relevância.
+
+16. Não por acaso, controvérsias envolvendo a moderação de redes sociais e de aplicações de internet
+em geral são ordinariamente solucionadas pelo Poder Judiciário em demandas ajuizadas pelos
+interessados. Além da legislação mais nova exposta acima, juízes e tribunais de todo o País podem
+resolver – e efetivamente resolvem – os litígios que surgem com base em diplomas como o Código Civil
+e o Código de Defesa do Consumidor.
+
+17. Dessa forma, simplesmente não há um vácuo normativo na matéria que justifique a anômala
+atuação normativa do Poder Executivo, sobretudo uma atuação extemporânea como a edição de uma
+Medida Provisória que pretende alterar uma lei em vigor desde 2014. Quem se sente lesado por ato
+de um provedor pode obter a tutela judicial que entender pertinente – inclusive em caráter liminar –
+com fundamento não só em disposições legais já consolidadas no Brasil, como nas mais recentes,
+especificamente dirigidas ao contexto da internet. Ademais, o Congresso tem se dedicado a discutir o
+tema: apenas em 2021, foram apresentados ao menos quatro projetos de lei na Câmara dos
+Deputados13. Já no Senado, foi aprovado o Projeto de Lei nº 2.630/2020, que também aborda a
+matéria.
+
+18. O que se tem, assim, é um cenário devidamente regulado – inclusive por legislação recente –, em
+
+11 Art. 8ºA Aos usuários, nas relações com os provedores de redes sociais, são assegurados os seguintes direitos, sem
+prejuízo do disposto na Seção I deste Capítulo:
+Parágrafo único. É vedada aos provedores de redes sociais a adoção de critérios de moderação ou limitação do alcance da
+divulgação de conteúdo que impliquem censura de ordem política, ideológica, científica, artística ou religiosa, observado o
+disposto nos art. 8º-B e art. 8º-C.” (NR)
+12 Art. 514. Até 1o de junho do ano das eleições, as plataformas de mídias sociais e os aplicativos de mensageira privada
+devem publicar, em língua nacional, de forma clara, precisa e acessível, as políticas e regras de moderação de conteúdo e
+comportamento aplicáveis ao processo eleitoral.
+§1.º A adoção de critérios de moderação ou limitação do alcance da divulgação de conteúdo por meio de seus algoritmos
+não podem implicar censura às manifestações de ordem política, ideológica, científica, artística ou religiosa de candidatos
+a cargos políticos.
+13 Os projetos identificados foram: PL nº 2.393/2021 (Dep. Renata Abreu); PL nº 2401/2021 (Dep. Reinhold Stephanes Jr.);
+PL nº 2060/2021 (Dep. Altineu Côrtes); e PL nº 1362/2021 (Dep. Daniel Silveira).
+
+[[pagina 12 | nativo]]
+que usuários e provedores podem discutir suas pretensões à luz de normas postas e de uma
+jurisprudência em franco desenvolvimento. O Congresso Nacional também tem debatido essas
+questões. Dessa forma, não há anomia ou estado de incerteza ou de insegurança jurídica a exigir uma
+imediata intervenção normativa pelo Presidente da República. O fato de do Poder Executivo discordar
+do direito vigente ou da forma como tem sido interpretado pelos tribunais não caracteriza urgência a
+ponto de lhe permitir atropelar o processo legislativo para impor a todos as suas preferências.
+
+19. A competência anômala prevista no art. 62 da Constituição Federal não se presta a servir de
+veículo para a mera insatisfação do Poder Executivo com os termos das normas vigentes –
+notadamente quando já lhe cabe, não só enviar projetos de lei ao Congresso, mas até impor urgência
+às proposições de sua autoria. Para que possa se valer do poder de editar medidas provisórias, é
+preciso demonstrar que não seria possível aguardar o trâmite legislativo ordinário. Isso, porém, não
+ocorreu no caso. Na ausência de mínima demonstração de urgência, é inconstitucional a Medida
+Provisória nº 1.068/21.
+
+20. Um claro indicativo da ausência dos requisitos de urgência e relevância para edição da presente
+medida provisória decorre do seu art. 3.º, que confere prazo de 30 (trinta) dias para que os provedores
+de redes sociais promovam a adequação de suas políticas e seus termos de uso. Ora, estivessem
+presentes os requisitos constitucionais para justificar a edição da presente medida provisória,
+fatalmente não se teria estipulado um prazo de 30 (trinta) dias para cumprimento de parte das
+obrigações criadas. Trata-se de mais uma contradição em termos que aponta para a
+inconstitucionalidade do ato normativo ora impugnado:
+
+“Art. 3º - Os provedores de redes sociais terão o prazo de trinta dias, contado da data
+de publicação desta Medida Provisória, para a adequação de suas políticas e de seus
+termos de uso ao disposto nesta Medida Provisória.”
+
+b) Limitação material à edição de medidas provisórias: cidadania, liberdade de expressão e distorção
+do debate na esfera pública (CF/88, arts. 62, § 1º, I, “a”, e 68, § 1º, II)
+
+21. O ato impugnado também é formalmente inconstitucional por não se ater aos limites materiais
+aplicáveis à edição de medidas provisórias. Como se sabe, nem todo tema pode ser objeto de disciplina
+por essa via. Os arts. 62, § 1º, e 246 da Constituição indicam algumas das matérias cujo tratamento por
+medida provisória é vedado. Prevalece, contudo, o entendimento de que esse rol é exemplificativo,
+
+[[pagina 13 | nativo]]
+incluindo também, e.g., temas reservados à iniciativa de outros Poderes14. Em acórdão recente, esse
+Eg. STF reconheceu o caráter não exaustivo da lista do art. 62, § 1º, ao decidir que o art. 225, § 1º, da
+Carta é um limite material implícito à edição de medidas provisórias15.
+
+22. Nessa linha, outro conjunto de limitações é extraído da interpretação sistemática e teleológica dos
+arts. 62 e 68 da Constituição. O art. 68, § 1º, proíbe o uso de leis delegadas para disciplinar
+determinados temas, conformando uma reserva de lei formal. Sendo vedado o tratamento dessas
+questões por lei delegada – que não tem efeitos imediatos, depende de prévia autorização do
+Congresso e ainda pode ser condicionada à apreciação do Legislativo (art. 68, caput e §§ 2º e 3º) –, o
+mesmo se aplica, e com ainda maior razão, às medidas provisórias16. Como observou o Ministro
+Alexandre de Moraes em obra doutrinária, “se o legislador constituinte entendeu indelegáveis essas
+matérias pelo Poder Legislativo ao Poder Executivo, lógica e coerentemente, não seria cabível manter
+a possibilidade de o Presidente da República, unilateralmente por medidas provisórias, discipliná-las”17.
+
+23. A medida provisória em tela é inconstitucional por enquadrar-se na lista do art. 62, § 1º, e,
+simultaneamente, na do art. 68, § 1º. Com efeito, a tentativa de regular o exercício da liberdade de
+expressão no contexto da internet por medida provisória afeta um direito fundamental individual (art.
+68, § 1º, II) que, ademais, é um elemento indissociável e indispensável da cidadania (art. 62, § 1º, I, a,
+e art. 68, § 1º, II), consagrada como fundamento da República (CF/88, art. 1º, II).
+
+24. Não se desconhece posições que dão intepretação limitada ao conceito de cidadania. Essa posição,
+contudo e com o máximo acatamento, não se coaduna com leitura contextualizada da Carta. A
+cidadania, embora intimamente ligada a direitos políticos e eleições, não se reduz a eles, sendo, em
+rigor, bem mais ampla. Isso resta claro na própria redação dos arts 62, § 1º, I, a, e 68, § 1º, II, da
+Constituição: ambos se referem expressamente a direitos políticos e questões eleitorais e, ainda assim,
+incluem ao seu lado a cidadania, demonstrando que sua abrangência é maior. Sua menção autônoma
+
+14 Sobre a vedação de MPs para regular temas que são objeto de iniciativa privativa de outros órgãos, v., e.g., Gilmar
+Ferreira Mendes, Curso de direito constitucional, 2019, p. 1017.
+
+15 STF, DJ 15 fev. 2019, ADI 4.717/DF, Relª. Minª. Cármen Lúcia.
+
+16 V., e.g., Edilson Pereira Nobre Júnior, Medidas provisórias, 2000, p. 201; Clèmerson Merlin Cléve, Atividade legislativa do
+Poder Executivo, 2011, p. 182.
+
+17 Alexandre de Moraes, Direito constitucional, 2020, p. 750. Como apontou Paulo de Barros Carvalho, em obra anterior à
+EC nº 32/2001, “o expediente que o constituinte afastou das mãos do Presidente da República, por meio de lei delegada,
+forma legítima e tradicional de manifestação do Poder Legislativo, certamente que não o entregaria para que fosse utilizado
+por intermédio de medida provisória” (Paulo de Barros Carvalho, Medidas provisórias, Revista de Direito Administrativo e
+Infraestrutura 4 (12):385-392, 2020. Disponível em: https://rdai.com.br/index.php/rdai/article/view/270. Acesso em: 27
+ago. 2021).
+
+[[pagina 14 | nativo]]
+e em separado demonstra que ela é, por si, um impedimento à edição de medidas provisórias. Veda-
+se a edição de medidas provisórias e leis delegadas não só quando estão em jogo direitos políticos ou
+matéria eleitoral, mas em qualquer hipótese envolvendo prerrogativas e direitos associados ao valor
+da cidadania.
+
+25. E não há cidadania sem direitos fundamentais. Como aponta Ricardo Lobo Torres, estes “integram
+o conceito de cidadania desde a sua afirmação nos primórdios do liberalismo” e, declarados nas
+constituições contemporâneas, servem de base à cidadania constitucional18. Ademais, “a liberdade dos
+cidadãos é uma condição fundamental para efetivo exercício da soberania popular porque, sem
+liberdade, não é possível uma esfera pública autônoma”, nas palavras de Cláudio Pereira de Souza
+Neto19. Não por acaso, a conexão direta entre liberdade de expressão, cidadania e democracia é
+destacada em inúmeros precedentes dessa Eg. Corte20, que também tem ressaltado a reserva de lei
+formal aplicável à regulação da comunicação social21.
+
+26. O mesmo raciocínio se aplica à pretensão de criar uma regulação normativa da liberdade de
+expressão na internet, dados os reflexos diretos, intensos e imediatos sobre o exercício da cidadania.
+
+27. No contexto em exame, essa conexão é ainda mais explícita em função dos argumentos
+apresentados para a edição da medida provisória, supostamente destinada a proteger discursos ditos
+conservadores em meio a um cenário de notória antecipação da disputa eleitoral. Trata-se, portanto,
+
+18 Ricardo Lobo Torres, A cidadania multidimensional na era dos direitos. In: Ricardo Lobo Torres (Org.), Teoria dos direitos
+fundamentais, 1999, p. 254.
+
+19 Cláudio Pereira de Souza Neto, Teoria constitucional e democracia deliberativa, 2006, p. 162.
+
+20 V., e.g., STF, DJ 10 maio 2018, Rcl 22.328/RJ, Rel. Min. Luís Roberto Barroso: “2. No julgamento da ADPF 130, o STF proibiu
+enfaticamente a censura de publicações jornalísticas, bem como tornou excepcional qualquer tipo de intervenção estatal
+na divulgação de notícias e de opiniões. 3. A liberdade de expressão desfruta de uma posição preferencial no Estado
+democrático brasileiro, por ser uma pré-condição para o exercício esclarecido dos demais direitos e liberdades”; STF, DJ 6
+mar. 2019, ADI 4.451/DF, Rel. Min. Alexandre de Moraes: “1. A Democracia não existirá e a livre participação política não
+florescerá onde a liberdade de expressão for ceifada, pois esta constitui condição essencial ao pluralismo de ideias, que por
+sua vez é um valor estruturante para o salutar funcionamento do sistema democrático. 2. A livre discussão, a ampla
+participação política e o princípio democrático estão interligados com a liberdade de expressão, tendo por objeto não
+somente a proteção de pensamentos e ideias, mas também opiniões, crenças, realização de juízo de valor e críticas a
+agentes públicos, no sentido de garantir a real participação dos cidadãos na vida coletiva”; STF, DJ 29 maio 2014, ADPF
+187/DF, Rel. Min. Celso de Mello: “A LIBERDADE DE EXPRESSÃO COMO UM DOS MAIS PRECIOSOS PRIVILÉGIOS DOS
+CIDADÃOS EM UMA REPÚBLICA FUNDADA EM BASES DEMOCRÁTICAS – O DIREITO À LIVRE MANIFESTAÇÃO DO
+PENSAMENTO: NÚCLEO DE QUE SE IRRADIAM OS DIREITOS DE CRÍTICA, DE PROTESTO, DE DISCORDÂNCIA E DE LIVRE
+CIRCULAÇÃO DE IDEIAS”.
+
+21 Mencionando “a lei formal exigida pelo art. 220, § 4º, da Constituição da República”, v. STF, DJ 3 ago. 2015, ADO 22/DF,
+Relª. Minª. Cármen Lúcia.
+
+[[pagina 15 | nativo]]
+de patente interferência no debate de ideias em torno de questões eleitorais, atraindo a vedação
+material à utilização de medida provisória para esse fim. Esse tipo de tema teria de ser objeto de lei
+formal, com o debate e o pluralismo inerente ao debate parlamentar. No caso, como referido, é
+sintomático que o debate já esteja avançado no Congresso, com projeto de lei aprovado no Senado
+Federal e em tramitação na Câmara dos Deputados. Nada justifica, portanto, o atalho unilateral por
+meio de medida provisória.
+
+28. Regular a liberdade de expressão inegavelmente afeta a cidadania, que não se exerce apenas no
+momento do voto. Cidadãos discutem os temas relevantes para o Estado e a sociedade fora do período
+eleitoral e na esfera pública não estatal, sendo que os fatos e opiniões que leem e ouvem colaboram
+na formação das convicções de cada um. Interferir nesse contexto – notadamente para impedir a
+retirada de conteúdo ilícito – atinge claramente o exercício da cidadania e pode distorcer o debate
+público. A gravidade do ponto não pode ser exagerada, em especial diante dos efeitos perniciosos que
+isso pode ter para a democracia, o Estado de Direito e – como mostra a pandemia de COVID-19 – até
+mesmo para a saúde pública.
+
+29. Já é delicado cogitar de qualquer intervenção do Estado na esfera das liberdades de comunicação
+e mesmo as leis devem estar cercadas de inúmeras cautelas. Admitir que o Presidente da República
+possa fazê-lo por decisão unilateral, dotada de efeitos imediatos, é de todo incompatível com as raízes
+e os valores democráticos da Constituição de 1988. Submeter o debate coletivo, na internet ou fora
+dela, às injunções de um só agente, com interesses eleitorais, permitindo-lhe moldar a esfera pública
+segundo suas inclinações e preferências, caracteriza uma afronta direta à ordem constitucional. É para
+evitar medidas como essa que existem os arts. 62, § 1º, II, a, e 68, § 1º, II.
+
+30. Note-se que ainda não se discute se o ato em tela restringe a liberdade de expressão
+indevidamente – o que se fará mais adiante. A discussão se limita, por ora, à invalidade formal do
+diploma e, para isso, basta perceber que ele trata de matéria vedada à disciplina por medida provisória.
+Como o ato versa sobre liberdade de expressão, afetando diretamente a cidadania, é evidente que ela
+incide na proibição dos arts. 62, § 1º, II, a, e 68, § 1º, II, da Constituição.
+
+II.2. Inconstitucionalidade material dos arts. 1º e 2º da MP nº 1.068/21: art. 1º que inclui no
+texto do Marco Civil da Internet os arts. 8º-A, 8º-B, 8º-C, 8º-D e 28-A; e art. 2º, que inclui no
+texto da Lei nº 9.610/98 o art. 109-B.
+
+a) Limitação formal à material à moderação de conteúdo: violação à liberdade de expressão e o direito
+
+[[pagina 16 | nativo]]
+à informação (CF/88, art. 5º, IV, IX e XIV, e art. 220)
+
+31. Como visto, o diploma impugnado não poderia regular o exercício da liberdade de expressão na
+internet porque o tema não se submete à disciplina por medida provisória. Mas não é só isso. Apesar
+de ter sido invocada como pretexto para sua edição, a liberdade de expressão não se compatibiliza
+com o regime jurídico baseado no que qualificou como “justa causa” para definir o que permanece ou
+o que pode ser suprimido dos provedores. Não se trata apenas de definir se deve ou não prevalecer o
+contrato firmado entre usuários e plataformas em seus termos de uso, mas de definir a extensão da
+liberdade de expressão.
+
+32. A medida provisória afronta a liberdade de expressão e o direito à informação dos usuários, já
+que a ausência de moderação, na extensão que vem proposta na MP, pode silenciar grupos
+minoritários, tornar o ambiente hostil, e expor os indivíduos a um conteúdo que não era aquele que,
+de acordo com as políticas da plataforma, pretendiam ver. Aqui são três os pontos a serem
+destacados.
+
+33. Em primeiro lugar, é um grave equívoco imaginar que a liberdade de expressão ampararia a MP
+nº 1.068/21. Embora particulares também sejam destinatários de direitos fundamentais, submetê-los
+ao mesmo regime aplicável ao Estado é uma inversão injustificável22. Não se pode minimizar o esforço
+dos provedores para garantir que suas aplicações sejam espaços de livre expressão de ideias,
+pensamentos e opiniões, e de divulgação de informação. A contenção de excessos que perturbem a
+saudável convivência entre os usuários e a estabilidade democrática é incompatível, de um lado, com
+a exigência de total judicialização e, de outro, com a excessiva procedimentalização.
+
+34. De forma alguma, nega-se que o dever de transparência compõe a base democrática e integra o
+filtro pelo qual devem passar os meios de comunicação social. Contudo, o debate sobre a extensão da
+livre iniciativa e a medida dos incentivos para o desenvolvimento de novas tecnologias não é trivial.
+Por isso mesmo, a opção por disponibilizar uma aplicação, por mais aberta que ela seja a ideias
+diferentes, não é acompanhada de um dever de admitir todo e qualquer tipo de conteúdo. Nada
+impede, por exemplo, que se crie uma rede social destinada à discussão de temas específicos, como
+música ou esportes, sendo vedado o compartilhamento de conteúdo relacionado a outros temas,
+notadamente de controvérsia política ou religiosa.
+
+22 Daniel Sarmento, Direitos fundamentais e relações privadas, 2006, p. 259: “(...) o reconhecimento da vinculação direta
+dos particulares aos direitos fundamentais não significa que tais direitos possam ser aplicados nas relações privadas da
+mesma forma que vigoram nas relações entre cidadãos e Estado”.
+
+[[pagina 17 | nativo]]
+35. Formatar a complexidade da livre iniciativa, da livre iniciativa e da liberdade de expressão na
+simplificação do que se qualificou como justa causa é de chapada inconstitucionalidade. Será preciso
+compatibilizar a pretensão de regulamentar a liberdade de expressão com as regras contratuais aceitas
+por todos os usuários e suas legítimas expectativas, evitando que terceiros degradem o ambiente
+idealizado para fim diverso.
+
+36. Poder Público e particulares operam neste contexto segundo critérios muito diversos e, por essa
+razão, não se pode impor a estes as mesmas obrigações aplicáveis àquele em matéria de liberdade de
+expressão – inclusive para forçá-los a seguir decisões das autoridades quanto ao que seria apropriado
+ou adequado em cada plataforma23. Enquanto o Estado só pode limitar discursos ilícitos – porque não
+lhe cabe mostrar predileção por um ou outro –, a mesma lógica não pode operar nos provedores de
+conteúdo. Mas não é só: o que o regulamento questionado pretende é o operar na lógica de que se
+deve manter apenas o conteúdo que passe no filtro da justa causa. Esse o ponto de
+inconstitucionalidade mais evidente. Assim, e.g., imagens de nudez artística e de conflitos armados
+não correspondem, por si mesmas, a conteúdo ilícito e não podem ser genericamente vedados pelo
+Poder Público. No entanto, um provedor pode validamente preferir que ele não seja veiculado em uma
+aplicação voltada para a religião, por exemplo, e estipular essa condição para a utilização da plataforma
+pelos usuários. Ao fazê-lo, inclusive, ele assegura à comunidade de usuários em geral que ali eles não
+terão acesso aquele conteúdo específico.
+
+37. Isso tem um fundamento claro não só na livre iniciativa – abordada mais adiante –, mas também
+na liberdade de expressão. Com efeito, além dos usuários, também os provedores são titulares desse
+direito fundamental e, com base nele, têm liberdade para definir o conteúdo que admitem hospedar
+nas suas plataformas. É perfeitamente lícito, e.g., que uma denominação religiosa ou uma corrente
+política crie uma plataforma de vídeos para divulgar material relativo a sua fé ou sua convicção política
+e, por isso mesmo, não permita que ela seja usada para propagação de outras religiões ou correntes
+de pensamento.
+
+38. Em segundo lugar, o diploma procura restabelecer uma espécie de controle estatal sobre a
+informação, pressupondo caber ao Poder Público interferir em plataformas a ponto de blindar
+
+23 O tema é pacífico na jurisprudência da Suprema Corte dos EUA. V. Lloyd Corp. v. Tanner, 407 U.S. 551, 570 (1972),
+destacando que “a propriedade não perde seu caráter privado simplesmente porque o público é amplamente convidado a
+utilizá-la para fins designados” (tradução livre); Manhattan Community Access Corp. v. Halleck, 587 U.S. ___, at *9 (2019):
+“(…) quando uma entidade privada oferece um fórum para discursos, [ela] não é ordinariamente limitada pela Primeira
+Emenda porque a entidade privada não é um ator estatal. A entidade privada pode, portanto, exercer discrição editorial
+sobre discursos e quem os profere no fórum” (tradução livre). Aplicando essas ideias especificamente no contexto de redes
+sociais, v. Prager Univ. v. Google, No. 18-15712, slip op. (9th Cir. Feb. 26, 2020).
+
+[[pagina 18 | nativo]]
+conteúdo que o governo da ocasião considere positivo. Os dispositivos impugnados presumem que
+competiria ao Estado decidir quem pode manter ou não suas contas em aplicações de internet, e o que
+pode ou não ser veiculado por meio delas. Além disso, como decorrência deles, órgãos de fiscalização
+passariam a exercer controle – i.e., exigir relatórios, investigar aplicação de políticas – sobre qualquer
+decisão de moderação de conteúdo praticada pelas plataformas, inclusive aplicando sanções caso
+divergissem da conclusão adotada e de sua adequação à MP. Trata-se de uma reedição, com nova
+roupagem, do velho sistema de controle estatal da informação, em que Estado atua de maneira
+direta no controle e moderação do debate público, definindo e pautando a liberdade de expressão de
+forma casuística e a partir de eventuais critérios subjetivos e particulares. Como observa o Ministro
+Luiz Fux:
+
+“A conexão axiológica entre liberdade de manifestação de pensamento dos seus
+variados matizes e o princípio democrático, servindo aquela de instrumento à
+preservação deste, torna claro o risco subjacente a qualquer forma de controle
+prévio pelo Poder Executivo do conteúdo a ser veiculado nos meios de
+comunicação. Além de tolher a espontaneidade das pressões sociais,
+mecanismos de tal ordem guardam em si os mesmos perigos não queridos pelo
+constituinte democrático de 1988 de ensejar abusos e arbitrariedades pelo corpo
+da burocracia administrativa, naturalmente suscetível à influência das maiorias
+políticas”24.
+
+39. Mais do que indesejável, esse modelo é inconstitucional por colidir, de modo claro, com os arts.
+5º, IV e IX, e 220 da Carta Federal. A imposição, por medida provisória, de conteúdo insuscetível de
+exclusão é uma forma de censura com “sinal trocado”, em que o Estado se coloca no papel de forçar
+um discurso a ser hospedado por agentes privados, contra a sua vontade e às políticas com as quais se
+comprometeu junto aos seus usuários. E a violação à liberdade de expressão não é menos grave
+quando se substitui a censura que silencia por outra, que torna obrigatória a propagação de certos
+discursos.
+
+40. A ideia de uma lista fechada de casos permitidos de remoção de contas e conteúdo – presente
+nos dispositivos impugnados em tela – pressupõe que competiria ao Poder Público definir aquilo que
+é admissível. Além disso, ela não permite que os provedores fixem regras mínimas de boa convivência
+em ambientes de redes sociais. Sem tais regras, que não necessariamente envolvem conteúdo ilegal,
+as plataformas poderiam se tornar espaços predatórios, afugentando a imensa maioria dos usuários,
+
+24 STF, DJ 1º ago. 2017, ADI 2.404/DF, Rel. Min. Dias Toffoli (trecho do voto do Min. Luiz Fux).
+
+[[pagina 19 | nativo]]
+que cumpre as regras comuns e têm a expectativa de que elas sejam cumpridas. A título de exemplo,
+não seria possível ter regras contra conteúdos de bullying, representação gráfica de violência ou
+relacionados a condutas perigosas, como automutilação. Ainda que parte desses conteúdos possa não
+ingressar no campo da ilegalidade, parece evidente que as redes sociais e seus usuários devem ter a
+opção de não serem expostos a esse tipo de conteúdo, que acabaria por arruinar a experiência na
+plataforma.
+
+41. Isso, aliás, em nada afeta o princípio da inafastabilidade da jurisdição (CF/88, art. 5º, XXXV).
+Eventuais excessos e equívocos, inclusive por parte das plataformas, podem sempre ser submetidos
+ao controle do Judiciário. Com a vantagem não desprezível de que, no processo judicial, as partes
+contam com as garantias do devido processo legal – inclusive a imparcialidade que, muitas vezes, não
+há como assegurar no plano administrativo, em especial no contexto de controvérsias que,
+frequentemente, dizem respeito à própria atuação das suas autoridades ou de outros Poderes em
+relação a essas autoridades.
+
+42. Neste ponto, a MP nº 1.068/21 promove uma nova inversão ao exigir prévia decisão judicial para
+aplicação das políticas e termos de uso dos provedores. É, no mínimo, atípico criar uma hipótese de
+reserva de jurisdição por ato do Executivo e subordinar o exercício regular de direitos fundamentais a
+uma decisão judicial.25.
+
+43. Em terceiro lugar, os dispositivos em tela afrontam também a liberdade de expressão e o direito
+à informação dos usuários. Como se sabe, os referidos direitos não podem ser objeto de restrição
+arbitrária, mas tampouco podem ser exercidos em um ambiente absolutamente livre de moderação.
+O abuso por parte de uma minoria bem organizada pode silenciar a expressão de outros grupos26 –
+notadamente os marginalizados – e, ao mesmo tempo, viabilizar ataques orquestrados de
+desinformação, em prejuízo da vida e da saúde pública (como a pandemia da COVID-19 ajuda a
+demonstrar) e até da democracia. Os provedores têm o direito de se esforçarem para evitar que suas
+plataformas sejam usadas para esses fins e, quando o fazem, ajudam a promover a liberdade de
+expressão daqueles que são hostilizados, silenciados ou incomodados por um ambiente de “vale-
+
+25 MCI, art. 7º: “O acesso à internet é essencial ao exercício da cidadania, e ao usuário são assegurados os seguintes direitos:
+(...) VI - informações claras e completas constantes dos contratos de prestação de serviços, com detalhamento sobre o
+regime de proteção aos registros de conexão e aos registros de acesso a aplicações de internet, bem como sobre práticas
+de gerenciamento da rede que possam afetar sua qualidade; (...) XI - publicidade e clareza de eventuais políticas de uso dos
+provedores de conexão à internet e de aplicações de internet”.
+
+26 No que é descrito como um “efeito silenciador do discurso” que certas manifestações podem gerar. V. Owen M. Fiss, A
+ironia da liberdade de expressão, 2005, p. 33 e ss.
+
+[[pagina 20 | nativo]]
+tudo”.
+
+44. Naturalmente, é possível que as escolhas de um provedor sobre o que pode ou não ser divulgado
+em determinados contextos não sejam as mesmas das autoridades no poder a cada momento. Mas
+isso não implica caber ao Estado ditar aos particulares o que é adequado ou pertinente, nem, muito
+menos, privar os provedores do direito de não deixarem que suas plataformas sejam utilizadas para
+fins prejudiciais ou impertinentes ao ambiente que buscaram construir.
+
+45. Em quarto lugar, a Medida Provisória, ao justificar a sua existência no princípio da liberdade de
+expressão, parece ignorar que tal preceito fundamental encontra limites em outros direitos
+fundamentais, especialmente nos direitos de personalidade. Dessa forma, impedir que os provedores
+de aplicação removam de forma autônoma e célere conteúdos e contas que promovam atos
+manifestamente ofensivos ou que violem suas políticas, implicaria violação direta à dignidade da
+pessoa humana e aos direitos de personalidade de um número infinito de pessoas vítimas de tais
+condutas, o que, além de frustrar as expectativas dos usuários das plataformas, não parece ser o
+melhor caminho para relações pacíficas na rede.
+
+46. Antes de concluir, vale destacar um ponto importante. Em que pese o debate sobre extensão e
+limites das políticas e os termos de uso dos provedores seja importante e necessário, são eles que
+tornam possível que os provedores de aplicações atuem contra conteúdos e agentes nocivos ao
+ambiente que oferecem aos usuários. Sua contraposição pelo conceito geral e indeterminado de justa
+causa subverte a pretensão de estabelecer um novo marco regulatório para a moderação de conteúdo.
+
+47. A MP contestada parece mirar no marco regulatório alemão e acertar na mais completa
+inconstitucionalidade. Vozes relevantes propõe a definição de um marco regulatório e apresentam o
+modelo alemão como alternativa “para os novos intermediários da comunicação”, mas expõe com
+clareza a complexidade de um regime que atenda os “deveres de transparência, não discriminação e
+necessidade de privilegiar determinados conteúdos”27. Não há, contudo, quem defenda o formato
+inconstitucional veiculado pela MP em questão.
+
+48. O fato de um tipo de conteúdo não ser aceito em certa plataforma não significa necessariamente
+que ele seja ilícito. Ele poderá, de todo modo, ser livremente veiculado em outra plataforma. É o que
+ocorre, e.g., com o material dirigido a adultos – embora, em geral, não seja admitido em redes sociais,
+
+27 CAMPOS, Ricardo. https://www.conjur.com.br/2020-nov-24/direito-digital-lei-alema-ou-movimento-global-
+contextualizando-debate-regulacao-redes
+
+[[pagina 21 | nativo]]
+ele encontra espaço em outros sites, voltados a outro público. A restrição que um provedor estabelecer
+não levará ao banimento do conteúdo, que pode ser divulgado em outros lugares; ao mesmo tempo,
+ela garante que o ambiente em questão continue atrelado ao tipo de conteúdo que os usuários
+aceitaram ver ali. Tudo vai depender da finalidade para a qual a plataforma se apresenta. Essa
+diversidade, própria do ambiente democrático, contudo, não foi contemplada pela MP.
+
+49. A internet é um espaço de enorme liberdade, em que todos, em geral, podem se expressar e se
+informar, contando, para isso, com inúmeras fontes, de índoles, perfis e objetivos diversos. Nesse
+campo, a regulação pontual do Estado, a fim de evitar a prática de ilícitos, precisa conviver com a
+liberdade dos provedores. Deve coexistir, ainda, com a liberdade dos usuários, que são livres para usar
+ou não certas aplicações levando em conta o conteúdo que elas oferecem (e não oferecem).
+
+50. Ao forçar os provedores a não excluírem contas ou conteúdo que infrinjam suas políticas e seus
+termos de uso, a medida provisória esvazia sua liberdade de expressão, invertendo a lógica ao tratar
+agentes privados como sujeitos ao regime estatal e impedindo que definam por si o que consideram
+apropriado hospedar. Da mesma forma, viola direitos dos usuários ao submetê-los, contra a sua
+vontade, a conteúdo que não pretendiam ver e eliminando a moderação que busca evitar a criação de
+ambientes hostis na internet.
+
+b) Violação à livre iniciativa, ao regime privado e à liberdade contratual (CF/88, art. 1º, IV, art. 170,
+caput e parágrafo único e art. 21, XII)
+
+51. O compromisso da Constituição com a livre iniciativa fica evidente no fato de consagrá-la como
+princípio fundamental da República (art. 1º, IV) e como fundamento da Ordem Econômica (art. 170,
+caput). Além disso, ela garante a liberdade no exercício das profissões (art. 5º, XIII) e das atividades
+econômicas de forma geral (art. 170, parágrafo único), observadas eventuais limitações razoáveis
+previstas em lei. Como manifestação da liberdade no campo produtivo, a livre iniciativa inclui a
+liberdade de empresa, compreendida de forma ampla, exercida em caráter individual ou coletivo,
+formal ou informal, qualquer que seja a estrutura jurídica que adote, e a existência ou não de finalidade
+lucrativa. Ela implica que o particular tem o direito prima facie de decidir livremente se exercerá
+alguma atividade, qual será ela, como o fará, e para que fins. Em nenhum desses contextos, em
+princípio, se admitirá que o Estado o dirija para determinar como suas atividades devem ser
+conduzidas28.
+
+28 Sobre o tema, v. Eros Roberto Grau, A ordem econômica na Constituição de 1988, 1997, p. 222 e ss..
+
+[[pagina 22 | nativo]]
+52. Não foi por outra razão que o art. 21, XII da Constituição restringiu a hipóteses extremamente
+limitadas as atividades que a União poderia retirar (ou restringir) da livre iniciativa com a exigência de
+permissão, concessão ou autorização. A livre manifestação do pensamento em provedores de
+aplicação ou de conteúdo não é uma delas.
+
+53. Ocorre que a MP ora contestada acabou por criar um mecanismo de autorização reverso, em
+evidente desvio de finalidade. Embora não o texto da lei não exija expressa autorização da União para
+exercer tal atividade, o art. 28-A da MP (reformulando o art. 12 do Marco Civil) reafirma as sanções de
+“suspensão temporária das atividades que envolvam os atos previstos no art. 11 e proibição de
+exercício das atividades que envolvam os atos previstos no art. 11”. Ou seja: descumpridas as
+obrigações da MP, a atividade de “coleta, armazenamento, guarda e tratamento de registros, de dados
+pessoais ou de comunicações por provedores de conexão e de aplicações de internet” fica suspensa. É
+o mesmo que exigir autorização para o funcionamento de plataformas com mais de dez milhões de
+usuários. As plataformas somente podem funcionar se atendidos os requisitos estatais impostos pela
+MP. Por outra perspectiva, a norma do art. 12 do Marco Civil já teve sua constitucionalidade contestada
+e encontra-se em julgamento na ADI 5527.
+
+54. De forma específica, a liberdade de iniciativa se desdobra em uma série de elementos, bem
+sintetizados pelo Ministro Luís Roberto Barroso em obra doutrinária:
+
+“O princípio da livre iniciativa (...) pode ser decomposto em alguns elementos que
+lhe dão conteúdo, todos eles desdobrados no texto constitucional. Pressupõe ele,
+em primeiro lugar, a existência de propriedade privada, isto é, de apropriação
+particular dos bens e dos meios de produção (CF, arts. 5º, XXII e 170, II). De parte
+isto, integra, igualmente, o núcleo da idéia de livre iniciativa a liberdade de
+empresa, conceito materializado no parágrafo único do art. 170, que assegura a
+todos o livre exercício de qualquer atividade econômica, independentemente de
+autorização, salvo nos casos previstos em lei. Em terceiro lugar, situa-se a livre
+concorrência, lastro para a faculdade de o empreendedor estabelecer os seus
+preços, que hão de ser determinados pelo mercado, em ambiente competitivo
+(CF, art. 170, IV). Por fim, é da essência do regime de livre iniciativa a liberdade
+de contratar, decorrência lógica do princípio da legalidade, fundamento das
+demais liberdades, pelo qual ninguém será obrigado a fazer ou deixar de fazer
+alguma coisa senão em virtude de lei (CF, art. 5º, II)” (negrito acrescentado)29.
+
+29 Luís Roberto Barroso, A Ordem Econômica constitucional e os limites à atuação estatal no controle de preços. In: Temas
+
+[[pagina 23 | nativo]]
+55. Não há dúvida de que os provedores de aplicações as disponibilizam no exercício de sua livre
+iniciativa – ainda que não cobrem pelo acesso, aufiram remuneração ou tenham fins lucrativos, eles
+criam suas plataformas para os fins que elegeram. Na síntese dessa Eg. Corte: “o princípio
+constitucional da livre iniciativa garante aos agentes econômicos liberdade para eleger suas estratégias
+empresariais dentro do marco vigente (CF/1988, art. 170)”30, definindo a “dinâmica econômica da
+atividade empresarial”31.
+
+56. Não por acaso, há aplicações voltadas a públicos bem diversos (público adulto ou infantil,
+membros de uma confissão religiosa, interessados em culinária etc.), tal como existem lojas, emissoras
+de televisão e indústrias voltadas a determinados segmentos e objetos – e não há problema algum
+nisso. Nem em garantir que, criadas para esse objetivo, as plataformas se mantenham nessa linha.
+Afinal, como destacou esse Eg. STF, o princípio da livre iniciativa, associado à livre concorrência,
+assegura “aos agentes econômicos a liberdade de decidir como estruturarão seu negócio (art. 170,
+caput e inc. IV, CF)”32.
+
+57. Como observado, os termos de uso e as políticas dos provedores importante meios de que esses
+agentes econômicos se valem para garantir que suas aplicações permaneçam vinculadas aos fins que
+os motivaram a criá-las e mantê-las, assim como para assegurar à comunidade de usuários em geral
+o que podem esperar ver (ou não ver) na plataforma. Trata-se, portanto, de uma manifestação do
+direito de definir o objeto da atividade do provedor e, ao mesmo tempo, de um contrato firmado com
+os usuários, no exercício da liberdade contratual. Além disso, caso a plataforma aufira lucro –
+diretamente dos usuários ou por meio de anunciantes –, o compromisso com a preservação do
+ambiente é essencial para evitar que uns e outros sejam afugentados, impedindo a empresa de receber
+o retorno financeiro esperado ou de evitar a desnaturação do espaço que criou em algo que não seja
+do interesse de seus usuários e das empresas interessadas na publicidade. Isso não exclui o dever de
+transparência ou o debate em outras bases constitucionais.
+
+58. No entanto, os dispositivos impugnados nesta ação não apenas limitam, mas efetivamente
+eliminam a liberdade envolvida na elaboração das políticas e termos de uso, substituindo a livre
+iniciativa pela aderência a um modelo fixo, genérico e inconstitucional de justa causa, definido na MP.
+
+de direito constitucional, t. II, 2009, pp. 50-1.
+
+30 STF, DJ 5 jun. 2020, ADI 3.961/DF, Rel. Min. Luís Roberto Barroso.
+
+31 STF, DJ 4 nov. 2019, ADI 5.792/DF, Rel. Min. Alexandre de Moraes.
+
+32 STF, DJ 19 maio 2021, RE 635.546/MG, Rel. Min. Luís Roberto Barroso.
+
+[[pagina 24 | nativo]]
+Além de esvaziar o direito dos provedores de estipular o objeto da atividade a que se dedicarão, a
+rigidez do modelo tende a impedir a segmentação de redes sociais e demais aplicações a partir dos
+vários interesses, perfis e objetivos dos usuários. O modelo chega ao absurdo: a aplicação da MP
+impediria um site de culinária vegana de excluir receitas com carne, e faria com que uma plataforma
+de filmes brasileiros fosse obrigada a manter obras norte-americanas e europeias publicadas por um
+usuário. Não há racionalidade alguma nisso.
+
+59. Exigir que o provedor procure o Judiciário em cada um desses casos é impedir que ele possa gerir
+seu objeto social sem prévia intervenção do Estado. Provoca, ainda, a hiperjudicialização de questões
+que poderiam ser resolvidas pela simples aplicação de políticas de uso pelos provedores. Valendo
+lembrar que essa aplicação – que é usual e cotidiana – não implica qualquer limitação à atuação
+judicial: eventual usuário que se sentir agravado pode sempre discutir em juízo os termos da
+exclusão/suspensão de sua conta ou de determinado conteúdo – como, aliás, já ocorre. Nem todas as
+violações a políticas de uso precisam ser levadas ao Judiciário, sendo perfeitamente razoável que só
+cheguem lá aquelas em que de fato a parte se considere ofendida pelo ato do provedor.
+
+60. Por natural, a rigidez do modelo também dificulta a inovação e a criação de modelos de negócio
+que respondam a novas necessidades do mercado e melhorem a experiência dos usuários33. Impede
+os provedores, ainda, de responderem de maneira efetiva a novas ameaças à segurança e ao bem estar
+de seus usuários. As restrições a conteúdo de desinformação sobre a COVID-19, por exemplo, estariam
+proibidas e dependeriam de ordem judicial para a remoção de cada conteúdo. Como é notório, o
+retardamento, em casos como esse, pode significar a exposição de milhares de usuários a conteúdo
+que pode induzi-los em erro e causar danos graves à saúde.
+
+II.3. Inconstitucionalidade por arrastamento do art. 3º da MP nº 1.068/21
+
+61. Diante da invalidade dos dispositivos impugnados anteriormente, é claro que o art. 3º da MP nº
+1.068/21 também não pode subsistir. Com efeito, trata-se de disposição intimamente ligada às normas
+cuja inconstitucionalidade se demonstrou, que se limita a fixar um prazo para que os provedores se
+adaptem às regras da MP. Como são inexigíveis essas obrigações, não há como permanecer hígido um
+
+33 A promoção à inovação, além de determinada pela Constituição (arts. 218 a 219-B), é objeto de específica previsão no
+MCI: “Art. 4º A disciplina do uso da internet no Brasil tem por objetivo a promoção: (...) III - da inovação e do fomento à
+ampla difusão de novas tecnologias e modelos de uso e acesso; (...) Art. 24. Constituem diretrizes para a atuação da União,
+dos Estados, do Distrito Federal e dos Municípios no desenvolvimento da internet no Brasil: (...) VII - otimização da
+infraestrutura das redes e estímulo à implantação de centros de armazenamento, gerenciamento e disseminação de dados
+no País, promovendo a qualidade técnica, a inovação e a difusão das aplicações de internet, sem prejuízo à abertura, à
+neutralidade e à natureza participativa”.
+
+[[pagina 25 | nativo]]
+dispositivo que define um prazo para seu cumprimento. Em situações como esta, a jurisprudência é
+pacífica quanto à declaração de invalidade por arrastamento. Confira-se:
+
+“Ocorre que, dada a inconstitucionalidade da própria pensão especial, isto é, do
+art. 1° da lei, tal como já analisado, as demais normas presentes na lei, tais como
+aquelas resultantes dos artigos 2° e 3°, ficam sem qualquer sentido normativo
+autônomo e devem, assim, ser declaradas inconstitucionais por arrastamento.
+O mesmo argumento vale para o art. 2° da Lei 913/95 que, por sua intrínseca
+dependência normativa em relação ao restante dos dispositivos da lei, padece
+de inconstitucionalidade consequencial” (grifos no original; negrito
+acrescentado)34.
+
+62. Assim, tendo em vista a dependência entre os dispositivos inválidos e o art. 3º da MP nº 1.068/21,
+também este deve ser declarado inconstitucional, provimento este que também se impõe, de resto,
+para remediar uma contradição intrínseca da MP: invoca urgência, mas concede prazo de 30 dias para
+a adaptação dos seus destinatários. Ou seja, quer pelo arrastamento lógico; quer por relevar a
+inexistência de urgência, o art. 3º da Medida Provisória é inconstitucional e assim há de ser declarado.
+
+III. DO PEDIDO DE MEDIDA CAUTELAR
+
+63. Impõe-se, no caso, a suspensão cautelar dos dispositivos impugnados. Com efeito, não há dúvida
+quanto ao fumus boni iuris: a MP cria uma blindagem para a disseminação de conteúdos extremamente
+graves, como desinformação em geral, conteúdos que podem colocar pessoas em risco, incluindo
+informações falsas sobre temas médicos, como os relacionados à Covid-19 e à vacinação, discursos de
+ódio ou representações de violência.
+
+64. Na prática, a MP instituiu um novo modelo de relações entre provedores e usuários, fundado na
+premissa – em si, inconstitucional – de que caberia ao Estado (ou, mais especificamente, ao Executivo
+federal) definir qual conteúdo deve ser hospedado nas plataformas, ainda que em desrespeito às
+políticas e aos termos de uso definidos pelos provedores e aceitos pelos usuários. Isto é: ele força a
+condução das plataformas conforme as preferências do governo da ocasião. Ao fazê-lo, ainda submete
+os usuários a material que eles tinham a expectativa de não ver, além de eliminar a moderação que
+procura evitar a criação de ambientes hostis, o silenciamento de grupos minoritários e a disseminação
+
+34 STF, DJ 3 mar. 2015, ADI 1358/DF, Rel. Min. Gilmar Mendes (trecho do voto do relator).
+
+[[pagina 26 | nativo]]
+de desinformação em prejuízo, e.g., da saúde pública.
+
+65. É igualmente evidente a presença do periculum in mora. A MP já está em vigor e os provedores
+dispõem apenas de 30 (trinta) dias para se adequarem às suas determinações. Vale lembrar, ainda,
+que o diploma prevê sanções severas, que incluem não só multas elevadas, mas também a suspensão
+ou mesmo a proibição do exercício da atividade pelos provedores. Não há dúvida, portanto, quanto à
+urgência envolvida na hipótese.
+
+66. Dessa forma, o requerente pede que seja concedida medida cautelar para o fim de suspender a
+eficácia da MP nº 1.068, de 06 de setembro de 2021, até o julgamento definitivo da presente ação
+direta.
+
+IV. PEDIDOS E REQUERIMENTOS DEFINITIVOS
+
+67. Por todo o exposto, o requerente pede e espera que seja conhecida a presente ação direta, ainda
+que, subsidiariamente, como arguição de descumprimento de preceito fundamental, com base nos
+arts. 1º, incisos I e IV, 3º, I, 5º, incisos IV, IX e XIV, 21, XII, 37 caput, 62, §1.º, I, a, 170 caput e parágrafo
+único e 220, todos da CR/88, para o fim de:
+
+(i) Suspender a eficácia dos arts. 1º, 2º, 3º, 4º e 5º da Medida Provisória nº 1.068,
+de 06 de setembro de 2021, até o julgamento definitivo da presente ação direta;
+(ii) Declarar a inconstitucionalidade dos dispositivos indicados no item (i).
+
+68. Requer, ainda, a notificação do Exmo. Sr. Presidente da República para que preste informações
+(Lei nº 9.868/1999, art. 6º) e, na sequência, a oitiva, sucessivamente, do Advogado-Geral da União e
+da Procuradoria-Geral da República (Lei nº 9.868/1999, art. 8º).
+
+69. Por fim, requer que as intimações referentes ao presente feito sejam feitas exclusivamente em
+nome da advogada Marilda de Paula Silveira, OAB-DF 33.954.
+
+Assinado de forma digital Brasília, 7 de setembro de 2021. por MARILDA DE PAULA MARILDA DE
+SILVEIRA
+PAULA SILVEIRA Dados: 2021.09.07
+20:13:26 -03'00'
+MARILDA DE PAULA SILVEIRA HEFFREN NASCIMENTO DA SILVA
+OAB/DF 33.954 OAB/DF 59.173
+

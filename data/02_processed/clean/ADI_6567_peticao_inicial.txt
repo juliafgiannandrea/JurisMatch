@@ -1,0 +1,2812 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+Lei nº 14.015/20 aprovada sob o pretexto de relação com a
+pandemia. Projeto de Lei que em verdade tramitava desde
+fevereiro de 2019 e totalmente desconexo da pandemia.
+Caso de “uso político da pandemia”. Desvio de finalidade
+legislativo. Vício no processo legislativo e consequente
+inconstitucionalidade formal da lei. Medidas atécnicas e
+desnecessárias que aumentam sobremaneira o custo do
+serviço público. Impacto no valor da tarifa paga pelo
+consumidor. Violação do princípio da modicidade tarifária.
+Ausência de congruência entre o fim perseguido e a norma
+promulgada. Ausência de embasamento empírico e
+existência de meios menos danosos para persecução do
+mesmo fim. Violação ao princípio da razoabilidade e à regra
+da proporcionalidade e consequente inconstitucionalidade
+material da lei, ainda que parcial.
+
+ASSOCIAÇÃO BRASILEIRA DE DISTRIBUIDORES DE ENERGIA ELÉTRICA - ABRADEE,
+
+pessoa jurídica de direito privado constituída sob a forma de associação civil sem fins
+
+econômicos nos termos do art. 53 do CC, de âmbito nacional, inscrita no CNPJ sob nº
+
+00.058.328/0001-69, com sede no SCN Quadra 2, Bloco D, Torre A, Sala 1.101, Edifício Liberty
+
+Mall, Brasília/DF, CEP 70.712-903, por seus advogados regularmente constituídos mediante
+instrumento específico1, com fulcro nos arts. 102, I, ‘a’ e 103, IX da CF/88 c/c art. 2º e ss. da Lei
+
+nº 9.868/99, vem respeitosamente perante Vossa Excelência propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO DE MEDIDA CAUTELAR
+
+em face da Lei nº 14.015/20 (Doc. 03), que dispõe “sobre a interrupção e a religação ou o
+
+restabelecimento de serviços públicos”, pelas razões e fundamentos que passa a expor.
+
+1 Instrumento procuratório anexo. Documento nº 01.
+
+[[pagina 2 | nativo]]
+I. OBJETO DA PRESENTE AÇÃO
+
+1. O objeto do presente remédio constitucional é o inteiro teor da recém promulgada Lei
+
+nº 14.015/20. Referido diploma legal é resultado da aprovação e sanção do Projeto de Lei (PL)
+
+nº 669/2019, originário do Senado, que “Altera as Leis nºs 13.460, de 26 de junho de 2017, e
+
+8.987, de 13 de fevereiro de 1995, para dispor sobre a interrupção e a religação ou o
+
+restabelecimento de serviços públicos”. Confira-se o teor dos dispositivos impugnados:
+
+Art. 2º A Lei nº 13.460, de 26 de junho de 2017, passa a vigorar com as seguintes alterações:
+
+XVI – comunicação prévia ao consumidor de que o serviço será desligado em virtude de
+inadimplemento, bem como do dia a partir do qual será realizado o desligamento,
+necessariamente durante horário comercial.
+Parágrafo único. A taxa de religação de serviços não será devida se houver descumprimento da
+exigência de notificação prévia ao consumidor prevista no inciso XVI do caput deste artigo, o que
+ensejará a aplicação de multa à concessionária, conforme regulamentação.” (NR)
+
+
+VII – comunicação prévia da suspensão da prestação de serviço.
+Parágrafo único. É vedada a suspensão da prestação de serviço em virtude de inadimplemento
+por parte do usuário que se inicie na sexta-feira, no sábado ou no domingo, bem como em
+feriado ou no dia anterior a feriado.” (NR)
+
+Art. 3º O art. 6º da Lei nº 8.987, de 13 de fevereiro de 1995, passa a vigorar acrescido do
+seguinte § 4º:
+
+§ 4º A interrupção do serviço na hipótese prevista no inciso II do § 3º deste artigo não poderá
+iniciar-se na sexta-feira, no sábado ou no domingo, nem em feriado ou no dia anterior a feriado.”
+
+2. É bem ver, portanto, que a agora Lei nº 14.015/20 altera a Lei de Concessões (Lei nº
+
+8.987/95) e a Lei do Usuário de Serviços Públicos (Lei nº 13.460/17) para impor três novas
+
+obrigações aos prestadores de serviços públicos, relacionadas à interrupção e
+
+restabelecimento dos referidos serviços, a saber:
+
+[[pagina 3 | nativo]]
+i) a necessidade de “comunicação prévia ao consumidor de que o serviço será desligado
+
+em virtude de inadimplemento, bem como do dia a partir do qual será realizado o
+
+desligamento, necessariamente durante horário comercial”, cf. art. 2º da Lei nº 14.015/20;
+
+ii) a impossibilidade de cobrança de taxa de religação do serviço “se houver
+
+descumprimento da exigência de notificação prévia ao consumidor”, “o que ensejará a
+
+aplicação de multa à concessionária”, cf. art. 2º da Lei nº 14.015/20; e
+
+iii) a vedação à “suspensão da prestação de serviço em virtude de inadimplemento por
+
+parte do usuário que se inicie na sexta-feira, no sábado ou no domingo, bem como em
+
+feriado ou no dia anterior a feriado”, cf. arts. 2º e 3º da Lei nº 14.015/20.
+
+3. As três novas obrigações impostas pela Lei nº 14.015/20 configuram, em última análise,
+
+alterações nas normas de suspensão de serviços públicos em hipótese de inadimplência do
+
+consumidor.
+
+4. O PL foi originalmente proposto em 12.02.2019 no Senado (casa iniciadora), e aprovado
+
+com emendas pela Câmara (casa revisora) em 21.05.2020. Importa observar que o trâmite
+
+legislativo na Câmara dos Deputados se deu sob regime de urgência. Após o retorno ao
+
+Senado, o PL foi finalmente aprovado, novamente em regime de urgência, e remetido à sanção
+
+presidencial em 26.05.2020. A Lei nº 14.015/20 foi publicada no DOU de 16.06.2020.
+
+5. Brevemente delineado o objeto da lei ora impugnada e seu histórico legislativo
+
+(importante para subsequente argumento de inconstitucionalidade formal), cumpre demonstrar
+
+o cabimento da presente medida antes de adentrar os argumentos de inconstitucionalidade da
+
+norma.
+
+II. DO CABIMENTO DA PRESENTE AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+6. A ADI foi introduzida no ordenamento pátrio pela EC nº 16/65 à Constituição de 1946
+
+sob a denominação genérica de representação. A CF/88 ampliou o escopo do remédio
+
+constitucional e deferiu-lhe o nome de Ação Direta de Inconstitucionalidade (ADI), sendo
+
+[[pagina 4 | nativo]]
+posteriormente disciplinada pela Lei nº 9.868/99. Possui dois pressupostos de admissibilidade: i)
+
+legitimidade ativa e ii) alvo em lei ou ato normativo federal ou estadual.
+
+II. 1 - DA LEGITIMIDADE ATIVA DA ASSOCIAÇÃO BRASILEIRA DE DISTRIBUIDORES DE
+
+ENERGIA ELÉTRICA
+
+7. Nos termos do art. 2º, IX da Lei nº 9.868/99 e art. 103, IX da CF/88 é parte legítima para
+
+o ajuizamento de ADI perante o STF “entidade de classe de âmbito nacional”.
+
+8. A legitimidade ad causam ativa de Entidade de Classe foi assentada, entre outros, no
+bojo da ADI nº 3.7022. Como requisitos intrínsecos, a entidade de classe deve representar classe
+
+econômica bem-definida (homogeneidade) e ser composta por representantes de mais de nove
+
+Estados da federação, nos termos, entre outros, da já citada ADI nº 3.702.
+
+9. A Associação Brasileira de Distribuidores de Energia Elétrica (ABRADEE) é uma sociedade
+
+civil de direito privado sem fins lucrativos constituída nos termos do art. 53 do CC cuja história
+
+teve início com a criação do Comitê de Distribuição (CODI) em agosto de 1975, tendo a
+
+ABRADEE sido juridicamente constituída em 1995. Hoje a Autora reúne 40 concessionárias de
+
+energia elétrica, estatais e privadas, atuantes em todas as regiões do país, responsáveis pelo
+fornecimento de energia elétrica a 99,6% dos consumidores brasileiros3. A lista com todas as
+
+associadas da ABRADEE presente no Doc. 04 comprova sua presença nacional.
+
+10. Ademais, a ABRADEE representa a categoria econômica específica das distribuidoras de
+
+energia elétrica. A propósito, assim dispõe o art. 2º do Estatuto Social da ABRADEE:
+
+2 Caracterização da Abimaq como entidade de classe de âmbito nacional. O novo estatuto social prevê que a
+associação é composta apenas por entidades singulares de natureza empresarial, com classe econômica bem
+definida, não mais restando caracterizada a heterogeneidade de sua composição, que impedira o conhecimento
+da ADI 1.804/RS. Prova, nos autos, da composição associativa ampla, estando presente a associação em mais de
+nove Estados da federação. Cumprimento da exigência da pertinência temática, ante a existência de correlação
+entre o objeto do pedido de declaração de inconstitucionalidade e os objetivos institucionais da associação.[ADI
+3.702, rel. min. Dias Toffoli, j. 1º-6-2011, P, DJE de 30-8-2011.]
+3 Fonte: ABRADEE. Disponível em: https://www.abradee.org.br/abradee-institucional/associadas/. Acesso em
+07.08.2020.
+
+[[pagina 5 | nativo]]
+Art. 2º - O quadro social da Associação será constituído por empresas concessionárias de
+distribuição de energia elétrica
+
+11. A ABRADEE foi criada com o fito de atuar como intermediadora entre as distribuidoras
+
+associadas e as mais diversas instâncias político-decisórias do país. “A Associação, também,
+
+destaca-se na mídia por representar o setor que presta o melhor serviço público em avaliação
+
+pelo consumidor residencial (Fonte: Ibope/CNI, Junho 2016) e, também, por ser um
+
+serviço aprovado por 70,3% dos consumidores residenciais brasileiros, ou seja, por uma média
+de 3 em cada 4 moradores no Brasil (Fonte: Instituto Innovare, 2019)”4.
+
+12. Assim, a ABRADEE i) é Entidade de Classe nos termos do art. 53 do CC; ii) representa o
+
+setor de distribuição de energia elétrica no Brasil; e iii) possui representação em todos os
+
+Estados da Federação (Doc. 4), pelo que é parte legítima para o ajuizamento da presente ação
+
+nos termos do art. 103, IX da CF/88 e art. 2º, IX da Lei nº 9.868/99.
+
+II. 2 - DA PERTINÊNCIA TEMÁTICA DA CONFEDERAÇÃO NACIONAL DA TECNOLOGIA DA
+
+INFORMAÇÃO E COMUNICAÇÃO
+
+13. “É importante rememorar, neste ponto, que o requisito da pertinência temática – que se
+
+traduz na relação de congruência que necessariamente deve existir entre os objetivos
+
+estatutários ou as finalidades institucionais da entidade autora e o conteúdo material da norma
+
+questionada em sede de controle abstrato – foi erigido à condição de pressuposto qualificador
+
+da própria legitimidade ativa “ad causam” para efeito de instauração do processo objetivo de
+
+fiscalização concentrada de constitucionalidade” (ADI nº 1.157/DF MC, Rel. Min. CELSO DE MELLO,
+DJ: 01.12.1994)5.
+
+14. Assim, cumpre demonstrar a pertinência temática entre o objetivo social da ABRADEE e
+
+o objeto da presente ação. Com efeito, o art. 1º do Estatuto Social da ABRADEE elege como
+
+objetivos da entidade, entre outras:
+
+4 Disponível em: https://www.abradee.org.br/abradee-institucional/institucional/. Acesso em 07.08.2020.
+5 Vide, no mesmo sentido, ADI nº 1.114/DF, Rel. Min. Ilmar Galvão.
+
+[[pagina 6 | nativo]]
+a) A representação judicial ou extrajudicial de seus associados, para a defesa de seus
+interesses, [...] f) a preparação de estudos e de propostas para a solução de problemas, em
+colaboração com os poderes constituídos, no âmbito de questões relacionadas com as
+atividades dos associados (negritou-se).
+
+15. Como se vê, a ABRADEE tem por objetivo defender os interesses da categoria econômica
+
+que representa, no nível das “atividades dos associados” quanto a situações que afetem seus
+
+interesses.
+
+16. “A exigência de pertinência temática é verdadeira projeção do interesse de agir no
+
+processo objetivo, que se traduz na necessidade de que exista uma estreita relação entre o
+
+objeto do controle e a defesa dos direitos da classe representada pela entidade requerente” (ADI
+
+nº 4.364, Rel. Min. DIAS TOFFOLI, DJ: 02.03.2011). Há que se demonstrar, portanto, a correlação
+
+existente entre os objetivos da Autora e o objeto do pedido de declaração de
+
+inconstitucionalidade.
+
+17. É de se notar que a Lei nº 14.015/20, ora impugnada, atinge diretamente a categoria
+
+econômica e as atividades desenvolvidas pelos associados da Autora, eis que inova no
+
+ordenamento impondo novas obrigações aos associados da Autora. Sem grandes digressões, as
+
+distribuidoras de energia elétrica, associadas da Autora, são concessionárias de serviço público,
+
+pelo que se submetem às regras da Lei de Concessões e da Lei do Usuário do Serviço Público,
+
+alteradas pela Lei ora impugnada. Ademais, as alterações promovidas pela Lei nº 14.015/20
+
+referem-se às regras de interrupção, ou não, do serviço prestado em casos de inadimplência do
+
+consumidor.
+
+18. É cediço que as concessionárias de energia elétrica cuidam do fornecimento de
+
+eletricidade para os consumidores brasileiros mediante contraprestação pecuniária: a tarifa
+
+(preço público). É de longa data discussão jurídica sobre a possibilidade de interrupção da
+
+prestação do serviço público em casos de inadimplência do consumidor, mas, como se verá
+
+mais a frente nesta peça, pacificou-se entendimento da licitude da interrupção dos serviços uti
+
+singuli em casos de inadimplência. Ressalte-se, desde já, que essa possibilidade conta com
+
+limites e restrições severos se comparados à interrupção de prestação de serviços meramente
+
+civis.
+
+[[pagina 7 | nativo]]
+19. Não obstante as já existentes restrições, a novel Lei nº 14.015/20 veio a impor ainda
+
+mais restrições e limitações, afetando a própria dinâmica já estabelecida das concessionárias.
+
+Veja-se que a contraprestação pecuniária é necessária ao próprio funcionamento da
+
+concessionária. Assim, a novel legislação, ao restringir ainda mais (e sem fundamento empírico,
+
+como será demonstrado à frente) a possibilidade de interrupção de serviços por inadimplência
+
+do consumidor cria ônus excessivo às concessionárias e afeta diretamente suas atividades.
+
+20. Assim, a norma ora impugnada afeta as associadas da Autora tanto i) diretamente em
+
+forma financeira, eis que cria novos ônus de notificação do consumidor e de taxa de religação
+
+de serviços, bem como de prestação de serviços à inadimplentes, quanto ii) diretamente de
+
+forma estrutural, visto que o atendimento das novas obrigações requer adaptação das
+
+atividades das empresas (novos horários e nova rotina para notificações e “cortes” de
+
+fornecimento de inadimplentes).
+
+21. Esclareça-se que o fato da norma também atingir outras categorias não representadas
+
+pela Requerente não é óbice ao reconhecimento de sua legitimidade ativa, como se observa a
+
+partir da ADPF 418, Rel.: Min. Alexandre de Moraes, j. 15.04.2020; ADI 4,673 AgR, Rel.: Min.
+
+Alexandre de Moraes, Rel. p/ Ac.: Min. Dias Toffoli, j. 13.06.2018. Nesse sentido:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI COMPLEMENTAR ESTADUAL QUE FIXA PISO
+SALARIAL PARA CERTAS CATEGORIAS. PERTINÊNCIA TEMÁTICA. CONHECIMENTO INTEGRAL DA
+AÇÃO. DIREITO DO TRABALHO. (...) 1. A exigência de pertinência temática não impede, quando
+o vício de inconstitucionalidade for idêntico para todos os seus destinatários, o amplo
+conhecimento da ação nem a declaração de inconstitucionalidade da norma para além do
+âmbito dos indivíduos representados pela entidade requerente. Conhecimento integral da ação
+direta ajuizada pela Confederação Nacional do Comércio de Bens, Serviços e Turismo (CNC) (STF,
+ADI nº 4.364, Rel. Min. Dias Toffoli, Pleno, DJ: 02.03.2011 – negritou-se)
+
+CONSTITUCIONAL. LEI 15.223/2005, DO ESTADO DE GOIÁS. CONCESSÃO DE ISENÇÃO DE
+PAGAMENTO EM ESTACIONAMENTO. COMPETÊNCIA LEGISLATIVA. PRELIMINAR. LEGITIMIDADE
+ATIVA. PROPOSITURA DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE. CONFEDERAÇÃO
+NACIONAL DOS ESTABELECIMENTOS DE ENSINO – CONFENEN (...) I.2 – O ato normativo atacado
+prevê a isenção de pagamento por serviço de estacionamento não apenas em
+estabelecimentos de ensino, mas também em outros estabelecimentos não representados
+
+[[pagina 8 | nativo]]
+pela parte autora. Tratando-se de alegação de inconstitucionalidade formal da norma atacada,
+torna-se inviável a cisão da ação para dela conhecer apenas em relação aos dispositivos que
+guardem pertinência temática com os estabelecimentos de ensino. II. –
+INCONSTITUCIONALIDADE FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO. Ação direta julgada
+procedente. Precedentes (STF, ADI nº 3.710/GO, Rel. Min. Joaquim Barbosa, Pleno, DJ:
+27.04.2007 – negritou-se)
+
+22. Com efeito, na ADPF nº 156 ajuizada pela Confederação Nacional de Bens, Serviços e
+
+Turismo (CNC) buscando a não recepção do art. 636, § 1º da CLT assentou a Min. CÁRMEN LÚCIA
+
+que “a decisão desta ação repercutirá na vida de cada um dos substituídos pela Confederação
+
+Nacional do Comércio de Bens, Serviços e Turismo – CNC e de todos os demais interessados
+
+que se submetem à norma contida no art. 636, § 1º, da Consolidação das Leis do Trabalho,
+
+demonstrando, assim, a pertinência temática entre os objetivos elencados em seu estatuto (art.
+
+1º, fl. 21) e o objeto da presente ação” (STF, ADPF nº1 56, Rel. Min. Cármen Lúcia, Pleno, DJ:
+
+18.08.2011 – negritou-se). Observe-se que o art. 636, §1º da CLT não afetava apenas as
+
+empresas representadas pela CNC, mas todas as empresas que litigavam na Justiça do Trabalho.
+
+No entanto, todas as empresas representadas pela CNC submetiam-se à observância da norma
+
+impugnada, situação suficiente para o reconhecimento da pertinência temática da CNC.
+
+23. Mutatis mutandis, este é o caso dos autos. As normas referentes a prestação de serviços
+
+públicos afetam todas as concessionárias de todos os serviços públicos e não apenas àquelas de
+
+energia elétrica, mas todas as distribuidoras de energia elétrica são afetadas pela lei ora
+
+impugnada. Neste sentido, “a decisão desta ação repercutirá na vida de cada um dos
+
+substituídos” pela ABRADEE, demonstrando, portanto, “a pertinência temática entre os
+
+objetivos elencados em seu estatuto” (STF, ADPF nº1 56, Rel. Min. Cármen Lúcia, Pleno, DJ:
+
+18.08.2011).
+
+24. Assim, a pertinência temática não deve ser vista em termos estritos, sob pena de se
+
+confundir com o interesse de agir, típico de processo subjetivo. O que se objetiva é evitar que
+
+“entidades” venham perante esta Corte Constitucional “questionar normas que tenham
+
+interesse dirigido a uma pessoa”, como advertiu a e. Min. Cármen Lúcia na ADI 4673 AgR, Rel.:
+
+Min. Alexandre de Moraes, Rel. p/ Acórdão: Min. Dias Toffoli j. 13.06.2018. In casu, no entanto,
+
+[[pagina 9 | nativo]]
+tem-se norma dirigida à todas as prestadoras de serviços públicos e não à “uma pessoa”, pelo
+
+que legítima é a pretensão da Requerente.
+
+25. Translúcido, portanto, a pertinência temática e o interesse da ABRADEE em ver
+
+declarada a inconstitucionalidade da Lei nº 14.015/20, pelo que se tem a legitimidade ativa
+
+totalmente demonstrada.
+
+26. Não é demais destacar que a legitimidade ativa da ABRADEE já foi reconhecida por este
+
+C. STF em ação de controle concentrado. A ABRADEE também foi autora da ADC nº 26, Rel. Min.
+
+GILMAR MENDES, em favor de dispositivo da Lei de Concessões, e da ADPF nº 452 Rel. Min.
+
+CÁRMEN LÚCIA, que questionava lei estadual. Ambas ações foram julgadas procedentes e
+
+assentaram a legitimidade ativa da ABRADEE para fins de controle concentrado de
+
+constitucionalidade perante o STF.
+
+II. 3 – OBJETO DA AÇÃO EM LEI FEDERAL
+
+27. O art. 102, I, ‘a’ da CF/88 prevê a possibilidade de manejo de ação direta de
+
+inconstitucionalidade contra lei ou ato normativo federal ou estadual. É translúcido o cabimento
+
+da presente medida haja vista que trata da Lei nº 14.015/20, lei ordinária federal. No ponto,
+
+cumprindo-se a exigência do art. 3º, p.u. da Lei nº 9.868/99, a Requerente anexa cópia do
+
+diploma legal impugnado (Doc. 3).
+
+28. Devidamente demonstrado o cabimento da presente ADI, se requer desde já seu
+
+recebimento, conhecimento e ulterior procedência.
+
+III – MÉRITO. INCONSTITUCIONALIDADE DA LEI Nº 14.015/20
+
+29. De fato, dois são os vícios de constitucionalidade do diploma legal objurgado, cujo
+
+reconhecimento e declaração ora se pleiteia: i) violação ao regime de tramitação de PL na
+
+Câmara e Senado, atraindo inconstitucionalidade formal da Lei nº 14.015/20, e ii) violação aos
+
+princípios constitucionais implícitos da proporcionalidade e razoabilidade.
+
+[[pagina 10 | nativo]]
+30. Em síntese, quanto ao vício formal, o PL que originou a lei ora impugnada violou o art.
+
+155 do RICD, que prevê o trâmite de PL em regime de urgência em razão de “relevante e
+
+inadiável interesse nacional”. Com efeito, parlamentares se utilizaram da pandemia do covid-19,
+
+em evidente desvio de finalidade legislativo e violação do princípio democrático, para
+
+“justificar” o trâmite de urgência de PL não relacionado à pandemia. De fato, a conduta
+
+parlamentar de “aproveitar” a pandemia para aprovar projetos de interesse pessoal e
+
+eleitoreiro foi amplamente divulgada na mídia, sendo fato notório. Registre-se que as normas
+
+regimentais que dão densidade ao processo legislativo são, como se verá, normas
+
+materialmente constitucionais, pelo que sua impugnação e análise por este C. STF é plenamente
+
+possível.
+
+31. Quanto ao vício material, demonstrará a Autora que a justificativa da Lei nº 14.015/20,
+
+de dar uma “chance” ao consumidor inadimplente de quitar a dívida, não supera os testes de
+
+adequação e proporcionalidade posto que i) não fundada em qualquer parâmetro ou estudo
+
+empírico e ii) marcadamente contrária à lógica (o consumidor inadimplente por falta de verba
+
+para quitar a dívida não é capaz de regularizar sua vida financeira – no sentido de auferir renda
+
+suficiente para tanto – em um único final de semana, especialmente considerando-se que
+
+salários e rendimentos não são pagos aos finais de semana ante a ausência de expediente
+
+bancário). Ademais, a notificação prévia do consumidor já existe e já é feita pelas
+
+concessionárias de serviço público, de modo que esta imposição da lei ora impugnada sucumbe
+
+aos testes da necessidade e adequação, sendo igualmente inexistente juízo de congruência
+
+entre a norma e o objetivo perseguido.
+
+32. Para os fins do teste da proporcionalidade em sentido estrito, ressalta-se que existem
+
+razões técnicas e operacionais que explicam e justificam a interrupção de serviços nos dias
+
+vedados pela lei ora impugnada, tais como: alocação proporcional do trabalho à equipe de
+
+funcionários responsável pela interrupção do serviço (os funcionários trabalham de segunda a
+
+sexta e de acordo com a lei impugnada teriam de trabalhar de segunda a quinta, o que significa
+
+sobrecarga de trabalho ou aumento da mão-de-obra) e manutenção de serviço inadimplente
+
+por mais tempo, o que significa aumento dos custos da operação global, com consequente
+
+repercussão no equilíbrio econômico-financeiro e na tarifa cobrada do usuário adimplente. É
+
+[[pagina 11 | nativo]]
+dizer, há uma grave e perversa inversão de valores na norma enfrentada: beneficia o
+
+consumidor inadimplente ao custo do consumidor adimplente. Nada mais injusto do que isso.
+
+33. Com lastro nessas razões é que ora se requer a declaração, ainda que parcial, de
+
+inconstitucionalidade da Lei nº 14.015/20.
+
+III.1 – INCONSTITUCIONALIDADE MATERIAL. VIOLAÇÃO AOS PRINCÍPIOS DA
+
+RAZOABILIDADE E PROPORCIONALIDADE
+
+34. De fato, o diploma ora impugnado padece de vício material capaz de autorizar a
+
+declaração de sua inconstitucionalidade, ao menos parcial, por estar em descompasso com o
+
+princípio da razoabilidade e com a regra da proporcionalidade.
+
+35. Do ponto de vista doutrinário, explica a juíza ORIANA PISKE que “Os princípios da
+
+proporcionalidade e da razoabilidade são cânones do Estado de Direito, bem como regras que
+
+tolhem toda ação ilimitada do poder do Estado no quadro de juridicidade de cada sistema
+legítimo de autoridade”6.
+
+36. Sobre a razoabilidade, HUMBERTO ÁVILA7 assenta o “emprego da razoabilidade como
+
+diretriz que exige uma vinculação das normas jurídicas com o mundo ao qual elas fazem
+
+referência, seja reclamando a existência de um suporte empírico e adequado a qualquer ato
+
+jurídico, seja demandando uma relação congruente entre a medida adotada e o fim que ela
+
+pretende atingir” (negritou-se).
+
+37. A baliza da proporcionalidade, a seu turno, está voltada à análise do equilíbrio entre
+
+uma medida tomada, seus objetivos e as restrições dela decorrentes. Bem explica JOSÉ SÉRGIO
+CRISTÓVAM8 que “A proporcionalidade é uma máxima, um parâmetro valorativo que permite
+
+aferir a idoneidade de uma dada medida legislativa, administrativa ou judicial. Pelos critérios
+
+6 PISKE, Oriana. Proporcionalidade e Razoabilidade: Critérios de Intelecção e Aplicação do Direito. TJDFT. 2012.
+7 ÁVILA, Humberto. Teoria dos Princípios – da definição à aplicação dos princípios jurídicos. 6. ed.. São Paulo:
+Malheiros, 2006, p.139.
+8 CRISTÓVAM, José Sérgio da Silva. Colisões entre princípios constitucionais. Curitiba: Juruá, 2006. p. 211.
+
+[[pagina 12 | nativo]]
+da proporcionalidade pode-se avaliar a adequação e a necessidade de certa medida, bem
+
+como, se outras menos gravosas aos interesses sociais não poderiam ser praticadas em
+
+substituição àquela empreendida pelo Poder Público” (negritou-se).
+
+38. Também o Min. GILMAR MENDES, comentando o modelo alemão, assevera que “A
+
+utilização do princípio da proporcionalidade ou da proibição de excesso no Direito
+
+constitucional envolve, como observado, a apreciação da necessidade (Erforderlichkeit) e
+adequação (Geeignetheit) da providência legislativa”9.
+
+39. Noutro giro, do ponto de vista jurisprudencial, é largo o entendimento deste C. STF que
+
+admite inconstitucionalidade por violação às regras da razoabilidade e proporcionalidade. Cite-
+
+se, por todos, ADI nº 855, Red. p/ acórdão Min. Gilmar Mendes, DJ: 27.03.2009; ADI nº 2.290
+
+MC, Rel. Min. Moreira Alves, DJ: 23.02.2001; ADI nº 3.112, Rel. Min. Ricardo Lewandowski, DJ:
+
+26.10.2007.
+
+40. Estabelecida premissa doutrinária e jurisprudencial pela possibilidade de avaliação da
+
+(in)constitucionalidade de uma norma com lastro nos postulados da razoabilidade e da
+
+proporcionalidade, cumpre indicar o conteúdo jurídico destes postulados, i.e., qual a fórmula
+
+jurídica utilizada para a aplicação dos referidos postulados em um caso concreto.
+
+41. Sinteticamente, explica VIRGÍLIO AFONSO DA SILVA que a aplicação do princípio da
+
+razoabilidade, baseada que é no devido processo legal substancial (art. 5º, LIV da CF/88),
+
+“traduz-se na exigência de "compatibilidade entre o meio empregado pelo legislador e os fins
+visados, bem como a aferição da legitimidade dos fins"”10. A razoabilidade, como se vê, está
+
+ligada a um juízo de congruência entre a medida adotada e o fim que ela pretende atingir,
+
+bem como a legitimidade do referido fim. O Min. ROBERTO BARROSO chama a primeira exigência,
+
+compatibilidade entre meio e fim, de razoabilidade interna, e a segunda, legitimidade do fim, de
+razoabilidade externa11.
+
+9 MENDES, Gilmar. O princípio da proporcionalidade na jurisprudência do Supremo Tribunal Federal: novas
+leituras. Revista Diálogo Jurídico, Salvador, CAJ – Centro de Atualização Jurídica, v. 1, nº. 5, agosto, 2001
+10 AFONSO DA SILVA, Virgílio. O proporcional e o razoável. Revista dos Tribunais nº 798. 2002. Pg. 32.
+11 BARROSO, Luís Roberto. Os princípios da razoabilidade e da proporcionalidade no direito constitucional. Pg. 66.
+
+[[pagina 13 | nativo]]
+42. Assim, um caso concreto é dito razoável se dotado de razoabilidade interna e externa.
+
+43. Já a regra da proporcionalidade, nas palavras da Min. CÁRMEN LÚCIA, “se desdobra em
+
+subprincípios pelos quais se revelam o princípio da adequação determinando que se observe, na
+
+espécie em exame, se a medida restritiva do direito fundamental é idônea a atingir a
+
+finalidade pretendida com a restrição; o princípio da necessidade, pelo qual, entre vários
+
+meios apropriados para a obtenção da finalidade objetivada, deve-se escolher o meio mais
+
+eficaz e menos gravoso ao direito restringido; e o princípio da proporcionalidade em sentido
+
+estrito, pelo qual se deve atentar à justa medida entre a restrição e a finalidade dos princípios
+
+conflitantes” (STF, ADI nº 6031, Rel. Min. Cármen Lúcia, DJ: 16.04.2020 - negritou-se) .
+
+44. Um caso concreto, portanto, é dito proporcional se atender aos requisitos i) da
+
+adequação, ii) da necessidade, e iii) da proporcionalidade em sentido estrito, sendo certo que a
+
+“análise da adequação precede a da necessidade, que, por sua vez, precede a da
+proporcionalidade em sentido estrito”12.
+
+45. Resta agora, realizar a subsunção destas regras ao caso da Lei nº 14.015/20, ora
+
+impugnada.
+
+III.1.1 – LEI Nº 14.015/20 E VIOLAÇÃO AOS PRINCÍPIOS DA RAZOABILIDADE E
+
+PROPORCIONALIDADE
+
+46. Retomemos, brevemente, as alterações trazidas pela Lei nº 14.015/20:
+
+i) necessidade de “comunicação prévia ao consumidor de que o serviço será
+
+desligado em virtude de inadimplemento, bem como do dia a partir do qual será
+
+realizado o desligamento, necessariamente durante horário comercial”, cf. art. 2º
+
+da Lei nº 14.015/20;
+
+12 AFONSO DA SILVA, Virgílio. O proporcional e o razoável. Revista dos Tribunais nº 798. 2002. Pg. 34
+
+[[pagina 14 | nativo]]
+ii) impossibilidade de cobrança de taxa de religação do serviço “se houver
+
+descumprimento da exigência de notificação prévia ao consumidor”, “o que ensejará
+
+a aplicação de multa à concessionária”, cf. art. 2º da Lei nº 14.015/20; e
+
+iii) vedação à “suspensão da prestação de serviço em virtude de inadimplemento por
+
+parte do usuário que se inicie na sexta-feira, no sábado ou no domingo, bem como
+
+em feriado ou no dia anterior a feriado”, cf. arts. 2º e 3º da Lei nº 14.015/20
+
+47. Como se demonstrará a seguir, as alterações trazidas pela lei ofendem aos princípios da
+
+razoabilidade e proporcionalidade.
+
+48. Muito embora a análise da proporcionalidade dependa do caso concreto este C. STF tem
+
+sistematicamente decidido pela desproporcionalidade de medida quando não calcada em
+
+evidências concretas e empíricas, senão vejamos:
+
+tenho que uma excepcional situação de restrição de um direito ou garantia constitucional só
+deve ocorrer em situações pontuais, em que restem evidenciadas de forma flagrante a sua real
+necessidade. No caso dos autos, a envolver o sigilo dos dados bancários, fiscais e das
+comunicações telefônicas, a regra é a inviolabilidade, a exceção, a sua violação, a qual somente
+se justifica quando devidamente fundamentada por autoridade judicial competente, consoante o
+disposto no art. 93, IX, da CF. Daí por que imperioso concluir que a mera alusão ao
+"requerimento" do Parquet e/ou da autoridade policial não se mostra suficiente para legitimar a
+quebra dos sigilos telefônico e bancário dos pacientes. A referência – argumento de autoridade
+– não passa pelo crivo da proporcionalidade, na medida em que não apresenta motivação
+idônea para fazer ceder a essa situação excepcional de ruptura da esfera da intimidade de
+quem se encontra sob investigação. Na espécie, em momento algum, o magistrado de primeiro
+grau aponta fatos concretos que justifiquem a real necessidade da quebra desses sigilos. (STF,
+HC 96.056, voto do rel. min. Gilmar Mendes, j. 28-6-2011, 2ª T, DJE de 8-5-2012 – negritou-se)
+
+O motorista particular, em sua atividade laboral, é protegido pela liberdade fundamental
+insculpida no art. 5º, XIII, da Carta Magna, submetendo-se apenas à regulação
+proporcionalmente definida em lei federal, pelo que o art. 3º, VIII, da Lei Federal 12.965/2014
+(Marco Civil da Internet) e a Lei Federal 12.587/2012, alterada pela Lei 13.640 de 26 de março de
+2018, garantem a operação de serviços remunerados de transporte de passageiros por
+aplicativos. A liberdade de iniciativa garantida pelos artigos 1º, IV, e 170 da Constituição
+brasileira consubstancia cláusula de proteção destacada no ordenamento pátrio como
+
+[[pagina 15 | nativo]]
+fundamento da República e é característica de seleto grupo das Constituições ao redor do
+mundo, por isso que não pode ser amesquinhada para afastar ou restringir injustificadamente
+o controle judicial de atos normativos que afrontem liberdades econômicas básicas. (...) O
+exercício de atividades econômicas e profissionais por particulares deve ser protegido da
+coerção arbitrária por parte do Estado, competindo ao Judiciário, à luz do sistema de freios e
+contrapesos estabelecidos na Constituição brasileira, invalidar atos normativos que estabeleçam
+restrições desproporcionais à livre iniciativa e à liberdade profissional. Jurisprudência: RE 414426
+Relator(a): Min. Ellen gracie, Tribunal Pleno, julgado em 01-8-2011; RE 511961, Relator(a): Min.
+Gilmar mendes, Tribunal Pleno, julgado em 17-6-2009. O sistema constitucional de proteção de
+liberdades goza de prevalência prima facie, devendo eventuais restrições ser informadas por
+um parâmetro constitucionalmente legítimo e adequar-se ao teste da proporcionalidade,
+exigindo-se ônus de justificação regulatória baseado em elementos empíricos que
+demonstrem o atendimento dos requisitos para a intervenção. [...] A Constituição impõe ao
+regulador, mesmo na tarefa de ordenação das cidades, a opção pela medida que não exerça
+restrições injustificáveis às liberdades fundamentais de iniciativa e de exercício profissional (art.
+1º, IV, e 170; art. 5º, XIII, CRFB) (STF, ADPF 449, rel. min. Luiz Fux, j. 8-5-2019, P, DJE de 2-9-2019
+– negritou-se)
+
+Se é certo, de um lado, que nenhum condenado tem direito público subjetivo à estipulação da
+pena-base em seu grau mínimo, não é menos exato, de outro, que não se mostra lícito, ao
+magistrado sentenciante, proceder a uma especial exacerbação da pena-base, exceto se o fizer
+em ato decisório adequadamente motivado, que satisfaça, de modo pleno, a exigência de
+fundamentação substancial evidenciadora da necessária relação de proporcionalidade e de
+equilíbrio entre a pretensão estatal de máxima punição e o interesse individual de mínima
+expiação, tudo em ordem a inibir soluções arbitrárias ditadas pela só e exclusiva vontade do
+juiz [...] A aplicação da pena, em face do sistema normativo brasileiro, não pode converter-se
+em instrumento de opressão judicial nem traduzir exercício arbitrário de poder, eis que o
+magistrado sentenciante, em seu processo decisório, está necessariamente vinculado aos
+fatores e aos critérios, que, em matéria de dosimetria penal, limitam-lhe a prerrogativa de
+definir a pena aplicável ao condenado. Não se revela legítima, por isso mesmo, a operação
+judicial de dosimetria penal, quando o magistrado, na sentença, sem nela revelar a necessária
+base empírica eventualmente justificadora de suas conclusões, vem a definir, mediante fixação
+puramente arbitrária, a pena-base, exasperando-a de modo evidentemente excessivo, sem
+quaisquer outras considerações (STF, HC 96.590, rel. min. Celso de Mello, j. 9-6-2009, 2ª
+T, DJE de 4-12-2009 – negritou-se)
+
+49. Assim, imperioso analisar a necessidade, adequação e a proporcionalidade stricto sensu
+
+das medidas adotadas pela Lei nº 14.015/20 tendo por baliza a existência de elementos
+
+empíricos justificadores. De posse desta premissa, analisemos separadamente cada nova
+
+obrigação.
+
+[[pagina 16 | nativo]]
+50. Primeiro, o art. 2º da Lei nº 14.015/20 obriga a “comunicação prévia ao consumidor de
+
+que o serviço será desligado em virtude de inadimplemento, bem como do dia a partir do qual
+
+será realizado o desligamento, necessariamente durante horário comercial”.
+
+51. O fim perseguido com essa norma é o de dar ciência ao consumidor de seu
+
+inadimplemento e de que o serviço será interrompido.
+
+52. O primeiro aspecto digno de nota é que já existe comunicação prévia ao consumidor da
+
+interrupção dos serviços. Tanto em decorrência de entendimento exarado pelo STJ (STJ, AgRg
+no AREsp 412.822; REsp 1.270.339) quanto em razão do disposto no art. 17213 da Resolução nº
+
+414/10 da ANEEL (agência reguladora para o serviço de energia elétrica). Ressalte-se que os
+
+demais serviços públicos essenciais (telecomunicações, água e esgoto, etc) contam com
+
+disposições similares provenientes de seus órgãos reguladores.
+
+53. Com efeito, a real inovação da lei é a obrigação de que a notificação seja efetuada em
+
+horário comercial e aqui existe um problema de congruência entre meio e fim.
+
+54. Veja, Excelência, que o objetivo da notificação é a ciência do usuário. Desse modo, se a
+
+medida efetivamente dificultar a ciência do usuário ou impedir que uma determinada categoria
+
+de usuários seja eficazmente cientificada, haverá incongruência entre a medida adotada e o
+
+fim que ela pretende atingir, o que viola o princípio da razoabilidade e o primeiro sub-princípio
+
+da regra da proporcionalidade, a adequação.
+
+55. É fato notório que a quantidade de usuários de serviços públicos pessoas físicas supera
+
+em muito os usuários pessoas jurídicas, sejam elas de direito público ou privado, de modo que a
+
+maior parte dos consumidores brasileiros está sujeita à atividade laboral em horário comercial.
+
+Isso significa que a maior parte dos consumidores não estão em suas residências em horário
+
+comercial. Como, então, notificar em horário comercial um consumidor inadimplente, titular de
+
+unidade consumidora residencial, se nesse horário ele está em seu próprio trabalho, fora de sua
+
+residência?
+
+13 Art. 172. A suspensão por inadimplemento, precedida da notificação prevista no art. 173, ocorre pelo: [...]
+
+[[pagina 17 | nativo]]
+56. Poder-se-ia arguir que a alternativa é o contato via telefone celular ou no trabalho do
+
+usuário, mas estas são medidas que levam a discussão para o âmbito da privacidade e do
+
+controle de dados pessoais. Diante da aprovação da Lei Geral de Proteção de Dados (LGPD) e
+
+das novas diretrizes sobre a coleta e tratamento de dados pessoais é inviável que a prestadora
+
+de serviço público tenha acesso a dados pessoais do usuário apenas para fins de notificação em
+
+horário comercial, em conduta marcadamente invasiva.
+
+57. Não por outra razão que a prática indica que as notificações (que como dito acima já são
+
+realizadas) são tipicamente realizadas no “horário de almoço”, entre 12h e 14h, ou no início da
+
+noite, entre 18h e 20h. Essa prática objetiva exatamente garantir a ciência eficaz do
+
+consumidor com uma mínima intrusão de sua privacidade. Assim, a alternativa de contato via
+
+telefone celular ou no trabalho do usuário, dada a necessidade de colheita e custódia de dados
+
+pessoais sensíveis dos usuários (que agora são, inclusive, resguardados legalmente pela LGPD) é
+
+mais gravosa que o contato realizado fora do horário comercial indicado, pelo que essa
+
+alternativa sucumbe ao subprincípio da necessidade e não pode ser considerada como
+
+alternativa constitucionalmente válida.
+
+58. Conclui-se que a medida exposta no art. 2º da Lei nº 14.015/20 sobre as notificações de
+
+usuários em horário comercial é incongruente entre meio e fim perseguido, pois cria obstáculo
+
+intransponível à ciência eficaz da maior parte dos consumidores. Assim, restam violados os
+
+postulados da proporcionalidade, no teste da adequação, e razoabilidade, pelo que se requer a
+
+declaração de inconstitucionalidade do art. 2º da Lei nº 14.015/20 quanto ao ponto.
+
+59. Segundo, os arts. 2º e 3º da Lei nº 14.015/20 vedam a “suspensão da prestação de
+
+serviço em virtude de inadimplemento por parte do usuário que se inicie na sexta-feira, no
+
+sábado ou no domingo, bem como em feriado ou no dia anterior a feriado”.
+
+60. A finalidade dessa norma é dar oportunidade para que o usuário inadimplente quite a
+
+dívida e evite a interrupção do serviço, vez que em feriados e finais de semana não há
+
+expediente bancário ou comercial, o que dificulta o pagamento da dívida e eventual religação
+
+do serviço.
+
+[[pagina 18 | nativo]]
+61. De se destacar que é pacífica a possibilidade de suspensão de serviço público essencial
+uti singuli, tal qual a distribuição de energia elétrica (art. 10 da Lei nº 7.783/89)14, por
+
+inadimplência do usuário. A jurisprudência cuidou, apenas, de estabelecer certas limitações à
+
+essa suspensão, tais como: i) respeito ao princípio da não surpresa, devendo existir prévia
+
+comunicação, por escrito (STJ, AgRg no AREsp 412.822; REsp 1.270.339), ii) impossibilidade de
+
+interrupção do serviço por dívida pretérita, a título de recuperação de consumo (REsp
+
+1.298.735), iii) abuso de direito pela concessionária em ofensa aos princípios constitucionais da
+
+proporcionalidade e razoabilidade quando da suspensão em razão de um débito de R$ 0,85 (STJ,
+
+REsp 811.690), iv) quando o débito decorrer de suposta fraude no medidor de consumo de
+
+energia apurada unilateralmente pela concessionária (REsp 1.298.735; AgRg no AREsp 346.561;
+
+AgRg no AREsp 370.812), e v) desde que a interrupção não atinja serviços públicos essenciais
+
+para a coletividade, tais como escolas, creches, delegacias e hospitais. Coloca-se em evidencia o
+
+princípio da supremacia do interesse público (EDcl no REsp 1.244.385; AgRg no REsp 1.523.996;
+
+AgRg no AREsp 301.907; AgRg no AREsp 543.404; AgRg nos EREsp 1.003.667).
+
+62. Já existem, portanto, diversas restrições e condições impostas pela jurisprudência para
+
+a interrupção do fornecimento do serviço mesmo diante de inadimplência do usuário. Cabe
+
+averiguar, portanto, se as restrições adicionais impostas pela Lei nº 14.015/20 se coadunam
+
+com a harmonia do sistema, especialmente frente aos parâmetros da proporcionalidade e
+
+razoabilidade.
+
+63. A pergunta a ser feita aqui, Excelência, é se a condição de inadimplência do usuário é
+
+capaz de se alterar em um único dia de feriado ou em um único final de semana.
+
+64. De fato, a inadimplência de usuários decorre ou i) de dificuldades operacionais no
+
+pagamento, geralmente oriundas de vicissitudes da vida ou de questão formais relativas a
+
+bancos e boletos, ou ii) de falta de verba (dinheiro) para o cumprimento da obrigação.
+
+14 Art. 10 São considerados serviços ou atividades essenciais: I - tratamento e abastecimento de água; produção e
+distribuição de energia elétrica, gás e combustíveis; (negritou-se)
+
+[[pagina 19 | nativo]]
+65. Como dito anteriormente, o usuário já é devidamente notificado, com antecedência
+
+quinzenal, da existência de dívida em aberto e da interrupção do serviço em caso de
+
+permanência do estado de inadimplência.
+
+66. Ora, se o usuário está inadimplente por qualquer razão operacional, uma vez
+
+devidamente notificado e informado tem tempo hábil suficiente para quitar a dívida e evitar o
+
+“corte” de fornecimento. Para esta categoria de usuários inadimplentes, portanto, a
+
+notificação prévia supre o problema. Assim, analisando sob a óptica da regra da
+
+proporcionalidade na etapa da necessidade, já existe medida menos gravosa (notificação
+
+prévia) para solucionar a inadimplência de usuários por questões operacionais.
+
+67. Assim, quanto ao ponto da vedação de suspensão referente a categoria de usuários
+
+inadimplentes por questões operacionais a medida imposta pela Lei nº 14.015/20 não supera o
+
+subprincípio da necessidade e, por conseguinte, tem-se violação à regra da proporcionalidade.
+
+68. O usuário inadimplente por falta de verba, a seu turno, usualmente tem o período entre
+
+a notificação e a data da suspensão do serviço para regularizar suas finanças. No caso de
+
+energia elétrica, por exemplo, a classe de baixa renda tem um intervalo mínimo de 30 (trinta)
+
+dias entre notificação e suspensão do serviço, nos termos do art. 172, §3º da Resolução nº
+414/10 da ANEEL15.
+
+69. Transcorrido o tempo entre a notificação e a data agendada para interrupção dos
+
+serviços, caso o usuário tenha regularizado suas finanças, pagará a dívida e evitará o “corte” do
+
+serviço. Caso não tenha regularizado suas finanças, então o serviço será interrompido.
+
+70. A pergunta que se faz é a seguinte: se nos 30 dias entre a notificação e a suspensão
+
+efetiva do serviço o consumidor deixou de regularizar sua situação financeira, um único dia de
+
+feriado ou um único final de semana tem o condão de alterar a situação? Um usuário
+
+consegue regularizar sua situação financeira em um dia de feriado ou em um final de semana,
+
+15 § 3o Para as unidades consumidoras classificadas nas Subclasses Residencial Baixa Renda deve ocorrer com
+intervalo mínimo de 30 (trinta) dias entre a data de vencimento da fatura e a data da suspensão do fornecimento
+
+[[pagina 20 | nativo]]
+ainda mais considerando que inexiste expediente bancário em finais de semana e feriados, pelo
+
+que salários ou rendimentos não são pagos nessas datas?
+
+71. É possível que para alguns usuários um final de semana permita auferir numerários para
+
+quitar a dívida, mas certamente para a grande maioria isso não é verdade e regras/leis são
+
+elaboradas tendo-se em conta a maioria (e, se for o caso, prevê-se exceções).
+
+72. De qualquer modo, a opção regulatória de conceder um final de semana a mais para
+
+que o usuário tenha a oportunidade de quitar a dívida não está baseada em elementos
+
+empíricos. Não existe qualquer levantamento aritmético ou estatístico que comprove que
+
+parcela significativa de usuários consegue regularizar suas finanças em um final de semana. É
+
+pura especulação do legislador, denotando o estabelecimento de regra absolutamente
+
+arbitrária.
+
+73. Pelo lado das prestadoras de serviço público, contudo, a alteração acarreta impacto
+
+imediato.
+
+74. Excelência, a prestadora de serviço público destaca equipe de funcionários para realizar
+
+o múnus da suspensão do fornecimento para usuários inadimplentes. Estes trabalhadores, por
+
+evidente, laboram de segunda a sexta-feira. A prestadora de serviços passa aos seus
+
+funcionários lista de usuários inadimplentes que devem ter o serviço suspenso numa dada
+
+semana. Os funcionários, então, realizam seu múnus como qualquer outro trabalhador, de
+
+segunda a sexta-feira.
+
+75. Com a aprovação da Lei nº 14.015/20 esses funcionários agora só podem trabalhar de
+
+segunda a quinta-feira e não trabalham em vésperas de feriados. Isso traz as seguintes
+
+consequências:
+
+i) A prestadora está pagando funcionários para trabalhar de segunda a quinta quando
+
+sua jornada contratual é de segunda a sexta;
+
+ii) Os funcionários não trabalham em vésperas de feriado, mas recebem remuneração;
+
+[[pagina 21 | nativo]]
+iii) A carga de trabalho de suspensão de serviços antes calculada para ser distribuída em
+
+cinco dias úteis semanais agora precisa ser redistribuída em quatro dias úteis, o que
+
+implica ou a sobrecarga de funcionários (o que inevitavelmente terá repercussões
+
+trabalhistas) ou a contratação de mais funcionários, e qualquer das opções eleva os
+
+custos da operação e, via de consequência, há de impactar no valor da tarifa do
+
+serviço;
+
+iv) Nas semanas com feriados às terças, quartas ou quintas o trabalho que antes era
+
+distribuído em quatro dias agora tem de ser distribuído em dois dias, o que acarreta
+
+ainda maior sobrecarga de funcionários ou ainda maior aumento de custos por
+
+aumento da mão-de-obra, fora o fato de que o funcionário só vai trabalhar dois dias
+
+na semana quando antes trabalhava quatro, percebendo o mesmo salário (o direito
+
+do trabalho não permite a redução salarial – princípio da inalterabilidade contratual
+
+lesiva);
+
+v) O serviço será prestado sem a devida contraprestação por mais tempo (um final de
+
+semana ou dois dias – feriado e véspera – a mais), sendo que a razão de ser da
+
+interrupção do serviço é o equilíbrio econômico-financeiro da operação com vistas
+
+ao atendimento da coletividade. De se esclarecer que o custo da prestação de
+
+serviços por um final de semana a mais é multiplicado pela quantidade de usuários
+
+inadimplentes, pelo que se torna valor não marginal.
+
+76. Como se vê, a medida adotada pela lei ora impugnada traz diversas consequências
+
+diretas e imediatas à prestação dos serviços, com impacto específico não apenas na matriz de
+
+custos, mas na operacionalização da equipe de funcionários da concessionária de serviço
+
+público. Lado outro, do ponto de vista do consumidor não existe qualquer dado empírico que
+
+comprove que terá ele condições de reverter seu quadro financeiro no final de semana ou
+
+feriado, e efetivamente a lógica e o bom senso apontam no sentido de que a maioria dos
+
+consumidores não é efetivamente capaz de regularizar sua situação financeira num único final
+
+de semana.
+
+[[pagina 22 | nativo]]
+77. Ademais, a prorrogação do fornecimento de serviço sem a devida contraprestação por
+
+mais tempo implica aumento do custo operacional, com repercussões sobre o equilíbrio
+
+econômico-financeiro da operação e, consequentemente, no valor da tarifa cobrado do usuário
+
+adimplente. A medida, portanto, estará apenas onerando adicionalmente o usuário adimplente,
+
+sem que haja justificativa razoável para tanto, em violação ao princípio da modicidade tarifária.
+
+Aliás, o aumento da tarifa pode ensejar aumento do número de usuários inadimplentes,
+
+gerando efeito cascata marcadamente indesejável.
+
+78. Bem se vê, portanto, que é inquestionável o impacto nas prestadoras de serviços
+
+públicos, mas duvidosa a utilidade prática para os consumidores finais. A violação ao princípio
+
+da proporcionalidade já fora reconhecida por este C. STF em situação similar. No bojo da ADI nº
+
+855, Red. p/ acórdão Min. Gilmar Mendes, conhecido como caso da “ pesagem do botijão de
+
+gás”, restou estabelecido que “os esclarecimentos de fato [...] servem, de um lado, como
+
+proficientemente explorados na petição, não só para lastrear o questionamento da
+
+proporcionalidade ou da razoabilidade da disciplina legal impugnada, mas também para
+
+indicar a conveniência de sustar – ao menos, provisoriamente – as inovações por ela impostas,
+
+as quais, onerosas e de duvidosos efeitos úteis, acarretariam danos de incerta reparação para
+
+a economia do setor, na hipótese – que não é de afastar – de que venha ao final a declarar a
+
+inconstitucionalidade da lei” (negritou-se).
+
+79. Assim, as “inovações por ela impostas”, aqui entendendo-se ela como a Lei nº
+
+14.015/20, são “onerosas e de duvidosos efeitos úteis”, vez que impõem aumento significativo
+
+de custos e necessidade de alteração em todo o regime trabalhista e operacional ao tempo em
+
+que não há indícios (muito pelo contrário) de que os efeitos pretendidos seriam de fato
+
+alcançados, acarretando “danos de incerta reparação para a economia do setor”, razão pela
+
+qual restam violados os postulados da razoabilidade e proporcionalidade, este tanto pelo
+
+aspecto da adequação (inexistência de elementos que demonstrem a utilidade da medida para
+
+atingir o fim perseguido) quanto da proporcionalidade em sentido estrito (a restrição imposta
+
+pela lei impugnada causa diversos prejuízos diretos e imediatos às concessionárias – restrição
+
+de direitos – com desprezível, se houver, efeito positivo ao consumidor).
+
+[[pagina 23 | nativo]]
+80. Não é só. Há mais de uma década empresas prestadoras de serviços públicos essenciais,
+
+como as distribuidoras de energia elétrica, desenvolveram sistema que permite que usuários
+
+paguem faturas vencidas aos finais de semana.
+
+81. O sistema é do tipo POS (Point of Sale, o mesmo utilizado pelas “maquininhas” de cartão
+
+de crédito) e funciona mediante convênio firmado estre as empresas e o comércio local,
+
+tipicamente farmácias e supermercados. Esses convênios permitem ao consumidor final o
+
+pagamento de fatura de energia elétrica, por exemplo, no supermercado ou farmácia, mesmo
+
+em finais de semana. O comércio conveniado (farmácia ou mercado) registra o pagamento da
+
+fatura pelo consumidor final em sistema POS e a concessionária de serviço público é
+
+imediatamente informada do pagamento e registra a “baixa” no débito daquele consumidor,
+
+evitando interrupção do serviço por inadimplência.
+
+82. Alguns pontos sobre esse sistema precisam ser esclarecidos. Primeiro, cada empresa é
+
+responsável pelo seu próprio sistema, de modo que não há uma homogeneidade de sistemas,
+
+mas a esmagadora maioria das empresas tem um sistema do tipo. Segundo, a forma da
+
+transação financeira entre conveniado e concessionária de serviço público também varia entre
+
+empresas e está sujeita às limitações bancárias. Significa que quando uma farmácia conveniada,
+
+por exemplo, recebe o pagamento de uma fatura o registro desse pagamento é enviado
+
+imediatamente para a concessionária (que registra a quitação do débito), mas o valor relativo à
+
+essa fatura só é repassado para a concessionária em dia posterior (tipicamente um ou dois dias
+
+depois do efetivo pagamento, a depender do sistema, das questões bancárias e do convênio
+
+firmado que, como dito, varia de empresa para empresa). Terceiro, esse sistema de convênios
+
+foi primeiro desenvolvido e implementado em pequenas cidades e municípios, geralmente do
+
+interior, haja vista que são essas localidades em que essa facilidade é mais necessária. Em anos
+
+recentes se está ampliando o uso desse sistema para as demais regiões urbanas e rurais e a
+
+tendência é que o sistema seja amplamente adotado em todo o país. Quarto, o custo da
+
+implementação e uso desse sistema é muito inferior ao custo resultante da implementação das
+
+medidas ordenadas pela Lei nº 14.015/20, ora impugnada.
+
+[[pagina 24 | nativo]]
+83. Assim, o sistema de convênios e registro de pagamento via POS é uma alternativa muito
+
+menos onerosa do que aquela imposta no diploma ora impugnado e atinge o mesmo fim,
+
+possibilidade de pagamento de dívidas aos finais de semana e feriados. Essa alternativa já está
+
+inclusive implementada em cidades e municípios pequenos e com planos de expansão. Diante
+
+disso os dispositivos da Lei nº 14.015/20 violam a regra da proporcionalidade, pois não
+
+subsistem ao subprincípio da necessidade (existe medida menos gravosa que atinge o mesmo
+
+fim). Registre-se que a alternativa do convênio pode ser utilizada tanto por consumidores
+
+inadimplentes por questões operacionais quanto por aqueles com falta de capacidade
+
+financeira.
+
+84. Destarte, por mais nobres que sejam as intenções do legislador, a medida imposta pela
+
+Lei nº 14.015/20 é desprovida de razoabilidade e proporcionalidade em face i) da ausência de
+
+indicações empíricas da aptidão de usuários em quitar dívidas num final de semana, ii) da
+
+presença de impactos certos e significativos na operação das prestadoras de serviço tanto em
+
+relação a custos quanto à própria operacionalização das suspensões (redistribuição da carga de
+
+trabalho em menos dias úteis de serviço), iii) do indicativo lógico de que os usuários
+
+inadimplentes por falta de verba, com raríssimas exceções, não revertem o quadro num final de
+
+semana ou feriado (em que, repita-se, não há pagamento de salários ou dividendos ante a
+
+ausência de expediente bancário, mesmo transferências eletrônicas só “caem” na conta no dia
+
+útil subsequente), e iv) da existência do sistema de convênios e POS com mercados e farmácias,
+
+medida marcadamente menos gravosa e que atinge o mesmo fim e que já está implementada e
+
+em funcionamento a mais de uma década.
+
+85. Ante o exposto, respeitosamente requer-se a declaração de inconstitucionalidade dos
+
+arts. 2º e 3º da Lei nº 14.015/20 naquilo em que i) obrigam a notificação prévia de
+
+consumidores em horário comercial, e ii) vedam a interrupção do fornecimento de serviços a
+
+usuários inadimplentes em feriados, vésperas de feriados, sextas-feiras e finais de semana.
+
+III.2 – INCONSTITUCIONALIDADE FORMAL. VÍCIO NO PROCEDIMENTO LEGISLATIVO
+
+86. A inconstitucionalidade formal macula o inteiro teor do diploma legal e independe de
+
+seu conteúdo material, pelo que pode ser aviada e analisada sem se aprofundar no debate
+
+[[pagina 25 | nativo]]
+sobre o conteúdo material das normas.
+
+III.2.1 – CASO CONCRETO: VÍCIO NA TRAMITAÇÃO PELO REGIME DE URGÊNCIA
+
+87. Como se demonstrará a seguir, a Lei nº 14.015/20 foi aprovada no Congresso Nacional
+
+tendo tramitado em regime de urgência respaldado na situação de pandemia que assola o país.
+
+Ocorre que a Lei nº 14.015/20 não dispõe sobre tema algum relacionado, nem remotamente,
+
+com a pandemia. O que ocorreu de fato foi um “uso político da pandemia”, em que
+
+parlamentares “se aproveitaram” da pandemia para aprovar Projeto de Lei ligado a seus
+
+interesses particulares, o que caracteriza evidente desvio de finalidade legislativo e afronta ao
+
+princípio democrático.
+
+88. Como afirmado na primeira seção desta peça, a Lei nº 14.015/20 originou-se do PL nº
+
+669/19 do Senado, que foi proposto em 12.02.2019 pelo Senador Weverton Rocha do PDT (Doc.
+
+5). O trâmite no Senado ocorreu durante todo o ano de 2019, sendo aprovado em caráter
+
+terminativo com emendas em 18.12.2019 e remetido à Câmara dos Deputados em 07.04.2020,
+
+conforme se verifica do espelho de tramitação do PL (Doc. 6). Importa frisar que o trâmite
+
+inicial no Senado se deu pelo regime ordinário de tramitação, ausente qualquer pedido de
+
+tramitação em regime de urgência.
+
+89. Em 06.05.2020, portanto um mês após a chegada do PL na Câmara, foi apresentado
+
+pelo Deputado Wolney Queiroz do PDT o Requerimento de Urgência nº 957/2020 (Doc. 7), para
+
+a tramitação do feito, que restou aprovado. Referido Requerimento teve por lastro o art. 155 do
+
+Regimento Interno da Câmara dos Deputados (RICD). Eis o inteiro teor do Requerimento:
+
+Requeremos nos termos do art. 155 do Regimento Interno da Câmara dos Deputados, regime de
+urgência para apreciação do Projeto de Lei n° 669/19, Do Sr. WEVERTON ROCHA, que Altera a Lei
+n° 13.460, de 26 de junho de 2017 (Código de Defesa do Usuário do Serviço Público), e a Lei n°
+8.987, de 13 de fevereiro de 1995 (Lei de Concessões), para dispor sobre a interrupção e a
+religação ou o restabelecimento de serviços públicos
+
+90. Cumpre analisar, então, o art. 155 do RICD:
+
+Art. 155. Poderá ser incluída automaticamente na Ordem do Dia para discussão e votação
+imediata, ainda que iniciada a sessão em que for apresentada, proposição que verse sobre
+
+[[pagina 26 | nativo]]
+matéria de relevante e inadiável interesse nacional, a requerimento da maioria absoluta da
+composição da Câmara, ou de Líderes que representem esse número, aprovado pela maioria
+absoluta dos Deputados, sem a restrição contida no § 2º do artigo antecedente (negritou-se)
+
+91. A redação do dispositivo regimental é clara. O regime de urgência é concedido quando
+
+preenchidos simultaneamente os critérios de relevância e inadiável interesse nacional. Não
+
+preenchidos os critérios tem-se inobservância do art. 155 do RICD e regime ilícito de tramitação
+
+do PL.
+
+92. De início salta aos olhos que o Requerimento nº 957/2020 não traz qualquer motivação
+
+ou justificativa de porque as alterações nele contidas contemplam relevante interesse
+
+nacional e muito menos sobre caráter inadiável da alteração proposta. Simplesmente não há
+
+justificativa, há apenas o requerimento.
+
+93. Todavia, o ponto fulcral da discussão é que a aprovação do regime de urgência e do PL
+
+se deram em meio à notória pandemia do SARS-CoV-2 (covid19) que assola o país. Por ser fato
+
+notório (art. 374, I do CPC/15) não se fará grande digressão sobre a pandemia.
+
+94. Aqui basta a ciência de que desde março de 2020 o país e o mundo enfrentam pandemia
+decorrente de doença letal que já vitimou 115 mil pessoas no Brasil16. O estado de calamidade
+
+pública foi reconhecido pelo Congresso Nacional pelo Decreto Legislativo nº 6/2020 e a situação
+
+sanitária e de saúde pública é caótica. Em razão disso, e como não poderia deixar de ser,
+
+Governo e Congresso Nacional passaram a adotar diversas medidas emergenciais de contenção
+
+e mitigação de danos e efeitos.
+
+95. O problema surge quando se passa a observar o que se denominou de “uso político da
+
+pandemia”. O “uso político da pandemia” representa um conjunto de medidas e condutas de
+
+políticos do Executivo e do Legislativo que, a pretexto de objetivarem enfrentar os efeitos
+
+deletérios da pandemia, são na verdade voltados à percepção de benefícios políticos próprios
+
+ou de seus partidos.
+
+16 Fonte: https://g1.globo.com/bemestar/coronavirus/noticia/2020/08/24/casos-e-mortes-por-coronavirus-no-
+brasil-em-24-de-agosto-segundo-consorcio-de-veiculos-de-imprensa.ghtml
+
+[[pagina 27 | nativo]]
+96. O “uso político da pandemia” pode se dar de várias formas. A que aqui interessa é o
+
+efeito prático causado ao parlamento no que tange à aprovação de leis. Foi amplamente
+
+divulgado e denunciado que parlamentares e governo pretendiam “se aproveitar” da
+
+pandemia para aprovar suas pautas políticas no Congresso Nacional. Veja-se alguns
+exemplos17:
+
+17 Em ordem, disponível em: https://jus.com.br/artigos/81739/congresso-aproveita-momento-de-pandemia-e-
+aprova-o-polemico-fim-do-voto-de-qualidade-no-carf; https://appsindicato.org.br/ratinho-jr-aproveita-pandemia-
+para-privatizar-servicos-do-estado/; https://brasil.elpais.com/brasil/2020-05-22/salles-ve-oportunidade-com-
+coronavirus-para-passar-de-boiada-desregulacao-da-protecao-ao-meio-ambiente.html. Acesso em 24.08.2020.
+
+[[pagina 28 | nativo]]
+97. A discussão eminentemente política e o acerto ou desacerto das decisões e manchetes
+
+colacionadas acima fogem ao escopo da presente ADI. O que importa discutir é o fato de que o
+
+Congresso Nacional “usou” a pandemia como justificativa para aprovar diversos
+
+requerimentos de urgência, a pretexto de que se estaria diante de medidas necessárias ao
+
+enfrentamento da situação ou necessárias ao restabelecimento nacional após o fim da
+
+pandemia, mas que na verdade visavam ganhos eleitoreiros descorrelacionados com a
+
+pandemia.
+
+98. Essa conduta, que evidentemente deve ser analisada caso a caso, não se coaduna com o
+
+princípio democrático, configura evidente desvio de finalidade legislativo e não pode ser infensa
+
+ao crivo deste STF.
+
+99. No caso concreto temos lei que dispõe sobre alterações estruturais na forma de
+
+interrupção e religação de serviços públicos. Note-se que a interrupção de serviços por
+
+inadimplência do usuário e a religação destes serviços uma vez quitada a dívida é situação que
+
+ocorria muito antes da pandemia e vai continuar a ocorrer muito depois da pandemia. Além
+
+disso, a Lei nº 14.015/20 cria regras de interrupção e religação voltada à feriados e finais de
+
+semana, sendo desnecessário pontuar que a pandemia não está adstrita aos finais de semana.
+
+É dizer, é situação absolutamente independente da pandemia.
+
+100. Tanto o é que a medida foi proposta e aprovada no Senado ainda em 2019, muito antes
+
+do início da pandemia ou das primeiras notícias do covid-19 na China, sendo certo que em 2019
+
+o trâmite era ordinário, sem qualquer justificativa para tramitação de urgência.
+
+101. Ora, se a matéria não configurou por um ano inteiro questão de relevante e inadiável
+
+interesse nacional, por que agora, em meio à pandemia, o seria? E mais, se a matéria era de
+
+fato relevante e inadiável para a pandemia, porque ficou um mês “parada” na Câmara sem
+
+requerimento de urgência (o requerimento de urgência foi formulado em maio, dois meses
+
+após o início da pandemia e quando as questões efetivamente urgentes relacionadas à
+
+pandemia já haviam sido discutidas pelo Congresso)?
+
+[[pagina 29 | nativo]]
+102. Questões legislativas cujo trâmite emergencial efetivamente decorre da pandemia são
+
+aquelas medidas especificamente voltadas ao enfrentamento dos efeitos deletérios do estado
+
+de calamidade pública ou imprescindíveis à reestruturação do país no pós-pandemia. Medidas
+
+descorrelacionadas à pandemia não se enquadram nos critérios de urgência de tramitação e
+
+aprovação.
+
+103. De se destacar que várias medidas ligadas à prestação de serviços públicos na pandemia
+
+foram levantadas e tomadas pelo Governo e pelos parlamentares. Foram propostos PLs que
+impediam o “corte” de serviços públicos essenciais18 durante a pandemia. Estas medidas sim
+
+guardam relação com a pandemia e podem/poderiam tramitar sob regime de urgência tendo
+
+como baliza inadiável interesse nacional.
+
+104. Não é, contudo, o caso da Lei nº 14.015/20. A despeito de discussão sobre a relevância
+
+nacional da questão, certamente o quesito da impossibilidade de adiamento da discussão não
+
+estava presente quando da aprovação da tramitação do feito pelo regime do art. 155 do RICD.
+
+105. O PL que deu origem à Lei nº 14.015/20 trata de questões ordinárias e tradicionais
+
+ligadas ao serviço público e pretende promover alterações em situação consolidada há
+
+décadas. Ademais, conforme anotado, tem por escopo alterações voltadas ao inadimplente
+
+usual em feriados e finais de semana e comunicações em horário comercial. Não é preciso
+
+anotar que a pandemia não existe só aos finais de semana ou feriados, nem só em horário
+
+comercial, de modo que não há qualquer correspondência entre o objeto da Lei nº 14.015/20
+
+e a pandemia, sendo certo que medidas que realmente relacionam pandemia e serviços
+
+públicos foram tomadas por meio de outros PLs, inclusive em âmbito estadual e municipal.
+
+106. Noutro giro, forçoso reconhecer que em meio à pandemia, dada sua escala e a extensão
+
+dos efeitos danosos, alteração legislativa sobre prestação ordinária de serviços públicos,
+
+descorrelacionada ao contexto pandêmico ou pós-pandêmico, e de natureza administrativa
+
+(quando e de que modo interrupções ordinárias dos serviços podem ser efetuadas) não
+
+configura inadiável interesse nacional.
+
+18 https://www.camara.leg.br/noticias/647288-projeto-impede-corte-de-servicos-essenciais-por-falta-de-
+pagamento-durante-pandemia/
+
+[[pagina 30 | nativo]]
+107. O propósito do regime de urgência é permitir ao Congresso Nacional que aprecie
+
+questões cuja resposta legislativa precisa ser imediata. Daí porque inadiável. Assim, a validade
+
+da tramitação sob regime de urgência está intrinsecamente ligada à convergência temporal
+
+entre o objeto da proposta legislativa e a realidade atual.
+
+108. Ora, a realidade pandêmica requer, do ponto de vista temporal, a apreciação de
+
+questões voltadas à pandemia. In casu, matéria de estatura ordinária, que foi discutida ao longo
+
+de todo o ano de 2019 e que não traz qualquer benefício ligado à pandemia, foi tratada com
+
+urgência. Há evidente desvio de finalidade legislativo.
+
+109. Assim, restando demonstrado i) que o objeto da Lei nº 14.015/20 é absolutamente
+
+independente do contexto pandêmico (não mitiga ou afeta quaisquer fatos ligados à pandemia),
+
+ii) que tramitou no Senado normalmente, em regime ordinário, durante todo o ano de 2019, iii)
+
+que a pandemia não afeta a urgência de apreciação da questão exatamente porque
+
+descorrelacionados, iv) que o requerimento de tramitação de urgência não conta com uma
+
+linha sequer indicando motivação ou justificativa para a urgência pleiteada, v) que o “uso
+
+político da pandemia” é fato notório, vi) que a situação objeto da lei está consolidada há
+
+décadas e que não há justificativa para que seja “alteração inadiável” em meio à pandemia, e
+
+vii) que a suposta urgência do PL nº 669/19 (e de vários outros) foi aprovada “aproveitando-se”
+
+da pandemia, queda inconteste a violação ao art. 155 do RICD, sendo ilícito o trâmite do PL nº
+
+669/19 (que deu origem à lei ora impugnada) em regime de urgência.
+
+110. Com efeito, a conduta parlamentar de valer-se de estado de exceção pelo qual passa o
+
+país e explorar regime de tramitação para aprovar projeto de lei visando benefícios políticos
+
+futuros não se coaduna com os princípios norteadores do processo legislativo, de sorte que o
+
+reconhecimento do desvio de finalidade legislativo é medida que se impõe.
+
+111. Data venia, é função deste C. STF, enquanto guardião da Constituição em um Estado
+
+Democrático de Direito, coibir condutas flagrantemente antidemocráticas como as aqui
+
+relatadas de “uso político da pandemia” e de uso da pandemia como “justificativa” para aprovar
+
+tramitação em regime de urgência de PLs que não apresentam critérios para tanto. De fato, essa
+
+[[pagina 31 | nativo]]
+conduta parlamentar impede o efetivo exercício da democracia no âmbito do Congresso
+
+Nacional e finda por ludibriar os demais representantes do povo.
+
+112. Em um estado em que a democracia é “densa de significação e plena de potencialidade”
+
+(STF, MS 24.831. Rel. Min. Celso de Mello, Pleno, DJ: 04.08.2006) não pode o Judiciário permitir
+
+a existência de condutas que burlam a concretização do princípio democrático para a aprovação
+
+de leis.
+
+113. Ante o exposto, restando patente a violação ao art. 155 do RICD e a ilicitude do trâmite
+
+do PL em regime de urgência, impedindo o necessário e esperado debate democrático no
+
+âmbito do Câmara dos Deputados, tem-se insuperável mácula no processo legislativo que deu
+
+origem à Lei nº 14.015/20, pelo que se requer o reconhecimento de inconstitucionalidade
+
+formal apta a retirar a citada da lei do ordenamento pátrio.
+
+114. Dada a sensibilidade da matéria ora veiculada, necessário tecer considerações teóricas
+
+sobre o cabimento e procedência do pedido ora realizado. É o que se passa a fazer.
+
+III.2.2 – CONTROLE DE CONSTITUCIONALIDADE DE PROCESSO LEGISLATIVO E
+
+JURISPRUDÊNCIA DO SUPREMO
+
+115. Explicitado o vício formal ora denunciado, e considerando a natureza sensível da
+
+impugnação de norma regimental, faz-se necessária digressão sobre a revisibilidade judicial de
+
+normas regimentais das Casas Legislativas. Especificamente, será demonstrado que as normas
+
+regimentais que densificam o processo legislativo são materialmente constitucionais, pelo que
+
+compete à esta Suprema Corte o controle de juridicidade.
+
+116. HELY LOPES MEIRELLES explica que o processo legislativo compreende as seguintes fases e
+
+atos considerados essenciais à tramitação do projeto de lei: a iniciativa, discussão, votação,
+sanção e promulgação, ou veto19.
+
+19 MEIRELLES, Hely Lopes. Direito municipal brasileiro. 15 ed. São Paulo: Malheiros, 2006.
+
+[[pagina 32 | nativo]]
+117. A jurisprudência do STF sobre o controle judicial do processo legislativo desenvolveu-se
+
+ao redor da impetração de Mandados de Segurança preventivos por parlamentares. O
+
+cabimento de MS para resguardar o direito líquido e certo de parlamentares ao devido processo
+
+legislativo foi admitido pelo STF, pela primeira vez, no voto-vista do ministro Moreira Alves no
+
+MS nº 20.257/DF. De então consolidou-se no âmbito desta Suprema Corte o cabimento de MS a
+
+fim de tutelar direito líquido e certo à observância do devido processo legislativo constitucional.
+
+Neste sentido vide MS 23.565, Rel. Min. Celso de Mello, Pleno, DJ: 17.11.1999; MS 24.667, Min.
+
+Carlos Velloso, Pleno, DJ: 23.04.04; MS 32.033, Relator p/ acórdão Min. Teori Zavascki, Pleno,
+
+DJ: 20.06.2013; MS 34.530 MC, Rel. Min. Luiz Fux, DJ: 14.12.2016.
+
+118. De se destacar que o controle preventivo do processo legislativo cabe ao parlamentar
+
+mediante impetração de MS, ao passo que o controle repressivo de vícios no processo
+
+legislativo cabe a outros legitimados em sede de ADI. Contudo, a discussão que ora se busca
+
+com a análise da jurisprudência dos mandamus é a extensão do conteúdo material e jurídico
+
+do processo legislativo afeito à análise judicial pelo STF, fator comum a ambos os ritos
+
+preventivo e repressivo.
+
+119. Feita essa ressalva, de se notar que não obstante ser sólida a possibilidade de controle
+
+de processo legislativo pelo STF, questão mais tortuosa é a extensão dessa análise. No MS nº
+
+22.503, Redator p/ acórdão Min. Maurício Corrêa, o STF se pronunciou no sentido de que
+
+violações a regras regimentais da Câmara e do Senado não poderiam ser opostas como vícios de
+
+constitucionalidade formal, por se tratar de questão interna corporis do Congresso Nacional,
+
+infensas ao controle judicial. Esse entendimento foi repisado em casos posteriores.
+
+120. Todavia, a análise de DEL NEGRI das decisões do STF no exercício do controle preventivo
+levou a duas conclusões, uma óbvia e outra surpreendente20:
+
+No campo das obviedades, está uma série de decisões que, a bem dizer, são aproveitamentos de
+decisões antigas do tribunal no sentido de negar a ressignificação de projetos de lei, no
+Judiciário, pelo entendimento de que o assunto é de competência interna corporis. No campo
+das surpresas, verifica-se que pós-88 alguns Ministros apresentaram uma compreensão de um
+Direito Democrático de forma que a decisão interna corporis fosse desafiada (negritou-se)
+
+20 DEL NEGRI, André. Processo constitucional e decisão interna corporis. Belo Horizonte: Fórum, 2011. Pg. 96.
+
+[[pagina 33 | nativo]]
+121. Em contraponto à corrente antiga do STF, surgiu, depois da CF/88, uma corrente que
+
+conhece das alegadas ofensas às regras regimentais para avançar sobre as matérias
+
+anteriormente consideradas como de natureza interna corporis.
+
+122. O MS nº 31.816/DF foi impetrado contra o ato da Mesa Diretora do Congresso Nacional
+
+que acolheu requerimento de urgência para a apreciação de veto presidencial. O MS alegava
+
+ofensa a dispositivos regimentais e o relator, Min. Luiz Fux, deferiu liminar apresentando quatro
+
+razões substantivas “para não se transigir com este entendimento ortodoxo [de matérias
+
+interna corporis] e, consequentemente, encampar um elastério no controle jurisdicional nas
+
+questões jurídicas porventura existentes nas vísceras de cada Poder” (STF, MS nº 31.816 MC,
+
+Min. Luiz Fux).
+
+123. Primeiro, as disposições regimentais “consubstanciam, em tese, autênticas normas
+
+jurídicas e, como tais, são dotadas de imperatividade e de caráter vinculante”. Assim, sua
+
+obrigatoriedade autoriza a resposta pelo Poder Judiciário. “Nesse cenário, é inconcebível a
+
+existência de normas cujo cumprimento não se possa exigir coercitivamente”. Segundo, cabe a
+
+regimentos internos estruturar as normas constitucionais sobre processo legislativo, que nada
+
+mais fixam do que diretrizes genéricas ao legislador. Com isso, a definição das normas
+
+reguladoras das atividades legislativas pelos parlamentares “denota autolimitação voluntária
+
+por parte dos próprios legisladores, enquanto produção normativa endógena, que traduz um
+
+pré-compromisso com a disciplina interna de suas atividades”. Desse modo, embora haja espaço
+
+para que o legislador normatize sua própria atividade, “uma vez fixadas as disposições
+
+regimentais, tem-se o dever de estrita e rigorosa vinculação dos representantes do povo a tais
+
+normas que disciplinam o cotidiano da atividade legiferante”. Em terceiro lugar, os regimentos
+
+são necessários como regras impessoais que asseguram previsibilidade e segurança às minorias
+
+parlamentares que, dessa forma, podem conhecer e participar da deliberação. “As normas de
+
+funcionamento interno das casas legislativas assumem aí colorido novo, ao consubstanciarem
+
+elemento indispensável para a institucionalização e racionalização do poder, promovendo o tão
+
+necessário equilíbrio entre maioria e minoria”. A quarta e última razão é “de cidadania”: a
+
+observação das regras regimentais é indispensável ao pluralismo exigido pela Constituição e é
+
+necessário à legitimação do processo de elaboração das leis.
+
+[[pagina 34 | nativo]]
+124. Também o Min. Marco Aurélio, embora tenha quedado vencido no julgamento
+
+colegiado, manifestou entendimento pela possibilidade de revisão de normas regimentais do
+
+Congresso Nacional, afastando seu suposto teor interna corporis, no MS nº 22.503 e no MS nº
+
+21.754, asseverando que o Regimento “nada mais é do que um diploma que encerra em si
+
+normas”. Registre-se que o MS nº 21.754 cuidava de descumprimento de norma regimental
+
+sobre quórum para abertura de sessão extraordinária do Congresso.
+
+125. É possível observar que os casos apontados supra cuidavam de normas regimentais que
+
+afetam diretamente a atividade legiferante, ou seja, influenciam/impactam diretamente na
+
+inclusão de novos diplomas normativos no ordenamento brasileiro. Com isso em mente torna-
+
+se curioso notar que embora este C. STF tenha jurisprudência que confere natureza interna
+
+corporis aos regimentos das casas do Congresso Nacional no que tange ao processo legislativo,
+
+houve por bem afastar esse entendimento no que toca às regras de instauração de CPI.
+
+126. O Supremo, no MS nº 24.831 e no MS nº 26.441, ambos de Relatoria do Min. Celso de
+
+Mello, defendeu o chamado “estatuto das minorias parlamentares” e concedeu a segurança a
+
+fim de assegurar a criação de Comissão Parlamentar de Inquérito – a CPI dos Bingos e a CPI do
+
+“Apagão Aéreo”, respectivamente. Na ocasião eram discutidos os arts. 66 e 78 do regimento
+
+interno do senado que conferiam aos líderes partidários prerrogativa de indicar membros para
+
+a CPI. O acórdão restou assim ementado:
+
+COMISSÃO PARLAMENTAR DE INQUÉRITO. DIREITO DE OPOSIÇÃO. PRERROGATIVA DAS
+MINORIAS PARLAMENTARES. EXPRESSÃO DO POSTULADO DEMOCRÁTICO. DIREITO
+IMPREGNADO DE ESTATURA CONSTITUCIONAL. INSTAURAÇÃO DE INQUÉRITO PARLAMENTAR E
+COMPOSIÇÃO DA RESPECTIVA CPI. TEMA QUE EXTRAVASA OS LIMITES “INTERNA CORPORIS”
+DAS CASAS LEGISLATIVAS. VIABILIDADE DO CONTROLE JURISDICIONAL. IMPOSSIBILIDADE DE A
+MAIORIA FRUSTRAR, NO ÂMBITO DO CONGRESSO NACIONAL, O EXERCÍCIO, PELAS MINORIAS
+LEGISLATIVAS, DO DIREITO CONSTITUCIONAL À INVESTIGAÇÃO PARLAMENTAR (CF, ART. 58,
+§3º). MANDADO DE SEGURANÇA CONCEDIDO. [..] O Estado de Direito, concebido e estruturado
+em bases democráticas, mais do que simples figura conceitual ou mera proposição doutrinária,
+reflete, em nosso sistema jurídico, uma realidade constitucional densa de significação e plena
+de potencialidade caracterizadora dos direitos e das liberdades políticas. A opção do legislador
+constituinte pela concepção democrática do Estado de Direito não pode esgotar-se numa
+simples proclamação retórica. A opção pelo Estado Democrático de Direito, por isso mesmo, há
+
+[[pagina 35 | nativo]]
+de ter consequências efetivas no plano de nossa organização política [...] Não obstante o
+caráter político dos atos parlamentares, revela-se legítima a intervenção jurisdicional, sempre
+que os corpos legislativos ultrapassem os limites delineados pela Constituição ou exerçam as
+suas atribuições institucionais com ofensa a direitos públicos subjetivos impregnados de
+qualificação constitucional e titularizados, ou não, por membros do Congresso Nacional.
+Questões políticas. Doutrina. Precedentes. (STF, MS 24.831. Rel. Min. Celso de Mello, Pleno, DJ:
+04.08.2006 – negritou-se)
+
+127. Bem se vê que este C. STF expressamente superou o entendimento “interna corporis” de
+
+norma regimental por entender que o “tema” “extravasa os limites interna corporis”. Assentou
+
+ainda que a concepção democrática de Estado é “densa de significação e plena de
+
+potencialidade”, sendo que os postulados democráticos não podem ser “simples proclamação
+
+retórica”. Mais, estendeu o escopo da revisibilidade judicial de atos parlamentares para casos
+
+em que parlamentares “exerçam as suas atribuições institucionais com ofensa a direitos
+
+públicos subjetivos impregnados de qualificação constitucional”, não importando se
+
+titularizados ou não por membros do Congresso Nacional.
+
+128. De se observar que as normas regimentais atinentes à instauração de CPI não afetam o
+
+processo legislativo em si, mas ainda assim, dada a relevância constitucional da CPI, foram
+
+objeto de controle jurisdicional por este C. STF. Nesse sentido, se função secundária do
+
+Legislativo (a fiscalização, por mais importante função que seja – e como de fato é – é função
+
+secundária e acessória do Legislativo) pode ser objeto de controle jurisdicional, tanto mais
+
+razão para que normas regimentais que afetam o processo legislativo, função precípua do
+
+Legislativo e do legislador, o sejam.
+
+129. Não é só. Este C. STF já apreciou o tema “impeachment” em mais de uma oportunidade,
+
+assentando que a decisão de mérito era política, i.e., interna corporis, mas que a regularidade
+
+do procedimento se submete ao crivo do STF. Este entendimento foi primeiro firmado no MS
+
+nº 20.941, Rel. Min. Aldir Passarinho, conhecido como “Caso Sarney” e repisado no MS nº
+
+21.564, Rel. Min. Octavio Gallotti, conhecido como “Caso Collor”. É digno de nota o
+
+posicionamento do Min. Sepúlveda Pertence que no “Caso Sarney” quedou vencido por
+
+entender que a análise do rito do impeachment, tal qual seu mérito, seria questão infensa ao
+
+controle judicial por se tratar de matéria política interna às Casas Legislativas. Todavia, o Min.
+
+Sepúlveda Pertence alterou seu entendimento e sua convicção quando do julgamento do “Caso
+
+[[pagina 36 | nativo]]
+Collor”, oportunidade em que, no bojo da Questão de Ordem suscitada sobre a jurisdição da
+
+Corte para conhecer da matéria, assim se manifestou:
+
+Acabei por me convencer, Senhor Presidente, de que a Constituição não excluiu do Poder
+Judiciário o exame de algumas questões relevantes que – in procedendo, não, in judicando,
+podem surgir no desenvolvimento do impeachment.[ ...] Daí, sem negar que se trate de uma
+jurisdição das Casas do Congresso Nacional, é que recuo da minha posição inicial para admitir
+que as garantias fundamentais do due process, no desenvolvimento do processo de
+impeachment, são susceptíveis de controle judicial. (STF, MS 21.564 QO, Voto do Min.
+Sepúlveda Pertence, DJ: 10.09.1992, pg. 33 do acórdão, fls. 110 - negritou-se)
+
+130. Com efeito, a questão foi revisitada recentemente no “Caso Dilma”, tendo sido notório o
+
+posicionamento do STF acerca da revisibilidade da observância de regras procedimentais,
+
+mesmo regimentais, sendo infensa ao controle judicial apenas a decisão de mérito do
+
+impeachment. No bojo do “Caso Dilma”, MS nº 34.441, assim se manifestou esta Corte Magna:
+
+Assim, haverá possibilidade de revisão judicial, porém o SUPREMO TRIBUNAL FEDERAL deverá
+analisar se o processo e julgamento realizados pelo Senado Federal observaram os princípios e
+normas constitucionais e legais; sem, porém, substituir o juízo de mérito realizado pela Câmara
+Alta do Congresso Nacional (STF, MS 34.441, Rel. Min. Alexandre de Moraes, DJ: 07.12.2018 –
+negritou-se)
+
+131. Por fim, lacônico o julgamento do HC nº 77.734 em que o STF declarou,
+
+incidentalmente, a inconstitucionalidade formal do parágrafo único do art. 11 da Lei nº
+
+9.639/98 vez que a republicação da norma não ocorreu de acordo com a forma prevista no art.
+
+325, alíneas “a” e “b” do RISF. É dizer, foi reconhecida a inconstitucionalidade formal de
+
+dispositivo de lei por violação a norma regimental do Senado Federal, verbis:
+
+Habeas Corpus. 2. Anistia criminal. 3. Paciente condenado como incurso no art. 95, letra "d", da
+Lei nº 8212, de 1991, a dois anos e quatro meses de reclusão, "pela prática do delito de omissão
+de repasse de contribuições previdenciárias aos cofres autárquicos". [...]. 9. O dispositivo
+padecia, desse modo, de inconstitucionalidade formal, pois não fora aprovado pelo Congresso
+Nacional. 10. A republicação não se fez, entretanto, na forma prevista no art. 325, alíneas "a" e
+"b", do Regimento Interno do Senado Federal, eis que, importando em alteração do sentido do
+projeto, já sancionado, a retificação do erro, por providência do Congresso Nacional, haveria
+de concretizar-se, "após manifestação do Plenário". 11. Hipótese em que se declara, incidenter
+tantum, a inconstitucionalidade do parágrafo único do art. 11 da Lei nº 9639/1998, com a
+
+[[pagina 37 | nativo]]
+redação publicada no Diário Oficial da União de 26 de maio de 1998, por vício de
+inconstitucionalidade formal manifesta, decisão que, assim, possui eficácia ex tunc. 12. Em
+conseqüência disso, indefere-se o "habeas corpus", por não ser possível reconhecer, na espécie,
+a pretendida extinção da punibilidade do paciente, com base no dispositivo declarado
+inconstitucional (STF, HC nº 77.734, Rel. Min. Néri da Silveira, Pleno, DJ: 10.08.2000 – negritou-
+se)
+
+132. Portanto, embora existam precedentes que afastam normas regimentais das Casas
+
+Legislativas do crivo deste C. STF, existem razões jurisprudenciais (até mesmo em razão de
+
+coerência jurisprudencial e segurança jurídica no âmbito deste Supremo Tribunal) que
+
+autorizam o estabelecimento de novo entendimento.
+
+133. Assim, é perfeitamente possível a revisão de norma regimental, como o art. 155 do RICD,
+
+por este C. STF. Demonstrada a possibilidade jurisprudencial, os tópicos subsequentes são
+
+dedicados à demonstração de razões substantivas para a revisibilidade de normais regimentais.
+
+III.2.3 – CONTROLE JURISDICIONAL DE PROCESSO LEGISLATIVO. BLOCO DE
+
+CONSTITUCIONALIDADE
+
+134. De fato, o controle da observância de normas regimentais das Casas Legislativas por seus
+
+membros e órgãos se submete a três hipóteses: i) as normas regimentais não são passíveis de
+
+controle judicial por serem questões políticas/interna corporis, ii) as normas regimentais são
+
+passíveis de controle judicial, mas em âmbito infraconstitucional, ou iii) as normas regimentais
+
+são passíveis de controle judicial em estatura constitucional. Cumpre analisar cada hipótese
+
+individualmente.
+
+135. Começa-se pela hipótese ‘i’, em que as normas regimentais são inimpugnáveis.
+
+136. A discussão doutrinária acerca da natureza jurídica das normas regimentais é bastante
+
+extensa e está longe de alcançar um consenso. Contudo, é possível destacar alguns pontos de
+
+convergência e analisar alguns casos especiais, como é o caso do Regimento Interno da Câmara
+
+dos Deputados e do Senado.
+
+[[pagina 38 | nativo]]
+137. O ponto convergente que aqui interessa é que a norma regimental tem caráter cogente.
+
+Ainda que se pense em normas regimentais com mesmo poder normativo de um contrato (que
+
+faz lei entre as partes) é certo que se está diante de norma com poder vinculante e, como tal,
+
+exigível. Com efeito, é notório o controle jurisdicional de normas regimentais:
+
+ADMINISTRATIVO. RECURSO ORDINÁRIO EM MANDADO DE SEGURANÇA. SESSÃO DE
+JULGAMENTO. INOBSERVÂNCIA DAS NORMAS DO REGIMENTO INTERNO DO TRIBUNAL DE
+JUSTIÇA DO ESTADO DO RIO DE JANEIRO. PRELIMINAR ACOLHIDA. 1. Nos termos do art. 78 do
+Regimento Interno do Tribunal do Estado do Rio de Janeiro, quando a conclusão do julgamento
+tiver sido transferida, não tomará parte quem não houver assistido ao relatório. Regra esta que
+não foi observada no caso dos autos, em que um dos desembargadores não presenciou ao
+relatório na primeira sessão de julgamento e mesmo assim proferiu voto. [...]. 3. Recurso
+conhecido e provido para, acolhendo a preliminar, anular a sessão de julgamento realizada no
+dia 13/03/2006, a fim de que o mandado de segurança seja levado a nova sessão de
+julgamento, com a devida observância ao Regimento Interno da Corte Estadual (STJ, RMS nº
+23.223, Rel. Min. Laurita Vaz, DJ: 25.09.2007 - negritou-se)
+
+138. Não se discute a possibilidade de revisão judicial caso algum TJ ou TRF ou mesmo o STJ e
+
+STF desrespeitem normas de seus regimentos internos em vista do art. 5º, XXXV da CF/88,
+
+segundo o qual “a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a direito”.
+
+No caso do STF, haja vista a recepção do Regimento Interno como lei, é inquestionável a
+
+possiblidade de impugnação judicial. Não fosse suficiente, no caso do Judiciário eventual
+
+transgressão ao regimento interno de algum Tribunal pode e deve ser conhecida e corrigida
+
+pelo CNJ, nos termos do art. 103-B, §4º, caput e inciso II da CF/88:
+
+§ 4º Compete ao Conselho o controle da atuação administrativa e financeira do Poder Judiciário
+e do cumprimento dos deveres funcionais dos juízes, cabendo-lhe, além de outras atribuições
+que lhe forem conferidas pelo Estatuto da Magistratura: [...]
+II - zelar pela observância do art. 37 e apreciar, de ofício ou mediante provocação, a legalidade
+dos atos administrativos praticados por membros ou órgãos do Poder Judiciário, podendo
+desconstituí-los, revê-los ou fixar prazo para que se adotem as providências necessárias ao
+exato cumprimento da lei, sem prejuízo da competência do Tribunal de Contas da União
+(negritou-se);
+
+139. Assim, por expressa previsão constitucional, as normas regimentais dos órgãos do
+
+Judiciário submetem-se a controle judicial e administrativo. De se observar que os regimentos
+
+[[pagina 39 | nativo]]
+internos de Tribunais de Contas, Autarquias e Agências Reguladoras também sofrem controle
+
+jurisdicional em caso de descumprimento:
+
+ADMINISTRATIVO. PROCESSO DISCIPLINAR. TRIBUNAL DE CONTAS. CONSELHEIRO. VOTAÇÃO
+EM DESCONFORMIDADE COM O REGIMENTO INTERNO. CONVOCAÇÃO DE SUBSTITUTO
+SOMENTE COM A OCORRÊNCIA DE CARGO VAGO. CONCEITO DE VACÂNCIA. DESNECESSIDADE
+DE CONVOCAÇÃO PARA A VAGA DO INVESTIGADO. QUANTIDADE DE MEMBROS NO PLENÁRIO
+MAIOR QUE A PREVISTA NO REGULAMENTO E NA CONSTITUIÇÃO FEDERAL. [...] 5. Também deve
+ser indicado como fundamento, que a mácula consubstanciou-se em votação na qual o
+quantitativo de membros do Plenário desbordou dos sete conselheiros, em linha de previsão
+com o que está definido no parágrafo único do art. 75 da Constituição Federal e no art. 42 do
+Regimento Interno do Tribunal de Contas. 6. Deve ser concedida parcialmente a segurança,
+para que seja anulado o processo administrativo disciplinar do qual resultou a aplicação de
+pena de aposentadoria compulsória, tão somente a partir da irregular convocação do Auditor
+para substituir Conselheiro, na mesma vaga não previamente desocupada, por inobservância
+ao Regimento Interno, permanecendo hígidos todos atos anteriores (STJ, RMS 36.496, Rel. Min.
+Humberto Martins, DJ: 06.12.2012 - negritou-se)
+
+140. Ressalte-se que o RMS 36.496, transcrito acima, foi objeto de Recurso Extraordinário
+
+admitido pelo STJ. Referido RE, autuado sob o nª 821.717, Rel. Min. Roberto Barroso, manteve
+
+hígida a decisão do STJ, ainda que por homologação da desistência do recurso.
+
+141. Não há, como se vê, controvérsia quanto a possibilidade de revisão judicial de normas
+
+regimentais.
+
+142. Noutra senda, de se notar que, assim como no caso do RISTF, recepcionado como lei, os
+
+Regimentos das Casas Legislativas também integram o ordenamento pátrio. Isso porque os
+
+Regimentos das Casas Legislativas são veiculados por meio de resoluções, espécie normativa
+
+prevista no art. 59, VII da CF/88, com mesma hierarquia que as leis, diferindo destas por
+
+possuírem campo material próprio definido pela Constituição:
+
+Art. 59. O processo legislativo compreende a elaboração de:
+I - emendas à Constituição;
+II - leis complementares;
+III - leis ordinárias;
+IV - leis delegadas;
+V - medidas provisórias;
+
+[[pagina 40 | nativo]]
+VI - decretos legislativos;
+VII - resoluções.
+
+143. Portanto, a relação dos regimentos com as demais leis não é uma relação de hierarquia,
+
+mas relação baseada na competência, em função do âmbito material que a Constituição reserva
+
+a cada um, posicionamento este compartilhado pelo Min. Sepúlveda Pertence em voto
+
+proferido no MS nº 21.564 (“Caso Collor”), no qual rechaçou qualquer hierarquia entre lei e
+
+regimento, visto serem as regras regimentais, na sua área de competência, “fontes
+
+imediatamente derivadas da Constituição” (STF, MS 21.564, Red. p/ acórdão Min. Carlos
+
+Velloso, DJ: 23.09.1992, Pg. 109 do acórdão, fls. 272). Por fim, merecem ser retomadas as
+
+célebres palavras de RUI BARBOSA quanto à juridicidade e força vinculante dos regimentos
+internos21:
+
+Pouco importa que, no caso dos regimentos parlamentares, ela resulte, para cada uma das
+Câmaras, da sua própria autoridade. Quando mesmo se tratasse então de um fato meramente
+voluntário, não seria menos rigorosa a inquebrantabilidade a respeito do vínculo, a que se
+submete cada uma das Câmaras pela adoção do seu regimento; porque, nos atos jurídicos, a
+obrigação voluntariamente assumida se transforma em lei intransgressível para os que
+livremente se lhe sujeitaram. Mas, ao organizarem os seus regimentos, as Assembleias
+Legislativas obedecem a um dever constitucional, inerente à natureza desses corpos
+deliberantes, em cujo seio releva necessariamente assegurar nos debates e no voto a ordem e
+a liberdade. Não seria concebível que, residindo nessas entidades coletivas o laboratório das leis
+nacionais, as deixasse a gestação destas à inconsequência, ao tumulto e à surpresa das correntes
+arbitrárias da paixão e do interesse, esperando que dessa desordem na origem da legalidade
+pudesse vir a nascer a harmonia, a sua duração e o seu acerto (negritou-se)
+
+144. Assim, seja porque i) os regimentos internos consubstanciam autolimitação voluntária
+
+(MS 31.816, Min. Luiz Fux), e/ou porque ii) os regimentos das Casas Legislativas, enquanto
+
+aprovados por espécie normativa prevista no art. 59, VII da CF/88, integram o ordenamento
+
+pátrio como lei lato sensu, e/ou porque iii) a revisibilidade judicial de normas regimentais é
+
+amplamente aceita pelo Judiciário em suas mais diversas instâncias (vide precedentes do STJ e
+
+art. 103-B, §4º, caput e inciso II da CF/88) tendo por objeto regimentos internos dos Poderes
+
+Judiciário e Executivo – não há razão para que o Legislativo seja exceção, e/ou porque iv) é
+
+21 BARBOSA, Rui apud BERNARDES JÚNIOR, José Alcione. O Controle Jurisdicional do Processo Legislativo. Belo
+Horizonte: Fórum, 2009. p. 111.
+
+[[pagina 41 | nativo]]
+farta a jurisprudência deste C. STF que analisa(ou) normas regimentais das Casas Legislativas em
+
+temas de funções secundárias do Legislativo (vide os Mandados de Segurança sobre
+
+impeachment e instauração de CPI, bem como o posicionamento singular dos Mins. Luiz Fux e
+
+Marco Aurélio em questões de processo legislativo), e/ou porque v) a regra do art. 5º, XXXV da
+
+CF/88 consagra a inafastabilidade da revisão judicial, não há que se falar em impossibilidade de
+
+revisão judicial da observância de regras regimentais das Casas Legislativas.
+
+145. Necessária uma observação: neste momento não se está afirmando nada a respeito do
+
+status hierárquico das normas regimentais, mas apenas que são normas jurídicas cogentes
+
+como lei lato sensu. A PEC, por exemplo, está prevista no art. 59, I da CF/88 e, bem se sabe,
+
+quando aprovada tem status de norma constitucional, muito embora na origem seja espécie
+
+normativa de lei lato sensu. Assim, considerações sobre a hierarquia normativa serão feitas em
+
+momento subsequente, aqui basta demonstrar que o regimento interno, visto que aprovado
+
+por resolução, é espécie normativa de norma jurídica cogente.
+
+146. Entendimento contrário torna as condutas parlamentares de violação ao regimento
+
+interno inimpugnáveis, conferindo poder discricionário absoluto ao parlamentar, o que é
+
+veementemente incompatível com o Estado Democrático de Direito. Em verdade, os
+
+regimentos seriam apenas pro forma, inúteis para a garantia de qualquer objetivo e ineficazes
+
+por definição. Seriam, para todos os fins práticos e de direito, meros “pedaços de papel” como
+
+afirmava LASSALLE a respeito das Constituições e os fatores reais de poder.
+
+147. Superada essa questão, devemos nos voltar à hipótese ‘ii’, em que as normas
+
+regimentais, embora impugnáveis, tem índole infraconstitucional.
+
+148. De largada é preciso reconhecer que os regimentos internos das Casas Legislativas
+
+possuem normas cujo escopo é conferir densidade aos comandos constitucionais e normas de
+
+economia interna das Casas Legislativas. Essa diferenciação fica clara ao se observar o alcance
+
+dos efeitos das normas internas.
+
+149. Quando os efeitos das normas se restringirem ao âmbito das próprias Casas Legislativas
+
+estaremos diante de normas de economia interna. Cite-se, por exemplo:
+
+[[pagina 42 | nativo]]
+Art. 9º É facultado ao Senador, uma vez empossado:
+I - examinar quaisquer documentos existentes no Arquivo;
+II - requisitar da autoridade competente, por intermédio da Mesa ou diretamente, providências
+para garantia das suas imunidades e informações para sua defesa;
+III - frequentar a Biblioteca e utilizar os seus livros e publicações, podendo requisitá-los para
+consulta, fora das dependências do Senado, desde que não se trate de obras raras, assim
+classificadas pela Comissão Diretora;
+IV - frequentar o edifício do Senado e as respectivas dependências, só ou acompanhado, vedado
+ao acompanhante o ingresso no plenário, durante as sessões, e nos locais privativos dos
+Senadores;
+V - utilizar-se dos diversos serviços do Senado, desde que para fins relacionados com as suas
+funções;
+VI - receber em sua residência o Diário do Senado Federal, o do Congresso Nacional e o Diário
+Oficial da União.
+Parágrafo único. O Senador substituído pelo Suplente continuará com os direitos previstos neste
+artigo.
+Art. 12. A remuneração do Senador é devida:
+I - a partir do início da legislatura, ao diplomado antes da instalação da primeira sessão legislativa
+ordinária;
+II - a partir da expedição do diploma, ao diplomado posteriormente à instalação; III - a partir da
+posse, ao Suplente em exercício.
+Art. 156. A primeira parte da sessão, que terá a duração de cento e vinte minutos, será destinada
+à leitura do expediente e aos oradores inscritos na forma do disposto no art. 17.
+Art. 162. A Ordem do Dia terá início, impreterivelmente, às dezesseis horas, salvo prorrogação
+nos termos do art. 158, § 6º.
+Art. 209. Os trabalhos das sessões serão organizados em anais, por ordem cronológica, para
+distribuição aos Senadores
+
+150. Lado outro, quando a norma regimental projetar efeitos que extrapolam os limites da
+
+própria Casa, i.e., afetam entidades estranhas ao parlamento, então estaremos diante de
+
+normas que conferem densidade aos comandos constitucionais.
+
+151. Caso típico de normas regimentais cujos efeitos extrapolam as Casas Legislativas são
+
+aquelas que afetam o procedimento de elaboração de leis haja vista que uma lei, uma vez
+
+aprovada, há de afetar o país inteiro e não apenas o Congresso Nacional.
+
+152. Nessa toada, suponha, Excelência, que uma determinada lei é aprovada ao arrepio de
+
+norma regimental e suponha também que o controle a ser exercido é o de legalidade
+
+[[pagina 43 | nativo]]
+(infraconstitucionalidade, portanto). Com base nessas premissas, qual a consequência prática
+
+do reconhecimento de que houve violação a norma regimental no procedimento de
+
+elaboração da lei?
+
+153. Ora, se houve falta no procedimento de elaboração da lei seu reconhecimento e
+
+declaração ensejará a “nulidade/anulação” da lei, i.e., a retirada da lei viciada do ordenamento
+
+jurídico pátrio. Em todo o Direito um vício no procedimento de elaboração de um ato jurídico
+
+acarreta a invalidade do resultado, i.e., do ato jurídico final. Isso é válido para a celebração de
+
+contratos civis, para o decurso de um processo judicial (na seção anterior desta peça há
+
+exemplo de nulidade de acórdão por inobservância de norma regimental do Tribunal de
+
+origem), para um procedimento de licitação, para o próprio registro de atos constitutivos de
+
+uma nova associação, entre outros. Agora, o que isso significa(ria) em termos jurídicos?
+
+154. Significa(ria) que a lei passou por uma “declaração de ilegalidade” em que uma lei é
+
+declarada ilegal em face de outra lei. Entretanto, juridicamente falando existe declaração de
+
+ilegalidade de lei?
+
+155. À ora Autora parece que não. Existe declaração de inconstitucionalidade de lei, mas não
+
+de ilegalidade. Existe declaração de ilegalidade de atos infralegais como Portarias e Decretos do
+
+Executivo, mas não há que se falar em ilegalidade de lei porquanto, sendo estatutos
+
+normativos de mesmo grau hierárquico, haurem fundamento de validade na norma
+
+constitucional (art. 61 da CF/88).
+
+156. Não sem razão que é consolidada a teoria do conflito aparente de normas para a
+
+resolução de contraposições entre duas disposições legais. HANS KELSEN ensina que existe
+
+antinomia normativa, também chamada de conflito aparente de normas, quando “uma norma
+
+determina uma certa conduta como devida e outra norma determina também como devida uma
+outra conduta, inconciliável com aquela”22.
+
+157. É comezinho em nosso sistema jurídico que a antinomia normativa é resolvida pela
+
+aplicação de três critérios: i) hierárquico (lex superior derogat inferiori), ii) especialidade (lex
+
+22 KELSEN, Hans. Teoria Pura do Direito. 6ª ed. Martins Fontes. São Paulo. 1999. Pg. 228.
+
+[[pagina 44 | nativo]]
+specialis derogat generali), esta positivada no art. 2º, §2º da LINDB (Decreto-Lei nº 4.657/42), e
+
+iii) sucessividade (lex posterior derogat priori), esta positivada no art. 2º, §1º da LINDB. As
+
+antinomias são ditas de primeiro grau quando seu conflito envolve aplicação de apenas um dos
+
+critérios solucionadores e é chamada de antinomia de segundo grau quando o choque das
+normas envolve dois dos critérios solucionadores. Nas palavras de CELSO CAMPILONGO23:
+
+Há antinomia de segunda ordem quando o conflito entre normas não pode ser solucionado por
+nenhuma das regras indicadas acima ou quando mais de uma regra pode ser aplicada. Noutras
+palavras, as regras enunciadas anteriormente não solucionam antinomias formadas entre
+normas: contemporâneas; do mesmo nível e igualmente gerais (negritou-se)
+
+158. Este entendimento já foi placitado pelo Supremo Tribunal Federal:
+
+EMENTA: ADVOGADO – CONDENAÇÃO PENAL MERAMENTE RECORRÍVEL – PRISÃO CAUTELAR –
+RECOLHIMENTO A “SALA DE ESTADO-MAIOR” ATÉ O TRÂNSITO EM JULGADO DA SENTENÇA
+CONDENATÓRIA – PRERROGATIVA PROFISSIONAL ASSEGURADA PELA LEI Nº 8.906/94
+(ESTATUTO DA ADVOCACIA, ART. 7º, V) – INEXISTÊNCIA, NO LOCAL DO RECOLHIMENTO
+PRISIONAL, DE DEPENDÊNCIA QUE SE QUALIFIQUE COMO “SALA DE ESTADO-MAIOR” – HIPÓTESE
+EM QUE SE ASSEGURA, AO ADVOGADO, O RECOLHIMENTO “EM PRISÃO DOMICILIAR”
+(ESTATUTO DA ADVOCACIA, ART. 7º, V, “IN FINE”) – SUPERVENIÊNCIA DA LEI Nº 10.258/2001 –
+INAPLICABILIDADE DESSE DIPLOMA LEGISLATIVO AOS ADVOGADOS – EXISTÊNCIA, NO CASO,
+DE ANTINOMIA SOLÚVEL – SUPERAÇÃO DA SITUAÇÃO DE CONFLITO MEDIANTE UTILIZAÇÃO
+DO CRITÉRIO DA ESPECIALIDADE – PREVALÊNCIA DO ESTATUTO DA ADVOCACIA –
+CONFIRMAÇÃO DA MEDIDA LIMINAR ANTERIORMENTE DEFERIDA – PEDIDO DE “HABEAS
+CORPUS” DEFERIDO. – [...]. - Existe, entre o art. 7º, inciso V, do Estatuto da Advocacia (norma
+anterior especial) e a Lei nº 10.258/2001 (norma posterior geral), que alterou o art. 295 do
+CPP, situação reveladora de típica antinomia de segundo grau, eminentemente solúvel, porque
+superável pela aplicação do critério da especialidade (“lex posterior generalis non derogat
+priori speciali”), cuja incidência, no caso, tem a virtude de preservar a essencial coerência,
+integridade e unidade sistêmica do ordenamento positivo (RTJ 172/226-227), permitindo,
+assim, que coexistam, de modo harmonioso, normas em relação de (aparente) conflito.
+Doutrina. Consequente subsistência, na espécie, não obstante o advento da Lei nº
+10.258/2001, da norma inscrita no inciso V do art. 7º do Estatuto da Advocacia, ressalvada,
+unicamente, por inconstitucional (ADI 1.127/DF), a expressão “assim reconhecidas pela OAB”
+constante de referido preceito normativo. (HC 109213, Relator(a): Min. CELSO DE MELLO,
+Segunda Turma, PUBLIC 17-09-2012 – grifou-se)
+
+23 CAMPILONGO, Celso Fernandes; GONZAGA, Álvaro; FREIRE, André Luiz. Enciclopédia Jurídica da PUC/SP, Tomo I:
+teoria geral e filosofia do direito. PUC/SP. São Paulo. 2017. Pg. 24
+
+[[pagina 45 | nativo]]
+159. É pacífico em nosso ordenamento jurídico, portanto, que a antinomia normativa entre
+
+normas de mesmo nível hierárquico é resolvida por critérios de especialidade e sucessividade,
+
+sendo certo que nenhum dos diplomas em conflito é retirado do ordenamento jurídico ou
+
+perde sua validade, ocorrendo apenas um afastamento de aplicação no caso concreto.
+
+160. Caso este C. STF entenda que as normas regimentais das Casas Legislativas tem mesmo
+
+nível hierárquico que as leis que elas mesmas produzem estaríamos diante da criação de
+
+hipótese de ilegalidade de lei em que uma lei (regimento interno) se sobrepõe, em absoluto e
+
+em abstrato, à outra (à lei produzida). Vale dizer, uma lei “valeria” mais do que outra de mesmo
+
+nível hierárquico.
+
+161. Todavia, a hipótese de “hierarquia de fato” entre dois diplomas de mesmo nível
+
+hierárquico ordinário, o que criaria caso de “declaração de ilegalidade de lei”, é absolutamente
+
+incompatível com o ordenamento e sistema jurídicos pátrios. Assim, considerar-se as normas
+
+regimentais das Casas Legislativas relativas ao processo legiferante como infraconstitucionais
+
+implica aquiescer com absurdos jurídicos que ferem a própria harmonia do Direito.
+
+162. Com efeito, as normas regimentais relativas ao processo legislativo, que extrapolam o
+
+âmbito das Casas Legislativas e conferem densidade aos comandos constitucionais de
+
+elaboração de leis, são materialmente constitucionais. Conclusão contrária, como explicitado
+
+acima, atrai consequências jurídicas absurdas.
+
+163. Assim, a conclusão deste tópico abre a discussão da hipótese do tópico ‘iii’, que aborda
+
+as normas regimentais como passíveis de controle judicial em estatura constitucional.
+
+164. De fato, quando se fala em parâmetros de controle de constitucionalidade de atos
+
+normativos se está a falar, fundamentalmente, de dois possíveis entendimentos: a) o parâmetro
+
+de controle equivale à Constituição escrita ou leis com valor constitucional formal, e
+
+consequentemente a conformidade dos atos normativos só pode ser aferida, sob o ponto de
+
+vista da sua constitucionalidade ou inconstitucionalidade, segundo as normas e princípios
+
+efetivamente escritos na constituição (ou entre as leis formalmente constitucionais); ou b) o
+
+parâmetro de controle constitucional é a ordem constitucional global, e, por isso, o juízo de
+
+[[pagina 46 | nativo]]
+legitimidade constitucional dos atos normativos deve fazer-se não apenas segundo as normas e
+
+princípios escritos na Constituição, mas também tendo em conta princípios não escritos
+
+integrantes da ordem constitucional global.
+
+165. A doutrina e jurisprudência, ao tratar do entendimento ‘b’ citado no parágrafo anterior,
+
+cuidaram de definir o que se conhece por bloco de constitucionalidade. Segundo ALBERTO
+
+RIBEIRO, “A expressão “Bloco de Constitucionalidade” foi construída pelos franceses com a teoria
+
+do “bloco legal”, especialmente utilizada por Maurice Hauriou para aludir à atuação do
+Conselho de Estado no controle dos atos administrativos”24. Ainda segundo o citado autor25:
+
+O bloco de constitucionalidade ganhou destaque a partir da decisão sobre a liberdade de
+associação do Conselho Constitucional Francês em 16 de julho de 1971 [...] Em tal decisão, o
+Conselho Constitucional inovou invocando os “princípios fundamentais reconhecidos pelas Leis
+da República”, considerando a liberdade de associação como uma liberdade constitucional
+devidamente protegida. Diante de tal concepção, o Conselho consagrou o valor jurídico do
+Preâmbulo, alargando o paradigma da constitucionalidade das leis assumindo um papel de
+defensor das liberdades fundamentais e elevando a liberdade de associação ao patamar de
+princípios fundamentais reconhecidos pela lei da República, passando a compor o Bloco de
+Constitucionalidade, uma vez que o art. 2º da Lei de 1901 considerava que as associações de
+pessoas poderão se formar livremente sem autorização nem declaração prévia
+
+166. A expressão bloco de constitucionalidade, nas palavras de ISA MARIA MAGALHÃES,
+
+“representa tudo que pode ser utilizado como parâmetro de constitucionalidade, mesmo que
+
+não esteja previsto expressamente no texto constitucional, como os princípios que, como a
+razoabilidade e a proporcionalidade, podem ser deduzidos da Constituição”26.
+
+167. No Brasil este C. STF reconheceu a presença dos princípios implícitos servindo como
+
+parâmetro para o controle de constitucionalidade de atos pela primeira vez em 2000 no AI nº
+
+278.127, Rel. Min. Marco Aurélio:
+
+24 MARIANO JÚNIOR, Alberto Ribeiro. Bloco de constitucionalidade: Consequências do seu reconhecimento no
+sistema constitucional brasileiro. 2011.
+25 Idem.
+26 MAGALHÃES, Isa Maria de Castro Dias. Regimento Interno como Parâmetro de Controle Jurisdicional do Processo
+Legislativo. Instituto Legislativo Brasileiro (ILB). Brasília. 2016. Pg. 30.
+
+[[pagina 47 | nativo]]
+Nem com um grande empenho, envolvido interesse próprio, é dado assentar a infringência à
+Constituição Federal. Ao contrário, o que decidido pela Corte de origem presta homenagem ao
+Diploma Maior. Coaduna-se com a razoabilidade a glosa da exigência de esforço físico em
+concurso voltado a preencher cargo de médico. A atuação deste, embora física, não se faz no
+campo da força bruta, mas a partir de técnica especifica. Além dos princípios explícitos, a Carta
+da Republica abrange também os implícitos, entre os quais estão o da razoabilidade, o da
+proporcionalidade, aplicáveis ao caso concreto. 3. Por tais razões, conheço deste agravo, mas
+desacolho o pedido nele formulado, mantendo íntegra a decisão que resultou na negativa de
+transito extraordinário (STF, AI 278.127, Rel. Min. Marco Aurélio, DJ: 26.09.2000 - negritou-se)
+
+168. A partir de 2002, o STF começou a utilizar dos princípios não escritos em suas decisões,
+
+tornando-se pacifico a sua incidência e consequente inclusão no bloco de constitucionalidade.
+
+Cite-se, por todos, o RE 265.780, Rel. Min. Celso de Mello, DJ: 07.08.2002.
+
+169. Bem se vê, este C. STF adota, de modo pacífico, a doutrina do bloco de
+
+constitucionalidade quando reconhece a existência de parâmetros constitucionais não
+
+expressamente previstos no texto da Carta Magna. O que resta analisar, portanto, é a
+
+possibilidade de inclusão das normas regimentais das Casas Legislativas no bloco de
+
+constitucionalidade brasileiro.
+
+170. Existem diversas manifestações doutrinárias favoráveis a este entendimento. Para JOSÉ
+ALCIONE BERNARDES JÚNIOR27 “os regimentos internos, precisamente por disciplinarem o
+
+funcionamento institucional dos parlamentos, contêm normas que desenvolvem as
+
+disposições constitucionais atinentes ao processo legislativo. Em razão disso, costuma-se dizer
+
+que tais disposições são materialmente constitucionais, integrando o chamado bloco de
+
+constitucionalidade” (negritou-se).
+
+171. No mesmo sentido, para J.J. CANOTILHO “normas que, carecendo de forma constitucional
+
+são reclamadas ou pressupostas pela constituição como específicas condições de validade de
+outros actos normativos, inclusive de actos normativos com valor legislativo”28 são chamadas
+
+normas interpostas, categoria a qual, segundo o autor, pertencem as normas regimentais, pois
+
+27 BERNARDES JÚNIOR, José Alcione. O Controle Jurisdicional do Processo Legislativo. Belo Horizonte: Fórum, 2009.
+Pg. 85.
+28 CANOTILHO, J.J. Gomes In BARBOSA, Leonardo Augusto de Andrade. Processo Legislativo e democracia:
+parlamento, esfera pública e jurisdição constitucional. Belo Horizonte: Del Rey, 2010. p.179
+
+[[pagina 48 | nativo]]
+apesar de formalmente não estarem incluídas na constituição, são parâmetros necessários para
+
+a aferição do cumprimento das disposições constitucionais acerca da produção válida de
+
+normas jurídicas.
+
+172. Para CRISTIANE MACÊDO a observância de normas regimentais ligadas ao processo
+
+legiferante está diretamente relacionada ao princípio democrático que, como afirmado supra, é
+
+“densa de significação e plena de potencialidade” (STF, MS 24.831. Rel. Min. Celso de Mello,
+Pleno, DJ: 04.08.2006)29:
+
+o regimento parlamentar serve de parâmetro suficiente para o controle de constitucionalidade
+das leis: a fonte da obrigatoriedade e a indisponibilidade das normas do direito parlamentar
+pelos membros da corporação legislativa decorre da Constituição que determina sua
+complementação mediante emanação das normas regimentais e conforma a atuação do Poder
+Público. Além disso, sobre as normas que disciplinam o processo legislativo e sua aplicação
+recaem a exigência de permitir a correção, a liberdade e o pluralismo da deliberação política
+democrática nos Estados contemporâneos, e de assegurar o respeito aos direitos subjetivos e
+de participação política (negritou-se)
+
+173. Também o professor MENELICK DE CARVALHO NETTO, em sua tese de doutorado, defende o
+
+status de norma constitucional para os dispositivos regimentais que detalham o procedimento
+
+legislativo como forma de protegê-lo contra o arbítrio de eventual maioria parlamentar:
+
+o procedimento legislativo é, dentre os temas clássicos de indefectível inserção constitucional,
+inegavelmente um dos mais sensíveis às definições da Constituição em sentido material, em
+razão de sua íntima e essencial vinculação à operacionalização das normas atinentes à
+organização, atribuição e distribuição das funções fundamentais do Estado, envolvendo
+necessariamente relevantes aspectos da titularidade da soberania e de seus modos de expressão
+e representação, coligados na determinação da leitura das normas que regem a produção da
+categoria lei, comando estatal por excelência, que, em nosso sistema de tradição romano-
+germânica, deveria ser o elemento basilar e estrutural de integração e composição da própria
+ordem jurídica (negritou-se)
+
+174. De se esclarecer que, como dito anteriormente, existem duas espécies de normas
+
+regimentais: as materialmente constitucionais, tais quais aquelas ligadas ao processo legislativo
+
+29 MACÊDO, Cristiane Branco. A Legitimidade e a Extensão do Controle Judicial sobre o Processo Legislativo no
+Estado Democrático de Direito. Brasília: Dissertação de Mestrado Universidade de Brasília, 2007. p. 97
+
+[[pagina 49 | nativo]]
+propriamente dito e que integram o bloco de constitucionalidade brasileiro, e as de economia
+interna da Casa, estas sim chamadas interna corporis. Bem explica HELY LOPES MEIRELLES30:
+
+Interna corporis são só aquelas questões ou assuntos que entendem direta e imediatamente
+com a economia interna da corporação legislativa, com seus privilégios e com a formação
+ideológica da lei que, por sua natureza, são reservados à exclusiva apreciação e deliberação do
+Plenário da Câmara (grifou-se)
+
+175. Noutro giro, e concessa maxima venia, não é difícil encontrar críticas doutrinárias ao
+
+posicionamento de considerar meramente interna corporis (infraconstitucional, portanto)
+
+violações regimentais referentes especificamente ao processo legislativo. ENEIDA SALGADO e
+EDUARDO ARAÚJO cuidaram de sintetizar as críticas doutrinárias31:
+
+Para Macedo (2007, p. 158), a força normativa da CRFB impõe-se a todos os Poderes públicos,
+que não mais poderiam pretender ser infensos ao controle da adequação constitucional de sua
+atividade. Da mesma maneira, aplicar-se-ia ao processo legislativo o princípio minoritário, que
+serviria de guia à fiscalização pelo STF do protocolo de formação da vontade das Casas
+legislativas. Além da supremacia constitucional e do princípio minoritário, a autora traz como
+parâmetros ao controle preventivo: o legítimo exercício das competências constitucionais, a
+obrigatoriedade das regras do processo legislativo constitucional e a defesa dos direitos
+públicos subjetivos e do estatuto constitucional das minorias políticas (MACEDO, 2007, p. 158)
+[...] Com base na doutrina dos direitos fundamentais de Robert Alexy, Bustamante e Bustamante
+(2016) vislumbram nos regimentos internos das Casas legislativas a estruturação do devido
+processo legislativo. Ainda que suas normas não sejam normas formalmente constitucionais,
+previstas diretamente no texto constitucional, os regimentos internos comportariam “normas
+de direito fundamental derivadas”, ou seja, normas que são fundamentadas diretamente no
+texto constitucional. Na medida em que dariam concretude ao devido processo legislativo
+delineado nos arts. 59 a 69 da CRFB, normas regimentais operam materialmente como normas
+constitucionais (BUSTAMANTE; BUSTAMANTE, 2016, p. 366), de forma que seu desrespeito
+seria, em última medida, ofensa ao princípio democrático e ao Estado Democrático de Direito
+quando respondida positivamente a seguinte pergunta: é possível cumprir a norma X,
+diretamente estatuída na Constituição, sem observar ao mesmo tempo a norma Y, prevista no
+
+30 MEIRELLES, Hely Lopes In MACÊDO, Cristiane Branco. A Legitimidade e a Extensão do Controle Judicial sobre o
+Processo Legislativo no Estado Democrático de Direito. Brasília: Dissertação de Mestrado Universidade de Brasília,
+31 SALGADO, Eneida Desiree; ARAÚJO, Eduardo Borges Espínola. Controle judicial do processo legislativo: do
+minimalismo à garantia do devido procedimento legislativo. Revista de Informação Legislativa: RIL, Brasília, DF,
+v. 56, n. 224, p. 79-104, out./dez. 2019. Disponível em: http://www12.senado.leg.br/ril/edicoes/56/
+224/ril_v56_n224_p79
+
+[[pagina 50 | nativo]]
+regimento interno? [...] Mesmo reconhecendo a desconfiança em relação à supremacia judicial,
+ou melhor, ao ativismo judicial, os autores defendem ser papel do STF, na condição de Corte
+constitucional, “tutelar as regras do jogo democrático” (SILVA; SOUZA, 2017, p. 160). Ao não
+cumprir seu papel, deixando a interpretação e a aplicação dos regimentos internos ao livre
+arbítrio das Casas legislativas em atenção a uma suposta separação dos Poderes e à
+autorrestrição judicial, a postura do STF é complacente com a utilização arbitrária e autoritária
+do regimento [...] A inobservância de norma regimental, tanto da Câmara quanto do Senado,
+constitui desvio procedimental que afronta os princípios do devido processo legal. Sob o
+paradigma do Estado Democrático de Direito, que pressupõe ampla defesa e contraditório, todo
+ato deve sujeitar-se a controle que garanta adequação ao devido processo constitucional.
+Portanto, segundo Del Negri (2003, p. 105), “a atividade de construção, interpretação e
+aplicação do Regimento Interno é suscetível de irrestrito controle de constitucionalidade pela
+via processual de correições incessantes a tornar inconcebível a existência de matéria interna
+corporis invulnerável no Estado Democrático de Direito” [...] O controle judicial preventivo terá
+por critério os dois objetivos principais do discurso legislativo, defende Carvalho (2002, p. 117).
+Em primeiro lugar, a materialização da exigência de racionalidade no processo de elaboração
+das leis, com a inclusão do mais amplo número de participantes e a observância da pretensão
+de correção. Em segundo, a deliberação e tomada de decisão em tempo hábil a enfrentar os
+problemas a que se destinam os resultados do processo legislativo [...] Ainda segundo Carvalho
+(2002), não é inverossímil a possibilidade de uma maioria parlamentar adotar medidas que
+dificultem ou até inviabilizem a participação de uma minoria “competente e combativa”. Logo,
+seria conveniente que as regras responsáveis por disciplinar o processo legislativo e proteger
+as minorias parlamentares fossem rígidas, de tal maneira que não estivessem sujeitas a
+flexibilizações quando pressionadas por exigências de ocasião. Pelo contrário, devem ser
+reforçadas quando o bloco majoritário se contrapõe ao minoritário, “uma vez que tal situação
+apresenta os maiores riscos de uma atuação política baseada no arbítrio, tendente ao
+esmagamento e à desconsideração das opiniões dissonantes” (CARVALHO, 2002, p. 117). A
+simples ameaça ao direito à participação importa a rejeição de qualquer empecilho ao exercício
+do controle (negritou-se)
+
+176. Como se vê, seja porque i) os princípios democrático e minoritário exigem a rigidez de
+
+normas regimentais a fim de evitar “a possibilidade de uma maioria parlamentar adotar
+
+medidas que dificultem ou até inviabilizem a participação de uma minoria “competente e
+
+combativa”” o que autoriza a “fiscalização pelo STF do protocolo de formação da vontade das
+
+Casas legislativas”, ou ii) é dever do STF, enquanto guardião da Constituição, “tutelar as regras
+
+do jogo democrático” sob pena de “utilização arbitrária e autoritária do regimento”, em
+
+evidente desvio de finalidade legislativo, ou iii) se mostra necessária “a materialização da
+
+exigência de racionalidade no processo de elaboração das leis” sob pena de violação aos
+
+postulados da moralidade, impessoalidade e razoabilidade, o que se tem é uma premente
+
+[[pagina 51 | nativo]]
+necessidade de revisão judicial da constitucionalidade do procedimento legislativo em sua seara
+
+regimental.
+
+177. Em suma:
+
+i) Considerar as normas regimentais atinentes ao processo legislativo como
+
+infraconstitucionais implica a criação de “declaração de ilegalidade de lei”, em que a
+
+norma regimental (lei lato sensu cf. art. 59, VII da CF/88) possui “hierarquia de fato”
+
+sobre leis ordinárias e complementares, situação que não encontra respaldo em
+
+nosso ordenamento e sistema jurídicos;
+
+ii) Em inexistindo supremacia hierárquica entre o regimento e a lei elaborada pelo
+
+Congresso, eventual conflito entre as duas por violação de norma regimental deveria
+
+ser resolvida pelos critérios de antinomia normativa (especialidade e sucessividade).
+
+Ocorre que a antinomia não tem o condão de retirar uma norma do ordenamento ou
+
+de privar uma norma de validade, mas apenas de afastar sua aplicação em um caso
+
+concreto. Assim, a lei promulgada com vício em seu processo de elaboração não
+
+poderia ter sua nulidade declarada, o que é incompatível com a própria natureza do
+
+ato jurídico: um vício na elaboração de um ato macula o ato em si, retirando-o do
+
+mundo jurídico. Assim, o sistema jurídico não comporta situação anômala de
+
+“ilegalidade de lei fundada em mácula no seu processo de elaboração tendo por
+
+parâmetro outra lei sem a nulidade da lei viciada”. É simplesmente um absurdo
+
+jurídico;
+
+iii) Não é de hoje que o Brasil e o mundo reconhecem e aplicam a doutrina do bloco de
+
+constitucionalidade, em que normas e princípios não expressamente previstos no
+
+texto da Constituição podem e devem ser utilizados como parâmetros de
+
+constitucionalidade de outros atos normativos. A doutrina se desenvolve com lastro
+
+em harmonia e coerência internas ao sistema jurídico, distanciando-se, portanto, do
+
+absurdo jurídico retratado no item anterior;
+
+[[pagina 52 | nativo]]
+iv) É farta a doutrina que apoia a caracterização das normas regimentais que conferem
+
+densidade ao processo legislativo como materialmente constitucionais (e portanto
+
+pertencentes ao bloco de constitucionalidade brasileiro) visto que a higidez do
+
+processo de elaboração de normas é pilar do Estado Democrático de Direito à luz da
+
+proteção de minorias, da finalidade legislativa, do princípio democrático, da
+
+moralidade, impessoalidade e razoabilidade, sob pena de arbítrio e autoritarismo das
+
+(supostas) maiorias parlamentares. Com efeito, a caracterização de normas
+
+regimentais como materialmente constitucionais permite a declaração de
+
+inconstitucionalidade formal de leis por violação à normas regimentais que
+
+densificam o processo legislativo, situação que se harmoniza com o sistema jurídico
+
+pátrio pois se estaria diante de “inconstitucionalidade de lei fundada em mácula no
+
+seu processo de elaboração tendo por parâmetro norma materialmente
+
+constitucional e com a retirada da lei viciada do ordenamento”. Esta situação, do
+
+ponto de vista jurídico, é consonante com nosso ordenamento, ao contrário daquela
+
+exposta no item ‘ii’ acima, in fine; e
+
+v) Este C. STF já analisou disposições regimentais por ocasião de demandas
+
+relacionadas a CPI (estatuto das minorias), procedimento de impeachment e mesmo
+
+procedimento legislativo, do qual se destaca o julgamento do HC nº 77.734 que
+
+declarou, de modo incidental, a inconstitucionalidade formal de dispositivo de lei por
+
+inobservância de norma regimental do Senado Federal, fora as posições individuais
+
+de Ministros desta Corte no bojo de Mandados de Segurança.
+
+178. Forte nessas razões é que se entende possível e necessária a revisão judicial, por este C.
+
+STF, do processo de produção legislativa do Congresso Nacional tendo por parâmetro de
+
+constitucionalidade normas regimentais especificamente referentes ao processo legislativo, que
+
+conferem densidade ao procedimento inscrito nos arts. 59 a 69 da CF/88.
+
+IV. DA MEDIDA CAUTELAR
+
+179. A Lei nº 9.868/99 regulamenta a interposição e o processamento das ações diretas de
+
+inconstitucionalidade. O art. 10 da mencionada lei autoriza a concessão de medida cautelar no
+
+[[pagina 53 | nativo]]
+bojo de ADIs determinando a suspensão da eficácia da norma impugnada até julgamento
+
+definitivo da ação, tendo, em regra, efeito ex nunc (art. 11, §1º da Lei nº 9.868/99).
+
+180. Para a concessão da tutela de urgência são necessários dois requisitos: i) a probabilidade
+
+do direito – fumus boni iuris; e ii) o perigo de dano ou o risco ao resultado útil do processo –
+
+periculum in mora.
+
+IV. 1 - FUMUS BONI IURIS
+
+181. Conforme exaustivamente demonstrado, os arts. 2º e 3º da Lei nº 14.015/20 são
+
+formalmente inconstitucionais por violação ao art. 155 do RICD, tendo o regime de urgência
+
+preterido discussão democrática aprofundada sob a falsa justificativa de a medida ter relação
+
+com a pandemia do covid19, e são materialmente inconstitucionais por violação aos princípios
+
+da razoabilidade e proporcionalidade, nos termos acima, pelo que se encontra satisfeito o
+
+requisito da probabilidade do direito, autorizador do deferimento da liminar.
+
+IV. 2 - PERICULUM IN MORA
+
+182. O periculum in mora decorre dos custos e impactos operacionais anteriormente
+
+mencionados. Repise-se:
+
+i) A prestadora está pagando funcionários para trabalhar de segunda a quinta quando
+
+sua jornada contratual é de segunda a sexta;
+
+ii) Os funcionários não trabalham em vésperas de feriado, mas recebem remuneração;
+
+iii) A carga de trabalho de suspensão de serviços antes calculada para ser distribuída em
+
+cinco dias úteis semanais agora precisa ser redistribuída em quatro dias, o que
+
+implica ou a sobrecarga de funcionários ou a contratação de mais funcionários, o que
+
+eleva os custos da operação e, via de consequência, há de impactar no valor da
+
+tarifa;
+
+[[pagina 54 | nativo]]
+iv) Nas semanas com feriados às terças, quartas ou quintas o trabalho que antes era
+
+distribuído em quatro dias agora tem de ser distribuído em dois dias, o que acarreta
+
+ainda mais significante sobrecarga de funcionários ou aumento de custos por
+
+aumento da mão-de-obra, fora o fato de que o funcionário só vai trabalhar dois dias
+
+na semana quando antes trabalhava quatro, percebendo o mesmo salário;
+
+v) O serviço será prestado sem a devida contraprestação por mais tempo (um final de
+
+semana a mais), sendo que a razão de ser da interrupção do serviço é o equilíbrio
+
+econômico-financeiro da operação com vistas ao atendimento da coletividade. De se
+
+esclarecer que o custo da prestação de serviços por um final de semana a mais é
+
+multiplicado pela quantidade de usuários inadimplentes, pelo que se torna valor não
+
+marginal
+
+183. Todo esse incremento de custos e necessidade de reformulação estrutural da equipe de
+
+funcionários encarregados do múnus de proceder ao “corte” do serviço tem efeito imediato.
+
+Some-se a isso o fato de que a tarifa não pode ser reajustada de imediato para compensar o
+
+aumento de custos decorrente da norma, sendo o reajuste anual e regulado pela agência
+reguladora do setor32. Assim, o equilíbrio econômico-financeiro da operação está
+
+irremediavelmente comprometido.
+
+184. Como se vê, o prejuízo decorrente da inconstitucionalidade é concreto, atual e aumenta
+
+com o transcurso do tempo. Nesse sentido ganha relevo o escólio do ilustre Min. MOREIRA ALVES,
+
+para quem a convivência entre o sistema difuso e o sistema concentrado:
+
+(...) não se faz sem uma permanente tensão dialética na qual, a meu ver, a experiência tem
+demonstrado que será inevitável o reforço do sistema concentrado, sobretudo nos processos de
+massa; na multiplicidade de processos a que inevitavelmente, a cada ano, na dinâmica da
+
+32 Vide ANEEL: http://www.aneel.gov.br/entendendo-a-tarifa/-/asset_publisher/uQ5pCGhnyj0y/content/reajuste-
+tarifario-anual/654800?inheritRedirect=false&redirect=http%3A%2F%2Fwww.aneel.gov.br%2Fentendendo-a-
+tarifa%3Fp_p_id%3D101_INSTANCE_uQ5pCGhnyj0y%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mod
+e%3Dview%26p_p_col_id%3Dcolumn-
+2%26p_p_col_pos%3D1%26p_p_col_count%3D2%26_101_INSTANCE_uQ5pCGhnyj0y_struts_action%3D%252Fasse
+t_publisher%252Fview. Acesso em: 25.08.2020.
+
+[[pagina 55 | nativo]]
+legislação (...) levará se não se criam mecanismos eficazes de decisão relativamente rápida e
+uniforme; ao estrangulamento da máquina judiciária, acima de qualquer possibilidade de sua
+ampliação e, progressivamente, ao maior descrédito da Justiça, pela sua total incapacidade de
+responder à demanda de centenas de milhares de processos rigorosamente idênticos, porque
+reduzidos a uma só questão de direito. (negritou-se).
+(ADC nº1/DF, Rel. Min. Moreira Alves, j. 1.12.1993, DJ: 16.6.1995 – negritou-se).
+
+185. Ante o exposto, respeitosamente requer-se a concessão de medida cautelar para
+
+suspender a eficácia da Lei nº 14.015/20, in totum, ou, quando menos, dos arts. 2º e 3º da Lei
+
+nº 14.015/20 naquilo em que i) obrigam a notificação prévia de consumidores em horário
+
+comercial, e ii) vedam a interrupção do fornecimento de serviços a usuários inadimplentes em
+
+feriados, vésperas de feriados, sextas-feiras e finais de semana.
+
+V. DOS PEDIDOS
+
+186. Por todo o exposto, Egrégio Sodalício, requer-se:
+
+i) seja conhecida e processada a presente Ação Direta de Inconstitucionalidade, posto que
+
+preenchidos os requisitos de cabimento;
+
+ii) o deferimento da medida cautelar ad referendum do plenário, aplicando-se por analogia
+
+o art. 21, V do RISTF, visando à suspensão da eficácia da Lei nº 14.015/20, in totum, ou,
+
+quando menos, dos arts. 2º e 3º da Lei nº 14.015/20 naquilo em que i) obrigam a notificação
+
+prévia de consumidores em horário comercial, e ii) vedam a interrupção do fornecimento de
+
+serviços a usuários inadimplentes em feriados, vésperas de feriados, sextas-feiras e finais de
+
+semana;
+
+iii) caso assim não se entenda, o deferimento da medida cautelar nos termos do art. 10 da
+
+Lei nº 9.868/99, visando à suspensão da eficácia da Lei nº 14.015/20, in totum, ou, quando
+
+menos, dos arts. 2º e 3º da Lei nº 14.015/20 naquilo em que i) obrigam a notificação prévia
+
+de consumidores em horário comercial, e ii) vedam a interrupção do fornecimento de
+
+serviços a usuários inadimplentes em feriados, vésperas de feriados, sextas-feiras e finais de
+
+semana;
+
+[[pagina 56 | nativo]]
+iv) sejam solicitadas informações ao Congresso Nacional, nos termos do art. 6º da Lei nº
+
+9.868/99;
+
+v) a audiência do Sr. Advogado-Geral da União e, sucessivamente, do Sr. Procurador-Geral
+
+da República, nos termos do art. 8º da Lei nº 9.868/99;
+
+vi) após o devido processamento, seja julgada procedente a presente Ação Direta de
+
+Inconstitucionalidade, com declaração definitiva de inconstitucionalidade da Lei nº
+
+14.015/20, com eficácia erga omnes e efeito vinculante nos moldes do art. 28, p.u. da Lei nº
+
+9.868/99;
+
+vii) subsidiariamente ao pedido ‘vi’, a declaração de inconstitucionalidade parcial da Lei nº
+
+14.015/20, referente aos seus arts. 2º e 3º naquilo em que i) obrigam a notificação prévia de
+
+consumidores em horário comercial, e ii) vedam a interrupção do fornecimento de serviços a
+
+usuários inadimplentes em feriados, vésperas de feriados, sextas-feiras e finais de semana;
+
+viii) caso seja necessário, requer seja deferida a produção de provas nos termos do art. 9º,
+
+§1º da Lei nº 9.868/99.
+
+187. Dá-se à causa o valor de R$ 1.000,00 (mil reais) para fins fiscais.
+
+Termos em que pede e espera deferimento.
+
+Brasília, 23 de setembro de 2020.
+
+Marilda de Paula Silveira Thiago Barra de Souza
+
+OAB-DF 33.954 OAB-DF 59.624
+
+Raphael Rocha de Souza Maia
+
+OAB-DF 52.820
+
+[[pagina 57 | nativo]]
+LISTA DE DOCUMENTOS ANEXOS
+
+Documento nº 1: Procuração
+
+Documento nº 2: Documentos de Identificação
+
+Documento nº 3: Lei nº 14.015/20
+
+Documento nº 4: Relação associadas ABRADEE
+
+Documento nº 5: Avulso inicial do PL nº 669/19
+
+Documento nº 6: Espelho de andamento do PL no Senado
+
+Documento nº 7: Requerimento de urgência nº 957/2020
+

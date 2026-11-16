@@ -1,0 +1,1721 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO
+BRASIL – CFOAB, serviço público dotado de personalidade jurídica própria e forma
+Federativa, regulamentado pela Lei nº 8.906/94, com sede em Brasília/DF, no SAUS, Qd.
+05, Lote 01, Bloco M, Asa Sul, CEP: 70070-050, inscrito no CNPJ sob nº
+33.205.451/0001-14, endereço eletrônico pc@oab.org.br, vem, à presença de Vossa
+Excelência, com fulcro nos arts. 102, I, a, e 103, VII, da Constituição, no art. 54, XIV, da
+Lei nº 8.906/94 e no art. 2º, VII, da Lei nº 9.868/99, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+C/C PEDIDO DE CAUTELAR
+
+objetivando a declaração de inconstitucionalidade, sem redução do texto, dos artigos 6º-A,
+16-A e 16-B da Lei nº 9.250, de 26 de dezembro de 1995, introduzidos pelo artigo 2º da
+Lei 15.270, de 26 de novembro de 2025, para afastar sua aplicação às microempresas e
+empresas de pequeno porte optantes pelo Simples Nacional, em especial aos escritórios de
+advocacia, preservando-se a isenção do artigo 14 da Lei Complementar nº 123/2006, pelas
+razões que passa a expor.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+1
+
+[[pagina 2 | nativo]]
+
+I. DOS DISPOSITIVOS LEGAIS QUESTIONADOS
+
+A presente ação direta de inconstitucionalidade tem por objeto a declaração
+da inconstitucionalidade, sem redução do texto, dos artigos 6º-A, 16-A e 16-B da Lei nº
+9.250/95, introduzidos pelo artigo 2º da Lei nº 15.270/2025, que reinstituíram a tributação
+de dividendos mediante retenção na fonte (IRRF) e tributação anual (IRPF) sobre
+distribuições de dividendos, a fim de afastar a possibilidade de sua incidência às
+microempresas e empresas de pequeno porte optantes pelo Simples Nacional.
+
+A Lei nº 15.270/2025, sancionada em 26 de novembro de 2025 e com
+vigência a partir de 1º de janeiro de 2026, alterou a Lei nº 9.250/95 para instituir:
+
+i. Tributação mensal de altas rendas (art. 6º-A): Retenção na fonte de 10%
+sobre lucros e dividendos superiores a R$ 50.000,00 mensais pagos por
+uma mesma pessoa jurídica a uma mesma pessoa física;
+
+ii. Tributação anual de altas rendas (art. 16-A): Tributação mínima de IRPF
+para pessoas físicas cuja soma de rendimentos anuais supere R$
+600.000,00, com alíquota progressiva até 10% para rendimentos ≥ R$
+1.200.000,00;
+
+iii. Redutor de tributação (art. 16-B): Mecanismo de compensação para
+evitar que a carga tributária conjunta (PJ + PF) ultrapasse as alíquotas
+nominais de IRPJ e CSLL no regime do lucro real.
+
+Confira-se os textos legais:
+
+“Art. 2º A Lei nº 9.250, de 26 de dezembro de 1995, passa a vigorar com as
+seguintes alterações:
+(...)
+CAPÍTULO II-A
+DA TRIBUTAÇÃO MENSAL DE ALTAS RENDAS
+
+Art. 6º-A. A partir do mês de janeiro do ano-calendário de 2026, o pagamento, o
+creditamento, o emprego ou a entrega de lucros e dividendos por uma mesma
+pessoa jurídica a uma mesma pessoa física residente no Brasil em montante
+superior a R$ 50.000,00 (cinquenta mil reais) em um mesmo mês fica sujeito à
+retenção na fonte do Imposto sobre a Renda das Pessoas Físicas à alíquota de
+10% (dez por cento) sobre o total do valor pago, creditado, empregado ou
+entregue.
+§ 1º São vedadas quaisquer deduções da base de cálculo.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+2
+
+[[pagina 3 | nativo]]
+
+§ 2º Caso haja mais de 1 (um) pagamento, crédito, emprego ou entrega de lucros e
+dividendos no mesmo mês, realizado por uma mesma pessoa jurídica a uma mesma
+pessoa física residente no Brasil, o valor retido na fonte referente ao Imposto
+sobre a Renda das Pessoas Físicas deve ser recalculado de modo a considerar o
+total dos valores pagos, creditados, empregados ou entregues no mês.
+§ 3º Não se sujeitam ao Imposto sobre a Renda das Pessoas Físicas de que trata
+este artigo os lucros e dividendos:
+I - relativos a resultados apurados até o ano-calendário de 2025;
+II - cuja distribuição tenha sido aprovada até 31 de dezembro de 2025; e
+III - exigíveis nos termos da legislação civil ou empresarial, desde que seu
+pagamento, crédito, emprego ou entrega ocorra nos termos originalmente
+previstos no ato de aprovação.”
+
+(...)
+
+CAPÍTULO III-A
+DA TRIBUTAÇÃO ANUAL DE ALTAS RENDAS
+Art. 16-A. A partir do exercício de 2027, ano-calendário de 2026, a pessoa física
+cuja soma de todos os rendimentos recebidos no ano-calendário seja superior a
+R$ 600.000,00 (seiscentos mil reais) fica sujeita à tributação mínima do Imposto
+sobre a Renda das Pessoas Físicas, nos termos deste artigo.
+§ 1º Para fins do disposto no caput deste artigo, serão considerados, na definição
+da base de cálculo da tributação mínima, o resultado da atividade rural, apurado
+na forma dos arts. 4º, 5º e 14 da Lei nº 8.023, de 12 de abril de 1990, e os
+rendimentos recebidos no ano-calendário, inclusive os tributados de forma
+exclusiva ou definitiva e os isentos ou sujeitos à alíquota zero ou reduzida,
+deduzindo-se, exclusivamente:
+(...)
+XII - os lucros e dividendos:
+a) relativos a resultados apurados até o ano-calendário de 2025;
+b) cuja distribuição tenha sido aprovada até 31 de dezembro de 2025 pelo órgão
+societário competente para tal deliberação;
+c) desde que o pagamento, o crédito, o emprego ou a entrega:
+1. ocorra nos anos-calendário de 2026, 2027 e 2028; e
+2. observe os termos previstos no ato de aprovação realizado até 31 de dezembro
+de 2025.
+§ 2º A alíquota da tributação mínima do Imposto sobre a Renda das Pessoas
+Físicas será fixada com base nos rendimentos apurados nos termos do § 1º deste
+artigo, observado o seguinte:
+I - para rendimentos iguais ou superiores a R$ 1.200.000,00 (um milhão e
+duzentos mil reais), a alíquota será de 10% (dez por cento); e
+II - para rendimentos superiores a R$ 600.000,00 (seiscentos mil reais) e
+inferiores a R$ 1.200.000,00 (um milhão e duzentos mil reais), a alíquota crescerá
+linearmente de 0 (zero) a 10% (dez por cento), conforme a seguinte fórmula:
+Alíquota % = (REND/60.000) - 10, em que:
+REND = rendimentos apurados na forma prevista no § 1º deste artigo.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+3
+
+[[pagina 4 | nativo]]
+
+§ 3º O valor devido da tributação mínima do Imposto sobre a Renda das Pessoas
+Físicas será apurado a partir da multiplicação da alíquota pela base de cálculo,
+com a dedução:
+I - do Imposto sobre a Renda das Pessoas Físicas devido na declaração de ajuste
+anual, calculado nos termos do art. 12 desta Lei;
+II - do Imposto sobre a Renda das Pessoas Físicas retido exclusivamente na fonte
+incidente sobre os rendimentos incluídos na base de cálculo da tributação mínima
+do imposto;
+III - do Imposto sobre a Renda das Pessoas Físicas apurado com fundamento
+nos arts. 1º a 13 da Lei nº 14.754, de 12 de dezembro de 2023;
+IV - do Imposto sobre a Renda das Pessoas Físicas pago definitivamente referente
+aos rendimentos computados na base de cálculo da tributação mínima do imposto
+e não considerado nos incisos I, II e III deste parágrafo; e
+V - do redutor apurado nos termos do art. 16-B desta Lei.
+§ 4º Caso o valor apurado nos termos do § 3º deste artigo seja negativo, o valor
+devido a título de tributação mínima do Imposto sobre a Renda das Pessoas
+Físicas será 0 (zero).
+§ 5º Do valor apurado na forma prevista nos §§ 3º e 4º deste artigo será deduzido
+o montante do Imposto sobre a Renda das Pessoas Físicas na fonte antecipado nos
+termos do art. 6º-A desta Lei.
+§ 6º O resultado obtido nos termos do § 5º deste artigo será adicionado ao saldo
+do Imposto sobre a Renda das Pessoas Físicas, a pagar ou a restituir, apurado na
+declaração de ajuste anual, nos termos do art. 12 desta Lei.
+(...)
+
+“Art. 16-B. Caso se verifique que a soma da alíquota efetiva de tributação dos
+lucros da pessoa jurídica com a alíquota efetiva da tributação mínima do imposto
+de renda aplicável à pessoa física beneficiária ultrapassa a soma das alíquotas
+nominais do imposto sobre a renda das pessoas jurídicas e da Contribuição
+Social sobre o Lucro Líquido (CSLL), será concedido redutor da tributação
+mínima do Imposto sobre a Renda das Pessoas Físicas calculado sobre os
+referidos lucros e dividendos pagos, creditados, empregados ou entregues por
+cada pessoa jurídica à pessoa física sujeita ao pagamento da tributação mínima
+do imposto de que trata o art. 16-A desta Lei.
+§ 1º A soma das alíquotas nominais a serem consideradas para fins do limite
+previsto no caput deste artigo correspondem a:
+I - 34% (trinta e quatro por cento), no caso de pagamento de lucros ou dividendos
+pelas pessoas jurídicas não alcançadas pelo disposto nos incisos II e III deste
+parágrafo;
+II - 40% (quarenta por cento), no caso de pagamento de lucros ou dividendos
+pelas pessoas jurídicas de seguros privados e de capitalização e por aquelas
+referidas nos incisos II, III, IV, V, VI, VII, IX e X do § 1º do art. 1º da Lei
+Complementar nº 105, de 10 de janeiro de 2001; e
+III - 45% (quarenta e cinco por cento), no caso de pagamento de lucros ou
+dividendos pelas pessoas jurídicas referidas no inciso I do § 1º do art. 1º da Lei
+Complementar nº 105, de 10 de janeiro de 2001.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+4
+
+[[pagina 5 | nativo]]
+
+§ 2º O valor do redutor de que trata este artigo corresponderá ao resultado obtido
+por meio da multiplicação do montante dos lucros e dividendos pagos, creditados,
+empregados ou entregues à pessoa física pela pessoa jurídica pela diferença entre:
+I - a soma da alíquota efetiva de tributação dos lucros da pessoa jurídica com a
+alíquota efetiva da tributação mínima do imposto de renda aplicável à pessoa
+física beneficiária; e
+II - o percentual previsto nos incisos I, II e III do § 1º deste artigo.
+§ 3º Para fins do disposto neste artigo, considera-se:
+I - alíquota efetiva de tributação dos lucros da pessoa jurídica, a razão observada,
+no exercício a que se referem os lucros e dividendos distribuídos, entre:
+a) o valor devido do imposto de renda e da CSLL da pessoa jurídica; e
+b) o lucro contábil da pessoa jurídica;
+II - alíquota efetiva da tributação mínima do Imposto sobre a Renda das Pessoas
+Físicas, a razão entre:
+a) o acréscimo do valor devido da tributação mínima do Imposto sobre a Renda
+das Pessoas Físicas, antes da redução de que trata este artigo, resultante da
+inclusão dos lucros e dividendos na base de cálculo da tributação mínima do
+imposto; e
+b) o montante dos lucros e dividendos recebidos pela pessoa física no ano-
+calendário; e
+III - lucro contábil da pessoa jurídica: o resultado do exercício antes dos tributos
+sobre a renda e das respectivas provisões.
+§ 4º A concessão do redutor de que trata este artigo fica condicionada à
+apresentação de demonstrações financeiras da pessoa jurídica, elaboradas de
+acordo com a legislação societária e com as normas contábeis em vigor, na forma
+de regulamento.
+§ 5º O cálculo da alíquota efetiva e do imposto devido pela pessoa jurídica poderá
+ser realizado com base nas demonstrações financeiras consolidadas da fonte
+pagadora, na forma de regulamento.
+§ 6º As empresas não sujeitas ao regime de tributação pelo lucro real poderão
+optar por cálculo simplificado do lucro contábil, o qual corresponderá ao valor
+do faturamento com a dedução das seguintes despesas:
+I - folha de salários, remuneração de administradores e gerentes e respectivos
+encargos legais;
+II - preço de aquisição das mercadorias destinadas à venda, no caso de atividade
+comercial;
+III - matéria-prima agregada ao produto industrializado e material de embalagem,
+no caso de atividade industrial;
+IV - aluguéis de imóveis necessários à operação da empresa, desde que tenha
+havido retenção e recolhimento de imposto de renda pela fonte pagadora quando a
+legislação o exigir;
+V - juros sobre financiamentos necessários à operação da empresa, desde que
+concedidos por instituição financeira ou outra entidade autorizada a operar pelo
+Banco Central do Brasil; e
+VI - depreciação de equipamentos necessários à operação da empresa, no caso de
+atividade industrial, observada a regulamentação sobre depreciação a que se
+sujeitam as pessoas jurídicas submetidas ao regime do lucro real.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+5
+
+[[pagina 6 | nativo]]
+
+(...)” grifo nosso
+
+A ratio legis da norma, conforme exposição de motivos, consiste em
+ampliar a progressividade do sistema tributário e combater o planejamento tributário
+abusivo de contribuintes de alta capacidade contributiva que distribuem lucros para evitar a
+tributação progressiva do IRPF.
+
+Como se vê, essa norma não revogou expressamente a isenção do artigo 14
+da Lei Complementar nº 123/2006, como sequer poderia mesmo fazê-lo, que estabelece:
+
+Art. 14. Consideram-se isentos do imposto de renda, na fonte e na declaração
+de ajuste do beneficiário, os valores efetivamente pagos ou distribuídos ao
+titular ou sócio da microempresa ou empresa de pequeno porte optante pelo
+Simples Nacional, salvo os que corresponderem a pró-labore, aluguéis ou
+serviços prestados.
+
+Tendo em vista o silêncio legislativo quanto à revogação da isenção e a
+coexistência entre dispositivos legais destinados a realidades distintas, abriu-se a
+possibilidade de interpretações diversas sobre a incidência ou não da Lei nº 15.270/2025
+no tocante às microempresas e empresas de pequeno porte optantes pelo Simples Nacional.
+
+Nesse sentido, a título exemplificativo, a Receita Federal do Brasil, por
+meio do documento "Perguntas e Respostas – Tributação de Altas Rendas – Considerações
+sobre Lucros e Dividendos", questão 10, manifestou entendimento de que a isenção do
+artigo 14 da LC 123/2006 "deixou de ser aplicada" com o advento da Lei nº 15.270/2025,
+sujeitando as distribuições de dividendos por optantes do Simples Nacional à retenção de
+10% quando superiores a R$ 50.000,00 mensais e à tributação na declaração de ajuste
+anual pelo IRPF, veja-se:
+
+“10. O IRRF dos lucros e dividendos também se aplica às distribuições
+efetuadas por empresas do Simples Nacional?
+
+Sim. A retenção na fonte prevista na lei também se aplica aos pagamentos
+de lucros e dividendos efetuados por empresas do Simples Nacional. Assim
+como no caso dos pagamentos feitos por outras pessoas jurídica, a
+distribuição de lucros e dividendos por pessoas jurídicas do Simples
+Nacional será sujeita à retenção na fonte a partir de janeiro de 2026 à
+alíquota de 10% quando se tratar de pagamentos a uma mesma pessoa
+física residente no Brasil que supere R$ 50.000,00 em um mesmo mês.
+Com a Lei nº 15.270/25, a isenção prevista no art. 14 da Lei
+Complementar nº 123/06 deixou de ser aplicada de modo que os lucros e
+dividendos pagos passarão a estar sujeitos a retenção na fonte do IRRF
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+6
+
+[[pagina 7 | nativo]]
+
+quando se tratar de pagamentos a uma mesma pessoa física residente no
+Brasil que supere R$ 50.000,00 em um mesmo mês.
+Vale mencionar que a mesma hipótese de afastamento prevista na lei para
+lucros apurados até 31 de dezembro de 2025 se aplica para os lucros e
+dividendos pagos por empresas do Simples Nacional (ver questão 7 a 9).”
+(Destaques nossos)
+
+Ocorre que a aplicação dos artigos 6º-A, 16-A e 16-B da Lei nº 9.250/95,
+introduzidos pelo artigo 2º da Lei nº 15.270/2025, às microempresas e empresas de
+pequeno porte optantes pelo Simples Nacional é inconstitucional, por violação aos
+seguintes dispositivos da Constituição Federal:
+
+i. A reserva de lei complementar (art. 146, III, "d", CF/88) para disciplinar
+o regime tributário diferenciado de ME/EPP;
+
+ii. O tratamento favorecido constitucionalmente assegurado às micro e
+pequenas empresas (arts. 170, IX, e 179, CF/88);
+
+iii. Os princípios da isonomia tributária (art. 150, II, CF/88), capacidade
+contributiva (art. 145, § 1º, CF/88) e vedação ao confisco (art. 150, IV,
+CF/88);
+
+iv. A hierarquia normativa, pois lei ordinária não pode revogar tacitamente
+isenção estabelecida por lei complementar em matéria
+constitucionalmente reservada. Ainda que o pudesse, a aplicação
+inconstitucional pretendida pela Fazenda Nacional – no que acarreta uma
+reinstituição de incidência tributária – vai de encontro ao artigo 9º da Lei
+Complementar nº 95/98 que, com clareza solar, determina que a lei
+indique os dispositivos revogados1
+
+A motivação apresentada pelo legislador de aumentar a carga tributária nas
+“altas rendas”, bem como garantir uma tributação conjunta, considerando-se pessoa
+jurídica e pessoa física, que se aproxime da alíquota “cheia” da tributação esperada de
+empresas tributadas pelo regime de lucro real não parecia colidir com o regramento
+especial concedido pela Lei Complementar 123, de 14 de dezembro de 2006 às
+microempresas e empresas de pequeno porte, cujo fomento e necessidade de amparo tem
+assento constitucional nos artigos 170, inciso IX2 e 1793. Não se trata, nem de longe, de um
+
+1 Art. 9o A cláusula de revogação deverá enumerar, expressamente, as leis ou disposições legais revogadas.
+2 Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por fim assegurar a todos existên-
+cia digna, conforme os ditames da justiça social, observados os seguintes princípios:
+(...)
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as leis brasileiras e que tenham sua sede e administra-
+ção no País
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+7
+
+[[pagina 8 | nativo]]
+
+encerramento de “benefício fiscal” indevido. Aplica-se, à situação em análise, a
+perspectiva adotada pela Corte na ADI nº 6.030/DF, relator o Senhor Ministro Gilmar
+Mendes, de que “(a)ferem-se as vantagens ou desvantagens do Simples Nacional de uma
+perspectiva holística, considerando a tributação como um todo, e não pelo prisma de um
+único tributo ou de uma restrição específica.”. A perspectiva holística faz ver que uma tal
+incidência tributária desvirtua, malfere e agride todo o arcabouço principiológico atinente
+às empresas de pequeno porte.
+
+É um dos pilares desse tratamento diferenciado, a isenção prevista no art. 14
+da referida lei complementar4 à distribuição de dividendos dessas pequenas entidades, cujo
+trabalho direto dos sócios é o esteio de sua manutenção, não havendo a organização
+extensa dos fatores de produção observadas nos empreendimentos empresariais de maior
+porte.
+
+A aplicação da Lei nº 15.270/25 às microempresas e empresas de pequeno
+porte optantes pelo Simples Nacional claramente não se alinha aos princípios e normas
+constitucionais, motivo pelo qual o Conselho Federal da Ordem dos Advogados do Brasil,
+como legitimado universal para as ações de controle concentrado, no exercício de sua
+competência legal de defensor da cidadania e da Constituição Federal, em decorrência do
+artigo 44, inciso I, da Lei 8.906/94, bem como no interesse de todos os pequenos
+escritórios de advocacia que compõem a imensa maioria de prestadores de serviço jurídico
+no País, propõe a presente ação, visando a declaração de inconstitucionalidade, sem
+redução do texto, dos dispositivos questionados a fim de afastar todo e qualquer
+entendimento ou interpretação que pretenda tributar na pessoa física de seus sócios e
+associados a distribuição de lucros e dividendos das pessoas jurídicas enquadradas como
+microempresas ou empresas de pequeno porte, submetidas ao regime do Simples Nacional
+instituído pela LC 123/06, pelas razões ora expostas.
+
+II. DA CONTROVÉRSIA CONSTITUCIONAL
+
+II.1. Contexto Normativo e Econômico
+
+O Simples Nacional, instituído pela Lei Complementar nº 123/2006,
+representa a concretização do mandamento constitucional previsto nos artigos 146, inciso
+
+3 Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às microempresas e às empresas de pequeno porte,
+assim definidas em lei, tratamento jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações administrativas,
+tributárias, previdenciárias e creditícias, ou pela eliminação ou redução destas por meio de lei.
+4 Art. 14. Consideram-se isentos do imposto de renda, na fonte e na declaração de ajuste do beneficiário, os valores efetivamente pagos
+ou distribuídos ao titular ou sócio da microempresa ou empresa de pequeno porte optante pelo Simples Nacional, salvo os que corres-
+ponderem a pró-labore, aluguéis ou serviços prestados.
+§ 1º A isenção de que trata o caput deste artigo fica limitada ao valor resultante da aplicação dos percentuais de que trata o art. 15 da
+Lei no 9.249, de 26 de dezembro de 1995, sobre a receita bruta mensal, no caso de antecipação de fonte, ou da receita bruta total anual,
+tratando-se de declaração de ajuste, subtraído do valor devido na forma do Simples Nacional no período.
+§ 2º O disposto no § 1o deste artigo não se aplica na hipótese de a pessoa jurídica manter escrituração contábil e evidenciar lucro
+superior àquele limite.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+8
+
+[[pagina 9 | nativo]]
+
+III, alínea "d", 170, inciso IX, e 179 da Constituição Federal, estabelecendo regime
+tributário diferenciado, simplificado e favorecido para microempresas e empresas de
+pequeno porte. Segundo dados oficiais do Conselho Federal da Ordem dos Advogados do
+Brasil, existem atualmente 105.617 sociedades de advogados ativas no país, das quais
+220.186 advogados (18,03% do total de 1,2 milhão de profissionais ativos) atuam como
+integrantes dessas sociedades. Esses escritórios são responsáveis pela prestação de serviços
+jurídicos a mais de quinze milhões de brasileiros anualmente, atuando predominantemente
+em comarcas do interior, periferias urbanas e regiões economicamente menos
+desenvolvidas, onde constituem, muitas vezes, a única alternativa de acesso qualificado à
+advocacia.
+
+A Lei nº 15.270/25, ao estabelecer a tributação de dividendos distribuídos
+por pessoas jurídicas, dada sua fundamentação e foco nas altas rendas, não pretendeu, por
+evidente, acabar com o regime beneficiado das microempresas e empresas de pequeno
+porte, optantes pelo Simples Nacional, motivo pelo qual o entendimento contrário rompe
+com a sistemática de tributação definitiva e unificada que caracteriza esse regime especial.
+Como se sabe, o Simples Nacional opera mediante a aplicação de alíquota única sobre a
+receita bruta, englobando todos os tributos federais, estaduais e municipais, inclusive o
+Imposto de Renda da Pessoa Jurídica (IRPJ) e a Contribuição Social sobre o Lucro Líquido
+(CSLL). Essa tributação é, por definição legal e constitucional, definitiva e exaustiva, não
+comportando incidências posteriores sobre a mesma base econômica.
+
+O Simples Nacional opera mediante tributação unificada e definitiva sobre a
+receita bruta, englobando IRPJ, CSLL, PIS, COFINS, IPI, ICMS, ISS e CPP. O artigo 14
+da LC 123/2006 estabelece isenção expressa do IRPF sobre lucros distribuídos, "na fonte e
+na declaração de ajuste", reconhecendo que a capacidade contributiva já foi integralmente
+alcançada pela tributação na pessoa jurídica.
+
+A aplicação da Lei nº 15.270/25, tem como consequência uma nova
+tributação sobre dividendos já alcançados pelo regime simplificado, criando dupla
+incidência tributária sobre idêntica manifestação de capacidade contributiva, o que onera
+desproporcionalmente os pequenos escritórios de advocacia e os micros e pequenos
+empreendedores do País.
+
+Especificamente em relação à advocacia, enquanto atividade profissional
+intelectual, possui natureza jurídica e estrutura organizacional substancialmente distintas
+das sociedades empresariais típicas, como também já afirmado e reafirmado por essa
+Corte, vide, por exemplo, o julgamento do Tema 918 da Repercussão Geral (RE nº
+940.769/RS), com a seguinte tese: “É inconstitucional lei municipal que estabelece
+impeditivos à submissão de sociedades profissionais de advogados ao regime de tributação
+fixa em bases anuais na forma estabelecida por lei nacional”.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+9
+
+[[pagina 10 | nativo]]
+
+Os escritórios de advocacia, especialmente aqueles enquadrados como
+microempresas ou empresas de pequeno porte, constituem-se, em sua esmagadora maioria,
+como sociedades simples de natureza personalíssima (intuitu personae), nas quais os
+sócios e associados são, simultaneamente, os únicos ou principais prestadores dos serviços
+advocatícios.
+
+Diferentemente das sociedades empresariais de capital, que mobilizam
+recursos financeiros, tecnológicos e humanos de terceiros para a produção de bens ou
+serviços, os escritórios de advocacia de pequeno porte dependem fundamentalmente do
+trabalho pessoal, técnico e intelectual de seus sócios e associados.
+
+A estrutura organizacional desses escritórios é, via de regra, enxuta: um ou
+dois advogados sócios, eventualmente um ou dois estagiários ou advogados associados, e
+infraestrutura física mínima. Não há, nesses casos, capital investido significativo,
+tampouco organização massiva dos fatores de produção como se apresenta em empresas e
+sociedades de capital típicas.
+
+Essa peculiaridade estrutural revela que a distribuição de dividendos em
+pequenos escritórios de advocacia não configura, em sua essência econômica, rendimento
+de capital ou lucro empresarial no sentido clássico, mas sim remuneração pelo trabalho
+profissional prestado pelos próprios sócios. Enquanto nas sociedades empresariais de
+capital os dividendos representam a remuneração do investimento financeiro e do risco
+empresarial assumido pelos acionistas ou quotistas — que não necessariamente trabalham
+na empresa —, nos escritórios de advocacia de pequeno porte os "dividendos" constituem,
+materialmente, a contraprestação pelo exercício direto e pessoal da advocacia.
+
+Essa distinção não é meramente formal ou semântica, mas possui profunda
+relevância jurídico-tributária: tributar dividendos de advogados que trabalham em seus
+próprios escritórios equivale, na prática, a tributar novamente a renda decorrente do
+trabalho profissional, já alcançada pelo regime do Simples Nacional. Trata-se, portanto, de
+equiparação inconstitucional entre situações materialmente distintas, violando frontalmente
+o princípio da isonomia tributária e da capacidade contributiva.
+
+II.2. Da Controvérsia Constitucional e de sua Relevância
+
+A controvérsia envolve princípios estruturantes da ordem constitucional
+tributária e econômica:
+
+i. Livre iniciativa (arts. 1º, IV, e 170, caput, CF/88): A tributação excessiva
+desestimula a formalização e inviabiliza a manutenção de pequenos
+escritórios, forçando profissionais à informalidade;
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+10
+
+[[pagina 11 | nativo]]
+
+ii. Isonomia tributária (art. 150, II, CF/88): Veda o tratamento igual entre
+contribuintes em situação desigual. Equiparar pequenos escritórios de
+advocacia a grandes sociedades de capital configura discriminação
+arbitrária;
+
+iii. Capacidade contributiva (art. 145, § 1º, CF/88): A capacidade contributiva
+já foi exaurida pela tributação na pessoa jurídica. Tributar novamente os
+dividendos configura bitributação vedada;
+
+iv. Vedação ao confisco (art. 150, IV, CF/88): A carga tributária total
+(Simples + IRPF sobre dividendos) pode ultrapassar 45% da receita bruta,
+inviabilizando economicamente a atividade;
+
+v. Acesso à justiça (art. 5º, XXXV, CF/88): A inviabilização de pequenos
+escritórios reduz drasticamente a oferta de serviços jurídicos acessíveis,
+concentrando o mercado em grandes bancas e comprometendo o acesso à
+advocacia.
+
+A aplicabilidade da Lei nº 15.270/2025 aos optantes do Simples Nacional
+constitui controvérsia constitucional sem consenso doutrinário ou jurisprudencial. A
+Solução de Consulta COSIT nº 244/2025, publicada um dia após a sanção da Lei nº
+15.270/2025, teve como um de seus fundamentos que a disciplina da isenção de lucros no
+Simples Nacional está integralmente ancorada na LC 123/2006 e que atos normativos
+gerais de IRPJ/CSLL/IRPF não se aplicariam automaticamente às empresas do Simples
+quando colidem com a lei complementar. Contudo, a Solução de Consulta – voltada à
+legislação anterior – silenciou quanto à aplicabilidade específica da Lei nº 15.270/2025,
+gerando dúvida sobre se a Receita Federal considera que a nova lei revogou tacitamente a
+isenção do artigo 14 da LC 123/2006.
+
+Embora o STF tenha consolidado jurisprudência protetiva das micro e
+pequenas empresas (ADI 5.469/DF), destacando que a matéria relativa ao regime tributário
+diferenciado e favorecido destinado a microempresas e empresas de pequeno porte é tema
+reservado à lei complementar, não há precedente vinculante que enfrente especificamente a
+tributação de dividendos de optantes pelo regime simplificado.
+
+A urgência na resolução da controvérsia decorre do risco concreto e
+iminente de autuações fiscais em massa, com consequências gravíssimas: inscrição em
+dívida ativa, execuções fiscais, impossibilidade de obtenção de certidões negativas,
+penhora de bens e contas bancárias, e inviabilização econômica da atividade profissional.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+11
+
+[[pagina 12 | nativo]]
+
+III. DA INCONSTITUCIONALIDADE DA INTERPRETAÇÃO QUE
+APLICA A TRIBUTAÇÃO DE DIVIDENDOS AOS OPTANTES DO
+SIMPLES NACIONAL
+
+III.1. Violação ao Princípio da Isonomia Tributária e à Capacidade
+Contributiva
+
+O princípio da isonomia tributária (arts. 5º, caput e I, e 150, II, CF/88) veda
+o tratamento desigual entre contribuintes em situação equivalente, bem como o tratamento
+igual aos contribuintes em situação desigual, consagrando a igualdade formal e material
+como direito fundamental e vedando à União, aos Estados, ao Distrito Federal e aos
+Municípios "instituir tratamento desigual entre contribuintes que se encontrem em
+situação equivalente, proibida qualquer distinção em razão de ocupação profissional ou
+função por eles exercida”
+
+A isonomia tributária, portanto, constitui a proibição de discriminações
+arbitrárias, de modo que situações equivalentes devem receber tratamento idêntico, e
+situações distintas, tratamento diferenciado na medida de suas desigualdades.
+
+O princípio da capacidade contributiva (art. 145, § 1º, CF/88) determina que
+os impostos sejam graduados segundo a capacidade econômica do contribuinte, vedando a
+tributação que ignore a real aptidão para suportar o ônus fiscal, sendo assim, a capacidade
+contributiva é o critério de justiça distributiva na repartição do ônus fiscal, exigindo que
+cada um contribua na proporção de suas possibilidades econômicas.
+
+A isonomia tributária não se resume à igualdade aritmética, mas exige
+tratamento proporcional às desigualdades: situações equivalentes devem receber
+tratamento idêntico, e situações distintas, tratamento diferenciado na medida de suas
+desigualdades. Esse entendimento é consolidado na doutrina tributária nacional e na
+jurisprudência do Supremo Tribunal Federal.
+
+O princípio da capacidade contributiva (art. 145, § 1º, CF/88) determina que
+"sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a
+capacidade econômica do contribuinte". Trata-se de corolário da isonomia material,
+impondo que a tributação recaia sobre manifestações concretas de riqueza e seja graduada
+de modo a não onerar desproporcionalmente contribuintes com menor aptidão econômica
+para suportar o ônus fiscal.
+
+A capacidade contributiva é o critério de justiça distributiva na repartição do
+ônus fiscal, exigindo que cada contribuinte suporte a carga tributária na proporção de suas
+possibilidades econômicas, vedando-se a tributação que ignore manifestações concretas de
+riqueza ou que incida sobre base econômica já tributada.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+12
+
+[[pagina 13 | nativo]]
+
+Esse Supremo Tribunal Federal, em diversas oportunidades, consolidou
+jurisprudência no sentido de que a isonomia tributária e a capacidade contributiva
+constituem limites materiais ao poder de tributar, vinculando o legislador ordinário.
+
+III.2. Da Equiparação Inconstitucional entre Regimes Tributários
+Distintos
+
+O Simples Nacional, instituído pela Lei Complementar nº 123/2006 em
+cumprimento ao mandamento constitucional dos artigos 146, inciso III, alínea "d", 170,
+inciso IX, e 179 da Constituição Federal, constitui regime tributário diferenciado,
+simplificado e favorecido, caracterizado pela unificação da arrecadação de tributos
+federais, estaduais e municipais mediante aplicação de alíquota única sobre a receita bruta,
+com dispensa de obrigações acessórias complexas.
+
+A tributação no Simples Nacional é, por definição legal e constitucional,
+definitiva e exaustiva, não comportando incidências tributárias posteriores sobre a mesma
+base econômica. O artigo 13, § 1º, da LC 123/2006 estabelece que "o recolhimento na
+forma deste artigo não exclui a incidência" de tributos específicos, enumerando
+taxativamente as hipóteses excepcionais de tributação adicional. A contrario sensu, todas
+as demais hipóteses de tributação estão abrangidas pelo regime unificado do Simples,
+incluindo o IRPJ e a CSLL sobre o lucro da pessoa jurídica.
+
+O artigo 14 da LC 123/2006 estabelece expressamente:
+
+Art. 14. Consideram-se isentos do imposto de renda, na fonte e na
+declaração de ajuste do beneficiário, os valores efetivamente pagos ou
+distribuídos ao titular ou sócio da microempresa ou empresa de pequeno
+porte optante pelo Simples Nacional, salvo os que corresponderem a pró-
+labore, aluguéis ou serviços prestados.
+
+A norma é inequívoca e com sentido unívoco: a isenção aplica-se "na fonte
+e na declaração de ajuste", abrangendo tanto a retenção na fonte quanto a tributação na
+declaração anual de ajuste do IRPF. O § 2º do artigo 14 assegura que, havendo escrituração
+contábil regular, a isenção aplica-se à integralidade do lucro efetivamente apurado, sem
+limitação de valor mensal ou anual.
+
+Assim, a aplicação dos artigos 6º-A, 16-A e 16-B da Lei nº 9.250/95,
+introduzidos pelo artigo 2º da Lei nº 15.270/2025às distribuições de dividendos por
+optantes do Simples Nacional, cria dupla tributação sobre a mesma manifestação de
+capacidade contributiva. Os escritórios de advocacia optantes pelo Simples Nacional já
+recolhem o IRPJ de forma presumida e simplificada, embutido na alíquota unificada do
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+13
+
+[[pagina 14 | nativo]]
+
+DAS. A distribuição de dividendos não representa acréscimo patrimonial novo, mas mera
+transferência de valores já tributados da pessoa jurídica para a pessoa física dos sócios.
+
+A distinção entre o regime do Simples Nacional e os regimes do lucro real,
+presumido ou arbitrado é estrutural e ontológica. Empresas tributadas pelo lucro real ou
+presumido possuem estrutura contábil e tributária complexa, que comporta a distinção
+entre lucro empresarial (tributado na PJ) e distribuição de dividendos (isenta na PF,
+conforme redação original do art. 10 da Lei 9.249/1995). No Simples Nacional, essa
+distinção é artificial e incompatível com a lógica do regime simplificado, que dispensa
+escrituração contábil complexa e presume o lucro com base na receita bruta.
+
+Até porque, ao se permitir a aplicação da Lei nº 15.270/2025 dos optantes
+do Simples Nacional, utilizando-se como parâmetro as alíquotas nominais do IRPJ e da
+CSLL no regime do lucro real, a tributação dos dividendos nesses casos, tende a
+simplesmente eliminar o benefício fiscal existente, fazendo com que as alíquotas
+reduzidas, criadas para estimular as micro e os pequenos empresários, sejam majoradas, de
+forma indevida, na pessoa física dos seus sócios e associados.
+
+III.3. Do Tratamento Desigual entre Contribuintes em Situação
+Equivalente
+
+A aplicação dos artigos 6º-A, 16-A e 16-B da Lei nº 9.250/95, introduzidos
+pelo artigo 2º da Lei nº 15.270/2025 às distribuições de dividendos por optantes do
+Simples Nacional viola o artigo 150, II, da Constituição Federal ao estabelecer tratamento
+mais gravoso para escritórios de advocacia optantes pelo Simples Nacional em comparação
+com:
+
+i. Outras microempresas e EPPs no mesmo regime que não distribuem
+dividendos superiores a R$ 50.000,00 mensais;
+ii. Advogados pessoas físicas, tributados uma única vez pelo IRPF sobre
+seus rendimentos profissionais;
+iii. Sociedades empresárias tributadas pelo lucro real ou presumido, que
+possuem estrutura e capacidade econômica para planejamento tributário e
+compensação de créditos.
+
+A equiparação entre escritórios de advocacia de pequeno porte —
+sociedades simples de natureza personalíssima (intuito personae), nas quais os sócios são
+os próprios prestadores de serviço e os dividendos constituem, materialmente, remuneração
+pelo trabalho profissional — e grandes sociedades empresárias de capital — nas quais os
+dividendos representam efetivamente rendimento de capital e remuneração do risco
+empresarial — constitui discriminação arbitrária e constitucionalmente inadmissível.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+14
+
+[[pagina 15 | nativo]]
+
+III.4. Da Violação à Capacidade Contributiva e do Efeito Confiscatório
+
+No caso dos pequenos escritórios de advocacia optantes pelo Simples
+Nacional, a capacidade contributiva já foi integralmente considerada e exaurida pela
+tributação incidente na pessoa jurídica, mediante o recolhimento unificado do DAS. A
+distribuição de dividendos não representa acréscimo patrimonial novo, mas mera
+transferência de valores já tributados da pessoa jurídica para a pessoa física dos sócios.
+
+A peculiaridade estrutural dos escritórios de advocacia de pequeno porte
+revela que os dividendos não configuram rendimento de capital, mas sim remuneração pelo
+trabalho profissional prestado pelos próprios sócios. Não há capital investido significativo,
+tampouco estrutura empresarial complexa. A "distribuição de lucros" é, materialmente,
+remuneração pelo trabalho profissional que, por razões de planejamento tributário legítimo,
+é formalizada como dividendos para aproveitar a isenção do artigo 14 da LC 123/2006.
+
+Tributar novamente essa mesma base econômica configura bitributação
+vedada pelo sistema constitucional, além de violar a capacidade contributiva ao
+desconsiderar que a renda já foi alcançada pelo fisco. A carga tributária total resultante da
+soma entre o Simples Nacional e o imposto sobre dividendos pode atingir patamares que
+caracterizam efeito confiscatório expressamente vedado pelo artigo 150, inciso IV, da
+Constituição Federal.
+
+Considerando-se a alíquota média do Simples Nacional para escritórios de
+advocacia (entre 16% e 22% da receita bruta, conforme o Anexo IV da LC 123/2006) e a
+retenção de 10% sobre dividendos, a carga tributária total pode ultrapassar 40% a 50% da
+receita bruta, inviabilizando economicamente a atividade profissional.
+
+III.5. Da Violação aos Princípios Constitucionais de Proteção aos
+Pequenos Negócios: Da Reserva Constitucional de Lei Complementar.
+
+A Constituição Federal de 1988 estabeleceu um sistema constitucional de
+proteção às microempresas e empresas de pequeno porte (ME/EPP), reconhecendo sua
+relevância estratégica para o desenvolvimento nacional, a geração de empregos, a
+distribuição de renda e a redução de desigualdades regionais e sociais. Esse sistema
+constitucional de proteção estrutura-se em três pilares normativos fundamentais:
+
+a) Artigo 146, inciso III, alínea "d", da Constituição Federal:
+
+Art. 146. Cabe à lei complementar:
+(...)
+III - estabelecer normas gerais em matéria de legislação tributária,
+especialmente sobre:
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+15
+
+[[pagina 16 | nativo]]
+
+(...)
+d) definição de tratamento diferenciado e favorecido para as
+microempresas e para as empresas de pequeno porte, inclusive regimes
+especiais ou simplificados no caso dos impostos previstos nos arts. 155, II, e
+156-A, das contribuições sociais previstas no art. 195, I e V, e § 12 e da
+contribuição a que se refere o art. 239.
+
+b) Artigo 170, inciso IX, da Constituição Federal:
+
+"Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na
+livre iniciativa, tem por fim assegurar a todos existência digna, conforme os
+ditames da justiça social, observados os seguintes princípios:
+(...)
+IX - tratamento favorecido para as empresas de pequeno porte constituídas sob as
+leis brasileiras e que tenham sua sede e administração no País."
+
+c) Artigo 179 da Constituição Federal:
+
+Art. 179. A União, os Estados, o Distrito Federal e os Municípios dispensarão às
+microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento
+jurídico diferenciado, visando a incentivá-las pela simplificação de suas
+obrigações administrativas, tributárias, previdenciárias e creditícias, ou pela
+eliminação ou redução destas por meio de lei.
+
+Esses três dispositivos constitucionais estabelecem, em conjunto, um
+mandamento constitucional impositivo dirigido a todos os entes federativos, impondo o
+dever de dispensar tratamento diferenciado, favorecido e simplificado às ME/EPP. Não se
+trata de mera faculdade legislativa, mas de comando constitucional de eficácia plena e
+aplicabilidade imediata, que vincula o legislador infraconstitucional e impõe limites
+materiais à tributação.
+
+A reserva de lei complementar estabelecida no artigo 146, III, "d", da
+Constituição Federal possui natureza qualificada e reforçada, pois não se limita a exigir
+quórum especial para aprovação (maioria absoluta, conforme art. 69 da CF/88), mas impõe
+que a matéria relativa ao regime tributário diferenciado de ME/EPP seja disciplinada
+exclusivamente por lei complementar federal, vedando que lei ordinária federal, estadual
+ou municipal altere, restrinja ou revogue esse regime.
+
+Essa reserva qualificada de lei complementar articula-se com o artigo 146,
+inciso III, alínea "a", da Constituição Federal, que estabelece:
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+16
+
+[[pagina 17 | nativo]]
+
+"Art. 146. Cabe à lei complementar:
+(...)
+III - estabelecer normas gerais em matéria de legislação tributária, especialmente
+sobre:
+a) definição de tributos e de suas espécies, bem como, em relação aos impostos
+discriminados nesta Constituição, a dos respectivos fatos geradores, bases de
+cálculo e contribuintes;"
+
+A conexão entre os artigos 146, III, "a" e "d", da Constituição Federal é
+estrutural: a lei complementar que define o regime tributário diferenciado de ME/EPP (art.
+146, III, "d") estabelece, necessariamente, normas gerais sobre fatos geradores, bases de
+cálculo e contribuintes (art. 146, III, "a") no contexto específico desse regime. A isenção
+do artigo 14 da LC 123/2006, ao estabelecer que os lucros distribuídos por ME/EPP
+optantes pelo Simples Nacional são isentos do IRPF "na fonte e na declaração de ajuste",
+constitui norma geral sobre o fato gerador do IRPF no regime diferenciado, afastando a
+incidência tributária sobre essa específica manifestação de riqueza.
+
+Assim, a reserva de lei complementar estabelecida no artigo 146, III,
+"d", da Constituição Federal possui natureza material e formal:
+
+a) Natureza formal: Exige quórum qualificado de maioria absoluta para
+aprovação (art. 69 da CF/88), conferindo maior estabilidade e legitimidade
+democrática à norma;
+
+b) Natureza material: Estabelece que determinadas matérias, por sua
+relevância constitucional, só podem ser disciplinadas por lei complementar,
+vedando que lei ordinária invada essa competência.
+
+A doutrina constitucional reconhece que a reserva de lei complementar não
+é mera formalidade procedimental, mas constitui técnica de proteção de valores
+constitucionais fundamentais. No caso do artigo 146, III, "d", o valor protegido é o
+tratamento diferenciado, favorecido e simplificado das ME/EPP, reconhecido como
+instrumento essencial para a concretização dos objetivos fundamentais da República (art.
+3º, II e III, CF/88) e dos princípios da ordem econômica (art. 170, caput e IX, CF/88).
+
+O artigo 146, III, "d", da Constituição Federal estabelece que cabe à lei
+complementar "estabelecer normas gerais em matéria de legislação tributária,
+especialmente sobre definição de tratamento diferenciado e favorecido para as
+microempresas e para as empresas de pequeno porte".
+
+A expressão "definição de tratamento diferenciado e favorecido" possui
+amplitude normativa abrangente, englobando:
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+17
+
+[[pagina 18 | nativo]]
+
+a) Critérios de enquadramento: Definição de quais empresas são
+consideradas ME ou EPP (receita bruta anual, atividade econômica, etc.);
+
+b) Regime tributário simplificado: Unificação de tributos, alíquotas
+diferenciadas, dispensa de obrigações acessórias;
+
+c) Isenções e benefícios fiscais: Afastamento da incidência tributária sobre
+determinadas bases econômicas, como a distribuição de lucros;
+
+d) Simplificação de obrigações não tributárias: Redução de exigências
+administrativas, previdenciárias e creditícias.
+
+A isenção do artigo 14 da LC 123/2006, ao estabelecer que os lucros
+distribuídos por ME/EPP optantes pelo Simples Nacional são isentos do IRPF, constitui
+elemento estruturante do tratamento diferenciado e favorecido, pois:
+
+i) Evita a dupla tributação sobre a mesma manifestação de capacidade
+contributiva (lucro já tributado na PJ pelo Simples);
+
+ii) Simplifica o regime, dispensando controles contábeis complexos para
+apuração de lucro distribuível;
+
+iii) Reduz a carga tributária total, viabilizando economicamente a atividade
+de pequenos negócios;
+
+iv) Concretiza o princípio da capacidade contributiva, reconhecendo que a
+tributação na PJ já exauriu a aptidão econômica para suportar o ônus
+fiscal.
+
+O Supremo Tribunal Federal consolidou jurisprudência no sentido de que a
+reserva de lei complementar do artigo 146, III, "d", da Constituição Federal constitui limite
+material intransponível ao legislador ordinário.
+
+No julgamento da ADI 5.469/DF, relatada pelo Ministro Dias Toffoli, o
+Plenário do STF assentou:
+
+EMENTA Ação direta de inconstitucionalidade. Legitimidade ativa da
+associação autora. Emenda Constitucional nº 87/15. ICMS. Operações e
+prestações em que haja destinação de bens e serviços a consumidor final
+não contribuinte do ICMS localizado em estado distinto daquele do
+remetente. Inovação constitucional. Matéria reservada a lei
+complementar. (art. 146, I e III, a e b; e art. 155, § 2º, XII, a, b, c, d e i,
+da CF/88). Cláusulas primeira, segunda, terceira e sexta do Convênio
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+18
+
+[[pagina 19 | nativo]]
+
+ICMS nº 93/2015. Inconstitucionalidade. Tratamento tributário
+diferenciado e favorecido destinado a microempresas e empresas de
+pequeno porte. Simples Nacional. Matéria reservada a lei complementar
+(art. 146, inciso III, d, e parágrafo único CF/88). (...) 2. Cabe a lei
+complementar dispor sobre conflitos de competência em matéria
+tributária e estabelecer normas gerais sobre os fatos geradores, as bases
+de cálculo, os contribuintes dos impostos discriminados na Constituição
+e a obrigação tributária (art. 146, I, e III, a e b). Também cabe a ela
+estabelecer normas gerais em matéria de legislação tributária sobre
+definição de tratamento diferenciado e favorecido para as
+microempresas e as empresas de pequeno porte, podendo instituir
+regime único de arrecadação de impostos e contribuições. (...) 6. A
+Constituição também dispõe caber a lei complementar – e não a
+convênio interestadual – estabelecer normas gerais em matéria de
+legislação tributária, especialmente sobre definição de tratamento
+diferenciado e favorecido para as microempresas e as empresas de
+pequeno porte, o que inclui regimes especiais ou simplificados de certos
+tributos, como o ICMS (art. 146, III, d, da CF/88, incluído pela EC nº
+42/03). 7. A LC nº 123/06, que instituiu o Regime Especial Unificado de
+Arrecadação de Tributos e Contribuições devidos pelas Microempresas e
+pelas Empresas de Pequeno Porte – Simples Nacional –, trata de
+maneira distinta as empresas optantes desse regime em relação ao
+tratamento constitucional geral atinente ao denominado diferencial de
+alíquotas de ICMS referente às operações de saída interestadual de bens
+ou de serviços a consumidor final não contribuinte. Esse imposto, nessa
+situação, integra o próprio regime especial e unificado de arrecadação
+instituído pelo citado diploma. 8. A cláusula nona do Convênio ICMS nº
+93/15, ao determinar a extensão da sistemática da Emenda
+Constitucional nº 87/15 aos optantes do Simples Nacional, adentra no
+campo material de incidência da LC nº 123/06, que estabelece normas
+gerais relativas ao tratamento tributário diferenciado e favorecido a ser
+dispensado a microempresas e empresas de pequeno porte. 9. Existência
+de medida cautelar deferida na ADI nº 5.464/DF, ad referendum do
+Plenário, para suspender a eficácia da cláusula nona do Convênio ICMS
+nº 93/15, editado pelo Conselho Nacional de Política Fazendária
+(CONFAZ), até o julgamento final daquela ação. (...)
+
+(ADI 5469, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 24-
+02-2021, PROCESSO ELETRÔNICO DJe-099 DIVULG 24-05-2021
+PUBLIC 25-05-2021)
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+19
+
+[[pagina 20 | nativo]]
+
+Esse precedente estabelece três teses fundamentais:
+
+a) Reserva exclusiva da União: Apenas a União, por meio de lei
+complementar federal, pode disciplinar o regime tributário diferenciado de ME/EPP;
+
+b) Vedação a restrições estaduais ou municipais: Estados e Municípios não
+podem, nem mesmo por lei complementar estadual ou municipal, restringir o regime
+diferenciado estabelecido pela LC 123/2006;
+
+c) Natureza de norma geral: A LC 123/2006 estabelece normas gerais de
+observância obrigatória por todos os entes federativos, prevalecendo sobre legislação
+ordinária federal, estadual ou municipal.
+
+Na ADI 4.033/DF, relatada pelo Ministro Joaquim Barbosa, o STF
+reconheceu a necessidade de proteção diferenciada das empresas de micro e pequeno porte,
+em acórdão assim ementado:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+CONSTITUCIONAL. TRIBUTÁRIO. CONTRIBUIÇÃO SINDICAL
+PATRONAL. ISENÇÃO CONCEDIDA ÀS MICROEMPRESAS E
+EMPRESAS DE PEQUENO PORTE. SIMPLES NACIONAL
+(“SUPERSIMPLES”). LEI COMPLEMENTAR 123/2006, ART. 13, § 3º.
+ALEGADA VIOLAÇÃO DOS ARTS. 3º, III, 5º, CAPUT, 8º, IV, 146, III, D, E
+150, § 6º DA CONSTITUIÇÃO. 1. Ação direta de inconstitucionalidade
+ajuizada contra o art. 13, § 3º da LC 123/2006, que isentou as microempresas e
+empresas de pequeno porte optantes pelo Regime Especial Unificado de
+Arrecadação de Tributos e Contribuições devidos pelas Microempresas e
+Empresas de Pequeno Porte – Simples Nacional (“Supersimples”). 2. Rejeitada
+a alegação de violação da reserva de lei específica para dispor sobre isenção
+(art. 150, § 6º da Constituição), uma vez que há pertinência temática entre o
+benefício fiscal e a instituição de regime diferenciado de tributação. Ademais,
+ficou comprovado que o Congresso Nacional não ignorou a existência da norma
+de isenção durante o processo legislativo. 3. A isenção concedida não viola o
+art. 146, III, d, da Constituição, pois a lista de tributos prevista no texto legal
+que define o campo de reserva da lei complementar é exemplificativa e não
+taxativa. Leitura do art. 146, III, d, juntamente com o art. 170, IX da
+Constituição. 3.1. O fomento da micro e da pequena empresa foi elevado à
+condição de princípio constitucional, de modo a orientar todos os entes
+federados a conferir tratamento favorecido aos empreendedores que contam
+com menos recursos para fazer frente à concorrência. Por tal motivo, a
+literalidade da complexa legislação tributária deve ceder à interpretação mais
+adequada e harmônica com a finalidade de assegurar equivalência de condições
+para as empresas de menor porte. (...)
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+20
+
+[[pagina 21 | nativo]]
+
+(ADI 4033, Relator(a): JOAQUIM BARBOSA, Tribunal Pleno, julgado em 15-
+09-2010, DJe-024 DIVULG 04-02-2011 PUBLIC 07-02-2011 EMENT VOL-
+02458-01 PP-00001 RTJ VOL-00219-01 PP-00195 RSJADV mar., 2011, p. 28-
+37)
+
+Assim, este STF parece ter extensa jurisprudência que trata o Simples
+Nacional, instituído pela Lei Complementar n. 123/2006, como um regime tributário
+diferenciado, simplificado e favorecido, de natureza constitucionalmente qualificada, cuja
+proteção decorre diretamente dos artigos 146, III, d, 170, IX, e 179 da Constituição
+Federal, não podendo ser esvaziado ou restringido por legislação infraconstitucional, sob
+pena de violação aos princípios constitucionais de proteção às microempresas e empresas
+de pequeno porte.
+
+O artigo 170, inciso IX, da Constituição Federal consagra como princípio da
+ordem econômica o "tratamento favorecido para as empresas de pequeno porte
+constituídas sob as leis brasileiras e que tenham sua sede e administração no País".
+
+A inserção desse princípio no artigo 170 da Constituição Federal — que
+estabelece os fundamentos e princípios da ordem econômica — revela sua natureza de
+norma constitucional de eficácia plena e aplicabilidade imediata, vinculando não apenas o
+legislador infraconstitucional, mas também o Poder Executivo e o Poder Judiciário.
+
+A doutrina constitucional reconhece que os princípios da ordem econômica
+(art. 170, CF/88) possuem dupla dimensão normativa:
+
+a) Dimensão objetiva: Estabelecem diretrizes vinculantes para a atuação
+estatal, impondo deveres de promoção ativa (prestações positivas) e de abstenção (vedação
+a restrições indevidas);
+
+b) Dimensão subjetiva: Conferem direitos subjetivos aos particulares, que
+podem exigir judicialmente o cumprimento dos princípios constitucionais.
+
+No caso do artigo 170, IX, da Constituição Federal, o tratamento favorecido
+às empresas de pequeno porte constitui direito subjetivo público dos empresários, oponível
+ao Estado, que não pode ser esvaziado ou restringido pelo legislador infraconstitucional.
+
+O artigo 170, IX, da Constituição Federal não estabelece mera faculdade
+legislativa, mas comando constitucional impositivo. A expressão "tratamento favorecido"
+não admite interpretação discricionária pelo legislador ordinário, mas impõe o dever de
+dispensar tratamento efetivamente mais benéfico às empresas de pequeno porte em
+comparação com empresas de maior porte.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+21
+
+[[pagina 22 | nativo]]
+
+Esse comando impositivo articula-se com o artigo 179 da Constituição
+Federal, que determina que "a União, os Estados, o Distrito Federal e os Municípios
+dispensarão" (verbo no futuro do presente do indicativo, com sentido de obrigatoriedade)
+tratamento jurídico diferenciado às ME/EPP.
+
+A interpretação sistemática dos artigos 170, IX, e 179 da Constituição
+Federal impõe que toda e qualquer norma tributária que afete ME/EPP seja interpretada de
+modo a preservar o tratamento favorecido, sob pena de inconstitucionalidade.
+
+No caso concreto, a aplicação da Lei nº 15.270/2025 às distribuições de
+dividendos dos optantes do Simples Nacional acaba por esvaziar esse tratamento mais
+benéfico, ao utilizar como balizador da tributação na pessoa dos sócios e associados de
+escritórios de advocacia optantes pelo Simples Nacional, a tributação das sociedades de
+capital tributadas com base no lucro real, deixando claro que, se a tributação na pessoa
+jurídica for menor do que as alíquotas nominais “cheias” de IRPJ/CSLL, haverá a
+incidência completa do IRPF sobre os dividendos, fazendo com que a redução almejada
+pela LC 123/06 seja, na prática, eliminada.
+
+Esta intenção também ofende o artigo 179 da Constituição Federal que
+determina que "a União, os Estados, o Distrito Federal e os Municípios dispensarão às
+microempresas e às empresas de pequeno porte, assim definidas em lei, tratamento
+jurídico diferenciado, visando a incentivá-las pela simplificação de suas obrigações
+administrativas, tributárias, previdenciárias e creditícias, ou pela eliminação ou redução
+destas por meio de lei".
+
+A norma estabelece três comandos constitucionais impositivos:
+
+a) Comando dirigido a todos os entes federativos: União, Estados, Distrito
+Federal e Municípios estão obrigados a dispensar tratamento diferenciado;
+
+b) Comando de simplificação: O tratamento diferenciado deve visar à
+simplificação de obrigações, não à criação de novas obrigações;
+
+c) Comando de eliminação ou redução: O objetivo constitucional é eliminar
+ou reduzir obrigações, não mantê-las ou ampliá-las.
+
+O princípio da simplificação estabelecido no artigo 179 da Constituição
+Federal constitui limite material ao legislador ordinário, vedando a criação de obrigações
+tributárias ou acessórias que complexifiquem o regime diferenciado.
+
+A tributação de dividendos instituída pela Lei nº 15.270/2025, ao exigir que
+optantes do Simples Nacional apurem lucro contábil mensal para fins de aplicação da
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+22
+
+[[pagina 23 | nativo]]
+
+retenção de 10% sobre dividendos superiores a R$ 50.000,00, viola frontalmente o
+princípio da simplificação, pois:
+
+a) Exige escrituração contábil complexa: O Simples Nacional dispensa
+escrituração contábil complexa, presumindo o lucro com base na receita bruta. Exigir
+apuração de lucro contábil mensal contraria a lógica do regime simplificado;
+
+b) Cria obrigação acessória incompatível: A retenção de 10% sobre
+dividendos superiores a R$ 50.000,00 mensais exige controles contábeis e fiscais
+incompatíveis com a estrutura de pequenos escritórios de advocacia;
+
+c) Aumenta custos de conformidade: Pequenos escritórios não dispõem de
+recursos para custear assessoria contábil e tributária especializada, onerando
+desproporcionalmente sua atividade.
+
+Assim, a isenção tributária constitui hipótese de não incidência legalmente
+qualificada, ou seja, situação em que, embora ocorra o fato gerador abstrato do tributo, a
+lei afasta a incidência tributária por razões de política fiscal, social ou econômica.
+
+A doutrina tributária reconhece que a isenção pode ser estabelecida por:
+
+a) Lei ordinária: Quando se trata de isenção de tributo de competência do
+ente federativo que a institui, sem repercussão sobre outros entes;
+
+b) Lei complementar: Quando se trata de isenção que afeta normas gerais de
+tributação, harmonização tributária ou regime diferenciado constitucionalmente
+qualificado.
+
+No caso do artigo 14 da LC 123/2006, a isenção do IRPF sobre lucros
+distribuídos por ME/EPP optantes pelo Simples Nacional possui natureza de norma geral
+sobre o fato gerador do IRPF no regime diferenciado, pois:
+
+a) Afasta a incidência do IRPF sobre específica manifestação de riqueza:
+Lucros distribuídos por ME/EPP optantes pelo Simples Nacional;
+
+b) Integra o regime tributário diferenciado: A isenção não é benefício fiscal
+isolado, mas elemento estruturante do Simples Nacional, que opera mediante tributação
+definitiva na PJ;
+
+c) Concretiza princípios constitucionais: Capacidade contributiva (evita
+dupla tributação), isonomia (trata desigualmente os desiguais), simplificação (dispensa
+controles contábeis complexos).
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+23
+
+[[pagina 24 | nativo]]
+
+O artigo 146, III, "a", da Constituição Federal estabelece que cabe à lei
+complementar "estabelecer normas gerais em matéria de legislação tributária,
+especialmente sobre definição de tributos e de suas espécies, bem como, em relação aos
+impostos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de
+cálculo e contribuintes".
+
+A isenção do artigo 14 da LC 123/2006 constitui norma geral sobre o fato
+gerador do IRPF no regime diferenciado, pois:
+
+a) Define situação de não incidência: Estabelece que lucros distribuídos por
+ME/EPP optantes pelo Simples Nacional não constituem fato gerador do IRPF;
+
+b) Afeta a base de cálculo do IRPF: Exclui da base de cálculo do IRPF os
+lucros distribuídos por ME/EPP optantes pelo Simples Nacional;
+
+c) Define contribuintes: Estabelece que sócios de ME/EPP optantes pelo
+Simples Nacional não são contribuintes do IRPF sobre lucros distribuídos.
+
+Essa natureza de norma geral sobre fato gerador impõe que a isenção do
+artigo 14 da LC 123/2006 só possa ser revogada ou alterada por lei complementar federal,
+nos termos do artigo 146, III, "a" e "d", da Constituição Federal.
+
+III.6. O Tema Da "Lei Complementar Materialmente Ordinária" e sua
+Inaplicabilidade ao Caso Concreto
+
+A jurisprudência do Supremo Tribunal Federal admite, em determinadas
+hipóteses, que lei complementar que trate de matéria de lei ordinária possa ser revogada
+por lei ordinária superveniente. Essa tese fundamenta-se na distinção entre:
+
+a) Lei complementar formalmente complementar: Aprovada por quórum
+qualificado de maioria absoluta (art. 69 da CF/88);
+
+b) Lei complementar materialmente complementar: Que trata de matéria
+constitucionalmente reservada à lei complementar (art. 146 da CF/88);
+
+c) Lei complementar materialmente ordinária: Que, embora aprovada por
+quórum qualificado, trata de matéria que poderia ser disciplinada por lei ordinária.
+
+A tese sustenta que, quando lei complementar trata de matéria de lei
+ordinária (lei complementar materialmente ordinária), ela pode ser revogada por lei
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+24
+
+[[pagina 25 | nativo]]
+
+ordinária superveniente, pois não há reserva constitucional de matéria que justifique a
+prevalência da lei complementar.
+
+Essa tese foi aplicada pelo STF em casos específicos, contudo, a tese da
+revogabilidade de lei complementar materialmente ordinária por lei ordinária não se aplica
+ao caso concreto, pois a isenção do artigo 14 da LC 123/2006 não é matéria de lei
+ordinária, mas matéria constitucionalmente reservada à lei complementar, pelos seguintes
+fundamentos:
+
+O artigo 146, III, "d", da Constituição Federal estabelece reserva expressa
+de lei complementar para "definição de tratamento diferenciado e favorecido para as
+microempresas e para as empresas de pequeno porte". A isenção do artigo 14 da LC
+123/2006 integra o núcleo essencial do tratamento diferenciado, não podendo ser
+considerada matéria de lei ordinária.
+
+A isenção do artigo 14 da LC 123/2006 constitui norma geral sobre o fato
+gerador do IRPF no regime diferenciado, matéria expressamente reservada à lei
+complementar pelo artigo 146, III, "a", da Constituição Federal. Não se trata de mera
+isenção isolada, mas de definição de situação de não incidência que integra o regime
+tributário diferenciado.
+
+A admissão de que lei ordinária federal possa revogar a isenção do artigo 14
+da LC 123/2006 violaria o pacto federativo e a segurança jurídica, pois:
+
+a) Esvaziaria o regime diferenciado: A isenção é elemento estruturante do
+Simples Nacional. Sua revogação por lei ordinária esvaziaria o tratamento favorecido
+constitucionalmente assegurado;
+
+b) Criaria instabilidade normativa: Se lei ordinária pudesse revogar isenção
+de lei complementar, o regime diferenciado ficaria sujeito a alterações frequentes,
+comprometendo a segurança jurídica;
+
+c) Violaria a hierarquia normativa: Lei ordinária não pode revogar norma de
+lei complementar que trata de matéria constitucionalmente reservada à lei complementar.
+
+Embora o STF admita, em tese, a revogabilidade de lei complementar
+materialmente ordinária por lei ordinária, essa tese não foi aplicada ao regime diferenciado
+de ME/EPP. Ao contrário, a jurisprudência do STF é firme no sentido de que o regime
+diferenciado estabelecido pela LC 123/2006 não pode ser alterado ou restringido por lei
+ordinária.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+25
+
+[[pagina 26 | nativo]]
+
+IV. DA TRIBUTAÇÃO SOBRE A ESSÊNCIA DO FATO ECONÔMICO: UM
+PARALELO COM O REGIME DO ISS FIXO DAS SOCIEDADES
+UNIPROFISSIONAIS E A VEDAÇÃO À BITRIBUTAÇÃO DOS
+DIVIDENDOS
+
+Este capítulo se propõe a demonstrar a inconstitucionalidade material da
+pretensão de se (re)instituir a tributação dos dividendos distribuídos a pessoas físicas por
+meio de uma análise paralela com um dos mais sólidos entendimentos jurisprudenciais no
+âmbito do Direito Tributário brasileiro: o regime de tributação do Imposto Sobre Serviços
+(ISS) por alíquotas fixas para as sociedades uniprofissionais, notadamente os escritórios de
+advocacia.
+
+Aparentemente díspares, os temas se conectam por um fio condutor
+hermenêutico de profunda relevância: a busca pela substância do fato econômico em
+detrimento da mera formalidade jurídica.
+
+Argumenta-se que a mesma ratio decidendi que leva esse Egrégio Supremo
+Tribunal Federal e o Colendo Superior Tribunal de Justiça a "atravessar o véu" da pessoa
+jurídica para tributar o serviço pessoal do profissional deve, por coerência sistêmica e
+isonomia, impedir que o Fisco tribute duas vezes o mesmo e único lucro, primeiro na
+pessoa jurídica e depois na pessoa física do sócio
+
+Claro, assim, que os mesmos requisitos que apontam para a manutenção da
+sistemática de tributação fixa do Imposto Sobre Serviços de Qualquer Natureza (ISS) no
+caso dos escritórios de advocacia, aqui também se aplique com mais propriedade, já que se
+tem sociedades civis (e não de capital), formadas por profissionais da mesma habilitação,
+prestando serviços de forma pessoal e em nome próprio, assumindo a responsabilidade
+pessoal e ilimitada pelos atos praticados, sem caráter empresarial, ou seja, não configure
+um "elemento de empresa" onde a organização dos fatores de produção (capital,
+tecnologia, mão de obra auxiliar) seja mais importante que a atuação pessoal e intelectual
+dos sócios.
+
+A lógica subjacente é cristalina: o legislador e o judiciário reconhecem que,
+em tais casos, a pessoa jurídica é uma mera formalidade para a organização de
+profissionais que prestam um serviço de natureza intrinsecamente pessoal. O fato gerador
+do ISS, em sua essência, não é o serviço prestado por uma "empresa" impessoal, mas o
+trabalho intelectual e personalíssimo de cada advogado, motivo que levou o Poder
+Judiciário a entender que tributar a receita bruta da sociedade, pelo ISS, seria
+descaracterizar a natureza do fato econômico, equiparando indevidamente uma sociedade
+de profissionais a uma empresa mercantil.
+
+Nesse sentido, a isenção concedida pelo art. 14 da LC 123/06 não é um
+privilégio, mas o reconhecimento da necessidade de se evitar a manifesta bitributação
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+26
+
+[[pagina 27 | nativo]]
+
+econômica da mesma riqueza. O lucro, antes de ser distribuído como dividendo, já foi a
+base de cálculo para a apuração do IRPJ e da CSLL, sofrendo pesada carga tributária. O
+dividendo não é uma "nova renda", mas a materialização, no patrimônio do sócio, de uma
+parcela do lucro que já foi aferido e tributado na empresa. Trata-se do mesmo e único fato
+econômico, observado em dois momentos distintos de seu ciclo de vida.
+
+Assim, se, para o ISS, as Cortes Superiores determinam que se ignore a
+forma (pessoa jurídica) para alcançar a substância (o profissional), como se pode, para o
+Imposto de Renda, inadmissível ignorar a substância (a identidade econômica entre lucro e
+dividendo) para se apegar à forma (a mera transferência financeira entre duas pessoas
+distintas). A não aplicação do raciocínio do ISS fixo ao debate dos dividendos revelaria
+uma profunda incoerência sistêmica na eventual reoneração, já que em ambos os casos, há
+uma relação intrínseca entre a pessoa jurídica e a pessoa física. No ISS fixo, a PJ é um
+invólucro para a atividade da PF. Na tributação de dividendos, a PF é a destinatária final da
+riqueza gerada e já tributada na PJ.
+
+No caso do ISS, o judiciário adota uma "lógica de transparência fiscal",
+olhando através da pessoa jurídica para encontrar o verdadeiro prestador de serviço. Para
+os dividendos, a tese da não tributação requer a mesma transparência: olhar através da
+mera "distribuição" para enxergar que se trata do mesmo "lucro" já alcançado pelo Fisco.
+
+Identificação do Fato Econômico: O pilar da jurisprudência do ISS fixo é a
+correta identificação da natureza do fato econômico (serviço pessoal). A tributação dos
+dividendos, por outro lado, representaria uma falha deliberada em identificar a natureza do
+fato econômico, tratando a distribuição de um resultado já tributado como se fosse a
+geração de uma riqueza nova e autônoma. Seria, em essência, tributar o eco, e não a voz.
+
+Aliás, do ponto de vista histórico, quando havia a tributação dos dividendos,
+esta jamais recaia sobre as sociedades civis, servindo como exemplo as diversas
+regulamentações do IRPJ e do IRPF, valendo citar-se o Decreto 76.186/75 (Regulamento
+do Imposto de Renda):
+
+“Art. 226 - As pessoas jurídicas, inclusive as empresas individuais, seja comercial
+ou civil o seu objeto, pagarão o imposto sobre os lucros apurados em
+conformidade com este Regulamento, à alíquota de 30% (trinta por cento) (Lei nº
+4.154/62, art. 18, Lei nº 4.506/64, art. 37, e Decreto-lei nº 62/66, art. 1º).
+. 18, Lei nº 4.506/64, art. 37, e Decreto-lei nº 62/66, art. 1º).
+
+§ 1º - Não se compreendem nas disposições deste artigo:
+
+(...)
+
+b) as pessoas jurídicas civis, organizadas exclusivamente para prestação de
+serviços profissionais de médico, engenheiro, advogado, dentista, veterinário,
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+27
+
+[[pagina 28 | nativo]]
+
+contador, pintor, escultor, despachante e de outros que se lhes possam
+assemelhar, com capital até Cr$5.000,00 (cinco mil cruzeiros), as quais pagarão o
+imposto de 11% (onze por cento) (Lei nº 4.154/62, art. 18, § 1º, b, e Decreto-lei nº
+62/66, art. 1º);
+
+SEÇÃO II
+DA TRIBUTAÇÃO DOS LUCROS DISTRIBUÍDOS
+
+Art. 227 - Além do imposto de que trata o artigo anterior, será cobrado o imposto
+de 5% (cinco por cento) sobre os lucros distribuídos sob qualquer título ou forma,
+exceto os atribuídos ao titular da empresa individual, aos sócios das entidades
+referidas na alínea b do § 1º daquele artigo e aos lucros e dividendos distribuídos
+pelas empresas de que trata o artigo 293 (Lei nº 4.506/64, art. 38, Decreto-lei nº
+94/66, art. 11, e Decreto-lei nº 1.382/74, art. 1º, § único).” grifo nosso
+
+Ou seja, a interpretação que permite a aplicação da Lei nº 15.270/2025 às
+distribuições de dividendos dos optantes do Simples Nacional, não apenas ofende literal,
+sistemática e teleologicamente a Constituição Federal, mas também não encontra respaldo
+numa interpretação histórica do instituto de tributação de dividendos, destoando de toda
+construção doutrinária, legal e jurisprudencial que reconhecem que nas sociedades civis, o
+labor dos sócios e associados compõe o núcleo da atividade e não a extensa organização de
+fatores de produção, como se observa nas sociedades de capital, o que aponta para a total
+inadequação da posição fiscal.
+
+V. DO PEDIDO CAUTELAR:
+
+A presente ação direta de inconstitucionalidade, embora destinada ao
+controle abstrato de constitucionalidade com julgamento de mérito que demandará o
+transcurso do devido processo legal, envolve situação de extrema urgência que justifica e
+exige a concessão de medida cautelar para suspensão imediata da aplicação dos artigos 6º-
+A, 16-A e 16-B da Lei nº 9.250/95, introduzidos pelo artigo 2º da Lei nº 15.270/2025, às
+microempresas e empresas de pequeno porte optantes pelo Simples Nacional, em especial
+aos escritórios de advocacia.
+
+A Lei nº 15.270/2025 entrará em vigor em 1º de janeiro de 2026,
+produzindo efeitos imediatos sobre as distribuições de lucros e dividendos realizadas a
+partir dessa data. Desse modo, a aplicação dos dispositivos introduzidos pela Lei nº
+15.270/2025, gera risco concreto, atual e iminente de:
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+28
+
+[[pagina 29 | nativo]]
+
+a) Autuações fiscais em massa contra milhares de escritórios de advocacia e
+outras microempresas e empresas de pequeno porte optantes pelo Simples Nacional que
+distribuírem dividendos superiores a R$ 50.000,00 mensais a partir de janeiro de 2026;
+
+b) Constituição de créditos tributários com inscrição em dívida ativa,
+protesto de certidões de dívida ativa, ajuizamento de execuções fiscais, penhora de bens e
+contas bancárias, impossibilidade de obtenção de certidões negativas de débitos
+(indispensáveis para participação em licitações, celebração de contratos com o Poder
+Público e obtenção de crédito bancário);
+
+c) Inviabilização econômica de milhares de pequenos escritórios de
+advocacia e outras microempresas e empresas de pequeno porte, com fechamento de
+negócios, demissões em massa, concentração de mercado em grandes empresas e
+agravamento de desigualdades regionais e sociais;
+
+d) Comprometimento do acesso à justiça, direito fundamental assegurado
+pelo artigo 5º, inciso XXXV, da Constituição Federal, pois a inviabilização de pequenos
+escritórios de advocacia reduz drasticamente a oferta de serviços jurídicos acessíveis,
+especialmente em municípios do interior, periferias urbanas e regiões economicamente
+menos desenvolvidas;
+
+e) Insegurança jurídica sistêmica, com interpretações divergentes entre
+órgãos fiscais, judicialização desordenada e pulverizada, custos de conformidade elevados
+e impossibilidade de planejamento empresarial.
+
+A irreversibilidade ou difícil reversibilidade desses danos — especialmente
+o fechamento de escritórios, a perda de clientela, a dissolução de equipes, o dano
+reputacional e o comprometimento do mercado jurídico — impõe a concessão de medida
+cautelar para suspender imediatamente a aplicação da interpretação inconstitucional,
+preservando-se integralmente a isenção do artigo 14 da Lei Complementar nº 123/2006 até
+o julgamento final da presente ação.
+
+Nesse sentido, a concessão de medida cautelar encontra fundamento nos
+artigos 102, inc. I, alínea “p” da Constituição Federal; 10 e 11 da Lei 9.868/99 e no 21,
+inciso V, do Regimento Interno deste Supremo Tribunal Federal.
+
+A medida cautelar em ação direta de inconstitucionalidade constitui
+instrumento processual de tutela de urgência destinado a preservar a efetividade do
+controle abstrato de constitucionalidade, evitando que a demora no julgamento de mérito
+cause danos irreversíveis ou de difícil reversão à ordem jurídica, à segurança jurídica ou a
+direitos fundamentais.
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+29
+
+[[pagina 30 | nativo]]
+
+A concessão da medida cautelar exige a demonstração cumulativa de dois
+requisitos:
+
+a) Fumus boni iuris (plausibilidade jurídica do pedido): demonstração da
+relevância dos fundamentos jurídicos invocados e da manifesta inconstitucionalidade da
+norma impugnada;
+
+b) Periculum in mora (perigo da demora): demonstração do risco de dano
+irreparável ou de difícil reparação decorrente da manutenção da norma em vigor até o
+julgamento de mérito.
+
+V.1. Caracterização do Fumus Boni Iuris (Plausibilidade Jurídica do
+Pedido)
+
+A plausibilidade jurídica do pedido de declaração de inconstitucionalidade
+da interpretação dos artigos 6º-A, 16-A e 16-B da Lei nº 9.250/95, na parte em que se
+aplica às microempresas e empresas de pequeno porte optantes pelo Simples Nacional, é
+manifesta e inequívoca, conforme demonstrado nos capítulos anteriores desta petição
+inicial, com especial ênfase para a ofensa:
+
+i. À reserva de lei complementar (art. 146, III, "d", CF/88) para disciplinar
+o regime tributário diferenciado de ME/EPP;
+
+ii. Ao tratamento favorecido constitucionalmente assegurado às micro e
+pequenas empresas (arts. 170, IX, e 179, CF/88);
+
+iii. Aos princípios da isonomia tributária (art. 150, II, CF/88), capacidade
+contributiva (art. 145, § 1º, CF/88) e vedação ao confisco (art. 150, IV,
+CF/88);
+
+iv. À hierarquia normativa, pois lei ordinária não pode revogar tacitamente
+isenção estabelecida por lei complementar em matéria
+constitucionalmente reservada;
+
+v. À violação ao Princípio da Simplificação (art. 179, CF/88);
+
+vi. À violação os princípios da isonomia tributária (art. 150, II, CF/88), da
+capacidade contributiva (art. 145, § 1º, CF/88) e da Vedação ao Confisco
+(art. 150, IV, CF/88);
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+30
+
+[[pagina 31 | nativo]]
+
+A plausibilidade jurídica da inconstitucionalidade é, portanto, manifesta,
+inequívoca e robusta, estando amparada em jurisprudência consolidada do Supremo
+Tribunal Federal, justificando plenamente a concessão de medida cautelar.
+
+V.1. Demonstração do Periculum in Mora (Perigo da Demora)
+
+O perigo da demora no julgamento de mérito da presente Ação Direta de
+Inconstitucionalidade é concreto, atual, iminente e de extrema gravidade, configurando
+risco de dano irreparável ou de difícil reparação à ordem jurídica, à segurança jurídica, à
+economia nacional, ao acesso à justiça e a direitos fundamentais de milhares de
+microempresas, empresas de pequeno porte e seus sócios.
+
+Isto porque, a aplicação dos dispositivos introduzidos pela Lei nº
+15.270/2025, gera risco concreto e iminente de autuações fiscais em massa contra milhares
+de escritórios de advocacia e outras microempresas e empresas de pequeno porte optantes
+pelo Simples Nacional que distribuíram dividendos superiores a R$ 50.000,00 mensais a
+partir de janeiro de 2026.
+
+Além disso, a incidência da norma impugnada às microempresas e empresas
+de pequeno porte optantes pelo Simples Nacional pode resultar em:
+
+a) Lançamento de ofício de créditos tributários: Autuações fiscais com
+exigência de IRPF sobre dividendos distribuídos por optantes do Simples Nacional,
+acrescidos de multa de ofício (75% a 150% do valor do tributo, conforme art. 44 da Lei nº
+9.430/96) e juros de mora (taxa SELIC);
+
+b) Inscrição em dívida ativa: Após o esgotamento do prazo para impugnação
+administrativa, os créditos tributários serão inscritos em dívida ativa, gerando:
+
+Protesto de certidões de dívida ativa (Lei nº 9.492/97), com inclusão do
+nome do contribuinte em cadastros de inadimplentes;
+
+Impossibilidade de obtenção de certidões negativas de débitos,
+indispensáveis para participação em licitações, celebração de contratos
+com o Poder Público, obtenção de crédito bancário e renovação de
+alvarás e licenças;
+
+c) Ajuizamento de execuções fiscais: Execuções fiscais em massa contra
+milhares de contribuintes, com:
+
+Penhora de bens e contas bancárias, comprometendo o capital de giro e a
+capacidade operacional dos escritórios;
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+31
+
+[[pagina 32 | nativo]]
+
+Arresto de bens, impedindo a alienação de imóveis, veículos e outros
+ativos;
+Bloqueio de valores via sistema BACENJUD, paralisando a atividade
+empresarial.
+
+A irreversibilidade ou difícil reversibilidade desses danos é evidente:
+mesmo que, ao final, essa Suprema Corte declare a inconstitucionalidade da
+interpretação da Receita Federal do Brasil, os danos causados pelas autuações fiscais,
+execuções fiscais, protestos e bloqueios de bens serão de difícil reparação, pois:
+
+a) Dano reputacional: O protesto de certidões de dívida ativa e a inclusão
+em cadastros de inadimplentes causam dano reputacional irreversível, comprometendo a
+imagem profissional e a confiança de clientes;
+
+b) Perda de clientela: A impossibilidade de obtenção de certidões negativas
+de débitos impede a participação em licitações e a celebração de contratos com o Poder
+Público, resultando em perda de clientela e redução de receita;
+
+c) Custos de defesa: A necessidade de contratar advogados e contadores
+para defesa administrativa e judicial gera custos elevados, incompatíveis com a capacidade
+econômica de pequenos escritórios;
+
+d) Comprometimento do capital de giro: A penhora de bens e o bloqueio de
+contas bancárias comprometem o capital de giro, inviabilizando o pagamento de
+fornecedores, funcionários e obrigações tributárias correntes.
+
+A carga tributária total resultante da soma entre o Simples Nacional e o
+imposto sobre dividendos pode ultrapassar 40% a 50% da receita bruta, inviabilizando
+economicamente a atividade profissional de milhares de pequenos escritórios de advocacia.
+
+A inviabilização econômica dos pequenos escritórios resultará em:
+
+a) Fechamento de escritórios: Impossibilidade de manter a atividade
+empresarial, com encerramento de sociedades e dissolução de equipes;
+
+b) Demissões em massa: Advogados associados, estagiários e colaboradores
+administrativos perderão seus empregos, agravando o desemprego e a precarização das
+relações de trabalho;
+
+c) Migração para a informalidade: Advogados que não conseguirem manter
+suas sociedades migrarão para a informalidade, com perda de arrecadação tributária e
+precarização da atividade profissional;
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+32
+
+[[pagina 33 | nativo]]
+
+d) Concentração de mercado: Apenas grandes bancas de advocacia,
+tributadas pelo lucro real e com estrutura para planejamento tributário sofisticado,
+conseguirão sobreviver, concentrando o mercado e reduzindo a concorrência.
+
+A irreversibilidade desses danos é evidente: o fechamento de um escritório
+de advocacia implica perda de clientela, dissolução de equipe, dano reputacional e
+impossibilidade de recuperação, mesmo que, ao final, esta Suprema Corte declare a
+inconstitucionalidade da aplicação da Lei nº 15.270/2025 às distribuições de dividendos
+dos optantes do Simples Nacional.
+O periculum in mora, deste modo, é concreto, atual, iminente e de extrema
+gravidade, pois a manutenção da interpretação inconstitucional gera risco de:
+
+Autuações fiscais em massa contra milhares de contribuintes;
+Inviabilização econômica de milhares de pequenos escritórios de
+advocacia;
+Comprometimento do acesso à justiça, direito fundamental assegurado
+pelo artigo 5º, XXXV, da Constituição Federal;
+Insegurança jurídica sistêmica, com interpretações divergentes e
+judicialização desordenada.
+
+A ponderação de interesses também favorece a concessão da medida
+cautelar:
+
+a) Interesse público primário: Proteção à ordem constitucional, à segurança
+jurídica, ao acesso à justiça e aos direitos fundamentais de milhares de microempresas,
+empresas de pequeno porte e seus sócios;
+
+b) Interesse público secundário (arrecadação tributária): A eventual perda de
+arrecadação decorrente da suspensão da interpretação inconstitucional é ínfima em
+comparação com os danos causados pela sua manutenção, além de ser ilegítima, pois
+decorre de interpretação inconstitucional.
+
+Por fim, nos termos do artigo 10, § 3º, da Lei nº 9.868/99, a medida cautelar
+seja deferida em caráter excepcional de urgência, sem a audiência prévia dos órgãos ou
+autoridades das quais emanou a interpretação inconstitucional, tendo em vista:
+
+a) A extrema urgência da medida, considerando que a Lei nº 15.270/2025
+entrou em vigor em 1º de janeiro de 2026 e já está produzindo efeitos imediatos sobre
+milhares de contribuintes;
+
+b) O risco concreto e iminente de autuações fiscais em massa, constituição
+de créditos tributários, inscrição em dívida ativa, protesto de certidões de dívida ativa,
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+33
+
+[[pagina 34 | nativo]]
+
+ajuizamento de execuções fiscais, penhora de bens e contas bancárias, e inviabilização
+econômica de milhares de pequenos escritórios de advocacia;
+
+c) A irreversibilidade ou difícil reversibilidade dos danos, especialmente o
+fechamento de escritórios, a perda de clientela, a dissolução de equipes, o dano
+reputacional e o comprometimento do acesso à justiça;
+
+d) A manifesta inconstitucionalidade da interpretação da Receita Federal do
+Brasil, conforme demonstrado nos capítulos anteriores desta petição inicial e reiterado no
+presente capítulo.
+
+A concessão de medida cautelar, portanto, é medida de justiça, segurança
+jurídica e proteção à ordem constitucional, devendo ser deferida de forma imediata e
+integral.
+
+VI. DOS PEDIDOS FINAIS
+
+Diante do exposto, o Conselho Federal da OAB requer:
+
+a) a concessão de medida cautelar, inaudita altera pars, nos termos do artigo 10 da lei nº
+9.868/99, para suspender, com eficácia ex tunc (retroativa à data de entrada em vigor da lei
+nº 15.270/2025, ou seja, 1º de janeiro de 2026), a aplicação dos artigos 6º-A, 16-A e 16-B
+da Lei nº 9.250/95, introduzidos pelo artigo 2º da Lei nº 15.270/2025, na parte em que se
+aplicam às microempresas e empresas de pequeno porte optantes pelo simples nacional, em
+especial a escritórios de advocacia organizados como sociedades simples, unipessoais ou
+empresárias, cujos sócios exerçam pessoalmente a atividade profissional, preservando-se
+integralmente a isenção do artigo 14 da Lei complementar nº 123/2006, até o julgamento
+final da presente ação direta de inconstitucionalidade;
+
+b) alternativamente, a suspensão, sem redução do texto dos artigos 6º-A, 16-A e 16-B da Lei
+nº 9.250/95, introduzidos pelo artigo 2º da Lei nº 15.270/2025, determinando que a
+tributação de dividendos prevista nos referidos dispositivos não se aplica a microempresas
+e empresas de pequeno porte optantes pelo simples nacional, principalmente escritórios de
+advocacia, preservando-se integralmente a isenção do artigo 14 da Lei complementar nº
+123/2006, até o julgamento final da presente Ação Direta de Inconstitucionalidade;
+
+c) a notificação da Câmara dos Deputados e do Senado Federal, por intermédio de seus
+Presidentes, e do Exmo. Sr. Presidente da República, para que, como órgãos/autoridades
+responsáveis pela elaboração dos dispositivos impugnados, manifestem-se, querendo,
+sobre o mérito da presente ação, no prazo de 30 (trinta) dias, nos termos do art. 6,
+parágrafo único, da Lei nº 9.868/99;
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+34
+
+[[pagina 35 | nativo]]
+
+d) a notificação do Procurador-Geral da República e do Advogado-Geral da União, nos
+termos do artigo 103, §§ 1º e 3º, da Constituição da República;
+
+e) ao final, seja julgado PROCEDENTE o pedido de mérito dessa ADI, para que seja
+declarada a inconstitucionalidade, sem redução do texto, dos artigos 6º-A, 16-A e 16-B da
+Lei nº 9.250/95, declarando que a tributação de lucros e dividendos prevista nos referidos
+dispositivos não se aplica às microempresas e empresas de pequeno porte optantes pelo
+Simples Nacional, principalmente aos escritórios de advocacia, preservando-se
+integralmente a isenção do artigo 14 da Lei Complementar nº 123/2006, sob pena de
+violação aos dispositivos constitucionais já expostos.
+
+f) alternativamente, que se declare a inconstitucionalidade formal e material da aplicação dos
+artigos 6º-A, 16-A e 16-B da Lei nº 9.250/95 às microempresas e empresas de pequeno
+porte optantes pelo Simples Nacional, por violação aos artigos 1º, IV; 3º, II e III; 5º, caput,
+I e XIII; 145, § 1º; 146, III, 'd'; 150, II e IV; 170, caput, IV, VII, VIII e IX; 174; e 179 da
+Constituição Federal.
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de aferi-lo.
+
+Marcus Vinicius Furtado Coêlho
+Presidente da Comissão Nacional de Estudos Constitucionais
+OAB/DF 18.958
+
+Luiz Gustavo A.S. Bichara
+Procurador-Adjunto Tributário
+OAB/DF 21.445
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+35
+
+[[pagina 36 | nativo]]
+
+Bruna Santos Costa
+Lizandra Nascimento Vicente OAB/DF. 44.884
+OAB/DF 39.992
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB – Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+36

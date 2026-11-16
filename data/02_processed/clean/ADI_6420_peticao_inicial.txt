@@ -1,0 +1,727 @@
+[[pagina 1 | nativo]]
+EGRÉGIO SUPREMO TRIBUNAL FEDERAL
+
+ASSOCIAÇÃO BRASILEIRA DAS INDÚSTRIAS EXPORTADORAS
+DE CARNES – ABIEC, com sede em São Paulo/SP, na Avenida Brigadeiro Faria
+Lima, 1912, 14º andar, conj. I e J, CNPJ nº 43.048.396/0001-50, por seus procura-
+dores que esta subscrevem (doc. nº 01), com arrimo nos arts. 102, I, “a”, e 103, IX,
+da Constituição e na Lei nº 9.868/99, vem propor AÇÃO DIRETA DE INCONSTI-
+TUCIONALIDADE, COM PEDIDO DE MEDIDA CAUTELAR, do § 1º-A, incisos I
+(parte) e II (parte), e do § 7º do art. 7º; e do inciso III do caput e do § 1º (este último
+sem redução de texto) do art. 8º da Lei nº 7.263/2000 do Estado de Mato Grosso,
+bem como dos dispositivos de decretos estaduais que os regulamentam (listados
+no item 2 infra), pelas razões que passa a expor.
+
+1. DA LEGITIMIDADE ATIVA
+
+A ABIEC é associação que congrega indústrias exportadoras de carne
+bovina estabelecidas em 12 Estados (lista de filiados anexa; doc. nº 02). Dentre as
+suas principais finalidades estão congregar, coordenar, representar e defender os
+interesses de seus membros em juízo ou fora dele, promovendo a carne bovina nos
+mercados brasileiro e internacional e colaborando com os poderes públicos e com
+outras entidades de classe na implantação de políticas de sanidade animal (doc. nº
+01, cit.).
+
+A Lei nº 10.818/2019 do Estado de Mato Grosso – alterando a Lei nº
+7.263/2000, que instituiu o Fundo Estadual de Transporte e Habitação (FETHAB) –
+estendeu a contribuição “voluntária” a esse fundo às exportações diretas e indiretas
+de carne bovina, inclusive condicionando ao seu pagamento a outorga de supostos
+regimes especiais (i) de apuração do ICMS pelo regime mensal de débito e crédito
+nas saídas interestaduais de carne bovina e (ii) de suspensão ou não incidência de
+ICMS nas exportações diretas ou indiretas da mesma mercadoria.
+
+Nesse quadro, na forma do seu Estatuto Social (doc. nº 01, cit., art.
+27, q), o Conselho de Administração da ABIEC aprovou a propositura da presente
+ação direta, voltada a combater essa indevida exação (ata anexa; doc. nº 03).
+
+[[pagina 2 | nativo]]
+Claras, dessa maneira, a homogeneidade da composição da Autora
+(indústrias exportadoras de carne bovina), a sua abrangência nacional (12 Estados)
+e a pertinência entre a sua finalidade institucional (defesa dos interesses de seus
+associados) e o tema em discussão nesta ADI (exigência de contribuição estadual
+sobre as exportações diretas e indiretas de carne bovina).
+
+2. OS DISPOSITIVOS IMPUGNADOS
+
+Volta-se esta ADI contra os seguintes comandos da Lei nº 7.263/2000
+do Estado do Mato Grosso (todos eles na redação da Lei estadual nº 10.818/2019
+– doc. nº 04):
+
+“Art. 7º, § 1º-A. A contribuição ao FETHAB será, também, devida nas ope-
+rações mencionadas com os produtos adiante arrolados, hipóteses em que o
+remetente da mercadoria deverá recolher os valores assinalados que serão
+creditados à conta do referido Fundo:
+I – 0,03% (três centésimos por cento) do valor da UPF/MT, vigente no pe-
+ríodo, por quilograma de carne desossada das espécies bovina ou bufalina,
+transportado, nas operações de exportação, bem como nas operações equi-
+paradas à exportação, previstas no parágrafo único do art. 3º da Lei Comple-
+mentar Federal nº 87, de 13 de setembro de 1996;
+II – 0,03% (três centésimos por cento) do valor da UPF/MT, vigente no
+período, por quilograma de carne com osso e miudezas comestíveis das es-
+pécies bovina ou bufalina, transportado, nas operações de exportação, bem
+como nas operações equiparadas à exportação, previstas no parágrafo único
+do art. 3º da Lei Complementar Federal nº 87, de 13 de setembro de 1996;
+§ 7º. Ressalvado o disposto no § 1º-A deste artigo, o recolhimento das
+contribuições de que trata este artigo ocorrerá de forma monofásica, não in-
+cidindo em mais de uma operação.”
+
+Trata-se, quanto aos incisos I e II, de declarar a inconstitucionalidade
+da exigência da contribuição ao FETHAB sobre as exportações diretas e indiretas
+(saídas com fim específico de exportação) de carne bovina, pelas razões que serão
+expendidas no item 3 infra. O pedido é parcial apenas porque a Autora não tem
+legitimidade para representar os exportadores de carne bufalina, também referida
+nos dispositivos. A invalidação do § 7º – que, em relação à carne bovina, autoriza
+a incidência cumulativa da contribuição, primeiro nas saídas internas com fim de
+exportação, depois nas exportações propriamente ditas – vem por arrastamento:
+se nenhuma dessas etapas pode ser submetida à exação, não cabe falar em reite-
+ração da sua exigência.
+
+Os comandos são espelhados no art. 10, §§ 2º, I e II, e 5º e no art.
+27-I-4 do Decreto estadual nº 1.261/20001 (doc. nº 05), cuja invalidação também
+se impõe.
+
+1 “Art. 10, § 2º. A contribuição ao FETHAB será, também, devida nas operações mencionadas com
+os produtos adiante arrolados, hipóteses em que o remetente da mercadoria deverá recolher os
+valores assinalados: (Nova redação dada a íntegra do artigo pelo Dec. 75/19, efeitos a partir de
+
+[[pagina 3 | nativo]]
+“Art. 8º. O pagamento das contribuições referidas nos §§ 1º e 1º-A do ar-
+tigo 7º e nos artigos 7º-A, 7º-C, 7º-C-1, 7º-D, 7º-D-1, 7º-F e 7º-F-1 é, cumulativa-
+mente:
+III – condição para manutenção de regime especial para apuração e reco-
+lhimento mensal do ICMS nas operações interestaduais e para remessa da
+mercadoria para exportação com suspensão ou não incidência do imposto.
+§ 1º. A opção pela efetivação das contribuições ao FETHAB, ao FABOV e
+às entidades pertinentes, indicadas no caput do artigo 7º, é condição para ob-
+tenção dos regimes especiais mencionados no inciso III do caput deste artigo.
+
+Trata-se de anular as regras que sujeitam o contribuinte que não paga
+a contribuição ao FETHAB nas exportações diretas ou indiretas de carne bovina:
+(i) à incidência de ICMS nessas mesmas exportações e (ii) ao cálculo do ICMS a
+cada operação, e não pelo regime mensal de débito e crédito, nas saídas interes-
+taduais que realiza. Em relação ao § 1º, o pedido é de inconstitucionalidade sem
+redução de texto, para reiterar-se que “as contribuições ao FETHAB” ali referidas
+não incluem a do § 1º-A do art. 7º.
+
+1º.02.19)
+I – 0,03% (três centésimos por cento) do valor da UPF/MT, vigente no período, por quilograma de
+carne desossada das espécies bovina ou bufalina, transportado, nas operações de exportação, bem
+como nas operações equiparadas à exportação, previstas no parágrafo único do artigo 3º da Lei
+Complementar (federal) nº 87, de 13 de setembro de 1996;
+II – 0,03% (três centésimos por cento) do valor da UPF/MT, vigente no período, por quilograma de
+carne com osso e miudezas comestíveis das espécies bovina ou bufalina, transportada, nas opera-
+ções de exportação, bem como nas operações equiparadas à exportação, previstas no parágrafo
+único do artigo 3º da Lei Complementar (federal) nº 87, de 13 de setembro de 1996;
+§ 5º. Ressalvado o disposto no § 2º deste preceito, o recolhimento das contribuições de que trata
+este artigo ocorrerá de forma monofásica, não incidindo em mais de uma operação com a mesma
+mercadoria.”
+Art. 27-I-4. Os contribuintes mato-grossenses que promoverem saídas de carnes e de miudezas
+comestíveis das espécies bovina ou bufalina, nas operações de exportação, bem como nas opera-
+ções equiparadas à exportação, previstas no parágrafo único do artigo 3º da Lei Complementar (fe-
+deral) nº 87, de 13 de setembro de 1996, efetuarão, na forma e prazos indicados neste regulamento,
+o recolhimento da contribuição ao FETHAB, por quilograma transportado, nos valores correspon-
+dentes aos fixados nos incisos I e II do § 2º do artigo 10. (Acrescentado pelo Dec. 75/19, efeitos a
+partir de 1º.02.19)
+§ 1º. Quando pertinente, o recolhimento das contribuições de que trata este artigo deverá ser reali-
+zado pelo contribuinte mato-grossense, no mesmo prazo fixado para o recolhimento mensal do
+ICMS devido.
+§ 2º. O transporte da mercadoria, sem a necessária comprovação do recolhimento da contribuição
+ao FETHAB, nas hipóteses em que seja devida a sua efetivação a cada operação, ensejará a res-
+pectiva exigência, com os acréscimos legais cabíveis, previstos na Lei nº 7.098, de 30 de dezembro
+de 1998.
+§ 3º. Às operações previstas neste artigo aplicam-se, no que couberem, as disposições do artigo
+27-G.”
+
+[[pagina 4 | nativo]]
+A inconstitucionalidade assim declarada estender-se-á ao art. 11, ca-
+put, inciso III e § 1º do Decreto estadual nº 1.261/20002 e aos §§ 5º-A e 5º-D do art.
+3º do Decreto estadual nº 1.262/2017 (doc. nº 06)3.
+
+3. FUNDAMENTOS DO PEDIDO PRINCIPAL
+
+3.1. Natureza jurídica da contribuição ao FETHAB
+
+O Estado só pode impor prestações pecuniárias ao particular na qua-
+lidade de receitas patrimoniais (royalties do petróleo e da mineração, etc.), multas
+por atos ilícitos e tributos. Sendo inaplicáveis ao caso concreto as duas primeiras
+hipóteses, restaria apenas a terceira – do que decorre a natureza inequivocamente
+tributária da contribuição ao FETHAB.
+
+É verdade que, na ADI nº 2.056/MS, o STF afastou o caráter tributário
+de contribuição instituída pelo Estado do Mato Grosso do Sul que – tanto quanto a
+contribuição ao FETHAB (art. 8º, I, Lei nº 7.263/2000 do Estado de Mato Grosso,
+aqui em discussão4) – se definia como facultativa. É ver a ementa do julgado:
+
+2 “Art. 11. O pagamento das contribuições referidas nos §§ 1º e 2º do artigo 10 e nos artigos 12, 21-
+A, 22, 27-A, 27-G, 27-H, 27-I-1, 27-I-2, 27-I-3, 27-I-4, 27-I-4-1 e 27-I-5 é, cumulativamente: (Nova
+redação dada pelo Dec. 268/19, efeitos a partir de 1º.07.19)
+III – condição para manutenção de regime especial para apuração e recolhimento mensal do ICMS
+nas operações interestaduais e para remessa da mercadoria para exportação com suspensão ou
+não incidência do imposto. (Acrescentado pelo Dec. 75/19, efeitos a partir de 1º.02.19)
+§ 1º. A opção pela efetivação das contribuições ao FETHAB, ao FABOV e às entidades pertinentes,
+indicadas no caput do artigo 10, é condição para obtenção dos regimes especiais mencionados no
+inciso III do caput deste artigo. (Acrescentado pelo Dec. 75/19, efeitos a partir de 1º.02.19)”
+3 “Art. 3º. O estabelecimento deste Estado interessado na obtenção do regime especial, para realizar
+remessas das mercadorias arroladas no § 3º do artigo 1º [exportação direta e indireta de carne
+bovina, entre outras mercadorias], em hipótese descrita nos incisos do caput do referido artigo, de-
+verá apresentar requerimento, via e-Process, encaminhado à CCAD/SUIRP, com a descrição das
+operações que pretende realizar e respectivas mercadorias. (Substituída a remissão feita à unidade
+fazendária pelo Dec. 211/2019, com a redação dada pelo Dec. 1.600/2018)
+§ 5º-A. Em relação às hipóteses arroladas nos incisos I, II, III, V, VII e VIII [carne bovina] do § 3º do
+artigo 1º, a concessão do credenciamento de que trata este artigo fica, ainda, condicionada à for-
+malização da opção pelo recolhimento da contribuição ao Fundo de Transporte e Habitação – FE-
+THAB, nas hipóteses previstas na Lei nº 7.263, de 27 de março de 2000, bem como, conforme for
+o caso, ao Fundo de Apoio à Bovinocultura de Corte – FABOV ou à entidade pertinente indicada no
+caput do artigo 7° da referida Lei. (Acrescentado pelo Dec. 54/2019)
+§ 5º-D. A interrupção da efetivação das contribuições mencionadas no § 5º-A deste artigo implica a
+imediata suspensão do credenciamento concedido, ficando o contribuinte obrigado à efetivação do
+recolhimento do ICMS a cada operação e/ou prestação, ressalvada a possibilidade de restituição ou
+compensação do valor recolhido, na hipótese de comprovação da efetiva exportação. (Acrescen-
+tado pelo Dec. 54/2019)”
+4 “Art. 8º. O pagamento das contribuições referidas nos §§ 1º e 1º-A do artigo 7º e nos artigos 7º-A,
+7º-C, 7º-C-1, 7º-D, 7º-D-1, 7º-F e 7º-F-1 é, cumulativamente:
+I – faculdade do contribuinte; (...)”
+
+[[pagina 5 | nativo]]
+“Ação Direta de Inconstitucionalidade. Artigos 9º a 11 e 22 da Lei nº 1.963,
+de 1999, do Estado do Mato Grosso do Sul.
+2. Criação do Fundo de Desenvolvimento do Sistema Rodoviário do Estado de
+Mato Grosso do Sul – FUNDERSUL. Diferimento do ICMS em operações internas
+com produtos agropecuários.
+3. A contribuição criada pela lei estadual não possui natureza tributária, pois
+está despida do elemento essencial da compulsoriedade. Assim, não se submete
+aos limites constitucionais ao poder de tributar.
+4. O diferimento, pelo qual se transfere o momento do recolhimento do tributo
+cujo fato gerador já ocorreu, não pode ser confundido com a isenção ou com a imu-
+nidade e, dessa forma, pode ser disciplinado por lei estadual sem a prévia celebra-
+ção de convênio.
+5. Precedentes.
+6. Ação que se julga improcedente.” (STF, Pleno, ADI nº 2.056/MS, Rel. Min.
+GILMAR MENDES, DJe 16.08.2017)
+
+Entretanto, há uma diferença fundamental entre o presente caso e
+aquele tratado no precedente. Ali, como se viu, o comando atacado (e mantido pelo
+STF) sujeitava ao pagamento da contribuição espontânea apenas a concessão de
+diferimento do ICMS nas saídas internas de produtos agropecuários.
+
+Ora, o diferimento de ICMS é instituto concedido de forma totalmente
+unilateral e livre pelos Estados, visto que não lhes é imposto nem pela Constituição
+nem pela Lei Complementar nº 87/96. Não constituindo benefício fiscal, não exige
+sequer prévia autorização pelo CONFAZ (STF, Pleno, ADI nº 4.481/PR, Rel. Min.
+ROBERTO BARROSO, DJe 19.05.2015).
+
+Se o diferimento é ato sujeito ao exclusivo alvedrio do Estado, parece
+natural que este possa condicionar a sua concessão àquilo que melhor lhe pareça
+– desde que sem violar a Constituição –, e inclusive a uma atípica contribuição
+espontânea destinada a certas finalidades.
+
+Isso exatamente o que consta do parecer ofertado pela Procuradoria-
+Geral da República na ADI nº 2.056 e invocado como fundamento pelo eminente
+Relator, Min. GILMAR MENDES:
+
+“Nesse sentido, não há como atribuir natureza jurídica tributária à contribuição
+criada pela lei estadual. Destarte, está ela destituída do elemento essencial da com-
+pulsoriedade. Trata-se de uma obrigação facultativa, que, acaso seja cumprida,
+gera uma sanção premial, qual seja, o benefício do diferimento do ICMS nas opera-
+ções internas com produtos agropecuários.”
+
+O caso ora em análise é de todo distinto. De fato, o art. 8º, III e § 1º,
+da lei mato-grossense sujeita ao pagamento do FETHAB nas exportações diretas
+e indiretas o gozo de supostos regimes especiais (i) de apuração mensal de ICMS
+nas operações interestaduais e (ii) de exportação direta ou indireta com suspensão
+ou não incidência de ICMS.
+
+[[pagina 6 | nativo]]
+Porém, esses são direitos de que o contribuinte já dispõe, garantidos:
+
+● quanto às saídas interestaduais, pelo art. 155, § 2º, I, da Constituição,
+segundo o qual:
+
+“Art. 155, § 2º. O imposto previsto no inciso II [ICMS] atenderá ao seguinte:
+I – será não-cumulativo, compensando-se o que for devido em cada operação
+relativa à circulação de mercadorias ou prestação de serviços com o montante co-
+brado nas anteriores pelo mesmo ou outro Estado ou pelo Distrito Federal;”
+
+De fato, a não cumulatividade pressupõe a apuração do imposto por
+período de tempo, e não saída a saída, pois nesse caso o valor devido equivalerá
+ao produto do preço praticado pela alíquota vigente, com o abatimento no máximo
+dos créditos decorrentes da entrada da própria mercadoria (no caso de revenda no
+mesmo estado), mas não daqueloutros impassíveis de vinculação direta com cada
+produto vendido, como os ligados ao ativo fixo e a insumos como as próprias reses
+a serem abatidas (que são vendidas em partes), energia elétrica, reagentes, etc.
+
+● quanto às exportações diretas, pelo art. 155, § 2º, X, a, da Constituição,
+a saber:
+
+Art. 155, § 2º. O imposto previsto no inciso II [ICMS] atenderá ao seguinte:
+X – não incidirá:
+a) sobre operações que destinem mercadorias para o exterior, nem sobre ser-
+viços prestados a destinatários no exterior, assegurada a manutenção e o aprovei-
+tamento do montante do imposto cobrado nas operações e prestações anteriores;”
+
+● quanto às exportações indiretas, pelo art. 3º, parágrafo único, da Lei
+Complementar nº 87/96, por sua vez arrimado nos arts. 146, III, a, e 155, § 2º, XII,
+e, da Constituição, verbis:
+
+“Art. 3º. O imposto não incide sobre:
+II – operações e prestações que destinem ao exterior mercadorias, inclusive
+produtos primários e produtos industrializados semi-elaborados, ou serviços;
+Parágrafo único. Equipara-se às operações de que trata o inciso II a saída de
+mercadoria realizada com o fim específico de exportação para o exterior, destinada
+a:
+I – empresa comercial exportadora, inclusive tradings ou outro estabelecimento
+da mesma empresa;
+II – armazém alfandegado ou entreposto aduaneiro.”
+
+“Art. 146. Cabe à lei complementar:
+III – estabelecer normas gerais em matéria de legislação tributária, especial-
+mente sobre:
+
+[[pagina 7 | nativo]]
+a) definição de tributos e de suas espécies, bem como, em relação aos impos-
+tos discriminados nesta Constituição, a dos respectivos fatos geradores, bases de
+cálculo e contribuintes;”
+
+“Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos sobre:
+§ 2º. O imposto previsto no inciso II atenderá ao seguinte:
+XII – cabe à lei complementar:
+e) excluir da incidência do imposto, nas exportações para o exterior, serviços
+e outros produtos além dos mencionados no inciso X, ‘a’;”
+
+De fato, o art. 3º, parágrafo único, da Lei Complementar nº 87/96 faz
+as duas coisas: define o fato gerador do ICMS, dele excluindo as saídas que equi-
+para a exportações (art. 146, III, a), com isso livrando-as do imposto, embora de
+exportações propriamente ditas não se trate (art. 155, § 2º, XII, e).
+
+Ora, se o contribuinte – por aplicação direta da Constituição e da lei
+complementar, independentemente do que queira o Estado – já faz jus aos regimes
+tributários por este qualificados como “especiais”, qual seria a “sanção premial” a
+ser concedida em razão do pagamento da “contribuição espontânea”? Vale reiterar
+que esse conceito foi decisivo para o resultado da ADI nº 2.056/MS.
+
+A “contrapartida” oferecida pelo Estado é a manutenção de direitos
+que não lhe cabe conceder ou restringir. A compulsoriedade é evidente, a confirmar
+a natureza tributária da contribuição ao FETHAB sobre as exportações diretas e
+indiretas de carne bovina, enunciada no início deste item.
+
+Cabe, então, identificar a respectiva espécie. A Constituição autoriza
+os Estados e o Distrito Federal a instituírem apenas quatro espécies tributárias: (i)
+impostos (ITCMD, ICMS e IPVA – arts. 145, I, e 155, I a III); (ii) taxas de serviço e
+de polícia (art. 145, II); (iii) contribuição de melhoria decorrente de obras públicas
+(art. 145, III); e (iv) contribuição cobrada dos seus servidores para financiamento
+da respectiva previdência (art. 149, § 1º).
+
+Não podendo enquadrar-se em qualquer outra figura tributária à dis-
+posição dos Estados, a contribuição aqui discutida é parcela de ICMS exigida como
+condição para o gozo da sua própria não incidência nas exportações (e, adicional-
+mente, para a manutenção do cálculo mensal em operações inteiramente estranhas
+àquelas sobre as quais incide: as saídas interestaduais).
+
+A prática, embora exótica e irregular, tem-se revelado corriqueira,
+como – embora sem relação com o objeto desta ação – prova o Convênio ICMS nº
+42/2016, que tanta polêmica tem ensejado nos Tribunais:
+
+[[pagina 8 | nativo]]
+“Cláusula primeira Ficam os Estados e o Distrito Federal autorizados a, rela-
+tivamente aos incentivos e benefícios fiscais, financeiro-fiscais ou financeiros, inclu-
+sive os decorrentes de regimes especiais de apuração, que resultem em redução
+do valor ICMS a ser pago, inclusive os que ainda vierem a ser concedidos:
+I – condicionar a sua fruição a que as empresas beneficiárias depositem em
+fundo de que trata a cláusula segunda o montante equivalente a, no mínimo, dez
+por cento do respectivo incentivo ou benefício; ou
+II – reduzir o seu montante em, no mínimo, dez por cento do respectivo incen-
+tivo ou benefício.
+§ 1º. O descumprimento, pelo beneficiário, do disposto nos incisos I e II do ca-
+put por 3 (três) meses, consecutivos ou não, resultará na perda definitiva do respec-
+tivo incentivo ou benefício.
+§ 2º. O montante de que trata o inciso I do caput será calculado mensalmente
+e depositado na data fixada na legislação estadual ou distrital.
+Cláusula segunda. A unidade federada que optar pelo disposto no inciso I da
+cláusula primeira instituirá fundo de desenvolvimento econômico e ou de equilíbrio
+fiscal, destinado ao desenvolvimento econômico e ou à manutenção do equilíbrio
+das finanças públicas estaduais e distrital, constituídos com recursos oriundos do
+depósito de que trata o inciso I da cláusula primeira e outras fontes definidas no seu
+ato constitutivo.”
+
+Existem, é certo, benefícios fiscais que são condicionados a contra-
+prestações materiais do contribuinte (gerar certo número de empregos, instalar-se
+em dada região, etc.). Mas uma contrapartida pecuniária ao gozo de um benefício
+tributário (ou de que algo que, mal ou bem, é assim qualificado pelo Fisco) nada
+mais é do que uma parte do próprio tributo dispensado.
+
+Inequívoco, pois, que a “contribuição facultativa” para o FETHAB, no
+que incidente sobre as exportações diretas ou indiretas de carne bovina, nada mais
+é do que ICMS.
+
+3.2. Inconstitucionalidade da contribuição ao FETHAB sobre as
+exportações diretas e indiretas de carne bovina
+
+Sendo ICMS, a contribuição ao FETHAB não pode incidir sobre as
+exportações, como todavia prevê o § 1º-A do art. 7º da Lei estadual nº 7.263/2000.
+Quanto às exportações diretas, a inconstitucionalidade é material e consiste em
+ofensa ao art. 155, § 2º, X, a, da Constituição, já transcrito. A contrariedade é clara
+e dispensa maior elaboração.
+
+Já quanto às exportações indiretas, a inconstitucionalidade é formal e
+consiste em invasão, pelo legislador estadual, ao campo constitucionalmente reser-
+vado à lei complementar (arts. 146, III, “a”, e 155, § 2º, XII, “e”, reproduzidos no
+item 3.1 supra).
+
+Ora, se a exação em tela é ICMS mascarado, a sua exigência nas
+saídas com fim específico de exportação contraria frontalmente o art. 3º, parágrafo
+único, da Lei Complementar nº 87/96, também reproduzido no tópico precedente.
+
+[[pagina 9 | nativo]]
+Pois bem: é iterativa a jurisprudência do STF no sentido de que são
+inconstitucionais, por invasão da esfera de competência da lei complementar tribu-
+tária – e não apenas ilegais por contraste com o teor desta –, as normas editadas
+por qualquer ente político que a contrariem.
+
+Nesse sentido, entre tantos outros:
+
+“Recurso Extraordinário. Repercussão Geral. Direito Tributário. Imposto
+sobre Serviços de Qualquer Natureza – ISSQN. Base de cálculo. Lei comple-
+mentar nacional. Sociedade de profissionais. Advogados. Competência tribu-
+tária de Município. Regime de tributação fixa. Natureza do serviço. Remunera-
+ção do labor. Decreto-lei 406-1968. Recepção. Lei complementar 7/1973 do Mu-
+nicípio de Porto Alegre. Conflito legislativo. Isonomia tributária.
+1. A jurisprudência do STF se firmou no sentido da recepção do Decreto-Lei
+406/1968 pela ordem constitucional vigente com status de lei complementar nacio-
+nal, assim como pela compatibilidade material da prevalência do cálculo do imposto
+por meio de alíquotas fixas, com base na natureza do serviço, não compreendendo
+a importância paga a título de remuneração do próprio labor. Precedente: RE
+220.323, de relatoria do Ministro Carlos Velloso, Tribunal Pleno, DJ 18.05.2001.
+2. É inconstitucional lei municipal que disponha de modo divergente ao DL
+406/1968 sobre base de cálculo do ISSQN, por ofensa direta ao art. 146, III, ‘a’, da
+Constituição da República.
+3. Reduziu-se o âmbito de incidência e contrariou-se o comando da norma
+prevista no art. 9º, §§ 1º e 3º, do Decreto-Lei 406/1968, por meio do código tributário
+porto-alegrense. Logo, há inconstitucionalidade formal em razão da inadequação de
+instrumento legislativo editado por ente federativo incompetente, nos termos do art.
+146, III, ‘a’, do Texto Constitucional.
+4. Fixação de Tese jurídica ao Tema 918 da sistemática da repercussão geral:
+‘É inconstitucional lei municipal que estabelece impeditivos à submissão de socie-
+dades profissionais de advogados ao regime de tributação fixa em bases anuais na
+forma estabelecida por lei nacional’. (...)” (STF, Pleno, RE-RG nº 940.769/RS, Rel.
+Min EDSON FACHIN, DJe 11.09.2019)
+
+“Direito Tributário. Responsabilidade tributária. Normas gerais de Direito
+Tributário. Art. 146, III, da CF. Art. 135, III, do CTN. Sócios de sociedade limi-
+tada. Art. 13 da Lei 8.620/93. Inconstitucionalidades formal e material. Reper-
+cussão Geral. Aplicação da decisão pelos demais tribunais.
+2. O Código Tributário Nacional estabelece algumas regras matrizes de res-
+ponsabilidade tributária, como a do art. 135, III, bem como diretrizes para que o
+legislador de cada ente político estabeleça outras regras específicas de responsa-
+bilidade tributária relativamente aos tributos da sua competência, conforme seu art.
+128.
+6. O art. 13 da Lei 8.620/93 não se limitou a repetir ou detalhar a regra de
+responsabilidade constante do art. 135 do CTN, tampouco cuidou de uma nova hi-
+pótese específica e distinta. Ao vincular à simples condição de sócio a obrigação de
+responder solidariamente pelos débitos da sociedade limitada perante a Seguridade
+Social, tratou a mesma situação genérica regulada pelo art. 135, III, do CTN, mas
+de modo diverso, incorrendo em inconstitucionalidade por violação ao art. 146, III,
+da CF. (...)” (STF, Pleno, RE-RG nº 562.276/PR, Rel. Min. ELLEN GRACIE, DJe
+09.02.2011)
+
+[[pagina 10 | nativo]]
+A importância que o STF outorga à lei complementar – ali, de Direito
+Financeiro – é tamanha que a sua infringência é causa de anulação até mesmo de
+emendas constitucionais estaduais, como há pouco decidido na ADI nº 6.129/GO:
+
+“Ação Direta. Constitucional. Federalismo e respeito às regras de distri-
+buição de competência. Emendas 54 e 55/2017 à Constituição do Estado de
+Goiás. Instituição de Regime Financeiro. Conceito de despesa de pessoal e
+limitação de gastos. Desvinculação de gastos com saúde e educação. Com-
+petência concorrente para legislar sobre regras de Direito Financeiro. Incons-
+titucionalidade formal. Medida cautelar concedida.
+1. As Emendas 54 e 55/2017 à Constituição do Estado de Goiás instituíram
+novo regime fiscal, com novos contornos para o conceito de despesa de pessoal e
+para as regras de vinculação de gastos em ações e serviços de saúde e educação.
+2. Embora os Estados possuam competência concorrente para legislar sobre
+direito financeiro (art. 24, I, da CF), estão os mesmos obrigados a exercê-la de forma
+incompatível com o próprio texto constitucional e com a legislação nacional editada
+pela União a título de legislar sobre normas gerais de Direito Financeiro (art. 24,
+inciso I e § 1º, c/c art. 163, I, e 169, caput, da CF), em especial a Lei de Responsa-
+bilidade Fiscal, Lei Complementar 101/2001, limitação que também alcança o exer-
+cício da autonomia e poder de auto organização do ente político (art. 25 da CF).
+3. O art. 113, § 8º, da Constituição goiana, com a redação dada pela EC
+55/2017, ao determinar a exclusão do limite de despesa de pessoal das despesas
+com proventos de pensão e dos valores referentes ao Imposto de Renda devido por
+seus servidores, contraria diretamente o art. 18 da LRF, pelo que incorre em incons-
+titucionalidade formal.
+4. O art. 45 do Ato das Disposições Constitucionais Transitórias do Estado de
+Goiás, com a redação conferida pela EC 54/2017, contraria o art. 198, § 2°, e o art.
+212, ambos da CF, pois flexibiliza os limites mínimos de gastos com saúde e edu-
+cação.
+5. Medida Cautelar concedida integralmente, para suspender a eficácia das
+Emendas 54 e 55/2017 à Constituição do Estado de Goiás.” (STF, Pleno, ADI-MC
+nº 6.129/GO, Rel. para o acórdão Min. ALEXANDRE DE MORAES, DJe 12.12.2019)
+
+O acolhimento das teses desenvolvidas neste tópico 3 acarretará a
+inexigibilidade da contribuição ao FETHAB nas exportações diretas e indiretas de
+carne bovina – instituída no art. 7º, §§ 1º-A, I e II, e 7º da Lei estadual nº 7.263/2000,
+na redação da Lei estadual nº 10.818/2019 –, de sorte que o seu inadimplemento
+não poderá ser causa de qualquer sanção ou negativa de direito aos respectivos
+sujeitos passivos (como a obtenção dos regimes especiais referidos no art. 8º, III e
+§ 1º, da mesma lei).
+
+4. FUNDAMENTOS DO PEDIDO SUCESSIVO
+
+Toda a argumentação expendida no tópico 3 desta inicial assenta na
+premissa de que a contribuição para o FETHAB nas exportações diretas e indiretas
+de carne bovina tem natureza de ICMS. Porém, mesmo que essa assimilação seja
+rechaçada, e que se referende a singular qualificação do gravame como parcela
+voluntária e, pois, perfeitamente constitucional, impor-se-á a invalidação do inciso
+III e do § 1º do art. 8º da Lei estadual nº 7.263/2000 (na redação da Lei estadual nº
+10.818/2019), que ligam as seguintes consequências ao seu inadimplemento:
+
+[[pagina 11 | nativo]]
+● pagamento do ICMS a cada saída interestadual, e não pelo regime normal
+de apuração, com cotejo mensal de débitos e créditos; e
+● pagamento do ICMS nas exportações diretas e indiretas.
+
+Isso porque tais imposições contrariam direitos que são garantidos ao
+contribuinte diretamente pela Constituição e pela lei complementar, cuja eficácia
+não pode ser subordinada pelo legislador estadual a condição de qualquer espécie
+(tributária ou não).
+
+Analisemos em separado cada uma delas.
+
+4.1. A exigência de ICMS a cada saída interestadual
+
+Como já adiantado no item 3.1 supra, a não cumulatividade pressupõe
+a apuração do imposto por período de tempo, e não operação a operação, pois
+nesse último caso o valor devido equivalerá ao produto do preço praticado pela
+alíquota vigente, com o abatimento no máximo dos créditos decorrentes da entrada
+da mercadoria (na hipótese de revenda no mesmo estado), mas não daqueloutros
+impassíveis de vinculação direta com cada mercadoria saída, como os ligados ao
+ativo fixo e a insumos como as próprias reses a serem abatidas (que são vendidas
+em partes), energia elétrica, reagentes químicos, etc..
+
+Diz ainda a Constituição que cabe à lei complementar “disciplinar o
+regime de compensação do imposto” (art. 155, § 2º, XII, c). Isso foi o que fez a Lei
+Complementar nº 87/96, que regulou detalhadamente a geração e a utilização de
+créditos, sempre valorizando a sua contraposição aos débitos nascidos em deter-
+minado período (ou nos períodos subsequentes, caso haja saldo credor acumulado
+a ser utilizado no futuro).
+
+Nesse sentido vai a melhor doutrina:
+
+“A não cumulatividade no ICMS leva em conta as operações ou prestações
+realizadas num dado período de tempo (no mais das vezes, de 30 dias). Sendo os
+débitos superiores aos créditos, há imposto a recolher. Do contrário, isto é, se os
+créditos forem maiores que os débitos, inexiste imposto a pagar, senão créditos a
+transferir para o próximo período de apuração.
+É o caso de deixarmos desde já evidenciado que a legislação (complementar
+ou ordinária) não pode modificar este sistema de apuração.
+Reafirmamos que o direito à compensação está presente independentemente
+da origem dos créditos de ICMS. Melhor dizendo, o princípio da não cumulatividade
+não vincula os créditos relativos a etapas anteriores aos débitos gerados por ope-
+rações ou serviços da mesma natureza.” (ROQUE CARRAZZA, ICMS. 14 ed. São
+Paulo: Malheiros, 2009, p. 379)
+
+[[pagina 12 | nativo]]
+“Como o fato gerador do imposto ocorre em cada operação, considera-se ven-
+cida a obrigação tributária na data final do período de apuração, devendo ser extinta
+mediante compensação com créditos relativos às entradas no mesmo período, ou
+oriundos de períodos anteriores, ou de origens outras, desde que disponíveis para
+esse fim no fim do período de apuração.
+Havendo saldo devedor, deve este ser recolhido, vale dizer, pago em dinheiro,
+no prazo fixado pela legislação do Estado. Se o saldo for credor, será este transpor-
+tado para o período seguinte.” (HUGO DE BRITO MACHADO, Aspectos Fundamen-
+tais do ICMS. São Paulo: Dialética, 1999, p. 164)
+
+“E prosseguem [a referência é a Geraldo Ataliba e Cleber Giardino]: ‘o elo de
+ligação – entre operação atual e operações anteriores – não é, destarte, a presença
+da mesma mercadoria ou do mesmo produto (ainda porque, como na generalidade
+dos casos, não é rigorosamente o ‘mesmo bem’ que figura nessa sequência de fa-
+tos)’.
+Advertem que: ‘não é, do contrário do que gratuitamente se tem dito, a natu-
+reza específica da mercadoria ou do produto o referencial jurídico deflagrador des-
+ses correspectivos direitos. A Constituição não determina que o ‘crédito’ (relativo às
+operações anteriores) é assegurado apenas quando se cuida de negócios com os
+mesmos bens adquiridos que, agora, são objeto de nova operação (de revenda).
+Considera, isso sim, a pessoa do contribuinte, do partícipe das operações – atual e
+anteriores – porque ele é que endereçou a sujeição e a titularidade, respectiva-
+mente, desses direitos recíprocos’.” (JOSÉ EDUARDO SOARES DE MELO. ICMS.
+Teoria e Prática. 11 ed. São Paulo: Dialética, 2009, p. 289)
+
+Reconhecendo que o regime mensal de débito e crédito é o próprio
+das operações ocorridas no interior do País (em contraposição às importações, que
+são tributadas entrada a entrada), veja-se o voto do Min. CARLOS VELLOSO no
+RE nº 209.451/SP (2ª Turma, DJ 04.06.99):
+
+“O que deve ser dito, ademais, é que o regime de apuração mensal não pode-
+ria ser aplicado a fato gerador de mercadoria importada, porque esse regime é pró-
+prio de mercadorias nacionais, certo que o fato gerador da mercadoria importada
+decorre do fato gerador inscrito no art. 155, § 2º, IX, a. É dizer, a incidência ocorre
+quando do desembaraço aduaneiro, conforme decidiu o Supremo Tribunal Federal.”
+
+Assim sendo, não cabe exigir o pagamento do ICMS interestadual a
+cada saída, medida vedada pelo STF até mesmo quanto a contribuintes com dívida
+elevada5, e que se revela ainda mais inadmissível ante a recusa ao pagamento de
+contribuição soi-disant “voluntária”.
+
+5 “Tributo. Regime especial. Prazo de recolhimento. Tratamento diferenciado. Glosa. Imposto
+sobre Circulação de Mercadorias e Serviços.
+Conflita com a Constituição Federal, em face da liberdade de comércio, da livre concorrência e do
+princípio da não-cumulatividade, a imposição de regime de recolhimento de tributo que implique
+obrigação de satisfazer diariamente o valor correspondente ao Imposto sobre Circulação de Merca-
+dorias e Serviços. Precedente: ERE nº 115.452, relatado pelo Ministro Carlos Velloso perante o
+Pleno, com acórdão publicado no Diário da Justiça de 16 de novembro de 1990.” (STF, 2ª Turma,
+RE nº 195.691/GO, Rel. Min. MARCO AURÉLO, DJ 10.08.2001)
+
+[[pagina 13 | nativo]]
+4.2. A exigência de ICMS nas exportações diretas e indiretas
+
+A dicção do art. 8º, III e § 1º, da lei estadual, no sentido de que o
+pagamento do FETHAB é requisito para que o contribuinte obtenha e mantenha o
+regime especial de exportação livre de ICMS, é explicitada pelo Decreto estadual
+nº 1.262/2017. O seu art. 1º traz a seguinte lista de operações (a carne bovina está
+referida no inciso VIII do § 3º do mesmo artigo):
+
+“Art. 1º. Este decreto dispõe sobre obrigações a serem cumpridas por estabe-
+lecimentos localizados no território mato-grossense que realizarem as seguintes
+operações:
+I – saídas com o fim específico de exportação para o exterior do País, ampa-
+radas pela não incidência, destinadas a:
+a) empresa comercial exportadora, inclusive trading;
+b) outro estabelecimento do próprio contribuinte remetente, pelo qual a expor-
+tação deverá ser efetuada;
+c) armazém alfandegado ou entreposto aduaneiro;
+II – remessas destinadas à formação de lote em porto de embarque localizado
+neste ou em outro Estado, com suspensão da cobrança do imposto, para o fim es-
+pecífico de exportação para o exterior do País;
+III – saídas decorrentes de exportação realizada diretamente pelo remetente,
+incluídas as que ocorrerem por divisas internacionais de outras unidades da Fede-
+ração.”
+
+O art. 3º do decreto, transcrito na nota de pé de página nº 3 acima, diz
+que a obtenção do regime especial fica condicionada à opção pelo pagamento da
+contribuição “voluntária” ao FETHAB (§ 5º-A), acrescentando que a omissão nesse
+particular obriga o contribuinte a recolher o ICMS quanto a cada uma das operações
+enumeradas no art. 1º, “ressalvada a possibilidade de restituição ou compensação
+do valor recolhido, na hipótese de comprovação da efetiva exportação”.
+
+Ora bem: já se demonstrou no item 3.2 que a não incidência de ICMS
+nas exportações diretas e indiretas repousa na Constituição e na lei complementar,
+sendo inconstitucional – materialmente no primeiro caso, formalmente no segundo
+– diploma estadual que a sujeite a contrapartidas de qualquer natureza (ainda que
+espontâneas).
+
+As exportações diretas – a que correspondem os incisos II e III do art.
+1º do Decreto nº 1.262/2017 – são imunes desde logo e para sempre. As indiretas
+– a que corresponde o inciso I do art. 1º, cópia fiel, mas com sinal trocado, do art.
+3º, parágrafo único, da Lei Complementar nº 87/96 – gozam de isenção heterônoma
+quando realizadas, devendo o ICMS ser exigido caso o contribuinte não comprove
+a exportação em certo prazo.
+
+É o que dispõe, com total razoabilidade, o Convênio ICMS nº 84/2009:
+
+[[pagina 14 | nativo]]
+“Cláusula sexta. O estabelecimento remetente ficará obrigado ao recolhimento
+do imposto devido, inclusive o relativo à prestação de serviço de transporte quando
+for o caso, monetariamente atualizado, sujeitando-se aos acréscimos legais, inclu-
+sive multa, segundo a respectiva legislação estadual, em qualquer dos seguintes
+casos em que não se efetivar a exportação:
+I – no prazo de 180 (cento e oitenta) dias, contado da data da saída da merca-
+doria do seu estabelecimento;
+§ 1º. Em relação a produtos primários e semi-elaborados, o prazo de que trata
+o inciso I será de 90 (noventa) dias, exceto quanto aos produtos classificados no
+código 2401 da NCM/SH em que o prazo poderá ser de 180 (cento e oitenta) dias,
+a critério do fisco da unidade federada do remetente.”
+
+Não é assim, já se viu, que as coisas se passam no Mato Grosso. Os
+regimes ordinários da Constituição e da lei complementar são ali qualificados de
+“especiais”, ficando na dependência do pagamento do FETHAB sobre as próprias
+exportações. À falta de “opção” do contribuinte pelo pagamento dessa “contribuição
+facultativa”, as suas exportações diretas ou indiretas acarretarão o imediato paga-
+mento do ICMS, que se promete será devolvido mediante prova do embarque.
+
+E nem se diga que haveria equivalência jurídica ou econômica entre
+(i) o não pagamento do ICMS, incondicionado (exportações diretas) ou sujeito a
+condição resolutória (i.e. exigido posteriormente se não comprovada a exportação
+indireta), e (ii) o pagamento imediato do ICMS em qualquer caso, sujeito a condição
+resolutória (i.e., restituído posteriormente em face de prova da exportação). Juridi-
+camente, isenção reversível e pagamento restituível são institutos distintos (dife-
+rença ainda mais acentuada em relação à imunidade, que é imediata e definitiva).
+Do ponto de vista econômico, o impacto de cada um desses arranjos no fluxo de
+caixa das empresas é claramente diverso.
+
+Isso sem falar que não são críveis, para dizer o mínimo, as promessas
+de restituição de ICMS feitas pelos Estados ou em seu nome, mesmo que pela
+Constituição Federal – basta pensar no impasse quanto à realização dos créditos
+de ICMS acumulados pelos exportadores.
+
+Em suma, caso acolhido este fundamento sucessivo, as regras insti-
+tuidoras da contribuição “voluntária” aqui discutidas restarão mantidas, mas o seu
+inadimplemento não poderá acarretar as consequências impostas no art. 8º, III e §
+1º, da Lei estadual nº 7.263/2000.
+
+5. DO PEDIDO
+
+Do exposto, pede a Autora o imediato deferimento de medida cautelar
+– antes da audiência do Governador do Estado do Mato Grosso e da Assembleia
+Legislativa daquele Estado, bem como da manifestação da AGU e da PGR (Lei nº
+9.868, art. 10, § 3º), por decisão monocrática ad referendum do Pleno ou mediante
+a pronta inclusão do feito em pauta –, de modo a suspenderem-se o § 1º-A, incisos
+
+[[pagina 15 | nativo]]
+I (parte) e II (parte), e o § 7º do art. 7º; ou, sucessivamente, o inciso III do caput e
+o § 1º (este último sem redução de texto) do art. 8º da Lei nº 7.263/2000 do Estado
+de Mato Grosso, bem como os dispositivos de decretos estaduais que os regula-
+mentam (quanto ao pedido principal: art. 10, §§ 2º, I e II, e 5º e art. 27-I-4 do Decreto
+estadual nº 1.261/2000; e, quanto ao pedido sucessivo, art. 11, caput, inciso III e §
+1º do Decreto estadual nº 1.261/2000 e §§ 5º-A e 5º-D do art. 3º do Decreto estadual
+nº 1.262/2017).
+
+O fumus boni iuris radica na violação, pelos dispositivos em tela, aos
+arts. 155, § 2º, X, a; 146, III, a; 155, § 2º, XII, e; e 155, § 2º, I, da Constituição, tudo
+conforme amplamente demonstrado nesta petição inicial.
+
+O periculum in mora consiste na virtual irrecuperabilidade dos valores
+recolhidos a título da contribuição ao FETHAB sobre as exportações caso a liminar
+seja indeferida ou não seja analisada, e a inconstitucionalidade só seja declarada
+em julgamento final. Radica ainda na descapitalização que o pagamento da contri-
+buição em exame – de resto, escancaradamente indevida – imporá às empresas,
+agravando a já delicada situação financeira que enfrentam em razão da pandemia
+de COVID-19. Basta considerar que a contribuição ao FETHAB equivale hoje a R$
+43,93 por tonelada de carne bovina exportada, e que desde fevereiro de 2019
+(quando a exação passou a vigorar), os associados da Autora exportaram mais de
+450 mil toneladas desse produto a partir de Mato Grosso (doc. nº 07), número que
+– mesmo reduzido por força da crise mundial – tende a continuar expressivo nos
+próximos meses.
+
+Na perspectiva socioeconômica, a manutenção da exigência também
+se revela perversa. Deveras, nenhum país de economia complexa exporta tributos
+ou gravames de outra espécie, o que inferioriza as empresas nacionais num cenário
+global de fortíssima concorrência. O risco é magnificado quando se considera que
+o agronegócio é o setor mais dinâmico da economia brasileira, sendo o responsável
+pelo superávit da nossa balança comercial.
+
+Requer a Autora (i) sejam colhidas as informações do Governador do
+Estado do Mato Grosso e da Assembleia Legislativa daquele Estado e (ii) seja
+aberta vista destes autos ao Advogado-Geral da União e ao Procurador-Geral da
+República, para os fins de direito.
+
+Pede, por último, a procedência da presente ADI, para declarar-se a
+inconstitucionalidade do § 1º-A, incisos I (parte) e II (parte), e do § 7º do art. 7º; ou,
+sucessivamente, do inciso III do caput e do § 1º (este último sem redução de texto)
+do art. 8º da Lei nº 7.263/2000 do Estado de Mato Grosso, e ainda dos dispositivos
+de decretos estaduais que os regulamentam (art. 10, §§ 2º, I e II, e 5º e art. 27-I-4
+do Decreto estadual nº 1.261/2000; e art. 11, caput, inciso III e § 1º do Decreto
+estadual nº 1.261/2000 e §§ 5º-A e 5º-D do art. 3º do Decreto estadual nº
+1.262/2017, respectivamente).
+
+[[pagina 16 | nativo]]
+Requer, por fim, o cadastramento do advogado IGOR MAULER
+SANTIAGO, OAB/SP nº 249.340-A, para receber intimações neste feito, sob
+pena de nulidade, nos termos do art. 272, § 5º, do CPC/15.
+
+Nesses termos, pede deferimento.
+
+Brasília, 13 de maio de 2020.
+
+IGOR MAULER SANTIAGO MARCO ANTONIO CINTRA GOUVEIA
+OAB/SP nº 249.340-A OAB/SP nº 331.887
+

@@ -1,0 +1,2849 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO EGRÉGIO SUPREMO
+
+TRIBUNAL FEDERAL
+
+CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS GERAIS,
+
+PREVIDÊNCIA PRIVADA E VIDA, SAÚDE SUPLEMENTAR E CAPITALIZAÇÃO
+
+("Requerente" ou "CNSeg"), entidade de classe de âmbito nacional, com sede na rua
+
+Senador Dantas nº 74, 16º andar, parte, Centro, Rio de Janeiro, CEP nº 20.031-205,
+
+inscrita no CPF/MF sob o nº 10.393.001/0001-05 (doc. 1), por meio de seus
+
+advogados que esta subscrevem, conforme procuração anexa (doc. 2), vem, à
+
+presença de Vossa Excelência, com fulcro nos artigos 102, I, “a” e 103, IX da
+
+Constituição Federal, bem como no artigo 102, I, “p” da Constituição e na Lei nº
+
+9.868/99 propor a presente ação direta de inconstitucionalidade com pedido cautelar,
+
+objetivando a declaração de inconstitucionalidade formal dos artigos 20, §3º e inciso
+
+VII, 105 a 109, 133 a 139 e 143 a 145, e material dos artigos 20, §3º e inciso VII, 107
+
+a 109, 133 a 139 e 143 a 145 da Lei nº 16.559, de 15.01.2019, do Estado de
+
+Pernambuco, fazendo-o pelas razões adiante elencadas.
+
+NECESSÁRIA DISTRIBUIÇÃO POR PREVENÇÃO
+
+1. Antes de tudo, a autora requer a V.Exa. se digne a determinar a
+
+distribuição da presente demanda à relatoria do Exmo. Ministro GILMAR MENDES,
+
+prevento em razão da Ação Direta de Inconstitucionalidade nº 6086, proposta pela
+
+Associação das Operadoras de Celulares – ACEL e pela ABRAFIX – Associação
+
+Brasileira de Concessionárias de Serviço Telefônico Fixo Comutado, objetivando a
+
+declaração de inconstitucionalidade da Lei nº 16.559, de 15.01.2019, do Estado de
+
+Pernambuco; a mesma norma ora impugnada.
+
+[[pagina 2 | nativo]]
+
+LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+
+2. A Constituição Federal de 1988 ("CRFB/1988") estabeleceu um rol
+
+taxativo de legitimados para a propositura de ações diretas de inconstitucionalidade
+
+perante o E. Supremo Tribunal Federal "STF", dentre os quais consta a “confederação
+
+sindical ou entidade de classe de âmbito nacional” em seu artigo 103, IX.
+
+3. A jurisprudência do Supremo Tribunal Federal há muito interpreta o
+
+conceito de “classe” como grupo que apresenta uma homogeneidade de interesses
+
+econômicos e/ou profissionais. E não há dúvidas de que a CNSeg constitui entidade
+
+de classe, na medida em que representa a categoria econômica homogênea das
+
+empresas que integram o sistema de seguros.
+
+4. Com efeito, trata-se a REQUERENTE de uma entidade que representa uma
+
+categoria econômica bem definida1, qual seja, a das empresas de seguros gerais,
+
+previdência privada e vida, saúde suplementar e capitalização, cuja unidade de
+
+propósito na representação associativa advém da legislação que regula as operações
+
+de seguro privado e os planos e seguros privados de assistência à saúde, a saber, o
+
+Decreto-Lei nº 73/66 e a Lei nº 9.656/1999.
+
+5. O artigo 1º de seu Estatuto Social (doc. 3) dispõe o seguinte:
+
+“Art.1º – A CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS
+GERAIS, PREVIDÊNCIA PRIVADA E VIDA, SAÚDE SUPLEMENTAR E
+CAPITALIZAÇÃO - CNseg, regida por este Estatuto Social e pelas disposições
+legais aplicáveis, doravante designada CNseg, com base territorial em todo
+território nacional, sede na rua Senador Dantas, nº 74, 16º (parte), Centro, Rio
+de Janeiro, Cep: 20031-205 e foro na cidade do Rio de Janeiro, Estado do Rio
+de Janeiro é uma associação civil, sem fins lucrativos, com atuação no território
+nacional, que congrega as Federações que representam as empresas
+integrantes do segmentos de Seguros, Resseguros, Previdência Privada e
+Vida, Saúde Suplementar e Capitalização.
+Parágrafo único - A CNseg poderá manter escritórios de representação em
+qualquer ponto do território nacional.”
+
+6. Haja vista o disposto no artigo 2º, I e XV de seu Estatuto, a REQUERENTE
+
+1 ADI-AgR 4.230, Rel. Min. DIAS TOFFOLI, Pleno, DJ 14.09.2011.
+
+[[pagina 3 | nativo]]
+
+possui como objetivos institucionais e prerrogativas a representação perante os
+
+poderes Executivo, Legislativo e Judiciário dos direitos e interesses dos segmentos
+
+de Seguros, Resseguros, Previdência Privada e Vida, Saúde Suplementar e
+
+Capitalização e a propositura, como representante de mercado, de ações judiciais.
+
+7. Adicionalmente, o seu caráter nacional é comprovado diante do fato de
+
+as Federações que a compõem estarem presentes em mais de 9 (nove) unidades da
+
+Federação (doc. 4) 2, conforme reconhecido por este Egrégio Supremo Tribunal
+
+Federal na ADI nº 3.617 AgR.3
+
+8. Observa-se que a CNSeg já ajuizou outras ações diretas de
+
+inconstitucionalidade, nas quais não houve qualquer objeção à sua legitimidade ativa.
+
+A título exemplificativo, citam-se as ADIs nºs 4.293/DF, 4.710/DF, 5.385/DF e
+
+5.485/DF.
+
+9. Por fim, a jurisprudência do Supremo Tribunal Federal erigiu o vínculo
+
+da pertinência temática como requisito objetivo qualificador da própria legitimidade
+
+ativa ad causam para a instauração do controle abstrato de normas. Com isso, exige
+
+a existência de correlação entre o objeto do pedido de declaração de
+
+inconstitucionalidade e os objetivos institucionais da associação.4
+
+10. Constituindo-se em entidade dedicada à defesa dos interesses da classe
+
+por ela representada e ao fomento do ramo securitário, a CNSeg possui firme
+
+interesse na declaração da inconstitucionalidade de normas que, desrespeitando a
+
+Constituição Federal, prejudiquem direta ou indiretamente a atividade das
+
+seguradoras e o desenvolvimento do mercado segurador e de saúde suplementar.
+
+11. Existe, portanto, clara relação entre os objetivos sociais da CNSeg e o
+
+conteúdo do ato normativo impugnado, cujas obrigações alcançam diretamente as
+
+seguradoras e as operadoras de saúde suplementar.
+
+2 São associadas da CNSEG: a Federação Nacional de Seguros Gerais (FENSEG), a Federação
+Nacional de Previdência Privada e Vida (FENAPREVI), a Federação Nacional de Saúde Suplementar
+(FENASAÚDE) e a Federação Nacional de Capitalização (FENACAP).
+3 ADI 3.617 AgR, Rel. Min. Cezar Peluso, Plenário, DJ 01.07.2011.
+4 ADPF-AgR 385, Rel. Min. Alexandre de Moraes, Plenário, DJ 25.10.2017.
+
+[[pagina 4 | nativo]]
+
+12. Vale registrar que a legitimidade da CNSeg já foi reconhecida pela d.
+
+Procuradoria Geral da República em algumas oportunidades, como na ADI nº 4.710
+
+(doc. 5) e na ADI nº 4.293 (doc. 6), seja porque a confederação “representa inúmeras
+
+empresas do ramo securitário, em âmbito nacional”, seja porque, naqueles casos,
+
+como no presente, “a lei impugnada cria obrigações para as empresas seguradoras
+
+de veículos, cujos interesses cabe à requerente defender”.
+
+13. Assim, uma vez demonstrado o cumprimento dos requisitos
+
+autorizadores previstos na lei e na jurisprudência, e em consonância com o
+
+entendimento exarado pelos i. membros do Ministério Público Federal em casos
+
+análogos, afigura-se indiscutível a legitimidade da CNSeg para ajuizar esta ação
+
+declaratória de inconstitucionalidade, representando os interesses toda a categoria
+
+econômica das empresas seguradoras.
+
+DISPOSITIVOS LEGAIS IMPUGNADOS
+
+14. São objeto da presente Ação Direta de Inconstitucionalidade os artigos
+
+20, §3º e inciso VII; 105; 106; 107; 108; 109; 133; 134; 135; 136; 137; 138; 139; 140;
+
+141; 142; 143; 144 e 145 da Lei nº 16.559 do Estado de Pernambuco, de 16.01.2019,
+
+cuja entrada em vigor ocorrerá em 16.04.2019.
+
+15. Abaixo, vejamos o teor das normas impugnadas (doc. 7):
+
+“Seção II
+Direito à Segurança e Proteção à Saúde
+Art. 20. O fornecedor, quando acionado para realizar qualquer reparo ou
+prestação de serviço na residência do consumidor, é obrigado a informar os
+dados de identificação dos funcionários designados para o atendimento, em
+prazo não inferior a 1 (uma) hora do horário previsto ou agendado.
+§ 3º Ficam sujeitas à obrigação prevista no caput, todas as empresas de
+prestação de serviço, especialmente as dos seguintes setores: (...)
+VII - seguros residenciais, de saúde e outros
+
+Seção XII
+Hospitais, Clínicas e Serviços de Saúde
+Art. 105. É vedado, em caso de emergência ou urgência, exigir do consumidor
+caução de qualquer natureza para internação em serviço de saúde.
+Parágrafo único. Além das sanções de natureza civil, administrativa e penal, a
+violação ao disposto no caput sujeitará o infrator à penalidade de multa prevista
+
+[[pagina 5 | nativo]]
+
+no art. 180, nas Faixas Pecuniárias B, C, D ou E, sem prejuízo da aplicação
+cumulativa de outras sanções previstas neste Código.
+Art. 106. É vedado exigir adicional de honorários médicos em razão da
+alteração da categoria do local de permanência do consumidor (enfermaria,
+apartamento, suíte ou equivalentes), em situação de internação hospitalar.
+Parágrafo único. O descumprimento ao disposto neste artigo sujeitará o infrator
+à penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A, B ou C,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.
+Art. 107. Os fornecedores sujeitos às disposições desta Seção são obrigados
+a entregar ao consumidor, no momento da alta ou liberação, sempre que por
+ele solicitado, relatório médico de alta, contendo, no mínimo, a relação de
+materiais, medicamentos e serviços realizados no atendimento.
+§ 1º Os fornecedores de que trata o caput devem afixar cartaz com os seguintes
+dizeres:
+“É DIREITO DO PACIENTE SOLICITAR RELATÓRIO MÉDICO DE ALTA,
+CONTENDO, NO MÍNIMO, A RELAÇÃO DE MATERIAIS, MEDICAMENTOS E
+SERVIÇOS REALIZADOS NO ATENDIMENTO”.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A, B ou C,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.
+Art. 108. Os fornecedores sujeitos às disposições desta Seção, inclusive os
+médicos credenciados, por ocasião da negativa de cobertura por parte de
+operadora de planos de saúde ou de seguro-saúde, são obrigados a entregar
+ao consumidor laudo ou relatório médico que ateste a necessidade da
+intervenção, do procedimento ou do tratamento negado e, se for o caso, sua
+urgência.
+Parágrafo único. O descumprimento ao disposto neste artigo sujeitará o infrator
+à penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A ou B, sem
+prejuízo da aplicação cumulativa de outras sanções previstas neste Código.
+Art. 109. Os fornecedores sujeitos às disposições desta Seção são obrigados
+a exibir, em seus respectivos sites, tabela contendo o preço das consultas,
+exames, procedimentos e demais serviços médicos prestados, inclusive diárias
+de internação e demais custos administrativos porventura cobrados.
+Parágrafo único. O descumprimento ao disposto neste artigo sujeitará o infrator
+à penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A, B ou C,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.
+
+Seção XVIII
+Planos de Saúde e Seguros-saúde
+Art. 133. As operadoras de planos de saúde ou de seguro-saúde, incluídos os
+planos odontológicos, sem prejuízo de outros dispositivos aplicáveis, atenderão
+ao disposto nesta Seção.
+Art. 134. É obrigatória a notificação do consumidor, de forma prévia e
+individualizada, em caso de descredenciamento de hospitais, clínicas,
+laboratórios, médicos e assemelhados.
+§ 1º A comunicação deve ser realizada no prazo mínimo de 24 (vinte e quatro)
+horas anteriores ao descredenciamento, por telefone, mensagem de texto
+SMS, aplicativo de mensagens instantâneas, e-mail ou qualquer outro meio,
+físico ou eletrônico, previamente autorizado pelo consumidor.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A ou B, sem
+prejuízo da aplicação cumulativa de outras sanções previstas neste Código.
+
+[[pagina 6 | nativo]]
+
+Art. 135. As operadoras de planos de saúde ou de seguro-saúde são obrigadas
+a efetuar a procura por vagas, dentro das especialidades oferecidas, nas
+unidades hospitalares conveniadas.
+Parágrafo único. O descumprimento ao disposto no caput sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias B ou C, sem
+prejuízo da aplicação cumulativa de outras sanções previstas neste Código.
+Art. 136. As operadoras de planos de saúde ou de seguro-saúde, nos exames
+e procedimentos médicos que necessitem de autorização prévia, são obrigadas
+a concluir a análise nos seguintes prazos, a contar do momento do protocolo:
+I - 24 (vinte e quatro) horas, quando se tratar de paciente com 60 (sessenta)
+anos de idade ou mais;
+II - 48 (quarenta e oito) horas, quando se tratar de paciente com menos de 18
+(dezoito) anos de idade; e
+III - 72 (setenta e duas) horas, nos demais casos.
+§ 1º O disposto nesse artigo não se aplica aos exames e procedimentos de
+emergência ou urgência, que deverão ser imediatamente autorizados.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias B, C, D ou E,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.
+Art. 137. As operadoras de planos de saúde ou de seguro-saúde são obrigadas
+a fornecer livro ou publicação contendo informações sobre o plano contratado,
+o qual deverá conter, no mínimo, as seguintes informações:
+I - tabela de preços das demais opções de planos existentes e os respectivos
+tipos de cobertura assistencial;
+II - prazos de carência;
+III - especialidades médicas; e
+IV - nome, endereço e telefones dos médicos e estabelecimentos da rede
+credenciada.
+§ 1º O livro ou publicação deverá ser entregue no ato de contratação do plano
+e reenviado, através de carta simples para o endereço do consumidor ou por
+e-mail, em caso de alterações da rede credenciada, mediante solicitação do
+consumidor.
+§ 2º O site da operadora na internet deverá conter versão eletrônica atualizada
+do livro.
+§ 3º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A ou B, sem
+prejuízo da aplicação cumulativa de outras sanções previstas neste Código.
+Art. 138. As operadoras de planos de saúde ou de seguro-saúde, em caso de
+negativa de cobertura total ou parcial de procedimento médico, cirúrgico ou de
+diagnóstico, bem como de atendimento, tratamento ou internação, são
+obrigadas a entregar ao consumidor, imediatamente e independentemente de
+sua solicitação, declaração escrita, contendo:
+I - comprovante da negativa ou recusa de cobertura, em que constarão, além
+do nome do cliente e do número do contrato:
+a) o motivo da negativa, de forma clara, inteligível e completa, vedado o
+emprego de códigos, expressões vagas ou abreviações obscuras; e
+b) a razão social, o número no Cadastro Nacional da Pessoa Jurídica (CNPJ)
+e o endereço completo da operadora;
+II - uma via da guia de requerimento para autorização de cobertura.
+§ 1º Será observado o disposto no caput, ainda que a negativa ou recusa tenha
+se baseado em lei ou cláusula contratual.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias B, C ou D,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+
+[[pagina 7 | nativo]]
+
+Código.
+Art. 139. O consumidor em estado de convalescência que dificulte ou impeça
+a solicitação ou o recebimento de documentos e declarações referentes a plano
+ou seguro-saúde, não será obrigado a se deslocar ao local de atendimento da
+operadora.
+§ 1º Na hipótese prevista no caput, desde que comprovem a condição do
+consumidor em estado de convalescência, poderão receber ou solicitar
+documentos e declarações, independentemente de procuração ou autorização:
+I - qualquer parente, por consanguinidade ou afinidade, nos termos da Lei civil;
+ou
+II - o advogado regularmente inscrito na Ordem dos Advogados do Brasil
+(OAB), devendo comprovar legítimo interesse no prazo de 15 (quinze) dias
+úteis, contados da cessação da causa impeditiva do comparecimento pessoal
+de seu cliente.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A ou B, sem
+prejuízo da aplicação cumulativa de outras sanções previstas neste Código.
+
+Seção XX
+Seguros de Automóveis
+Art. 143. As seguradoras de automóveis, sem prejuízo de outros dispositivos
+aplicáveis, atenderão ao disposto nesta Seção.
+Art. 144. É assegurado ao consumidor o direito de livre escolha das oficinas
+mecânicas e reparadoras para fins de cobertura de danos ao veículo segurado
+ou a veículos de terceiros.
+§ 1º O direito de livre escolha estende-se ao terceiro envolvido no sinistro a ser
+ressarcido pela seguradora.
+§ 2º Não havendo consenso entre o terceiro e o segurado, a seguradora deverá
+respeitar o direito de livre escolha de cada um, para o reparo de seus veículos
+separadamente.
+§ 3º O direito de livre escolha envolve qualquer tipo de oficina de automóveis,
+seja mecânica, de lanternagem, de pintura, de recuperação e limpeza de
+interior, ou outras do gênero, desde que legalmente constituída como pessoa
+jurídica, com alvará de licença e funcionamento, inscrição definitiva como
+contribuinte estadual e municipal, licença ambiental e licença do corpo de
+bombeiros.
+§ 4º As centrais de atendimento das seguradoras e demais fornecedores que
+prestem serviços no setor de seguro de veículos devem informar aos
+envolvidos, quando da abertura do sinistro, o direito de livre escolha da oficina
+reparadora, sem que isso implique por si só na negativa da indenização ou
+reparação, fazendo constar tal condição, ainda, em destaque, no contrato
+firmado com o segurado.
+§ 5º O descumprimento ao disposto neste artigo sujeitará o infrator à
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A, B ou C,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.
+Art. 145. É vedado às seguradoras criar qualquer obstáculo ou impor
+tratamento diferenciado em razão do exercício do direito de livre escolha pelo
+segurado ou pelo terceiro envolvido, ficando proibida a imposição de qualquer
+tipo de relação de oficinas que limite a escolha do segurado ou do terceiro como
+condição para o conserto dos veículos.
+§ 1º Considera-se obstáculo ou tratamento diferenciado, dentre outras
+medidas, condicionar a aplicação de franquia reduzida ou de bônus de franquia
+à escolha de oficinas referenciadas pela seguradora.
+§ 2º O descumprimento ao disposto neste artigo sujeitará o infrator à
+
+[[pagina 8 | nativo]]
+
+penalidade de multa prevista no art. 180, nas Faixas Pecuniárias A, B ou C,
+sem prejuízo da aplicação cumulativa de outras sanções previstas neste
+Código.”
+
+16. Em observância ao art. 102, I, “a” da CRFB/88, é cabível a propositura
+
+de Ação Direta de Inconstitucionalidade em face de Lei ou ato normativo federal ou
+
+estadual que viole a Constituição Federal.
+
+17. As normas acima transcritas, além de padecerem do vício de
+
+inconstitucionalidade formal (CRFB/88, art. 22, I, VII e XXIII), afiguram-se
+
+materialmente inconstitucionais por infringência à isonomia (CRFB/88, art. 5º, caput);
+
+à livre concorrência (CRFB/88, art. 170 caput c/c art. 173, §4º); e aos direitos dos
+
+consumidores (CRFB/88, art. 5º, XXXII), razão pela qual os pedidos ora formulados
+
+deverão ser julgados procedentes.
+
+ANÁLISE DA LEI DO ESTADO DO PERNAMBUCO
+
+I. INCONSTITUCIONALIDADE FORMAL
+
+18. O conteúdo dos dezesseis artigos da lei pernambucana questionados no
+
+presente processo podem ser sintetizados da seguinte forma: dispositivos aplicáveis
+
+à saúde suplementar (planos de saúde e seguros de saúde) e dispositivos sobre
+
+seguros de automóveis. O primeiro conjunto compreende o seguinte:
+
+(i) obrigação de informar os dados de identificação dos funcionários
+designados para o atendimento domiciliar, sob pena de multa até o
+montante de R$ 50.000,00 (cinquenta mil reais) e outras sanções
+previstas na Lei;
+
+(ii) proibição de cobrança de caução, em caso de emergência ou
+urgência, para internação em serviço de saúde, sob pena de multa até o
+montante de R$ 9.000.000,00 (nove milhões de reais) e outras sanções
+previstas na Lei;
+
+(iii) proibição de majoração de honorários médicos por mudança de
+acomodação hospitalar, sob pena de multa até o montante de R$
+100.000,00 (cem mil reais) e outras sanções previstas na Lei;
+
+(iv) obrigação de fornecer relatório médico de alta ou liberação,
+sempre que solicitado pelo consumidor, contendo, no mínimo, a relação
+
+[[pagina 9 | nativo]]
+
+de materiais, medicamentos e serviços realizados no atendimento, sob
+pena de multa até o montante de R$ 100.000,00 (cem mil reais) e outras
+sanções previstas na Lei;
+
+(v) obrigação de entregar, quando negada cobertura de
+procedimento, laudo ou relatório médico que ateste a necessidade da
+intervenção, do procedimento ou do tratamento negado e, se for o caso,
+sua urgência, sob pena de multa até o montante de R$ 50.000,00
+(cinquenta mil reais) e outras sanções previstas na Lei;
+
+(vi) obrigação de exibir, em seus respectivos sites, tabela contendo o
+preço das consultas, exames, procedimentos e demais serviços médicos
+prestados, inclusive diárias de internação e demais custos
+administrativos porventura cobrados, sob pena de multa até o montante
+de R$ 100.000,00 (cem mil reais) e outras sanções previstas na Lei;
+
+(vii) obrigação de notificação prévia e individualizada ao consumidor
+em caso de descredenciamento de hospitais, clínicas, laboratórios,
+médicos e assemelhados, sob pena de multa até o montante de R$
+50.000,00 (cinquenta mil reais) e outras sanções previstas na Lei;
+
+(viii) obrigação de operadoras de planos de saúde ou de seguro-saúde
+a efetuar a procura por vagas, dentro das especialidades oferecidas, nas
+unidades hospitalares conveniadas, sob pena de multa de até R$
+100.000,00 (cem mil reais) e outras sanções previstas na Lei;
+
+(ix) estabelecimento de prazos para a conclusão da análise da
+autorização prévia para exames e procedimentos médicos pelas
+operadoras de planos de saúde ou de seguro-saúde, sob pena de multa
+até o montante de R$ 9.000.000,00 (nove milhões de reais) e outras
+sanções previstas na Lei;
+
+(x) obrigação de fornecimento pelas operadoras de planos de saúde
+ou de seguro-saúde de livro ou publicação contendo informações sobre
+o plano contratado, sob pena de multa até o montante de R$ 50.000,00
+(cinquenta mil reais) e outras sanções previstas na Lei;
+
+(xi) obrigatoriedade da entrega de declaração escrita pelas
+operadoras de planos de saúde ou de seguro-saúde, em caso de
+negativa de cobertura total ou parcial de procedimento médico, cirúrgico
+ou de diagnóstico, bem como de atendimento, tratamento ou internação,
+contendo comprovante da negativa ou recusa de cobertura, sob pena de
+multa até o montante de R$ 1.000.000,00 (um milhão de reais) e outras
+sanções previstas na Lei, ainda que esta seja baseada em lei ou cláusula
+contratual; e
+
+(xii) a vedação à imposição de obrigação de deslocamento para o
+local de atendimento da operadora quando o consumidor encontra-se
+em estado de convalescência que dificulte ou impeça a solicitação ou o
+recebimento de documentos e declarações referentes a plano ou
+
+[[pagina 10 | nativo]]
+
+seguro-saúde, sob pena de multa até o montante de R$ 50.000,00
+(cinquenta mil reais) e outras sanções previstas na Lei.
+
+19. O segundo conjunto de regras, por sua vez, prevê:
+
+(xiii) o direito de livre escolha pelos consumidores das oficinas
+mecânicas e reparadoras para fins de cobertura de danos ao veículo
+segurado ou a veículos de terceiros, o qual se estende ao terceiro
+envolvido no sinistro a ser ressarcido pela seguradora, sob pena de
+multa até o montante de R$ 100.000,00 (cem mil reais) e outras sanções
+previstas na Lei; e
+
+(xiv) a vedação às seguradoras da criação de qualquer obstáculo ou
+imposição de tratamento diferenciado em razão do exercício do direito
+de livre escolha pelo segurado ou pelo terceiro envolvido, sob pena de
+multa até o montante de R$ 100.000,00 (cem mil reais) e outras sanções
+previstas na Lei.
+
+20. A Lei nº 16.559 do Estado de Pernambuco dedica um grande número de
+
+seus artigos para legislar sobre situações relacionadas à saúde suplementar,
+
+ambiente a partir do qual são celebrados contratos de seguro saúde e de plano de
+
+saúde (arts. 105 a 109 c/c arts. 133 a 139). Segundo a doutrina especializada de
+
+LEONARDO VIZEU, “[p]odemos conceituar o contrato de plano privado de assistência à
+
+saúde como o pacto celebrado entre a entidade e o beneficiário, no qual este se obriga
+
+ao pagamento de contraprestação pecuniária e periódica, ainda que de forma indireta,
+
+sob forma de benefício salarial, ao passo que aquele se obriga a disponibiliza
+
+atendimento em rede médica específica, bem como arcar com o ônus financeiro, tão
+
+somente, nas hipóteses em que ocorram eventuais enfermidades contratualmente
+
+cobertas”.5
+
+21. No tocante aos seguros e planos de saúde, a situação causada pela lei
+
+pernambucana mostra-se injustificável. A lei estadual, de uma só penada, criou
+
+diversas obrigações que oneram demasiadamente as seguradoras e as operadoras
+
+de planos de saúde, sendo muitas delas, inclusive, redundantes ou contrárias ao
+
+disposto na legislação e na regulamentação federal acerca da matéria.
+
+5 FIGUEIREDO, LEONARDO VIZEU. Curso de direito de saúde suplementar: manual jurídico de planos e
+seguros de saúde. 2ª ed. Rio de Janeiro: Forense, 2012. p. 167
+
+[[pagina 11 | nativo]]
+
+22. Veja-se que, se por um lado, o CDC pernambucano inova com um sem-
+
+número de deveres e imposições administrativas – inexistentes em outros estados da
+
+Federação às operadoras que lá comercializam os seus produtos –, por outro, não
+
+traz em seu bojo qualquer mecanismo de reequilíbrio das carteiras afetadas com os
+
+efeitos onerosos da lei. E nem poderia fazê-lo, na medida em que, sabidamente, não
+
+cabe ao legislador estadual definir reajustes e medidas de reequilíbrio econômico-
+
+financeiro dos planos e seguros de saúde, pois é da ANS a competência exclusiva
+
+para promover o reajuste, em âmbito nacional, desses contratos (Lei nº 9.961/2000,
+
+art. 4º, XVII).
+
+23. A Lei nº 16.559 do Estado de Pernambuco também destina alguns
+
+comandos normativos exclusivamente à operação de seguro de automóvel (art. 143
+
+a 145). O contrato de seguro revela-se negócio jurídico típico, segundo o qual “o
+
+segurador se obriga, mediante o pagamento do prêmio, a garantir interesse legítimo
+
+do segurado, relativo a pessoa ou a coisa, contra riscos predeterminados”. Os seus
+
+elementos objetivos e subjetivos nucleares encontram-se dispostos no art. 757 do
+
+Código Civil. A ideia de seguro é indissociável à ideia de oferecimento de garantia
+
+mediante o resultado de uma operação matemática e jurídica, pois “[o] seguro é a
+
+compensação, segundo as leis da estatística ou outros dados científicos, de um
+
+conjunto de riscos da mesma natureza, permitindo, mediante remuneração chamada
+
+prêmio ou cotização, fornecer, pela garantia mútua e nas condições fixadas, certas
+
+prestações em caso de realização de uma eventualidade suscetível de criar um estado
+
+de carência”. (FÉLIX MONETTE, ALBERT DE VILLÉ e ROBERT ANDRÉ, Traité des
+
+Assurances Terrestres, Bruxelas, 1949, v. 1, p. 46).
+
+24. Dentre os ramos de seguro englobados pelas coberturas típicas das
+
+apólices de seguro de automóvel, encontra-se o seguro de responsabilidade civil
+
+facultativo, cuja função consiste na salvaguarda do patrimônio do segurado ante a
+
+ocorrência de ato ilício por ele perpetrado, passível de gerar, em seu desfavor, o dever
+
+de indenizar terceiro. Nesse sentido, “… a figura central do seguro de
+
+responsabilidade civil facultativo é a obrigação imputável ao segurado de indenizar os
+
+danos causados a terceiros” (REsp nº 1311407/SP, Rel. Ministro RICARDO VILLAS BÔAS
+
+CUEVA, 3ª Turma, j. em 05.3.15, p. DJe 24.4.15 - sublinhado no original).
+
+[[pagina 12 | nativo]]
+
+25. Tenha-se em mente, outrossim, que o seguro de responsabilidade civil
+
+se estrutura mediante o princípio do reembolso6, segundo o qual o dever indenizatório
+
+da seguradora exsurge apenas com o pagamento do débito, primariamente, pelo
+
+segurado, ao terceiro. Não existindo, portanto, vínculo direto (ou solidário) de
+
+responsabilidade da seguradora com o terceiro, não pode haver equiparação desse
+
+sujeito externo à figura de consumidor, para quaisquer fins.
+
+26. Verifica-se, de plano, a incorreção do legislador estadual ao tratar como
+
+norma de consumo a extensão do direito de livre escolha às oficinas mecânicas e
+
+reparadoras para fins de cobertura de danos ao veículo dos terceiros, como se fossem
+
+segurados.
+
+27. Conforme o disposto no artigo 2º da Lei nº 8.078/1990 (CDC), “o
+
+consumidor é toda pessoa física ou jurídica que adquire ou utiliza produto ou serviço
+
+como destinatário final”. Ainda, “equipara-se a consumidor a coletividade de pessoas,
+
+ainda que indetermináveis, que haja intervindo nas relações de consumo”, na forma
+
+do seu parágrafo único. Assim, a figura do terceiro envolvido no acidente não se
+
+equipara à de consumidor, o que se comprova pela vedação ao ingresso em juízo,
+
+única e diretamente, contra a seguradora para o pleito de reparação de danos que lhe
+
+foram causados, nos termos da Súmula 529 do Superior Tribunal de Justiça ("STJ").
+
+28. A similitude técnico-jurídica entre o contrato de seguro (em seus mais
+
+variados ramos) e o plano de saúde revela-se manifesta. Por isso, ambos deverão ter
+
+as matérias regulamentadas pelo mesmo ente federativo (a UNIÃO, no caso).
+
+Confiram-se, nesse sentido, as pertinentes considerações apresentadas pela doutrina
+
+de FERNANDO SCAFF:
+
+“Ao lado da figura dos seguros-saúde, coloca-se, em nosso ordenamento
+jurídico, outra forma de contratação que visa à consecução de objetivos
+semelhantes, que é aquela dos assim denominados planos de saúde.
+
+6 Circular SUSEP 437/12, art. 5º: “No Seguro de Responsabilidade Civil, a Sociedade Seguradora
+garante ao Segurado, quando responsabilizado por danos causados a terceiros, o reembolso das
+indenizações que for obrigado a pagar, a título de reparação, por sentença judicial transitada em
+julgado, ou por acordo com os terceiros prejudicados, com a anuência da Sociedade Seguradora,
+desde que atendidas as disposições do contrato.”
+§1º: “Ao invés de reembolsar o Segurado, a Seguradora poderá oferecer a possibilidade de pagamento
+direto ao terceiro prejudicado.”
+
+[[pagina 13 | nativo]]
+
+Com a celebração dessa modalidade de contratos, o consumidor, mediante o
+pagamento antecipado e periódico de um determinado preço, obtém de uma
+empresa a contraprestação consistente na realização de determinados
+tratamentos e atendimentos médicos, hospitalares e laboratoriais, a serem
+realizados por seus prepostos.
+
+A distinção mais marcante entre essa modalidade de contrato e aquela do
+seguro é, portanto, que em vez do reembolso de serviços a ser prestado por
+terceiros, a própria empresa de planos de saúde assumirá, por ela
+credenciados e que com ela mantêm vínculos duradouros e efetivos, a
+obrigação de prestar os serviços necessários e pretendidos pelo consumidor.
+
+Contudo, na prática há uma enorme aproximação entre tais modalidades de
+contratos, uma vez que é usual que as empresas de seguro-saúde indiquem,
+normalmente, uma lista de médicos, hospitais e laboratórios que a ela estão
+vinculados de modo permanente – e com os quais consegue preestabelecer
+custos e remunerações – e os quais remunera diretamente pelos serviços
+prestados diretamente, sem que ocorra o suposto reembolso dos segurados
+por pagamentos inicialmente feitos aos prestadores de serviços, agindo de
+modo análogo, neste ponto, ao que realizam as empresas de planos de saúde.
+
+
+Inclusive, essa proximidade entre as duas modalidades de contratos foi, de
+certa forma, reconhecida nos próprios termos da atual lei brasileira, em que
+ambos os tipos de empresas – seguradoras e de planos de saúde – foram tidas
+como operadoras, indistintamente.”7
+
+29. Nesse sentido, o entendimento adotado por esse e. Supremo Tribunal
+
+Federal na ADI nº 4.701/PE8 preleciona que os planos de saúde seguem a mesma
+
+lógica dos seguros.9 Portanto, a competência para legislar sobre estes planos recai
+
+da mesma forma na previsão contida no artigo 22, VII da Carta Magna, o qual
+
+estabelece a competência privativa da União Federal para legislar sobre seguros.
+
+Abaixo o entendimento prolatado pelo Plenário no bojo da sobredita Ação Direta de
+
+Inconstitucionalidade em votação unânime:
+
+7 SCAFF, FERNANDO CAMPOS; “Direito à saúde no âmbito privado – Contratos de adesão, planos de
+saúde e seguro-saúde”; São Paulo: Saraiva, 2010; pg. 50/51
+8 ADI nº 4.701/PE, Rel. Min. LUIS ROBERTO BARROSO. Plenário. DJ 25.08.2014.
+
+9 “Os planos de saúde, mesmo que se considerem diferentes do contrato de seguro, são muito próximos
+a eles e funcionam de modo semelhante. Uma empresa que ofereça planos de saúde é uma
+organização que constitui um fundo comum cuja distribuição se faz por meio de contratos
+individualizados ou por meio de grupos constituídos. Logo, o que está em jogo em primeiro lugar é a
+constituição destes fundos e sua distribuição. Ao contrário de uma empresa comercial comum, a
+empresa de saúde não oferece à venda mercadorias a um público que tem com ela relações episódicas.
+As relações não one shot, como diz de modo feliz a expressão inglesa” (LOPES, JOSÉ REINALDO DE
+LIMA; “Consumidores de seguros e planos de saúde” in: “Saúde e responsabilidade: seguros e planos
+de assistência privada à saúde”; São Paulo: Revista dos Tribunais, 1999; pg. 31)
+
+[[pagina 14 | nativo]]
+
+“por mais ampla que seja, a competência legislativa concorrente em matéria de
+defesa do consumidor (CF/88, art. 24, V e VIII) não autoriza os Estados-
+membros a editarem normas acerca de relações contratuais, uma vez que essa
+atribuição está inserida na competência da União Federal para legislar sobre
+direito civil (CF/88, art. 22, I). (...) Os arts. 22, VII e 21, VIII, da Constituição
+Federal atribuem à União competência para legislar sobre seguros e fiscalizar
+as operações relacionadas a essa matéria. Tais previsões alcançam os planos
+de saúde, tendo em vista a sua íntima afinidade com a lógica dos contratos de
+seguro, notadamente por conta do componente atuarial”.
+
+30. Enxerga-se, de forma cristalina, a indevida turbação do CDC
+
+pernambucano na esfera de competências da UNIÃO para legislar sobre seguros e
+
+planos de saúde, sem qualquer base constitucional a legitimar a promulgação de tais
+
+normas. Abaixo excertos de decisões proferidas por esse e. Supremo Tribunal Federal
+
+em acertado entendimento sobre a matéria:
+
+"CONSTITUCIONAL. LEI ESTADUAL QUE ESTABELECE UNIVERSALIDADE
+DA COBERTURA POR EMPRESAS PRIVADAS NOS CONTRATOS DE
+SEGURO SAÚDE. COMPETÊNCIA DA UNIÃO PARA LEGISLAR SOBRE
+DIREITO CIVIL E COMERCIAL. ART. 22, I , DA CF. IMPOSSIBILIDADE EM
+FACE DO NEGÓCIO JURÍDICO SINALAGMÁTICO. LIMINAR DEFERIDA."
+(ADI nº 1.595-8/SP, Rel. Min. Nelson Jobim, Plenário, m.v, DJ 19.12.2002).
+"Ação direta de inconstitucionalidade. 2. Lei estadual que regula obrigações
+relativas a serviços de assistência médico-hospitalar regidos por contratos de
+natureza privada, universalizando a cobertura de doenças (Lei nº 11.446/1997,
+do Estado de Pernambuco). 3. Vício formal. 4. Competência privativa da União
+para legislar sobre direito civil, comercial e sobre política de seguros (CF, art.
+22, I e VII). 5. Precedente: ADI nº 1.595-MC/SP, Rel. Min. Nelson Jobim, DJ de
+19.12.2002, Pleno, maioria. 6. Ação direta de inconstitucionalidade julgada
+procedente." (ADI nº 1.646/PE, Rel. Min. Gilmar Mendes, Plenário, m.v,
+julgamento em 02.08.2016)
+"AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL QUE FIXA
+PRAZOS MÁXIMOS, SEGUNDO A FAIXA ETÁRIA DOS USUÁRIOS, PARA A
+AUTORIZAÇÃO DE EXAMES PELAS OPERADORAS DE PLANOS DE
+SAÚDE. 1. Encontra-se caracterizado o direito de propositura. Os associados
+da requerente estão unidos pela comunhão de interesses em relação a um
+objeto específico (prestação do serviço de assistência suplementar à saúde na
+modalidade autogestão). Esse elemento caracteriza a unidade de propósito na
+representação associativa, afastando a excessiva generalidade que, segundo
+esta Corte, impediria o conhecimento da ação. 2. Por mais ampla que seja, a
+competência legislativa concorrente em matéria de defesa do consumidor
+(CF/88, art. 24, V e VIII) não autoriza os Estados-membros a editarem normas
+acerca de relações contratuais, uma vez que essa atribuição está inserida na
+competência da União Federal para legislar sobre direito civil (CF/88, art. 22,
+I). 3. Os arts. 22, VII e 21, VIII, da Constituição Federal atribuem à União
+competência para legislar sobre seguros e fiscalizar as operações relacionadas
+a essa matéria. Tais previsões alcançam os planos de saúde, tendo em vista a
+sua íntima afinidade com a lógica dos contratos de seguro, notadamente por
+conta do componente atuarial. 4. Procedência do pedido." (ADI nº 4.701/PE,
+Rel. Min. LUÍS ROBERTO BARROSO, Plenário, julgamento em 13.08.2014)
+
+[[pagina 15 | nativo]]
+
+31. As seguradoras e as operadoras de planos de saúde são empresas
+
+privadas que operam por contratos de natureza igualmente privada. Dessa forma, as
+
+previsões normativas atacadas, por veicularem obrigações para as seguradoras e
+
+operadoras, invadem a relação obrigacional estabelecida entre essas e seus
+
+contratantes, de modo que também ofendem a competência da UNIÃO para legislar
+
+sobre direito civil,10 prevista no artigo 22, I da CRFB/1988.
+
+32. De forma a corroborar o pacífico entendimento do STF, a Procuradoria-
+
+Geral da República manifestou-se na ADI nº 5.984/PR ajuizada também pela
+
+REQUERENTE em face da Lei nº 19.429/2018 do Estado do Paraná da seguinte forma:
+
+"AÇÃO DIRETA DE INCONSTITUCIONALIDADE. REPARTIÇÃO DE
+COMPETÊNCIA LEGISLATIVA. LEI 19.429/2008 DO ESTADO DO PARANÁ.
+ADEQUAÇÃO DE TABELA DE HONORÁRIOS DE CIRURGIÃO-DENTISTA
+POR PLANOS DE ASSISTÊNCIA ODONTOLÓGICA. MATÉRIA RELATIVA A
+DIREITO CIVIL E SEGUROS. COMPETÊNCIA LEGISLATIVA PRIVATIVA DA
+UNIÃO.
+1. O Supremo Tribunal Federal firmou jurisprudência no sentido de que lei
+estadual ou distrital que trate de relação de consumo não pode validamente
+dispor sobre direito civil ou seguro, por se tratar de matérias inseridas na
+competência legislativa privativa da União (CF, art. 22-I e VII). Precedentes.
+2. A competência para legislar sobre seguros e fiscalizar as operações
+relacionadas a essa matéria (CF, art. 22-VII e 21-VIII) alcança os planos de
+saúde ou assistência odontológica, haja vista a afinidade com os contratos de
+seguro e seu componente atuarial. Precedente: ADI 4.701/PE, Rel. Min.
+Roberto Barroso, DJe 25.8.2014.
+3. É inconstitucional, por usurpação de competência legislativa da União, lei
+estadual que disponha sobre valores a serem pagos por operadoras de plano
+de assistência odontológica a cirurgiões-dentistas. A circunstância de a lei
+estadual gerar efeitos positivos aos consumidores não tem o efeito de deslocar
+a competência legislativa para os Estados-membros. – Parecer pela
+procedência do pedido." (grifo nosso)
+
+33. Ainda que assim não fosse, é certo que a Constituição Federal,
+
+10 “O Direito Civil lega ao direito de saúde suplementar toda a doutrina referente a pessoas jurídicas,
+atos e negócios jurídicos, obrigações e contratos.
+Isto porque a relação jurídica entre o operador de mercado e o consumidor nasce exatamente com a
+celebração de um contrato de direito privado específico, a saber, o contrato de plano ou seguro saúde.
+Observe-se que, no direito contratual de saúde suplementar, não há espaço para ampla autonomia de
+vontades, sendo esta mitigada pelos requisitos legais mínimos estipulados em lei, que cuidam de
+garantir que o plano ou seguro de saúde cumpra sua função social.
+Outrossim, a comercialização dos referidos contratos sujeita-se à prévia aprovação e chancela do
+Poder Público, sem a qual não podem ser ofertados aos consumidores” (FIGUEIREDO, LEONARDO
+VIZEU; Curso de Direito de Saúde Suplementar – Manual Jurídico de Planos e Seguros de Saúde, 2ª
+edição; Rio de Janeiro: Forense, 2012; pg. 28)
+
+[[pagina 16 | nativo]]
+
+especificamente sobre a saúde suplementar – a alcançar, por exemplo, as operadoras
+
+de plano de saúde que (a) possuem rede própria (constituindo-se sob a forma de
+
+medicina de grupo), prestando, de forma direta, serviços de natureza médico-
+
+hospitalares; ou (b) comercializam planos de saúde pós-pagamento (afigurando-se
+
+operadoras de plano de saúde stricto sensu) –, assegura a competência privativa da
+
+União Federal para legislar sobre seguridade social (CRFB/1988, art. 22, XXIII), o que,
+
+nos termos do artigo 194 da CRFB/1988, compreende “um conjunto integrado de
+
+ações de iniciativa dos Poderes Públicos e da sociedade, destinadas a assegurar os
+
+direitos relativos à saúde, à previdência e à assistência social” .11
+
+34. Por sua vez, o artigo 199 da Constituição Federal é peremptório ao
+
+consignar que a assistência à saúde é livre à iniciativa privada, de modo que “[a]s
+
+instituições privadas poderão participar de forma complementar do sistema único de
+
+saúde, segundo diretrizes deste, mediante contrato de direito público ou convênio,
+
+tendo preferência as entidades filantrópicas e as sem fins lucrativos” (CRFB/1988, art.
+
+199, §1º).
+
+35. Nas palavras do ilustre Ministro MARCO AURÉLIO MELLO, “[a]
+
+concentração da competência para legislar sobre os contratos de seguro-saúde na
+
+União Federal, consoante a jurisprudência assentada do Supremo, é importante
+
+porque restringe a matéria a uma só fonte normativa, incrementando a segurança
+
+jurídica”12. É certo, portanto, que compete à União, de forma exclusiva, nos termos
+
+do art. 22, XXIII, da CRFB/1988, legislar sobre normas relacionadas à saúde
+
+suplementar.
+
+11 Recorra-se, mais uma vez, a precisa lição de Leonardo Vizeu: “[o] direito constitucional rege o direito
+de saúde suplementar no tocante aos princípios norteadores da ordem econômica e social, em especial
+às previsões contidas nos arts. 170, 174, 196, 197 e 199, todos da Constituição da República Federativa
+do Brasil. Perfazendo-se um exercício de interpretação sistemática dos artigos acima, sua exegese nos
+remete que a saúde é direito de todos e dever do Estado, cuja exploração é igualmente garantida ao
+particular, competindo ao Poder Público normatizar, regular, fiscalizar e controlar todas as ações e
+iniciativas de saúde, inclusive quando prestadas pela iniciativa privada, a fim de promover a defesa e
+realização do bem comum” (FIGUEIREDO, LEONARDO VIZEU; Curso de Direito de Saúde Suplementar
+– Manual Jurídico de Planos e Seguros de Saúde, 2ª edição; Rio de Janeiro: Forense, 2012; pg. 28)
+
+12 MELLO, MARCO AURÉLIO; Saúde suplementar, segurança jurídica e equilíbrio econômico-financeiro”
+In: “Planos de saúde – Aspectos jurídicos e econômicos, organizado e coordenado por Luiz Augusto
+Ferreira Carneiro; Rio de Janeiro: Forense, 2012; pg. 9
+
+[[pagina 17 | nativo]]
+
+36. A doutrina do constitucionalista JOSÉ AFONSO DA SILVA13 explica que,
+
+como consectário do modelo de federalismo adotado pelo Brasil, o princípio da
+
+predominância de interesses define a repartição de competências legislativas entre os
+
+diferentes níveis da federação a depender da predominância de interesses naquela
+
+matéria. À UNIÃO FEDERAL competem as matérias de interesse geral e nacional, aos
+
+Estados as de interesse regional e aos Municípios as de interesse local.
+
+37. Atesta-se que a Constituição Federal designou a competência privativa
+
+à UNIÃO FEDERAL para legislar sobre direito civil, seguros e seguridade social tendo
+
+em vista a necessidade de se conferir uma regulamentação uníssona a tais temas em
+
+todo o território nacional, evitando a quebra de uniformidade que adviria da repartição
+
+dessa competência legislativa com os estados e municípios brasileiros.
+
+38. Esse e. Supremo Tribunal Federal proferiu decisão unânime em abril de
+
+2018 no bojo da ADI nº 3.207/PE14 na qual reconheceu que as regras de distribuição
+
+de competências legislativas são alicerces do federalismo e consagram a fórmula de
+
+divisão de centros de poder em um Estado de Direito. Assim, a Constituição Federal
+
+de 1988, presumindo de forma absoluta para algumas matérias a presença do
+
+princípio da predominância do interesse, estabeleceu, a priori, diversas competências
+
+para cada um dos entes federativos – União, Estados-Membros, Distrito Federal e
+
+Municípios – e, a partir dessas opções, pode ora acentuar maior centralização de
+
+poder, principalmente na própria União (CRFB/1988, art. 22), ora permitir uma maior
+
+descentralização nos Estados-Membros e nos Municípios (CRFB/1988, art. 24 c/c art.
+
+30, I).
+
+39. Por essa razão, julgou inconstitucional a Lei nº 12.562/2004 do Estado
+
+de Pernambuco por interferir nas relações atinentes aos contratos de seguros,
+
+inobservando o artigo 22, I e VII da CRFB/1988.15
+
+13 DA SILVA, JOSÉ AFONSO. Curso de direito constitucional positivo. 28ª ed., São Paulo: Malheiros,
+2007, p.478.
+14 ADI 3.207/PE, Rel. Min. ALEXANDRE DE MORAES. Plenário. julgamento em 12.04.2018.
+15 No mesmo sentido: LEIS 10.927/91 E 11.262 DO MUNICÍPIO DE SÃO PAULO. SEGURO
+OBRIGATÓRIO CONTRA FURTO E ROUBA DE AUTOMÓVEIS. SHOPPING CENTERS, LOJAS DE
+DEPARTAMENTO, SUPERMERCADOS E EMPRESAS COM ESTAIONAMENTO PARA MAIS DE
+CINQUENTA VEÍCULOS. INCONSTITUCIONALIDADE. 1 O Município de São Paulo, ao editar as Leis
+10.927/91 e 11.362/93 que instituíram a obrigatoriedade, no âmbito daquele Município, de cobertura de
+
+[[pagina 18 | nativo]]
+
+40. Nesse diapasão, observe-se que o legislador constituinte foi além para
+
+tentar evitar a falta de uniformidade na regulação nacional do mercado de seguros,
+
+adentrando na esfera tributária e elegendo a UNIÃO FEDERAL como único ente federado
+
+competente para instituir impostos sobre “operações de crédito, câmbio e seguro, ou
+
+relativas a títulos ou valores mobiliários”, na forma do artigo 155, V, segundo o voto
+
+do e. Ministro SIDNEY SANCHES na ADI nº 1332-7/RJ:
+
+“Por esta razão o Legislador Constituinte teve por fim atribuir uma regulação
+nacionalmente uniforme da matéria e impedir que a cobrança de tributos
+estaduais (sob alíquotas mais altas em um Estado, mais altas em outras com
+isenção em um terceiro Estado) interfira indireta mais efetivamente na
+uniformidade da regulação nacional do crédito do câmbio do seguro,
+acarretando a insolvência de bancos, operadores de câmbio e seguradoras e
+arrastando muitos agentes econômicos e outras pessoas com eles.”16
+
+41. É bem verdade que, na tentativa de disfarçar a nítida usurpação de
+
+competência legislativa da UNIÃO, a Lei nº 16.559 do Estado de Pernambuco se valeu,
+
+em diversos dispositivos relacionados a questões eminentemente securitárias, do
+
+termo “consumidor”, quando claramente se refere ao “segurado” ou ao “beneficiário”
+
+do plano ou do seguro saúde, esforçando-se para transparecer a ideia de que estaria
+
+legislando apenas sobre questões ligadas às relações de consumo.
+
+42. A simples alteração de nomenclaturas não basta, porém, para mascarar
+
+o inequívoco conteúdo da lei. Uma breve leitura dos comandos contidos nos atos
+
+normativos impugnados revela a imposição, às seguradoras e operadoras, de
+
+obrigações inconstitucionais no âmbito dos planos e contratos de seguro saúde e de
+
+automóveis, algumas sem nenhuma previsão na legislação federal, e outras
+
+flagrantemente contrárias ao estabelecido pelos órgãos federais competentes.
+
+seguro contra furto e roubo de automóveis, para as empresas que operam área ou local destinados a
+estacionamentos, com número de vagas superior a cinquenta veículos, ou que deles disponham,
+invadiu a competência para legislar sobre seguros, que é privativa de União como dispõe o art. 22, VII,
+da Constituição Federal. 2. A competência constitucional dos Municípios de legislar sobre interesse
+local não tem o alcance de estabelecer normas que a própria Constituição, na repartição das
+competências, atribui à União ou aos Estados. O legislador constituinte, em matéria de legislação sobre
+seguros, sequer conferiu competência comum ou concorrente aos Estados ou aos Municípios. 3.
+Recurso provido.” (RE nº 313060, Rel. Min. ELLEN GRACIE, Tribunal Pleno, j. 29.11.05)
+
+16 ADI nº 1332-7/RJ, Rel. Min. Sydney Sanches, Plenário, DJ 06.12.1995.
+
+[[pagina 19 | nativo]]
+
+43. Apenas a título de argumentação, ainda que se tratasse de competência
+
+concorrente – hipótese sobre a qual se baseou equivocadamente a promulgação do
+
+Código de Defesa dos Consumidores de Pernambuco – a existência de legislação
+
+federal sobre a matéria não admitiria no ordenamento jurídico normas estaduais em
+
+caráter contrário. Assim, outro relevante tópico a ser explorado é se a manutenção
+
+dos dispositivos legais impugnados no ordenamento colidiria com as diretrizes
+
+nacionais vigentes sobre a política de seguros.
+
+44. A análise aos artigos 133 a 139 da Lei nº 16.559/2019 de Pernambuco
+
+induz à conclusão de que existem regras prévias, da âmbito federal, a ocupar todo o
+
+campo normativo sobre o qual a lei pernambucana se imiscuiu. A inequívoca
+
+competência da ANS para editar normas de regulamentação do setor de saúde
+
+suplementar encontra-se estabelecida na Lei nº 9.961/2000 e no artigo 1º, §1º da Lei
+
+nº 9.656/1998.
+
+45. A previsão sobre o dever de notificação prévia e individualizada do
+
+consumidor/usuário em caso de descredenciamento de hospitais, clínicas,
+
+laboratórios, médicos e assemelhados no prazo mínimo de 24 (vinte e quatro) horas
+
+anteriores ao descredenciamento contraria o disposto no artigo 17 da Lei nº
+
+9.656/1998, com a redação dada pela Lei nº 13.003/2014, cujo prazo para notificação
+
+prévia é de 30 (trinta) dias, o qual é mais benéfico ao usuário dos planos privados de
+
+assistência à saúde.
+
+46. Quanto aos prazos para autorização prévia de procedimentos e exames
+
+médicos estabelecida no artigo 136 da lei pernambucana, a Resolução Normativa nº
+
+259/2011 da Agência Nacional de Saúde Suplementar ("ANS") dispõe de forma
+
+distinta acerca dos prazos17.
+
+47. No tocante ao recebimento da negativa de autorização para a realização
+
+de procedimento por profissional de saúde habilitado, seja ele credenciado ou não, a
+
+Resolução ANS nº 395/2016 já regulamenta a matéria estabelecendo o prazo de 24
+
+(vinte e quatro) horas para o recebimento pelo beneficiário por escrito da justificativa
+
+17 Exceto a previsão de autorização imediata de procedimentos e exames de emergência e urgência.
+
+[[pagina 20 | nativo]]
+
+da negativa, enquanto o artigo 138 do Código de Defesa dos Consumidores de
+
+Pernambuco exige a entrega imediata por escrito desta declaração,
+
+independentemente de solicitação.
+
+48. O artigo 33 da Lei 9.656/1998 dispõe sobre a proibição de majoração de
+
+honorários médicos por mudança de acomodação hospitalar. O mesmo ocorre, ainda,
+
+quanto à proibição de cobrança de caução, em caso de emergência ou urgência, para
+
+internação em serviço de saúde, que já havia sido vedada pela RN 44/03 da ANS.
+
+49. No que se refere aos artigos 143 a 145 da Lei nº 16.559/2019,
+
+relacionados ao direito de livre escolha das oficinas de automóveis, constata-se que
+
+a matéria já foi objeto de regulamentação federal por meio da Circular SUSEP nº
+
+269/04, cujo artigo 14 do Capítulo I estabelece que "[d]everá ser prevista
+
+contratualmente a livre escolha de oficinas pelos segurados, para a recuperação de
+
+veículos sinistrados".
+
+50. A competência da Superintendência de Seguros Privados ("SUSEP") de
+
+executora da política traçada pelo Conselho Nacional de Seguros Privados ("CNSP")
+
+e órgão fiscalizador da constituição, organização, funcionamento e operações das
+
+Sociedades Seguradoras foi estabelecida no Decreto-Lei nº 73/66, recepcionado
+
+como Lei Complementar nos termos do artigo 192 da Constituição Federal sobre o
+
+Sistema Financeiro Nacional. O seu rol de competências abarca a normatização das
+
+operações de seguro, na forma do artigo 36, "b" do Decreto-Lei.
+
+51. Veja-se que, ao garantir a livre escolha das oficinas aos segurados do
+
+Estado de Pernambuco – sem qualquer limite ou critério técnico –, as normas
+
+impugnadas acabaram por desconsiderar a lógica do referenciamento das oficinas –
+
+baseada no conceito de valor estritamente necessário à reposição do interesse
+
+legítimo garantido –, que, além de assegurar a boa administração do fundo comum,
+
+permite que os recursos sacados para indenizar os segurados sejam utilizados com
+
+boa técnica e eficiência.
+
+52. Ressalta-se que diversas são as contradições entre os artigos do CDC
+
+de Pernambuco prestes a entrar em vigor e a Circular SUSEP nº 269/2004, a saber:
+
+[[pagina 21 | nativo]]
+
+(i) a norma federal não veda às seguradoras estabelecer prazos e condições
+
+diferenciadas caso o serviço de reparo seja realizado por oficina não-credenciada; (ii)
+
+a aplicação de sanções às seguradoras caberia a órgão do Poder Executivo Estadual
+
+a despeito de tratar-se de atribuição da SUSEP como entidade reguladora do mercado
+
+segurador; e (iii) a lei estadual amplia o direito de livre escolha ao terceiro envolvido
+
+no sinistro a ser ressarcido pela seguradora, em manifesta incongruência com a
+
+normatização federal existente.
+
+53. Percebe-se, então, que o CDC pernambucano provoca um ônus
+
+financeiro significativo aos segurados de Pernambuco, que, em virtude da disfunção
+
+operacional e jurídica instaurada pelo regramento inconstitucional, terão que arcar
+
+com prêmios mais onerosos para assegurar o equilíbrio atuarial da carteira do Estado
+
+de Pernambuco dos seguros de automóvel, de saúde e dos planos de saúde.
+
+54. Em síntese, a pretexto de proteger o segurado pernambucano, a lei
+
+acaba não apenas por desprotegê-lo, como, ainda, por desproteger todos os demais
+
+segurados brasileiros (na medida em que esses segurados, para que se evite severa
+
+seleção adversa aos segurados do Estado de Pernambuco, terão que se solidarizar
+
+com parcela desse incremento de tarifa em seus próprios seguros). Daí porque não
+
+se pode admitir que a lei atacada se insira dentro da competência legislativa
+
+concorrente do Estado de Pernambuco, porquanto suas normas colidem com a
+
+política nacional de seguros e desrespeitam os interesses da coletividade.
+
+55. Não à toa, em recentíssima sessão realizada no último dia 21.03.19, o
+
+Plenário do Supremo Tribunal Federal declarou, no julgamento da ADI nº 4704, de
+
+relatoria do Min. LUIZ FUX, a inconstitucionalidade dos artigos constantes da Lei nº
+
+15.171/2010, do Estado de Santa Catarina, que estabeleciam obrigações às
+
+seguradoras de veículo similares àquelas ora impugnadas – dentre as quais, inclui-se
+
+a de arcar com reparos de veículos sinistrados não só em oficinas credenciadas ou
+
+referenciadas, mas em qualquer outra apontada pelo segurado ou terceiro
+
+prejudicado. Como não poderia deixar de ser, o entendimento do colegiado foi de que
+
+as normas impugnadas invadiram a competência privativa da UNIÃO para legislar
+
+sobre direito civil, seguros, trânsito e transporte.
+
+[[pagina 22 | nativo]]
+
+56. Dessa forma, resta configurada a inconstitucionalidade formal dos
+
+artigos 20, §3º e inciso VII, 105 a 109, 133 a 139 e 143 a 145 da Lei nº 16.559/2019
+
+em virtude da invasão à competência privativa da UNIÃO, em clara violação aos
+
+objetivos delineados pelo legislador constituinte.
+
+II – INCONSTITUCIONALIDADE MATERIAL DOS ARTIGOS 20, §3º E INCISO VII, 107 A 109, 133
+
+A 139 E 143 A 145 DA LEI Nº 16.559/2019 DE PERNAMBUCO
+
+a) VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA (ARTIGO 5º, CAPUT, DA CRFB/88)
+
+57. Faz-se mister ressaltar que o princípio da igualdade foi definido na
+
+Constituição de 1988 como um dos direitos fundamentais que norteiam a República
+
+Federativa do Brasil, com a roupagem, inclusive, de cláusula pétrea conforme o
+
+disposto no artigo 60, §4º, IV em razão da importância atribuída a tal princípio no
+
+Estado Democrático de Direito.
+
+58. Nesse sentido, o princípio da igualdade surge como um norte para limitar
+
+a atuação do legislador, do intérprete da norma jurídica e do particular.
+
+Especificamente quanto à figura do legislador, este não poderá criar normas
+
+veiculadoras de desequiparações abusivas, ilícitas, arbitrárias e contrárias à
+
+manifestação do constituinte de primeiro grau18.
+
+59. Para HUMBERTO ÁVILA, "A igualdade pode funcionar como regra,
+
+prevendo a proibição de tratamento discriminatórios; como princípio, instituindo um
+
+estado igualitário como fim a ser promovido; e como postulado, estruturando a
+
+aplicação do Direito em função de elementos (critério de diferenciação e finalidade da
+
+distinção) e da relação entre eles (congruência do critério em razão do fim)".19
+
+60. Assim sendo, a introdução no ordenamento jurídico de uma norma legal
+
+que institui disparidade nas obrigações impostas às seguradoras e operadoras de
+
+planos de saúde, tendo como único critério para o discrímen o aspecto territorial,
+
+18 BULOS, UADI LAMMEGO. Constituição Federal anotada. São Paulo: Saraiva, 2002.pp. 77-78.
+19 ÁVILA, HUMBERTO. Teoria dos Princípios - da definição à aplicação dos princípios jurídicos. 11ª ed.
+São Paulo: Malheiros, 2010. p. 152.
+
+[[pagina 23 | nativo]]
+
+constitui manifesta violação ao princípio sob análise.
+
+a.1) SEGURO E PLANO DE SAÚDE
+
+61. O Estado de Pernambuco, através da edição do CDC pernambucano,
+
+incrementa desmedidamente os custos das atividades prestadas pelas seguradoras
+
+e operadoras de saúde que lá comercializam contratos. Por outro lado, não possui
+
+competência para reajustar o valor das mensalidades cobradas nos planos de saúde
+
+ofertados, o que acarreta na quebra do equilíbrio econômico-financeiro existente na
+
+relação entre as operadoras e os usuários/beneficiários dos seguros e planos de
+
+saúde.
+
+62. A situação aqui se mostra extremamente iníqua: a lei estadual introduz
+
+diversos ônus que repercutem diretamente nas operadoras que comercializam planos
+
+e seguros de saúde no Estado de Pernambuco, mas, por outro lado, não salvaguarda
+
+nenhuma medida ou meio de readequação às bases desses contratos, que decerto
+
+ficarão desequilibrados ante as novas exigências. O sentimento de injustiça aumenta
+
+quando se compreende que, quanto mais a operadora concentra as atividades e
+
+prestigia o consumidor pernambucano, mais ela será atingida em sua saúde financeira
+
+pelo impacto local da aplicação do CDC.
+
+63. Nesse sentido, a Lei nº 9.961/2000, conferindo poder regulamentar à
+
+ANS, prevê que é ela a responsável por definir os reajustes anuais a serem aplicados
+
+nas mensalidades cobradas pelas operadoras de plano saúde, sempre com alcance
+
+em todo o território nacional (art. 4º, XVII).20
+
+64. No caso, se a ANS, de forma a compensar os prejuízos causados às
+
+operadoras por conta das obrigações assumidas com a nova lei estadual, decidisse
+
+reajustar os valores das mensalidades, o cenário se tornaria ainda mais
+
+desproporcional. Isso porque os valores são definidos para todo o país, e não apenas
+
+a uma região específica. Assim, as operadoras que possuem maior desempenho nos
+
+20 Art. 4o Compete à ANS:
+
+XVII - autorizar reajustes e revisões das contraprestações pecuniárias dos planos privados de
+assistência à saúde, ouvido o Ministério da Fazenda;
+.
+
+[[pagina 24 | nativo]]
+
+outros estados da Federação se beneficiariam dos reajustes, que, originalmente,
+
+visariam compensar os custos adicionais gerados às operadoras atuantes no estado
+
+de Pernambuco, em clara violação ao princípio da isonomia.
+
+65. Reconheça-se, outrossim, que a competência da ANS de editar normas
+
+para regulamentação do setor de saúde suplementar encontra-se estabelecida na Lei
+
+nº 9.961/2000 e no artigo 1º, §1º da Lei nº 9.656/1998, com aplicação uniforme e
+
+nacional a todas as operadoras de plano de saúde.
+
+66. Traga-se como exemplo a norma estabelecida no artigo 136 da Lei
+
+pernambucana, que determina prazos para autorização prévia de procedimentos e
+
+exames médicos. A Resolução Normativa nº 259/2011 da Agência Nacional de Saúde
+
+Suplementar ("ANS") dispõe de forma distinta acerca destes mesmos prazos 21.
+
+Destaca-se, de imediato, uma diferenciação não isonômica, entre a norma estadual e
+
+a regra federal, a gerar efeitos concretos entre os respectivos destinatários,
+
+distanciando-os injustificadamente.
+
+67. Veja-se, a respeito, que o inciso I do referido artigo 136 diferencia os
+
+beneficiários em virtude da faixa etária, de modo que as obrigações impostas às
+
+operadoras e seguradoras no que diz respeito à conclusão da análise de autorização
+
+prévia em prazo não superior a 24 horas “quando se tratar de paciente com 60
+
+(sessenta) anos de idade ou mais” 22 encontram-se umbilicalmente atreladas à
+
+proteção ao idoso, sobre cuja matéria a competência legislativa é inequivocamente da
+
+União.
+
+68. No tocante ao recebimento da negativa de autorização para a realização
+
+de procedimento por profissional de saúde habilitado, seja ele credenciado ou não, a
+
+Resolução ANS nº 395/2016 regulamenta a matéria estabelecendo o prazo de 24
+
+21 Exceto a previsão de autorização imediata de procedimentos e exames de emergência e urgência.
+22 Como se observa, a norma inviabiliza a variação da contraprestação pecuniária relativamente a
+consumidores com mais de 60 anos de idade. A medida não é despropositada. Trata-se de regra
+protetiva, alinhada aos postulados constitucionais, no que assegura tratamento digno a parcela
+vulnerável da população. O comando constitucional, inscrito no artigo 230, é linear e impõe a todos o
+dever de auxiliar os idosos:
+Art. 230. A família, a sociedade e o Estado têm o dever de amparar as pessoas idosas, assegurando
+sua participação na comunidade, defendendo sua dignidade e bem-estar e garantindo-lhes o direito à
+vida.
+
+[[pagina 25 | nativo]]
+
+(vinte e quatro) horas para o recebimento pelo beneficiário por escrito da justificativa
+
+da negativa, enquanto o artigo 138 do Código de Defesa dos Consumidores de
+
+Pernambuco exige a entrega imediata por escrito desta declaração,
+
+independentemente de solicitação.
+
+69. A regra que contempla o dever de notificação prévia e individualizada do
+
+beneficiário em caso de descredenciamento de hospitais, clínicas, laboratórios,
+
+médicos e assemelhados no prazo mínimo de 24 (vinte e quatro) horas anteriores ao
+
+descredenciamento contraria o disposto no artigo 17 da Lei nº 9.656/1998, com a
+
+redação dada pela Lei nº 13.003/2014. Na lei federal, o prazo para notificação prévia
+
+é de 30 (trinta) dias; portanto, mais benéfico ao usuário dos planos privados de
+
+assistência à saúde.
+
+70. Frise-se, ademais, que o artigo 33 da Lei 9.656/1998 já dispõe, inclusive,
+
+acerca da proibição de que os honorários médicos sejam majorados por mudança de
+
+acomodação hospitalar. O mesmo ocorre, ainda, quanto à proibição de cobrança de
+
+caução, em caso de emergência ou urgência, para internação em serviço de saúde,
+
+que já havia sido vedada pela RN 44/03 da ANS.
+
+71. Aliás, é exatamente esse o motivo da Constituição Federal atribuir
+
+competência exclusiva à UNIÃO para legislar sobre o assunto: evitar regramentos
+
+dissonantes entre os entes estatais. Nesse sentido, delegou à ANS, agência
+
+reguladora especializada, a alçada para a criação de normas sobre o tema. Assim
+
+dispõe a mais abalizada doutrina:
+
+“Conforme já exposto, a atividade de regulação de mercados econômicos
+estratégicos e de serviços de imperativa relevância coletiva envolve delegação
+de uma série de funções, dentre as quais se destacam a fiscalização, o controle
+e, na hipótese, a normatização.
+
+Em especial, o poder normativo delegado às agências reguladoras tem
+singularidade ímpar, uma vez que, além da clássica função de
+complementação da lei, possui certa margem de discricionariedade técnica,
+podendo ir além da mera regulamentação legal.
+
+Isto porque, na qualidade de ente da Administração Pública, a agência
+reguladora não se limita a ser um mero executor da lei, aplicando-a ex officio,
+consoante clássica lição de Miguel Seabra Fagundes, exercendo um papel de
+regulador de mercado, no sentido de corrigir suas falhas e garantir a
+
+[[pagina 26 | nativo]]
+
+coexistência harmoniosa e pacífica de todos os entes que o compõe (Estado,
+operadores e consumidores). A tal instituto, a doutrina alemã denomina
+deslegalização. Por sua vez, a doutrina francesa utiliza a expressão ‘delegação
+legal’, dadas as peculiaridades constitucionais de competências legislativas
+que são partilhadas entre Executivo e Legislativa. Em Portugal, é comum
+referir-se ao tema como degradação do grau hierárquico.
+
+Para tanto, ocorre verdadeira delegação legal, na própria lei instituidora da
+agência, transferindo a competência para normatização técnica de mercados
+do campo da lei para a seara dos atos administrativos infralegais, uma vez que
+tais matérias não são objeto de competência legislativa privativa do Congresso
+Nacional, tampouco de suas Casas Legislativas, não estando sob a égide da
+estrita reserva legal”23
+
+72. Portanto, ao estabelecer condições diversas daquelas que se
+
+relacionam à atividade das operadoras e seguradoras de saúde e, até mesmo, à
+
+prática do mercado, a lei impugnada fere sobremaneira os princípios da
+
+proporcionalidade e da isonomia, afetando não apenas os contratantes do Estado de
+
+Pernambuco, como também todos os outros espalhados pelo território nacional.
+
+a.2) SEGURO DE AUTOMÓVEL
+
+73. Em relação aos artigos 143 a 145 da lei impugnada, a disparidade de
+
+obrigações às seguradoras no território de Pernambuco, comparativamente ao
+
+restante do país, ocasionará desequilíbrio atuarial e, consequentemente, impactará
+
+de forma negativa os prêmios de seguros cobrados dos beneficiários que contratarem
+
+seguro de automóvel no referido Estado.
+
+74. Como dito, nos termos da lei impugnada, a seguradora deverá submeter
+
+o fundo mútuo aos desígnios dos segurados, permitindo que o fundo arque com os
+
+custos das oficinas por eles escolhidas, enquanto os indivíduos não segurados, por
+
+outro lado, poderão fazer uma análise de mercado e realizar os reparos nas oficinas
+
+em que verificarem um melhor custo-benefício.
+
+75. O fundo formado pelas contribuições dos segurados financiará a
+
+indenização da integralidade do conserto do veículo do segurado e do terceiro sem a
+
+obtenção de orçamentos comparativos, sem limite e sem critérios objetivos a
+
+23 FIGUEIREDO, LEONARDO VIZEU; “Curso de Direito de Saúde Suplementar – Manual Jurídico de
+Planos e Seguros de Saúde”, 2ª edição; Rio de Janeiro: Forense, 2012; pg. 70/71
+
+[[pagina 27 | nativo]]
+
+fundamentar a escolha apenas em solo pernambucano, enquanto nos demais estados
+
+da Federação não haverá impacto no valor das apólices de seguros celebrados, pois
+
+serão uniformemente regidos pela Circular SUSEP nº 269/04.
+
+76. Se o art. 144, §§ 1º, 2º e 5º e art. 145, do CDC pernambucano, de um
+
+lado, interferem na isonomia dos fundos mutuais, estabelecendo termos e condições
+
+adstritas às apólices celebradas no Estado de Pernambuco; de outro, facultam,
+
+apenas aos segurados de Pernambuco – em detrimento do regime de livre escolha
+
+utilizado por todos os demais segurados do país –, a escolha, sem qualquer critério
+
+ou limite, das oficinas para realização dos reparos em seus automóveis, distinguindo-
+
+os, inclusive, das condições de reparo de um acidente não garantido por apólice de
+
+seguro: enquanto nos acidentes cobertos pelo seguro o valor da recomposição é livre
+
+– segundo uma principiologia eivada de risco moral e violadora do princípio indenitário
+
+(Código Civil, art. 781) –, nos eventos sem seguro o agente causador do dano
+
+indenizará na justa medida do prejuízo (Código Civil, art. 944). Daí se vê que a lei
+
+impugnada viola também o subprincípio da proporcionalidade em sentido estrito, na
+
+medida em que traz mais malefícios do que benefícios aos segurados.
+
+77. Isso porque o agente causador do dano – caso seja segurado – e o
+
+terceiro serão granjeados com o pagamento integral do valor do conserto do veículo
+
+sem que seja feita qualquer análise de preços entre oficinas concorrentes, com a
+
+obtenção de orçamentos comparativos, o que sói acontecer em acidentes
+
+automobilísticos dessa natureza: o causador do dano (segurado ou não) tem o direito
+
+a ser preservado da eventual pretensão de enriquecimento sem causa do terceiro. O
+
+veículo automotor será recomposto de forma menos onerosa ao agente causador do
+
+dano; ou seja, pelo menor preço.
+
+78. Por óbvio, o resultado dessa dinâmica disfuncional impactará
+
+ruinosamente o fundo comum, que terá que arcar com os custos excessivos (e
+
+desnecessariamente) realizados pelos segurados e pelos terceiros do Estado de
+
+Pernambuco. Não há razão, por exemplo, para que o fundo comum arque com um
+
+conserto de veículo por R$ 15 mil reais, se pode fazê-lo – com o mesmo grau de
+
+segurança, qualidade e eficiência – por R$ 10 mil. A consequência econômica desse
+
+gasto desarrazoado é que os segurados terão que desfalcar o fundo comum em R$ 5
+
+[[pagina 28 | nativo]]
+
+mil, sem qualquer necessidade ou utilidade aparente, tornando-o, em curto espaço de
+
+tempo, deficitário.
+
+79. Com efeito, o sobrecusto decorrente dessa imposição inconstitucional
+
+será suportado pelos próprios segurados, já que estes são os responsáveis pela
+
+formação do fundo mútuo, e, naturalmente se verão compelidos a contratar apólices
+
+mais caras quando firmadas no Estado de Pernambuco. Daí já se percebe não se
+
+tratar de medida adequada à promoção do fim a qual se destina: a proteção do
+
+segurado.
+
+80. Também, sob esse ângulo, é evidente a violação ao subprincípio da
+
+necessidade, na medida em que a lei impugnada desconsidera a existência de
+
+medidas alternativas igualmente eficazes para a promoção dos interesses do
+
+segurado. Afinal, a lei inconstitucional, com o respeito devido, promove verdadeira
+
+farra com a verba comum do fundo mútuo. Determina que as indenizações sejam
+
+pagas, sem qualquer critério ou economicidade. Basta o exercício da livre escolha
+
+pelo segurado e (pior) pelo terceiro, que não faz parte da relação jurídica do seguro.
+
+Trata-se de uma deformidade que gerará, no plano econômico, desequilíbrio e, no
+
+plano jurídico, iniquidade.
+
+81. Como se vê, os dispositivos impugnados aplicáveis às operadoras de
+
+planos de saúde e seguradoras de saúde estabelecem obrigações em caráter distinto
+
+à regulamentação federal existente, de forma que o único critério para a distinção de
+
+tratamento pelo Estado a tais pessoas jurídicas será o da contratação do serviço pelo
+
+segurado, ainda mais se for levado em consideração que é nacional o âmbito de
+
+atuação da maioria das pessoas jurídicas desse setor.
+
+82. Esse fato, aliás, demonstra que a competência privativa da UNIÃO tem
+
+razão de ser e decorre da necessária observância ao princípio da isonomia entre os
+
+agentes de determinado segmento, assegurado pela Constituição Federal e
+
+desconsiderado pela Lei n° 16.559/2019, com o justo propósito de consolidar a
+
+unidade nacional, através do sistema unificado de medidas, sobretudo no que
+
+concerne às atividades, contratos e forma operacional das seguradoras e operadoras.
+
+[[pagina 29 | nativo]]
+
+83. Nesse contexto, além de tornar a gestão do fundo mútuo pela
+
+seguradora menos eficiente, isto é, mais custosa em um panorama geral – quando
+
+comparada a gestão por ela desempenhada até a edição da norma –, a lei impugnada
+
+acabou por estabelecer um modelo de negócio em que a reparação dos veículos pelas
+
+seguradoras, por exemplo, tornou-se mais onerosa do que a reparação dos veículos
+
+por indivíduos não segurados. O mesmo pode ser dito a respeito da prestação de
+
+cobertura assistencial pelas operadoras, que se tornou mais custosa e, portanto,
+
+ineficiente ao beneficiário.
+
+84. Por outro lado, é certo que a intervenção do Estado na atividade privada
+
+– dentre as quais se incluem as operadoras e seguradoras –, somente se justifica para
+
+assegurar a ordem econômica e social, o que, por óbvio, não é, nem de longe, a
+
+hipótese relativa à norma Pernambucana ora impugnada24.
+
+85. Por essa razão, não deve o julgador permitir a perpetuação no
+
+ordenamento jurídico da dita norma estadual, tendo em vista definir tratamento
+
+desigual entre iguais (seguradoras de automóveis, de saúde e operadoras de planos
+
+de saúde) apenas pelo critério territorial de atuação. Este foi o motivo pelo qual a
+
+Constituição Federal previu a competência privativa da UNIÃO FEDERAL para legislar
+
+sobre matérias de seguro e saúde suplementar, de modo a uniformizar a legislação.
+
+b) VIOLAÇÃO AO PRINCÍPIO DA LIVRE CONCORRÊNCIA (ARTIGO 170, CAPUT E INCISO
+
+IV E 173 DA CRFB/88)
+
+86. Além das violações acima apontadas, a Lei nº 16.559/2019, ao (a) impor
+
+uma série de obrigações às operadoras de plano de saúde que comercializam planos
+
+no Estado de Pernambuco (Lei nº 16.559/2019, arts. 107, 108, 135, 137 e 138); e (b)
+
+restringir as oficinas de automóveis passíveis de escolha do segurado apenas àquelas
+
+“legalmente constituída como pessoa jurídica, devidamente, com alvará de licença e
+
+funcionamento, inscrição definitiva como contribuinte estadual e/ou municipal, licença
+
+24 Observe-se que o processo de intervenção do Estado no mercado de suplementação privada dos
+serviços de saúde somente se justifica e encontra amparo jurídico para efetivar a observância dos
+princípios norteadores da ordem econômica e social, bem como os objetivos fundamentais da
+República” (FIGUEIREDO, LEONARDO VIZEU; Curso de Direito de Saúde Suplementar – Manual Jurídico
+de Planos e Seguros de Saúde, 2ª edição; Rio de Janeiro: Forense, 2012; pg. 28)
+
+[[pagina 30 | nativo]]
+
+ambiental e licença do corpo de bombeiros” (Lei nº 16.559/2019, art. 144, §3º), violou
+
+os princípios da livre iniciativa e concorrência, também consagrados pelo texto
+
+constitucional nos artigos 170, caput e inciso IV e 173, §4º.
+
+87. Note-se que a jurisprudência deste e. Supremo Tribunal Federal é
+
+uníssona no sentido de que “a intervenção estatal na economia como instrumento de
+
+regulação dos setores econômicos [...] deve ser exercida com respeito aos princípios
+
+e fundamentos da ordem econômica, cuja previsão resta plasmada no art. 170 da
+
+Constituição Federal, de modo a não malferir o princípio da livre iniciativa, um dos
+
+pilares da república (art. 1º da CF/1988).” Confira-se a ementa da decisão proferida
+
+no Recurso Extraordinário n. 648.622 AgR/DF, Relator Ministro LUIZ FUX, julgado em
+
+20.11.2012, verbis:
+
+ADMINISTRATIVO. INTERVENÇÃO DO ESTADO NO DOMÍNIO
+ECONÔMICO. RESPONSABILIDADE OBJETIVA DO ESTADO. FIXAÇÃO
+PELO PODER EXECUTIVO DOS PREÇOS DOS PRODUTOS DERIVADOS
+DA CANA-DE-AÇÚCAR ABAIXO DO PREÇO DE CUSTO. DANO MATERIAL.
+INDENIZAÇÃO CABÍVEL. 1. A intervenção estatal na economia como
+instrumento de regulação dos setores econômicos é consagrada pela Carta
+Magna de 1988. 2. Deveras, a intervenção deve ser exercida com respeito aos
+princípios e fundamentos da ordem econômica, cuja previsão resta plasmada
+no art. 170 da Constituição Federal, de modo a não malferir o princípio da livre
+iniciativa, um dos pilares da república (art. 1º da CF/1988). Nesse sentido,
+confira-se abalizada doutrina: As atividades econômicas surgem e se
+desenvolvem por força de suas próprias leis, decorrentes da livre empresa, da
+livre concorrência e do livre jogo dos mercados. Essa ordem, no entanto, pode
+ser quebrada ou distorcida em razão de monopólios, oligopólios, cartéis, trustes
+e outras deformações que caracterizam a concentração do poder econômico
+nas mãos de um ou de poucos. Essas deformações da ordem econômica
+acabam, de um lado, por aniquilar qualquer iniciativa, sufocar toda a
+concorrência e por dominar, em conseqüência, os mercados e, de outro, por
+desestimular a produção, a pesquisa e o aperfeiçoamento. Em suma, desafiam
+o próprio Estado, que se vê obrigado a intervir para proteger aqueles valores,
+consubstanciados nos regimes da livre empresa, da livre concorrência e do
+livre embate dos mercados, e para manter constante a compatibilização,
+característica da economia atual, da liberdade de iniciativa e do ganho ou lucro
+com o interesse social. A intervenção está, substancialmente, consagrada na
+Constituição Federal nos arts. 173 e 174. Nesse sentido ensina Duciran Van
+Marsen Farena (RPGE, 32:71) que "O instituto da intervenção, em todas suas
+modalidades encontra previsão abstrata nos artigos 173 e 174, da Lei Maior. O
+primeiro desses dispositivos permite ao Estado explorar diretamente a
+atividade econômica quando necessária aos imperativos da segurança
+nacional ou a relevante interesse coletivo, conforme definidos em lei. O
+segundo outorga ao Estado, como agente normativo e regulador da atividade
+econômica. o poder para exercer, na forma da lei as funções de fiscalização,
+incentivo e planejamento, sendo esse determinante para o setor público e
+indicativo para o privado". Pela intervenção o Estado, com o fito de assegurar
+
+[[pagina 31 | nativo]]
+
+a todos uma existência digna, de acordo com os ditames da justiça social (art.
+170 da CF), pode restringir, condicionar ou mesmo suprimir a iniciativa privada
+em certa área da atividade econômica. Não obstante, os atos e medidas que
+consubstanciam a intervenção hão de respeitar os princípios constitucionais
+que a conformam com o Estado Democrático de Direito, consignado
+expressamente em nossa Lei Maior, como é o princípio da livre iniciativa. Lúcia
+Valle Figueiredo, sempre precisa, alerta a esse respeito que "As balizas da
+intervenção serão, sempre e sempre, ditadas pela principiologia constitucional,
+pela declaração expressa dos fundamentos do Estado Democrático de Direito,
+dentre eles a cidadania, a dignidade da pessoa humana, os valores sociais do
+trabalho e da livre iniciativa" (DIÓGENES GASPARINI, in Curso de Direito
+Administrativo, 8ª Edição, Ed. Saraiva, págs. 629/630, cit., p. 64). 3. O Supremo
+Tribunal Federal firmou a orientação no sentido de que “a desobediência aos
+próprios termos da política econômica estadual desenvolvida, gerando danos
+patrimoniais aos agentes econômicos envolvidos, são fatores que acarretam
+insegurança e instabilidade, desfavoráveis à coletividade e, em última análise,
+ao próprio consumidor.” (RE 422.941, Rel. Min. CARLOS VELLOSO, 2ª Turma,
+DJ de 24/03/2006).”
+
+88. A bem da verdade, a Lei nº 16.559/2019 encontra-se em sentido
+
+diametralmente oposto à orientação constitucional, segundo a qual “lei reprimirá o
+
+abuso do poder econômico que vise à dominação dos mercados, à eliminação da
+
+concorrência e ao aumento arbitrário dos lucros” (artigo 173, §4º, da CF).
+
+b.1) SEGURO E PLANO DE SAÚDE
+
+89. A lei impugnada, ao impor diversas obrigações às operadoras de plano
+
+de saúde atuantes no Município de Pernambuco que oneram, em muito, o serviço
+
+prestado, limita a livre concorrência entre as próprias operadoras; seja em âmbito
+
+local, seja em âmbito nacional. Por óbvio, a operadora que possuir uma atuação maior
+
+no Município de Pernambuco certamente terá um custo de serviço significativamente
+
+superior àquelas que possuem uma carteira maior nas demais localidades do país e
+
+no próprio Estado de Pernambuco.
+
+90. A consequência do custo adicional gerado pela lei inconstitucional nos
+
+serviços prestados pelas operadoras de plano de saúde é uma só: o encarecimento
+
+de tais serviços, onerando, ao final, o próprio beneficiário, que se verá obrigado a
+
+financiar, de forma indireta, as novas obrigações das operadoras. Isso porque, tais
+
+relações contratuais cingem-se em um delicado equilíbrio econômico-financeiro entre
+
+as operadoras e beneficiários. Encarecer o serviço prestado, sem o consequente
+
+[[pagina 32 | nativo]]
+
+aumento na remuneração das prestadoras, inviabiliza a atividade.
+
+91. O equilíbrio financeiro das operadoras de plano de saúde avulta
+
+essencial e, portanto, protegido pela legislação federal, haja vista que as
+
+consequências causadas pela escassez de recursos das operadoras de plano de
+
+saúde podem ser desastrosas, acarretando, em alguns casos, até mesmo na abrupta
+
+cessação de cobertura assistencial. Assim dispõe o ilustre Min. MARCO AURÉLIO25:
+
+“O sistema da prestação de saúde suplementar, embora se fundamente no
+artigo 199 da Carta, está regulamentado na Lei nº 9.656/1998, de cunho
+federal, ainda em vigor. Segundo as regras previstas no marco legal do setor
+de saúde suplementar, a higidez financeira das operadoras de plano de saúde
+mostra-se fundamental. A razão é óbvia: como os contratos de seguro-saúde
+envolvem situações em que o indivíduo encontra-se fragilizado, porque
+convalescente, seria extremamente grave a impossibilidade de obter a
+cobertura médica previamente contratada por falta de recursos financeiros da
+operadora. Na vida cotidiana, normalmente, as pessoas contribuem por longos
+períodos até que façam uso do plano de saúde. Seria injusto que, após tal
+lapso, não pudessem gozar dos benefícios advindos dessa modalidade de
+seguro.
+
+Com efeito, nos termos do artigo 8º, inciso VI, da Lei nº 9.656/1998, um dos
+requisitos para autorizar as operadoras a funcionar é a viabilidade econômico-
+financeira dos respectivos planos de assistência à saúde. Sem isso, revela-se
+imprópria a citada autorização. A norma de ordem pública volta-se ao
+resguardo da coletividade, consoante assinalado anteriormente. Além disso, o
+§ 4º do artigo 9º da lei autoriza o órgão regulador – a Agência Nacional de
+Saúde Suplementar – a promover a suspensão de planos ou produtos caso se
+verifique o desequilíbrio econômico-financeiro.
+
+
+A higidez financeira dessas empresas está diretamente ligada ao conceito de
+equilíbrio econômico-financeiro dos contratos de seguro-saúde. A noção de
+seguro – um contrato aleatório – pressupõe o justo equilíbrio entre o prêmio
+pago pelos beneficiários e a taxa de verificação de sinistros. É um cálculo de
+cunho atuarial que ajuda a evitar o distanciamento entre eles, sendo certo que
+o volume de recursos arrecadados deve ser superior aos custos decorrentes
+do pagamento de serviços médicos, sob pena de inviabilidade econômica da
+operadora e do respectivo plano. Para tanto, faz-se necessário, de um lado,
+que o prêmio pago pelos beneficiários seja suficiente ao funcionamento do
+sistema e, de outro, no caso das operadoras que exploram tal objeto de modo
+lucrativo, que proporcionem algum retorno na realização do empreendimento
+empresarial”
+
+25 MELLO, MARCO AURÉLIO; “Saúde suplementar, segurança jurídica e equilíbrio econômico-financeiro”
+in: Planos de saúde – Aspectos jurídicos e econômicos, organizado e coordenado por Luiz Augusto
+Ferreira Carneiro; Rio de Janeiro: Forense, 2012; pg. 11/14
+
+[[pagina 33 | nativo]]
+
+92. Aliás, não é novidade o fato de que o mercado de planos e seguros de
+
+saúde encontra-se em sérias dificuldades no país26. Colhe-se, na doutrina27 e na
+
+jurisprudência, reflexões úteis à sustentabilidade da assistência à saúde suplementar,
+
+tão importante para a população, sobretudo ao se considerar a incapacidade do SUS
+
+em fornecer um serviço de saúde digno e universalizado.
+
+93. Ressalte-se, por oportuno, que, além de afetar diretamente o equilíbrio
+
+atuarial da carteira, a aplicação do CDC pernambucano afetará, ainda, o equilíbrio da
+
+ordem econômica por um todo, considerando-se que o déficit atuarial provado pelas
+
+medidas deverá ser diluído pela carteira em escala ampla, para além do Estado de
+
+Pernambuco. Veja-se, nesse sentido, a doutrina de JOSÉ CRETELLA JÚNIOR:
+
+“No regime de livre concorrência, ou de livre competição, o mercado
+competitivo, ou concorrencial, caracteriza-se pelo grande número de
+vendedores, agindo de modo autônomo, oferecendo produtos, em mercado
+bem organizado. No mercado competitivo, os produtos oferecidos por uma
+dada empresa são recebidos pelo comprador como se fossem substitutos
+perfeitos ou equivalentes dos produtos da firma concorrente. Na hipótese de
+preços iguais, ao comprador é indiferente, regra geral, a procedência do
+produto, só influindo a marca, na medida em que a propaganda se intensifica.
+De qualquer modo, no regime da livre concorrência, os preços de mercado
+tendem a abaixar, beneficiando-se com isso o comprador, ao contrário do que
+acontece no regime de monopólio, que prejudica o comprador e afeta o
+equilíbrio da Ordem Econômica, a não ser quando a intervenção monopolística
+é assegurada por lei federal, fundada em expresso dispositivo constitucional.”
+
+26 “Após perda de 3 milhões de clientes, cem planos de saúde fecham as portas – Balanço de quatro
+anos reflete, de um lado, a queda na renda e a dificuldade do consumidor para arcar com altos
+reajustes; de outro, empresas afirmam que alta do dólar teve forte impacto nos custos e alegam que a
+viabilidade econômica do setor está em risco”, 05.08.2018, disponível em
+https://economia.estadao.com.br/noticias/geral,apos-perda-de-3-milhoes-de-clientes-cem-planos-de-
+saude-fecham-as-portas,70002430740
+27 “Não há dúvida de que, para se viabilizar a existência de um mercado de planos de saúde que
+garanta a proteção dos segurados contra os riscos cobertos, é essencial preservar as condições de
+solvência das operadoras.
+Dessa forma, para que o mercado possa manter sua solidez e garantir os interesses dos segurados, é
+necessário que os prêmios cobrados dos segurados guardem relação com os respectivos riscos
+gerados ao grupo segurado.
+De acordo com Tennyson (2007) a regulação de preços em seguros é baseada no objetivo de ampliar
+o acesso de cobertura de seguros e assegurar prêmios razoáveis para todos os segurados. Para
+Tennyson, sua argumentação contra a regulação de preços em seguros não é contra esses objetivos,
+mas sim contra as dificuldades inerentes para se atingir estes objetivos via o controle de preços. A
+regulação do preço dos seguros, quando feita sem embasamento das teorias econômica e atuarial,
+muitas vezes gera custos para a sociedade e para os segurados” (CARNEIRO, LUIZ AUGUSTO FERREIRA;
+“Princípios básicos de seguros e planos de saúde” in: Planos de saúde – Aspectos jurídicos e
+econômicos, organizado e coordenado por LUIZ AUGUSTO FERREIRA CARNEIRO; Rio de Janeiro: Forense,
+2012; pg. 90/92).
+
+[[pagina 34 | nativo]]
+
+(in Elementos de direito constitucional. 4ª ed. São Paulo: Revista dos Tribunais,
+2000, p. 263.)
+
+94. Nesse sentido, a Lei nº 16.559/2019 vai na contramão dos objetivos
+
+buscados atualmente, onerando sobremaneira as operadoras de plano de saúde e,
+
+consequentemente, conforme exposto, os próprios usuários dos planos, o que
+
+acarreta, inclusive, possível inviabilidade dos serviços oferecidos.
+
+b.2) SEGURO DE AUTOMÓVEL
+
+95. Do mesmo modo, a lei impugnada, no art. 144, §3º, ao limitar a
+
+possibilidade de escolha das oficinas apenas àquelas credenciadas pelo Poder
+
+Público, mediante o atendimento de um sem-número de exigências cuja necessidade
+
+não foi minimamente esclarecida (tais como licenças ambientais e do corpo de
+
+bombeiros), acabou por estabelecer uma restrição odiosa às oficinas do Estado de
+
+Pernambuco, obstando a livre concorrência entre elas, e reduzindo as opções de
+
+escolhas dos segurados a um número verdadeiramente insignificante, que, inclusive,
+
+pode não suportar a demanda naquele estado.
+
+96. Obviamente, parece desnecessário o requerimento, incluído na Lei, de
+
+licença prévia do Corpo de Bombeiros, que comum e acertadamente já é exigida nas
+
+posturas e regulações alusivas aos estabelecimentos comerciais em geral. Trata-se
+
+apenas de um pretexto, uma espécie de “gancho”, para inserir a exigência, aí sim,
+
+manifestamente descabida, de uma licença ambiental que se tornaria indispensável
+
+ao funcionamento de uma simples oficina de reparo de veículos.
+
+97. Com efeito, a obtenção de uma tal licença, notoriamente, é tarefa
+
+morosa e complicada, sujeita a todo tipo de requerimentos burocráticos, ao sabor de
+
+ditames das repartições municipais e estaduais, nem sempre razoáveis.
+
+Especificamente no caso das oficinas, não há qualquer justificativa para a exigência,
+
+visto que os serviços executados nesses estabelecimentos nem de longe danificam
+
+ou sequer entram em contato com os chamados “recursos ambientais”. A esse
+
+respeito, a Lei nº 6.938, que consubstancia a política para o meio ambiente, enumera
+
+como recursos naturais a “atmosfera, as águas, interiores, superficiais ou
+
+subterrâneas, os estuários, o mar territorial, o solo, o subsolo, os elementos da
+
+[[pagina 35 | nativo]]
+
+biosfera, a fauna e a flora.” (Lei nº 6.938/91, art. 3º, V).
+
+98. Tendo em vista que os serviços das oficinas se restringem ao reparo
+
+mecânico, com troca ou conserto de peças ou sistemas bem como realização de
+
+trabalhos de lanternagem (funilaria) no espaço restrito de seus estabelecimentos, não
+
+se consegue vislumbrar qualquer razão legítima para que delas se exija a licença
+
+ambiental, destinada à preservação dos recursos ambientais mencionados. Só se
+
+pode concluir que a exigência em tela não passa de uma trava burocrática destinada
+
+a restringir ou afastar a concorrência.
+
+99. Nesse contexto, submeter a escolha de oficinas por seguradoras e
+
+segurados àquelas credenciadas pelo Poder Público consiste em indevida
+
+interferência do Estado em uma relação negocial, tipicamente de direito privado.
+
+Cuida-se de medida absolutamente desproporcional e irrazoável, o que se evidencia
+
+pelo fato de o legislador não ter trazido qualquer razão que evidenciasse a
+
+imprescindibilidade da medida, ou mesmo a sua conveniência. O seu único efeito é o
+
+de reduzir drasticamente o número de oficinas aptas a prestar o referido serviço,
+
+limitando àquelas que receberam a referida outorga do Poder Público. São evidentes
+
+a lesão à livre iniciativa e à livre concorrência, assim como o efeito reflexo de drástico
+
+aumento de preços, com o consequente prejuízo ao segurado, em razão do
+
+correspondente aumento do valor do prêmio do seguro.
+
+100. Assim, a inobservância da livre concorrência decorre do caráter
+
+excessivo, inusual e arbitrário da medida em tela. É justamente o que se verifica no
+
+caso concreto, tendo em vista que, como o risco ambiental da atividade é mínimo e
+
+um reduzido número de oficinas teria a capacidade econômica para atender os
+
+correspondentes requisitos legais, poucas lograriam obter esse descabido
+
+“credenciamento público”, com grave restrição às livres iniciativa e concorrência.
+
+101. Há, portanto, uma linha tênue entre a possibilidade de o Estado intervir
+
+no domínio econômico como agente regulador e a edição de normas que acabem por
+
+restringir drasticamente a livre concorrência, em violação ao texto constitucional.
+
+102. Registre-se, uma vez mais, que o princípio da livre escolha das oficinas
+
+[[pagina 36 | nativo]]
+
+pelo segurado já foi regulamentado pela SUSEP, que, no exercício de sua
+
+competência legal, editou a circular SUSEP nº 269/04, que estabelece, altera e
+
+consolida as regras e critérios complementares de funcionamento e de operação
+
+especificamente dos contratos de seguro de automóveis e na qual consta a regra de
+
+que “[d]everá ser prevista contratualmente a livre escolha de oficinas pelos segurados,
+
+para a recuperação de veículos sinistrados” (art. 14).
+
+103. Destaca-se que, conforme já exposto, dentre esses critérios
+
+complementares, encontra-se expressamente previsto o direito de livre escolha da
+
+oficina pelos segurados. Ao contrário das normas estaduais impugnadas, o ato
+
+normativo federal não impede que as seguradoras estipulem prazos e condições
+
+diferenciadas caso o serviço de reparo seja realizado por oficina não-credenciada e
+
+tampouco estabelece regras odiosas a serem cumpridas pelas oficinas, como a
+
+obtenção de licenças junto aos órgãos ambientais, para a realização de simples
+
+reparos em veículos automotores.
+
+104. Esses critérios afiguram-se inconstitucionais porque, além de
+
+absolutamente desmedidos e sem qualquer preocupação finalística, resultarão em
+
+que o agente, no caso concreto, possa vincular o exercício de atividade econômica a
+
+ato discricionário, o que, como entende esse col. Supremo Tribunal Federal, viola a
+
+Constituição Federal.
+
+105. E diferentemente não poderia ser. Afinal, o mercado de seguros, como
+
+cediço, trabalha com uma rede de oficinas referenciadas para a realização de reparos
+
+em veículos sinistrados. O objetivo dessa política é garantir o melhor atendimento ao
+
+segurado, sobretudo no que concerne às condições de segurança, e racionalizar a
+
+operação das seguradoras, em benefício do equilíbrio da carteira. As oficinas
+
+credenciadas são escolhidas mediante critérios específicos e fiscalizadas
+
+constantemente, garantindo-se, assim, a qualidade do serviço prestado.
+
+106. Assim, é evidente que ao estabelecer regras restritivas à possibilidade
+
+de escolha de determinadas oficinas, e impor odiosas obrigações às operadoras de
+
+plano de saúde, que oneram demasiadamente as suas operações, a Lei nº
+
+16.559/2019 – mais precisamente os artigos 20, §3º e inciso VII, 107 a 109, 133 a 139
+
+[[pagina 37 | nativo]]
+
+e 143 a 145 – feriu a livre iniciativa assegurada pelos artigos 170, inciso IV e 173, §4º
+
+da Constituição Federal.
+
+c) VIOLAÇÃO AOS DIREITOS DOS CONSUMIDORES (ARTIGO 5º, XXXII DA CRFB/88)
+
+107. A Lei nº 16.559/2019 propõe-se à codificação dos direitos dos
+
+consumidores do estado de Pernambuco, dispondo sobre normas de proteção e
+
+defesa do consumidor, de ordem pública e interesse social, nos termos do seu artigo
+
+1º. Para tanto, estabelece normas universais e normas setoriais (a exemplo dos
+
+setores de seguros e saúde suplementar).
+
+108. Dessa forma, sob o véu da tentativa de proteger o consumidor, o
+
+legislador da norma estadual não observou os efeitos concretos que as obrigações
+
+impostas às seguradoras e operadoras de planos de saúde no Estado de Pernambuco
+
+– dentre os quais, destaca-se a atribuição da livre escolha de oficinas pelo segurado
+
+e por terceiros com a vedação às operadoras de seguros de estabelecer condições
+
+diferenciadas caso o serviço de reparo seja realizado por oficina não-credenciada –
+
+ocasionará aos beneficiários de seguros de saúde e de automóveis naquela
+
+localidade.
+
+109. Esses efeitos são consequência natural da organização da atividade
+
+securitária enquanto instrumento contratual e enquanto sistema amplo de seguridade.
+
+110. A lei impugnada, ao impor obrigações que importam em ônus às
+
+operadoras de planos de saúde e às seguradoras de saúde e de automóveis no
+
+estado de Pernambuco, não percebeu que o seguro não envolve apenas um
+
+segurador, um segurado e a emissão de uma apólice. A empresa seguradora não
+
+assume, por si só, o risco de pagar indenização pelo sinistro, uma vez que
+
+desempenha o papel de intermediária que, recolhendo os prêmios pagos por um
+
+grupo de segurados, todos sujeitos a riscos comuns, usa deste montante para pagar
+
+as eventuais indenizações relativas aos sinistros ocorridos, havendo, pois, em uma
+
+relação de seguro, verdadeira mutualidade de segurados, de tal modo que, quando
+
+efetua o pagamento de uma indenização, não são os recursos da seguradora per se
+
+stante que são utilizados, mas os do grupo de segurados por ela abraçados.
+
+[[pagina 38 | nativo]]
+
+111. Dessa forma, o desequilíbrio atuarial gerado impactará na necessidade
+
+de reformulação do diálogo técnico dos atuários sobre as bases de precificação, lucro
+
+para a seguradora, pagamento de comissão para o intermediário legalmente
+
+habilitado (corretor de seguros) e, para os valores de coberturas previstas no contrato,
+
+conforme acertadamente explicam ANGÉLICA CARLINI e MARIA DA GLÓRIA FARIA.28
+
+112. Consequentemente, os próprios segurados suportarão os custos
+
+adicionais acarretados pela produção de efeitos da norma inconstitucional
+
+questionada e serão obrigadas a contratar apólices mais caras ou a não contratar
+
+seguros.
+
+113. A bem da verdade, o regime de livre escolha de profissionais e empresas
+
+prestadores de serviços atrelados à garantia permeia a operação de seguro e
+
+manifesta-se em diversos segmentos e sob muitos aspectos. Vislumbra-se, por
+
+exemplo, a livre escolha no seguro saúde, quando o beneficiário do contrato pode
+
+exercer a opção de ter a sua moléstia acompanhada pelo médico assistente ou pelo
+
+que compõe a rede referenciada 29 ; no seguro de responsabilidade civil de
+
+administradores e gestores de pessoas jurídicas (RCD&O), o gestor-segurado pode
+
+confiar a defesa de seus interesses ao advogado de sua preferência por meio da
+
+cobertura de custos de defesa.30 31
+
+114. O tema do credenciamento/referenciamento e o alcance do exercício da
+
+28 Direito dos seguros [livro eletrônico]: fundamentos de direito civil, direito empresarial e direito do
+consumidor / coordenação BRUNO MIRAGEM e ANGÉLICA CARLINI. 1ª ed. São Paulo: Revista dos
+Tribunais, 2014.
+29 Lei. 9.656/98, art. 1º, I - Plano Privado de Assistência à Saúde: prestação continuada de serviços ou
+cobertura de custos assistenciais a preço pré ou pós estabelecido, por prazo indeterminado, com a
+finalidade de garantir, sem limite financeiro, a assistência à saúde, pela faculdade de acesso e
+atendimento por profissionais ou serviços de saúde, livremente escolhidos, integrantes ou não de rede
+credenciada, contratada ou referenciada, visando a assistência médica, hospitalar e odontológica, a
+ser paga integral ou parcialmente às expensas da operadora contratada, mediante reembolso ou
+pagamento direto ao prestador, por conta e ordem do consumidor; (sublinhou-se)
+
+30 Circular SUSEP 553/17, art. 3º, IX - custos de defesa: compreendem as custas judiciais, os
+honorários advocatícios e periciais, e as despesas necessárias para apresentar, junto aos órgãos,
+defesas ou recursos dos Segurados relativos a reclamações contempladas pelo seguro;
+
+31 Carta Circular SUSEP/ DETEC/ GAB/ Nº 05/2008: “a utilização da respectiva cobertura se dará
+exclusivamente por meio de reembolso das despesas efetuadas junto a profissionais livremente
+escolhidos pelos segurados, respeitado o limite da garantia contratado”.
+
+[[pagina 39 | nativo]]
+
+livre escolha pelo segurado são contemplados em diferentes ramos de seguro. Em
+
+todos esses sistemas próprios de seguridade privada os profissionais que podem ser
+
+escolhidos livremente pelos usuários do seguro – não credenciados/referenciados –
+
+concorrem, em igualdade de condições, com a gama de profissionais e demais
+
+pessoas jurídicas cuja prestação de serviços a seguradora chancela e recomenda.
+
+115. Em outras palavras, a utilização de terceiros pelas seguradoras para a
+
+formação de uma rede ampla, qualificada e eficiente ao beneficiário não se restringe
+
+às oficinas mecânicas e reparadoras. Diversos são os prestadores de serviços não
+
+contratados diretamente pelos segurados que estão ligados de forma implícita à
+
+atividade seguradora. A título de exemplo tem-se reguladores de sinistro,
+
+vistoriadores, reboque etc. Estes serviços funcionam como verdadeira longa manus
+
+dos serviços de garantia do segurador com o objetivo de assegurar qualidade,
+
+segurança e eficiência ao destinatário.
+
+116. Registra-se excerto do parecer elaborado pela Dra. ANGÉLICA CARLINI32
+
+(doc. 8) a respeito da matéria:
+
+"Assim, o referenciamento de profissionais é utilizado como estratégia de
+viabilização do cumprimento da obrigação de garantia da sociedade
+seguradora. Em tese, o referenciamento de serviços é parte integrante da
+função da seguradora de administrar o fundo comum, permitindo que os
+recursos sacados para indenizar os segurados sejam utilizados com boa
+técnica e eficiência, permitindo que o interesse legítimo do segurado seja
+totalmente atendido.
+
+Em outras palavras, é dever da sociedade seguradora em defesa de todos os
+segurados e não apenas daquele que teve o risco materializado garantir que
+só sejam utilizados do fundo comum os recursos efetivamente necessários
+para indenizar a correta extensão dos danos. Para isso a sociedade seguradora
+deve utilizar todos os recursos lícitos, inclusive proteger o segurado contra
+profissionais que não tenham condições técnicas de realizar com eficiência e
+boa-fé os reparos necessários para eliminar ou diminuir os danos que o risco
+materializado tenha causado.
+
+32 Consultora da Confederação Nacional das Empresas de Seguros Gerais, Previdência Privada e Vida,
+Saúde Suplementar e Capitalização (CNSeg) para a área de Relações de Consumo. Presidente da
+Comissão de Direito Securitário da Ordem dos Advogados do Brasil (OAB-Campinas). Conselheira da
+seção brasileira da Associação Internacional de Direito do Seguro (AIDA). Pós-doutora em Direito,
+doutora em Direito Político e Econômico, doutora em Educação, mestre em Direito Civil e mestre em
+História Contemporânea. Docente no programa de Mestrado em Administração de Empresas da
+Universidade Paulista (UNIP) e coordenadora do Projeto de Mestrado em Direito da Universidade
+Metropolitana de Santos (UNIMES). Advogada e Diretora da Carlini Sociedade de Advogados.
+
+[[pagina 40 | nativo]]
+
+A conclusão da regulação do sinistro ocorre quando o interesse legítimo do
+segurado pelo risco predeterminado está totalmente reparado. O risco
+materializado já não causa mais nenhum dano ao interesse legítimo, foi
+minimizado ou totalmente eliminado pela ação da sociedade seguradora e nos
+exatos termos previstos no contrato.
+
+Nesse momento a operação de seguro que os contratos materializam cumpre
+seu papel maior, porque ao contemplar o interesse individual de um segurado
+pessoa física ou jurídica, contempla igualmente o interesse individual de um
+segurado pessoa física ou jurídica, contempla igualmente o interesse de toda
+a sociedade que deseja ver seus membros protegidos dos mais diversos riscos
+aos quais estão expostos".
+
+117. Compreenda-se que a conjugação do princípio da razoabilidade e o
+
+princípio da proporcionalidade rege a livre escolha do segurado. Desse modo, caso o
+
+segurado opte por profissional que não conste da relação de
+
+credenciados/referenciados da seguradora, ele deve manifestar a sua escolha
+
+baseada em valor estritamente necessário à reposição do interesse legítimo garantido
+
+(Código Civil, art. 781); de forma razoável e proporcional.33
+
+118. No plano econômico, a partir do qual a norma jurídica encontra
+
+fundamento de existência, a técnica de referenciamento/credenciamento consiste em
+
+fator debelador de risco moral,34 impondo-se relevantíssimo mecanismo econômico
+
+33 Destaque-se, por exemplo, que, no seguro de automóvel, o valor estritamente razoável à reposição
+do interesse legítimo garantido (no caso, peças e mão de obra) resulta da média proporcional, por
+evento, parametrizada sobre o montante global obtido na negociação coletiva da seguradora junto às
+oficinas, compreensivelmente mais acessível do que o valor praticado de forma individual. Se se
+considerar de forma diversa, estar-se-ia a admitir no regime de livre escolha o pagamento em montante
+superior ao que a seguradora expende regularmente, por evento, em sua operação. Impõe-se dever
+precípuo da seguradora realizar uma gestão eficiente, em obediência aos princípios da razoabilidade
+e da proporcionalidade e do princípio indenitário (pilar técnico-jurídico dos seguros de dano).
+
+34 “Mas alguns fenómenos psicológicos que contribuem para a dificuldade de aferição do risco actuam
+em momento posterior ao da contratação. Refiro-me ao chamado <<risco moral>> (moral hazard). O
+conceito de risco moral também nos vem da economia. Foi desenvolvido pela ciência económica anglo-
+americana, que distingue, no domínio dos seguros, entre conceito de risk e hazard. O hazard seria uma
+condição susceptível de criar ou de aumentar a probabilidade ou extensão de um dano. No campo
+jurídico, esta ideia encontra-se em certa medida presente, designadamente, na distinção entre o risco
+propriamente dito, aquilo que se chamou uma situação de risco, que corresponderia aos conceitos
+alemães de Gefahrzustand ou de Gefahrlage, e aquilo que se chamou e circunstância de risco, que
+encontraria como seu correspondente germânico o conceito de Gefahrumstäde. Julgo que podemos
+traduzir hazard por circunstância de risco, com a seguinte ressalva: os hazards são sempre
+negativamente valorados, e as circunstâncias de risco podem ser positivas ou negativas.
+Os hazards correspondem, normalmente, ao que se chama physical hazards – por exemplo, o facto de
+o edifício segurado se situar numa zona propensa a cheias; de o veículo segurado ter os travões em
+mal estado; ou a superveniência de uma doença grave que aumente a probabilidade de morte
+prematura da pessoa segurada. Mas há ainda que ter em conta o chamado moral hazard. Não obstante
+uma certa fluidez no seu significado, no contesto dos seguros, a expressão é normalmente uma
+
+[[pagina 41 | nativo]]
+
+de contenção do segurado quanto à escolha eventualmente abusiva (Código Civil, art.
+
+187), dolosamente contrária à finalidade do seguro (Código Civil, art. 762) e/ou
+
+tecnicamente inadequada (Código de Defesa do Consumidor, art. 6º, III), em benefício
+
+da (a) racionalização dos gastos médios da massa segurada; e (b) redução dos custos
+
+de transação, mantendo-se a qualidade e a segurança dos serviços prestados,
+
+evitando-se a reposição do serviço mal feito, o retrabalho, e a litigiosidade. Todos
+
+esses fatores impactam beneficamente na fixação da taxa do seguro (prêmio), em
+
+termos de justiça tarifária.35
+
+119. Um dos aspectos relevantes da relação jurídica segurador-profissional
+
+credenciado ou referenciado consiste no vínculo de solidariedade que a jurisprudência
+
+lhes atribui. O profissional credenciado ou referenciado não está subordinado
+
+juridicamente ao segurador. Contudo, a jurisprudência pátria assentou-se no sentido
+
+de que credenciamento/referenciamento gera ao usuário a expectativa e a confiança
+
+legítima no que se refere à qualidade do serviço oferecido, o que transfere ao
+
+referência ao fenómeno de redução dos incentivos económicos á adopção de comportamentos
+preventivos da ocorrência do sinistro ou à minimização dos seus efeitos negativos que acompanha a
+celebração e existência de um seguro.
+Os comportamentos visados incluem a pura e simples fraude, mas vão muito além da fraude. Há quem
+distinga, de entre todas as atitudes e comportamentos que podem relacionar-se com este fenómeno, o
+que chamam morale hazards, que no entanto não são aceites por todos, nem por todos definidos da
+mesma forma. Estes corresponderiam, na definição maioritária, a alteração mais generalizadas e
+menos censuráveis de atitude, que passariam por uma diminuição, não necessariamente deliberadas
+ou sequer conscientes, do grau de diligência na prevenção do sinistro e minimização dos seus efeitos
+negativos, a partir do momento em que existe uma cobertura em vigor, por parte do próprio segurado
+ou de outros sujeitos – designadamente do médico que o trata, e que pode recorrer a tratamentos mais
+dispendiosos em casos de existência de seguro, ou do juiz, para atribuir ao lesado uma indenização
+em montante mais elevado em caso de existência de seguro. Inclui também, para alguns autores, a
+existência de hábitos prejudiciais, tais como circunstâncias de o segurado ser fumador, ou
+invulgarmente distraído. A ideia essencial desta subdivisão conceptual seria retirar destes factores a
+carga valorativa negativa própria dos moral hazards. Grande parte das estipulações constantes das
+condições gerais existentes no mercado de seguro destina-se, mais do que qualquer outra coisa, a
+contrariar – ou seja, fundamentalmente, a desincentivar – o fenómeno do moral hazard.
+Isto para dizer que, para além dos desvios relacionados com o próprio acto de contratar um seguro,
+após a celebração do contrato, a experiência mostra a ocorrência de mudanças de comportamento,
+tanto no segurado quanto em vários terceiros em posição de influir no montante da prestação a cargo
+do segurador, que contribuem para dificultar a avaliação concreta do risco. Podemos classificar tais
+mudanças de comportamento como ex ante moral hazards ou como ex post moral hazards, consoante
+respeitem à prevenção da ocorrência do sinistro ou à minimização dos seus efeitos negativos.” (REGO,
+MARGARIDA LIMA. Contrato de Seguro e Terceiros. Coimbra: Coimbra Editora, 2010, p. 109-111)
+
+35 “O objetivo da segmentação e das revisões tarifárias é a ‘justiça tarifária’, ou seja, cobrar mais dos
+maiores risco e menos dos menores.” (PITA, RENATO; DOMINGUEZ, ALEXANDRE. Seguro de Automóvel:
+Série Textos Didáticos. Rio de Janeiro: Escola Nacional de Seguros – FUNENSEG, 2011, p. 76)
+
+[[pagina 42 | nativo]]
+
+segurador a responsabilidade primária (solidária) de indenizar o segurado e/ou o
+
+terceiro pelos eventuais danos causados pelo prestador indicado.36
+
+120. Esse é exatamente o caso das oficinas mecânicas que atuam no
+
+cumprimento do dever de garantia do segurador à recomposição dos danos originados
+
+de acidentes automobilísticos cobertos pelo seguro de automóvel. O segurador
+
+responde solidariamente pelo vício e pelo fato do produto eventualmente causado por
+
+essas pessoas jurídicas ao desempenharem a sua atividade econômica, que,
+
+reconheça-se, se estabelece de forma complementar ao serviço prestado pelo
+
+segurador.
+
+121. Recorra, uma vez mais, ao parecer da Dra. ANGÉLICA CARLINI, preciso ao
+
+abordar da temática ora tratada:
+
+“Analisado o parágrafo único do artigo 6º de forma integrada com os artigos 18
+e 19, caput, artigo 25 parágrafos primeiro e segundo e artigo 34 todos do
+Código de Defesa do Consumidor, é possível concluir que as sociedades
+seguradoras no momento que fixam a extensão dos danos e autorizam a
+efetivação de serviços de reparo por oficinas referenciadas que serão por ela
+custeados, assumem a responsabilidade solidária prevista na lei consumerista
+pela prestação do serviço.
+
+36 RECURSO ESPECIAL. PROCESSUAL CIVIL. CONSUMIDOR. CIVIL. RESPONSABILIDADE
+SOLIDÁRIA DAS OPERADORAS DE PLANO DE SAÚDE. ERRO MÉDICO. DEFEITO NA
+PRESTAÇÃO DO SERVIÇO. DANO MORAL RECONHECIDO. VALOR DA INDENIZAÇÃO.
+MAJORAÇÃO. RECURSO PROVIDO.
+1. Se o contrato for fundado na livre escolha pelo beneficiário/segurado de médicos e hospitais com
+reembolso das despesas no limite da apólice, conforme ocorre, em regra, nos chamados seguros-
+saúde, não se poderá falar em responsabilidade da seguradora pela má prestação do serviço, na
+medida em que a eleição dos médicos ou hospitais aqui é feita pelo próprio paciente ou por pessoa de
+sua confiança, sem indicação de profissionais credenciados ou diretamente vinculados à referida
+seguradora. A responsabilidade será direta do médico e/ou hospital, se for o caso.
+2. Se o contrato é fundado na prestação de serviços médicos e hospitalares próprios e/ou credenciados,
+no qual a operadora de plano de saúde mantém hospitais e emprega médicos ou indica um rol de
+conveniados, não há como afastar sua responsabilidade solidária pela má prestação do serviço.
+3. A operadora do plano de saúde, na condição de fornecedora de serviço, responde perante o
+consumidor pelos defeitos em sua prestação, seja quando os fornece por meio de hospital próprio e
+médicos contratados ou por meio de médicos e hospitais credenciados, nos termos dos arts. 2º, 3º, 14
+e 34 do Código de Defesa do Consumidor, art. 1.521, III, do Código Civil de 1916 e art. 932, III, do
+Código Civil de 2002. Essa responsabilidade é objetiva e solidária em relação ao consumidor, mas, na
+relação interna, respondem o hospital, o médico e a operadora do plano de saúde nos limites da sua
+culpa.
+4. Tendo em vista as peculiaridades do caso, entende-se devida a alteração do montante indenizatório,
+com a devida incidência de correção monetária e juros moratórios.
+5. Recurso especial provido. (REsp 866.371/RS, Rel. Ministro Raul Araújo, 4ª Turma, j. em 27.3.12, p.
+DJe 20.8.12)
+
+[[pagina 43 | nativo]]
+
+Em razão da solidariedade, as oficinas referenciadas devem atender a critérios
+de qualidade e eficiência propostos pelas sociedades seguradoras e, para isso,
+são visitadas por técnicos em reparos automotivos que avaliam as condições
+de trabalho apresentadas. Além disso, se comprometem a manter padrões de
+qualidade, eficiência e segurança sob pena de deixarem de ser referenciadas
+pelas seguradoras.
+
+Os critérios para escolha são eminentemente técnicos, mas sem dúvida
+existem também componentes de ordem mercadológica que precisam ser
+considerados.
+
+Ao ser referenciada por uma sociedade seguradora a oficina adquire a
+expectativa de receber significativa quantidade de serviços, com regularidade
+e de forma sistemática. Também adquire a expectativa de construir uma
+relação comercial que permita práticas que não seriam possíveis para clientes
+com atendimento esporádico, como por exemplo, melhor precificação do valor
+da hora-trabalhada ou, prioridade no atendimento dos casos encaminhados
+pela sociedade seguradora com redução do tempo do veículo na oficina, ou,
+ainda, atendimento de requisitos de qualidade e eficiência mais minuciosos
+exigidos pelo parceiro regular.
+
+Essa relação comercial e técnica mais fortalecida que se estabelece entre
+aquele que seleciona e referencia e aquele que é selecionado e referenciado é
+fruto de relações próprias de mercado; relações que como se sabe tem
+natureza econômica mas não se limitam a essa dimensão, alcançando também
+aspectos de direito, de política e de ética.”
+
+122. Nesse sentido, “[a]o indicar uma oficina referenciada a sociedade
+
+seguradora assume, imediatamente, a responsabilidade solidária sobre a qualidade e
+
+eficiência dos serviços prestados. Mas isso não é tudo. Ao indicar ao consumidor que
+
+utilize os serviços de uma oficina mecânica referenciada, a sociedade seguradora
+
+contribui para mitigar a vulnerabilidade do consumidor.” (Parecer ANGÉLICA
+
+CARLINI, doc. 8 – negrito no original).
+
+123. Além disso, dois importantes pontos reconhecidos pela jurisprudência do
+
+STJ devem ser levados em consideração quanto ao direito de livre escolha das
+
+oficinas pelo segurado: (i) a livre escolha da empresa especializada em reparações
+
+mecânicas não subtrai da seguradora o poder de avaliar o estado do bem sinistrado
+
+e também o orçamento apresentado, conforme o REsp nº 1.336.781/SP;37 e (ii) a
+
+seguradora de seguro de responsabilidade civil, na condição de fornecedora,
+
+responde solidariamente perante o consumidor pelos danos materiais decorrentes de
+
+defeitos na prestação dos serviços por parte da profissional que credenciou ou
+
+37 REsp n 1.336.781/SP, Rel. Min. RICARDO VILLAS BÔAS CUEVAS, 3ª Turma, v.u, DJ 08.10.2018.
+
+[[pagina 44 | nativo]]
+
+indicou, pois, ao fazer tal indicação ao segurado, estende sua responsabilidade
+
+também aos serviços realizados pela credenciada, nos termos dos artigos 7º,
+
+parágrafo único, 14, 25, § 1º, e 34 do Código de Defesa do Consumidor, de acordo
+
+com o REsp nº 1.341.530/PR38 e REsp nº 827.833/MG39.
+
+124. A possibilidade de a seguradora avaliar o estado do bem e também o
+
+orçamento apresentado decorre da necessidade de observância dos princípios da
+
+razoabilidade e proporcionalidade para reger a livre escolha do segurado de forma a
+
+repor o interesse legítimo garantido, uma vez que o credenciamento permite a
+
+racionalização dos gastos médios da massa segurada e redução dos custos de
+
+transação, mantendo a qualidade e a segurança dos serviços prestados.
+
+125. A solidariedade entre a oficina credenciada e a seguradora, por sua vez,
+
+é reconhecida pela jurisprudência em razão de o credenciamento dos prestadores de
+
+serviços gerar uma expectativa de qualidade de serviço, o que importa no
+
+compartilhamento da responsabilidade entre ambas as pessoas jurídicas em prol da
+
+qualidade e eficiência dos serviços prestados, bem como da mitigação da
+
+vulnerabilidade do beneficiário do seguro.
+
+126. Todos estes fatores impactam beneficamente na fixação dos prêmios de
+
+seguro em prol da justiça tarifária, de forma que a entrada em vigor e a produção de
+
+efeitos da Lei nº 16.559/2019 ocasionará desequilíbrio atuarial e diminuição gradativa
+
+da responsabilidade das seguradoras frente aos segurados com o crescimento da
+
+contratação de oficinas não referenciadas para a prestação dos serviços de reparo
+
+nos automóveis, em inescondível violação aos direitos dos consumidores
+
+(CRFB/1988, art. 5º, XXXII).
+
+III – AÇÃO DIRETA DE INCONSTITUCIONALIDADE Nº 5.990/PE EM FACE DAS LEIS 14.692/12 E
+
+16.080/2017
+
+127. Em 10.08.2018, a REQUERENTE ajuizou a ação direta de
+
+inconstitucionalidade nº 5.990/PE em face das Leis nº 14.692/2014 e 16.080/2017 de
+
+38 REsp nº 1.341.530/PR, Rel. Min. LUIS FELIPE SALOMÃO, DJ 04.09.2017
+39 REsp nº 827.833/MG, Rel. Min. RAUL ARAÚJO, DJ 16.05.2012
+
+[[pagina 45 | nativo]]
+
+Pernambuco, as quais asseguravam ao consumidor que adquirisse seguro para
+
+veículo automotor, no âmbito do daquele estado, o direito de livre escolha da oficina
+
+mecânica, em caso de cobertura dos danos ao veículo segurado ou a veículos de
+
+terceiros.
+
+128. Entretanto, com a promulgação da Lei nº 16.559/2019 do mesmo ente
+
+federado, ambas foram expressamente revogadas visto que tratavam de idêntica
+
+matéria.
+
+129. Apesar da ausência de pronunciamento do pedido liminar e do mérito da
+
+ação por este E. Supremo Tribunal Federal até a presente data, necessária atenção
+
+deve ser direcionada às manifestações da Advocacia-Geral da União (doc. 9) e da
+
+Procuradoria-Geral da República (doc. 10) naquele processo.
+
+130. Ambos os órgãos se manifestaram pela procedência do pedido
+
+formulado pela REQUERENTE. A AGU constatou que a legislação atacada incorrera em
+
+vício de inconstitucionalidade formal, ao regular assunto reservado à competência
+
+privativa da União Federal no artigo 22, I e VII da CRFB/1988. Além disso, ressaltou
+
+a competência da SUSEP legalmente prevista para expedir normas de forma a
+
+regulamentar as operações de seguro, o que fora cumprido quando da edição da
+
+Circular nº 269/2004, a qual disciplina a matéria regulamentada pelas normas
+
+estaduais questionadas. Acrescenta, de forma acertada, que a jurisprudência do e.
+
+Supremo Tribunal Federal entende que a competência legislativa concorrente prevista
+
+no artigo 24, V e VIII da Carta Magna refere-se apenas à proteção extracontratual do
+
+consumidor, não cabendo aos Estados-membros a edição de normas acerca de
+
+relações contratuais.
+
+131. A PGR pronunciou-se do mesmo modo ao defender que se trata de
+
+matéria de direito civil e seguros e, portanto, de competência privativa da UNIÃO.
+
+132. Com isso, demonstra-se que, apesar de o mérito da ADI nº 5.990/PE não
+
+ter sido julgado até o momento da propositura desta ação, os pronunciamentos da
+
+AGU e da PGR comprovam de forma cristalina o vício formal de inconstitucionalidade
+
+da norma ora impugnada.
+
+[[pagina 46 | nativo]]
+
+133. Outrossim, tendo em vista que a presente ação visa à declaração de
+
+inconstitucionalidade de artigos da Lei nº 16.559/2019, que, por sua vez, revogou as
+
+Leis nº 14.692/2014 e 16.080/2017, as quais, pelas mesmas razões ora apontadas,
+
+também são inconstitucionais, - conforme atestado, inclusive, pelas manifestações da
+
+AGU e da PGR nos autos da ADI nº 5.990/PE - devem ser expressamente afastados
+
+in casu, por essa e. Suprema Corte, os efeitos repristinatórios das normas revogadas
+
+pelo CDC Pernambucano.
+
+TUTELA PROVISÓRIA
+
+PEDIDO CAUTELAR EM SEDE LIMINAR
+
+134. A Lei nº 9.868/1999, em seus artigos 10 e 11, admite a concessão de
+
+liminar em Ação Direta de Inconstitucionalidade, cujo objetivo é a proteção da ordem
+
+constitucional.
+
+135. Os requisitos para a sua concessão, nos termos da jurisprudência deste
+
+Egrégio Tribunal40, são a verossimilhança do direito e o periculum in mora. Ambos
+
+estão presentes no caso em análise, conforme a seguir será evidenciado.
+
+136. A verossimilhança do direito resta demonstrada por toda a
+
+fundamentação acima abordada. Repise-se que os dispositivos questionados da Lei
+
+nº 16.559/2019 do Estado de Pernambuco violam um conjunto de princípios e normas
+
+constitucionais, a saber: (i) a competência privativa da UNIÃO FEDERAL para legislar
+
+sobre matéria de direito civil, seguros e seguridade social (artigo 22, I, VII e XXIII
+
+respectivamente); (ii) o princípio da isonomia (artigo 5º, caput); e (iii) a proteção do
+
+consumidor (artigo 5º, XXXII).
+
+137. Ao demonstrar total desrespeito ao texto constitucional, esse conjunto
+
+de artigos deve ser imediatamente extirpado do ordenamento jurídico. Conforme
+
+leciona o Ministro LUÍS ROBERTO BARROSO, “Nenhum ato legislativo contrário à
+
+Constituição pode ser válido. E a falta de validade traz como consequência a nulidade
+
+40 ADI-MC 5640 MC/GO, Rel. Ministro GILMAR MENDES, DJ 07.02.2017.
+
+[[pagina 47 | nativo]]
+
+ou a anulabilidade. No caso da lei inconstitucional, aplica-se a sanção mais grave, que
+
+é a de nulidade. Ato inconstitucional é ato nulo de pleno direito”.41
+
+138. O periculum in mora, por sua vez, decorre da iminência de entrada em
+
+vigor da Lei impugnada – 16.04.2019 – e do fato de que é absolutamente temerária a
+
+produção de efeitos de norma estadual viciada em detrimento das normas federais
+
+válidas em todo o território nacional.
+
+139. Além disso, os seus dispositivos criam obrigações além daquelas
+
+atuarialmente suportáveis pelas seguradoras de automóveis, impactando o equilíbrio
+
+de sua atividade e, consequentemente, os beneficiários que contratam seguros no
+
+território pernambucano.
+
+140. O perigo na demora também resta configurado tendo em vista que, com
+
+a entrada em vigor da lei pernambucana, as seguradoras e pessoas jurídicas que
+
+operam planos de saúde estarão na iminência de sofrer a aplicação das sanções
+
+previstas em seu artigo 180.
+
+141. Assim, para evitar que as referidas pessoas jurídicas incorram em
+
+condutas ilegais ao não cumprirem o disposto na norma impugnada – uma vez que
+
+não são obrigadas a cumprir leis inconstitucionais –, torna-se necessária e urgente a
+
+concessão da cautelar para que seja determinada a imediata suspensão da eficácia
+
+da norma estadual até o julgamento definitivo desta ação.
+
+142. Em face do exposto, a CNSeg requer, com fundamento no artigo 102, I,
+
+“p” da Constituição e artigos 10, caput, §3º e 11 da Lei nº 9.868/1999, que V. Exa.
+
+submeta ao Colendo Plenário deste Egrégio Supremo Tribunal Federal o pedido de
+
+concessão de medida cautelar com efeitos ex-tunc em sede liminar para a suspensão
+
+da eficácia dos artigos 122 a 128 e 137 a 140 da Lei nº 16.559, de 15.01.2019, do
+
+estado de Pernambuco, inaudita altera parte, considerando a existência de diversos
+
+41 BARROSO, LUÍS ROBERTO. O controle de constitucionalidade no direito brasileiro: exposição
+sistemática da doutrina e análise crítica da jurisprudência, 2ª ed. São Paulo: Saraiva. 2006. p. 15.
+
+[[pagina 48 | nativo]]
+
+precedentes do Supremo Tribunal Federal sobre o tema,42 até o julgamento de mérito
+
+da presente demanda.
+
+PEDIDOS
+
+143. A CNSeg requer o deferimento da medida liminar pleiteada, intimando-
+
+se, caso entenda-se necessário, o Advogado-Geral da União e o Procurador-Geral da
+
+República para que se pronunciem no prazo máximo de três dias.
+
+144. No que se refere ao mérito, requer seja julgada procedente a presente
+
+Ação Direta de Inconstitucionalidade, com eficácia erga omnes e efeito vinculante,
+
+para que seja declarada a inconstitucionalidade formal dos artigos 20, §3º e inciso VII,
+
+105 a 109, 133 a 139 e 143 a 145, e a inconstitucionalidade material dos artigos 20,
+
+§3º e inciso VII, 107 a 109, 133 a 139 e 143 a 145 da Lei nº 16.559, de 15.01.2019,
+
+do Estado de Pernambuco, pelos fundamentos acima expostos.
+
+145. Sucessivamente, pugna pela declaração de inconstitucionalidade das
+
+Leis nº 14.692/2014 e 16.080/2017, haja vista os pareceres emitidos pela AGU e pela
+
+PGR neste sentido nos autos da ADI nº 5.990/PE, a fim de evitar o efeito repristinatório
+
+a partir da declaração de inconstitucionalidade da Lei nº 16.559/2019.
+
+146. A CNSeg pugna também a V. Exa. pela intimação dos Exmos.
+
+Presidente da Assembleia Legislativa e Governador do Estado de Pernambuco para
+
+prestarem informações, na forma do artigo 6º da Lei nº 9.868/1999, bem como que
+
+42 “O pedido é juridicamente plausível, tendo em vista, principalmente, a alegada competência da União
+para legislar sobre direito civil e comercial. As empresas, objeto da lei, operam, através de contratos
+com pessoas físicas e jurídicas, no setor de saúde, pelos quais se obrigam a atendimento médico-
+hospitalar na forma de diversos planos pactuados. Concorre o perigo do dano da aplicação da lei, posto
+que cria obrigações além daquelas atuarialmente suportáveis pelos planos de saúde. (...) Concedo a
+liminar para suspender a eficácia dos atos normativos aqui impugnados até que o Tribunal decida o
+mérito”. ADI nº 1.595-8/SP, Min. Rel. Nelson Jobim, Plenário, DJ 19.12.2002. / “São efetivamente
+relevantes os fundamentos jurídicos da ação, notadamente no que concerne à incompetência do
+Estado-membro, diante das regras dos arts. 22, I e VII , e 192, II; dos arts. 170 e 5º, XXXVI, todos da
+Constituição Federal. O periculum in mora é, por igual, presente, na medida em que, entrando em vigor
+a Lei impugnada desde a publicação, a regra de seu art. 1º, bem como as sanções previstas em seus
+arts. 4º, parágrafo único, 5º e 7º, estão na iminência de aplicação às seguradoras, ora representadas
+pela autora. Do exposto, defiro a liminar e suspendo a vigência da Lei nº 11.446, de 10.07.1997, do
+Estado do Pernambuco, ex nunc e até o julgamento final da presente ação.” ADI nº 1.646-6/PE, Min.
+Rel. NÉRI DA SILVA, Plenário, DJ 04.05.2001.
+
+[[pagina 49 | nativo]]
+
+sejam colhidas, em conformidade com o artigo 8º do mesmo diploma legal, as
+
+manifestações do Advogado-Geral da União e do Procurador-Geral da República.
+
+147. Ao final, protesta pela juntada de documentos em caráter suplementar e
+
+demais meios de prova em direito admitidos.
+
+148. Informa que os advogados que ora subscrevem poderão ser intimados
+
+nos endereços constantes do anexo instrumento de mandato.
+
+149. Dá-se à causa o valor de R$ 1.000,00 reais, para efeitos meramente
+
+fiscais.
+
+Nestes termos,
+
+Pede deferimento.
+
+Brasília, 24 de abril de 2019.
+
+LUÍS INÁCIO LUCENA ADAMS ANDRÉ TAVARES
+
+OAB/DF nº 29.512 OAB/RJ nº 109.367
+
+LOUISE DIAS PORTES FERNANDA MEDINA PANTOJA
+
+OAB/RJ nº 203.612 OAB/RJ nº 125.644
+
+GUILHERME MACEDO
+
+OAB/RJ nº 209.427
+
+[[pagina 50 | nativo]]
+
+RELAÇÃO DE DOCUMENTOS ANEXOS
+
+Doc. 1. Cartão do CNPJ;
+
+Doc. 2. Procuração e Substabelecimento;
+
+Doc. 3. Estatuto Social;
+
+Doc. 4. Comprovante do caráter nacional da CNSeg;
+
+Doc. 5. Parecer da Procuradoria Geral da República na ADI nº 4710;
+
+Doc. 6. Parecer da Procuradoria Geral da República na ADI nº 4293;
+
+Doc. 7. Lei nº 16.559, de 15.01.2019, do Estado de Pernambuco, publicada no
+
+Diário Oficial do Estado em 16.02.2019;
+
+Doc. 8. Parecer elaborado pela Dra. Angélica Carlini;
+
+Doc. 9. Parecer da Advocacia-Geral da União na ADI nº 5.990/PE; e
+
+Doc. 10. Parecer da Procuradoria Geral da República na ADI nº 5.990/PE.
+

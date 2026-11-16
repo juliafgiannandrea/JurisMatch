@@ -1,0 +1,1253 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL
+
+FEDERAL
+
+Possível prevenção pela ADPF nº 754/DF, de relatoria do Ministro Ricardo
+
+Lewandowski
+
+A REDE SUSTENTABILIDADE, partido político com representação no Congresso
+Nacional, inscrito no CNPJ/MF sob o nº 17.981.188/0001-07, com sede na SDS, Bl.
+
+A, CONIC, Ed. Boulevard Center, Salas 107/109, Asa Sul, Brasília – DF, CEP
+
+70391-900, contato@redesustentabilidade.org.br, vem, por seus advogados
+
+abaixo-assinados, com fundamento no disposto no artigo 102, I, a, da Constituição
+
+Federal, e nos preceitos da Lei nº 9.868, de 1999, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+(com pedido de medida cautelar)
+
+em face do inciso VIII do caput, do inciso IV do § 7º e do § 7º-A, todos do art. 3º da
+Lei nº 13.979/2020 (“Lei do Coronavírus”), que dispõem sobre a autorização
+
+excepcional e temporária para a importação e distribuição de quaisquer materiais,
+
+medicamentos, equipamentos e insumos da área de saúde sujeitos à vigilância
+
+sanitária sem registro na Anvisa considerados essenciais para auxiliar no combate à
+
+pandemia do coronavírus, bem como em face do art. 8º da Lei nº 13.979/2020 (“Lei
+
+do Coronavírus”), que dispõe sobre o prazo de vigência da Lei, discrepando de
+
+normas constitucionais afetas à distribuição de competências e ao direito à saúde e
+
+à vida, conforme fatos e fundamentos jurídicos expostos a seguir.
+
+
+[[pagina 2 | nativo]]
+I. BREVE SÍNTESE DOS FATOS
+
+O Brasil, infelizmente, está chegando à marca de 180 mil mortos pelo
+
+coronavírus, com mais de 6,6 milhões de infectados 1 . A curva de contágio e de
+
+óbitos, que parecia ter chegado ao seu pico e estar entrando em uma zona de
+
+controle, tem subido rapidamente nas últimas semanas, sobretudo por ações
+
+erráticas de alguns gestores públicos que ainda ousam desdenhar da gravidade da
+
+doença e do próprio mau comportamento de algumas frações da população em
+
+relação às medidas sanitárias básicas de isolamento, uso de máscara, etc. Ou seja,
+
+o controle efetivo da doença parece estar longe do fim no nosso país, infelizmente.
+
+O mundo, em contrapartida, parece estar nadando na direção contrária. Com
+
+efeito, o Reino Unido foi o primeiro país ocidental a aprovar a utilização de uma
+
+vacina - a do laboratório Pfizer/BioNTech - em massa na sua população. E ontem,
+
+8/12, a imunização coletiva já foi iniciada naquela região 2 . A Rússia também iniciou,
+
+no final da semana passada (5/12), a vacinação em massa de sua população, com o
+
+próprio imunizante russo, Sputnik V 3 .
+
+Todos os demais países estão literalmente em uma corrida pela vida, para
+
+que as vacinas seguras sejam finalmente aprovadas, mesmo que com autorização
+
+emergencial e excepcional de uso - isso é, sem o complicado e moroso
+
+procedimento de registro final do imunizante -, e aplicadas na população. Enquanto
+
+as respectivas agências reguladoras trabalham incessantemente na aprovação das
+
+vacinas, as autoridades estatais empreendem a corrida para a montagem de um
+
+bom plano de vacinação em massa e para a adequação de uma infraestrutura apta a
+
+Dados disponíveis em: <https://covid.saude.gov.br/>. Acesso em 9/12/2020.2 Disponível em:
+<https://g1.globo.com/bemestar/vacina/noticia/2020/12/08/idosa-de-90-anos-e-a-primeira-a-ser-vacina
+da-contra-covid-no-reino-unido.ghtml>.3 Acesso em 9/12/2020. Disponível em:
+<https://g1.globo.com/jornal-nacional/noticia/2020/12/05/russia-comeca-imunizacao-em-massa-contra
+-covid-mesmo-sem-conclusao-dos-testes-de-vacina.ghtml>. Acesso em 9/12/2020.
+
+
+[[pagina 3 | nativo]]
+imunizar todos os habitantes: seringas, agulhas, câmaras de refrigeração, logística
+
+de transporte, segurança e armazenagem, dentre outros.
+
+Mesmo nesses procederes prefaciais, o Brasil parece estar engatinhando, ao
+sequer ter elaborado um consistente plano de vacinação 4 . As escusas do Sr.
+
+Ministro da Saúde caminham no sentido de que seria primeiramente necessário
+
+saber quais vacinas serão aprovadas pela Anvisa para, então, se construir um plano
+
+de vacinação. Cogitar essa espera parece, com a devida vênia, absurdo, na medida
+em que o vírus não vai parar no tempo e muitas vidas serão, infelizmente, perdidas
+nesse lapso temporal.
+
+E, além de não construir um plano nacional de vacinação consistente, o
+
+Governo Federal parece tentar minar planejamentos mais bem feitos em níveis
+
+estadual e municipal, alegando não ser de competência dos entes subnacionais
+
+cuidar da vacinação em suas respectivas localidades. O caso mais emblemático
+
+nesse sentido parece ser o do Estado de São Paulo, que fez acordo próprio de
+
+aquisição, produção e aplicação de vacina chinesa (Coronavac), a qual vem
+
+sofrendo indevidas retaliações por parte do Governo Federal, num aparente recorte
+
+ideológico indevido em tema que deveria ser estritamente técnico. Esse aparente
+
+desvio de finalidade vem sendo discutido na própria ADPF nº 754, cujo julgamento
+
+da medida cautelar está agendado para o próximo dia 17/12 nessa Eg. Corte.
+
+Neste sentido, a Anvisa já declarou à imprensa que a autorização prevista no
+
+inciso VIII do artigo 3º da Lei nº 13.979, de 2020, “se refere a produtos com registro
+
+em uma das 4 autoridades regulatórias sanitárias, ou seja, a vacina precisa ter
+
+registro em uma das 4 autoridades, e não apenas autorização para uso emergencial”
+
+5 .
+
+4 Disponível em:
+<https://oglobo.globo.com/sociedade/coronavirus/nao-ha-plano-dizem-cientistas-sobre-vacinacao-cont
+ra-covid-19-no-brasil-24788311>.5 Acesso em 9/12/2020. Disponível em:
+<https://www.oantagonista.com/brasil/anvisa-admite-que-lei-pode-ser-usada-para-autorizar-vacina-em
+-ate-72-horas/>. Acesso em 9/12/2020.
+
+
+[[pagina 4 | nativo]]
+Ora, a conclusão a que se chega é que a Anvisa irá negar todos os pedidos
+
+dos Entes Federados feitos com base nesta previsão legal, alegando que não há
+
+registro definitivo, mas mera autorização para uso emergencial. E, neste caso, não
+
+haverá aprovação tácita pelo decurso do prazo legal de 72 horas sem resposta,
+
+frente à negativa formal da Agência.
+
+Diante desses aparentes boicotes, o Estado do Maranhão, por exemplo,
+
+acionou esse Tribunal (ACO 3451) para ver sua competência constitucional de
+
+cuidados com a saúde de sua população garantida. Colocando em escala, essa
+
+atitude errática do Governo Federal poderá levar a uma judicialização excessiva da
+
+demanda, ante a possibilidade de ajuizamento de ações judiciais por todos os Entes
+
+Federados, o que clama por uma rápida solução pacificadora da Eg. Corte Suprema,
+
+como se passa a sucintamente demonstrar.
+
+Por fim, a Lei nº 13.979, de 6 de fevereiro de 2020, possui atualmente a sua
+
+vigência vinculada ao Estado de Calamidade Pública reconhecido pelo Decreto nº 6,
+
+de 20 de março de 2020, que se encerra em 31 de dezembro de 2020, em pouco
+
+mais de 3 (três) semanas.
+
+O Poder Executivo Federal ainda não apresentou um novo pedido para
+
+prorrogar o Estado de Calamidade Pública. Neste sentido, já foram apresentados
+
+projetos de lei para alterar a vigência da Lei ou de parte dela, como, por exemplo, o
+
+Projeto de Lei nº 5.436, de 2020, do Senador Randolfe Rodrigues 6 ; entretanto, tendo
+
+em vista o exíguo prazo e considerando-se os fatores políticos envolvidos, é
+
+possível que a vigência chegue ao seu término, deixando as autoridades sem os
+
+meios necessários para se continuar o enfrentamento da pandemia. Ou seja,
+
+necessário, também, que haja pronunciamento em decorrência do iminente fim da
+
+vigência da Lei nº 13.979, de 2020.
+
+6 https://www25.senado.leg.br/web/atividade/materias/-/materia/145767
+
+
+[[pagina 5 | nativo]]
+Sensível à desorganização do Poder Executivo Federal, a Frente Nacional
+
+dos Prefeitos divulgou nota hoje com críticas à condução do processo de vacinação.
+
+Veja-se a íntegra do documento 7 :
+
+Governantes locais que tomarão posse ou serão reconduzidos em 1º
+de janeiro de 2021, reunidos em encontro virtual da Frente Nacional
+de Prefeitos (FNP), cobram do governo federal aquisição de vacinas
+e plano de imunizações contra a COVID-19.
+
+Com milhões de infectados e de mortos pelo mundo, mais de 6
+milhões de casos e de 177 mil mortes no Brasil, prefeitas e prefeitos
+eleitos e reeleitos reivindicam que o governo federal cumpra seu
+papel constitucional de harmonização da federação e providencie,
+com agilidade e presteza, no âmbito do Plano Nacional de
+Imunizações, a compra e distribuição de vacinas contra a COVID-19.
+É descabido que a União não se coloque, com clareza e
+efetividade, à frente desse processo para proteger os cidadãos
+brasileiros e garantir acesso universal à saúde, como determina a
+Constituição de 1988. A cada dia que passa são centenas de
+pessoas que perdem a vida pela doença.
+O Brasil tem uma tradição histórica de vacinação em massa.
+Isso é uma conquista de Estado e está longe de ser uma questão de
+governo, não podemos abrir mão desse legado.
+Não é razoável que algumas cidades e estados tenham que
+lançar mão de estratégias locais de aquisição de vacinas para
+proteger a população porque o governo federal procrastinou assunto
+tão importante. Imunizar os brasileiros é devolver ao povo a liberdade
+de conviver, a confiança de trabalhar e a possibilidade de sonhar.
+A retomada econômica depende da imunização da população
+e também da estabilidade e tempestividade das ações
+governamentais. Por isso, prefeitas e prefeitos eleitos e reeleitos
+contam com atitudes assertivas da União a partir de agora.
+
+Na mesma linha parece ter caminhado a reunião havida ontem entre os
+
+Governadores e o Ministro da Saúde. Veja-se 8 :
+
+Governadores cobram Pazuello sobre plano de vacinação: 'Não
+posso esperar'
+
+7 Disponível em:
+<https://multimidia.fnp.org.br/biblioteca/documentos/item/900-nota-de-posicionamento-sobre-vacinaca
+o-contra-a-covid-19>.8 Acesso em 9/12/2020. Disponível em:
+<https://noticias.uol.com.br/saude/ultimas-noticias/redacao/2020/12/08/reuniao-governadores-pazuell
+o-vacina-coronavirus.htm>. Acesso em 9/12/2020.
+
+
+[[pagina 6 | nativo]]
+Governadores de diversos estados se reúnem hoje com o
+ministro da Saúde, Eduardo Pazuello, para cobrar um plano de
+vacinação contra o novo coronavírus.
+"Estou procurando todos os meios, os órgãos de controle para
+nos orientarem como fazer para comprar [alguma vacina]. Como
+governador, não posso esperar uma semana a mais [por um plano]',
+disse Gladson Cameli (PP), governador do Acre.
+Wellington Dias (PT), governador do Piauí, afirmou que "a
+posição dos governadores do Brasil é muito clara": "Primeiro,
+queremos salvar vidas", disse.
+"Não temos restrição a nenhuma vacina. A vacina autorizada,
+segura e com eficiência é a vacina boa para os brasileiros", concluiu.
+Já Fátima Bezerra (PT), governadora do Rio Grande do Norte,
+disse hoje que os governadores esperam sair da reunião com
+Pazuello com "definições concretas, com calendário, com vacinas
+seguras e suficientes para iniciar o mais rápido possível o processo
+de vacinação".
+"Estive em contato com o governador (de São Paulo) João
+Doria (PSDB). Já estamos em tratativas com Dimas Covas
+[presidente do Instituto Butantan) para aquisição também da vacina
+CoronaVac [para o RN]", acrescentou.
+Ontem, Wellington Dias, que também preside o Consórcio
+Nordeste e coordena o tema da vacina no Fórum Nacional de
+Governadores, disse que governadores pediriam a Pazuello que o
+governo federal adquira "múltiplas vacinas" e inicie um plano de
+vacinação em massa.
+Na semana passada, o governo federal apresentou um modelo
+preliminar do PNI (Plano Nacional de Imunização) contra a covid-19,
+com idosos, indígenas e presos tendo prioridade na vacinação.
+Ontem, o governo de São Paulo apresentou um PEI (Plano
+Estadual de Imunização) contra o novo coronavírus.
+Baseando-se na CoronaVac, que ainda não foi aprovada pela
+Anvisa (Agência Nacional de Vigilância Sanitária), o plano do
+governo paulista estima iniciar a vacinação a partir do dia 25 de
+janeiro em profissionais da saúde, indígenas e quilombolas.
+
+Ou seja, a percepção dos gestores dos entes subnacionais parece ser
+
+convergente: a omissão do Governo Federal vem atrapalhando qualquer perspectiva
+
+de efetivamente imunizar a população brasileira. É justamente esse comportamento
+
+inconstitucional do Governo Federal que ora se pretende expurgar do ordenamento
+
+jurídico, na exata medida da necessária defesa da saúde de nossa população e do
+
+nosso pacto federativo.
+
+
+[[pagina 7 | nativo]]
+II. DA LEGITIMIDADE ATIVA E DO CABIMENTO DA ADI
+
+A grei arguente é partido político com representação no Congresso Nacional.
+
+Sua bancada, como é público e notório e, nessa condição, dispensa prova, na forma
+
+do art. 374, I, do CPC, é composta pelos seguintes parlamentares: Joênia
+
+Wapichana (REDE-RR), Randolfe Rodrigues (REDE-AP) e Fabiano Contarato
+
+(REDE-ES).
+
+Desse modo, na forma do artigo 2º, VIII, da Lei nº 9.868, de 1999, c/c artigo
+
+103, VIII, da Constituição, é parte legítima para propor a presente ação.
+
+Ademais, nos termos da jurisprudência do STF, o partido político com
+
+representação no Congresso Nacional possui legitimidade universal para o
+
+ajuizamento de ações do controle concentrado de constitucionalidade, não havendo
+
+necessidade de se avaliar a pertinência temática 9 .
+
+Quanto ao cabimento, a Ação Direta de Inconstitucionalidade, prevista no art.
+102, I, “a”, da Constituição Federal 10, e regulamentada pela Lei 9.868/99, terá por
+objeto lei ou ato normativo federal ou estadual. No caso em apreço, estamos diante
+da análise de norma federal contida na Lei nº 13.979/2020 (inciso VIII do caput, do
+inciso IV do § 7º e do § 7º-A, todos do art. 3º da Lei, e art. 8º da própria Lei), para
+
+que se dê ao texto legal interpretação conforme à Constituição.
+
+No caso concreto, há a interpretação inconstitucional da norma levaria,
+
+invariavelmente, à violação ao direito à vida (art. 5º) e à saúde (arts. 6º e 196),
+
+direitos fundamentais previstos na nossa Constituição e de titularidade de qualquer
+
+brasileiro, independente de preferências político-ideológicas. Além disso, há também
+
+violação às competências constitucionalmente dispostas para tratar a gestão da
+
+9 Nesse sentido: ADI 1096 MC, Relator(a):Min. CELSO DE MELLO, Tribunal Pleno, julgado em
+16/03/1995, DJ 22-09-1995 PP-30589 EMENTA VOL-01801-01 PP-00085.
+10 Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória de
+constitucionalidade de lei ou ato normativo federal;
+
+
+[[pagina 8 | nativo]]
+saúde no país (art. 23, II, e art. 24, II), bem delineadas por essa Eg. Corte no âmbito
+
+das recentes ADI-MC nº 6.341/DF e ADPF-MC nº 672/DF.
+
+Não há dúvidas, portanto, de que o ato questionado se qualifica como “ato
+
+normativo federal”, apto, portanto, a ser impugnado por Ação Direta de
+
+Inconstitucionalidade. Dessa forma, permite-se ao STF a decisão célere sobre
+
+questões eminentemente constitucionais, impedindo a extensão dos danos às
+
+normas do texto da Carta Política, isso, sobretudo, em ações que têm por objetivo
+
+resguardar os direitos e garantias constitucionais mais basilares. E nada mais basilar
+
+que o direito à vida e à saúde.
+
+III. DO MÉRITO
+
+Em primeiro lugar, é dentro desse panorama de violação direta ao texto
+constitucional que se inserem os atos ora impugnados. Por questões inexplicáveis
+
+sob o ponto de vista técnico, o Sr. Presidente da República quer privar toda a
+
+população de ter acesso pleno, amplo e rápido à vacinação contra a covid-19. E isso
+
+justamente no momento em que ainda se registram números diários altíssimos de
+
+confirmação de óbitos.
+
+A imposição de vontade do Presidente da República sobre decisões que
+
+deveriam ser técnicas já são públicas e notórias. Contudo, se todos seguirem à risca
+
+a posição do Presidente, verão seus mais basilares direitos à vida e à saúde
+
+letalmente violados.
+
+E nada sobra do núcleo fundamental - ou do mínimo existencial - desses
+
+direitos no caso concreto, o que legitima a atuação jurisdicional para dar força
+
+cogente à determinação de que o Poder Executivo Federal simplesmente se utilize
+
+de critérios estritamente técnicos para a definição das melhores opções de vacina
+
+para os brasileiros.
+
+
+[[pagina 9 | nativo]]
+Aliás, a utilização de padrões científicos foi a tônica utilizada quando do
+
+recente julgamento da ADI nº 6.421/DF, proposta por essa mesma autora em face
+
+de medida provisória que minorava a responsabilidade de agentes públicos durante
+
+a pandemia. Naquele momento, a Corte estabeleceu que a autoridade a quem
+
+compete decidir deve exigir que as opiniões técnicas em que baseará sua decisão
+
+tratem expressamente: (i) das normas e critérios científicos e técnicos aplicáveis à
+
+matéria, tal como estabelecidos por organizações e entidades internacional e
+
+nacionalmente reconhecidas; e (ii) da observância dos princípios constitucionais da
+
+precaução e da prevenção, sob pena de se tornarem corresponsáveis por eventuais
+
+violações a direitos. E isso sob pena de se configurar erro grosseiro apto a ensejar a
+
+responsabilização do agente público tomador de decisão.
+
+Partindo desse paradigma de que não há caminho republicano senão aquele
+
+trilhado pela ciência, sabe-se que a Constituição Federal, logo em seu primeiro
+
+artigo, estabelece a dignidade da pessoa humana como um dos fundamentos do
+
+Estado brasileiro. Para dar densidade a esse postulado de quase todos os Estados
+
+modernos - que colocam o humano como centro do ordenamento jurídico -, a
+
+Constituição também descreve, no seu extenso rol de direitos fundamentais, o direito
+
+à saúde e à vida. Aquele geralmente é associado a uma contraprestação positiva
+
+que visa, em última medida, atender a este.
+
+Nessa esteira, é de se questionar, de plano: o que sobra do núcleo
+
+fundamental do direito social à saúde se o próprio mandatário primeiro do governo
+
+federal parece brincar com a saúde da população brasileira, ao privar os brasileiros
+
+de uma iminente vacinação por critérios meramente ideológicos e metacientíficos,
+
+além de patente falta de planejamento estratégico para uma vacinação massiva?
+
+Com a devida vênia, aparentemente nada. Ou seja, o Estado está afastando por
+
+completo o direito à saúde da população do Brasil por questões de convicção
+
+meramente pessoal e, diga-se, irracional.
+
+Este partido autor não será conivente com essas atuações disfuncionais
+
+administrativas! Será que o Presidente acha que os brasileiros mais vulneráveis são
+
+
+[[pagina 10 | nativo]]
+meios-cidadãos para não serem dignos do respeito à vida e da promoção à sua
+
+saúde? Não se pode tolerar que os brasileiros sejam novamente expostos a riscos
+
+desmedidos, notadamente quando se trata de tema tão caro à população.
+
+Noutro giro, sabe-se que a Constituição Federal dispensou tratamento
+
+privilegiado ao direito à saúde. Além de se tratar de verdadeiro direito fundamental
+
+social, também se trata de um dever comum atribuído à União, aos Estados e aos
+
+Municípios (art. 23, II; e art. 30, VII), inclusive, quanto àqueles, como competência
+
+legislativa concorrente (art. 24, XII).
+
+Por sua vez, o art. 196 esclarece que a saúde é direito de todos e dever do
+
+Estado, garantido mediante políticas sociais e econômicas que visem à redução do
+
+risco de doença e de outros agravos e ao acesso universal e igualitário às ações e
+
+serviços para sua promoção, proteção e recuperação. Com a devida vênia, as
+
+políticas atualmente empregadas pelo Governo Federal parecem ir na contramão do
+
+mandamento constitucional, pois redundam, em verdade, no agravamento dos riscos
+
+de doença pelo coronavírus.
+
+Partindo disso, a melhor solução para o problema realmente parece ser que
+
+se impeça o Presidente da República de cometer mais este verdadeiro crime contra
+
+o Povo Brasileiro!
+
+Nesse sentido, é clara a violação ao mais basilar direito difuso de todos: o de
+
+simplesmente sobreviver, com proteção à vida e promoção de saúde. Todos os
+
+brasileiros têm, sim, o direito de ver sua saúde e sua vida protegidas pelo Poder
+
+Público! Partindo disso, é fato que esses atos inconstitucionais devem ser superados
+
+por este nobre Juízo, para que a população não sofra com a falta de vacinas,
+
+excluídas algumas potenciais boas opções por critérios meramente pessoais e
+
+autofágicos. Afinal, quando a ausência de tratamento é deliberadamente imposta
+
+pela autoridade máxima do Brasil e ceifa a vida de um único cidadão, não há mais
+
+motivos para acreditar no Estado.
+
+
+[[pagina 11 | nativo]]
+Em segundo lugar, é forçoso perceber que a Constituição Federal organizou
+a gestão da saúde pública - que cuida primordialmente da vacinação da população
+
+contra o coronavírus - de forma descentralizada (art. 198, I), atribuindo competência
+
+concorrente e comum aos entes subnacionais para legislarem e administrarem o
+
+respectivo sistema de prestação de saúde.
+
+Nessa linha, no âmbito da ADPF-MC nº 672/DF, essa Eg. Corte bem
+
+assentou que, em relação à saúde e assistência pública, a Constituição Federal
+
+consagra a existência de competência administrativa comum entre União, Estados,
+
+Distrito Federal e Municípios (art. 23, II e IX, da CF), bem como prevê competência
+
+concorrente entre União e Estados/Distrito Federal para legislar sobre proteção e
+
+defesa da saúde (art. 24, XII, da CF), permitindo aos Municípios suplementar a
+
+legislação federal e a estadual no que couber, desde que haja interesse local (art.
+
+30, II, da CF); e prescrevendo ainda a descentralização político-administrativa do
+
+Sistema de Saúde (art. 198, CF, e art. 7º da Lei 8.080/1990), com a consequente
+
+descentralização da execução de serviços, inclusive no que diz respeito às
+
+atividades de vigilância sanitária e epidemiológica (art. 6º, I, da Lei 8.080/1990).
+
+O Poder Executivo federal exerce o papel de ente central no planejamento e
+
+coordenação das ações governamentais em prol da saúde pública, mas nem por
+
+isso pode afastar, unilateralmente, as decisões dos governos estaduais, distrital e
+
+municipais que, no exercício de suas competências constitucionais, adotem medidas
+
+sanitárias previstas na Lei 13.979/2020 no âmbito de seus respectivos territórios,
+
+como a imposição de distanciamento ou isolamento social, quarentena, suspensão
+
+de atividades de ensino, restrições de comércio, atividades culturais e à circulação
+
+de pessoas, entre outros mecanismos reconhecidamente eficazes para a redução do
+
+número de infectados e de óbitos, sem prejuízo do exame da validade formal e
+
+material de cada ato normativo específico estadual, distrital ou municipal editado
+
+nesse contexto pela autoridade jurisdicional competente.
+
+De modo muito semelhante, a Corte também afirmou, agora no âmbito da
+
+ADI-MC nº 6.341/DF, o pior erro na formulação das políticas públicas é a omissão,
+
+
+[[pagina 12 | nativo]]
+sobretudo para as ações essenciais exigidas pelo art. 23 da Constituição Federal. É
+
+grave que, sob o manto da competência exclusiva ou privativa, premiem-se as
+
+inações do governo federal, impedindo que Estados e Municípios, no âmbito de suas
+
+respectivas competências, implementem as políticas públicas essenciais. O Estado
+
+garantidor dos direitos fundamentais não é apenas a União, mas também os
+
+Estados e os Municípios.
+
+A diretriz constitucional da hierarquização, constante do caput do art. 198 não
+
+significou hierarquização entre os entes federados, mas comando único, dentro de
+
+cada um deles.
+
+É preciso ler as normas que integram a Lei 13.979, de 2020, como
+
+decorrendo da competência própria da União para legislar sobre vigilância
+
+epidemiológica, nos termos da Lei Geral do SUS, Lei 8.080, de 1990. O exercício da
+
+competência da União em nenhum momento diminuiu a competência própria dos
+
+demais entes da federação na realização de serviços da saúde, nem poderia, afinal,
+
+a diretriz constitucional é a de municipalizar esses serviços.
+
+Afinal, o direito à saúde é garantido por meio da obrigação dos Estados
+
+Partes de adotar medidas necessárias para prevenir e tratar as doenças epidêmicas
+
+e os entes públicos devem aderir às diretrizes da Organização Mundial da Saúde,
+
+não apenas por serem elas obrigatórias nos termos do Artigo 22 da Constituição da
+
+Organização Mundial da Saúde (Decreto 26.042, de 17 de dezembro de 1948), mas
+
+sobretudo porque contam com a expertise necessária para dar plena eficácia ao
+
+direito à saúde.
+
+Como a finalidade da atuação dos entes federativos é comum, a solução de
+
+conflitos sobre o exercício da competência deve pautar-se pela melhor realização do
+
+direito à saúde, amparada em evidências científicas e nas recomendações da
+
+Organização Mundial da Saúde.
+
+
+[[pagina 13 | nativo]]
+Nessa linha, é preciso admitir que, diante da inação e do comportamento
+
+errático do Poder Executivo Federal, os governos estaduais e municipais tenham
+
+capacidade de gerenciar a vacinação em suas respectivas localidades, sem que
+
+eventuais argumentos com finalidade desviada sejam utilizados para barrarem a
+
+vacinação - notadamente, faz-se referência aqui à pretensa utilização da Anvisa
+
+como estrutura ideológica para permitir ou vedar vacinas igualmente eficazes
+
+apenas em razão de sua bandeira política de nacionalidade.
+
+Em terceiro e último lugar, deve-se ter em mente que a legislação federal
+em vigor já prevê mecanismos de solução para referida situação. Com efeito, a Lei
+
+nº 13.979/2020 prevê, em seu art. 3º, medidas que as autoridades poderão adotar,
+
+no seu âmbito de competências para o enfrentamento da emergência de saúde
+
+pública de importância internacional decorrente do coronavírus. Dentre essas
+
+medidas a serem adotadas pelos gestores federais, estaduais e municipais de saúde
+
+está a própria vacinação, que, como já se enumerou, pode ser entendida como
+
+dentro das competências constitucionais comuns e da organização descentralizada
+
+do SUS.
+
+Com efeito, o inciso VIII de referido art. 3º menciona expressamente a
+
+autorização excepcional e temporária para a importação e distribuição de quaisquer
+
+materiais, medicamentos, equipamentos e insumos da área de saúde sujeitos à
+
+vigilância sanitária sem registro na Anvisa considerados essenciais para auxiliar no
+
+combate à pandemia do coronavírus, desde que registrados por pelo menos 1 (uma)
+
+das seguintes autoridades sanitárias estrangeiras e autorizados à distribuição
+
+comercial em seus respectivos países: Food and Drug Administration (FDA), nos
+
+Estados Unidos; European Medicines Agency (EMA), na União Europeia;
+
+Pharmaceuticals and Medical Devices Agency (PMDA), no Japão; e National
+
+Medical Products Administration (NMPA), na China.
+
+Na sequência, a legislação atribui a competência do inciso VIII à Anvisa (§ 7º),
+
+mas registra que referida autorização deverá ser concedida pela Anvisa em até 72
+
+(setenta e duas) horas após a submissão do pedido à Agência, dispensada a
+
+
+[[pagina 14 | nativo]]
+autorização de qualquer outro órgão da administração pública direta ou indireta para
+
+os produtos que especifica, sendo concedida automaticamente caso esgotado o
+prazo sem manifestação (§ 7º-A). Ou seja, há um mecanismo de aprovação tácita
+justamente para evitar que eventual mora administrativa prejudique a saúde de
+toda a população brasileira.
+
+Ocorre, contudo, que ainda existem alguns problemas de ordem prática a
+serem superados: (i) o que acontece se a Anvisa, mesmo com a aprovação das
+renomadíssimas agências internacionais, negar a autorização de uso da vacina no
+Brasil?; (ii) é necessário o registro da vacina nas agências estrangeiras ou basta a
+autorização do uso emergencial ou excepcional para que o uso seja aprovado no
+Brasil?; (iii) deve haver distribuição comercial estrangeira ou basta que haja
+distribuição da vacina nos respectivos sistemas públicos de saúde? Ou não há
+diferenciação?; (iv) a autorização de outras “renomadas agências de regulação no
+exterior” (expressão utilizada por essa Corte quando do julgamento do RE nº
+
+657718/MG, que fixou diretrizes para a utilização, no Brasil, de medicamentos não
+
+aprovados ainda pela Anvisa), não expressamente citadas no texto legal, é
+suficiente para a autorização emergencial de uso no Brasil?; e (v) o problema mais
+grave de ordem prática parece ser o prazo de vigência da Lei (art. 8º), que acaba
+
+indiretamente limitando a incidência da norma até o dia 31/12/2020.
+
+Como se vê, essas são questões que devem ser finalmente resolvidas, de
+modo a pacificar a questão das vacinas no Brasil. Quanto ao ponto (i), quer parecer
+que a Constituição Federal, justamente sob o primado republicano da
+
+impessoalidade, é incompatível com eventuais negativas da Anvisa para o uso. Ou,
+
+ao menos, eventual rejeição deve ser carregada por fundamentação estritamente
+
+técnica, e não político-ideológica (como assentado por essa Eg. Corte no âmbito da
+
+ADI-MC nº 6.421/DF). E, como já se viu, argumentações técnicas não parecem ser
+
+exatamente o forte, com a devida vênia, do Governo Federal, que insiste em
+
+perseguir a vacina chinesa (Coronavac) pura e simplesmente por ser chinesa.
+
+
+[[pagina 15 | nativo]]
+Talvez o “vírus comunista”, como já falado por algumas autoridades federais - com o
+
+que aqui, obviamente, não se concorda -, seja imune à vacina chinesa.
+
+Quanto ao ponto (ii), a Anvisa parece enxergá-lo como outro gatilho para
+amarrar as autorizações excepcionais de uso no Brasil. Nesse sentido, em entrevista
+
+concedida na data de ontem, a Agência declarou que seria “[I]mportante destacar
+
+que se refere a produtos com registro em uma das 4 autoridades regulatórias
+
+sanitárias, ou seja, a vacina precisa ter registro em uma das 4 autoridades, e não
+
+apenas autorização para uso emergencial“ 11.
+
+Ora, não é possível admitir que filigranas linguísticas submetam a
+
+população brasileira a risco. Se o legislador escreveu a palavra “registro”,
+
+claramente registrou menos do que a verdadeira vontade legislativa pretendeu,
+
+por mero erro de técnica legislativa que não pode ser usado em face da
+
+Constituição.
+
+É evidente que nenhuma agência internacional renomada registrará
+
+efetivamente a vacina a bom tempo. O procedimento de registro definitivo é
+
+bastante complexo e demorado, estando fora de cogitação para o controle de
+
+uma doença que acontece no presente e mata milhares de pessoas por dia.
+
+Todas as agências internacionais estão se utilizando de um procedimento
+
+mais simplificado de “registro”, que é a autorização excepcional ou
+
+emergencial de uso. A Anvisa fará o mesmo no Brasil. Nessa linha, é preciso
+
+que se entenda a palavra “registro” na legislação (alínea “a” do inciso VIII do
+
+art. 3º) tanto como registro definitivo, quanto o registro provisório e a
+
+autorização excepcional ou emergencial de uso.
+
+Quanto ao ponto (iii), sustenta-se aqui o mesmo argumento de que o
+legislador disse, textualmente, menos do que naturalmente pretendia dizer. Com
+
+efeito, em quase todos os lugares do mundo, está-se priorizando a vacinação
+
+11 Disponível em:
+<https://www.oantagonista.com/brasil/anvisa-admite-que-lei-pode-ser-usada-para-autorizar-vacina-em
+-ate-72-horas/>. Acesso em 9/12/2020.
+
+
+[[pagina 16 | nativo]]
+pública e gratuita da população. É claro que a vacina também estará disponível na
+
+rede privada, mas não se sabe se de modo imediato. Assim, é preciso entender
+
+que o termo “distribuição comercial” na legislação (alínea “a” do inciso VIII do
+art. 3º) inclui tanto o comércio stricto sensu (iniciativa privada), quanto o uso
+autorizado nos respectivos sistemas públicos de saúde. Em tese, é claro, o
+termo comercial já deveria abarcar tal pretensão, mas, às vezes, é preciso dizer o
+
+óbvio.
+
+Quanto ao ponto (iv), é preciso entender que o legislador novamente disse
+menos do que pretendia quando da construção dos itens da alínea “a” do inciso VIII
+
+do art. 3º. Com efeito, a legislação federal citou nominalmente quatro agências
+
+regulatórias estrangeiras: a estadunidense, a europeia, a japonesa e a chinesa. Lida
+
+de modo restritivo, essa construção do texto indicaria que o Brasil não confia na
+
+agência regulatória britânica, na alemã, na francesa, na italiana, na canadense, na
+
+sul-coreana, na australiana, etc.
+
+É claro, contudo, que essa intepretação restritiva é inconstitucional, por violar,
+
+além do direito à saúde, os próprios princípios constitucionais da não discriminação
+
+e outros atinentes à condução das relações internacionais pela República Federativa
+
+do Brasil. Infelizmente, o legislador optou, ao que parece, por uma má técnica
+
+legislativa ao enumerar agências pretensamente renomadas e confiáveis. O risco da
+
+enumeração é exatamente o que ocorreu: esquecer-se de citar tantas outras
+
+igualmente renomadas e confiáveis.
+
+No caso concreto, e até onde se sabe, nenhuma dessas quatro agências
+
+nomeadas na legislação registrou ou aprovou excepcionalmente o uso de qualquer
+
+vacina disponível no mercado. Ou seja, na interpretação inconstitucional restritiva,
+
+nenhuma vacina poderia ser utilizada no Brasil por ora, já que Estados Unidos,
+
+Europa, China e Japão não registraram referidos insumos imunizantes.
+
+Advoga-se, nesse sentido, que interpretação mais compatível com a
+
+Constituição seria no sentido de estender a autorização prevista na Lei àquela
+
+
+[[pagina 17 | nativo]]
+dada por outras “renomadas agências de regulação no exterior” (expressão
+
+utilizada por essa Corte quando do julgamento do RE nº 657718/MG, que fixou
+
+diretrizes para a utilização, no Brasil, de medicamentos não aprovados ainda
+
+pela Anvisa). E, novamente, não poderão ser utilizados critérios
+
+político-ideológicos para restrições indevidas, mas somente dados científicos.
+
+É claro que, por dever de transparência, se admite que a Corte citou
+
+textualmente em referido julgamento os órgãos reguladores dos EUA, do Japão e da
+
+Europa. Em um cenário de normalidade e estabilidade sanitária, talvez realmente
+
+sejam bons critérios; contudo, em um cenário de profunda emergência sanitária -
+
+como a atual pandemia -, é preciso admitir que existem tantas outras agências
+
+estrangeiras igual ou mais qualificadas e respeitadas do ponto de vista científico. E
+
+aqui a comparação é clara: a agência britânica, por exemplo, não é citada pela Lei
+ou como obter dictum no julgamento referido desse Tribunal. Mas foi a primeira a
+autorizar a vacina contra o coronavírus no mundo e, certa e indubitavelmente, é
+
+extremamente confiável, renomada e respeitada. Outros países caminham no
+
+mesmo sentido: a Health Canada, agência que regula as vacinas no país, também
+
+aprovou, em 9/12, a vacina contra a Covid-19 da Pfizer/BioNTech. Após a revisão de
+
+dados, os canadenses concluíram que a vacina é segura e eficaz e já pode ser
+
+aplicada em todo o país, de forma emergencial 12 .
+
+Por fim, quanto ao ponto (v), é preciso aqui dizer o óbvio: a pandemia,
+infelizmente, continua. E, ao que parece, enfrentaremos mais um ano de
+
+incessantes tentativas de controle à disseminação da triste doença que já vitimou
+
+quase 180 mil brasileiros, infectou milhões de outros, deixou inúmeros
+
+desempregados e causou gravíssimas consequências em quase toda a sociedade
+
+brasileira.
+
+12 Disponível em:
+<https://g1.globo.com/bemestar/vacina/noticia/2020/12/09/agencia-reguladora-do-canada-aprova-vaci
+na-da-pfizer.ghtml>. Acesso em 9/12/2020.
+
+
+[[pagina 18 | nativo]]
+Quando do início do ano, não tínhamos a exata dimensão de que a doença
+
+atingiria proporções tão graves no Brasil e no mundo de forma geral. Nesse sentido,
+
+e talvez por acreditarmos, àquela época, que a infecção poderia ser mais
+
+rapidamente controlada, esse Congresso Nacional construiu a Lei nº 13.979/2020
+
+(“Lei do Coronavírus”) com base na perspectiva de que a situação já estaria melhor
+
+em 31/12/2020. Hoje, vemos quase como um sonho distante que a pandemia esteja
+
+efetivamente controlada nos próximos 22 dias do prazo de validade da referida Lei
+
+(conforme o disposto no caput do art. 8º da norma).
+
+Com o eventual término da vigência da Lei, medidas de isolamento,
+
+quarentena, restrição de deslocamento, autorização excepcional para vacina, uso
+
+obrigatório de máscara e afins perderão sua referência normativa federal no
+
+iminente dia 31/12/2020, quando, como já se disse, a pandemia estará longe de
+
+controle no Brasil.
+
+Nessa linha, parece salutar estender a vigência dos dispositivos
+
+contidos nos arts. 3º ao 3º-J da Lei nº 13.979/2020 (aqueles que cuidam
+
+efetivamente de disposições de trato médico e sanitário de modo mais direto)
+
+até o dia 31/12/2021 ou até o término da emergência internacional de saúde
+
+decorrente do coronavírus, em decisão da Organização Mundial de Saúde, o
+que ocorrer por último.
+
+O núcleo essencial é o de manter a eficácia das medidas de contenção ao
+
+alastramento da doença por, ao menos, mais um ano, prazo em que, esperamos,
+
+conseguiremos controlar a doença. Esse parece ser o melhor sentido do texto
+
+constitucional. É claro que os Poderes Legislativo e Executivo podem - e devem -
+
+estender a eficácia da Lei do Coronavírus (ou de partes dela, como aqui se advoga).
+
+Mas, enquanto nada fazem e na iminência do fim da vigência da legislação, é
+
+premente que esse Eg. Poder Judiciário atue, suprindo a lacuna até, ao menos,
+melhor regulamentação pelos Poderes constituídos. Do contrário, no dia 1º de
+
+
+[[pagina 19 | nativo]]
+janeiro de 2021, perderemos a base normativa inclusive para o uso de medidas de
+
+isolamento, quarentena, proteção e afins.
+
+Ademais, vale ressaltar a consequência imediata da perda de vigência
+
+especificamente do § 7º-A do artigo 3º da Lei. O referido dispositivo cria prazo para a
+
+análise dos pedidos de autorização excepcional e temporária para a importação e
+
+distribuição de quaisquer materiais, medicamentos, equipamentos e insumos, nos
+
+quais se incluem, por óbvio, as vacinas:
+
+§ 7º-A. A autorização de que trata o inciso VIII do caput deste artigo
+deverá ser concedida pela Anvisa em até 72 (setenta e duas) horas
+após a submissão do pedido à Agência, dispensada a autorização de
+qualquer outro órgão da administração pública direta ou indireta para
+os produtos que especifica, sendo concedida automaticamente caso
+esgotado o prazo sem manifestação.
+
+Caso o dispositivo deixe de produzir efeitos, a Anvisa terá o seu prazo
+
+de análise aumentado de 3 (três) para 90 (noventa) dias, conforme norma geral
+
+prevista no § 3º do artigo 12 da Lei nº 6.360, de 1976, com a redação dada pela
+
+Lei nº 13.411, de 2017 13 . Um aumento de 30 vezes! Imagine-se, com as devidas
+
+vênias, a quantidade de vidas perdidas durante os longuíssimos 90 dias para a
+
+aprovação da vacina.
+
+Vale ainda ressaltar que o § 7º-A da Lei nº 13.979, de 2020, foi objeto de veto
+
+pelo Sr. Presidente da República, o qual foi derrubado pelo Congresso Nacional em
+
+votação esmagadora 14, demonstrando mais uma vez, de um lado, a postura
+
+incompatível do Poder Executivo Federal com a gravidade da pandemia, de outro, o
+
+13 Art. 12 - Nenhum dos produtos de que trata esta Lei, inclusive os importados, poderá ser
+industrializado, exposto à venda ou entregue ao consumo antes de registrado no Ministério da Saúde.
+§ 3º - Ressalvado o disposto nos arts. 17-A, 21 e 24-A, o registro será concedido no prazo máximo de
+noventa dias, a contar da data de protocolo do requerimento, salvo nos casos de inobservância, por
+parte do requerente, a esta Lei ou a seus regulamentos.
+14 Resultado da votação, pela derrubada do veto, por 63 a 2 no Senado Federal, e por 454 a 14 na
+Câmara dos Deputados. Disponível em
+<https://www.congressonacional.leg.br/materias/vetos/-/veto/detalhe/13285/1/por-voto>. Acesso em
+9/12/2020.
+
+
+[[pagina 20 | nativo]]
+interesse do Congresso Nacional e a consciência de seus membros acerca da
+
+importância e da urgência do tema.
+
+De modo imediatamente relacionado à presente ação, é extremamente
+
+importante analisarmos o cenário da vacinação no Brasil. Sem a prorrogação do
+
+prazo de vigência da Lei, por exemplo, é possível que sequer se possam utilizar
+
+vacinas registradas ou autorizadas por agências sanitárias estrangeiras
+
+respeitadíssimas. Ou seja, o Brasil ficaria à espera de eventuais autorizações da
+
+Anvisa, que vem sofrendo, ao que parece, nefastas pressões políticas do Poder
+
+Executivo Federal para segurar a aprovação técnica de vacinas em tese viáveis sob
+
+o prisma científico. Nessa linha, a prorrogação da vigência da Lei acaba evitando
+
+esse potencial mau uso da Agência.
+
+V. DA MEDIDA CAUTELAR
+
+Para além de todos os fundamentos já aqui delineados, também é
+
+sucintamente preciso demonstrar que estão presentes os pressupostos para a
+
+concessão da medida liminar ora postulada, nos termos do art. 10, § 3º, da Lei
+
+9.868/99.
+
+Por um lado, o fumus boni juris está amplamente configurado, diante de todas
+as razões acima expostas, as quais evidenciam que o Poder Executivo Federal tem
+
+adotado comportamentos sem respaldo técnico e científico, com viés claramente
+
+político, para o controle da pandemia no Brasil, apesar do evidente direito à vida e à
+
+saúde da população brasileira.
+
+Se de um lado, a União se omite quanto ao plano nacional de imunização,
+
+procrastinando a aquisição de todas as vacinas possíveis, técnica e cientificamente
+
+viáveis no mercado, de outro, a Anvisa já indica que não irá autorizar a compra
+
+direta pelos Estados Federados, apesar de já existir expressa previsão legal para
+
+
+[[pagina 21 | nativo]]
+aquisição de vacinas registradas por autoridades sanitárias internacionais
+
+independente do aval desta Agência Reguladora.
+
+O periculum in mora, por seu turno, consubstancia-se nos efeitos imediatos
+dos atos do Poder Executivo Federal, que acaba por atingir gravemente os principais
+
+direitos do Povo: vida e saúde. Ora, com a omissão da União e a ameaça de
+
+impedimento de atuação pelos Estados por parte da Anvisa, certamente o Brasil
+
+estará em algum dos últimos lugares da fila internacional à espera da vacinação em
+
+massa. Esse comportamento do Poder Executivo Federal pode custar a vida de
+
+milhares de brasileiros e a intranquilidade - por medo constante de exposição ao
+
+vírus - de outros tantos cidadãos nacionais.
+
+É preciso, então, agir com rapidez, para impedir esse dano direto e imediato
+
+ao Povo, bem como que se dê continuidade à tamanha afronta à Constituição e ao
+
+ordenamento jurídico brasileiro. E, no caso, não se trata de mera afronta a normas
+
+despiciendas: a denotação prática aqui é notória, pois, se nada for feito, certamente
+
+continuaremos nessa onda de, infelizmente, não tratar a doença com a atenção e o
+
+cuidado que merece seremos relegados à escória mundial em termos de acesso às
+
+sonhadas vacinas.
+
+Nesse cenário de extrema urgência e perigo de gravíssima lesão, a Arguente
+
+postula a concessão da medida liminar pelo Relator, ad referendum do Tribunal
+
+Pleno, nos termos descritos no tópico seguinte.
+
+Ora, se as vacinas forem aprovadas pelas principais autoridades sanitárias
+
+estrangeiras, comprovando-se a segurança e a eficácia, não há razões, dentro da
+
+dinâmica constitucional, para que o Brasil não as utilize na imunização massiva da
+
+população. Nessa evidente omissão do Poder Executivo Federal, cabe, assim, ao
+
+Poder Judiciário, em especial ao STF, a proteção dos direitos mais básicos do Povo
+
+Brasileiro.
+
+VI. DOS PEDIDOS
+
+
+[[pagina 22 | nativo]]
+Diante do exposto, requer:
+
+a) O deferimento da medida liminar ora requerida, preferencialmente a ser
+analisada monocraticamente ad referendum do Plenário ou levada
+diretamente para a sessão de julgamento do vindouro dia 17/12, junto
+com a ADPF-MC nº 754/DF, para:
+
+i. declarar a possibilidade de todos os Entes Federados deflagrarem a
+
+elaboração e execução de plano de imunização no âmbito dos seus
+
+respectivos territórios, inclusive buscando a celebração de acordos
+
+para aquisição e aplicação direta de vacinas, nos termos previstos pelo
+
+art. 3º, inciso VIII, alínea “a”, da Lei nº 13.979, de 6 de fevereiro de
+
+2020, e em conformidade com precedentes desse Supremo Tribunal
+
+Federal (ADPF 672 e ADI 6341) e com o artigo 23, II, da Constituição
+
+Federal;
+
+ii. declarar que, no exercício de sua competência prevista no inciso IV do
+
+§ 7º do art. 3º da Lei nº 13.979, de 6 de fevereiro de 2020, a Anvisa
+
+não pode negar o uso de vacinas, aprovadas pelas agências
+
+estrangeiras, no Brasil;
+
+i. Ou, subsidiariamente, que eventual negativa de autorização de
+
+uso pela Anvisa seja lastreada por fundamentação estritamente
+
+técnica, e não político-ideológica (como assentado por essa Eg.
+
+Corte no âmbito da ADI-MC nº 6.421/DF);
+
+iii. declarar que a expressão “registrados” contida alínea “a” do inciso VIII
+
+do art. 3º da Lei nº 13.979, de 6 de fevereiro de 2020, prevê tanto o
+
+registro definitivo, quanto o registro provisório e a autorização
+
+excepcional ou emergencial de uso;
+
+iv. declarar que a expressão “distribuição comercial” contida alínea “a” do
+
+inciso VIII do art. 3º da Lei nº 13.979, de 6 de fevereiro de 2020, inclui
+
+
+[[pagina 23 | nativo]]
+tanto o comércio stricto sensu (iniciativa privada), quanto o uso
+autorizado nos respectivos sistemas públicos de saúde;
+
+v. declarar que o rol de quatro itens contido na alínea “a” do inciso VIII do
+
+art. 3º da Lei nº 13.979, de 6 de fevereiro de 2020, seja entendido
+
+como meramente exemplificativo, de modo a também abarcar
+
+quaisquer “renomadas agências de regulação no exterior”, conforme
+
+precedente dessa Eg. Corte (RE 657.718 / MG). A título meramente
+
+exemplificativo, poderiam ser enquadradas na lista as agências
+
+reguladoras britânica, alemã, francesa, italiana, canadense,
+
+sul-coreana, australiana, dentre tantas outras igualmente renomadas;
+
+vi. que se dê interpretação conforme à Constituição ao art. 8º da Lei nº
+
+13.979/2020, de modo a estender a vigência dos dispositivos contidos
+
+nos arts. 3º ao 3º-J da Lei nº 13.979/2020 (aqueles que cuidam
+
+efetivamente de disposições de trato médico e sanitário de modo mais
+
+direto) até que os Poderes Legislativo e Executivo decidam sobre o
+
+tema, sendo a extensão aqui pleiteada limitada ao dia 31/12/2021 ou
+
+até o término da emergência internacional de saúde decorrente do
+
+coronavírus, em decisão da Organização Mundial de Saúde, o que
+
+ocorrer por último, superando-se os prazos gerais previstos na Lei nº
+
+6.360, de 1976, com a redação dada pela Lei nº 13.411, de 2017; e
+
+vii. por fim, declarar a incompatibilidade com a Constituição de quaisquer
+
+procedimentos adotados por autoridades públicas com vistas a impedir
+
+ou dificultar a aquisição de vacinas contra a covid- 19 pelos Entes da
+
+Federação por qualquer meio, como, por exemplo, ausência de
+
+autorização pela Anvisa ou imposição de quaisquer regras
+
+desarrazoadas de importação.
+
+b) No mérito, a confirmação das liminares pleiteadas, nos exatos termos
+requeridos e/ou concedidos em medida cautelar pelo Tribunal.
+
+
+[[pagina 24 | nativo]]
+Termos em que pede deferimento.
+
+Brasília-DF, 9 de dezembro de 2020.
+
+de forma digital de forma digital CASSIO DOS AssinadoBRUNO Assinado por CASSIO DOS SANTOS por BRUNO LUNARDI
+ARAUJO GONCALVES SANTOSLUNARDI
+Dados: 2020.12.09 Dados: 2020.12.09
+17:42:18 -03'00'GONCALVES 17:44:33 -03'00' ARAUJO
+BRUNO LUNARDI GONÇALVES CÁSSIO DOS SANTOS ARAUJO
+
+OAB/DF nº 62.880 OAB/DF nº 54.492
+
+FILIPE TORRI DA ROSA KAMILA RODRIGUES ROSENDA
+
+OAB/DF nº 35.538 OAB/DF nº 32.792
+
+LEVI BORGES DE OLIVEIRA FABIANO CONTARATO
+VERÍSSIMO OAB/ES nº 31.672
+OAB/DF nº 46.534
+
+ANA CRISTINA BARROS FABIO GOMES DE SOUSA
+
+OAB/DF nº 30.636 Acadêmico de Direito
+
+
+[[pagina 25 | nativo]]
+SUMÁRIO DE DOCUMENTOS
+
+DOC 1 - Certidão da Comissão Executiva da REDE;
+DOC 2 - Estatuto Partidário;
+DOC 3 - Procuração;
+DOC 4 - Cópia da Lei nº 13.979/2020 (ato normativo impugnado).
+
+

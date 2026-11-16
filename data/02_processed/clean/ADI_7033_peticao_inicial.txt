@@ -1,0 +1,1026 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR PRESIDENTE DO SUPREMO TRIBUNAL
+
+FEDERAL – STF, MINISTRO LUIZ FUX
+
+A CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NA INDÚSTRIA -
+
+CNTI, pessoa jurídica de direito privado, constituída por tempo indeterminado e sem fins
+
+econômicos, inscrita no CNPJ sob o nº 33.746.256/0001-00, com sede e foro em
+
+Brasília/DF, na SEP/Norte 505, Conjunto A, Asa Norte, CEP nº 70.730-540, vem, à
+presença de Vossa Excelência, por seus advogados (Doc. 1), com base nos artigos 102, I,
+“a”, e 103, IX da Constituição Federal, bem como na Lei nº 9.868/991 e no art. 5º do RISTF,
+
+propor AÇÃO DIRETA DE INCONSTITUCIONALIDADE com pedido
+
+CAUTELAR para, à luz do art. 28, parágrafo único da Lei nº 9.868/99, suspender, com
+excepcionais efeitos ex tunc, a lei questionada e, no mérito, declarar a
+
+inconstitucionalidade da integralidade da Lei federal nº 14.182, de 12 de julho de 2021
+
+(DOU 13/07/2021 – Doc. 2), nos termos a seguir.
+
+1. Da Legitimidade: Confederação Nacional dos Trabalhadores na Indústria2
+
+(CNTI): grupo diretamente afetado pela desestatização sem cláusulas de transição
+
+1.1. A CNTI é pessoa jurídica de direito privado fundada em 19 de julho de 1946,
+
+reconhecida pelo Decreto nº 21.978/46 e pela Carta Sindical expedida pelo Ministério do
+
+Trabalho, registrada no livro 020, página 008, constituída como entidade sindical de grau
+
+superior, sem fins lucrativos e com duração por prazo indeterminado (Doc. 3).
+
+1 A inicial atende os incisos I e II do art. 3º da Lei nº 9.868/99. Em duas vias, segue acompanhada de procuração
+e de cópias da Lei impugnada (art. 3º, parágrafo único da Lei nº 9.868/99).
+2 “Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:
+IX - confederação sindical ou entidade de classe de âmbito nacional.”
+
+
+[[pagina 2 | nativo]]
+
+1.2. Tem por finalidade a representação e coordenação, em todo o território nacional, dos
+
+interesses dos integrantes da categoria profissional dos industriários de seu plano, de
+
+entidades representativas dos trabalhadores na indústria, bem como a proteção, defesa,
+coordenação e orientação geral dos industriários inorganizados. O art. 3º traz seus objetivos:
+
+“a) Fazer da Entidade um instrumento de busca de melhoria das representações sindicais
+da classe trabalhadora;
+b) Colaborar para a harmonização dos interesses individuais e coletivos, visando a paz
+social;
+c) Promoção e construção de um ambiente político e institucional favorável à defesa da
+democracia e dos direitos sociais dos trabalhadores;
+d) Promoção de atividades e finalidades concernentes aos seus representados e de
+relevância pública e social;
+e) Promoção dos Objetivos de Desenvolvimento Sustentável (ODS);
+f) Assegurar o efetivo cumprimento dos direitos e garantias fundamentais dos
+trabalhadores, especialmente às leis referentes à proteção do trabalho;
+g) Propor a adoção de regras, normas e projetos de lei que visem beneficiar os trabalhadores
+na indústria;
+h) Traçar diretrizes, fomentar e apoiar ações e atividades relacionadas com a valorização e
+a promoção social, a formação e a capacitação profissional do trabalhador na indústria;
+i) Promover o tratamento isonômico nas relações de trabalho sem distinção de sexo, raça,
+etnia, nacionalidade ou idade;
+j) Garantir à mulher industriaria, à juventude e ao idoso a oportunidade de aprimorar seus
+conhecimentos em consonância com as transformações macrossociais, visando
+potencializar suas intervenções nos diversos espaços de discussão, assegurando o combate
+à desigualdade, violência e a discriminação.”
+
+1.3. O STF reconhece essa legitimidade, a exemplo da manifestação do ministro Luís
+
+Roberto Barroso, na ADI nº 5.018 (DJe 11/09/2018), ajuizada pela própria CNTI: “...a
+autora está cadastrada regularmente como entidade de grau máximo no Cadastro Nacional
+
+de Entidades Sindicais, tendo filiadas a ela mais de três federações sindicais. Além disso, a
+
+requerente preencheu satisfatoriamente o requisito da pertinência temática, ao demonstrar
+
+
+[[pagina 3 | nativo]]
+
+que, de fato, cabe a ela defender os interesses dos trabalhadores de indústria que sofrem
+
+consequências diretas das normas aqui impugnadas.”
+
+1.4. Há precedentes nos quais a CNTI teve sua legitimidade reconhecida para atuar em
+
+favor dos trabalhadores por ela representados: ADI nº 5013 (Rel. Min. Edson Fachin, DJe
+
+16/11/2020), ADI nº 3881 (Rel. Min. Celso de Mello, DJe 20/09/2007), ADI nº 3356 (Rel.
+Min. Eros Grau, DJe 01/02/2019), ADI nº 3355 (Rel. Min. Edon Fachin, DJe 04/02/2021),
+
+ADI nº 3470 (Rel. Min. Rosa Weber, DJe 01/02/2019), ADI nº 3406 (Rel. Min. Rosa Weber,
+
+DJe 01/02/2019) e ADI nº 3357 (Rel. Min. Ayres Britto, DJe 01/02/2019).
+
+1.5. Quanto à pertinência temática, o ministro Luís Roberto Barroso anota o seguinte,
+
+doutrinariamente: “a norma contestada deverá repercutir direta ou indiretamente sobre a
+
+atividade profissional ou econômica da classe envolvida, ainda que só parte dela seja
+atingida.3” É o caso da Lei nº 14.182/2021, que, embora tenha disciplinado o processo de
+desestatização da Eletrobrás, também impactou no futuro dos empregados públicos de todo
+
+o sistema, causando, assim, uma nítida violação aos seus direitos, todos eles com expresso
+
+assento constitucional, como se demonstrará adiante em capítulo próprio desta peça.
+
+1.6. Apenas para ilustrar o todo, o art. 1º, § 8º da Lei nº 14.182/2021, previa o seguinte:
+
+“O Poder Executivo deverá realizar o aproveitamento dos empregados da Eletrobras e de
+
+suas subsidiárias demitidos sem justa causa durante os 12 (doze) meses subsequentes à
+
+desestatização de que trata esta Lei em empresas públicas federais, em cargos de mesma
+complexidade ou similaridade, com equivalência de seus vencimentos.”
+
+1.7. Esse dispositivo foi vetado pelo presidente da República, sob o fundamento de que
+
+o veto seria necessário “...por inverter o postulado da supremacia do interesse público sobre
+o privado, além de criar incentivos indesejados, com prejuízo ao controle do gasto público e
+
+à insegurança jurídica em processos de desestatização futuros, além de comprometer o
+
+planejamento das empresas estatais federais.”
+
+3 Barroso, Luís Roberto. O Controle de Constitucionalidade no Direito Brasileiro: exposição sistemática
+da doutrina e análise crítica da jurisprudência. 7ª ed.rev.e atual. – São Paulo: Saraiva, 2016, p. 207.
+
+
+[[pagina 4 | nativo]]
+
+1.8. Como se observa, há a intensão de fragilizar os direitos trabalhistas dos 14.2114
+empregados do Sistema Eletrobras que, vulnerabilizados, se verão obrigados a ingressar no
+
+novo modelo em condições piores do que as que conservavam antes da desestatização, sem
+
+regras de transição que, à luz do princípio da proporcionalidade e do primado da justiça,
+
+consigam calibrar a opção político-estatal sem esvaziar qualquer compromisso constitucional
+com a vedação do retrocesso social. Sobre isso, a propósito, o CEO da companhia já
+anunciou que o objetivo é deixar a Eletrobras com 10 mil empregados.5 Para a conta fechar,
+
+4 mil empregados devem partir. A Lei nº 14.182/2021 é o instrumento desse desmonte.
+
+1.9. Indiscutível, assim, a legitimidade da CNTI, pois os efeitos nos direitos trabalhistas
+
+repercutem direta e imediatamente na esfera jurídica e patrimonial dos seus filiados.
+
+2. Lei Impugnada: a Lei nº 14.182, de 12 de julho de 2021 e seus múltiplos vícios
+emanados ainda do processo legislativo ao qual ela foi submetida
+
+2.1. Impugna-se a Lei nº 14.185, de 12 de julho de 2021, decorrente da aprovação do
+
+projeto de lei de conversão originado da Medida Provisória nº 1.031/2021, que dispõe sobre
+a desestatização da empresa Central Elétricas Brasileiras S.A.
+
+2.2. A Lei nº 14.182/2021, cuja íntegra está anexada à inicial, dispõe sobre a
+desestatização da Eletrobras, além de alterar as Leis 5.899/73, 9.991/2000, 10.438/2002,
+
+10.848/2004, 13.182/2015, 13.203/2015, 14.118/2021, 9.648/98, e 9.074/95; e revogar
+
+dispositivos da Lei nº 3.890-A/61. Seus 33 artigos são veiculados por três capítulos: I - Da
+
+Desestatização da Eletrobras, II - Das Condições para a Desestatização da Eletrobras e
+Disposições Finais. Há nela vícios formais e materiais que implicam o reconhecimento, por
+
+essa distinta Suprema Corte, da sua inconstitucionalidade.
+
+4 Ver: https://eletrobras.com/pt/Paginas/Perfil-dos-Empregados.aspx
+5 Ver: https://economia.uol.com.br/noticias/reuters/2019/11/12/eletrobras-tera-10-mil-funcionarios-apos-
+privatizacao-diz-ceo.htm
+
+
+[[pagina 5 | nativo]]
+
+2.3. Apenas para exemplificar o elevado nível de desprezo pela boa técnica legislativa,
+
+comprometendo, assim, mandamentos constitucionais, transcreve-se abaixo um único
+
+dispositivo da lei, o art. 1º, cuja redação do parágrafo 1º prova, sem espaço para embargos,
+o ineditismo de tão ousada aventura de confronto à Constituição. Eis a transcrição:
+
+“Art. 1º A desestatização da companhia Centrais Elétricas Brasileiras S.A. (Eletrobras)
+ocorrerá nos termos da Lei nº 9.491, de 9 de setembro de 1997, e do § 1º deste artigo e estará
+condicionada à outorga de novas concessões de geração de energia elétrica para os Contratos
+de Concessão nº 007/2004-Aneel-Eletronorte, firmado pela União e Centrais Elétricas do
+Norte do Brasil S.A. (Eletronorte), e nº 004/2004-Aneel/Furnas, especificamente para a Usina
+Hidrelétrica (UHE) Mascarenhas de Moraes, firmado pela União e Furnas Centrais Elétricas
+S.A. (Furnas), observadas as regras e as condições estabelecidas nesta Lei.
+§ 1º A desestatização da Eletrobras será executada na modalidade de aumento do capital social,
+por meio da subscrição pública de ações ordinárias com renúncia do direito de subscrição pela
+União, e será realizada a outorga de novas concessões de geração de energia elétrica pelo prazo
+de 30 (trinta) anos, contado da data de assinatura dos novos contratos referidos no caput deste
+artigo, e será realizada a contratação de geração termelétrica movida a gás natural pelo poder
+concedente, na modalidade de leilão de reserva de capacidade referida nos arts. 3º e 3º-A da
+Lei nº 10.848, de 15 de março de 2004, no montante de 1.000 MW (mil megawatts) na Região
+Nordeste nas regiões metropolitanas das unidades da Federação que não possuam na sua
+capital ponto de suprimento de gás natural na data de publicação desta Lei, no montante de
+2.500 MW (dois mil e quinhentos megawatts) na Região Norte distribuídos nas capitais dos
+Estados ou região metropolitana onde seja viável a utilização das reservas provadas de gás
+natural nacional existentes na Região Amazônica, garantindo, pelo menos, o suprimento a duas
+capitais que não possuam ponto de suprimento de gás natural na data de publicação desta Lei,
+no montante de 2.500 MW (dois mil e quinhentos megawatts) na Região Centro-Oeste nas
+capitais dos Estados ou região metropolitana que não possuam ponto de suprimento de gás
+natural na data de publicação desta Lei, com inflexibilidade de, no mínimo, 70% (setenta por
+cento) para o gás natural, para entrega da geração térmica a gás natural de 1.000 MW (mil
+megawatts) no ano de 2026, de 2.000 MW (dois mil megawatts) no ano de 2027, e de 3.000
+MW (três mil megawatts) no ano de 2028, com período de suprimento de 15 (quinze) anos, ao
+preço máximo equivalente ao preço-teto para geração a gás natural do Leilão A-6 de 2019,
+com atualização desse valor até a data de publicação do edital específico pelo mesmo critério
+
+
+[[pagina 6 | nativo]]
+
+de correção do Leilão A-6 de 2019, e no montante de 2.000 MW (dois mil megawatts) na
+Região Sudeste, dos quais 1.250 MW (mil duzentos e cinquenta megawatts) para Estados que
+possuam ponto de suprimento de gás natural na data de publicação desta Lei e 750 MW
+(setecentos e cinquenta megawatts) para Estados na Região Sudeste na área de influência da
+Superintendência do Desenvolvimento do Nordeste (Sudene) que não possuam ponto de
+suprimento de gás natural na data de publicação desta Lei, com inflexibilidade de, no mínimo,
+70% (setenta por cento) para o gás natural, para entrega da geração térmica a gás natural de
+1.000 MW (mil megawatts) no ano de 2029, para Estados que possuam ponto de suprimento
+de gás natural na data de publicação desta Lei, e de 1.000 MW (mil megawatts) no ano de 2030,
+dos quais 250 MW (duzentos e cinquenta megawatts) para Estados que possuam ponto de
+suprimento de gás natural na data de publicação desta Lei e 750 MW (setecentos e cinquenta
+megawatts) para Estados na Região Sudeste na área de influência da Sudene que não possuam
+ponto de suprimento de gás natural na data de publicação desta Lei, com período de
+suprimento de 15 (quinze) anos, ao preço máximo equivalente ao preço-teto para geração a
+gás natural do Leilão A-6 de 2019, com atualização desse valor até a data de publicação do
+edital específico pelo mesmo critério de correção do Leilão A-6 de 2019, e a prorrogação dos
+contratos do Programa de Incentivos às Fontes Alternativas de Energia Elétrica (Proinfa) por
+20 (vinte) anos, assim como à contratação nos Leilões A-5 e A-6 de, no mínimo, 50%
+(cinquenta por cento) da demanda declarada das distribuidoras, de centrais hidrelétricas até 50
+MW (cinquenta megawatts), ao preço máximo equivalente ao teto estabelecido para geração
+de Pequena Central Hidrelétrica (PCH) do Leilão A-6 de 2019 para empreendimentos sem
+outorga, com atualização desse valor até a data de publicação do edital específico pelo mesmo
+critério de correção do Leilão A-6 de 2019, conforme estabelecido nos arts. 20 e 21 desta Lei.”
+
+2.4. Tem sido necessário extraordinário esforço na tentativa de entender qual a explicação
+para a redação que foi conferida ao § 1º do art. 1º da aludida lei. A redação é incompatível
+
+com a legalidade e à boa técnica legislativa, violando, pois, o art. 37, caput da Constituição.
+
+2.5. A iniciativa legislativa esvazia, ainda, o instituto jurídico-constitucional do veto
+
+presidencial, previsto no art. 66, § §1º e 2º. Isso porque, nos termos do art. 66, § 2º, da
+
+Constituição, “o veto parcial somente abrangerá texto integral de artigo, de parágrafo, de
+
+inciso ou de alínea”, o que tornou impossível o veto de apenas parte do inédito § 1º do art.
+
+
+[[pagina 7 | nativo]]
+
+1º. Assim, caso o Presidente desejasse vetar algum ponto do comando, teria de vetar a sua
+
+integralidade, inclusive a desestatização por meio do aumento de capital da Eletrobras.
+
+2.6. O tumulto legislativo afrontoso à Constituição não se encerra aí. Nada menos do que
+
+632 emendas foram apresentadas ao projeto de lei de conversão, abraçando, pela sua
+
+quantidade e variedade de conteúdo, o universo. Ausente também qualquer pertinência
+temática das emendas com a MP nº 1.031/2021, verificando-se, na espécie, a figura do
+
+“contrabando legislativo”, violador dos artigos 1°, parágrafo único, 2°, caput e 5°, LIV da
+
+Constituição, num tipo de indiferença à jurisprudência dessa Suprema Corte jamais vista.
+
+2.7. Ao apreciar a conversão da medida provisória, o Congresso Nacional não só ratificou
+
+a privatização por meio da capitalização da Eletrobras, como aprovou diversas emendas cujo
+
+conteúdo em tudo se afasta da matéria encaminhada pelo Poder Executivo. O grande
+
+repositório dessa mácula foi exatamente o malsinado § 1º do art. 1º, o qual previa, na redação
+original na MP, apenas o regime de capitalização da Eletrobras, nada mais.
+
+2.8. Além disso, a redação final do Projeto de Lei de Conversão nº 7/2021, enviada à
+
+sanção, foi alterada por ato singular do presidente da Câmara dos Deputados, sem a
+submissão do novo texto à deliberação, restando sancionada uma Lei cujo texto diverge da
+
+versão aprovada por ambas as Casas, em afronta ao art. 65 da Constituição. A modificação
+
+textual que deu ensejo à atual redação do art. 3º, I da Lei nº 14.182/2021, desprezou os
+
+termos da privatização da Eletrobrás antes aventados, chegando a conclusões opostas
+àquelas aprovadas no que diz respeito ao tratamento dado às suas subsidiárias, por exemplo.
+
+2.9. Todas essas tão intensas mudanças foram feitas por medida provisória na qual
+
+faltaram os requisitos da “relevância” e “urgência”, eis que apresentada pelo Poder Executivo
+ao argumento de que o projeto de lei ordinária de idêntico teor apresentado pelo próprio
+
+presidente da República não tinha contado, no Congresso Nacional, com a almejada
+
+velocidade na tramitação, o que o autorizaria, portanto, a suplantar tal proposta e, a toque de
+
+
+[[pagina 8 | nativo]]
+
+caixa, apresentar a aludida medida provisória, solapando o “Poder de Agenda” do Congresso
+Nacional e, ao fazê-lo, violando os artigos 62, caput6, e 59, V7, da Constituição Federal.
+
+2.10. Abaixo, trechos da ementa do acórdão lavado nos autos do MS nº 27.931 (DJe
+
+28/10/2020), de relatoria do ministro Celso de Mello:
+
+“A COMPETÊNCIA EXTRAORDINÁRIA DE EDITAR MEDIDAS PROVISÓRIAS
+NÃO PODE LEGITIMAR PRÁTICAS DE CESARISMO GOVERNAMENTAL NEM
+INIBIR O EXERCÍCIO, PELO CONGRESSO NACIONAL, DE SUA FUNÇÃO
+PRIMÁRIA DE LEGISLAR
+– Cabe, ao Poder Judiciário, no desempenho das funções que lhe são inerentes, impedir que
+o exercício compulsivo da competência extraordinária de editar medida provisória culmine
+por introduzir, no processo institucional brasileiro, em matéria legislativa, verdadeiro
+cesarismo governamental, provocando, assim, graves distorções no modelo político e
+gerando sérias disfunções comprometedoras da integridade do princípio constitucional da
+separação de poderes.
+PROPOSIÇÕES LEGISLATIVAS QUE NÃO SOFREM O BLOQUEIO RITUAL
+ESTABELECIDO PELO ART. 62, § 6º, DA CONSTITUIÇÃO DA REPÚBLICA: O
+EXAME DO TEMA CONCERNENTE À NECESSÁRIA PROTEÇÃO AO PODER DE
+AGENDA DAS CASAS DO CONGRESSO NACIONAL
+– O regime de urgência previsto no art. 62, § 6º, da Constituição da República – que impõe
+o sobrestamento das deliberações legislativas das Casas do Congresso Nacional – incide, tão-
+somente, sobre aquelas matérias que se mostram passíveis de regramento por medida
+provisória, excluídos, em consequência, do bloqueio procedimental imposto por
+mencionado preceito constitucional as propostas de emenda à Constituição e os projetos de
+lei complementar, de decreto legislativo, de resolução e, até mesmo, tratando-se de projetos
+de lei ordinária, aqueles que veiculem temas pré-excluídos do âmbito de incidência das
+medidas provisórias (CF, art. 62, § 1º, I, II e IV). – Essa fórmula interpretativa constitui
+reação legítima ao inadmissível controle hegemônico, pelo Presidente da República, do poder
+de agenda do Congresso Nacional, pois tem a virtude de devolver às Casas legislativas esse
+
+6 “Art. 62. Em caso de relevância e urgência, o Presidente da República poderá adotar medidas provisórias,
+com força de lei, devendo submetê-las de imediato ao Congresso Nacional.”
+7 “Art. 59. O processo legislativo compreende a elaboração de: V - medidas provisórias”.
+
+
+[[pagina 9 | nativo]]
+
+mesmo poder de agenda, que traduz prerrogativa institucional das mais relevantes, capaz de
+permitir à instituição parlamentar – livre da indevida ingerência de práticas de cesarismo
+governamental pelo Chefe do Executivo (representadas pelo exercício compulsivo da edição
+de medidas provisórias) – o poder de selecionar e de apreciar, de modo inteiramente
+autônomo, as matérias que considere revestidas de importância política, social, cultural,
+econômica e jurídica para a vida do País, o que ensejará – na visão e na perspectiva do Poder
+Legislativo (e não na vontade unilateral do Presidente da República) – a formulação e a
+concretização, pelo Parlamento, de uma pauta temática própria.”
+
+2.11. A Lei ora questionada faz pouco caso da centralidade da separação de poderes em
+
+nossa Constituição; do princípio republicano, regedor que é de toda a Administração Pública;
+
+da obrigatoriedade de licitação; da livre concorrência, da impessoalidade e da moralidade da
+Administração; da motivação dos atos administrativos e dos valores sociais do trabalho.
+
+2.12. Os fundamentos quanto às inconstitucionalidades formais são: (i) desestatização por
+
+meio de MP, em violação ao devido processo legislativo (art. 59, III e art. 246); (ii) ausência
+de urgência (art. 62); e (iii) ausência de pertinência temática das emendas com a MP nº
+
+1.031/2021 (contrabando legislativo, artigos 1°, parágrafo único, 2°, caput e 5°, LIV).
+
+2.13. Quanto às inconstitucionalidades materiais, são: separação dos poderes (art. 2º);
+obrigatoriedade de licitação para delegação de serviços públicos (artigos 37, XXI e 175);
+
+violação ao art. 52, V; princípio republicano (art. 1º); normas constitucionais sociais de
+
+proteção do trabalhador em sintonia com o princípio da vedação do retrocesso.
+
+3. A Necessidade de Cumprimento do Requisito Constitucional da Urgência: a
+
+MP nº 1.031/2021 (que deu origem à Lei 14.182/2021) e sua inconstitucionalidade
+
+3.1. Para além dos muitos vícios constantes do processo legislativo que resultou na
+
+promulgação, pelo presidente da República, da Lei nº 14.182/2021, vale lembrar que essa lei
+
+resulta da conversão da MP nº 1.031, de 23 de fevereiro de 2021, que, disciplinando a matéria,
+
+revogou diversos dispositivos legais que visavam à proteção da Eletrobras como empresa
+
+
+[[pagina 10 | nativo]]
+
+pública: o art. 7º da Lei nº 3.890-A/618, que exige que a União detenha pelo menos 51% das
+ações ordinárias da Eletrobras, e o § 1º do art. 31 da Lei nº 10.848/20049, que retira a
+
+Eletrobras e suas principais controladas do âmbito do Programa Nacional de Desestatização.
+
+3.2. A primeira indagação quanto à MP nº 1.031/2021 é: há urgência e relevância, uma
+
+vez que a medida provisória versou sobre projeto de lei idêntico já em tramitação na Câmara
+dos Deputados?10 O projeto, inclusive, era da iniciativa do atual presidente da República (PL
+nº 5.877/201911). Eis trecho da exposição de motivos da MP: “o Projeto de Lei apresentado
+
+pelo Poder Executivo, em 2019, que trata da capitalização da Eletrobras, se encontrar sem
+
+encaminhamento no Congresso Nacional, e, ao mesmo tempo, em que a empresa perde
+participação no setor elétrico e consequentemente tem seu valor deteriorado”.12
+
+3.3. Segundo o art. 62 da Constituição, em “caso de relevância e urgência, o Presidente
+
+da República poderá adotar medidas provisórias, com força de lei, devendo submetê-las de
+imediato ao Congresso Nacional”. Ou seja, as medidas provisórias são instrumentos
+
+excepcionais a serem usados pelo Poder Executivo para tratar de temas cuja relevância e
+
+urgência não permitam que sejam discutidos pela via do processo legislativo ordinário.
+
+3.4. Em que pese os conceitos de “relevância” e “urgência” serem abertos, e, por essa
+
+razão, apresentarem campo semântico para colmatação exegética, é fato que a demora na
+
+tramitação de um projeto de lei não representa razão jurídico-constitucional a justificar a
+
+proposição de uma medida provisória para tal fim, haja vista o próprio texto constitucional,
+
+8 “Art. 7o Subscreverá a União a totalidade do capital inicial da Sociedade e, nas emissões posteriores de ações
+ordinárias, o suficiente para lhe garantir o mínimo de cinqüenta e um por cento do capital votante. (Revogado
+pela Medida Provisória nº 1.031, de 2021) (Revogado pela Lei nº 14.182, de 2021). § 1o Para a integralização do
+capital inicial subscrito pela União, fica o Poder Executivo autorizado a incorporar à Sociedade os bens,
+instalações e direitos da União relativos a produção, transmissão e distribuição de energia elétrica, inclusive
+ações, obrigações ou créditos resultantes das aplicações do Fundo Federal de Eletrificação, nos termos do art.
+7o da Lei no 2.944, de 8 de novembro de 1956. (Revogado pela Medida Provisória nº 1.031, de 2021) (Revogado
+pela Lei nº 14.182, de 2021).” § 2o Se o valor desses bens não bastar para a integralização do capital inicial, a
+União completá-lo-á em dinheiro.
+9 “Art. 31. Fica revogado o art. 5º da Lei nº 9.648, de 27 de maio de 1998, assegurados os direitos constituídos
+durante sua vigência, em especial as atividades autorizadas em seus incisos II e IV”.
+10 Ver: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2167572
+11 Ver: https://www.camara.leg.br/proposicoesWeb/fichadetramitacao?idProposicao=2228666
+12 Ver: http://www.planalto.gov.br/ccivil_03/_ato2019-2022/2021/Exm/Exm-MP-1031-21.pdf
+
+
+[[pagina 11 | nativo]]
+
+em seu § 1º do art. 64, estabelecer que “o Presidente da República poderá solicitar urgência
+
+para apreciação de projetos de sua iniciativa.” Por quê Sua Excelência, então, não o fez?
+
+3.5. Eis posição do STF na ADI nº 4.717 (DJe 15/02/2019), pela ministra Cármen Lúcia:
+
+“A jurisprudências deste Supremo Tribunal admite, em caráter, excepcional, a declaração de
+inconstitucionalidade de medida provisória quando se comprove abuso da competência
+normativa do Chefe do Executivo, pela ausência dos requisitos constitucionais de relevância e
+urgência. Na espécie, na exposição de motivos da medida provisória não se
+demonstrou, de forma suficiente, os requisitos constitucionais de urgência do caso.”
+
+3.6. Agora, a Corte, pelo ministro Celso de Mello, na ADI-MC 293 (DJ 16/04/93):
+
+“o que justifica a edição de medida provisória, com força de lei, em nosso direito
+constitucional, é a existência de um estado de necessidade que impõe ao Poder Público a
+adoção imediata de providências, de caráter legislativo, inalcançáveis segundo as regras
+ordinárias de legiferação, em face do próprio periculum in mora que fatalmente decorreria do
+atraso na concentração da prestação legislativa.”
+
+3.7. Ou seja, qualquer medida provisória, “...se editada sem a observância dos
+
+pressupostos que a legitimam — urgência e relevância —, a medida provisória afrontará
+
+diretamente comando constitucional expresso e princípios constitucionais, impondo-se a
+
+intervenção do Judiciário, pois é papel deste controlar as leis oriundas do Poder Legislativo
+— órgão típico para criá-las —, muito mais no caso da medida provisória, cuja competência,
+atribuída ao chefe do Executivo, é excepcional.”13
+
+3.8. A matéria também viola o art. 246 da Constituição, segundo o qual “é vedada a
+adoção de medida provisória na regulamentação de artigo da Constituição cuja redação tenha
+
+sido alterada por meio de emenda promulgada entre 1º de janeiro de 1995 até a promulgação
+
+desta emenda, inclusive”.
+
+13 MAIA, C. A. Medida provisória: controle jurisdicional dos pressupostos que a legitimam - relevância
+e urgência. Revista Imes, v. 7, n.12, p. 137–172, jan./dez. 2006. p. 165.
+
+
+[[pagina 12 | nativo]]
+
+3.9. Por fim, o fato de a MP ter sido convertida em Lei não remove a sua
+inconstitucionalidade, como diz a ADI nº 5599 (DJe 26/11/2020), do ministro Fachin:
+
+“a inconstitucionalidade formal de medida provisória não se convalida com a
+
+sua conversão em lei, razão pela qual, conquanto haja perda de objeto relativamente
+à inconstitucionalidade material, remanesce o interesse de agir no que tange
+à inconstitucionalidade formal.”
+
+4. Inconstitucionalidades Materiais: violação à separação de Poderes (art. 2º) e
+
+violação do art. 37, caput: princípios da moralidade, eficiência, probidade
+
+administrativa e primazia da licitação
+
+4.1. O STF já reconheceu que a não observância dos requisitos formais na edição de
+
+medida provisória constitui violação ao princípio da separação dos poderes. Exemplifica-se
+
+com a ADI nº 2.213 (DJe 04/03/2021), de relatoria do ministro Celso de Mello:
+
+“Nada pode justificar a utilização abusiva de medidas provisórias, sob pena de o Executivo -
+quando ausentes razões constitucionais de urgência, necessidade e relevância material -,
+investir-se, ilegitimamente, na mais relevante função institucional que pertence ao Congresso
+Nacional, vindo a converter-se, no âmbito da comunidade estatal, em instância hegemônica de
+poder, afetando, desse modo, com grave prejuízo para o regime das liberdades públicas e sérios
+reflexos sobre o sistema de ‘checks and balances’, a relação de equilíbrio que necessariamente
+deve existir entre os Poderes da República.”
+
+4.2. O mesmo na ADI nº 5.709 (DJe 28/06/2019), de relatoria da ministra Rosa Weber:
+
+“(...) 5. Impossibilidade de reedição, na mesma sessão legislativa, de medida provisória
+revogada, nos termos do prescreve o art. 62, §§ 2º e 3º. Interpretação jurídica em
+sentido contrário, importaria violação do princípio da Separação de Poderes. Isso
+porque o Presidente da República teria o controle e comando da pauta do Congresso
+Nacional, por conseguinte, das prioridades do processo legislativo, em detrimento do
+próprio Poder Legislativo. Matéria de competência privativa das duas Casas
+
+
+[[pagina 13 | nativo]]
+
+Legislativas (inciso IV do art. 51 e inciso XIII do art. 52, ambos da Constituição
+Federal). (...) 7. Qualquer solução jurídica a ser dada na atividade interpretativa do art. 62 da
+Constituição Federal deve ser restritiva, como forma de assegurar a funcionalidade das
+instituições e da democracia. Nesse contexto, imperioso assinalar o papel da medida provisória
+como técnica normativa residual que está à serviço do Poder Executivo, para atuações
+legiferantes excepcionais, marcadas pela urgência e relevância, uma vez que não faz parte do
+núcleo funcional desse Poder a atividade legislativa. (...).”
+
+4.3. Eis a ementa da ADI nº 4.717 (DJe 15/02/2019), da ministra Cármen Lúcia:
+
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N.
+558/2012. CONVERSÃO NA LEI N. 12.678/2012. INÉPCIA DA INICIAL E
+PREJUÍZO DA AÇÃO QUANTO AOS ARTS. 6º E 11 DA MEDIDA PROVISÓRIA N.
+558/2012 E AO ART. 20 DA LEI N. 12.678/2012. POSSIBILIDADE DE EXAME DOS
+REQUISITOS CONSTITUCIONAIS PARA O EXERCÍCIO DA COMPETÊNCIA
+EXTRAORDINÁRIA NORMATIVA DO CHEFE DO EXECUTIVO. AUSÊNCIA
+DOS PRESSUPOSTOS DE RELEVÂNCIA E URGÊNCIA. ALTERAÇÃO DA ÁREA
+DE UNIDADES DE CONSERVAÇÃO POR MEDIDA PROVISÓRIA.
+IMPOSSIBILIDADE. CONFIGURADA OFENSA AO PRINCÍPIO DA PROIBIÇÃO
+DE RETROCESSO SOCIOAMBIENTAL. AÇÃO PARCIALMENTE CONHECIDA E,
+NESSA PARTE, JULGADA PROCEDENTE, SEM PRONÚNCIA DE NULIDADE. 1.
+Este Supremo Tribunal manifestou-se pela possibilidade e análise dos requisitos
+constitucionais para a edição de medida provisória após a sua conversão em lei. 2. A
+
+jurisprudência deste Supremo Tribunal admite, em caráter excepcional, a declaração de
+inconstitucionalidade de medida provisória quando se comprove abuso da competência
+normativa do Chefe do Executivo, pela ausência dos requisitos constitucionais de relevância e
+urgência. Na espécie, na exposição de motivos da medida provisória não se
+demonstrou, de forma suficiente, os requisitos constitucionais de urgência do caso. 3.
+As medidas provisórias não podem veicular norma que altere espaços territoriais especialmente
+protegidos, sob pena de ofensa ao art. 225, inc. III, da Constituição da República. (...). 5. Ação
+direta de inconstitucionalidade parcialmente conhecida e, nessa parte, julgada procedente, sem
+pronúncia de nulidade.”
+
+
+[[pagina 14 | nativo]]
+
+4.4. Não há qualquer urgência na desestatização que não pudesse encontrar resposta
+
+política por meio da livre tramitação de projeto de lei ordinária apresentado pelo presidente
+
+da República ao Congresso Nacional. Ao suplantar o “poder de agenda” do Congresso,
+pressionando-o, por meio do uso abusivo do instituto da medida provisória, o presidente da
+
+República incorreu em grave vício constitucional de desrespeito à separação de poderes.
+
+4.5. O art. 37, caput, da CF estabelece: a “... administração pública direta e indireta de
+
+qualquer dos Poderes da União, dos Estados, do Distrito Federal e dos Municípios obedecerá
+
+aos princípios de legalidade, impessoalidade, moralidade, publicidade e eficiência...”
+
+4.6. Ocorre que o § 1º do art. 1º da Lei nº 14.182/2021 dispõe que “A desestatização da
+
+Eletrobras será executada na modalidade de aumento do capital social, por meio da
+
+subscrição pública de ações ordinárias com renúncia do direito de subscrição pela União.”
+
+4.7. O art. 37 da lei impugnada, por sua vez, revoga o art. 7º da Lei 3.890-A/61, que
+
+obrigava a União a manter pelo menos 51% das ações da sociedade. Assim, o dispositivo
+
+impõe a perda do controle acionário por parte da União. Tal medida já foi objeto, em outras
+
+leis, de apreciação por parte deste STF, conforme se observa de trecho do julgamento da
+ADI nº 234 (DJ 22/06/95), de relatoria do ministro Néri da Silveira:
+
+“Mesmo com autorização legislativa, as ações com direito a voto das sociedades aludidas só
+poderão ser alienadas, sem prejuízo de manter o Estado, o controle acionário de 51%
+(cinquenta e um por cento), competindo, em qualquer hipótese, privativamente, a
+Assembleia Legislativa, sem participação, portanto, do Governador, autorizar a criação, fusão
+ou extinção de empresas públicas ou de economia mista bem como o controle acionário de
+empresas particulares pelo Estado.”
+
+4.8. A lei impugnada também autorizou a criação de obrigações pecuniárias a serem
+arcadas pela União Federal, causando prejuízo ao erário. Isso porque, em diversos artigos da
+
+Lei nº 14.182/2021, verifica-se o aumento de gastos sob a responsabilidade da União, a
+
+exemplo do art. 20, que traz uma série de despesas a serem arcadas pelo poder concedente:
+
+
+[[pagina 15 | nativo]]
+
+“Art. 20. O poder concedente contratará reserva de capacidade, referida nos arts. 3º e 3º-A
+da Lei nº 10.848, de 15 de março de 2004, no montante de 1.000 MW (mil megawatts) na
+Região Nordeste nas regiões metropolitanas das unidades da Federação que não possuam na
+sua capital ponto de suprimento de gás natural na data de publicação desta Lei, no montante
+de 2.500 MW (dois mil e quinhentos megawatts) na Região Norte distribuídos nas capitais
+dos Estados ou região metropolitana onde seja viável a utilização das reservas provadas de
+gás natural nacional existentes na Região Amazônica, garantindo, pelo menos, o suprimento
+a duas capitais que não possuam ponto de suprimento de gás natural na data de publicação
+desta Lei, no montante de 2.500 MW (dois mil e quinhentos megawatts) na Região Centro-
+Oeste nas capitais dos Estados ou região metropolitana que não possuam ponto de
+suprimento de gás natural na data de publicação desta Lei, com inflexibilidade de, no mínimo,
+70% (setenta por cento) para o gás natural, para entrega da geração térmica a gás natural de
+1.000 MW (mil megawatts) no ano de 2026, de 2.000 MW (dois mil megawatts) no ano de
+2027, e de 3.000 MW (três mil megawatts) no ano de 2028, com período de suprimento de
+15 (quinze) anos, ao preço máximo equivalente ao preço-teto para geração a gás natural do
+Leilão A-6 de 2019, com atualização desse valor até a data de publicação do edital específico
+pelo mesmo critério de correção do Leilão A-6 de 2019, e no montante de 2000 MW (dois
+mil megawatts) na região Sudeste, dos quais 1.250 MW (mil duzentos e cinquenta megawatts)
+para Estados que possuam ponto de suprimento de gás natural na data de publicação desta
+Lei e 750 MW (setecentos e cinquenta megawatts) para Estados na Região Sudeste na área
+de influência da Sudene que não possuam ponto de suprimento de gás natural na data de
+publicação desta Lei, com inflexibilidade de, no mínimo, 70% (setenta por cento) para o gás
+natural, para entrega da geração térmica a gás natural de 1.000 MW (mil megawatts) no ano
+
+de 2029, para Estados que possuam ponto de suprimento de gás natural na data de publicação
+desta Lei, e de 1.000 MW (mil megawatts) no ano de 2030, dos quais 250 MW (duzentos e
+cinquenta megawatts) para Estados que possuam ponto de suprimento de gás natural na data
+de publicação desta Lei e 750 MW (setecentos e cinquenta megawatts) para Estados na
+Região Sudeste na área de influência da Sudene que não possuam ponto de suprimento de
+gás natural na data de publicação desta Lei, com período de suprimento de 15 (quinze) anos,
+ao preço máximo equivalente ao preço-teto para geração a gás natural do Leilão A-6 de 2019,
+com atualização desse valor até a data de publicação do edital específico pelo mesmo critério
+de correção do Leilão A-6 de 2019.”
+
+
+[[pagina 16 | nativo]]
+
+4.9. O art. 4º estabelece despesas a serem feitas pela Eletrobras:
+
+- o pagamento pela Eletrobras ou por suas subsidiárias, na forma definida pelo Conselho
+Nacional de Política Energética (CNPE), à Conta de Desenvolvimento Energético (CDE), de
+que trata a Lei nº 10.438, de 26 de abril de 2002, correspondente a 50% (cinquenta por cento)
+
+do valor adicionado à concessão pelos novos contratos;
+II - o pagamento pela Eletrobras ou por suas subsidiárias de bonificação pela outorga de novos
+contratos de concessão de geração de energia elétrica correspondente a 50% (cinquenta por
+cento) do valor adicionado à concessão pelos novos contratos abatidos das seguintes parcelas:
+a) despesas relacionadas à revitalização dos recursos hídricos das bacias do Rio São Francisco
+e do Rio Parnaíba, nos termos da alínea a do inciso V do caput do art. 3º desta Lei;
+b) despesas relacionadas ao desenvolvimento de projetos na Amazônia Legal com vistas a
+reduzir estruturalmente os custos de geração de energia e para a navegabilidade do Rio Madeira
+e do Rio Tocantins, de acordo com o disposto na alínea b do inciso V do caput do art. 3º desta
+Lei;
+c) despesas relacionadas aos projetos na área de influência dos reservatórios das usinas
+hidrelétricas de Furnas, cujos contratos de concessão sejam afetados por esta Lei, nos termos
+da alínea c do inciso V do caput do art. 3º desta Lei; e
+d) despesas para ressarcir o valor econômico do fornecimento de energia elétrica para o
+Projeto de Integração do Rio São Francisco com Bacias Hidrográficas do Nordeste
+Setentrional (PISF), conforme tratado no § 6º do art. 6º desta Lei;
+III - a alteração do regime de exploração para produção independente, nos termos da Lei nº
+9.074, de 7 de julho de 1995, inclusive quanto às condições da extinção das outorgas, da
+
+encampação das instalações e das indenizações; e
+IV - a assunção da gestão do risco hidrológico, vedada a repactuação nos termos da Lei nº
+13.203, de 8 de dezembro de 2015.
+
+4.10. Por fim, a Lei nº 14.182/2021 também não obriga a licitação para a concessão dos
+serviços à iniciativa privada. Isso viola o art. 37, XXI.14 Esse STF, ao examinar a ADI nº 5624
+
+14 “XXI - ressalvados os casos especificados na legislação, as obras, serviços, compras e alienações serão
+contratados mediante processo de licitação pública que assegure igualdade de condições a todos os
+concorrentes, com cláusulas que estabeleçam obrigações de pagamento, mantidas as condições efetivas da
+proposta, nos termos da lei, o qual somente permitirá as exigências de qualificação técnica e econômica
+indispensáveis à garantia do cumprimento das obrigações.”
+
+
+[[pagina 17 | nativo]]
+
+(DJe 29/11/2019), de relatoria do ministro Ricardo Lewandowski, questionando a Lei nº
+
+13.303/2016, que estabelecia a privatização da Petrobras, registrou o seguinte:
+
+“MEDIDA CAUTELAR EM AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+CONCESSÃO PARCIAL MONOCRÁTICA. INTERPRETAÇÃO CONFORME À
+CONSTITUIÇÃO. ART. 29, CAPUT, DA LEI 13.303/2016. VENDA DE AÇÕES.
+ALIENAÇÃO DO CONTROLE ACIONÁRIO DE EMPRESAS PÚBLICAS,
+SOCIEDADES DE ECONOMIA MISTA OU DE SUAS SUBSIDIÁRIAS E
+CONTROLADAS. NECESSIDADE DE PRÉVIA AUTORIZAÇÃO LEGISLATIVA
+E DE LICITAÇÃO. VOTO MÉDIO. MEDIDA CAUTELAR PARCIALMENTE PELO
+PLENÁRIO. I – A alienação do controle acionário de empresas públicas e sociedades de
+economia mista exige autorização legislativa e licitação pública.”
+
+5. Núcleo Duro da ADI: A ausência de normas de transição que preservem as
+
+conquistas dos trabalhadores do Sistema Eletrobras – O esvaziamento de direitos
+
+sociais – A violação do princípio constitucional da vedação ao retrocesso social
+
+5.1. O acesso à energia elétrica é condição elementar para a realização dos direitos sociais
+
+à educação, saúde, alimentação, trabalho, moraria, transporte, lazer, segurança, proteção à
+
+maternidade e à infância e assistência aos desempregados. A PEC nº 44/2017, por exemplo,
+atribui à energia elétrica o status de direito social.15
+
+5.2. Certamente o mais grave vício da Lei nº 14.182/2021 é promover uma drástica
+mudança no plexo de direitos dos empregados públicos do Sistema Eletrobras sem que em
+
+reação tenha apresentado quaisquer salvaguardas, normas de transição ou regras de
+
+calibração que amenizem a erosão de direitos de índole trabalhista constitucionalmente
+
+previstos e integrantes do que se reconhece como vedação do retrocesso social.
+
+5.3. O art. 1º, IV da Constituição indica como fundamento da República o valor social
+
+do trabalho. O mesmo consta do art. 170, caput, que afirma estar a ordem econômica fundada
+
+15 Ver: https://www12.senado.leg.br/noticias/materias/2017/12/20/pec-estabelece-acesso-a-energia-eletrica-
+como-um-direito-social
+
+
+[[pagina 18 | nativo]]
+
+na valorização do trabalho humano. Vale frisar que, no Brasil, a livre iniciativa há de estar
+
+abraçada com a preservação dos valores sociais do trabalho. Este foi o entendimento do RE
+nº 958.252 (Tema nº 72516), de relatoria do ministro Luiz Fux:
+
+“Os valores do trabalho e da livre iniciativa, insculpidos na Constituição (art. 1º, IV), são
+intrinsecamente conectados, em uma relação dialógica que impede seja rotulada determinada
+providência como maximizadora de apenas um desses princípios, haja vista ser essencial para
+o progresso dos trabalhadores brasileiros a liberdade de organização produtiva dos cidadãos,
+entendida esta como balizamento do poder regulatório para evitar intervenções na dinâmica
+da economia incompatíveis com os postulados da proporcionalidade e da razoabilidade.”
+
+5.4. A Constituição de 1988 dedicou o seu Capítulo II aos “Direitos Sociais”, abrindo-o
+
+com o art. 6º que traz, como um desses direitos, o trabalho, de modo que, a partir dele, virão
+a “educação, a saúde, a alimentação, a moradia, o transporte, o lazer, a segurança, a
+
+previdência social, a proteção à maternidade e à infância, a assistência aos desamparados”.
+
+5.5. Constituição se importa com os que ficam desempregados. Os incisos I e II do art.
+7º asseguram ser direitos dos trabalhadores: “I - relação de emprego protegida contra
+
+despedida arbitrária ou sem justa causa, nos termos de lei complementar, que preverá
+
+indenização compensatória, dentre outros direitos; II - seguro-desemprego, em caso de
+
+desemprego involuntário”.
+
+5.6. O inciso II do art. 200 diz competir ao SUS executar as ações “de saúde do
+
+trabalhador”. O art. 201, III, anota que a previdência social atenderá, na forma da lei, a
+“proteção ao trabalhador em situação de desemprego involuntário”.
+
+5.7. Ocorre que o presente processo de desestatização fez com que os trabalhadores
+
+demitidos fossem privados do direito a compra de ações. De acordo com os §§ 6º e 7º do
+art. 1º da lei aprovada no Congresso, trabalhadores da companhia teriam direito a adquirir
+
+16 “Tema 725 -É lícita a terceirização ou qualquer outra forma de divisão do trabalho entre pessoas jurídicas
+distintas, independentemente do objeto social das empresas envolvidas, mantida a responsabilidade subsidiária
+da empresa contratante”.
+
+
+[[pagina 19 | nativo]]
+
+um total de até 1% das ações da Eletrobras, podendo inclusive fazer uso dos recursos
+
+advindos de eventual demissão que venham a sofrer durante o processo de privatização,
+
+pagando, para isso, o valor das ações no dia 18 de fevereiro deste ano. Eis os comandos:
+
+“§ 6º Até 1% (um por cento) das ações remanescentes em poder da União, após o aumento
+de capital, poderá ser adquirido pelos empregados, tanto da empresa como daquelas por
+ela controladas, direta ou indiretamente, garantido que o valor recebido em razão de sua
+eventual rescisão de vínculo trabalhista poderá ser convertido em ações cujo preço será
+equivalente ao preço das ações em até 5 (cinco) dias antes da publicação da Medida
+Provisória nº 1.031, de 23 de fevereiro de 2021, nos termos do plano especial de oferta.
+
+§ 7º Os empregados desligados terão o prazo de 6 (seis) meses após a sua rescisão de
+vínculo trabalhista, desde que o seu desligamento ocorra durante o ano subsequente ao
+processo de capitalização, para exercer o direito previsto no plano especial de oferta
+referido no § 6º deste artigo.”
+
+5.8. O artigo, contudo, foi vetado, vulnerabilizando a situação dos trabalhadores e
+
+removendo, da proposta, as regras de calibração que impediriam um odioso retrocesso social
+
+na condição conquistada por esses trabalhadores.
+
+5.9. Antes, qualquer empresa que viesse a comprar a Eletrobras estaria proibida de
+
+extinguir as atividades (e demitir os trabalhadores) de suas companhias subsidiárias presentes
+
+em três estados e no DF. A ideia era garantir que a lógica do lucro não levasse à redução da
+oferta de energia nessas unidades da federação, garantindo a atividade produtiva energética:
+
+“Inciso VII do art. 3º
+Vedação da extinção, da incorporação, da fusão ou da mudança de domicílio estadual, pelo
+prazo mínimo de 10 (dez) anos, das seguintes subsidiárias da Eletrobras: Chesf, no Estado
+de Pernambuco, Furnas, no Estado do Rio de Janeiro, Eletronorte, no Distrito Federal e
+Companhia de Geração e Transmissão de Energia Elétrica do Sul do Brasil (CGT
+Eletrosul), no Estado de Santa Catarina.”
+
+
+[[pagina 20 | nativo]]
+
+5.10. A garantia, porém, foi retirada da norma pelo presidente da República, por meio de
+
+veto, intensificando esse estado de absoluta vulnerabilização do trabalhador.
+
+5.11. E não é só. A fim de evitar um fenômeno já observado em processos de privatização
+
+anteriores, o de demissão em massa de trabalhadores da companhia vendida, o Congresso
+
+Nacional havia colocado na lei de privatização da Eletrobras um dispositivo que garantia que
+todos os trabalhadores da empresa que fossem demitidos até 12 meses após a venda da
+
+Eletrobras deveriam ser absorvidos por outras áreas do serviço público federal:
+
+“§ 8º do art. 1º
+O Poder Executivo deverá realizar o aproveitamento dos empregados da Eletrobras e de
+suas subsidiárias demitidos sem justa causa durante os 12 (doze) meses subsequentes à
+desestatização de que trata esta Lei em empresas públicas federais, em cargos de mesma
+complexidade ou similaridade, com equivalência de seus vencimentos.”
+
+5.12. Essa garantia foi vetada pelo presidente da República. Ou seja, a desestatização da
+
+Eletrobras esvaziou por completo todo o plexo de normas de transição que traziam
+proporcionalidade ao processo no que diz respeito à proteção mínima de direitos dos
+
+trabalhadores do sistema, os quais, agora, padecerão da mais absoluta vulnerabilidade, em
+
+confronto direto com os direitos sociais fundamentais, com as normas constitucionais de
+
+proteção do trabalho, do princípio da proporcionalidade e do primado da vedação ao
+retrocesso social. Trata-se do exercício abusivo de um direito, que é o veto.
+
+5.13. O Pleno do STF, julgando o RE nº 597.994 (redator para acórdão o ministro Eros
+Grau, DJ 28/08/2009), anotou: “(...) A ausência de regras de transição para disciplinar
+
+situações fáticas não abrangidas por emenda constitucional demanda a análise de cada caso
+
+concreto à luz do direito enquanto totalidade. A exceção é o caso que não cabe no âmbito
+
+de normalidade abrangido pela norma geral. Ela está no direito, ainda que não se encontre
+nos textos normativos de direito positivo. Ao Judiciário, sempre que necessário, incumbe
+
+decidir regulando também essas situações de exceção. Ao fazê-lo não se afasta do
+
+ordenamento”. Há de haver, pois, regras de transição as quais, na espécie, desapareceram.
+
+
+[[pagina 21 | nativo]]
+
+5.14. O Pleno desse STF, apreciando a ADI nº 4468 (DJe 27/10/2020), pela relatoria do
+
+ministro Celso de Mello, reconheceu a “intangibilidade dos direitos fundamentais sociais
+
+mínimos assegurados aos trabalhadores pela Constituição Federal, por tratados e convenções
+internacionais e, ainda, pela legislação trabalhista”, reiterando, ainda, o “postulado
+
+constitucional que veda o retrocesso social e o reconhecimento do seu caráter de vocação
+
+protetiva dos direitos sociais básicos da classe trabalhadora”. É preciso manter hígidos os
+
+“direitos e garantias mínimos titularizados pelos empregados e trabalhadores”.
+
+5.15. Segundo o ministro Celso de Mello, o princípio, “em tema de direitos fundamentais
+
+de caráter social, impede que sejam desconstituídas as conquistas já alcançadas pelo cidadão
+ou pela formação social em que ele vive”. Trata-se de uma “dimensão negativa pertinente
+
+aos direitos sociais, impedindo, em consequência, que os níveis de concretização dessas
+
+prerrogativas, uma vez atingidos, venham a ser reduzidos, degradados ou suprimidos”. Daí
+
+as lições de Gomes Canotilho:
+
+“O reconhecimento desta proteção de direitos prestacionais de propriedade,
+subjetivamente adquiridos, constitui um limite jurídico do legislador e, ao mesmo tempo,
+uma obrigação de prossecução de uma política congruente com os direitos concretos e as
+expectativas subjectivamente alicerçadas. A violação no núcleo essencial efectivado
+justificará a sanção de inconstitucionalidade relativamente aniquiladoras da chamada justiça
+social. (…). De qualquer modo, mesmo que se afirme sem reservas a liberdade de
+conformação do legislador nas leis sociais, as eventuais modificações destas leis devem
+
+observar os princípios do Estado de direito vinculativos da actividade legislativa e o núcleo
+essencial dos direitos sociais.”17
+
+5.16. Vale lembrar, a esse respeito, que o Tribunal Constitucional português (Acórdão nº
+
+39/84), pela relatoria do Conselheiro Vital Moreira, reconheceu a inconstitucionalidade de
+
+ato estatal que revogara garantias já conquistadas no âmbito dos direitos sociais. Eis trechos:
+
+17 Direito Constitucional e Teoria da Constituição”, p. 320/321, item n. 3, 1998, Almedina.
+
+
+[[pagina 22 | nativo]]
+
+“Que o Estado não dê a devida realização às tarefas constitucionais, concretas e
+determinadas, que lhe estão cometidas, isso só poderá ser objecto de censura constitucional
+em sede de inconstitucionalidade por omissão. Mas quando desfaz o que já havia sido
+realizado para cumprir essa tarefa, e com isso atinge uma garantia de um direito
+fundamental, então a censura constitucional já se coloca no plano da própria
+inconstitucionalidade por acção.
+Quer isto dizer que a partir do momento em que o Estado cumpre (total ou parcialmente)
+as tarefas constitucionalmente impostas para realizar um direito social, o respeito
+constitucional deste deixa de consistir (ou deixar de consistir apenas) numa obrigação
+positiva, para se transformar (ou passar também a ser) numa obrigação negativa. O Estado,
+que estava obrigado a actuar para dar satisfação ao direito social, passa a estar obrigado a
+abster-se de atentar contra a realização dada ao direito social.
+Este enfoque dos direitos sociais faz hoje parte integrante da concepção deles a teoria
+constitucional, mesmo lá onde é escasso o elenco constitucional de direitos sociais e onde,
+portanto, eles têm de ser extraídos de cláusulas gerais, como a cláusula do ‘Estado social’.”18
+
+5.17. Ressalta-se, ainda, que a Convenção nº 158 da OIT, relativa ao “Término da Relação
+de Trabalho por Iniciativa do Empregador”, dispõe, em seu art. 13, que o empregador
+
+“oferecerá aos representantes dos trabalhadores interessados, o mais breve que for possível,
+
+uma oportunidade para realizarem consultas sobre as medidas que deverão ser adotadas para
+
+evitar ou limitar os términos e as medidas para atenuar as consequências adversas de todos
+os términos para os trabalhadores interessados”. Ou seja, deve haver participação dos
+
+representantes dos trabalhadores na dispensa em massa.
+
+5.18. A Lei nº 14.182/2021, após os vetos presidenciais, também deixou de fazer menção
+ao destino dos postos de trabalhos hoje ocupados na holding Eletrobras, tampouco prevê
+
+algum desfecho para o Fundo de Pensão dos empregados da empresa.
+
+18 Acórdãos do Tribunal Constitucional”, vol. 3/95-131, 117-118, 1984, Imprensa Nacional, Lisboa.
+
+
+[[pagina 23 | nativo]]
+
+5.19. Em resumo, o bloco de vetos presidenciais a comandos aprovados pelo Congresso
+
+Nacional que estariam no texto da Lei nº 14.182/2021, em absoluto menoscabo aos direitos
+
+dos empregados públicos da Eletrobras, está em completa afronta à Constituição Federal.
+
+6. Do Pedido Cautelar: Dano Ocorrente e Plausibilidade Jurídica
+
+6.1. Uma vez demonstrada a inconstitucionalidade formal e material da Lei nº
+
+14.182/2021, preencheu-se um dos requisitos necessários à concessão da cautelar, qual seja,
+
+a plausibilidade dos fundamentos jurídicos (fumus boni iuris).
+
+6.2. Há também periculum in mora. O diploma em vigor, publicado no DOU em
+
+13/07/2021, traz, no seu art. 33, a previsão de entrada em vigor a partir da sua publicação,
+
+ou seja, a lei já produz efeitos há quase 3 meses, isso sem contar o período em que vigorou
+
+como MP nº 1.031/2021, o que demonstra a necessidade de concessão da medida cautelar.
+
+6.3. Por fim, considerando a relevância dos fundamentos deduzidos nesta inicial e baixa
+
+possibilidade de que o julgamento de mérito desta ação direta de inconstitucionalidade venha
+
+a se realizar ainda neste Ano Judiciário, o recomendável, neste momento, é a suspensão
+liminar dos dispositivos impugnados, bem como dos processos de alienação de ativos já
+
+instaurados pelo BNDES, até que o mérito da questão constitucional possa ser examinado.
+
+7. Dos Pedidos: cautelar e mérito
+
+7.1. A CNTI requer que a norma impugnada - Lei nº 14.182/2021, da União – seja
+
+declarada formalmente inconstitucional, pelos fundamentos já expressados, sem prejuízo de
+reconhecer-se, também, o seu caráter materialmente inconstitucional, notadamente quanto
+
+aos dispositivos aqui apresentados.
+
+7.2. A autora requerer o deferimento da cautelar para que os efeitos da lei sejam
+suspensos, com excepcionais efeitos ex tunc. Uma vez concedida a cautelar, reque-se o
+
+processamento do feito, com a solicitação de informações ao Congresso Nacional, a oitiva
+
+
+[[pagina 24 | nativo]]
+
+da AGU e da PGR para que, então, julgando-se o mérito da disputa, seja a Lei nº 14.182/2021
+
+declarada integralmente inconstitucional, por vícios formais e materiais, comunicando-se o
+presidente do Congresso Nacional e o presidente da República19 da referida decisão.
+
+7.3. Requer, por fim, que o nome de Marcelo Montalvão Machado, OAB/DF n. 34.391,
+
+conste nas publicações relativas ao feito (CPC, art. 272, § 1º).
+
+Dá-se à causa o valor de R$ 1.000,00 (um mil reais)
+
+E. Deferimento.
+Brasília, 30 de novembro de 2021.
+
+Saul Tourinho Leal Marcus Alexandre Garcia Neves
+OAB/DF 22.941 OAB/RJ 106.115
+
+Rodrigo Barbosa Araújo
+OAB/DF 65.206
+
+19 Pedido de informações aos órgãos ou às autoridades das quais emanou a lei estadual atacada (art. 6º da Lei
+nº 9.868/99 c/c art. 170 do RISTF) e, decorrido o prazo, que sejam ouvidos, sucessivamente, o AGU e a PGR,
+que deverão manifestar-se, cada qual, no prazo legalmente previsto (art. 8º da Lei nº 9.868/99).
+
+

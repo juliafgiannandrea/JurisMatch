@@ -1,0 +1,663 @@
+[[pagina 1 | nativo]]
+
+Assinado de forma digital por
+ALBERTO BRANDAO ALBERTO BRANDAO HENRIQUES
+HENRIQUES MAIMONI MAIMONI Dados: 2020.04.20 14:05:06 -03'00'
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO
+
+SUPREMO TRIBUNAL FEDERAL – STF. BRASÍLIA/DF.
+
+PARTIDO SOCIALISMO E LIBERDADE – PSOL, partido político com
+
+representação no Congresso Nacional, devidamente registrado no Eg. Tribunal Superior
+
+Eleitoral por meio da Resolução nº 22.083 de 15.09.2005, com sede e foro em Brasília
+
+(DF), SCS, Qd. 2, Bl. C, nº 252, Ed. Jamel Cecílio, 5º and. - Brasília-DF, fones (61) 3963-
+
+1750 e 3039-6356, por seu Presidente Nacional, JULIANO MEDEIROS, brasileiro,
+
+historiador, inscrito no CPF nº 004.407.270-81 e do RG 8.084.283.962 SJS/RS, residente e
+
+domiciliado em São Paulo vem, respeitosamente,
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com PEDIDO DE MEDIDA LIMINAR
+
+em detrimento da Medida Provisória n. 954, de 17 de abril de 2020, em razão de sua
+
+afronta ao artigo 5º, incisos X e XII da Constituição da República Federativa do Brasil de
+
+1988, nos termos e argumentos que se passará a expor.
+
+1 – INTRODUÇÃO CONTEXTUAL
+
+O Governo Federal editou a Medida Provisória n. 954, de 17 de abril de
+
+2020, que “Dispõe sobre o compartilhamento de dados por empresas de
+
+telecomunicações prestadoras de Serviço Telefônico Fixo Comutado e de Serviço Móvel
+
+Pessoal com a Fundação Instituto Brasileiro de Geografia e Estatística, para fins de suporte
+
+[[pagina 2 | nativo]]
+
+à produção estatística oficial durante a situação de emergência de saúde pública de
+
+importância internacional decorrente do coronavírus (covid-19), de que trata a Lei nº
+
+13.979, de 6 de fevereiro de 2020”, permitiu, dentre outras providências, a quebra e
+
+transferência do sigilo e proteção dos dados pessoais dos cidadãos brasileiros.
+
+A medida é absolutamente inconstitucional. Tanto na forma como no
+
+conteúdo.
+
+Assim, pelas razões que se seguem, pugna-se pela suspensão imediata da
+
+eficácia da norma impugnada, especialmente do art. 2º e, por arrastamento, de toda a
+
+Medida Provisória.
+
+2 – DA NORMA IMPUGNADA
+
+A Medida Provisória n. 954, de 17 de abril de 2020, íntegra juntada,
+
+estabelece a ordem de acesso aos dados pessoais das pessoas físicas e jurídicas, através do
+
+compartilhamento de dados por empresas de telecomunicações prestadoras do Serviço
+
+Telefônico Fixo Comutado - STFC e do Serviço Móvel Pessoal - SMP com a Fundação
+
+Instituto Brasileiro de Geografia e Estatística - IBGE.
+
+Essa é mais uma medida do Governo que seria justificada pela Pandemia
+
+do Coronavírus (Covid-19). Mais uma medida que, aproveitando-se do momento
+
+excepcional, rompe, sem necessidade ou justificativa plausível, o ordenamento e
+
+excepciona direitos fundamentais. A MP 954 incide em fortes e flagrantes
+
+inconstitucionalidades e traz danos perenes no rompimento de sigilos e vida privada das
+
+pessoas físicas e jurídicas.
+
+3. CABIMENTO DA AÇÃO
+
+Na forma do art. 102, inc. I, “a” da Constituição Federal, a Ação Direta
+
+de Inconstitucionalidade é cabível contra lei ou ato normativo federal ou estadual.
+
+A presente ação questiona a constitucionalidade da MP 954, de 17 de
+
+abril de 2020, em razão de flagrante inconstitucionalidade em face da Constituição Federal.
+
+[[pagina 3 | nativo]]
+
+4. DA LEGITIMIDADE ATIVA
+
+O PSOL é partido político constitucionalmente legitimado para agir em
+
+sede de controle concentrado de constitucionalidade, devidamente constituído frente ao
+
+Tribunal Superior Eleitoral e representado no Congresso Nacional.
+
+Restam, assim, preenchidos os pressupostos do art. 103, inc. VIII da
+
+Constituição Federal/88, assim como do art. 2º, inc. VIII da Lei 9.868/99.
+
+5. O DIREITO – AS INCONSTITUCIONALIDADES DA MEDIDA
+
+PROVISÓRIA N. 954, DE 2020.
+
+No ordenamento brasileiro a fixação da proteção de dados como um
+
+direito autônomo e fundamental advém da imbricação e efeitos que o tratamento de dados
+
+pessoais acarreta à proteção da personalidade em face das expressas garantias
+
+constitucionais de igualdade (a substancial e a formal), de liberdade e da dignidade da
+
+pessoa humana, concomitante, ainda, com a proteção da intimidade e da vida privada.
+
+Nesta conjugação de valores e princípios basilares fixa-se, em alto e bom som, os caracteres
+
+de fundamentalidade e autonomia do direito primário à proteção dos dados pessoais1.
+
+A proteção de dados pessoais é um direito fundamental das pessoas e
+
+relaciona-se, pois, com a essencial exigência de proteção da privacidade dos cidadãos.
+
+Emana diretamente dos incisos X e XII do art. 5º da Constituição
+
+Federal:
+
+X - são invioláveis a intimidade, a vida privada, a honra e a imagem das
+
+pessoas, assegurado o direito a indenização pelo dano material ou moral
+
+decorrente de sua violação;
+
+XII - é inviolável o sigilo da correspondência e das comunicações telegráficas,
+
+de dados e das comunicações telefônicas, salvo, no último caso, por ordem
+
+1 Apesar de não decorrer de uma verbalização algo explícita e literal da Carta de 88, o caráter de direito fundamental
+da proteção de dados pessoais foi reconhecido expressamente pelo Brasil há pelo menos quase duas décadas na
+Declaração de Santa Cruz de La Sierra, documento final da XIII Cúpula Ibero-Americana de Chefes de Estado e de
+Governo, e firmada em 15 de novembro de 2003. No item 45 da Declaração têm-se: 45. Estamos também conscientes
+de que a proteção de dados pessoais é um direito fundamental das pessoas e destacamos a importância das
+iniciativas reguladoras iberoamericanas para proteger a privacidade dos cidadãos, contidas na Declaração de Antigua,
+pela qual se cria a Rede Ibero-Americana de Proteção de Dados, aberta a todos os países da nossa Comunidade.
+
+[[pagina 4 | nativo]]
+
+judicial, nas hipóteses e na forma que a lei estabelecer para fins de investigação
+
+criminal ou instrução processual penal;
+
+Assim, os dados pessoais são protegidos constitucional e legalmente na
+
+expressão, prospecção e aplicação da liberdade, da igualdade e da dignidade da pessoa
+
+humana e de seus direitos fundamentais, com destaque à sua vida íntima e privada, a honra
+
+e a imagem e a incolumidade desses direitos, seus e de sua família.
+
+As informações pessoais que o Governo mandou as empresas telefônicas
+
+disponibilizarem são dados com vínculo objetivo, com ligação específica com as pessoas e
+
+que definem características e revelam ações, muitas relativas à intimidade e vida privada, e
+
+que sua violação lhes afetaria a honra e imagem.
+
+Isso não obstante ser personalíssimo o direito aos dados pessoais,
+
+conforme indicava, ainda na década de 1980, a Convenção de Estrasburgo, da União
+
+Europeia (Convenção 108), quando definia que tais dados são “qualquer informação
+
+relativa a uma pessoa singular identificada ou suscetível de identificação («titular dos
+
+dados»)”. Esse conceito veio definido na Lei 13.709, de 2018, a Lei Geral de Proteção de
+
+Dados Pessoais (LGPD), que no art. 5º estabelece que “Para os fins desta Lei, considera-
+
+se: I - dado pessoal: informação relacionada a pessoa natural identificada ou identificável”.
+
+São dados pessoais, pertencentes às pessoas e não disponíveis e não
+
+violáveis, portanto, o que o Governo pretende acessar.
+
+A LGPD está fundada em princípios oriundos do dimensionamento dos
+
+direitos fundamentais da pessoa e determina (art. 2º) que a proteção de dados pessoais
+
+norteia-se:
+
+I – pelo o respeito à privacidade;
+
+II - pela autodeterminação informativa;
+
+III - pela liberdade de expressão, de informação, de comunicação e de opinião;
+
+IV – pela inviolabilidade da intimidade, da honra e da imagem;
+
+V – pelo desenvolvimento econômico e tecnológico e a inovação;
+
+[[pagina 5 | nativo]]
+
+VI - pela livre iniciativa, a livre concorrência e a defesa do consumidor; e
+
+VII - pelos direitos humanos, o livre desenvolvimento da personalidade, a dignidade
+
+e o exercício da cidadania pelas pessoas naturais.
+
+Estes valores constitucionais traduzidos e expressos na legislação de
+
+regência estão completa e flagrantemente vulnerados pela MP 954.
+
+Hoje as pessoas são reconhecidas nos mais diversos relacionamentos
+
+através da representação de sua personalidade, que é cada vez mais fornecida pelos seus
+
+dados pessoais. Esta característica social hodierna aprofunda ainda mais a íntima relação
+
+entre os dados pessoais e a própria identidade e personalidade de cada um de nós.
+
+Especialistas apontam, ainda, que há uma legitimação do poder através e baseada na
+
+informação.
+
+Decorre implicitamente do direito de personalidade hodierno a
+
+característica e faculdade da “autoproteção informativa”, algo assemelhado ao
+
+Informational privacy, do direito norteamericano, que envolve desde interesses de
+
+proteção de questões extremamente íntimas, como aquelas relacionadas ao
+
+desenvolvimento da personalidade, o nome, as formas de identificação e inúmeros outros2.
+
+A autoproteção informativa dá aos indivíduos e pessoas jurídicas o poder de controlar e
+
+fiscalizar e proteger os seus dados pessoais. A capacidade de tutela de dados pessoais
+
+sobrevém do fato de que já não estão mais ao dispor do Estado os dados pessoais, uma vez
+
+que está segregada constitucionalmente a tutela da privacidade.
+
+Daí que ao aplicador do direito e da lei não é permitido eximir-se de
+
+considerar as ofensas à privacidade, quanto mais quando no modo massivo como a
+
+pretendido pela MP 954.
+
+A privacidade dos dados se dá, obviamente, numa relação
+
+diametralmente oposta à propagação e acesso: quanto maior o acesso e uso das
+
+informações pessoais, menor o grau de privacidade.
+
+2 Num rol não taxativo o privacy reúne a tutela da tranquilidade no lar, o controle sobre informações pessoais, o
+controle sobre o próprio corpo, a liberdade de pensamento, as questões envolvendo vigilância, reputação,
+averiguações e interrogatórios abusivos, planejamento familiar, educação dos filhos, aborto, eutanásia, orientação
+sexual.
+
+[[pagina 6 | nativo]]
+
+Neste ponto, o acesso indiscriminado e sem justificativa plausível ou
+
+mesmo utilidade para fins estatísticos das disposições do art. 2º da MP 954 podem servir
+
+ao Estado como meio de alcançar fins ilícitos contrários à moral ou ao direito, mesmo que
+
+involuntariamente. Do acesso aos dados pessoais, regulado pela MP 954, é possível ao
+
+Estado perseguir politicamente cidadãos; alterar ou interferir em pleitos eleitorais fazendo-
+
+os favoráveis a determinados grupos; exercer pressão econômica ou política e outros3.
+
+O requerente não quer ou pretende o direito à inviolabilidade dos dados
+
+e da vida privada como um direito absoluto. Circunstâncias excepcionais podem justificar o
+
+rompimento da ordem constitucional, restringindo direitos. Todavia, o pleito fixa-se, em
+
+vista da força primeira e da centralidade do direito fundamental que se quer
+
+temporariamente extinguir, restringindo a abrangência da privacidade e da vida privada, na
+
+deficiência da justificação ao acesso aos dados e quebra da inviolabilidade constitucional,
+
+da desproporção e da irrazoabilidade da medida. O que não está observado na MP 954 é
+
+que quanto maior for a ingerência em determinado direito, maiores deverão ser os motivos
+
+que justifiquem o afastamento desse direito. E quanto mais quando se tratar, como no
+
+caso, de restrição a direitos fundamentais e pétreos.
+
+A MP 954 não preenche o requisito da relevância (art. 62, caput da
+
+CF/88) por que:
+
+1. Estabelece o acesso a dados pessoais sem que a produção estatística a que alegadamente
+
+se pretende, requeira tais dados para ser produzida: pretende-se dar continuidade aos
+
+levantamentos da Pesquisa Nacional por Amostra de Domicílios Contínua -
+
+PNAD Contínua, que pode ser realizada sem que dados pessoais sejam violados. A
+
+pesquisa para a PNAD- Contínua, como se verifica do próprio site do IBGE 4, é por
+
+amostragem. Esta característica da PNAD deixa injustificada uma quebra total e irrestrita
+
+de dados pessoais, que poderia, se fosse constitucionalmente permitido, ser acessado por
+
+segmento social ou área geográfica de interesse, por exemplo. A LPGD é, neste ponto,
+
+flagrantemente ofendida sem justificativa, no quanto disposto no art. 6º e demais
+
+dispositivos.
+
+3 Essas consequências do rompimento da privacidade dos dados pessoais já foram judicialmente reconhecidas, como
+se vê do REsp. n. 22.337/RS, STJ, rel. Min. Ruy Rosado).
+4 https://www.ibge.gov.br/estatisticas/multidominio/condicoes-de-vida-desigualdade-e-pobreza/17270-pnad-
+continua.html?=&t=o-que-e, acesso em 19 de abril de 2020.
+
+[[pagina 7 | nativo]]
+
+2. Em razão do modo como regulado o direito fundamental de privacidade e
+
+inviolabilidade dos dados pessoais, constata-se que a MP 954, descumpre ou deixa de dar
+
+aplicabilidade a essenciais elementos do exercício e proteção deste direito no país. Assim,
+
+não possui a MP 954 os requisitos essenciais:
+
+2.1 da finalidade, uma vez que propósitos não são específicos, mas genéricos, não estão
+
+completamente explícitos – a Mensagem fala em realização da PNAD mas o texto é
+
+inespecífico - e o acesso não está informado ou autorizado pelo titular;
+
+2.2. da adequação, pois não há compatibilidade do acesso e tratamento dos dados pessoais
+
+com as finalidades informadas;
+
+2.3. da necessidade: pois o acesso é total e irrestrito à todos os usuários de telefonia das
+
+companhias telefônicas, deixando de ser, como deveria, limitado ao mínimo necessário
+
+para a realização de suas finalidades, com abrangência dos dados pertinentes,
+
+proporcionais e não excessivos em relação às finalidades do tratamento de dados.
+
+3. Os dados pessoais colhidos e disponibilizados não serão anonimizados, sabendo-se
+
+todos que tiverem acesso, de quem se tratam as informações privadas e pessoais;
+
+4. Acessados e transferidos os dados, por força do Decreto nº 10.046, de 9 de outubro de
+
+2019, que “Dispõe sobre a governança no compartilhamento de dados no âmbito da
+
+administração pública federal e institui o Cadastro Base do Cidadão e o Comitê Central de
+
+Governança de Dados” 5 poderá significar uma disseminação total dos dados pessoais
+
+acessados por ordem da MP 954 aos demais órgãos do Governo. Sob a pálida justificativa
+
+de produção estatística do IBGE a MP 954 facilita o compartilhamento de dados cadastrais
+
+do cidadão entre os órgãos da administração pública. E não traz a MP nenhuma garantia
+
+de que não sejam ou possam ser compartilhados os dados acessados;
+
+5. A Medida Provisória estabelece a gravíssima quebra da inviolabilidade dos dados e da
+
+vida privada de modo genérico e inespecífico. De forma generalista define a finalidade de
+
+acessar dados pessoais para a “produção estatística oficial, com o objetivo de realizar
+
+entrevistas em caráter não presencial no âmbito de pesquisas domiciliares”. A repercussão
+
+e possibilidade de danos e de acesso aos dados pessoais e sensíveis das pessoas exigem que
+
+5 Neste sentido, especialmente, o disposto nos artigos 3º, 4º, 5º e 11 do Decreto 10.046, que facilitam e
+“desburocratizam” o compartilhamento de dados entre os órgãos públicos.
+
+[[pagina 8 | nativo]]
+
+a realização do tratamento para propósitos legítimos, específicos, explícitos e informados
+
+ao titular, sem possibilidade de tratamento posterior de forma incompatível com essas
+
+finalidades. Esta, aliás, a redação do inciso I do art. 6º da LGPD, flagrantemente
+
+excepcionado sem nenhuma justificativa ou razão plausível para tanto. O STF6 exige, em
+
+inúmeros julgados, que para a excepcionalidade do rompimento do sigilo de dados e o
+
+acesso e transferências das informações, que são necessários “requisitos objetivos”,
+
+elementos não presentes na MP.
+
+Vê-se que do conteúdo do legislado indica, fortemente, que não há
+
+relevância alguma em quebra os sigilos de dados e a privacidade dos brasileiros. A
+
+Mensagem ou o texto da MP 954 não anotam qual a razão de ser efetuar, em plena
+
+pandemia e vigência de estado de calamidade pública uma pesquisa estatística. Quanto
+
+mais de modo tão invasivo e inconstitucional como o pretendido, que excepciona direitos
+
+fundamentais.
+
+A acerca da urgência, de perguntar-se (resposta não fixada pela MP):
+
+qual a urgência, a situação premente e inafastável que uma pesquisa neste exato momento
+
+solveria? Por que não a realização não final da quarentena e do regime de isolamento
+
+social prevista para o final do mês de maio de 2020? É tão exato que não há nenhuma
+
+relevante e urgente razão para a realização da pesquisa ou de que a pesquisa nestes moldes
+
+de fato não venha a resolver ou explicar determinados fatos urgentes e que não possam ser
+
+realizadas após o período excepcional, que houve o intencional rompimento de direitos
+
+fundamentais. Entendeu o governo, em sua ânsia em realizar uma pesquisa estatística
+
+qualquer, que não viu outro meio, se não o rompimento do ordenamento, em sua parte
+
+basilar.
+
+Há, notoriamente, limites na intervenção estatal e na definição
+
+discricionária da conveniência e oportunidade em determinados períodos e situações
+
+jurídicas. Limitadores temporais que, em dados períodos excepcionais e de fragilidade
+
+social e política, determinadas medidas não sejam realizadas, ou sejam postergadas. Assim
+
+o é o regime dos estados de sítio e defesa e de calamidade, onde não se praticam
+
+determinadas fatos e atos administrativos, voltados que deve estar o estado ao seu objetivo
+
+imediato, que é o debelar da causa que impôs a excepcionalidade. Também o é, por
+
+exemplo, o período eleitoral, onde determinados atos são vedados aos agentes públicos
+
+(Lei 9.504). não há nenhuma razão plausível ou justificação expressa ou implícita na MP
+
+6 Dentre outros, STF RE 601.314, rel. Min. Edson Fachin e RE 1.058.429, rel. Min. Alexandre de Moraes.
+
+[[pagina 9 | nativo]]
+
+954 que autorize o exercício de discricionariedade de resolver efetuar uma pesquisa
+
+estatística em plena pandemia do Corona vírus, uma das mais devastadoras pandemias dos
+
+últimos séculos.
+
+Os direitos à privacidade, à vida íntima, à honra, imagem e dignidade da
+
+pessoa, protegidos pela Constituição de 1988, pelo modo e forma pretendidos pela MP
+
+954, não podem ceder diante dos interesses públicos mal definidos e inespecíficos, um
+
+verdadeiro “cheque em branco” de acesso aos dados pessoais de milhares de pessoas
+
+físicas e jurídicas.
+
+Inexiste qualquer razoabilidade na confecção da MP 954. Veja-se que a
+
+norma utiliza fundamento vago, sem sentido algum e sem necessidade. Diz o § 1º do artigo
+
+2º da MP 954:
+
+“§ 1º Os dados de que trata o caput serão utilizados direta e exclusivamente pela
+
+Fundação IBGE para a produção estatística oficial, com o objetivo de realizar
+
+entrevistas em caráter não presencial no âmbito de pesquisas domiciliares.”
+
+A justificativa da norma aqui impugnada não se assenta no obrigatório
+
+pressuposto da razoabilidade que deve ser observado como requisito de validade. Para
+
+pesquisa estatística, não há necessidade de se ter os telefones e endereços de todos os
+
+brasileiros. As pesquisas sempre são realizadas por amostragem. Não é crível e nem
+
+tampouco razoável, que se imagine que o IBGE irá ligar ou entrar em contato com toda a
+
+população brasileira, física e jurídica, que possuam alguma linha telefônica.
+
+O Brasil tem 230 milhões de smartphones, segundo pesquisa da FGV 7.
+
+Em pesquisa de 2016, o próprio IBGE apontava que 92% dos lares brasileiros tinham
+
+telefone celular 8, o que correspondia, à época a mais de 63 milhões de lares.
+
+Como medida excepcional que se pretende, a MP teria que apontar, de
+
+modo claro, qual o objetivo de passar ao IBGE os dados das pessoas.
+
+7 https://www.em.com.br/app/noticia/economia/2019/04/26/internas_economia,1049125/brasil-tem-230-
+mi-de-smartphones-em-uso.shtml
+8 https://epocanegocios.globo.com/Brasil/noticia/2017/11/no-brasil-92-dos-lares-tem-celular-mas-apenas-
+66-tem-esgoto-tratado.html
+
+[[pagina 10 | nativo]]
+
+De todo o exposto, verifica-se que a Medida Provisória n. 954, ao
+
+permitir o acesso aos dados pessoais das pessoas, sem necessidade, sem justificativa ou
+
+razão razoável, rompendo o ordenamento, especialmente o disposto nos incisos X e XII
+
+do art. 5º da CF/88 e a complementar legislação de regência do sigilo e do tratamento de
+
+dados, incide em inconstitucionalidade, não preenche o requisito da relevância e traz risco
+
+à toda a sociedade, de modo desnecessário, irreversível e desproporcional.
+
+DO PEDIDO DE LIMINAR
+
+O art. 10 da Lei n. 9.868, que regulamenta as ações concentradas de
+
+constitucionalidade, prevê que a medida cautelar na ação direta de inconstitucionalidade
+
+por decisão da maioria dos membros do Tribunal, após a oitiva dos órgãos e autoridades
+
+interessadas.
+
+Já em seu §3º, suspende-se a necessidade de oitiva dos órgãos e
+
+autoridades interessadas em caso de excepcional urgência, no que se enquadra o pedido
+
+aqui formulado.
+
+A urgência da questão, por evidente, abstrai-se do período vivenciado
+
+pela sociedade brasileira diante da pandemia de COVID-19.
+
+Ora, com a publicação da Medida Provisória n. 954/2020, seus efeitos já
+
+são vigentes, de modo que milhões de brasileiros poderão ter seus dados pessoais violados
+
+e, de modo repentino e inconstitucional, reveladas informações não disponíveis e não
+
+essenciais ao Estado ou ao levantamento e formulação estatística do PNAD. Segundo os §§
+
+2º e 3º do art. 2º da MP 954, no prazo de 24 dias o governo poderá ter acesso irrestrito e
+
+com finalidade genérica e inespecífica aos dados de milhões de pessoas físicas e jurídicas.
+
+A possibilidade de acesso aos dados, mesmo que no período de
+
+excepcionalidade da pandemia do Covid-19, que é flagrante na abertura de modo genérico
+
+e sem necessidade do direito ao segredo das pessoas físicas e jurídicas, tem o potencial de
+
+trazer danos irreversíveis às pessoas e uma completa insegurança jurídica e instabilidade
+
+social.
+
+Requer-se que tal suspensão seja por meio de decisão monocrática ad
+
+referendum do Plenário do STF, tal como permitem os art. 10, §3º e 11 da Lei nº 9.868 e
+
+[[pagina 11 | nativo]]
+
+também o art. 21, inc. V, do Regimento Interno do STF (bem como do art. 170, § 1º e §
+
+2º, do Regimento Interno do Supremo Tribunal Federal - RISTF).
+
+Pede que o relator da demanda conceda imediatamente a liminar, ante a
+
+urgência – periculum in mora -, condicionando�a ao posterior e imediato referendo pelo
+
+Plenário9.
+
+Não sendo decidida monocraticamente a cautelar, pede o envio ao
+
+Plenário do STF, para a apreciação da medida cautelar, com prioridade.
+
+A questão é urgente de demanda atuação imediata deste e. Corte
+
+Suprema, razão pela qual requer que Vossa Excelência, inaudita altera pars e
+
+monocraticamente, suspenda os efeitos do art. 2º da Medida Provisória n. 954, de 17 de
+
+abril de 2020, até deliberação final por parte do Plenário deste Supremo Tribunal Federal.
+
+DOS PEDIDOS
+
+Diante de todo o exposto, o Partido Político autor requer,
+
+liminarmente, a suspensão dos efeitos da integralidade da Medida Provisória n.
+
+954/2020, de 17 de abril de 2020, até julgamento final da presente ação.
+
+Alternativamente, a suspensão imediata e até o julgamento final da
+
+presente ação de controle, do art. 2º da Medida Provisória n. 954/2020.
+
+No mérito, pela declaração de inconstitucionalidade da MP 954, tendo
+
+em vista violar o art. 5º, incisos X e XII da Constituição da República Federativa do Brasil
+
+de 1988.
+
+Sem prejuízo da apreciação da medida cautelar requerida, a aplicação do
+
+rito abreviado disciplinado no art. 12 da Lei nº 9.868/1999, em virtude da relevância da
+
+questão articulada na presente inicial e seu inegável impacto para os direitos fundamentais,
+
+a ordem social e a segurança jurídica;
+
+9 Dentre muitas outras, houve o deferimento de liminar inaudita altera pars e ad referendum do Plenário na ADI
+2.849-MC (Rel. Ministro Sepúlveda Pertence, DJ 3.4.2003), a ADI 4.232-MC (Rel. Ministro Menezes Direito, DJe
+22.5.2009), a MC. na ADI 1.899-7 (Rel. Ministro Carlos Velloso). Ainda, MC na ADI 4.307. Rel. Min. Cármen Lúcia.
+
+[[pagina 12 | nativo]]
+
+Sejam colhidas as informações do Congresso Nacional e da Presidência
+
+da República no prazo de 10 dias;
+
+Seja ouvida a Advogada-Geral da União, de acordo com o §3º do art.
+
+103 da Constituição da República, além da abertura de vista dos autos à Procuradoria
+
+Geral da República, para manifestação quanto ao mérito da presente ação;
+
+A prioridade de inclusão na pauta de julgamento no Plenário, observado
+
+o inc. VIII do art. 145, do RISTF;
+
+A confirmação da decisão concessiva da medida cautelar para, ao final,
+
+declarar a inconstitucionalidade da integralidade da Medida Provisória nº 954/2020;
+
+Nestes termos, pede o deferimento.
+
+Brasília/DF, 20 de abril de 2020.
+
+ANDRÉ MAIMONI
+OAB/DF 29.498
+
+ALBERTO MAIMONI
+OAB/DF 21.144

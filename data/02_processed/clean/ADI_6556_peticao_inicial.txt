@@ -1,0 +1,3418 @@
+[[pagina 1 | ocr]]
+nat
+
+DO
+
+EXCELENTÍSSIMO MINISTRO PRESIDENTE DO E. SUPREMO
+TRIBUNAL FEDERAL
+
+O GOVERNADOR DO ESTADO DE SÃO PAULO, no
+exercício da atribuição prevista no artigo 103, inciso V, da Constituição Federal,
+assistido por sua Procuradora Geral, com fundamento no artigo 1º e ss. da Lei nº
+9.868/1999, vem propor AÇÃO DIRETA DE INCONSTITUCIONALIDADE,
+com pedido de MEDIDA CAUTELAR, pelos fundamentos doravante assinalados,
+contra os seguintes dispositivos, legais e regulamentares:
+
+e Resolução CNJ nº 303/2019: artigo 2º, II; artigo 3º, IV; artigo 6º, IX;
+
+artigo 7º, 8 2º, Te II; artigo 9º, caput, 88 1º,3º,4º,5º,6º,7º e 8º; artigo 10;
+
+artigo 12, $2º,1,$3º e 84º, II; artigo 15, 8 1º, I; artigo 16, 8 2º; artigo
+
+20, 88 5º e 7º; artigo 21; artigo 24, parágrafo único; artigo 25, 88 1º e 2º;
+
+artigo 31, 8 1º; artigo 42, $ 2º; artigo 43, caput, parágrafo único; artigo 48,
+
+parágrafo único; artigo 49; artigo 53, 8 3º; artigo 55, 3 3º; artigo 56; artigo
+
+59, caput, 88 2º,3º e 4º, III; artigo 64; artigo 65, 8 2º; artigo 72; artigo 73,
+
+parágrafo único; artigo 74, caput, 8 1º; artigo 75, caput, parágrafo único;
+
+artigo 82; artigo 85, V; e artigo 86, caput, parágrafo único.
+e Código de Processo Civil (Lei nº 13.105 de 2015): artigo 535, 8 3º, II.
+e Leinº 12.153 de 2009: artigo 13,1 e 8 1º.
+e Leinº 10.259 de 2001: artigo 17, caput e $ 2º.
+
+
+[[pagina 2 | ocr]]
+DO
+
+1. CABIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+A presente Ação Direta de Inconstitucionalidade é aforada com
+fundamento no artigo 102, inciso I, alínea “a”, da Constituição da República, tendo como
+objetivo impugnar os acima citados dispositivos, legais e regulamentares, que
+disciplinam os pagamentos devidos pelas Fazendas Públicas, em virtude de sentença
+Judicial condenatória, transcritos ao longo da fundamentação desta peça preambular.
+
+Importante apontar, de início e em relação à temática, que essa c. Corte
+Suprema possui posicionamento sedimentado no sentido de que (ADI 3453):
+
+Os requisitos definidos para a satisfação dos precatórios somente podem ser fixados
+pela Constituição, a saber: a requisição do pagamento pelo presidente do tribunal que
+tenha proferido a decisão; a inclusão, no orçamento das entidades políticas, das verbas
+necessárias ao pagamento de precatórios apresentados até 1º de julho de cada ano; o
+pagamento atualizado até o final do exercício seguinte ao da apresentação dos precatórios,
+observada a ordem cronológica de sua apresentação. (...) [ADI 3.453, rel. min. Cármen
+Lúcia, j. 30-11-2006, P, DJ de 16-3-2007.]
+
+Em relação ao cabimento do controle concentrado em face de dispositivos
+da Resolução CNJ nº 303/2019, o artigo 103, 8 3º, da Constituição Federal admite a sua
+propositura contra ato normativo.
+
+Neste sentido, a Resolução CNJ nº 303/2019, que “dispõe sobre a gestão
+dos precatórios e respectivos procedimentos operacionais no âmbito do Poder
+Judiciário”, inova na ordem jurídica e cria regramento não previsto no texto
+constitucional, fazendo-o por meio de normas genéricas e abstratas, com referências a
+situações hipotéticas. Como exemplo, cito a disciplina da ordem de preferência de
+pagamento dos créditos de que trata o artigo 100, 8 2º, da Constituição Federal, e o
+procedimento e as hipóteses de sequestro de numerário decorrentes do preterimento ou
+da não alocação de recursos orçamentários.
+
+A Resolução CNJ nº 303/2019 pode, assim, ser considerada ato normativo,
+estando sujeita ao controle de constitucionalidade pela via direta.
+
+Eis a jurisprudência pacífica dessa c. Suprema Corte:
+
+
+[[pagina 3 | ocr]]
+DO
+
+EMENTA: CONSTITUCIONAL E ADMINISTRATIVO. PRINCÍPIO DA
+INAFASTABILIDADE DO JUDICIÁRIO (CF, ART. 5º XXXV).
+INCONSTITUCIONALIDADE DE VEDAÇÃO ADMINISTRATIVA AO PLENO
+EXERCÍCO DA ATIVIDADE JURISDICIONAL DURANTE O PLANTÃO. INDEVIDA
+INTERFERÊNCIA NA LEGISLAÇÃO PROCESSUAL E DE ORGANIZAÇÃO
+JUDICIÁRIA PELO CONSELHO NACIONAL DE JUSTIÇA. AÇÃO DIRETA
+PARCIALMENTE PROCEDENTE. 1. O objeto das ações concentradas na jurisdição
+constitucional brasileira, além das espécies normativas primárias previstas no art. 59
+da Constituição Federal, engloba a possibilidade de controle de todos os atos
+revestidos de indiscutível conteúdo normativo e autônomo. Ato normativo do
+Conselho Nacional de Justiça revestido dos atributos da generalidade, impessoalidade
+e abstratividade, permitindo a análise de sua constitucionalidade. Jurisprudência
+pacífica desta CORTE. 2. Inconstitucionalidade de norma administrativa proibitiva de
+plena atuação jurisdicional durante o plantão judiciário. Resolução do Conselho Nacional
+de Justiça que, visando disciplinar e uniformizar procedimentos de interceptação de
+comunicações telefônicas e de sistemas de informática e telemática nos órgãos
+jurisdicionais do Poder Judiciário, criou, administrativamente, inadmissível vedação ao
+exercício regular da função jurisdicional, ao vedar a análise judicial de pedidos de
+prorrogação de prazo de medida cautelar de interceptação de comunicação telefônica,
+telemática ou de informática durante o plantão judiciário, ressalvada a hipótese de risco
+iminente e grave à integridade ou à vida de terceiros. 3. Inconstitucionalidade do 8 1º do
+art. 13 da Resolução 59/2008, com posteriores alterações, do Conselho Nacional de Justiça,
+que desrespeitou a competência constitucional dos Estados para legislar sobre a
+Organização Judiciária (CF, art. 125, 81º), inclusive plantão judicial; bem como os artigos
+22, 1, competência privativa da União para legislar sobre processo penal; 5º incisos XII
+(reserva legal) e XXXV (inafastabilidade de jurisdição). 4. Ação direta de
+inconstitucionalidade julgada parcialmente procedente para declarar inconstitucional o 8 1º
+do art. 13 da Resolução nº 59 do Conselho Nacional de Justiça.
+
+(ADI 4145, Relator(a): EDSON FACHIN, Relator(a) p/ Acórdão: ALEXANDRE DE
+MORAES, Tribunal Pleno, julgado em 26/04/2018, PROCESSO ELETRÔNICO DJe-190
+DIVULG 30-07-2020 PUBLIC 31-07-2020)
+
+De mais a mais, importante repisar que, se a circunstância evidenciar que
+o ato encerra um dever-ser e veicula, autonomamente, em seu conteúdo, enquanto
+manifestação subordinante de vontade, uma prescrição destinada a ser cumprida pelos
+órgãos destinatários, deverá ser considerado, para efeito de controle de
+constitucionalidade, como ato normativo impugnável, tais como decretos presidenciais
+autônomos (por exemplo: CF, art. 84, incisos VI e XII) e decretos que tenham
+extravasado o poder regulamentar do Chefe do Executivo, invadindo matéria reservada
+à lei. É a jurisprudência dominante e bastante sedimentada dessa c. Corte Suprema (ADI
+
+
+[[pagina 4 | ocr]]
+DO
+
+1352-1-DF, Rel. Min. CELSO DE MELLO, DJ de 4/10/1995; ADI 1553, Rel. Min.
+MARCO AURÉLIO, Tribunal Pleno, DJ de 17/9/2004; atos normativos do Conselho
+Nacional de Justiça - ADI 3367, Rel. Min. CEZAR PELUSO, Tribunal Pleno, DJ de
+17/3/2006; ADC 12 MC, Rel. Min. CARLOS BRITTO, Tribunal Pleno, DJ de 1/9/2006;
+atos do Conselho Nacional do Ministério Público — ADPF 482 MC, Rel. Min.
+ALEXANDRE DE MORAES, Decisão Monocrática, DJe de 4/10/2017; ou, ainda, de
+previsões regimentais de tribunais que, claramente, ostentem caráter normativo e
+autônomo — ADI 3544, Rel. Min. EDSON FACHIN, Tribunal Pleno, DJe de 07/8/2017;
+ADI 4108 MC, Rel. Min. ELLEN GRACIE, Tribunal Pleno, DJe de 6/3/2009).
+
+2. INTERESSE E PERTINÊNCIA TEMÁTICA
+
+As normas denunciadas disciplinam o cumprimento de obrigações
+pecuniárias decorrentes de condenação judicial impostas às Fazendas Públicas,
+estabelecendo a forma de requisição judicial e os prazos para o cumprimento e prevendo
+consequências em caso de mora.
+
+O Estado de São Paulo é sujeito passivo de requisições judiciais contendo
+ordens para pagamento, tal como qualquer pessoa jurídica de direito público interno,
+sujeitando-se ao procedimento estabelecido em tais normas.
+
+Logo, a declaração de inconstitucionalidade pretendida possui relação de
+pertinência com os interesses do Estado governado pelo autor.
+
+Mesmo quanto à norma aplicável aos Juizados Especiais Federais, existe
+a pertinência temática, seja porque os Estados, eventualmente, podem figurar como
+parte em ação tramitando nesse Juizado, seja porque, quanto a esse, existe evidente
+similaridade entre os dispositivos legais objeto desta ação que, se não são dependentes,
+são conexos. Assim, o reconhecimento da inconstitucionalidade de um deles deverá,
+necessariamente, repercutir nos demais, a fim de manter a coerência do ordenamento
+jurídico.
+
+
+[[pagina 5 | ocr]]
+DO
+
+3. INCONSTITUCIONALIDADE DA DISCIPLINA DO REGIME ESPECIAL E SEU PLANO DE
+PAGAMENTO
+
+Ao instituir o Regime Especial de pagamento para os entes federados em
+mora no pagamento de seus precatórios, o artigo 101 do Ato das Disposições
+Constitucionais Transitórias assim dispôs:
+
+Art. 101. Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, se
+encontravam em mora no pagamento de seus precatórios quitarão, até 31 de dezembro de
+2024, seus débitos vencidos e os que vencerão dentro desse período, atualizados pelo Índice
+Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), ou por outro índice que
+venha a substituí-lo, depositando mensalmente em conta especial do Tribunal de Justiça
+local, sob única e exclusiva administração deste, 1/12 (um doze avos) do valor calculado
+percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês anterior
+ao mês de pagamento, em percentual suficiente para a quitação de seus débitos e, ainda
+que variável, nunca inferior, em cada exercício, ao percentual praticado na data da
+entrada em vigor do regime especial a que se refere este artigo, em conformidade com
+plano de pagamento a ser anualmente apresentado ao Tribunal de Justiça local.
+(Redação dada pela Emenda constitucional nº 99, de 2017)
+
+Ou seja, durante referido regime, incumbe ao ente devedor apresentar ao
+Tribunal de Justiça local - administrador deste regime — o plano de pagamento da dívida
+e, a cada ano, em função dos novos precatórios recebidos e das amortizações efetuadas,
+revisar o plano, cuidando de aplicar, em recursos próprios, no mínimo o percentual que
+era em recursos próprios praticado na data da Emenda Constitucional nº 99, acrescidos
+de recursos provenientes dos demais instrumentos que lhe foram dados por esta mesma
+Emenda Constitucional — quais sejam, amortizações decorrentes de compensações e
+deságios por acordos diretos, recursos de depósitos, recursos de financiamentos —, de
+modo que, exercidas as possibilidades e respeitadas as limitações de sua capacidade de
+pagamento, o ente devedor demonstre a forma pela qual pretende solver referida dívida.
+
+Ao disciplinar a forma de acompanhamento deste regime, porém, a
+Resolução CNJ 303/2019, em seu artigo 59, inovou, do que redundou na imposição de
+obrigações adicionais ao ente devedor, resultando na inconstitucionalidade do quanto
+estabelecido em seu $ 2º, 8 3º, e inciso HI do $ 4º:
+
+
+[[pagina 6 | ocr]]
+
+DO
+
+
+a)
+
+b)
+
+Art. 59. O depósito de que trata o art. 101 do ADCT corresponderá a 1/12 (um doze avos)
+do valor calculado percentualmente sobre a Receita Corrente Líquida — RCL do ente
+devedor, apurada no segundo mês anterior ao do depósito, considerado o total da dívida de
+precatórios.
+
+$ lo O percentual de que trata o caput deste artigo deverá ser suficiente à quitação do débito
+de precatórios apresentados regularmente até lo de julho do penúltimo ano de vigência do
+regime especial, recalculado anualmente.
+
+$ 20 Quando variável o percentual de que trata o 8 lo deste artigo, será devido, a título de
+percentual mínimo, aquele fixado como mínimo, de responsabilidade do ente devedor, pela
+Emenda Constitucional no 62, de 9 de dezembro de 2009.
+
+8 30 O percentual mínimo de que trata o parágrafo $ 20 somente é aplicável quando o
+percentual suficiente referido no 8 lo for inferior a ele.
+
+$ 40 A revisão anual do percentual de que trata o $ 1 o considerará:
+
+I— o saldo devedor projetado em 31 de dezembro do ano corrente, composto inclusive de
+eventuais diferenças apuradas em relação ao percentual da RCL devido em conformidade
+com o disposto no art. 101 do ADCT;
+
+Il — a dedução dos valores das amortizações mensais a serem feitas até o final do exercício
+corrente, bem como do valor das amortizações efetivamente realizadas junto à dívida
+consolidada de precatórios; e
+
+HI — a divisão do resultado pelo número de meses faltantes para o prazo fixado no art. 101
+do ADCT, incluídos no cálculo da dívida os precatórios que ingressaram no exercício
+orçamentário do ano seguinte.
+
+A inconstitucionalidade dos dispositivos extrai-se por dois motivos:
+primeiro, porque o supracitado artigo 101, do ADCT, faz expressa referência ao
+percentual de recursos próprios que, na data da Emenda Constitucional que o
+inseriu naquele texto, estivesse sendo despendido pelo ente devedor no
+pagamento de precatórios, inexistindo menção — nesta norma do ADCT — a
+qualquer outra data ou circunstância, diferentemente do que dispôs a Resolução
+303/2019 ora inquinada, ao considerar data e condição diversa.
+segundo, porque a amortização dos precatórios deve ser feita segundo o plano
+apresentado pelo ente devedor, que anualmente há de considerar não apenas
+os recursos próprios a serem aplicados no pagamentos, mas também a
+aplicação dos demais instrumentos de amortização previstos no regime
+especial — quais sejam, os acordos, a compensação e o financiamento como
+meios complementares de amortização e pagamento —, cujo manejo durante o
+regime especial cabe ao ente devedor, da forma que melhor atenda à redução da
+sua dívida.
+
+
+[[pagina 7 | ocr]]
+DO
+
+Como decorrência do segundo ponto acima exposto, tem-se que a previsão
+
+do ato do Conselho Nacional de Justiça não se coaduna com o disposto no texto do
+ADCT, isto é, a mera operação aritmética de divisão do montante da dívida em
+determinada data, pelo prazo em meses remanescente até o final do referido regime.
+Com efeito, além de anual o plano — admitindo variações mensais desde que composto
+para o ano o montante em amortizações nele previsto —, é natural que a opção pelo
+financiamento nele previsto seja exercida no final do regime, o que permitirá alongar o
+prazo para a quitação dos precatórios, não sendo lícito exigir que seja tomado
+antecipadamente, como, aliás, confirma a decisão prolatada pelo Ministro ROBERTO
+BARROSo, na Medida Cautelar na Ação Cível Originária 3.240 - BA:
+
+Ementa: DIREITO CONSTITUCIONAL. AÇÃO CÍVEL ORIGINÁRIA. ABERTURA
+DE LINHA DE CRÉDITO PARA QUITAÇÃO DE PRECATÓRIOS SUBMETIDOS A
+REGIME ESPECIAL DE PAGAMENTO.
+
+1. Ação cível originária ajuizada para compelir a União a abrir linha de crédito para
+quitação de precatórios submetidos a regime especial de pagamento.
+
+2. Ausência de plausibilidade da tese jurídica apresentada. O débito de precatórios deve ser
+pago preferencialmente com recursos orçamentários próprios do ente devedor ou com
+verbas advindas de suas fontes adicionais de receita. O refinanciamento das dívidas por
+meio de linha de crédito oferecida pela União é medida de caráter subsidiário, cabível
+apenas quando esgotadas as demais alternativas.
+
+3. Inexistência de urgência na obtenção da tutela jurisdicional. O ente federativo não
+demonstrou ter exaurido suas fontes de financiamento. Ademais, a ação somente foi
+proposta nove meses depois da suposta omissão da União em garantir o acesso a crédito.
+4. Medida liminar indeferida.
+
+Não bastasse o disposto no acima transcrito artigo 59, a Resolução CNJ nº
+
+303/2019 assim dispôs quanto ao plano de pagamento de precatórios a ser apresentado
+anualmente pelos entes devedores:
+
+Art. 64. A amortização da dívida de precatórios ocorrerá mediante o cumprimento do
+disposto nas subseções anteriores, conforme proposto em plano de pagamento apresentado
+anualmente pelo ente devedor ao Tribunal de Justiça, obedecidas as seguintes regras:
+
+I- O Tribunal de Justiça deverá comunicar, até o dia 20 de agosto, aos entes devedores o
+percentual da RCL que será observado a partir de lo de janeiro do ano subsequente; e
+
+IH — Os entes devedores poderão, até 20 de setembro do ano corrente, apresentar plano de
+pagamento para o exercício seguinte prevendo a forma pela qual as amortizações mensais
+ocorrerão, sendo permitida a variação de valores nos meses do exercício, desde que a
+proposta assegure a disponibilização do importe total devido no período.
+
+
+[[pagina 8 | ocr]]
+DO
+
+$ 1º O Tribunal de Justiça publicará os planos de pagamento homologados até 10 de
+dezembro.
+
+$ 2º Não sendo apresentado o plano de que trata este artigo, as amortizações ocorrerão
+exclusivamente por meio de recursos orçamentários, conforme plano de pagamento
+estabelecido de ofício pelo Tribunal de Justiça.
+
+Da leitura do artigo 64, extrai-se que a Resolução ora impugnada traçou
+como regra a apresentação, pelo próprio Tribunal de Justiça, do percentual da Receita
+Corrente Líquida que deverá ser observado pelos entes devedores a partir de 1º de
+janeiro do ano subsequente. Dispôs, ainda, competir ao Tribunal de Justiça a
+homologação do plano anual apresentado pelos entes devedores. Ademais, previu que,
+em caso de inércia do ente devedor na apresentação do plano anual, poderá o Tribunal
+de Justiça de ofício estabelecê-lo.
+
+São pontos inconstitucionais.
+
+Com efeito, quanto ao plano de pagamento, a Constituição Federal previu,
+no artigo 101 do Ato das Disposições Constitucionais Transitórias, que sua elaboração
+compete ao ente devedor.
+
+A Constituição Federal, portanto, permite que os entes devedores, no curso
+de determinado exercício financeiro, efetuem desembolsos orçamentários que possam
+variar mensalmente, sob premissas econômico-financeiras demonstradas no plano de
+que sua execução levará, efetivamente, à quitação do estoque ao final do prazo previsto,
+mediante a utilização, ou não, total ou parcial, dos já citados mecanismos
+complementares de pagamento e de redução do estoque, previstos nas Emendas
+Constitucionais nº 94/16 e nº 99/17 como forma de equacionamento da dívida.
+
+Além disso, a indicação pelo Tribunal de Justiça do percentual a ser, de
+forma cogente, observado pelos entes devedores encontra-se em desacordo com a regra
+contida nos artigos 97 e 101 do ADCT, além ir de encontro à decisão deste Pretório
+Excelso nas ADIs nº 4.357 enº 4.425.
+
+Com efeito, a Emenda Constitucional nº 62/09 descortinou um novo
+modelo de pagamento dos precatórios, estabelecendo no artigo 100, 4 15, da
+Constituição da República, que lei complementar poderia estabelecer regime especial
+para pagamento dos precatórios dos Estados, do Distrito Federal e dos Municípios,
+dispondo sobre vinculações à receita corrente líquida, a forma e o prazo de liquidação.
+
+
+[[pagina 9 | ocr]]
+DO
+
+Já o art. 97 do ADCT complementou que, até que fosse editada a referida
+
+lei complementar, os entes que, na data de publicação da referida emenda, estivessem
+em mora na quitação de precatórios vencidos, relativos às suas administrações direta e
+indireta, inclusive os emitidos durante o período de vigência do regime especial, fariam
+os pagamentos na forma prevista no dispositivo:
+
+Art. 97. Até que seja editada a lei complementar de que trata o $ 15 do art. 100 da
+Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de
+publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios
+vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o
+período de vigência do regime especial instituído por este artigo, farão esses pagamentos
+de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. 100
+desta Constituição Federal, exceto em seus 48 2º, 3º, 9º, 10, 11, 12, 13 e 14, e sem prejuízo
+dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda
+Constitucional. (Incluído pela Emenda Constitucional nº 62, de 2009) (Vide Emenda
+Constitucional nº 62, de 2009)
+
+$ 1º Os Estados, o Distrito Federal e os Municípios sujeitos ao regime especial de que trata
+este artigo optarão, por meio de ato do Poder Executivo: (Incluído pela Emenda
+Constitucional nº 62, de 2009)
+
+I - pelo depósito em conta especial do valor referido pelo 8 2º deste artigo; ou (Incluído
+pela Emenda Constitucional nº 62, de 2009)
+
+IH - pela adoção do regime especial pelo prazo de até 15 (quinze) anos, caso em que o
+percentual a ser depositado na conta especial a que se refere o 8 2º deste artigo
+corresponderá, anualmente, ao saldo total dos precatórios devidos, acrescido do índice
+oficial de remuneração básica da caderneta de poupança e de juros simples no mesmo
+percentual de juros incidentes sobre a caderneta de poupança para fins de compensação da
+mora, excluída a incidência de juros compensatórios, diminuído das amortizações e
+dividido pelo número de anos restantes no regime especial de pagamento (Incluído pela
+Emenda Constitucional nº 62, de 2009)
+
+$ 2º Para saldar os precatórios, vencidos e a vencer, pelo regime especial, os Estados, o
+Distrito Federal e os Municípios devedores depositarão mensalmente, em conta especial
+criada para tal fim, 1/12 (um doze avos) do valor calculado percentualmente sobre as
+respectivas receitas correntes líquidas, apuradas no segundo mês anterior ao mês de
+pagamento, sendo que esse percentual, calculado no momento de opção pelo regime e
+mantido fixo até o final do prazo a que se refere o $ 14 deste artigo, será: (Incluído pela
+Emenda Constitucional nº 62, de 2009)
+
+I - para os Estados e para o Distrito Federal: (Incluído pela Emenda Constitucional nº 62,
+de 2009)
+
+a) de, no mínimo, 1,5% (um inteiro e cinco décimos por cento), para os Estados das regiões
+Norte, Nordeste e Centro-Oeste, além do Distrito Federal, ou cujo estoque de precatórios
+
+
+[[pagina 10 | ocr]]
+DO
+
+pendentes das suas administrações direta e indireta corresponder a até 35% (trinta e cinco
+por cento) do total da receita corrente líquida; (Incluído pela Emenda Constitucional nº 62,
+de 2009)
+
+b) de, no mínimo, 2% (dois por cento), para os Estados das regiões Sul e Sudeste, cujo
+estoque de precatórios pendentes das suas administrações direta e indireta corresponder a
+mais de 35% (trinta e cinco por cento) da receita corrente líquida; (Incluído pela Emenda
+Constitucional nº 62, de 2009).
+
+Essa c. Corte Suprema, em 14 de março de 2013, julgou parcialmente
+procedentes os pedidos nas ADIs nº 4.357 e nº 4.425, para declarar a
+inconstitucionalidade parcial das alterações realizadas pela Emenda Constitucional nº
+62 no regime constitucional de precatórios. Compreendeu-se inconstitucional, dentre
+outros aspectos, a terceira moratória, prevista no artigo 97 do ADCT.
+
+Contudo, como é sabido, a declaração de inconstitucionalidade da EC n.º
+62/2009 foi mitigada pela modulação de efeitos nas ADIs nº 4357 e 4425, quando foi
+garantida sobrevida ao regime especial por 5 (cinco) exercícios financeiros a contar de
+1º de janeiro 2016, é dizer, até 1º de janeiro de 2021.
+
+Também atentas a essa realidade, as Emendas Constitucionais nº 94 e nº
+99 constitucionalizaram as conclusões deste e. Pretório Excelso nas ADIs acima
+referidas, estendendo o prazo de quitação dos precatórios para 31 de dezembro de 2024,
+mantendo a sistemática de pagamento mediante depósito mensal de 1/12 de percentual
+da receita corrente líquida e acrescentando novos mecanismos que permitissem aos entes
+federativos buscar outras formas de liquidação dos precatórios, como a utilização de
+parte dos depósitos judiciais, a contratação de empréstimo além dos limites de
+endividamento constitucional e legalmente previstos, o pagamento dos precatórios
+mediante acordos diretos e a compensação dos precatórios com débitos inscritos em
+dívida ativa.
+
+No que tange ao comprometimento mensal da receita corrente líquida, a
+Emenda Constitucional nº 99, ao conferir nova redação ao caput do artigo 101 do
+ADCT, dispôs que o depósito mensal a ser realizado pelos entes devedores é de “1/12
+(um doze avos) do valor calculado percentualmente sobre suas receitas correntes
+líquidas apuradas no segundo mês anterior ao mês de pagamento, em percentual
+suficiente para a quitação de seus débitos e, ainda que variável, nunca inferior, em cada
+exercício, ao percentual praticado na data da entrada em vigor do regime especial a que
+
+
+[[pagina 11 | ocr]]
+DO
+
+se refere este artigo, em conformidade com plano de pagamento a ser anualmente
+apresentado ao Tribunal de Justiça local”.
+
+Portanto, deste escorço histórico o que se extrai é que o percentual em
+recursos próprios a ser depositado pelo ente devedor, na vigência da Emenda
+Constitucional nº 99, não pode ser inferior Aquele que, em recursos próprios, era
+praticado na entrada em vigor do regime especial e deve ser suficiente, em
+conformidade com o plano de pagamento a ser apresentado, no qual são previstas
+todas as medidas que serão adotadas para quitar o estoque de precatórios até 2024.
+
+Para além destes apontamentos, a norma do Conselho Nacional de Justiça
+ora impugnada inova no campo jurídico ao prever que o Tribunal de Justiça indicará o
+percentual a ser observado para o próximo exercício antes mesmo da apresentação do
+plano anual que contemplará não somente a receita corrente líquida, mas igualmente
+todas as medidas franqueadas pelo texto constitucional como alternativas para a
+amortização das dívidas de precatórios.
+
+Neste ponto, e da leitura do acima citado inciso II do artigo 64 da
+Resolução, resta claro o caráter imperativo na indicação do percentual pelos Tribunais
+de Justiça, o que é confirmado pela disposição de que, mesmo que se utilize o percentual
+mensal variável, a proposta deve assegurar a disponibilização do importe total devido
+no período.
+
+Da mesma forma, a apresentação de tal plano, de ofício, pelo próprio
+Tribunal de Justiça acaba por usurpar a competência constitucional dada ao titular do
+Poder Executivo — no caso, o Governador — para, dentre as alternativas disponibilizadas
+pela Constituição Federal, planejar a melhor forma de pagar os precatórios no prazo
+constitucional (31.12.2024) sem comprometer o atendimento das demais obrigações do
+ente federativo.
+
+Nesse contexto, inclusive, importante mencionar que o artigo 101 do
+ADCT não previu a necessidade de acolhimento, pelo Poder Judiciário, desse plano de
+pagamento. Não há, aliás, disposição constitucional de que o Presidente do Tribunal de
+Justiça possa avaliar ou mensurar as medidas contidas no plano elaborado pelo Poder
+Executivo. Daí por que a menção a “juízo de homologação” feita no $ 1º do artigo 64,
+da Resolução impugnada, também se reveste de inovação inconstitucional.
+
+
+[[pagina 12 | ocr]]
+DO
+
+Portanto, ao trazer previsão de apresentação do percentual a ser observado
+pelos entes devedores, de submissão do plano à avaliação e homologação e, em caso de
+inércia, de elaboração de plano de ofício pelo próprio Tribunal de Justiça, o Conselho
+Nacional de Justiça extrapolou o âmbito de suas atribuições conferidas na Constituição
+Federal.
+
+É importante registrar não se desconhecer que, por meio das decisões
+proferidas nas ADIs nº 4357/DF e nº 4425/DF, esse Supremo Tribunal Federal delegou
+competência ao Conselho Nacional de Justiça para monitorar e supervisionar o
+pagamento dos precatórios pelos entes públicos.
+
+Contudo, tal não equivale a legislar e inovar acerca do pagamento de
+precatórios. Sob a justificativa de adoção de padronização na operacionalização das
+inovações introduzidas pelas Emendas Constitucionais nº 94/2016 e nº 99/2017, o e.
+Conselho Nacional de Justiça, em verdade, regulamentou as disposições contidas no
+texto constitucional, afastando-se de sua natureza de órgão interno de controle
+administrativo, financeiro e disciplinar da magistratura (ADI 3376), o que — a propósito
+— atrai caráter normativo à Resolução ora inquinada.
+
+Não é demais trazer à baila, ainda, decisão que deferiu medida cautelar na
+ADI nº 4465, proposta pela Governadora do Pará contra disposição contida na anterior
+Resolução do CNJ nº 115/2010, que versava sobre a gestão de precatórios, reconhecendo
+que não cabe ao Conselho Nacional de Justiça legislar para regulamentar o texto
+constitucional. Nestes termos pronunciou-se o Eminente Relator Ministro MARCO
+AURÉLIO:
+
+(...) Ao Conselho Nacional de Justiça compete o controle da atuação administrativa e
+financeira do Poder Judiciário. Não tem ele poder normativo. Não tem ele a incumbência
+de regular texto constitucional, como fez relativamente à Emenda nº 62/09, lançando, até
+mesmo, como premissa do ato atacado, como premissa da Resolução nº 115/2010, a
+necessidade “de regulamentar aspectos procedimentais referentes à Emenda Constitucional
+nº 62/09” (folha 17).
+
+Em síntese, o Conselho adentrou campo próprio à execução de débito da Fazenda retratado
+em título judicial, olvidando a área que lhe está reservada constitucionalmente. Com isso,
+atropelou mecanismo que já vinha sendo observado nos Estados, dispondo sobre a
+obrigatoriedade de depósito, até dezembro de 2010, a corresponder ao total da mora
+atualizada, dividida pelo número de anos necessários à liquidação, revelando-a passível de
+ocorrer em quinze anos. Previu, mais, no 8 1º do artigo 22 da citada Resolução — também
+
+
+[[pagina 13 | ocr]]
+DO
+
+atacado nesta ação —, que o montante de cada parcela não poderá ser inferior ao valor
+provisionado na lei orçamentária promulgada em 2008, em atenção ao sistema do artigo
+100 da Carta Federal.
+
+O que contido no mencionado artigo 22 ganha contornos normativos impróprios porque
+emanado de atuação dita administrativa do Conselho, tumultuando, inclusive, o sistema
+adotado em várias unidades da Federação. Implicações referentes à observância da Emenda
+Constitucional nº 62/09 não podem ser definidas, em tese, pelo Conselho.
+
+3. Defiro a medida acauteladora para suspender, até o julgamento final desta ação direta de
+inconstitucionalidade, a eficácia do artigo 22 da Resolução nº 115/2010 do Conselho
+Nacional de Justiça. Ao referendo do Plenário.
+
+(ADI 4465 MC, Relator(a): Min. MARCO AURÉLIO, julgado em 17/12/2010, publicado
+em PROCESSO ELETRÔNICO DJe-001 DIVULG 04/01/2011 PUBLIC 01/02/2011).
+
+Convém mencionar, em reforço aos argumentos ora expostos, que
+
+essa Corte Suprema vem suspendendo decisões proferidas pelos Tribunais de
+Justiça dos Estados que, ao apreciar os planos de pagamentos apresentados pelos
+entes devedores, distanciaram-se do regramento constitucional estabelecido desde
+a Emenda Constitucional 62:
+
+(...) No caso concreto, o reclamante afirma que o cálculo realizado pelo Tribunal de Justiça
+estaria equivocado, uma vez que teria desconsiderado sua opção pelo Regime Especial da
+Emenda Constitucional 62/09, nos termos determinados pela modulação dos efeitos das
+ADIs 4.357 e 4.425. Dessa forma, sustenta que o percentual devido seria de 0,85%, e não
+1,65% da receita corrente líquida para fins do pagamento de precatórios. Cumpre ressaltar
+que a questão que ora se coloca é complexa e demanda uma análise detalhada da sucessão
+de emendas constitucionais que regulamentaram a matéria, especialmente no que se refere
+ao cálculo do valor mínimo a ser depositado mensalmente pelo Estado para pagamento dos
+precatórios. Além disso, o perigo da demora resta configurado pela iminência do sequestro
+de 150 milhões de reais das contas do Estado de Santa Catarina, o qual ainda que parcelado,
+ocasionaria, segundo o reclamante, um impacto mensal de 50 milhões. Feitas essas
+considerações e sem prejuízo de melhor análise por ocasião do julgamento de mérito,
+parece-me que estão presentes os requisitos necessários para a concessão parcial da medida
+liminar? (...)
+
+Ante o exposto, defiro parcialmente a liminar, apenas para que seja permitido ao reclamante
+o depósito, em favor do Tribunal de Justiça, do valor considerado devido em seu plano de
+pagamento (0,85% da RCL), com o afastamento do risco de sequestro, até julgamento final
+da presente reclamação.
+
+(Medida Cautelar na Reclamação 31.209-SC, Rel. Min. Gilmar Mendes)
+
+(...) Da leitura do ato impugnado, verifica-se a complexidade do tema ora em análise, a
+revelar a necessidade de um exame minucioso sobre a sistemática adotada para fins de
+
+
+[[pagina 14 | ocr]]
+
+DO
+
+
+cálculo da parcela mensal do regime especial de quitação dos precatórios vencidos do
+Município de Criciúma. De outro lado, fica evidenciado o perigo da demora na informação
+da Secretaria Municipal de Fazenda, que noticia, conforme previsão na LDO/2018, uma
+situação de déficit operacional superior a R$ 65.000.000,00 (sessenta e cinco milhões de
+reais), o que significa “que as receitas correntes estimadas não serão suficientes para
+cobertura das despesas obrigatórias e das despesas correntes de manutenção mínima” (doc.
+1-f1.34€e doc. 25).
+
+Diante do exposto, DEFIRO PARCIALMENTE O PEDIDO LIMINAR, apenas para
+permitir ao Município de Criciúma, no que concerne ao plano de pagamentos de precatórios
+para o exercício de 2018, o repasse mensal de 1,3371% de sua Receita Corrente Líquida ao
+Tribunal de Justiça do Estado de Santa Catarina, relativamente à média do
+comprometimento percentual da RCL no período de 2012 a 2014, até pronunciamento
+definitivo desta CORTE, afastando-se a possibilidade de sequestro de verbas do Município
+em decorrência desta medida.
+
+(Medida Cautelar na Reclamação 32.017 — SC, Rel. Min. Alexandre de Moraes)
+
+(...) DECISÃO: Trata-se de reclamação, com pedido de medida liminar, na qual se alega
+que o Presidente do E. Tribunal de Justiça do Estado de Santa Catarina teria desrespeitado
+a autoridade do julgamento que esta Suprema Corte proferiu, com efeito vinculante, no
+exame da ADI 4.357/DF e da ADI 4.425/DF, Red. p/ o acórdão Min. LUIZ FUX. (...)
+Observo, desse modo, ao menos em juízo de estrita delibação, que o ato reclamado, ao
+indeferir o plano de pagamento de precatórios do Município de Araranguá/SC, ora
+reclamante — determinando "(...) que o percentual da parcela mensal não poderá ser
+inferior àquela devida na vigência da EC n. 94/2016, que, segundo cálculos elaborados pela
+Assessoria de Precatórios, corresponde a 5,59% da RCL (...) -, parece haver
+desrespeitado as decisões proferidas, com eficácia vinculante, nos autos da ADI
+4.357/DF e da ADI 4.425/DF. (...)
+
+Sendo assim, em face das razões expostas e em juízo de estrita delibação, defiro o pedido
+de medida liminar, em ordem a suspender, cautelarmente, até final julgamento da
+presente reclamação, a eficácia do ato ora reclamado (Processo nº 0000403-
+32.2010.8.24.0500/Presidência do TJSC), “(...) afastando-se as possibilidades de
+sequestro e corrigindo o percentual de comprometimento mínimo para 0,43% (...)
+(grifei) da RCL (receita corrente líquida) do Município reclamante.
+
+(Medida Cautelar na Reclamação 32.050-SC, Rel. Min. Celso de Mello)
+
+DIREITO CONSTITUCIONAL E PROCESSUAL CIVIL. MEDIDA LIMINAR EM
+RECLAMAÇÃO, PRECATÓRIOS. REGIME ESPECIAL. ECS Nº 62/2009, Nº 94/2016
+E Nº 99/2017.
+
+1. Ato reclamado que determinou o bloqueio e sequestro de quantia, após indeferimento de
+plano de pagamento de precatórios apresentado por Estado, o qual previa o depósito de
+percentual de receita corrente líquida de acordo com o art. 97, 8 2º, do ADCT e modulação
+dos efeitos das ADIs nº 4.357 e 4.425.
+
+2. Medida liminar deferida.
+
+(Medida Cautelar na Reclamação 33.236-RS, Rel. Min. Roberto Barroso)
+
+
+[[pagina 15 | ocr]]
+DO
+
+Pelo exposto, o artigo 59, 8 2º, 8 3º, e inciso III do 8 4º, e artigo 64, da
+Resolução CNJ nº 303/2019 são inconstitucionais por violação ao disposto no artigo
+101, do Ato das Disposições Constitucionais Transitórias, e por materializarem
+inovação na ordem jurídica, em desacordo com o disposto no artigo 103-B, $ 4º, inciso
+I, da Constituição Federal.
+
+4. DA APLICAÇÃO DOS RECURSOS DESTINADOS AO PAGAMENTO DE PRECATÓRIOS
+
+Prevê a Constituição Federal a apresentação de plano anual de
+pagamentos, destinando ao menos 50% dos recursos ao pagamento pela ordem
+cronológica, facultada a utilização do restante em acordos diretos com os credores, com
+desconto de até 40% do valor.
+
+Nesse sentido o artigo 102, $ 1º, do ADCT é claro, ao estabelecer ser da
+competência do ente público devedor — e não do Tribunal de Justiça — a opção pela
+aplicação dos recursos, enquanto viger o regime especial, isto é, até o exercício de 2024,
+podendo o devedor valer-se, além de recursos próprios, das alternativas previstas no $
+2º ao artigo 101 do ADCT.
+
+Art. 102. Enquanto viger o regime especial previsto nesta Emenda Constitucional, pelo
+menos 50% (cinquenta por cento) dos recursos que, nos termos do art. 101 deste Ato das
+Disposições Constitucionais Transitórias, forem destinados ao pagamento dos precatórios
+em mora serão utilizados no pagamento segundo a ordem cronológica de apresentação,
+respeitadas as preferências dos créditos alimentares, e, nessas, as relativas à idade, ao
+estado de saúde e à deficiência, nos termos do 8 2º do art. 100 da Constituição Federal,
+sobre todos os demais créditos de todos os anos. (Incluído pela Emenda Constitucional nº
+94, de 2016)
+
+$ 1º A aplicação dos recursos remanescentes, por opção a ser exercida por Estados, Distrito
+Federal e Municípios, por ato do respectivo Poder Executivo, observada a ordem de
+preferência dos credores, poderá ser destinada ao pagamento mediante acordos diretos,
+perante Juízos Auxiliares de Conciliação de Precatórios, com redução máxima de 40%
+(quarenta por cento) do valor do crédito atualizado, desde que em relação ao crédito não
+penda recurso ou defesa judicial e que sejam observados os requisitos definidos na
+regulamentação editada pelo ente federado. (Numerado do parágrafo único pela Emenda
+constitucional nº 99, de 2017)
+
+
+[[pagina 16 | ocr]]
+DO
+
+Como se vê, a opção é exclusiva do ente devedor, mas, ainda assim, o
+artigo 56, da Resolução CNJ nº 303/2019, veio a estabelecer de modo diverso,
+facultando ao Tribunal interferir nessa opção:
+
+Art. 56. Os pagamentos com observância da cronologia, inclusive os relativos à parcela
+superpreferencial cujo deferimento se der perante o Tribunal, serão realizados a partir do
+saldo da primeira conta, e, o saldo da segunda conta, utilizado para garantir o pagamento
+dos acordos diretos, caso formalizada a opção pelo ente devedor.
+
+Parágrafo único. Restando saldo na segunda conta ao fim do exercício financeiro, e
+inexistindo beneficiários habilitados a pagamento por acordo direto, o Tribunal transferirá
+os recursos correspondentes para a conta da ordem cronológica.
+
+O regime especial está em vigor até o exercício de 2024, antes do qual
+não pode o Tribunal determinar a transferência dos recursos destinados a acordos diretos
+para a ordem cronológica, suplantando a opção exercida pelo ente devedor.
+
+A opção pelo pagamento com deságio, à evidência, é mais vantajosa para
+o ente devedor, por contribuir para maior redução da sua dívida. Os parâmetros da
+modalidade estão dados pela Constituição: deságio máximo de 40% e utilização de, no
+máximo, 50% dos recursos destinados ao pagamento dos precatórios.
+
+Assim, em caso de remanescerem recursos na segunda conta, a entidade
+devedora poderá propor deságio menor a fim de atrair credores interessados, de modo
+que, ao final do regime especial, (em 2024) estejam quitados os precatórios expedidos.
+
+Logo, inconstitucional o artigo 59, da Resolução e, pelo mesmo motivo,
+inconstitucionais as disposições em igual sentido contidas no já mencionado artigo
+64 e no $ 2º do seu artigo 65, já que não cabe ao Tribunal local o exercício da
+competência constitucional do ente federativo devedor.
+
+Art. 64. A amortização da dívida de precatórios ocorrerá mediante o cumprimento do
+disposto nas subseções anteriores, conforme proposto em plano de pagamento apresentado
+anualmente pelo ente devedor ao Tribunal de Justiça, obedecidas as seguintes regras:
+
+I- O Tribunal de Justiça deverá comunicar, até o dia 20 de agosto, aos entes devedores o
+percentual da RCL que será observado a partir de 1º de janeiro do ano subsequente;
+
+II — Os entes devedores poderão, até 20 de setembro do ano corrente, apresentar plano de
+pagamento para o exercício seguinte prevendo a forma pela qual as amortizações mensais
+ocorrerão, sendo permitida a variação de valores nos meses do exercício, desde que a
+proposta assegure a disponibilização do importe total devido no período.
+
+
+[[pagina 17 | ocr]]
+DO
+
+$ 1º O Tribunal de Justiça publicará os planos de pagamento homologados até 10 de
+dezembro.
+
+$2º Não sendo apresentado o plano de que trata este artigo, as amortizações ocorrerão
+exclusivamente por meio de recursos orçamentários, conforme plano de pagamento
+estabelecido de ofício pelo Tribunal de Justiça.
+
+Art. 65. O plano anual de pagamento poderá prever, além do uso de recursos orçamentários,
+a utilização dos recursos oriundos das fontes adicionais apontadas nos artigos 60 a 63 desta
+Resolução.
+
+(..)
+
+$2º. Frustrado o ingresso dos recursos provenientes de fontes adicionais, o Tribunal de
+Justiça considerará inadimplido o valor a eles correspondente, aplicando imediatamente ao
+ente inadimplente as sanções previstas no art. 104 do ADCT e art. 67 desta Resolução.
+
+Conforme já foi dito nesta peça preambular, a Constituição da República
+elenca instrumentos para utilização, por parte do ente devedor, durante o regime especial
+como forma de atender à redução da sua dívida (acordos, compensação e financiamento
+como meios complementares de amortização e pagamento). Eventual frustração de
+receitas adicionais em um determinado exercício não pode implicar, como via de
+consequência, a exigência da totalidade de pagamento com recursos próprios, no mesmo
+exercício, dada a possibilidade constitucional de se contrair empréstimos para quitação
+dos precatórios no último ano do regime especial.
+
+Por tais motivos, inconstitucionais o artigo 56, caput e parágrafo único; o
+artigo 64; e o artigo 65, $ 2º; todos da Resolução CNJ nº 303/2019, por colidirem com
+o disposto no artigo 102, 3 1º, do Ato das Disposições Constitucionais Transitórias.
+
+5. INCONSTITUCIONALIDADE DO USO DE REMUNERAÇÃO DOS DEPÓSITOS PARA FINS
+DIVERSOS AO PAGAMENTO DE PRECATÓRIOS
+
+A Resolução CNJ 303/2019 contém permissivos que autorizam os
+Tribunais a se apropriarem da remuneração dos depósitos destinados ao pagamento de
+precatórios enquanto este mesmo pagamento não for efetivado:
+
+Art. 16. O Tribunal providenciará a abertura de contas bancárias para o recebimento dos
+valores requisitados.
+
+$ lo O tribunal poderá contratar banco oficial ou, não aceitando a preferência proposta pelo
+legislador, banco privado, hipótese em que serão observadas a realidade do caso concreto,
+
+
+[[pagina 18 | ocr]]
+SS
+
+DO
+
+as normas do procedimento licitatório e os regramentos legais e princípios constitucionais
+aplicáveis.
+
+$ 20 Pelo depósito dos valores requisitados, o tribunal poderá fazer jus a repasse de
+percentual, definido no instrumento contratual, sobre os ganhos auferidos com as
+aplicações financeiras realizadas com os valores depositados.
+
+Art. 55. Compete ao Presidente do Tribunal de Justiça a administração das contas de que
+trata o art. 101 do ADCT.
+
+$1º Para cada ente devedor serão abertas duas contas, dispensada a abertura da segunda,
+caso o ente não tenha formalizado e regulamentado, em norma própria, opção de
+pagamento por acordo direto.
+
+$2º Havendo convênio para separação de listas de que trata o art. 52, 83º, desta Resolução,
+o Tribunal de Justiça poderá abrir apenas uma conta, sobre o saldo da qual:
+
+I — deverá ser realizado mensalmente o rateio e a transferência dos valores devidos ao
+pagamento de precatórios pelo Tribunal Regional do Trabalho, Tribunal Regional Federal
+e Tribunal de Justiça Militar;
+
+II — serão transferidos para a(s) conta(s) de que trata o 8 1º deste artigo os recursos que,
+após rateio, couberem para o pagamento dos precatórios processados pela justiça estadual.
+$3º Os tribunais poderão firmar convênios para operar as contas especiais, mediante repasse
+de percentual a ser definido no respectivo instrumento quanto aos ganhos auferidos com as
+aplicações financeiras realizadas com os valores depositados, observadas as seguintes
+regras:
+
+I — para os fins do caput deste artigo, faculta-se aos tribunais a contratação de bancos
+oficiais ou, não aceitando o critério preferencial proposto pelo legislador, de bancos
+privados, hipótese em que serão observadas a realidade do caso concreto, as normas
+inerentes ao procedimento licitatório e os regramentos legais e princípios constitucionais
+aplicáveis;
+
+IH — os ganhos de que trata este parágrafo deverão ser revertidos para a melhoria dos
+serviços judiciários afetos à expedição e pagamento das requisições judiciais de
+responsabilidade da Fazenda Pública, destinados os recursos eventualmente sobejantes ao
+pagamento dos precatórios da entidade devedora, conforme a conta de origem em que
+apurados;
+
+II — inexistindo convênio para separação de listas, os ganhos auferidos nos termos deste
+artigo deverão, mantidas as finalidades previstas no inciso anterior, sofrer rateio conforme
+a proporcionalidade do montante do débito presente em cada tribunal.
+
+Ocorre que estes recursos são provenientes do repasse mensal que o ente
+devedor, nos exatos termos do artigo 101, ADCT, faz ao Tribunal de Justiça local. Trata-
+se, portanto, de repasse destinado ao propósito específico de se pagar precatórios, não
+comportando destinação diversa, sobretudo porque, nesse mister, desempenham os
+Tribunais o papel de meros depositários de tais recursos, sendo-lhes vedado, nessa
+condição, a apropriação desse numerário (art. 100, $6º, CF e art. 101, ADCT).
+
+
+[[pagina 19 | ocr]]
+DO
+
+Não é demais lembrar que, tendo a remuneração paga pela instituição
+financeira a natureza de verba acessória, deve ter o mesmo destino que o principal, qual
+seja, o pagamento de precatórios.
+
+Admitir o contrário, além de permitir uma indevida destinação de recursos
+que por mandamento constitucional têm a aplicação vinculada, implicaria a anômala
+atribuição, ao Poder Judiciário, de verba pública não prevista em seu orçamento, feita
+sem a necessária autorização do Poder Legislativo, em violação não apenas ao artigo
+101 do ADCT, mas também a toda a Seção II do Capítulo II do corpo permanente da
+Constituição da República, implicando por decorrência afronta ao próprio princípio da
+separação de poderes, insculpido no artigo 2º da Constituição.
+
+E isto tudo não apenas em prejuízo das Fazendas Públicas, cujos recursos,
+tal como previsto na Resolução nº CNJ 303/2019, serão parcialmente encaminhados
+para finalidades outras que não a de sua destinação, mas em detrimento também dos
+próprios credores de precatórios, que, em decorrência de tal previsão, terão parte dos
+recursos a eles destinados aplicados a fins outros que não a satisfação de seus créditos.
+
+Assim sendo, inconstitucionais o artigo 16, $ 2º, e o artigo 55, 8 3º, ambos
+da Resolução CNJ nº 303/2019, por violarem o disposto nos artigos 2º; 100, 4 6º; 165 e
+167, todos da Constituição Federal, além do artigo 101, do Ato das Disposições
+Constitucionais Transitórias.
+
+6. IMPOSIÇÃO CONSTITUCIONAL DE LISTA ÚNICA DE PRECATÓRIOS NA VIGÊNCIA DO
+REGIME ESPECIAL
+
+O já citado artigo 101 do Ato das Disposições Constitucionais Transitórias
+estabeleceu que, na vigência do regime especial, o Tribunal de Justiça local, “sob única
+e exclusiva administração deste”, deverá receber os recursos destinados ao pagamento
+dos precatórios e efetuar os respectivos pagamentos.
+
+Conforme a sistemática estabelecida no artigo 102 do Ato das Disposições
+Constitucionais Transitórias, os precatórios deverão ser pagos “segundo a ordem
+
+
+[[pagina 20 | ocr]]
+DO
+
+cronológica de apresentação”, excetuadas as preferências e acordo de deságio, previstos
+no próprio dispositivo.
+
+Portanto, e segundo tais dispositivos, no regime especial haverá uma
+“lista única” para o pagamento dos precatórios, “segundo a ordem cronológica de
+apresentação” e “sob única e exclusiva administração” do Tribunal de Justiça
+local, ao qual são destinados os recursos vinculados ao pagamento de precatórios,
+devendo o Tribunal efetuar diretamente os pagamentos ou, na impossibilidade,
+repassar aos outros Tribunais os recursos correspondentes, à medida em que os
+precatórios se apresentarem à quitação.
+
+Os artigos 53 e 72, da Resolução CNJ nº 303/2019, ao permitirem a
+formação de listas de precatórios para cada Tribunal, acabam por afrontar os
+artigos 101 e 102, do Ato das Disposições Constitucionais Transitórias:
+
+Art. 53. A lista de ordem cronológica, cuja elaboração compete ao Tribunal de Justiça,
+conterá todos os precatórios devidos pela administração direta e pelas entidades da
+administração indireta do ente devedor, abrangendo as requisições originárias da jurisdição
+estadual, trabalhista, federal e militar.
+
+
+$3º E facultado ao Tribunal de Justiça, de comum acordo com o Tribunal Regional do
+Trabalho, Tribunal Regional Federal e Tribunal de Justiça Militar, optar pela manutenção
+das listas de pagamento junto a cada tribunal de origem dos precatórios, devendo:
+
+I— a lista separada observar, no que couber, o disposto no caput deste artigo;
+
+IH — o pagamento dos precatórios a cargo de cada Tribunal ficar condicionado à
+observância da lista separada, bem como ao repasse periódico de recursos a ser realizado
+pelo Tribunal de Justiça, considerando a proporcionalidade do montante do débito presente
+em cada Tribunal.
+
+Art. 72. O pagamento dos precatórios sujeitos ao regime especial observará a ordem da
+cronologia de sua apresentação perante o Tribunal ao qual está vinculado o juízo
+responsável por sua expedição, respeitadas as preferências constitucionais em cada
+exercício e o disposto nesta Resolução quanto à elaboração das listas de pagamento.
+
+A sistemática abrigada pelos dispositivos impugnados — que, na prática,
+repete o que outrora o fez a Resolução CNJ 115/2010 — implica discriminação entre
+precatórios — e credores — que deveriam ter tratamento isonômico, o que prejudica não
+só a eles, mas também o ente devedor, que se vê na administração de processos que já
+poderiam ter sido quitados.
+
+
+[[pagina 21 | ocr]]
+DO
+
+No Estado de São Paulo, exemplificando, a introdução dessa
+discriminação, já pela Resolução CNJ 115/2010, levou à situação em que credores, cujos
+precatórios são contemporâneos, recebem o seu crédito em períodos diferentes, a
+depender do Tribunal que os expediu. Em decorrência, e somente a título de ilustração,
+atualmente estão sendo pagos os precatórios expedidos pelo Tribunal de Justiça em
+2002; pelo Tribunal Regional da Segunda Região expedidos em 2001; pelo Tribunal
+Regional da Décima Quinta Região expedidos em 2009; os precatórios expedidos pelo
+Tribunal Regional Federal da Terceira Região e pelos Tribunais Superiores são pagos
+tempestivamente ou com pequeno atraso, demonstrando que esse sistema viola o
+princípio da precedência que norteia o regime de precatórios.
+
+Nota-se que o ajuizamento de uma reclamação trabalhista, em área de
+competência de um ou outro Tribunal, às vezes em comarca contígua, pode determinar
+uma diferença de até oito anos no recebimento do crédito pelo reclamante.
+
+Desta forma, por contrariarem a sistemática estabelecida nos artigos 101 e
+102 do Ato das Disposições Constitucionais Transitórias e por violarem o princípio da
+isonomia, deve ser declarada a inconstitucionalidade do 8 3º ao artigo 53 e do artigo 72
+ambos da Resolução CNJ nº 303/2019.
+
+7. VIOLAÇÃO AO PRINCÍPIO DA PUBLICIDADE
+
+A atividade do Presidente do Tribunal na gestão dos precatórios, assim
+como a de qualquer agente público, está sujeita aos princípios que informam a atividade
+administrativa, conforme nos ensina Carlos Ayres Britto:
+
+2.1. É isso mesmo. Embora a cabeça do art. 37 da Constituição deixe literalmente posto
+que a “administração pública” (já agora com as iniciais minúsculas) é algo próprio de cada
+um dos Poderes orgânicos da União, dos Estados, do Distrito Federal e dos Municípios, o
+fato é que a matéria está versada no interior do seguimento normativo respeitante à
+organização do Estado federal como um todos. Não no título alusivo à organização
+daqueles poderes estatais (título de n. IV).”
+
+
+“3,1. (...) Sendo que a administração pública, objetivamente visualizada, vale dizer, focada
+como atividade estatal em si, transcorre na funcionalidade de cada qual dos três Poderes
+estatais: O Legislativo, o Executivo e o Judiciário. E é assim como objetiva atividade estatal
+
+
+[[pagina 22 | ocr]]
+DO
+
+que o fraseado “administração pública” vem invariavelmente escrito com as letras iniciais
+minúsculas (a partir desse mesmo caput do artigo 37).!
+
+Nesse sentido, a norma instituída no $ 3º do artigo 12 da Resolução CNJ
+nº 303/2019 encontra-se em dissonância com o artigo 37, da Constituição da República:
+
+Art. 12. O precatório, de acordo com o momento de sua apresentação, tomará lugar na
+ordem cronológica de pagamentos, instituída, por exercício, pela entidade devedora.
+
+(..)
+
+$2º O Tribunal deverá divulgar em seu portal eletrônico a lista de ordem formada
+estritamente pelo critério cronológico, nela identificada:
+
+I- a natureza dos créditos, inclusive com registro da condição de superpreferência;
+
+H — o número e o valor do precatório;
+
+HI — a posição do precatório na ordem.
+
+83º Na lista de que trata o parágrafo anterior, é vedada a divulgação de dados da
+identificação do beneficiário.
+
+Não há justificativa para a restrição da publicidade dos dados referentes
+aos precatórios, determinada pela norma confrontada, medida que impede o controle dos
+atos praticados, a gestão da dívida e até mesmo a “baixa” das obrigações quitadas junto
+à entidade devedora, implicando em prejuízo aos controles que esta deve ter.
+
+Assim, deve ser declarada a inconstitucionalidade do 8 3º do artigo 12 da
+Resolução CNJ nº 303/201, por violação ao artigo 37 da Constituição Federal.
+
+8. INCONSTITUCIONALIDADE DA REQUISIÇÃO DIRETA DE PAGAMENTO DA PARCELA
+PREFERENCIAL DO CRÉDITO DE NATUREZA ALIMENTAR E DA ORDEM DE
+PREFERÊNCIA, INTRODUZIDAS PELA RESOLUÇÃO CNJ 303/2019
+
+8.1. DAS CONSIDERAÇÕES GERAIS E DA ORDEM DE PREFERÊNCIA
+A Constituição prevê duas formas de requisição judicial nas execuções
+
+contra a Fazenda Pública. O precatório, como regra geral, e a requisição direta pelo juízo
+da execução, para as obrigações definidas em lei como de pequeno valor.
+
+! GOMES CANOTILHO, J.J. Comentários à Constituição do Brasil. São Paulo: Saraiva/Almedina, 2013, p.
+819-820.
+
+
+[[pagina 23 | ocr]]
+DO
+
+A Constituição estabeleceu que os precatórios devem ser pagos segundo a
+ordem cronológica de sua apresentação. Dentre os precatórios, estabeleceu a preferência
+dos alimentares, que devem ser pagos preferencialmente aos não alimentares (artigo
+100, 8 1º, CF).
+
+Dentre os credores de precatórios alimentares, o 8 2º do artigo 100, da
+Constituição Federal, estabeleceu mais uma preferência:
+
+Artigo 100.
+
+8 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave, ou
+pessoas com deficiência, assim definidos na forma da lei, serão pagos com preferência
+sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei para os fins
+do disposto no $ 3º deste artigo, admitido o fracionamento para essa finalidade, sendo que
+o restante será pago na ordem cronológica de apresentação do precatório.
+
+No caso de precatórios em regime especial de pagamento, a parcela
+preferencial do crédito corresponde a cinco vezes o valor estabelecido no artigo 100, $
+3º, da Constituição Federal (ADCT, artigo 102, 8 29).
+
+Essas normas, dentre outras, estabelecem o devido processo legal do
+regime de execução contra a Fazenda Pública, que não pode ser alterado por normas
+regulamentares, sendo inconstitucionais as normas que criam anômala modalidade de
+requisição direta de pagamento e que estabeleceram ordem de preferência entre os
+credores de precatórios alimentares.
+
+A Resolução CNJ nº 303/2019, porém, inovou na matéria ao criar
+inédita modalidade de requisição judicial de pagamento e estabelecer, sem
+qualquer antecedente legal ou constitucional, ordem de preferência entre os
+credores preferenciais de que trata o mencionado artigo 100, $ 2º, da Constituição
+Federal, que acabou violado.
+
+O artigo 2º, II, da Resolução ora inquinada, descreve o que denominou
+tratar-se de “crédito superpreferencial”:
+
+Art. 2º Para os fins desta Resolução:
+
+(..)
+
+
+[[pagina 24 | ocr]]
+DO
+
+HI — crédito superpreferencial é a parcela que integra o crédito de natureza alimentar,
+passível de fracionamento e adiantamento nos termos do art. 100, $ 2º, da Constituição
+Federal, e art. 102, 8 2º, do Ato das Disposições Constitucionais Transitórias - ADCT;
+
+Os incisos I e II ao artigo 7º, também da Resolução CNJ nº 303/2019,
+
+estabelecem ordem de preferência dentre os credores da mesma espécie:
+
+Art. 7º Os ofícios precatórios serão elaborados individualmente, por beneficiário.
+
+
+$2º Havendo pluralidade de exequentes, a definição da modalidade de requisição
+considerará o valor devido a cada litisconsorte, e a elaboração e apresentação do precatório
+deverão observar:
+
+I — a preferência conferida ao crédito do beneficiário principal, decorrente do
+reconhecimento da condição de doente grave, idoso ou de pessoa com deficiência, nesta
+ordem; e
+
+II — não se tratando da hipótese do inciso anterior, a ordem crescente do valor a requisitar
+e, em caso de empate, a idade do beneficiário.
+
+Já o artigo 9º, 8 3º, da mesma Resolução, estabelece a inconstitucional
+
+requisição direta:
+
+Art. 9º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, sejam idosos, portadores de doença grave ou pessoas com deficiência, assim
+definidos na forma da lei, serão pagos com preferência sobre todos os demais, até a monta
+equivalente ao triplo fixado em lei como obrigação de pequeno valor, admitido o
+fracionamento do valor da execução para essa finalidade.
+
+$1º A solicitação será apresentada ao juízo da execução devidamente instruída com a prova
+da idade, da moléstia grave ou da deficiência do beneficiário.
+
+$2º Sobre o pleito será ouvida a parte requerida ou executada, no prazo de 5 dias.
+
+$3º Deferido o pedido, o juízo da execução expedirá a requisição judicial de pagamento,
+distinta de precatório, necessária à integral liquidação da parcela superpreferencial,
+limitada ao valor apontado no caput deste artigo.
+
+$4º A expedição e pagamento da requisição judicial de que trata o parágrafo anterior
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259, de
+12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de 2009, e
+no art. 535, 83º, inciso II, do CPC.
+
+$5º Remanescendo valor do crédito alimentar, este será objeto de ofício precatório a ser
+expedido e pago na ordem cronológica de sua apresentação.
+
+$6º É defeso novo pagamento da parcela res, ainda que por fundamento diverso, mesmo
+que surgido posteriormente.
+
+87º Adquirindo o credor a condição de beneficiário depois de expedido o ofício precatório,
+ou no caso de expedição sem o prévio pagamento na origem, o benefício da
+superpreferência será requerido ao juízo da execução, que observará o disposto nesta Seção
+
+
+[[pagina 25 | ocr]]
+DO
+
+e comunicará ao Presidente do Tribunal sobre a apresentação do pedido e seu eventual
+deferimento, solicitando a dedução do valor fracionado.
+
+$8º Celebrado convênio entre a entidade devedora e o Tribunal para a quitação de
+precatórios na forma do art. 18, inciso II, desta Resolução, o pagamento a que se refere esta
+Seção será realizado pelo Presidente do Tribunal, que observará as seguintes regras:
+
+a) caso o credor do precatório faça jus ao benefício em razão da idade, o pagamento será
+realizado de ofício, conforme informações e documentos anexados ao precatório;
+
+b) nos demais casos, o pagamento demanda pedido ao Presidente do Tribunal, que poderá
+delegar ao juízo da execução a análise da condição de beneficiário portador de doença grave
+ou com deficiência.
+
+Ainda, o artigo 75, da aludida Resolução, mais uma vez, estabelece ordem
+de prioridade no recebimento da parcela preferencial do crédito, ao arrepio da
+Constituição:
+
+Art. 75. Em caso de insuficiência de recursos para atendimento da totalidade dos
+beneficiários da parcela superpreferencial, serão pagos os portadores de doença grave, os
+idosos e as pessoas com deficiência, nesta ordem; concorrendo mais de um beneficiário por
+classe de prioridade, será primeiramente pago aquele cujo precatório for mais antigo.
+Parágrafo único. A superpreferência será paga com observância do conjunto de precatórios
+pendentes de requisição ou pagamento, independentemente do ano de expedição e de
+requisição.
+
+A Constituição limitou-se a assegurar o pagamento preferencial do crédito,
+até o equivalente ao triplo fixado em lei para as obrigações de pequeno valor, ou até o
+quíntuplo, acaso o precatório esteja incluído no regime especial de pagamento apenas
+aos credores de precatórios que:
+
+(1) tenham 60 (sessenta) anos de idade;
+
+(ii) sejam portadores de doença grave; ou
+
+(iii) pessoas com deficiência
+
+A Constituição previu, portanto, apenas uma preferência no pagamento
+de precatório, e não uma classe distinta de créditos, sujeita a todo um regramento
+especial.
+
+A Resolução CNJ nº 303/2019, assim, indevidamente inovou na matéria,
+na medida em que se pôs não a regulamentar o pagamento de preferências, mas a legislar
+sobre o tema com a previsão de nova e inconstitucional forma de requisição de
+pagamento para os credores alimentares. Não bastasse isso, ainda dispôs sobre especial
+disciplina para estes, tal como se constituíssem uma outra classe de créditos, quando não
+
+
+[[pagina 26 | ocr]]
+DO
+
+é o caso. Para tais pessoas, segundo os ditames da Resolução CNJ 303/2019, torna-se
+despicienda a expedição de precatório, devendo o crédito ser pago, até o limite da
+preferência, mediante requisição direta, tal como se constituísse uma imprópria
+requisição direta de pequeno valor, ainda que sob tal modalidade não o seja.
+
+A Constituição estabelece que a execução contra as Fazendas Públicas far-
+se-á, exclusivamente, por meio de precatório, salvo as obrigações de pequeno valor, que
+independem da expedição de precatório e podem ser objeto de requisição direta ou de
+requisição de pequeno valor, ambas as modalidades previstas no artigo 100, da
+Constituição Federal.
+
+Ao tratar das obrigações de pequeno valor, o legislador constituinte as
+excluiu expressamente do regime dos precatórios, mas não fez o mesmo com a parcela
+superpreferencial do crédito objeto de precatório.
+
+Artigo 100, CF (...)
+
+$3º O disposto no caput deste artigo relativamente à expedição de precatórios não se aplica
+aos pagamentos de obrigações definidas em leis como de pequeno valor que as Fazendas
+referidas devam fazer em virtude de sentença judicial transitada em julgado.
+
+A intepretação sistemática do artigo 100, da Constituição Federal,
+leva à inevitável conclusão de que a ordem de preferências dos créditos,
+estabelecidas nos $$ 1º e 2º, refere-se aos créditos objeto de precatórios, tratados
+no caput do dispositivo.
+
+Qualquer exceção à regra deve ser prevista expressamente, como se
+deu com relação às obrigações de pequeno valor.
+
+Ao apreciar questão análoga, esse c. Pretório Excelso reconheceu a
+requisição judicial de pagamento deve ser instrumentalizada por intermédio de
+precatório, tendo, inclusive, editado Súmula 665 neste sentido”, cuja ratio decidendi é
+perfeitamente aplicável ao caso ora em análise.
+
+2? Súmula 665/STF — A exceção prevista no art. 100, caput, da Constituição, em favor dos créditos de natureza
+alimentícia, não dispensa a expedição de precatório, limitando-se a isentá-los da observância da ordem cronológica
+dos precatórios decorrentes de condenações de outra natureza.
+
+
+[[pagina 27 | ocr]]
+
+DO
+
+
+dispositivo
+
+Por tais motivos, deve ser declarada a inconstitucionalidade dos seguintes
+s da Resolução CNJ nº 303/2019, por afronta ao disposto no artigo 100, da
+
+Constituição Federal:
+a) na medida em que criam irregular forma de requisição direta e estabelecem
+indevida ordem de preferência dentre os credores preferenciais: incisos I e II do
+
+$2º
+b) por
+
+do artigo 7º; 88 3º e 7º do artigo 9º; e artigo 75, caput e parágrafo único;
+fazerem referência ao inconstitucional regime de pagamento do “crédito
+
+superpreferencial”: artigo 2º, inciso III, artigo 6º, inciso IX; artigo 9º, 3 6º; artigo
+12, 8 2º, inciso I, e 8 4º, inciso II; artigo 42, $ 2º; art. 43, caput e parágrafo único;
+artigo 56; artigo 73, parágrafo único; artigo 74, caput e $ 1º; artigo 82; e artigo
+85, inciso V.
+
+8.2. VEDAÇÃO AO FRACIONAMENTO DO PRECATÓRIO
+
+requisição
+
+O art. 9º da Resolução CNJ nº 303/2019 regulamenta a expedição de
+Judicial, pelo juízo da execução, distinta e anterior ao próprio precatório,
+
+para pagamento de parcela superpreferencial:
+
+Art. 92º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, sejam idosos, portadores de doença grave ou pessoas com deficiência, assim
+definidos na forma da lei, serão pagos com preferência sobre todos os demais, até a
+monta equivalente ao triplo fixado em lei como obrigação de pequeno valor, admitido o
+fracionamento do valor da execução para essa finalidade.
+
+$ 1º A solicitação será apresentada ao juízo da execução devidamente instruída com a
+prova da idade, da moléstia grave ou da deficiência do beneficiário.
+
+$ 2º Sobre o pleito será ouvida a parte requerida ou executada, no prazo de cinco dias.
+
+4 3º Deferido o pedido, o juízo da execução expedirá a requisição judicial de
+pagamento, distinta de precatório, necessária à integral liquidação da parcela
+superpreferencial, limitada ao valor apontado no caput deste artigo.
+
+$ 4º A expedição e pagamento da requisição judicial de que trata o 8 3º deste artigo
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259,
+de 12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de
+2009, e no art. 535, $ 3º, inciso II, do Código de Processo Civil.
+
+$ 5º Remanescendo valor do crédito alimentar, este será objeto de ofício precatório a
+ser expedido e pago na ordem cronológica de sua apresentação.
+
+$ 6º E defeso novo pagamento da parcela superpreferencial, ainda que por fundamento
+diverso, mesmo que surgido posteriormente.
+
+
+[[pagina 28 | ocr]]
+
+DO
+
+
+8 7º Adquirindo o credor a condição de beneficiário depois de expedido o ofício
+precatório, ou no caso de expedição sem o prévio pagamento na origem, o benefício
+da superpreferência será requerido ao juízo da execução, que observará o disposto
+nesta Seção e comunicará ao presidente do tribunal sobre a apresentação do pedido e
+seu eventual deferimento, solicitando a dedução do valor fracionado.
+
+8 8º Celebrado convênio entre a entidade devedora e o tribunal para a quitação de
+precatórios na forma do art. 18, inciso II, desta Resolução, o pagamento a que se refere esta
+Seção será realizado pelo presidente do tribunal, que observará as seguintes regras:
+
+a) caso o credor do precatório faça jus ao benefício em razão da idade, o pagamento será
+realizado de ofício, conforme informações e documentos anexados ao precatório; e
+
+b) nos demais casos, o pagamento demanda pedido ao presidente do tribunal, que poderá
+delegar ao juízo da execução a análise da condição de beneficiário portador de doença grave
+ou com deficiência.
+
+Nesse quadro, a nova sistemática apresentada pela Resolução CNJ nº
+
+303/2019 prevê a expedição e o pagamento de uma requisição judicial de parcela
+superpreferencial, pelo juízo da execução, de forma desvinculada do precatório, ou
+seja, antes mesmo de o precatório ser expedido e inscrito em orçamento.
+
+A situação prevista, além de inovação legislativa indevida, enseja
+
+claramente o fracionamento do precatório, o que está vedado no artigo 100, $$ 2º e
+8º, da Constituição Federal, bem como no artigo 102, $ 2º, do ADCT:
+
+Art. 100. Os pagamentos devidos pelas Fazendas Públicas Federal, Estaduais, Distrital e
+Municipais, em virtude de sentença judiciária, far-se-ão exclusivamente na ordem
+cronológica de apresentação dos precatórios e à conta dos créditos respectivos, proibida a
+designação de casos ou de pessoas nas dotações orçamentárias e nos créditos adicionais
+abertos para este fim.
+
+$ 2º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, tenham 60 (sessenta) anos de idade, ou sejam portadores de doença grave,
+ou pessoas com deficiência, assim definidos na forma da lei, serão pagos com
+preferência sobre todos os demais débitos, até o valor equivalente ao triplo fixado em lei
+para os fins do disposto no 8 3º deste artigo, admitido o fracionamento para essa
+finalidade, sendo que o restante será pago na ordem cronológica de apresentação do
+precatório.
+$ 8º E vedada a expedição de precatórios complementares ou suplementares de valor pago,
+bem como o fracionamento, repartição ou quebra do valor da execução para fins de
+enquadramento de parcela do total ao que dispõe o 3 3º deste artigo.
+
+
+[[pagina 29 | ocr]]
+RSA
+
+
+DO
+
+
+Art. 102 do ADCT. Enquanto viger o regime especial previsto nesta Emenda
+Constitucional, pelo menos 50% (cinquenta por cento) dos recursos que, nos termos do art.
+101 deste Ato das Disposições Constitucionais Transitórias, forem destinados ao
+pagamento dos precatórios em mora serão utilizados no pagamento segundo a ordem
+cronológica de apresentação, respeitadas as preferências dos créditos alimentares, e, nessas,
+as relativas à idade, ao estado de saúde e à deficiência, nos termos do $ 2º do art. 100 da
+Constituição Federal, sobre todos os demais créditos de todos os anos.
+
+
+$ 2º Na vigência do regime especial previsto no art. 101 deste Ato das Disposições
+Constitucionais Transitórias, as preferências relativas à idade, ao estado de saúde e à
+deficiência serão atendidas até o valor equivalente ao quíntuplo fixado em lei para os fins
+do disposto no 3 3º do art. 100 da Constituição Federal, admitido o fracionamento para
+essa finalidade, e o restante será pago em ordem cronológica de apresentação do
+precatório.
+
+No regramento constitucional vigente, primeiramente há a expedição do
+
+precatório pelo valor total do débito da Fazenda Pública. Após, há a inscrição do
+montante em orçamento do ente público. Posteriormente, aguarda-se o primeiro dia útil
+do exercício financeiro seguinte ao da inscrição em orçamento para que possa haver
+pagamento - da parcela superpreferencial ou do próprio precatório.
+
+Portanto, a satisfação do direito superpreferencial, consoante regramento
+
+da Carta Maior, representa apenas o adiantamento de parte do valor de um precatório
+anteriormente expedido pelo valor total e já inscrito em orçamento pela Fazenda
+Pública. Essa é a única forma de interpretar-se o fracionamento do pagamento
+superpreferencial permitido constitucionalmente.
+
+Constitucional e Previdenciário. 2. Execução contra a Fazenda Pública. Obrigação de fazer.
+Fracionamento da execução para que uma parte seja paga antes do trânsito em
+julgado, por meio de Complemento Positivo, e outra depois do trânsito, mediante
+Precatório ou RPV. Impossibilidade. 3. Repercussão geral da questão constitucional
+reconhecida. 4. Reafirmação de jurisprudência. Precedentes. 5. Conhecimento do agravo
+e provimento do recurso extraordinário para afastar o fracionamento da execução.
+(ARE 723307 Manif-RG, Relator(a): Min. GILMAR MENDES, julgado em 08/08/2014,
+PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-206 DIVULG 26-
+09-2016 PUBLIC 27-09-2016).
+
+DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. SERVIDOR PÚBLICO. EXECUÇÃO DE
+VERBAS DECORRENTES DE MATRÍCULAS DISTINTAS. ÚNICO CREDOR,
+FRACIONAMENTO DA EXECUÇÃO PARA FINS DE EXPEDIÇÃO DE
+REQUISIÇÃO DE PEQUENO VALOR. IMPOSSIBILIDADE. 1. Esta Corte já
+
+
+[[pagina 30 | ocr]]
+
+DO
+
+
+Resolução
+
+assentou que é impossível o fracionamento da execução para expedição de requisição
+de pequeno valor. Precedentes. 2. Agravo interno a que se nega provimento. (ARE
+949366 AgR, Relator(a): Min. ROBERTO BARROSO, Primeira Turma, julgado em
+01/12/2017, ACÓRDÃO ELETRÔNICO DJe-288 DIVULG 13-12-2017 PUBLIC 14-12-
+2017).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+EXECUÇÃO CONTRA A FAZENDA PÚBLICA. SALDO NÃO ADIMPLIDO.
+SEGUNDA EXECUÇÃO. FRACIONAMENTO. CARACTERIZAÇÃO.
+PRECATÓRIO COMPLEMENTAR. VEDAÇÃO. ERRO MATERIAL.
+CONFIGURAÇÃO. NECESSIDADE DE REEXAME DE FATOS E PROVAS.
+IMPOSSIBILIDADE. INCIDÊNCIA DA SÚMULA 279/STF. AGRAVO A QUE SE
+NEGA PROVIMENTO, COM APLICAÇÃO DE MULTA. I - A Constituição Federal
+veda o fracionamento da execução bem como a expedição de precatórios complementares
+e suplementares de valores já pagos pelo Poder Público, salvo para correção de cálculos,
+inexatidão aritmética ou substituição de índices. II - Para dissentir do acórdão impugnado
+e verificar a procedência dos argumentos consignados no apelo extremo, seria necessário
+o reexame de fatos e provas, o que é vedado pela Súmula 279/STF. II - Agravo regimental
+a que se nega provimento, com aplicação de multa (art. 1.021, 8 4º, do CPC). (ARE
+1168696 AgR, Relator(a): Min. RICARDO LEWANDOWSKI, Segunda Turma, julgado
+em 31/05/2019, PROCESSO ELETRÔNICO DJe-123 DIVULG 07-06-2019 PUBLIC 10-
+06-2019).
+
+AGRAVO REGIMENTAL NO RECURSO EXTRAORDINÁRIO COM AGRAVO.
+CONSTITUCIONAL. EXECUÇÃO DE HONORÁRIOS ADVOCATÍCIOS
+CONTRA A FAZENDA PÚBLICA. LITISCONSÓRCIO ATIVO FACULTATIVO.
+IMPOSSIBILIDADE DE FRACIONAMENTO DA EXECUÇÃO PARA
+FRUSTRAR O REGIME DE PRECATÓRIOS. CONTRARIEDADE AO $ 8º DO
+ART. 100 DA CONSTITUIÇÃO DA REPÚBLICA. MULTA APLICADA NO
+PERCENTUAL DE 1%, CONFORME O $ 4º DO ART. 1.021 DO CÓDIGO DE
+PROCESSO CIVIL. AGRAVO REGIMENTAL AO QUAL SE NEGA PROVIMENTO.
+(ARE 970301 AgR, Relator(a): Min. CÁRMEN LÚCIA, Segunda Turma, julgado em
+06/05/2019, PROCESSO ELETRÔNICO DJe-104 DIVULG 17-05-2019 PUBLIC 20-05-
+2019).
+
+Diante disso, inconstitucional o artigo 9º, caput, 88 1º,3º,4º,5º e 7º, da
+CNJ nº 303/2019, por determinar que se realize o pagamento de parcela
+
+superpreferencial de precatório que sequer foi expedido e incluído em orçamento do
+ente devedor, em contrariedade ao disposto no artigo 100, 8$ 2º e 8º, da Constituição
+Federal, e ao artigo 102, 42º, do Ato das Disposições Constitucionais Transitórias.
+
+8.3. DE
+
+VER DE INCLUSÃO DO PRECATÓRIO EM ORÇAMENTO DO ENTE PÚBLICO
+
+
+[[pagina 31 | ocr]]
+
+DO
+
+
+Além da inconstitucionalidade acima discorrida, o artigo 9º, caput, 88 1º,
+
+39, 49,59, 7 e 8º, eo artigo 74, caput, 8 1º, ambos da Resolução CNJ nº 303/2019,
+também se revelam inconstitucionais por permitirem a expedição e o pagamento de
+parcela superpreferencial de precatório que sequer está incluído em orçamento pelo ente
+
+devedor.
+
+Art. 9º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, sejam idosos, portadores de doença grave ou pessoas com deficiência, assim
+definidos na forma da lei, serão pagos com preferência sobre todos os demais, até a
+monta equivalente ao triplo fixado em lei como obrigação de pequeno valor, admitido o
+fracionamento do valor da execução para essa finalidade.
+
+8 1º A solicitação será apresentada ao juízo da execução devidamente instruída com a
+prova da idade, da moléstia grave ou da deficiência do beneficiário.
+
+
+$ 3º Deferido o pedido, o juízo da execução expedirá a requisição judicial de
+pagamento, distinta de precatório, necessária à integral liquidação da parcela
+superpreferencial, limitada ao valor apontado no caput deste artigo.
+
+8 4º A expedição e pagamento da requisição judicial de que trata o 8 3º deste artigo
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259,
+de 12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de
+2009, e no art. 535, 8 3º, inciso II, do Código de Processo Civil.
+
+$ 5º Remanescendo valor do crédito alimentar, este será objeto de ofício precatório a
+ser expedido e pago na ordem cronológica de sua apresentação.
+
+
+8 7º Adquirindo o credor a condição de beneficiário depois de expedido o ofício
+precatório, ou no caso de expedição sem o prévio pagamento na origem, o benefício
+da superpreferência será requerido ao juízo da execução, que observará o disposto
+nesta Seção e comunicará ao presidente do tribunal sobre a apresentação do pedido e
+seu eventual deferimento, solicitando a dedução do valor fracionado.
+
+$ 8º Celebrado convênio entre a entidade devedora e o tribunal para a quitação de
+precatórios na forma do art. 18, inciso II, desta Resolução, o pagamento a que se refere esta
+Seção será realizado pelo presidente do tribunal, que observará as seguintes regras:
+
+a) caso o credor do precatório faça jus ao benefício em razão da idade, o pagamento será
+realizado de ofício, conforme informações e documentos anexados ao precatório; e
+
+b) nos demais casos, o pagamento demanda pedido ao presidente do tribunal, que poderá
+delegar ao juízo da execução a análise da condição de beneficiário portador de doença grave
+ou com deficiência.
+
+Art. 74. Na vigência do regime especial, a superpreferência relativa à idade, ao estado
+de saúde e à deficiência será atendida até o valor equivalente ao quíntuplo daquele
+fixado em lei para os fins do disposto no $ 3º do art. 100 da Constituição Federal, com
+
+
+[[pagina 32 | ocr]]
+Poeta e
+
+DO
+
+observância do procedimento previsto nos 88 1º a 6º do art. 9º desta Resolução, sendo
+o valor restante pago em ordem cronológica de apresentação do precatório.
+
+$ 1º Adquirindo o credor a condição de beneficiário depois de expedido o precatório, ou
+no caso de expedição sem o prévio pagamento na origem, o valor da superpreferência será
+quitado pelo presidente do tribunal:
+
+a) de ofício, se devido por motivo de idade; e
+
+b) a pedido, se devido por qualquer dos demais motivos, facultando-se ao presidente
+delegar ao juízo da execução a análise da condição de pessoa com deficiência ou com
+doença grave, inclusive a partir de conclusão da medicina especializada, mesmo que a
+doença tenha sido contraída após o início da ação.
+
+As disposições acima contrariam o $ 5º do artigo 100, da Constituição
+
+Federal, que prevê a obrigatoriedade da inclusão, em orçamento, pelas entidades de
+direito público, de verba necessária ao pagamento de seus débitos, constantes de
+
+precatórios judiciários apresentados até 1º de julho:
+
+
+$ 5º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba
+necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em
+julgado, constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se
+o pagamento até o final do exercício seguinte, quando terão seus valores atualizados
+monetariamente.
+
+A exigência de inclusão, no orçamento público, de dotação suficiente para
+
+satisfazer as condenações judiciais do erário, também encontra amparo nos artigos 167,
+inciso II, e 165, inciso III e 8 5º, inciso I, da Carta Maior, igualmente afrontados pelo
+regramento da nova resolução dos precatórios.
+
+Art. 167. São vedados:
+
+(..)
+
+IH - a realização de despesas ou a assunção de obrigações diretas que excedam os créditos
+orçamentários ou adicionais;
+
+Art. 165. Leis de iniciativa do Poder Executivo estabelecerão:
+
+
+HI - os orçamentos anuais.
+
+(..)
+
+$ 5º A lei orçamentária anual compreenderá:
+
+I- o orçamento fiscal referente aos Poderes da União, seus fundos, órgãos e entidades da
+administração direta e indireta, inclusive fundações instituídas e mantidas pelo Poder
+Público;
+
+
+[[pagina 33 | ocr]]
+DO
+
+que haja
+
+Destarte, a Fazenda Pública não pode efetuar pagamento de precatório sem
+a obrigatória inscrição do valor do débito na lei orçamentária para
+
+adimplemento no exercício financeiro subsequente. Assim, a regra sempre será o
+respeito ao que foi estabelecido na lei orçamentária. Entendimento contrário acarreta
+evidente efetivação de despesa não autorizada por lei.
+
+Por estes motivos, inconstitucionais o artigo 9º, caput, 88 1º, 3º, 4º,5º, 7º
+
+e 8º, e o artigo 74, caput, $ 1º, ambos da Resolução CNJ nº 303/2019, por afronta à
+necessária e prévia inclusão em orçamento de verba para pagamento dos débitos de
+
+precatórios pelo Poder Público.
+
+8.4. OBSERVÂNCIA À ORDEM CRONOLÓGICA E IGUALDADE DE TRATAMENTO ENTRE
+OS CREDORES
+
+O artigo 9º, caput, 48 1º,3º,4º,5º,7º e 8º, e o artigo 74, caput, 8 1º, ambos
+
+da Resolução CNJ nº 303/2019, também são inconstitucionais por afrontarem a ordem
+cronológica de apresentação de precatórios para pagamento, bem como o direito à
+igualdade de tratamento entre os credores.
+
+Art. 9º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, sejam idosos, portadores de doença grave ou pessoas com deficiência, assim
+definidos na forma da lei, serão pagos com preferência sobre todos os demais, até a
+monta equivalente ao triplo fixado em lei como obrigação de pequeno valor, admitido o
+fracionamento do valor da execução para essa finalidade.
+
+8 1º A solicitação será apresentada ao juízo da execução devidamente instruída com a
+prova da idade, da moléstia grave ou da deficiência do beneficiário.
+
+
+$ 3º Deferido o pedido, o juízo da execução expedirá a requisição judicial de
+pagamento, distinta de precatório, necessária à integral liquidação da parcela
+superpreferencial, limitada ao valor apontado no caput deste artigo.
+
+8 4º A expedição e pagamento da requisição judicial de que trata o $ 3º deste artigo
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259,
+de 12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de
+2009, e no art. 535, 8 3º, inciso II, do Código de Processo Civil.
+
+8 5º Remanescendo valor do crédito alimentar, este será objeto de ofício precatório a
+ser expedido e pago na ordem cronológica de sua apresentação.
+
+
+8 7º Adquirindo o credor a condição de beneficiário depois de expedido o ofício
+precatório, ou no caso de expedição sem o prévio pagamento na origem, o benefício
+
+
+[[pagina 34 | ocr]]
+EMO ,
+Fem U=2/4a
+OS EE Lea
+
+pao
+
+DO
+
+da superpreferência será requerido ao juízo da execução, que observará o disposto
+nesta Seção e comunicará ao presidente do tribunal sobre a apresentação do pedido e
+seu eventual deferimento, solicitando a dedução do valor fracionado.
+
+$ 8º Celebrado convênio entre a entidade devedora e o tribunal para a quitação de
+precatórios na forma do art. 18, inciso II, desta Resolução, o pagamento a que se refere esta
+Seção será realizado pelo presidente do tribunal, que observará as seguintes regras:
+
+a) caso o credor do precatório faça jus ao benefício em razão da idade, o pagamento será
+realizado de ofício, conforme informações e documentos anexados ao precatório; e
+
+b) nos demais casos, o pagamento demanda pedido ao presidente do tribunal, que poderá
+delegar ao juízo da execução a análise da condição de beneficiário portador de doença grave
+ou com deficiência.
+
+Art. 74. Na vigência do regime especial, a superpreferência relativa à idade, ao estado
+de saúde e à deficiência será atendida até o valor equivalente ao quíntuplo daquele
+fixado em lei para os fins do disposto no $ 3º do art. 100 da Constituição Federal, com
+observância do procedimento previsto nos $3 1º a 6º do art. 9º desta Resolução, sendo
+o valor restante pago em ordem cronológica de apresentação do precatório.
+
+$ 1º Adquirindo o credor a condição de beneficiário depois de expedido o precatório, ou
+no caso de expedição sem o prévio pagamento na origem, o valor da superpreferência será
+quitado pelo presidente do tribunal:
+
+a) de ofício, se devido por motivo de idade; e
+
+b) a pedido, se devido por qualquer dos demais motivos, facultando-se ao presidente
+delegar ao juízo da execução a análise da condição de pessoa com deficiência ou com
+doença grave, inclusive a partir de conclusão da medicina especializada, mesmo que a
+doença tenha sido contraída após o início da ação.
+
+Ambos os dispositivos permitem a expedição e o pagamento de requisição
+Judicial de parcela superpreferencial em que o precatório sequer foi expedido e inscrito
+em orçamento, ou seja, sem qualquer ordem de cronologia a ser perquirida.
+
+Nesse passo, ao se aplicarem tais previsões, credores que sequer tiveram
+seus precatórios expedidos poderão receber o pagamento da parcela superpreferencial
+antes mesmo de outros credores, com precatório regularmente expedido e inscrito em
+orçamento, que corretamente aguardam o pagamento da superpreferência em
+observância à cronologia. A situação implica flagrante quebra da ordem de precedência
+dos precatórios, além de frustrar o direito de credores mais antigos, em evidente prejuízo
+a eles.
+
+Indubitável, pois, a ofensa ao artigo 100, caput, da Constituição Federal,
+que determina a observância da ordem cronológica de apresentação de precatórios para
+o pagamento, bem como do art. 5º, caput, da Carta Magna, que garante o postulado da
+
+
+[[pagina 35 | ocr]]
+DO
+
+igualdade.
+
+Eis a jurisprudência correlata, que bem sintetiza a necessidade de
+
+observância da ordem cronológica de pagamento dos precatórios:
+
+RECLAMAÇÃO - ALEGAÇÃO DE DESRESPEITO A ACÓRDÃO DO SUPREMO
+TRIBUNAL FEDERAL RESULTANTE DE JULGAMENTO PROFERIDO EM SEDE
+DE CONTROLE NORMATIVO ABSTRATO - INOCORRÊNCIA - SEQUESTRO DE
+RENDAS PÚBLICAS LEGITIMAMENTE EFETIVADO - MEDIDA CONSTRITIVA
+EXTRAORDINÁRIA JUSTIFICADA, NO CASO, PELA INVERSÃO DA ORDEM DE
+PRECEDÊNCIA DE APRESENTAÇÃO E DE PAGAMENTO DE DETERMINADO
+PRECATÓRIO - IRRELEVÂNCIA DE A PRETERIÇÃO DA ORDEM
+CRONOLÓGICA, QUE INDEVIDAMENTE BENEFICIOU CREDOR MAIS
+RECENTE, DECORRER DA CELEBRAÇÃO, POR ESTE, DE ACORDO MAIS
+FAVORÁVEL AO PODER PÚBLICO - NECESSIDADE DE A ORDEM DE
+PRECEDÊNCIA SER RIGIDAMENTE RESPEITADA PELO PODER PÚBLICO -
+SEQUESTRABILIDADE, NA HIPÓTESE DE INOBSERVÂNCIA DESSA ORDEM
+CRONOLÓGICA, DOS VALORES INDEVIDAMENTE PAGOS OU, ATÉ
+MESMO, DAS PRÓPRIAS RENDAS PÚBLICAS - RECURSO IMPROVIDO. A
+SIGNIFICAÇÃO CONSTITUCIONAL DA NECESSIDADE DE EXPEDIÇÃO DOS
+PRECATÓRIOS JUDICIÁRIOS. - O regime constitucional de execução por quantia
+certa contra o Poder Público, qualquer que seja a natureza do crédito exeqiuendo
+(RTJ 150/337) - ressalvadas as obrigações definidas em lei como de pequeno valor -,
+impõe a necessária extração de precatório, cujo pagamento deve observar, em
+obséquio aos princípios ético-jurídicos da moralidade, da impessoalidade e da
+igualdade, a regra fundamental que outorga preferência apenas a quem dispuser de
+precedência cronológica (“prior in tempore, potior in jure”). A exigência constitucional
+pertinente à expedição de precatório - com a conseqgiiente obrigação imposta ao
+Estado de estrita observância da ordem cronológica de apresentação desse
+instrumento de requisição judicial de pagamento - tem por finalidade (a) assegurar a
+igualdade entre os credores e proclamar a inafastabilidade do dever estatal de solver
+os débitos judicialmente reconhecidos em decisão transitada em julgado (RTJ
+108/463), (b) impedir favorecimentos pessoais indevidos e (c) frustrar tratamentos
+discriminatórios, evitando injustas perseguições ou preterições motivadas por razões
+destituídas de legitimidade jurídica. PODER PÚBLICO - PRECATÓRIO -
+INOBSERVÂNCIA DA ORDEM CRONOLÓGICA DE SUA APRESENTAÇÃO. - A
+Constituição da República não quer apenas que a entidade estatal pague os seus
+débitos judiciais. Mais do que isso, a Lei Fundamental exige que o Poder Público, ao
+solver a sua obrigação, respeite a ordem de precedência cronológica em que se situam
+os credores do Estado. - A preterição da ordem de precedência cronológica -
+considerada a extrema gravidade desse gesto de insubmissão estatal às prescrições da
+Constituição - configura comportamento institucional que produz, no que concerne aos
+Prefeitos Municipais, (a) consequências de caráter processual (sequestro da quantia
+necessária à satisfação do débito, ainda que esse ato extraordinário de constrição judicial
+incida sobre rendas públicas), (b) efeitos de natureza penal (crime de responsabilidade,
+
+
+[[pagina 36 | ocr]]
+
+DO
+
+
+punível com pena privativa de liberdade - DL 201/67, art. 1º, XII) e (c) reflexos de índole
+político-administrativa (possibilidade de intervenção do Estado-membro no Município,
+sempre que essa medida extraordinária revelar-se essencial à execução de ordem ou decisão
+emanada do Poder Judiciário - CF, art. 35, IV, “in fine”). PAGAMENTO ANTECIPADO
+DE CREDOR MAIS RECENTE - CELEBRAÇÃO, COM ELE, DE ACORDO
+FORMULADO EM BASES MAIS FAVORÁVEIS AO PODER PÚBLICO -
+ALEGAÇÃO DE VANTAGEM PARA O ERÁRIO PÚBLICO - QUEBRA DA ORDEM
+CONSTITUCIONAL DE PRECEDÊNCIA CRONOLÓGICA - INADMISSIBILIDADE.
+- O pagamento antecipado de credor mais recente, em detrimento daquele que dispõe
+de precedência cronológica, não se legitima em face da Constituição, pois representa
+comportamento estatal infringente da ordem de prioridade temporal, assegurada, de
+maneira objetiva e impessoal, pela Carta Política, em favor de todos os credores do
+Estado. O legislador constituinte, ao editar a norma inscrita no art. 100 da Carta
+Federal, teve por objetivo evitar a escolha de credores pelo Poder Público. Eventual
+vantagem concedida ao erário público, por credor mais recente, não justifica, para efeito de
+pagamento antecipado de seu crédito, a quebra da ordem constitucional de precedência
+cronológica. O pagamento antecipado que daí resulte - exatamente por caracterizar escolha
+ilegítima de credor - transgride o postulado constitucional que tutela a prioridade
+cronológica na satisfação dos débitos estatais, autorizando, em consequência - sem
+prejuízo de outros efeitos de natureza jurídica e de caráter político-administrativo -, a
+efetivação do ato de sequestro (RTJ 159/943-945), não obstante o caráter excepcional de
+que se reveste essa medida de constrição patrimonial. Legitimidade do ato de que ora se
+reclama. Inocorrência de desrespeito à decisão plenária do Supremo Tribunal Federal
+proferida na ADI 1.662/SP. (Rcl 3220 ED, Relator(a): Min. CELSO DE MELLO, Tribunal
+Pleno, julgado em 24/04/2008, ACÓRDÃO ELETRÔNICO DJe-029 DIVULG 13-02-
+2013 PUBLIC 14-02-2013).
+
+DIREITO CONSTITUCIONAL. SEGUNDO AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO COM AGRAVO. PRECATÓRIO. POSSIBILIDADE DE
+COMPLEMENTAÇÃO. PRECEDENTES. 1. No caso dos autos, o Tribunal de origem
+decidiu que não há a necessidade de nova citação da Fazenda Pública para expedição de
+novo precatório, tendo em vista que a parte recorrente efetuou depósitos insuficientes para
+a quitação do débito. 2 Esse entendimento se alinha à jurisprudência desta Corte no
+sentido de que o objetivo da vedação de expedição complementar do precatório é impedir
+a quebra da ordem cronológica dos pagamentos, situação diversa da postergação do
+pagamento por meio de depósito aquém do efetivamente devido, sendo esse o caso dos
+autos. Precedentes. 3. Inaplicável o art. 85, 4 11, do CPC, uma vez que não houve prévia
+fixação de honorários advocatícios de sucumbência. 4. Agravo interno a que se nega
+provimento. (ARE 1228959 AgR-segundo, Relator(a): Min. ROBERTO BARROSO,
+Primeira Turma, julgado em 20/03/2020, PROCESSO ELETRÔNICO DJe-076 DIVULG
+27-03-2020 PUBLIC 30-03-2020).
+
+Nesse diapasão, a inconstitucionalidade do artigo 9º, caput, 88 1º, 3º, 4º,
+
+5º, 7º e 8º, e do artigo 74, caput, 8 1º, ambos da Resolução CNJ nº 303/2019 também
+
+
+[[pagina 37 | ocr]]
+
+DO
+
+
+exsurge pelo desrespeito ao artigo 100, da Constituição Federal, no tocante à ordem
+cronológica e à necessária igualdade de tratamento entre os credores.
+
+8.5. PRAZO DE PAGAMENTO DOS PRECATÓRIOS
+
+Os já mencionados artigo 9º, caput, 88 1º,3º,4º,59,7" e 8º, e o artigo 74,
+
+caput, 8 1º, ambos da Resolução CNJ nº 303/2019, também contrariam a Constituição
+no tocante à inobservância do prazo para o pagamento do precatório. Consoante
+referido, regulou-se a expedição e o pagamento de requisição judicial da parcela
+superpreferencial até mesmo antes de o precatório ser expedido e inscrito em orçamento.
+
+Art. 9º Os débitos de natureza alimentícia cujos titulares, originários ou por sucessão
+hereditária, sejam idosos, portadores de doença grave ou pessoas com deficiência, assim
+definidos na forma da lei, serão pagos com preferência sobre todos os demais, até a
+monta equivalente ao triplo fixado em lei como obrigação de pequeno valor, admitido o
+fracionamento do valor da execução para essa finalidade.
+
+$ 1º A solicitação será apresentada ao juízo da execução devidamente instruída com a
+prova da idade, da moléstia grave ou da deficiência do beneficiário.
+
+
+8 3º Deferido o pedido, o juízo da execução expedirá a requisição judicial de
+pagamento, distinta de precatório, necessária à integral liquidação da parcela
+superpreferencial, limitada ao valor apontado no caput deste artigo.
+
+$ 4º A expedição e pagamento da requisição judicial de que trata o $ 3º deste artigo
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259,
+de 12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de
+2009, e no art. 535, $ 3º, inciso II, do Código de Processo Civil.
+
+$ 5º Remanescendo valor do crédito alimentar, este será objeto de ofício precatório a
+ser expedido e pago na ordem cronológica de sua apresentação.
+
+
+$ 7º Adquirindo o credor a condição de beneficiário depois de expedido o ofício
+precatório, ou no caso de expedição sem o prévio pagamento na origem, o benefício
+da superpreferência será requerido ao juízo da execução, que observará o disposto
+nesta Seção e comunicará ao presidente do tribunal sobre a apresentação do pedido e
+seu eventual deferimento, solicitando a dedução do valor fracionado.
+
+Art. 74. Na vigência do regime especial, a superpreferência relativa à idade, ao estado
+de saúde e à deficiência será atendida até o valor equivalente ao quíntuplo daquele
+fixado em lei para os fins do disposto no $ 3º do art. 100 da Constituição Federal, com
+observância do procedimento previsto nos 8% 1º a 6º do art. 9º desta Resolução, sendo
+o valor restante pago em ordem cronológica de apresentação do precatório.
+
+
+[[pagina 38 | ocr]]
+DO
+
+Nos termos do precitado artigo 9º, $ 4º, da Resolução CNJ nº 303/2019
+aplicam-se, para o pagamento da parcela superpreferencial, os dispositivos legais que
+regulam o procedimento das Requisições de Pequeno Valor. Ocorre que, nessa
+legislação, estipula-se o prazo de apenas sessenta dias/dois meses para o pagamento,
+contados da entrega da requisição.
+
+Com efeito, o artigo 535, 8 3º, inciso II, do Código de Processo Civil
+estipula o prazo de dois meses para o pagamento da requisição de pequeno valor, sendo
+que no artigo 49, da Resolução CNJ nº 303/2019”, no artigo 17 da Lei nº 10.259/2001º
+e no artigo 13, inciso I, da Lei nº 12.153/2009º há previsão do prazo de sessenta dias.
+Tal sistemática, portanto, é incompatível com o regramento constitucionalmente
+previsto ao pagamento dos precatórios.
+
+Segundo a Constituição Federal, os precatórios judiciários, apresentados
+até 1º de julho, serão inscritos em orçamento. Assim, somente poderão ser pagos a partir
+do primeiro dia útil do exercício financeiro seguinte à sua inscrição.
+
+Art. 100 (...)
+
+85º É obrigatória a inclusão, no orçamento das entidades de direito público, de verba
+necessária ao pagamento de seus débitos, oriundos de sentenças transitadas em julgado,
+constantes de precatórios judiciários apresentados até 1º de julho, fazendo-se o pagamento
+até o final do exercício seguinte, quando terão seus valores atualizados monetariamente.
+
+3 Art. 535. A Fazenda Pública será intimada na pessoa de seu representante judicial, por carga, remessa ou meio
+eletrônico, para, querendo, no prazo de 30 (trinta) dias e nos próprios autos, impugnar a execução, podendo arguir:
+
+(..)
+
+8 3º Não impugnada a execução ou rejeitadas as arguições da executada:
+
+(..)
+
+H - por ordem do juiz, dirigida à autoridade na pessoa de quem o ente público foi citado para o processo, o
+pagamento de obrigação de pequeno valor será realizado no prazo de 2 (dois) meses contado da entrega da
+requisição, mediante depósito na agência de banco oficial mais próxima da residência do exequente.
+
+4 Art. 49. A requisição será encaminhada pelo juízo da execução à entidade devedora citada para a causa, que terá
+o prazo de sessenta dias para providenciar a disponibilização dos recursos necessários ao pagamento.
+
+5 Art. 17. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento
+será efetuado no prazo de sessenta dias, contados da entrega da requisição, por ordem do Juiz, à autoridade citada
+para a causa, na agência mais próxima da Caixa Econômica Federal ou do Banco do Brasil, independentemente
+de precatório.
+
+é Art. 13. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da decisão, o pagamento
+será efetuado:
+
+I— no prazo máximo de 60 (sessenta) dias, contado da entrega da requisição do juiz à autoridade citada para a
+causa, independentemente de precatório, na hipótese do 8 3º do art. 100 da Constituição Federal.
+
+
+[[pagina 39 | ocr]]
+DO
+
+Nesse passo, a Constituição Federal explicita, inclusive, que não incidem
+juros de mora do dia 1º de julho, em que ocorreu a inscrição do precatório em orçamento,
+até o final do exercício financeiro seguinte — o chamado interstício constitucional. Nessa
+linha, não há juros porque inexiste mora nesse período, que é o prazo de pagamento.
+
+Cita-se, nesse contexto, o verbete da Súmula Vinculante nº 17 do STF,
+estabelecendo expressamente que “durante o período previsto no 8 1º do art. 100 da
+Constituição, não incidem juros de mora sobre os precatórios que nele sejam pagos”. O
+dispositivo apontado, vigente à época (Emenda Constitucional nº 30/2000), atualmente
+está contido no citado $ 5º do art. 100 da CF.
+
+Portanto, a Fazenda Pública não pode efetuar a quitação de parcela
+superpreferencial de precatório em sessenta dias, como dispôs a resolução, em
+referência ao procedimento atualmente adotado às requisições de pequeno valor, porque
+deve inscrevê-lo em orçamento para possibilitar, posteriormente, o pagamento a partir
+do primeiro dia útil do exercício financeiro seguinte à sua inscrição. Nesse passo:
+
+Ementa: DIREITO CONSTITUCIONAL. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO. PAGAMENTO DE PRECATÓRIO FORA DO PRAZO
+CONSTITUCIONAL. INCIDÊNCIA DE JUROS MORATÓRIOS SOMENTE A
+PARTIR DO PRIMEIRO DIA DO EXERCÍCIO FINANCEIRO SEGUINTE AO QUE O
+PRECATÓRIO DEVERIA SER PAGO. 1. A jurisprudência desse Supremo Tribunal
+Federal é no sentido de que não incidem juros moratórios sobre os precatórios pagos
+durante o prazo previsto no art. 100, 45º, da Constituição. 2. Em caso de inadimplemento
+do prazo constitucional, os juros moratórios passam a incidir a partir do primeiro dia
+do exercício financeiro seguinte ao que deveria ter sido pago o precatório. Precedentes.
+3. Agravo interno provido para dar provimento ao recurso extraordinário.
+
+(RE 871962 AgR, Relator(a): Min. ROSA WEBER, Relator(a) p/ Acórdão: Min.
+ROBERTO BARROSO, Primeira Turma, julgado em 03/10/2017, PROCESSO
+ELETRÔNICO DJe-279 DIVULG 04-12-2017 PUBLIC 05-12-2017).
+
+Em face do exposto, mais um motivo para a declaração de
+inconstitucionalidade do artigo 9º, caput, 88 1º, 3º, 4º,5º, 7º e 8º, e do artigo 74, caput,
+$ 1º, ambos da Resolução CNJ nº 303/2019, por afronta ao prazo constitucional
+estabelecido ao pagamento dos precatórios.
+
+8.6. SUBMISSÃO AO REGIME CONSTITUCIONAL DE PRECATÓRIO
+
+
+[[pagina 40 | ocr]]
+
+DO
+
+
+Ademais, inconstitucionais o artigo 9º, 8 4º, e o artigo 56, caput, ambos da
+
+Resolução CNJ nº 303/2019, no tocante ao deferimento e, em especial, ao pagamento
+da parcela superpreferencial pelo juízo da execução.
+
+Conforme antes referido, ressalta-se que o 8 4º do art. 9º da Resolução,
+
+transcrito abaixo, refere expressamente a incidência de normas jurídicas que regulam a
+RPYV para o pagamento da parcela superpreferencial:
+
+indicados:
+
+
+$ 4º A expedição e pagamento da requisição judicial de que trata o 8 3º deste artigo
+observará o disposto no art. 47 e seguintes desta Resolução, no art. 17 da Lei nº 10.259, de
+12 de julho de 2011, no art. 13, inciso I, da Lei nº 12.153, de 22 de dezembro de 2009, e
+no art. 535, 8 3º, inciso II, do Código de Processo Civil.
+
+Colacionam-se, para facilitar a elucidação, os dispositivos legais acima
+
+Art. 47 da Resolução. Não sendo o caso de expedição de precatório, o pagamento devido
+pelas fazendas públicas federal, estaduais, distrital e municipais, em virtude de sentença
+transitada em julgado, será realizado por meio da requisição judicial de que tratam o art.
+17, da Lei nº 10.259, de 12 de julho de 2011, o art. 13, inciso I, da Lei nº 12.153, de 22 de
+dezembro de 2009, e o art. 535, 8 3º, inciso II, do Código de Processo Civil.
+
+8 1º Para os fins dos 84 2º e 3º do art. 100 da Constituição Federal, considerar-se-á
+obrigação de pequeno valor aquela como tal definida em lei para a fazenda devedora, não
+podendo ser inferior ao do maior benefício pago pela Previdência Social.
+
+$ 2º Inexistindo lei, ou em caso de não observância do disposto no 8 4º do art. 100 da
+Constituição Federal, considerar-se-á como obrigação de pequeno valor:
+
+I— 60 (sessenta) salários-mínimos, se devedora a fazenda federal (art. 17, $ 1º, da Lei nº
+10.259, de 12 de julho de 2001);
+
+H — 40 (quarenta) salários-mínimos, se devedora a fazenda estadual ou distrital; e
+
+HI — 30 (trinta) salários-mínimos, se devedora a fazenda municipal.
+
+8 3º Os valores definidos nos termos dos 8$ 1º e 2º deste artigo serão observados no
+momento da expedição da requisição judicial.
+
+Art. 48 da Resolução. Faculta-se ao beneficiário a renúncia ao valor excedente dos limites
+apontados no art. 47.
+
+Parágrafo único. O pedido será encaminhado ao juízo da execução, mesmo que expedido
+o ofício precatório.
+
+
+[[pagina 41 | ocr]]
+
+DO
+
+
+Art. 49 da Resolução. A requisição será encaminhada pelo juízo da execução à entidade
+devedora citada para a causa, que terá o prazo de sessenta dias para providenciar a
+disponibilização dos recursos necessários ao pagamento.
+
+$ 1º Do ofício constarão os dados indicados no art. 6º desta Resolução, no que couber.
+
+8 2º Compete ao juízo da execução decidir eventuais incidentes, realizar o pagamento e,
+desatendida a ordem, determinar imediatamente o sequestro do numerário suficiente ao
+cumprimento da decisão, dispensada a audiência da Fazenda Pública, sem prejuízo da
+adoção de medidas previstas no art. 139, inciso IV, do Código de Processo Civil.
+
+$ 3º O sequestro alcançará o valor atualizado do crédito requisitado, sobre o qual incidirão
+também juros de mora.
+
+$ 4º A requisição poderá ser apresentada ao tribunal, havendo descentralização de recursos
+orçamentários pela Fazenda Pública para tal fim, na forma de convênio ou de lei própria.
+
+Art. 50 da Resolução. Aplica-se ao crédito objeto da requisição de que trata este Título o
+disposto nesta Resolução, no que couber, acerca de:
+
+I — atualização monetária;
+
+II — juros de mora;
+
+HI — cessão, penhora e compensação;
+
+IV — revisão de cálculos;
+
+V — retenção e repasse de tributos; e
+
+VI — pagamento ao credor.
+
+Art. 17 da Lei nº 10.259. Tratando-se de obrigação de pagar quantia certa, após o trânsito
+em julgado da decisão, o pagamento será efetuado no prazo de sessenta dias, contados da
+entrega da requisição, por ordem do Juiz, à autoridade citada para a causa, na agência mais
+próxima da Caixa Econômica Federal ou do Banco do Brasil, independentemente de
+precatório.
+
+Art. 13 da Lei nº 12.153. Tratando-se de obrigação de pagar quantia certa, após o trânsito
+em julgado da decisão, o pagamento será efetuado:
+
+I — no prazo máximo de 60 (sessenta) dias, contado da entrega da requisição do juiz à
+autoridade citada para a causa, independentemente de precatório, na hipótese do 8 3º do
+art. 100 da Constituição Federal.
+
+Art. 535 do CPC. A Fazenda Pública será intimada na pessoa de seu representante judicial,
+por carga, remessa ou meio eletrônico, para, querendo, no prazo de 30 (trinta) dias e nos
+próprios autos, impugnar a execução, podendo arguir:
+
+
+$ 3º Não impugnada a execução ou rejeitadas as arguições da executada:
+
+
+IH - por ordem do juiz, dirigida à autoridade na pessoa de quem o ente público foi citado
+para o processo, o pagamento de obrigação de pequeno valor será realizado no prazo de 2
+(dois) meses contado da entrega da requisição, mediante depósito na agência de banco
+oficial mais próxima da residência do exequente.
+
+
+[[pagina 42 | ocr]]
+DO
+
+Frisa-se, nesse ponto, que para o pagamento das dívidas de pequeno
+valor o juízo da execução utiliza verba orçamentária diversa da destinada aos
+precatórios. Assim, essa regra revela-se, desde logo, totalmente incompatível com
+o sistema de precatórios.
+
+Acrescenta-se, ainda nessa problemática, que o artigo 56, caput, da
+Resolução prevê que os valores para o pagamento da parcela superpreferencial,
+quando deferida perante o tribunal, sairiam da conta especial da cronológica.
+Contudo, nada refere em relação aos casos em que o deferimento da parcela
+superpreferencial ocorre perante o juízo da execução.
+
+Art. 56. Os pagamentos com observância da cronologia, inclusive os relativos à parcela
+superpreferencial cujo deferimento se der perante o tribunal, serão realizados a partir
+do saldo da primeira conta, e, o saldo da segunda conta, utilizado para garantir o
+pagamento dos acordos diretos, caso formalizada a opção pelo ente devedor.
+
+Portanto, o cotejo das normas aqui elencadas dá margem à interpretação
+de que os valores destinados para o pagamento da requisição judicial da parcela
+superpreferencial, quando deferida perante o juízo da execução, poderiam ser diversos,
+ou seja, além dos que estão determinados constitucionalmente a cargo do Poder Público.
+
+Anote-se que, para os entes públicos que estão no regime comum de
+
+pagamento de precatórios, os valores destinados à sua satisfação devem estar
+previamente contabilizados e previstos na lei orçamentária anual.
+
+Em relação aos entes públicos que optaram pelo regime especial, a
+realização dos pagamentos determinada constitucionalmente obedece à vinculação a um
+percentual da receita corrente líquida depositado mensalmente em conta especial do
+Tribunal de Justiça local. Assim, quaisquer valores para pagamento de precatórios,
+inclusive os das parcelas superpreferenciais, sejam deferidos no juízo da execução ou
+no tribunal, devem, necessariamente, ser subtraídos da conta especial da cronológica.
+
+Nesse quadro, revela-se inconstitucional qualquer interpretação que enseja
+indevido aumento das dotações orçamentárias originalmente estabelecidas para pagar
+precatórios pelos entes públicos, em violação aos princípios da anualidade e da
+universalidade orçamentária, além da necessária submissão ao regime de precatórios
+estabelecido na Carta Suprema.
+
+
+[[pagina 43 | ocr]]
+
+DO
+
+
+Dessa forma, não pode vingar no ordenamento jurídico qualquer
+
+interpretação que amplie indevidamente o aporte de recursos por um mecanismo não
+previsto na Constituição Federal. Primeiro, por vulnerar o disposto nos artigos 97, 8 2º,
+e 101, caput, do ADCT, abaixo transcritos. Segundo, porque concretizaria o caos estatal,
+prejudicando o atendimento dos serviços básicos inerentes e indispensáveis à sociedade.
+
+Art. 97. Até que seja editada a lei complementar de que trata o 8 15 do art. 100 da
+Constituição Federal, os Estados, o Distrito Federal e os Municípios que, na data de
+publicação desta Emenda Constitucional, estejam em mora na quitação de precatórios
+vencidos, relativos às suas administrações direta e indireta, inclusive os emitidos durante o
+período de vigência do regime especial instituído por este artigo, farão esses pagamentos
+de acordo com as normas a seguir estabelecidas, sendo inaplicável o disposto no art. 100
+desta Constituição Federal, exceto em seus 88 2º, 3º, 9º, 10, 11, 12, 13 e 14, e sem prejuízo
+dos acordos de juízos conciliatórios já formalizados na data de promulgação desta Emenda
+Constitucional.
+
+
+$ 2º Para saldar os precatórios, vencidos e a vencer, pelo regime especial, os Estados, o
+Distrito Federal e os Municípios devedores depositarão mensalmente, em conta
+especial criada para tal fim, 1/12 (um doze avos) do valor calculado percentualmente
+sobre as respectivas receitas correntes líquidas, apuradas no segundo mês anterior ao
+mês de pagamento, sendo que esse percentual, calculado no momento de opção pelo regime
+e mantido fixo até o final do prazo a que se refere o $ 14 deste artigo, será:
+
+I- para os Estados e para o Distrito Federal:
+
+a) de, no mínimo, 1,5% (um inteiro e cinco décimos por cento), para os Estados das regiões
+Norte, Nordeste e Centro-Oeste, além do Distrito Federal, ou cujo estoque de precatórios
+pendentes das suas administrações direta e indireta corresponder a até 35% (trinta e cinco
+por cento) do total da receita corrente líquida;
+
+b) de, no mínimo, 2% (dois por cento), para os Estados das regiões Sul e Sudeste, cujo
+estoque de precatórios pendentes das suas administrações direta e indireta corresponder a
+mais de 35% (trinta e cinco por cento) da receita corrente líquida;
+
+H - para Municípios:
+
+a) de, no mínimo, 1% (um por cento), para Municípios das regiões Norte, Nordeste e
+Centro-Oeste, ou cujo estoque de precatórios pendentes das suas administrações direta e
+indireta corresponder a até 35% (trinta e cinco por cento) da receita corrente líquida;
+
+b) de, no mínimo, 1,5% (um inteiro e cinco décimos por cento), para Municípios das regiões
+Sul e Sudeste, cujo estoque de precatórios pendentes das suas administrações direta e
+indireta corresponder a mais de 35 % (trinta e cinco por cento) da receita corrente
+líquida.
+
+Art. 101. Os Estados, o Distrito Federal e os Municípios que, em 25 de março de 2015, se
+encontravam em mora no pagamento de seus precatórios quitarão, até 31 de dezembro de
+2024, seus débitos vencidos e os que vencerão dentro desse período, atualizados pelo Índice
+
+
+[[pagina 44 | ocr]]
+DO
+
+Nacional de Preços ao Consumidor Amplo Especial (IPCA-E), ou por outro índice que
+venha a substituí-lo, depositando mensalmente em conta especial do Tribunal de
+Justiça local, sob única e exclusiva administração deste, 1/12 (um doze avos) do valor
+calculado percentualmente sobre suas receitas correntes líquidas apuradas no
+segundo mês anterior ao mês de pagamento, em percentual suficiente para a quitação de
+seus débitos e, ainda que variável, nunca inferior, em cada exercício, ao percentual
+praticado na data da entrada em vigor do regime especial a que se refere este artigo, em
+conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de
+Justiça local.
+
+Além de todo o exposto, sabe-se que o pagamento de dívidas da Fazenda
+Pública que ultrapassem as quantias definidas em lei como de pequeno valor deve
+submeter-se ao regime de precatórios previsto no artigo 100 da Constituição Federal e
+nos artigos 97 a 105 do ADCT.
+
+Disso decorre que o regime constitucional de precatórios deve ser
+obrigatoriamente observado. Nesse sentido, é o disposto no Tema 831, do ementário da
+repercussão geral desse c. Pretório Excelso”, bem como no seguinte trecho do voto
+proferido no julgamento do RE 889173, que nele resultou:
+
+RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL E PROCESSUAL. MANDADO
+DE SEGURANÇA. VALORES DEVIDOS ENTRE A DATA DA IMPETRAÇÃO E A
+IMPLEMENTAÇÃO DA ORDEM CONCESSIVA. SUBMISSÃO AO REGIME DE
+PRECATÓRIOS. REPERCUSSÃO GERAL RECONHECIDA. REAFIRMAÇÃO DE
+JURISPRUDÊNCIA. (RE 889173 RG, Relator(a): Min. LUIZ FUX, julgado em
+07/08/2015, PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-160
+DIVULG 14-08-2015 PUBLIC 17-08-2015).
+
+Trecho:
+
+“(...) nem o caráter alimentar do crédito contra a Fazenda Pública tem força suficiente
+a afastar o rito dos precatórios, com muito menos razão o teria a circunstância acidental
+de ser o crédito derivado de sentença concessiva de mandado de segurança. Saliente-se
+que a finalidade do regime constitucional de precatórios reside em dois objetivos
+essenciais, quais sejam, possibilitar aos entes federados o adequado planejamento
+
+7 Tema 831 - Obrigatoriedade de pagamento, mediante o regime de precatórios, dos valores devidos pela
+Fazenda Pública entre a data da impetração do mandado de segurança e a efetiva implementação da ordem
+concessiva.
+
+Tese - O pagamento dos valores devidos pela Fazenda Pública entre a data da impetração do mandado de
+segurança e a efetiva implementação da ordem concessiva deve observar o regime de precatórios previsto no
+artigo 100 da Constituição Federal. Obs: Redação da tese aprovada nos termos do item 2 da Ata da 12º Sessão
+Administrativa do STF, realizada em 09/12/2015.
+
+
+[[pagina 45 | ocr]]
+
+DO
+
+
+orçamentário para a quitação de seus débitos e a submissão do poder público ao dever
+de respeitar a preferência jurídica de quem dispuser de precedência cronológica.
+Verifica-se, desse modo, que o provimento do recurso extraordinário é medida que se
+impõe, de forma a assentar a necessidade de observância do regime de precatórios
+previsto no art. 100 da CF para o pagamento dos valores devidos pela Fazenda
+Pública entre a data da impetração do mandado de segurança e a efetiva implementação da
+ordem concessiva.” [RE 889.173 RG, voto do rel. min. Luiz Fux, j. 7-8-2015, P, DJE de
+17-8-2015, Tema 831.)
+
+E importante consignar que esse c. Tribunal Supremo já assentou que até
+
+mesmo os créditos alimentares devidos pela Fazenda Pública são pagos por meio da
+sistemática constitucional de precatório.
+
+A jurisprudência do STF, ao interpretar o alcance da norma inscrita no caput do art.
+100 da Constituição, firmou-se no sentido de considerar imprescindível, mesmo
+tratando-se de crédito de natureza alimentícia, a expedição de precatório, ainda que
+reconhecendo, para efeito de pagamento do débito fazendário, a absoluta prioridade
+da prestação de caráter alimentar sobre os créditos ordinários de índole comum. (...)
+O sentido teleológico da norma inscrita no caput do art. 100 da Carta Política — cuja gênese
+reside, no que concerne aos seus aspectos essenciais, na CF/1934 (art. 182) — objetiva
+viabilizar, na concreção do seu alcance, a submissão incondicional do poder público ao
+dever de respeitar o princípio que confere preferência jurídica a quem dispuser de
+precedência cronológica (prior in tempore, potior in jure). [AC 254 QO, rel. min. Celso de
+Mello, j. 18-5-2004, 2º T, DJE de 18-12-2009.).
+
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL.
+CONCESSÃO DE MANDADO DE SEGURANÇA. VALORES DEVIDOS.
+EXCLUSÃO DO REGIME DE PRECATÓRIO. LESÃO AOS PRECEITOS
+FUNDAMENTAIS DA ISONOMIA, DA IMPESSOALIDADE E OFENSA AO
+DEVIDO PROCESSO CONSTITUCIONAL. ATRIBUIÇÃO DE EFEITO
+VINCULANTE À ORIENTAÇÃO JURISPRUDENCIAL SOBRE A MATÉRIA.
+ARGUIÇÃO DE DESCUMPRIMENTO DE PRECEITO FUNDAMENTAL JULGADA
+PROCEDENTE. 1. Apesar de ter sido dirimida a controvérsia judicial no julgamento do
+Recurso Extraordinário n. 889.173 (Relator o Ministro Luiz Fux, Plenário virtual, DJe
+14.8.2015), a decisão proferida em recurso extraordinário com repercussão geral não
+estanca, de forma ampla e imediata, situação de lesividade a preceito fundamental
+resultante de decisões judiciais: utilidade da presente arguição de descumprimento de
+preceito fundamental. 2. Necessidade de uso de precatórios no pagamento de dívidas
+da Fazenda Pública, independente de o débito ser proveniente de decisão concessiva
+de mandado de segurança, ressalvada a exceção prevista no $ 3º do art. 100 da
+Constituição da República (obrigações definidas em leis como de pequeno valor).
+Precedentes. 3. Arguição de descumprimento de preceito fundamental julgada procedente.
+
+
+[[pagina 46 | ocr]]
+
+DO
+
+
+(ADPF 250, Relator(a): Min. CARMEN LÚCIA, Tribunal Pleno, julgado em 13/09/2019,
+PROCESSO ELETRÔNICO DJe-211 DIVULG 26-09-2019 PUBLIC 27-09-2019).
+
+(...) O processo de execução por quantia certa contra a Fazenda Pública rege-se, nos
+termos do que prescreve a própria Lei Fundamental, por normas especiais, que, ao
+instituírem o regime constitucional dos precatórios, estendem-se a todas as pessoas
+jurídicas de direito público interno, inclusive às entidades autárquicas. A disciplina
+constitucional desse processo de execução, na redação anterior à promulgação das EC
+30/2000, 37/2002 e 62/2009, tornava imprescindível a expedição do requisitório,
+independentemente da natureza e do valor do crédito exequendo. A exigência
+constitucional de expedição do precatório, com a consequente obrigação imposta ao
+Estado de estrita observância da ordem cronológica de apresentação daquele
+instrumento de requisição judicial de pagamento, tinha (e ainda tem) por finalidade
+impedir favorecimentos pessoais indevidos e frustrar injustas perseguições ditadas
+por razões de caráter político-administrativo. A regra inscrita no art. 100 da CF —
+cuja gênese reside, em seus aspectos essenciais, na Constituição de 1934 (art. 182) — tinha
+por objetivo precípuo viabilizar, na concreção de seu alcance normativo, a submissão
+incondicional do poder público ao dever de respeitar o princípio que conferia
+preferência jurídica a quem dispusesse de precedência cronológica (prior in tempore,
+potior in jure). (...) Nem mesmo a celebração de transação com o poder público, ainda que
+em bases vantajosas para o erário, teria, na época em que ocorridos os fatos expostos na
+denúncia, o condão de autorizar a inobservância da ordem de precedência cronológica dos
+precatórios, pois semelhante comportamento — por envolver efetivação de despesa não
+autorizada por lei e por implicar frustração do direito de credores mais antigos, com
+evidente prejuízo para eles — enquadra-se no preceito incriminador constante do inciso V
+do art. 1º do DL 201/1967.” [AP 503, rel. min. Celso de Mello, j. 20-5-2010, P, DJE de 1º-
+2-2013.]
+
+Por todo o exposto, inconstitucional o disposto no 4 4º do artigo 9º da
+
+Resolução CNJ nº 303/2019, bem como a expressão “cujo deferimento se der perante o
+
+tribunal”,
+
+aposta no artigo 56, caput, da mesma Resolução.
+
+8.7. OUTRAS QUESTÕES ACERCA DA PARCELA SUPERPREFERENCIAL
+
+Em face dessas considerações, também devem ser declaradas
+
+inconstitucionais as seguintes expressões, abaixo grifadas, apostas no artigo 74, caput,
+e 8 1º, da Resolução CNJ nº 303/2019, a fim de adequá-las ao comando constitucional:
+
+
+[[pagina 47 | ocr]]
+GABINETE DO G
+DO
+ESTADO DE S
+
+pagament
+referidos,
+
+OVERNADOR
+
+ÃO PAULO
+
+Art. 74. Na vigência do regime especial, a superpreferência relativa à idade, ao estado de
+saúde e à deficiência será atendida até o valor equivalente ao quintuplo daquele fixado em
+lei para os fins do disposto no $ 3º do art. 100 da Constituição Federal, com observância
+do procedimento previsto nos 84 1ºa 6º do art. 9º desta Resolução, sendo o valor
+restante pago em ordem cronológica de apresentação do precatório.
+
+$ 1º Adquirindo o credor a condição de beneficiário depois de expedido o precatório, ou
+no caso de expedição sem o prévio pagamento na origem, o valor da superpreferência
+será quitado pelo presidente do tribunal:
+
+a) de ofício, se devido por motivo de idade; e
+
+b) a pedido, se devido por qualquer dos demais motivos, facultando-se ao presidente
+delegar ao juízo da execução a análise da condição de pessoa com deficiência ou com
+doença grave, inclusive a partir de conclusão da medicina especializada, mesmo que a
+doença tenha sido contraída após o início da ação.
+
+$ 2º Em qualquer caso, o pagamento será deferido e realizado apenas quando não se
+verificar anterior pagamento do benefício a partir de outro fundamento constitucional.
+
+Outrossim, considerando que é inconstitucional a expedição e o
+o de parcela superpreferencial, pelo juízo da execução, nos termos acima
+também deve ser declarada inconstitucional a parte final do artigo 6º, inciso
+
+IX, da referida Resolução, em que se elencam os requisitos para a expedição do
+precatório e, entre eles, o registro de pagamento de parcela superpreferencial ocorrido
+perante o juízo da execução.
+
+Art. 6º No ofício precatório constarão os seguintes dados e informações:
+
+
+IX — a indicação da data de nascimento do beneficiário, em se tratando de crédito de
+natureza alimentícia e, na hipótese de liquidação da parcela superpreferencial do
+crédito alimentar perante o juízo da execução, o registro desse pagamento.
+
+Via de consequência, devem ser declaradas inconstitucionais as seguintes
+
+expressões, abaixo destacadas, do caput e do parágrafo único do artigo 86 da aludida
+Resolução:
+
+303/2019
+
+Art. 86. Até 31 de dezembro de 2020, o pagamento da parcela superpreferencial de
+responsabilidade do ente devedor submetido ao regime especial será efetuado apenas
+perante o tribunal para o qual expedido o precatório, observado o disposto nas alíneas “a”
+e “b” do $ 1º do art. 74 e no art. 75 desta Resolução.
+
+Parágrafo único. A partir de 1º de janeiro de 2021, a quitação da parcela a que se refere
+
+este artigo observará integralmente o disposto nesta Resolução.
+
+Como visto, são inconstitucionais os dispositivos da Resolução CNJ nº
+que tratam da expedição e do pagamento da parcela superpreferencial, pelo
+
+
+[[pagina 48 | ocr]]
+DO
+
+juízo da execução, pois, além de representarem indevida inovação legislativa,
+apresentam vícios por violação a normas e princípios da Constituição Federal.
+
+Nesse quadro, impõe-se a manutenção da sistemática atual, em que a
+superpreferência a idosos, doentes graves e portadores de deficiência defere-se perante
+o tribunal, após o precatório ser expedido e inscrito em orçamento, atentando-se à ordem
+cronológica e ao termo inicial para pagamento.
+
+9. USURPAÇÃO DE COMPETÊNCIA JURISDICIONAL PELO PRESIDENTE DO TRIBUNAL
+DE JUSTIÇA
+
+A Resolução CNJ nº 303/2019 atribui ao Presidente do Tribunal típica
+função jurisdicional, de julgar cálculos, tratando-a como mera atividade administrativa,
+suprimindo, com isso, a competência do Juízo da execução:
+
+Art. 3º. É atribuição administrativa do Presidente do Tribunal, dentre outras previstas nesta
+Resolução:
+
+IV — decidir sobre impugnação aos cálculos do precatório e sobre o pedido de sequestro,
+nos termos desta Resolução;
+
+Art. 31. Realizado o aporte de recursos na forma do capítulo anterior, o Presidente do
+Tribunal disponibilizará o valor necessário ao pagamento do precatório em conta bancária
+individualizada junto à instituição financeira.
+
+$1º O pagamento será realizado ao beneficiário ou seu procurador, cientificadas as partes
+eo juízo da execução: (...)
+
+I — mediante saque junto à conta bancária indicada no caput deste artigo, observando-se,
+no que couber, o rito de levantamento dos depósitos bancários; ou
+
+II — por meio de alvará, mandado ou guia de pagamento.
+
+No julgamento da ADI 1098, esse Tribunal Supremo assentou que a
+competência administrativa do Presidente do Tribunal, com relação aos
+precatórios, limita-se à correção de erro material ou de inexatidão aritmética,
+contidos no precatório original, bem assim à substituição, por força de lei, do índice
+
+aplicado.
+
+Vistos, relatados e discutidos estes autos, acordam os Ministros do Supremo Tribunal
+Federal, em sessão plenária, na confirmada da ata de julgamento e das notas taquigráficas,
+em (...) 6) julgar procedente, em parte com relação ao inciso VII do artigo 337, para excluir
+
+
+[[pagina 49 | ocr]]
+SNS
+
+DO
+
+outras interpretações que não sejam a de que a requisição a título de complementação dos
+depósitos insuficientes, a ser feita no prazo de 90 dias, somente deve referir-se a diferenças
+resultantes de erros materiais ou aritméticos ou de inexatidões dos cálculos dos precatórios,
+não podendo dizer respeito ao critério adotado pela a elaboração do cálculo ou a índices de
+atualização diversos dos que foram atualizados em primeira instância, saldo na hipótese de
+substituição, por força de lei do índice aplicado;” (Supremo Tribunal Federal, Pleno,
+Relator Min. Marco Aurélio , julg. 11.09.1996)
+
+O precedente foi reafirmado no julgamento da ADI 2924, conforme se
+infere da ementa do acórdão:
+
+CONSTITUCIONAL. PRECATÓRIO. CRÉDITO COMPLEMENTAR: NOVO
+PRECATÓRIO. Regimento Interno do Tribunal de Justiça do Estado de São Paulo, inciso
+V do art. 336. CF, art. 100. Interpretação conforme sem redução do texto.
+
+I. — Dispõe o inciso V do art. 336 do Regimento Interno do Tribunal de Justiça do Estado
+de São Paulo que “para pagamentos complementares serão utilizados os mesmos
+precatórios satisfeitos parcialmente até o seu integral cumprimento”. Interpretação
+conforme, sem redução do texto, para o fim de ficar assentado que “pagamentos
+complementares”, referidos no citado preceito regimental, são somente aqueles decorrentes
+de erro material e inexatidão aritmética, contidos no precatório original, bem assim da
+substituição, por força de lei, do índice aplicado.
+
+H. — ADI julgada procedente, em parte.
+
+Em conformidade com precedentes, esse Supremo Tribunal Federal editou
+a Súmula 733, em que reitera o seu posicionamento, no sentido de que a atividade do
+Presidente dos Tribunais no processamento de precatórios constitui atividade
+administrativa, e não jurisdicional, razão pela qual não pode ser desafiada por recurso
+judicial.
+
+O posicionamento do C. Superior Tribunal de Justiça não poderia ser
+diferente, tendo sido editada a Sumula 311, dispondo: “Os atos do presidente do
+tribunal que disponham sobre processamento e pagamento de precatório não têm
+caráter jurisdicional.”
+
+Por tais motivos, o artigo 3º, inciso IV, e o artigo 31, 8 1º, ambos da
+Resolução CNJ 303/2019, violam o disposto no artigo 100, 4 6º, da Constituição da
+República.
+
+é Súmula 733/STF — Não cabe recurso extraordinário contra decisão proferida no processamento de
+precatórios.
+
+
+[[pagina 50 | ocr]]
+Sa
+
+DO
+
+10. DISCIPLINA CONSTITUCIONAL DO SEQUESTRO E INCONSTITUCIONALIDADE DAS
+NORMAS QUE AMPLIAM AS SUAS HIPÓTESES
+
+O sequestro é medida excepcional, admissível apenas nas hipóteses
+previstas na Constituição.
+
+A primeira delas, constante do texto promulgado em 1988, prevê o
+sequestro no caso de ruptura da ordem cronológica de pagamento de precatórios
+Judiciais (artigo 100, 8 69).
+
+A segunda hipótese, introduzida pela Emenda Constitucional nº 30 de
+2000, autoriza o sequestro no caso de não alocação orçamentária de recurso suficiente
+para a quitação do débito ADCT, art. 78, 3 4º), fazendo-o, porém, apenas para as
+hipóteses por ele albergadas e enquanto em vigor o dispositivo, já declarado
+inconstitucional.
+
+A EC nº 62 de 2009 instituiu o regime especial de pagamentos de
+precatórios para os Estados e Municípios que se encontravam em mora, prevendo a
+alocação de recursos consistentes em percentual da receita corrente líquida para o seu
+pagamento.
+
+Na ocasião, foi reintroduzida hipótese de sequestro, a que estão sujeitas as
+entidades sob o regime especial de pagamentos, na hipótese de não liberação dos
+recursos orçamentários para o Presidente do Tribunal de Justiça (ADCT, artigo 97, $
+10).
+
+São essas as duas únicas hipóteses de sequestro admitidas na
+Constituição.
+
+Foi além o legislador reformador ao dispor, no 8 13 do artigo 97 do ADCT,
+“ser vedado o sequestro de valores” durante o regime especial de pagamento, senão
+na hipótese, já mencionada, de não liberação de recurso orçamentários.
+
+As Emendas Constitucionais nº 94 de 2016 e 99 de 2017 adequaram o
+regime especial de pagamento de precatórios ao decidido por esse Supremo Tribunal
+
+
+[[pagina 51 | ocr]]
+
+DO
+
+
+Federal nas ADIs nº. 4357 e 4425, tornando a vedação ao sequestro ainda mais explícita
+no artigo 103 do ADCT, então introduzido:
+
+Art. 103. Enquanto os Estados, o Distrito Federal e os Municípios estiverem efetuando o
+pagamento da parcela mensal devida como previsto no caput do art. 101 deste Ato das
+Disposições Constitucionais Transitórias, nem eles, nem as respectivas autarquias,
+fundações e empresas estatais dependentes poderão sofrer sequestro de valores, exceto no
+caso de não liberação tempestiva dos recursos.
+
+A Jurisprudência desse Supremo Tribunal Federal é firme no sentido de
+
+restringir o sequestro de numerário às hipóteses expressamente previstas na Carta.
+
+Nesse sentido, citamos trecho do voto proferido pelo Exmo. Ministro
+
+MAURÍCIO CORREA, relator, proferido no julgamento de medida cautelar na ADI nº
+
+1662-7:
+
+“2.2 Vê-se que o constituinte de 1988 não foi pródigo na autorização de sequestros, ao
+prever a sua efetivação exclusivamente para o caso de preterimento do direito de
+precedência.
+
+Não vejo oportunidade de harmonizar o elastério que a Instrução Normativa do Tribunal
+Superior do Trabalho deu para o sequestro com a parcimônia do constituinte, ao menos por
+três motivos: primeiro, tanto a não inclusão no orçamento de verba necessária ao
+pagamento dos precatórios como o seu pagamento a menor, por não estar atualizado ou
+porque feito fora do prazo, constituem-se em evidente descumprimento de ordem judicial,
+sujeitando o Estado infrator à intervenção federal, como expressamente prevê o inciso VI
+do artigo 34 da Constituição (a União não intervirá nos Estados nem no Distrito Federal,
+exceto para: ... VI — prover a execução de lei federal, ordem ou decisão judicial); segundo,
+sequestros indiscriminados determinados pela Justiça do Trabalho perturbam seriamente a
+execução do orçamento, implicam no preterimento do direito de precedência dos demais
+credores e ainda incidem sobre valores nele previstos e que foram liberados para pagamento
+de outros débitos; terceiro, como no caso do item III, o sequestro ocorre sem que haja o
+mínimo contraditório, ouvindo-se, apenas, o Ministério Público.”
+
+Em seu voto, o Ministro NELSON JOBIM faz menção à impossibilidade da
+
+criação novas hipóteses de sequestro, senão por emenda constitucional.
+
+“No entanto, é necessário ater-se a esse dispositivo tal como se encontra. Qualquer
+alteração nesse sentido deverá partir do órgão competente, ou seja, do Congresso Nacional,
+alterando o texto da Constituição, de resto, essas pretensões já ocorrem de algum tempo,
+desde a edição da Constituição de 1988 já circula no Congresso Nacional, ao que me
+recordo, sete a dez projetos de emendas constitucionais pretendendo dar maior
+executividade às normas relativas ao artigo 100.”
+
+
+[[pagina 52 | ocr]]
+
+DO
+
+
+Contudo, a Resolução CNJ 303/2019 previu o sequestro em diversos
+
+dispositivos, sem correspondência com os permissivos constitucionais.
+
+O artigo 49 prevê o sequestro na hipótese de mora no pagamento de
+
+obrigações de pequeno valor:
+
+Art. 49. A requisição será encaminhada pelo juízo da execução à entidade devedora citada
+para a causa, que terá o prazo de 2 (dois) meses para providenciar a disponibilização dos
+recursos necessários ao pagamento.
+
+
+82º Compete ao juízo da execução decidir eventuais incidentes, realizar o pagamento e,
+desatendida a ordem, determinar imediatamente o sequestro do numerário suficiente ao
+cumprimento da decisão, dispensada a audiência da Fazenda Pública, sem prejuízo da
+adoção de medidas previstas no art. 139, inciso IV, do Código de Processo Civil.
+
+Esse dispositivo incorporou, na resolução, normas da legislação ordinária,
+
+que ampliaram as hipóteses constitucionais de sequestro para o caso de simples mora no
+pagamento de obrigações de pequeno valor.
+
+artigo 17,
+
+A Lei nº 10.259/01, que criou os Juizados Especiais Federais, em seu
+$ 2º, prevê o sequestro em caso de mora no atendimento à requisição
+
+judicial de pequeno valor:
+
+Art. 17. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da
+decisão, o pagamento será efetuado no prazo de sessenta dias, contados da entrega da
+requisição, por ordem do Juiz, à autoridade citada para a causa, na agência mais próxima
+da Caixa Econômica Federal ou do Banco do Brasil, independentemente de precatório.
+(..)
+
+$ 2º Desatendida a requisição judicial, o Juiz determinará o sequestro do numerário
+suficiente ao cumprimento da decisão.
+
+A Lei nº 12.153 de 2009, que trata dos Juizados Especiais estaduais e
+
+municipais, também prevê o sequestro no caso de mora no pagamento de obrigações de
+
+pequeno valor:
+
+Art. 13. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da
+decisão, o pagamento será efetuado:
+
+
+[[pagina 53 | ocr]]
+DO
+
+I — no prazo máximo de 60 (sessenta) dias, contado da entrega da requisição do juiz à
+autoridade citada para a causa, independentemente de precatório, na hipótese do $ 3º do
+art. 100 da Constituição Federal; ou
+
+II — mediante precatório, caso o montante da condenação exceda o valor definido como
+obrigação de pequeno valor.
+
+$ 1º Desatendida a requisição judicial, o juiz, imediatamente, determinará o sequestro do
+numerário suficiente ao cumprimento da decisão, dispensada a audiência da Fazenda
+Pública.
+
+O sequestro de numerário em caso de mora no pagamento de obrigações
+de pequeno valor, além de não ter previsão no texto da Constituição, esbarra em vedação
+expressa durante a vigência do regime especial.
+
+A inconstitucionalidade da norma regulamentar é ainda mais evidente pois
+— a par de se tratar de norma infralegal e além de contrariar o artigo 100, $ 6º, da
+Constituição, e o artigo 97, 4 10, do ADCT — afronta os princípios da ampla defesa e do
+contraditório, ao dispensar a manifestação da Fazenda Pública devedora, não lhe
+oportunizando a possibilidade de defesa.
+
+A alusão, no dispositivo, às medidas preconizadas no artigo 139, inciso
+IV, do Código de Processo Civil, é igualmente inconstitucional. Conforme será
+detalhado em item subsequente, a execução de obrigação pecuniária deve ser efetuada
+mediante requisição judicial, na modalidade de precatório ou de requisição de pequeno
+valor, conforme o procedimento constitucionalmente previsto, que não inclui as sanções
+previstas no Código de Processo Civil.
+
+Igualmente inconstitucional, também, o artigo 10 da Resolução CNJ nº
+303/2019, que prevê o sequestro em caso de mora no atendimento à anômala modalidade
+de requisição judicial introduzida pelo artigo 9º, cuja inconstitucionalidade será
+abordada em item subsequente:
+
+Art. 10. Desatendida a requisição judicial de que trata esta Seção, o juiz determinará de
+ofício o sequestro do numerário suficiente ao cumprimento da decisão, dispensada a
+audiência da entidade devedora.
+
+O artigo 100 da Constituição estabelece que o sequestro depende de
+iniciativa do credor preterido na ordem de recebimento de seu crédito.
+
+
+[[pagina 54 | ocr]]
+DO
+
+A determinação de sequestro por “impulso oficial”, sem a iniciativa do
+
+credor preterido, não tem sequer previsão legal, sendo manifestamente inconstitucional,
+violando, mais uma vez, os princípios do contraditório e da ampla defesa.
+
+São inconstitucionais, ainda, os dispositivos contidos no artigo 20 da
+
+Resolução CNJ 303/2019, que ampliam as hipóteses de sequestro:
+
+303/2019,
+
+Art. 20. O sequestro é medida administrativa de caráter excepcional e base constitucional,
+reservado às situações delineadas no 86º do art. 100 da Constituição Federal.
+
+
+85º A medida executória de sequestro em precatórios alcança o valor atualizado da
+requisição inadimplida ou preterida, bem como os valores atualizados dos precatórios
+não quitados precedentes na ordem cronológica.
+
+
+87º A execução da decisão de sequestro não se suspende pela eventual interposição de
+recurso, nem se limita às dotações orçamentárias originalmente destinadas ao pagamento
+de débitos judiciais.
+
+Inconstitucionais, portanto, os 84 5º e 7º do artigo 20 da Resolução
+por autorizar a decretação do sequestro de ofício pelo Presidente do
+
+Tribunal, no que diz respeito aos precatórios que precedem aquele que foi objeto do
+pedido, e sem limitação de recursos orçamentários.
+
+sequestro
+
+O citado 8 7º do artigo 20, por sua vez, ao estabelecer que a execução do
+não se limita às dotações orçamentárias originalmente destinadas ao
+
+pagamento de débitos judiciais, afronta o artigo 100, 89 5º e 6º, da Constituição, que
+restringem o sequestro à hipótese de não alocação orçamentária de recursos suficientes
+
+ao pagamento ou à preterição de ordem.
+
+De igual maneira, não se admite a aplicação de sanção por analogia,
+
+como o faz a Resolução CNJ 303/2019, novamente inovando na ordem jurídica:
+
+Art. 65. O plano anual de pagamento poderá prever, além do uso de recursos orçamentários,
+a utilização dos recursos oriundos das fontes adicionais apontadas nos artigos 60 a 63 desta
+Resolução.
+
+8 1º Faculta-se aos entes devedores, na elaboração do plano anual de que trata este artigo,
+contabilizarem os recursos adicionais no pagamento dos valores devidos a título de repasses
+mensais.
+
+
+[[pagina 55 | ocr]]
+
+DO
+
+
+$ 2º Frustrado o ingresso dos recursos provenientes de fontes adicionais, o Tribunal de
+Justiça considerará inadimplido o valor a eles correspondente, aplicando imediatamente ao
+ente inadimplente as sanções previstas no art. 104 do ADCT e art. 67 desta Resolução.
+
+Com efeito, o artigo 104 do ADCT prevê a aplicação de sanções ao ente
+
+devedor, dentre elas o sequestro de valores, apenas para o caso de não liberação dos
+recursos referidos no art. 101 do ADCT (quais sejam, 7/12 do valor calculado
+percentualmente sobre suas receitas correntes líquidas apuradas no segundo mês
+anterior ao mês de pagamento, em percentual suficiente para a quitação de seus débitos
+e, ainda que variável, nunca inferior, em cada exercício, ao percentual praticado na
+data da entrada em vigor do regime especial a que se refere este artigo, em
+conformidade com plano de pagamento a ser anualmente apresentado ao Tribunal de
+
+Justiça local). In verbis:
+
+Art. 104. Se os recursos referidos no art. 101 deste Ato das Disposições Constitucionais
+Transitórias para o pagamento de precatórios não forem tempestivamente liberados, no
+todo ou em parte: (Incluído pela Emenda Constitucional nº 94, de 2016)
+
+I- o Presidente do Tribunal de Justiça local determinará o sequestro, até o limite do valor
+não liberado, das contas do ente federado inadimplente; (Incluído pela Emenda
+Constitucional nº 94, de 2016)
+
+II - o chefe do Poder Executivo do ente federado inadimplente responderá, na forma da
+legislação de responsabilidade fiscal e de improbidade administrativa; (Incluído pela
+Emenda Constitucional nº 94, de 2016)
+
+II - a União reterá os recursos referentes aos repasses ao Fundo de Participação dos Estados
+e do Distrito Federal e ao Fundo de Participação dos Municípios e os depositará na conta
+especial referida no art. 101 deste Ato das Disposições Constitucionais Transitórias, para
+utilização como nele previsto; (Incluído pela Emenda Constitucional nº 94, de 2016)
+
+IV - os Estados reterão os repasses previstos no parágrafo único do art. 158 da Constituição
+Federal e os depositarão na conta especial referida no art. 101 deste Ato das Disposições
+Constitucionais Transitórias, para utilização como nele previsto. (Incluído pela Emenda
+Constitucional nº 94, de 2016)
+
+Parágrafo único. Enquanto perdurar a omissão, o ente federado não poderá contrair
+empréstimo externo ou interno, exceto para os fins previstos no $ 2º do art. 101 deste Ato
+das Disposições Constitucionais Transitórias, e ficará impedido de receber transferências
+voluntárias.
+
+A utilização dos recursos adicionais, na forma do 8 2º, incisos 1 e II do art.
+
+101 do ADCT é facultativa, não havendo previsão constitucional de imposição de
+medidas constritivas caso não sejam depositados para o pagamento de precatórios.
+
+
+[[pagina 56 | ocr]]
+DO
+
+Em se tratando de poder sancionador, descabe a utilização de analogia ou
+interpretação ampliativa. No caso, a hipótese tratada na Resolução não se subsume à
+conduta prevista na Constituição Federal.
+
+Ante o exposto, deve ser declarada a inconstitucionalidade do 8 2º do
+artigo 17 da Lei 10.259/2001; do $ 1º do artigo 13 da Lei 12.153/2009; e dos dispositivos
+da Resolução CNJ 303/2019: artigo 10; 88 5º e 7º do artigo 20; 8 2º do artigo 49; e 8 2º,
+do artigo 65.
+
+11. INCONSTITUCIONALIDADE DO ESTABELECIMENTO, PELA UNIÃO, DE PRAZO PARA
+O PAGAMENTO DE OBRIGAÇÕES DE PEQUENO VALOR
+
+Como sabido, a Constituição prevê duas formas para o cumprimento de
+decisões judiciais em face da Fazenda Pública: o precatório (artigo 100, caput) e as
+requisições de obrigações de pequeno valor (artigo 100, 8 3º).
+
+O $ 5º do artigo 100, da Constituição da República, é explícito quanto ao
+prazo para o pagamento dos precatórios. A regra estabelecida por esse dispositivo
+assegura o direito dos credores, que receberão o seu crédito em ordem cronológica, sem
+a possibilidade de privilegiar um determinado credor, compatibilizando-a, no entanto,
+com outras normas e princípios constitucionais em especial os que disciplinam o
+orçamento das entidades de direito público.
+
+Em razão dos princípios acolhidos nos artigos 165 e seguintes da
+Constituição, o pagamento dos precatórios somente deve ser efetuado no exercício
+seguinte ao da requisição, a fim de que o seu montante seja incluído na previsão
+orçamentária do exercício em que deva ser efetuado o pagamento.
+
+Foram editadas normas que estabeleceram prazo de dois meses para o
+pagamento de obrigações de pequeno valor. Posteriormente, referidas regras foram
+incorporadas na Resolução CNJ 303/2019. São esses os dispositivos, nos quais
+destacamos os trechos impugnados:
+
+Lei 10.259 de 2001:
+Art. 17. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da
+decisão, o pagamento será efetuado no prazo de sessenta dias, contados da entrega da
+
+
+[[pagina 57 | ocr]]
+DO
+
+requisição, por ordem do Juiz, à autoridade citada para a causa, na agência mais próxima
+da Caixa Econômica Federal ou do Banco do Brasil, independentemente de precatório.
+
+Lei nº 12.153 de 2009:
+
+Art. 13. Tratando-se de obrigação de pagar quantia certa, após o trânsito em julgado da
+decisão, o pagamento será efetuado:
+
+I — no prazo máximo de 60 (sessenta) dias, contado da entrega da requisição do juiz à
+autoridade citada para a causa, independentemente de precatório, na hipótese do 8 30 do
+art. 100 da Constituição Federal; ou
+
+I — mediante precatório, caso o montante da condenação exceda o valor definido como
+
+obrigação de pequeno valor.
+
+Código de Processo Civil (Lei nº 13.105 de 2015:
+
+Art. 535. A Fazenda Pública será intimada na pessoa de seu representante judicial, por
+carga, remessa ou meio eletrônico, para, querendo, no prazo de 30 (trinta) dias e nos
+próprios autos, impugnar a execução, podendo arguir:
+
+(..)
+
+$ 3º Não impugnada a execução ou rejeitadas as arguições da executada:
+
+
+H - por ordem do juiz, dirigida à autoridade na pessoa de quem o ente público foi citado
+para o processo, o pagamento de obrigação de pequeno valor será realizado no prazo
+de 2 (dois) meses contado da entrega da requisição, mediante depósito na agência de
+banco oficial mais próxima da residência do exequente.
+
+Resolução CNJ 303/2019:
+
+Art. 49. À requisição será encaminhada pelo juízo da execução à entidade devedora citada
+para a causa, que terá o prazo de 2 (dois) meses para providenciar a disponibilização
+dos recursos necessários ao pagamento.
+
+Embora a Constituição não tenha sido explícita com relação ao prazo para
+o pagamento das obrigações de pequeno valor, é certo que o mesmo deve ser compatível
+com as normas e princípios constitucionais que regem o orçamento público, sendo de
+competência de cada ente federativo — e não da União, ou do Conselho Nacional de
+Justiça — a fixação dos termos e condições para o atendimento a tais requisições, em
+especial, o estabelecimento de valores ou do prazo para o atendimento.
+
+Ao contrário do que possa parecer, as despesas com o pagamento de
+obrigações de pequeno valor são vultosas, comprometendo parcela significativa do
+orçamento, em especial ao se considerar a parcela disponível.
+
+
+[[pagina 58 | ocr]]
+DO
+
+Tomando o caso de Estado de São Paulo, a Lei nº 11.377/2003 estabeleceu
+o valor das obrigações de pequeno valor em 1.135,2885 Unidades Fiscais do Estado de
+São Paulo (UFESP), então equivalente a R$ 13.044,46, e que no exercício de 2019
+correspondia já a R$ 30.199,20.
+
+No ano de 2003, o Estado de São Paulo despendeu R$ 2.441.277,03 no
+pagamento de obrigações de pequeno valor. Em 2019, foram despendidos R$
+
+1.310.267.488,85 até o mês de setembro.
+
+O quadro abaixo exemplifica a evolução anual dessa despesa:
+
+Exercício Valor (R$) Processos Credores
+2003 2.441.277,03 não disponível não disponível
+2004 8.009.214,10 não disponível não disponível
+2005 33.504.362,33 não disponível não disponível
+2006 134.247.766,10 3.117 23.521
+2007 218.044.236,82 3.159 32.294
+2008 283.674.747,10 4.708 36.353
+2009 486.456.091,29 6.542 63.574
+2010 652.456.584,64 8.499 73.307
+2011 546.095.620,27 9.025 63.585
+2012 331.409.847,30 8.867 42.293
+2013 314.123.576,23 11.670 46.787
+2014 356.175.531,95 14.638 61.994
+2015 295.739.892,76 11.447 39.749
+2016 614.490.359,70 21.246 84.884
+2017 735.821.842,01 35.363 115.049
+2018 556.092.337,20 29.294 87.790
+2019* 1.310.267.488,85** 74.011 160.739
+
+* Até o mês de setembro
+** Inclui R$ 311.816.146,47 de restos a pagar de 2018 53.135 credores em 18.622
+
+processos)
+
+O quadro revela o crescimento vertiginoso do número de ações ajuizadas
+e da decorrente despesa com o atendimento das requisições judiciais de pequeno valor.
+Pelo que, na tentativa de conter o valor global da despesa, foi editada no âmbito do
+Estado de São Paulo a Lei nº 17.205/2019, reduzindo o valor das obrigações de pequeno
+
+
+[[pagina 59 | ocr]]
+DO
+
+valor para 440,214851 Unidades Fiscais do Estado de São Paulo (UFESP),
+correspondente hoje a R$ 12,154,33.
+
+Em razão da sistemática estabelecida nos dispositivos impugnados, tal
+despesa deve ser paga em curtíssimo espaço de tempo, independentemente de previsão
+orçamentária e, eventualmente, até mesmo da existência de disponibilidade financeira.
+
+O administrador público está sujeito às normas constitucionais que
+disciplinam o orçamento público, previstas nos artigos 165 a 169, que regulamentam
+pormenorizadamente a matéria, restringindo fortemente a liberdade — ou
+discricionariedade — do administrador público na realização de despesas.
+
+Os dispositivos legais atacados, por (i) fixarem exíguo prazo para o
+pagamento das obrigações de pequeno valor, (ii) dentro do mesmo exercício financeiro
+e (iii) independentemente da existência de recursos orçamentários, colocam o
+administrador público diante do paradoxo de se ver obrigado a descumprir uma ou outra
+norma.
+
+Trata-se, é verdade, de falso paradoxo, em razão da inquestionável
+prevalência dos dispositivos constitucionais, que estabelecem vedações ao
+administrador público, ante as normas infraconstitucionais que determinam que o
+obrigam a realizar a despesa sob qualquer condição.
+
+Cabe lembrar que a Constituição considera crime de responsabilidade,
+dentre outros, os atos que atentem contra a lei orçamentária (CF, art. 85, VD, a
+demonstrar a gravidade atribuída pelo legislador constituinte ao assunto.
+
+São aplicáveis, aqui, as lições proferidas por esse Colendo Supremo
+Tribunal Federal, por ocasião do julgamento do pedido de Intervenção Federal nº 2.915
+— SP, que tinha por objeto o não adimplemento do estoque de precatórios judiciais ao
+final do exercício financeiro.
+
+INTERVENÇÃO FEDERAL. 2. Precatórios judiciais. 3. Não configuração de atuação
+dolosa e deliberada do Estado de São Paulo com finalidade de não pagamento. 4. Estado
+sujeito a quadro de múltiplas obrigações de idêntica hierarquia. Necessidade de garantir
+eficácia a outras normas constitucionais, como, por exemplo, a continuidade de prestação
+de serviços públicos. 5. A intervenção, como medida extrema, deve atender à máxima da
+
+
+[[pagina 60 | ocr]]
+DO
+
+proporcionalidade. 6. Adoção da chamada relação de precedência condicionada entre
+princípios constitucionais concorrentes. 7. Pedido de intervenção indeferido.
+
+Eis excerto do voto proferido pelo Ministro ILMAR GALVÃO, indeferindo
+o pedido:
+
+“Aliás, o pronto depósito da quantia alusiva ao precatório em causa, requisitado pelo
+Tribunal de Justiça ao Governador, era medida que se revelava duplamente
+inconstitucional, visto que, além de contrariar o rito previsto no artigo 100, ia de encontro
+ao artigo 167, II, que veda “a realização de despesas... que excedam os créditos
+orçamentários ou adicionais”, hipótese configurada no caso, já que o pretendido
+depósito, ao que tudo indica, não foi precedido de inclusão, no orçamento, de dotação
+correspondente.
+
+(..)
+
+Desenganadamente, portanto, está-se diante de ordem constitucionalmente irrita e, mais do
+que isso, de cumprimento juridicamente impossível, cuja infringência,
+consequentemente, não é mais suscetível de embasar a intervenção prevista no artigo 34,
+VI, da Constituição.”
+
+Embora essa decisão tenha sido proferida em contexto diferente, a sua
+ratio decidendi é perfeitamente aplicável ao caso sub judice, não podendo o legislador
+ordinário impor ao administrador público o dever jurídico de descumprir a Constituição.
+
+As normas que impõem o pagamento de obrigações de pequeno valor no
+prazo de 60 dias, ou de dois meses — independentemente da existência de previsão
+orçamentária — são incompatíveis com os princípios que regem o orçamento público,
+estabelecidos nos artigos 165 a 169 da Constituição, em especial, em razão da vedação,
+imposta ao administrador público, de realizar despesa sem a necessária previsão
+orçamentária.
+
+Por violarem os dispositivos constitucionais acima, deve ser declarada a
+inconstitucionalidade das normas insculpidas (1) no artigo 17, caput, da Lei nº 10.259
+de 2001; (11) no inciso I do artigo 13 da Lei nº 12.153 de 2009; (iii) no inciso II do $ 3º
+do artigo 535 do Código de Processo Civil (Lei nº 13.105 de 2015); e (iv) no artigo 49
+da Resolução CNJ 303/2019, no que diz respeito ao prazo estabelecido para o
+cumprimento das obrigações de pequeno valor.
+
+Por outro lado, não há que se cogitar do sequestro na hipótese de mora no
+pagamento, conforme exposto nesta ação.
+
+
+[[pagina 61 | ocr]]
+DO
+
+12.VIOLAÇÃO DE ATO JURÍDICO PERFEITO
+
+A Constituição estabelece a proteção ao direito adquirido, ao ato jurídico
+perfeito e à coisa julgada no inciso XXXVI do artigo 5º. A Lei de Introdução às Normas
+do Direito Brasileiro (Decreto-lei nº 4.657/1942) conceitua o ato jurídico perfeito como
+“o já consumado segundo a lei vigente ao tempo em que se efetuou”.
+
+Trata-se, portanto, de relação jurídica que não pode ser alterada não apenas
+por ter sido estabelecida em conformidade com o direito, mas por se tratar de direito
+consumado, por já ter sido exercido.
+
+No entanto, a Resolução CNJ 303/2019, em seu artigo 48, permite que o
+exequente, cujo precatório já foi expedido, desista do mesmo, renuncie a parte de seu
+crédito, e escolha prosseguir na execução mediante requisição direta de pequeno valor.
+
+Art. 48. Faculta-se ao beneficiário a renúncia ao valor excedente dos limites apontados no
+art. 47.
+
+Parágrafo único. O pedido será encaminhado ao juízo da execução, mesmo que expedido
+o ofício precatório.
+
+Tal dispositivo não leva em conta que o credor, ao requerer a expedição
+de precatório, já efetuou a sua opção, dentre as que se encontram à sua disposição, tendo
+se consumado a relação jurídica entre o credor e o devedor.
+
+A possibilidade aberta pela resolução, de que o credor possa exercer nova
+opção, após já a ter exercido, viola o ato jurídico perfeito e atenta contra o princípio da
+segurança jurídica.
+
+Em razão do exposto, deve ser declarada a inconstitucionalidade do artigo
+48, parágrafo único, da Resolução CNJ nº 303/2019.
+
+13. NECESSIDADE DE INTERPRETAÇÃO CONFORME AOS DISPOSITIVOS
+
+
+[[pagina 62 | ocr]]
+
+DO
+
+
+Esse Supremo Tribunal estabeleceu, na já citada Súmula Vinculante nº 17,
+
+que durante o período requisitorial não incidem juros.
+
+A Resolução CNJ 303/2019, em seu artigo 24, parágrafo único, dispõe:
+
+Art. 24 Não incidirão juros de mora no período compreendido entre o dia 1º de julho e o
+último dia do exercício seguinte, e entre a data da apresentação da requisição de pagamento
+da obrigação de pequeno valor e o fim do prazo para seu pagamento.
+
+Parágrafo único. Vencido o prazo para pagamento da requisição, são devidos juros de mora.
+
+O dispositivo, como redigido, pode induzir à equivocada conclusão de
+
+que, (i) se o precatório não vier a ser pago, os juros incidiriam durante o período
+requisitorial e (ii) sempre seriam devidos juros moratórios no período posterior, ainda
+que o título executivo não preveja a incidência de juros.
+
+O artigo 15 contém norma que pode induzir à mesma equivocada
+
+interpretação:
+
+Art. 15. Para efeito do disposto no $5º do art. 100 da Constituição Federal, considera-se
+momento de requisição do precatório, para aqueles apresentados ao Tribunal entre 2 de
+Julho do ano anterior e 1º de julho do ano de elaboração da proposta orçamentária, a data
+de 1º de julho.
+
+
+$ lo O tribunal deverá comunicar, até 20 de julho:
+
+I — por ofício, ou meio eletrônico equivalente, à entidade devedora os precatórios
+apresentados até 1º de julho, com seu valor atualizado, acrescido de juros até esta data,
+visando a inclusão na proposta orçamentária do exercício subsequente;
+
+Também o artigo 49 contém tal ambiguidade:
+
+Art. 49. A requisição será encaminhada pelo juízo da execução à entidade devedora citada
+para a causa, que terá o prazo de 2 (dois) meses para providenciar a disponibilização dos
+recursos necessários ao pagamento.
+
+83º O sequestro alcançará o valor atualizado do crédito requisitado, sobre o qual incidirão
+também juros de mora.
+
+Igualmente, o artigo 25 da Resolução, ao tratar dos juros compensatórios
+
+em ações de desapropriação, estabelece:
+
+
+[[pagina 63 | ocr]]
+
+DO
+
+
+Art. 25. Os juros compensatórios em ação de desapropriação não incidem após a expedição
+do precatório.
+
+$ lo Os juros compensatórios incidirão até a data da promulgação da Emenda
+Constitucional no 62, de 9 de dezembro de 2009, caso o precatório tenha sido antes desse
+momento expedido e sua incidência decorra de decisão transitada em julgado.
+
+$ 20 Em ações expropriatórias, a incidência de juros moratórios sobre os compensatórios
+não constitui anatocismo vedado em lei.
+
+Referidos artigos desatendem o quanto decido por essa Suprema
+
+Corte, por ocasião do julgamento da ADI 2356, bem como o RE 590751, em
+repercussão geral, no sentido de que não há juros no parcelamento do artigo 78,
+consoante ementas a seguir transcritas:
+
+STF. ADI 2356 MC/DF EMENTA: MEDIDA CAUTELAR EM AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. ART. 2º DA EMENDA CONSTITUCIONAL Nº 30, DE
+13 DE SETEMBRO DE 2000, QUE ACRESCENTOU O ART. 78 AO ATO DAS
+DISPOSIÇÕES CONSTITUCIONAIS TRANSITÓRIAS. PARCELAMENTO DA
+LIQUIDAÇÃO DE PRECATÓRIOS PELA FAZENDA PÚBLICA. 1. O precatório de que
+trata o artigo 100 da Constituição consiste em prerrogativa processual do Poder Público.
+Possibilidade de pagar os seus débitos não à vista, mas num prazo que se estende até dezoito
+meses. Prerrogativa compensada, no entanto, pelo rigor dispensado aos responsáveis pelo
+cumprimento das ordens judiciais, cujo desrespeito constitui, primeiro, pressuposto de
+intervenção federal (inciso VI do art. 34 e inciso V do art. 35, da CF) e, segundo, crime de
+responsabilidade (inciso VII do art. 85 da CF). 2. O sistema de precatórios é garantia
+constitucional do cumprimento de decisão judicial contra a Fazenda Pública, que se define
+em regras de natureza processual conducentes à efetividade da sentença condenatória
+trânsita em julgado por quantia certa contra entidades de direito público. Além de
+homenagear o direito de propriedade (inciso XXII do art. 5º da CF), prestigia o acesso à
+Jurisdição e a coisa julgada (incisos XXXV e XXXVI do art. 5º da CF). 3. A eficácia das
+regras jurídicas produzidas pelo poder constituinte (redundantemente chamado de
+“originário”) não está sujeita a nenhuma limitação normativa, seja de ordem material, seja
+formal, porque provém do exercício de um poder de fato ou suprapositivo. Já as normas
+produzidas pelo poder reformador, essas têm sua validez e eficácia condicionadas à
+legitimação que recebam da ordem constitucional. Daí a necessária obediência das emendas
+constitucionais às chamadas cláusulas pétreas. 4. O art. 78 do Ato das Disposições
+Constitucionais Transitórias, acrescentado pelo art. 2º da Emenda Constitucional nº
+30/2000, ao admitir a liquidação “em prestações anuais, iguais e sucessivas, no prazo
+máximo de dez anos” dos “precatórios pendentes na data de promulgação” da emenda,
+violou o direito adquirido do beneficiário do precatório, o ato jurídico perfeito e a coisa
+Julgada. Atentou ainda contra a independência do Poder Judiciário, cuja autoridade é
+insuscetível de ser negada, máxime no concemente ao exercício do poder de julgar os
+litígios que lhe são submetidos e fazer cumpridas as suas decisões, inclusive contra a
+Fazenda Pública, na forma prevista na Constituição e na lei. Pelo que a alteração
+
+
+[[pagina 64 | ocr]]
+DO
+
+constitucional pretendida encontra óbice nos incisos II e IV do 8 4º do art. 60 da
+Constituição, pois afronta “a separação dos Poderes” e “os direitos e garantias individuais”.
+5. Quanto aos precatórios “que decorram de ações iniciais ajuizadas até 31 de dezembro de
+1999”, sua liquidação parcelada não se compatibiliza com o caput do art. 5º da Constituição
+Federal. Não respeita o princípio da igualdade a admissão de que um certo número de
+precatórios, oriundos de ações ajuizadas até 31.12.1999, fique sujeito ao regime especial
+do art. 78 do ADCT, com o pagamento a ser efetuado em prestações anuais, iguais e
+sucessivas, no prazo máximo de dez anos, enquanto os demais créditos sejam beneficiados
+com o tratamento mais favorável do 8 1º do art. 100 da Constituição. 6. Medida cautelar
+deferida para suspender a eficácia do art. 2º da Emenda Constitucional nº 30/2000, que
+introduziu o art. 78 no ADCT da Constituição de 1988. Rel. Min. Néri da Silveira. DJe
+19/05/2011.”
+
+CONSTITUCIONAL. PRECATÓRIO. ART. 78 DO ADCT, INTRODUZIDO PELA EC
+30/2000. INCIDÊNCIA DE JUROS COMPENSATÓRIOS E MORATÓRIOS NAS
+PARCELAS SUCESSIVAS. INADMISSIBILIDADE. ART 5º, XXIV E XXXVI, DA
+CONSTITUIÇÃO. OFENSA AO PRINCÍPIO DA JUSTA INDENIZAÇÃO.
+NECESSIDADE DE REEXAME DE PROVA. OFENSA REFLEXA. INCIDÊNCIA DA
+SÚMULA 279 DO STF. RE PARCIALMENTE PROVIDO. I - O art. 78 do ADC possui
+a mesma mens legis que o art. 33 deste Ato, razão pela qual, uma vez calculado o precatório
+pelo valor real do débito, acrescido de juros legais, não há mais falar em incidência destes
+nas parcelas anuais, iguais e sucessivas em que é fracionado, desde que adimplidas a tempo
+e corrigidas monetariamente. II — Não se mostra possível, em sede de recurso
+extraordinário, examinar a alegação de ofensa ao princípio da justa indenização, abrigado
+no art. 5º, XXIV, da Constituição Federal, diante do que dispõe a Súmula 279 do STF. HI
+- À discussão acerca dos limites objetivos da coisa julgada, ademais, constitui matéria de
+legislação ordinária, que não dá ensejo à abertura da via extraordinária. IV - Recurso
+extraordinário parcialmente provido.
+
+(RE 590751, Relator(a): RICARDO LEWANDOWSKI, Tribunal Pleno, julgado em
+09/12/2010, REPERCUSSÃO GERAL - MÉRITO DJe-063 DIVULG 01-04-2011
+PUBLIC 04-04-2011 EMENT VOL-02495-01 PP-00153)
+
+Assim, para os precatórios inseridos nas referidas disposições - artigo 78
+do ADCT- ainda com saldo em aberto e que ingressaram no regime especial, nos termos
+das referidas decisões, não há juros no curso do referido parcelamento.
+
+Ademais, o dispositivo em questão afronta também, em seu $ 2º, os termos
+da Súmula 121, que estabelece: “É vedada a capitalização de juros, ainda que
+expressamente convencionada.”
+
+
+[[pagina 65 | ocr]]
+DO
+
+Na mesma linha de raciocínio, o artigo 21 da Resolução tratou dos índices
+de correção monetária, em que pese o quanto decidido nas ADIs 2924 e 1098, que
+limitaram a atuação nessa questão, definindo se tratar de matéria jurisdicional, e
+não administrativa. Ainda assim, e não apenas contrariando o decidido nas referidas
+ADIs, mas com violação mesmo ao que transitado em julgado nas execuções de origem
+dos requisitórios, se pôs a Resolução a ditar quais índices deverão ser utilizados nos
+pagamentos, promovendo substituição sem respaldo legal:
+
+Art. 21. Os valores requisitados serão atualizados monetariamente até a data do efetivo
+pagamento, devendo ser utilizados os seguintes indexadores para atualização do valor
+requisitado em precatório não tributário:
+I- ORTN -— de 1964 a fevereiro de 1986;
+IH — OTN — de março de 1986 a janeiro de 1989;
+II — IPC / IBGE de 42,72% - em janeiro de 1989;
+IV — IPC / IBGE de 10,14% - em fevereiro de 1989;
+V — BTN — de março de 1989 a março de 1990;
+VI — IPC/IBGE - de março de 1990 a fevereiro de 1991;
+VII — INPC —- de março de 1991 a novembro de 1991;
+VIII — IPCA-F/IBGE — em dezembro de 1991;
+IX — UFIR —- de janeiro de 1992 a dezembro de 2000;
+X — IPCA-E / IBGE — de janeiro de 2001 a 9 de dezembro de 2009;
+XI — Taxa Referencial (TR) — 10 de dezembro de 2009 a 25 de março de 2015;
+e XII— IPCA-E/ IBGE — de 26.03.2015 em diante.
+
+$ lo Aplicar-se-á, para os precatórios expedidos no âmbito da administração pública
+federal, o IPCA-E como índice de atualização monetária, no período de vigência dos arts.
+27 das Leis no 12.919/2013 e 13.080/2015.
+$ 20 Na atualização dos precatórios estaduais e municipais emitidos pela Justiça do
+Trabalho devem ser observadas as disposições do artigo 39, caput, da Lei no 8.177, de lo
+º de março de 1991, no período de março a junho de 2009, IPCA-E de julho a 09 de
+dezembro de 2009 e Taxa Referencial (TR) de 10 de dezembro de 2009 a 25 de março de
+2015, sendo atualizados pelo IPCA-E a partir desta data.
+
+Diga-se, ademais, que o referido artigo 21, no inciso IX, estabelece a TR
+como índice de correção monetária no período de 10 de dezembro de 2009 a 25 de março
+de 2015, indistintamente, e, sob pena de litigiosidade e insegurança jurídica, há de lhe
+ser atribuída interpretação conforme, pois embora tenham as decisões das ADIs 4357 e
+4425 mantido a TR para referido período, o fizeram para os precatórios por ela
+abrangidos, eis que sobrevieram as decisões da ADI 5348 e do Tema RG 810, alterando
+esse quadro para os demais requisitórios:
+
+
+[[pagina 66 | ocr]]
+DO
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ART. 1º-F DA LEIN.
+9.494/1997, ALTERADO PELA LEIN. 11.960/2009. ÍNDICE DE REMUNERAÇÃO DA
+CADERNETA DE POUPANÇA COMO CRITÉRIO DE CORREÇÃO MONETÁRIA
+EM CONDENAÇÕES DA FAZENDA PÚBLICA. INCONSTITUCIONALIDADE. 1.
+Este Supremo Tribunal declarou inconstitucional o índice de remuneração da caderneta de
+poupança como critério de correção monetária em condenações judiciais da Fazenda
+Pública ao decidir o Recurso Extraordinário n. 870.947, com repercussão geral (Tema 810).
+2. Assentou-se que a norma do art. 1º-F da Lei n. 9.494/1997, pela qual se estabelece a
+aplicação dos índices oficiais de remuneração da caderneta de poupança para atualização
+monetária nas condenações da Fazenda Pública, configura restrição desproporcional ao
+direito fundamental de propriedade. 3. Ação direta de inconstitucionalidade julgada
+procedente. Órgão julgador: Tribunal Pleno. Relator(a): Min. CÁRMEN LÚCIA
+Julgamento: 11/11/2019, Publicação: 28/11/2019
+
+Assim, deve ser declarada a inconstitucionalidade, sem redução de texto,
+do artigo 15, 81º, inciso I; do artigo 24, parágrafo único; e do artigo 49, 8 3º, todos da
+Resolução CNJ 303/2019, a fim de que seja respeitada a Súmula Vinculante nº 17. E,
+ainda, deve ser declara a inconstitucionalidade do artigo 25, 88 1º e 2º, da referida
+Resolução, afastando-se a fluência de juros dos precatórios colhidos pelo artigo 78 do
+ADCT durante o parcelamento, e para todos os demais, a capitalização de juros (fluência
+de juros moratórios sobre compensatórios), bem como do artigo 21, da Resolução CNJ
+303/2019, por dispor sobre matéria jurisdicional e, ainda, em manifesta afronta às
+decisões proferidas nas ADIs 4425, 4357 e 5348, e no Tema 810, do ementário da
+repercussão geral.
+
+14.DA MEDIDA CAUTELAR
+
+O relato antecedente parece evidenciar claramente a verossimilhança das
+inconstitucionalidades apontadas e, em especial, a urgência da obtenção de tutela
+cautelar.
+
+É premente que o Supremo Tribunal Federal aprecie o presente pedido de
+medida cautelar para que, initio littis, reconheça a inconstitucionalidade dos dispositivos
+apontados na ADI ora proposta.
+
+Urge a obtenção de tutela cautelar, em relação à expedição de
+requisição judicial para pagamento de parcela superpreferencial, em especial, pela
+
+
+[[pagina 67 | ocr]]
+DO
+
+previsão de aplicação desse novo regramento a partir do dia 1º de janeiro de 2021
+para os entes devedores submetidos ao regime especial — como é o caso do Estado
+de São Paulo -, nos termos do art. 86 da Resolução CNJ nº 303/2019.
+
+Nesse ponto, não se pode permitir que vigore no ordenamento jurídico, em
+flagrante inconstitucionalidade, a expedição de requisição judicial para pagamento de
+superpreferência, pelo juízo da execução, antes mesmo da expedição do próprio
+precatório, com prazo diferenciado para pagamento e dúvidas acerca da origem dos
+recursos, conforme disposições dos arts. 9º, 56 e 74 da norma ora impugnada. Tudo isso
+em desacordo com o regime de precatórios, a vedação ao fracionamento, a necessária
+inclusão dos precatórios em orçamento, a observância do prazo inicial para pagamento,
+a ordem cronológica, a igualdade entre os credores e a utilização dos recursos da conta
+da cronológica (para os entes públicos do regime especial).
+
+Ainda, reforça o caráter de urgência à concessão da medida cautelar
+a determinação de sequestro, prevista no artigo 10 da referida Resolução, para o
+caso de inadimplemento das requisições judiciais de parcela superpreferencial,
+com total desrespeito ao contraditório e à ampla defesa, ultrapassando-se, além
+disso, as hipóteses constitucionalmente elencadas para essa medida.
+
+Outrossim, conforme exposto, o Estado de São Paulo, assim como todas
+as outras pessoas jurídicas de direito público, está obrigado, pelos dispositivos legais
+impugnados, a efetuar o pagamento de obrigações de pequeno valor no prazo de 60 dias,
+se a requisição decorrer de ação que tramitou nos Juizados Especiais, ou de 2 meses, se
+decorrente de ação regida pelo Código de Processo Civil.
+
+Essas obrigações devem ser cumpridas, independentemente da existência
+de recursos orçamentários, caso contrário será determinado o sequestro de verbas
+públicas, em prejuízo ao interesse público e à ordem administrativa, medida que
+compromete, ainda mais, as já combalidas finanças públicas, atingidas pela crise
+econômica dos últimos anos.
+
+Faz-se urgente, portanto, evitar a possibilidade do sequestro de
+rendas públicas, sob pena de comprometimento ainda maior das finanças públicas,
+em prejuízo das políticas públicas aprovadas pelo legislador na lei orçamentária,
+com o propósito de garantir a efetiva entrega de bens e serviços à sociedade, como
+preconizado no $ 10 ao artigo 165 da Constituição.
+
+
+[[pagina 68 | ocr]]
+DO
+
+A inconstitucionalidade do sequestro, na hipótese, foi demonstrada nos
+itens anteriores, carecendo de previsão constitucional. No caso das entidades sob o
+regime especial de pagamento de precatórios, i.e, praticamente todos os Estados e
+Municípios do país, a Constituição veda expressamente a possibilidade do sequestro,
+senão em razão da falta de repasse do percentual da receita corrente líquida para o
+Tribunal de Justiça.
+
+Ademais, norma contida no art. 59, 8 4º, III, do ato normativo impugnado
+diz respeito à revisão anual do percentual da receita corrente líquida com a exigência
+indevida de divisão do resultado do saldo devedor pelo número de meses faltantes para
+o prazo fixado no art. 101 do ADCT.
+
+Da mesma forma, o art. 64 da Resolução dispõe quanto ao plano de
+pagamento a ser apresentado anualmente perante o Tribunal de Justiça, estabelecendo,
+inclusive, que os Tribunais de Justiça indicarão até 20 de agosto de cada ano o percentual
+da receita corrente líquida que deverá ser observado a partir de 1º de janeiro do ano
+subsequente.
+
+Em relação ao plano anual prevê ainda, no art. 65, $ 2º, que, caso frustrado
+o ingresso dos recursos provenientes de fontes adicionais, poderão ser aplicadas, por
+analogia e desde já, as sanções previstas no art. 104 do ADCT.
+
+Há, portanto, periculum in mora a justificar a concessão da medida
+cautelar, diante da possibilidade de aplicação de medidas extremamente restritivas
+ao ente público ora requerente, caso implementada pelos Tribunais Estaduais a
+gestão do pagamento dos precatórios na forma definida pelo Conselho Nacional de
+Justiça, em flagrante ofensa à Constituição Federal.
+
+Não se pode olvidar que uma eventual ordem de sequestro afetaria
+sobremaneira as contas públicas, conforme alhures asseverado, especialmente neste
+momento de pandemia da Covid-19, cujos efeitos deletérios às finanças públicas são
+fato público notório”, estando noticiados todos os dias pela grande mídia.
+
+? Art. 374, CPC — Não dependem de prova os fatos: I- notórios.
+
+
+[[pagina 69 | ocr]]
+DO
+
+Inegável que de tal quadro advenha uma paralisação quase que total,
+embora temporária, na economia local, impactando, de forma relevante, a arrecadação
+de recursos pelos entes devedores.
+
+Ademais, houve a necessidade imediata de um incremento dos recursos
+destinados à saúde no âmbito de Estados, Distrito Federal e Municípios, inclusive com
+eventual remanejamento de valores destinados a outras áreas menos prioritárias diante
+da grave crise de saúde pública a ser enfrentada.
+
+Portanto, eventual determinação pelo Tribunal de Justiça de aumento na
+destinação de percentual da receita corrente líquida pelos entes devedores, olvidando o
+que prescrevem os artigos 97 e 101 do ADCT, ou mesmo eventual sequestro de valores
+nas contas públicas, além de representar indevida interpretação de incremento de aporte
+financeiro ao pagamento de parcela superpreferencial de precatórios, com base na
+inovação na ordem jurídica promovida pelo Conselho Nacional de Justiça, pode
+impossibilitar o Estado de São Paulo de arcar com os compromissos financeiros sob sua
+responsabilidade. Acresça-se que haverá grave risco diante da irreversibilidade de
+eventual bloqueio em face da utilização dos valores para pagamento dos
+
+precatórios.
+
+As inovações legislativas trazidas na Resolução CNJ nº 303/2019, ao
+criarem e modificarem obrigações, extinguindo e/ou restringindo direitos, acabam por
+produzir efeitos em relação a quem não se encontra subordinado administrativamente
+ao Conselho Nacional de Justiça.
+
+Além da violação direta a regras e princípios constitucionais, em especial
+quanto ao regime de precatórios e orçamento público, resta evidente a nítida atuação
+normativa primária, que se afasta das atribuições e competências constitucionalmente
+conferidas ao Conselho Nacional de Justiça. Daí a inconstitucionalidade das normas, a
+conferir plausibilidade às alegações e a autorizar o deferimento da medida cautelar.
+
+Portanto, não é demais ressaltar que a concessão antecipada da tutela
+prestar-se-ia, inclusive, para preservar a ordem jurídica e a harmonia e independência
+entre os Poderes Judiciário, Legislativo e Executivo, assegurando o pleno exercício das
+funções e prerrogativas que lhe competem constitucionalmente.
+
+
+[[pagina 70 | ocr]]
+DO
+
+15. PEDIDOS
+Posto isso, requer:
+
+a) liminarmente e inaudita altera pars, seja concedida MEDIDA
+CAUTELAR, com efeito ex tunc ou, caso assim não se entenda, sucessivamente, com
+efeito ex nunc, para suspender a eficácia, até final julgamento da presente ação direta,
+do disposto no:
+
+a.1) Resolução CNJ nº 303/2019: artigo 2º, III; artigo 3º, IV; artigo 6º,
+IX; artigo 7º, 8 2º, 1 e II; artigo 9º, caput, 88 1º, 3º, 4º,5º,6º9,7º e 8º; artigo
+10; artigo 12,8 2º,1,$3º e 84º, II; artigo 15, $ 1º, I; artigo 16, 8 2º; artigo
+20, 88 5º e 7º; artigo 21; artigo 24, parágrafo único; artigo 25, 88 1º e 2º;
+artigo 31, $ 1º; artigo 42, 8 2º: artigo 43, caput, parágrafo único; artigo 48,
+parágrafo único; artigo 49; artigo 53, 8 3º; artigo 55, 8 3º; artigo 56; artigo
+59, caput, 83 2º,3º e 4º, III; artigo 64; artigo 65, $ 2º; artigo 72; artigo 73,
+parágrafo único; artigo 74, caput, 8 1º; artigo 75, caput, parágrafo único;
+artigo 82; artigo 85, V; e artigo 86, caput, parágrafo único.
+
+a.2) Código de Processo Civil (Lei nº 13.105 de 2015): artigo 535, 8 3º,
+H.
+
+a.3) Lei nº 12.153 de 2009: artigo 13, [e $ 1º.
+
+a.4) Lei nº 10.259 de 2001: artigo 17, caput e 8 2º.
+
+b) se assim não entender quanto aos artigos 9º, 8 4º; e 56, caput, ambos da
+Resolução nº 303, de 18 de dezembro de 2019, do Conselho Nacional de Justiça,
+requer sejam interpretados em conformidade com a Constituição Federal, para afastar
+qualquer aplicação ou interpretação que imponha incremento dos valores já estipulados
+constitucionalmente como de obrigatoriedade dos entes públicos para pagamento da
+parcela superpreferencial;
+
+c) a notificação do Egrégio Conselho Nacional de Justiça para prestar
+informações, nos termos do art. 6º da Lei nº 9.868/1999;
+
+d) a notificação do Exmo. Sr. Advogado-Geral da União para se manifestar
+sobre o mérito da presente ação, no prazo de 15 (quinze) dias, nos termos do art. 103, $
+3º, da Constituição da República e do art. 8º da Lei nº 9.868/1999;
+
+
+[[pagina 71 | nativo]]
+MARIA LIA PINTO Assinado de forma digital por
+PORTO MARIACORONA:17146528820LIA PINTO PORTO
+CORONA:17146528820 Dados: 2020.09.14 13:25:42 -03'00'
+

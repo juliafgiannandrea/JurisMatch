@@ -1,0 +1,2283 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL
+
+ASSOCIAÇÃO BRASILEIRA DE IMPRESSA (ABI), inscrita no CNPJ/MF sob
+
+o nº 34.058.917/0001-69, com sede na Rua Araújo Porto Alegre nº 71, Centro, Rio
+
+de Janeiro – RJ, neste ato representado por seu Presidente, Paulo Jeronimo de Sousa
+
+(doc. 1), vem, respeitosamente, por meio de seus procuradores que esta subscrevem
+
+(doc. 2), com endereço profissional a Rua Funchal, nº 263, Conjunto 84 - Ed.
+
+Francisco Mellão CEP 04.551-060, Vila Olímpia, São Paulo, onde deverão receber
+
+qualquer comunicação do feito, e e-mail contato@souzaneto.adv.br, com base no art.
+
+103, IX, e art. 102, I, “a” da Constituição Federal e no art. 2º, IX, da Lei nº 9.868/99,
+
+propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+COM PEDIDO DE TUTELA CAUTELAR
+
+para requerer a realização de interpretação conforme a Constituição dos artigos 186
+
+e 927 ao Código Civil; do artigo 835, caput e § 1º, do Código de Processo Civil; dos
+
+artigos 79, 80 e 81 do Código de Processo Civil; do artigo 927, caput e parágrafo
+
+único, do Código Civil; do artigo 53 do Código de Processo Civil, com o propósito
+
+de promover a proteção da liberdade de expressão, da liberdade de informação
+
+jornalística, do direito à informação e de outros princípios dotados de máxima
+
+fundamentalidade, coibindo-se o emprego abusivo de ações de reparação de danos
+
+para impedir a atuação livre e desembaraçada de jornalistas e órgãos de imprensa.
+
+1
+
+[[pagina 2 | nativo]]
+
+PARTE I - LEGITIMIDADE, OBJETO E PERTINÊNCIA DA ADI
+
+I.1. LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+
+1. A Associação Brasileira de Imprensa - ABI - é entidade de classe
+
+de âmbito nacional, congregando jornalistas1 oriundos de mais de nove estados da
+
+federação (doc. 3, lista anexa).2 A legitimidade para propositura da presente ADI está
+
+devidamente amparada no disposto no artigo 103, IX, da Constituição da República.
+
+2. O objeto da ação está especificamente ligado aos interesses da
+
+categoria representada pela associação nacional. Verificada, portanto, a pertinência
+
+1 Os “membros efetivos” da ABI “são profissionais da área de Comunicação Social com registro no
+órgão competente; bacharéis em Jornalismo – com diploma de curso superior de Jornalismo ou
+declaração da faculdade, no caso dos recém-formados; que, preferencialmente, atuem em jornais,
+revistas, agências noticiosas, bem como empresa radiofônica, assessorias de imprensa e comunicação
+social e mídias eletrônicas e outras a serem criadas, mediante processo aprovado pela Comissão de
+Sindicância.” (Estatuto, art. 6º).
+2 A ABI, além de possuir associados em todos os estados da federação, possui representações nos
+estados de São Paulo, Minas Gerais, Pernambuco, Brasília, Maranhão, Ceará, Goiás, Pará, Paraná,
+Santa Catarina, Rio Grande do Sul, Paraíba, Alagoas e Bahia, além de estar sediada no Rio de Janeiro.
+Em suas eleições, inclusive, os votos podem ser dados presencialmente nessas representações. Essa
+quantidade de representações regionais foi considerada, inclusive, prova do caráter nacional da
+entidade, para efeito do conhecimento da ADI n. 5436. Confira-se, a propósito, o voto do relator,
+Min. Dias Toffoli: “Todos os associados têm em comum a vinculação com a atividade de imprensa
+e jornalística, o que afasta qualquer conclusão no sentido de que a entidade seria heterogênea. É
+justamente o fato de congregar tamanho leque de profissionais do jornalismo que confere à ABI
+elevada representatividade na defesa do setor e das liberdades de expressão e de informação.
+Também refuto a alegação de ausência de prova da atuação da ABI em pelo menos 9 (nove) estados
+da Federação, a atrair, supostamente, a ilegitimidade ativa da autora. Notícia recente, veiculada no
+site da associação, dá conta de que a entidade possui associados, na realidade, no Distrito Federal
+e em 14 (catorze) estados da Federação (Rio de Janeiro, São Paulo, Minas Gerais, Pernambuco,
+Maranhão, Ceará, Goiás, Pará, Paraná, Santa Catarina, Rio Grande do Sul, Paraíba, Alagoas e
+Bahia) (ABI aprova “Voto Eletrônico” em todo o País. Acesso em 7 de outubro de 2020). (...) Assim
+sendo, reconheço a legitimidade ativa da Associação Brasileira de Imprensa (ABI).”
+
+2
+
+[[pagina 3 | nativo]]
+
+temática. O Estatuto da ABI (doc. 4), em seu art. 1º, enuncia suas principais
+
+finalidades institucionais:
+
+“Art. 1º – A Associação Brasileira de Imprensa (ABI), fundada em 7
+de abril de 1908, com sede na cidade do Rio de Janeiro, na Rua Araújo
+Porto Alegre, 71, é uma instituição democrática, de direito privado, de
+fins não econômicos, voltada a assegurar e ampliar as conquistas
+sociais do povo brasileiro, reunindo profissionais de jornalismo, em
+suas diversas modalidades, e tendo por finalidade maior a defesa da
+ética, dos direitos humanos e da liberdade de informação e
+expressão”.
+
+3. As finalidades institucionais da entidade são realçadas também no
+
+art. 3º do Estatuto:
+
+Art. 3º – A ABI tem duração por tempo indeterminado, elege como foro
+a Capital do Estado do Rio de Janeiro e tem como seus objetivos:
+
+I – defender o jornalismo como instituição associativa e cultural;
+
+II – realçar o papel da imprensa nos momentos marcantes da História
+do País;
+
+III – mobilizar os profissionais da comunicação social na defesa de
+todos os seus direitos;
+
+IV – colaborar com as empresas jornalísticas, particularmente as
+pequenas e médias, que atuam em todo o território nacional;
+
+V – concorrer para o aperfeiçoamento cultural e profissional dos
+jornalistas, inclusive lutando pela manutenção e melhoria do ensino
+superior de Jornalismo no País;
+
+VI – prestar assistência ao associado e sua família e às pessoas em
+situação de vulnerabilidade social que recorrerem aos seus serviços;
+
+VII – comemorar as datas de 7 de abril, fundação da Associação; 1º de
+junho, Dia da Imprensa; e 10 de dezembro, Dia dos Direitos Humanos.
+
+4. Quanto à pertinência temática, registre-se ainda que a ABI, criada
+
+em 1908, desde o início de suas atividades, tem atuado na defesa dos profissionais de
+
+imprensa, da liberdade de expressão e da democracia. Na sede da ABI, na tarde de 28
+
+3
+
+[[pagina 4 | nativo]]
+
+de setembro de 1988, aconteceu a última reunião do Conselho Federal de Censura,
+
+extinto pela Constituição Cidadã. Este fato simbólico exemplifica o que registra a
+
+história nacional: a ABI se identifica umbilicalmente com a defesa da liberdade de
+
+expressão no Brasil. Ao atuar em defesa dos direitos dos profissionais de imprensa, a
+
+ABI promove também o direito à informação, titularizado por toda a sociedade
+
+brasileira, bem como a integridade do espaço público e, por consequência, da própria
+
+democracia.
+
+5. A legitimidade da ABI para propor ações diretas perante o STF foi
+
+reconhecida inúmeras vezes pela Corte. Foi o que ocorreu, por exemplo, na ADI n°
+
+6427 e na ADI n. 5418, conhecidas e julgadas, respectivamente, em 2020 e 2021.
+
+I.2. OBJETO DA ADI
+
+6. Trata-se de Ação Direta de Inconstitucionalidade ajuizada para se
+
+formularem pedidos de:
+
+1) interpretação conforme a Constituição dos artigos 186 e 927 do
+
+Código Civil, de modo a estabelecer a interpretação segundo a qual a
+
+responsabilização de jornalista ou do respectivo órgão de imprensa
+
+somente deve ocorrer quando se comprovar que o jornalista agiu com
+
+dolo ou culpa grave;
+
+2) interpretação conforme a Constituição do art. 835, caput e seu § 1º,
+
+do Código de Processo Civil, para se excluir de seu âmbito de
+
+incidência os casos em que figure como executado jornalista ou veículo
+
+de imprensa de pequeno porte;
+
+3) interpretação conforme a Constituição dos artigos 79, 80 e 81 do
+
+Código de Processo Civil, para estabelecer a interpretação segundo a
+
+4
+
+[[pagina 5 | nativo]]
+
+qual o ajuizamento de múltiplas ações com o objetivo de intimidar
+
+jornalistas e órgãos de imprensa, no âmbito de estratégia de assédio
+
+judicial, gera o dever de ressarcir danos materiais e morais aos réus,
+
+além do de arcar com multa e ônus sucumbenciais;
+
+4) interpretação conforme a Constituição do artigo 927, caput e
+
+parágrafo único, do Código Civil, para estabelecer a interpretação
+
+segundo a qual a prática do assédio judicial produz dano moral coletivo,
+
+passível de ser apurado e ressarcido por meio do ajuizamento de ação
+
+coletiva, a ser proposta pelo Ministério Público e por associações
+
+representativas da sociedade civil;
+
+5) interpretação conforme a Constituição do artigo 53 do Código de
+
+Processo Civil, de modo a se determinar que a competência para
+
+processar e julgar as ações seja a do domicílio do jornalista ou do órgão
+
+de imprensa, devendo as ações repetidas ou conexas serem reunidas
+
+junto a um único juízo, aplicando-se analogicamente o art. 2º, parágrafo
+
+único, da Lei n. 7347/1985, o art. 5º, § 3º, da Lei n. 4.714/1965 e o art.
+
+55, § 1º, do Código de Processo Civil.
+
+7. Os preceitos legais cuja interpretação conforme ora se requer
+
+possuem a seguinte redação:
+
+Código Civil (art. 186 e 927, parágrafo único).
+
+(...)
+
+Art. 186. Aquele que, por ação ou omissão voluntária, negligência
+ou imprudência, violar direito e causar dano a outrem, ainda que
+exclusivamente moral, comete ato ilícito.
+
+(...)
+
+Art. 927. Aquele que, por ato ilícito (arts. 186 e 187), causar dano a
+outrem, fica obrigado a repará-lo.
+
+5
+
+[[pagina 6 | nativo]]
+
+Parágrafo único. Haverá obrigação de reparar o dano,
+independentemente de culpa, nos casos especificados em lei, ou
+quando a atividade normalmente desenvolvida pelo autor do dano
+implicar, por sua natureza, risco para os direitos de outrem.
+
+(...)
+
+Código de Processo Civil (artigos 53, 79, 80 e 81; 835, caput e §
+
+1º).
+
+Art. 53. É competente o foro:
+
+(...)
+
+Art. 79. Responde por perdas e danos aquele que litigar de má-fé
+como autor, réu ou interveniente.
+
+Art. 80. Considera-se litigante de má-fé aquele que:
+
+I - deduzir pretensão ou defesa contra texto expresso de lei ou fato
+incontroverso;
+
+II - alterar a verdade dos fatos;
+
+III - usar do processo para conseguir objetivo ilegal;
+
+IV - opuser resistência injustificada ao andamento do processo;
+
+V - proceder de modo temerário em qualquer incidente ou ato do
+processo;
+
+VI - provocar incidente manifestamente infundado;
+
+VII - interpuser recurso com intuito manifestamente protelatório.
+
+Art. 81. De ofício ou a requerimento, o juiz condenará o litigante de
+má-fé a pagar multa, que deverá ser superior a um por cento e
+inferior a dez por cento do valor corrigido da causa, a indenizar a
+parte contrária pelos prejuízos que esta sofreu e a arcar com os
+honorários advocatícios e com todas as despesas que efetuou.
+
+6
+
+[[pagina 7 | nativo]]
+
+§ 1º Quando forem 2 (dois) ou mais os litigantes de má-fé, o juiz
+condenará cada um na proporção de seu respectivo interesse na
+causa ou solidariamente aqueles que se coligaram para lesar a parte
+contrária.
+
+§ 2º Quando o valor da causa for irrisório ou inestimável, a multa
+poderá ser fixada em até 10 (dez) vezes o valor do salário-mínimo.
+
+§ 3º O valor da indenização será fixado pelo juiz ou, caso não seja
+possível mensurá-lo, liquidado por arbitramento ou pelo
+procedimento comum, nos próprios autos.
+
+(...)
+
+Art. 835. A penhora observará, preferencialmente, a seguinte
+ordem:
+
+I - dinheiro, em espécie ou em depósito ou aplicação em instituição
+financeira;
+
+(...)
+
+§ 1º É prioritária a penhora em dinheiro, podendo o juiz, nas demais
+hipóteses, alterar a ordem prevista no caput de acordo com as
+circunstâncias do caso concreto.
+
+8. Os preceitos cuja aplicação analógica, no âmbito de interpretação
+
+conforme, ora se requer são os que s seguem:
+
+Lei nº 7.347/1985 (art. 2º, parágrafo único).
+
+(...)
+
+Art. 2º (...)
+
+Parágrafo único. A propositura da ação prevenirá a jurisdição do
+juízo para todas as ações posteriormente intentadas que possuam a
+mesma causa de pedir ou o mesmo objeto.
+
+(...)
+
+Lei nº 4.714/1965 (art. 5º, § 3º).
+
+(...)
+
+7
+
+[[pagina 8 | nativo]]
+
+Art. 5º (...)
+
+§ 3º. A propositura da ação prevenirá a jurisdição do juízo para
+todas as ações, que forem posteriormente intentadas contra as
+mesmas partes e sob os mesmos fundamentos.
+
+(...)
+
+Código de Processo Civil, art. 55, § 1º:
+
+(...)
+
+Art. 55 (...)
+
+§ 1º: Os processos de ações conexas serão reunidos para decisão
+conjunta, salvo se um deles já houver sido sentenciado.
+
+(...)
+
+9. O objetivo da presente ação é requerer ao STF que proveja proteção
+
+plena à liberdade de expressão (CF, art. 5º, IV e IX), à liberdade de informação
+
+jornalística, à vedação à censura (CF, art. 220, caput, §§ 1º e 2º), ao direito à
+
+informação (CF, art. 5º, XIV), ao princípio republicano (CF, art. 1º), ao princípio
+
+democrático (CF, art. 1º, caput e parágrafo único), ao princípio do pluralismo político
+
+(CF, art. 1º, V), ao princípio da publicidade da administração (CF, art. 37, caput), ao
+
+princípio do devido processo legal (CF, art. 5º, LIV) e ao princípio da ampla defesa
+
+(CF, art. 5º, LV).
+
+I.3. NOTA CONTEXTUAL: O DECLÍNIO DA LIBERDADE DE EXPRESSÃO NO BRASIL
+
+10. O Brasil, sob a Constituição Federal de 1988, vivenciou anos de
+
+consolidação do regime democrático. Hoje, porém, o consenso em torno do estado
+
+democrático de direito é abalado pela emergência de práticas autoritárias. Um de seus
+
+principais alvos é a liberdade de expressão. O contexto atual, no Brasil e no Mundo,
+
+8
+
+[[pagina 9 | nativo]]
+
+é de declínio da liberdade de expressão.3
+
+11. O exercício arbitrário do poder, por autoridades públicas ou por
+
+particulares, só se sustenta no longo do tempo se for capaz de silenciar a crítica
+
+pública. No Brasil contemporâneo, esse silenciamento tem sido buscado por diversos
+
+meios:
+
+(a) ameaças a jornalistas e a ativistas, sobretudo aos atuantes na
+
+defesa dos direitos humanos e do meio ambiente;
+
+(b) hostilização progressivas de profissionais de imprensa por
+
+autoridades governamentais e seus apoiadores;
+
+(c) instauração de procedimentos de responsabilização criminal, por
+
+inciativa de autoridades estatais, recorrendo-se, inclusive, à
+
+aplicação da vetusta Lei de Segurança Nacional;
+
+(d) restrições administrativas à liberdade de expressão de professores
+
+e pesquisadores de instituições públicas;
+
+(e) imposição de censura por meio de decisões judiciais, que
+
+determinam a retirada de matérias jornalísticas de sites na internet;
+
+(f) imposição, também pelo Judiciário, de indenizações
+
+desproporcionais, sobretudo em casos em que, pelos padrões
+
+internacionais, a condenação sequer se justificaria;
+
+(g) ajuizamento de múltiplas ações de reparações de danos, com o
+
+3 VIEIRA, O. V. Declínio da liberdade de expressão. Folha de São Paulo, 26.03.2021; ARTICLE
+19. The global expressional report. 2019/2020. In.: <https://artigo19.org/wp-
+content/blogs.dir/24/files/2020/10/GxR_Final_DigitalVersion_19Oct2020.pdf>. Cf., também:
+RELE. Relatoria Especial para a Liberdade de Expressão. Liberdade de Expressão no Brasil.
+Compilação de relatórios de 2005 a 2015. p. 174. Disponível em:
+<https://www.oas.org/pt/cidh/expressao/docs/publicaciones/BrasilLibertadExpresion2016.pdf>.
+Acesso em 01.03.2021.
+
+9
+
+[[pagina 10 | nativo]]
+
+mesmo objeto e contra o mesmo jornalista ou órgão de imprensa,
+
+com o propósito de lhes impor constrição econômica e de dificultar
+
+o exercício do direito de defesa.
+
+12. Essas práticas empobrecem progressivamente a esfera pública no
+
+Brasil, concorrendo para a erosão das bases do regime democrático. Em conjunto, já
+
+conseguem desestimular significativamente a participação crítica no debate público.
+
+A presente ADI se ocupa especificamente dos problemas associados à
+
+responsabilização civil de jornalistas e órgãos e imprensa pelo Judiciário Brasileiro.
+
+Com isso, integra-se ao conjunto de iniciativas da sociedade civil voltadas à
+
+preservação da liberdade e da democracia no Brasil.
+
+II. MÉRITO. AMEAÇAS À LIBERDADE DE EXPRESSÃO PELA VIA JUDICIAL.
+
+RESPONSABILIZAÇÃO CIVIL DE JORNALISTAS E ÓRGÃOS DE IMPRENSA. EFEITO
+
+SILENCIADOR.
+
+II. 1. A RESPONSABILIZAÇÃO CIVIL DE JORNALISTAS E ÓRGÃOS DE IMPRENSA.
+
+II.1.1. Efeito silenciador de condenações ao pagamento de indenização pelo
+
+exercício legítimo da crítica pública
+
+13. A Constituição Federal protege a liberdade de expressão de maneira
+
+robusta. Além de enunciar o princípio geral (CF, art. 5º, IV e IX), veda a censura e
+
+protege o direito à informação jornalística (CF, art. 220, caput, §§ 1º e 2º). A ampla
+
+proteção provida pela Constituição a esses direitos levou o STF a desenvolver
+
+jurisprudência que se destaca como uma das mais garantistas de todo o Mundo. É
+
+10
+
+[[pagina 11 | nativo]]
+
+especialmente importante a decisão proferida na ADPF n. 130, que reconheceu à
+
+liberdade de expressão a natureza de “sobredireito”: “(...) Os direitos que dão
+
+conteúdo à liberdade de imprensa são bens de personalidade que se qualificam como
+
+sobredireitos. (...).”4
+
+14. A Constituição protege também direitos da personalidade, como a
+
+honra, a imagem e a vida privada das pessoas, os quais podem, eventualmente, entrar
+
+em colisão com a liberdade de expressão. Para resolver o conflito, o texto
+
+constitucional positiva os institutos do direito de resposta, proporcional ao agravo, e
+
+da indenização pelos danos causados.
+
+15. O direito de resposta está, hoje, regulado pela Lei n. 13.188/2015,
+
+que foi objeto de recente filtragem constitucional promovida pelo STF. 5 A
+
+circunstância de o direito de resposta funcionar também como um meio para ampliar
+
+o exercício da liberdade de expressão, incluindo novas vozes no debate público (as
+
+dos eventuais agravados), permitiu que o STF declarasse a constitucionalidade da
+
+maior parte dos preceitos da Lei n. 13.188/2015. O direito de resposta não implica a
+
+4 ADPF 130, Relator Min. Carlos Britto, Tribunal Pleno, julgado em 30/04/2009, DJe-208 06-11-
+2009. Sobre o caráter preferencial da liberdade de expressão, cf.: CHEQUER, Cláudio. A liberdade
+de expressão como direito fundamental preferencial prima facie: análise crítica e proposta de revisão
+ao padrão jurisprudencial brasileiro. Rio de Janeiro: Lumen Juris, 2011.
+5 A propósito, convém mencionar a seguinte passagem do voto do Ministro Dias Toffoli, relator da
+ADI n. 5436: “(...) O direito de resposta corresponde, assim, à garantia de paridade de armas entre
+os cidadãos e os veículos de comunicação social.// Não obstante configure restrição à liberdade
+editorial, por outro lado, o direito de resposta é também promotor da liberdade de expressão. Com
+efeito, ele possibilita que a liberdade de expressão seja exercida em sua plenitude, pois é acionado
+apenas após a livre e irrestrita manifestação do pensamento. Percebe-se que a Constituição não traz
+outra hipótese ensejadora do exercício do referido direito senão a ocorrência de um agravo, cuja
+existência, logicamente, só pode ser verificada após a veiculação da informação. // O direito de
+resposta é promotor da liberdade de expressão também na medida em que concede ao ofendido
+espaço adequado para que exerça, com o necessário alcance, seu direito de voz no espaço público
+frente a informações ofensivas ou inexatas a seu respeito divulgadas por veículos de comunicação,
+os quais, muito frequentemente, detêm um poder comunicacional incomparável à do indivíduo que
+se sente lesado.// O direito de resposta é, ainda, complementar à liberdade de informar e de manter-
+se informado, já que possibilita a inserção no debate público de mais de uma perspectiva de uma
+controvérsia. Desse modo, acrescentar uma voz ao debate público significa torná-lo mais plural,
+inclusivo e informado. // (...) Assim, o ofendido, ao tempo que exerce sua liberdade de expressão e
+realiza a tutela de direitos da sua personalidade, também fortalece o direito à informação em sua
+dupla perspectiva: o direito de informar e o direito de manter-se informado.”
+
+11
+
+[[pagina 12 | nativo]]
+
+interrupção do funcionamento regular de órgão de imprensa, nem conduz à sua
+
+inviabilização econômica. Por isso, o STF, pronunciando a constitucionalidade da
+
+opção legislativa, atribuiu ao instituto tratamento que lhe provê ampla proteção.
+
+16. Com a reparação de danos, pela via da responsabilização civil, tudo
+
+é diferente. Em primeiro lugar, ao contrário do que ocorre com o direito de resposta,
+
+a reparação de danos pelo exercício abusivo da liberdade de expressão não está
+
+regulada de modo específico no Brasil. A Lei de Imprensa (Lei nº 5.250/1967),
+
+aprovada durante o regime autoritário, nada obstante seu vício de origem, continha
+
+regulação detalhada, fixando limites e parâmetros, alguns dos quais adequados e
+
+outros inadequados ao ambiente democrático. Porém, o mencionado vício de origem
+
+levou o STF a pronunciar a não recepção da totalidade da Lei n. 5.250 pela
+
+Constituição de 1988.6
+
+17. Se, antes, a responsabilização dos jornalistas e órgãos de imprensa
+
+era regulada de modo parcialmente ilegítimo, hoje, não há regulamentação específica.
+
+O art. 5º, V, da Constituição Federal é parcialmente carente de complementação legal.
+
+Quanto ao ponto, é importante destacar que a própria Convenção Americana de
+
+Direitos Humanos, em seu artigo 13, item 2, menciona a necessidade de edição de
+
+regulamentação legal expressa para disciplinar a apuração das “responsabilidades
+
+posteriores” decorrentes do exercício lesivo da liberdade de expressão:
+
+2. O exercício do direito previsto no inciso precedente (liberdade de
+expressão) não pode estar sujeito a censura prévia, mas a
+
+6 A Lei nº 5.250/1967 foi extirpada do ordenamento jurídico pelo Supremo Tribunal Federal no
+julgamento da ADPF n˚ 130, justamente por condicionar o exercício da liberdade de expressão a uma
+série de dispositivos que a restringiam, de modo a torná-la impraticável: “Incompatibilidade material
+insuperável entre a Lei 5.250/1967 e a Constituição de 1988. Impossibilidade de conciliação que,
+sobre ser do tipo material ou de substância (vertical), contamina toda a Lei de Imprensa: a) quanto
+ao seu entrelace de comandos, a serviço da prestidigitadora lógica de que para cada regra geral
+afirmativa da liberdade é aberto um leque de exceções que praticamente tudo desfaz; b) quanto ao
+seu inescondível efeito prático de ir além de um simples projeto de governo para alcançar a
+realização de um projeto de poder, este a se eternizar no tempo e a sufocar todo pensamento crítico
+no País.” (ADPF n. 130, rel. min. Ayres Britto, j. 30-4-2009, P, DJE de 6-11-2009).
+
+12
+
+[[pagina 13 | nativo]]
+
+responsabilidades ulteriores, que devem ser expressamente fixadas
+pela lei e ser necessárias para assegurar:
+
+a) o respeito aos direitos ou à reputação das demais pessoas; ou
+
+b) a proteção da segurança nacional, da ordem pública, ou da saúde
+ou da moral públicas.
+
+18. É certo que o STF determinou, no julgamento da ADPF n. 130, que
+
+se aplicassem à hipótese as regras gerais constantes no direito civil brasileiro –
+
+aplicam-se, em especial, os artigos 186 e 927 do Código Civil. Ocorre que, hoje, têm
+
+se proliferado no Brasil decisões judiciais que, na fixação da indenização e em sua
+
+execução, produzem, como resultado, um indesejado “efeito resfriador” da crítica
+
+pública – o chilling effect, a que alude a jurisprudência norte-americana.7 De fato,
+
+tem se tornado comum que indenizações interrompam ou prejudiquem gravemente o
+
+funcionamento de órgãos de imprensa, em especial de pequenas empresas
+
+jornalísticas, e ameacem a própria subsistência de profissionais de comunicação,
+
+sobretudo de jornalistas independentes.
+
+19. Considere-se, por exemplo, decisão proferida pelo Tribunal de
+
+Justiça do Estado do Rio de Janeiro, que condenou o jornalista Paulo Henrique
+
+Amorim ao pagamento de indenização de R$ 250.000,00 por publicar, em seu canal
+
+virtual, matéria com teor critico a instituição financeira. O STF, no julgamento da
+
+reclamação n. 15.243, relatada pelo Ministro Celso de Mello, considerou que a
+
+fixação de indenização, pelo Judiciário, servia ao propósito ilegítimo de intimidar o
+
+7 Cf.: Dombrowski v. Pfister (1965); Lamont v. Postmaster General (1965). Como esclarecem
+Sarmento e Borges, “Em sociedades democráticas, é fundamental a existência de uma esfera pública
+robusta e desinibida, em que se possa discutir com coragem e sem constrangimentos os temas de
+interesse social. Por isso, é preciso interpretar de forma restritiva os casos de abuso, que ensejam a
+responsabilidade penal ou civil daquele que se manifesta. Do contrário, o regime de
+responsabilização tende a gerar o que a literatura denomina de ‘efeito resfriador’ do discurso
+(chilling effect), que pode comprometer a vitalidade da democracia.” (SARMENTO, D.; BORGES,
+A. Parecer. Liberdade de expressão, crimes contra a honra de pessoa pública e o papel institucional
+da OAB. In.: https://www.conjur.com.br/dl/santa-cruz-nao-cometeu-crime-criticar.pdf).
+
+13
+
+[[pagina 14 | nativo]]
+
+jornalista. No julgamento do caso, o problema ora submetido à apreciação da Corte
+
+se revela com precisão:
+
+“(...) LIBERDADE DE EXPRESSÃO – JORNALISMO DIGITAL
+(“BLOG”) – PROTEÇÃO CONSTITUCIONAL – DIREITO DE
+INFORMAR: PRERROGATIVA FUNDAMENTAL QUE SE
+COMPREENDE NA LIBERDADE CONSTITUCIONAL DE
+MANIFESTAÇÃO DO PENSAMENTO E DE COMUNICAÇÃO – A
+DECLARAÇÃO DE CHAPULTEPEC (1994) – JORNALISTAS –
+DIREITO DE CRÍTICA – PRERROGATIVA CONSTITUCIONAL
+CUJO SUPORTE LEGITIMADOR REPOUSA NO PLURALISMO
+POLÍTICO (CF, ART. 1º, V), QUE REPRESENTA UM DOS
+FUNDAMENTOS INERENTES AO REGIME DEMOCRÁTICO – O
+EXERCÍCIO DO DIREITO DE CRÍTICA INSPIRADO POR RAZÕES
+DE INTERESSE PÚBLICO: UMA PRÁTICA INESTIMÁVEL DE
+LIBERDADE A SER PRESERVADA CONTRA ENSAIOS
+AUTORITÁRIOS DE REPRESSÃO PENAL E/OU CIVIL – A
+CRÍTICA JORNALÍSTICA E AS FIGURAS PÚBLICAS – A ARENA
+POLÍTICA: UM ESPAÇO DE DISSENSO POR EXCELÊNCIA (RTJ
+200/277, Rel. Min. CELSO DE MELLO) – (...) A crítica que os meios
+de comunicação social e as redes digitais dirigem às pessoas públicas,
+por mais dura e veemente que possa ser, deixa de sofrer, quanto ao seu
+concreto exercício, as limitações externas que ordinariamente resultam
+dos direitos de personalidade. – Não induz responsabilidade civil, nem
+autoriza a imposição de multa cominatória ou “astreinte” (...), a
+publicação de matéria jornalística cujo conteúdo divulgue observações
+em caráter mordaz ou irônico ou, então, veicule opiniões em tom de
+crítica severa, dura ou, até, impiedosa, ainda mais se a pessoa a quem
+tais observações forem dirigidas ostentar a condição de figura pública
+– investida, ou não, de autoridade governamental –, pois, em tal
+contexto, a liberdade de crítica qualifica-se como verdadeira
+excludente anímica, apta a afastar o intuito doloso de ofender. (...)
+Arbitrária, desse modo, e inconciliável com a proteção constitucional
+da informação a repressão, ainda que civil, à crítica jornalística, pois
+o Estado – inclusive seus Juízes e Tribunais – não dispõe de poder
+algum sobre a palavra, sobre as ideias e sobre as convicções
+manifestadas pelos profissionais da Imprensa. (...).” (Rcl 15243
+AgR / RJ, DJe-221 11.10.2019).8
+
+8 Com teor aproximado, cf.: Rcl 11.292--MC/SP, Rel. Min. Joaquim Barbosa; Rcl 16.074-MC/SP,
+Rel. Min. Roberto Barroso, decisão proferida pelo Ministro Ricardo Lewandowski no exercício da
+Presidência; Rcl 16.329-MC/CE, Rel. Min. Rosa Weber; Rcl 16.434/ES, Rel. Min. Rosa Weber; Rcl
+18.186-MC/RJ, Rel. Min. Cármen Lúcia, decisão proferida pelo Ministro Ricardo Lewandowski no
+
+14
+
+[[pagina 15 | nativo]]
+
+20. Decisão semelhante foi proferida pelo Tribunal de Justiça do Estado
+
+de São Paulo, que condenou o jornalista Luís Nassif ao pagamento de indenização no
+
+valor de R$ 30.000,00 ao Movimento Brasil Livre – MBL – por publicar matéria, em
+
+seu jornal eletrônico, em que fazia comentário a respeito de seu financiamento. A
+
+questão chegou ao Supremo Tribunal Federal por meio da reclamação n. 46.017. O
+
+relator, Ministro Ricardo Lewandowski, protegendo a liberdade de crítica
+
+jornalística, também a julgou procedente, determinando a extinção da respectiva ação
+
+indenizatória. Confira-se:
+
+(...) No presente caso, além de mostrar-se evidente o cerceamento da
+liberdade de expressão constitucionalmente assegurada ao reclamante,
+a análise - mesmo superficial - do texto jornalístico censurado,
+demonstra, primo ictu occuli, que o alegado dano indenizável
+entrevisto no acórdão reclamado nem de longe chegou a materializar-
+se. (...) Ora, se o próprio Supremo Tribunal Federal, por seu Colegiado
+Maior, considerou ilegítima e reprovável a operação financeira levada
+a cabo por integrantes do Ministério Público Federal lotados no
+Paraná, não há como recriminar a crítica jornalística feita pelo
+reclamante, o qual, entendendo estar cumprindo o seu dever
+profissional, prenunciou que ela carrearia vultosos recursos para a
+indigitada fundação, bem assim para terceiros, com destinação
+eminentemente politico-partidária. (...) O ordenamento jurídico dos
+países democráticos, categoria na qual se espera esteja o Brasil
+incluído, por óbvio, não outorga aos juízes o papel de exegetas da verve
+jornalística, permitindo que imputem aos profissionais da escrita
+propósitos, quiçá, nem de longe por eles cogitados. (...) Por derradeiro,
+lembro que o Supremo Tribunal Federal, com a sua jurisprudência
+garantista, especialmente - mas não apenas - em matéria de liberdade
+da atividade intelectual, artística, científica e de comunicação, tem se
+mantido fiel à sua missão constitucional (...)”
+
+21. Tais decisões, porém, são excepcionais. O precedente estabelecido
+
+pelo STF na ADPF n. 130 – marco fundamental na proteção da liberdade de
+
+expressão no Brasil – não provê proteção suficiente a jornalistas que elaboram
+
+exercício da Presidência; Rcl 18.290-MC/RJ, Rel. Min. Luiz Fux; Rcl 18.566-MC/SP, Rel. Min.
+Celso de Mello; Rcl 18.638-MC/CE, Rel. Min. Roberto Barroso; Rcl 18.735-MC/DF, Rel. Min.
+Gilmar Mendes; Rcl 18.746-MC/RJ, Rel. Min. Gilmar Mendes; Rcl 18.836-MC/GO , Rel. Min.
+Celso de Mello; Rcl 20.757-MC/PI, Rel. Min. Celso de Mello; Rcl 20.985-MC/SP, Rel. Min. Celso
+de Mello.
+
+15
+
+[[pagina 16 | nativo]]
+
+matérias críticas a pessoas públicas. Quanto ao tema da reparação de danos, o
+
+precedente se limita a estabelecer o parâmetro da modicidade da indenização quando
+
+o ofendido for agente público.9 O parâmetro, porém, é insuficiente. Não desonera do
+
+dever de indenizar o jornalista que tenha publicado notícia com cuidado e boa-fé,
+
+como ocorre na jurisprudência internacional. As reclamações propostas perante o
+
+STF para impugnar decisões que condenam jornalistas à reparação de danos não são,
+
+em sua maior parte, conhecidas. A Corte costuma entender que não há “similitude”
+ou “identidade” com o precedente estabelecido na ADPF n. 130.10
+
+22. A presente ação trata desse ponto. Como ficará esclarecido na seção
+
+seguinte, sustenta-se que apenas a divulgação dolosa ou gravemente negligente de
+
+notícia falsa pode legitimar condenações. A jurisprudência brasileira, com a ressalva
+
+de precedentes ocasionais do próprio Supremo Tribunal Federal, como os acima
+
+citados, tem reconhecido a possibilidade da condenação ao pagamento de
+
+indenizações sempre que a notícia seja falsa ou imprecisa, ainda quando não se
+
+9 Quanto ao ponto, convém mencionar o seguinte excerto do acórdão prolatado na ADPF n. 130:
+“(...) PROPORCIONALIDADE ENTRE LIBERDADE DE IMPRENSA E RESPONSABILIDADE
+CIVIL POR DANOS MORAIS E MATERIAIS. Sem embargo, a excessividade indenizatória é, em si
+mesma, poderoso fator de inibição da liberdade de imprensa, em violação ao princípio
+constitucional da proporcionalidade. A relação de proporcionalidade entre o dano moral ou
+material sofrido por alguém e a indenização que lhe caiba receber (quanto maior o dano maior a
+indenização) opera é no âmbito interno da potencialidade da ofensa e da concreta situação do
+ofendido. Nada tendo a ver com essa equação a circunstância em si da veiculação do agravo por
+órgão de imprensa, porque, senão, a liberdade de informação jornalística deixaria de ser um
+elemento de expansão e de robustez da liberdade de pensamento e de expressão lato sensu para se
+tornar um fator de contração e de esqualidez dessa liberdade. Em se tratando de agente público,
+ainda que injustamente ofendido em sua honra e imagem, subjaz à indenização uma imperiosa
+cláusula de modicidade. Isto porque todo agente público está sob permanente vigília da cidadania.
+E quando o agente estatal não prima por todas as aparências de legalidade e legitimidade no seu
+atuar oficial, atrai contra si mais fortes suspeitas de um comportamento antijurídico francamente
+sindicável pelos cidadãos.”
+10 Cf., por exemplo: “Agravo regimental na reclamação. ADPF nº 130/DF. Liberdade de imprensa.
+Ausência de identidade de temas entre o ato reclamado e os paradigmas da Corte. Via inadequada.
+Agravo regimental não provido. 1. A aderência estrita do objeto do ato reclamado ao conteúdo das
+decisões paradigmas é requisito de admissibilidade da reclamação constitucional. 2. A ADPF nº
+130/DF foi julgada procedente, declarando-se a não recepção da Lei nº 5.250/67, sob o fundamento
+da vedação de censura prévia à atividade de imprensa. (...)”. (Rcl 21311 AgR, Relator Dias Toffoli,
+Segunda Turma, julgado em 20/10/2020, DJe-275 19-11-2020).
+
+16
+
+[[pagina 17 | nativo]]
+
+verifique que o jornalista atuou com dolo ou foi ostensivamente negligente na
+
+apuração da matéria noticiada.
+
+23. Tal orientação jurisprudencial, sobretudo quando incide sobre
+
+pequenos órgãos de imprensa e jornalistas independentes, produz efeito ainda
+
+mais drástico que o da censura prévia, podendo levar ao próprio encerramento da
+
+atividade jornalística. A hipótese é de impacto desproporcional.11 A matéria deve
+
+ser revisitada pelo Supremo Tribunal Federal considerando também a realidade
+
+criada a partir do advento da internet. Quando as ações são movidas contra pequenas
+
+empresas e jornalistas independentes, que atuam, sobretudo, no meio digital, os
+
+processos são efetivamente capazes de funcionar como mordaça, impedindo esse
+
+importante setor da imprensa de realizar o seu múnus.
+
+II.1.2. Parâmetro fixado em New York Times Co. v. Sullivan. Responsabilização
+de jornalistas e órgãos de imprensa apenas nos casos de dolo ou culpa grave.
+
+24. Para colmatar a lacuna, é pertinente ter em conta o parâmetro fixado
+
+pela Suprema Corte dos EUA no precedente New York Times Co. v. Sullivan, 376
+
+U.S. 254 (1964): a responsabilização civil de jornalista (e do respectivo órgão de
+
+imprensa) somente deve ter lugar quando se comprovar que agiu com “malícia real”
+
+(actual malice) ou com “desconsideração imprudente” (reckless disregard) a respeito
+
+da veracidade da notícia. Segundo o precedente, apenas quando o jornalista sabe que
+
+a notícia é falsa ou quando sequer se preocupa em aferir sua veracidade, é legítimo
+
+11 Como ressalta o Min. Joaquim Barbosa, em texto doutrinário, “Toda e qualquer prática
+empresarial, política governamental ou semigovernamental, de cunho legislativo ou administrativo,
+ainda que não provida de intenção discriminatória no momento de sua concepção, deve ser
+condenada por violação do princípio constitucional da igualdade material se, em consequência de
+sua aplicação, resultarem efeitos nocivos de incidência especialmente desproporcional sobre certas
+categorias de pessoas”. (BARBOSA, J. Ação afirmativa e princípio constitucional da igualdade: O
+Direito como instrumento de transformação social. A experiência dos EUA. Rio de Janeiro: Renovar,
+2001. p. 24).
+
+17
+
+[[pagina 18 | nativo]]
+
+condená-lo.12 Se a notícia é falsa, mas o jornalista atua com boa-fé, pensando ser
+
+verdadeira, não se legitima a condenação.
+
+25. Em 1960, o jornal New York Times publicou matéria sobre a luta
+
+pela liberdade no sul, sob o título Heed Their Rising Voices, cujo objetivo era
+
+denunciar perseguições processuais sofridas por Martin Luther King e angariar
+
+fundos para defendê-lo de uma acusação de sonegação fiscal. A matéria mencionava
+
+a conduta abusiva de policiais durante os protestos ocorridos no Estado do Alabama.
+
+O chefe de polícia da cidade de Montgomery, L. B. Sullivan, sentiu-se, com isso,
+
+atingido em sua honra e alegou que a matéria o difamava ao descrever de forma
+
+inverídica a atuação da força policial da cidade. Em virtude disso, Sullivan propôs
+
+ação civil por difamação em face de 4 pastores, signatários da matéria, e do grupo
+
+New York Times, empresa que publicava o jornal homônimo.
+
+26. A Suprema Corte do Estado de Alabama, confirmando a decisão do
+
+júri, decidiu favoravelmente à pretensão de Sullivan. No entendimento dos juízes do
+
+Alabama, o jornal New York Times era culpado por ter publicado matéria contendo
+
+erros factuais, devendo reparar Sullivan por meio de indenização fixada em cerca de
+
+500 mil dólares.13 A Suprema Corte dos EUA reverteu a decisão, sob o entendimento
+
+de que violava a Primeira e a Décima Quarta Emendas. Ainda que a matéria publicada
+
+fosse imprecisa ou, até mesmo, falsa, as ações indenizatórias somente poderiam ter
+
+sido julgadas procedentes se se comprovasse que os réus haviam atuado
+
+“maliciosamente”.
+
+27. Na célebre inferência do Justice William Brennan Jr, proferida nesse
+
+julgamento, a decisão se baseou em “profundo compromisso nacional com o
+
+12 Cf., também: U.S., Gertz v. Robert Welch, Inc., 418 U.S. 323 (1974); U.S., Milkovich v. Lorain
+Journal Co., 497 U.S. 1 (1990); U.S., Ollman v. Evans, 750 F.2d 970 (1984); U.S., Cianci v. New
+Times Pub'g Co., 639 F.2d 54 (1980).
+13 PASSAPORTIS, M. A Law and Norms Critique of the Constitutional Law of Defamation. Virginia
+Law Review, Charlottesville/VA, v. 90, p. 1985-2042, 1985, p. 2009.
+
+18
+
+[[pagina 19 | nativo]]
+
+princípio de que o debate sobre questões públicas deve ser desinibido, robusto e bem
+
+aberto”.
+
+28. O mesmo parâmetro fixado em New York Times Co. v. Sullivan, além
+
+de ser recorrentemente empregado pela Suprema Corte dos EUA, vem sendo adotado
+
+por cortes constitucionais de vários países do mundo. Confira-se, por exemplo, o que
+
+decidiu a Suprema Corte de Justiça da Argentina no caso Patitó, José Ángel y otro
+
+c. Diario La Nación y otros, em julgamento datado de 24 de junho de 2008. A Corte
+
+adotou o parâmetro da actual malice para evitar que os órgãos de imprensa, temerosos
+
+das condenações cíveis, acabassem por se autocensurar, deixando de exercer a função
+
+de informar o público. No caso, o periódico havia noticiado fatos que eram objeto de
+
+investigação em andamento, imputando condutas ilegais ao Corpo Médico Forense,
+
+órgão público vinculado ao Judiciário argentino. Os fatos imputados, depois, não se
+
+comprovaram. Mas, ainda assim, a Suprema Corte de Justiça entendeu que o
+
+periódico não deveria ser responsabilizado pela ausência de comprovação de dolo na
+
+divulgação das informações:
+
+“Que de acordo com os precedentes desta Corte, no caso de
+informações relativas a funcionários públicos, figuras públicas ou
+indivíduos que tenham intervindo em tais assuntos, quando a notícia
+tivesse expressões falsas ou imprecisas, os que se consideram afetados
+devem demonstrar que quem emitiu a expressão ou imputação sabia da
+falsidade da notícia e agiu com conhecimento de que eram falsas ou
+com notória despreocupação por sua veracidade (...).
+
+Esses princípios são consistentes com o desenho de um Estado de
+Direito constitucionalmente regulado. A pesquisa jornalística sobre os
+assuntos públicos desempenha um papel importante na transparência
+exigida por um sistema republicano. O rigor excessivo e a intolerância
+ao erro levariam à autocensura, o que privaria os cidadãos de
+informações essenciais à tomada de decisões sobre seus
+representantes.
+
+(...)
+
+Que o princípio da malícia real, ao contrário do teste da verdade, não
+opera com base na verdade ou na falsidade objetiva das expressões,
+pois entra em ação quando já se aceita que estas são manifestações
+
+19
+
+[[pagina 20 | nativo]]
+
+cuja verdade não poderia ser estabelecida, são errôneas ou mesmo
+falsas. O que é uma questão de discussão e prova, se se trata de malícia
+real, é o conhecimento que o jornalista ou orgão de imprensa tinha (ou
+deveria ter tido) dessa falsidade ou possível falsidade. Esta é a primeira
+e importante diferença.
+
+A segunda e não menos importante particularidade radica em que o
+conteúdo específico do fator subjetivo ao qual se refere o conceito de
+malícia real - conhecimento da falsidade ou negligente indiferença a
+respeito da possível falsidade - não se pode dar por certo por meio de
+uma presunção, mas deve ser matéria de prova por parte de quem que
+ajuize a ação judicial contra o jornalista ou orgão de imprensa."
+
+29. O precedente estabelecido em New York Times Co. v. Sullivan
+
+também influenciou a jurisprudência australiana. A Corte Suprema daquele país
+
+decidiu, em Theophanous v Herald & Weekly Times Ltd [1994] HCA 46, que a
+
+publicação de matéria veiculando informação falsa não deveria conduzir à
+
+responsabilização do órgão de imprensa quando (a) este não tivesse conhecimento da
+
+falsidade do material publicado; (b) não tivesse publicado a matéria de forma
+
+negligente, ou seja, sem se importar se era verdadeira ou falsa; e se (c) a publicação
+era razoável nas circunstâncias dadas.14
+
+30. Na Inglaterra, a jurisprudência vai ainda além. A Câmara dos Lords,
+
+em Derbyshire County Council v. Times Newspapers Ltd. [1993] AC 534, chegou a
+
+afirmar que as autoridades públicas locais sequer teriam o direito de propor ação de
+
+reparação de danos alegando terem sido vítimas de difamação. A decisão daquela
+
+Corte assentou que a liberdade de expressão e o interesse público subjacente ao
+
+direito à informação devem prevalecer sobre a eventual pretensão se repararem danos
+
+produzidos contra a honra de autoridades públicas:
+
+14 Cf.:MAJOR, M.-F. Comparative Analogies: Sullivan Visits the Commonwealth. Ind. Int'l &
+Comp. L., vol. 10, 1999; KOLTAY, A. Around the World with Sullivan. The New York Times v.
+Sullivan Rule and its Universal Applicability. Iustum Aequum Salutare, vol. 3–4, 2006.
+
+20
+
+[[pagina 21 | nativo]]
+
+Essas proposições foram endossadas pela Suprema Corte dos Estados
+Unidos em New York Times Co v Sullivan (1964) 376 US 254, 277.
+Embora essas decisões estivessem mais diretamente relacionadas com
+as disposições da Constituição americana concernentes à garantia da
+liberdade de expressão, as considerações de interesse público que lhes
+são subjacentes não são menos válidas neste país. O que foi descrito
+como ‘o efeito resfriador’ induzido pela ameaça de ações civis por
+difamação é muito importante. Muitas vezes, os fatos que justificariam
+uma publicação difamatória são conhecidos como verdadeiros, mas as
+provas capazes de comprovar esses fatos não estão disponíveis. Isso
+pode impedir a publicação de matérias que devem se tornar públicas.
+(...)
+A conclusão deve ser, em minha opinião, que, sob a common law da
+Inglaterra, uma autoridade local não tem o direito de propor uma
+ação de indenização por difamação. Essa foi a conclusão alcançada
+pelo Tribunal de Apelação, baseada principalmente no artigo 10 da
+Convenção Europeia de Direitos Humanos (1953) (Cmd 8969), a qual
+o Reino Unido aderiu, mas que não foi promulgada pelo direito interno
+(...).
+
+31. É essencial, em uma república democrática, que a imprensa livre
+
+possa publicar notícias sobre agentes públicos e privados dotados de grande poder
+
+econômico e social, apontando eventuais irregularidades em suas condutas. Casos de
+
+corrupção, atos de improbidade, erros na condução dos assuntos públicos devem ser
+
+levados ao conhecimento da sociedade, ainda quando não foram objeto de uma
+
+comprovação definitiva e irrefutável. No entanto, sempre que jornalistas e veículos
+
+de imprensa, no exercício de seu dever, publicam matérias nessas condições, de boa-
+
+fé, se submetem ao risco de sofrerem retaliações, por meio do ajuizamento de ações
+
+cíveis. A consequência dessa possibilidade é a autocensura, sobretudo quando os
+
+órgãos de imprensa exibem fragilidade econômica.
+
+32. A fixação de indenizações nos termos antes apontados produz grave
+
+efeito resfriador do debate público, violando, com isso, a liberdade de expressão
+
+(CF, art. 5º, IV e IX), a liberdade de informação jornalística, a vedação à censura (CF,
+
+art. 220, caput, §§ 1º e 2º), o direito à informação (CF, art. 5º, XIV), o princípio
+
+republicano (CF, art. 1º), o princípio democrático (CF, art. 1º, caput e parágrafo
+
+21
+
+[[pagina 22 | nativo]]
+
+único), o princípio do pluralismo político (CF, art. 1º, V), o princípio da publicidade
+
+da administração (CF, art. 37, caput). A imprensa, quando acuada pela pressão
+
+econômica, perde a capacidade de alimentar a esfera pública, essencial para que a
+
+democracia se mantenha viva.
+
+33. Esses princípios constitucionais dão fundamento, por isso, ao pedido
+
+de interpretação conforme a Constituição dos artigos 186 e 927 do Código Civil,
+
+de modo a estabelecer a interpretação segundo a qual a responsabilização de jornalista
+
+ou do respectivo órgão de imprensa, por publicação de notícia sobre pessoa pública,
+
+somente deve ter lugar quando se comprovar que o jornalista agiu com dolo ou culpa
+
+grave, deixando de apurar minimamente a veracidade da informação publicada.
+
+34. Cumpre, por fim, esclarecer que a adoção desse parâmetro em nada
+
+prejudica o enfrentamento da prática das fake news. Pelo contrário, a divulgação
+
+de fake news se processa justamente por meio de condutas dolosas ou gravemente
+
+negligentes. São notícias concebidas com o propósito de ofender e atacar adversários.
+
+A replicação das notícias falsas é manipulada por meio do emprego de “robôs”,
+
+capazes de encaminhar milhares de mensagens por hora, potencializando a tendência
+
+da própria rede de fomentar a transmissão exponencial de mensagens disruptivas.
+
+Tais condutas, além de se subsumirem a normas penais, também legitimam o
+
+ajuizamento de ações civis com vistas à obtenção de reparação de danos.
+
+II.2. A PENHORA DOS VALORES DEPOSITADOS EM CONTAS BANCÁRIAS DE
+JORNALISTAS COMO FORMA DE IMPEDIR A CONTINUIDADE DO TRABALHO
+JORNALÍSTICO
+
+35. Uma hipótese especialmente grave, derivada do problema acima
+
+apontado, é a de decisões judiciais que determinam a penhora da totalidade dos
+
+valores depositados em contas bancárias de jornalistas e de pequenas empresas de
+
+22
+
+[[pagina 23 | nativo]]
+
+comunicação. Em tais casos, a execução incide sobre verbas alimentares,
+
+frequentemente atingindo até mesmo o salário dos jornalistas ou sua aposentadoria.
+
+É também frequente que pequenas empresas jornalísticas sejam totalmente impedidas
+
+de continuar funcionando em decorrência da penhora da totalidade de seu capital de
+
+giro, sem o qual não têm como fazer frente a suas obrigações trabalhistas, tributárias
+
+e contratuais.
+
+36. Considere-se, por exemplo, decisão proferida pelo Tribunal Regional
+
+Eleitoral do Amapá, que condenou a jornalista Alcinéa Cavalcante a pagar R$
+
+2.000.000,00 em indenização ao ex-presidente Jose Sarney, então candidato a
+
+senador. A condenação se deu em decorrência da publicação de enquete em seu blog,
+
+durante as eleições de 2006, em que sugeria que os internautas indicassem o nome do
+
+político que deveria receber adesivo com os dizeres “o carro que mais parece comigo
+
+é o camburão da polícia”. Como o ex-presidente foi muito citado naquela enquete,
+
+decidiu processar a jornalista. Quando ela publicava notícias sobre o processo, novas
+
+ações eram ajuizadas. O valor foi executado mediante a penhora do dinheiro
+
+depositado em suas contas bancárias, atingindo até mesmo a aposentadoria que
+
+recebia, o que comprometia sua subsistência.
+
+37. Considere-se também decisão proferida pelo Tribunal de Justiça do
+
+Estado do Rio de Janeiro, proferida nos autos do processo n° 0280908-
+
+67.2014.8.19.0001, em que o ex-Deputado Federal Eduardo Cunha figurava como
+
+autor. O jornalista Luís Nassif foi condenado ao pagamento de indenização em
+
+virtude de nota divulgada em seu periódico na internet. O jornalista teria noticiado a
+
+participação do ex-parlamentar em suposta sonegação de impostos praticada no
+
+âmbito do “esquema PC Farias”. O juízo procedeu à penhora on line no valor de R$
+
+46.878,34, alcançando recursos necessários para que o jornalista fizesse frente a suas
+
+despesas cotidianas: as verbas tinham natureza alimentar. Por ocasião desse episódio,
+
+o Instituto Vladmir Herzog emitiu nota que bem caracteriza o contexto atual:
+
+23
+
+[[pagina 24 | nativo]]
+
+O Instituto Vladimir Herzog, reconhecido pela atuação em defesa da
+liberdade de expressão e pela segurança de jornalistas e
+comunicadores em todo o Brasil, posiciona-se publicamente em
+solidariedade ao jornalista Luis Nassif, que vem sendo vítima de uma
+arbitrária e inadmissível perseguição jurídica.
+
+Nos últimos dias, Nassif relatou com detalhes em seu espaço no Jornal
+GGN o sofisticado e preocupante processo de opressão judicial que ele
+vem sofrendo nos últimos meses. “Não há mais limites para a atuação
+de juízes militantes, fazendo do seu poder uma arma política, não
+apenas para inviabilizar a liberdade de expressão, mas para a própria
+destruição dos ‘inimigos’”, diz Nassif no texto intitulado “Estou
+juridicamente marcado para morrer”.
+
+De fato, a capacidade de jornalistas e comunicadores produzirem e
+fazerem circular informações e opiniões para a sociedade nunca esteve
+tão comprometida desde a redemocratização. Vivemos tempos
+sombrios para os direitos humanos e, mais especificamente, para o
+direito à liberdade de expressão. Órgãos de imprensa, jornalistas e
+comunicadores são alvos constantes de ataques que se tornam cada vez
+mais graves e que partem dos mais variados atores, inclusive do
+próprio presidente da República e de outros agentes do Estado
+brasileiro, que deveriam ter como norte de atuação o zelo pelos artigos
+da Constituição, mas não o fazem já há bastante tempo.
+
+O rebuscado processo de perseguição jurídica imposto a Luís Nassif
+impacta não só o próprio profissional diretamente atingido por ele,
+mas, principalmente, a democracia e a livre circulação de informações
+e de ideias, restringindo o direito da população à informação como um
+todo. Questionar a imprensa ou discordar dela são atitudes legítimas,
+tentar silenciá-la com ataques, processos e outras formas de
+intimidação é uma evidente e extremamente grave violação à
+Constituição e ao Estado democrático de Direito.
+
+O Instituto Vladimir Herzog presta solidariedade ao jornalista Luis
+Nassif e reafirma seu compromisso em acionar todas as vias legais
+para cobrar representantes públicos e responder aos desafios que
+atravessamos. Somente assim é que seremos capazes de interromper a
+escalada de violações à liberdade de expressão e de ataques a
+jornalistas e comunicadores.
+
+38. O art. 835 do CPC, em seu inciso I e § 1º, prevê que a penhora
+
+ocorrerá em conformidade com ordem preferencial que atribui primazia ao dinheiro,
+
+em espécie ou em depósito ou aplicação em instituição financeira. Confira-se a
+
+24
+
+[[pagina 25 | nativo]]
+
+redação do § 1º: “É prioritária a penhora em dinheiro, podendo o juiz, nas demais
+
+hipóteses, alterar a ordem prevista no caput de acordo com as circunstâncias do caso
+
+concreto”. Sobretudo no caso de pequenos veículos de comunicação e jornalistas
+
+independentes, trata-se de grave ameaça à liberdade de expressão: por meio do
+
+constrangimento econômico, retira-se por completo a capacidade de o órgão de
+
+imprensa continuar em funcionamento e de o jornalista manter sua própria
+
+subsistência. Na prática, a medida restringe a liberdade de expressão e o direito à
+informação ainda mais gravemente que a censura.15
+
+39. O tema é examinado no parecer anexo, elaborado pelo Professor
+
+Lênio Luiz Streck (doc. 8). Com base no princípio da proporcionalidade, o jurista
+
+sustenta a impossibilidade da penhora que conduza à interrupção da atividade
+
+jornalística e à inviabilização do órgão de imprensa. Do parecer, se extrai a seguinte
+
+passagem:
+
+31. Neste segundo momento, avanço para a problemática da atividade
+jurisdicional e a questão da imprensa. Não há como pôr em dúvida,
+como já delineado em outro momento, que a diversidade que os
+jornalistas independentes e os pequenos veículos de mídia
+proporcionam ao jornalismo é um aspecto fundamental na democracia.
+Por isso, a “asfixia financeira” pode, efetivamente, aparecer como
+efeito colateral em determinadas circunstâncias.
+(...)
+
+41. Na estruturação das etapas da proporcionalidade, a garantia do
+núcleo do direito fundamental possui destacada importância, uma vez
+que define até onde as restrições concretas podem ocorrer. Observa-se
+num exercício argumentativo de aplicação das duas primeiras etapas
+– as responsáveis pelas circunstâncias fáticas na teoria aplicada – que
+caso parece atingir, precisamente, o núcleo mais fundamental do
+direito em estudo.
+
+15 Por isso, a aplicação dos preceitos legais nessa hipótese viola o conjunto de princípios
+constitucionais antes mencionados: liberdade de expressão (CF, art. 5º, IV e IX), liberdade de
+informação jornalística, vedação à censura (CF, art. 220, caput, §§ 1º e 2º), direito à informação (CF,
+art. 5º, XIV), o princípio republicano (CF, art. 1º), princípio democrático (CF, art. 1º, caput e
+parágrafo único), princípio do pluralismo político (CF, art. 1º, V), princípio da publicidade da
+administração (CF, art. 37, caput).
+
+25
+
+[[pagina 26 | nativo]]
+
+42. A primeira etapa visa identificar se a solução concreta do caso
+jurídico cumpre de forma idônea o princípio constitucional a ser
+concretizado. Em casos de atuação irresponsável da imprensa,
+eventual responsabilização, a depender do caso concreto, pode ser
+medida adequada a concretizar o princípio contraposto, o que não gera
+dúvidas. Contudo, a segunda etapa é a responsável por identificar se a
+medida concreta cumpre o princípio otimizado de forma idônea no
+grau adequado com a menor restrição possível. A inviabilização do
+exercício do pequeno meio de comunicação é a restrição menos
+gravosa?
+
+43. Além da exigência da menor restrição possível, há uma fronteira
+que a decisão judicial está impossibilitada de cruzar, consistente na
+violação do núcleo fundamental do princípio. Nesse exame, afirmo
+com considerável segurança que a penhora em dinheiro a ponto de
+impossibilitar a existência do pequeno meio jornalístico viola o
+núcleo do direito fundamental à liberdade jornalística e, nessa
+medida, ameaça a própria estrutura democrática, razão pela qual
+padece de inconstitucionalidade. Mais grave ainda, é quando tal
+prática se torna recorrente na jurisdição.
+
+44. Por isso, não pode ser considerada constitucional a aplicação da
+preferência quase absoluta da penhora em dinheiro em execuções
+movidas sobretudo contra jornalistas independentes e pequenos
+veículos de mídia, sob pena de constituir, inclusive, uma espécie de
+censura, dirigida não ao conteúdo da informação ilicitamente
+divulgada, mas ao próprio pluralismo da mídia.
+
+40. De fato, não podem ser consideradas proporcionais medidas que
+
+acarretem a interrupção das atividades do órgão de imprensa e a inviabilização da
+
+subsistência do próprio jornalista. Os princípios violados são dotados de máxima
+
+hierarquia material – como antes mencionado, o STF, na ADPF n. 130, caracteriza a
+
+liberdade de expressão como “sobredireito” -, e a interrupção da atividade jornalística
+
+é, evidentemente, a restrição gravíssima ao seu exercício. Quando incide sobre a
+
+conta bancária do jornalista, a penhora, além de violar a liberdade de expressão, viola
+
+também a dignidade da pessoa humana, abarcando verbas que tem natureza
+
+alimentar. Quando recai sobre valores depositados na conta do órgão de imprensa, a
+
+medida viola a função social da empresa, que, além de se ver coagida a parar de
+
+26
+
+[[pagina 27 | nativo]]
+
+publicar, perde a capacidade de cumprir suas obrigações junto aos empregados, aos
+fornecedores e ao fisco.16
+
+41. Ressalte-se que a função social da empresa jornalística é prover
+
+informação ao público e manter os poderes públicos e privados sob fiscalização. Em
+
+uma democracia, os governantes eleitos pela maioria governam, mas devem se
+
+justificar, prestar contar perante todos. 17 Para que essa dinâmica tenha lugar, é
+
+fundamental que a imprensa possa atuar sem embaraços. Por meio da penhora em
+
+dinheiro, o funcionamento de pequenos órgãos de imprensa é interrompido. A medida
+
+possui forte potencial de empobrecer a esfera pública, reduzir o pluralismo e
+
+circunscrever a atividade jornalística ou a grandes empresas ou a órgãos que
+
+abdiquem de sua função crítica.
+
+42. Como consignado no parecer de Lênio Streck, a penhora dos valores
+
+depositados nas contas de jornalistas e de pequenas empresas de comunicação viola
+
+o princípio da proporcionalidade, derivado dos princípios do estado de direito (CF,
+
+art. 1º) e do devido processo legal (CF, art. 5º, LIV). O STF, no julgamento da ADPF
+
+n. 130, também vedou a aplicação de sanções desproporcionais, tendentes a impedir
+
+a continuidade da atividade jornalística. Mas a decisão não mencionou
+
+especificamente a penhora de valores depositados em contas bancárias de jornalistas
+
+e empresas de comunicação. Para que a medida não seja empregada recorrentemente
+
+pelo Judiciário, como vem ocorrendo18, é necessário que o STF edite provimento que,
+
+16 A função social da empresa é corolário da função social da propriedade, prevista nos artigos 5º,
+XXIII, e 170 da Constituição Federal. Para preservar a função social da empresa, a legislação
+tributária, por exemplo, possui preceito que rejeita expressamente a incidência da medida cautelar de
+sequestro sobre os valores depositados nas contas bancárias das pessoas jurídicas. A Lei n.
+8397/1992, em seu artigo 4º, § 1º, determina que a indisponibilidade recairá “somente sobre os bens
+do ativo permanente”, não sobre o ativo circulante.
+17 Esse dever recebe o nome de accountability: “o princípio deliberativo da accountability requer
+que os representantes façam mais que tentar ganhar eleições e respeitar direitos constitucionais. Em
+uma democracia deliberativa os representantes devem justificar suas ações em termos morais”.
+(GUTMANN, Amy; THOMPSON, Dennis. Democracy and disagreement. Cambridge, Mass.;
+London: The Belknap Press of Harvard University Press, 1996. p. 129).
+18 Como sustenta Gustavo Binembojm, “Superamos o estágio primitivo da censura oficial, realizada
+pelo Poder executivo, mas formas censórias redivivas – que não ousam dizer seu nome – agem
+
+27
+
+[[pagina 28 | nativo]]
+
+ao realizar interpretação conforme a Constituição, declare o art. 835, I e § 1º, do
+
+CPC inaplicável a jornalistas e a pequenos órgãos de imprensa.
+
+43. A adoção do parâmetro estabelecido na seção anterior, com base no
+
+precedente da Suprema Corte dos EUA (New York Times Co. v. Sullivan), tende a
+
+atenuar o efeito resfriador que as atuais decisões do Judiciário em matéria de
+
+reparação de danos vêm produzindo sobre a atividade de jornalistas independentes e
+
+pequenos órgãos de imprensa. Não é, porém, suficiente. A maior organização para o
+
+litígio judicial de pessoas detentoras de grande poder político, econômico e social
+
+tende a continuar produzindo condenações que, ilegitimamente, intimidem jornalistas
+
+e cerceiem a liberdade de expressão. Para que órgãos de imprensa não sejas fechados
+
+abruptamente, e jornalistas, impedidos de prover sua subsistência e a de sua família,
+
+é fundamental que se impeça também que, no âmbito de ações de reparação de danos,
+
+se penhorem os valores depositados em suas contas bancárias.
+
+44. Para que a imprensa livre possa florescer na extensão demandada
+
+pelo regime democrático, o sistema não pode conter meios aptos a interromper, de
+
+modo peremptório, o funcionamento dos órgãos que a integram, impossibilidade que
+
+se deduz do art. 220, caput e §§ 1º e 2º, da Constituição Federal. A penhora de
+
+dinheiro em execuções promovidas em face de jornalistas e veículos de imprensa, nos
+
+casos em que a medida inviabilize a atividade jornalística, é medida tão grave quanto
+
+a própria censura.
+
+cotidianamente no país. Ainda pululam leis que impõem restrições absurdas à liberdade de
+comunicação, e o Poder Judiciário – à exceção honrosa do Supremo tribunal Federal -nos últimos
+anos – tem, feito por merecer o título de novo censor máximo do país. Com um cardápio que vai da
+busca e apreensão de livros à remoção de conteúdos da internet, passando pela tentativa de controle
+de horário de programas de TV e de espetáculos públicos, a Justiça parece ter se convertido na
+legítima sucessora da malsinada Censura Federal”. (BINENBOJM, G. Liberdade igual. O que é e
+por que importa. Rio de Janeiro: História Real, 2020).
+
+28
+
+[[pagina 29 | nativo]]
+
+II.3. O ATAQUE À LIBERDADE DE EXPRESSÃO POR MEIO DO ASSÉDIO JUDICIAL
+
+45. O emprego de processos judiciais para censurar, intimidar e silenciar
+
+os críticos vem sendo denominado por meio da sigla “SLAPP = Strategic Lawsuit
+
+Against Public Participation”.19 No contexto atual, é comum que ações judiciais
+
+sejam ajuizadas, mesmo sem a probabilidade da procedência, para que intimidar
+
+jornalistas e órgãos de imprensa, que não reúnem condições concretas para arcar com
+
+os custos do processo e demais ônus associados ao exercício do direito de defesa. Sob
+
+a referida denominação, reúnem-se práticas que podem ser caracterizadas como
+
+“assédio judicial” ou “assédio processual”.20
+
+46. Em vários estados norte-americanos, há extensa legislação anti-
+
+SLAPP, prevendo inúmeras medidas para se evitar que empresas ou pessoas
+
+poderosas inibam a atuação crítica de jornalistas. Em Nova York, por exemplo, a
+
+legislação prevê o pagamento não só de custas e honorários sucumbenciais aos réus
+
+que foram vítimas de SLAPP (N.Y. Civ. Law § 70-a[a]), mas também de “danos
+
+compensatórios”, sempre que se prove que a ação foi proposta com o objetivo de
+
+“assediar, intimidar, punir ou inibir maliciosamente os direitos de expressão, petição
+
+ou associação.” (N.Y. Civ. Law § 70-a[a]). Confira-se a redação dos preceitos:
+
+1. Um réu em ação envolvendo petição pública e participação, (...)
+poderá propor ação, reclamação, reclamação cruzada ou contra-
+reclamação para reparar danos, incluindo custos e honorários
+
+19 Cf.: Sheldrick, B. M. Blocking public participation: the use of strategic litigation to silence
+political expression. Waterloo, Ontario: Wilfried Laurier University Press, 2014; Pring, G. W. e
+Canan, P. SLAPPs. “Getting sued for speaking out”. Philadelphia: Temple University Press, 1996.
+20 Como esclarece Taís Gasparian, “Uma nova modalidade de chicana tem se tornado mecanismo ef
+icaz de constrangimento de jornalistas e cidadãos. O assédio judicial é caracterizado por um mau
+uso do direito de ação em que, dizendo-se ofendido ou atacado, um indivíduo processa aquele que t
+eria sido o emissor da ofensa, unicamente para intimidá-lo. A pretexto de exercer um direito, o auto
+r do processo, usando uma prerrogativa que lhe é assegurada, desborda do exercício regular para
+o abusivo, com o objetivo de prejudicar outrem.” (GASPARIAN, T. Assédio judicial. Folha de São
+Paulo, 26.0ut, 2020).
+
+29
+
+[[pagina 30 | nativo]]
+
+advocatícios, em face de qualquer pessoa que o tenha processado,
+desde que:
+
+(a) Os custos e honorários advocatícios podem ser recuperados após
+se demonstrar que a ação foi proposta sem base substancial nos fatos
+e no direito e sem poder se sustentar em argumento que conduzisse à
+extensão, à modificação ou à reversão do direito existente;
+
+(b) Outros danos compensatórios só podem ser reparados após uma
+demonstração adicional de que a ação foi ajuizada com o propósito de
+assediar, intimidar, punir ou inibir maliciosamente o livre exercício
+das liberdades de expressão e de petição ou do direito de associação;
+e
+
+(c) Os danos punitivos só podem ser reparados após uma
+demonstração adicional de que a ação foi proposta com o único
+propósito de assediar, intimidar, punir ou inibir maliciosamente o livre
+exercício das liberdades de expressão e de petição ou de direitos de
+associação.
+
+47. A fixação de indenização pela prática de assédio judicial contra a
+
+liberdade de expressão é importante elemento de proteção de jornalistas e órgãos de
+
+imprensa, acuados por agentes dotados de grande poder econômico e social. Trata-se
+
+de medida que não é estranha ao direito brasileiro, como se constata da leitura do
+
+precedente que se segue (não concernente à liberdade de expressão), do acervo
+
+jurisprudencial do Superior Tribunal de Justiça:
+
+“CIVIL E PROCESSUAL CIVIL. AÇÃO DE REPARAÇÃO DE DANOS
+MATERIAIS E MORAIS. (...) ABUSO DO DIREITO DE AÇÃO E
+DEDEFESA. RECONHECIMENTO COMO ATO ILÍCITO.
+POSSIBILIDADE. PRÉVIA TIPIFICAÇÃO LEGAL DAS CONDUTAS.
+DESNECESSIDADE. AJUIZAMENTO SUCESSIVO E REPETITIVO
+DE AÇÕES TEMERÁRIAS, DESPROVIDAS DE FUNDAMENTAÇÃO
+IDÔNEA E INTENTADAS COM PROPÓSITO DOLOSO. MÁ
+UTILIZAÇÃO DOS DIREITOS FUNDAMENTAIS DE AÇÃO E
+DEFESA. POSSIBILIDADE. (...) 4- Embora não seja da tradição do
+direito processual civil brasileiro, é admissível o reconhecimento da
+existência do ato ilícito de abuso processual, tais como o abuso do
+direito fundamental de ação ou de defesa, não apenas em hipóteses
+previamente tipificadas na legislação, mas também quando
+configurada a má utilização dos direitos fundamentais processuais. 5-
+O ardil, não raro, é camuflado e obscuro, de modo a embaralhar as
+
+30
+
+[[pagina 31 | nativo]]
+
+vistas de quem precisa encontrá-lo. O chicaneiro nunca se apresenta
+como tal, mas, ao revés, age alegadamente sob o manto dos princípios
+mais caros, como o acesso à justiça, o devido processo legal e a ampla
+defesa, para cometer e ocultar as suas vilezas. O abuso se configura
+não pelo que se revela, mas pelo que se esconde. Por esses motivos, é
+preciso repensar o processo à luz dos mais basilares cânones do
+próprio direito, não para frustrar o regular exercício dos direitos
+fundamentais pelo litigante sério e probo, mas para refrear aqueles
+que abusam dos direitos fundamentais por mero capricho, por espírito
+emulativo, por dolo ou que, em ações ou incidentes temerários,
+veiculem pretensões ou defesas frívolas, aptas a tornar o processo um
+simulacro de processo ao nobre albergue do direito fundamental de
+acesso à justiça. (...)” (RE n. 1.817.845 – MS, Rel. p. Acórdão Min.
+Nancy Andrighi, J. 10 de outubro de 2019).
+
+48. No Brasil, uma das principais formas de assédio judicial, para
+
+intimidar jornalistas, é o ajuizamento de ações repetidas em grande número, o que os
+
+obriga a reunir todos os seus recursos financeiros e conjugar seus melhores esforços
+
+para se defender efetivamente nos processos, afastando-se de sua atividade fim. O
+
+jornalista, ao invés de se dedicar a suas importantes atribuições, passa a peregrinar de
+
+cidade em cidade para participar de audiências e se vê no apuro de ter de contratar
+
+vários advogados.
+
+49. Um dos casos exemplares de assédio judicial ocorreu quando a
+
+jornalista Elvira Lobato, em 2007, publicou reportagem, no jornal Folha de São
+
+Paulo, sobre o crescimento dos negócios da Igreja Universal do Reino de Deus. Pela
+
+matéria, a jornalista ganhou o Prêmio Esso de Jornalismo em 2008. Mas o amplo
+
+reconhecimento da comunidade não a protegeu. Em retaliação, a Igreja organizou
+
+ofensiva judicial contra a jornalista, que se viu obrigada a responder a 111 ações
+
+requerendo o ressarcimento de danos morais, ajuizadas em diferentes estados da
+
+federação. Sua vitória em todas as ações evidencia que aqueles ajuizamentos não se
+
+deram com o objetivo de obter a reparação de supostos danos, mas com o de fazer
+
+com que a jornalista se onerasse cuidando das defesas. Seu depoimento sobre o
+
+episódio é eloquente:
+
+31
+
+[[pagina 32 | nativo]]
+
+“A Igreja Universal do reúno de Deus, embora tenha perdido todas as
+ações, as 11 ações que ela moveu contra mim e contra a Folha, na
+minha avaliação ela foi vitoriosa. Por que, por vários anos ela calou o
+único veículo que fazia uma cobertura sistemática da igreja sob o
+ângulo dos negócios.
+
+(...)
+
+Quando as ações começaram, para nossa completa surpresa, eu me
+senti sem condição de continuar cobrindo a Igreja Universal do Reino
+de Deus. Não que houvesse alguma ordem judicial, mas porque eu
+achava que havia perdido a coisa mais importante que um jornalista
+deve ter: a imparcialidade, a isenção. Se havia 111 ações contra mim,
+eu não era mais imparcial nos assuntos da igreja. Com isso, ela me
+neutralizou completamente.
+
+(...)
+
+Foi tão impactante para mim, tão doloroso esse processo, que isso
+acabou precipitando a minha aposentadoria.
+
+(...)
+
+Eu tinha feito o trabalho correto jornalisticamente. No entanto, aquilo
+não me protegeu. (...) A verdade é um escudo protetor do repórter, do
+jornalismo. Eu me vi numa situação em que o escudo estava trincado.
+
+(...)
+
+Pesou muito também saber que eu estava causando um gasto tão alto
+para a empresa. O Jornal teve custos altíssimos. Tinha que ficar
+deslocando repórteres para me representar. Eram ações simultâneas.
+Tinha audiências simultâneas, no Sul, no Sudeste, no Norte.
+Impossível de uma pessoa se defender. Era uma coisa grande demais,
+violente demais.
+
+(...)
+
+Era um atentado, de fato, contra a imprensa, contra o jornalista, contra
+a liberdade de expressão.”21
+
+50. Outro caso relevante ocorreu em 2016, quando 5 profissionais da
+
+21 https://cultura.uol.com.br/noticias/14935_foi-tao-impactante-que-acabou-precipitando-minha-
+aposentadoria-diz-elvira-lobato-jornalista-vitima-de-assedio-judicial.html
+
+32
+
+[[pagina 33 | nativo]]
+
+Gazeta do Povo do Paraná se tornaram réus em 47 ações propostas individualmente
+
+por juízes e promotores atuantes naquele Estado. O órgão de imprensa, com base na
+
+Lei de Acesso à Informação, havia obtido informações sobre as remunerações dos
+
+magistrados e, por entender que superavam, em diversos casos, o teto constitucional,
+
+publicou matéria de teor crítico, revelando os valores recebidos. Os jornalistas e o
+
+órgão de imprensa foram obrigados a percorrer dezenas de comarcas do interior para
+
+responder às ações, nada obstante tivessem se limitado a divulgar informações
+
+públicas. A Ministra Rosa Weber, providencialmente, suspendeu os processos, por
+
+meio da decisão que se segue:
+
+(...)2. A presente reclamação foi proposta pela Editora Gazeta do Povo
+S/A e Outro(a/s) contra diversos Juízos do Estado do Paraná, em razão
+do ajuizamento de mais de trinta ações indenizatórias por magistrados
+estaduais alegadamente ofendidos com a publicação de reportagem e
+coluna opinativa sobre a remuneração dos membros do Poder
+Judiciário e do Ministério Público daquele Estado. (...) 11. Registro
+que, além da indicação de fato novo para o processamento da
+reclamação fundada no descumprimento de parâmetro em sede de
+controle concentrado desta Suprema Corte, os agravantes demonstram
+a existência de áudio obtido em audiência realizada em 25/05/2016,
+nos autos do Processo 0012497-08.2016.8.16.0182, em trâmite perante
+o 5º Juizado Especial Cível de Curitiba, no qual o autor daquela ação
+afirma que alguns juízes, dentre os quais se inclui, foram mobilizados
+para o ingresso das ações e cogita-se de “(…) mais 200 juízes para as
+próximas ações”. 12. Considerado o número de demandas já
+ajuizadas, que ultrapassa quarenta, espalhadas por dezenove cidades
+do Paraná, e tendo em vista o teor do áudio acima mencionado, não
+se pode afastar o risco de dano, decorrente do comprometimento, cada
+vez maior, do pleno exercício do direito de defesa nas ações em
+trâmite, que se diz efetuado com grave prejuízo financeiro e pessoal
+dos reclamantes, compelidos a se deslocar por todo o Estado para
+comparecimento em audiências. 13. Ante o exposto, (...) concedo a
+medida acauteladora para o fim suspender os efeitos da decisão
+reclamada, bem como o trâmite das ações de indenizações propostas
+em decorrência da matéria jornalística e coluna opinativa apontadas
+pelos reclamantes, até o julgamento do mérito desta reclamação. (...)
+(Rcl 23899 Agr, Rel. Min. Rosa Weber, DJ 01.08.2016).
+
+51. A propósito desse caso, Artur Romeu, representante de Repórteres
+
+Sem Fronteiras no Brasil, advertia: “As ações em grande número, com origem em
+
+33
+
+[[pagina 34 | nativo]]
+
+diversos pontos do estado, obrigam os profissionais a fazerem deslocamentos
+
+constantes, inviabilizando o trabalho dos jornalistas e gerando grandes custos para
+
+o jornal”. Segundo ele, “O abuso do direito legítimo à reparação judicial pode
+
+rapidamente assumir contornos de represália e censura, em especial vindo de
+
+autoridades públicas. Fica realmente a impressão, nesse caso, de que os processos
+
+fazem parte de uma ação coordenada em retaliação à reportagem, o que tem
+
+definitivamente um efeito negativo sobre a liberdade de imprensa no país.”22
+
+52. Um terceiro caso que se pode tomar como exemplo, dentre dezenas
+
+de outros, é o do comentarista de TV Ricardo Sennes, que, após fazer comentários
+
+públicos sobre caçadores, atiradores e colecionadores de armas (CACs), se tornou réu
+
+em 67 processos, ajuizados em 35 cidades diferentes. O Juiz de Direito Roberto
+
+Chiminazzo Júnior, titular da 2ª Vara do Juizado Especial Civil, incumbido de julgar
+
+um dos casos (Processo 1014012-53.2020.8.26.0114), ao proferir sentença de
+
+improcedência, condenou o autor por litigância de má-fé, considerando a prática de
+
+“assédio judicial”:
+
+“Comprovado, como já destacado acima, que o autor utilizou-se do
+Judiciário para fins ilícitos (constranger e causar desconforto ao réu)
+por discordar de seu ponto de vista, ciente da completa falta de
+fundamento de sua pretensão, sendo noticiado pelo réu, inclusive o
+declarado intuito do grupo no mesmo sentido, tendo sido ajuizadas
+pelo menos 65 outras ações iguais a esta, em verdadeira campanha
+de ‘assédio judicial’, conforme demonstrado pelos documentos que
+acompanham a defesa, caracterizada a litigância de má-fé por parte
+do autor, nos termos do art. 80, III do CPC.”
+
+53. Para se evitar a perpetuação dessa modalidade de ataque à imprensa,
+
+requer-se que o STF realize interpretação conforme a Constituição dos artigos 79,
+
+80 e 81 do Código de Processo Civil, de modo estabelecer a interpretação segundo
+
+a qual o ajuizamento de múltiplas ações com o objetivo de intimidar jornalistas e
+
+órgãos de imprensa é conduta ilegítima, caracterizada como litigância de má-fé,
+
+22 https://www.dw.com/pt-br/justi%C3%A7a-d%C3%A1-margem-a-uma-nova-forma-de-censura-
+no-brasil/a-19346073
+
+34
+
+[[pagina 35 | nativo]]
+
+passível de gerar o dever de indenizar a vítima. A hipótese acima se subsume, em
+
+especial, à prevista no art. 80, III: o processo judicial foi empregado para alcançar o
+
+objetivo ilícito de cercar o debate público, furtar ao conhecimento da opinião pública
+
+fatos de interesse jornalístico, calar a imprensa. Diante da litigância de má-fé, além
+
+de condenar os autores ao pagamento de ônus sucumbenciais (custas e honorários),
+
+o Judiciário deverá condená-los também ao ressarcimento dos danos materiais e
+
+morais sofridos pelo jornalista e pelos órgãos de imprensa, bem como ao pagamento
+
+de multa, fixada nos termos do artigo 81.
+
+54. A prática do assédio judicial, porém, não atenta apenas contra os
+
+direitos individuais do jornalista e dos órgãos de imprensa. Atenda também contra o
+
+direito à informação e a liberdade de expressão, titularizados difusamente por toda
+
+a sociedade. Empresas e agentes públicos que retaliam jornalistas despertam nos
+
+demais profissionais e órgãos de imprensa o receio de serem igualmente vítimas de
+
+assédio judicial. Com isso, não se limitam a inviabilizar o trabalho do jornalista
+
+processado. Para se prevenirem contra a crítica pública, produzem efeito resfriador
+
+sobre o debate público, com o que conseguem continuar a se conduzirem em
+
+desacordo com o direito e a ética. Em excerto do voto do Justice William J. Brennan
+
+Jr, no caso New York Times Co. v. Sullivan (376 U.S. 254 [1964]), lê-se essa
+
+importante advertência:
+
+“O medo de indenizações sob uma regra como a invocada pelos
+tribunais do Alabama pode ser muito mais inibidor do que o medo de
+um processo criminal. [...] Quer um jornal possa sobreviver ou não a
+uma sucessão de tais julgamentos, a mortalha de medo e timidez
+imposta àqueles que dariam voz à crítica pública é uma atmosfera na
+qual as liberdades da Primeira Emenda não podem sobreviver.”23
+
+23 Como esclarece Owen Fiss, a jurisprudência norte-americana “estabelece limites sobre a
+capacidade do Estado de silenciar seus críticos, em particular a imprensa, por meio de
+procedimentos civis e políticos”. A Suprema Corte limita "o poder de oficiais públicos de receber
+indenizações em ações de difamação, decidindo que oficiais públicos não podem ser indenizados
+por afirmações falsas sobre o desempenho de suas atividades, a menos que eles provem que aquelas
+afirmações foram publicadas ou transmitidas com conhecimento ou grave negligência (reckless
+disregard) sobre sua falsidade”. (FISS, Owen M. A ironia da liberdade de expressão: Estado,
+regulação e diversidade na esfera pública. Tradução e prefácio de Gustavo Binenbojm e Caio Mário
+
+35
+
+[[pagina 36 | nativo]]
+
+55. O dano produzido por esses processos transcende, em muito, o que
+
+alcança o jornalista diretamente afetado. Toda a sociedade é atingida em seu direito
+
+à informação, e todos os jornalistas e órgãos de imprensa arrefecem suas críticas, sob
+
+a ameaça de terem sua atividade inviabilizada. Por isso, a sociedade também faz jus
+
+ao ressarcimento de dano moral coletivo24, o que deverá ser alcançado por meio do
+
+ajuizamento de ação coletiva pelo Ministério Público ou por associações
+
+representativas da sociedade civil. Convém, a propósito, mencionar o que decidiu a
+
+Corte Interamericana de Direitos Humanos no caso A última tentação de Cristo
+
+v. Chile, segundo a qual a liberdade de expressão “requer, por um lado, que ninguém
+
+seja arbitrariamente menoscabado ou impedido de manifestar seu próprio
+
+pensamento, o que consubstancia direito de cada indivíduo; mas implica também,
+
+por outro lado, um direito coletivo a receber informações e a conhecer o pensamento
+
+alheio”.
+
+56. O emprego dos institutos acima pode exercer poder dissuasório e
+
+servir à reparação dos danos já sofridos. Mas ainda é insuficiente para impedir que a
+
+atividade jornalística seja abruptamente interrompida. A necessidade de se descolocar
+
+diariamente para várias comarcas, muitas vezes situadas em diferentes estados da
+
+federação, e a de contratar inúmeros advogados, para conduzirem múltiplas defesas,
+
+oneram o jornalista em proporção apenas suportável por aqueles vinculados a grandes
+
+empresas de comunicação social. Para as pequenas empresas jornalísticas e
+
+da Silva Pereira Neto. Rio de Janeiro: Renovar, 2005). Com razão, Dworkin definiu o Caso New
+York v. Sullivan como a modern foundation of the American law of free speech, cujos parâmetros
+foram essenciais para a apuração do caso Watergate e outros semelhantes. (DWORKIN, Ronald. O
+Direito da Liberdade: a leitura moral da Constituição Norte-americana. São Paulo: Martins Fontes,
+2006).
+24 Como esclarece Bittar Filho, dano moral coletivo “é a injusta lesão da esfera moral de uma dada
+comunidade, ou seja, é a violação antijurídica de um determinado círculo de valores coletivos”
+(BITTAR FILHO, Carlos Alberto. Do dano moral coletivo no atual contexto jurídico brasileiro.
+Revista de Direito do Consumidor, v. 12, out./dez., 1994). No mesmo sentido, sustenta Bessa que “a
+condenação judicial por dano moral coletivo é sanção pecuniária, de caráter eminentemente punitivo,
+em face de ofensa a direitos coletivos ou difusos nas mais diversas áreas (consumidor, meio
+ambiente, ordem urbanística etc)”. (BESSA, Leonardo Roscoe. Dano Moral Coletivo. Revista da
+Direito e Liberdade, Mossoró, v. 7, n. 3, p. 237 – 274, jul./dez. 2007)
+
+36
+
+[[pagina 37 | nativo]]
+
+jornalistas independentes, não há alternativa: resta-lhes interromper as atividades ou
+
+deixar os processos correrem à revelia.
+
+57. Esse uso desleal e abusivo do direito de ação implica a violação do
+
+devido processo legal (CF, art. 5º, LIV), do qual se deriva o princípio da boa-fé. Os
+
+obstáculos opostos ao exercício do direito de defesa violam o princípio da ampla
+
+defesa (CF, art. 5º, LV). Para dar conta da imperiosa necessidade de se preservarem
+
+esses princípios, além da liberdade de imprensa e do direito à informação, requer-se
+
+ao STF a realização de interpretação conforme do artigo 53 do CPC, de modo a se
+
+determinar que a competência para julgar as ações seja fixada no domicilio do
+
+jornalista ou do órgão de imprensa e que as ações repetidas sejam reunidas,
+
+adotando-se, por analogia, a sistemática derivada do art. 2º, parágrafo único, da Lei
+
+da Ação Civil Pública (Lei n. 7347/1985), do art. 5º, § 3º, da Lei da Ação Popular
+
+(Lei n. 4.714/1965) e do art. 55, § 1º, do CPC.
+
+58. A propositura da primeira ação torna o juízo prevento, devendo
+
+lhe serem redistribuídas as demais ações que venham a ser propostas posteriormente
+
+(aplicação analógica da Lei nº 7.347/1985, art. 2º, parágrafo único, e da Lei nº
+
+4.714/1965, art. 5º, § 3º). Todos os processos serão reunidos e julgados
+
+conjuntamente (Código de Processo Civil, art. 55, § 1º).
+
+II. 4. NOTA FINAL: MAIS UM CAPÍTULO NA HISTÓRIA JURISPRUDENCIAL DE
+
+DEFESA DA LIBERDADE DE EXPRESSÃO
+
+59. É conhecida a concepção de Dworkin segundo a qual as novas
+
+decisões judiciais são como capítulos novos de um romance: tais capítulos podem
+
+tratar de fatos novos e veicular novas interpretações, mas precisam ser coerentes com
+
+os capítulos que foram escritos antes. As decisões novas esclarecem novas dimensões
+
+37
+
+[[pagina 38 | nativo]]
+
+da normatividade constitucional, mas essa atividade deve se inserir coerentemente na
+história jurisprudencial, fazendo sentido à luz da sequência de precedentes da Corte.25
+
+60. A jurisprudência do STF é uma das mais avançadas na garantia da
+
+liberdade de expressão, contando com precedentes que têm concorrido para preservar
+
+o país na esfera das nações livres e democráticas. Dentre inúmeros outros
+
+precedentes, considerem-se os que se seguem:
+
+(a) No julgamento da ADPF n. 130, o STF declarou a não recepção da Lei de
+
+Imprensa (Lei nº 5.250/1967), por seu vício de origem – a lei havia sido
+
+aprovada pelo regime militar – e por servir à limitação ilegítima da liberdade
+
+de expressão, disciplinando o exercício da censura no Brasil.
+
+(b) Na ADI 4451, o STF declarou inconstitucional dispositivos da Lei nº
+
+9.504/1997, a Lei de Eleições, que proibiam veiculação de programas
+
+humorísticos envolvendo partidos e candidatos, nos três meses antecedentes
+
+às eleições.
+
+(c) Na ADI n. 4815, o STF conferiu interpretação conforme à Constituição aos
+
+arts. 20 e 21 do Código Civil, para declarar inexigível autorização da pessoa
+
+biografada ou de coadjuvantes para que pudessem ser publicadas obras
+
+biográficas, literárias ou audiovisuais.
+
+(d) Na ADPF n. 548, foi declarada inconstitucional a interpretação dos artigos 24
+
+e 37 da Lei das Eleições (Lei 9.504/1997) que vedava a publicidade eleitoral
+
+em bens públicos, a qual dava fundamento a diversas operações policiais em
+
+universidades públicas brasileiras para cercear a liberdade de expressão dos
+
+integrantes da comunidade universitária.
+
+61. Por meio da presente ADI, sustenta-se perante o STF a conveniência
+
+e a necessidade de que a Corte escreva mais um capítulo nessa história de liberdade,
+
+contribuindo para aprimorar a garantia dos direitos fundamentais e a integridade do
+
+25 DWORKIN, R. O Império do Direito. São Paulo: Martins Fontes, 2014.
+
+38
+
+[[pagina 39 | nativo]]
+
+espaço público brasileiro em face dos novos desafios surgidos no contexto presente.
+
+PARTE III – CAUTELAR
+
+62. Requer-se a concessão de medida cautelar (arts. 10 da Lei nº 9.868,
+
+de 1999), presentes seus requisitos autorizadores.
+
+63. Presente o fumus boni iuris, demonstrado por meio dos argumentos
+
+apresentados acima. Ressalte-se, em especial, que a probabilidade da procedência
+
+final da presente ADI pode ser deduzida da circunstância de que grande parte dos
+
+pedidos se baseia na jurisprudência do próprio Supremo Tribunal Federal e na melhor
+
+jurisprudência internacional comparada.
+
+64. O periculum in mora decorre do agravamento progressivo dos
+
+ataques à liberdade de expressão no Brasil. O jornalismo profissional sofre o assédio
+
+decorrente da proliferação de notícias falsas (‘fake news’), de discursos de ódio
+
+veiculados contra órgãos de imprensa, da abertura de processos criminais contra
+
+jornalistas e do emprego de ações cíveis como forma de desencorajar o exercício
+
+legítimo da crítica pública. Essas tendências conjugadas têm convertido o Brasil em
+
+um país cada vez mais inóspito para o jornalismo. O contexto está descrito, por
+
+exemplo, no relatório elaborado pela organização não-governamental Repórteres
+
+Sem Fronteira, intitulado “Um ano sombrio para a liberdade de imprensa no Brasil”.
+
+No documento, estão registrados 580 ataques contra a imprensa ocorridos em 2020
+
+no país.26 Desde o ano passado, o Brasil figura na desabonadora 107ª posição no
+
+ranking mundial da liberdade de imprensa.27
+
+65. Diante das razões expostas, requer-se a concessão de cautelar para
+
+26 Disponível em: < https://rsf.org/pt/relacoes/um-ano-sombrio-para-liberdade-de-imprensa-no-
+brasil-580-ataques-contra-midia-em-2020 >. Acesso em 01/03/2021.
+27 Disponível em: < https://rsf.org/pt/brasil >. Acesso em 01/03/2021.
+
+39
+
+[[pagina 40 | nativo]]
+
+que, enquanto não se julgue definitivamente o mérito da presente ação, (a) se
+
+determine a suspensão dos processos instaurados para se promover a
+
+responsabilização civil de jornalistas e órgãos de imprensa, bem como das execuções
+
+das sentenças condenatórias decisões já proferidas, nos termos do art. 5º, § 3º, da Lei
+
+n. 9.882/99 e do art. 10 da Lei n. 9.868/99, ou, alternativamente, (b) se confira:
+
+1) interpretação conforme a Constituição aos artigos 186
+
+e 927 do Código Civil, de modo a estabelecer a
+
+interpretação segundo a qual a responsabilização de
+
+jornalista, ou do respectivo órgão de imprensa, somente
+
+deve ocorrer quando se comprovar que agiu com dolo ou
+
+culpa grave;
+
+2) interpretação conforme a Constituição ao art. 835,
+
+caput e seu § 1º, do Código de Processo Civil, para se
+
+excluir de seu âmbito de incidência os casos em que figure
+
+como executado jornalista ou veículo de imprensa de
+
+pequeno porte;
+
+3) interpretação conforme a Constituição aos artigos 79,
+
+80 e 81 do Código de Processo Civil, de modo estabelecer
+
+a interpretação segundo a qual o ajuizamento de múltiplas
+
+ações com o objetivo de intimidar jornalistas e órgãos de
+
+imprensa, no âmbito de estratégia de assédio judicial, gera
+
+o dever de ressarcir danos materiais e morais aos réus,
+
+além do de arcar com multa e ônus sucumbenciais;
+
+4) interpretação conforme a Constituição ao artigo 927,
+
+caput e parágrafo único, do Código Civil, para estabelecer
+
+a interpretação segundo a qual a prática do assédio
+
+judicial produz dano moral coletivo, passível de ser
+
+apurado e ressarcido por meio do ajuizamento de ação
+
+40
+
+[[pagina 41 | nativo]]
+
+coletiva, a ser proposta pelo Ministério Público e por
+
+associações representativas da sociedade civil;
+
+5) interpretação conforme a Constituição ao artigo 53 do
+
+Código de Processo Civil, para estabelecer a interpretação
+
+segundo a qual a competência para processar e julgar as
+
+ações deve ser fixada no domicílio do jornalista ou do
+
+órgão de imprensa, devendo as ações repetidas ou
+
+conexas serem reunidas junto a um único juízo,
+
+aplicando-se analogicamente o art. 2º, parágrafo único, da
+
+Lei n. 7347/1985, o art. 5º, § 3º, da Lei n. 4.714/1965, e o
+
+art. 55, § 1º, do Código de Processo Civil.
+
+PARTE IV – PEDIDOS
+
+Por todo o exposto, requer-se:
+
+a) seja recebida e julgada procedente a presente ADI;
+
+b) seja concedida medida de urgência pleiteada, enquanto não for
+
+julgado mérito da presente ação;
+
+c) seja julgada procedente a presente ADI para se:
+
+c.1) conferir interpretação conforme a Constituição aos
+
+artigos 186 e 927 do Código Civil, de modo a estabelecer
+
+a interpretação segundo a qual a responsabilização de
+
+jornalista ou do respectivo órgão de imprensa somente
+
+deve ocorrer quando se comprovar que o jornalista agiu
+
+com dolo ou culpa grave;
+
+41
+
+[[pagina 42 | nativo]]
+
+c.2) conferir interpretação conforme a Constituição ao art.
+
+835, caput e seu § 1º, do Código de Processo Civil, para
+
+se excluir de seu âmbito de incidência os casos em que
+
+figure como executado jornalista ou veículo de imprensa
+
+de pequeno porte;
+
+c.3) conferir interpretação conforme a Constituição aos
+
+artigos 79, 80 e 81 do Código de Processo Civil, de modo
+
+a estabelecer a interpretação segundo a qual o
+
+ajuizamento de múltiplas ações com o objetivo de
+
+intimidar jornalistas e órgãos de imprensa, no âmbito de
+
+estratégia de assédio judicial, gera o dever de ressarcir
+
+danos materiais e morais aos réus, além do de arcar com
+
+multa e ônus sucumbenciais;
+
+c.4) conferir interpretação conforme a Constituição ao
+
+artigo 927, caput e parágrafo único, do Código Civil, para
+
+estabelecer a interpretação segundo a qual a prática do
+
+assédio judicial provoca dano moral coletivo, passível de
+
+ser apurado e ressarcido por meio do ajuizamento de ação
+
+coletiva, a ser proposta pelo Ministério Público e por
+
+associações representativas da sociedade civil;
+
+c.5) conferir interpretação conforme a Constituição ao
+
+artigo 53 do Código de Processo Civil, de modo a se
+
+estabelecer a interpretação segundo a qual a competência
+
+para processar e julgar as ações é a do domicílio do
+
+jornalista ou do órgão de imprensa, devendo as ações
+
+repetidas ou conexas serem reunidas junto a um único
+
+juízo, aplicando-se analogicamente o art. 2º, parágrafo
+
+único, da Lei n. 7347/1985, o art. 5º, § 3º, da Lei n.
+
+42
+
+[[pagina 43 | nativo]]
+
+4.714/1965, e o art. 55, § 1º, do Código de Processo Civil;
+
+d) sejam solicitadas informações ao Congresso Nacional e à
+
+Presidência da República
+
+e) seja citado o Advogado-Geral da União, nos termos do art. 103,
+
+§ 3º, da Constituição.
+
+f) seja notificado o Exmo. Sr. Procurador-Geral da República, para
+
+que emita o seu parecer, nos termos do art. 103, § 1º, da
+
+Constituição.
+
+Termos em que pede deferimento.
+
+Brasília/DF, 07 de abril de 2021.
+
+Cláudio Pereira de Souza Neto Natáli Nunes da Silva
+OAB/DF nº 34.238 OAB/DF nº 24.439
+
+Assinado de forma digital por FERNANDO LUIS
+FERNANDO LUIS COELHO ANTUNES
+COELHO ANTUNES Dados: 2021.04.07 17:36:35 -03'00'
+Fernando Luís Coelho Antunes
+OAB/DF nº 39.513
+
+43
+
+[[pagina 44 | nativo]]
+
+ROL DE DOCUMENTOS
+
+1. Documento pessoal do Presidente da ABI, Paulo Jeronimo de Sousa (doc. 1)
+
+2. Procuração (doc. 2)
+
+3. Listas de associados de cada estado (doc. 3, lista anexa)
+
+4. Estatuto da ABI (doc. 4)
+
+5. CNPJ ABI (doc. 5)
+
+6. Ata da Assembleia (doc. 6)
+
+7. Ata de posse da Diretoria (2020-2021) (doc. 7)
+
+8. Parecer elaborado pelo Professor Lênio Luiz Streck (doc. 8)
+
+9. Dispositivos legais impugnados (doc. 9 e 10)
+
+44

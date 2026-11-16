@@ -1,0 +1,1695 @@
+[[pagina 1 | nativo]]
+COLENDO SUPREMO TRIBUNAL FEDERAL
+
+EXCELENTÍSSIMO SENHOR MINISTRO NUNES MARQUES
+
+Distribuição, por conexão, às ADI 6656/SP e 6673/SP
+
+CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS GERAIS,
+
+PREVIDÊNCIA PRIVADA E VIDA, SAÚDE SUPLEMENTAR E CAPITALIZAÇÃO (“CNSeg”), entidade
+
+de classe de âmbito nacional, que congrega as Federações que representam as empresas
+
+integrantes dos segmentos de Seguros, Previdência Privada Complementar Aberta e Vida, Saúde
+
+Suplementar e Capitalização, que atuam em território nacional, com sede na Cidade e Estado
+
+do Rio de Janeiro, na Rua Senador Dantas nº 74, 16º andar, CEP 20.031-205, inscrita no CNPJ/MF
+
+sob o nº 10.393.001/0001-05 (Doc. 01), com endereço eletrônico
+
+intimacoestributarionovocpc@bicharalaw.com, por seus advogados (Doc. 02), vem à presença
+
+de Vossa Excelência, com fulcro nos artigos 102, inciso I, alíneas “a” e “p” e 103, inciso IX da
+
+Constituição Federal de 1988 (“CF/88”), bem como no artigo 2º, inciso IX e 10º da Lei nº 9.868,
+
+de 10 de novembro de 1999 (“Lei nº 9.868/99”), propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+COM PEDIDO DE CAUTELAR
+
+objetivando a declaração de inconstitucionalidade, formal e material, do artigo 22, inciso II, da
+
+Lei Estadual nº 17.293/2020, do artigo 2º, inciso I, alíneas “a”, “d” e “g” do Decreto Estadual nº
+
+65.254/2020, bem como do artigo 1º, inciso I, alínea “a” e artigo 2º, alínea “t” do Decreto
+
+Estadual nº 65.255/2020, editados pelo Estado de São Paulo, que revogaram as isenções do
+
+
+[[pagina 2 | nativo]]
+Imposto sobre a Circulação de Mercadorias e Serviços (“ICMS”) sobre as operações (i) com os
+
+equipamentos e insumos destinados à prestação de serviços de saúde e (ii) diversos
+
+medicamentos, pelas razões de fato e direito expostos a seguir.
+
+I. LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+
+1. A legitimidade ativa da Requerente tem como fundamento o artigo 103, inciso
+
+IX, da CF/88 e o artigo 2º, inciso IX, da Lei nº 9.868/1999, que preveem as entidades de classe
+
+de âmbito nacional como legitimadas para a propositura de Ação Direta de
+
+Inconstitucionalidade ("ADI").
+
+2. A Requerente é, portanto, nos termos do artigo 1º do seu Estatuto Social1, uma
+
+associação civil, não sindical, sem fins lucrativos, com atuação em todo o território nacional, que
+
+congrega e representa outras associações (chamadas de Federações), entre elas, as que
+
+integram as empresas dos segmentos de planos de assistência à saúde e seguro-saúde que
+
+atuam em território nacional e, nessa qualidade, detém legitimidade para o ajuizamento da
+
+presente ação direta, pois preenche os requisitos fixados pela jurisprudência deste Supremo
+
+Tribunal Federal (“STF”).
+
+3. Ademais, a homogeneidade dos interesses das empresas representadas é
+
+inequívoca, pois congrega categoria econômica homogênea e bem definida, isto é, a das
+
+Federações que representam as empresas integrantes dos segmentos de seguros gerais,
+
+previdência privada e vida, saúde suplementar e capitalização.
+
+1 “Art. 1º – A CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS GERAIS, PREVIDÊNCIA PRIVADA E VIDA, SAÚDE
+SUPLEMENTAR E CAPITALIZAÇÃO - CNseg, regida por este Estatuto Social e pelas disposições legais aplicáveis,
+doravante designada CNseg, com base territorial em todo território nacional, sede na rua Senador Dantas, nº 74, 16º
+(parte), Centro, Rio de Janeiro, Cep: 20031-205 e foro na cidade do Rio de Janeiro, Estado do Rio de Janeiro é uma
+associação civil, sem fins lucrativos, com atuação no território nacional, que congrega as Federações que representam
+as empresas integrantes do segmentos de Seguros, Resseguros, Previdência Privada e Vida, Saúde Suplementar e
+Capitalização. Parágrafo único - A CNseg poderá manter escritórios de representação em qualquer ponto do território
+nacional.” (grifo nosso)
+
+[[pagina 3 | nativo]]
+4. Além disso, seu caráter nacional é comprovado diante do fato de que as
+
+Federações que a compõem representam entidades que atuam em mais de 9 (nove) unidades
+
+da Federação, conforme a jurisprudência deste STF2.
+
+5. No que diz respeito à representação de empresas que operam planos de
+
+assistência à saúde e seguro-saúde que atuam no território nacional, dentre suas representadas,
+
+estão algumas das maiores operadoras do Brasil, tais como Allianz Saúde, Amil Assistência
+
+Médica Internacional., Grupo Bradesco Saúde , Gama Saúde, Central Nacional Unimed, Vision
+
+Med Assistência Médica Ltda., ITAUSEG Saúde S.A., MetLife Planos Odontológicos, Grupo
+
+NotreDame Intermédica Saúde, Odontoprev, Grupo Sul América Saúde,Omint Serviços de
+
+Saúde, Porto Seguro – Seguro Saúde, Unimed Seguros Saúde, Sompo Saúde Seguros e as quais
+
+serão profunda e gravemente impactadas pela decisão que advier do presente feito.
+
+6. Por fim, a jurisprudência deste STF destaca a pertinência temática como
+
+requisito objetivo qualificador da própria legitimidade ativa ad causam para a instauração do
+
+controle abstrato de normas. Com isso, exige-se a existência de correlação entre o objeto do
+
+pedido de declaração de inconstitucionalidade e os objetivos institucionais da entidade.
+
+7. Constituindo-se como Confederação dedicada à defesa dos interesses da classe
+
+por ela representada de empresas que operam planos de assistência à saúde e seguro saúde
+
+que atuam no território nacional, a Requerente possui firme interesse na declaração da
+
+inconstitucionalidade de normas que, desrespeitando a CF/88, prejudiquem direta ou
+
+indiretamente as atividades das operadoras de planos de assistência à saúde e seguro saúde.
+
+8. No presente caso, a matéria discutida é de inegável relevância. Saliente-se que,
+
+segundo dados disponibilizados pela Agência Nacional de Saúde Suplementar (“ANS”)3, o
+
+número de beneficiários de planos privados de assistência médica com ou sem odontologia, até
+
+dezembro de 2020, ultrapassa o patamar de 47 milhões, o que evidencia que o aumento
+
+substancial do ICMS sobre equipamentos, insumos destinados à prestação de serviços de saúde
+
+e diversos medicamentos, que os planos de saúde estão obrigados a fornecer, impactam
+
+2 STF, ADI 3.617 AgR, Rel. Min. Cezar Peluso, Plenário, julgado em 25.05.2011
+3 https://www.ans.gov.br/perfil-do-setor/dados-gerais
+
+[[pagina 4 | nativo]]
+fortemente as finanças dos operadores de planos de saúde e o repasse deste custo no preço do
+
+serviço afeta diretamente uma parcela considerável da população.
+
+9. Diante do exposto, considerando o impacto, os efeitos jurídicos e econômicos
+
+que o artigo 22, inciso II, da Lei Estadual nº 17.293/2020, bem como os Decretos Estaduais nºs
+
+65.254/2020 e 65.255/2020 causam sobre os direitos das empresas do setor econômico
+
+tutelado pela Requerente, não restam dúvidas quanto à comprovação da pertinência temática
+
+necessária para o ajuizamento da presente Ação Direta de Inconstitucionalidade, nos termos da
+
+jurisprudência pacífica deste STF4.
+
+II. DISPOSITIVOS LEGAIS IMPUGNADOS
+
+10. O Convênio CONFAZ nº 01/99 autorizou os Estados a concederem isenção sobre
+
+operações com equipamentos e insumos destinados à prestação de serviços de saúde indicados
+
+no Anexo daquela norma. Adicionalmente, os Convênios CONFAZ nºs 162/94, 10/02, 73/10 e
+
+140/01 autorizaram os Estados a concederem isenção nas operações com medicamentos
+
+destinados ao tratamento de Câncer, Aids, Gripe A (H1N1) e Diversas Outras Doenças,
+
+respectivamente.
+
+11. Neste ponto, é importante destacar que as isenções supramencionadas foram
+
+internalizadas pelo Estado de São Paulo e estão refletidas nos artigos 2º, 14, 92, 150 e 154, do
+
+Anexo I do RICMS/SP.
+
+12. Não obstante o exposto acima, foi publicado o Convênio CONFAZ nº 42/16, que
+
+supostamente “autorizou” os Estados e o Distrito Federal a reduzirem benefícios fiscais em
+
+detrimento das regras previstas no artigo 155, inciso XII, alínea “g”, da CF/88 e no artigo 2º, §
+
+2º da LC 24/75.
+
+13. Com base nessa suposta “autorização”, o Estado de São Paulo editou a Lei
+
+Estadual nº 17.293/2020 que, no seu artigo 22, inciso II, delegou competência restrita do Poder
+
+4 STF, Plenário, Relator Min. Luiz Fux, ADI 4350; e STF, Plenário, Relator Min. Roberto Barroso, ADI 4701.
+
+[[pagina 5 | nativo]]
+Legislativo ao Poder Executivo, autorizando este último a (i) renovar benefícios fiscais ou (ii)
+
+reduzi-los. Confira-se a redação destes textos normativos:
+
+Convênio Confaz nº 42/16 (Doc. 03)
+
+Cláusula primeira. Ficam os estados e o Distrito Federal
+autorizados a, relativamente aos incentivos e benefícios fiscais,
+financeiro-fiscais ou financeiros, inclusive os decorrentes de
+regimes especiais de apuração, que resultem em redução do
+valor ICMS a ser pago, inclusive os que ainda vierem a ser
+concedidos:
+I - condicionar a sua fruição a que as empresas beneficiárias
+depositem em fundo de que trata a cláusula segunda o
+montante equivalente a, no mínimo, dez por cento do
+respectivo incentivo ou benefício; ou
+II - reduzir o seu montante em, no mínimo, dez por cento do
+respectivo incentivo ou benefício. (Grifou-se)
+Lei Estadual nº 17.293/2020 (Doc. 04)
+
+Artigo 22 - Fica o Poder Executivo autorizado a:
+I - renovar os benefícios fiscais que estejam em vigor na data da
+publicação desta lei, desde que previstos na legislação
+orçamentária e atendidos os pressupostos da Lei
+Complementar federal nº 101, de 4 de maio de 2000;
+II - reduzir os benefícios fiscais e financeiros-fiscais
+relacionados ao Imposto sobre Operações relativas à Circulação
+de Mercadorias e sobre Prestações de Serviços de Transporte
+Interestadual e Intermunicipal e de Comunicação - ICMS, na
+forma do Convênio nº 42, de 3 de maio de 2016, do Conselho
+Nacional de Política Fazendária - CONFAZ, e alterações
+posteriores. (Grifou-se)
+
+14. Além das inconstitucionalidades mencionadas no § 12, a Lei Estadual nº
+
+17.293/2020, ao delegar a competência restrita do Poder Legislativo ao Poder Executivo, violou
+
+frontalmente uma cláusula pétrea da Constituição Federal, qual seja, o Princípio da Separação
+
+dos Poderes, constante no artigo 2º, da CF/88.
+
+15. Ato contínuo, o Estado de São Paulo editou os Decretos Estaduais nºs
+
+65.254/2020 e 65.255/2020, que revogaram as isenções do ICMS para as operações destinadas
+
+a outras entidades que não aquelas classificadas como “hospitais públicos e santas casas”, o
+
+que também violou o Princípio da Legalidade Tributária (Artigo 150, inciso I, da CF/88):
+
+
+[[pagina 6 | nativo]]
+Decreto Estadual nº 65.254/2020 (Doc. 05)
+
+Artigo 2º - Ficam acrescentados, com a redação que se segue,
+os dispositivos adiante indicados ao Regulamento do Imposto
+sobre Operações Relativas à Circulação de Mercadorias e sobre
+Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação - RICMS, aprovado pelo
+Decreto 45.490, de 30 de novembro de 2000:
+
+I - do Anexo I:
+a) o § 4º ao artigo 14:
+“§ 4º - A isenção prevista neste artigo:
+1. aplica-se, apenas, nas operações destinadas a:
+a) hospitais públicos federais, estaduais ou municipais;
+b) santas casas;
+
+d) o § 4º ao artigo 92:
+“§ 4º - A isenção prevista neste artigo:
+1. aplica-se, apenas, nas operações destinadas a:
+a) hospitais públicos federais, estaduais ou municipais;
+b) santas casas;
+
+g) o § 4º ao artigo 150:
+“§ 4º - A isenção prevista neste artigo:
+1. aplica-se, apenas, nas operações destinadas a:
+a) hospitais públicos federais, estaduais ou municipais;
+b) santas casas;
+Decreto Estadual nº 65.255/2020 (Doc. 05)
+
+Artigo 1°- Passam a vigorar, com a redação que se segue, os
+dispositivos adiante indicados do Regulamento do Imposto
+sobre Operações Relativas à Circulação de Mercadorias e sobre
+Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação - RICMS, aprovado pelo
+Decreto 45.490, de 30 de novembro de 2000:
+
+I - do Anexo I:
+a) o § 3º do artigo 2º:
+“§ 3º - A isenção prevista neste artigo:
+1. fica condicionada à concessão de isenção ou alíquota zero do
+Imposto de Importação ou do Imposto sobre Produtos
+Industrializados;
+2. aplica-se, apenas, nas operações destinadas a:
+a) hospitais públicos federais, estaduais ou municipais;
+b) santas casas;
+
+
+[[pagina 7 | nativo]]
+Artigo 2°- Ficam acrescentados, com a redação que se segue, os
+dispositivos adiante indicados ao Regulamento do Imposto
+sobre Operações Relativas à Circulação de Mercadorias e sobre
+Prestações de Serviços de Transporte Interestadual e
+Intermunicipal e de Comunicação - RICMS, aprovado pelo
+Decreto 45.490, de 30 de novembro de 2000:
+
+I - do Anexo I:
+t) o § 3º ao artigo 154:
+“§ 3º - A isenção prevista neste artigo:
+1. aplica-se, apenas, nas operações destinadas a:
+a) hospitais públicos federais, estaduais ou municipais;
+b) santas casas;
+
+16. Conforme o artigo 102, inciso I, alínea “a”, da CF/88, a Ação Direta de
+
+Inconstitucionalidade constitui a via processual adequada para o questionamento de lei ou ato
+
+normativo federal ou estadual que viole a CF/88.
+
+17. O artigo 22, inciso II, da Lei Estadual nº 17.293/2020, bem como os Decretos
+
+Estaduais nºs 65.254/2020 e 65.255/2020, como será constatado, encontram-se em total
+
+dissonância com as regras constitucionalmente previstas de distribuição de competências
+
+legislativas entre os entes federados, bem como violam preceitos constitucionais, motivo pelo
+
+qual deverão ser declarados inconstitucionais e expurgados do ordenamento jurídico.
+
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.1. DA OFENSA AOS ARTIGOS 2º, 150, INCISO I, E 150, § 6º DA CF/88
+
+18. Inicialmente, cabe destacar que o artigo 150, inciso I, da CF/885 (Princípio da
+
+Legalidade) é cristalino ao estabelecer que a instituição ou aumento de tributo somente podem
+
+ocorrer mediante a edição de lei (sentido stricto sensu).
+
+19. O Princípio da Legalidade Tributária constituiu um dos pilares mais importantes
+
+do Direito Constitucional moderno, visto que o Estado de Direito nasceu de razões tributárias.
+
+É exatamente em virtude do princípio da legalidade que a relação jurídico-tributária se
+
+5 “Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados, ao Distrito
+Federal e aos Municípios:
+I - exigir ou aumentar tributo sem lei que o estabeleça; (...)” (Grifou-se)
+
+[[pagina 8 | nativo]]
+caracteriza como relação de direito e não de poder, não havendo nenhuma supremacia de uma
+
+das partes sobre a outra.
+
+20. É da essência do Princípio da Legalidade Tributária que as leis que instituam ou
+
+aumentem tributos sejam elaboradas pelo órgão de representação popular. A sua origem
+
+histórica está vinculada a esta ideia. Nas palavras de Aliomar Baleeiro: "O tributo é ato de
+
+soberania do Estado na medida em que sua cobrança é autorizada pelo povo, através da
+
+representação”6.
+
+21. Corroborando o exposto acima, está o fato de que a CF/88 estabelece
+
+expressamente as únicas exceções ao Princípio da Legalidade Tributária: (i) artigo 153 § 1º, da
+
+CF/88; que permite ao poder executivo alterar as alíquotas sobre o Imposto de Importação (“II”),
+
+Imposto de Exportação (“IE”), Imposto sobre Produtos Industrializados (“IPI”) Imposto sobre
+
+Operações Financeiras (“IOF”); e o (ii) artigo 177 § 4º, inciso I, alínea “b”, da CF/88; que
+
+possibilita ao executivo reduzir ou restabelecer a alíquota da contribuição de intervenção e
+
+domínio econômico (“CIDE”).
+
+22. Assim, por força do Princípio da Legalidade Tributária, exceto nas hipóteses
+
+expressamente previstas no parágrafo anterior, em todos os demais casos se exige lei formal
+
+para instituir ou majorar tributo.
+
+23. O argumento acima ganha ainda mais robustez em razão da recente
+
+interpretação do Supremo Tribunal Federal com relação ao disposto no artigo 150, § 6º da
+
+CF/88.
+
+24. Após discussões sobre a possibilidade de incorporação à legislação estadual de
+
+Convênio por mero decreto do Poder Executivo, foi promulgada a Emenda Constitucional (“EC”)
+
+nº 3/93, que trouxe nova redação ao artigo 150, § 6º da CF/88. A nova redação deixa clara a
+
+imprescindibilidade de lei específica para a concessão de subsídio ou isenção, redução de base
+
+6 Baleeiro, Aliomar. Limitações Constitucionais ao Poder de Tributar. Direito Tributário Brasileiro. 3ª Ed.
+
+[[pagina 9 | nativo]]
+de cálculo, concessão de crédito presumido, anistia ou remissão, relativos aos impostos, taxas
+
+ou contribuições instituídos pelos entes federativos.
+
+25. Com efeito, o legislador pretendeu estabelecer que os Estados e o Distrito
+
+Federal são obrigados (i) respeitar o Princípio da Legalidade Tributária para internalização de
+
+Convênio CONFAZ; bem como (ii) a necessidade de submissão dos benefícios fiscais às regras
+
+contidas no artigo 155, § 2º, Inciso XII, alínea “g”, da CF/88.
+
+26. Sendo assim, a internalização de benefícios fiscais aprovados pelo CONFAZ
+
+depende de ato do Poder Legislativo dos Estados e do Distrito Federal, que representa a vontade
+
+popular. Isso porque, permitir a ratificação de Convênios CONFAZ celebrados apenas por
+
+representação de membros do Poder Executivo, violaria o Princípio da Separação dos Poderes.
+
+27. Recentemente, o STF7 confirmou o entendimento de que a internalização de
+
+Convênio CONFAZ, que aprova qualquer tipo de benefício fiscal, exige a aprovação do Poder
+
+Legislativo Estadual, em razão do Princípio da Legalidade Tributária. Confira-se:
+
+“CONCESSÃO INCENTIVO FISCAL DE ICMS. NATUREZA
+AUTORIZATIVA DO CONVÊNIO CONFAZ. 1. PRINCÍPIO DA
+LEGALIDADE ESPECÍFICA EM MATÉRIA TRIBUTÁRIA. 2.
+TRANSPARÊNCIA FISCAL E FISCALIZAÇÃO FINANCEIRA-
+ORÇAMENTÁRIA.
+1. O poder de isentar submete-se às idênticas balizar do poder
+de tributar com destaque para o princípio da legalidade
+tributária que a partir da EC n.03/1993 adquiriu destaque ao
+prever lei específica para veiculação de quaisquer desonerações
+tributárias (art.150 §6º, in fine)
+2. Os convênios CONFAZ têm natureza meramente autorizativa
+ao que imprescindível a submissão do ato normativo que
+veicule quaisquer benefícios e incentivos fiscais à apreciação da
+Casa Legislativa.
+3. A exigência de submissão do convênio à Câmara Legislativa
+do Distrito Federal evidencia observância não apenas ao
+princípio da legalidade tributária, quando é exigida lei
+específica, mas também à transparência fiscal que, por sua
+vez, é pressuposto para o exercício de controle fiscal-
+orçamentário dos incentivos fiscais de ICMS.
+
+7 Ação Direta de Inconstitucionalidade nº 5.929, Órgão julgador: Tribunal Pleno - Relator(a): Min. EDSON FACHIN -
+Julgamento: 14/02/2020 - Publicação: 06/03/2020
+
+[[pagina 10 | nativo]]
+4. Ação Direta de Inconstitucionalidade julgada improcedente”.
+
+28. No presente caso, tal como o poder de conceder benefícios fiscais, o poder de
+
+reduzir ou suprimir incentivos relaciona-se ao exercício da competência tributária, a qual
+
+somente pode ser exercida por meio de lei específica editada pelo Poder Legislativo, em atenção
+
+ao Princípio da Legalidade Tributária (artigo 150, inciso I, da CF/88).
+
+29. Posto isso, é evidente que os Decretos Estaduais nºs 65.254/2020 e
+
+65.255/2020 ignoraram complementarmente o disposto nos artigos 150, inciso I e 150, § 6º da
+
+CF/88, uma vez que revogaram as isenções do ICMS para as operações destinadas a outras
+
+entidades que não aquelas classificadas como “hospitais públicos e santas casas”, majorando o
+
+tributo em discussão, sem a edição de lei (em sentido stricto sensu).
+
+30. Adicionalmente, por tratar-se de um dos principais alicerces da Federação, a
+
+competência tributária não poderá, nem mesmo, ser objeto de deliberação via proposta de
+
+Emenda à Constituição, que tenha por objetivo abolir a forma federativa de Estado (artigo 60, §
+
+4°, I, da CF/88).
+
+31. Com efeito, a separação e a harmonia entre os Poderes qualificam-se como
+
+matérias ao alcance exclusivo do Poder Constituinte (artigo 2º da CF/88), razão pela qual o STF
+
+repele a chamada “delegação legislativa”, salvo quando formalizada pelo meio
+
+constitucionalmente indicado (artigo 68, § 2º da CF/88).
+
+32. Desse modo, por força do Princípio da Legalidade Tributária, exceto nas
+
+hipóteses expressamente previstas no parágrafo 21 (acima), somente o Poder Legislativo pode
+
+editar lei formal para instituir ou majorar tributo, conforme se extraí da decisão deste STF:
+
+“Matéria tributária e delegação legislativa: a outorga de
+qualquer subsídio, isenção ou crédito presumido, a redução da
+base de cálculo e a concessão de anistia ou remissão em
+matéria tributária só podem ser deferidas mediante lei
+específica, sendo vedado ao Poder Legislativo conferir ao
+chefe do Executivo a prerrogativa extraordinária de dispor,
+normativamente, sobre tais categorias temáticas, sob pena de
+ofensa ao postulado nuclear da separação de poderes e de
+
+
+[[pagina 11 | nativo]]
+transgressão ao princípio da reserva constitucional de
+competência legislativa. Precedente: ADIn 1.296/PE, Rel. Min.
+Celso de Mello." (ADI 1.247-MC, rel. min. Celso de Mello,
+julgamento em 17-8-1995, Plenário, DJ de 8-9-1995.) No mesmo
+sentido: ADI 2.688, rel. min. Joaquim Barbosa, julgamento em
+1º-6-2011, Plenário, DJE de 26-8-2011”
+
+33. Inclusive, o Acórdão da ADI nº 5.929 (citado no parágrafo 27) traz importante
+
+ensinamento do professor Roque Antônio Carrazza8 sobre o tema:
+
+“qualquer exação deve ser instituída ou aumentada não
+simplesmente com base em lei, mas pela própria lei. Noutras
+palavras, o tributo há de nascer diretamente da lei, não se
+admitindo, de forma alguma, a delegação ao Poder Executivo
+da faculdade de instituí-lo ou, mesmo, aumentá-lo”
+
+34. No presente caso, o artigo 22, inciso II, da Lei nº 17.293/2020 “autorizou” o
+
+Poder Executivo a reduzir os benefícios fiscais e financeiros fiscais relacionados ao ICMS,
+
+violando frontalmente o artigo 2º da CF/88. Ou seja, a Lei Estadual delegou competência
+
+indelegável, o que não pode ser admitido por este STF.
+
+35. Diante de todo o exposto, resta evidente que os aludidos Decretos não são
+
+meios legítimos para majoração do ICMS em operações com equipamentos e insumos
+
+destinados à prestação de serviços de saúde, bem como nas operações com medicamentos
+
+destinados ao tratamento de Câncer, Aids, Gripe A (H1N1) e diversas outras doenças, haja vista
+
+a violação ao Princípio da Legalidade Tributária (artigo 150, inciso I, da CF/88), bem como do
+
+Princípio da Separação dos Poderes (artigo 2º da CF/88).
+
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.2. DA OFENSA AO ARTIGO 155, INCISO XII, ALÍNEA “G” DA CF/88
+
+36. O artigo 155, inciso XII, alínea “g”, da CF/88 estabelece que somente a Lei
+
+Complementar poderá tratar a forma como o Estado regulará isenções fiscais e a forma de
+
+concessão e revogação, que se dará mediante deliberação de todos os representantes
+
+estaduais. Confira-se:
+
+8 Carrazza, Roque Antonio. Curso de direito constitucional tributário. São Paulo: Malheiros Editores, 2015, p. 284
+
+[[pagina 12 | nativo]]
+“Art. 155. Compete aos Estados e ao Distrito Federal instituir
+impostos sobre:
+XII - cabe à lei complementar:
+g) regular a forma como, mediante deliberação dos Estados e
+do Distrito Federal, isenções, incentivos e benefícios fiscais
+serão concedidos e revogados” (Grifou-se)
+
+37. A Lei Complementar nº 24, de 7 de janeiro de 1975 (“LC 24/75”), recepcionada
+
+pela CF/88, estabelece que as isenções e demais benefícios fiscais relativos ao ICMS somente
+
+serão concedidos ou revogados nos termos de convênios celebrados e ratificados pelos Estados
+
+e pelo Distrito Federal.
+
+38. Esses convênios são firmados no âmbito do Conselho Nacional de Política
+
+Fazendária (“CONFAZ”), integrado equitativamente por representantes de todos os Estados
+
+membros e do Distrito Federal. Celebram-se em reuniões para as quais tenham sido convocados
+
+representantes de todos os referidos entes políticos, sob a presidência do Governo Federal,
+
+conforme o contido no caput do artigo 2º da mesma lei.
+
+39. O artigo 2º, § 2º da LC 24/75 afirma que, para ser deferido pleito de concessão
+
+de benefício fiscal, exige-se decisão unânime dos Estados representados e do Distrito Federal.
+
+Por sua vez, a revogação total ou parcial dependerá de aprovação de quatro quintos, pelo
+
+menos, dos representantes presentes.
+
+40. A necessidade de concordância dos Estados e do Distrito Federal para a
+
+concessão e revogação de benefícios fiscais decorre da sistemática não cumulativa do imposto.
+
+O montante de ICMS a recolher é apurado mês a mês, considerando-se o total de créditos
+
+decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou serviços.
+
+41. Com efeito, no Brasil, para o cálculo do valor agregado adotou-se o método de
+
+subtração que contém duas etapas: (i) o crédito sobre a fatura, na qual o valor acrescido é
+
+resultado das diferenças entre os valores das vendas com o numerário das aquisições, e (ii) o
+
+“imposto sobre imposto” em que a subtração dá-se indiretamente, pois o valor acrescido é
+
+extraído da identificação do imposto a pagar em operação de venda ou prestação de serviços
+
+para subtrair com o imposto que incidiu sobre as operações e prestações adquiridas.
+
+
+[[pagina 13 | nativo]]
+42. Desta forma, a concessão de benefício fiscal depende da aprovação dos Estados
+
+e do Distrito Federal, pois o contribuinte deve valer-se dos créditos adquiridos na operação
+
+prévia, sem embaraço ou glosa por parte do Estado de destino, o que impacta a arrecadação
+
+deste último.
+
+43. Igualmente, a revogação de benefício fiscal também depende da aprovação dos
+
+Estados e do Distrito Federal, uma vez que o Estado de origem pode ter a sua arrecadação
+
+prejudicada por deixar de cobrar um tributo em determinada operação, sob o acordo coletivo
+
+de que aquela operação não deveria ser onerada.
+
+44. Além disso, a previsibilidade de duração e o procedimento formal para a
+
+revogação de benefícios fiscais são elementos indispensáveis para a consagração do Princípio
+
+da Segurança Jurídica.
+
+45. Diante disso, considerando a interpretação conjunta do artigo 155, inciso XII,
+
+alínea “g”, da CF/88 e do artigo 2º, § 2º da LC 24/75, resta evidente que o Estado de São Paulo
+
+não detém legitimidade para revogar benefícios fiscais por ato unilateral. É indispensável que
+
+o Estado de São Paulo obtenha autorização de quatro quintos, dos representantes dos Estados
+
+e do Distrito Federal, assim como todos os demais entes federativos.
+
+46. Neste ponto, é importante destacar que o Estado de São Paulo historicamente
+
+sempre defendeu a inconstitucionalidade da concessão de benefícios fiscais sem a aprovação
+
+unânime do CONFAZ, em razão da interpretação conjunta dos dispositivos supramencionados.
+
+47. No presente caso, em posição diametralmente oposta, o Estado de São Paulo
+
+ignorou completamente o disposto nos referidos dispositivos e revogou as isenções do ICMS
+
+para as operações destinadas a outras entidades que não aquelas classificadas como “hospitais
+
+públicos e santas casas”, previstas nos Convênio CONFAZ nºs 01/99, 162/94, 10/02, 73/10 e
+
+140/01, sem a edição de Convênio CONFAZ específico.
+
+48. Em outras palavras e utilizando-se de expressão comum no meio jurídico, “o
+
+Estado de São Paulo busca o melhor dos dois mundos”, ou seja, exige a observância do artigo
+
+
+[[pagina 14 | nativo]]
+155, inciso XII, alínea “g”, da CF/88 e do artigo 2º, § 2º da LC 24/75 dos demais Entes da
+
+Federação mas, ao mesmo tempo, se coloca em um patamar superior em relação aos demais
+
+Entes Federativos, não se sujeitando às referidas regras, quando lhe convém.
+
+49. Ademais, cabe destacar que o Convênio CONFAZ nº 42/16, que supostamente
+
+fundamentou a previsão do artigo 22, inciso II, da Lei nº 17.293/2020, não autorizou os Estados
+
+e o Distrito Federal a revogarem benefícios fiscais por ato unilateral indistintamente, pois essa
+
+interpretação incorreria em vício de inconstitucionalidade por violação ao artigo 155, inciso XII,
+
+alínea “g”, da CF/88 e ao artigo 2º, § 2º da LC 24/75.
+
+50. Isso porque, o Convênio CONFAZ não tem capacidade normativa de instituir
+
+direitos e obrigações, haja vista que se trata apenas de um processo legislativo para concessão
+
+e revogação de benefícios fiscais, conforme ensina o Professor Roque Antonio Carrazza:
+
+"Detalhando o assunto, os Estados e o Distrito Federal devem,
+para conceder isenções de ICMS, firmar entre si convênios. Não
+são estes, porém, que as fazem nascer. Apenas integram o
+processo legislativo necessário à concessão destas
+desonerações tributárias. Elas surgem - ou deveriam surgir - do
+decreto legislativo ratificador do convênio interestadual."9
+(Convênios ICMS e art. 14 da lei de Responsabilidade Fiscal - sua
+Inaplicabilidade - Questões Conexas, Revista de Estudos
+Tributários 16, Porto Alegre, 2000, pag. 150 - grifamos)
+
+51. Posto isso, o Convênio CONFAZ nº 42/16 jamais poderia autorizar que os Entes
+
+Federativos, de forma unilateral, concedam ou revoguem benefícios fiscais sem a observância
+
+do disposto no artigo 155, inciso XII, alínea “g”, da CF/88 e no artigo 2º, § 2º da LC 24/75.
+
+52. Em detrimento desta interpretação ampla e irrestrita pretendida pelo Estado de
+
+São Paulo, corrobora o fato de que o CONFAZ continua publicando diversos Convênios ICMS
+
+para revogar benefícios fiscais concedidos aos Estados e ao Distrito Federal mesmo após a
+
+edição do Convênio CONFAZ nº 42/16. Confira-se:
+
+9 Carrazza, Roque Antonio. Convênios ICMS e art. 14 da lei de Responsabilidade Fiscal - sua Inaplicabilidade - Questões
+Conexas. Revista de Estudos Tributários 16, Porto Alegre, 2000.
+
+[[pagina 15 | nativo]]
+Convênio CONFAZ Objeto
+
+Dispõe sobre a adesão do Estado do Amazonas ao Convênio ICMS 26/02, que
+Convênio CONFAZ nº 186, de autoriza as unidades federadas que menciona a revogar o benefício constante do
+16 de outubro de 2019 Convênio ICMS 112/89, que concede redução da base de cálculo do ICMS nas
+saídas internas de gás liquefeito de petróleo.
+Autoriza o Estado de Pernambuco a revogar hipótese de impedimento de uso de
+Convênio CONFAZ nº 184, de
+benefícios fiscais que especifica e de substituir a exigência para a fruição de outro
+16 de outubro de 2019
+benefício.
+Dispõe sobre a adesão do Estado de Alagoas e altera o Convênio ICMS 100/01, que
+autoriza os Estados que identifica a revogar, em relação ao serviço de transporte
+Convênio CONFAZ nº 123, de 5
+dutoviário, o crédito presumido de ICMS previsto no Convênio ICMS 106/96, que
+de julho de 2019
+dispõe sobre concessão de crédito presumido nas prestações de serviços de
+transporte.
+Dispõe sobre a adesão do Estado do Espírito Santo e altera o Convênio ICMS
+100/01, que autoriza os Estados que identifica a revogar, em relação ao serviço de
+Convênio CONFAZ nº 51, de 5
+transporte dutoviário, o crédito presumido de ICMS previsto no Convênio ICMS
+de abril de 2019
+106/96, que dispõe sobre concessão de crédito presumido nas prestações de
+serviços de transporte.
+Dispõe sobre a adesão dos Estados de Pernambuco, Rio Grande do Norte e
+Convênio CONFAZ nº 17, de 13
+Tocantins ao Convênio ICMS 74/07, que autoriza as unidades federadas que
+de março de 2019 menciona a revogar benefício fiscal de ICMS previsto no Convênio ICMS 100/97,
+que dispõe sobre benefícios fiscais nas saídas de insumos agropecuários.
+Dispõe sobre a adesão do Estado de Mato Grosso do Sul às disposições do
+Convênio CONFAZ nº 137, de
+Convênio ICMS 74/07, que autoriza as unidades federadas que menciona a revogar
+28 de novembro de 2018 benefício fiscal de ICMS previsto no Convênio ICMS 100/97, que dispõe sobre
+benefícios fiscais nas saídas de insumos agropecuário
+Convênio CONFAZ nº 66, de 5 Autoriza o Estado do Rio de Janeiro a revogar o benefício fiscal concedido com base
+no Convênio ICMS 106/96, que dispõe sobre concessão de crédito presumido nas
+de julho de 2018
+prestações de serviços de transporte.
+Dispõe sobre a adesão dos Estados do Amazonas e Paraná ao Convênio ICMS
+Convênio CONFAZ nº 28, de 3 100/01, que autoriza os Estados que identifica a revogar, em relação ao serviço de
+transporte dutoviário, o crédito presumido de ICMS previsto no Convênio ICMS
+de abril de 2018
+106/96, que dispõe sobre concessão de crédito presumido nas prestações de
+serviços de transporte.
+Exclui o Estado de Amazonas das disposições do Convênio ICMS 26/02, que
+Convênio CONFAZ nº 07, de 30
+autoriza os Estados do Amazonas, Espírito Santo e Minas Gerais a revogar o
+de janeiro de 2018 benefício constante do Convênio ICMS 112/89, de 07.12.89, que concede redução
+da base de cálculo do ICMS nas saídas internas de gás liquefeito de petróleo.
+Dispõe sobre a adesão do Estado do Acre ao Convênio ICMS 74/07, que autoriza as
+Convênio CONFAZ nº 59, de 16
+unidades federadas que menciona a revogar benefício fiscal de ICMS previsto no
+de maio de 2017 Convênio ICMS 100/97, que dispõe sobre benefícios fiscais nas saídas de insumos
+agropecuários.
+Dispõe sobre a adesão dos Estados do Paraná, Piauí e São Paulo ao Convênio ICMS
+Convênio CONFAZ nº 37, de 7
+74/07, que autoriza as unidades federadas que menciona a revogar benefício fiscal
+de abril de 2017 de ICMS previsto no Convênio ICMS 100/97, que dispõe sobre benefícios fiscais nas
+saídas de insumos agropecuários.
+
+53. A partir da leitura dos Convênios CONFAZ descritos acima, é possível extrair que
+
+onze entes federativos continuam observando as disposições do artigo 155, inciso XII, alínea
+
+“g”, da CF/88 e do artigo 2º, § 2º da LC 24/75, para fins de revogação de benefício fiscal, mesmo
+
+após a edição do Convênio CONFAZ nº 42/16, o que demonstra a total incompatibilidade da
+
+interpretação ampla e irrestrita pretendida pelas Autoridades Fiscais Paulistas.
+
+
+[[pagina 16 | nativo]]
+54. Inclusive, o próprio Estado de São Paulo, mesmo após a edição do referido
+
+Convênio CONFAZ, já solicitou autorização ao CONFAZ para revogar os benefícios fiscais
+
+contidos no Convênio ICMS 74/07, o que demonstra ainda mais a incongruência da
+
+interpretação do Estado de São Paulo.
+
+55. Por fim, cabe mencionar que o STF, nos autos do Recurso Extraordinário nº
+
+635.688, julgado sob a sistemática da Repercussão Geral, firmou o entendimento de que os
+
+Convênios CONFAZ são meramente autorizativos e não impositivos.
+
+56. Por decorrência lógica, o Estado de São Paulo não estava obrigado a internalizar
+
+as disposições contidas nos Convênios CONFAZ nºs 01/99, 162/94, 10/02, 73/10 e 140/01.
+
+Porém, uma vez internalizadas essas disposições, é imperativo que o Estado de São Paulo
+
+observe as regras vigentes para revogação desses benefícios fiscais, quais sejam, (i) edição de
+
+Convênio CONFAZ específico permitindo a revogação; bem como a (ii) edição de lei (sentido
+
+stricto sensu).
+
+57. Diante do exposto, a Requerente tem por demonstrado que a revogação de
+
+benefício fiscal exige a observância conjunta das disposições do artigo 155, inciso XII, alínea “g”,
+
+da CF/88 e do artigo 2º, § 2º da LC 24/75, sob pena do ato incorrer em vício de
+
+inconstitucionalidade.
+
+58. Sendo assim, o Estado de São Paulo, ao revogar os benefícios fiscais contidos
+
+nos Convênios CONFAZ nºs 01/99, 162/94, 10/02, 73/10 e 140/01, sem a edição de Convênio
+
+CONFAZ específico, mas por meio de ato unilateral através da edição dos Decretos Estaduais nºs
+
+65.254/2020 e 65.255/2020, incorreu em vício de inconstitucionalidade, pois não observaram
+
+as normas vigentes para revogação de benefícios fiscais.
+
+
+[[pagina 17 | nativo]]
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.3. DA OFENSA AO ARTIGO 5º, INCISO II, DA CF/88
+
+59. Por fim, caso sejam superados os argumentos mencionados acima, concluindo-
+
+se pela possibilidade do Convênio CONFAZ nº 42/16 “autorizar” os Entes Federativos a
+
+revogarem benefícios fiscais unilateralmente, o que se admite a título meramente
+
+argumentativo, cabe destacar que o referido Convênio somente “autorizou” os Estados a
+
+reduzir os benefícios fiscais que resultem em redução do valor do ICMS a ser pago. Confira-se:
+
+CONVÊNIO CONFAZ Nº 42/16
+
+Cláusula primeira: Ficam os estados e o Distrito Federal
+autorizados a, relativamente aos incentivos e benefícios
+fiscais, financeiro-fiscais ou financeiros, inclusive os
+decorrentes de regimes especiais de apuração, que resultem
+em redução do valor ICMS a ser pago, inclusive os que ainda
+vierem a ser concedidos:
+I - condicionar a sua fruição a que as empresas beneficiárias
+depositem em fundo de que trata a cláusula segunda o
+montante equivalente a, no mínimo, dez por cento do
+respectivo incentivo ou benefício; ou
+II - reduzir o seu montante em, no mínimo, dez por cento do
+respectivo incentivo ou benefício (“Grifou-se”).
+
+60. Conforme visto acima, o referido dispositivo legal trata apenas das hipóteses de
+
+redução do imposto recolhido, que são as hipóteses de redução da base de cálculo por exemplo.
+
+Por outro lado, a isenção é causa de exclusão do crédito tributário, o que não se confunde com
+
+as hipóteses de redução da base de cálculo.
+
+61. De fato, a legislação tributária em diversos diplomas legais deixa bem claro a
+
+diferença no tratamento das isenções em relação as demais hipóteses de redução do imposto
+
+recolhido.
+
+62. Com efeito, o artigo 150, § 6º da CF/88 exige a edição de lei (em sentido stricto
+
+sensu) para a concessão de isenção fiscal. Igualmente, o artigo 178 do CTN exige a edição de lei
+
+(em sentido stricto sensu) para a sua revogação ou modificação. Além disso, o artigo 1º,
+
+
+[[pagina 18 | nativo]]
+Parágrafo único, inciso IV, da LC 24/75 não deixa dúvidas acerca da distinção entre as hipóteses
+
+de redução do imposto pago e da sua eliminação:
+
+Art. 1º - As isenções do imposto sobre operações relativas à
+circulação de mercadorias serão concedidas ou revogadas nos
+termos de convênios celebrados e ratificados pelos Estados e
+pelo Distrito Federal, segundo esta Lei.
+Parágrafo único - O disposto neste artigo também se aplica: (...)
+IV - à quaisquer outros incentivos ou favores fiscais ou
+financeiro-fiscais, concedidos com base no Imposto de
+Circulação de Mercadorias, dos quais resulte redução ou
+eliminação, direta ou indireta, do respectivo ônus;
+
+63. Da análise textual, retira-se que a conjunção “ou” deixa clara a existência e
+
+diferença do resultado de ambos os benefícios, restando evidente a intenção de evitar a
+
+utilização de terminologias incertas para revogação de benefícios fiscais.
+
+64. Diante do exposto, caso sejam superados os argumentos expostos nos itens
+
+anteriores, o Convênio CONFAZ nº 42/16 somente “autorizou” os Entes Federativos a reduzir
+
+benefícios fiscais “que resultem em redução do valor ICMS a ser pago”, o que não se confunde
+
+com as hipóteses de eliminação do imposto devido (isenção).
+
+65. Sendo assim, considerando que o artigo 22, inciso II, da Lei nº 17.293/2020
+
+reproduz a disposição da Cláusula Primeira, inciso II, do Convênio ICMS nº 42/16, ou seja,
+
+permitindo ao Poder Executivo reduzir apenas os benefícios fiscais “que resultem em redução
+
+do valor ICMS a ser pago”, resta evidente que os Decretos nºs 65.254/2020 e 65.255/2020
+
+extrapolaram a sua função regulamentar.
+
+66. Portanto, o Estado de São Paulo, ao revogar benefícios fiscais de isenção através
+
+dos Decretos Estaduais nºs 65.254/2020 e 65.255/2020, em hipótese não permitida no artigo
+
+22, inciso II, da Lei nº 17.293/2020, acabou por violar o Princípio da Legalidade (Artigo 5º, inciso
+
+II, da CF/88).
+
+
+[[pagina 19 | nativo]]
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.4. DA OFENSA AO ARTIGO 150, INCISO II, DA CF/88
+
+67. O artigo 150, inciso II, da CF/88, consagrou o princípio da isonomia tributária, o
+
+qual estabelece que é vedado à União, aos Estados e ao Distrito Federal “instituir tratamento
+
+desigual entre contribuintes que se encontrem em situação equivalente, proibida qualquer
+
+distinção em razão de ocupação profissional ou função por eles exercida, independentemente
+
+da denominação jurídica dos rendimentos, títulos ou direitos”, ou seja, o referido dispositivo
+
+constitucional impede a diferença de tratamento entre contribuintes em situação equivalente.
+
+68. Isso porque só existe igualdade quando a própria lei observa, na escolha dos
+
+critérios de diferenciação, elementos que encontrem fundamento em valores pertinentes ao
+
+objetivo da norma e compatíveis com aqueles acolhidos pela Constituição Federal.
+
+69. Pode-se concluir, portanto, que a isonomia é assegurada por meio de critérios
+
+de diferenciação fixados na norma e que: (a) encontrem fundamento compatível com os valores
+
+postos no sistema constitucional; (b) guardem pertinência lógica entre as situações identificadas
+
+como desiguais e o bem jurídico que se pretende aplicado isonomicamente aos destinatários da
+
+norma; (c) sejam manejados razoável e proporcionalmente em face das situações que se
+
+pretende diferenciar e do fim da diferenciação. Ou seja, o tratamento atribuído às situações não
+
+pode, a pretexto de igualar, acabar por criar uma nova situação anti isonômica.
+
+70. Por sua vez, o direito à saúde é estabelecido pelo artigo 196 da CF/88 como um
+
+“direito de todos e dever do Estado, garantido mediante políticas sociais e econômicas que
+
+visem à redução do risco de doença e de outros agravos e ao acesso universal e igualitário às
+
+ações e serviços para sua promoção, proteção e recuperação”.
+
+71. A partir do citado comando constitucional é possível extrair que o princípio da
+
+isonomia – reproduzido em diversos outros trechos da CF/88 – se fez também presente neste
+
+ponto. Isso porque o artigo 196 da CF/88 deixa claro que as políticas sociais e econômicas na
+
+área da saúde devem ser igualitárias para todo e qualquer cidadão brasileiro
+
+independentemente do serviço ser prestado pela rede pública ou privada.
+
+
+[[pagina 20 | nativo]]
+72. Até porque o Estado possibilitou que empresas privadas, sob sua
+
+regulamentação, fiscalização e controle, prestassem assistência à saúde com o intuito de
+
+otimizar o mandamento constitucional. Ou seja, o Estado fomentou a atividade privada com o
+
+intuito de dividir a missão de concretizar o mandamento constitucional.
+
+73. Inclusive, este Supremo Tribunal Federal, no julgamento do Recurso
+
+Extraordinário nº 597.064/RJ, julgado sob a sistemática da Repercussão Geral, deixou claro que
+
+os planos de saúde devem dividir o ônus e o bônus desta missão. Confira-se trecho do Voto do
+
+Relator Gilmar Mendes:
+
+“Seja o serviço prestado pelo Estado (incluindo empresas
+contratadas ou conveniadas) ou pela rede privada de saúde, a
+partir do momento em que o Estado autoriza que empresas
+privadas possam desempenhar a prestação de relevância
+pública de assegurar assistência médica ou hospitalar e
+ambulatorial, mediante contraprestação pecuniária
+preestabelecida, deve haver o repasse dos bônus e dos ônus”.
+(grifou-se)
+
+74. Desta forma, podemos concluir que o (i) Princípio da Isonomia não permite
+
+discriminação (i.1) incompatível com os valores constitucionais; (i.2) que não possua relação
+
+lógica no fator da diferenciação; (i.3) manejada de forma irrazoável e desproporcional. Além
+
+disso, (ii) o Princípio da Promoção à Saúde garante a todos (ii.1) o acesso às políticas sociais e
+
+econômicas, bem como (ii.2) o acesso igualitário às ações de promoções.
+
+75. Contudo, os Decretos Estaduais nºs 65.254/2020 e 65.255/2020 acabaram por
+
+promover discriminação incompatível com o texto constitucional, uma vez que as empresas
+
+privadas também estão encarregadas de promover o direito à saúde e não apenas o setor
+
+público.
+
+76. Além do mais, a discriminação promovida pelos citados textos normativos não
+
+guardam qualquer pertinência lógica, tendo em vista que será o usuário do plano de saúde que
+
+será afetado em última instância pelo aumento do ICMS. Isso porque o aumento substancial do
+
+ICMS, que os planos de saúde estão obrigados a fornecer, impactarão substancialmente os
+
+
+[[pagina 21 | nativo]]
+custos dos operadores de planos de saúde e o repasse deste custo afetará diretamente uma
+
+parcela considerável da população.
+
+77. Como consequência, uma enorme quantidade de brasileiros deixarão de
+
+contratar os serviços da rede privada, sobrecarregando ainda mais o sistema público da saúde,
+
+o que vai de encontro com o direito à saúde previsto nos artigos 6º e 196 da CF/88.
+
+78. Por fim, o artigo 196 da CF/88 também não permite qualquer discriminação com
+
+relação ao acesso às políticas sociais e econômicas assim como em relação ao acesso igualitário
+
+às ações de promoções do direito em discussão. No presente caso, o Estado de São Paulo,
+
+claramente, excluiu as empresas privadas prestadoras de serviços de assistência à saúde das
+
+políticas econômicas fomentas pelo Estado
+
+79. Vale relembrar que o Estado de São Paulo revogou as isenções do ICMS sobre
+
+as operações (i) com os equipamentos e insumos destinados à prestação de serviços de saúde
+
+e (ii) diversos medicamentos, com relação às operações destinadas a outras entidades que não
+
+aquelas classificadas como “hospitais públicos e santas casas”.
+
+80. Em outras palavras, o Governo Paulista está repassando apenas o ônus do
+
+cumprimento do mandamento constitucional, indo de encontro com as disposições dos artigos
+
+150, inciso II e 196, ambos da CF/88.
+
+81. Desta forma, resta evidente que o critério de diferenciação adotado pelos
+
+Decretos Estaduais nºs 65.254/2020 e 65.255/2020 não guardam qualquer pertinência com o
+
+Princípio da Promoção da Saúde (artigo 6º e 196 da CF/88), bem como contraria o disposto no
+
+artigo 150, inciso II, da CF/88.
+
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.5. DA OFENSA AOS PRINCÍPIOS DA CAPACIDADE CONTRIBUTIVA E PROMOÇÃO À SAÚDE
+
+82. Na teoria clássica do direito, Robert Alexy ensina que os direitos fundamentais
+
+devem ser harmonizados por meio de juízo de ponderação que vise resguardar e concretizar ao
+
+
+[[pagina 22 | nativo]]
+máximo os direitos e bens constitucionalmente tutelados. Entre os princípios fundamentais que
+
+os Convênios CONFAZ nºs 01/99 162/94, 10/02, 73/10 e 140/01 pretendem tutelar, destaca-se
+
+o Princípio da Promoção a Saúde e da Capacidade Contributiva.
+
+83. Inicialmente, vale destacar que o Princípio da Isonomia estabelece que “todos
+
+são iguais perante a lei, sem distinção de qualquer natureza” (artigo 5º, caput, da CF/88). A
+
+igualdade jurídica significa dizer que os contribuintes em situação de equivalência devem
+
+possuir tratamento isonômico. O Princípio da Isonomia é complementado pelo Princípio da
+
+Capacidade Contributiva, previsto no artigo 145, § 1º, da CF/88. De acordo com este princípio,
+
+“sempre que possível, os impostos terão caráter pessoal e serão graduados segundo a
+
+capacidade econômica do contribuinte”.
+
+84. Com base nestes princípios, no âmbito federal, o Imposto sobre a Renda da
+
+Pessoa Física (“IRPF”) concede isenção a diversos rendimentos de pessoas portadores de
+
+moléstias graves10, assim como a legislação do IPI garante isenção na aquisição de veículo
+
+automotor para as pessoas que possuem algum comprometimento físico11.
+
+85. Isso porque, as pessoas que possuem moléstias graves arcam com pesados
+
+encargos como tratamentos cirúrgicos, exames e medicamentos de uso contínuo, que são
+
+dispêndios extras e não comuns entre os cidadãos. Sendo assim, impor o ônus da carga
+
+tributária sobre essas pessoas significa impor um encargo extremamente pesado e
+
+desproporcional com relação aos demais cidadãos.
+
+86. Desta forma, impor o ônus tributário aos cidadãos que necessitam utilizar o
+
+sistema de saúde com mais frequência do que os cidadãos saudáveis, os colocam em patamar
+
+desigual, violando claramente o Princípio da Capacidade Contributiva.
+
+87. Além do mais, vale esclarecer que a ANS é a entidade responsável pela
+
+regulação dos reajustes aplicados pelas operadoras de planos de saúde. Atualmente, existem
+
+10 Artigo 35, inciso II, alíneas “a” e “b” do Decreto nº 9.580/18 (“Regulamento do Imposto de Renda”)
+11 artigo 1º da Lei 8.989/1995
+
+[[pagina 23 | nativo]]
+dois tipos possíveis de aumentos: (i) reajuste anual por variação de custos e (ii) reajuste por
+
+variação de faixa-etária do beneficiário.
+
+88. Conforme visto no tópico anterior, o aumento substancial do ICMS sobre
+
+equipamentos, insumos destinados à prestação de serviços de saúde e diversos medicamentos,
+
+que os planos de saúde estão obrigados a fornecer, impacta substancialmente os custos dos
+
+operadores de planos de saúde e o repasse deste custo afetará diretamente uma parcela
+
+considerável da população.
+
+89. Sendo assim, o aumento do preço do plano de saúde certamente não
+
+acompanhará o aumento do poder aquisitivo da população, o que invariavelmente implicará no
+
+cancelamento de planos de saúde, sobrecarregando ainda mais o sistema público da saúde, o
+
+que vai de encontro com o direito à saúde previsto nos artigos 6º e 196 da CF/88.
+
+90. A jurisprudência da Corte, desde muito diga-se de passagem – no que pertine
+
+ao aumento indevido de custos e os reflexos dele decorrentes na mutualidade inerente ao
+
+regime dos planos de saúde, inclusive à luz dos princípios da livre iniciativa e da liberdade de
+
+contratar – tem sido bastante sensível ao problema. Na ADI 1931/DF, relator o saudoso ministro
+
+Maurício Correa, em que impugnados diversos dispositivos da Lei 9.656/98, ficou assentado que
+
+a previsão de incidência da legislação a contratos preexistentes macula o direito adquirido e o
+
+ato jurídico perfeito.
+
+91. Mais recentemente, no julgamento do Recurso Extraordinário (RG) 948.634/RS,
+
+relator o senhor ministro Ricardo Lewandowski, sobre a incidência do Estatuto do Idoso a
+
+contratos a ele anteriores, reafirmou essa preocupação. Confira-se:
+
+“Portanto, a vedação à retroatividade plena dos dispositivos
+inaugurados pela Lei 9.656/1998, como aqueles que dizem
+respeito à cobertura de determinadas moléstias, além de
+obedecer ao preceito pétreo estampado no art. 5°, XXXVI, da
+CF, também guarda submissão àqueles relativos à ordem
+econômica e à livre iniciativa, sem que se descuide da defesa do
+consumidor, pois todos encontram-se expressamente previstos
+no art. 170 da CF”
+
+
+[[pagina 24 | nativo]]
+92. Nesse mesmo julgamento, o ministro Alexandre de Moraes externou
+
+precisamente o aspecto do sinalagma, algo especialmente muito caro ao regime dos planos de
+
+saúde. Disse Sua Excelência naquela oportunidade:
+
+“Por sua vez, não se pode ignorar que o sistema de
+compensação e composição é uma das molas mestras do
+sistema privado de assistência à saúde suplementar, haja vista
+a necessidade de manter a existência do sinalagma,
+característica imanente aos contratos bilaterais, [compreendida
+como] a relação ou nexo de causalidade (reciprocidade) entre
+as prestações opostas, pactuadas, conforme lecionam PABLO
+STOLZE GAGLIANO e RODOLFO PAMPLONA FILHO (Manual de
+Direito Civil. Volume Único. 3ª ed. São Paulo: Saraiva, 2019.
+Edição do Kindle), sob pena de inviabilizar o arquétipo ideal de
+equilíbrio financeiro e atuarial tão necessário e vital a essa
+modalidade de atividade econômica.”
+
+93. As decisões da Corte abaixo transcritas permitem ver que a orientação tem se
+
+mantido tranquila a respeito:
+
+“EMENTA: CONSTITUCIONAL. FEDERALISMO E RESPEITO ÀS
+REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA. LEI 5.853/2017
+DO DISTRITO FEDERAL. OBRIGAÇÃO DE CONFERIR ACRÉSCIMO
+DE 30 MINUTOS EM ESTACIONAMENTO, APÓS PAGAMENTO DA
+TARIFA. COMPETÊNCIA DA UNIÃO EM MATÉRIA DE DIREITO
+CIVIL, RESSALVADO O ENTENDIMENTO DESTE RELATOR (CF,
+ART. 22, I). DESPROPORCIONALIDADE DA MEDIDA. OFENSA AO
+PRINCÍPIO DA LIVRE INICIATIVA (ART. 170, CAPUT, DA CF).
+INCONSTITUCIONALIDADES FORMAL E MATERIAL
+RECONHECIDAS. PROCEDÊNCIA. 1. As regras de distribuição de
+competências legislativas são alicerces do federalismo e
+consagram a fórmula de divisão de centros de poder em um
+Estado de Direito. Princípio da predominância do interesse. 2. A
+Constituição Federal de 1988, presumindo de forma absoluta
+para algumas matérias a presença do princípio da
+predominância do interesse, estabeleceu, a priori, diversas
+competências para cada um dos entes federativos – União,
+Estados-Membros, Distrito Federal e Municípios – e, a partir
+dessas opções, pode ora acentuar maior centralização de poder,
+principalmente na própria União (CF, art. 22), ora permitir uma
+maior descentralização nos Estados Membros e nos Municípios
+(CF, arts. 24 e 30, inciso I). 3. A Lei 5.853/2017 do Distrito
+Federal, ao assegurar acréscimo de 30 minutos para saída do
+
+
+[[pagina 25 | nativo]]
+estacionamento após o pagamento da tarifa, ressalvado
+entendimento pessoal, viola a competência da União para
+legislar sobre Direito Civil (art. 22, I, CF). Precedentes. 4.
+Ademais, ao estipular o acréscimo em questão, além de se
+mostrar desproporcional ao fim que se almeja, a lei em análise
+interfere na dinâmica econômica da atividade empresarial,
+violando o princípio da livre iniciativa (art. 170, caput, CF). 5.
+Ação Direta conhecida e julgada procedente. (STF, Tribunal
+Pleno, ADI 5792, relator o senhor ministro Alexandre de
+Moraes, j. 11.10.2019)
+
+“EMENTA: CONSTITUCIONAL. ECONÔMICO. INTERVENÇÃO
+ESTATAL NA ECONOMIA: REGULAMENTAÇÃO E REGULAÇÃO DE
+SETORES ECONÔMICOS: NORMAS DE INTERVENÇÃO.
+LIBERDADE DE INICIATIVA. CF, art. 1º, IV; art. 170. CF, art. 37, §
+6º. I. - A intervenção estatal na economia, mediante
+regulamentação e regulação de setores econômicos, faz-se com
+respeito aos princípios e fundamentos da Ordem Econômica.
+CF, art. 170. O princípio da livre iniciativa é fundamento da
+República e da Ordem econômica: CF, art. 1º, IV; art. 170. II. -
+Fixação de preços em valores abaixo da realidade e em
+desconformidade com a legislação aplicável ao setor: empecilho
+ao livre exercício da atividade econômica, com desrespeito ao
+princípio da livre iniciativa. III. - Contrato celebrado com
+instituição privada para o estabelecimento de levantamentos
+que serviriam de embasamento para a fixação dos preços, nos
+termos da lei. Todavia, a fixação dos preços acabou realizada
+em valores inferiores. Essa conduta gerou danos patrimoniais
+ao agente econômico, vale dizer, à recorrente: obrigação de
+indenizar por parte do poder público. CF, art. 37, § 6º. IV. -
+Prejuízos apurados na instância ordinária, inclusive mediante
+perícia técnica. V. - RE conhecido e provido.” (STF, 2ª Turma, RE
+422941/DF, relator o senhor ministro Carlos Mário Velloso, j.
+06.12.2005)
+
+94. De tudo isso decorre a conclusão de que as externalidades negativas verificadas
+
+no curso dessa ação comprometem a solvência das operadoras e impactam pesadamente um
+
+regime de mutualismo que é pedra de toque do sistema dos planos de saúde. O equilíbrio
+
+atuarial não funciona apenas em prol da operadora de planos de saúde, ao contrário, ele atende
+
+exatamente ao beneficiário do plano. A solidariedade (ou mutualidade) permite que se
+
+mantenha a higidez do fundo e, por decorrência, a continuidade de cobertura dos riscos de
+
+saúde a um preço viável ao grupo segurado.
+
+
+[[pagina 26 | nativo]]
+95. Não se pode, por fim, esquecer que um tal aumento de custos, como decorre
+
+dessa tentativa espúria e covarde levada a cabo pelo Estado de São Paulo, é especialmente
+
+nociva e perversa no atual momento de pandemia experimentado no país. Os planos de saúde
+
+precisam ser protegidos contra custos ilegais e não previstos na tábua atuarial, sob pena de
+
+ruírem.
+
+III. INCONSTITUCIONALIDADES DAS NORMAS ESTADUAIS
+
+III.6. DA OFENSA AO ARTIGO 3º, INCISO I, DA CF/88
+
+96. O inciso I do artigo 3º da Constituição Federal elencou a solidariedade entre os
+
+“objetivos fundamentais da República Federativa do Brasil”, cujo desdobramento para esfera
+
+fiscal foi expressamente reconhecido por este Supremo Tribunal Federal por oportunidade do
+
+julgamento conjunto das ADI nºs 2.859, 2.390, 2.386 e 2.397.12
+
+97. No voto condutor do acórdão da ADI nº 2.859/DF, proferido pelo relator,
+
+Ministro Dias Toffoli, após o registro de que “evidencia-se a natureza solidária do tributo”, é
+
+dito que “o dever fundamental de pagar tributos está, pois, alicerçado na ideia de
+
+solidariedade social.”13 Em linhas gerais, a ideia é que, no estado fiscal, prossegue o voto do
+
+Ministro Dias Toffoli, “os cidadãos estão ligados por um liame de solidariedade”, a exigir que
+
+todos contribuam, “de modo que haja uma distribuição justa dos encargos financeiros.”14
+
+98. A projeção da solidariedade sobre o direito tributário foi desenvolvida, no
+
+julgamento da ADI nº 2.859/DF (e, ainda, do RE nº 601.314/SP, sob o rito da repercussão geral),
+
+também pelo Ministro Luís Roberto Barroso:
+
+“19. A Constituição Federal colocou a solidariedade ao lado da
+igualdade e da justiça como objetivos fundamentais da
+República, insculpidos no art. 3, inciso I da CF/88. A noção de
+solidariedade social pode ser visualizada tanto como valor
+
+12 O julgamento conjunto das ADI nºs 2.859, 2.390, 2.386 e 2.397 será referido doravante como julgamento da ADI
+nº 2.859/DF.
+13 ADI nº 2.859/DF. Plenário do STF. Relator Ministro Dias Toffoli. Julgamento em 24/02/2016. Trecho extraído do
+voto do relator, Ministro Dias Toffoli, p.32.
+14 ADI nº 2.859/DF. Plenário do STF. Relator Ministro Dias Toffoli. Julgamento em 24/02/2016. Trecho extraído do
+voto do relator, Ministro Dias Toffoli, p.35.
+
+[[pagina 27 | nativo]]
+ético e jurídico, absolutamente abstrato, quanto como
+princípio positivado, que é o caso do Brasil. Trata-se,
+sobretudo, de uma obrigação moral e um dever jurídico que,
+em razão da correlação entre deveres e direitos, informa e
+vincula a liberdade, a justiça e a igualdade. Por meio dele, a
+alteridade se insere de forma definitiva também no discurso
+jurídico.
+20. Nesse ponto, algumas aproximações são inevitáveis. A
+primeira delas é com a definição de tributo como um dever
+fundamental. É comum que as pessoas após alguns séculos
+esqueçam que as principais formulações sobre o contrato social
+o conceberam com um acordo entre pessoas e não entre essas
+e o Estado, o que é um desvio de percepção bastante comum.
+Se a criação do Estado é um projeto coletivo, deve-se
+reconhecer que a solidariedade se projeta com muita força no
+direito fiscal, que se traduz na disciplina da repartição
+igualitária dos custos dos direitos prestados e/ou garantidos
+pelo Estado. Nesse contexto, o pagamento de tributos
+constitui-se um dever fundamental estabelecido
+constitucionalmente. Dever esse juridicamente fundamentado
+quer na feição Fiscal assumida pelo Estado contemporâneo,
+quer no elenco de direitos fundamentais constitucionalmente
+previstos e que pressupõem o necessário financiamento.
+21. Com isso, se quer dizer que todos os membros da sociedade
+têm o dever de contribuir, na medida da capacidade
+econômica manifestada, para o sucesso desse projeto coletivo
+que, repita-se, tem como principal forma de financiamento a
+receita advinda de tributos. [...]” (ADI nº 2.859/DF. Plenário do
+STF. Relator Ministro Dias Toffoli. Julgamento em 24/02/2016.
+Trecho extraído do voto do Ministro Luís Roberto Barroso,
+pp.68-70; e RE nº 601.314/SP. Plenário do STF. Relator Ministro
+Edson Fachin. Julgamento em 24/02/2016. Trecho extraído do
+voto do Ministro Luís Roberto Barroso, pp. 57-58) (grifou-se)
+
+99. Como visto, a solidariedade social, no Brasil, constitui um princípio jurídico
+
+constitucionalmente positivado. Isso posto, é preciso pontuar que a positivação constitucional
+
+do princípio da solidariedade “implica a obrigatoriedade da adoção dos comportamentos
+
+necessários à sua realização”, consoante lição de Humberto Ávila.15 Afinal, ser o princípio da
+
+solidariedade social uma norma imediatamente finalística não autoriza sua desconsideração,
+
+15 ÁVILA, Humberto. Teoria dos princípios: da definição à aplicação dos princípios jurídicos. 16.ed. São Paulo:
+Malheiros, 2015, p. 103.
+
+[[pagina 28 | nativo]]
+uma vez que, nas palavras de Tercio Sampaio Ferraz Jr., “o fim estabelecido não pode ser
+
+ignorado.”16
+
+100. Tanto é assim que, na visão de Regina Helena Costa, “a solidariedade [é
+
+apresentada pela Constituição] como uma diretriz a iluminar todo o ordenamento jurídico,
+
+orientando a interpretação e aplicação de suas normas.”17
+
+101. Naturalmente, a conexão entre solidariedade social e direito fiscal – repita-se
+
+reconhecida expressamente por este Supremo Tribunal Federal quando dos julgamentos da ADI
+
+nº 2.859/DF e, sob o rito da repercussão geral, do RE nº 601.314/SP –, por um lado, impõe
+
+àqueles que manifestam capacidade contributiva “o dever de contribuir, na medida da
+
+capacidade econômica manifestada”, nos termos dos votos proferidos pelo Ministro Luís
+
+Roberto Barroso nos referidos julgamentos.18
+
+102. Por outro lado, contudo, o princípio da solidariedade social pode atuar no
+
+sentido oposto, obstando que se exija tributo naqueles casos que, longe de representar
+
+manifestação da capacidade contributiva, exteriorizam justamente uma diminuição relativa
+
+da capacidade contributiva de determinados indivíduos, que para além dos gastos normais
+
+incorridos por todos os cidadãos (alimentação, moradia, vestuário etc.), têm que arcar com
+
+dispendiosos tratamentos de saúde para o enfrentamento de doenças graves (tais como o
+
+câncer e a Aids).
+
+103. Essa forma de atuação do princípio da solidariedade social para obstar a
+
+tributação em determinados casos é o que Regina Helena Costa chama de “aplicação do
+
+princípio da solidariedade social de forma inversa, a revelar que a solidariedade poderá ser
+
+efetivada pela desoneração total ou parcial da tributação.”19
+
+16 FERRAZ Jr, Tercio Sampaio. Introdução ao estudo do direito. 2.ed. São Paulo: Atlas, 1994, p. 141.
+17 COSTA, Regina Helena. O princípio da solidariedade social no sistema tributário nacional. In: Revista do Programa
+de Pós-Graduação em Direito da UFC Vol. 39.1, 2019, p. 22.
+18 ADI nº 2.859/DF. Plenário do STF. Relator Ministro Dias Toffoli. Julgamento em 24/02/2016. Trecho extraído do
+voto do Ministro Luís Roberto Barroso, p. 70; e RE nº 601.314/SP. Plenário do STF. Relator Ministro Edson Fachin.
+Julgamento em 24/02/2016. Trecho extraído do voto do Ministro Luís Roberto Barroso, p. 58.
+19 COSTA, Regina Helena. O princípio da solidariedade social no sistema tributário nacional. In: Revista do Programa
+de Pós-Graduação em Direito da UFC Vol. 39.1, 2019, p. 23.
+
+[[pagina 29 | nativo]]
+104. Portanto, a “natureza solidária do tributo”, a implicar um “dever fundamental
+
+de pagar tributos [...] alicerçado na ideia de solidariedade social”20 afasta a pretensão do
+
+Estado de São Paulo de onerar, ainda mais, despesas médicas que, ao contrário de evidenciar
+
+capacidade contributiva, representam desvantagem comparativa revelada por determinados
+
+indivíduos em relação aos demais.
+
+105. Nesse contexto, não compactua com a ideia de um direito tributário
+
+informado pela solidariedade social a cobrança de imposto (no caso, do ICMS) daqueles
+
+cidadãos que têm severamente afetada sua capacidade contributiva em decorrência de
+
+enfermidades graves (tais como câncer e Aids), imposto esse que seria calculado justamente
+
+sobre despesas realizadas para o combate dessas enfermidades.
+
+106. Consequentemente, encontra-se em nítido descompasso com o princípio da
+
+solidariedade social, informador do dever de pagar tributos, a pretensão do Estado de São Paulo
+
+de exigir o recolhimento de ICMS sobre gastos incorridos por cidadãos acometidos por doenças
+
+graves (tais como câncer e Aids) com a aquisição dos insumos e medicamentos necessários ao
+
+enfrentamento de tais doenças.
+
+IV – DO PEDIDO CAUTELAR
+
+107. Os artigos 10 e 11 da Lei nº 9.868/99 permitem a concessão de liminar em Ação
+
+Direta de inconstitucionalidade, tendo a doutrina afiançado tratar-se de medida que visa
+
+antecipar os efeitos de eventual decretação de inconstitucionalidade ao final do processo, cujos
+
+requisitos para concessão da medida são os tradicionais: (i) fumus boni iuris e (ii) periculum in
+
+mora. Ambos estão presentes no caso concreto.
+
+108. Conforme visto acima, a presença do fumus boni juris restou demonstrada uma
+
+vez que o artigo 22, inciso II, da Lei nº 17.293/2020, bem como os Decretos Estaduais nºs
+
+20 ADI nº 2.859/DF. Plenário do STF. Relator Ministro Dias Toffoli. Julgamento em 24/02/2016. Trecho extraído do
+voto do relator, Ministro Dias Toffoli, p.32.
+
+[[pagina 30 | nativo]]
+65.254/2020 e 65.255/2020 violaram o Princípio da Legalidade Tributária (artigo 150, inciso I e
+
+150, § 6º da CF/88), bem como o Princípio da Separação dos Poderes (artigo 2º da CF/88).
+
+109. Com efeito, a Requerente demonstrou que a revogação de benefícios fiscais,
+
+por caracterizar hipótese de aumento da carga tributária, impõe a necessidade de edição de lei
+
+em sentido formal (stricto sensu). Inclusive, recentemente, este STF entendeu que a
+
+internalização de benefícios fiscais, nos ordenamentos estaduais, exige a edição de lei (stricto
+
+sensu), sob pena de violação ao artigo 150, § 6º da CF/88.
+
+110. Por consequência, tal como o poder de conceder benefício fiscais, o poder de
+
+reduzir ou suprimir incentivos fiscais relaciona-se ao exercício da Competência Tributária, a qual
+
+somente pode ser exercida por meio de lei específica editada pelo Poder Legislativo, em atenção
+
+ao Princípio da Legalidade Tributária (artigo 150, inciso I, da CF/88).
+
+111. Ademais, a Requerente comprovou que este STF tem reconhecido a
+
+inconstitucionalidade de leis que confiam funções indelegáveis a outro Poder, em razão do
+
+princípio da separação e a harmonia entre os Poderes. Não obstante isso, o artigo 22, inciso II,
+
+da Lei nº 17.293/2020 optou por delegar função do Legislativo ao Poder Executivo, uma vez que
+
+autorizou este último a editar decretos estaduais dispondo sobre a redução de benefícios fiscais
+
+e financeiros fiscais relacionados ao ICMS, o que viola frontalmente o artigo 2º da CF/88
+
+(Princípio da Separação dos Poderes).
+
+112. O fumus boni juris também restou comprovado pela violação ao artigo 155,
+
+inciso XII, alínea “g”, da CF/88 e ao artigo 2º, § 2º da LC 24/75, haja vista que a revogação de
+
+benefícios fiscais exige a edição de Convênio CONFAZ com a aprovação de pelos menos quatro
+
+quintos dos representantes presentes dos Estados e do Distrito Federal.
+
+113. Além do mais, o Convênio CONFAZ nº 42/16 jamais poderia autorizar que os
+
+Entes Federativos, de forma unilateral, concedam ou revoguem benefícios fiscais sem a
+
+observância do disposto no artigo 155, inciso XII, alínea “g”, da CF/88 e no artigo 2º, § 2º da LC
+
+24/75.
+
+
+[[pagina 31 | nativo]]
+114. Tanto é verdade que diversos Entes Federativos continuam observando as
+
+disposições do artigo 155, inciso XII, alínea “g”, da CF/88 e do artigo 2º, § 2º da LC 24/75, para
+
+fins de revogação de benefício fiscal, mesmo após a edição do Convênio CONFAZ nº 42/16, o
+
+que demonstra a total incompatibilidade da interpretação ampla e irrestrita pretendida pelas
+
+Autoridades Fiscais Paulistas.
+
+115. Ainda que superados os argumentos acima, o que se admite a título meramente
+
+argumentativo, o fumus boni juris também resta comprovado pela violação ao artigo 5º, inciso
+
+II, da CF/88, uma vez que o Convênio CONFAZ nº 42/16 e o artigo 22, inciso II, da Lei Estadual
+
+nº 17.293/2020 não autorizaram a revogação de isenções, mas apenas reduzir benefícios fiscais
+
+“que resultem em redução do valor ICMS a ser pago”, o que demonstra que os Decretos
+
+Estaduais nºs 65.254/2020 e 65.255/2020 extrapolaram o seu poder regulamentar.
+
+116. Por fim, o fumus boni iuris resta corroborado pela violação aos Princípios da
+
+Capacidade Contribuinte e da Promoção à Saúde Pública, uma vez que o aumento do imposto
+
+estadual ocasionará um aumento significativo dos custos do plano de saúde, que certamente
+
+não acompanhará o aumento do poder aquisitivo da população, o que invariavelmente
+
+implicará no cancelamento de planos de saúde, sobrecarregando ainda mais o sistema público
+
+da saúde, o que vai de encontro com o direito à saúde previsto nos artigos 6º e 196 da CF/88.
+
+117. Por sua vez, o periculum in mora resta evidente na medida em que as alterações
+
+promovidas pelo artigo 22, inciso II, da Lei Estadual nº 17.293/2020, bem como pelos Decretos
+
+Estaduais nºs 65.254/2020 e 65.255/2020 já estão produzindo efeitos, elevando
+
+substancialmente o custo dos planos de saúde.
+
+118. Do ponto de vista socioeconômico, a manutenção dos dispositivos em discussão
+
+prejudicará, em momento pandemia, a população que contrata planos de saúde e seguro saúde
+
+objetivando a obtenção de serviços de saúde de qualidade. Essa situação é ainda mais grave na
+
+medida em que a Taxa de Desemprego atingiu índice recorde, sendo que menos da metade da
+
+
+[[pagina 32 | nativo]]
+população com idade para trabalhar está ocupada no país21, o que reforça o argumento de
+
+violação ao Princípio da Capacidade Contributiva.
+
+119. Diante do exposto, requer a Requerente a imediata suspensão da aplicação do
+
+artigo 22, inciso II, da Lei Estadual nº 17.293/2020, do artigo 2º, inciso I, alíneas “a”, “d” e “g”
+
+do Decreto Estadual nº 65.254/2020, bem como do artigo 1º, inciso I, alínea “a” e artigo 2º,
+
+alínea “t” do Decreto Estadual nº 65.255/2020, antes da audiência do Governador do Estado de
+
+São Paulo e da Assembleia Legislativa daquele Estado, bem como da manifestação da AGU e da
+
+PGR, por decisão monocrática ad referendum do Pleno ou mediante a pronta inclusão do feito
+
+em pauta.
+
+V – DO PEDIDO
+
+120. Desta forma, a Requerente requer:
+
+a) a concessão de medida cautelar, com base no art. 10, § 3º, da
+Lei nº 9.868/99 e antes da audiência do Governador do Estado
+de São Paulo e da Assembleia Legislativa daquele Estado, bem
+como da manifestação da AGU e da PGR, por decisão
+monocrática ad referendum do Pleno ou mediante a pronta
+inclusão do feito em pauta, para que seja determinada a
+imediata suspensão da aplicação do artigo 22, inciso II, da Lei
+Estadual nº 17.293/2020, do artigo 2º, inciso I, alíneas “a”, “d”
+e “g” do Decreto Estadual nº 65.254/2020, bem como do artigo
+1º, inciso I, alínea “a” e artigo 2º, alínea “t” do Decreto Estadual
+nº 65.255/2020, afastando-se a revogação de ICMS promovida
+por esses dispositivos legais;
+
+b) na remota hipótese de não ser acolhido o pedido anterior,
+seja atribuído à presente ADI o rito sumário do art. 12 da Lei nº
+9.868/1999, em face da relevância da matéria e do seu especial
+significado para a ordem social e a segurança jurídica do país;
+
+c) independentemente do rito adotado, sejam solicitadas
+informações ao Presidente da Assembleia Legislativa e ao
+Governador do Estado de São Paulo para prestarem
+informações, conforme o artigo 6º da Lei nº 9.868/1999, e, em
+
+21 Fonte: https://agenciadenoticias.ibge.gov.br/agencia-noticias/2012-agencia-de-noticias/noticias/29935-
+desemprego-fica-em-14-1-no-trimestre-encerrado-em-novembro
+
+[[pagina 33 | nativo]]
+seguida, determinada a oitiva sucessiva do Advogado-Geral da
+União e do Procurador-Geral da República;
+
+d) no mérito, seja julgada procedente a presente ação direta de
+inconstitucionalidade, com eficácia erga omnes e efeitos ex
+tunc, para que seja declarada a inconstitucionalidade formal e
+material do artigo 22, inciso II, da Lei Estadual nº 17.293/2020,
+do artigo 2º, inciso I, alíneas “a”, “d” e “g” do Decreto Estadual
+nº 65.254/2020, bem como do artigo 1º, inciso I, alínea “a” e
+artigo 2º, alínea “t” do Decreto Estadual nº 65.255/2020, do
+Estado de São Paulo, pelos fundamentos acima expostos.
+
+121. Atribui-se à causa o valor de R$ 1.000,00 (mil reais), para fins meramente fiscais,
+
+em face da impossibilidade de aferi-lo.
+
+122. Requer, por fim, que todas as intimações referentes a este processo sejam feitas
+
+exclusivamente em nome dos advogados LUIZ GUSTAVO A. S. BICHARA, inscrito na OAB/DF sob
+
+o nº 21.445, com escritório na SRTVS – SRTVS, Centro Empresarial Brasília, Bloco B, Salas 201 e
+
+204, Asa Sul, CEP: 70340-907, sob pena de nulidade.
+
+Termos em que,
+
+Pede deferimento.
+
+Brasília/DF, 22 de fevereiro de 2021.
+
+LUIZ GUSTAVO A. S. BICHARA FRANCISCO CARLOS ROSAS GIARDINA
+OAB/DF Nº 21.445 OAB/DF Nº 41.765
+
+PEDRO MONTEIRO BOMFIM BELLO
+OAB/DF Nº 63.362
+
+

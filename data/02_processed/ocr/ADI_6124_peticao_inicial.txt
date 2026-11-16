@@ -1,0 +1,2581 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE - JOSÉ ANTONIO DIAS TOFFOLI – DO
+SUPREMO TRIBUNAL FEDERAL.
+
+ABRINT – ASSOCIAÇÃO BRASILEIRA DE PROVEDORES DE INTERNET
+
+E TELECOMUNICAÇÕES, associação sem fins lucrativos, com atuação em
+
+âmbito nacional, pessoa jurídica de direito privado, regularmente constituída
+
+(Anexo 02), com sede e foro no SCS, Quadra 01, Ed. Baracat, Sala 1203, Asa
+
+Sul, CEP 70.309-900, em Brasília/DF, inscrita no CNPJ 11.369.542/0001-52,
+
+vem, respeitosamente, perante V. Exa., por intermédio de seus procuradores
+
+in fine firmados (Procuração - Anexo 01), propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE,
+COM PEDIDO DE TUTELA DE URGÊNCIA
+(INAUDITA ALTERA PARS)
+
+Em face da Lei Estadual nº 17.691 de 14 de janeiro de 2019 (Anexo 05),
+
+sancionada pelo Governador do ESTADO DE SANTA CATARINA, ente
+
+federado da República Federativa do Brasil, pessoa jurídica de direito público,
+
+inscrita no CNPJ: 82.951.310/0001-56, com sede na Rodovia SC 401, KM 5,
+
+nº 4.600, Bairro Saco Grande II, CEP 88.032-000, na cidade de
+
+Florianópolis/SC, o que o faz com supedâneo nas razões de fato e de direito
+
+a seguir aduzidas:
+
+1
+
+[[pagina 2 | nativo]]
+
+I – DO OBJETO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE.
+
+Trata-se de Ação Direta de Inconstitucionalidade, com pedido de Medida
+
+Cautelar de Urgência, inaudita altera pars, em face da integralidade do texto normativo introduzido
+
+pela Lei Estadual (SC) nº 17.691 de 14 de janeiro de 2019.
+
+A mencionada Lei Estadual, sancionada pelo Governador do Estado de Santa
+
+Catarina, travestindo-se da falsa premissa de proteger o consumidor catarinense de “práticas
+
+abusivas” por parte de prestadoras de serviços de telecomunicações, trouxe como resultado a
+
+proibição de oferta e comercialização onerosa de serviços de valor adicionado, digitais,
+
+complementares, suplementares ou qualquer outro, quando agregados a planos de serviços
+
+de telecomunicações.
+
+Vejamos abaixo a integralidade Lei Estadual nº 17.691, publicada no Diário
+
+Oficial do Estado – DOE, em 15.01.2019 (Anexo 05):
+
+LEI Nº 17.691, DE 14 DE JANEIRO DE 2019
+
+DOE de 15.01.2019
+
+Dispõe sobre a proteção do consumidor catarinense em relação à
+
+práticas abusivas por parte de prestadoras de serviços de
+
+telecomunicações.
+
+O GOVERNADOR DO ESTADO DE SANTA CATARINA
+
+Faço saber a todos os habitantes deste Estado que a Assembleia Legislativa
+
+decreta e eu sanciono a seguinte Lei:
+
+Art. 1º Ficam proibidas a oferta e a comercialização de serviços de valor
+
+adicionado, digitais, complementares, suplementares ou qualquer outro,
+
+independentemente de sua denominação, de forma onerosa ao consumidor,
+
+quando agregados a planos de serviços de telecomunicações.
+
+§ 1º O disposto no caput deste artigo aplica-se a planos de serviços de
+
+telecomunicações pré-pagos, pós-pagos ou combinados.
+
+§ 2º Serviços próprios ou de terceiros, alheios aos de telecomunicações,
+
+somente poderão ser ofertados de forma dissociada dos planos de serviços
+
+de telecomunicações.
+
+Art. 2º Consideram-se gratuitos os serviços disponibilizados, próprios ou de
+
+terceiros, alheios aos de telecomunicações, que não tenham sido contratados
+
+ou requisitados pelo consumidor.
+2
+
+[[pagina 3 | nativo]]
+
+§ 1º Serviços de terceiros, que não sejam serviços de telecomunicações,
+
+somente poderão ser cobrados em fatura emitida por prestadora de serviços
+
+de telecomunicações se houver autorização prévia e expressa do
+
+consumidor.
+
+§ 2º A prestadora emitente do documento de cobrança é responsável:
+
+I – pela comprovação da contratação ou requisição dos serviços, tratando-se
+
+de serviços próprios; e
+
+II – pela comprovação da autorização emitida pelo consumidor, tratando-se
+
+de serviços de terceiros.
+
+Art. 3º O consumidor poderá, a qualquer momento e por qualquer meio
+
+disponível:
+
+I – solicitar o cancelamento de qualquer cobrança que considere indevida,
+
+relativa a serviços alheios aos de telecomunicações, devendo o emitente do
+
+documento de cobrança, de imediato, retificar a fatura e providenciar a
+
+restituição dos valores indevidamente recebidos, sem prejuízo do disposto no
+
+parágrafo único do art. 42 da Lei federal nº 8.078, de 11 de setembro de
+
+1990, que “Dispõe sobre a proteção do consumidor e dá outras providências”
+
+(Código de Defesa do Consumidor); e
+
+II – solicitar o cancelamento de serviços alheios aos de telecomunicações que
+
+não sejam do seu interesse, devendo a prestadora, de imediato, retirar a
+
+cobrança da fatura sem majorar os valores dos demais serviços efetivamente
+
+contratados.
+
+Art. 4º São práticas abusivas e lesivas ao consumidor:
+
+I – a oferta e a comercialização de serviços de valor adicionado, digitais,
+
+complementares, suplementares ou qualquer outro, independentemente de
+
+sua denominação, de forma onerosa ao consumidor, quando agregados a
+
+planos de serviços de telecomunicações;
+
+II – a cobrança de serviços de valor adicionado, digitais, complementares,
+
+suplementares ou qualquer serviço, independentemente de sua
+
+denominação, em fatura de plano de serviço de telecomunicações, sem
+
+autorização prévia e expressa do consumidor;
+
+III – a falta de atendimento à solicitação do consumidor para cancelar
+
+cobrança indevida e restituí-lo dos pagamentos indevidamente realizados; e
+
+IV – o não atendimento à solicitação do consumidor para cancelamento de
+
+serviço indesejado.
+
+3
+
+[[pagina 4 | nativo]]
+
+Parágrafo único. O anunciante, o emitente da fatura de cobrança e o
+
+prestador de serviço respondem solidariamente por todos os abusos e atos
+
+lesivos ao consumidor.
+
+Art. 5º O descumprimento do disposto nesta Lei sujeita o infrator às
+
+penalidades previstas no art. 56 da Lei federal nº 8.078, de 1990 (Código de
+
+Defesa do Consumidor), sem prejuízo das demais previstas na legislação em
+
+vigor.
+
+Parágrafo único. Os valores arrecadados em decorrência da aplicação de
+
+multa serão revertidos para o Fundo Estadual para Reconstituição de Bens
+
+Lesados (FRBL).
+
+Art. 6º A fiscalização do cumprimento desta Lei caberá ao órgão estadual de
+
+defesa do consumidor da Secretaria de Estado da Justiça e Cidadania,
+
+aplicando-se todas as disposições constantes em seus atos normativos,
+
+inclusive quanto à aplicação de multas.
+
+§ 1º O órgão estadual de defesa do consumidor poderá firmar convênio com
+
+os municípios, para fins do disposto nesta Lei.
+
+§ 2º Qualquer órgão estadual que disponha de informações relevantes para
+
+fins de cumprimento desta Lei poderá prestar auxílio ao órgão estadual de
+
+defesa do consumidor.
+
+Art. 7º Os prestadores de serviços têm o prazo de até 90 (noventa) dias, a
+
+contar da publicação desta Lei, para se adaptarem às suas disposições.
+
+Art. 8º Esta Lei entra em vigor na data de sua publicação.
+
+Florianópolis, 14 de janeiro de 2019.
+
+CARLOS MOISÉS DA SILVA
+
+Governador do Estado
+
+De sucinta leitura da norma supra já é possível verificar. Ilustres Ministros,
+
+que a instituição da Lei Estadual (SC) nº 17.691, além de estar manchada por evidente vício de
+
+iniciativa e usurpação de competência, traduz uma frontal violação aos princípios da livre
+
+iniciativa e da não intervenção do estado na ordem econômica.
+
+E a par da patente inconstitucionalidade da Lei Estadual (SC) nº 17.691/2019,
+
+a Autora também demonstrará que a aludida norma revela-se como verdadeiro estratagema criado
+
+pelo Estado de Santa Catarina para contornar os efeitos da Súmula 334, editada pelo Superior
+
+Tribunal de Justiça, que, ao reconhecer que o serviço de conexão à internet se caracteriza como
+
+um serviço de valor adicionado, afastou a possibilidade de cobrança de ICMS em face de tal
+
+serviço.
+4
+
+[[pagina 5 | nativo]]
+
+E diante deste cenário, cumpre destacar que diversas empresas associadas à
+
+Autora, seguindo o entendimento já pacificado pelo Poder Judiciário (vide Súmula 334 do STJ), há
+
+muito deixaram de recolher o ICMS em razão da prestação do serviço de conexão à internet.
+
+Contudo, o que se percebe é que tais empresas, notadamente aquelas que
+
+atuam no Estado de Santa Catarina, estão sendo “perseguidas” pelo estado catarinense, o qual
+
+insiste em desconsiderar, e até mesmo suprimir, a natureza jurídica do serviço de conexão à internet,
+
+para, ao final, trata-lo como um serviço de comunicação, o que, definitivamente, não procede!
+
+Vale dizer, inclusive, que a própria Autora obteve, em sede liminar, uma
+
+decisão judicial proveniente do Tribunal de Justiça de Santa Catarina (Anexo 06), donde restou
+
+determinada a suspensão das cobranças de ICMS em face dos serviços de conexão à internet
+
+(SCI), os quais, como visto, caracterizam-se como típico serviço de valor adicionado - SVA.
+
+Confira-se:
+
+De toda feita, a par da discussão acima anunciada, a Autora busca, através
+
+da presente Ação Direta de Inconstitucionalidade, ver reconhecida e declarada a patente
+
+inconstitucionalidade de toda a Lei Estadual (SC) nº 17.691/2019, que, ao proibir a oferta e
+
+comercialização onerosa de serviços de valor adicionado, digitais, complementares,
+
+suplementares ou qualquer outro, quando agregados a planos de serviços de
+
+telecomunicações, representou afronta direta aos dispositivos constitucionais abaixo
+
+indicados:
+
+(i) Artigo 22, IV da Constituição Federal, notadamente porque
+
+compete, exclusivamente à União, legislar sobre a matéria disciplinada
+
+pela Lei Estadual (SC) nº 17.691/2019, ou seja, legislar sobre
+
+telecomunicações;
+
+(ii) Artigo 21, XI da Constituição Federal, sobretudo porque a
+
+vergastada Lei Estadual (SC) nº 17.691/2019 pretende tutelar a forma de
+
+prestação de um serviço que é regulado, exclusivamente, pela União,
+
+através da Agência Nacional de Telecomunicações – ANATEL;
+5
+
+[[pagina 6 | nativo]]
+
+(iii) Artigo 1º, inciso IV e artigo 170, caput, ambos da Constituição
+
+Federal, eis que o Estado de Santa Catarina, por meio da vergastada Lei,
+
+está interferindo direta e indevidamente na livre iniciativa;
+
+Nada obstante, cumpre demonstrar, ainda em sede preliminar, a notória
+
+legitimidade da ABRINT para a propositura da presente Ação Direta de Inconstitucionalidade, a sua
+
+adequação e cabimento, bem como a ocorrência, na espécie, da prevenção da Eminente Ministra
+
+Cármen Lúcia para relatoria do presente feito.
+
+E após os registros preliminares, serão abordados um a um os fundamentos
+
+que demonstram a completa inconstitucionalidade da Lei Estadual (SC) nº 17.691, conforme
+
+pincelado acima.
+
+II – PRELIMINARMENTE
+
+II.1 – DA QUALIFICAÇÃO DA AUTORA. DA SUBSTITUIÇÃO
+
+PROCESSUAL. DA LEGITIMIDADE ATIVA AD CAUSAM. DA ENTIDADE DE
+
+CLASSE DE ÂMBITO NACIONAL.
+
+Ab initio, cumpre esclarecer que a legitimidade para a propositura da presente
+
+Ação Direta de Inconstitucionalidade encontra expressa previsão no Art. 103, IX da Constituição
+
+Federal, que assim dispõe:
+
+“Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação
+
+declaratória de constitucionalidade:
+
+(...)
+
+IX - confederação sindical ou entidade de classe de âmbito nacional.” –
+
+(Grifos nossos).
+
+Na mesma senda, vale destacar a previsão contida no Art. 2º, IX da Lei
+
+9.868/1999, que “dispõe sobre o processo e julgamento da ação direta de inconstitucionalidade e da
+
+ação declaratória de constitucionalidade perante o Supremo Tribunal Federal”, senão vejamos:
+
+“Art. 2º: Podem propor a ação direta de inconstitucionalidade:
+
+(...)
+
+IX - confederação sindical ou entidade de classe de âmbito nacional.” –
+
+(Grifos nossos).
+
+6
+
+[[pagina 7 | nativo]]
+
+E não restam dúvidas Eminentes Ministros, que a Associação Autora é uma
+
+entidade de classe regularmente constituída, com atuação em todo território nacional, voltada para a
+
+defesa dos interesses e direitos das empresas com atuação nos serviços de
+
+telecomunicações e serviços de provimento de acesso à internet, conforme inclusive atesta seu
+
+estatuto social atualizado (Anexo 02)
+
+Nesta esteira, corroborando sua legitimidade, veja que o próprio Estatuto
+
+Social da Autora estabelece sua atuação em âmbito nacional, in verbis:
+
+Ademais, o Estatuto Social da Autora estabelece, dentre suas atribuições, a
+
+propositura de medidas judiciais ou extrajudiciais em favor de seus associados, conforme dita
+
+o Artigo 5º, alíneas “p”, “q” e “r”. Confira:
+
+(...)
+
+E de modo a ilustrar a notória representatividade da Autora, bem como sua
+
+intensa atuação em todo o território nacional, confira o Rol de Associados (Anexo 04).
+
+Em arremate, de modo a evidenciar a legitimidade da ABRINT em propor a
+
+presente Ação Direta de Inconstitucionalidade, cumpre registrar o disposto na Ata da Assembleia
+
+Geral Extraordinária, realizada no dia 15.02.2019 (Anexo 03), ocasião a qual foi expressamente
+
+autorizada a propositura da presente medida judicial.
+
+7
+
+[[pagina 8 | nativo]]
+
+( . . . )
+
+Logo, à vista do exposto e diante da demonstração da inequívoca
+
+legitimidade ativa ad causam da Autora, cumpre-nos narrar o evidente cabimento da presente Ação
+
+Direta de Inconstitucionalidade. É o que seguirá demonstrado a seguir:
+
+II.2 – DO CABIMENTO DA PRESENTE AÇÃO.
+
+Como já anunciado, a propositura da presente Ação Direta de
+
+Inconstitucionalidade destina-se, essencialmente, ao reconhecimento e declaração da flagrante
+
+inconstitucionalidade da Lei Estadual (SC) nº 17.691 (Anexo 05), a qual fora sancionada pelo
+
+Governador do Estado de Santa Catarina, e que representou na absurda proibição de oferta e
+
+comercialização onerosa de serviços de valor adicionado, digitais, complementares, suplementares
+
+ou qualquer outro, quando agregados a planos de serviços de telecomunicações.
+
+Vale ressaltar, nesse sentido, que o artigo 102, I, a, da Constituição da
+
+República dispõe que compete ao Supremo Tribunal Federal processar e julgar, originariamente, a
+
+ação direta de inconstitucionalidade de lei ou ato normativo estadual. In verbis:
+
+“Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda
+
+da Constituição, cabendo-lhe:
+
+I - processar e julgar, originariamente:
+
+a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou
+
+estadual e a ação declaratória de constitucionalidade de lei ou ato normativo
+
+federal”. (grifos nossos).
+
+Permissa venia, considerando que o ato legislativo contestado é a Lei
+
+Estadual nº 17.691, incontestável a pertinência da presente Ação Direta de Inconstitucionalidade.
+8
+
+[[pagina 9 | nativo]]
+
+II.3 – DA OCORRÊNCIA DE PREVENÇÃO DA EMINENTE MINISTRA
+
+CÁRMEN LÚCIA. DA RELATORIA DA ADI Nº 6068.
+
+Ainda em sede preliminar, impende destacar que a Autora tomou
+
+conhecimento quanto a prévia distribuição da Ação Direta de Inconstitucionalidade - ADI nº 6068,
+
+conjuntamente promovida pela Associação Das Operadoras De Celulares – ACEL e pela Associação
+
+Brasileira De Concessionárias De Serviço Telefônico Fixo Comutado – ABRAFIX.
+
+Destaque-se, que após regular distribuição, a Ilustre Ministra Cármen Lúcia
+
+fora designada como Relatora da ADI 6068, sendo induvidoso que a mencionada Ação tem por
+
+objeto o pedido declaratório de inconstitucionalidade da Lei Estadual (SC) nº 17.691.
+
+E como a presente Ação Direta de Inconstitucionalidade também visa o
+
+reconhecimento da inconstitucionalidade integral da Lei Estadual (SC) nº 17.691, indiscutível a
+
+incidência do Art. 77-B do RISTF no caso em tela. In verbis:
+
+“Art. 77-B.1 Na ação direta de inconstitucionalidade, na ação direta de
+
+inconstitucionalidade por omissão, na ação declaratória de
+
+constitucionalidade e na arguição de descumprimento de preceito
+
+fundamental, aplica-se a regra de distribuição por prevenção quando haja
+
+coincidência total ou parcial de objetos.” (Grifamos)
+
+Isto posto, a Autora pugna para que, após a regular distribuição e
+
+processamento do feito, seja atribuída à Ilustre Ministra Cármen Lúcia a relatoria da presente Ação
+
+Direta de Inconstitucionalidade. Desde já, é o que se requer.
+
+III – DOS FUNDAMENTOS JURÍDICOS QUE EVIDENCIAM A
+
+INCONSTITUCIONALIDADE DA LEI ESTADUAL (SC) Nº 17.691/2019.
+
+III.1 – DA INCONSTITUCIONALIDADE FORMAL. DO VÍCIO DE INICIATIVA
+
+PARA EDIÇÃO DA VERGASTADA LEI.
+
+Eminentes Ministros, da leitura da Lei Estadual (SC) nº 17.691 é possível
+
+verificar que o Estado de Santa Catarina desprezou, a não mais poder, todo o regramento
+
+constitucional que preceitua as normas de competência legislativa a serem observadas pela União e
+
+por seus entes federados.
+
+9
+
+[[pagina 10 | nativo]]
+
+Ora, na medida em que foi editada norma que suprime a possibilidade de
+
+oferta e comercialização onerosa de serviços de valor adicionado, digitais, complementares ou
+
+qualquer outro, de forma conjunta aos serviços de telecomunicações, não restam dúvidas que o
+
+Estado de Santa Catarina deixou de observar, por completo, as competências legislativas
+
+previstas na própria Constituição Federal.
+
+Isto porque, ao passo que o mencionado ente editou normas que afetam
+
+diretamente a forma de prestação dos serviços de telecomunicações, não restam dúvidas que o
+
+Estado de Santa Catarina invadiu a competência exclusiva da União para legislar sobre
+
+telecomunicações, conforme se verifica da leitura do dispositivo constitucional abaixo transcrito:
+
+“Art. 22. Compete privativamente à União legislar sobre: (...)
+
+IV - águas, energia, informática, telecomunicações e radiodifusão;” (G.n.)
+
+Como se vê, a previsão contida no Art. 22 da CF/88 estabelece a
+
+competência privativa da União para editar normas acerca dos temas ali enumerados, dentre os
+
+quais, as telecomunicações.
+
+E que não se cogite que o Estado de Santa Catarina estaria exercendo uma
+
+competência delegada, nos moldes do parágrafo único do mencionado Art. 22, pois, como é cediço,
+
+ainda não se tem notícia da edição de qualquer lei complementar que autorize a aludida delegação.
+
+E nada obstante a competência privativa da União em legislar sobre
+
+telecomunicações, é primordial registar que Poder Constituinte ainda outorgou à União a
+
+titularidade para prestação dos respectivos serviços, os quais podem ser prestados direta ou
+
+indiretamente, mediante autorização, concessão ou permissão. Nesse sentido, mister a reprodução
+
+do Art. 21, inciso XI da Constituição Federal. In verbis:
+
+“Art. 21. Compete à União: (...) XI - explorar, diretamente ou mediante
+
+autorização, concessão ou permissão, os serviços de telecomunicações,
+
+nos termos da lei, que disporá sobre a organização dos serviços, a
+
+criação de um órgão regulador e outros aspectos institucionais” (G.n.).
+
+Como é notório Eminentes Ministros, a Constituição Federal de 1988 reservou
+
+à União a missão de estipular as formas e condições para prestação dos serviços de
+
+telecomunicações, tendo, neste particular, feito expressa previsão quando a existência de um
+
+10
+
+[[pagina 11 | nativo]]
+
+órgão regulador (leia-se ANATEL), o qual deve dispor sobre a organização dos aludidos
+
+serviços.
+
+É dizer, portanto, que a forma e as condições para prestação dos serviços de
+
+telecomunicação em todo país, devem observar as regras estabelecidas pela Agência Nacional de
+
+Telecomunicações – ANATEL, cuja criação remonta a edição da Lei Geral de Telecomunicações (Lei
+
+9.472 de 16 de julho de 1997).
+
+Com efeito, foi em exata correspondência ao mandamento constitucional
+
+acima indicado, que o legislador ordinário editou o Artigo 1º, caput, da Lei Geral de
+
+Telecomunicações, que assim prevê:
+
+“Art. 1° Compete à União, por intermédio do órgão regulador e nos
+
+termos das políticas estabelecidas pelos Poderes Executivo e
+
+Legislativo, organizar a exploração dos serviços de telecomunicações.”
+
+– (G.n.)
+
+À propósito, vejamos ainda o que dispõe o Art. 8º, caput da Lei Geral de
+
+Telecomunicações:
+
+“Art. 8° Fica criada a Agência Nacional de Telecomunicações, entidade
+
+integrante da Administração Pública Federal indireta, submetida a regime
+
+autárquico especial e vinculada ao Ministério das Comunicações, com a
+
+função de órgão regulador das telecomunicações, com sede no Distrito
+
+Federal, podendo estabelecer unidades regionais.” – (G.n.)
+
+Logo, de simples leitura da Lei Estadual nº 17.691/2019, já é possível concluir
+
+por sua inconstitucionalidade formal, haja vista o nítido propósito do Estado de Santa Catarina em
+
+afetar a forma de prestação dos serviços de telecomunicação, mormente a surreal tentativa de
+
+suprimir a possibilidade de oferta e comercialização onerosa dos serviços de valor adicionado,
+
+digitais, complementares ou qualquer outro, de forma conjunta aos serviços de telecomunicação.
+
+E sob essa perspectiva, é importante salientar que o caput do Art. 1º da Lei
+
+Estadual (SC) nº 17.691/2019, ao vedar a oferta e comercialização de serviços de valor adicionado
+
+de forma conjunta aos serviços de telecomunicações, fulmina a regra geral estampada no Art. 3º,
+
+inciso III da LGT, que prevê que o usuário de serviços de telecomunicações tem direito de não
+
+ser discriminado quanto às condições de acesso e fruição do serviço.
+11
+
+[[pagina 12 | nativo]]
+
+Frisa-se Excelências, que embora o objeto da Lei Estadual editada pelo
+
+Estado de Santa Catarina se refira a oferta e comercialização onerosa de serviços de valor
+
+adicionado, não restam dúvidas que o seu resultado prático é, exata e precisamente, influir na
+
+forma de prestação dos serviços de telecomunicação.
+
+Evidente a transgressão do texto constitucional!
+
+Outrossim, de forma a ilustrar o raciocínio acima delineado, vejamos o
+
+entendimento consagrado por este Excelso Supremo Tribunal Federal, quando do julgamento da ADI
+
+4.083, relatada pela Eminente Ministra Cármen Lúcia:
+
+“O art. 21, XI, da CR estabelece que compete à União explorar,
+
+diretamente ou mediante autorização, concessão ou permissão, os
+
+serviços de telecomunicações, enquanto o art. 22, IV, da CR dispõe ser
+
+da competência privativa da União legislar sobre telecomunicações.
+
+Ainda que ao argumento de defesa do consumidor, não pode lei distrital
+
+impor a uma concessionária federal novas obrigações não antes
+
+previstas no contrato por ela firmado com a União.” - (ADI 4.083, Rel. Min.
+
+Cármen Lúcia, julgamento em 25-11-2010, Plenário, DJE de 14-12-2010.)
+
+(Grifamos)
+
+Em igual sentido, confira-se o recente precedente advindo do julgamento da
+
+ADI 5725, da relatoria do Eminente Ministro Luiz Fux:
+
+“Nos termos do artigo 22, IV, da Constituição Federal, a União detém
+
+competência legislativa privativa em matéria de telecomunicações.
+
+Compete igualmente à União explorar, diretamente ou mediante
+
+autorização, concessão ou permissão, os serviços de telecomunicações
+
+(artigo 21, XI, da Constituição Federal) (...) Portanto, os Estados-
+
+membros não detêm competência para legislar sobre normas aplicáveis
+
+aos prestadores de serviços de telecomunicações, ainda que a pretexto
+
+de proteger o consumidor ou a saúde dos usuários, pois tal atribuição é
+
+privativa da União. Entender de modo contrário, em interpretação alargada
+
+da competência concorrente dos Estados-membros para a edição de normas
+
+específicas em matéria de consumidor (artigo 24, V e VIII, da Constituição
+
+Federal), acabaria por manietar a União dos meios indispensáveis para se
+
+desincumbir de sua competência constitucional expressa, frustrando a
+12
+
+[[pagina 13 | nativo]]
+
+teleologia dos artigos 21, XI, e 22, IV, da Constituição Federal.” (ADI 5725,
+
+Relator(a): Min. Luiz Fux, Tribunal Pleno, julgado em 06/12/2018, Processo
+
+Eletrônico DJe-271 Divulgação em 17.12.2019 – Publicação em 18.12.2018).
+
+Confira-se, ainda, outros precedentes deste Excelso Supremo Tribunal
+
+Federal: ADI 5.253, el. in. ias offoli, lenário, e de 01/08/2017; ADI 4.861, el. in. ilmar
+
+endes, lenário, e de 01/08/2017; ADI 4.477, el. in. osa eber, lenário, e de
+
+31/05/2017; ADI 2.615, el. in. ros rau, el. p/ ac rd o in. ilmar Mendes, DJe de 18/05/2015
+
+e ADI 4.478, el. in. A res ritto, el. p/ ac rd o in. ui u , e de 29.11.2011.
+
+Portanto, diante de tais considerações, encontram-se devidamente
+
+esclarecidos e demonstrados os fundamentos para a declaração da inconstitucionalidade formal
+
+da vergastada Lei Catarinense, sobretudo diante do patente vício de iniciativa quando da edição
+
+da Lei Estadual nº 17.691 e que resultou no atropelamento dos artigos 21, XI, e 22, IV, da
+
+Constituição Federal.
+
+Lado outro, de forma a comprovar que a norma contestada também está
+
+fulminada por outros incontornáveis vícios, cumpre demonstrar, na sequência, que a consecução dos
+
+objetivos teoricamente defendidos pela Lei catarinense, está, data maxima venia, em frontal
+
+confrontação com o contexto regulatório existente na atualidade, o qual já prescreve normas de
+
+relacionamento entre os prestadores de serviço de telecomunicações e seus consumidores,
+
+mormente nos casos de oferta conjunta de serviços de valor adicionado.
+
+III.2 – DA INCONSTITUCIONALIDADE MATERIAL. DA USURPAÇÃO DE
+
+COMPETÊNCIA ATRIBUÍDA À AGÊNCIA NACIONAL DE
+
+TELECOMUNICAÇÕES - ANATEL
+
+Cultos Ministros, uma vez demonstrado que a Lei Estadual (SC) nº
+
+17.691/2019 é resultado de insofismável atropelamento dos artigos 21, XI, e 22, IV, da Constituição
+
+Federal, faz-se mister a comprovação de outros vícios que resultam de uma impensável
+
+aplicabilidade da aludida norma jurídica.
+
+Isto porque, em que pese a Lei Estadual nº 17.691 estar travestida de uma
+
+suposta e inverídica ferramenta de “defesa do consumidor”, o que inclusive será desmistificado mais
+
+adiante, é de se registrar, maxima venia, a frontal e desinibida tentativa do Estado de Santa
+
+Catarina em se usurpar da competência da regulação dos serviços de telecomunicação que,
+
+como sabemos, é exercida pela Agência Nacional de Telecomunicações – ANATEL.
+13
+
+[[pagina 14 | nativo]]
+
+Neste toar e já nos referindo à criação da Agência Reguladora (ANATEL) e do
+
+seu incontestável poder regulador, é que surgiu diversos regulamentos normativos, expedidos pela
+
+própria Agência, com o condão de assegurar e fiscalizar a regularidade na prestação dos serviços de
+
+telecomunicação no país, ex vi do Art. 21, inciso XI da CF/88.
+
+Nesta senda, e já demonstrando o objeto da regulação estatal que é
+
+exercida pela ANATEL, é fundamental transcrever a conceituação acerca dos serviços de
+
+telecomunicações, o qual é disciplinado através do Art. 60 da Lei 9.472/1997 (LGT). In verbis:
+
+“Art. 60. Serviço de telecomunicações é o conjunto de atividades que
+
+possibilita a oferta de telecomunicação.
+
+§ 1° Telecomunicação é a transmissão, emissão ou recepção, por fio,
+
+radioeletricidade, meios ópticos ou qualquer outro processo
+
+eletromagnético, de símbolos, caracteres, sinais, escritos, imagens,
+
+sons ou informações de qualquer natureza. (...).” – (Grifamos).
+
+Por outro lado, vejamos a previsão legal trazida pelo mesmo diploma e que
+
+indica, com propriedade, as características do serviço de valor adicionado:
+
+“Art. 61. Serviço de valor adicionado é a atividade que acrescenta, a um
+
+serviço de telecomunicações que lhe dá suporte e com o qual não se
+
+confunde, novas utilidades relacionadas ao acesso, armazenamento,
+
+apresentação, movimentação ou recuperação de informações.
+
+§ 1º Serviço de valor adicionado não constitui serviço de
+
+telecomunicações, classificando-se seu provedor como usuário do
+
+serviço de telecomunicações que lhe dá suporte, com os direitos e
+
+deveres inerentes a essa condição. (...)” – (Grifamos)
+
+Como se vê, muito embora os serviços de telecomunicação não se
+identifiquem, em termos ontológicos1, com os serviços de valor adicionado, não restam dúvidas
+
+quanto a interdependência que existe entre ambos serviços, de forma que, se ausente a
+
+infraestrutura de telecomunicações, torna-se inviável a prestação dos serviços de valor
+
+adicionado.
+
+1 Cf. ADI nº 1491, Relator: Ministro Carlos Velloso, Relator para o Acórdão: Ministro Ricardo Lewandoski, Tribunal Pleno. Julgamento em
+08-05-2014. Publicação em 30-10-2014.
+14
+
+[[pagina 15 | nativo]]
+
+Isto porque, os serviços de valor adicionado têm como característica
+
+intrínseca, o poder de acrescentar novas utilidades ao serviço de telecomunicações que lhe dão
+
+suporte. Logo, é notória a essencialidade de uma rede telecomunicações pré-existente e que
+
+seja capaz de propiciar, em último plano, o desenvolvimento e a prestação dos serviços de
+
+valor adicionado.
+
+Foi exatamente diante deste cenário e já prevendo esta relação de
+
+interdependência, que a Lei Geral de Telecomunicações dispôs que compete à ANATEL
+
+assegurar aos provedores de serviços de valor adicionado, o acesso às redes de
+
+telecomunicação. Senão vejamos o disposto no § 2° do Artigo 61 da LGT:
+
+“Art. 61 (omissis) § 2° É assegurado aos interessados o uso das redes
+
+de serviços de telecomunicações para prestação de serviços de valor
+
+adicionado, cabendo à Agência, para assegurar esse direito, regular os
+
+condicionamentos, assim como o relacionamento entre aqueles e as
+
+prestadoras de serviço de telecomunicações.” - (Destacamos)
+
+Reparem Cultos Ministros, que além da missão institucional de assegurar o
+
+direito de utilização das redes de telecomunicação em favor dos prestadores de serviço de valor
+
+adicionado, o legislador ordinário ainda confiou à ANATEL a missão de regular os
+
+condicionamentos e o relacionamento entre os prestadores de serviço de valor adicionado e
+
+os prestadores de serviços de telecomunicação.
+
+Nada obstante, de forma completamente inexplicável, Lei Estadual (SC)
+
+17.691/2019 fez transparecer um obtuso raciocínio jurídico, no sentido de que a oferta e
+
+comercialização de serviços de valor adicionados de forma agregada a serviços de
+
+telecomunicações seria uma prática abusiva e lesiva ao consumidor. Vejamos o absurdo:
+
+“Art. 4º São práticas abusivas e lesivas ao consumidor:
+
+I – a oferta e a comercialização de serviços de valor adicionado, digitais,
+
+complementares, suplementares ou qualquer outro, independentemente de
+
+sua denominação, de forma onerosa ao consumidor, quando agregados a
+
+planos de serviços de telecomunicações; (....)” – (Grifos nossos)
+
+Com as mais respeitosas venias, a disposição trazida na objurgada legislação
+
+está em evidente contradição com as normas regulatórias expedidas pela Agência Nacional de
+
+Telecomunicações. E mais grave ainda, Cultos Ministros, é a percepção de que a lei catarinense
+15
+
+[[pagina 16 | nativo]]
+
+está criando um cenário de profunda cisão entre o relacionamento das prestadoras de
+
+serviços de telecomunicação e as prestadoras de serviços de valor adicionado.
+
+Data maxima venia, não há pensamento jurídico capaz de justificar a tentativa
+
+de distanciamento e ruptura entre os prestadores de serviços de valor adicionado e os prestadores
+
+de serviços de telecomunicações. E não nos olvidemos Excelências, que a prestação dos serviços
+
+de valor adicionado exige, conditio sine qua non, a prévia existência de uma infraestrutura de
+
+telecomunicações que lhe dê suporte.
+
+Em outras palavras, caso a Lei Estadual (SC) 17.691 persista no
+
+ordenamento jurídico, o que se verá, na prática, é que os consumidores catarinenses, à pretexto de
+
+estarem sendo “protegidos” pelo stado, serão extremamente prejudicados com o fim da
+
+prestação dos serviços de valor adicionado, sobretudo diante da absurda proibição da oferta
+
+e comercialização dos serviços de valor adicionado de forma conjunta aos serviços de
+
+telecomunicações.
+
+Inclusive Ilustres Ministros, é de questionar, data maxima venia: Diante da
+
+vedação imposta pela Lei Estadual (SC) 17.691, como se daria a prestação dos serviços de valor
+
+adicionado, haja vista a vedação da prestação conjunta de serviços de telecomunicação?
+
+Concessa venia, o Estado catarinense, além de não ter observado a
+
+competência da União para legislar sobre o tema afeto às telecomunicações, parece desconhecer a
+
+sistemática e a forma de prestação dos serviços de valor adicionado e os serviços de
+
+telecomunicações.
+
+Por isso mesmo, e já em uma perspectiva macro jurídica, não restam
+
+dúvidas que o Estado de Santa Catarina poderá submeter seus cidadãos a um regime de
+
+desigualdade quando comparados aos consumidores de outros estados da federação, o que
+
+violar diretamente o Art. 5º, caput da Lei Maior.
+
+De toda feita, e de modo a evidenciar o equívoco da objurgada lei, sobreleva
+
+destacar que a ANATEL já editou diversas normas de cunho regulatório, mormente o Regulamento
+
+Geral de Direitos do Consumidor de Serviços de Telecomunicações (RGC), anexo à Resolução 632
+
+de 2014 (Anexo 07).
+
+16
+
+[[pagina 17 | nativo]]
+
+É de se notar Senhores Ministros, que da leitura dos Artigos 62 e ss. da
+
+Resolução 632/2014 (Anexo 07), já é possível vislumbrar a existência de normas que cuidam da
+
+relação vivenciada entre os usuários (consumidores) e os prestadores de serviços de
+
+telecomunicações e serviços de valor adicionado:
+
+“Art. 62. A Prestadora deve fornecer relatório detalhado dos serviços e
+
+facilidades prestados, em ordem cronológica, a todos os seus
+
+Consumidores, em espaço reservado em sua página na internet e, mediante
+
+solicitação, por meio impresso, incluindo, quando aplicável, no mínimo, as
+
+seguintes informações: (...)
+
+Art. 63. A Prestadora pode cobrar, além dos valores decorrentes da
+
+prestação dos serviços de telecomunicações, aqueles decorrentes dos
+
+serviços de valor adicionado e outras facilidades contratadas que
+
+decorram da prestação de serviços de telecomunicações.
+
+Art. 64. A cobrança de qualquer valor devido que não decorra da prestação
+
+de serviços de telecomunicações depende de prévia e expressa autorização
+
+do Consumidor. Parágrafo único. Cabe à Prestadora responsável pela
+
+emissão do documento de cobrança ou pelo abatimento dos créditos o ônus
+
+da prova da autorização emitida pelo Consumidor.” – (Destaques nossos)
+
+Como é notório Excelências, a lei catarinense revela patente
+
+inconstitucionalidade material, pois, como é cediço, não foi dada ao ente estatal a prerrogativa de
+
+interferir e regular a forma de prestação dos serviços de telecomunicação, e, menos ainda, interferir
+
+na relação entre estes últimos e os prestadores de serviços de valor adicionado.
+
+E não nos olvidemos, como visto acima, que a ANATEL já editou o chamado
+
+RGC – Regulamento Geral de Direitos do Consumidor, o qual prevê, de forma suficiente, as normas
+
+a serem observadas pelos prestadores de serviços de telecomunicação e os consumidores.
+
+E mais, o próprio RGC já prevê, com notoriedade, as normas a serem
+
+observadas quando da prestação de serviços de valor adicionado de forma conjunta aos serviços de
+
+telecomunicação. Tanto é assim, que o Art. 63 do RGC assim prevê:
+
+“Art. 63. A Prestadora pode cobrar, além dos valores decorrentes da
+
+prestação dos serviços de telecomunicações, aqueles decorrentes dos
+
+serviços de valor adicionado e outras facilidades contratadas que
+
+decorram da prestação de serviços de telecomunicações.” (Grifamos).
+
+17
+
+[[pagina 18 | nativo]]
+
+Portanto, além da mencionada inconstitucionalidade, é de se observar que a
+
+ei stadual nº 17.691, à prete to de “proteger os consumidores”, está ofendendo e contradizendo
+
+diretamente o poder regulador exercido pela Agência Nacional de Telecomunicações – ANATEL.
+
+E conforme visto anteriormente, a própria Constituição, ao dispor sobre a
+
+prestação dos serviços de telecomunicações, previu a necessidade de tais serviços serem
+
+desempenhados de acordo com as normas expedidas pelo órgão regulador, qual seja, a ANATEL.
+
+Contrario sensu, acaso a Lei Estadual (SC) 17.691 perdure no universo
+
+jurídico, o que se cogita por eventualidade, o que teremos na prática, é um regime de exceção criado
+
+pelo Estado de Santa Catarina e que pode modificar, de maneira sensível, a forma da prestação
+
+de serviços de telecomunicações.
+
+E que não se cogite Exa., uma suposta a odiosa argumentação de que a
+
+vergastada Lei catarinense tem por escopo, apenas e tão somente, a regulação das relações
+
+consumeristas, o que atrairia, em tese, a hipótese do Art. 24, inciso V e VII da Carta Magna.
+
+Inclusive, de modo a comprovar o equívoco da referida tese, vejamos o entendimento deste Excelso
+
+Supremo Tribunal Federal, lançado no julgamento da ADI 4478. In verbis:
+
+“Inexiste, in casu, suposto respaldo para o diploma impugnado na
+
+competência concorrente dos Estados-membros para dispor sobre
+
+direito do consumidor ( art. e ) cu a interpretação não pode
+
+condu ir frustração da teleologia da referida regra e pressa contida no
+
+art. 175, parágrafo único, III, da CF, descabendo, ademais, a
+
+aproximação entre as figuras do consumidor e do usu rio de serviços
+
+p blicos que o regime ur dico deste ltimo al m de informado pela
+
+lógica da solidariedade social (CF, art. 3o, I), encontra sede específica na
+
+cl usula “direitos dos usu rios” prevista no art. 17 par grafo nico
+
+da Constituição.” – (Grifamos)
+
+Vale destacar Ilustres Ministros, o raciocínio esposado pelo Eminente Ministro
+
+Dias Toffoli quando do julgamento da ADI 4478, que, confrontado com a hipótese de legitimidade da
+
+edição legislativa na esfera estadual, tal qual persegue a norma catarinense, previu o cenário de
+
+insegurança jurídica e desrespeito ao poder regulador exercido pela Agência Nacional das
+
+Telecomunicações – ANATEL. Confira-se:
+
+18
+
+[[pagina 19 | nativo]]
+
+“...a agência reguladora federal estaria sujeita a regular o setor por
+
+intermédio de leis estaduais, as mais diversas que poderiam surgir nas
+
+unidades da Federação, trazendo, portanto, uma insegurança e uma
+
+incerteza a essas relações. Instaurar-se-iam regramentos diferenciados,
+
+em cada Estado da Federação, em matéria que demanda atuação
+
+centralizada em todo o território nacional, dadas as particularidades
+
+desse ramo de atividade.” (Grifamos).
+
+Doutos Ministros, o poder regulatório da ANATEL é incontestável, sendo
+
+induvidosa a sua competência para edição de diversos regulamentos normativos, os quais, e
+
+verdade, tem o condão de assegurar e fiscalizar a regularidade na prestação dos serviços de
+
+telecomunicação no país, ex vi do Art. 21, inciso XI da CF/88.
+
+Logo, restam demonstradas as violações materiais presentes na Lei Estadual
+
+(SC) 17.691, a qual, sem sombra de dúvidas, visa possibilitar uma usurpação do poder regulador
+
+exercido pela Agência Nacional de Telecomunicações - ANATEL.
+
+E além da flagrante tentativa de usurpação, restou demonstrado que a própria
+
+sistemática introduzida pela lei catarinense está em notória contradição quando comparada ao
+
+Regulamento Geral de Direitos do Consumidor publicado pela ANATEL (Anexo 07), o qual
+
+prevê, de forma cristalina, a possibilidade de oferta de serviços de valor adicionado de forma
+
+conjunta com o serviços de telecomunicação.
+
+Outrossim, cumpre demonstrar, ainda, que a edição da Lei Estadual (SC)
+
+17.691 está em evidente contradição aos princípios da proteção à livre iniciativa e a não intervenção
+
+dos estado na atividade econômica. É o que veremos adiante:
+
+IV – DA INCONSTITUCIONALIDADE MATERIAL. DA VIOLAÇÃO AO
+
+PRINCÍPIO DA LIVRE INICIATIVA.
+
+Ilustres Ministros, a Constituição Federal de 1988 estabeleceu a livre
+
+inciativa como um dos fundamentos da República Federativa do Brasil (Artigo 1º, inciso IV) e
+
+também fundamento da ordem econômica do país (Artigo 170), senão vejamos:
+
+“Art. 1º. A República Federativa do Brasil, formada pela união indissolúvel dos
+
+Estados e Municípios e do Distrito Federal, constitui-se em Estado
+
+Democrático de Direito e tem como fundamentos: (...) IV - os valores sociais
+
+do trabalho e da livre iniciativa; (...)” (g.n.).
+19
+
+[[pagina 20 | nativo]]
+
+“Art. 170. A ordem econômica, fundada na valorização do trabalho humano
+
+e na livre iniciativa, tem por fim assegurar a todos existência digna,
+
+conforme os ditames da justiça social, observados os seguintes princípios:
+
+(...).” (g.n.).
+
+Nos termos dos dispositivos constitucionais acima citados, tem-se evidente
+
+que a Constituição Federal protege e valoriza a livre iniciativa, tomando-a como base da
+
+ordem econômica do Brasil.
+
+Ora, ao preconizar a livre inciativa como sustentáculo da ordem econômica do
+
+país, a Constituição da República deixa em evidência a inadmissão do intervencionismo do
+
+Estado e de qualquer de seus entes públicos na esfera da atividade econômica privada, in
+
+casu, na esfera econômica de atuação e prestação dos serviços desempenhados por diversas
+
+empresas associadas à Autora.
+
+Daí se infere que aspectos inerentes a atividade econômica e próprias à
+
+iniciativa privada, não estão submetidos à regulação do Estado, sendo normalmente controlado
+
+pelo próprio mercado capitalista.
+
+Corroborando com o entendimento ora esposado, ensina Celso Ribeiro
+
+Bastos, no que tange ao princípio constitucional da livre iniciativa, que “A liberdade de iniciativa
+
+consagra tão-somente a liberdade de lançar-se à atividade econômica sem encontrar peias ou
+restrições do Estado”.2
+
+Logo, a oferta dos mais diversos tipos de serviços de valor adicionado,
+
+constitui, em suma, o exercício da livre iniciativa privada na ordem econômica do país e,
+
+portanto, NÃO PODERIA SER VIOLENTAMENTE RESTRINGIDO PELA LEI CATARINENSE Nº
+
+17.691/2019.
+
+Contudo, além dos vícios constitucionais demonstrados na antecedência,
+
+mormente o flagrante vício de iniciativa para edição do ato, a Lei catarinense ainda inovou na ordem
+
+jurídica, notadamente quando disciplinou uma injustificável presunção de “prestação gratuita de
+
+serviços de valor adicionado”. Vejamos a peripécia:
+
+2 BASTOS, Celso Ribeiro. Direito Econômico Brasileiro, pag.119. Editora: Celso Bastos Editor, São Paulo, 2000.
+20
+
+[[pagina 21 | nativo]]
+
+“Art. 2º Consideram-se gratuitos os serviços disponibilizados, próprios ou
+
+de terceiros, alheios aos de telecomunicações, que não tenham sido
+
+contratados ou requisitados pelo consumidor.” – (Grifamos)
+
+Como se vê Ilustres Ministros, a objurgada Lei, além de dispor sobre
+
+uma impensável proibição da oferta e comercialização de serviços de valor adicionado, ainda
+
+prescreveu uma presunção de gratuidade na prestação dos referidos serviços. Quanto
+
+absurdo!
+
+Por outro lado, a Lei Estadual de Santa Catarina, ao prever a impossibilidade
+
+de prestação de serviços de valor adicionado de forma conjunta aos serviços de telecomunicação,
+
+está intervindo claramente na atividade econômica privada, suprimindo a liberdade dos
+
+provedores regionais, dentre eles diversos associados da Autora, em cobrar pela prestação
+
+dos serviços de valor adicionado, como, por exemplo, os serviços de conexão à internet - SCI.
+
+Destaque-se Preclaros Ministros, que além dos serviços de conexão à
+
+internet, diversas empresas associadas à Autora também comercializam outros inúmeros serviços de
+
+valor adicionado, tais como hospedagem de e-mail; serviço de armazenamento remoto – “cloud”;
+
+streaming; dentre outros.
+
+Ora, se a intervenção estatal no tocante à esfera dos serviços de valor
+
+adicionado era necessária, especialmente nos casos de prestação conjunta aos serviços de
+
+telecomunicações, deveria ter sido feita pela União e não pelo Estado de Santa Catarina.
+
+Com as mais respeitosas venias, não existe qualquer justificativa
+
+plausível para a total supressão da liberdade dos prestadores de serviço de valor adicionado,
+
+dentre eles, os provedores regionais associados da Autora, que como já delineado na
+
+precedência, poderão ser indevidamente impedidos de cobrar pelos serviços que prestam.
+
+É bom repisar Excelências, que ao passo que as associadas da Autora com
+
+atuação no estado catarinense serão impedidas de ofertar e comercializar os serviços de valor
+
+adicionado, não restam dúvidas que os consumidores catarinenses serão cerceados do acesso à
+
+inúmeras facilidades tecnológicas e dos serviços de valor adicionado acima indicados.
+
+Nada obstante, para corroborar a afronta aos princípios da livre iniciativa e
+
+não intervenção do Estado, cumpre reproduzir alguns julgados deste Colendo Supremo Tribunal
+21
+
+[[pagina 22 | nativo]]
+
+Federal, que reconhecem a ofensa ao princípio constitucional da livre iniciativa, QUANDO HÁ
+
+INGERÊNCIA ESTATAL NO ÂMBITO DA ATIVIDADE ECONÔMICA PRIVADA, tal como é o caso
+
+em testilha:
+
+„ A .
+
+A A A. A A
+
+A A A. RESP SABI IDADE CIVI DA
+
+AD I ISTRA . I SSIBI IDADE DE A RECIA . S U A 279 D
+
+STF. 1. A demonstração da responsabilidade objetiva do Poder Publico na
+
+fixação de valores inferiores inviável em sede de recurso extraordinário, por
+
+depender de reexame de matéria fático-probatória. Súmula/STF 279. 2. A
+
+fixação de preços em valores abai o da realidade obstáculo ao livre
+
+exercício da atividade econômica com desrespeito livre iniciativa.
+
+Precedentes. 3. Agravo regimental improvido‟ (RE no 583.992/DF-AgR,
+
+Segunda Turma, Relatora a Ministra Ellen Gracie, DJe de 12/6/09). (G.n.)
+
+“ A . . A A A
+
+ECONOMIA REGU A E TA E REGU A DE SET RES
+
+EC IC S R AS DE I TERVE . IBERDADE DE I ICIATIVA.
+
+CF, art. 1o, IV; art. 170. CF, art. 37, § 6o. I. - A intervenção estatal na
+
+economia, mediante regulamentação e regulação de setores econômicos, faz-
+
+se com respeito aos princípios e fundamentos da Ordem Econômica. CF, art.
+
+170. O princípio da livre iniciativa fundamento da Republica e da
+
+Ordem econômica: CF, art. 1o, IV; art. 170. II. - Fixação de preços em
+
+valores abaixo da realidade e em desconformidade com a legislação
+
+aplicável ao setor: empecilho ao livre exercício da atividade econômica,
+
+com desrespeito ao princípio da livre iniciativa. III. - Contrato celebrado
+
+com instituição privada para o estabelecimento de levantamentos que
+
+serviriam de embasamento para a fixação dos preços, nos termos da lei.
+
+Todavia, a fixação dos preços acabou realizada em valores inferiores. Essa
+
+conduta gerou danos patrimoniais ao agente econômico, vale dizer,
+
+recorrente: obrigação de indenizar por parte do poder público. CF, art. 37, §
+
+6o. IV. - Prejuízos apurados na instância ordinária, inclusive mediante perícia
+
+técnica. V. - RE conhecido e provido” (RE no 422.941/DF, Segunda Turma,
+
+Relator o Ministro Carlos Velloso, DJ de 24/3/06). – (Grifamos)
+
+22
+
+[[pagina 23 | nativo]]
+
+E mais especificamente, ao analisar casos semelhantes ao presente, em que
+
+o Estado interviu na esfera privada impondo a prática de preços vis, descontos e/ou gratuidade nos
+
+serviços/produtos fornecidos pelas empresas privadas, o Supremo Tribunal Federal entendeu pela
+
+ocorrência de ofensa à livre iniciativa e pela consequente, INCONSTITUCIONALIDADE do ato
+
+normativo analisado, senão vejamos:
+
+“Agravo regimental no agravo de instrumento. Responsabilidade civil do
+
+Estado. Setor sucroalcooleiro. Fixação de preços. Princípio da livre
+
+iniciativa. Violação. Precedentes. 1. A jurisprudência desta Corte é no
+
+sentido de que fere o princípio da livre iniciativa a fixação de preços em
+
+valores abaixo dos reais. 2. No exame do RE nº 632.644/DF-AgR, Primeira
+
+Turma, Relator o Ministro Luiz Fux, DJe de 10/5/12, reconheceu-se a
+
+“responsabilidade objetiva da União em face do ato estatal que fixou os
+
+preços dos produtos sucroalcooleiros em valores inferiores ao levantamento
+
+de custos realizados pela Fundação Getúlio Vargas”. 3. Agravo regimental
+
+não provido.” (g.n.) (STF - AI 777361 AgR, Relator(a): Min. DIAS TOFFOLI,
+
+Primeira Turma, julgado em 26/06/2012, Processo Eletrônico DJe-161, Divulg.
+
+15/08/2012, Public. 16/08/2012). – (G.n.)
+
+E ratificando ainda mais a tese de inconstitucionalidade ora sustentada, cita-
+
+se recente julgado oriundo deste Supremo Tribunal Federal na Ação Direta de Inconstitucionalidade
+
+4862, proposta pela Confederação Nacional do Comércio de Bens, Serviços e Turismo, através do
+
+qual fora reconhecida a inconstitucionalidade material de lei paraense que fixava regras para
+
+cobrança em estacionamento particulares, justamente em razão da flagrante intervenção do
+
+Estado na iniciativa privada.
+
+A propósito, vejamos o entendimento esposado pelo Eminente Ministro Luís
+Roberto Barroso quando do julgamento da ADI 48623:
+
+“E devo dizer a Vossa Excelência que, por convicção, entendo que, como
+
+regra geral, a intervenção do Estado na fixação de preços
+
+exclusivamente privados é uma categoria por si suspeita dentro de um
+
+regime de livre iniciativa. A meu ver, por exceção, em alguns segmentos,
+
+pode-se, com razoabilidade, admitir essa interferência, mas eu não
+
+3 Cf: STF - ADI 4862, Relator(a): Min. GILMAR MENDES, Tribunal Pleno, julgado em 18/08/2016, Processo Eletrônico DJe-023 Divulg. 06-
+
+02-2017, Public. 07-02-2017). (g.n.)
+23
+
+[[pagina 24 | nativo]]
+
+consideraria que estacionamento fosse uma dessas áreas em que a
+
+intervenção do Estado na fixação de preços se legitimasse. E esta é uma lei
+
+que diz coisas do tipo: a segunda hora não pode ser cobrada a mais de trinta
+
+por cento do que a primeira hora. Mas por quê? Ou seja, não consigo
+
+entender qual fundamento constitucional de interesse público
+
+legitimaria esse nível de intervenção no princípio da livre iniciativa, que
+
+considero um princípio fundamental do Estado brasileiro.(...) Mas eu me
+
+inclinaria, Presidente, a proclamar a inconstitucionalidade material da
+
+norma e, portanto, estou acompanhando o Ministro-Relator, quando não
+
+na fundamentação, na conclusão de julgar procedente o pedido.”
+
+E de modo a comprovar a indevida atuação do Estado de Santa Catarina,
+
+cumpre registrar que a própria Lei Geral de Telecomunicações já prevê que a redução artificial de
+
+preços é um comportamento prejudicial à competição livre, ampla e justa entre prestadoras
+
+de serviço de telecomunicações. Vejamos:
+
+“Art. 70. Serão coibidos os comportamentos prejudiciais à competição
+
+livre, ampla e justa entre as prestadoras do serviço, no regime público ou
+
+privado, em especial: I - a prática de subsídios para redução artificial de
+
+preços”. (Grifamos)
+
+Repisa-se Ilustres Ministros, que muito além de uma redução artificial de
+
+preços, a Lei Estadual (SC) 17.691 carrega consigo, sem qualquer cabimento, uma
+
+PRESUNÇÃO de prestação gratuita de serviços de valor adicionado que não tenham sido
+
+contratados ou requisitados pelo consumidor.
+
+Evidente, portanto, que a contestada Lei catarinense interfere na esfera
+
+privada dos provedores de serviços de valor adicionado e, sobretudo, na liberdade econômica dos
+
+mesmos de fixar livremente os preços praticados em razão da prestação dos aludidos serviços, o
+
+que torna inequívoca a afronta ao princípio constitucional da livre iniciativa.
+
+Desse modo, tem-se evidenciada a inconstitucionalidade da
+
+integralidade da Lei Estadual (SC) 17.691, que claramente violando a livre iniciativa apregoada
+
+na Constituição República, restringe a liberdade dos prestadores de serviços de valor
+
+adicionado, dentre eles, inúmeros associados da Autora, de cobrar, por exemplo, pelos
+
+serviços de conexão à internet, os quais, como seguirá evidenciado no tópico subsequente,
+
+possuem a natureza de serviço de valor adicionado -SVA.
+
+24
+
+[[pagina 25 | nativo]]
+
+Portanto, ante os fundamentos ora delineados e corroborados pela
+
+jurisprudência deste próprio Supremo Tribunal Federal, pugna a Autora, desde já, seja reconhecida a
+
+inconstitucionalidade material da Lei Estadual (SC) 17.691 em razão de sua notória afronta aos
+
+princípios da proteção à livre iniciativa e a não intervenção dos estado na atividade econômica .
+
+V – DO ESTRATAGEMA UTILIZADO PELO ESTADO DE SANTA
+
+CATARINA. DA TENTATIVA DE CONTORNAR OS EFEITOS DA SÚMULA
+
+334 DO SUPERIOR TRIBUNAL DE JUSTIÇA.
+
+IV.1 – DOS SERVIÇOS DE CONEXÃO À INTERNET E A SUA NATUREZA DE SERVIÇO
+
+DE VALOR ADICIONADO.
+
+Eminentes Ministros, como dito alhures, em que pese a Lei Estadual nº
+
+17.691 estar travestida de uma suposta e inverídica ferramenta de “defesa do consumidor”, não
+
+restam dúvidas que a sua introjeção no mundo jurídico representa, nada mais nada menos, do que
+
+uma tentativa do ente estatal em contornar os efeitos do verbete sumular nº 334, editado pelo
+
+Colendo Superior Tribunal de Justiça. Vejamos:
+
+“ Ú A . 33 . não incide no serviço dos provedores de
+
+acesso nternet.”
+
+Isto porque, o Estado de Santa Catarina, tenta, a todo momento e de todas as
+
+maneiras imagináveis, emplacar o entendimento de que os serviços de internet se desenvolvem,
+
+exclusivamente, através da prestação se serviços de telecomunicação, o que, data venia, não tem a
+
+mínima procedência.
+
+A bem da verdade, é fundamental compreender que quando um assinante
+
+contrata um “plano de internet banda larga” ou “serviço de internet banda larga”, o mesmo
+
+está contratando necessariamente 02 (dois) serviços de naturezas distintas e repercussões
+
+tributárias distintas, quais sejam:
+
+(i) os serviços de provimento de acesso à internet (ou também
+
+conhecidos como serviços de conexão à internet), espécie dos
+
+serviços de valor adicionado, que compreende a disponibilização e
+
+implementação dos protocolos e rotinas necessárias à conexão do
+
+assinante à rede mundial de computadores;
+
+25
+
+[[pagina 26 | nativo]]
+
+(ii) os serviços de comunicação multimídia (SCM), espécie dos
+
+serviços de telecomunicações, que compreende a disponibilização
+
+e administração da infraestrutura de telecomunicações necessária
+
+ao transporte do sinal de internet à residência/sede de cada
+
+assinante, podendo tais serviços serem prestados pela própria
+
+empresa responsável pelos serviços de conexão à internet, ou por
+
+qualquer outra empresa, condicionada à prévia autorização do
+
+serviço expedida pela ANATEL (autorização SCM);
+
+Este entendimento Cultos Ministros, é respaldado através da própria
+
+ANATEL, eis que a mesma, no Informe PVSTR/PVST n.º 224 (Anexo 08), reconhece que os
+
+serviços de internet “banda larga” são compostos necessariamente de 02 (dois) serviços
+
+distintos, mas complementares. Confira:
+
+Assim, segundo entendimento da própria Agência Nacional de
+
+Telecomunicações – ANATEL, o serviço de internet “banda larga”, independentemente da
+
+tecnologia utilizada, requer necessariamente 02 (dois) serviços: os serviços de
+
+telecomunicações e os serviços de conexão à internet (serviços de valor adicionado).
+
+Na mesma esteira, cumpre trazer à baila o Ofício n.º 38/2011 – PVSTR
+
+(Anexo 08), também da lavra da Agência Nacional de Telecomunicações – ANATEL, através do qual
+
+a Agência aborda especificamente a imprescindibilidade dos serviços de acesso à internet e
+
+serviços de comunicação multimídia, inclusive reconhecendo que estes serviços podem ser
+
+prestados por empresas distintas, em uma relação tripartite ou triangular (operadora SCM;
+
+provedor de acesso à internet; e assinante). Confira:
+
+26
+
+[[pagina 27 | ocr]]
+
+e SILVA VITOR.
+FARIA & RIBEIRO
+
+ADVOGADOS ASSOCIADOS
+
+2“
+
+2. Inicialmente, cabe-nos destacar que o SCM é um serviço fixo de telecomunicações, de
+interesse coletivo, prestado no regime privado, destinado a possibilitar a oferta de capacidade de
+transmissão, emissão e recepção de informações multimídia, por quaisquer meios, a assinantes,
+segundo o art. 3º do Regulamento aprovado pela Resolução nº 272/01. O SCM possibilita o
+oferecimento de plataformas de redes de transporte de sinais de telecomunicações para as mais
+diversas aplicações, tanto ponto a ponto, como ponto multiponto, conforme inclusive já
+mencionado no Ofício n.º 33/2011/PVSTR- Anatel, de 25 de outubro de 2011.
+
+O SCM não se confunde com o Serviço Telefônico Fixo Comutado, destinado ao uso do
+público em geral (STFC), com os serviços de Comunicação Eletrônica de Massa, com o Serviço
+de Radiodifusão, com o Serviço de TV a Cabo, com o Serviço de Distribuição de Sinais
+Multiponto Multicanal (MMDS) ou com o Serviço de Distribuição de Sinais de Televisão e de
+Áudio por Assinatura via Satélite (DTH).
+
+4. Assim, o SCM é, na verdade, o substituto e o agregador, de outros serviços de
+telecomunicações que já existiam, tais como, o Serviço Limitado-Espécializado (SLE), nas
+
+submodalidades de Rede Especializada e Circuito Especializado, e o Serviço de Rede de
+Transporte de Telecomunicações (SRTT), e foi criado para atender a convergência tecnológica,
+unificando os serviços, dando operatividade a Lei Geral de Telecomunicações (LGT) e
+impedindo que a regulamentação fique obsoleta em função dos avanços tecnológicos.
+
+:R Já o Serviço de Valor Adicionado - SVA é a atividade que acrescenta, a um serviço de
+telecomunicações que lhe dá suporte e com o qual não se confunde, novas utilidades
+relacionadas ao acesso, armazenamento, apresentação, movimentação ou recuperação de
+informações, segundo a definição legal contida no art. 61 da Lei Geral de Telecomunicações.
+
+6. Claro está que o Serviço de Valor Adicionado não é o meio que possibilita a conexão
+entre pontos, mas sim uma atividade que acrescenta a essa conexão novas utilidades que
+envolvem o tratamento (acesso, armazenamento, apresentação, movimentação ou recuperação)
+do conteúdo da informação transportada.
+
+CA Posto isto, passaremos a abordar o questionamento apresentado na correspondência
+autuada em 25 de novembro próximo passado, abaixo transcrito:
+
+Empresa A
+Provedor de Acesso (SVA)
+
+Empresa B
+Telecom (SCM) — | Usuário Internauta
+
+27
+
+Rua Santa Rita Durão, nº 20. 19º Andar . Bairro Funcionários . CEP 30.140-110. Belo Horizonte/MG. Telefax +55 (31) 2552.0430
+www .silvavitor.com.br
+
+[[pagina 28 | nativo]]
+
+Reiterando o disposto até aqui, confira o que estabelece o Ofício n.º 33/2011
+
+– PVSTR (Anexo 08), também da lavra da Agência Nacional de Telecomunicações – ANATEL. Veja
+
+que, neste ofício, a ANATEL reconhece que devem ser firmados com o usuário (assinante),
+
+tanto um contrato para regular a prestação dos serviços de comunicação multimídia (SCM),
+
+quanto um contrato para regular a prestação dos serviços de conexão à internet (SCI). O que
+
+corrobora a imprescindibilidade de ambos os serviços para viabilizar a efetiva conexão do cliente à
+
+internet. Confira:
+
+E os argumentos não param por aí. Cumpre contextualizar o que dispõe o
+
+Informe n.º 08/2008 – PVSTR/PVST (Anexo 08), também da autoria da Agência Nacional de
+
+Telecomunicações – ANATEL, senão vejamos:
+
+28
+
+[[pagina 29 | nativo]]
+
+Vejam Senhores Ministros, que no Informe supracitado, a ANATEL mais
+
+uma vez aborda a natureza de cada serviço (SCM – telecomunicações; e SCI – serviço de valor
+
+adicionado), e destaca que para a prestação dos serviços de conexão à internet, é também
+
+indispensável a prestação dos serviços de telecomunicações, o que corrobora o fato de que
+
+não existe um serviço de internet sem a presença de ambos os serviços.
+
+Importante gizar, ainda, o disposto no Ofício n.º 10/2009 – PVSTR (Anexo
+
+08), também da autoria da ANATEL. Neste ofício, a Agência reguladora detalha as fases
+
+necessárias ao estabelecimento da conexão do usuário/assinante à internet e, neste
+
+detalhamento, a ANATEL discrimina o papel de cada serviço (SCM e SVA) na efetiva conexão
+
+do usuário/assinante à internet. Confira:
+
+29
+
+[[pagina 30 | nativo]]
+
+Ainda no tocante ao Ofício n.º 10/2009 – PVSTR, confira abaixo as respostas
+
+apresentadas pela ANATEL, no sentido de ser necessário o vínculo contratual entre o provedor
+
+de conexão à internet e o assinante, como também entre a operadora de telecomunicações e
+
+o assinante, o que, mais uma vez, acaba por demonstrar que a ANATEL já editou normas e
+
+procedimentos a serem observados pelas empresas prestadoras dos aludidos serviços, tendo
+
+indicado, inclusive, normas de cunho consumerista que são aplicáveis em tal situação:
+
+30
+
+[[pagina 31 | nativo]]
+
+Por último, e não menos importante, é fundamental colacionar ao presente
+
+petitório, o Ofício nº 25/2018/SEI/PRRE/SPR-ANATEL (Anexo 08), elaborado em 27.03.2018, em
+
+que a Agência Nacional de Telecomunicações – ANATEL, como não podia deixar de ser,
+
+reconhece expressamente a separação entre os serviços de conexão à internet e os serviços
+
+de comunicação multimídia. Confira:
+
+31
+
+[[pagina 32 | nativo]]
+
+Desta forma, apenas por estes breves, mas judiciosos fundamentos, não
+
+resta a menor sombra de dúvidas que, quando um assinante contrata um “plano de internet banda
+
+larga” ou “serviço de internet banda larga”, o mesmo está contratando necessariamente 02 (dois)
+
+serviços de naturezas distintas e repercussões tributárias distintas, mormente os serviços de
+
+provimento de acesso à internet, espécie dos serviços de valor adicionado; e os serviços de
+
+comunicação multimídia (SCM), espécie dos serviços de telecomunicações.
+
+A propósito, o enquadramento dos provedores de acesso à internet como
+
+espécie de “Serviços de Valor Adicionado” é reforçado pela definição exposta através da
+
+Norma 004/95, promulgada pelo Ministério das Comunicações, in verbis
+
+““NORMA 004/95 - USO DE MEIOS DA REDE PÚBLICA DE
+
+TELECOMUNICAÇÕES PARA ACESSO À INTERNET:
+
+3. DEFINIÇÕES
+
+(...)
+
+c. Serviço de Conexão à Internet (SCI): nome genérico que designa
+
+Serviço de Valor Adicionado que possibilita o acesso à Internet a
+
+Usuários e Provedores de Serviços de Informações;
+
+d. Provedor de Serviço de Conexão à Internet (PSCI): entidade que presta o
+
+Serviço de Conexão Internet;” (g.n.).
+
+A mesma Norma 004/95 esclarece detidamente quais rotinas e protocolos são
+
+parte integrante do serviço de conexão à internet, senão vejamos:
+
+“NORMA 004/95 - USO DE MEIOS DA REDE PÚBLICA DE
+
+TELECOMUNICAÇÕES PARA ACESSO À INTERNET:
+
+“ . À
+
+32
+
+[[pagina 33 | nativo]]
+
+4.1. Para efeito desta Norma, considera-se que o Serviço de Conexão à
+
+Internet constitui-se:
+
+a. dos equipamentos necessários aos processos de roteamento,
+
+armazenamento e encaminhamento de informações, e dos "software" e
+
+"hardware" necessários para o provedor implementar os protocolos da
+
+Internet e gerenciar e administrar o serviço;
+
+b. das rotinas para administração de conexões à Internet (senhas,
+
+endereços e domínios Internet);
+
+c. dos "softwares" dispostos pelo PSCI: aplicativos tais como - correio
+
+eletrônico, acesso a computadores remotos, transferência de arquivos,
+
+acesso a banco de dados, acesso a diretórios, e outros correlatos -,
+
+mecanismos de controle e segurança, e outros;
+
+d. dos arquivos de dados, cadastros e outras informações dispostas pelo
+
+PSCI;
+
+e. do "hardware" necessário para o provedor ofertar, manter, gerenciar e
+
+administrar os "softwares" e os arquivos especificados nas letras "b","c" e "d"
+
+deste subitem;
+
+f. outros "hardwares" e "softwares" específicos, utilizados pelo SCI.”
+
+Vê-se, portanto, a proeminência e imprescindibilidade da prestação dos
+
+serviços de conexão à internet, os quais, conjugados com a prestação de serviços de
+
+telecomunicações, propiciam, ao fim e ao cabo, o acesso dos usuários (internautas) aos chamados
+
+serviços de internet.
+
+Ademais Excelência, vale dizer que a referida conceituação encontra-se
+
+também cristalizada nos diversos julgados aplicáveis ao tema, sendo pacífico e remansoso que o
+
+serviço de provimento de acesso à Internet caracteriza-se, segundo a nossa legislação, como
+
+Serviços de Valor Adicionado, a saber:
+
+“TRIBUTÁRI - ICMS - SERVIÇO PRESTADO PELOS PROVEDORES DE
+
+INTERNET - LEI 9.472/97. 1. Os serviços prestados pelos provedores de
+
+acesso à INTERNET, embora considerados pelo CONFAZ como serviços
+
+de telecomunicações, pela definição dada no art. 60 da Lei 9.472/97, que
+
+dispôs sobre a organização dos serviços de telecomunicações, não
+
+podem ser assim classificados. 2. O serviço desenvolvido pelos
+
+provedores da INTERNET é serviço de valor adicionado (art. 61, Lei
+
+9472/97), o qual exclui expressamente da classificação de serviços de
+33
+
+[[pagina 34 | nativo]]
+
+telecomunicações (§ 1º, art. 61). (...).” (STJ. REsp n.º 456650/PR; Recurso
+
+Especial n.º 2002/0099939-5. Rel. Min., Eliana Calmon. 2ª Turma.
+
+08.09.2003). (Grifos nossos).
+
+“TRIBUTÁRI . SERVI RESTAD R SERVID RES DE I TER ET.
+
+SERVIÇOS DE VALOR ADICIONADO. ICMS. NÃO INCIDÊNCIA. I - Em face
+
+do serviço de provimento de acesso à internet classificar-se como
+
+serviço de valor adicionado, nos moldes do disposto no art. 61 da Lei n.º
+
+9.742, 16/7/1997, não há como caracterizá-lo como serviço de
+
+comunicação nos termos da Lei Complementar n.º 87/96. (...).
+
+Precedente: EREsp n.º 456.650/PR, julgado por maioria, em 11 de maio de
+
+2005. II - Recurso especial improvido.” (STJ. REsp n.º 736607/PR; Recurso
+
+Especial n.º 2005/0031292-5. Rel. Min. Francisco Falcão. 1ª Turma.
+
+19.12.2005).
+
+E de modo a exemplificar a robustez da tese da Autora, vejamos abaixo um
+
+exemplo proveniente deste Supremo Tribunal Federal, em que o Ilustre Ministro Marco Aurélio, ainda
+
+que em julgamento da seara penal, afastou, com o brilhantismo que lhe é peculiar, o equivocado
+
+argumento do Ministério Público Federal, de que determinado cidadão estivesse prestado serviços
+
+de telecomunicações, quando, na verdade, tratava-se da prestação do serviço de conexão à internet,
+
+o qual, como vimos, é um típico serviço de valor adicionado – SVA.
+
+Vejamos a decisão liminar proferida pelo Ilustre Ministro, de forma
+
+monocrática:
+
+“DECISÃO TIPO PENAL – TELECOMUNICAÇÕES – VALOR ADICIONADO
+
+– ARTIGO 61, § 1º, DA LEI Nº 9.472/97 – HABEAS CORPUS – LIMINAR –
+
+RELEVÂNCIA DO PEDIDO. (...). 2. Surge a relevância do que articulado pela
+
+Defensoria Pública da União presente o princípio da legalidade e a
+
+prevalência, no âmbito do Direito Penal, não da cláusula aberta, mas
+
+fechada. O § 1º do artigo 61 da Lei nº 9.472/97 preceitua não constituir o
+
+valor adicionado serviço de telecomunicação, classificando-se o
+
+provedor como usuário do serviço que lhe dá suporte, com os direitos e
+
+deveres inerentes a essa condição. O artigo 183 da citada lei define o
+
+crime de atividade clandestina jungindo-o às telecomunicações. 3. Defiro
+
+a liminar pleiteada para suspender, até o julgamento deste habeas corpus, a
+
+eficácia do que decidido pelo Superior Tribunal de Justiça no Recurso
+34
+
+[[pagina 35 | nativo]]
+
+Especial nº 1.304.262/PB. 4. Colham o parecer da Procuradoria Geral da
+
+República. 5. Publiquem. Brasília – residência –, 27 de junho de 2015, às
+
+12h15. Ministro MARCO AURÉLIO Relator - (HC 127978 MC, Relator(a): Min.
+
+MARCO AURÉLIO, julgado em 27/06/2015, publicado em PROCESSO
+
+ELETRÔNICO DJe-151 DIVULG 31/07/2015 PUBLIC 03/08/2015) –
+
+(Destacamos)
+
+Recentemente, quando do julgamento de mérito do aludido Habeas Corpus, a
+
+Primeira Turma do Colendo STJ, à unanimidade, reconheceu que o serviço de internet não é
+
+passível de ser enquadrada como atividade de telecomunicações. Vejamos:
+
+“DIREITO PENAL. Submete-se ao princípio da legalidade estrita.
+
+SERVIÇO DE INTERNET – ARTIGO 183 DA LEI Nº 9.472/1997. A oferta de
+
+serviço de internet não é passível de ser enquadrada como atividade
+
+clandestina de telecomunicações – inteligência do artigo 183 da Lei nº
+
+9. 7 /1997.” (HC 127978, Relator(a): Min. MARCO AURÉLIO, Primeira
+
+Turma, julgado em 24/10/2017, PROCESSO ELETRÔNICO DJe-276 DIVULG
+
+30-11-2017 PUBLIC 01-12-2017) - (Destacamos)
+
+Portanto, com esteio no atual entendimento jurisprudencial, nos próprios
+
+preceitos legais aplicáveis e, principalmente, em análise à própria natureza jurídica dos serviços de
+
+conexão à internet, é incontroversa a classificação dos mesmos como típicos “serviços de
+
+valor adicionado”.
+
+Ato contínuo, resta evidente que os “Serviços de Valor Adicionado”, por sua
+
+vez, não se caracterizam como qualquer espécie de serviços de telecomunicações, razão pela
+
+qual não podem ser submetidos à tributação a título de ICMS. É o que estabelece o Art. 61, §1.º, da
+
+Lei 9.472/97.
+
+Outrossim, em que pese todo o quadro acima demonstrado, da leitura da
+
+norma impugnada na presente Ação Direta de Inconstitucionalidade, salta aos olhos a evidente
+
+tentativa do Estado de Santa Catarina em suprimir a natureza jurídica do serviço de conexão à
+
+internet (SCI), o qual, sem sombra de dúvidas, se qualifica como um serviço de valor adicionado.
+
+Em verdade Ilustres Ministros, o Estado de Santa Catarina, valendo-se de
+
+uma narrativa voltada para uma suposta defesa dos consumidores daquele estado, pretende, à toda
+
+evidência, fulminar a atividade desenvolvida por diversas empresas associadas à Autora.
+35
+
+[[pagina 36 | nativo]]
+
+Afinal, na medida em que a contestada norma estipula uma impensável
+
+proibição de oferta e comercialização onerosa de serviços de valor adicionado, de forma conjunta
+
+aos serviços de telecomunicações, não restam dúvidas que o Estado catarinense visa frustrar o
+
+modelo de negócio implementado por diversas associadas da Autora.
+
+E mais Exas., a antijuridicidade da norma é tão gritante, que a Lei Estadual
+
+(SC) nº 17.691, a pretexto de tutelar direitos consumeristas, impõe como consequência uma absurda
+
+e inédita previsão de que os serviços de valor adicionado eventualmente prestados pelas empresas
+
+associadas à Autora, seriam presumidamente gratuitos.
+
+Nada obstante, cumpre demonstrar, data venia, o estratagema criado pelo
+
+Estado catarinense. Vejamos:
+
+Especificamente no Art. 3º, incisos I e II, a Lei Estadual 17.691 dispõe que o
+
+consumidor poderá, a qualquer momento e por qualquer meio disponível, solicitar o cancelamento de
+
+serviços alheios aos de telecomunicações que não sejam do seu interesse, devendo a prestadora,
+
+de imediato, retificar a fatura e ressarcir os valores supostamente indevidos, bem como,
+
+retirar a cobrança das faturas vincendas, sem majorar os valores dos demais serviços
+
+efetivamente contratados.
+
+Noutra ponta, agora no Art. 2º, a Lei catarinense diz que consideram-se
+
+gratuitos os serviços disponibilizados, próprios ou de terceiros, alheios aos de
+
+telecomunicações, que não tenham sido contratados ou requisitados pelo consumidor.
+
+Por fim, já fazendo uma projeção quanto aos efeitos futuros, o Art. 1º acaba
+
+instituindo a regra geral de proibição da oferta e comercialização de serviços de valor adicionado de
+
+forma concomitante aos serviços de telecomunicações.
+
+Notem Ilustre Julgadores, que o Estado de Santa Catarina, de forma ardilosa,
+
+construiu uma armadilha jurídica que atinge em cheio as empresas associadas à Autora. Isto porque,
+
+a consequência prática almejada pelo referido ente é, nada mais nada menos, tratar todos os
+
+valores recebidos pelas empresas associadas à Autora como se fossem, única e
+
+exclusivamente, provenientes da prestação dos serviços de telecomunicações, possibilitando,
+
+assim, a incidência da regra do imposto estadual (ICMS).
+
+36
+
+[[pagina 37 | nativo]]
+
+É de se notar, data maxima venia, a vil tentativa do Estado de Santa Catarina
+
+em contornar os efeitos de todo o regramento jurídico nacional e que há muito já pacificou o
+
+entendimento de que o serviço de conexão à internet, por ser um serviço de valor adicionado, não se
+
+submete a regra de incidência do ICMS.
+
+Vale dizer, novamente, que foi justamente em razão deste reiterado
+
+comportamento do Estado de Santa Catarina, que a Autora obteve, em sede liminar, uma decisão
+
+judicial proveniente do Tribunal de Justiça de Santa Catarina (Anexo 06), donde restou
+
+determinada a suspensão das cobranças de ICMS em face dos serviços de conexão à internet (SCI),
+
+os quais, como visto, caracterizam-se como típico serviço de valor adicionado. Confira-se:
+
+Isto posto, e diante de todas as considerações acima delineadas, restou
+
+demonstrado, a não mais poder, que o verdadeiro intuito da norma jurídica editada pelo Estado de
+
+Santa Catarina é aniquilar os prestadores de serviços de valor adicionado que atuam no referido
+
+Estado, para, em última análise, criar um falacioso cenário em que os serviços de internet seriam
+
+compostos, exclusivamente, pelos serviços de telecomunicação, o que, redobrada venia, não tem o
+
+menor cabimento.
+
+E diante do cenário acima narrado, salta aos olhos o intuito do Estado de
+
+Santa Catarina em submeter todas as receitas obtidas pelas associadas da Autora ao regime de
+
+tributação do ICMS, como se elas fossem receitas exclusivamente provenientes da prestação de
+
+serviços de telecomunicações, o que, permissa venia, é outra falácia.
+
+De toda sorte, uma vez superadas as razões que comprovam a procedência
+
+da presente Ação Direta de Inconstitucionalidade, cumpre demonstrar, a seguir, os fundamentos
+
+para que seja determinado, em sede de tutela antecipada de urgência, a imediata suspensão dos
+
+efeitos da Lei Estadual (SC) nº 17.691. É o que veremos:
+
+37
+
+[[pagina 38 | nativo]]
+
+VI – DO PARECER EXARADO PELA PROCURADORIA GERAL DA
+
+REPÚBLICA NA ADI 6068. DO RECONHECIMENTO DA
+
+INCONSTITUCIONALIDADE DA LEI CATARINENSE.
+
+Doutos Ministros, conforme narrado em sede preliminar, a Lei Estadual (SC)
+
+nº 17.691 também tem a sua constitucionalidade questionada através da Ação Direta de
+
+Inconstitucionalidade - ADI nº 6068, conjuntamente promovida pela Associação Das Operadoras De
+
+Celulares – ACEL e pela Associação Brasileira De Concessionárias De Serviço Telefônico Fixo
+
+Comutado – ABRAFIX.
+
+E em consulta aos referidos autos, a Autora pode perceber que a D.
+
+Procuradora Geral da República Raquel Dodge, manifestou-se favoravelmente ao pedido da
+
+medida cautelada rogada pelas Autoras, para que seja determina a suspensão dos efeitos da
+
+aludida norma. Senão vejamos a ementa do parecer (Anexo 09) encaminhado pela Douta PGR:
+
+“A DIRETA DE I C STITUCI A IDADE. LEI 17.691/2019, DO
+
+ESTADO DE SANTA CATARINA. PROIBIÇÃO DE COBRANÇA PELOS
+
+SERVIÇOS DE VALOR ADICIONADO PRESTADOS POR
+
+CONCESSIONÁRIAS DE TELECOMUNICAÇÕES. COMPETÊNCIA
+
+LEGISLATIVA PRIVATIVA DA UNIÃO. OFENSA AOS ARTS. 21-XI E 22-IV
+
+DA CONSTITUIÇÃO.
+
+1. É inconstitucional, por usurpação da competência material e
+
+legislativa da União, lei estadual que proíbe a oferta e a cobrança de
+
+serviços de valor adicionado pelas prestadoras de serviços de
+
+telecomunicações. Precedentes. - Parecer pelo deferimento do pedido de
+
+medida cautelar.” (Destacamos)
+
+E da leitura do brilhante parecer (Anexo 09), é possível vislumbrar
+
+Excelências, que a fundamentação utilizada pela D. Procuradora Geral da República acaba por
+
+reconhecer, tal como defende a Autora, a inconstitucionalidade formal da norma impugnada.
+
+Nesse sentido, importante reprisar os termos do referido parecer,
+
+especialmente quando se menciona a existência de normas regulatórias expedidas pela ANATEL e
+
+que tratam da prestação do serviço de valor adicionado de forma concomitante à prestação de
+
+serviços de telecomunicações. In verbis:
+
+38
+
+[[pagina 39 | nativo]]
+
+“O serviço de valor adicionado, a despeito de relacionar-se com os
+
+serviços de telecomunicações, com estes não se confunde. Segundo o
+
+conceito do art. 61 da Lei 9.472/1997, serviço de valor adicionado “é a
+
+atividade que acrescenta, a um serviço de tele- comunicações que lhe dá
+
+suporte e com o qual não se confunde, novas utilidades relacionadas ao
+
+acesso, armazenamento, apresentação, movimentação ou recuperação de
+
+informações.” A Resolução 632, de 7 de março de 2014, da ANATEL
+
+autoriza que as prestadoras de serviços de telecomunicações cobrem
+
+pelos serviços de valor adicionado, desde que haja prévia e expressa
+
+autorização do servidor (...) Embora a Lei Geral de Telecomunicações
+
+não defina o serviço de valor adicionado como serviço de
+
+telecomunicações, a proibição da oferta e da cobrança pela prestação
+
+do referido serviço efetivada pela lei estadual interfere indevidamente no
+
+contrato de concessão de serviço público realizado entre a União e as
+
+empresas de telecomunicações. Os efeitos da lei catarinense ultrapassam
+
+a relação entre consumidor e fornecedor e atingem a relação firmada com o
+
+poder concedente. A vedação prevista na lei estadual pode inclusive
+
+repercutir sobre o valor dos serviços de telecomunicações, porquanto causa
+
+interferência no equilíbrio econômico-financeiro do contrato de concessão.”
+
+Mais adiante, ao opinar pelo deferimento do pedido de medida cautelar
+
+formulado na ADI 6068, a D. Procuradora Geral da República assim consignou:
+
+“O fumus boni iuris foi devidamente demonstrado acima, quanto à
+
+usurpação de competência da União para legislar sobre os serviços de
+
+telecomunicações, nos termos dos arts. 21-XI e 22-IV da Constituição. O
+
+periculum in mora está igualmente presente, porquanto o art. 5.º da Lei
+
+17.691/2019 do Estado de Santa Catarina estipula sanções pelo
+
+descumprimento das regras impostas,1 o que força as prestadoras a se
+
+adaptarem a regramento inconstitucional, que resultará na indevida
+
+intromissão nos contratos de concessão dos serviços de telecomunicações. III
+
+- Pelo exposto, opina a Procuradora-Geral da República pelo
+
+deferimento do pedido de medida cautelar.” (Grifamos)
+
+39
+
+[[pagina 40 | nativo]]
+
+Notem Ilustres Ministros, que o parecer emanado pela D. Procuradora Geral
+
+da República, além de demonstrar afinidade com grande parte dos argumentos dispendidos pela
+
+Autora nesta Ação Direta de Inconstitucionalidade, acaba por revelar a proeminência do pedido de
+
+concessão de medida cautelar abaixo delineada. É o que veremos abaixo.
+
+VII – DA TUTELA PROVISÓRIA DE URGÊNCIA, INAUDITA ALTERA PARS,
+
+DE NATUREZA CAUTELAR. DO PREENCHIMENTO DOS REQUISITOS
+
+EXIGIDOS NA LEI PROCESSUAL.
+
+Como restou provado pela farta fundamentação jurídica acima, reiterada por
+
+inúmeros dispositivos legais, precedentes doutrinários e jurisprudenciais, torna-se evidente a
+
+incompatibilidade da Lei Estadual (SC) nº 17.691 em face das regras contidas na Constituição da
+
+República de 1988.
+
+Como bem sabe os Doutos Ministros desta Egrégia Corte, a concessão
+
+provisória de tutela de urgência (medida cautelar) pressupõe a concomitância dos requisitos
+
+concernentes a probabilidade do direito e o perigo de dano ou o risco ao resultado útil do processo,
+
+conforme determinado no artigo 300, do Código de Processo Civil, os quais verificarão presentes no
+
+caso em tela.
+
+Primeiramente, eleve-se que não se requer aqui antecipação dos efeitos do
+
+provimento final, mas mera medida acautelatória, visando evitar os danos que adviriam da
+
+supressão do direito das associadas da Autora ofertar e comercializar os serviços de valor
+
+adicionado, de forma onerosa, de forma conjunta aos serviços de telecomunicações.
+
+E levando-se em conta todas as inconstitucionalidades formais e materiais
+
+elencadas na precedência, não restam dúvidas quanto ao desacerto e a inaptidão da Lei Estadual
+
+(SC) nº 17.691 para produzir efeitos no universo jurídico.
+
+Cuida-se, assim, de providência antes acobertada pelo poder geral de cautela
+
+mencionado no artigo 798 do Código de Processo Civil de 1973, e que foi preservada pela nova
+
+legislação processual, ainda que simplificados os procedimentos para tanto, sobretudo abolindo a
+
+exigência de um procedimento cautelar específico.
+
+Sobre o tema, HUMBERTO THEODORO JÚNIOR esclarece que a chamada
+
+tutela provisória de urgência, de natureza cautelar, corresponde, substancialmente, àquelas medidas
+
+cautelares antes previstas, in verbis:
+40
+
+[[pagina 41 | nativo]]
+
+“(...) esse aspecto, as duas tutelas provisórias arroladas pela legislação
+
+processual civil renovada correspondem, em regra, a incidentes do processo,
+
+e não a processos autônomos ou distintos. De tal sorte que a antiga dicotomia
+
+do processo principal (de cognição ou execução) e cautelar, existente no
+
+código renovado, não mais subsiste na nova lei, pelo menos como regra
+
+geral, bastante simplificado o procedimento.
+
+(...)
+
+Correspondem esses provimentos extraordinários, em primeiro lugar, às
+
+tradicionais medidas de urgência – cautelares (conservativas) e antecipatórias
+
+(satisfativas) -, todas voltadas para combater o perigo de dano, que possa
+
+advir do tempo necessário para o cumprimento de todas as etapas do devido
+
+processo legal.
+
+A essas tutelas de urgência, agregou-se, mais modernamente, a tutela da
+
+evidência, que tem como objetivo não propriamente afastar o risco de um
+
+dano econômico ou jurídico, mas, sim, o de combater a injustiça suportada
+
+pela parte que, mesmo tendo a evidência de seu direito material, se vê sujeita
+
+a privar-se da respectiva usufruição, diante da resistência abusiva do
+
+adversário. (THEODORO Jr., Humberto, Curso de Direito Processual Civil,
+
+vol. I, Ed: Forense, 2016).
+
+Pois bem. Como dito acima, in casu encontram presentes os requisitos do
+
+Artigo 300 do CPC/2015, que assim dispõe:
+
+“Art. 300. A tutela de urgência será concedida quando houver elementos
+
+que evidenciem a probabilidade do direito e o perigo de dano ou o risco
+
+ao resultado útil do processo.”(g.n)
+
+De fato, temos como evidente a probabilidade do direito pleiteado pela
+
+Autora, decorrente da robusta fundamentação jurídica trazida nesta exordial, visto que a Lei
+
+Estadual (SC) 17.691/2019, instituída pelo Estado de Santa Catarina, está repleto de violações ao
+
+texto da Constituição Federal. Em suma, o referido Decreto viola:
+
+(i) Artigo 22, IV da Constituição Federal, notadamente porque
+
+competiria, exclusivamente à União, legislar sobre a matéria disciplinada
+
+pela Lei Estadual (SC) nº 17.691;
+
+41
+
+[[pagina 42 | nativo]]
+
+(ii) Artigo 21, XI da Constituição Federal, sobretudo porque a
+
+vergastada Lei Estadual (SC) nº 17.691 pretende tutelar a forma de
+
+prestação de um serviço que é regulado, exclusivamente, pela União,
+
+através da Agência Nacional de Telecomunicações – ANATEL, a qual no
+
+uso de suas competências, já dispôs sobre a prestação dos serviços de
+
+comunicação atrelados aos serviços de valor adicionado – SVA, ex vi do
+
+Art. 63 da Resolução 632/2014 (Anexo 07);
+
+(iii) Artigo 1º, inciso IV e artigo 170, caput, ambos da Constituição
+
+Federal, eis que o Estado de Santa Catarina, por meio da vergastada Lei,
+
+está interferindo direta e indevidamente na livre iniciativa;
+
+Da mesma forma, também se encontra presente no caso em tela, o
+
+imprescindível “perigo de dano”, decorrente das imposições que serão suportadas pelas
+
+empresas associadas à Autora, sobretudo diante da inexplicável proibição de oferta e
+
+comercialização de serviços de valor adicionado de forma conjunta aos serviços de
+
+telecomunicação.
+
+Pior ainda, e escancarado o perigo do dano, repisa-se que a Lei
+
+catarinense prescreve uma impensável presunção de gratuidade em razão da prestação dos
+
+serviços acima mencionados, o que, certamente, irá inviabilizar a atividade empresarial
+
+desenvolvida por diversas associadas da Autora.
+
+Da mesma forma, sobreleva consignar que a objurgada norma
+
+prescreveu um “prazo” de 90 (noventa) para as empresas associadas à Autora se adaptarem a
+
+“nova realidade” introduzida pela Lei Estadual (SC) nº 17.691. Portanto, considerando que a
+
+aludida norma foi publicada no DOE no dia 15.01.2019, percebe-se que desde o dia 25.04.2019
+
+inúmeras associadas da Autora passaram a sofrer com os nefastos e incalculáveis efeitos
+
+trazidos pela multicitada Lei Estadual (SC) nº 17.691.
+
+Como se vê Cultos Ministros, a urgência é iminente, haja vista a
+
+conclusão de que a contestada norma já está apta a produzir efeitos em face de inúmeras
+
+associadas à Autora.
+
+De fato, trata-se de questão que merece pronunciamento urgente deste
+
+Egrégio Supremo Tribunal, haja vista a extensão do conflito, o prejuízo ao desenvolvimento do setor
+
+de telecomunicações decorrente da incerteza jurídica trazida pela lei catarinense, o inevitável
+42
+
+[[pagina 43 | nativo]]
+
+ajuizamento de inúmeras demandas acerca do mesmo problema, a situação de desigualdade que
+
+ficarão submetidos os consumidores catarinenses, bem como a impensável e inédita imposição de
+
+uma norma regulatória flagrantemente maculada pelo vício de iniciativa. EIS O PERIGO DE DANO.
+
+Tais fatos, por si só, demonstram o inequívoco perigo de dano a que estão
+
+submetidas as empresas associadas à Autora, sendo a concessão da tutela de urgência inaudita
+
+altera pars rogada o único e essencial alento a estas empresas.
+
+É importante destacar que o deferimento da tutela de urgência ora requerida
+
+não terá o condão de lesar qualquer parte, ou seja, não há risco de irreversibilidade da medida
+
+porventura concedida.
+
+À vista do exposto, ressalte-se estão cabalmente presentes os elementos
+
+necessários para a concessão da tutela provisória de urgência pleiteada liminarmente, o que viabiliza
+
+sua concessão a fim de suspender os efeitos decorrentes da Lei Estadual (SC) nº 17.691/2019, o
+
+que de antemão se requer.
+
+VIII – DOS PEDIDOS
+
+Diante todo o exposto, por ser medida de inteira justiça, a Autora pede e
+
+requer à Vossas Excelências que:
+
+a) Após a regular distribuição e processamento do feito, seja atribuída à
+
+Ilustre Ministra Cármen Lúcia, a relatoria da presente Ação Direta de
+
+Inconstitucionalidade, ex vi do Art. 77-B do RISTF;
+
+b) Seja deferida, liminarmente, inaudita altera pars, a TUTELA DE
+
+URGÊNCIA ANTECIPADA, nos termos do artigo 300 do CPC c/c o artigo
+
+10º, parágrafo 3º da Lei n. 9.868/99, especialmente para que seja
+
+determinada a suspensão temporária dos efeitos da Lei Estadual nº
+
+17.691/2019, antes mesmo da oitiva do Senhor Governador de Santa
+
+Catarina, até o julgamento final desta ADI;
+
+c) Diante da urgência do caso em tela e considerando o pedido de tutela
+
+de urgência, e considerando a existência de parecer favorável à
+
+inconstitucionalidade ora pleiteada (vide parecer da PGR – Anexo 09), a
+
+Autora pugna para que seja dispensada, nesta fase, a oitiva da Advocacia
+
+Geral da União e da Procuradoria Geral da República;
+
+43
+
+[[pagina 44 | nativo]]
+
+d) Após a apreciação da tutela de urgência acima, seja citado o Estado de
+
+Santa Catarina e ouvidos os Ilustres Representantes da Advocacia Geral
+
+da União e da Procuradoria Geral da República;
+
+Pede-se, ao final, que seja julgada TOTALMENTE PROCEDENTE esta Ação
+
+Direta de Inconstitucionalidade, para fins de declarar INCONSTITUCIONAL a Lei Estadual nº
+
+17.691/2019, instituída pelo Estado de Santa Catarina, em decorrência da ofensa dos seguintes
+
+dispositivos constitucionais:
+
+(i) Artigo 22, IV da Constituição Federal, notadamente porque
+
+competiria, exclusivamente à União, legislar sobre a matéria
+
+disciplinada pela Lei Estadual (SC) nº 17.691; (ii) Artigo 21, XI da
+
+Constituição Federal, sobretudo porque a vergastada Lei
+
+Estadual (SC) nº 17.691 pretende tutelar a forma de prestação de
+
+um serviço que é regulado, exclusivamente, pela União, através
+
+da Agência Nacional de Telecomunicações – ANATEL e (iii) Artigo
+
+1º, inciso IV e artigo 170, caput, ambos da Constituição Federal,
+
+eis que o Estado de Santa Catarina, por meio da vergastada Lei,
+
+está interferindo direta e indevidamente na livre iniciativa;
+
+Protesta, desde logo, pela produção de prova nos termos do art. 9.º da Lei n.º
+
+9.868/99, caso se entenda necessário, e pela realização de sustentação oral na sessão de
+
+julgamento, o que faz com fundamento no art. 131 do Regimento Interno do Supremo Tribunal
+
+Federal.
+
+Nos termos do art. 272, §5º, do CPC 2015, requer que todas as intimações
+
+deste feito sejam expedidas em nome dos seguintes procuradores, sob pena de nulidade: Dr.
+
+Paulo Henrique da Silva Vitor, inscrito na OAB/MG sob o nº 106.662; Dr. Alan Silva Faria,
+
+inscrito na OAB/MG sob o nº 114.007 e na OAB/SP sob o nº 362.582; Dra. Jordana Magalhães
+
+Ribeiro, inscrita na OAB/MG sob o nº 118.530; e Gustavo de Melo Franco Tôrres e Gonçalves,
+
+inscrito na OAB/MG sob o nº 128.526.
+
+Em cumprimento ao requisito previsto no inciso II, do artigo 319, do CPC, a
+
+Autora indica o endereço eletrônico de seu patrono infra-assinado para os devidos fins legais:
+
+gustavo@silvavitor.com.br.
+
+44
+
+[[pagina 45 | nativo]]
+
+Dá-se à causa o valor de R$ 100.000,00 (cem mil reais).
+
+Nestes termos, pede-se deferimento provimento.
+
+De Belo Horizonte/MG para Brasília/DF, 26 de abril de 2019.
+
+PAULO HENRIQUE DA SILVA VITOR THEODORO S.C. DE ALMEIDA BARBOSA
+paulo@silvavitor.com.br theodoro@silvavitor.com.br
+OAB/MG 106.662 OAB/MG 144.940
+
+GUSTAVO DE MELO F. TÔRRES E GONÇALVES
+gustavo@silvavitor.com.br
+OAB/MG 128.526
+
+RELAÇÃO DE ANEXOS:
+
+ANEXO 01 – PROCURAÇÃO
+
+ANEXO 02 – ESTATUTO SOCIAL DA ABRINT / ATA DE AGO DE JUNHO/2018
+
+ANEXO 03 – ATA DA ASSEMBLEIA GERAL REALIZADA EM 15.02.2019
+
+ANEXO 04 – ROL DE ASSOCIADOS
+
+ANEXO 05 – LEI ESTADUAL (SC) 17.691/2019
+
+ANEXO 06 - DECISÃO LIMINAR DA ABRINT EM SC
+
+ANEXO 07 - REGULAMENTO GERAL DE DIREITOS DO CONSUMIDOR DE SERVIÇOS DE TELECOMUNICAÇÕES
+
+ANEXO 08 – EXEMPLOS DE OFÍCIOS E NOTAS TÉCNICAS EXPEDIDAS PELA AGÊNCIA NACIONAL DE
+
+TELECOMUNICAÇÕES – ANATEL
+
+ANEXO 09 – PARECER ELABORADO PELA PGR NA ADI 6068.
+
+ANEXO 10 – COMPROVANTE DE RECOLHIMENTO DE CUSTAS PROCESSUAIS
+
+45

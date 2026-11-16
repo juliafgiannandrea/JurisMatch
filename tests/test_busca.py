@@ -103,3 +103,25 @@ def test_similaridade_no_rerank_e_ausente_no_lexical(buscador_rerank):
     assert -1.0 <= com_rerank[0]["similaridade"] <= 1.0
     lexical = buscador_rerank.buscar("Lei 11.101/2005", k=1, modo="lexical")
     assert lexical[0]["similaridade"] is None
+
+
+def test_buscar_registra_tempos_sem_rerank(buscador):
+    buscador.buscar("liberdade de imprensa", k=3)
+    t = buscador.ultimos_tempos
+    assert t["reranking"] == 0
+    assert 0 < t["recuperacao"] == t["total"]
+
+
+def test_buscar_registra_tempos_com_rerank(buscador_rerank):
+    buscador_rerank.buscar("liberdade de imprensa", k=3, rerank=True, limiar=0.0)
+    t = buscador_rerank.ultimos_tempos
+    assert t["recuperacao"] > 0 and t["reranking"] > 0
+    assert t["total"] == pytest.approx(t["recuperacao"] + t["reranking"])
+
+
+def test_formatar_tempos_omite_reranking_quando_zero():
+    from jurismatch.busca import formatar_tempos
+
+    assert formatar_tempos({"recuperacao": 0.25, "reranking": 0.0, "total": 0.25}) == (
+        "Tempo: Recuperação 0.25 s · Total 0.25 s"
+    )

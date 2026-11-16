@@ -1,0 +1,15 @@
+tempo de resposta 
+e precisão
+
+índice de 0.5 a 1 (ao invés de 0 a 1): OK
+
+testes:faiss vs python >> montar o modelo do teste 
+- tempo de retorno 
+- resultado (acurácia)
+
+artigo com metodologia e resultado das comparações
+
+- aumentar os retornos de petições (o k= 40) no front
+ou como campo 
+  
+  
