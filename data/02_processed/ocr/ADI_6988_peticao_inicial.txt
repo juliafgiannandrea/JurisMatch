@@ -1,0 +1,2971 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO LUIZ FUX,
+PRESIDENTE DO EXCELSO SUPREMO TRIBUNAL FEDERAL
+
+“Nós não podemos mais conviver com tantas
+irregularidades, principalmente em um Tribunal
+de Contas, que é um órgão responsável pela
+fiscalização das contas do estado e que deve dar o
+bom exemplo”.1
+
+A ASSOCIAÇÃO NACIONAL DOS AUDITORES DE CONTROLE
+
+EXTERNO DO TRIBUNAL DE CONTAS DO BRASIL – ANTC,
+
+entidade de classe de âmbito nacional sem fins econômicos, com
+
+homogeneidade em sua representação, inscrita no CNPJ/MF sob o nº
+
+16.812.795/0001-72, legalmente representada, na forma do artigo 34, inciso
+
+I do Estatuto, por seu Presidente, Ismar dos Santos Viana, CPF
+
+694.614.225-04, Auditor de Controle Externo, vem, respeitosamente,
+
+perante Vossa Excelência, com fulcro no art. 102, inciso I, alínea “a”, no art.
+
+103, IX, ambos da Constituição Federal, e no art. 2º, IX, da Lei nº
+
+9.868/1999, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+C/C PEDIDO DE MEDIDA CAUTELAR
+
+em face da Lei nº 20.989, de 06 de abril de 2021, e dos artigos 3º e seu § 1º,
+
+4º, 17, 30 e seu parágrafo único, parágrafo único do artigo 31 e Anexos III,
+
+VII e VIII da Lei estadual nº 15.122/2005, todos os regramentos do Estado
+
+de Goiás, pelas razões que passa a expor.
+
+1 Promotora de Justiça do Estado de Goiás Villis Marra:
+https://g1.globo.com/go/goias/noticia/2019/05/04/recadastramento-no-tce-aponta-que-servidores-mortos-continuam-recebendo-salario-em-goiania.ghtml Página1
+
+[[pagina 2 | nativo]]
+
+Sumário
+
+RESUMO .................................................................................................................................... 3
+
+DA LEGITIMIDADE ATIVA E DA PERTINÊNCIA TEMÁTICA .................................................................. 5
+
+FUNDAMENTAÇÃO ................................................................................................................... 11
+
+A – DA IMPORTÂNCIA DO CONTROLE EXTERNO INSTITUCIONALIZADO DA ADMINISTRAÇÃO PÚBLICA E
+DO SEU CORRETO FUNCIONAMENTO PARA O ESTADO DEMOCRÁTICO DE DIREITO. .............................. 11
+B – DOS VÍCIOS DE INCONSTITUCIONALIDADE DA LEI Nº 20.989/2021 ..................................................... 17
+B.1 – Da Inconstitucionalidade Formal da Lei nº 20.989/2021, por violação ao princípio da
+colegialidade ............................................................................................................................................ 17
+B.2 – Dos Vícios de Inconstitucionalidade Material da Lei nº 20.989/2021 ........................................ 19
+C – DOS VÍCIOS DE INCONSTITUCIONALIDADE DA LEI Nº 15.122/2005 ..................................................... 25
+C.1 – Da Inconstitucionalidade Material do artigo 30, caput e parágrafo único e Anexo VII, por
+violação ao princípio da proporcionalidade e da regra do concurso público (incisos II e V do artigo
+37 da CF/88)............................................................................................................................................. 25
+C.2 – Da Inconstitucionalidade Material do parágrafo único do artigo 31 da Lei nº 15.122/2005,
+por violação à regra constitucional da vedação de acumulação de cargos públicos na
+Administração Pública. ........................................................................................................................... 27
+C.3 – Da Inconstitucionalidade Material dos artigos 3º, caput e § 1º, e 4º, da Lei nº 15.122/2005,
+por violação à exclusividade do exercício de atividade exclusiva de Estado por titulares de cargos
+públicos efetivos da instituição de controle externo............................................................................. 28
+C.4 – Da Inconstitucionalidade Material do artigo 17, por violação à regra do concurso público (inc.
+II do art. 37 da CF/88). Interpretação conforme à Constituição. ......................................................... 34
+C.5 – Da Inconstitucionalidade dos cargos Assessor I, II, III e IV, por violação à regra do concurso
+público (inc. II do art. 37 da CF/88), especificamente quanto à expressão “bem como às Secretarias
+e Diretorias/Gerências, no âmbito da respectiva unidade ou fora dela” que sejam unidades
+finalísticas de auditoria e instrução processual. ................................................................................... 36
+
+DOS PEDIDOS ........................................................................................................................... 41
+
+D.1 – Do pedido liminar inaudita altera parte, pelo rito do art. 10, § 3º, da Lei nº 9.868/99, para
+obstar os efeitos da Lei estadual nº 20.989/2021. ............................................................................... 41
+D.2 – Do pedido liminar em relação aos artigos 30, caput e parágrafo único e Anexo VII; 31,
+parágrafo único; 3º, caput e § 1º, 4º, da Lei nº 15.122/2005, pelo rito do art. 10, caput, da Lei nº
+9.868/99. .................................................................................................................................................. 42
+D.3 – Do pedido de mérito ...................................................................................................................... 47
+
+Página2
+
+[[pagina 3 | nativo]]
+
+RESUMO
+
+Em vista da importância do controle externo da Administração Pública
+
+e do seu correto funcionamento para o Estado Democrático de Direito,
+
+inclusive por afetar direitos subjetivos daqueles que manejam recursos
+
+públicos, a presente ação direta de inconstitucionalidade questiona:
+
+a) A Lei nº 20.989/20212, ante o vício de inconstitucionalidade formal,
+
+pois originada de projeto de lei de iniciativa isolada do Presidente do
+
+TCE-GO, com violação, portanto, ao princípio (constitucional, implícito)
+
+da colegialidade (artigos 96, II, b, 73 c/c o caput do 75 da CF/88).
+Precedente do Supremo Tribunal Federal (STF): ADI 1.681/SC3;
+
+b) Os artigos 1º, 2º e 3º e Anexos I e II da Lei nº 20.989/2021, ante o
+
+vício de inconstitucionalidade material, pois que a extinção de cargos
+
+efetivos e a criação de mais cargos em comissão no âmbito do Tribunal de
+
+Contas do Estado de Goiás (TCE-GO) viola o princípio constitucional da
+
+proporcionalidade, da regra do concurso público e da destinação dos
+
+cargos em comissão exclusivamente a funções de direção, assessoria e
+
+chefia (CF, art. 37, II e V). Precedente do STF: Repercussão Geral, Tema
+10104;
+
+c) O artigo 30, caput e parágrafo único e Anexo VII, da Lei nº
+15.122/20055, ante o vício de inconstitucionalidade material, que criou 167
+
+cargos em comissão em extinção, sem descrição legal das atribuições e
+
+2 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103933/lei-20989
+3 https://jurisprudencia.stf.jus.br/pages/search/sjur12565/false
+4
+http://www.stf.jus.br/portal/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=5171382&
+numeroProcesso=1041210&classeProcesso=RE&numeroTema=10105 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-15122 Página3
+
+[[pagina 4 | nativo]]
+
+condicionando a exoneração dos ocupantes desses a cargos a uma prévia
+
+aprovação do Plenário do TCE-GO, por violação ao princípio da
+
+proporcionalidade e das regras do concurso público e da livre
+
+exoneração de ocupante de cargo em comissão (incisos II e V do artigo 37
+da CF/88). Precedente do STF: Repercussão Geral, Tema 10106;
+
+d) O parágrafo único do artigo 31 da Lei nº 15.122/2005, que permite
+
+a acumulação de cargos em comissão, por violação à regra constitucional
+
+da vedação de acumulação de cargos públicos na Administração Pública,
+
+prevista no inciso XVI do artigo 37 da CF/88;
+
+e) Os artigos 3º, caput e § 1º, e 4º, da Lei nº 15.122/2005, por violação
+
+à restrição constitucional do exercício de atividade exclusiva de Estado a
+
+titular de cargo público efetivo da instituição de controle externo, mais
+
+especificamente de Analista de Controle Externo;
+
+f) Os Anexos III e VIII da Lei nº 15.122/2005, na parte relativa aos
+
+cargos Assessor I, II, III e IV, por violação à regra do concurso público
+
+constante dos incisos II e V do art. 37 da CF/88, cujo regramento se encontra
+
+bem delineado no Tema 1010 (RE 1041210) do STF.
+
+6
+https://jurisprudencia.stf.jus.br/pages/search?classeNumeroIncidente=RE%201041210&base=acordaos&s
+inonimo=true&plural=true&page=1&pageSize=10&sort=_score&sortBy=desc&isAdvanced=true&origem=AP Página4
+
+[[pagina 5 | nativo]]
+
+DA LEGITIMIDADE ATIVA E DA PERTINÊNCIA
+
+TEMÁTICA
+
+1. A legitimidade ativa da ANTC para a provocação do controle
+
+abstrato de constitucionalidade já foi reconhecida por essa Excelsa Corte
+em outras oportunidades, a exemplo das ADIs nº 6440/PA7 e 6532/AM8.
+
+2. Com efeito, de acordo com a jurisprudência do STF, a legitimidade
+
+para o ajuizamento de ações de controle concentrado de constitucionalidade
+
+por parte de entidades de classe pressupõe uma série de requisitos:
+
+caracterização como entidade de classe ou sindical, decorrente da
+
+representação de categoria empresarial ou profissional; abrangência ampla
+
+do vínculo de representação, exigindo-se que a entidade represente toda a
+
+respectiva categoria, e não apenas fração dela; caráter nacional da
+
+representatividade, aferida pela demonstração da presença da entidade em
+
+pelo menos nove estados; e pertinência temática entre as finalidades
+institucionais da entidade e o objeto da impugnação9.
+
+3. A ANTC – Associação Nacional dos Auditores de Controle Externo
+
+dos Tribunais de Contas do Brasil é uma entidade de classe de âmbito
+
+nacional, sem fins lucrativos, que tem por finalidade representar, patrocinar
+
+e defender, de forma exclusiva, os interesses gerais dos titulares de cargo de
+
+provimento efetivo com atribuições plenas para a fiscalização contábil,
+
+financeira, orçamentária, operacional, patrimonial e demais ações de
+
+7 http://portal.stf.jus.br/processos/detalhe.asp?incidente=5920825
+8 http://portal.stf.jus.br/processos/detalhe.asp?incidente=59733819 STF, ADI 6103, Rel. Ministro Alexandre de Moraes. Página5
+
+[[pagina 6 | nativo]]
+
+controle externo (Auditores de Controle Externo), relacionados com o seu
+
+exercício funcional e prerrogativas constitucionais.
+
+4. Frise-se que a ANTC congrega, de forma homogênea, os Auditores de
+
+Controle Externo, que, como dito, correspondem a agentes públicos de um
+
+único segmento, visto serem ocupantes de cargos públicos efetivos que
+
+atendem, cumulativamente: (a) mesma natureza (finalística, de auditoria e
+
+instrução processual nos respectivos Tribunais de Contas); (b) mesmo grau
+
+de complexidade e responsabilidade (superior); e (c) o mesmo requisito de
+
+investidura (aprovação em concurso público específico que exigiu nível
+
+superior como requisito mínimo).
+
+5. No bojo de sua estrutura estatutária, a ANTC dispõe, dentre outros
+
+vários, sobre seus fundamentos e objetivos, alguns dos quais se destacam:
+
+Art. 3º A ANTC tem como fundamentos:
+(...)
+III - a dignidade do cargo de Auditor de Controle Externo, que
+decorre das atribuições legais que lhe são conferidas para o
+exercício de fiscalizações, auditorias governamentais e demais
+ações típicas de controle externo inseridas na competência dos
+Tribunais de Contas.
+(...)
+VI - o padrão nacional de organização e funcionamento da unidade de
+controle externo dos Tribunais de Contas;
+VII - a imprescindibilidade do Tribunal de Contas independente,
+imparcial e apartidário, como instância julgadora e garantidora do
+devido processo legal na esfera do controle externo.
+Art. 4º Constituem objetivos fundamentais da ANTC:
+(...)
+IV – defender:
+(...)
+b) o concurso público como única forma de ingresso no cargo de
+Auditor de Controle Externo; (...)
+XV – promover a representação e a defesa judicial e extrajudicial
+dos direitos e interesses difusos, coletivos e individuais homogêneos
+dos Auditores de Controle Externo, ativos e aposentados, podendo,
+para tanto, ajuizar mandado de segurança, individual ou coletivo, Página6
+
+[[pagina 7 | nativo]]
+
+mandado de injunção, ação direta de inconstitucionalidade e outras
+medidas judiciais e administrativas, independentemente de autorização
+por meio de Assembleia Geral;
+XVI - atuar como substituto processual dos associados,
+representando, judicial e extrajudicialmente, de ofício ou a
+requerimento, os direitos e os interesses de seus associados. (g.n.).
+
+6. Nesse contexto, em vista das disposições estatutárias
+
+supramencionadas, cabível salientar que no âmbito do Tribunal de Contas
+
+do Estado de Goiás (TCE-GO), a ANTC representa tão somente os
+
+integrantes do cargo denominado de Analistas (Auditores) de Controle
+
+Externo, visto que investidos por concurso público de nível superior para a
+
+titularidade plena das atribuições finalísticas de auditoria, inspeção e demais
+
+procedimentos de fiscalização na esfera de controle externo, atividades de
+
+complexidade e responsabilidade superiores.
+
+7. Assim, demonstrada que a requerente é entidade de classe de âmbito
+
+nacional, pois presente em mais de nove estados da federação, resta
+
+configurada a sua legitimidade ativa para o ingresso de ação de controle
+
+concentrado de constitucionalidade, com fundamento no art. 103, segunda
+
+parte do inciso IX, da CF/88 e art. 2º, IX da Lei nº 9.868/99.
+
+8. No tocante à pertinência temática, esta se faz clara quando
+
+observamos que os dispositivos impugnados refletem diretamente na atuação
+
+e no desenvolvimento regular das atividades dos Auditores de Controle
+
+Externo dos Tribunais de Contas, em especial os representados do Estado de
+
+Goiás.
+
+9. Isso porque a Lei nº 15.122/2005 objurgada, em seus artigos 3º, caput
+
+e § 1º, e 4º, viola diretamente restrição constitucional ao exercício de
+
+atividade exclusiva de Estado a titular de cargo público efetivo da Página7
+
+[[pagina 8 | nativo]]
+
+instituição de controle externo, mais especificamente de Analista de
+
+Controle Externo.
+
+10. Além destes, destaca-se a premente necessidade de extirpar do
+
+ordenamento jurídico tantas outras inconstitucionalidades, como a da Lei nº
+
+20.989/2021, ante o vício de inconstitucionalidade formal, pois originados
+
+de projeto de lei de iniciativa isolada do Presidente do TCE-GO, com
+
+violação, portanto, ao princípio (constitucional, implícito) da colegialidade
+
+(artigos 96, II, b, 73 c/c o caput do 75 da CF/88), conforme precedente do
+
+Supremo Tribunal Federal (STF), na ADI 1.681/SC; os artigos 1º, 2º e 3º e
+
+Anexos I e II da Lei nº 20.989/2021, ante o vício de inconstitucionalidade
+
+material, pois que a extinção de cargos efetivos e a criação de mais cargos
+
+em comissão no âmbito do Tribunal de Contas do Estado de Goiás (TCE-
+
+GO) viola o princípio constitucional da proporcionalidade, da regra do
+
+concurso público e da destinação dos cargos em comissão exclusivamente a
+
+funções de direção, assessoria e chefia (CF, art. 37, II e V). Precedente do
+
+STF: Repercussão Geral, Tema 1010; o artigo 30, caput e parágrafo único
+
+e Anexo VII, da Lei nº 15.122/2005, ante o vício de inconstitucionalidade
+
+material, que criou 167 cargos em comissão em extinção, sem descrição
+
+legal das atribuições e condicionando a exoneração dos ocupantes desses a
+
+cargos a uma prévia aprovação do Plenário do TCE-GO, por violação ao
+
+princípio da proporcionalidade e das regras do concurso público e da livre
+
+exoneração de ocupante de cargo em comissão (incisos II e V do artigo 37
+
+da CF/88). Precedente do STF: Repercussão Geral, Tema 1010; o parágrafo
+
+único do artigo 31 da Lei nº 15.122/2005, que permite a acumulação de
+
+cargos em comissão, por violação à regra constitucional da vedação de
+
+acumulação de cargos públicos na Administração Pública, prevista no inciso Página8
+
+[[pagina 9 | nativo]]
+
+XVI do artigo 37 da CF/88; e os Anexos III e VIII da Lei nº 15.122/2005,
+
+na parte relativa aos cargos Assessor I, II, III e IV, por violação à regra do
+
+concurso público constante dos incisos II e V do art. 37 da CF/88, cujo
+
+regramento se encontra bem delineado no Tema 1010 (RE 1041210) do STF.
+
+11. Desta forma, não é possível abrigar, muito menos interpretar, normas
+
+no sentido de permitir que pessoas sem vínculo efetivo com a Administração
+
+Pública e que não titularizam as atividades de fiscalização e instrução
+
+processual no âmbito do TCE/GO assumam funções que possuem
+
+atribuições exclusivas dos Auditores de Controle Externo, situação essa que
+é também inconstitucional (vide ADIs 4978 e 532310 – “Em matéria de
+
+organização, composição e atribuições fiscalizadoras, os Tribunais de
+
+Contas dos estados, do Distrito Federal e dos municípios devem observar o
+
+modelo jurídico estabelecido pela Constituição Federal” – Art. 75 da
+
+CRF/88).
+
+12. Isso porque, no entender da parte ora requerente, os mencionados
+
+dispositivos violam normas e garantias constitucionais e processuais,
+
+descumprindo exigência de quadro próprio de pessoal, mitigando a regra do
+
+concurso público e usurpando competências exclusivas, situação que
+
+prejudica diretamente os associados da requerente, para além, é claro, de
+
+colocar em risco de ofensa a direitos subjetivos daqueles que, por vínculo
+
+legal ou contratual, prestam contas ao Tribunal de Contas goiano.
+
+13. Frise-se que se está a tratar de atividades técnicas, permanentes e
+
+finalísticas do Tribunal de Contas, exclusivas de Estado, alcançadas pelas
+
+alterações dos dispositivos nas leis mencionadas, fragilizando todo o quadro
+10 https://jurisprudencia.stf.jus.br/pages/search/sjur403024/false Página9
+
+[[pagina 10 | nativo]]
+
+de pessoal do TCE/GO, notadamente quanto às atividades no âmbito das
+
+unidades orgânicas do TCE/GO (técnicas e finalísticas).
+
+14. Não se pode olvidar que ausência de definição das atribuições em
+
+lei tem permitido a ocorrência de usurpação por ocupantes de cargo
+
+exclusivamente em comissão das mencionadas competências técnicas,
+
+finalísticas e exclusivas de Estado, regularmente incumbidas aos Analistas
+
+(Auditores) de Controle Externo.
+
+15. Não sobejam dúvidas, portanto, de que a ANTC se qualifica como
+
+entidade de classe legitimada para efeito de instauração do processo de
+
+controle normativo abstrato de constitucionalidade, consoante exegese
+
+estampada na segunda parte do inciso IX do art. 103 da Constituição Federal
+
+de 1988, conquanto inquestionável a pertinência temática presente entre a
+
+postulação e o prejuízo aos associados da Requerente.
+
+Página10
+
+[[pagina 11 | nativo]]
+
+FUNDAMENTAÇÃO
+
+A – DA IMPORTÂNCIA DO CONTROLE EXTERNO
+
+INSTITUCIONALIZADO DA ADMINISTRAÇÃO PÚBLICA
+
+E DO SEU CORRETO FUNCIONAMENTO PARA O ESTADO
+
+DEMOCRÁTICO DE DIREITO.
+
+1. Para a existência de um Estado democrático, é essencial, ademais da
+
+origem democrática do Poder, a organização de instituições de controle do
+poder estatal11. A presença dessas instituições, funcionando adequadamente,
+é condição sine qua non para a existência da República democrática12. Em
+
+outras palavras, o Estado democrático tem que ter tanto uma legitimidade de
+origem como uma legitimidade de exercício13.
+
+2. À medida que avança o processo de democratização de uma sociedade,
+
+progridem também os mecanismos de controle. Quanto mais avançada, mais
+
+complexa e mais pluralista a sociedade, maior a necessidade de mecanismos
+
+de controle do poder, a fim de se preservar o caráter democrático dessa
+mesma sociedade14.
+
+3. Requisito indispensável à existência de um Estado Democrático de
+
+Direito, o controle externo da Administração Pública é uma expressão da
+
+11 KELSEN, Hans. A democracia. São Paulo: Martins Fontes. 2019. P. 84: “O destino da
+democracia moderna depende em grande medida de uma organização sistemática de todas essas
+instituições de controle. A democracia sem controle é, a longo prazo, impossível. De fato, sem a
+autolimitação representada pelo principio da legalidade, ela se autodestrói.”
+12 SCHULZE-FIELITZ, Helmuth. Zusammenspiel von öffentlich-rechtlichen Kontrollen der
+Verwaltung. In Verwaltungskontrolle. SCHMIDT-AßMAN, Eberhard und HOFFMANN-RIEM,
+Wolfgang (Hrsg.). Deutschland: Nomos Verlagsgesellschaft. 2001. P. 308.
+13 KELSEN, Hans. Teoria geral do direito e do estado. São Paulo: Martins Fontes. 2005. Pp.
+427/428.
+14 PÉREZ ROYO, Javier. El tribunal de cuentas en la constitución y en el proyecto de ley
+reguladora del mismo. In El tribunal de cuentas en España. España: Instituto de EstudiosFiscales. 1982. Vol. II. P. 1146. Página11
+
+[[pagina 12 | nativo]]
+
+soberania popular15, que permite à sociedade exercer o controle sobre uma
+
+dimensão central do poder político e é necessário para certificar o quanto a
+
+atividade pública está alcançando os objetivos pactuados
+democraticamente16, pois controlar é medir a distância entre a expectativa e
+a realidade17.
+
+4. O controle funciona como garantia do equilíbrio na relação principal-
+
+agente, pois possibilita ao povo (principal) o conhecimento do
+
+funcionamento da atividade estatal, bem como permite/faz o ajuste da
+
+marcha da atividade do agente aos objetivos democraticamente pactuados;
+
+por meio do controle, possibilita-se o funcionamento harmonioso dos
+
+mecanismos da representação política, sobre a qual se assenta o Estado
+
+democrático.
+
+5. Assim, são objetivos fundamentais do controle verificar/incrementar
+
+a capacidade de resposta do Estado às demandas da sociedade e gerar
+
+confiança aos titulares do poder (o povo) de que aqueles que o exercem
+
+respeitam os seus desígnios.
+
+6. A incapacidade de respostas por parte do controle coloca em xeque o
+edifício democrático18, pois a distância entre o dever-ser (sollen) do
+
+ordenamento jurídico e o ser (sein) consubstanciado na prática e nos
+
+15 Artigo 15 da Declaração de direitos do homem e do cidadão – 1789.
+16 VOGT, Marten J. Zur Informationstätigkeit des Bundesrechnungshofes. Deutschland: Duncker
+& Humblot. 2013. P. 25.
+17 Na doutrina alemã, a atividade de controle é essencialmente considerada uma atividade de
+comparação entre o dever-ser e o ser (Soll-Ist-Vergleich). KAHL, Wolfgang. Begriff, Funktionen
+und Konzepte von Kontrolle. In Grundlagen des Verwaltungsrechts. HOFFMANN-RIEM,
+SCHMIDT-AßMAN und VOßKUHLE (Hrsg.). Band III. Deutschland: Verlag C. H. Beck. 2009.
+P. 430.
+18 “Nenhuma democracia pode funcionar bem sem instituições fortes” (tradução livre): BRINKS,
+Daniel M.; LEVITSKY, Steven; MURILLO, Maria Victoria. Understanding InstitutionalWeakness. UK: Cambridge University Press. 2019. P. 17. Página12
+
+[[pagina 13 | nativo]]
+
+resultados administrativos é também a medida da desconfiança popular nas Comentado [LA1]: idem
+
+instituições públicas. Então, entre o prometido e o concretizado, nasce, vive
+
+e cresce a insatisfação popular. Assim, quanto maior essa distância, maior a
+
+desilusão nas promessas democráticas e maior a atração por lideranças
+
+populistas e autoritárias, que levam ao crepúsculo do Estado Democrático de
+Direito19.
+
+7. O exercício do controle externo só pode ser alcançado por instituições
+
+essencialmente técnicas, com garantia de independência reforçada, de modo
+
+a evitar situações de colusão, de conflitos de interesses e de juízos de
+
+oportunidade; o sucesso na execução desses propósitos por parte dessas
+
+instituições depende – fundamentalmente – da independência, da
+competência e da capacidade dos seus servidores 20.
+
+8. Nesse sentido, a Declaração de Lima de 197721, considerada a
+
+Constituição das Entidades Fiscalizadoras Superiores (EFS), hoje catalogada
+
+como INTOSAI P-1, estipula, em seu artigo 14, a necessidade de as EFS
+
+terem como auditores pessoas com alta qualificação acadêmica, experiência
+
+profissional adequada e elevada integridade moral, para o perfeito
+
+cumprimento das suas atribuições profissionais, pois, mais que qualquer
+
+19“En estos casos, la confianza de los ciudadanos en sus instituciones sufre un proceso de erosión
+continua que puede acabar con un derrumbe completo del sistema. Y perdida esa confianza
+recuperarla es algo muy difícil. La confianza cuesta mucho construirla, pero se puede dilapidar
+en muy poco tiempo. Una vez perdida, se abre el portillo a la demagogia, el populismo o las
+soluciones fuertes, que siempre han sido un (mal) remedio de la política en tiempos de crisis
+institucional grave.” (ASENSIO, Rafael Jiménez. Los frenos del poder – Separación de poderes
+y control de las instituciones. Madrid: Marcial Pons. 2016. Capítulo V. P. 233.)
+20 FRIEGE, Lars. Kompetenzen von Prüferinnen, Prüfern und Mitgliedern des
+Bundesrechnungshofes. In 300 Jahre externe Finanzkontrolle in Deutschland – gestern, heute
+und morgen. Festschrift zur 300. Wiederkehr der Errichtung der Preußischen General-
+Rechenkammer. ENGELS, Dieter (Hrsg.). Duncker & Humblot GmbH, Deutschland, Berlin.
+2014. P. 627.21 https://portal.tcu.gov.br/biblioteca-digital/declaracao-de-lima.htm Página13
+
+[[pagina 14 | nativo]]
+
+outra instituição, as instituições de controle externo, essenciais ao Estado
+
+Democrático de Direito, só se legitimam por sua estrita aderência à
+Constituição e suas atuações de forma eficiente, econômica e eficaz22.
+
+9. A inobservância às diretrizes de elevada qualificação acadêmica,
+
+experiência profissional e integridade moral resulta em perda do que é mais
+
+sagrado para a atividade de controle externo: credibilidade. Instalada na
+
+sociedade a desconfiança na tecnicidade e na imparcialidade dos trabalhos
+dos órgãos de controle, gera-se a perda de legitimidade23 das instituições
+públicas, com a consequente derrocada da confiança na democracia24,
+colocando em risco o Estado Democrático de Direito25.
+
+10. Sendo as instituições de controle a medula da ideia de Constituição26,
+
+que não é outra coisa senão um instrumento de limitação do poder e de
+
+22 CAMPOS, Paloma Biglino. La posición institucional de los Consejos de Cuentas. Anuario de
+derecho parlamentario. 1999, Número 7. Pp. 31/66.
+https://www.cortsvalencianes.es/actividad/publicaciones/no-oficiales/anuario/anuari-num-7-
+1999-ordinario Acesso em 27 de março de 2021.
+23 HOFFMANN-RIEM, Wolfgang. Finanzkontrolle der Verwaltung durch Rechnungshof und
+Parlament. SCHMIDT-ASSMANN, Eberhard und HOFFMANN-RIEM, Wolfgang (Hrsg.)
+Nomos Verlagsgesellschaft. Deutschland, Baden-Baden. 2001. P. 81.
+24 Como ensinam Steven LEVITSKY & Daniel ZIBLATT, “Democracias podem morrer não nas
+mãos de generais, mas de líderes eleitos – presidentes ou primeiros-ministros que subvertem o
+próprio processo que os levou ao poder. Alguns desses líderes desmantelam a democracia
+rapidamente... Com mais frequência, porém, as democracias decaem aos poucos, em etapas que
+mal chegam a ser visíveis.” (in Como as democracias morrem. 1ª edição. Rio de Janeiro: Zahar.
+2018. P. 15.
+25 “Os países tornam-se Estados falidos não em virtude de sua geografia ou cultura, mas em função
+do legado de instituições extrativistas, que concentram o poder e a riqueza nas mãos de quem
+detém o controle do Estado, preparando o terreno para agitação social, conflitos e guerra civil. As
+instituições extrativistas também contribuem diretamente para a gradual falência do Estado à
+medida que negligenciam os investimentos nos serviços públicos mais fundamentais... a base
+dessas instituições (extrativistas) é uma elite que estrutura as instituições econômicas de modo a
+locupletar-se e perpetuar o próprio poder, em detrimento da vasta maioria da população.”
+(ACEMOGLU, Daron & ROBINSON, James. Por que as nações fracassam: as origens do poder,
+da prosperidade e da pobreza. Rio de Janeiro: Elsevier, 2012. Pp. 292 e 309.)
+26 RUBIO LLORENTE, Francisco. La Forma del Poder – Estudios sobre la Constitución.Editorial CEPC. España. Madrid. 1997. P. 207. Página14
+
+[[pagina 15 | nativo]]
+
+garantia dos direitos dos cidadãos27, a função de controle é essencial ao
+
+Estado Democrático de Direito e o seu exercício, por conseguinte, é
+
+atividade típica de Estado, cujos exercentes gozam de especial proteção
+
+constitucional (art. 247 da CF/88), e essa somente é concedida aos titulares
+
+de cargos efetivos.
+
+11. Referida proteção dada aos integrantes das instituições de controle
+
+externo titulares de cargos efetivos e cujas atribuições se relacionam
+
+diretamente às atividades de fiscalização e auditoria é salvaguarda
+
+reconhecida constitucionalmente àqueles que necessitam exercer seu múnus
+
+público com independência, objetividade, imparcialidade, livre de pressões
+
+e influências externas, precisamente para garantir a eficácia da atuação do
+
+controle externo e, por consequência, proteger o próprio Estado Democrático
+
+de Direito.
+
+12. Não constituindo fim em si mesma, a independência28 é garantia
+
+destinada a permitir a atuação do controle externo com neutralidade e
+
+imparcialidade e, assim, salvaguardar a confiança da sociedade na
+
+democracia. A neutralidade evita o risco de que o órgão de controle externo
+
+se transmude em instrumento a serviço de interesses não republicanos, com
+
+atividades de controle externo variando em razão do objeto ou do sujeito que
+
+se fiscaliza, com primazia de elementos subjetivos e interesses políticos, em
+
+detrimento da necessária utilização de critérios objetivos e técnicos.
+
+27 CANOTILHO, J. J. GOMES. Direito Constitucional e Teoria da Constituição. Editora
+Almedina. Portugal, Coimbra. 1998. P. 45.
+28 Independência difere de imparcialidade, pois aquela é um status, enquanto esta define uma
+qualidade comportamental atribuída a pessoas. A independência é condição necessária, mas nãosuficiente, para se estar em condições de ser imparcial. Página15
+
+[[pagina 16 | nativo]]
+
+13. Já no tocante à imparcialidade na atuação, ela “obriga a um critério
+
+normativo de realização dos fins públicos, para evitar que as decisões
+
+administrativas (externas) sejam o resultado de influências hierárquicas ou
+
+tutelares do governo que, em virtude do segredo burocrático, sejam
+
+impossíveis de controle público, ou sejam o resultado da pressão de não
+
+menos secretos e incontroláveis interesses parciais, ou até expressão de puro
+arbítrio”29; por isso, a imparcialidade abarca a exclusividade30, a isenção e a
+independência de interesses privados, partidários e do Governo31, no
+exercício do controle externo32.
+
+14. Assim, garantidas a imparcialidade e a independência no exercício do
+
+controle externo da Administração Pública por servidores públicos titulares
+de cargos efetivos33, academicamente qualificados, pertencentes à própria
+instituição de controle externo34, estas se encontram com alguns dos
+
+requisitos mínimos para atuar, como elemento imprescindível na
+
+manutenção e no aperfeiçoamento do edifício democrático-republicano.
+
+15. Não por outra razão, desde 1946, a Constituição da República
+
+determina aos Tribunais de Contas a existência de um quadro próprio de
+
+pessoal. Na Constituição de 1988, aliás, é a única passagem de todo o texto
+
+constitucional em que faz uso dessa expressão, insculpindo que os Tribunais
+
+de Contas são integrados por nove ministros e quadro próprio de pessoal. É
+
+29 ANDRADE, José Vieira. A Imparcialidade da Administração como Principio Constitucional,
+in 50 Bol. Fac. Direito U. Coimbra 219 (1974).
+30 Nessa ótica, a imparcialidade exige tanto a consecução exclusiva do interesse público quanto a
+exclusividade na consecução desse interesse.
+31 RIBEIRO, Maria Teresa de Melo. O princípio da imparcialidade da administração pública.
+Coimbra: Almedina. 1996. Pp. 170/193.
+32 VIANA, Ismar. Fundamentos do processo de controle externo. Rio de Janeiro: Lumen Juris.
+2019. P. 69.
+33 Art. 247 da CF/88.34 Art. 73, caput, c/c art. 75 da CF/88. Página16
+
+[[pagina 17 | nativo]]
+
+que, diferentemente do Poder Judiciário – cuja função típica é julgar e a fase
+
+de investigação incumbe a outros órgãos –, os Tribunais de Contas, além de
+
+julgamento, acumulam na mesma instituição também a função de auditoria,
+
+inspeção e instrução processual. Sem a existência de quadro próprio de
+
+pessoal, com agentes efetivos detentores de vínculo qualificado com o
+
+Estado, quem investiga, audita, instrui estaria iniludivelmente suscetível a
+
+interferências de quem julga, o que é característico de modelos inquisitoriais,
+
+ou, talvez pior, de quem é julgado (captura do órgão).
+
+B – DOS VÍCIOS DE INCONSTITUCIONALIDADE DA LEI
+
+Nº 20.989/2021
+
+B.1 – Da Inconstitucionalidade Formal da Lei nº 20.989/2021, por violação
+
+ao princípio da colegialidade
+
+EMENTA: Lei derivada de processo legislativo de iniciativa isolada do
+Presidente do Tribunal de Contas. Princípio da colegialidade. Violação
+aos artigos 96, II, b, 73 c/c caput do artigo 75 da CF/88. Precedente do
+STF: ADI 1.681/SC35.
+
+16. Por iniciativa isolada do Presidente do TCE-GO, foi protocolizado
+
+o PL nº 2021004047, objetivando a alteração da Lei estadual n° 15.122, de
+
+04 de fevereiro de 2005, lei essa que instituiu o Plano de Carreira e o Quadro
+
+Permanente dos Servidores do Tribunal de Contas do Estado de Goiás.
+
+(Cópia anexa.)
+
+17. No citado PL nº 2021004047, o Presidente, isoladamente, propôs a
+
+extinção de 55 (cinquenta e cinco) cargos efetivos do TCE-GO e a criação
+
+de 24 (vinte e quatro) cargos em comissão.
+35 ADI 1.681/SC: https://jurisprudencia.stf.jus.br/pages/search/sjur12565/false Página17
+
+[[pagina 18 | nativo]]
+
+18. O PL nº 2021004047 foi aprovado pela ALEGO, sancionado pelo
+Governador e transformado na Lei nº 20.98936, de 06 de abril de 2021,
+
+também publicada no DOE-GO de 07 de abril de 2021.
+
+19. O TCE-GO é órgão colegiado, como evidencia a CF/88, em seu
+
+parágrafo único do artigo 75, que estabelece serem os tribunais de contas dos
+
+estados e dos municípios integrados cada qual por sete conselheiros.
+
+20. Sendo o TCE-GO, por disposição constitucional, órgão colegiado, o
+
+ato administrativo que veicula o projeto de lei por ele elaborado é ato
+
+administrativo simples colegiado, que só se aperfeiçoa com a deliberação
+conjunta de seus integrantes, em sessão pública37, com observância do
+
+quorum de instalação e do quorum de deliberação, sem o que esse projeto
+
+estará, como está, irremediavelmente viciado, conforme já entendeu o
+
+Supremo Tribunal Federal, em caso semelhante, na ADI 1681/SC.
+
+21. A propósito, cumpre transcrever trecho do voto do relator da
+
+mencionada ADI 1681/SC, acolhido à unanimidade:
+
+“3. Instaurado o processo legislativo mediante procedimento isolado do
+Presidente do Tribunal de Justiça, já que a matéria não fora submetida aos
+seus integrantes, esta Corte, na Sessão de 02.10.1997, suspendeu, com
+eficácia ex nunc, as disposições da Lei 8959/93, até decisão final da ação.
+4. A questão não comporta maiores digressões. Como estabelece o artigo
+96, inciso II, letra b, da Constituição Federal, compete privativamente aos
+Tribunais de Justiça propor ao Poder Legislativo respectivo a fixação da
+remuneração dos seus serviços auxiliares, bem como dos juízos que lhe
+forem vinculados – no caso, as Auditorias Militares (CF, artigo 125,
+parágrafo 3º).
+
+36 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103933/lei-20989
+37 Art. 93 da CF/88: “X - as decisões administrativas dos tribunais serão motivadas e em sessão
+pública, sendo as disciplinares tomadas pelo voto da maioria absoluta de seus membros”. Página18
+
+[[pagina 19 | nativo]]
+
+5. Dúvida não há, até mesmo pela literalidade da norma constitucional, que
+a iniciativa dever ser do Tribunal de Justiça (CF, artigo 96), e não do seu
+Presidente”.
+
+22. Portanto, ante a violação aos artigos 93, X, 96, II, b, c/c caput do
+
+artigo 73 e caput do artigo 75 da CF/88, inconstitucional a Lei nº
+
+20.989/21, por vício de iniciativa, pois que não observada a regra da
+
+colegialidade.
+
+B.2 – Dos Vícios de Inconstitucionalidade Material da Lei nº 20.989/2021
+
+B.2.1 – Da Inconstitucionalidade Material dos artigos 1º, 2º e 3º e anexos I e
+
+II da Lei nº 20.989/2021, por violação ao princípio da proporcionalidade e
+
+da regra do concurso público.
+
+EMENTA: Lei que extingue cargos públicos efetivos e cria cargos em
+comissão, acentuando desproporcionalidade já existente. Criação desses
+cargos em comissão para o exercício de atividades técnicas e finalísticas
+fiscalizatórias de Estado. Além disso, um dos cargos em comissão
+criados – Assessor V – se destina a atividades administrativas
+burocráticas rotineiras. Violação aos incisos II e V do artigo 37 da
+CF/88. Precedentes do STF: Tema 1010 da Repercussão Geral.
+
+23. Os questionados artigos 1º, 2º e 3º da Lei nº 20.989/202138, encontram-
+
+se assim postos:
+
+Art. 1º Ficam transformados, sem aumento de despesa, 40 (quarenta)
+cargos de Técnico em Controle Externo, do quadro de cargos de
+provimento efetivo de nível médio do Tribunal de Contas do Estado; e
+15 (quinze) cargos de Analista de Controle Externo, do quadro de
+cargos de provimento efetivo de nível superior do Tribunal de Contas
+do Estado, nos 24 (vinte e quatro) cargos de provimento em comissão
+constante do Anexo 1, desta Lei.
+38 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/103933/lei-20989 Página19
+
+[[pagina 20 | nativo]]
+
+Art. 2° Em decorrência das disposições constantes nesta Lei, o Anexo I, da
+Lei nº 15.122, de 04/02/2005, fica alterado e passa a vigorar com as
+alterações descritas no Anexo III, desta Lei.
+Art. 3° As atribuições e os pré-requisitos dos cargos criados por esta lei
+estão definidos no Anexo II, desta Lei.
+
+24. A inconstitucionalidade dos artigos 1º, 2º e 3º e Anexo I por
+
+violação ao princípio da proporcionalidade é manifesta, a par da peculiar
+
+exposição de motivos do Presidente do TCE-GO contida no PL de sua única
+
+iniciativa, a revelar desestima desse gestor público por realizar concurso
+
+público para preencher os cargos efetivos vagos e a intenção de desviar os
+
+cargos em comissão criados para realizar função típica e exclusiva de
+ocupantes de cargos efetivos de carreira de Estado39 – sob o pretexto de que
+
+39 Seguem-se os trechos da Exposição de Motivos do Presidente do TCE-GO, no PL nº
+2021004047, que comprovam o que acaba de se afirmar:
+“7. A proposta ainda pretende modificar, pertinente ao quadro de servidores, a Lei estadual nº
+15.122/2005; para transformar ou extinguir 40 (quarenta) cargos Técnico de Controle Externo e
+de 15 (quinze) cargos de Analista de Controle Externo. Todos vagos.
+8. O Tribunal de Contas possui, atualmente, 80 (oitenta) cargos Técnico de Controle Externo.
+Contudo, nos últimos anos, a Administração Pública vem passando por várias transformações
+atingindo toda a sua estrutura na busca da excelência (eficiência) na prestação dos serviços
+públicos. Neste contexto, evidenciaram a especialização e a tecnologia da informação que
+esvaziaram, e muito, as funções subalternas, afetas às atribuições do cargo técnico (nível médio).
+Cumpre ressaltar que desse universo, estão providos apenas 25 (vinte e cinco). Portanto, a
+extinção de 40 (quarenta) cargos técnicos é razoável nesse primeiro momento, remanescendo,
+ainda, 15 (quinze), vagos e a título de reserva.
+9. Por outro lado, a extinção de 15 (quinze) cargos de Analista de Controle Externo, igualmente
+vago, se revela numa medida necessária tendo em vista o momento presente, onde há vedação
+de realizar concurso, e há carência de pessoal· para levar adiante as muitas frentes de
+fiscalização (inspeção e auditoria) sobrestadas, justamente, por falta de mão-de-obra.
+10. Vale destacar que o Tribunal de Contas possui, para esse cargo, um total de 350 (trezentos e
+cinquenta) cargos, sendo que 124 (cento e vinte e quarto) estão vagos. O sacrifício de 15 (quinze)
+cargos nesse momento será recompensado com o resultado da fiscalização em breve espaço de
+tempo, após a aprovação desta proposta e com o recrutamento e provimento desses cargos a serem
+criados, observadas as necessárias qualificações técnicas (pré-requisito) para cada cargo.
+...
+16. No final do exercício financeiro de 2020, no desenvolvimento dos atos de transição de gestão,
+a Secretaria de Controle Externo, unidade técnica que cuida da fiscalização da execução
+orçamentária do Estado de Goiás, demonstrou em seu relatório um pequeno índice de processos
+de fiscalização (inspeção, auditoria ou levantamento), atribuindo, justamente, a insignificância da
+fiscalização à carência de pessoal. Desse modo, a presente proposta visa a transformação
+(extinção) de cargos de provimento efeito que se encontram desprovidos ou vagos para cargos deprovimento em comissão que atendam, de imediato, às necessidades prementes da fiscalização Página20
+
+[[pagina 21 | nativo]]
+
+estaria vedada a realização de concurso, embora o inciso V do artigo 8º da
+Lei Complementar nº 17340 expressamente a autorize na condição que
+
+especifica –, bem assim a ausência de qualquer metodologia explicativa da
+
+necessidade de criação de cargos em comissão, para atender a diretriz contida
+no inciso IX do artigo 94 do Dl nº 200/6741.
+
+25. Antes mesmo da publicação da Lei nº 20.989/2021, o Quadro de
+
+Pessoal do TCE-GO já era inconstitucional, pois a relação entre
+
+comissionados e efetivos era desfavorável a esses últimos, contrariando o
+
+preceito constitucional que prescreve serem regra os cargos efetivos e
+
+exceção os cargos em comissão (incisos II e V do artigo 37). A propósito,
+
+veja-se:
+
+TCE EFETIVO MEMBRO CC QSE CEDIDO total
+aposentados 381 29 1 11 0 422
+sem lotação 9 0 0 0 0 9
+administrativo 87 0 80 66 11 244
+substitutos 11 6 17 9 3 46
+Conselheiros 21 7 49 10 18 105
+Ministério Público 12 5 7 0 1 25
+Unidade técnica 108 0 37 42 14 201
+TOTAL 629 47 191 138 47 1052
+TOTAL ATIVO 248 18 190 127 47 630
+% dos ativos 39,4% 2,9% 30,2% 20,2% 7,5%
+Tabela: Quantidade de servidores do TCE/GO por área da lotação em função do vínculo funcional.42
+
+em sede de controle externo, tudo com a finalidade de melhor atender ao interesse público e,
+consequentemente, à proteção do erário e a satisfação da sociedade.
+17. Reafirmo que a transformação (extinção) dos cargos conforme o projeto prevê, não acarretará
+nenhum aumento de despesa, conforme demonstrado pela Unidade Técnica responsável (Planilha
+em anexo) e que tais cargos, uma vez transformados ou criados por esta proposta, serão providos
+por agentes qualificados, recrutados mediante apresentação de qualificação técnica, como
+também observadas as disposições legais de regência, quanto aos aspectos orçamentários,
+financeiros e de responsabilidade fiscal.”
+40 https://www.planalto.gov.br/ccivil_03/leis/lcp/lcp173.htm#Art8
+41 https://www.planalto.gov.br/ccivil_03/decreto-lei/del0200.htm
+42 A disfuncionalidade do Quadro do TCE-GO, que possui 54,8% dos servidores lotados em sua
+área-meio (administrativa), ao passo que a área-fim (unidade técnica) possui somente 45,2% dos
+servidores, será mais bem explicitada em tópico mais adiante. Aqui, porém, cabe, desde já, trazer
+lição de FRIEGE, que mostra que a proporção entre o pessoal da área-fim para o pessoal da área-meio é de 80/20. FRIEGE, Lars. Kompetenzen von Prüferinnen, Prüfern und Mitgliedern des Página21
+
+[[pagina 22 | nativo]]
+
+CC: Cargo em Comissão
+QSE: Cargos em comissão que se extinguirão à medida em que forem ficando vagos e cuja exoneração só
+pode ocorrer por deliberação colegiada do Plenário do TCE-GO.
+CEDIDO: Servidor – supostamente efetivo – oriundo de outro órgão da administração pública.
+
+26. Ou seja, antes mesmo da criação desses 24 novos cargos em comissão
+
+e da extinção de 55 cargos efetivos, 50,4% do quadro de pessoal em atividade
+
+do TCE-GO já era composto por cargos em comissão sem vínculo com a
+Administração Públicai.
+
+27. Com a novel Lei nº 20.989/2021, em vez de se corrigirem as graves
+
+distorções existentes, o Presidente do TCE-GO, em projeto de autoria
+
+isolada, deliberadamente agrava a situação de inconstitucionalidade,
+
+conforme revela o quadro abaixo:
+
+Quantitativo antes da Quantitativo com a Lei n.
+Tipo de Cargo Denominação
+Lei n. 20.989/2021 20.989/2021
+
+Analista de Controle
+Externo (nível 350 335
+Efetivo superior)
+Técnico de Controle
+80 40
+Externo (nível médio)
+Assessor
+264 288
+Comissionado Diretor e Chefe
+QSE 167 167
+Função Assessor Técnico 80 80
+Gratificada
+
+Bundesrechnungshofes. In 300 Jahre externe Finanzkontrolle in Deutschland – gestern, heute
+und morgen. Festschrift zur 300. Wiederkehr der Errichtung der Preußischen General-
+Rechenkammer. ENGELS, Dieter (Hrsg.). Duncker & Humblot GmbH, Deutschland, Berlin.2014. P. 627. Página22
+
+[[pagina 23 | nativo]]
+
+28. Supondo-se todos os cargos em comissão e funções de confiança
+
+existentes no TCE-GO estivessem ocupados por todos os servidores titulares
+
+de todos os cargos efetivos do TCE-GO criados por lei, sobrariam livres
+
+ainda assim mais 80 cargos em comissão no TCE-GO. Se antes a relação
+
+entre comissionados e efetivos já era desfavorável a esses últimos, com a
+
+extinção de cargos efetivos e a criação de mais cargos em comissão no
+
+âmbito do TCE-GO essa inconstitucional situação se agravou. Veja-se, a
+
+propósito, o quadro demonstrativo abaixo:
+
+29. Tal quadro desproporcional se confronta com o entendimento do
+
+Supremo Tribunal Federal (STF), bem sintetizado no leading case RE
+
+1041201, com repercussão geral, nos seguintes termos:
+
+“o número de cargos comissionados criados deve guardar
+proporcionalidade com a necessidade que eles visam suprir e com o
+número de servidores ocupantes de cargos efetivos no ente federativo que
+os criar”.
+
+30. Logo, inconstitucionais os artigos 1º, 2º e 3º e Anexo I da Lei nº
+
+20.989/2021, por violação ao princípio da proporcionalidade. Página23
+
+[[pagina 24 | nativo]]
+
+31. Ademais, a criação do cargo Assessor V contido nos Anexos I e II da
+
+Lei ora em questão é inconstitucional também por outro motivo, qual seja,
+
+suas funções descrevem atividades rotineiras, a serem exercidas por titulares
+
+de cargos efetivos.
+
+32. A propósito, vejam-se as funções a serem desempenhadas pelo
+
+ocupante do cargo, conforme o dispositivo legal questionado:
+
+“Desempenhar atividades de assessoramento direto à Presidência, aos
+Conselheiros, aos Auditores e Procuradores do TCE/GO, bem como às
+Secretarias, Diretorias/Gerências ou Serviços, em atividades de apoio
+administrativo e operacional; monitorar e alimentar sistemas de
+documentos e processos eletrônicos; realizar pesquisas de menor
+complexidade, para subsidiar os trabalhos de seus superiores.” (Anexo II,
+que altera o Anexo VIII da Lei nº 15.122, de 04.02.2005.)
+
+33. Por isso que o STF, no já citado Tema 1010 (RE 1041210-RG),
+
+decidiu que:
+
+“a) A criação de cargos em comissão somente se justifica para o
+exercício de funções de direção, chefia e assessoramento, não se
+prestando ao desempenho de atividades burocráticas, técnicas ou
+operacionais.”
+
+34. Por conseguinte, inconstitucional a criação do cargo em comissão
+
+Assessor V no TCE-GO, também por violação à regra do concurso público,
+
+constante do inciso II do artigo 37 da CF/88, já que as funções acima já são
+
+de cargos efetivos, conforme previsão dos artigos 5º e 6º da lei nº
+15.122/200543.
+
+43 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-15122 Página24
+
+[[pagina 25 | nativo]]
+
+C – DOS VÍCIOS DE INCONSTITUCIONALIDADE DA LEI Nº 15.122/200544
+
+C.1 – Da Inconstitucionalidade Material do artigo 30, caput e parágrafo
+
+único e Anexo VII, por violação ao princípio da proporcionalidade e da regra
+
+do concurso público (incisos II e V do artigo 37 da CF/88).
+
+EMENTA: Lei que cria Quadro Suplementar dos Cargos Comissionados
+em Extinção (QSE) sem descrição legal das atribuições. Violação aos
+incisos II e V do artigo 37 da CF/88. Precedentes do STF: Temas 670 e
+1010 da Repercussão Geral.
+
+35. Os dispositivos questionados são os contidos no artigo 30, caput,
+
+parágrafo único e Anexo VII, in verbis:
+
+Art. 30. Fica instituído o Quadro Suplementar dos Cargos em Extinção
+(QSE), constante do Anexo VII desta Lei, contendo cargos relacionados
+no Ato do Tribunal, publicado no Diário Oficial do Estado no 17.359, de
+22 de janeiro de 1996, por força do art. 88 da Lei no 12.785, de 21 de
+dezembro de 1995, proibindo-se o acréscimo quantitativo e a inclusão de
+outros servidores.
+Parágrafo único. A exoneração do servidor ocupante de cargo previsto no
+Quadro Suplementar, mencionado no caput do artigo, dependerá de prévia
+autorização do Tribunal Pleno, e, quando ocorrer, o respectivo cargo estará
+automaticamente extinto.
+
+36. A propósito da natureza comissionada dos cargos do QSE, veja-se o
+
+entendimento do TCE-GO em trecho de voto prevalente sem nenhuma
+
+aderência à CF/88:
+
+“7. Os cargos do Quadro Suplementar em Extinção, constante do Anexo
+VII da Lei nº 15.122/2005, assemelham-se aos cargos em comissão, mas
+providos em caráter transitório, cujo provimento dispensa a realização de
+concurso público, uma vez que seus titulares são da confiança da
+autoridade competente para preenchê-los, a qual também pode exonerá-los
+ad nutum, ou seja, livremente, sem qualquer obstáculo e sem a
+indispensabilidade de exteriorização dos motivos (art. 37, II e V, CF).
+8. Assemelhados porque a diferença está nos fatos de que o Quadro
+Suplementar não é de livre preenchimento e também se extingue
+automaticamente havendo aposentação, falecimento do ocupante ou
+44 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-15122 Página25
+
+[[pagina 26 | nativo]]
+
+exoneração, caso em que se faz necessária a prévia autorização do egrégio
+Tribunal Pleno.” (Voto-vista do Conselheiro Kennedy Trindade, relator do
+acórdão no Processo Administrativo nº 201900047000096, cópia anexa.)
+
+37. Ao instituir o Quadro Suplementar dos Cargos em Comissão em
+
+Extinção (QSE), com 167 (cento e sessenta e sete) cargos em comissão, o
+
+legislador estadual sequer descreveu suas funções, conditio sine qua non,
+
+para início da verificação da constitucionalidade dessa criação (Tema 670 do
+STF)45.
+
+38. De acordo com pacífico entendimento do STF condensado no Tema
+
+1010 (RE 1041210), “as atribuições dos cargos em comissão devem estar
+
+descritas, de forma clara e objetiva, na própria lei que os instituir.”
+
+39. Por sua vez, o parágrafo único do artigo 30 da Lei nº 15.122/2005 é
+
+inconstitucional porque desloca para o Plenário do TCE-GO a competência
+
+para a exoneração dos ocupantes dos cargos do QSE, chocando-se com a
+
+prescrição constitucional contida no inciso II do artigo 37, que estipula serem
+
+os cargos em comissão de livre provimento E livre exoneração.
+
+40. Já o Anexo VII da Lei nº 15.122/2005 evidencia o desprezo do TCE-
+
+GO para com a CF/88, pois, a par da perplexidade causada pela criação de
+
+um Quadro Suplementar de Cargos Comissionados em Extinção, a simples
+
+denominação de muitos deles – tais como fotógrafo, mecanógrafo,
+
+datilógrafo etc. – revela não se tratarem de cargos de direção, assessoria ou
+
+chefia, mas renitente burla à regra do concurso público.
+
+45
+http://www.stf.jus.br/portal/jurisprudenciaRepercussao/verAndamentoProcesso.asp?incidente=4323197&numeroProcesso=719870&classeProcesso=RE&numeroTema=670 Página26
+
+[[pagina 27 | nativo]]
+
+41. Portanto, inconstitucionais o artigo 30, caput, parágrafo único e
+
+Anexo VII da Lei nº 15.122/2005, por violação aos incisos II e V do artigo
+
+37 da CF/88.
+
+C.2 – Da Inconstitucionalidade Material do parágrafo único do artigo 31 da
+
+Lei nº 15.122/2005, por violação à regra constitucional da vedação de
+
+acumulação de cargos públicos na Administração Pública.
+
+EMENTA: Lei que possibilita a acumulação de cargos em comissão.
+Confronto com a regra contida no inciso XVI do artigo 37 da CF/88.
+Inconstitucionalidade.
+
+42. O parágrafo único do artigo 31 da Lei nº 15.122/2005, acrescido pela
+
+Lei nº 19.362, de 28 de junho de 2016, é do seguinte teor:
+
+Art. 31. Para o preenchimento dos cargos de provimento efetivo e em
+comissão, criados por esta Lei, deverão ser observadas as disposições desta
+Lei, as disponibilidades financeiras e orçamentárias e a Lei de
+Responsabilidade Fiscal.
+Parágrafo único. O servidor ocupante de cargo em comissão poderá ser
+designado para exercer outro cargo de direção, chefia ou assessoramento,
+hipótese em que poderá optar pela gratificação de maior valor durante o
+período da designação, vedada a percepção acumulada de vantagens sob
+qualquer título.
+
+43. Tal prescrição legal tem permitido situações inconstitucionais, como
+
+as reveladas na figura abaixo, em que comissionados do QSE ocupam,
+concomitantemente, 2 cargos em comissão46:
+
+46 https://portal.tce.go.gov.br/transparencia Página27
+
+[[pagina 28 | nativo]]
+
+44. As exceções à vedação da acumulação de cargos públicos estão
+
+limitadas no inciso XVI do artigo 37 da Constituição Federal apenas à
+
+possibilidade de acumulação de dois cargos, entre os cargos listados,
+
+em numerus clausus.
+
+45. O permissivo legal ora questionado extravasa a exceção
+
+constitucional, razão pela qual o parágrafo único do artigo 31 da Lei nº
+
+15.122/2005 é inconstitucional.
+
+C.3 – Da Inconstitucionalidade Material dos artigos 3º, caput e § 1º, e 4º, da
+
+Lei nº 15.122/2005, por violação à exclusividade do exercício de atividade
+
+de Estado por titulares de cargos públicos efetivos da instituição de controle
+
+externo.
+
+EMENTA: Lei que possibilita a ocupação de cargo comissionado da
+área de fiscalização e controle por pessoas exclusivamente
+comissionadas e de funções gratificadas por servidores efetivos de outros
+órgãos. Interpretação conforme a Constituição para que apenas os Página28
+
+[[pagina 29 | nativo]]
+
+servidores titulares de cargos efetivos da carreira de Analista de Controle
+Externo do TCE-GO possam ocupar cargos em comissão e funções
+gratificadas na área-fim desse órgão.
+
+46. Os artigos 3º, caput e § 1º, e 4º, que possuem a seguinte redação:
+
+Art. 3º Os cargos de provimento em comissão, cuja nomeação é da
+competência do Presidente do Tribunal, com as referências, quantitativos
+e valores, definidos nos Anexos III, IV e V desta Lei, compreendem as
+áreas de assessoria, direção e chefia do Tribunal.
+§ 1o Pelo menos 20% (vinte por cento) dos cargos de provimento em
+comissão, previstos no Anexo V serão preenchidos por servidores efetivos
+do Tribunal.
+Art. 4º As Funções de Confiança, com Referências, Quantitativos e
+Valores, definidos no Anexo VI desta Lei, compreendem as diversas áreas
+de atuação e serão exercidas por titulares de cargos de provimento efetivo.
+
+47. Na linha do que já consta no tópico “DA IMPORTÂNCIA DO
+
+CONTROLE EXTERNO E DO SEU CORRETO FUNCIONAMENTO
+
+PARA O ESTADO DEMOCRÁTICO DE DIREITO”, a qualidade do
+
+controle parlamentar das contas e a eficácia do controle administrativo são
+diretamente dependentes da capacidade da Corte de Contas47. Para que a
+
+instituição de controle externo se legitime no Estado Democrático de Direito,
+
+seu funcionamento depende fundamentalmente do exercício da função de
+controle externo com competência, imparcialidade e independência48; só
+
+assim o fruto do seu trabalho pode vir a ter credibilidade e, por conseguinte,
+
+legitimar a existência da própria instituição.
+
+47 Tradução livre de “Die Qualität der parlamentarischen Rechnungskontrolle und die
+Wirksamkeit der Verwaltungskontrolle sind unmittelbar abhängig von der Leistungsfähigkeit der
+Rechnungshöfe”. § 47 – Begriff, Funktionen und Konzepte von Kontrolle. KAHL, Wolfgang. RN
+83, S. 465. Grundlagen des Verwaltungsrechts, Band III. C. H. Beck. München, 2009.
+48 FRIEGE, Lars. Kompetenzen von Prüferinnen, Prüfern und Mitgliedern des
+Bundesrechnungshofes. In 300 Jahre externe Finanzkontrolle in Deutschland – gestern, heute
+und morgen. Festschrift zur 300. Wiederkehr der Errichtung der Preußischen General-
+Rechenkammer. ENGELS, Dieter (Hrsg.). Duncker & Humblot GmbH, Deutschland, Berlin.2014. P. 627. Página29
+
+[[pagina 30 | nativo]]
+
+48. Como sabido, os ocupantes de cargos em comissão não possuem o
+
+atributo da independência para o exercício da atividade de fiscalização e
+
+auditoria com as necessárias imparcialidade e independência, pois a
+permanência no cargo depende, em especial, da fidelidade a uma pessoa49, e
+não à Constituição50, menos ainda a todos os cidadãos51, como deveria ser de
+
+praxe.
+
+49. De acordo com lição doutrinária:
+
+“A fiscalização é uma necessidade inerente à existência do Estado,
+portanto, é uma função cujos cargos estão classificados como Carreira de
+Estado, ou seja, indissociável à sua própria concepção e existência. Nesse
+sentido, essas funções devem ser ocupadas, através de concurso público,
+por pessoas que possuam a qualificação técnica estipulada em lei, sob pena
+de nulidade dos atos praticados, em face de violação ao referido dispositivo
+constitucional.”52
+
+50. A fiscalização e o controle da Administração Pública configuram,
+
+como já dito, atividade essencial – mas não suficiente – para a permanência
+
+do Estado Democrático de Direito, na medida em que a independência e a
+
+objetividade dos auditores de controle externo (denominados analistas de
+controle externo no TCE-GO) no exercício de suas atividades53 são vitais
+
+49 “É difícil fazer um homem compreender algo quando seu salário depende, acima de tudo, que
+não o compreenda” (- Sinclair, Upton Beall. - I, Candidate for Governor: And How I Got Licked,
+de Upton Sinclair. University of California Press, 1994. Página 109: It is difficult to get a man to
+understand something when his salary depends upon his not understanding it.)
+50 STERN, Klaus. Derecho del estado de la república federal alemana. Madrid: Centro de
+Estudios Constitucionales. 1987. P. 651.
+51 HEGEL, G.W.F. Princípio da filosofia do direito. São Paulo: Martins Fontes. 1997. § 303. P.
+279: “A classe universal ou, mais precisamente, a que se consagra ao serviço do governo, tem no
+universal o fim da sua atividade essencial.” No mesmo sentido, Karl Popper, A miséria do
+historicismo. São Paulo: EDUSP. 1980.
+52 MORAES, Luís Carlos da Silva. Curso de direito ambiental. São Paulo: Atlas, 2006. P. 118,
+apud ANTUNES, Paulo de Bessa. Direito Ambiental. São Paulo: Atlas. 2012. P. 192.
+53 De acordo com o Relatório Nolan, a confiança pública dos governados nos governantes é um
+valor central chave do sistema democrático; de outra parte, os valores da austeridade, objetividade
+e honestidade na atuação dos agentes públicos é a base inequívoca dessa confiança:
+https://www.gov.uk/government/publications/the-7-principles-of-public-life , com acesso em 07de abril de 2021. Página30
+
+[[pagina 31 | nativo]]
+
+para a geração da confiança54 do povo e de seus representantes no
+
+Parlamento nos trabalhos por eles realizados; dada a essencialidade dessas
+atividades é que o legislador constituinte, no artigo 24755, concedeu garantias
+
+especiais a quem as exerce.
+
+51. É que, a despeito de ainda ser denominado de analista de controle
+
+externo, trata-se de cargo incumbido da função de auditoria e instrução
+
+processual no Tribunal de Contas de Goiás, equivalendo, portanto, ao cargo
+
+de auditor de controle externo do Tribunal de Contas da União, seguindo a
+
+lógica da simetria constitucional de “composição, organização, fiscalização”
+
+imposta pelo art. 75 da CF. Titularizando função de Estado de natureza
+
+investigativa/instrutória (auditorias, inspeções, fiscalizações,
+
+monitoramentos), cujas conclusões obtidas são parte essencial das decisões
+
+dos Tribunais de Contas, a independência funcional desses agentes é o que
+
+garante a imparcialidade do processo, sob pena de o Tribunal atuar em bases
+
+inquisitoriais, na qual o julgador tem ingerência em quem investiga, instrui
+
+e acusa.
+
+52. Nisso reside, aliás, uma das diferenças dos Tribunais de Contas para
+
+os Tribunais do Judiciário. Estes, com a função típica de julgar, não
+
+concentram neles as atividades investigação e instrução processual. Os
+
+Tribunais de Contas, a seu turno, são instituições que concentram funções de
+
+investigação (auditorias, inspeções e fiscalizações) e de julgamento,
+
+conforme se depreende dos incisos do art. 71 da CRFB/1988.
+
+54 A confiança do povo é fator básico da democracia. ENTERRIA, Eduardo García. Democracia,
+jueces y control de la administración. España: Editorial Aranzadi. 2005. P. 118.55 https://www.planalto.gov.br/ccivil_03/Constituicao/Constituicao.htm#Art247 Página31
+
+[[pagina 32 | nativo]]
+
+53. Não por outra razão, também é mandamento de estatura constitucional
+
+(art. 73) a exigência de um quadro próprio de pessoal para os Tribunais de
+
+Contas, na única passagem em que faz uso dessa expressão, conferindo
+
+estruturação apta a dar concretude ao sistema acusatório não puro, com a
+
+devida segregação das funções de investigação e julgamento.
+
+54. Por essa razão, também, o Ministro Marco Aurélio manifestou que a
+
+estrutura do quadro de pessoal do Tribunal de Contas afeta direitos
+
+subjetivos dos gestores de órgãos e entidades da Administração Pública
+
+(ADI nº 5128/SE, ajuizada pela Procuradoria Geral da República).
+
+55. No mesmo sentido, a Advocacia-Geral da União, em parecer emitido
+
+no âmbito da ADI 6655-SE, foi clara quanto à necessidade de vínculo
+
+qualificado para o exercício das atividades auditoriais e instrutórias de
+
+controle externo:
+
+a condição para o exercício de atribuições finalísticas de auditoria e
+instrução processual na esfera do controle externo é, sem dúvida, a
+aprovação em concurso público específico para ingresso no quadro
+próprio de pessoal do Tribunal de Contas, sendo imprescindível a
+estabilidade qualificada para o desempenho das funções
+inerentemente de Estado (ADI 6655-SE) Grifamos.
+
+56. Como se vê, o exercício de atividades exclusivas de Estado exige
+
+servidor público estável, atributo não detido pelo ocupante de cargo em
+comissão sem vínculo efetivo com a instituição de controle externo56. Daí
+
+porque cargos em comissão na área-fim do TCE-GO só podem ser ocupados
+
+por servidores efetivos do próprio TCE-GO, no caso, apenas por Analistas
+
+56 A exclusividade das funções de fiscalização e auditoria a servidores efetivos do TCE-GO é
+reconhecida pela própria Corte de Contas, que burla a vedação constitucional por meio da
+determinação de que os comissionados não assinem os seus trabalhos:https://portal.tce.go.gov.br/-/comissionado-pode-assessorar-area-finalistica Página32
+
+[[pagina 33 | nativo]]
+
+(Auditores) de Controle Externo, que é o agente público com competência
+
+legal plena para o planejamento e a execução de auditorias, inspeções,
+
+instruções processuais e demais procedimentos de fiscalização no Tribunal
+
+de Contas, cargo que equivale ao cargo de Auditor de Controle Externo no
+
+Tribunal de Contas da União (TCU) e com nomenclatura atualizada já na
+
+maioria dos Tribunais de Contas do Brasil, em vista do princípio da simetria
+
+constitucional.
+
+57. Aliás, o Procurador-Geral da República, em parecer emitido em
+
+agosto de 2020, no âmbito da ADI nº 6440-PA, ajuizada pela ANTC sobre a
+
+criação de cargos em comissão do TCE/PA, reiterou expressamente que “um
+
+dos objetivos do Supremo Tribunal Federal, ao exigir a descrição das
+
+atividades dos cargos em comissão, é evitar a usurpação das funções
+
+exclusivas dos servidores efetivos, notadamente daqueles que trabalham na
+
+atividade-fim da instituição”.
+
+58. Para além disso, o PGR reiterou “a impossibilidade de que atividades
+
+técnicas, finalísticas e burocráticas sejam desempenhadas por ocupantes de
+
+cargos em comissão, restritos a atividades de direção, chefia e
+
+assessoramento”, e, ainda nesses casos, apenas quando houver o pressuposto
+
+da relação de confiança entre a autoridade nomeante e o servidor nomeado
+
+(Tema 1010), o que não é o caso das funções de auditoria de controle externo
+
+e instrução processual, atividades típicas de Estado que, além de não
+
+pressuporem confiança de autoridade nomeante, com ela ainda seria
+
+totalmente incompatível, comprometendo a independência e a
+
+imparcialidade, bem assim o devido processo legal de controle externo.
+Página33
+
+[[pagina 34 | nativo]]
+
+59. Ora, se no âmbito do RE nº 126467 o STF entendeu ser
+
+inconstitucional servidor comissionado ou em função de confiança exercer
+
+cargo de controlador interno, por maior razão não se amolda ao ordenamento
+
+jurídico conceber que comissionados possam exercer funções típicas de
+
+auditoria e instrução processual na esfera de controle externo, cujas
+
+conclusões, por expressa previsão legal, são parte essencial das decisões do
+
+Tribunal de Contas (art. 1º, § 3º, I da Lei Orgânica do TCU), visto que podem
+
+alcançar direitos subjetivos de todos aqueles que manejam recursos públicos.
+
+60. Assim, é inconstitucional toda e qualquer interpretação que possibilite
+
+a nomeação ou a designação temporária de cargo em comissão na área-fim
+
+da instituição de controle externo, senão por servidor titular do cargo público
+
+efetivo Analista de Controle Externo (Auditor de Controle Externo,
+conforme nomenclatura do TCU e padronização nacional)57.
+
+C.4 – Da Inconstitucionalidade Material do artigo 1758, por violação à regra
+
+do concurso público (inc. II do art. 37 da CF/88). Interpretação conforme à
+
+Constituição.
+
+EMENTA: Lei que enquadra servidores do TCE-GO (mesmo os que não
+ingressaram por concurso público) nos novos cargos efetivos criados,
+apenas pelo critério remuneratório. Inconstitucionalidade.
+Contrariedade aos artigos 37, II, da CF e 19, II, ADCT, e Súmula
+Vinculante 43 do STF: “É inconstitucional toda modalidade de
+provimento que propicie ao servidor investir-se, sem prévia aprovação
+em concurso público destinado ao seu provimento, em cargo que não
+integra a carreira na qual anteriormente investido.”
+
+57 As atribuições legais do cargo efetivo Analista de Controle Externo do TCE-GO encontram-se
+descritas no artigo 5º da Lei nº 15.122/2005:
+https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-1512258 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-15122 Página34
+
+[[pagina 35 | nativo]]
+
+61. Embora o TCE-GO tenha 68 anos de criação, o primeiro concurso
+público para seu quadro próprio de pessoal foi feito apenas em 200959 e,
+
+ainda assim, para pequeno quantitativo; hoje, pouco menos da metade dos
+
+servidores “efetivos” em atividade logrou aprovação em concurso público.
+
+Antes disso, o TCE-GO era inexpugnável reduto do mais anacrônico
+patrimonialismo, conforme amplamente demonstrado na mídia60.
+
+62. Todos os enquadramentos feitos naquela Corte de Contas ocorreram
+
+ao arrepio do prescrito no inciso II do artigo 37 da Constituição Federal e
+
+dos princípios da impessoalidade, da igualdade, da eficiência e da
+
+moralidade, pois que a lei só exigiu observância à simetria
+
+remuneratória, nada mais, para fins de enquadramento dos servidores
+
+nos cargos efetivos – independentemente de investidura por concurso
+
+público. Assim, evidencia-se a inconstitucionalidade do dispositivo, se lido
+
+em sua literalidade e isoladamente.
+
+63. Isto posto, deve-se fazer uma leitura constitucionalmente adequada,
+para que o ora questionado artigo 17 da Lei nº 15.122/95ii seja reputado
+
+constitucional. E essa leitura é aquela que só permite o posicionamento nos
+
+novos cargos efetivos criados àqueles servidores que tenham sido
+
+previamente aprovados em concurso público, nos exatos termos da Súmula
+
+Vinculante nº 43, do STF.
+
+59 https://portal.tce.go.gov.br/concursos
+60 https://www.folhadelondrina.com.br/politica/cpi-aponta-nepotismo-e-corrupcao-no-tce-de-
+goias-24430.html e
+https://www.opopular.com.br/polopoly_fs/1.370964.1375408423!/menu/standard/file/020813-gert_novela.pdf e http://www.sgc.goias.gov.br/upload/links/arq_845_clipping_07_11.pdf Página35
+
+[[pagina 36 | nativo]]
+
+C.5 – Da Inconstitucionalidade dos cargos Assessor I, II, III e IV, por
+
+violação à regra do concurso público (inc. II do art. 37 da CF/88),
+
+especificamente quanto à expressão “bem como às Secretarias e
+
+Diretorias/Gerências, no âmbito da respectiva unidade ou fora dela” que
+
+sejam unidades finalísticas de auditoria e instrução processual.
+
+64. A criação dos cargos de Assessor I, II, III e IV contidos nos Anexos
+
+III e VII da Lei ora em questão é inconstitucional também por outro motivo,
+
+qual seja, suas atribuições descrevem atividades rotineiras, que devem ser
+
+exercidas por titulares de cargos efetivos, e cujo trecho “bem como às
+
+Secretarias e diretorias/Gerências” vêm permitindo que atividades técnicas e
+
+finalísticas nas unidades de auditoria e instrução processual sejam exercidas
+
+por comissionados demissíveis ad nutum.
+
+65. A propósito, vejam-se as funções a serem desempenhadas pelo
+
+ocupante do cargo, conforme o Anexo VIII da Lei nº 15.122, de 04.02.2005:
+
+Desempenhar atividades de assessoramento direto e de
+aconselhamento à Presidência, aos Conselheiros, aos
+Auditores e Procuradores do TCE/GO, bem como às
+Secretarias e Diretorias/Gerências, no âmbito da
+Assessor I
+respectiva unidade ou fora dela, planejando,
+coordenando, controlando e executando trabalhos em
+matéria de sua competência, que demandem
+conhecimentos especializados ou específicos.
+Desempenhar atividades de assessoramento direto e de
+aconselhamento à Presidência, aos Conselheiros, aos
+Auditores e Procuradores do TCE/GO, bem como às
+Secretarias e Diretorias/Gerências, no âmbito da
+Assessor II respectiva unidade ou fora dela, assessorando na
+formulação das diretrizes institucionais a nível
+estratégico e operacional, visando à integração de ideias,
+conhecimentos e o estabelecimento das metas a serem
+perseguidas.
+Desempenhar atividades de assessoramento direto e de
+aconselhamento à Presidência, aos Conselheiros, aos
+Assessor III
+Auditores e Procuradores do TCE/GO, bem como às
+Secretarias, Diretorias/Gerências e Chefias, no âmbito Página36
+
+[[pagina 37 | nativo]]
+
+da respectiva unidade ou fora dela, orientando e
+acompanhando o cumprimento das disposições
+regulamentares, legais, gerais e específicas, visando
+perseguir as exigências estabelecidas a nível interno e
+externo.
+Desempenhar atividades de assessoramento direto à
+Presidência, aos Conselheiros, aos Auditores e
+Procuradores do TCE/GO, bem como às Secretarias,
+Diretorias/Gerências ou Serviços, em atividades de
+Assessor IV
+apoio administrativo e operacional; confeccionar
+correspondências, inclusive eletrônicas, sobre assuntos
+de rotina; realizar pesquisas de menor complexidade,
+para subsidiar os trabalhos de seus superiores.
+
+66. Por sua vez, os cargos públicos efetivos de nível superior, Analista de
+
+Controle Externo (ACE), e de nível médio, Técnico de Controle Externo
+
+(TCE), possuem suas funções descritas legalmente nos artigos 5º e 6º,
+
+respectivamente:
+
+Art. 5º São atribuições do Analista de Controle Externo:
+I – atribuições básicas - desenvolver atividades de
+planejamento, coordenação e execução relativas à
+fiscalização e ao controle externo da arrecadação e
+aplicação de recursos do Estado, bem como da
+administração desses recursos, examinando a
+legalidade, legitimidade, economicidade, eficiência e
+efetividade, em seus aspectos financeiro, orçamentário,
+contábil, patrimonial e operacional, dos atos daqueles
+que devam prestar contas ao Tribunal;
+II – no exercício do controle externo:
+a) examinar, instruir, organizar e acompanhar processos,
+documentos e informações relativos a matérias de
+controle externo que lhe sejam distribuídos;
+Analista de Controle Externo (ACE)
+b) instruir processos relativos a contas, atos sujeitos a
+registro e fiscalização de atos e contratos que, por força
+de disposições constitucionais, legais ou
+regulamentares, são apresentados ao Tribunal;
+c) propor, planejar, executar e coordenar trabalhos de
+fiscalização, em suas diversas modalidades, nas
+unidades, áreas, programas, projetos ou atividades
+vinculadas às competências do Tribunal de Contas do
+Estado de Goiás, com a elaboração dos respectivos
+relatórios e exame de recursos;
+d) quando devidamente designado ou autorizado,
+colaborar com a Assembleia Legislativa ou suas
+Comissões, com o Poder Judiciário e outros órgãos da
+Administração, em matéria afeta ao Tribunal; Página37
+
+[[pagina 38 | nativo]]
+
+e) compor e, quando for o caso, coordenar comissão,
+equipe de fiscalização e grupo de trabalho ou de
+pesquisa instituídos no âmbito do Tribunal ou em
+decorrência de acordos de cooperação ou convênios
+firmados pelo Tribunal de Contas do Estado de Goiás;
+f) calcular e atualizar débitos de processos de contas e
+de fiscalização;
+III – no exercício de apoio técnico administrativo:
+a) propor, planejar, executar e coordenar trabalhos nas
+diversas áreas afetas ao suporte técnico e administrativo
+do Tribunal, aplicando instrumentos de
+acompanhamento, avaliação, pesquisa, controle e
+divulgação referentes aos planos, programas, projetos e
+atividades desenvolvidas;
+b) examinar, instruir, organizar e acompanhar processos,
+documentos, estudos, manuais e informações relativos a
+matérias de natureza técnica ou administrativa que lhe
+sejam distribuídos;
+c) analisar e propor melhorias em rotinas,
+procedimentos, métodos e processos de trabalho
+referentes à sua área de atuação;
+d) compor e, quando for o caso, coordenar comissão,
+grupo de trabalho e de pesquisa instituídos no âmbito do
+Tribunal ou em decorrência de acordos de cooperação
+ou convênios firmados pelo Tribunal de Contas do
+Estado de Goiás;
+e) acompanhar e fiscalizar a execução de contratos com
+empresas provedoras de serviços na sua área de atuação;
+f) opinar sobre questões pertinentes à aplicação de
+legislação, afeta à sua área de atuação, no âmbito do
+Tribunal;
+g) quando devidamente designado ou autorizado,
+colaborar com a Assembleia Legislativa ou suas
+Comissões, com o Poder Judiciário e outros órgãos da
+Administração, em matéria afeta ao Tribunal;
+h) participar de trabalhos na área de Controle Externo e
+elaborar pareceres técnicos que requeiram
+conhecimentos especializados na área de formação do
+servidor;
+i) executar outros trabalhos técnicos ou administrativos
+inerentes à sua área de atuação.
+
+Art. 6º São atribuições do Técnico de Controle Externo:
+I – executar atividades de apoio técnico e administrativo
+necessárias ao funcionamento do Tribunal de Contas do
+Técnico de Controle Externo (CCE
+Estado de Goiás;
+II – instruir processos administrativos que lhe sejam
+distribuídos;
+Página38
+
+[[pagina 39 | nativo]]
+
+III – redigir, preparar e conferir expedientes,
+correspondências, documentos e comunicações
+processuais;
+IV – organizar e catalogar manuais, livros, revistas,
+periódicos e demais publicações de interesse do
+Tribunal;
+V – organizar e manter controles de arquivos, processos,
+documentos, bens materiais e patrimoniais;
+VI – requisitar, conferir, guardar, controlar, transportar,
+armazenar e distribuir documentos e matérias
+permanentes e de consumo necessários ao
+funcionamento do Tribunal;
+VII – promover o controle e a tramitação de
+documentos, expedientes, processos e materiais
+necessários ao funcionamento do Tribunal;
+VIII – prestar suporte administrativo e operacional
+necessários ao desenvolvimento das atividades da
+unidade, inclusive no que se refere à aquisição de
+produtos e serviços e registros de pessoal;
+IX – executar outras tarefas de apoio técnico
+administrativo determinadas.
+
+67. Ao se permitirem cargos em comissão de assessoria “às Secretarias e
+
+Diretorias/Gerências, no âmbito da respectiva unidade ou fora dela”, o
+
+legislador estadual colocou-se em confronto com o conteúdo dos artigos 37,
+
+II e V, da CF/88, explicitado no entendimento do STF no Tema 1010 (RE
+
+1041210), no sentido de que a criação de cargos em comissão “deve
+
+pressupor a necessária relação de confiança entre a autoridade nomeante e o
+
+servidor nomeado.”
+
+68. Logo, inconstitucional a expressão “às Secretarias e
+
+Diretorias/Gerências, no âmbito da respectiva unidade ou fora dela”, contida
+
+no Anexo VIII da Lei nº 15.122, de 04.02.2005, em especial quando permite
+
+que pessoas sem vínculo com a Administração Pública – mais precisamente,
+
+sem ser servidor titular do cargo efetivo Analista de Controle Externo do
+
+TCE-GO – ocupem esses cargos em comissão na área-fim do TCE-GO.
+Página39
+
+[[pagina 40 | nativo]]
+
+69. Outrossim, os cargos em comissão Assessor II, III e IV revelam
+
+destinação “ao desempenho de atividades burocráticas, técnicas ou
+
+operacionais”, o que encontra óbice no inciso V do artigo 37 da CF/88,
+
+também bem explicitado pelo STF no mencionado Tema 1010 (RE
+
+1041210):
+
+“os cargos se destinam ao exercício de funções de direção, chefia ou
+assessoramento, não se prestando ao desempenho de atividades
+burocráticas, técnicas ou operacionais”
+
+70. Ainda, a profusão desses cargos em comissão milita contra a
+
+necessária profissionalização da Administração Pública, que é exigência
+
+decorrente da interpretação sistemática do princípio da eficiência e dos
+incisos II e V do artigo 37 da CF/8861.
+
+71. Por conseguinte, inconstitucional a criação dos cargos em comissão
+
+Assessor II, III e IV no TCE-GO, também por violação à regra do concurso
+
+público, constante do inciso II do artigo 37 da CF/88, já que as funções
+
+acima já são de incumbência dos analistas e técnicos de controle externo,
+conforme previsão decorrente dos artigos 5º e 6º da Lei nº 15.122/200562.
+
+61 BACELLAR FILHO, Romeu Felipe. Profissionalização da função pública: a experiência
+brasileira. DOI: https://doi.org/10.12660/rda.v232.2003.45681. Acesso em 10.04.2021.62 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/80023/lei-15122 Página40
+
+[[pagina 41 | nativo]]
+
+DA CONCLUSÃO E DOS PEDIDOS
+
+D.1 – Do pedido liminar inaudita altera parte, pelo rito do art. 10, § 3º,
+da Lei nº 9.868/9963, para obstar os efeitos da Lei estadual nº
+
+20.989/2021.
+
+72. Para a concessão de medida liminar, são necessárias as presenças
+
+concomitantes da fumaça do bom direito e da excepcional urgência,
+
+conforme prescrição normativa contida no § 3º do artigo 10 da Lei nº
+
+9.868/1999.
+
+73. No caso da Lei estadual nº 20.989/2021, a fumaça do bom direito
+
+restou caracterizada, ante o flagrante vício de iniciativa das leis, pois
+
+originada de iniciativa isolada do Presidente do TCE-GO, e não no colegiado
+
+do TCE-GO, restando violados os artigos 96, II, b, 73 c/c caput do artigo 75
+
+da CF/88, segundo precedente do STF, na ADI 1.681/SC. Além disso, restou
+
+demonstrada a violação ao princípio da proporcionalidade e da regra do
+
+concurso público.
+
+74. Por sua vez, a excepcional urgência se dá em razão da violação ao
+
+princípio da proporcionalidade, dado o aumento do já desmedido
+
+quantitativo de cargos em comissão, bem assim a criação do cargo em
+
+comissão Assessor V para o exercício de funções burocráticas, em franca
+
+contrariedade aos incisos II e V do artigo 37 da CF/88 e ao que sintetizado
+
+63 Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão
+da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência
+dos órgãos ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão
+pronunciar-se no prazo de cinco dias.
+...
+§ 3o Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem aaudiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado. Página41
+
+[[pagina 42 | nativo]]
+
+pelo STF no Tema 1010 (RE 1041210). Ademais, o intuito explicitado na
+
+Exposição de Motivos de se nomear comissionados para o exercício de
+atividades de fiscalização e auditoria64 revela claro ataque à independência e
+
+à imparcialidade nos trabalhos a serem realizados pela Corte de Contas, bem
+
+assim a inconstitucionalidade do dispêndio de recursos públicos para o
+
+pagamento do pessoal nomeado nesses cargos.
+
+75. Assim, presentes conjuntamente os dois requisitos legais, solicita-se,
+
+nos termos do § 3º do artigo 10 da Lei nº 9.868/1999, a concessão da cautelar
+
+inaudita altera parte, para suspender integralmente os efeitos da Lei estadual
+
+nº 20.989/2021.
+
+D.2 – Do pedido liminar em relação aos artigos 30, caput e parágrafo
+
+único e Anexo VII; 31, parágrafo único; 3º, caput e § 1º, 4º, da Lei nº
+15.122/2005, pelo rito do art. 10, caput, da Lei nº 9.868/9965.
+
+76. A profusão de cargos em comissão no TCE-GO revela não a
+
+estruturação de uma burocracia permanente, estável, forte e apta a realizar a
+
+64 Trechos da Exposição de Motivos do Presidente do TCE-GO, no PL nº 2021004047, que
+comprovam o que acaba de se afirmar:
+“7. A proposta ainda pretende modificar, pertinente ao quadro de servidores, a Lei estadual nº
+15.122/2005; para transformar ou extinguir 40 (quarenta) cargos Técnico de Controle Externo e
+de 15 (quinze) cargos de Analista de Controle Externo. Todos vagos.
+...
+16. No final do exercício financeiro de 2020, no desenvolvimento dos atos de transição de gestão,
+a Secretaria de Controle Externo, unidade técnica que cuida da fiscalização da execução
+orçamentária do Estado de Goiás, demonstrou em seu relatório um pequeno índice de processos
+de fiscalização (inspeção, auditoria ou levantamento), atribuindo, justamente, a insignificância da
+fiscalização à carência de pessoal. Desse modo, a presente proposta visa a transformação
+(extinção) de cargos de provimento efeito que se encontram desprovidos ou vagos para
+cargos de provimento em comissão que atendam, de imediato, às necessidades prementes da
+fiscalização em sede de controle externo, tudo com a finalidade de melhor atender ao
+interesse público e, consequentemente, à proteção do erário e a satisfação da sociedade.
+65 Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por
+decisão da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a
+audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo impugnado, quedeverão pronunciar-se no prazo de cinco dias. Página42
+
+[[pagina 43 | nativo]]
+
+missão estatal, para atender aos desígnios estipulados democraticamente,
+como pensavam Max Weber66 e Joseph A. Schumpeter67 e assim exige a
+Constituição Federal68, mas, sim, destacadamente o design de uma
+
+adhocracia69, ou seja, um corpo de servidores flexíveis e não-permanentes,
+
+na contramão da efetividade no cargo público exigida pela atividade de
+
+controle externo da Administração Pública (art. 247 da CF/88).
+
+77. Apesar do que ensina qualificada doutrina70 e impõem tanto a
+Convenção de Mérida71 – que exige a manutenção e o fortalecimento de
+
+sistemas de seleção e promoção de servidores baseados nos princípios da
+
+eficiência e transparência e com a utilização de critérios objetivos, tais como
+
+“o mérito, a equidade e a aptidão”– quanto a Constituição Federal, a Lei nº
+
+66 Ensaios de Sociologia, cap. VII. Rio de Janeiro: LTC. 1982.
+67 Capitalismo, socialismo e democracia. São Paulo: UNESP, 2017: “Como terceira condição
+(para o sucesso do modelo democrático), na sociedade industrial moderna, o governo democrático
+deve contar, para todos os propósitos incluídos na esfera de atividade pública – sejam eles
+numerosos ou não -, com os serviços de uma burocracia bem treinada que goze de boa reputação
+e se apoie numa traição sólida, dotada de um forte senso de dever e de um espírito de corpo não
+menos forte. Tal burocracia é a melhor resposta que se pode dar ao argumento segundo o qual o
+poder é exercido por amadores... Não basta que a burocracia seja eficiente na administração
+corrente e competente para aconselhar. Ela deve ser suficientemente forte para orientar e, se
+necessário, instruir os políticos que chefiam os ministérios. Para tanto, precisa ter condições de
+desenvolver princípios próprios e ser independente o bastante para afirma-los. Deve ser um poder
+por direito próprio. Isso equivale a dizer que, de fato, posto que não de direito, a nomeação, a
+permanência e a promoção devem depender em grande medida – dentro das normas do
+funcionalismo que os políticos hesitam em violar – das suas próprias opiniões corporativas, apesar
+de todo o clamor que certamente se levantará toda vez que os políticos ou o público se virem
+tolhidos por essas opiniões, coisa que há de ser frequente” (p. 397).
+68 Cargo público efetivo é a regra no serviço público e a totalidade nos serviços de fiscalização e
+controle.
+69 BENNIS, Warren. The Temporary Society (1968). Apud VERKUIL, Paul R. Valuing
+Bureaucracy – The case for professional government. USA: Cambridge University Press. 2017.
+P. 93.
+70 “Um sistema de pessoal baseado no clientelismo e na lealdade política mina a entrega eficiente
+de serviços (públicos) e leva à administração injusta de leis tributárias e regulatórias”. ROSE-
+ACKERMAN, Susan & PALIFKA, Bonnie J. Corruption and government – Causes,
+consequences, and reform. USA: Cambridge University Press. 2016. P. 165.
+71 Decreto nº 5.687, de 31 de janeiro de 2006: http://www.planalto.gov.br/ccivil_03/_ato2004-
+2006/2006/decreto/d5687.htm#:~:text=Decreto%20n%C2%BA%205687&text=DECRETO%20N%C2%BA%205.687%2C%20DE%2031,9%20de%20dezembro%20de%202003. Página43
+
+[[pagina 44 | nativo]]
+
+15.122/2005 perfilha rumo oposto, ao criar um spoil system, dado o número
+
+exacerbado de comissionados no órgão, que possibilita a captura da
+
+instituição de controle por interesses contrários à República e a transforma
+em uma instituição estéril72. Comentado [LA2]: Não é necessário
+
+78. Para o Estado de Goiás – com as finanças combalidas e que sobrevive
+
+por força das liminares concedidas pelo Supremo Tribunal Federal, nas
+
+Ações Civis Originárias nºs 3.262 e 3.286 – é um esforço desmesurado essa
+
+construção inconstitucional ACIMA REFERIDA. Ademais, os trabalhos
+
+feitos anualmente pela Corte de Contas podem vir a ser anulados perante o
+
+Poder Judiciário, se questionada a participação de comissionados sem
+
+vínculo nas atividades exclusivas de Estado – mesmo que o TCE-GO tenha
+deliberado por esconder essa situação dos jurisdicionados73 –, resultando em
+
+mais perda de recursos financeiros do povo goiano, perda de tempo e perda
+
+da quase inexistente credibilidade que resta a essa instituição de controle
+
+externo. Esse é o perigo da demora!
+
+79. No tocante à fumaça do bom direito, ela está sobejamente
+
+demonstrada, a saber:
+
+80. A Lei nº 20.989/2021 padece de vício de iniciativa formal, pois
+
+originadas da vontade unipessoal do Presidente do TCE-GO;
+
+81. A mencionada Lei nº 20.989/2021 contém vício de
+
+inconstitucionalidade material, consistente na criação desarrazoada de
+
+72 Se a estrutura das Cortes de Contas for deficiente e sua composição for ruim, a captura desses
+órgãos auxiliares do parlamento as converterá essas instituições em soluções vazias. ASENSIO,
+Rafael Jiménez. Los frenos del poder – Separación de poderes y control de las instituciones.
+Madrid: Marcial Pons. 2016. Capítulo V. P. 215.
+73 Processo nº 201300047002336: https://portal.tce.go.gov.br/-/comissionado-pode-assessorar-area-finalistica e http://www.tce.go.gov.br/ConsultaProcesso?proc=283154 Página44
+
+[[pagina 45 | nativo]]
+
+cargos em comissão, em confronto com o princípio constitucional da
+
+proporcionalidade; e na criação do cargo em comissão Assessor V para
+
+funções meramente burocráticas e administrativas (violando o inciso II do
+
+artigo 37 da CF/88).
+
+82. No pertinente à Lei nº 15.122/2005, o Quadro Suplementar de Cargos
+
+Comissionados em Extinção (QSE), previsto no artigo 30 e Anexo VII, não
+
+possui qualquer função legalmente descrita, a quantidade é exacerbada e a
+
+denominação dos cargos revela sobejamente sequer se tratar de cargos em
+
+comissão de Direção, Assessoria ou Chefia, confrontando-se, por
+
+conseguinte, com o estabelecido na Constituição Federal e bem explicitado
+
+pelo STF, no Tema 1010 (RE 1041210). Ademais disso, a impossibilidade
+
+legal de livre nomeação e de exoneração dos ocupantes desses cargos
+
+confronta-se frontalmente com o disposto no artigo 37, inciso II, in fine, da
+
+CF/88.
+
+83. Assim, presentes concomitantemente os 02 requisitos necessários –
+
+fumaça do bom direito E perigo da demora – solicita-se a concessão de
+
+medida cautelar, até o julgamento definitivo desta Ação Direta de
+
+Inconstitucionalidade, com fundamento na alínea “p” do inciso I do art. 102
+
+da CF/88, e do caput do art. 10 da Lei nº 9.868/99, para suspender:
+
+ O artigo 30 e o Anexo VII da Lei estadual nº 15.122/2005, que
+criaram o Quadro Suplementar dos Cargos em Comissão em Extinção
+(QSE), sem descrição legal das funções e com violação aos incisos II
+e V do artigo 37 da CF/88;
+ O parágrafo único do artigo 31 da Lei nº 15.122/2005, que
+permitiu o acúmulo de cargos em comissão, em violação ao inciso
+XVI do artigo 37 da CF/88;
+ Qualquer leitura dos artigos 3º, caput e § 1º, 4º, da Lei nº
+15.122/2005, que permitam o exercício de cargos em comissão na Página45
+
+[[pagina 46 | nativo]]
+
+área-fim do TCE-GO que não por titular do cargo efetivo de nível
+superior Analista de Controle Externo do TCE-GO, determinando-se
+a exoneração dos agentes sem vínculo efetivo com o Tribunal de
+Contas do Estado de Goiás.
+
+Página46
+
+[[pagina 47 | nativo]]
+
+D.3 – Do pedido de mérito
+
+84. Diante de todo o exposto, aguarda-se o recebimento e processamento
+
+da presente ação direta de inconstitucionalidade, para que, ao final,
+
+ratificando-se as liminares concedidas, seja ela julgada procedente, para
+
+reconhecer:
+
+ a inconstitucionalidade formal da Lei nº 20.989/21;
+
+ a inconstitucionalidade material dos artigos 1º, 2º e 3º da
+Lei nº 20.989/21;
+
+ a inconstitucionalidade material sem redução do texto do
+artigo 3º, caput e § 1º, e do artigo 4º, da Lei nº 15.122/2005, a
+fim de que seja dada a interpretação conforme à Constituição,
+para que os cargos em comissão e as funções de confiança
+somente possam ser ocupados na área-fim do TCE-GO por
+servidores titulares de cargos efetivos Analista de Controle
+Externo do TCE-GO;
+
+ a inconstitucionalidade material sem redução do texto do
+artigo 17 da Lei nº 15.122/2005, a fim de que só possam ser
+enquadrados nos cargos efetivos Analista de Controle Externo
+e Técnico de Controle Externo os servidores efetivos
+concursados do TCE-GO, cujas funções dos cargos
+anteriormente ocupados guardem correlação com esses novos
+cargos, na esteira do que preceitua a Súmula Vinculante nº 43
+do STF;
+
+ a inconstitucionalidade material dos artigos 3º, caput e §
+1º, 4º, 17, 30, caput e parágrafo único, 31, parágrafo único, e
+Anexos III (na parte relativa aos cargos em comissão Assessor
+II, III, IV e V), VII (QSE, integralmente) e VIII (na parte
+relativa aos cargos em comissão Assessor I, II, III, IV e V,
+especificamente em relação à expressão “bem como às
+Secretarias e Diretorias/Gerências, no âmbito da respectiva
+unidade ou fora dela”), da Lei nº 15.122/2005.
+Página47
+
+[[pagina 48 | nativo]]
+
+85. Solicita-se, ainda, nos termos dos artigos 6º e 8º da Lei nº 9.868/99,
+
+sejam requisitadas informações à Assembleia Legislativa do Estado de
+
+Goiás, e, após, ouvidos o Advogado-Geral da União e o Procurador-Geral da
+
+República, para se manifestar sobre os atos normativos impugnados.
+
+86. Por fim, que todas intimações e publicações se façam
+
+EXCLUSIVAMENTE em nome do advogado RAIMUNDO CEZAR
+
+BRITTO ARAGÃO, OAB/DF 32.147, sob pena de nulidade.
+
+Termos em que,
+
+Pede e espera deferimento.
+
+Brasília/DF,19 de agosto de 2021.
+
+CEZAR BRITTO PAULO FREIRE
+OAB/DF 32.147 OAB/DF 50.755
+
+Página48
+
+[[pagina 49 | nativo]]
+
+TABELAS E GRÁFICOS QUE ILUSTRAM E REFORÇAM O DITO
+
+ALHURES
+
+Atualmente, a situação do pessoal do TCE-GO encontra-se da seguinte
+
+forma: Comentado [LA3]: Não é necessário pois a tabela já foi
+demonstrada
+
+Vínculo comissionado
+Cedidos de
+TCE/GO CC QSE outros Efetivos
+órgãos total
+
+192 127 47 246
+Quantidade de servidores (31,37%) (20,75%) (7,68%) (40,20%) 0
+%
+319
+(52,12%)
+40,20%
+não pertencentes ao quadro próprio do 366
+TCE:
+59,80%
+Tabela - Quantidade de servidores do TCE/GO por área da lotação em função do vínculo funcional.
+
+A profusão de cargos em comissão no TCE-GO revela não a estruturação de
+
+uma burocracia permanente, estável, forte e apta a realizar a missão estatal,
+
+para atender aos desígnios estipulados democraticamente, como pensavam
+Max Weber74 e Joseph A. Schumpeter75 e assim exige a Constituição
+
+74 Ensaios de Sociologia, cap. VII. Rio de Janeiro: LTC. 1982.
+75 Capitalismo, socialismo e democracia. São Paulo: UNESP, 2017: “Como terceira condição
+(para o sucesso do modelo democrático), na sociedade industrial moderna, o governo democrático
+deve contar, para todos os propósitos incluídos na esfera de atividade pública – sejam eles
+numerosos ou não -, com os serviços de uma burocracia bem treinada que goze de boa reputação
+e se apoie numa traição sólida, dotada de um forte senso de dever e de um espírito de corpo não
+menos forte. Tal burocracia é a melhor resposta que se pode dar ao argumento segundo o qual o
+poder é exercido por amadores... Não basta que a burocracia seja eficiente na administração
+corrente e competente para aconselhar. Ela deve ser suficientemente forte para orientar e, se
+necessário, instruir os políticos que chefiam os ministérios. Para tanto, precisa ter condições de
+desenvolver princípios próprios e ser independente o bastante para afirma-los. Deve ser um poder
+por direito próprio. Isso equivale a dizer que, de fato, posto que não de direito, a nomeação, a
+permanência e a promoção devem depender em grande medida – dentro das normas do
+funcionalismo que os políticos hesitam em violar – das suas próprias opiniões corporativas, apesar
+de todo o clamor que certamente se levantará toda vez que os políticos ou o público se viremtolhidos por essas opiniões, coisa que há de ser frequente” (p. 397). Página49
+
+[[pagina 50 | nativo]]
+
+Federal76, mas, sim, destacadamente o design de uma adhocracia77, ou seja,
+
+um corpo de servidores flexíveis e não-permanentes, na contramão da
+
+efetividade no cargo público exigida pela atividade de controle externo da
+
+Administração Pública (art. 247 da CF/88).
+
+Apesar do que ensina qualificada doutrina78 e impõem tanto a Convenção de
+Mérida79 – que exige a manutenção e o fortalecimento de sistemas de seleção
+
+e promoção de servidores baseados nos princípios da eficiência e
+
+transparência e com a utilização de critérios objetivos, tais como “o mérito,
+
+a equidade e a aptidão”– quanto a Constituição Federal, a Lei nº 15.122/2005
+
+perfilha rumo oposto, ao criar um spoil system, dado o número exacerbado
+
+de comissionados no órgão, que possibilita a captura da instituição de
+
+controle por interesses contrários à República e a transforma em uma
+instituição estéril80. Comentado [LA4]: Não é necessário
+
+As consequências deletérias da Lei nº 15.122/2005 nesse ponto se fazem
+
+sentir diariamente e a parca utilidade do TCE-GO para a construção de um
+Boa Governança81 já é sobejamente conhecida no âmbito estadual e pode ser
+
+76 Cargo público efetivo é a regra no serviço público e a totalidade nos serviços de fiscalização e
+controle.
+77 BENNIS, Warren. The Temporary Society (1968). Apud VERKUIL, Paul R. Valuing
+Bureaucracy – The case for professional government. USA: Cambridge University Press. 2017.
+P. 93.
+78 “Um sistema de pessoal baseado no clientelismo e na lealdade política mina a entrega eficiente
+de serviços (públicos) e leva à administração injusta de leis tributárias e regulatórias”. ROSE-
+ACKERMAN, Susan & PALIFKA, Bonnie J. Corruption and government – Causes,
+consequences, and reform. USA: Cambridge University Press. 2016. P. 165.
+79 Decreto nº 5.687, de 31 de janeiro de 2006: http://www.planalto.gov.br/ccivil_03/_ato2004-
+2006/2006/decreto/d5687.htm#:~:text=Decreto%20n%C2%BA%205687&text=DECRETO%20
+N%C2%BA%205.687%2C%20DE%2031,9%20de%20dezembro%20de%202003.
+80 Se a estrutura das Cortes de Contas for deficiente e sua composição for ruim, a captura desses
+órgãos auxiliares do parlamento as converterá essas instituições em soluções vazias. ASENSIO,
+Rafael Jiménez. Los frenos del poder – Separación de poderes y control de las instituciones.
+Madrid: Marcial Pons. 2016. Capítulo V. P. 215.
+81 Os países que possam dotar-se de ‘boa governança’ terão muito mais possibilidades deproporcionar a seus cidadãos níveis de vida decentes. Aqueles que não possam fazê-lo estarão Página50
+
+[[pagina 51 | nativo]]
+
+demonstrada objetivamente por meio de dados que a Corte de Contas mesma
+
+fornece e que podem ser comparados com o de semelhantes instituições de
+outros Estados da federação. Provam isso as figuras abaixo82 contendo o
+
+quantitativo de contas julgadas irregulares nos últimos 10 anos pelos
+
+Tribunais de Contas até 2018, para atender o prescrito na LC 64/90 (art. 1º,
+
+g), e a forma em gráfico desse quantitativo, para facilitar a visualização e
+
+compreensão:
+
+condenados à decadência e à disfunção. ASENSIO, Rafael Jiménez. Los frenos del poder –
+Separación de poderes y control de las instituciones. Madrid: Marcial Pons. 2016. Capítulo V.
+P. 226.
+82 Todos os dados constantes da tabela foram obtidos nas páginas eletrônicas dos respectivostribunais e o gráfico foi elaborado a partir dos dados obtidos. Página51
+
+[[pagina 52 | ocr]]
+
+GA
+
+CEZAR BRITTO
+ADVOGADOS ASSOCIADOS
+atualizada
+1 2018 . TRIBUNAIS Contas Julgadas Irregulares
+2 SIM TCU 11550
+3 SIM TCE/AC 1145
+4 SIM TCE/AL 33
+5 SIM TCE/AP 66
+6 SIM TCE/AM 634
+7 SIM TCE/BA 486
+8 SIM TCE/CE 3586
+9 SIM TC/DF 798
+10 SIM TCE/ES 543
+11 SIM TCE/GO 17
+12 SIM TCE/MA 230
+13 SIM TCE/MT 363
+14 SIM TCE/MS 278
+15 SIM TCE/MG 1326
+16 NÃo TCE/PA 1250
+17 SIM TCE/PB 1266
+18 SIM TCE/PR 1562
+19 SIM TCE/PE 2786
+20 SIM TCE/PI 2297
+21 SIM TCE/RJ 2670
+22 SIM TCE/RS 579
+23 SIM TCE/RN 1404
+24 SIM TCE/RO 2086
+25 SIM TCE/RR 279
+26 SIM TCE/SC 1227
+27 SIM TCE/SP 7361
+28 SIM TCE/SE 847
+29 SIM TCE/TO 1066
+30 SIM TCM/BA 1266
+31 SIM TCM/GO 2118
+32 SIM TCM/PA 2386
+33 SIM TCM/RJ 2
+34 TCM/SP - não encontrado
+
+SHIS, QI 26, CONJUNTO 02, CASA 02, LAGO SUL, CEP 71.670-020, BRASÍLIA-DF, BRASIL / T + 55 61 3548-0032 / F + 55 61 3532-8902
+
+OAB-DF 1763-10
+
+advocaciaQcezarbritto.adv.br
+
+Página5 2
+
+[[pagina 53 | ocr]]
+
+CEZAR BRITTO
+
+ADVOGADOS ASSOCIADOS
+
+Contas Julgadas Irregulares
+
+TCM/SP O
+TCU TR 7 7550
+TCE/SP O 757
+TCE/CE E 3 536
+TCE/PE RR 2736
+TCE/R! E 2570
+TCM/PA TR 2226
+TCE/PI TT 2297
+TCM/GO TS 2/15
+TCE/RO TS 2036
+TCE/PR E 1562
+TCE/RN TR 1 404
+TCE/MG E 1326
+TCM/BA 1266
+TCE/PB E 1266
+TCE/PA EE 1250
+TCE/SC E 1227
+TCE/AC E 1145
+TCE/TO E 1066
+TCE/SE NS 47
+TC/DF EM 79s
+TCE/AM ME 634
+TCE/RS MH 579
+TCE/ES E 543
+TCE/BA IM 486
+TCE/MT EM 363
+TCE/RR 079
+TCE/MA 230
+TCE/AP 1 66
+TCE/AL 33
+TCE/MS | 28
+
+Te
+
+TCM/RJ 2
+
+(o) 2000 4000 6000 8000 10000 12000 14000
+
+OAB-DF 1763-10
+SHIS, QI 26, CONJUNTO 02, CASA 02, LAGO SUL, CEP 71.670-020, BRASÍLIA-DF, BRASIL / T + 55 61 3548-0032 / F + 55 61 3532-8902
+advocaciaQcezarbritto.adv.br
+
+Página 5 3
+
+[[pagina 54 | nativo]]
+
+Embora o objetivo dos tribunais de contas não deva ser julgar as contas
+
+irregulares, é sintomática a baixa quantidade de condenações de gestores por
+
+parte do TCE-GO, em especial porque o novo governador do Estado de
+
+Goiás, assim que iniciou o seu mandato, decretou Estado de Calamidade
+Financeira (Decreto nº 9.392, de 21 de janeiro de 2019)83.
+
+A CF/88 prescreve serem os cargos efetivos a regra (art. 37, II e V).
+
+Revelando o razoável respeito à Constituição, a média nacional de
+
+comissionados sem vínculo efetivo na “administração direta estadual e
+distrital” em 2019 foi de 2,6%84, sendo que “as maiores proporções estavam
+
+nos Estados do Maranhão (21,6%), Paraíba (19,9%), Bahia (17,8%) e Comentado [LA5]: Não é necessário
+
+Amapá (17,4%), enquanto as menores, em Minas Gerais (2,7%), São
+Paulo (2,2%), Santa Catarina (1,5%) e Rio Grande do Norte (1,4%).”85
+
+Nada obstante, “41% dos servidores comissionados sem vínculo do Estado
+de Goiás possuem apenas o ensino fundamental”86 e sem embargo o TCE-
+
+GO é incapaz de agir para combater isso, pois reproduz com ainda mais
+
+gravidade essa situação de desprezo para com o ordenamento jurídico
+
+capitaneado pela Constituição Federal, já que mais de 50% do seu quadro de
+
+83 https://legisla.casacivil.go.gov.br/pesquisa_legislacao/71590/decreto-9392
+84 IBGE – Perfil dos Estados Brasileiros. 2019, p. 13. Disponível em
+https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101769, com
+acesso em 07 de abril de 2021.
+85 Op. cit., p. 16.
+86 IBGE – Perfil dos Estados Brasileiros. 2012, p. 22 na versão eletrônica. Disponível em
+https://biblioteca.ibge.gov.br/index.php/biblioteca-catalogo?view=detalhes&id=2101769, com
+acesso em 07 de abril de 2021: “Os resultados de escolaridade dos somente comissionados
+demonstraram que aqueles com nível superior perfaziam 49,8%. Entre as Unidades da Federação,
+destacaram-se: Ceará, 87,2%; Santa Catarina, 76,6%; Pernambuco, 69,5%; Minas Gerais, 67,2%;
+São Paulo, 63,9%; e Amazonas, 63,8%. Os somente comissionados com ensino médio tiveram
+destaques em Rondônia (79,9%), Distrito Federal (61,9%), Paraíba (52,6%) e Bahia (50,7%). Em
+Goiás, 41,0% dos somente comissionados possuíam ensino fundamental.” (Destaqueacrescido.) Página54
+
+[[pagina 55 | nativo]]
+
+pessoal é formado por comissionados sem vínculo efetivo e do restante do
+
+seu pessoal mais de 50% é formado por efetivados sem qualquer aprovação
+
+em concurso público, representando péssima referência para os órgãos da
+
+Administração Pública estadual, grande fonte desperdício de recursos
+
+públicos e grave ineficácia no exercício da sua missão constitucional, como
+
+demonstra o Estado de Calamidade Financeira decretada em janeiro de 2019,
+
+a corroborar o senso comum de que o tribunal é um faz-de-contas.
+
+A título de comparação, o Tribunal de Contas da União (TCU), paradigma
+
+nacional, por força especialmente do artigo 75 da CF/88, possui 2255
+
+servidores, mas apenas 28 cargos em comissão que podem ser ocupados por
+
+pessoas sem vínculo de efetividade com o próprio TCU. Ou seja, apenas
+
+1,06% da sua força de trabalho é formada por pessoas de fora do TCU e todas
+elas estão lotadas nos gabinetes dos Ministros87. Comentado [LA6]: Não é necessário essa comparação
+
+Disso não difere muito o Supremo Tribunal Federal (STF), integrado por tão
+
+somente 46 pessoas sem vínculo com a Administração Público. Isto é, 4,10%
+
+de sua mão de obra é formada por pessoas de fora da Administração
+Pública88. Comentado [LA7]: Nem essa
+
+A propósito, veja-se a diferença:
+
+87 https://portal.tcu.gov.br/transparencia-e-prestacao-de-contas/
+88
+http://www.stf.jus.br/portal/cms/verTexto.asp?servico=centralDoCidadaoAcessoInformacaoGestaoPessoa Página55
+
+[[pagina 56 | nativo]]
+
+Enquanto isso, o TCE-GO forma sua rede89 antirrepublicana, com a
+
+constituição de seu quadro de pessoal com 54,81% de cargos em comissão e
+
+mais 7,5% de servidores cedidos. Em outras palavras, 62,31% da força de Comentado [LA8]: Pode ser suprimido
+
+trabalho do TCE-GO é formada por pessoas estranhas ao seu quadro de
+
+cargos efetivos, a revelar sobejamente a inconstitucionalidade na formação
+do quadro de pessoal e a disfuncionalidade da atuação da Corte de Contas90,
+
+e que ignora o disposto no art. 73 da CF que determina a existência de um
+
+quadro próprio de pessoal para os Tribunais de Contas e o art. 75 determina
+
+“composição, organização e fiscalização” simétricas ao Tribunal de Contas
+
+da União (TCU).
+
+89 ELIAS, Norbert. A sociedade dos indivíduos. Zahar. 1994. E-book. P. 40: “...a rede de tecidos.
+Nessa rede, muitos fios isolados ligam-se uns aos outros. No entanto, nem a totalidade da rede
+nem a forma assumida por cada um de seus fios podem ser compreendidas em termos de um único
+fio, ou mesmo de todos eles, isoladamente considerados; a rede só é compreensível em termos da
+maneira como eles se ligam, de sua relação recíproca. Essa ligação origina um sistema de tensões
+para o qual cada fio isolado concorre, cada um de maneira um pouco diferente, conforme seu
+lugar e função na totalidade da rede.”
+90 https://paineis.tce.go.gov.br/sense/app/36800e4f-43ec-4013-b1d5-52051fb0481a/sheet/41d53d88-6340-437f-a03e-3e1e1cb8c961/ Página56
+
+[[pagina 57 | nativo]]
+
+A composição inconstitucional do TCE-GO fica mais bem demonstrada no
+
+gráfico abaixo:
+
+PROPORÇÃO DE SERVIDORES DO TCE/GO EM
+FUNÇÃO DO VÍNCULO FUNCIONAL
+
+Efetivos
+40,20% Vínculo
+comissionado
+52,12%
+
+Cedidos de outros
+órgãos
+7,68%
+
+Para facilitar a compreensão da desconformidade constitucional do quadro
+
+de pessoal do TCE-GO, segue-se em forma gráfica a comparação com os
+
+quadros de pessoal do STF e do TCU: Comentado [LA9]: Essas tabelas não são pertinentes
+Página57
+
+[[pagina 58 | nativo]]
+
+De acordo com lição de Popper, as pessoas condicionam as próprias
+instituições, pois estas não são nada sem aquelas91. São as pessoas (e,
+
+sobretudo, suas condutas) quem – tal como se dizia – condicionam a vida
+91 POPPER, Karl. La miseria del historicismo. Alianza Editorial, 2006. Página58
+
+[[pagina 59 | nativo]]
+
+institucional. É dos homens de quem depende o êxito das instituições92.
+
+Pessoas cujo dever de obediência é para com outras pessoas não é o que
+
+precisa a Instituição de Controle Externo, nem a Constituição e muito menos
+
+a sociedade brasileira.
+
+Estudos da psicologia, da sociologia e da antropologia, demonstram já há
+
+quase uma centena de anos que a dominância dos sistemas de dádivas
+
+clientelistas não fundam experiências democráticas, mas, sim, relações
+
+hierárquicas, verticalizadas e não-simétricas, essenciais para a existência dos
+
+sistemas políticos de bases patrimonialistas; quando essas práticas
+predominam sobre as relações funcionais (sociabilidades secundárias) 93,
+sofismadas estão a independência substancial94 e a imparcialidade95, pois se
+
+faz presente a obrigação de retribuição continuada da dádiva recebida do Comentado [LA10]: Pode ser suprimido
+
+92 ASENSIO, Rafael Jiménez. Los frenos del poder – Separación de poderes y control de las
+instituciones. Madrid: Marcial Pons. 2016. Capítulo V. P. 231.
+93 CAILLÉ, Alain. Nem holismo nem individualismo metodológico. Marcel Mauss e o paradigma
+da dádiva. In Revista brasileira de ciências sociais. Vol. 13, n. 38, São Paulo, Outubro de 1998.
+94 Como alerta Pierre Rosanvallon, a independência “Remite a la idea de una imparcialidad por
+simple distanciamiento de las particularidades. El grupo es constituido por una suma de
+selecciones que obedecen a criterios que tienen que ver estrictamente con las competencias o con
+las diversas cualidades de los individuos. Por tanto, éstos resultan elegidos por sus aptitudes
+para la generalidad o por su reputación de independencia. De esa manera, se considera que tales
+‘individuos generales’ contribuyen por sí mismos con el cumplimento de los objetivos de la
+autoridad en cuestión.” (ROSANVALLON, Pierre. La legitimidad democrática – imparcialidad,
+reflexividad y proximidad. Editora Paidós. España. Madrid. 2010. P. 146)
+95 De acordo com ROSANVALLON, “la sociedad esté gobernada por principios y
+procedimientos basados en el proyecto de la destrucción de las ventajas particulares y de los
+acaparamientos partidarios. En ese marco, la distancia que se adopte con los intereses
+particulares es la que garantiza más adecuadamente la prosecución del interés general. Por eso,
+la imparcialidad es asimilada con una forma de desapego constitutiva del desinterés. Es
+sustracción al reino de la opinión, rechazo de las negociaciones, atención a todos, consideración
+de los problemas en función de la razón y del derecho. Las autoridades independientes de control
+y regulación está destinadas estructuralmente a cumplir con esos objetivos.” (La legitimidad
+democrática – imparcialidad, reflexividad y proximidad. Editora Paidós. España. Madrid. 2010.p. 141.) Página59
+
+[[pagina 60 | nativo]]
+
+agente público responsável pela nomeação, tornando engodo o trabalho de
+fiscalização e auditoria96.
+
+O dever de prestação de contas é um princípio constitucional sensível97,
+ademais de necessário ao controle da corrupção98. A existência de entidades
+
+independentes de monitoramento e aplicação do Direito é estratégia
+
+anticorrupção poderosa que limita também outras formas de enriquecimento
+
+ilícito, sendo que a efetividade das entidades de controle externo possui uma
+relação positiva com a qualidade da governança fiscal99.
+
+O rol de irregularidades no âmbito dos recursos humanos do TCE-GO é
+grave, renitente, capilarizado e em parte foi revelado pela mídia local100:
+
+96 Sobre dádivas e reciprocidades – situação ora combatida na presente ação direta de
+inconstitucionalidade, para evitar o insucesso na construção de um Bom Governo, e permitir a
+pervivencia do Estado Democrático de Direito – exemplificativamente, tem-se: MAUSS, Marcel.
+Ensaio sobre a dádiva: forma e razão da troca nas sociedades arcaicas, in Sociologia e
+Antropologia. Ubu Editora, 1ª Edição. 2017; MARTINS, Paulo Henrique. A sociologia de
+Marcel Mauss: Dádiva, simbolismo e associação. Revista Crítica de Ciências Sociais, 73,
+Dezembro, 2005: 45-66; CAILLÉ, Alain. Dádiva e associação, in MARTINS, Paulo Henrique
+(org.). A dádiva entre os modernos: discussão sobre os fundamentos e as regras do social.
+Petrópolis: Vozes. 2002.
+97 Art. 34, inciso VII, alínea d, da CF/88.
+98 ROSE-ACKERMANN, Susan & PALIFKA, Bonnie J. Corruption and government: causes,
+consequences, and reform. New York. Cambridge University Press, p. 374.
+99 Idem, p. 396.
+100
+https://www.opopular.com.br/polopoly_fs/1.370964.1375408423!/menu/standard/file/020813-gert_novela.pdf Página60
+
+[[pagina 61 | nativo]]
+
+Por isso mesmo, ainda hoje, o TCE-GO resiste em agir republicanamente,
+
+conforme demonstra acórdão do Tribunal de Justiça do Estado de Goiás (TJ-
+
+GO) recentemente transitado em julgado, cujo trecho se destaca a seguir
+
+(cópia anexa):
+
+“’In casu, pela análise dos documentos constantes do inquérito
+civil público instaurado pelo órgão ministerial, constata-se que
+vários servidores nomeados para o provimento de cargos em comissão
+de assessor, exercem atividades técnicas relativas a análise de Página61
+
+[[pagina 62 | nativo]]
+
+licitações, contratos, aposentadorias, fiscalização, com emissão de
+instruções técnicas, relatórios de auditoria, tomada de contas,
+pareceres, fazendo as vezes de Analista de Controle Externo, como
+comprovam os documentos do evento 3, arquivos 6, 9, 10 e 13.
+Destaca-se que no memorando nº 115/2014, datado de
+28/05/2014 (evento 3, arquivo 3), a própria Secretaria de Controle
+Externo do TCEGO reconhece a existência de servidores
+comissionados lotados naquele departamento exercendo a função de
+fiscalização.
+Dessa forma, ressai evidente a ilegalidade da contratação pela
+Administração Pública de servidores comissionados para o exercício de
+atividades típicas do cargo de Analista de Controle Externo durante o
+prazo de validade do concurso, com a consequente preterição dos
+candidatos aprovados no cadastro de reserva.
+Assim, considerando não haver controversa acerca da existência
+de vagas para provimento do cargo de Analista de Controle Externo
+durante o prazo de validade do concurso, bem como comprovada
+manutenção de servidores comissionados exercendo atividades
+típicas do cargo efetivo, fica convolada a mera expectativa
+direito à nomeação dos candidatos aprovados no cadastro de reserva em
+direito subjetivo, tornando obrigatória a convocação
+destes para preencherem os cargos vagos.’” (Remessa Necessária na Ação
+Civil Pública nº 0360175.77.2015.8.09.0051, 1ª Turma, Relator
+Desembargador Leobino Chaves, julgado em 18.05.2020.)
+
+Mesmo com essa decisão transitada em julgado que obrigou o TCE-GO a
+
+nomear aprovados em concurso público, para evitar a continuidade do
+
+exercício das funções de fiscalização e auditoria por servidores
+exclusivamente comissionados101, o novo Presidente insiste em revelar
+
+pouco apreço pela Constituição Federal e explicita seu intuito – isolado,
+
+felizmente – em ter mais comissionados na Corte de Contas, para realizar as
+
+funções de fiscalização e auditoria, como revela a Exposição de Motivos da
+
+Lei nº 20.989/2021 (PL 2021004047), in verbis:
+
+“7. A proposta ainda pretende modificar, pertinente ao quadro de
+servidores, a Lei estadual nº 15.122/2005; para transformar ou extinguir
+
+101 Portaria TCE-GO nº 236/2020, publicada no DOE-GO, de 11 de agosto de 2020, p. 11, cópiaanexa. Página62
+
+[[pagina 63 | nativo]]
+
+40 (quarenta) cargos Técnico de Controle Externo e de 15 (quinze) cargos
+de Analista de Controle Externo. Todos vagos.
+...
+10. Vale destacar que o Tribunal de Contas possui, para esse cargo, um
+total de 350 (trezentos e cinquenta) cargos, sendo que 124 (cento e vinte e
+quarto) estão vagos. O sacrifício de 15 (quinze) cargos nesse momento será
+recompensado com o resultado da fiscalização em breve espaço de tempo,
+após a aprovação desta proposta e com o recrutamento e provimento desses
+cargos a serem criados, observadas as necessárias qualificações técnicas
+(pré-requisito) para cada cargo.
+...
+16. No final do exercício financeiro de 2020, no desenvolvimento dos atos
+de transição de gestão, a Secretaria de Controle Externo, unidade técnica
+que cuida da fiscalização da execução orçamentária do Estado de Goiás,
+demonstrou em seu relatório um pequeno índice de processos de
+fiscalização (inspeção, auditoria ou levantamento), atribuindo, justamente,
+a insignificância da fiscalização à carência de pessoal. Desse modo, a
+presente proposta visa a transformação (extinção) de cargos de
+provimento efeito que se encontram desprovidos ou vagos para cargos
+de provimento em comissão que atendam, de imediato, às necessidades
+prementes da fiscalização em sede de controle externo, tudo com a
+finalidade de melhor atender ao interesse público e,
+consequentemente, à proteção do erário e a satisfação da sociedade.
+17. Reafirmo que a transformação (extinção) dos cargos conforme o
+projeto prevê, não acarretará nenhum aumento de despesa, conforme
+demonstrado pela Unidade Técnica responsável (Planilha em anexo) e que
+tais cargos, uma vez transformados ou criados por esta proposta, serão
+providos por agentes qualificados, recrutados mediante apresentação de
+qualificação técnica, como também observadas as disposições legais de
+regência, quanto aos aspectos orçamentários, financeiros e de
+responsabilidade fiscal.” (Cópia anexa.) Comentado [LA11]: Não é necessário citar a decisão
+
+Em outras palavras, conquanto já pilhado o TCE-GO em um plexo de
+
+irregularidades, embora o Poder Judiciário tenha determinado a nomeação
+
+de aprovados em concurso público, para obstar a realização de atividade
+
+típica de Estado por comissionados, não obstante já revelado pela mídia o
+
+indevido uso de cargos comissionados por parte do TCE-GO, o atual
+Presidente daquele órgão insiste em criar situações inconstitucionais, para a Página63
+
+[[pagina 64 | nativo]]
+
+desesperança de todos aqueles que acreditam na importância das instituições
+
+de controle externo da Administração Pública.
+
+Por isso, a retirada do mundo jurídico dessas situações inconstitucionais,
+
+construídas intencionalmente e mantidas deliberadamente, se faz urgente,
+
+notadamente porque, só a título de exemplo, o Quadro Suplementar de
+
+Cargos Comissionados em Extinção (QSE), sem qualquer função descrita
+
+em lei, custa aos cofres públicos uma quantia mensal aproximada de R$ 2
+
+milhões, ou quase R$ 26 milhões por ano, e as despesas dos diversos cargos
+
+em comissão recém criados custam em torno de R$ 3 milhões anuais a mais.
+
+De acordo com a Lei nº 15.122/05, os cargos e funções do TCE-GO eram os
+
+seguintes:
+
+CARGOS EFETIVOS
+Descrição
+Denominação do
+Previsão Legal Ocupados Vagos Legal das
+cargo
+Funções
+Analista de Nível
+Controle Externo 350 226 124 SIM Superior
+(ACE)
+
+Técnico de Nível
+Controle Externo 80 25 40 SIM Médio
+(TCE)
+Total Cargos Efetivos 430 248 164
+
+CARGOS COMISSIONADOS
+
+Efetivo
+Denominação Previsão Do ocupante Descrição
+Legal Ocupados Quadro de cargo Vagos Legal das
+do cargo Efetivo Nível Funções
+Médio
+Assessor I (A1) 45 43 11i 02 SIM
+Assessor II (A2) 53 51 06 01 SIM
+Assessor III (A3) 30 28 04 01 SIM
+Nível
+Assessor IV (A4) 88 82 10i 01 SIM Superior
+Diretor Superior 04 03 02i -- SIM
+DS TCE I
+Diretor Gerente 17 16 10i 03 SIM DS TCE II Página64
+
+[[pagina 65 | nativo]]
+
+Chefe de Serviço 27 23 12i 03 SIM
+CH TCE I
+Cargos Total 264 252 31 13 016
+Comissionados
+
+FUNÇÕES DE CONFIANÇA
+Descrição
+Denominação Previsão Legal
+Ocupados Vagos Legal das
+do cargo
+Funções
+Assessor Técnico 05 05i -- Não
+I (AT1)
+Assessor Técnico i 10 12i Não
+II (AT2)
+Nível
+Assessor TécnicoSuperior 10 09i -- Não
+III (AT3)
+Assessor Técnico 40 37i 03 Não
+IV (AT4)
+Assessor 15 Não
+Supervisor
+Total Cargos Efetivos 080
+
+CARGOS COMISSIONADOS EM EXTINÇÃO - QSE
+Descrição
+Denominação Previsão Legali Ocupados Extintos Legal das
+do cargo Funções
+Assessor de
+Assuntos
+Contábeis, 18 09 09 Não
+Financeiros,
+Jurídicos e
+Orçamentários
+Assessor de
+Assuntos 01 - 01 Não
+Econômicos
+junto à ATE
+Assessor de
+Assuntos 01 - 01 Não desconhecido Jurídicos
+Assessor de 02 02i -- Não
+Imprensa
+Assessor Técnico 03 02 01 Não Acadêmico de Engenharia
+Nível Assessorde FiscalizaçãoTécnico 01 - 01 Não
+de Obras
+Assistente
+Técnico 05 05 - Não
+Especializado
+Auxiliar 02 02 - Não
+Especializado
+Auxiliar Geral 08 06 02 Não
+Condutor 05 03i 02 Não
+Especializado Datilógrafo 11 09 02 Não Página65
+Digitador 08 07i 01 Não
+
+[[pagina 66 | nativo]]
+
+Eletricista 02 02 -- Não
+Fotógrafo 01 01i -- Não
+Inspetor de
+Empresas 34 29i 05 Não
+Econômicas
+Inspetor de 07 05i 02 Não
+Obras Públicas
+Inspetor Fiscal
+da Despesa 20 19i 01 Não
+Pública
+Inspetor
+Supervisor da 04 03 01 Não
+Despesa
+Mecanógrafo 18 14i 04 Não
+Oficial
+Especializado de 16 13i 03 Não
+Representação
+Cargos
+Total Comissionados 167 131 036 Não
+em Extinção
+
+ii O artigo 17 da Lei nº 15.122/05 encontra-se assim redigido:
+
+Art. 17 Para o posicionamento dos atuais servidores efetivos dos Serviços
+Auxiliares do Tribunal de Contas do Estado de Goiás, nas carreiras
+instituídas por esta Lei, observar-se-á o vencimento do cargo atualmente
+exercido e o seguinte:
+I - os cargos ocupados e vagos de Auxiliar de Controle Externo A e
+Auxiliar Operacional Especializado A são transformados em cargos de
+Técnico de Controle Externo A1;
+II - os cargos ocupados e vagos de Auxiliar de Controle Externo A1 e
+Auxiliar Operacional Especializado A1 são transformados em cargos de
+Técnico de Controle Externo A2;
+III - os cargos ocupados e vagos de Auxiliar de Controle Externo A2 e
+Auxiliar Operacional Especializado A2 são transformados em cargos de
+Técnico de Controle Externo A3;
+IV - os cargos ocupados e vagos de Auxiliar de Controle Externo A3 e
+Auxiliar Operacional Especializado A3 são transformados em cargos de
+Técnico de Controle Externo B4;
+V - os cargos ocupados e vagos de Auxiliar de Controle Externo B e
+Auxiliar Operacional Especializado B são transformados em cargos de
+Técnico de Controle Externo B5;
+VI - os cargos ocupados e vagos de Auxiliar de Controle Externo B1 e
+Auxiliar Operacional Especializado B1 são transformados em cargos de
+Técnico de Controle Externo B6; Página66
+
+[[pagina 67 | nativo]]
+
+VII - os cargos ocupados e vagos de Auxiliar de Controle Externo B2 e
+Auxiliar Operacional Especializado B2 são transformados em cargos de
+Técnico de Controle Externo C7;
+VIII - os cargos ocupados e vagos de Auxiliar de Controle Externo B3 e
+Auxiliar Operacional Especializado B3 são transformados em cargos de
+Técnico de Controle Externo C8;
+IX - os cargos ocupados e vagos de Auxiliar de Controle Externo C e
+Auxiliar Operacional Especializado C são transformados em cargos de
+Técnico de Controle Externo C9;
+X - os cargos ocupados e vagos de Auxiliar de Controle Externo C1, C2 e
+C3 e Auxiliar Operacional Especializado C1, C2 e C3 são transformados
+em cargos de Analista de Controle Externo A1;
+XI - os cargos ocupados e vagos de Conferente de Contas Públicas D, D1
+e D2, Auxiliar de Controle Externo D, D1 e D2 e Auxiliar Operacional
+Especializado D, D1 e D2 são transformados em cargos de Analista de
+Controle Externo A2;
+XII - os cargos ocupados e vagos de Auxiliar de Controle Externo D3,
+Conferente de Contas Públicas D3 e Auxiliar Operacional Especializado
+D3 são transformados em cargos de Analista de Controle Externo A3;
+XIII -os cargos ocupados e vagos de Auxiliar de Controle Externo E, E1 e
+E2, Conferente de Contas Públicas E, E1 e E2 e Auxiliar Operacional
+Especializado E, E1 e E2 são transformados em cargos de Analista de
+Controle Externo B4.
+XIV - os cargos ocupados e vagos de Auxiliar de Controle Externo E3,
+Conferente de Contas Públicas E3 e Auxiliar Operacional Especializado
+E3 são transformados em cargos de Analista de Controle Externo B5;
+XV - os cargos ocupados e vagos de Conferente de Contas Públicas F,
+Auxiliar de Controle Externo F e Auxiliar Operacional Especializado F
+são transformados em cargos de Analista de Controle Externo B6;
+XVI - os cargos ocupados e vagos de Conferente de Contas Públicas F1,
+Auxiliar de Controle Externo F1 e Auxiliar Operacional Especializado F1
+são transformados em cargos de Analista de Controle Externo B7;
+XVII - os cargos ocupados e vagos de Auxiliar de Controle Externo F2,
+Conferente de Contas Públicas F2, Inspetor de Obras Públicas F2, Analista
+de Contas e Sistemas F2, Auxiliar Operacional Especializado F2 e Redator
+Especializado F2 são transformados em cargos de Analista de Controle
+Externo B8;
+XVIII - os cargos ocupados e vagos de Auxiliar de Controle Externo F3,
+Conferente de Contas Públicas F3, Conferente de Documentos F3, Revisor
+de Contas Públicas F3, Analista de Contas e Sistemas F3, AssistenteTécnico Especializado F3, Auxiliar Operacional F3 e Redator Página67
+
+[[pagina 68 | nativo]]
+
+Especializado F3 são transformados em cargos de Analista de Controle
+Externo B9;
+XIX - os cargos ocupados e vagos de Conferente de Contas Públicas G,
+Revisor de Contas Públicas G, Inspetor de Obras Públicas G, Inspetor
+Fiscal da Despesa Pública G e Assistente Técnico Especializado G são
+transformados em cargos de Analista de Controle Externo C10;
+XX - os cargos ocupados e vagos de Conferente de Contas Públicas G1,
+Revisor de Contas Públicas G1, Inspetor de Obras Públicas G1, Inspetor
+Fiscal da Despesa Pública G1 e Assistente Técnico Especializado G1 são
+transformados em cargos de Analista de Controle Externo C11;
+XXI - os cargos ocupados e vagos de Auxiliar de Controle Externo G2,
+Conferente de Contas Públicas G2, Inspetor de Empresas Econômicas G2,
+Inspetor de Obras Públicas G2, Inspetor Fiscal da Despesa Pública G2,
+Revisor de Contas Públicas G2, Analista de Contas e Sistemas G2,
+Assistente Técnico Especializado G2 e Auxiliar Operacional
+Especializado G2 são transformados em cargos de Analista de Controle
+Externo C12;
+XXII - os cargos ocupados e vagos de Auxiliar de Controle Externo G3 e
+H, Conferente de Contas Públicas G3 e H, Conferente de Documentos G3
+e H, Inspetor de Empresas Econômicas G3 e H, Inspetor de Obras Públicas
+G3 e H, Inspetor Fiscal da Despesa Pública G3 e H, Revisor de Contas
+Públicas G3 e H, Analista de Contas e Sistemas G3 e H, Assistente de
+Secretaria G3 e H, Assistente Técnico Especializado G3 e H, Operador de
+Sistemas Eletrônicos G3 e H e Técnico de Composição Eletrônica G3 e H
+são transformados em cargos de Analista de Controle Externo C13;
+XXIII - os cargos ocupados e vagos de Assessor Especial H1 e H2 e
+Auditor Substituto H1 e H2 são transformados em cargos de Analista de
+Controle Externo C14;
+XXIV - os cargos ocupados e vagos de Assessor Especial H3, Auditor
+Substituto H3 e Consultor Jurídico H3 são transformados em cargos de
+Analista de Controle Externo C15.
+§ 1o As regras estabelecidas no caput e nos itens I ao XXIV deste artigo
+aplicam-se, no que couber, aos inativos e pensionistas.
+§ 2o O posicionamento de que trata o artigo será feito por ato da
+Presidência do Tribunal.ii
+
+Página68
+
+[[pagina 69 | ocr]]
+
+CEZAR BRITTO
+
+ADVOGADOS ASSOCIADOS
+
+OAB-DF 1763-10
+SHIS, QI 26, CONJUNTO 02, CASA 02, LAGO SUL, CEP 71.670-020, BRASÍLIA-DF, BRASIL / T + 55 61 3548-0032 / F + 55 61 3532-8902
+advocaciaQcezarbritto.adv.br
+
+página69

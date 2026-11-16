@@ -1,0 +1,1142 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL, DIAS TOFFOLI
+
+PARTIDO DOS TRABALHADORES, por seu Diretório Nacional, inscrito no
+
+CNPJ n. 00.676.262/0001-70, com sede em Setor Comercial Sul, Quadra 02, Bloco
+
+C, n. 256, Ed. Toufic, 1º andar, Brasília/DF, neste ato representado por sua
+
+Presidenta Nacional, GLEISI HELENA HOFFMANN, brasileira, casada,
+
+Deputada Federal (PT/PR), RG nº 3996866-5 SSP/PR, CPF sob nº 676.770.619-15,
+
+endereço funcional na Esplanada dos Ministérios, Praça dos Três Poderes,
+
+Câmara dos Deputados, Gabinete 232 - Anexo 4, vem, respeitosamente, perante
+
+Vossa Excelência, por seus advogados, apresentar 1
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+(pela interpretação conforme à Constituição Federal)
+
+ao art. 2º, §4º e §9º da Lei n. 13.982/2020, e aos art. 7º, §§ 4º e 5º do Decreto n.
+
+10.316/20, e pela inconstitucionalidade formal e material do art. 10, inciso IV, e
+
+art. 11, §6º também do Decreto n. 10.316/2020, sem prejuízo da manutenção do
+
+cronograma de análise dos pedidos e do calendário de pagamento do “auxílio
+
+emergencial” em curso, à luz do fundamento da República da Dignidade da
+
+Pessoa Humana (art. 1º, inciso III), dos objetivos da República de
+
+desenvolvimento social e erradicação da pobreza (art. 3º, incisos II e III), aos
+
+direitos sociais previstos no art. 6º e ao direito à saúde (art. 196), bem como dos
+
+limites do poder regulamentar da Presidência da República (art. 84, IV), todos
+
+previstos na Constituição Federal, nos termos e argumentos que se seguem.
+
+
+[[pagina 2 | nativo]]
+I – DO CONTEXTO FÁTICO-CONSTITUCIONAL DAS NORMAS
+
+QUESTIONADAS.
+
+1. É de conhecimento público e notório que, desde janeiro de 2020, o mundo
+
+vive situação pandêmica em razão do “novo coronavírus”, que já contaminou
+
+mais de 3 milhões de pessoas e matou cerca de 228 mil em todo o globo. No Brasil,
+
+em que pese a sabida subnotificação em razão da ausência de testagens
+
+suficientes, já são quase 80 mil casos confirmados e cerca de 5 mil mortes, já
+
+estando entre os 10 países com o maior número de óbitos.
+
+2. Seguindo orientações sanitárias de especialistas de todo o mundo, tal como
+
+a Organização Mundial da Saúde, implementou-se no país o regime de
+
+distanciamento social, havendo a expedição de ordem de fechamento de
+
+2comércios, cancelamento de aulas e suspensão de serviços não essenciais.
+
+3. Consequentemente, o país viu grande parte de sua população impedida de
+
+exercer seus ofícios, seja pela recomendação de evitar descolamentos e
+
+aglomerações ou mesmo pela diminuição do consumo em razão da baixa
+
+circulação de pessoas.
+
+4. Acertadamente, como resposta a tal questão, o Congresso Nacional, com
+
+expressiva contribuição da bancada do Partido dos Trabalhadores, aprovou a Lei
+
+n. 13.982/2020 que estabelece medidas excepcionais de proteção social a serem
+
+adotadas durante o período de enfrentamento da emergência de saúde pública
+
+de importância internacional decorrente do coronavírus (Covid-19) responsável
+
+pelo surto de 2019.
+
+5. Dentre tais medidas, criou-se o chamado “auxílio emergencial”, que
+
+representa 03 (três) parcelas de R$ 600,00 (seiscentos reais) a ser pagos àquelas
+
+
+[[pagina 3 | nativo]]
+pessoas enquadradas nos requisitos ali previstos.
+
+6. Ocorre que, em que pese tal norma tenha sido publicada no dia 02 de abril
+
+de 2020, houve severa demora por parte do Governo Federal em viabilizar a
+
+operacionalização do pagamento deste auxílio, sendo que o Decreto n. 10.316/20,
+
+que visava regulamentar o art. 2º da Lei n. 13.979/20, apenas foi publicado em 07
+
+de abril de 2020.
+
+7. Após isso, como também é de conhecimento público, uma vez que
+
+divulgado por todos os meios de comunicação, bem como pela própria população
+
+por meio das redes sociais, o aplicativo disponibilizado pela Caixa Econômica
+
+Federal apresentou diversas inconsistências e falhas, fazendo com que milhões de
+
+pedidos ficassem durante semanas “em análise” e, portanto, sem que houvesse o
+3efetivo pagamento.
+
+8. O fato é que na data da presente (30/04), das 51,4 milhões registradas no
+
+Cadastro Único do Governo Federal (CadÚnico) que se enquadram nos requisitos
+
+ao recebimento no “auxílio emergencial”, segundo informações do Ministério da
+
+Cidadania1, apenas 27,8 milhões de pessoas já receberam tal pagamento. E dos 40
+
+milhões de pessoas que fizeram seu cadastro via aplicativo, apenas 18,4 pessoas
+
+tiveram seu cadastro deferido, sendo que outras 13,6 milhões serão obrigadas a
+
+complementar os seus dados para uma nova análise pelo Governo Federal2.
+
+9. Ou seja, ultrapassado mais de um mês de situação emergencial, até agora
+
+apenas uma parcela da população que têm o direito ao recebimento de tal auxílio
+
+pôde, de fato, ter acesso a este recurso.
+
+1 http://desenvolvimentosocial.gov.br/imprensa/Noticias/mais-de-51-milhoes-de-pessoas-no-cadastro-
+unico-sao-indicadas-a-receber-o-auxilio-emergencial
+2 https://oglobo.globo.com/economia/auxilio-emergencial-mais-de-13-milhoes-de-informais-terao-que-
+refazer-cadastro-no-aplicativo-da-caixa-1-24401253
+
+
+[[pagina 4 | nativo]]
+10. Em números, daqueles estão aptos a receber o “auxílio emergencial” e já
+
+possuem inscrição no CadÚnico, apenas 54% já recebeu o pagamento. Daqueles
+
+informais que sequer estão no cadastro do Governo Federal e fizeram seu pedido
+
+junto ao aplicativo disponibilizado, apenas 46% já tiveram seu cadastro aprovado
+
+e pago, sendo que outros 34% estão sendo obrigados a se manter em espera até
+
+que consigam regularizar o seu cadastro.
+
+11. São inúmeras as razões para esta demora, tal como a exigência indevida da
+
+situação regular do CPF das pessoas junto à Receita Federal do Brasil, bem como
+
+a indicação do nome da mãe e a indicação dos CPFs dos demais membros da
+
+família.
+
+12. Ao fim, quando o cidadão possui a condição de superar todas essas
+4dificuldades e recebe a confirmação de depósito de “auxílio emergencial” em sua
+
+conta bancária, ainda é obrigado a enfrentar longas filas em frente às agências da
+
+Caixa Econômica Federal, provocando aglomerações e, consequentemente,
+
+pondo em risco a saúde de toda a população3.
+
+13. Contudo, caso o cidadão ou a cidadã não consiga realizar o saque de tal
+
+valor no prazo de 90 (noventa) dias, ainda há a previsão de que tal dinheiro será
+
+recolhido pelo Governo Federal, tornando absolutamente sem efeito a própria
+
+política pública que pauta o auxílio emergencial.
+
+14. Ora, não devem pairar dúvidas que, neste caso, está-se a discutir a
+
+concessão de condições de subsistência do trabalhador desempregado ou de
+
+ocupação informal. Isto é, são dezenas de milhões de pessoas que estão sendo
+
+postas diante da cruel escolha entre arriscar a sua saúde e de seus familiares e
+
+3 https://g1.globo.com/rj/rio-de-janeiro/noticia/2020/04/28/contribuintes-voltam-a-dormir-em-filas-para-
+sacar-auxilio-emergencial-nas-agencias-da-caixa-economica-no-rj.ghtml
+
+
+[[pagina 5 | nativo]]
+tentar continuar trabalhando, ou passar extrema necessidade por não exercer seu
+
+ofício para seguir os protocolos de segurança sanitária.
+
+15. Esta escolha, em si, provocada pela inação do Poder Público, já representa
+
+flagrante inconstitucionalidade, sendo inconcebível que a população seja
+
+obrigada a eleger entre seu direito à saúde ou à sua subsistência econômica, sendo
+
+necessária não apenas uma política pública, mas que essa seja eficiente.
+
+16. Assim, conforme será abaixo apresentado, necessária a interpretação
+
+conforme à Constituição da Lei n. 13.982/20, de modo a lhe conferir ampla
+
+efetividade, ao passo que se faz imperioso o afastamento de entraves
+
+indevidamente enxertados pelo Governo Federal pelo Decreto n. 10.316/20,
+
+tornando a política pública de assistência social emergencial capaz de salvar as
+5vidas de brasileiros que, até agora, estão largados à sua própria sorte.
+
+II – DA LEGITIMIDADE ATIVA AD CAUSAM.
+
+17. Nos termos do art. 103, inciso VIII da Constituição Federal c/c art. 2º, inciso
+
+VIII da Lei n. 9.868/99, são legitimados para ajuizar a Ação Direta de
+
+Inconstitucionalidade os partidos políticos com representação no Congresso
+
+Nacional.
+
+18. Assim, o Partido dos Trabalhadores, que figura como o maior partido
+
+político, em número de Deputados Federais, na Câmara dos Deputados, possui
+
+inequívoca legitimidade para proposição do presente feito.
+
+
+[[pagina 6 | nativo]]
+III – DO CABIMENTO DA PRESENTE AÇÃO DIRETA DE
+
+INCONSTITUCIONALIDADE
+
+19. Nos termos do art. 102, inciso I, alínea ‘a’ da Constituição da República, é
+
+cabível Ação Direta de Inconstitucionalidade para conferir a compatibilidade de
+
+normativos federais para com o texto constitucional.
+
+20. Sendo assim, considerando que a Lei n. 13.982/2020, de 02 de abril de 2020,
+
+é lei federal devidamente aprovada pelo Congresso Nacional e sancionada pelo
+
+Presidente da República, demonstra-se cabível o manejo da presente ação.
+
+21. Já no que tange ao Decreto n. 10.316/2020, que pretensamente regulamenta
+
+o Auxílio Emergencial previsto no art. 2º da Lei n. 13.982/20, cumpre ressaltar que,
+6como será adiante demonstrado, houve fuga ao dever regulamentador, inovando
+
+em exigências e obrigações não previstas em lei, o que lhe confere caráter de
+
+decreto autônomo passível de impugnação pela via da Ação Direta de
+
+Inconstitucionalidade, nos termos da jurisprudência desta e. Corte Suprema:
+
+EMENTAS: 1. INCONSTITUCIONALIDADE. Ação direta.
+
+Objeto. Admissibilidade. Impugnação de decreto autônomo, que
+
+institui benefícios fiscais. Caráter não meramente regulamentar.
+
+Introdução de novidade normativa. Preliminar repelida.
+
+Precedentes. Decreto que, não se limitando a regulamentar lei,
+
+institua benefício fiscal ou introduza outra novidade normativa,
+
+reputa-se autônomo e, como tal, é suscetível de controle
+
+concentrado de constitucionalidade.
+
+
+(ADI 3664, Relator(a): Min. CEZAR PELUSO, Tribunal Pleno,
+
+julgado em 01/06/2011)
+
+22. Ademais, conforme entendimento do e. Ministro Celso de Mello nos autos
+
+
+[[pagina 7 | nativo]]
+da ADPF n. 317 e 329, por se tratar de ato normativo posterior à promulgação da
+
+Constituição Federal, demonstra-se cabível o manejo de Ação Direta de
+
+Inconstitucionalidade. Vejamos:
+
+Ao examinar a questão prévia da cognoscibilidade da arguição
+
+de descumprimento, tive o ensejo de aplicar os precedentes que
+
+venho de mencionar, para, em função deles, julgar inadmissível
+
+referida ação constitucional, por tratar-se de ato estatal posterior
+
+à promulgação da vigente Carta Política, eis que, considerada tal
+
+circunstância, o diploma em causa revela-se impugnável
+
+mediante ação direta de inconstitucionalidade (ADPF 317-
+
+MC/MA, Rel. Min. CELSO DE MELLO), motivo pelo qual incide,
+
+na espécie, a cláusula da subsidiariedade fundada no § 1º do art.
+
+4º da Lei nº 9.882/99.
+
+23. Assim, cabível a utilização da Ação Direta de Inconstitucionalidade no 7
+
+presente caso, razão pela qual pugna pelo seu conhecimento e processamento.
+
+IV – DOS DISPOSITIVOS IMPUGNADOS
+
+24. Como mencionado acima, nesta oportunidade pugna-se pela interpretação
+
+conforme à Constituição do art. 2º, §§ 4º e 9º da Lei n. 13.982/2020, que trazem:
+
+Art. 2º Durante o período de 3 (três) meses, a contar da publicação
+
+desta Lei, será concedido auxílio emergencial no valor de R$
+
+600,00 (seiscentos reais) mensais ao trabalhador que cumpra
+
+cumulativamente os seguintes requisitos:
+
+
+§ 4º As condições de renda familiar mensal per capita e total de
+
+que trata o caput serão verificadas por meio do CadÚnico, para
+
+os trabalhadores inscritos, e por meio de autodeclaração, para os
+
+não inscritos, por meio de plataforma digital.
+
+
+[[pagina 8 | nativo]]
+
+§ 9º O auxílio emergencial será operacionalizado e pago, em 3
+
+(três) prestações mensais, por instituições financeiras públicas
+
+federais, que ficam autorizadas a realizar o seu pagamento por
+
+meio de conta do tipo poupança social digital, de abertura
+
+automática em nome dos beneficiários, a qual possuirá as
+
+seguintes características:
+
+25. E pela interpretação conforme à Constituição do art. 7º, §§ 4º e 5º, e pela
+
+declaração de inconstitucionalidade do art. 10, inciso IV e art. 11, §6º, todos do
+
+Decreto n. 10.316/2020, que dizem:
+
+Art. 7º Para verificar a elegibilidade ao recebimento do auxílio
+
+emergencial ao trabalhador de qualquer natureza, será avaliado
+
+o atendimento aos requisitos previstos no art. 3º.
+
+§ 4º Para o recebimento do auxílio emergencial, a inscrição do
+
+trabalhador no Cadastro de Pessoas Físicas - CPF é obrigatória e
+
+a situação do CPF deverá estar regular junto à Secretaria Especial
+
+da Receita Federal do Brasil do Ministério da Economia, exceto
+
+no caso de trabalhadores incluídos em famílias beneficiárias do
+
+Programa Bolsa Família.
+
+§ 5º É ainda obrigatória a inscrição no CPF dos membros da
+
+família dos demais trabalhadores não inscritos no Cadastro
+
+Único e não beneficiários do Programa Bolsa Família.
+
+
+Art. 10. Para o pagamento do auxílio emergencial aos
+
+beneficiários do Programa Bolsa Família, serão observadas as
+
+seguintes regras:
+
+
+IV - o período de validade da parcela do auxílio emergencial será
+
+de noventa dias, contado a partir da disponibilidade da parcela
+
+do auxílio, segundo o calendário de pagamentos;
+
+
+[[pagina 9 | nativo]]
+
+Art. 11. O pagamento aos trabalhadores elegíveis ao auxílio
+
+emergencial, com exceção dos beneficiários do Programa Bolsa
+
+Família, será feito da seguinte forma:
+
+
+§ 6º Os recursos não sacados das poupanças sociais digitais
+
+abertas e não movimentadas no prazo de noventa dias retornarão
+
+para a União, conforme regulamentação do Ministério da
+
+Cidadania.
+
+V – DO MÉRITO. DAS INCONSTITUCIONALIDADES APONTADAS NAS
+
+NORMAS SUPRAMENCIONADAS
+
+a) Da Necessária Interpretação Conforme à Constituição do art. 2º, §4º da
+
+Lei n. 13.982/20 9
+
+26. Como acima transcrito, o dispositivo previsto no §4º do art. 2º da Lei n.
+
+13.982/20 traz que os requisitos necessários à habilitação para o recebimento do
+
+“auxílio emergencial” serão observados por meio das informações contidas no
+
+CadÚnico, para os trabalhadores inscritos, ou pela autodeclaração apresentada
+
+por plataforma digital para aqueles que não possuam tal inscrição.
+
+27. Prima facie, não se ignora a necessidade de parâmetros para a concessão
+
+do auxílio, bem como de sua fiscalização, sob pena de desvirtuamento da
+
+política pública e, ao fim, não promover uma distribuição de renda pautada na
+
+justiça social.
+
+28. Todavia, tal avaliação não pode servir de entrave para a assistência social
+
+prestada pelo Estado em momento excepcional de grave crise sanitária.
+
+29. Em apertada síntese, quando observada a Constituição Federal, sobretudo
+
+
+[[pagina 10 | nativo]]
+no que tange os seus fundamentos e objetivos, percebe-se que a primazia da
+
+República brasileira é pela dignidade da pessoa humana, dando-lhe condições de
+
+usufruir de seus direitos fundamentais e sociais.
+
+30. Não por outra razão que a Constituição da República traz, logo em seu art.
+
+1º, inciso III, o princípio da dignidade da pessoa humana e, em seu art. 3º, II e III,
+
+os objetivos de desenvolvimento nacional e de erradicação da pobreza. Vejamos:
+
+Art. 1º A República Federativa do Brasil, formada pela união
+
+indissolúvel dos Estados e Municípios e do Distrito Federal,
+
+constitui-se em Estado Democrático de Direito e tem como
+
+fundamentos:
+
+III - a dignidade da pessoa humana;
+
+e harmônicos entre si, o Legislativo, o Executivo e o Judiciário.
+
+Art. 3º Constituem objetivos fundamentais da República 10
+
+Federativa do Brasil:
+
+
+II - garantir o desenvolvimento nacional;
+
+III - erradicar a pobreza e a marginalização e reduzir as
+
+desigualdades sociais e regionais;
+
+31. Isto demonstra que, quando houver a colisão de direitos, mesmo que em
+
+igual grau de hierarquia, o Estado brasileiro deve possuir como prioridade o
+
+asseguramento das condições mínimas de subsistência da população,
+
+resguardando direitos fundamentais e sociais como o direito à vida, à saúde e à
+
+dignidade.
+
+32. Mas não só, pois quando se observa o art. 6º da Constituição Federal,
+
+observa-se que além da saúde, da alimentação e da moradia, também é previsto
+
+como direito social a “assistência aos desamparados”. Ou seja, em momento de
+
+dificuldades, ao cidadão é garantido o direito à assistência, devendo o Estado
+
+
+[[pagina 11 | nativo]]
+brasileiro cumprir para com o seu papel nesse momento.
+
+33. Assim, o art. 2º, §§4º da Lei 13.982/20, em que pese traga a previsão de um
+
+rito adequado para o processamento dos dados, deve prever que a mora do
+
+Estado em processar todas as informações não pode ser razão para impedir a
+
+percepção, por parte da população, do “auxílio emergencial”.
+
+34. Em verdade, a leitura do ordenamento constitucional pelas lentes da
+
+situação pandêmica e de crise econômica, política e sanitária enfrentada,
+
+demonstra haver a necessidade premente de se considerar presumível a
+
+regularidade da situação cadastral do cidadão.
+
+35. Isto é, faz-se necessário que o Estado confie em sua população e, desde que
+
+não consiga demonstrar o desenquadramento do cidadão aos requisitos legais, 11
+
+promova o pagamento das parcelas enquanto haja a manutenção de situação
+
+inconclusiva, aplicando-se espécie de in dubio pro civis.
+
+36. Por tal razão, pugna-se que seja aplicada a técnica da interpretação
+
+conforme à Constituição ao §4º do art. 2º da Lei n. 13.982/20 para que, à luz dos
+
+direitos constitucionais acima mencionados, a ausência de resultado conclusivo
+
+sobre o desenquadramento do cidadão aos requisitos necessários ao recebimento
+
+do “auxílio emergencial” seja lida in dubio pro civis, obrigando-se o pagamento
+
+das parcelas vencidas àqueles que já requereram o seu recebimento por cadastro
+
+no aplicativo, ou estão inscritos no CadÚnico, mas ainda não tiveram seu cadastro
+
+analisado definitivamente.
+
+b) Da Necessidade de Interpretação Conforme à Constituição do §9º do art.
+
+2º da Lei n. 13.982/20
+
+37. O §9º do art. 2º da Lei n. 13.982/20, por seu turno, institui o pagamento de
+
+
+[[pagina 12 | nativo]]
+03 (três) parcelas do mencionado auxílio, a ser operacionalizado por instituições
+
+financeiras públicas federais, ficando autorizadas a criar contas de poupança
+
+virtual digital para os depósitos desses valores.
+
+38. Neste ponto, também se entende adequada a utilização do sistema de
+
+instituições financeiras para sistematizar tal benefício social, ao passo que tal
+
+modelo de operacionalização não pode servir para pôr mais em risco à saúde da
+
+população.
+
+39. Em termos, como acima relato, é de conhecimento público as enormes filas
+
+que estão se formando frente às agências da Caixa Econômica Federal por uma
+
+população desesperada que busca receber o “auxílio emergencial” para garantir
+
+a sua própria subsistência, que em grande parte não respeitam o distanciamento
+social indicado, bem como contarem com inúmeras pessoas sem equipamentos
+
+de segurança.
+
+40. Crê-se, por evidente, que uma norma que trata de um “auxílio
+
+emergencial” criado justamente para fazer frente a uma crise sanitária em que se
+
+recomenda o distanciamento social, não deve abarcar a hipótese de promoção de
+
+aglomerações.
+
+41. Isto é, à luz do art. 196 da Constituição da República4, a saúde, além de ser
+
+um direito do cidadão, é um dever do Estado que deve também ser garantido por
+
+intermédio de “políticas sociais e econômicas que visem à redução do risco de doença e
+
+de outros agravos”.
+
+4 Art. 196. A saúde é direito de todos e dever do Estado, garantido mediante políticas sociais e
+econômicas que visem à redução do risco de doença e de outros agravos e ao acesso universal e
+igualitário às ações e serviços para sua promoção, proteção e recuperação.
+
+
+[[pagina 13 | nativo]]
+42. Dessa forma, a política econômica implementada pela Lei n. 13.982/20, que
+
+visa justamente a promoção da saúde da população, não pode ser ela mesma
+
+provocadora de incidentes contraindicados por especialistas e organizações
+
+internacionais, devendo ocorrer de modo que diminua a capacidade de contágio.
+
+43. Neste sentido, pugna-se pela aplicação da técnica de interpretação
+
+conforme à Constituição ao §9º do art. 2º da Lei n. 13.982/20, de modo que o saque
+
+do “auxílio emergencial” ocorra com a adoção de todas as medidas necessárias
+
+para evitar aglomerações e o risco de contágio, através da maximização dos
+
+postos de saques, inclusive provisórios, com a inclusão de todas as instituições
+
+credenciadas pelo Governo Federal.
+
+c) Da Inconstitucionalidade do art. 7º, §§4º e 5º; e dos arts. 10, inciso III e 13
+
+art. 11, §6º do Decreto n. 10.316/20.
+
+44. Superada a necessidade de interpretação conforme à Constituição dos
+
+dispositivos previstos na Lei n. 13.982/20, também se mostra necessária a
+
+demonstração da inconstitucionalidade presente no art. 7º, §§4º e 5º; e nos arts.
+
+10, inciso III e art. 11, §6º do Decreto n. 10.316/20.
+
+45. Essas inconstitucionalidades, por sua vez, possuem um desdobramento
+
+formal e material, seja pela exacerbação do poder regulamentar via decreto
+
+promovido pela Presidência da República ou pela inclusão inconstitucional de
+
+barreiras à percepção do “auxílio emergencial”.
+
+46. Em síntese, todos os dispositivos aqui impugnados possuem como
+
+característica em comum a implementação de exigências não previstas em lei para
+
+a obtenção do auxílio previsto na Lei n. 13.982/20, seja a exigência de regularidade
+
+
+[[pagina 14 | nativo]]
+do CPF do beneficiário ou a própria necessidade de indicação dos CPFs dos
+
+demais dependentes componentes da família, bem como a limitação do uso de tal
+
+auxílio pela prazo de 90 (noventa) dias.
+
+47. Dessa forma, observa-se que a Constituição da República, em seu art. 84,
+
+IV5, traz competir privativamente ao Presidente da República a expedição de
+
+decretos e regulamentos para a fiel execução das leis. Com isso, é evidente que a
+
+Carta Magna impediu que a Presidência da República, no uso de seu poder
+
+regulamentador, pudesse criar, extinguir ou modificar direitos previstos nas leis,
+
+devendo simplesmente sancionar ou vetar os trechos que entenda necessários.
+
+48. Isto é, pelo ordenamento constitucional brasileiro, a capacidade legislativa
+
+do Poder Executivo apenas pode ser operada em situações restritas, não cabendo
+14alterar o sentido da norma editada pelo Poder Legislativo através de decretos
+
+regulamentadores.
+
+49. Dito isso, é imperioso destacar que a Lei n. 13.982/20, aprovada pelo
+
+Congresso Nacional, em momento algum trouxe como requisito ao recebimento
+
+do “auxílio emergencial” a regularidade do Cadastro de Pessoas Físicas junto à
+
+Receita Federal, mas apenas e tão somente que:
+
+Art. 2º Durante o período de 3 (três) meses, a contar da publicação
+
+desta Lei, será concedido auxílio emergencial no valor de R$
+
+600,00 (seiscentos reais) mensais ao trabalhador que cumpra
+
+cumulativamente os seguintes requisitos:
+
+I - seja maior de 18 (dezoito) anos de idade;
+
+II - não tenha emprego formal ativo;
+
+III - não seja titular de benefício previdenciário ou assistencial ou
+
+5 Art. 84. Compete privativamente ao Presidente da República:
+IV - sancionar, promulgar e fazer publicar as leis, bem como expedir decretos e regulamentos para
+sua fiel execução;
+
+
+[[pagina 15 | nativo]]
+beneficiário do seguro-desemprego ou de programa de
+
+transferência de renda federal, ressalvado, nos termos dos §§ 1º e
+
+2º, o Bolsa Família;
+
+IV - cuja renda familiar mensal per capita seja de até 1/2 (meio)
+
+salário-mínimo ou a renda familiar mensal total seja de até 3 (três)
+
+salários mínimos;
+
+V - que, no ano de 2018, não tenha recebido rendimentos
+
+tributáveis acima de R$ 28.559,70 (vinte e oito mil, quinhentos e
+
+cinquenta e nove reais e setenta centavos); e
+
+VI - que exerça atividade na condição de:
+
+a) microempreendedor individual (MEI);
+
+b) contribuinte individual do Regime Geral de Previdência Social
+
+que contribua na forma do caput ou do inciso I do § 2º do art. 21
+
+da Lei nº 8.212, de 24 de julho de 1991; ou
+
+c) trabalhador informal, seja empregado, autônomo ou
+
+desempregado, de qualquer natureza, inclusive o intermitente
+
+inativo, inscrito no Cadastro Único para Programas Sociais do
+
+Governo Federal (CadÚnico) até 20 de março de 2020, ou que, nos 15
+termos de autodeclaração, cumpra o requisito do inciso IV.
+
+50. De igual maneira, o Congresso Nacional, em momento algum, limitou o
+
+uso desse “auxílio emergencial” a qualquer lapso temporal, sendo irregular o
+
+enxerto por parte do Poder Executivo de previsão neste sentido, haja visto
+
+representar evidente restrição ao gozo de direitos.
+
+51. Dessa maneira, por invadir matéria reservada a lei, os dispositivos acima
+
+mencionados padecem de insuperável inconstitucionalidade, o que não deve ser
+
+aceito por esta e. Corte Suprema, sendo cogente o afastamento imediato de suas
+
+vigências.
+
+52. Todavia, mesmo que este não seja o entendimento deste e. Supremo
+
+Tribunal Federal, faz-se necessária a observância de que o mérito dos dispositivos
+
+inaugurados pelo Decreto 10.316/20 acima mencionados também representa
+
+
+[[pagina 16 | nativo]]
+violação material à Constituição da República.
+
+53. Em síntese, tal como mencionado em momento anterior, o “auxílio
+
+emergencial” deve ser lido como política de assistência social voltado a
+
+subsistência da população em momento de grave crise sanitária. Ou seja, tem
+
+como objetivo garantir o resguardo à dignidade da pessoa humana, a erradicação
+
+da pobreza e o desenvolvimento social, bem como aos demais direitos sociais.
+
+54. Sobretudo, o “auxílio emergencial” visa instituir política econômica e
+
+social que corrobore com a medida de saúde, buscando dar condições de a
+
+população desempregada ou em ocupação informal poder respeitar as medidas
+
+de distanciamento social sem prejudicar sua própria subsistência.
+
+55. A ideia, portanto, deve ser sempre de maximizar a proteção social e, no 16
+
+caso desse auxílio, buscar alcançar o maior número de pessoas que, de fato,
+
+necessitem de tal política para conseguir manter sua dignidade.
+
+56. Vale destacar, por oportuno, que muito além de servir como mero
+
+procedimento corriqueiro, o requisito de regularidade do CPF junto à Receita
+
+Federal do Brasil se apresentou como uma das principais causas para o não
+
+pagamento imediato do auxílio à população, demandando que o cidadão
+
+buscasse primeiro regularizar sua situação – quando possível – para depois voltar
+
+a requerer o benefício e ver se não faltaria nenhuma outra documentação.
+
+57. Grande parte das irregularidades do CPF ocorriam por motivos que não
+
+possuem relevância nesta conjuntura de crise sanitária, como pendências
+
+eleitorais ou ausência de declaração de imposto de renda, o que muitas vezes
+
+corrobora com a compreensão de hipossuficiência financeira.
+
+58. E mais, também se observa que, em um país onde o registro civil de sua
+
+
+[[pagina 17 | nativo]]
+população apenas ganhou corpo nas últimas décadas, a necessidade de CPFs de
+
+todos os dependentes para fins de concessão do “auxílio emergencial” representa
+
+uma barreira de difícil superação para a percepção destes valores. Isso porque,
+
+caso alguém da família não possua documentação, faz-se necessária a busca por
+
+sua confecção, que se demonstra desafiadora frente a suspensão de atendimento
+
+presencial de diversos órgãos públicos.
+
+59. Não se pode ignorar, ainda, que grande parte das pessoas que possuem
+
+essa dificuldade de registro com o seu CPF e fazem jus ao recebimento do “auxílio
+
+emergencial” não possuem acesso regular à internet e, por vezes, moram em
+
+locais distantes com baixa integração digital.
+
+60. Ou seja, obrigar que o cidadão tenha que ficar complementando seu
+17cadastro, ou mesmo buscando diferentes órgãos para regularizar e criar o
+
+Cadastro de Pessoas Físicas, representa um obstáculo real e de difícil superação a
+
+percepção de um valor que, como já mencionado, anteriormente, serve para
+
+garantir o mínimo existencial para milhões de trabalhadores.
+
+61. Em verdade, mesmo que reconhecendo a importância no combate às
+
+possíveis fraudes intentadas por quem não se enquadre nos requisitos para o
+
+recebimento do “auxílio emergencial”, é inegável que isto pode ser superado com
+
+a indicações de outros documentos oficiais de identificações, como certidões de
+
+nascimento, casamento, carteira de habilitação, dentre outras.
+
+62. Já no que tange o prazo para saque, é evidente que não se pode aferir a
+
+concretude de seus efeitos neste momento, devendo pôr em perspectiva a
+
+situação a que será submetido o cidadão que, em que pese tenha se comprometido
+
+com diversos credores com base nestes valores, não consiga promover o saque
+
+dentro de 90 (noventa) dias.
+
+
+[[pagina 18 | nativo]]
+63. Isto é, em momento de pandemia em que as pessoas estão necessitadas de
+
+tal assistência, sob pena de serem postas em condição de miserabilidade, ao impor
+
+medidas restritivas para além daquelas previstas em lei, ou seja, ao dificultar o
+
+acesso ou mesmo limitar o tempo para a utilização do auxílio, os dispositivos
+
+impugnados acabam por violar o art. 1º, inciso III; o art. 3º, incisos II e III; o art. 6º
+
+e o art. 196 da Constituição Federal.
+
+64. Assim, ante o exposto, necessária a declaração de inconstitucionalidade,
+
+seja ela material ou material, pelos argumentos acima transcritos, do art. 7º, §§4º
+
+e 5º; e nos arts. 10, inciso III e art. 11, §6º do Decreto n. 10.316/20, afastando a
+
+necessidade de regularidade do CPF do beneficiário junto à Receita Federal, bem
+
+como de indicação do CPFs dos dependentes e da possibilidade de retorno destes
+18valores à União após o prazo de 90 (noventa) dias.
+
+65. Todavia, não sendo este o entendimento deste e. Supremo Tribunal
+
+Federal, pugna-se pela interpretação conforme à Constituição do art. 7º, §§4º e 5º
+
+do Decreto n. 10.316/20 para indicar como possível a indicação de qualquer
+
+documento de identificação oficial, tal como certidão de nascimento, casamento,
+
+identidade civil.
+
+V – DO PEDIDO DE LIMINAR.
+
+66. É evidente que o momento vivenciado pela sociedade brasileiro, a exemplo
+
+do restante do mundo, demanda a atuação imediata desse e. Supremo Tribunal
+
+Federal ante o perigo da demora.
+
+67. Isso porque, com a adoção imediata das medidas de distanciamento social
+
+
+[[pagina 19 | nativo]]
+e, consequentemente, a vigência de políticas que impedem o exercício de diversas
+
+atividades financeiras que dão sustento a grande parcela da sociedade, as
+
+políticas pública de subsistência se mostram prioritárias.
+
+68. Esta já vem sendo a compreensão dessa Excelsa Corte Constitucional em
+
+ações que tratem sobre a pandemia de COVID-19, havendo a aplicação, por parte
+
+dos e. Ministros relatores, da previsão constante no art. 21, inciso V do Regimento
+
+Interno do Supremo Tribunal Federal, para deferir a medida cautelar ad
+
+referendum do Plenário (p. ex.: ADI 6363, Rel. Min. Ricardo Lewandowski; ADI
+
+6341, Rel. Min. Marco Aurélio; ACO 3363, Rel. Min. Alexandre de Moraes; ACO
+
+3371, Rel. Min. Alexandre de Moraes; ADI 6357, Rel. Min. Alexandre de Moraes
+
+e ADPF 668, Rel. Min. Luís Roberto Barroso).
+
+
+69. Nesta oportunidade, por sua vez, vale ressaltar que se está discutindo
+
+medida de subsistência básica da população, que representará a única fonte de
+
+renda para milhões de famílias brasileiras que, desde o início da crise sanitária,
+
+são orientadas a não sair às ruas para colaborar com a saúde da coletividade, mas
+
+não conseguiram acesso ao auxílio do Poder Público que lhe dará condições de
+
+assim fazer.
+
+70. Dessa forma, a urgência de decisão desta Ação Direta de
+
+Inconstitucionalidade é evidente, de igual forma que a probabilidade do direito
+
+se mostra de fácil percepção, razão pela qual pugna-se pela concessão da medida
+
+liminar pleiteada, inaudita altera pars e ad referendum do Plenário de modo a:
+
+a) Aplicar a técnica de interpretação conforme à Constituição Federal ao art.
+
+2º, §4º da Lei n. 13.982/20, de modo que, à luz dos direitos constitucionais
+
+acima mencionados, de modo que a ausência de resultado conclusivo
+
+
+[[pagina 20 | nativo]]
+sobre o desenquadramento do cidadão aos requisitos necessários ao
+
+recebimento do “auxílio emergencial” deve ser lido in dubio pro civis,
+
+obrigando-se o pagamento das parcelas vencidas àqueles que já
+
+requereram o seu recebimento, ou então inscritos no CadÚnico, mas ainda
+
+não tiveram seu cadastro analisado;
+
+b) Aplicar a técnica de interpretação conforme à Constituição Federal ao art.
+
+2º, §9º da Lei n. 13.982/20 de modo que, para fins de saque do “auxílio
+
+emergencial”, o Poder Público adote todas as medidas necessárias para
+
+evitar aglomerações e o risco de contágio frente às agências bancárias,
+
+através da maximização dos postos de saques, inclusive provisórios, com
+
+a inclusão de todas as instituições credenciadas pelo Governo Federal;
+
+c) Suspender a vigência do art. 7º, §§4º e 5º; e nos arts. 10, inciso III e art. 11,
+
+§6º do Decreto n. 10.316/20, afastando a necessidade de regularidade do
+
+CPF do beneficiário junto à Receita Federal para recebimento do “auxílio
+
+emergencial”, bem como de indicação do CPFs dos dependentes e, por fim,
+
+da possibilidade de retorno destes valores à União após o prazo de 90
+
+(noventa) dias;
+
+i. Subsidiariamente, pugna-se pela interpretação conforme à
+
+Constituição ao art. 7º, §§ 4º e 5º do Decreto n. 10.316/20 para
+
+indicar como possível a indicação de qualquer documento de
+
+identificação oficial, tal como certidão de nascimento,
+
+casamento, identidade civil.
+
+
+[[pagina 21 | nativo]]
+VI – DOS PEDIDOS
+
+71. Assim, pelo exposto, o Partido dos Trabalhadores, respeitosamente, em
+
+defesa da dignidade da pessoa humana, em prol do desenvolvimento social e da
+
+erradicação da pobreza, e em busca da concretização do direito à saúde da
+
+população brasileira, pugna que esse e. Supremo Tribunal Federal, sem prejuízo
+
+da manutenção do cronograma de análise dos pedidos e do calendário de
+
+pagamento do “auxílio emeregencial” em curso, conceda o pedido de liminar
+
+pleiteado, inaudita altera pars e ad referendum do Plenário, de modo a:
+
+a) Aplicar a técnica de interpretação conforme à Constituição Federal ao art.
+
+2º, §4º da Lei n. 13.982/20, de modo que, à luz dos direitos constitucionais
+
+acima mencionados, de modo que a ausência de resultado conclusivo 21
+
+sobre o desenquadramento do cidadão aos requisitos necessários ao
+
+recebimento do “auxílio emergencial” deve ser lido in dubio pro civis,
+
+obrigando-se o pagamento das parcelas vencidas àqueles que já
+
+requereram o seu recebimento, ou então inscritos no CadÚnico, mas ainda
+
+não tiveram seu cadastro analisado;
+
+b) Aplicar a técnica de interpretação conforme à Constituição Federal ao art.
+
+2º, §9º da Lei n. 13.982/20 de modo que, para fins de saque do “auxílio
+
+emergencial”, o Poder Público adote todas as medidas necessárias para
+
+evitar aglomerações e o risco de contágio frente às agências bancárias,
+
+através da maximização dos postos de saques, inclusive provisórios, com
+
+a inclusão de todas as instituições credenciadas pelo Governo Federal;
+
+c) Suspender a vigência do art. 7º, §§4º e 5º; e nos arts. 10, inciso III e art. 11,
+
+§6º do Decreto n. 10.316/20, afastando a necessidade de regularidade do
+
+
+[[pagina 22 | nativo]]
+CPF do beneficiário junto à Receita Federal para recebimento do “auxílio
+
+emergencial”, bem como de indicação do CPFs dos dependentes e, por fim,
+
+da possibilidade de retorno destes valores à União após o prazo de 90
+
+(noventa) dias;
+
+i. Subsidiariamente, pugna-se pela interpretação conforme à
+
+Constituição ao art. 7º, §§ 4º e 5º do Decreto n. 10.316/20 para
+
+indicar como possível a indicação de qualquer documento de
+
+identificação oficial, tal como certidão de nascimento,
+
+casamento, identidade civil.
+
+72. Pugna-se, ainda, que haja a intimação das autoridades responsáveis, bem
+
+como da Advocacia-Geral da União e da Procuradoria-Geral da República para
+que apresentem suas manifestações e pareceres.
+
+73. No mérito, pugna-se pela confirmações dos pedidos de liminares, de sorte
+
+a se garantir o direito de a população brasileira mais necessitada receber o
+
+“auxílio emergencial” ante a ausência de manifestação em sentido contrário do
+
+Poder Público, bem como que a realização dos saques destes valores ocorra do
+
+modo mais espalhado possível, incluindo-se na sistemática de saques todas as
+
+instituições financeiras públicas federais que tenham atendimento ao público,
+
+sendo observada as regras de distanciamento social indicado pelas autoridades
+
+competências, sendo ainda fornecidos itens de proteção nas filas, como máscaras
+
+e álcool em gel.
+
+74. Por fim, ainda no mérito, pugna pela declaração de inconstitucionalidade
+
+dos requisitos enxertados pelo Decreto n. 10.316/20 ao recebimento do “auxílio
+
+emergencial”, em razão de seu vício formal, frente ao art. 84, IV da Constituição
+
+
+[[pagina 23 | nativo]]
+da República, ou por sua violação ao art. 1º, III; art. 3º, II e III; art. 6º e art. 196,
+
+também da Constituição Federal. E, subsidiariamente, que haja a interpretação
+
+conforme à Constituição ao art. 7º, §§ 4º e 5º do Decreto n. 10.316/20 para indicar
+
+como possível a indicação de qualquer documento de identificação oficial, tal
+
+como certidão de nascimento, casamento, identidade civil, para fins de cadastro.
+
+75. Por fim, requer que todas as intimações ocorram no nome de EUGÊNIO
+
+ARAGÃO, OAB/DF 4.935 e ANGELO LONGO FERRARO, OAB/DF 37.922 e,
+
+por oportuno, a concessão do prazo de 15 (quinze) dias para a juntada no
+
+instrumento de procuração específica.
+
+Nestes termos, pede deferimento.
+
+Brasília, 30 de abril de 2020.
+
+Eugênio José Guilherme de Aragão Angelo Longo Ferraro
+OAB/DF 4.935 OAB/DF 37.922
+
+Marcelo Winch Schmidt Miguel Filipi Pimentel Novaes
+OAB/DF 53.599 OAB/DF 57.469
+
+Rachel Luzardo de Aragão Carolina Freire Nascimento
+OAB/DF 56.668 OAB/DF 59.687
+
+

@@ -1,0 +1,1809 @@
+[[pagina 1 | nativo]]
+
+EXMO. SR. MINISTRO DIAS TOFFOLI, PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+URGENTE
+
+CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS GERAIS, PREVIDÊNCIA
+PRIVADA E VIDA, SAÚDE SUPLEMENTAR E CAPITALIZAÇÃO – CNSEG, entidade de classe de
+âmbito nacional, com sede na rua Senador Dantas nº 74, 16º andar, parte, Centro, Rio de
+Janeiro, CEP nº 20.031-205, inscrita no CNPJ sob o nº 10.393.001/0001-05 (Doc. 1), vem, por
+seus advogados (Doc. 2), com fundamento nos arts. 102, I, “a” e “p”, e 103, IX, da Constituição
+Federal e nos dispositivos da Lei nº 9.868/99 propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO CAUTELAR
+
+objetivando a declaração de inconstitucionalidade formal e material da Lei nº 11.735, de
+14.07.2020 (Doc. 3), do Estado da Paraíba, pelas razões a seguir elencadas.
+
+Brasília · DF . . . . . . . . . . . . . . . . . . . . . . . . . . . . . SCS Quadra 09 · Bloco A · Torre B · Salas 503/504 · Ed. Parque Cidade Corporate · 70.308-200 · T +55 61 3221 4310
+Rio de Janeiro · RJ . . . . . . . . . . . . . . . . . . . . . Av. Oscar Niemeyer 2000 · 15º andar · Ed. Aqwa Corporate · 20.220-297 · T +55 21 2127 4210
+São Paulo · SP . . . . . . . . . . . . . . . . . . . . . . . . . . Av. Pres. Juscelino Kubitschek 1455 · 6º andar · 04543-011 · T +55 11 2504 4210
+Vitória · ES . . . . . . . . . . . . . . . . . . . . . . . . . . . . . . Av. Nossa Senhora dos Navegantes 451 · 17º andar · Cj. 1703 · 29050-335 · T +55 27 2123 0777
+
+www.tauilchequer.com.br
+
+[[pagina 2 | nativo]]
+
+I. LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+
+1. A legitimidade ativa da Requerente tem como fundamento o art. 103, IX, da
+Constituição Federal ("CF") e o art. 2º, IX, da Lei nº 9.868/1999, que preveem as entidades de
+classe de âmbito nacional como legitimadas para a propositura de ação direta de
+inconstitucionalidade ("ADI").
+
+2. A propósito, o art. 1º do Estatuto Social da Requerente (Doc. 1) dispõe o seguinte:
+
+“Art. 1º – A CONFEDERAÇÃO NACIONAL DAS EMPRESAS DE SEGUROS
+GERAIS, PREVIDÊNCIA PRIVADA E VIDA, SAÚDE SUPLEMENTAR E
+CAPITALIZAÇÃO - CNseg, regida por este Estatuto Social e pelas disposições
+legais aplicáveis, doravante designada CNseg, com base territorial em todo
+território nacional, sede na rua Senador Dantas, nº 74, 16º (parte), Centro, Rio
+de Janeiro, Cep: 20031-205 e foro na cidade do Rio de Janeiro, Estado do Rio
+de Janeiro é uma associação civil, sem fins lucrativos, com atuação no
+território nacional, que congrega as Federações que representam as
+empresas integrantes do segmentos de Seguros, Resseguros, Previdência
+Privada e Vida, Saúde Suplementar e Capitalização.
+Parágrafo único - A CNseg poderá manter escritórios de representação em
+qualquer ponto do território nacional.” (grifo nosso)
+
+3. Já o art. 2º, I, de seu Estatuto Social estabelece que a Requerente possui como objetivo
+institucional e prerrogativa a representação perante os Poderes Executivo, Legislativo e
+Judiciário dos direitos e interesses dos segmentos de Seguros, Resseguros, Previdência Privada
+e Vida, Saúde Suplementar e Capitalização.
+
+4. A Requerente é, portanto, entidade que congrega categoria econômica homogênea e
+bem definida, isto é, a das Federações que representam as empresas integrantes dos
+segmentos de seguros gerais, previdência privada e vida, saúde suplementar e capitalização.
+Além disso, seu caráter nacional é comprovado diante do fato de que as Federações que a
+compõem representam entidades que atuam em mais de 9 (nove) unidades da Federação
+(Doc. 4), conforme a jurisprudência desse STF.1
+
+1 STF, ADI 3.617 AgR, Rel. Min. Cezar Peluso, Plenário, j. 25.05.2011.
+
+2
+
+[[pagina 3 | nativo]]
+
+5. O fato de a Requerente ser uma associação composta por federações, que funcionam
+como associações de empresas dos setores de seguros, não constitui óbice ao seu
+reconhecimento como entidade de classe de âmbito nacional. A jurisprudência desse STF é
+pacífica no sentido de admitir "associação de associações", por entender que "o conceito de
+entidade de classe é dado pelo objetivo institucional classista, pouco importando que a eles
+diretamente se filiem os membros da respectiva categoria social ou agremiações que os
+congreguem"2.
+
+6. Observa-se que a CNSEG já ajuizou outras ações diretas de inconstitucionalidade, nas
+quais não houve qualquer objeção à sua legitimidade ativa. A título exemplificativo, cita-se as
+ADIs nºs 4.293/DF, 4.710/DF e 5.485/DF, bem como a ADI nº 5.984/PR3, a qual já transitou em
+julgado em sentido favorável à declaração de inconstitucionalidade proposta pela entidade.
+
+7. Por fim, a jurisprudência desse STF erigiu a pertinência temática como requisito
+objetivo qualificador da própria legitimidade ativa ad causam para a instauração do controle
+abstrato de normas. Com isso, exige-se a existência de correlação entre o objeto do pedido
+de declaração de inconstitucionalidade e os objetivos institucionais da entidade.4
+
+8. Constituindo-se como Confederação dedicada à defesa dos interesses da classe por
+ela representada e ao fomento do ramo securitário, a Requerente possui firme interesse na
+declaração da inconstitucionalidade de normas que, desrespeitando a Constituição Federal,
+prejudiquem direta ou indiretamente a atividade das seguradoras/operadoras e o
+desenvolvimento do mercado segurador e de saúde suplementar.
+
+9. Quanto a esse requisito de pertinência temática, destaca-se que o ato normativo
+impugnado – ao vedar a interrupção dos serviços privados dos planos de saúde em
+decorrência do inadimplemento do usuário, durante o período de calamidade pública fundada
+na pandemia do Covid-19, bem como estabelecer outras obrigações (inclusive com impactos
+
+2 STF, ADI nº 3.153-8/DF, Rel. p/ Acórdão Min. Sepúlveda Pertence, Plenário, j. 12.08.2004.
+3 STF, ADI nº 5.984/PR, Rel. Min. Gilmar Mendes, Plenário, julgamento virtual de 13.12.2019 a 19.12.2019.
+4 STF, AgRg na ADPF nº 385/SE, Rel. Min. Alexandre de Moraes, Plenário, j 16.10.2017.
+
+3
+
+[[pagina 4 | nativo]]
+
+financeiros) às operadoras de planos de saúde – possui indiscutível correlação com o campo
+de atividade de representação da entidade de classe.
+
+10. Não há dúvidas, nesse sentido, quanto ao impacto e às consequências jurídicas e
+econômicas que o texto normativo impugnado causa sobre os direitos das empresas do setor
+econômico tutelado pela Requerente, o que, nos termos da jurisprudência pacífica desse STF,
+comprova a pertinência temática necessária para o ajuizamento da ação de controle
+concentrado de constitucionalidade.5
+
+11. Resta evidente, portanto, o cumprimento dos requisitos autorizadores do ajuizamento
+da presente ação direta de inconstitucionalidade pela Requerente.
+
+II. DISPOSITIVOS LEGAIS IMPUGNADOS
+
+12. O objeto da presente Ação Direta de Inconstitucionalidade é a Lei nº 11.735, do Estado
+da Paraíba, cuja entrada em vigor ocorreu na data de sua publicação no dia 15.07.2020.
+
+13. Confira-se o inteiro teor do referido diploma legal, ora impugnado (Doc. 3), sendo que
+todos os seus dispositivos são impugnados pela presente ação:
+
+"Art. 1º Fica vedada, no âmbito do Estado da Paraíba, a interrupção da
+prestação dos serviços privados dos planos de saúde em decorrência de
+inadimplemento do usuário, durante o período de calamidade pública
+fundada na pandemia do Covid-19.
+
+§ 1º Após o fim da calamidade pública, as empresas de planos de saúde, antes
+de proceder a interrupção imediata do serviço em razão da inadimplência,
+deverão possibilitar o parcelamento do débito pelo consumidor, sendo
+vedadas as cobranças de juros e multas.
+
+§ 2º Para fins da obtenção do direito previsto no caput, o usuário do serviço
+precisará comprovar, perante o fornecedor do serviço, mediante
+apresentação de documentação idônea, não ter como arcar com a
+mensalidade do serviço em decorrência de fatos ocorridos durante a
+
+5 STF, ADI nº 5.432/SC, Rel. Min. Dias Toffoli, Plenário, j. 19.09.2018.
+
+4
+
+[[pagina 5 | nativo]]
+
+pandemia. que poderão ser, entre outros, redução drástica de sua renda
+mensal ou desemprego involuntário.
+
+Art. 2º Fica vedado o reajuste anual, durante o período em que esta Lei estiver
+em vigor.
+
+Art. 3º O descumprimento ao disposto na presente Lei ensejará a aplicação
+de multa pelos órgãos responsáveis pela fiscalização.
+
+Art. 4º Esta Lei entra em vigor na data de sua publicação e terá vigência
+durante o período que viger a calamidade pública no Estado da Paraíba."
+
+14. Conforme o art. 102, I, “a”, da CF, a Ação Direta de Inconstitucionalidade constitui a via
+processual adequada para o questionamento de Lei ou ato normativo federal ou estadual que
+viole a Constituição Federal.
+
+15. A Lei Estadual em questão, como será constatado ao longo da presente peça
+processual, encontra-se em total dissonância com as regras constitucionalmente previstas de
+distribuição de competências legislativas entre os entes federados, bem como viola preceitos
+constitucionais, motivo pelo qual deverá ser declarada inconstitucional e expurgada do
+ordenamento jurídico.
+
+III. INCONSTITUCIONALIDADES DA LEI DO ESTADO DA PARAÍBA
+
+III.1. INCONSTITUCIONALIDADE FORMAL: COMPETÊNCIA PRIVATIVA DA UNIÃO PARA
+LEGISLAR SOBRE SEGUROS E PLANOS DE SAÚDE
+
+16. A Lei Estadual nº 11.735/2020 tem como objeto (i) vedar, no âmbito do Estado da
+Paraíba, a interrupção da prestação dos serviços privados dos planos de saúde em decorrência
+de inadimplemento do usuário, durante o período de calamidade pública fundada na
+pandemia do Covid-19 (art. 1º, caput); (ii) determinar que, após o fim da calamidade pública,
+as empresas de planos de saúde, antes de proceder a interrupção imediata do serviço em
+razão da inadimplência, deverão possibilitar o parcelamento do débito pelo consumidor,
+sendo vedadas as cobranças de juros e multas (art. 1º, § 1º); (iii) estabelecer que, para fins da
+
+5
+
+[[pagina 6 | nativo]]
+
+obtenção do direito previsto no caput, o usuário do serviço precisará comprovar, perante o
+fornecedor do serviço, mediante apresentação de documentação idônea, não ter como arcar
+com a mensalidade do serviço em decorrência de fatos ocorridos durante a pandemia, que
+poderão ser, entre outros, redução drástica de sua renda mensal ou desemprego involuntário
+(art. 1º, § 2º); (iv) vedar o reajuste anual, durante o período em que a Lei estiver em vigor (art.
+2º); e (v) definir que o descumprimento do disposto na Lei ensejará a aplicação de multa pelos
+órgãos responsáveis pela fiscalização (art. 3º).
+
+17. Ocorre que a aprovação da Lei nº 11.735/2020 pelo Poder Legislativo do Estado da
+Paraíba desconsiderou por completo as regras de distribuição de competência definidas pelo
+Poder Constituinte Originário em 1988 ao adentrar em matéria de competência legislativa
+privativa da União Federal (art. 22, I e VII, da CF).
+
+18. A respeito da competência legislativa, o jurista José Afonso da Silva6 explica que, como
+consectário do modelo de federalismo adotado pelo Brasil, o princípio da predominância de
+interesses define a repartição de competências legislativas entre os diferentes níveis da
+federação, a depender da predominância de interesses naquela matéria. À União Federal
+competem as matérias de interesse geral e nacional, aos Estados as de interesse regional e
+aos Municípios as de interesse local.
+
+19. Da mesma forma, esse Supremo Tribunal Federal, em decisão unânime proferida em
+abril de 2018 na ADI nº 3.207/PE7 (Doc. 5), reconheceu que o princípio geral que norteia a
+
+6 DA SILVA, José Afonso. Curso de direito constitucional positivo. 28ª ed., São Paulo: Malheiros, 2007, p. 478.
+7 "CONSTITUCIONAL. FEDERALISMO E RESPEITO ÀS REGRAS DE DISTRIBUIÇÃO DE COMPETÊNCIA. LEI 12.562/2004,
+DO ESTADO DE PERNAMBUCO. SUPOSTA VIOLAÇÃO AOS ARTIGOS 5º, II e XIII; 22, VII; E 170, IV, DA CONSTITUIÇÃO
+FEDERAL. LEI IMPUGNADA DISPÕE SOBRE PLANOS DE SAÚDE, ESTABELECENDO CRITÉRIOS PARA A EDIÇÃO DE
+LISTA REFERENCIAL DE HONORÁRIOS MÉDICOS. INCONSTITUCIONALIDADE FORMAL, POR USURPAÇÃO DA
+COMPETÊNCIA DA UNIÃO EM MATÉRIA DE DIREITO CIVIL E DE POLÍTICA DE SEGUROS (CF, ART 22, INCISOS I E
+VII).
+1. As regras de distribuição de competências legislativas são alicerces do federalismo e consagram a fórmula de
+divisão de centros de poder em um Estado de Direito. Princípio da predominância do interesse.
+2. A Constituição Federal de 1988, presumindo de forma absoluta para algumas matérias a presença do princípio
+da predominância do interesse, estabeleceu, a priori, diversas competências para cada um dos entes federativos –
+União, Estados-Membros, Distrito Federal e Municípios – e, a partir dessas opções, pode ora acentuar maior
+centralização de poder, principalmente na própria União (CF, art. 22), ora permitir uma maior descentralização nos
+Estados-Membros e nos Municípios (CF, arts. 24 e 30, inciso I).
+
+6
+
+[[pagina 7 | nativo]]
+
+repartição de competências entre os entes componentes do Estado Federal brasileiro é o
+princípio da predominância do interesse, tanto para os temas cuja definição foi
+preestabelecida pelo texto constitucional, quanto em termos de interpretação em hipóteses
+que envolvem várias matérias.
+
+20. A Constituição de 1988, presumindo de forma absoluta para algumas matérias a
+presença do princípio da predominância do interesse, estabeleceu, a priori, diversas
+competências para cada um dos entes federados – União, Estados-Membros, Distrito Federal
+e Municípios – e, a partir dessas opções, pode ora acentuar maior centralização de poder,
+principalmente na própria União (art. 22 da CF), ora permitir uma maior descentralização nos
+Estados-Membros e nos Municípios (art. 24 c/c art. 30, I, ambos da CF).
+
+21. Nessa seara, verifica-se que o Parecer nº 122/2020, da Comissão de Constituição,
+Justiça e Redação, foi favorável ao Projeto de Lei nº 1.670/2020 com emenda aditiva – o qual
+foi aprovado como Lei nº 11.735/2020 – por entender que "Conforme o artigo 24, incisos V, da
+Constituição Federal, o Estado é competente para editar normas específicas sobre proteção do
+consumidor, sendo a edição de normas gerais da União" (Doc. 6).
+
+22. Pois bem. A edição da lei ora impugnada (i) configura evidente usurpação da
+competência da União Federal para legislar de forma privativa sobre direito civil e seguros,
+disposta no art. 22, I e VII; e, (ii) ainda que se pudesse admitir que a lei ora impugnada
+enquadra-se no exercício da competência concorrente dos Estados – estabelecida no art. 24,
+V (produção e consumo), VIII (responsabilidade por dano ao consumidor) e/ou XII (defesa da
+saúde) –, essa competência necessitaria ser exercida de modo suplementar às normas gerais
+editadas pela União Federal.
+
+3. A Lei 12.562/2004 do Estado de Pernambuco trata da operacionalização dos contratos de seguros atinentes à
+área da saúde, interferindo nas relações contratuais estabelecidas entre médicos e empresas. Consequentemente,
+tem por objeto normas de direito civil e de seguros, temas inseridos no rol de competências legislativas privativas
+da União (artigo 22, incisos I e VII, da CF). Os planos de saúde são equiparados à lógica dos contratos de seguro.
+Precedente desta CORTE: ADI 4.701/PE, Rel. Ministro ROBERTO BARROSO, DJe de 22/8/2014.
+4. Ação Direta de Inconstitucionalidade julgada procedente, para declarar a inconstitucionalidade formal da Lei
+12.562/2004 do Estado de Pernambuco." (STF, ADI 3.207/PE, Rel. Min. Alexandre de Moraes, Plenário, j. 12.04.2018)
+
+7
+
+[[pagina 8 | nativo]]
+
+23. De fato, é vedado aos Estados o estabelecimento de especificidades incompatíveis com
+as normas gerais, sendo que, no caso, foi desrespeitada a competência legislativa da União,
+exercida por meio da Lei Federal nº 9.656/1998, e o poder normativo da Agência Nacional de
+Saúde Suplementar ("ANS") sobre esse mercado, não remanescendo espaço para a atuação
+normativa suplementar do Estado.
+
+24. A similitude técnico-jurídica entre o contrato de seguro (em seus mais variados ramos)
+e o plano de saúde é reconhecida tanto pela doutrina8 quanto pela jurisprudência, de modo
+que ambas as matérias são regulamentadas pelo mesmo ente (a União Federal).
+
+25. A propósito, a jurisprudência desse STF é pacífica no sentido de que os planos de saúde
+seguem a mesma lógica dos seguros. Desse modo, a competência para legislar sobre esses
+planos enquadra-se na previsão contida no art. 22, VII, da Carta Magna, dispositivo que
+estabelece a competência privativa da União Federal para legislar sobre seguros. Confira-se o
+entendimento prolatado pelo Plenário no referido julgamento unânime na ADI nº 4.701/PE
+(Doc. 7):
+
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI ESTADUAL QUE FIXA
+PRAZOS MÁXIMOS, SEGUNDO A FAIXA ETÁRIA DOS USUÁRIOS, PARA A
+AUTORIZAÇÃO DE EXAMES PELAS OPERADORAS DE PLANOS DE SAÚDE.
+[...]
+2. Por mais ampla que seja, a competência legislativa concorrente em matéria
+de defesa do consumidor (CF/88, art. 24, V e VIII) não autoriza os Estados-
+membros a editarem normas acerca de relações contratuais, uma vez que essa
+atribuição está inserida na competência da União Federal para legislar sobre
+direito civil (CF/88, art. 22, I).
+3. Os arts. 22, VII e 21, VIII, da Constituição Federal atribuem à União
+competência para legislar sobre seguros e fiscalizar as operações
+relacionadas a essa matéria. Tais previsões alcançam os planos de saúde,
+tendo em vista a sua íntima afinidade com a lógica dos contratos de seguro,
+notadamente por conta do componente atuarial.
+4. Procedência do pedido”.
+(STF, ADI nº 4.701/PE, Rel. Min. Luis Roberto Barroso, Plenário, j. 13.08.2014)
+
+26. Diferentemente do que se observa nas regras de repartição de competências
+
+8 SCAFF, Fernando Campos. Direito à saúde no âmbito privado – Contratos de adesão, planos de saúde e seguro-
+saúde. São Paulo: Saraiva, 2010. pp. 50-51.
+
+8
+
+[[pagina 9 | nativo]]
+
+legislativas concorrentes, dispostas na Constituição, as quais abrem um espaço de
+normatização de certas matérias pelos Estados e Municípios, desde que em harmonia com a
+legislação federal, as regras sobre competência privativa da União Federal não permitem
+qualquer espaço de criação normativa pelos demais entes federados. Com isso, eles estão
+vedados de suplementar ou regulamentar a legislação federal nesses casos, salvo se houver
+autorização formal da União aos Estados mediante a edição de Lei Complementar, nos termos
+do parágrafo único do art. 22 da CF.9
+
+27. Além disso, as seguradoras e operadoras de planos de saúde operam por meio de
+contratos de natureza privada, vinculando-se ao cumprimento de obrigações decorrentes
+tanto de normas legais quanto contratuais. Portanto, ao interferir na operacionalização desses
+contratos, o Estado da Paraíba legislou a respeito de relações contratuais entre as referidas
+pessoas jurídicas de direito privado e seus beneficiários, em violação à competência federal
+para legislar sobre direito civil, conforme o art. 22, I, da CF.
+
+28. Esse Tribunal também reconheceu, em recente julgamento da ADI nº 5.984/PR,
+também proposta pela ora Requerente, em votação unânime, a manifesta incompetência do
+legislador estadual para tratar dessa matéria (Doc. 8). Confira-se a esclarecedora ementa do
+acórdão:
+
+"Ação direta de inconstitucionalidade. 2. Lei 19.429/2018, do Estado do
+Paraná. Pagamento de valores mínimos segundo Tabela de Procedimentos
+Odontológicos. 3. Norma estadual que trata do conteúdo dos contratos
+entre operadoras de plano de saúde e prestadores de serviço de suas
+redes credenciadas. 4. Ofensa à competência privativa da União para
+legislar sobre direito civil e seguros. Precedentes. 5. Ação direta de
+inconstitucionalidade julgada procedente."
+(STF, ADI nº 5.984/PR, Rel. Min. Gilmar Mendes, Plenário, julgamento virtual
+de 13 a 19.12.2019)
+
+29. Outros acórdãos recentes foram proferidos por essa Corte declarando a
+inconstitucionalidade de Lei editada pelo Estado do Espírito Santo que alterou obrigações
+
+9 CF: "Art. 22. [...] Parágrafo único. Lei complementar poderá autorizar os Estados a legislar sobre questões
+específicas das matérias relacionadas neste artigo."
+
+9
+
+[[pagina 10 | nativo]]
+
+contratuais celebradas entre usuários e planos de saúde (ADI nº 4.818/ES – Doc. 9) e de Lei
+editada pelo Estado do Rio de Janeiro que estabeleceu meio e forma para as operadoras dos
+planos de saúde cumprirem obrigação prevista em lei federal (ADI nº 5.173/RJ – Doc. 10):
+
+"EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI 9.851/2012 DO
+ESTADO DO ESPÍRITO SANTO. TEMPO MÁXIMO PARA ATENDIMENTO DE
+USUÁRIOS DE PLANOS DE SAÚDE. ALTERAÇÃO CONTRATUAL.
+COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE DIREITO CIVIL,
+COMERCIAL E POLÍTICA DE SEGUROS. PROCEDÊNCIA DA AÇÃO.
+1. A orientação majoritária do Supremo Tribunal Federal assentou que a
+alteração das obrigações contratuais celebradas entre usuários e
+operadoras de plano de saúde não são abarcadas pela competência
+suplementar estadual para dispor sobre proteção à saúde e ao
+consumidor. Precedentes.
+2. É competência privativa da União legislar sobre direito civil, comercial
+e política de seguros (art. 22, I e VII, CF). Inconstitucionalidade formal de
+legislação estadual.
+3. Pedido na Ação direta de inconstitucionalidade julgado procedente."
+(STF, ADI nº 4.818/ES, Rel. Min. Edson Fachin, Plenário, julgamento virtual de
+7 a 13 de fevereiro de 2020 – grifo nosso)
+
+"Ação direta de inconstitucionalidade. 2. Lei 6.881/2014 do Estado do Rio de
+Janeiro. Imposição de comunicação individual, mediante carta registrada aos
+usuários, por parte de operadoras de planos de saúde, acerca do
+descredenciamento de hospitais e médicos. 3. A competência para legislar
+sobre planos de saúde é privativa da União. Ainda que a Lei federal
+9.656/1998 preceitue a prévia comunicação aos usuários sobre alteração
+da rede credenciada, não pode Lei estadual impor meio e forma para o
+cumprimento de tal dever, por não dispor de competência concorrente
+quanto à matéria. 4. Ação direta de inconstitucionalidade julgada
+procedente."
+(STF, ADI nº 5.173/RJ, Rel. Min. Gilmar Mendes, Plenário, julgamento virtual
+de 29 de novembro a 5 de dezembro de 2019 – grifo nosso)
+
+30. Na ADI nº 4.445/ES, esse STF declarou a inconstitucionalidade parcial de Lei do Estado
+do Espírito Santo no tocante aos dispositivos que fixaram prazo máximo para cumprimento
+de obrigação contratual pelas operadoras de planos de saúde (Doc. 11):
+
+"Ação direta de inconstitucionalidade. 2. Lei 9.394/2010 do Estado do Espírito
+Santo. Imposição de prazo para autorização de procedimentos e
+apresentação de justificativas, por parte de operadoras de planos de saúde.
+3. Norma estadual que fixa prazo máximo para cumprimento de obrigação
+contratual. 4. Ofensa à competência privativa da União para legislar sobre
+planos de saúde. Precedentes. 5. Inclui-se no exercício da competência
+
+10
+
+[[pagina 11 | nativo]]
+
+suplementar dos Estados a normatização quanto ao dever de informação ao
+consumidor. Precedentes. 6. Ação direta de inconstitucionalidade julgada
+parcialmente procedente para declarar a inconstitucionalidade dos artigos 1º
+e 2º, caput, da Lei 9.394/2010 do Estado do Espírito Santo."
+(STF, ADI nº 4.445/ES, Rel. Min. Gilmar Mendes, Plenário, julgamento virtual
+de 8 a 19 de novembro de 2019)
+
+31. No bojo da ADI nº 4.704, na qual a ora Requerente figurou como amicus curiae, a Lei
+nº 15.171, do Estado de Santa Catarina, que supostamente legislava sobre produção e
+consumo e responsabilidade por dano ao consumidor, foi declarada inconstitucional haja vista
+a competência privativa da União Federal para legislar sobre direito civil e seguros:
+
+"EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTIGOS 1º, 2º, 6º,
+8º, 10, 11 E 12 DA LEI 15.171/2010 DO ESTADO DE SANTA CATARINA. LEI DE
+ORIGEM PARLAMENTAR. DISCIPLINA DE OBRIGAÇÕES CONTRATUAIS
+RELATIVAS A SEGUROS DE VEÍCULOS. REGISTRO, DESMONTE E
+COMERCIALIZAÇÃO DE VEÍCULOS SINISTRADOS. CRIAÇÃO DE ATRIBUIÇÕES
+PARA O ÓRGÃO DE TRÂNSITO ESTADUAL. INCONSTITUCIONALIDADE
+FORMAL. COMPETÊNCIA PRIVATIVA DA UNIÃO PARA LEGISLAR SOBRE
+DIREITO CIVIL, SEGUROS, TRÂNSITO E TRANSPORTE (ARTIGO 22, I, VII E XI,
+DA CONSTITUIÇÃO FEDERAL). INICIATIVA DO CHEFE DO PODER EXECUTIVO
+PARA A ELABORAÇÃO DE NORMAS QUE ESTABELEÇAM AS ATRIBUIÇÕES
+DOS ÓRGÃOS PERTENCENTES À ESTRUTURA ADMINISTRATIVA DA
+RESPECTIVA UNIDADE FEDERATIVA (ARTIGOS 61, § 1º, II, E; E 84, VI, A, DA
+CONSTITUIÇÃO FEDERAL). AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+CONHECIDA E JULGADO PROCEDENTE O PEDIDO.
+1. A competência legislativa concorrente em sede de produção e
+consumo e responsabilidade por dano ao consumidor (artigo 24, V e VIII,
+da Constituição Federal) não autoriza os Estados-membros e o Distrito
+Federal a disciplinarem relações contratuais securitárias, porquanto
+compete privativamente à União legislar sobre Direito Civil (artigo 22, I,
+da Constituição Federal). Precedentes: ADI 4.228, Rel. Min. Alexandre de
+Moraes, Plenário, DJe de 13/8/2018; ADI 3.605, Rel. Min. Alexandre de Moraes,
+Plenário, DJe de 13/9/2017; e ADI 4.701, Rel. Min. Roberto Barroso, Tribunal
+Pleno, DJe de 25/8/2014.
+2. O artigo 22, VII, da Constituição Federal dispõe que compete
+privativamente à União legislar sobre seguros, a fim de garantir uma
+coordenação centralizada das políticas de seguros privados e de
+regulação das operações, que assegurem a estabilidade do mercado,
+impedindo os Estados de legislarem livremente acerca das condições e
+coberturas praticadas pelas seguradoras. Precedentes: ADI 3.207, Rel. Min.
+Alexandre de Moreas, Tribunal Pleno, Dje de 25/4/2018; ADI 1.589, Rel. Min.
+Eros Grau, Plenário, DJ de 7/12/2006; e ADI 1.646, Rel. Min. Gilmar Mendes,
+Plenário, DJ de 7/12/2006.
+[...]
+5. In casu, os artigos 1º, 2º, 6º, 8º, 10, 11 e 12 da Lei 15.171/2010 do Estado
+
+11
+
+[[pagina 12 | nativo]]
+
+de Santa Catarina, de origem parlamentar, tanto em sua redação original
+quanto na redação dada pela Lei estadual 16.622/2015, disciplinaram
+obrigações contratuais relativas a seguros de veículos, estabeleceram regras
+quanto ao registro, desmonte e comercialização de veículos sinistrados e
+criaram atribuições para o órgão de trânsito estadual, invadindo a
+competência privativa da União para legislar sobre Direito Civil, seguros,
+trânsito e transporte (artigo 22, I, VII e XI, da Constituição Federal) e
+usurpando a iniciativa do chefe do Poder Executivo para criar atribuições para
+os órgãos da administração estadual (artigos 61, § 1º, II, e; e 84, VI, a, da
+Constituição Federal).
+6. Ação direta de inconstitucionalidade conhecida e julgado procedente o
+pedido, para declarar a inconstitucionalidade dos artigos 1º, 2º, 6º, 8º, 10, 11
+e 12 da Lei 15.171/2010 do Estado de Santa Catarina, tanto em sua redação
+original quanto na redação dada pela Lei estadual 16.622/2015."
+(STF, ADI nº 4.704/DF, Rel. Min. Luiz Fux, Plenário, j. 21.03.2019 – grifo nosso)
+
+32. E que não se diga que eventual objetivo de proteção ao consumidor durante o
+período de calamidade pública fundada na pandemia do Covid-19 justificaria a edição da Lei
+Estadual nº 11.735/2020, ora impugnada. Como corretamente indicado pela Procuradoria-
+Geral da República na ADI nº 5.984 (Doc. 13) e por esse STF em diversos julgados, a
+competência legislativa dos Estados-membros para tratar sobre matéria de defesa do
+consumidor (art. 24, V e VIII, da CF) não abarca a possibilidade de estabelecerem normas sobre
+direito civil (nele abarcando normas securitárias), haja vista a repartição de competências
+constitucionalmente definidas, senão, veja-se:
+
+"O fato de a norma indiretamente ampliar a proteção ao consumidor não
+é bastante para deslocar a competência para o Estado. O Supremo
+Tribunal Federal possui jurisprudência no sentido de que “a competência
+legislativa concorrente em matéria de defesa do consumidor (CF, art. 24, V e
+VIII) não autoriza os Estados-membros a editarem normas acerca de relações
+contratuais, uma vez que essa atribuição está inserida na competência da
+União para legislar sobre direito civil” (ADI 4.701/PE, Rel. Min. Roberto
+Barroso, DJe 25.8.2014; ADI 3.402/SP, Rel. Min. Dias Toffoli, DJe 11.12.2015;
+ADIs 3.605/DF e 4.228/DF, Rel. Min. Alexandre de Moraes, DJe de 13.9.2017 e
+13.8.2018).
+[...]
+A Lei paranaense 19.429/2018 imiscuiu-se em campo constitucionalmente
+reservado ao ente central da federação, onde não há espaço para atuação
+legislativa estadual na matéria. É, portanto, formalmente inconstitucional."
+(Manifestação da PGR na ADI nº 5.984/PR – Doc. 13 – grifo nosso)
+
+"VOTO: A competência para legislar em matéria de Direito Civil foi atribuída
+privativamente à União pelo artigo 22, I e VII, da Constituição Federal. Por sua
+vez, o artigo 24, V e VIII, da Constituição Federal preceitua que compete à
+
+12
+
+[[pagina 13 | nativo]]
+
+União, aos Estados-membros e ao Distrito Federal legislar concorrentemente
+sobre produção e consumo e responsabilidade por dano ao consumidor.
+Sob uma concepção bastante ampla, o Direito Civil corresponde ao direito
+privado comum, geral ou ordinário. É o ramo que regula a pessoa, na sua
+existência e atividade, a família e o patrimônio (AMARAL, Francisco. Direito
+Civil: Introdução. Rio de Janeiro: Renovar, 2003. p. 105). Já o Direito do
+Consumidor, subsistema jurídico voltado à regulação das relações de
+consumo que envolvam situação de disparidade sob os aspectos econômico,
+técnico e informacional, muitas vezes incide sobre relações contratuais –
+ainda que meramente de adesão –, matéria abarcada pelo Direito Civil.
+Nesse contexto, coube a esta Corte delimitar os campos de atuação legislativa
+dos entes federativos. A jurisprudência do Supremo Tribunal Federal se
+consolidou no sentido de que compete privativamente à União legislar
+sobre relações contratuais, ainda que em sede consumerista, por se tratar
+de matéria que demanda disciplina uniforme em âmbito nacional. Sobre
+o tema, colaciono os seguintes julgados: [...]".
+(STF, ADI nº 4.704/DF, Rel. Min. Luiz Fux, Plenário, j. 21.03.2019 – Doc. 12 –
+grifo nosso)
+
+"[...] 4. Apesar de a lei impugnada tangenciar matéria ligada à proteção
+do consumidor, inserida na competência legislativa concorrente dos
+entes federativos União e Distrito Federal (art. 24, V, da CF), o SUPREMO
+TRIBUNAL FEDERAL entende que lei estadual que trata de relações de
+consumo não pode legislar sobre direito civil, notadamente sobre
+relações contratuais. Precedentes desta CORTE: RE 877.596 AgR, Rel. Min.
+ROSA WEBER, Primeira Turma, DJe de 29/6/2015 e ADI 4.701/PE, Rel. Min.
+ROBERTO BARROSO, DJe de 22/8/2014.
+5. Ação Direta de Inconstitucionalidade julgada procedente, para declarar a
+inconstitucionalidade formal da Lei 4.132/2008 do Distrito Federal.”
+(STF, ADI nº 4.228/DF, Rel. Min. Alexandre de Moraes, Plenário, j. 01.08.2018
+– grifo nosso)
+
+“por mais ampla que seja, a competência legislativa concorrente em
+matéria de defesa do consumidor (CF/88, art. 24, V e VIII) não autoriza
+os Estados-membros a editarem normas acerca de relações contratuais,
+uma vez que essa atribuição está inserida na competência da União
+Federal para legislar sobre direito civil (CF/88, art. 22, I)."
+(STF, ADI nº 4.701/PE, Rel. Min. Luis Roberto Barroso, Plenário, j. 13.08.2014 –
+Doc. 7 – grifo nosso)
+
+33. Não se nega que a competência concorrente para editar normas sobre produção e
+consumo e sobre responsabilidade por dano ao consumidor, previstas no art. 24, V e VIII, da
+CF, confere importante papel aos entes federados para atuarem na defesa do consumidor,
+enquanto parte vulnerável. Porém, no acórdão da ADI nº 4.701/PE (Doc. 7), esse Supremo
+Tribunal assentou que "essa orientação alcança a proteção extracontratual do consumidor, não
+autorizando os Estados a interferirem nos contratos em si". Acrescenta-se, ainda, que a
+
+13
+
+[[pagina 14 | nativo]]
+
+inconstitucionalidade da Lei Estadual em questão deve-se não só à competência privativa da
+União Federal para dispor sobre obrigações contratuais privadas, mas notadamente à
+regulação dos planos de saúde.
+
+34. Como explica o Min. Marco Aurélio Mello, “a concentração da competência para legislar
+sobre os contratos de seguro-saúde na União Federal, consoante a jurisprudência assentada do
+Supremo, é importante porque restringe a matéria a uma só fonte normativa, incrementando a
+segurança jurídica”10.
+
+35. Atesta-se que a Constituição Federal designou a competência privativa à União Federal
+para legislar sobre direito civil, seguros e seguridade social, tendo em vista a necessidade de
+se conferir uma regulamentação uníssona a esses temas em todo o território nacional,
+evitando a quebra de uniformidade que adviria da repartição dessa competência legislativa
+com os Estados e os Municípios brasileiros.
+
+36. Neste diapasão, é possível observar que o legislador constituinte foi além para tentar
+evitar a falta de uniformidade na regulação nacional do mercado de seguros, adentrando na
+esfera tributária e elegendo a União Federal como único ente federado competente para
+instituir impostos sobre “operações de crédito, câmbio e seguro, ou relativas a títulos ou valores
+mobiliários”, na forma do art. 153, V, da CF. A propósito, cabe conferir o entendimento desse
+Supremo Tribunal Federal:
+
+“Por esta razão o Legislador Constituinte teve por fim atribuir uma regulação
+nacionalmente uniforme da matéria e impedir que a cobrança de tributos
+estaduais (sob alíquotas mais altas em um Estado, mais altas em outras com
+isenção em um terceiro Estado) interfira indireta mais efetivamente na
+uniformidade da regulação nacional do crédito do câmbio do seguro,
+acarretando a insolvência de bancos, operadores de câmbio e
+seguradoras e arrastando muitos agentes econômicos e outras pessoas
+com eles."
+(STF, ADI nº 1332-7/RJ, Rel. Min. Sydney Sanches, Plenário, DJ 06.12.1995).
+
+10 MELLO, Marco Aurélio. Saúde suplementar, segurança jurídica e equilíbrio econômico-financeiro In: CARNEIRO,
+Luiz Augusto Ferreira. Planos de saúde – Aspectos jurídicos e econômicos. Rio de Janeiro: Forense, 2012, p. 9.
+
+14
+
+[[pagina 15 | nativo]]
+
+37. Verificado o não enquadramento da Lei estadual ora impugnada na competência
+concorrente para legislar sobre "produção e consumo" e sobre "responsabilidade por dano ao
+consumidor", passa-se à demonstração da impossibilidade de considerar tal norma como
+exercício da competência concorrente para legislar sobre "defesa da saúde", nos termos do
+art. 24, XII, da CF.
+
+38. No que tange à competência concorrente para legislar sobre matérias atinentes à
+defesa da saúde, cabe à União expedir normas gerais (art. 24, §1º, CF), aos Estados cabe
+suplementar as normas gerais da União sem gerar conflito (art. 24, § 2º, CF) e aos Municípios
+cabe legislar sobre questões de interesse local, suplementando a legislação federal e estadual,
+no que couber, na forma do art. 30, I e II, da CF, conforme a jurisprudência desse Supremo
+Tribunal Federal11.
+
+39. Assim, não pairam dúvidas sobre a possibilidade de os Estados legislarem sobre
+matérias de defesa da saúde, de forma a suplementar as normas gerais editadas pela União
+Federal. Somente na hipótese de inexistir lei federal, é permitido aos Estados exercer
+competência legislativa plena, para atender as suas peculiaridades. Contudo, a superveniência
+de lei federal suspende a eficácia da lei estadual no que lhe for contrário. Todas essas previsões
+estão dispostas nos §§ 1º a 4º do art. 24 da CF.
+
+40. Em outras palavras, a competência legislativa dos Estados restringe-se ao que não foi
+legislado pela União Federal, de modo que lei estadual não pode dispor de forma distinta de
+lei federal sobre a matéria.
+
+41. Ad argumentandum, ainda que o caso tratasse de competência concorrente, a
+
+11 "VOTO: [...] Em outras palavras, a competência para legislar concorrentemente sobre proteção e defesa da saúde
+está prevista no inciso XII do art. 24 da Constituição Federal para a União, os Estados e o Distrito Federal. De maneira
+geral, cabe à União editar normas gerais, enquanto que os Estados e o Distrito Federal podem exercer, com relação
+a tais normas, competência suplementar, ou seja, suprir as eventuais lacunas existentes. Na falta completa de lei
+com normas gerais, o Estado pode legislar amplamente, suprindo a existência do diploma federal. Por sua vez, aos
+Municípios é dado legislar para suplementar a legislação estadual e federal, inclusive as enumeradas no art. 24 da
+Constituição Federal, desde que isso seja necessário ao interesse local." (STF, AgRg no RE nº 741.596/PR, Rel. Min.
+Gilmar Mendes, Segunda Turma, julgamento virtual de 16 a 22.03.2018)
+
+15
+
+[[pagina 16 | nativo]]
+
+existência de legislação federal sobre a matéria não admitiria no ordenamento jurídico normas
+estaduais em caráter contrário.
+
+42. Primeiramente, a análise do art. 13, parágrafo único, II e III, da Lei nº 9.656/1998
+permite concluir que são condutas vedadas às operadoras de planos e seguros privados de
+assistência à saúde no que se refere ao contrato individual ou familiar "a suspensão ou a
+rescisão unilateral do contrato, salvo por fraude ou não-pagamento da mensalidade por período
+superior a sessenta dias, consecutivos ou não, nos últimos doze meses de vigência do contrato,
+desde que o consumidor seja comprovadamente notificado até o qüinquagésimo dia de
+inadimplência", assim como "a suspensão ou a rescisão unilateral do contrato, em qualquer
+hipótese, durante a ocorrência de internação do titular".
+
+43. A respeito dos planos coletivos de assistência à saúde (por adesão ou empresarial), o
+art. 17 da Resolução Normativa nº 195/2009, da Agência Nacional de Saúde Suplementar
+("ANS"), dispõe que "As condições de rescisão do contrato ou de suspensão de cobertura, nos
+planos privados de assistência à saúde coletivos por adesão ou empresarial, devem também
+constar do contrato celebrado entre as partes."
+
+44. Isto é, as normas federais acima mencionadas dispõem integralmente sobre as regras
+aplicáveis à interrupção dos serviços privados de planos de saúde por meio da suspensão e
+rescisão unilateral do contrato.
+
+45. No que se refere ao reajuste dos valores dos planos, o art. 16, XI, da Lei nº 9.656/1998
+define que "Dos contratos, regulamentos ou condições gerais dos produtos de que tratam o
+inciso I e o § 1o do art. 1o desta Lei devem constar dispositivos que indiquem com clareza: [...] XI
+- os critérios de reajuste e revisão das contraprestações pecuniárias". Com isso, o legislador
+estabeleceu que compete aos próprios contratos, regulamentos ou condições gerais dos
+produtos indicar os critérios de reajuste e revisão.
+
+46. No tocante às penalidades passíveis de aplicação às operadoras de planos e seguros
+de saúde, o art. 25 e seguintes da Lei nº 9.656/1998 estabelecem o seguinte:
+
+16
+
+[[pagina 17 | nativo]]
+
+"Art. 25. As infrações dos dispositivos desta Lei e de seus regulamentos, bem
+como aos dispositivos dos contratos firmados, a qualquer tempo, entre
+operadoras e usuários de planos privados de assistência à saúde, sujeitam a
+operadora dos produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei,
+seus administradores, membros de conselhos administrativos, deliberativos,
+consultivos, fiscais e assemelhados às seguintes penalidades, sem prejuízo de
+outras estabelecidas na legislação vigente: (Redação dada pela Medida
+Provisória nº 2.177-44, de 2001) (Vigência)
+I - advertência;
+II - multa pecuniária;
+III - suspensão do exercício do cargo;
+IV - inabilitação temporária para exercício de cargos em operadoras de
+planos de assistência à saúde; (Redação dada pela Medida Provisória nº
+2.177-44, de 2001)
+V - inabilitação permanente para exercício de cargos de direção ou em
+conselhos das operadoras a que se refere esta Lei, bem como em
+entidades de previdência privada, sociedades seguradoras, corretoras de
+seguros e instituições financeiras.
+VI - cancelamento da autorização de funcionamento e alienação da
+carteira da operadora. (Incluído pela Medida Provisória nº 2.177-44, de
+2001)
+Art. 26. Os administradores e membros dos conselhos administrativos,
+deliberativos, consultivos, fiscais e assemelhados das operadoras de que trata
+esta Lei respondem solidariamente pelos prejuízos causados a terceiros,
+inclusive aos acionistas, cotistas, cooperados e consumidores de planos
+privados de assistência à saúde, conforme o caso, em conseqüência do
+descumprimento de leis, normas e instruções referentes às operações
+previstas na legislação e, em especial, pela falta de constituição e cobertura
+das garantias obrigatórias. (Redação dada pela Medida Provisória nº 2.177-
+44, de 2001)
+Art. 27. A multa de que trata o art. 25 será fixada e aplicada pela ANS no
+âmbito de suas atribuições, com valor não inferior a R$ 5.000,00 (cinco mil
+reais) e não superior a R$ 1.000.000,00 (um milhão de reais) de acordo
+com o porte econômico da operadora ou prestadora de serviço e a
+gravidade da infração, ressalvado o disposto no § 6o do art. 19. (Redação
+dada pela Medida Provisória nº 2.177-44, de 2001)
+Art. 29. As infrações serão apuradas mediante processo administrativo
+que tenha por base o auto de infração, a representação ou a denúncia positiva
+dos fatos irregulares, cabendo à ANS dispor sobre normas para instauração,
+recursos e seus efeitos, instâncias e prazos. (Redação dada pela Medida
+Provisória nº 2.177-44, de 2001)
+§ 1o O processo administrativo, antes de aplicada a penalidade, poderá, a
+título excepcional, ser suspenso, pela ANS, se a operadora ou prestadora de
+serviço assinar termo de compromisso de ajuste de conduta, perante a
+diretoria colegiada, que terá eficácia de título executivo extrajudicial,
+obrigando-se a: (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+I - cessar a prática de atividades ou atos objetos da apuração; e (Incluído pela
+Medida Provisória nº 2.177-44, de 2001)
+
+17
+
+[[pagina 18 | nativo]]
+
+II - corrigir as irregularidades, inclusive indenizando os prejuízos delas
+decorrentes. (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 2o O termo de compromisso de ajuste de conduta conterá,
+necessariamente, as seguintes cláusulas: (Incluído pela Medida Provisória nº
+2.177-44, de 2001)
+I - obrigações do compromissário de fazer cessar a prática objeto da
+apuração, no prazo estabelecido; (Incluído pela Medida Provisória nº 2.177-
+44, de 2001)
+II - valor da multa a ser imposta no caso de descumprimento, não inferior a
+R$ 5.000,00 (cinco mil reais) e não superior a R$ 1.000.000,00 (um milhão de
+reais) de acordo com o porte econômico da operadora ou da prestadora de
+serviço. (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 3o A assinatura do termo de compromisso de ajuste de conduta não
+importa confissão do compromissário quanto à matéria de fato, nem
+reconhecimento de ilicitude da conduta em apuração. (Incluído pela Medida
+Provisória nº 2.177-44, de 2001)
+§ 4o O descumprimento do termo de compromisso de ajuste de conduta,
+sem prejuízo da aplicação da multa a que se refere o inciso II do § 2o, acarreta
+a revogação da suspensão do processo. (Incluído pela Medida Provisória nº
+2.177-44, de 2001)
+§ 5o Cumpridas as obrigações assumidas no termo de compromisso de ajuste
+de conduta, será extinto o processo. (Incluído pela Medida Provisória nº
+2.177-44, de 2001)
+§ 6o Suspende-se a prescrição durante a vigência do termo de compromisso
+de ajuste de conduta. (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 7o Não poderá ser firmado termo de compromisso de ajuste de conduta
+quando tiver havido descumprimento de outro termo de compromisso de
+ajuste de conduta nos termos desta Lei, dentro do prazo de dois anos.
+(Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 8o O termo de compromisso de ajuste de conduta deverá ser publicado no
+Diário Oficial da União. (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 9o A ANS regulamentará a aplicação do disposto nos §§ 1o a 7o deste artigo.
+(Incluído pela Medida Provisória nº 2.177-44, de 2001)
+Art. 29-A. A ANS poderá celebrar com as operadoras termo de compromisso,
+quando houver interesse na implementação de práticas que consistam em
+vantagens para os consumidores, com vistas a assegurar a manutenção da
+qualidade dos serviços de assistência à saúde. (Incluído pela Medida
+Provisória nº 2.177-44, de 2001)
+§ 1o O termo de compromisso referido no caput não poderá implicar
+restrição de direitos do usuário. (Incluído pela Medida Provisória nº 2.177-44,
+de 2001)
+§ 2o Na definição do termo de que trata este artigo serão considerados os
+critérios de aferição e controle da qualidade dos serviços a serem oferecidos
+pelas operadoras. (Incluído pela Medida Provisória nº 2.177-44, de 2001)
+§ 3o O descumprimento injustificado do termo de compromisso poderá
+importar na aplicação da penalidade de multa a que se refere o inciso II, § 2o,
+do art. 29 desta Lei. (Incluído pela Medida Provisória nº 2.177-44, de 2001)".
+(grifo nosso)
+
+18
+
+[[pagina 19 | nativo]]
+
+47. Outrossim, é necessário salientar que a ANS foi instituída pela Lei nº 9.961/2000, que
+a ela atribuiu poder regulador, normativo, controlador e fiscalizador das atividades que
+garantam a assistência suplementar à saúde. Desse modo, além de poder editar normas sobre
+as matérias definidas nos incisos do art. 4º da Lei nº 9.961/2000, cabe a ela fiscalizar o
+cumprimento das disposições da Lei nº 9.656/1998 e de sua regulamentação, bem como
+aplicar as penalidades pelo seu descumprimento.
+
+48. Ressalta-se, nesse sentido, que a ANS é a entidade que possui competência técnica
+para dizer os efeitos que determinada norma pode gerar tanto para a figura das operadoras
+dos planos de saúde quanto para os beneficiários, uma vez que ela entende as especificidades
+desse mercado. Justamente por esse motivo, o legislador ordinário atribuiu a ela, dentre
+outros, poder normativo relacionado às atividades do mercado de planos e seguros de saúde.
+
+49. Assim, não se verifica qualquer espaço para atuação normativa sobre a matéria
+por parte do Estado da Paraíba, haja vista que (i) já há legislação federal dispondo sobre a
+matéria, inclusive sobre as penalidades aplicáveis e qual entidade possui competência para
+aplica-las, conforme acima indicado; e (ii) à entidade reguladora do mercado compete a
+adoção de eventuais medidas a nível nacional, caso entenda pela sua necessidade, para dar
+suporte aos beneficiários dos planos e seguros privados de assistência à saúde.
+
+50. Admitir que os vinte e seis Estados além do Distrito Federal possam editar leis de forma
+distinta das normas federais e das regulamentações da ANS (e distintas entre si) – sob o
+pretexto de fazê-lo na defesa da saúde – significa desmantelar a uniformidade da regulação
+nacional do mercado de seguros/planos de saúde. Essa postura põe em xeque, por
+consequência, os objetivos do Poder Constituinte Originário quando da atribuição de
+competência privativa para a União Federal legislar sobre a matéria e ocasiona efeitos no
+mercado impossíveis de serem previstos pelo legislador estadual – dentre outros, o
+desbalanceamento do cálculo atuarial das seguradoras por região –, justamente por ele não
+ter expertise técnica para regulamentar esse mercado, regulado pela ANS.
+
+51. A título de informação, a Lei da Paraíba, aqui impugnada, tem gerado um efeito
+
+19
+
+[[pagina 20 | nativo]]
+
+multiplicador de normas estaduais com nítida inconstitucionalidade formal e extrapolando a
+regulação exercida pela ANS. A tabela abaixo demonstra o surgimento iminente de diversas
+normas estaduais (exceto pelas Leis nº 8.811/2020 e 11.281/2020, promulgadas pelas
+Assembleias Legislativas dos Estados do Rio de Janeiro e do Maranhão, respectivamente, que
+já estão em vigor), tratando da vedação à suspensão e/ou cancelamento dos planos por falta
+de pagamento, em clara usurpação da competência legislativa, privativa da União Federal, para
+legislar sobre seguros e contratos:
+
+TIPO Nº ANO UF OBJETO
+
+Dispõe sobre a vedação da suspensão e/ou o
+cancelamento dos planos de saúde por falta de
+Lei 8811 2020 RJ pagamento, durante a vigência do plano de
+contingência do novo coronavírus (Covid-19) e dá
+outras providências. (Doc. 14)
+Dispõe sobre a vedação da suspensão e/ou
+cancelamento dos planos de saúde por falta de
+Lei 11281 2020 MA pagamento, durante a vigência do plano de
+contingência do novo corona vírus (COVID-19) e dá
+outras providências. (Doc. 15)
+Dispõe sobre a vedação da suspensão ou à rescisão
+unilateral do contrato individual de Plano Privado
+de Assistência à Saúde por falta de pagamento,
+Projeto de Lei 213 2020 ES durante a vigência do plano de contingência do
+novo coronavírus (COVID-19) e dá outras
+providências.
+(Doc. 16)
+Dispõe sobre a vedação da suspensão e/ou o
+cancelamento dos planos de saúde por falta de
+pagamento, durante a vigência do plano de Projeto de Lei 23 2020 AC
+contingência do novo coronavírus (covid-19) e dá
+outras providências.
+(Doc. 17)
+Dispõe sobre a vedação da suspensão e
+cancelamento dos planos de saúde por falta de
+pagamento, durante a vigência do Plano de
+Projeto de Lei 589 2020 RO Contingência do COVID-19 e dá outras
+providências, no âmbito do Estado de Rondônia.
+(Doc. 18)
+
+52. Por fim, ainda que se pudesse falar que a Lei nº 11.735/2020, editada pelo Estado da
+Paraíba, estaria compreendida como matéria de competência concorrente, por tratar-se de
+
+20
+
+[[pagina 21 | nativo]]
+
+direito do consumidor, nos termos do art. 24, V, da CF – o que se admite apenas pelo princípio
+da eventualidade –, suas disposições não se coadunam com o Código de Defesa do
+Consumidor (Lei nº 8.078/1990, que dispõe sobre a proteção do consumidor).
+
+53. Considerando, sob essa ótica, que a competência concorrente dos Estados necessita
+ser exercida de modo suplementar às normas gerais editadas pela União Federal, é
+constitucionalmente vedado aos Estados extrapolar as normas gerais já existentes no
+ordenamento jurídico.
+
+54. Quanto a esse ponto, remete-se ao Parecer nº 122/2020 da Comissão de Constituição,
+Justiça e Redação (Doc. 6), no qual consta que o conteúdo da Lei Estadual nº 11.735/2020
+estaria apenas aplicando a "teoria do rompimento da base objetiva do negócio jurídico"
+prevista no art. 6º, V, do CDC, segundo o qual são direitos básicos do consumidor "a
+modificação das cláusulas contratuais que estabeleçam prestações desproporcionais ou sua
+revisão em razão de fatos supervenientes que as tornem excessivamente onerosas".
+
+55. A jurisprudência do STJ restringe a aplicabilidade de tal teoria aos contratos de
+consumo, não admitindo sua extensão a todo o direito das obrigações, conforme observa-se
+no voto vencedor do Ministro Ricardo Villas Bôas Cueva no REsp nº 1.321.614/SP:
+
+"Com efeito, a teoria da base objetiva tem por pressuposto a premissa de que
+a celebração de um contrato ocorre mediante consideração de determinadas
+circunstâncias, as quais, se modificadas no curso da relação contratual,
+determinam, por sua vez, consequências diversas daquelas inicialmente
+estabelecidas, com repercussão direta no equilíbrio das obrigações
+pactuadas.
+Nesse contexto, a intervenção judicial se daria nos casos em que o contrato
+fosse atingido por fatos que comprometessem as circunstâncias intrínsecas à
+formulação do vínculo contratual, ou seja, sua base objetiva.
+Em que pese sua relevante inovação, tal teoria, ao dispensar, em especial,
+o requisito de imprevisibilidade, foi acolhida em nosso ordenamento
+apenas para as relações de consumo, que demandam especial proteção.
+Não se admite a aplicação da teoria do diálogo das fontes para estender a
+todo direito das obrigações regra incidente apenas no microssistema do
+direito do consumidor. De outro modo, a teoria da quebra da base objetiva
+poderia ser invocada para revisão ou resolução de qualquer contrato no qual
+haja modificação das circunstâncias iniciais, ainda que previsíveis,
+
+21
+
+[[pagina 22 | nativo]]
+
+comprometendo em especial o princípio pacta sunt servanda e, por
+conseguinte, a segurança jurídica.
+No tocante às relações contratuais puramente civis, quer dizer, ao
+desamparo das normas protetivas do Código de Defesa do Consumidor,
+a adoção dessa teoria, a fim de determinar a revisão de contratos,
+poderia, em decorrência da autuação jurisdicional, impor indesejáveis
+prejuízos reversos àquele que teria, em tese, algum benefício com a
+superveniência de fatos que atinjam a base do negócio." (grifo nosso)
+(STJ, REsp 1.321.614/SP, Rel. Min. Paulo De Tarso Sanseverino, Rel. p/ Acórdão
+Ministro Ricardo Villas Bôas Cueva, Terceira Turma, j. 16.12.2014 – grifo nosso)
+
+56. A referida teoria surgiu como exceção à regra geral do pacta sunt servanda (para a qual
+os contratos, enquanto negócios jurídicos que criam obrigações pelo acordo de vontades,
+regem-se pelo princípio da força obrigatória dos contratos). Trata-se, portanto, de exceção
+que, justamente por colocar em xeque a segurança jurídica nas relações privadas, deve ser
+interpretada restritivamente, sob pena de criar desestabilidade nas relações sociais e jurídicas.
+
+57. Nesse sentido, além de a referida teoria estar limitada às relações consumeristas (não
+sendo aplicada às relações privadas de forma global), o legislador ordinário permitiu sua
+aplicação para "a modificação das cláusulas contratuais que estabeleçam prestações
+desproporcionais" ou "sua revisão em razão de fatos supervenientes que as tornem
+excessivamente onerosas", o que deve ser analisado de forma casuística pelo Poder Judiciário.
+
+58. Ou seja, apenas o Poder Judiciário, na forma do art. 5º, XXXV, da CF, poderia avaliar no
+caso concreto a ocorrência de fatos supervenientes que tornem as cláusulas contratuais
+excessivamente onerosas a uma das partes, uma vez que deve avaliar os impactos (i) à esfera
+da outra parte na relação contratual; e (ii) à segurança jurídica.
+
+59. Enquanto o art. 6º, V, do CDC permite que, diante da superveniência de fatos que
+tornem excessivamente onerosas determinadas cláusulas contratuais a uma das partes, as
+referidas cláusulas sejam modificadas por meio do acesso ao Poder Judiciário (sem que se fale
+em qualquer sanção passível de aplicação às operadoras de planos de saúde), a Lei nº
+11.735/2020 exclui da esfera do Poder Judiciário o exame de cada caso concreto,
+estabelecendo exceções amplas à força obrigatória dos contratos no âmbito do seu território
+
+22
+
+[[pagina 23 | nativo]]
+
+por meio da (i) vedação do reajuste anual em todos os contratos relativos a planos de saúde;
+e (ii) proibição à interrupção da prestação dos serviços privados de planos de saúde caso o
+usuário apresente documento que demonstre "redução drástica de sua renda mensal" (ou
+desemprego involuntário), sob pena de aplicação de sanção pelo seu descumprimento pelas
+operadoras de planos de saúde.
+
+60. Nem se está a questionar a subjetividade inerente à expressão "redução drástica" da
+renda mensal do usuário que ensejaria a vedação imediata à interrupção da prestação dos
+serviços pelas operadoras dos planos, pois a situação aqui ainda é mais grave: enquanto o
+CDC prevê a teoria do rompimento da base objetiva do negócio jurídico como exceção a ser
+avaliada pelo Poder Judiciário em cada caso, ponderando o fato superveniente e as alterações
+que podem ter sido ocasionadas a ambas as partes da relação contratual de forma a sopesar
+os efeitos da revisão das cláusulas em cada situação que seja levada ao Judiciário, a Lei
+Estadual ora impugnada subverte essa teoria ao extrapolar o que o legislador federal previu –
+em clara violação ao caráter suplementar das normas estaduais compreendidas na
+competência concorrente.
+
+61. Afirmar, como fez a Comissão de Constituição, Justiça e Cidadão, que o art. 7º, caput,
+do CDC também permite à legislação interna ordinária criar outros direitos aos consumidores
+não exclui a necessidade de, na hipótese de haver lei federal (tal como existe para a aplicação
+da teoria do rompimento da base objetiva do negócio jurídico), a legislação estadual dever
+observância a tal regramento, sob pena de violação aos objetivos constitucionalmente
+delineados no tocante à repartição de competências entre os entes federados.
+
+62. Desse modo, por todos os ângulos que se analise a questão, a conclusão é a mesma:
+a norma estadual está eivada de vício de inconstitucionalidade formal, em razão da
+desobediência às regras constitucionalmente estabelecidas de repartição de competências
+legislativas entre os entes federados, sendo, portanto, mandatória a sua exclusão do
+ordenamento jurídico.
+
+23
+
+[[pagina 24 | nativo]]
+
+III.2. INCONSTITUCIONALIDADE MATERIAL
+
+III.2.1. VIOLAÇÃO AO PRINCÍPIO DA ISONOMIA
+
+63. Como já explicitado, a Lei Estadual em questão, além de prever a vedação à interrupção
+da prestação dos serviços privados dos planos de saúde em decorrência do inadimplemento
+do usuário, traz outras disposições que geram impactos financeiros às operadoras de planos
+e seguros de saúde, tais como a necessidade de permitir ao beneficiário o parcelamento do
+débito pelo usuário após o fim da calamidade pública; a vedação ao reajuste anual durante o
+período em que a Lei estiver em vigor; e a aplicação de multa pelos órgãos responsáveis pela
+fiscalização às operadoras que descumprirem suas disposições.
+
+64. Haja vista que esse não é o teor da legislação federal que rege a matéria, percebe-se
+que a norma estadual introduz no ordenamento jurídico uma disparidade nas obrigações das
+operadoras de planos de saúde que atuam no território brasileiro, tendo como único critério
+para o discrímen o aspecto territorial.
+
+65. Por essa razão, é manifesta a violação ao princípio da isonomia, estabelecido no art.
+5º, caput, da CF, o que impacta não só as seguradoras e operadoras de planos de saúde, como
+os próprios beneficiários.
+
+66. Esse princípio surge como um norte para limitar a atuação do legislador, do intérprete
+da norma jurídica e do particular. Especificamente quanto à figura do legislador, este não pode
+criar normas veiculadoras de desequiparações abusivas, ilícitas, arbitrárias e contrárias à
+manifestação do constituinte de primeiro grau12.
+
+67. Desse modo, como já decidiu esse STF, "para que se justifique a concessão de
+tratamento diferenciado a situações jurídicas idênticas, deve-se ter presente fator discriminador
+
+12 BULOS, Uadi Lammego. Constituição Federal anotada. São Paulo: Saraiva, 2002. pp. 77-78.
+
+24
+
+[[pagina 25 | nativo]]
+
+que – legitimamente – as diferencie e individualize".13
+
+68. No caso, não se mostra razoável que apenas no Estado da Paraíba existam regras
+adicionais e distintas desse tipo, impondo uma série de obrigações sem previsão em norma
+federal, pois não há diferença entre a operadora de plano de saúde e o usuário que firmam
+contrato no Estado da Paraíba e os que formalizam o ajuste em outro Estado para justificar a
+disparidade no tratamento.
+
+69. Essa violação ao princípio da isonomia tem como consequência direta o risco à
+mutualidade do sistema, implicando na necessidade de distribuição dos ônus adicionais aos
+beneficiários, podendo, ainda assim, ocasionar o encerramento das atividades das diversas
+operadoras de planos de saúde, conforme consta na decisão da Ação Civil Pública nº 1007818-
+23.2020.4.01.3200 ajuizada em face de diversas seguradoras durante a pandemia: "[...] tais
+empresas – caso não aufiram os recursos necessários ao seu funcionamento – acabarão
+encerrando suas atividades, piorando ainda mais a prestação dos serviços de saúde.”14
+
+70. Segundo Cesare Vivante, todos os contratos de seguro têm em comum a identidade
+íntima e essencial da empresa, capaz de cobrir com segurança os riscos alheios, mediante o
+recolhimento de contribuições dos segurados, que formam um fundo correspondente ao valor
+das somas que ela terá que pagar. O risco que a empresa assume só pode ser adequadamente
+diluído em uma grande massa de riscos homogêneos, em que a contribuição de todos garanta
+continuamente o equilíbrio entre sinistros e indenizações.15
+
+71. A propósito, Silvio Rodrigues também explica:
+
+“Aliás, no contrato de seguro encontram-se sempre dois elementos que
+explicam o seu mecanismo e demonstram o alto interesse social desse
+negócio. Tais elementos são: a) a mutualidade dos segurados, e b) o
+cálculo das probabilidades.
+
+13 STF, RE nº 636.199, Rel. Min. Rosa Weber, Plenário, j. 27.04.2017.
+14 3ª Vara Federal Cível da Seção Judiciária do Amazonas, ACP nº 1007818-23.2020.4.01.3200, j. 05.05.2020.
+15 PASQUALOTTO, Adalberto. Aspectos de defesa do consumidor no contrato de seguro: Contrato coercitivo e
+relação de consumo por conexão. Revista de Direito do Consumidor. Vol. 90/2013. p. 2.
+
+25
+
+[[pagina 26 | nativo]]
+
+a) a mutualidade dos segurados. Imagine-se que uma centena de
+proprietários de imóveis se unisse para dividir, por todos, os prejuízos que
+cada qual experimentasse com o eventual incêndio de seu prédio. É
+improvável que todos os prédios se incendiassem, sendo possível que apenas
+um ou dois pegassem fogo. O prejuízo experimentado no sinistro seria
+dividido por todos, de modo que se atenuaria enormemente. O proprietário
+cujo prédio ficou ileso sofreria um desembolso por prejuízo que não afetou
+coisa sua e que, portanto, não teria de realizar se não se houvesse unido a
+seus companheiros. Entretanto, por meio desse negócio garantiu-se contra
+os riscos incidentes sobre o seu imóvel, pois, fosse ele a vítima do sinistro, em
+vez de seu prejuízo ser total, experimentaria apenas perda parcial.
+Imagine-se, agora, que, em vez de serem cem as pessoas unidas por esse
+ajuste, sejam milhares e milhares os segurados. Estarão dividindo entre si os
+prejuízos experimentados por qualquer deles. É assim que operam as
+sociedades de seguros mútuos, pois nelas os associados dividem entre si os
+prejuízos que a qualquer deles advenham dos riscos por todos enfrentados
+(CC de 1916, art. 1.466).
+Mas é assim que funciona qualquer negócio de seguro, pois a empresa
+seguradora privada nada mais é que uma intermediária que, recolhendo os
+prêmios pagos pelos segurados, usa desses recursos, e só deles, para pagar
+as indenizações pelos sinistros ocorridos. De modo que são os próprios
+segurados que pagam as indenizações devidas.”16
+
+72. Confirmando a mutualidade como característica essencial também nos planos privados
+de assistência à saúde – em razão de seu amplo grau de semelhança com a lógica atinente
+aos contratos de seguros –, Carolina Souza Cordeiro e Hector Valverde Santana atestam que:
+
+“A operadora de plano de assistência à saúde faz papel de intermediária, além
+de realizar a gestão dos recursos, sendo responsável pela distribuição e
+utilização dos recursos do fundo, de modo a cobrir os gastos e adimplir com
+as obrigações, sem colocar em risco a mutualidade do sistema. A
+solidariedade do grupo ou mutualidade viabiliza a manutenção do fundo e a
+cobertura de todos os gastos a preços mais acessíveis”.17
+
+73. Feita essa breve exposição a respeito de características inerentes aos seguros e planos
+de saúde, não pairam dúvidas no sentido de que a Lei Estadual nº 11.735/2020 gera
+externalidades negativas para o conjunto dos segurados/beneficiários, especificamente para
+aqueles do Estado da Paraíba.
+
+16 RODRIGUES, Silvio. Direito Civil, volume 3: dos contratos e das declarações unilaterais de vontade. 30ª ed. São
+Paulo: Saraiva. 2004. pp. 332-333.
+17 CORDEIRO, Carolina Souza; SANTANA, Hector Valverde. Dano moral decorrente de inadimplemento contratual
+de plano privado de assistência à saúde. Revista de Direito do Consumidor. Vol. 80/2011. p. 5.
+
+26
+
+[[pagina 27 | nativo]]
+
+74. Antes de mais nada, ressalta-se a ausência de expertise técnica do Poder Legislativo
+Estadual para criar normas nesse mercado regulado de planos de saúde. Tal mercado possui
+características intrínsecas que demandam uniformidade no tratamento e, em razão disso, o
+legislador federal elegeu a ANS, enquanto agência reguladora competente com a expertise
+técnica necessária, para exercer esse poder regulamentar em caráter adicional às normas
+federais existentes.
+
+75. Em que pese o legislador afirmar que a inclusão do § 2º ao art. 1º da Lei serviria para
+equilibrar a relação, protegendo o fornecedor (operadoras de planos de saúde) por meio da
+exigência de comprovação por parte do usuário da "redução drástica de sua renda mensal ou
+desemprego involuntário" (Doc. 6), a referida Lei não efetuou quaisquer estudos técnicos para
+comprovar que a norma em questão manterá o equilíbrio atuarial do sistema. Isto é, o
+legislador não se preocupou em antecipar os possíveis efeitos no caso de sua aprovação.
+
+76. Assim, no tocante às externalidades negativas verificadas, observa-se de plano que o
+aumento dos ônus financeiros impostos às operadoras de planos de saúde no Estado da
+Paraíba normalmente não é arcado pelas próprias operadoras, uma vez que a mutualidade é
+inerente à sua atividade econômica e aos contratos que realizam a distribuição dos custos
+entre os beneficiários, de forma a não comprometerem a sua solvência e continuarem
+operando no mercado de forma saudável.
+
+77. Com isso, seria inevitável o aumento das mensalidades dos planos de saúde, o que
+acarretaria um aumento no peso dessa despesa no orçamento familiar aos contratantes em
+um intervalo de tempo maior que a duração do "período de calamidade pública do Estado da
+Paraíba". Tendo em vista, contudo, que o art. 2º da Lei ora impugnada veda o reajuste dos
+planos no Estado enquanto perdurar a calamidade pública, esse aumento de custo, caso não
+fosse aplicado aos contratos já firmados (uma vez que é passível de imposição de multa, nos
+termos do art. 3º da Lei), poderia impactar em maiores custos para a assinatura de novos
+contratos de planos de saúde.
+
+27
+
+[[pagina 28 | nativo]]
+
+78. Esse custo maior poderia ficar restrito aos beneficiários de planos de saúde do Estado
+da Paraíba, de forma desproporcional ao que prevalece nos outros Estados da Federação, ou
+beneficiários de outros Estados arcariam, após a pandemia, com os custos de uma norma
+exclusiva para os contratantes no Estado da Paraíba.
+
+79. De modo adicional e agravante, o inadimplemento dos usuários dos planos também
+pode impactar em um efeito cascata no sistema, isto é, a própria remuneração dos prestadores
+de serviços daquele Estado – p.ex.: médicos, laboratórios, clínicas e hospitais – pode vir a sofrer
+consequências.
+
+80. Vale citar algumas decisões em sede de ações civis públicas ajuizadas em alguns
+Estados brasileiros no contexto da pandemia, as quais trazem importantes considerações para
+o cenário:
+
+“Não obstante notórios os efeitos econômicos nefastos das medidas de
+isolamento social adotadas pelos entes públicos, em decorrência da
+suspensão de inúmeras atividades empresariais, desaceleração da economia,
+redução de renda e desemprego, resta evidente que os mesmos não atingem
+de maneira uniforme o coletivo de usuários dos planos de saúde.
+Muito embora sejam todos titulares de uma mesma relação jurídica base
+(contratos de plano de saúde), não são afetados pelos desdobramentos
+econômicos da pandemia da mesma maneira.
+Se é certo que determinadas categorias profissionais foram particularmente
+prejudicadas, muitas outras, como, por exemplo, servidores públicos em
+geral, empresários e comerciantes de atividades essenciais, profissionais
+liberais, etc, não vivenciaram decréscimo em sua capacidade de pagamento a
+ponto de justificar a drástica revisão contratual pretendida.
+Pressupor, de forma indistinta, que todos os usuários de plano de saúde
+tornaram-se financeiramente hipossuficientes em virtude dos efeitos
+econômicos da COVID-19 autorizaria, em tese, que houvesse a suspensão
+geral do pagamento de seus respectivos contratos, sem solução de
+continuidade da contraprestação respectiva.
+Tal contexto ensejaria evidente desequilíbrio contratual em desfavor dos
+planos de saúde, notadamente pelo fato de que não há como se prever
+por quanto tempo perdurará a situação de calamidade decretada em
+fevereiro de 2020.
+Nesse diapasão, é de se concluir que o direito coletivo que serve de causa de
+pedir à presente ação civil pública pressupõe a presença concomitante de
+dois elementos constitutivos: a) ser usuário de plano de saúde no RN; e b) ter
+sofrido decréscimo em sua capacidade de pagamento em virtude das
+medidas de contenção da COVID-19, tornando-se inadimplente.
+
+28
+
+[[pagina 29 | nativo]]
+
+Muito embora o primeiro elemento esteja presente, é juridicamente inviável
+a aferição do segundo sem que haja a análise de cada hipótese em concreto,
+circunstância que descaracteriza o caráter coletivo do direito cuja defesa se
+propõe a demandante.”
+(4ª Vara Cível da Comarca de Natal, ACP nº 0815556-14.2020.8.20.5001, j.
+07.05.2020 – grifo nosso)
+
+“[...] os fundamentos invocados pela autora não têm a robustez
+necessária a ensejar a intervenção linear do Estado-Juiz no equilíbrio
+econômico-financeiro da universalidade dos contratos de planos de
+saúde de todos os usuários do Estado do Piauí nesta ambiência coletiva”.
+(4º Cartório Cível da Comarca de Teresina, ACP nº 0810260-
+98.2020.8.18.0140, j. 30.04.2020 – grifo nosso)
+
+81. Por esses motivos, a Requerente pugna que esse Supremo Tribunal Federal não
+permita a perpetuação no ordenamento jurídico da norma impugnada, tendo em vista definir
+tratamento desigual entre iguais apenas pelo critério territorial de atuação em matéria
+relacionada a planos de saúde.
+
+III.2.2. VIOLAÇÃO AO PRINCÍPIO DA LIVRE INICIATIVA
+
+82. A inconstitucionalidade material também se verifica na violação ao princípio da livre
+iniciativa, previsto nos arts. 1º, IV e 170, caput, da CF. Afinal, a intervenção estadual, com a Lei
+nº 11.735/2020, do Estado da Paraíba, representa uma interferência indevida na dinâmica
+econômica da atividade empresarial.
+
+83. A livre iniciativa exerce papel chave enquanto fundamento da República Federativa do
+Brasil e fundamento da ordem econômica, senão, veja-se a lição do Ministro Luís Roberto
+Barroso:
+
+“O princípio da livre iniciativa, por sua vez, pode ser decomposto em alguns
+elementos que lhe dão conteúdo, todos eles desdobrados no texto
+constitucional. Pressupõe ele, em primeiro lugar, a existência de propriedade
+privada, isto é, de apropriação particular dos bens e dos meios de produção
+(CF, arts. 5º, XXII e 170, II. De parte isso, igualmente, o núcleo da ideia de livre
+iniciativa a liberdade de empresa, conceito materializado no parágrafo único
+do art. 170, que assegura a todos o livre exercício de qualquer atividade
+econômica, independentemente de autorização, salvo nos casos previstos em
+
+29
+
+[[pagina 30 | nativo]]
+
+lei. Em terceiro lugar, situa-se a livre concorrência, lastro para a faculdade de
+o empreendedor estabelecer os seus preços, que hão de ser determinados
+pelo mercado, em ambiente competitivo (CF, art. 170, IV). Por fim, é da
+essência do regime de livre iniciativa a liberdade de contratar, decorrência
+lógica do princípio da legalidade, fundamento das demais liberdades, pelo
+qual ninguém será obrigado a fazer ou deixar de fazer alguma coisa senão
+em virtude de lei (CF, art. 5º, II)”.18
+
+84. Importante salientar que, mesmo se tratando de um mercado regulado, como é
+mercado de seguros e planos de saúde, os pressupostos da livre iniciativa e da liberdade de
+contratar devem ser integralmente observados, sob pena de violação aos fundamentos da
+República e da ordem econômica.
+
+85. Ao se analisar as disposições contidas na Lei Estadual nº 11.735/2020, é notória a
+ingerência estatal na esfera de liberdade de iniciativa, uma vez que tal norma interfere
+diretamente nas relações contratuais privadas de planos de saúde. Apesar da intenção de
+proteger os beneficiários, a norma estadual acaba permitindo o “calote” e, inclusive, definindo
+um critério marcado por subjetivismo ao estabelecer que comprovem "redução drástica" de
+sua renda mensal para que seja vedada a interrupção da prestação de serviço, além de
+impossibilitar o reajuste anual previsto em todos os contratos firmados em seu território.
+
+86. Já as operadoras de planos de saúde sofrerão os efeitos da inadimplência contratual
+justamente no momento em que mais precisam de arrecadação, ou seja, em um ambiente de
+pandemia.
+
+87. Essa medida fatalmente acarretará um descumprimento contratual em cadeia e,
+consequentemente, desencadeará um verdadeiro caos jurídico. Daí, verifica-se que a medida
+inventada pela norma estadual é complemente desproporcional ao fim que se almeja,
+ultrapassando todos os limites de regulação de mercado.
+
+18 BARROSO, Luís Roberto. A Ordem Econômica Constitucional e os limites à atuação estatal no controle de preços.
+Revista de Direito Administrativo. Rio de Janeiro, 226. 2001. p 189. Disponível em
+<http://bibliotecadigital.fgv.br/ojs/index.php/rda/article/viewFile/47240/44652>. Acessado em 23 de julho de
+2020.
+
+30
+
+[[pagina 31 | nativo]]
+
+88. A violação à livre iniciativa, com a indevida interferência na dinâmica econômica de
+atividades empresariais, é constantemente coibida por esse Supremo Tribunal Federal, como
+se extrai, por exemplo, das seguintes ementas de acórdão:
+
+“EMENTA: CONSTITUCIONAL. FEDERALISMO E RESPEITO ÀS REGRAS DE
+DISTRIBUIÇÃO DE COMPETÊNCIA. LEI 5.853/2017 DO DISTRITO FEDERAL.
+OBRIGAÇÃO DE CONFERIR ACRÉSCIMO DE 30 MINUTOS EM
+ESTACIONAMENTO, APÓS PAGAMENTO DA TARIFA. COMPETÊNCIA DA
+UNIÃO EM MATÉRIA DE DIREITO CIVIL, RESSALVADO O ENTENDIMENTO
+DESTE RELATOR (CF, ART. 22, I). DESPROPORCIONALIDADE DA MEDIDA.
+OFENSA AO PRINCÍPIO DA LIVRE INICIATIVA (ART. 170, CAPUT, DA CF).
+INCONSTITUCIONALIDADES FORMAL E MATERIAL RECONHECIDAS.
+PROCEDÊNCIA. 1. As regras de distribuição de competências legislativas são
+alicerces do federalismo e consagram a fórmula de divisão de centros de
+poder em um Estado de Direito. Princípio da predominância do interesse. 2.
+A Constituição Federal de 1988, presumindo de forma absoluta para algumas
+matérias a presença do princípio da predominância do interesse, estabeleceu,
+a priori, diversas competências para cada um dos entes federativos – União,
+Estados-Membros, Distrito Federal e Municípios – e, a partir dessas opções,
+pode ora acentuar maior centralização de poder, principalmente na própria
+União (CF, art. 22), ora permitir uma maior descentralização nos Estados-
+Membros e nos Municípios (CF, arts. 24 e 30, inciso I). 3. A Lei 5.853/2017 do
+Distrito Federal, ao assegurar acréscimo de 30 minutos para saída do
+estacionamento após o pagamento da tarifa, ressalvado entendimento
+pessoal, viola a competência da União para legislar sobre Direito Civil (art. 22,
+I, CF). Precedentes. 4. Ademais, ao estipular o acréscimo em questão, além de
+se mostrar desproporcional ao fim que se almeja, a lei em análise
+interfere na dinâmica econômica da atividade empresarial, violando o
+princípio da livre iniciativa (art. 170, caput, CF). 5. Ação Direta conhecida
+e julgada procedente.
+(STF, Tribunal Pleno, ADI 5792, Relator: Min. Alexandre de Moraes, j.
+11.10.2019)
+
+“EMENTA: CONSTITUCIONAL. ECONÔMICO. INTERVENÇÃO ESTATAL NA
+ECONOMIA: REGULAMENTAÇÃO E REGULAÇÃO DE SETORES ECONÔMICOS:
+NORMAS DE INTERVENÇÃO. LIBERDADE DE INICIATIVA. CF, art. 1º, IV; art.
+170. CF, art. 37, § 6º. I. - A intervenção estatal na economia, mediante
+regulamentação e regulação de setores econômicos, faz-se com respeito
+aos princípios e fundamentos da Ordem Econômica. CF, art. 170. O
+princípio da livre iniciativa é fundamento da República e da Ordem
+econômica: CF, art. 1º, IV; art. 170. II. - Fixação de preços em valores abaixo
+da realidade e em desconformidade com a legislação aplicável ao setor:
+empecilho ao livre exercício da atividade econômica, com desrespeito ao
+princípio da livre iniciativa. III. - Contrato celebrado com instituição privada
+para o estabelecimento de levantamentos que serviriam de embasamento
+para a fixação dos preços, nos termos da lei. Todavia, a fixação dos preços
+acabou realizada em valores inferiores. Essa conduta gerou danos
+patrimoniais ao agente econômico, vale dizer, à recorrente: obrigação de
+
+31
+
+[[pagina 32 | nativo]]
+
+indenizar por parte do poder público. CF, art. 37, § 6º. IV. - Prejuízos apurados
+na instância ordinária, inclusive mediante perícia técnica. V. - RE conhecido e
+provido.”
+(STF, 2ª Turma, RE 422941/DF, Relator: Min. Carlos Velloso, j. 06.12.2005)
+
+89. Como se vê, a Lei Estadual nº 11.735/2020 provoca nitidamente um desrespeito ao
+princípio da livre iniciativa, com base em critério desproporcional e distante da realidade da
+atividade econômica que o Estado da Paraíba pretendeu regular.
+
+III.2.3. VIOLAÇÃO AO ATO JURÍDICO PERFEITO
+
+90. Sabe-se que alterações normativas, sejam elas processuais ou materiais, devem
+resguardar as situações jurídicas já consolidadas no tempo, sob pena de ofensa ao postulado
+da segurança jurídica, o qual tem como corolários o direito adquirido, o ato jurídico perfeito e
+a coisa julgada.
+
+91. Por força do disposto no art. 5º, XXXVI, da CF, "a lei não prejudicará o direito adquirido,
+o ato jurídico perfeito e a coisa julgada". Sendo assim, a lei nova tem efeito imediato e geral
+(art. 6º da LINDB19), atingindo somente os fatos pendentes e os futuros que se realizarem já
+sob sua vigência, não abrangendo os fatos pretéritos, estes últimos protegidos pela cláusula
+constitucional.
+
+92. A análise das disposições contidas na Lei nº 11.735/2020 permite concluir que a
+referida norma possui o condão de afetar relações jurídicas já em vigor (contratualmente
+disciplinadas sob a égide da legislação federal vigente e, portanto, em conformidade com a
+Constituição Federal).
+
+93. Tais relações jurídicas configuram-se como atos jurídicos perfeitos, dos quais emanam
+direitos e obrigações às partes vinculadas. Veja-se o entendimento desse C. STF na ADI nº
+493-0/DF sobre o tema:
+
+19 Lei de Introdução às Normas do Direito Brasileiro (Decreto-Lei nº 4.657/1942).
+
+32
+
+[[pagina 33 | nativo]]
+
+"Ação direta de inconstitucionalidade.
+- Se a lei alcançar os efeitos futuros de contratos celebrados anteriormente a
+ela, será essa lei retroativa (retroatividade mínima) porque vai interferir na
+causa, que e um ato ou fato ocorrido no passado.
+- O disposto no artigo 5, XXXVI, da Constituição Federal se aplica a toda e
+qualquer lei infraconstitucional, sem qualquer distinção entre lei de direito
+público e lei de direito privado, ou entre lei de ordem pública e lei dispositiva.
+Precedente do S.T.F..
+- Ocorrência, no caso, de violação de direito adquirido. A taxa referencial (TR)
+não e índice de correção monetária, pois, refletindo as variações do custo
+primário da captação dos depósitos a prazo fixo, não constitui índice que
+reflita a variação do poder aquisitivo da moeda. Por isso, não há necessidade
+de se examinar a questão de saber se as normas que alteram índice de
+correção monetária se aplicam imediatamente, alcançando, pois, as
+prestações futuras de contratos celebrados no passado, sem violarem o
+disposto no artigo 5, XXXVI, da Carta Magna. - Também ofendem o ato
+jurídico perfeito os dispositivos impugnados que alteram o critério de reajuste
+das prestações nos contratos já celebrados pelo sistema do Plano de
+Equivalência Salarial por Categoria Profissional (PES/CP).
+Ação direta de inconstitucionalidade julgada procedente, para declarar a
+inconstitucionalidade dos artigos 18, "caput" e parágrafos 1 e 4; 20; 21 e
+parágrafo único; 23 e parágrafos; e 24 e parágrafos, todos da Lei n. 8.177, de
+1 de maio de 1991."
+(STF, ADI nº 493-0/DF, Rel. Min. Moreira Alves, Plenário, j. 25.06.1992)
+
+94. Cita-se também importante trecho do voto do Ministro Maurício Corrêa, Relator da
+ADI nº 1.931-8/DF MC:
+
+"[...]
+55. Assim sendo, os contratos assinados com os consumidores antes da nova
+legislação não podem ser modificados pelas regras ora impostas, sob pena
+de violação ao princípio do direito adquirido e também ao ato jurídico
+perfeito – garantias protegidas pelo mandamento constitucional (CF, artigo
+5º, inciso XXXVI).
+56. Por isso, o § 2º do artigo 10 da Medida Provisória 1730/98, com as
+alterações introduzidas pela MP 1908-18/99, quando obriga os agentes da
+requerente, a partir de 3 de dezembro de 1999, a submeter aos atuais
+consumidores, subscritores de contratos antigos, ao chamado plano-
+referência, viola o inciso XXXVI do artigo 5º da Constituição Federal.
+Essas empresas estão obrigadas a oferecer aos seus futuros clientes o novo
+sistema, contudo não aos atuais.
+[...]
+60. Nesse ponto, entendo patente e indébita a ingerência do Estado no pacto
+celebrado entre as partes. De fato, os dispositivos acima transcritos interferem
+na órbita do direito adquirido e do ato jurídico perfeito, visto que criam regras
+completamente distintas daquelas que foram objeto de contratação.
+
+33
+
+[[pagina 34 | nativo]]
+
+61. A retroatividade determinadas por esses preceitos faz incidir regras da
+legislação nova sobre cláusulas contratuais preexistentes, firmadas sob a
+égide do regime local anterior, que, a meu ver, afrontam o direito consolidado
+das partes, de tal modo que violam o princípio consagrado no inciso XXXVI
+do artigo 5º da Constituição Federal e põem-se em contraste com a
+jurisprudência desta Corte de que é exemplo o acórdão proferido na ADI 493-
+DF, Moreira Alves, publicado na RTJ 143/724.
+[...]".
+(STF, ADI nº 1.931-8/DF MC, Rel. Min. Maurício Côrrea, Plenário, j. 21.08.2003)
+
+95. Considerando o exposto, as regras introduzidas pela Lei do Estado da Paraíba ora
+impugnada infringem de forma manifesta o ato jurídico perfeito, consubstanciado nos
+contratos já firmados entre as operadoras de planos de saúde e os usuários, sob a égide da
+legislação federal aplicável e vigente quando da assinatura dos instrumentos contratuais.
+
+IV. NECESSÁRIA CONCESSÃO DE MEDIDA CAUTELAR INAUDITA ALTERA PARTE
+
+96. Os arts. 10 e 11 da Lei nº 9.868/1999 preveem a possibilidade de concessão de liminar
+em Ação Direta de Inconstitucionalidade para a proteção da ordem constitucional. Nos termos
+da jurisprudência desse STF20, os requisitos para a sua concessão são a verossimilhança do
+direito (fumus boni iuris) e o perigo na demora para a obtenção de provimento judicial
+(periculum in mora), ambos presentes no caso em análise, conforme a seguir será evidenciado.
+
+97. O fumus boni iuris resta comprovado ao longo de toda a exposição contida nessa
+peça processual, notadamente porque a Lei Estadual nº 11.735/2020 viola regras de
+distribuição de competências constitucionalmente estabelecidas ao impor obrigações às
+operadoras de planos de saúde.
+
+98. Além da clara inconstitucionalidade formal, devido à competência da União para
+legislar sobre matéria de contratos e seguros (art. 22, I e VII, da CF), a Lei Estadual, ora
+impugnada, contém evidentes inconstitucionalidades materiais, por violação ao princípio da
+isonomia (art. 5º, caput, da CF), ao princípio da livre iniciativa (arts. 1º, IV e 170, caput, da CF)
+
+20 STF, ADI-MC 5640 MC/GO, Rel. Ministro Gilmar Mendes, decisão monocrática, j. 02.02.2017.
+
+34
+
+[[pagina 35 | nativo]]
+
+e ao ato jurídico perfeito (art. 5º, XXXVI, da CF). A violação a esses princípios decorre,
+respectivamente, da instituição de tratamento diferenciado às pessoas jurídicas que atuam
+exclusivamente no Estado da Paraíba, com impacto futuro nos preços cobrados dos
+beneficiários pelos planos de saúde, e da permissão de “calote” em um momento de
+pandemia, com a inclusão de critério extremamente subjetivo de "redução drástica" da renda
+mensal, sem qualquer delimitação do que estaria nele compreendido.
+
+99. Além disso, conforme amplamente discorrido, esse STF já enfrentou a
+inconstitucionalidade formal em situações semelhantes à da Lei Estadual em questão no
+julgamento de diversas ações diretas de inconstitucionalidade. Em tais julgamentos, sempre
+decidiu pela necessidade de expurgar do ordenamento jurídico brasileiro as normas estaduais
+em desconformidade com as regras de distribuição de competências sobre matérias de direito
+civil e seguros.
+
+100. A título exemplificativo, tem-se os seguintes precedentes, aduzidos no corpo desta
+ação, todos sobre Leis Estaduais tratando de matérias de planos de saúde: ADIs nºs 3.207/PE
+(Doc. 5), 4.701/PE (Doc. 7), 5.984/PR (Doc. 8), 4.818/ES (Doc. 9), 5.173/RJ (Doc. 10) e
+4.445/ES (Doc. 11). Portanto, em vista da segurança jurídica e da coerência do exercício
+jurisdicional prestado por essa Corte, é irrefutável a verossimilhança do direito.
+
+101. Quanto ao periculum in mora, os aspectos a seguir mencionados são de importância
+ímpar e devem ser levados em consideração por esse Tribunal, pois comprovam a excepcional
+urgência da apreciação do caso e, consequentemente, a necessidade de deferimento liminar
+e imediato da medida cautelar, para manutenção a ordem jurídica em um momento de
+pandemia.
+
+102. Primeiramente, ressalta-se que a Lei Estadual nº 11.735/2020 está em vigor desde
+15.07.2020 (data da sua publicação), de modo que desde essa data as operadoras de planos
+de saúde, que atuam naquele território, estão vedadas de interromper a prestação dos serviços
+privados dos planos de saúde por falta de pagamento e de realizar os reajustes anuais
+contratualmente definidos, sob pena de sofrerem com a aplicação de multa.
+
+35
+
+[[pagina 36 | nativo]]
+
+103. Os dispositivos dessa Lei Estadual instituem obrigações além daquelas
+atuarialmente suportáveis pelas operadoras de planos de saúde, culminando,
+consequentemente, na necessidade de revisão dos valores por elas cobrados para evitar o
+desequilíbrio do sistema (o que, se não puder ser por meio de reajustes nos valores dos
+contratos já firmados, poderá ocorrer por meio do aumento do valor para novos contratos),
+uma vez que a mutualidade é característica inerente do mercado de seguros e planos de
+saúde, conforme devidamente demonstrado no tópico anterior. Em outras palavras, a Lei
+Estadual dá uma “carta branca” para a inadimplência no Estado da Paraíba, com prejuízo
+imediato para as operadoras de planos de saúde e, em seguida, para os próprios beneficiários
+dos planos, além de gerar um efeito em cascata a ponto de possibilitar a redução das
+remunerações dos prestadores de serviços médicos.
+
+104. Além de conceder uma "carta branca" para a inadimplência, verifica-se na Lei
+impugnada um verdadeiro elemento indutivo à inadimplência por parte dos usuários dos
+planos de saúde, pois orienta os cidadãos que a ausência de pagamento não afetará a
+cobertura e gera uma expectativa neles de atuação em conformidade com a lei. Contudo, dada
+a flagrante inconstitucionalidade da norma, esses usuários podem, confiando possuírem
+verdadeiro "direito ao inadimplemento" das obrigações financeiras contratadas, sofrer com
+eventual interrupção da prestação do serviço por meio da suspensão ou cancelamento de seu
+contrato, o que impactaria em prejuízo tanto a si próprio quanto à saúde pública pela
+necessidade de alocação desse usuário como paciente do SUS (em vez da rede privada) caso
+necessite de algum atendimento ou internação.
+
+105. Na prática, a norma editada pelo Estado da Paraíba cria externalidades negativas que
+impactam (i) as operadoras dos planos de saúde em razão do desequilíbrio econômico-
+financeiro em seu desfavor; (ii) os usuários dos planos, tendo em vista que a Lei incentiva a
+inadimplência mas o vício de inconstitucionalidade que a macula não impede a suspensão
+e/ou cancelamento dos planos pelas operadoras; (iii) os prestadores de serviços (médicos,
+laboratórios, clínicas e hospitais) pela diminuição de sua remuneração decorrente do efeito
+cascata decorrente da inadimplência; e, ainda, (iv) o próprio sistema de saúde pública, pois a
+
+36
+
+[[pagina 37 | nativo]]
+
+inadimplência incentivada pela Lei Estadual, ao não garantir que os usuários não sofrerão a
+suspensão e/ou cancelamento de seus contratos, terá como efeito o aumento da demanda
+pelo SUS por parte desses cidadãos sem qualquer repasse pelas operadoras dos planos de
+saúde, o qual possui previsão no art. 32 da Lei nº 9.656/199821.
+
+106. Conforme tabela acima indicada no parágrafo 51, há, ainda, diversos projetos de lei
+relativos a matérias semelhantes à da Lei Estadual nº 11.735/2020, os quais tramitam nas
+Assembleias Legislativas de diversos Estados, tendo dois desses projetos sido convertidos nas
+Leis nº 8.811/2020 e 11.281/2020, do Estado do Rio de Janeiro e do Estado do Maranhão,
+respectivamente. Essa proliferação de normas inconstitucionais também contribui para o
+perigo de dano, pois traz uma desordem jurídica que poderá abarcar outros setores da
+economia.
+
+107. Esses projetos de lei visam veicular obrigações excessivamente custosas às operadoras
+de planos de saúde no âmbito de seus Estados durante a vigência do Plano de Contingência
+do Coronavírus, as quais abarcam, considerando as especificidades de cada projeto, (i)
+vedação à suspensão e/ou cancelamento dos planos privados de assistência à saúde durante
+o período de calamidade pública; (ii) impossibilidade de cobrança de multa e juros referente
+ao débito consolidado durante as medidas restritivas, não podendo gerar suspensão e/ou
+cancelamento do plano de saúde em momento posterior; bem como (iii) necessidade de as
+operadoras possibilitarem parcelamento do débito referente à inadimplência anterior a março
+de 2020 (o que abarca meses anteriores à decretação do estado de calamidade), causando
+verdadeira desarmonia e falta de uniformidade nas normas aplicáveis ao mercado de planos
+de saúde.
+
+108. O Projeto de Lei nº 213/2020 do Espírito Santo (Doc. 16) prevê, ainda, que as
+operadoras de planos de assistência à saúde ficam obrigadas ao reestabelecimento imediato
+
+21 "Art. 32. Serão ressarcidos pelas operadoras dos produtos de que tratam o inciso I e o § 1o do art. 1o desta Lei,
+de acordo com normas a serem definidas pela ANS, os serviços de atendimento à saúde previstos nos respectivos
+contratos, prestados a seus consumidores e respectivos dependentes, em instituições públicas ou privadas,
+conveniadas ou contratadas, integrantes do Sistema Único de Saúde - SUS. [...]".
+
+37
+
+[[pagina 38 | nativo]]
+
+dos contratos suspensos ou rescindidos dos consumidores desde a data de 01.10.2019,
+parcelando os valores em atraso das mensalidades após o término das medidas restritivas.
+
+109. A multiplicidade de leis sobre a matéria com estruturas regulamentares distintas cria,
+além da insegurança jurídica manifesta, desequilíbrio econômico-financeiro e atuarial na
+carteira dos planos de saúde.
+
+110. Assim, a suspensão imediata dos efeitos da norma do Estado da Paraíba ora
+impugnada também terá cunho educativo para evitar a proliferação de normas
+inconstitucionais, sob a justificativa do surto da Covid-19, servindo para demonstrar aos
+Poderes Legislativos Estaduais que a aprovação de Projetos de Lei de teor semelhante ao da
+Lei Estadual em questão também terão a sua inconstitucionalidade declarada, com a sua
+retirada do ordenamento jurídico.
+
+111. Por outro lado, a não apreciação da medida cautelar para suspensão imediata dos
+efeitos da norma do Estado da Paraíba, ora impugnada, ou demora para o pronunciamento
+sobre o mérito da inconstitucionalidade possibilitará que os projetos sejam aprovados e
+convertidos em lei inconstitucionais, bem como que outros projetos sobre a matéria sejam
+apresentados nos demais Estados, o que ensejará inúmeras demandas no Judiciário
+decorrentes dessas normas inconstitucionais.
+
+112. Isso gerará um verdadeiro caos jurídico, em nítido desrespeito aos objetivos
+delineados pelo legislador constituinte, os quais merecem ser sempre resguardados por
+essa Corte Constitucional.
+
+113. Dessa forma, o perigo na demora está associado aos efeitos nefastos ocasionados pela
+coexistência de conjuntos normativos distintos em matéria de planos de saúde, o que cria um
+ambiente de absoluta insegurança para os particulares quanto à lei a que se deve observância.
+
+114. Com isso, a medida cautelar pleiteada visa resguardar a higidez das disposições
+constitucionais afetadas pela entrada em vigor da Lei Estadual nº 11.735/2020, o que se deve
+
+38
+
+[[pagina 39 | nativo]]
+
+fazer com excepcional urgência.
+
+115. A falta de apreciação liminar da medida cautelar, ora requerida, terá impacto
+significativo no lapso temporal até o julgamento definitivo da ação, pois permitirá a
+manutenção de ambiente propício: (i) para a perpetuidade do desrespeito às disposições
+constitucionais, atinentes à competência privativa da União Federal para legislar sobre matéria
+de contratos e seguros (art. 22, I e VII, da CF) e ao princípio da isonomia (art. 5º, caput, da CF);
+(ii) para o prejuízo direto e imediato, com sanções administrativas, às operadoras de planos
+de saúde, com base em lei inconstitucional, justamente em um momento de pandemia; (iii)
+para a aprovação de outros projetos de lei em matéria semelhante nesse contexto de
+pandemia do coronavírus, ocasionando verdadeira insegurança jurídica pela manutenção de
+conjuntos normativos com previsões conflitantes; e (iv) para o desequilíbrio da mutualidade
+do sistema pela imposição de ônus às operadoras de planos de saúde que, de alguma forma,
+culminarão em aumento dos valores cobrados pelos beneficiários, em razão da própria
+natureza dos contratos de planos de saúde (semelhante à dos contratos de seguro),
+prejudicando os próprios beneficiários em vez de defendê-los e os prestadores de serviços
+médicos.
+
+116. Do mesmo modo que o instituto conhecido como suspensão de segurança permite
+suspender a eficácia de decisões liminares concedidas nas ações movidas contra o Poder
+Público ou seus agentes "para evitar grave lesão à ordem, à saúde, à segurança e à economia
+públicas", nos termos do art. 4º da Lei nº 8.347/1985, a concessão do pedido cautelar em sede
+de ação direta de inconstitucionalidade é medida imprescindível quando a lei impugnada
+implica em risco de grave lesão à ordem, à saúde, à segurança e à economia públicas.
+
+117. Essa é justamente a situação ocasionada pela produção de efeitos da Lei nº
+11.735/2020 no ordenamento jurídico, qual seja, risco de grave lesão à ordem e à saúde
+pública.
+
+118. No que se refere ao risco de grave lesão à saúde pública, a Lei Estadual impugnada na
+presente ação, conforme já exposto, ao incentivar o inadimplemento por parte dos usuários
+
+39
+
+[[pagina 40 | nativo]]
+
+por meio da regulamentação de um "direito ao inadimplemento" das obrigações financeiras
+decorrentes dos contratos de planos de saúde e não impedir a interrupção dos serviços por
+meio suspensão e/ou cancelamento de seus contratos (haja vista sua flagrante
+inconstitucionalidade), impacta no aumento da demanda pelo SUS sem qualquer repasse
+correspondente pelas operadoras.
+
+119. Sabe-se que esse repasse realizado pela ANS ao SUS pelos serviços de atendimento à
+saúde aos consumidores das operadoras alcançaram o valor de R$ 4 bilhões desde que a ANS
+foi criada, em 2000. Apenas em 2019, o valor do repasse alcançou R$ 1,15 bilhão, conforme
+informações obtidas no site da própria Agência.22
+
+120. Quanto ao risco de grave lesão à ordem pública, esse STF entendeu na Medida Cautelar
+na Suspensão de Segurança nº 5.282/DF:
+
+"Outrossim, o indicado abalo à ordem pública administrativa e à ordem
+econômica reforça-se pelo provável efeito multiplicador que a medida
+judicial questionada pode suscitar, eis que, segundo noticia a Fazenda
+Pública, há “mais de 60 processos onde se discute a legitimidade do voto de
+qualidade no CARF”. Dessa forma, segundo os dados apresentados pela
+requerente, os reflexos econômicos, ainda que indiretos, de decisões como a
+ora questionada poderiam alcançar valores superiores a R$ 25 bilhões, com
+potencial significativo a abalar a própria programação orçamentária e
+financeira da União.
+Destarte, na espécie, o efeito multiplicador se revela presente pelo risco
+de proliferação de demandas idênticas, haja vista a existência de
+inúmeros outros contribuintes em situação análoga à dos impetrantes.
+Com efeito, trata-se de fundamento apto a ensejar a suspensão liminar
+da medida judicial impugnada, na linha do que afirmam os seguintes
+precedentes do Plenário desta Corte."
+(STF, SS 5.282 MC/DF, Rel. Min. Luiz Fux, decisão monocrática, j. 25.03.2019 –
+grifo nosso)
+
+121. Decisão semelhante foi proferida no Agravo Regimental na Suspensão de Tutela
+Antecipada nº 787/SP:
+
+“AGRAVO REGIMENTAL NA SUSPENSÃO DE TUTELA ANTECIPADA. TETO
+REMUNERATÓRIO. EMENDA CONSTITUCIONAL 41/2003. EFICÁCIA
+
+22 Disponível em <http://www.ans.gov.br/aans/noticias-ans/integracao-com-o-sus/5468-ressarcimento-ans-
+repassou-valor-recorde-de-r-1-15-bilhao-ao-sus-em-2019>. Acessado em 22 de julho de 2020.
+
+40
+
+[[pagina 41 | nativo]]
+
+IMEDIATA DOS LIMITES NELA FIXADOS. EXCESSOS. GRAVE LESÃO À ORDEM
+E À ECONOMIA PÚBLICAS. DECISÃO AGRAVADA QUE DEFERIU A
+SUSPENSÃO DE TUTELA ANTECIPADA. AGRAVO REGIMENTAL A QUE SE
+NEGA PROVIMENTO. I – O Supremo Tribunal Federal pacificou o
+entendimento de que a percepção por servidores públicos de proventos ou
+remuneração acima do limite estabelecido no art. 37, XI, da Constituição da
+República enseja lesão à ordem pública. II – Impõe-se a suspensão das
+decisões como forma de evitar o efeito multiplicador, que se
+consubstancia no aforamento, nos diversos tribunais, de processos
+visando ao mesmo escopo. Precedentes. III – Agravo regimental a que se
+nega provimento.”
+(STA 787-AgR, Rel. Min. Ricardo Lewandowski, Tribunal Pleno, j. 02.09.2016 –
+grifo nosso)
+
+122. Ou seja, o efeito multiplicador que determinada decisão pode provocar no surgimento
+de demandas é fundamento para a suspensão de segurança.
+
+123. Da mesma forma, o efeito multiplicador do surgimento de outras leis inconstitucionais
+sobre matéria semelhante e da eclosão de demandas questionando tais normas causado pela
+produção de efeitos de determinada lei inconstitucional no ordenamento jurídico (no caso, a
+Lei Estadual nº 11.735/2020) é fundamento válido e suficiente para a imediata apreciação e
+concessão da medida cautelar no caso em questão.
+
+124. Verifica-se, portanto, que a demora para apreciação dessa ação direta de
+inconstitucionalidade e da expulsão da Lei Estadual nº 11.735/2020 implica em risco grave à
+ordem (pelo efeito multiplicador acima demonstrado) e à saúde pública (por induzir o
+inadimplemento dos usuários dos planos de saúde mas não impedir a suspensão e/ou
+cancelamento por parte das operadoras, dado seu vício de inconstitucionalidade, aumentando
+a demanda do serviço público de saúde e diminuindo o repasse da ANS ao SUS referente a
+esse Estado).
+
+125. Por essa razões, a Requerente pugna, com fundamento no art. 102, I, “p", da CF, arts.
+10, § 3º, e 11 da Lei nº 9.868/1999, a concessão da medida cautelar pleiteada, inaudita altera
+parte e, se necessário, ad referendum do Plenário, para a suspensão da eficácia da Lei
+Estadual nº 11.735/2020 até o julgamento definitivo desta ação, considerando a existência de
+
+41
+
+[[pagina 42 | nativo]]
+
+diversos precedentes desse STF sobre o tema23, bem como a urgência excepcional que o
+assunto reclama.
+
+V. CONCLUSÃO E PEDIDOS
+
+126. Por todo o exposto, a Requerente requer:
+
+(i) o deferimento de medida cautelar, para suspender os efeitos de todos os
+dispositivos da Lei nº 11.735 do Estado da Paraíba, na forma do art. 10 e 11 da Lei nº
+9.868/1999, sendo que, dada a excepcional urgência que o caso demanda, pugna
+pelo deferimento monocrático dessa medida cautelar, sem a oitiva prévia dos
+órgãos ou autoridades das quais emanou a lei impugnada, e se necessário, ad
+referendum do Plenário, na forma do art. 10, § 3º, e 11 da Lei nº 9.868/1999;
+
+(ii) na remota hipótese de não ser acolhido o pedido anterior, seja atribuído à presente
+ADI o rito sumário do art. 12 da Lei nº 9.868/1999, em face da relevância da matéria e
+do seu especial significado para a ordem social e a segurança jurídica do país;
+
+(iii) independentemente do rito adotado, sejam solicitadas informações ao Presidente
+da Assembleia Legislativa e ao Governador do Estado da Paraíba para prestarem
+informações, conforme o art. 6º da Lei nº 9.868/1999, e, em seguida, determinada a
+oitiva sucessiva do Advogado-Geral da União e do Procurador-Geral da República;
+
+23 “O pedido é juridicamente plausível, tendo em vista, principalmente, a alegada competência da União para
+legislar sobre direito civil e comercial. As empresas, objeto da lei, operam, através de contratos com pessoas físicas
+e jurídicas, no setor de saúde, pelos quais se obrigam a atendimento médico-hospitalar na forma de diversos planos
+pactuados. Concorre o perigo do dano da aplicação da lei, posto que cria obrigações além daquelas atuarialmente
+suportáveis pelos planos de saúde. (...) Concedo a liminar para suspender a eficácia dos atos normativos aqui
+impugnados até que o Tribunal decida o mérito”. (STF, ADI nº 1.595-8/SP, Min. Rel. Nelson Jobim, Plenário, j.
+30.04.1997).
+“São efetivamente relevantes os fundamentos jurídicos da ação, notadamente no que concerne à incompetência
+do Estado-membro, diante das regras dos arts. 22, I e VII , e 192, II; dos arts. 170 e 5º, XXXVI, todos da Constituição
+Federal. O periculum in mora é, por igual, presente, na medida em que, entrando em vigor a Lei impugnada desde
+a publicação, a regra de seu art. 1º, bem como as sanções previstas em seus arts. 4º, parágrafo único, 5º e 7º, estão
+na iminência de aplicação às seguradoras, ora representadas pela autora. Do exposto, defiro a liminar e suspendo
+a vigência da Lei nº 11.446, de 10.07.1997, do Estado do Pernambuco, ex nunc e até o julgamento final da presente
+ação.” (STF, ADI nº 1.646-6/PE, Min. Rel. Néri da Silva, Plenário, j. 07.08.1997).
+
+42
+
+[[pagina 43 | nativo]]
+
+(iv) no mérito, seja julgada procedente a presente ação direta de inconstitucionalidade,
+com eficácia erga omnes e efeitos ex tunc, para que seja declarada a
+inconstitucionalidade formal e material da Lei nº 11.735, de 14.07.2020, do Estado da
+Paraíba, pelos fundamentos acima expostos.
+
+127. Por fim, a Requerente requer que todas as publicações decorrentes deste processo
+sejam feitas, exclusivamente, em nome dos advogados Luis Inácio Lucena Adams, inscrito na
+OAB/DF nº 29.512, e Mauro Pedroso Gonçalves, inscrito na OAB/DF sob o nº 21.278, sob
+pena de nulidade.
+
+128. Dá-se à causa o valor de R$ 1.000,00 (mil reais).
+
+Termos em que, pede deferimento.
+Brasília, 19 de agosto de 2020.
+
+Luis Inácio Lucena Adams Mauro Pedroso Gonçalves
+OAB/DF nº 29.512 OAB/DF nº 21.278
+
+Louise Dias Portes
+OAB/RJ nº 203.612
+
+43
+
+[[pagina 44 | nativo]]
+
+RELAÇÃO DE DOCUMENTOS ANEXOS
+
+Doc. 1 Estatuto Social e Ata de Eleição da Diretoria
+
+Doc. 2 Procuração
+
+Doc. 3 Lei nº 11.735, de 14.07.2020, do Estado da Paraíba, publicada no Diário Oficial
+
+do Estado em 15.07.2020
+
+Doc. 4 Comprovante do caráter nacional da CNSEG
+
+Doc. 5 Acórdão na ADI nº 3.207/PE
+
+Doc. 6 Parecer nº 122/2020, da Comissão de Constituição, Justiça e Redação, acerca
+
+do Projeto de Lei nº 1.670/2020
+
+Doc. 7 Acórdão na ADI nº 4.701/PE
+
+Doc. 8 Acórdão da ADI nº 5.984/PR
+
+Doc. 9 Acórdão na ADI nº 4.818/ES
+
+Doc. 10 Acórdão na ADI nº 5.173/RJ;
+
+Doc. 11 Acórdão na ADI nº 4.445/ES;
+
+Doc. 12 Acórdão na ADI nº 4.704/DF
+
+Doc. 13 Manifestação da PGR na ADI nº 5.984/PR
+
+44
+
+[[pagina 45 | nativo]]
+
+Doc. 14 Lei nº 8.811/2020, do Estado do Rio de Janeiro
+
+Doc. 15 Lei nº 11.281/2020, o Estado do Maranhão
+
+Doc. 16 Projeto de Lei nº 213/2020, do Estado do Espírito Santo
+
+Doc. 17 Projeto de Lei nº 23/2020, do Estado do Acre
+
+Doc. 18 Projeto de Lei nº 589/2020, do Estado de Rondônia
+
+45

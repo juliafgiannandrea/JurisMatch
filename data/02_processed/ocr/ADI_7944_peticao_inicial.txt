@@ -1,0 +1,1230 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO
+
+BRASIL CFOAB, serviço público independente, dotado de personalidade jurídica e
+
+forma federativa, nos termos da Lei 8.906/1994, inscrito no CNPJ sob o nº
+
+33.205.451/0001-14, representado neste ato por seu Presidente, por intermédio das/os
+
+advogadas/os infra-assinados, com instrumento procuratório anexo e endereço para
+
+comunicações no SAUS, Quadra 5, Lote 1, Bloco M, Brasília/DF, CEP 70.070-939, e
+
+endereço eletrônico pc@oab.org.br, vem, respeitosamente, à presença de Vossa
+
+Excelência, com fulcro nos arts. 102, I, “a”, e 103, VII, da Constituição Federal de
+
+1988 (CF/1988), no art. 54, XIV, da Lei nº 8.906/94 e no art. 2º, VII, da Lei nº
+
+9.868/99, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO DE MEDIDA CAUTELAR
+
+em face do art. 4º, § 2º, II, “a”, § 3º, I, § 4º, VII, § 5º, caput, I e II, todos da Lei
+
+Complementar nº 224, de 26 de dezembro de 2025 e, por arrastamento, o art. 2º, § 2º,
+
+II, “a”, art. 3º, I, art. 11, art. 12, caput, parágrafo único, I e II, todos do Decreto nº
+
+12.808/2025; e art. 2º, § 1º, II, “a”, art. 4º, I, art. 13, art. 14 e art. 15 da Instrução
+
+Normativa RFB nº 2.305/2025, tanto na redação original como na redação dada pela
+
+Instrução Normativa RFB nº 2.306/2026, que majoraram para 10% o percentual de
+
+presunção de lucro para o fim de tributação pelo Imposto de Renda da Pessoa Jurídica
+
+(IRPJ) e a Contribuição Social sobre o Lucro Líquido (CSLL) das pessoas jurídicas
+
+que se submetem ao regime tributário do lucro presumido, pelas razões que passa a
+
+expor.
+
+1
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 2 | nativo]]
+
+I. DA DISTRIBUIÇÃO POR DEPENDÊNCIA
+
+Preliminarmente, é necessário destacar que tramita perante esta
+
+Suprema Corte a ADI 7936, ajuizada pela Confederação Nacional de Serviços – CNS,
+
+a qual possui exata identidade de objeto da presente ação, na medida em que essa ação
+
+também busca a declaração de inconstitucionalidade do art. 4º, §2º, inciso II, “a”, §3º,
+
+I, § 4º, inciso VII e § 5º, caput e incisos I e II, da Lei Complementar nº 224, de 26 de
+
+dezembro de 2025, e, por arrastamento, os arts. 2º, §2º, II, “a”, 3º, I, 11 e 12 do Decreto
+
+nº 12.808, de 29 de dezembro de 2025 e arts. 2º, §1º, II, “a”, 4º, I, 13, 14 e 15 da
+
+Instrução Normativa RFB nº 2.305, de 31 de dezembro de 2025, que instituíram a
+
+majoração da carga tributária incidente sobre as pessoas jurídicas optantes pelo regime
+
+do lucro presumido.
+
+A ADI 7936 foi protocolada no dia 11 de fevereiro de 2026 e distribuída
+
+ao Excelentíssimo Ministro Luiz Fux, que já assumiu a jurisdição sobre a controvérsia,
+
+tendo inclusive proferido despacho em 10 de março de 2026. Na referida decisão, o
+
+Ministro Relator determinou a adoção do rito abreviado do art. 12 da Lei 9.868/1999
+
+e a notificação das autoridades requeridas para que prestem informações no prazo de
+
+10 dias.
+
+O Regimento Interno do STF, em seus arts. 69 e 77-B, estabelece que,
+
+havendo coincidência total ou parcial de objeto entre ações, como ocorre no presente
+
+caso, impõe-se a distribuição por dependência. No mesmo sentido, o art. 286 do CPC
+
+dispõe que as ações devem ser distribuídas por dependência quando houver conexão,
+
+continência ou relação com processo anteriormente ajuizado.
+
+Essa sistemática busca evitar a prolação de decisões contraditórias ou
+
+conflitantes, além de assegurar maior segurança jurídica e uniformidade na
+
+interpretação constitucional por essa Suprema Corte.
+
+Assim, considerando que o Ministro Luiz Fux já assumiu a relatoria da
+
+ADI 7936 e deu início à instrução do feito, mostra-se adequada a distribuição por
+
+dependência das ações supervenientes que versem sobre o mesmo ato normativo.
+2
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 3 | nativo]]
+
+II. DOS DISPOSITIVOS LEGAIS QUESTIONADOS
+
+A presente ação direta de inconstitucionalidade tem por objeto o
+
+controle concentrado de constitucionalidade do seguintes dispositivos: art. 4º, § 2º, II,
+
+“a”, § 3º, I, § 4º, VII, § 5º, caput, I e II, todos da Lei Complementar nº 224, de 26 de
+
+dezembro de 2025 e, por arrastamento, o art. 2º, § 2º, II, “a”, art. 3º, I, art. 11, art. 12,
+
+caput, parágrafo único, I e II, do Decreto nº 12.808/2025; e art. 2º, § 1º, II, “a”, art. 4º,
+
+I, art. 13, art. 14 e art. 15 da Instrução Normativa RFB nº 2.305/2025, tanto na redação
+
+original como na redação dada pela Instrução Normativa RFB nº 2.306/2026.
+
+Os dispositivos impugnados guardam o seguinte teor:
+
+LEI COMPLEMENTAR Nº 224, DE 26 DE DEZEMBRO DE 2025
+
+Art. 4º Os incentivos e benefícios federais de natureza tributária são
+reduzidos na forma deste artigo. Produção de efeitos
+(...)
+§ 2º O disposto neste artigo abrange os incentivos e benefícios
+tributários federais relativos aos tributos especificados no § 1º deste
+artigo:
+I - discriminados no demonstrativo de gastos tributários a que se
+refere o § 6º do art. 165 da Constituição Federal anexo à Lei
+Orçamentária Anual de 2026; ou
+II - instituídos por meio dos seguintes regimes:
+a) lucro presumido, previsto nos arts. 25 e 26 da Lei nº 9.430, de 27
+de dezembro de 1996;
+(...)
+§ 3º Para fins do disposto nesta Lei Complementar, considera-se
+sistema padrão de tributação:
+I - para o IRPJ e a CSLL, as normas que disciplinam a tributação
+pelo lucro real, sem aplicação de descontos ou benefícios tributários;
+(...)
+§ 4º A redução dos incentivos e benefícios a que se refere este artigo
+será implementada cumulativamente, nos termos a seguir:
+(...)
+VII - regimes de tributação em que a base de cálculo seja presumida:
+acréscimo de 10% (dez por cento) nos percentuais de presunção.
+§ 5º No caso do regime do lucro presumido, previsto nos arts.
+25 e 26 da Lei nº 9.430, de 27 de dezembro de 1996, o acréscimo
+previsto no inciso VII do § 4º deste artigo somente se aplica aos
+percentuais de presunção incidentes sobre a parcela da receita bruta
+
+3
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 4 | nativo]]
+
+total que exceda o valor de R$ 5.000.000,00 (cinco milhões de reais)
+no ano-calendário, aplicando-se:
+I - o limite proporcionalmente a cada período de apuração no ano,
+permitido o ajuste nos períodos seguintes; e
+II - o acréscimo proporcionalmente às receitas de cada uma das
+atividades.
+
+DECRETO Nº 12.808, DE 29 DE DEZEMBRO DE 2025
+
+Art. 2º Os incentivos e os benefícios federais de natureza tributária
+são reduzidos na forma do disposto neste Capítulo.
+(...)
+§ 2º O disposto neste artigo abrange os incentivos e os benefícios
+tributários federais relativos aos tributos especificados no § 1º:
+I - discriminados no demonstrativo de gastos tributários a que se
+refere o art. 165, § 6º, da Constituição, anexo à Lei Orçamentária
+Anual de 2026; ou
+II - instituídos por meio dos seguintes regimes:
+a) lucro presumido;
+(...)
+Art. 3º Para fins do disposto neste Decreto, considera-se sistema
+padrão de tributação:
+I - para o IRPJ e a CSLL, as normas que disciplinam a tributação
+pelo lucro real, sem aplicação de descontos ou benefícios tributários;
+(...)
+Art. 11. No caso de regimes de tributação em que a base de cálculo
+seja presumida, a redução do benefício será implementada mediante
+acréscimo de 10% (dez por cento) nos percentuais de presunção.
+Art. 12. No caso de pessoa jurídica tributada com base no lucro
+presumido, deverá ser observado o acréscimo de 10% (dez por
+cento) nos percentuais de presunção previstos na legislação do IRPJ
+e da CSLL.
+Parágrafo único. No caso do regime do lucro presumido, o
+acréscimo previsto no caput somente se aplica aos percentuais de
+presunção incidentes sobre a parcela da receita bruta total que
+exceda ao valor de R$ 5.000.000,00 (cinco milhões de reais) no ano-
+calendário, aplicando-se:
+I - o limite proporcionalmente a cada período de apuração no ano,
+permitido o ajuste nos períodos seguintes referentes ao mesmo ano-
+calendário; e
+II - o acréscimo proporcionalmente às receitas de cada uma das
+atividades.
+
+INSTRUÇÃO NORMATIVA RFB Nº 2305, DE 31 DE
+DEZEMBRO DE 2025
+
+4
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 5 | nativo]]
+
+Art. 2º Os incentivos e os benefícios federais de natureza tributária
+são reduzidos em relação aos seguintes tributos federais:
+(...)
+§ 1º O disposto neste artigo abrange os incentivos e benefícios
+tributários federais relativos aos tributos especificados no caput
+deste artigo:
+(...)
+II - instituídos por meio dos seguintes regimes:
+a) lucro presumido;
+(...)
+Art. 4º Para fins de redução dos incentivos e benefícios tributários,
+será considerado sistema padrão de tributação:
+I - para o IRPJ e a CSLL, as normas que disciplinam a tributação
+pelo lucro real, sem aplicação de descontos ou benefícios tributários;
+(...)
+Art. 13. No caso de regimes de tributação em que a base de cálculo
+seja presumida, a redução do benefício será implementada mediante
+acréscimo de 10% (dez por cento) nos percentuais de presunção.
+Art. 14. No caso de pessoa jurídica tributada com base no lucro
+presumido, deverá ser observado o acréscimo de 10% (dez por
+cento) nos percentuais de presunção previstos na legislação do IRPJ
+e da CSLL.
+Art. 14. No caso de pessoa jurídica tributada com base no lucro
+presumido, deverá ser observado o acréscimo em 10% (dez por
+cento) nos percentuais de presunção previstos na legislação do IRPJ
+e da CSLL. [Redação dada pelo(a) Instrução Normativa RFB nº
+2306, de 22 de janeiro de 2026]
+Art. 15. O acréscimo previsto no art. 14 somente se aplica aos
+percentuais de presunção incidentes sobre a parcela da receita bruta
+total que exceder o valor de R$ 5.000.000,00 (cinco milhões de
+reais) no respectivo ano-calendário, aplicando-se:
+Art. 15. O acréscimo previsto no art. 14 somente se aplica aos
+percentuais de presunção incidentes sobre a parcela da receita bruta
+total que exceder o valor de R$ 5.000.000,00 (cinco milhões de
+reais) no respectivo ano-calendário. [Redação dada pelo(a)
+Instrução Normativa RFB nº 2306, de 22 de janeiro de 2026]
+
+Os referidos dispositivos normativos passaram a estabelecer uma
+
+injustificável majoração de 10% na base de presunção legal sobre o qual incidem o
+
+IRPJ e a CSLL, alcançando todas as atividades econômicas que se enquadram no
+
+regime tributário do lucro presumido.
+
+5
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 6 | nativo]]
+
+É possível sustentar que, a um só tempo, as alterações legislativas ora
+
+impugnadas malferem as disposições constitucionais (CF/1988) constantes do § 1º do
+
+art. 145, que estabelece o conceito constitucional de capacidade contributiva; do
+
+inciso III do art. 153, que dispõe sobre o conceito de renda tributável; do § 6º do art.
+
+165, que restringe o conceito de gasto tributário; bem como o inciso LXIX do art. 5º;
+
+e do § 3º do art. 145, que erige os princípios da proteção da confiança legítima e da
+
+segurança jurídica ao nível dos direitos fundamentais e que veicula expressamente o
+
+princípio da simplicidade do Sistema Tributário Nacional.
+
+III. DA CONTROVÉRSIA CONSTITUCIONAL
+
+III.1. O regime tributário do lucro presumido
+
+As normas que instituem e regulamentam a tributação da renda
+
+corporativa admitem diferentes regimes de apuração da respectiva base de cálculo,
+
+quais sejam o lucro real, o lucro presumido e o lucro arbitrado, conforme art. 44 do
+
+Código Tributário Nacional. Esses modelos são coexistentes e integram a própria
+
+estrutura legal do IRPJ e da CSLL, tributos que recaem sobre a referida grandeza
+
+econômica, não se podendo falar em hierarquia, preferência ou regime de referência
+
+entre eles.
+
+Nesta senda, a Lei nº 9.249, de 26 de dezembro de 1995, editada no
+
+contexto mais amplo das reformas legislativas e constitucionais voltadas à
+
+estabilização inflacionária, deu à sistemática de presunção do lucro tributável seus
+
+contornos atuais, definindo alíquotas distintas em função das atividades econômicas
+
+desempenhadas pelo contribuinte. Essa sistemática viabiliza ao contribuinte submeter
+
+à tributação uma parcela presumida (presunção legal) de lucro. Não se trata de apurar
+
+o lucro efetivo, mas de se definir ex ante a presunção de lucro atribuível às diferentes
+
+atividades.
+
+Por essa sistemática, nota-se um balanceamento na relação entre a
+
+margem de lucro usualmente verificada entre as pessoas jurídicas que exercem
+
+6
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 7 | nativo]]
+
+determinada atividade e os percentuais de presunção a serem aplicados sobre a receita
+
+bruta dessas mesmas empresas para definição da base de cálculo do tributo. No regime
+
+do lucro presumido, não há uma margem exata de lucro sobre a qual recairá a
+
+tributação deste signo de riqueza, mas um reconhecimento normativo de que, com base
+
+na observação empírica, algumas atividades apuram maior lucro do que outras.
+
+Partindo dessa premissa, é possível assentar a compreensão de que os
+
+prestadores de serviços em geral, como é o caso da advocacia, exercem atividade
+
+profissional cujos efeitos econômicos estão compreendidos pela legislação como
+
+justificadora de um lucro presumido de 32% (trinta e dois por cento), nos termos do
+
+art. 15, § 1º, III, “a”, da Lei nº 9.249/1995. Vejamos:
+
+“Art. 15. A base de cálculo do imposto, em cada mês, será
+determinada mediante a aplicação do percentual de 8% (oito por
+cento) sobre a receita bruta auferida mensalmente, observado o
+disposto no art. 12 do Decreto-Lei no 1.598, de 26 de dezembro de
+1977, deduzida das devoluções, vendas canceladas e dos descontos
+incondicionais concedidos, sem prejuízo do disposto nos arts. 30,
+32, 34 e 35 da Lei no 8.981, de 20 de janeiro de 1995. (Redação dada
+pela Lei nº 12.973, de 2014)
+§ 1º Nas seguintes atividades, o percentual de que trata este artigo
+será de: [...]
+III - trinta e dois por cento, para as atividades de:
+a) prestação de serviços em geral, exceto a de serviços hospitalares
+e de auxílio diagnóstico e terapia, patologia clínica, imagenologia,
+anatomia patológica e citopatologia, medicina nuclear e análises e
+patologias clínicas, desde que a prestadora destes serviços seja
+organizada sob a forma de sociedade empresária e atenda às normas
+da Agência Nacional de Vigilância Sanitária – Anvisa; [...]”
+
+A opção, como se vê, é de política tributária, traduzindo-se em autêntica
+
+técnica de arrecadação do IRPJ e da CSLL, sem que isso repercuta em benefício ou
+
+incentivo tributário a algum contribuinte. O denominado regime do lucro presumido
+
+revela apenas um regime de apuração tributária que promove os interesses da
+
+arrecadação e os dos contribuintes, emergindo como o resultado de uma ponderação
+
+entre os princípios constitucionais da praticabilidade e da capacidade contributiva.
+
+7
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 8 | nativo]]
+
+III.2. A majoração do percentual de presunção do lucro pela LC 224/2025
+
+A Lei Complementar nº 224, de 26 de dezembro de 2025, passou a
+
+dispor sobre a redução de benefícios e incentivos tributários relativos a determinados
+
+tributos federais, inclusive o IRPJ e a CSLL. O art. 4º, § 2º, II, “a”, § 4º, VII, e § 5º,
+
+do referido diploma legal, instituiu a majoração de 10% (dez por cento) nos percentuais
+
+de presunção do lucro para as pessoas jurídicas prestadoras de serviços em geral
+
+optantes pelo regime do lucro presumido, a ser aplicado sobre a parcela da receita bruta
+
+anual que exceder o limite de R$ 5.000.000,00 (cinco milhões de reais).
+
+Dentre as pessoas jurídicas afetadas estão, por certo, as sociedades de
+
+advogados e as sociedades unipessoais de advocacia que prestam serviços e se
+
+submetem ao regime de lucro presumido; mas também é possível enxergar e enquadrar
+
+outras tantas atividades profissionais que laboram na prestação de serviços em geral.
+
+Neste contexto normativo, o legislador complementar incluiu o regime
+
+do lucro presumido no rol passível de redução, ainda que não se tratasse de benefício
+
+tributário.
+
+No que interessa ao escopo da presente ação de controle de
+
+constitucionalidade, a Lei Complementar nº 224/2025 estabeleceu que a redução deste
+
+suposto benefício fiscal seria implementada mediante o acréscimo de 10% (dez por
+
+cento) nos percentuais de presunção de lucro aplicáveis às receitas que excederem R$
+
+5.000.000,00 (cinco milhões de reais) no ano-calendário. Vejamos:
+
+Art. 4º Os incentivos e benefícios federais de natureza tributária são
+reduzidos na forma deste artigo. Produção de efeitos
+(...)
+§ 2º O disposto neste artigo abrange os incentivos e benefícios
+tributários federais relativos aos tributos especificados no § 1º deste
+artigo:
+I - discriminados no demonstrativo de gastos tributários a que se
+refere o § 6º do art. 165 da Constituição Federal anexo à Lei
+Orçamentária Anual de 2026; ou
+II - instituídos por meio dos seguintes regimes:
+
+8
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 9 | nativo]]
+
+a) lucro presumido, previsto nos arts. 25 e 26 da Lei nº 9.430, de 27
+de dezembro de 1996;
+(...)
+§ 3º Para fins do disposto nesta Lei Complementar, considera-se
+sistema padrão de tributação:
+I - para o IRPJ e a CSLL, as normas que disciplinam a tributação
+pelo lucro real, sem aplicação de descontos ou benefícios tributários;
+(...)
+§ 4º A redução dos incentivos e benefícios a que se refere este artigo
+será implementada cumulativamente, nos termos a seguir:
+(...)
+VII - regimes de tributação em que a base de cálculo seja presumida:
+acréscimo de 10% (dez por cento) nos percentuais de presunção.
+§ 5º No caso do regime do lucro presumido, previsto nos arts. 25 e
+26 da Lei nº 9.430, de 27 de dezembro de 1996, o acréscimo previsto
+no inciso VII do § 4º deste artigo somente se aplica aos percentuais
+de presunção incidentes sobre a parcela da receita bruta total que
+exceda o valor de R$ 5.000.000,00 (cinco milhões de reais) no ano-
+calendário, aplicando-se:
+I - o limite proporcionalmente a cada período de apuração no ano,
+permitido o ajuste nos períodos seguintes; e
+II - o acréscimo proporcionalmente às receitas de cada uma das
+atividades.
+
+Sob o pretexto de regulamentar a Lei Complementar nº 224/2025,
+
+foram editados o Decreto nº 12.808/2025 e a Instrução Normativa RFB nº 2.305/2025,
+
+que impuseram aos contribuintes o acompanhamento trimestral do faturamento e a
+
+aplicação da presunção majorada sobre a parcela excedente ao referido limite.
+
+Consequentemente, as atividades profissionais de prestação de
+
+serviços, até então submetidas ao percentual de presunção de 32% (trinta e dois por
+
+cento) para o IRPJ e a CSLL – art. 15, § 1º, III, “a”, da Lei nº 9.249/1995 –, passarão
+
+a ter que observar o percentual majorado de 35,2% (trinta e cinco vírgula dois por
+
+cento) sobre a parcela da receita que exceder o referido anual limite de R$
+
+5.000.000,00 (cinco milhões), em razão das recentes e impugnadas alterações
+
+legislativas.
+
+A majoração do percentual do lucro presumido, na forma como
+
+veiculadas nas referidas normas infraconstitucionais, não decorre de qualquer
+9
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 10 | nativo]]
+
+alteração na realidade econômica das sociedades de advogados e das sociedades
+
+unipessoais de advocacia ou de aumento da lucratividade da atividade profissional,
+
+mas de opção política unilateral que descaracteriza o regime tributário do lucro
+
+presumido, indevidamente tratado como benefício fiscal.
+
+Trata-se, na prática, de aumento da carga tributária, que não se restringe
+
+a determinado setor, mas alcança todas as empresas que superem o patamar de
+
+faturamento fixado.
+
+Contudo, tais modificações acabaram por refletir uma equivocada
+
+compreensão do regime tributário do lucro presumido: um instrumento de
+
+simplificação e segurança jurídica passou a ser compreendido e convolado como um
+
+mecanismo arrecadatório, na medida em que equivocadamente assimilado pela
+
+política fiscal como um benefício ou incentivo.
+
+Esse entendimento é manifestamente errático. Não apenas a legislação,
+
+mas os próprios posicionamentos históricos da Receita Federal do Brasil nunca
+
+trataram uma sistemática de apuração como um benefício fiscal. A verdade é que
+
+acabou por se reconhecer que uma sistemática que viabiliza a arrecadação por meio de
+
+uma maior simplificação da atividade de apuração e recolhimento de tributos se
+
+equipararia a benefício, o que é inadmissível.
+
+As alterações promovidas pela Lei Complementar nº 224/2025 e demais
+
+normativos regulamentares fazem com que os prestadores de serviços submetidos à
+
+tributação no regime do lucro presumido se vejam obrigados a suportar um aumento
+
+substancial da carga efetiva do IRPJ e da CSLL, ainda que formalmente preservadas
+
+as alíquotas legais. É dizer, o percentual de 32% previsto no art. 15, § 1º, III, “a”, da
+
+Lei nº 9.249/1995 acaba por ser majorado em 3,2% a partir do que consta do
+
+inconstitucional inciso VII do § 4º do art. 4º da Lei Complementar nº 224/2025.
+
+10
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 11 | nativo]]
+
+III.3. Inconstitucionalidade material
+
+O art. 4º, § 2º, II, “a”, § 3º, I, § 4º, VII, § 5º, caput, I e II da Lei
+
+Complementar nº 224/2025 revelam-se inconstitucionais a partir do seu manifesto
+
+desalinhamento com diversos dispositivos constitucionais (CF/1988), a saber o § 1º
+
+do art. 145, que estabelece conceito normativo de capacidade contributiva; o inciso
+
+III do art. 153, que dispõe sobre o conceito de renda tributável; o § 6º do art. 165,
+
+que restringe o conceito de gasto tributário; bem como o inciso LXIX do art. 5º e o §
+
+3º do art. 145, que erige os princípios da proteção da confiança legítima e da segurança
+
+jurídica ao nível dos direito fundamentais e que veicula expressamente o princípio da
+
+simplicidade do Sistema Tributário Nacional, respectivamente.
+
+A) Afronta ao art. 5º, inciso LXIX, do art. 145, § 3º, da CF/1988:
+
+princípios da confiança legítima, da segurança jurídica, da simplicidade
+
+Conforme disposto no art. 14, a Lei Complementar nº 224/2025 entra
+
+em vigor e produz efeitos na data da sua publicação, exceto em relação ao disposto no
+
+art. 4º no que concerne aos tributos sujeitos ao disposto na alínea “c” do inciso III
+
+do caput do art. 150 da Constituição Federal, que devem produzir efeitos apenas a
+
+partir do primeiro dia do quarto mês subsequente ao de sua publicação.
+
+Com relação ao IRPJ, a LC 224/2025 já produz efeitos a partir de 1º de
+
+janeiro de 2026, o que configura violação dos princípios da segurança jurídica e da
+
+proteção da confiança legítima, assegurados constitucionalmente.
+
+A alteração promovida às vésperas do início do exercício fiscal, sem a
+
+previsão de regra de transição ou de justificativa técnica idônea, viola a previsibilidade
+
+normativa que se deseja do sistema tributário e a sua almejada simplicidade.
+
+A mudança abrupta das regras de apuração e de cumprimento das
+
+obrigações tributárias, implementada no encerramento do exercício financeiro
+
+anterior, impôs aos prestadores de serviço submetidos ao regime do lucro presumido
+
+surpresa normativa incompatível com o Estado de Direito, afetando diretamente todo
+
+11
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 12 | nativo]]
+
+planejamento financeiro, contratos e decisões já consolidadas, o que caracteriza abuso
+
+do poder legislativo-tributário.
+
+A onerosidade do lucro presumido é objetiva e inerente ao próprio
+
+regime de apuração tributária, uma vez que o contribuinte se submete à tributação
+
+sobre a receita bruta, inclusive em hipóteses de prejuízo real, em troca da simplificação
+
+da apuração.
+
+A confiança legítima do contribuinte na estabilidade do sistema
+
+tributário é bem jurídico constitucionalmente protegido. O Estado não pode, sem violar
+
+a boa-fé objetiva, estimular a adoção de determinado regime tributário e,
+
+posteriormente, por conveniência arrecadatória, requalificá-lo como privilégio fiscal,
+
+com o único objetivo de afastar garantias constitucionais ao poder de tributar.
+
+Essa conduta caracteriza venire contra factum proprium, tratado pelo
+
+ordenamento jurídico à luz da teoria do abuso de direito. No caso, o comportamento
+
+contraditório revela-se a partir da alteração unilateral das premissas normativas e
+
+econômicas que fundamentaram a escolha do regime tributário das pessoas jurídicas.
+
+Adicionalmente, cumpre considerar o princípio da simplicidade – ou
+
+praticabilidade – do Sistema Tributário Nacional, que deve orientar tanto a atuação
+
+do legislador quanto a atividade interpretativa.
+
+Nesse sentido, a norma em discussão nesta demanda revela-se também
+
+violadora do princípio da simplicidade, positivado no art. 145, § 3º, da CF/1988, na
+
+medida em que confunde categorias jurídicas distintas para sustentar uma regra de
+
+nítido caráter arrecadatório.
+
+B) Violação aos arts. 145, § 1º, e 150, III, da CF/1988: conceito de
+
+renda tributável e princípio da capacidade contributiva
+
+A majoração da base de cálculo promovida pela Lei Complementar nº
+
+224/2025 afronta diretamente o conceito constitucional de renda, previsto no art. 153,
+
+12
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 13 | nativo]]
+
+inciso III, da CF/1988, bem como o princípio da capacidade contributiva, consagrado
+
+no artigo 145, § 1º, da CF/1988.
+
+A tributação da renda, no sistema constitucional brasileiro, deve incidir
+
+sobre o acréscimo patrimonial efetivamente verificado ou, no caso de regimes
+
+presuntivos, sobre uma estimativa razoável e proporcional, que mantenha correlação
+
+objetiva com a realidade econômica do contribuinte. A presunção legal, ainda que
+
+admitida, não pode se converter em ficção jurídica dissociada da capacidade
+
+econômica real ou sem relação com algum efetivo incremento lucrativo, sob pena de
+
+descaracterização da materialidade do IRPJ e da CSLL.
+
+Nesse contexto, ao elevar linearmente o percentual de presunção de
+
+lucro para todas as pessoas jurídicas, o legislador complementar institui presunção
+
+abstrata e genérica de maior rentabilidade, ignorando por completo a diversidade de
+
+estruturas de custos e margens de lucro, criando artificialmente uma riqueza
+
+inexistente.
+
+Em verdade, o rito legislativo apressado a que foi submetido o PLP
+
+128/2025, que culminou na edição da LC 224/2025, evidencia que a tramitação da
+
+proposta no Congresso Nacional ocorreu sem que houvesse o que se poderia qualificar
+
+como um debate parlamentar devidamente informado. Não apenas foram
+
+desconsiderados dados empíricos capazes de confirmar – ou refutar – eventual
+
+aumento da lucratividade média das empresas e, assim, aferir a pretendida majoração
+
+tributária, como também os aspectos mais elementares da proposição deixaram de ser
+
+objeto de efetiva deliberação parlamentar.
+
+O texto aprovado pela Câmara Federal em 16/12/2025 – e ratificado
+
+integralmente pelo Senado Federal menos de 24 horas depois – só seria revelado aos
+
+deputados quando já havia tido início a sessão deliberativa extraordinária do Plenário
+
+daquela casa convocada, ao menos em tese, para debatê-lo. Em pouco mais de 1h30,
+
+o parecer do Relator, que inovava completamente em relação ao texto originalmente
+
+13
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 14 | nativo]]
+
+autuado sob o PLP 128/2025 e não havia sido submetido a nenhuma comissão, foi
+
+aprovado por seus pares sem ressalvas e sem debates.
+
+A exigência de IRPJ e CSLL sobre parcela da receita bruta calculada a
+
+partir de presunção arbitrariamente majorada resulta na tributação de um lucro que
+
+sequer existe e viola o núcleo material do conceito constitucional de renda. Ao impor
+
+tal majoração, o Estado brasileiro arvora-se irresponsavelmente na missão do
+denominado Estado-Fiscal1 e passa a tributar não o acréscimo patrimonial, mas o
+
+próprio capital de giro ou patrimônio da empresa, sem que tal medida esteja em
+
+sintonia com a natureza jurídica do IRPJ e da CSLL.
+
+Tal distorção converte esses tributos, na prática, em exações sobre a
+
+receita bruta, com alíquotas progressivas incidentes sobre a base de cálculo presumida,
+
+em frontal violação à lógica do sistema tributário nacional e aos limites constitucionais
+
+impostos ao poder de tributar, aproximando-se, inclusive, de efeito confiscatório,
+
+vedado pelo art. 150, inciso IV, da CF/1988.
+
+O princípio da capacidade contributiva atua como relevante diretriz
+
+para que o ônus tributário seja graduado conforme a riqueza efetivamente manifestada
+
+pelo contribuinte. A eleição do critério meramente quantitativo de faturamento anual
+
+superior a R$ 5.000.000,00 (cinco milhões de reais) como gatilho para a majoração da
+
+presunção de lucro não se revela parâmetro idôneo para aferir maior capacidade
+
+contributiva de pessoa jurídica.
+
+Ao penalizar o crescimento do faturamento com o aumento da
+
+presunção de lucro, o legislador desconsidera a realidade contábil e econômica do
+
+contribuinte, impondo exação desprovida de lastro na riqueza efetivamente gerada, em
+
+1 NABAIS, J. C. O dever fundamental de pagar impostos: contributo para a compreensão
+constitucional do estado fiscal contemporâneo. Coimbra: Almedina, 1998, p. 192. Este autor observa,
+com relação ao papel do Estado-Fiscal, a necessidade de uma atuação limitada e responsável, tanto para
+evitar a ausência de recursos necessários para a implementação de políticas públicas essenciais quanto
+para impedir um excessivo paternalismo estatal (p. 194-195). A mesma expressão “Estado fiscal” é
+encontrada e referenciada em NABAIS, J. C. Direito fiscal. 2ª ed. Coimbra: Almedina, 2003, p. 125-
+132.
+14
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 15 | nativo]]
+
+violação direta ao direito dos prestadores de serviços em geral de serem tributados de
+
+acordo com suas reais possibilidades econômicas, conforme impõe a CF/1988.
+
+C) Violação ao § 6º do art. 165 da CF/1988: o conceito de gasto tributário e
+
+inexistência de previsão do impacto específico do lucro presumido
+
+Como anteriormente salientado, o regime do lucro presumido consiste
+
+em método legal de apuração tributária no qual a base de cálculo é determinada
+
+mediante a aplicação de percentuais de presunção sobre a receita bruta, percentuais
+
+esses definidos em lei de acordo com a atividade econômica desenvolvida pelo
+
+contribuinte.
+
+Dessa forma, o lucro presumido não pode ser classificado como
+
+benefício fiscal ou renúncia de receita, mas sim como regime de apuração da base
+
+de cálculo expressamente instituído pelo legislador.
+
+Não há, no ordenamento jurídico pátrio, norma alguma que
+
+estabelecesse o lucro real como padrão obrigatório ou método de referência a partir do
+
+qual os demais regimes seriam avaliados como vantajosos ou excepcionais. Pelo
+
+contrário, como exposto, o art. 44 do CTN nomeia o lucro presumido como um dos
+
+regimes padrão de apuração dos tributos incidentes sobre os resultados econômicos
+
+das empresas. A comparação meramente econômica entre regimes distintos não tem
+
+aptidão para alterar sua natureza jurídica, nem para converter uma opção legal em
+
+benefício fiscal.
+
+A inexistência de hierarquia entre os regimes de apuração tributária
+
+decorre diretamente do princípio da legalidade tributária. Cada forma de apuração
+
+encontra fundamento direto na lei, não obstante ostente autonomia normativa própria.
+
+Em consonância com a CF/1988, o Código Tributário Nacional não
+
+estabelece preferência, gradação ou subordinação entre o lucro real, o presumido e o
+
+15
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 16 | nativo]]
+
+arbitrado, sendo juridicamente indevida qualquer interpretação que busque extrair, da
+
+simples diferença de resultados econômicos, a conclusão de que determinado regime
+
+constituiria exceção ou favor fiscal.
+
+Prova cabal do que se está a sustentar é que nem mesmo a Receita
+
+Federal do Brasil qualifica o regime do lucro presumido como um benefício ou
+
+incentivo fiscal ao elaborar o denominado Demonstrativo de Gastos Tributários a que
+
+alude o art. 165, §6º, da Constituição Federal, encaminhado ao Congresso Nacional
+
+como um anexo ao Projeto de Lei Orçamentária Anual (PLOA).
+
+Considerada a majoração da base de cálculo promovida pela Lei
+
+Complementar nº 224/2025 no dispositivo normativo impugnado nesta ação de
+
+controle de constitucionalidade, resta evidente a sua desconexão com o conceito de
+
+benefício ou incentivo tributário adotado pela própria Fazenda Nacional.
+
+Subsidiariamente, caso esse Pretório Excelso não vislumbre a
+
+inconstitucionalidade integral da majoração instituída pelo art. 4º da Lei
+
+Complementar nº 224/2025, requer-se a declaração de inconstitucionalidade sem
+
+redução de texto do inciso II, “a” do § 2º, do inciso VII do § 4º e do § 5º do art. 4º da
+
+Lei Complementar nº 224/2025, de modo a excluir qualquer interpretação que permita
+
+a produção de efeitos da majoração prevista no art. 4º sobre as receitas decorrentes das
+
+atividades profissionais em geral, especialmente em relação aos serviços de advocacia
+
+(conforme o art. 15, § 1º, III, 'a', da Lei nº 9.249/1995), preservando-se o percentual
+
+de presunção originário de 32% para esta classe profissional.
+
+A advocacia possui um regime de tributação consolidado e específico,
+
+fixado em 32% pelo art. 15, § 1º, III, 'a', da Lei nº 9.249/1995, o qual reflete a margem
+
+histórica de lucratividade da profissão. Permitir que o art. 14 da nova LC seja
+
+interpretado como autorizador da majoração para 35,2% sobre esta classe representaria
+
+não apenas um abuso do poder legislativo-tributário, mas uma violação direta à
+
+capacidade contributiva e ao conceito constitucional de renda, ao tributar um lucro
+
+inexistente e desconsiderar a especialidade da norma que rege a advocacia.
+
+16
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 17 | nativo]]
+
+IV. DO PEDIDO CAUTELAR
+
+A presente ação direta de inconstitucionalidade, embora destinada ao
+
+controle abstrato de constitucionalidade com julgamento de mérito que demandará o
+
+transcurso do devido processo legal, envolve situação de extrema urgência que
+
+justifica e exige a concessão de medida cautelar para suspensão imediata do dispositivo
+
+normativo ora impugnado.
+
+A irreversibilidade ou difícil reversibilidade dos danos aos prestadores
+
+de serviços em geral e, em especial, às sociedades de advogados e às sociedades
+
+unipessoais de advocacia — especialmente o fechamento de escritórios, a perda de
+
+clientela, a dissolução de equipes, o dano reputacional e o comprometimento do
+
+mercado jurídico — impõe a concessão de medida cautelar para suspender
+
+imediatamente a produção de efeitos do art. 4º, § 2º, II, “a”, § 3º, I, § 4º, VII, § 5º,
+
+caput, I e II da Lei Complementar nº 224/2025, até o julgamento final da presente ação.
+
+Nesse sentido, a concessão de medida cautelar encontra fundamento no
+
+art. 102, inciso I, alínea “p”, da Constituição Federal, no art. 10 e 11 da Lei nº 9.868/99
+
+e no 21, inciso V, do Regimento Interno desse Supremo Tribunal Federal.
+
+A medida cautelar em ação direta de inconstitucionalidade constitui
+
+instrumento processual de tutela de urgência destinado a preservar a efetividade do
+
+controle abstrato de constitucionalidade, evitando que a demora no julgamento de
+
+mérito cause danos irreversíveis ou de difícil reversão à ordem jurídica, à segurança
+
+jurídica ou a direitos fundamentais.
+
+A liminar pretendida se justifica em face da relevância dos fundamentos
+
+invocados (fumus boni iuris) e da iminência de dano (periculum in mora), uma vez
+
+que as autoridades tributárias passarão a fiscalizar e a exigir dos prestadores de
+
+serviços submetidos ao regime de apuração tributária do lucro presumido, dentre os
+
+quais sociedades de advogados e sociedades unipessoais de advocacia, que observem
+
+a majoração da base legal de presunção do lucro, nos termos previstos na Lei
+
+17
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 18 | nativo]]
+
+Complementar nº 224/2025, e que passem a recolher IRPJ e CSLL à proporção de
+
+35,2% de presunção de lucro.
+
+O periculum in mora se justifica na potencial submissão dos prestadores
+
+de serviços ao desembolso de caixa, de forma desnecessária, para não se dizer
+
+manifestamente inconstitucional, tendo em vista a majoração real dos tributos. A
+
+irreversibilidade ou difícil reversibilidade dos potenciais danos é evidente: mesmo que,
+
+ao final, essa Suprema Corte declare a inconstitucionalidade dos dispositivos
+
+normativos impugnados, serão de difícil reparação os danos causados pelas autuações
+
+fiscais, execuções fiscais, protestos e bloqueios de bens, pois geram:
+
+a) dano reputacional: o protesto de certidões de dívida ativa e a inclusão
+
+em cadastros de inadimplentes causam dano reputacional irreversível, comprometendo
+
+a imagem profissional e a confiança de clientes;
+
+b) perda de clientela: a impossibilidade de obtenção de certidões
+
+negativas de débitos impede a participação em licitações e a celebração de contratos
+
+com o Poder Público, resultando em perda de clientela e redução de receita;
+
+c) custos de defesa: a necessidade de contratar advogados e contadores
+
+para defesa administrativa e judicial gera custos elevados, incompatíveis com a
+
+capacidade econômica de pequenos escritórios;
+
+d) comprometimento do capital de giro: a penhora de bens e o bloqueio
+
+de contas bancárias comprometem o capital de giro, inviabilizando o pagamento de
+
+fornecedores, funcionários e obrigações tributárias correntes.
+
+e) fechamento de escritórios: impossibilidade de manter a atividade
+
+profissional, com encerramento de sociedades e dissolução de equipes;
+
+f) demissões em massa: advogados associados, estagiários e
+
+colaboradores administrativos perderão seus empregos, agravando o desemprego e a
+
+precarização das relações de trabalho;
+
+18
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 19 | nativo]]
+
+g) migração para a informalidade: advogados que não conseguirem
+
+manter suas sociedades migrarão para a informalidade, com perda de arrecadação
+
+tributária e precarização da atividade profissional;
+
+O periculum in mora, deste modo, é concreto, atual, iminente e de
+
+extrema gravidade. É dizer, está em jogo a fruição empírica do livre exercício
+
+profissional mediante previsibilidade da legislação e da atuação da autoridade
+
+tributária.
+
+A ponderação dos interesses também favorece a concessão da medida
+
+cautelar. De um lado, está o interesse público primário na preservação da ordem
+
+constitucional, da segurança jurídica, do acesso à justiça e dos direitos fundamentais
+
+de milhares de microempresas, empresas de pequeno porte e de seus sócios. De outro,
+
+a eventual perda de arrecadação decorrente da suspensão da interpretação impugnada
+
+revela-se pouco significativa quando comparada aos prejuízos gerados por sua
+
+manutenção, além de carecer de legitimidade, por derivar de interpretação
+
+incompatível com a Constituição.
+
+A concessão de medida cautelar, portanto, é medida de justiça,
+
+segurança jurídica e proteção à ordem constitucional, devendo ser deferida de forma
+
+imediata e integral.
+
+Nos termos do § 3º do art. 10 da Lei nº 9.868/99, requer-se o
+
+deferimento da medida cautelar em caráter excepcional de urgência, sem a audiência
+
+prévia dos órgãos ou autoridades das quais emanou a interpretação inconstitucional.
+
+19
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 20 | nativo]]
+
+V. DOS PEDIDOS FINAIS
+
+Diante do exposto, o Conselho Federal da Ordem dos Advogados do
+
+Brasil – CFOAB requer:
+
+a) a concessão da medida cautelar, inaudita altera parte, nos termos do artigo 10
+
+da Lei nº 9.868/99, para SUSPENDER, com eficácia EX TUNC (retroativa à data de
+
+entrada em vigor da Lei Complementar nº 224/2025), nos termos do art. 10 da Lei nº
+
+9.868/1999, para suspender imediatamente, a eficácia do art. 4º, § 2º, II, “a”, § 3º, I, §
+
+4º, VII e § 5º, caput e incisos I e II, da Lei Complementar nº 224/2025; e, por
+
+arrastamento, a eficácia dos arts. 2º, § 2º, II, “a”, 3º, I, 11 e 12, caput, parágrafo único,
+
+I e II, do Decreto nº 12.808/2025, e dos arts. 2º, § 1º, II, “a”, 4º, I, 13, 14 e 15 da
+
+Instrução Normativa RFB nº 2.305/2025, tanto em sua redação original quanto na
+
+redação dada pela Instrução Normativa RFB nº 2.306/2026, até o julgamento final da
+
+presente ação;
+
+b) a notificação da PRESIDÊNCIA DA REPÚBLICA, DA CÂMARA DOS
+
+DEPUTADOS E DO SENADO FEDERAL, por intermédio de seus Presidentes, para
+
+que se manifestem, querendo, no prazo de 5 (cinco) dias, sobre a medida cautelar, nos
+
+termos do art. 10, da Lei n. 9.868/99 e, posteriormente, querendo, sobre o mérito da
+
+ação, no prazo de 30 (trinta) dias, conforme disposto no art. 6º, parágrafo único, da
+
+mencionada Lei;
+
+c) a intimação do ADVOGADO-GERAL DA UNIÃO para se manifestar sobre a
+
+presente ação, nos termos do art. 8º da Lei nº 9.868/99 e da exigência constitucional
+
+do § 3º do art. 103, § 3º, da CF/1988;
+
+d) a intimação do PROCURADOR-GERAL DA REPÚBLICA para que emita o
+
+seu parecer, nos termos do § 1º do art. 103 da CF/1988;
+
+20
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 21 | nativo]]
+
+e) ao final, seja julgado PROCEDENTE o pedido para declarar a
+
+inconstitucionalidade do art. 4º, § 2º, II, “a”, §3º, I, § 4º, VII e § 5º, caput e incisos I e
+
+II, da Lei Complementar nº 224/2025 e, por arrastamento, dos arts. 2º, § 2º, II, “a”, 3º,
+
+I, 11 e 12, caput, parágrafo único, I e II, do Decreto nº 12.808/2025 e dos arts. 2º, § 1º,
+
+II, “a”, 4º, I, 13, 14 e 15 da Instrução Normativa RFB nº 2.305/2025, tanto em sua
+
+redação original quanto na redação dada pela Instrução Normativa RFB nº 2.306/2026;
+
+f) subsidiariamente, caso não se reconheça a inconstitucionalidade dos
+
+dispositivos impugnados, seja declarada a inconstitucionalidade sem redução de texto
+
+do inciso II, “a” do § 2º, do inciso VII do § 4º e do § 5º do art. 4º da Lei Complementar
+
+nº 224/2025, de modo a excluir qualquer interpretação que permita a produção de
+
+efeitos da majoração prevista no art. 4º sobre as receitas decorrentes das atividades
+
+profissionais em geral, especialmente em relação aos serviços de advocacia
+
+(conforme o art. 15, § 1º, III, 'a', da Lei nº 9.249/1995).
+
+Nesses termos, pede deferimento.
+Brasília/DF, 13 de fevereiro de 2026.
+
+José Alberto Ribeiro Simonetti Cabral
+Presidente do Conselho Federal da OAB
+OAB/AM 3.725
+OAB/DF 45.240
+
+Marcus Vinicius Furtado Coêlho
+Presidente da Comissão Nacional de Estudos Constitucionais
+OAB/DF 18.958
+
+Luiz Gustavo A. S. Bichara
+Procurador Adjunto Tributário do Conselho Federal da OAB
+OAB/RJ 112.310
+OAB/DF 21.445
+21
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br
+
+[[pagina 22 | nativo]]
+
+Bruna Santos Costa
+Lizandra Nascimento Vicente OAB/DF. 44.884
+OAB/DF 39.992
+
+22
+
+Conselho Federal da Ordem dos Advogados do Brasil – Procuradoria Constitucional
+SAUS Quadra 05, Lote 01, Bloco M, Ed. Sede Conselho Federal da OAB– Brasília/DF CEP 70070-939
+Tel: 61 2193-9818 / 2193-9819 Email: pc@oab.org.br / www.oab.org.br

@@ -1,0 +1,2640 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR DOUTOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL
+
+FEDERAL
+
+PARTIDO RENOVAÇÃO DEMOCRÁTICA — PRD, pessoa jurídica de direito privado,
+
+com registro definitivo perante o Tribunal Superior Eleitoral e no Cartório do 1º Ofício de
+
+Registro Civil das Pessoas Naturais e Jurídicas de Brasília/DF, inscrito no CNPJ sob o nº
+
+49.054.431/0001-20, com sede na Avenida Angélica, nº 321, sala 68, Santa Cecília, São
+
+Paulo/SP, CEP 01.227-000, neste ato representado por seu Presidente Nacional,
+
+MARCUS VINÍCIUS DE VASCONCELOS FERREIRA, brasileiro, casado, portador da cédula
+
+de identidade nº 080.406.382 IFP/RJ, inscrito no CPF sob o nº 020.824.217-16, e por seu
+
+Secretário Executivo OVASCO ROMA ALTIMARI RESENDE, brasileiro, casado, portador
+
+do RG nº 9.959.998-3 e inscrito no CPF sob o nº 025.938.178-01, partido político de
+
+âmbito nacional, com representação no Congresso Nacional (documento anexo),
+
+legitimado universal para a propositura de ação direta de inconstitucionalidade nos
+
+termos do art. 103, VIII, da Constituição da República, por seus advogados ao final
+
+assinados (instrumento de mandato incluso), vem, respeitosamente, à presença de
+
+Vossa Excelência, com fundamento no art. 102, I, a, da Constituição e na Lei nº 9.868,
+
+de 10 de novembro de 1999, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+(com pedido de medida cautelar)
+
+em face de dispositivos do Decreto nº 12.975, de 20 de maio de 2026 — que alterou o
+
+Decreto nº 8.771, de 11 de maio de 2016, regulamentador da Lei nº 12.965, de 23 de
+
+abril de 2014 (Marco Civil da Internet) —, por afronta aos arts. 1º, caput e parágrafo
+
+único; 2º; 5º, II, IV, IX, X, XII, XIV, XXXV, XXXVI, XXXIX, LIV e LV; 22, I, IV, XXIX e XXX; 37,
+
+caput; 49, V; 84, IV e VI, a; 131; e 220 da Constituição da República, e ao art. 25 do Ato
+
+das Disposições Constitucionais Transitórias, pelas razões de fato e de direito a seguir
+
+expostas.
+
+I — DA DISTRIBUIÇÃO POR PREVENÇÃO OU DEPENDÊNCIA
+
+1. Requer-se, preliminarmente, a verificação de prevenção ou dependência
+
+(arts. 77-B, 126 e 127 do RISTF; arts. 55, § 3º, e 286, III, do CPC), dada a correlação
+
+temática entre os dispositivos impugnados e os Recursos Extraordinários nº 1.037.396
+
+
+[[pagina 2 | nativo]]
+(Tema 987, Rel. Min. Dias Toffoli) e nº 1.057.258 (Tema 533, Rel. Min. Luiz Fux), julgados
+
+em conjunto, nos quais se fixou a inconstitucionalidade parcial e progressiva do art. 19
+
+da Lei nº 12.965/2014 e o regime de responsabilização dos provedores de aplicações
+
+de internet, matéria que o decreto pretende, por vias transversas e extrapolando a
+
+competência regulamentar, disciplinar. Requer-se a distribuição da presente ação por
+
+prevenção ou dependência ao respectivo Relator do leading case (RE nº 1.037.396,
+
+Tema 987), em homenagem à coerência da jurisdição constitucional sobre a matéria
+
+e à prevenção de decisões conflitantes.
+
+II — DA SÍNTESE DA CONTROVÉRSIA CONSTITUCIONAL
+
+2. A presente ação não tem por finalidade negar a gravidade de ilícitos
+
+praticados em ambiente digital, nem impedir a remoção célere de conteúdos
+
+relacionados a terrorismo, exploração sexual de crianças e adolescentes, induzimento
+
+ao suicídio, racismo, violência contra a mulher, tráfico de pessoas, fraudes,
+
+publicidade enganosa ou crimes contra o Estado Democrático de Direito, quando
+
+presentes os requisitos constitucionais e legais próprios.
+
+3. O núcleo da controvérsia é outro, e é estritamente de competência e de
+
+forma: saber se o Chefe do Poder Executivo, por decreto regulamentar, pode
+
+converter uma disciplina legal de princípios, garantias, direitos e deveres — construída
+
+pelo Congresso Nacional no Marco Civil da Internet — em regime administrativo-
+
+sancionatório que restringe a liberdade de expressão e a atividade dos provedores de
+
+internet, sem que lei alguma as estabeleça.
+
+4. A resposta constitucional é negativa, por formal e material. O Decreto nº
+
+12.975/2026 não apenas operacionaliza comandos legais preexistentes. Ele institui um
+
+regime inteiramente novo: (i) responsabilidade administrativa dos provedores de
+
+internet e apuração de infrações por agência reguladora, à qual atribuiu poder de
+
+polícia (arts. 16-B, § 2º; 16-I; 19-A); (ii) poder de a Advocacia-Geral da União notificar a
+
+remoção de conteúdo de terceiros (art. 16-N, § 1º); e (iii) deveres de monitoramento e
+
+de guarda de dados em direta ofensa ao sigilo e à proteção de dados (arts. 15-A e
+
+16-C). Nenhum desses elementos (infração, sanção, competência sancionadora)
+
+encontra base em lei formal.
+
+
+
+[[pagina 3 | nativo]]
+5. Formalmente, o Decreto cria normas primárias, dirigidas a particulares e
+
+reservadas à lei (arts. 5º, II; 22; 84, IV, da CF): a pretexto de regulamentar, legisla.
+
+Nenhum título legal o ampara: o catálogo sancionatório do Marco Civil (art. 12)
+
+alcança estritamente as infrações de guarda e proteção de dados (arts. 10 e 11), não
+
+a moderação de conteúdo; a LGPD (Lei nº 13.709/2018) limita-se ao tratamento de
+
+dados pessoais; e o Estatuto Digital da Criança e do Adolescente (Lei nº 15.211/2025)
+
+outorgou à ANPD competência estrita à proteção de crianças e adolescentes.
+
+Materialmente, o ato pune sem tipicidade determinada (art. 5º, XXXIX; art. 37, da CF)
+
+e, pela vagueza dos conceitos abertos que erige em pressuposto de sanção, viola o
+
+devido processo (art. 5º, LIV e LV) e converte critérios de responsabilização civil em
+
+punição administrativa ex nihilo, projetando sobre a liberdade de expressão um efeito
+
+inibidor incompatível com os arts. 5º, IX, e 220.
+
+6. Também não se pretende, nesta ação, rediscutir a autoridade da decisão
+
+proferida por esse Supremo Tribunal Federal nos Temas 533 e 987 da repercussão geral,
+
+em que se reconheceu a inconstitucionalidade parcial e progressiva do art. 19 do
+
+Marco Civil da Internet e se fixou regime transitório enquanto não sobrevier nova
+
+legislação. Ao contrário: justamente porque o próprio Supremo apelou ao Congresso
+
+Nacional para que elaborasse legislação capaz de sanar as deficiências do regime
+
+vigente. A ressalva do item 12 da tese firmada no julgamento dos embargos de
+
+declaração salvaguardou o poder regulamentar executivo estritamente para a
+
+fiscalização e apuração das obrigações estruturais emanadas do próprio julgado, não
+
+o de criar infrações, sanções e atribuições.
+
+III — DOS REQUISITOS DE ADMISSIBILIDADE
+
+III.1 — Da competência do Supremo Tribunal Federal
+
+7. Compete a essa Corte processar e julgar, originariamente, a ação direta de
+
+inconstitucionalidade de lei ou ato normativo federal, nos termos do art. 102, I, a, da
+
+Constituição. O ato impugnado é decreto presidencial de âmbito federal, dotado —
+
+como adiante se demonstrará — de densidade normativa primária, o que atrai a
+
+competência do Supremo Tribunal Federal.
+
+III.2 — Da legitimidade ativa e da pertinência temática
+
+
+[[pagina 4 | nativo]]
+8. O Requerente é partido político com registro definitivo perante o Tribunal
+
+Superior Eleitoral e representação no Congresso Nacional, enquadrando-se no rol de
+
+legitimados universais para a propositura de ação direta de inconstitucionalidade (art.
+
+103, VIII, da Constituição da República). Por se cuidar de legitimado universal, é
+
+dispensada a demonstração de pertinência temática, conforme jurisprudência
+
+pacífica dessa Corte. A legitimidade ativa é, portanto, indubitável, comprovando-se
+
+a representação parlamentar por meio da certidão de composição partidária e do
+
+documento de representação no Congresso Nacional ora anexados.
+
+III.3 — Do cabimento da ADI contra decreto com densidade normativa primária
+
+9. É certo que, em regra, decretos meramente regulamentares, quando apenas
+
+contrariem a lei regulamentada, ensejam crise de legalidade, e não de
+
+constitucionalidade direta. Essa orientação, contudo, não se aplica quando o decreto
+
+deixa de ser simples ato de execução e passa a inovar primariamente na ordem
+
+jurídica, estipulando direitos, deveres, competências, infrações e responsabilidades
+
+sem base legal suficiente. Nesse caso, a ofensa não é à lei, mas diretamente à
+
+Constituição.
+
+10. Para esse Supremo Tribunal Federal, o que define a sindicabilidade do ato
+
+em controle concentrado é o seu conteúdo normativo, e não a sua forma: atos
+
+infralegais que inovam originariamente na ordem jurídica equiparam-se,
+
+materialmente, a regulamentos autônomos e sujeitam-se à ação direta (cf. ADI 1.435-
+
+MC/DF, Rel. Min. Francisco Rezek, na qual já se distinguia o decreto meramente
+
+executivo daquele que inova primariamente; ADI 1.748-MC/RJ; e ADI 5.478/DF, esta
+
+última admitindo o exame de decreto que, a pretexto de regulamentar, alterou
+
+alíquotas tributárias). Nessas hipóteses, a ofensa é direta à Constituição, especialmente
+
+ao art. 84, IV, que limita os decretos regulamentares à fiel execução da lei; ao art. 5º,
+
+II, que consagra a legalidade; ao art. 2º, que protege a separação dos Poderes; ao
+
+art. 1º, parágrafo único, que submete o exercício do poder estatal à soberania
+
+popular; ao art. 49, V, que confere ao Congresso Nacional a competência para sustar
+
+atos normativos do Poder Executivo que exorbitem do poder regulamentar — o que
+
+demonstra que a própria Constituição trata a exorbitância regulamentar como
+
+categoria de natureza constitucional, e não como mera ilegalidade; e ao art. 22, que
+
+
+
+[[pagina 5 | nativo]]
+reserva ao legislador federal a disciplina de direito civil, informática,
+
+telecomunicações, propaganda comercial e proteção de dados pessoais.
+
+11. O presente caso insere-se nessa exceção. Os dispositivos impugnados se
+
+dirigem a particulares, e não apenas à Administração; criam deveres autônomos de
+
+conduta; estruturam regime de responsabilidade e fiscalização; ampliam
+
+competência de autoridade administrativa; e conferem margem de conformação
+
+normativa a conceitos abertos em matéria de liberdade de expressão. A
+
+superveniência da tese fixada nos Temas 533 e 987 também não desloca a
+
+controvérsia para o plano da legalidade. A tese fixou regime de responsabilidade; não
+
+definiu infrações, não cominou sanções nem instituiu a competência sancionadora de
+
+autoridade administrativa. Ao estabelecê-los, portanto, o decreto inova
+
+primariamente. E o vício é aferível sem exegese do Marco Civil ou da tese: basta
+
+constatar a ausência de lei formal. A ofensa é direta, não reflexa. A ação direta é,
+
+portanto, cabível.
+
+III.4 — Do pedido subsidiário de recebimento como ADPF (fungibilidade)
+
+12. Subsidiariamente, caso essa Corte entenda pela inadequação estrita da via
+
+eleita em relação a algum núcleo normativo, requer-se o recebimento da presente
+
+demanda como arguição de descumprimento de preceito fundamental, por força do
+
+princípio da fungibilidade entre as ações do controle abstrato, reiteradamente
+
+admitido por esse Tribunal (cf. ADPF 72-QO/PA). O pedido é particularmente pertinente
+
+quanto aos dispositivos de feição executória, em relação aos quais eventual leitura
+
+restritiva do cabimento da ADI por suposta ofensa reflexa não subsiste em sede de
+
+ADPF, cujo parâmetro são os preceitos fundamentais diretamente atingidos:
+
+legalidade, separação dos Poderes, liberdade de expressão, devido processo legal,
+
+reserva legal e princípio democrático; há controvérsia constitucional relevante sobre
+
+a validade do ato. Presentes os requisitos da Lei nº 9.882/1999: (i) lesão direta a
+
+preceitos fundamentais; (ii) controvérsia constitucional relevante e atual sobre a
+
+validade do ato; e (iii) subsidiariedade, pois inexiste outro meio processual objetivo
+
+igualmente eficaz para neutralizar, em abstrato e com efeito vinculante, os efeitos do
+
+ato impugnado.
+
+IV — DO OBJETO E DOS DISPOSITIVOS IMPUGNADOS
+
+
+
+[[pagina 6 | nativo]]
+13. Impugnam-se os dispositivos do Decreto nº 12.975/2026 que, sob a forma de
+
+alteração do Decreto nº 8.771/2016, inovam primariamente na ordem jurídica. Em
+
+atenção ao art. 3º, I, da Lei nº 9.868/1999, reproduzem-se a seguir, em sua
+
+integralidade, os textos normativos impugnados, na redação conferida pelo Decreto
+
+nº 12.975/2026, conforme publicação no Diário Oficial da União de 21 de maio de 2026:
+
+Art. 1º (na parte impugnada — inciso III, alínea “b”, e inciso IV)
+
+“Art. 1º Este Decreto regulamenta a Lei nº 12.965, de 23 de abril de 2014, para dispor
+
+sobre os deveres dos provedores de conexão e de aplicações de internet, e abrange
+os seguintes aspectos:
+
+I - hipóteses admitidas de discriminação de pacotes de dados na internet e de
+
+degradação de tráfego;
+
+II - deveres e procedimentos de guarda e proteção de dados por provedores de
+conexão e de aplicações de internet, e outros relativos a conteúdo gerado por terceiros
+
+e proteção a direitos dos usuários de internet;
+
+III - medidas de transparência:
+
+a) na requisição de dados cadastrais pela administração pública; e
+
+b) no cumprimento do dever de cuidado dos provedores de aplicações de internet no
+
+âmbito de seus serviços; e
+
+IV - parâmetros para fiscalização e apuração das infrações previstas na Lei nº 12.965, de
+23 de abril de 2014.” (NR)
+
+Art. 15-A
+
+“Art. 15-A. O dever de guarda de registros de endereço IP pelos provedores de conexão
+e pelos provedores de aplicações de internet, previsto nos art. 13 e art. 15 da Lei nº
+
+12.965, de 23 de abril de 2014, abrangerá a porta lógica de origem associada sempre
+
+que necessário para a identificação inequívoca do terminal de origem ou do próximo
+enlace de rede.
+
+§ 1º O dever de guarda da porta lógica de origem independerá de prévia requisição e
+
+recairá autonomamente sobre cada provedor.
+
+§ 2º O fornecimento da porta lógica de origem e dos dados a ela vinculados observará
+o disposto nos art. 10 e art. 22 da Lei nº 12.965, de 23 de abril de 2014.” (NR)
+
+Capítulo III-A — Da responsabilidade dos provedores de aplicações de internet (arts. 16-
+
+A a 16-P)
+
+“Art. 16-A. São deveres dos provedores de aplicações de internet: I - constituir e manter
+sede e representante legal no País, com poderes para: a) responder perante as esferas
+
+
+[[pagina 7 | nativo]]
+administrativa e judicial; b) prestar às autoridades competentes informações relativas:
+
+1. ao funcionamento do provedor; 2. às regras e aos procedimentos utilizados para
+moderação de conteúdo e para gestão das reclamações pelos sistemas internos; 3. aos
+
+relatórios de transparência, monitoramento e gestão dos riscos sistêmicos; e 4. às regras
+
+para perfilamento de usuários, à veiculação de publicidade e ao impulsionamento
+remunerado de conteúdos; c) cumprir determinações judiciais; e d) responder e cumprir
+
+eventuais penalizações, multas e afetações financeiras em que o representado incorrer;
+
+II - disponibilizar canal de denúncia permanente e de fácil acesso, para recebimento e
+tratamento das notificações que inclua expressamente a possibilidade de notificação
+
+de conteúdos criminosos ou ilícitos; III - adotar medidas para impedir a operação de
+
+rede artificial de distribuição de conteúdos ilícitos; e IV - adotar meios necessários para
+garantir a segurança e a transparência dos serviços. Parágrafo único. O representante
+
+legal de que trata o inciso I do caput será constituído na forma de pessoa jurídica e as
+suas informações para contato estarão facilmente acessíveis no sítio eletrônico do
+
+representado.
+
+Art. 16-B. Os provedores de aplicações de internet que realizem intermediação de
+conteúdo gerado por terceiro serão responsabilizados em caso de falha sistêmica na
+
+indisponibilização imediata de conteúdo que caracterize: I - crimes de terrorismo ou
+
+preparatórios de terrorismo (Lei nº 13.260/2016); II - crimes de induzimento, instigação ou
+auxílio a suicídio ou automutilação (art. 122 do Código Penal); III - incitação à
+
+discriminação em razão de raça, cor, etnia, religião, procedência nacional,
+sexualidade ou identidade de gênero, inclusive condutas homofóbicas e transfóbicas
+
+(arts. 20, 20-A, 20-B e 20-C da Lei nº 7.716/1989); IV - crimes praticados contra a mulher
+
+em razão da condição do sexo feminino, inclusive conteúdos que propaguem ódio ou
+aversão a mulheres (Lei nº 10.446/2002, Lei nº 11.340/2006, Lei nº 14.192/2021 e arts. 141,
+
+§ 3º, 146-A, 147, § 1º, 147-A e 147-B do Código Penal); V - crimes sexuais contra pessoas
+
+vulneráveis, exploração sexual de crianças e adolescentes e crimes graves contra
+crianças e adolescentes (arts. 217-A, 218, 218-A, 218-B e 218-C do Código Penal e arts.
+
+240, 241-A, 241-C e 241-D da Lei nº 8.069/1990); VI - tráfico de pessoas (art. 149-A do
+Código Penal); e VII - condutas e atos tipificados nos art. 286, parágrafo único, art. 359-
+
+L, art. 359-M, art. 359-N, art. 359-P e art. 359-R do Código Penal. § 1º Incorrerá em falha
+
+sistêmica o provedor de aplicações de internet que não comprovar a adoção de
+medidas adequadas de prevenção ou remoção dos conteúdos ilícitos referidos no
+
+caput que: I - forneçam, conforme o estado da técnica, os níveis mais elevados de
+
+segurança para o tipo de serviço que oferecem; e II - inibam a circulação massiva dos
+conteúdos de que tratam os incisos I a VII do caput. § 2º A avaliação da ocorrência de
+
+
+
+[[pagina 8 | nativo]]
+falha sistêmica será feita pela autoridade competente a partir de mecanismos de
+
+supervisão e análise periódica. § 3º A existência de conteúdos ilícitos referidos no caput
+de forma isolada não caracteriza, por si só, falha sistêmica, hipótese em que será
+
+aplicado o disposto no art. 16-G. § 4º Os provedores de aplicações de internet de que
+
+trata o caput deverão disponibilizar às autoridades competentes as informações e os
+dados que permitam verificar a adoção e a aplicação das medidas de que trata o §
+
+1º. § 5º Em relação aos crimes de que trata o inciso V do caput, aplica-se, no que
+
+couber, o disposto na Lei nº 15.211, de 17 de setembro de 2025.
+
+Art. 16-C. Os provedores de aplicações de internet deverão, sem prejuízo do dever de
+
+cuidado, monitorar, identificar, avaliar e gerir, de forma diligente, os riscos sistêmicos
+
+criados ou potencializados pelas suas atividades ou pela circulação dos conteúdos
+referidos no art. 16-B.
+
+Art. 16-D. A notificação sobre conteúdo criminoso ou ilícito realizada por meio do canal
+de que trata o art. 16-A, caput, inciso II, deverá conter, sob pena de nulidade: I -
+
+elementos que permitam identificar a possível conduta criminosa ou ilícita, ou, na
+
+hipótese de que trata o art. 16-J, parágrafo único, a indicação da respectiva decisão
+judicial; II - informações que permitam a identificação específica do conteúdo criminoso
+
+ou ilícito a ser indisponibilizado; e III - identificação do notificante e, quando couber,
+
+indicação do fundamento de sua legitimidade. Parágrafo único. A autoridade
+competente poderá regulamentar: I - a forma de notificação e de contestação; II - o
+
+prazo para remoção do conteúdo e da resposta ao notificante; III - os legitimados a
+notificar; IV - o prazo de contestação do responsável pelo conteúdo; e V - os demais
+
+procedimentos necessários.
+
+Art. 16-E. Após o recebimento de notificação de crime ou ato ilícito, o provedor de
+aplicações de internet deverá: I - confirmar ao notificante o recebimento da
+
+notificação; e II - avaliar o teor da notificação e adotar as providências pertinentes,
+
+observado o seguinte: a) em caso de remoção, comunicará a decisão ao notificante
+e ao usuário que publicou o conteúdo e informará o fundamento específico da
+
+remoção e os meios de contestá-la; b) em caso de não remoção, comunicará ao
+notificante e informará o fundamento específico da manutenção e os meios de
+
+contestá-la; e c) em caso de reconsideração após contestação, comunicará o usuário
+
+que publicou o conteúdo e o notificante, com a respectiva fundamentação.
+
+Art. 16-F. Os provedores de aplicações de internet deverão adotar medidas para coibir
+
+o uso ilícito ou abusivo dos instrumentos de notificação, em especial aqueles que
+
+atentem contra o direito à liberdade de expressão.
+
+
+
+[[pagina 9 | nativo]]
+Art. 16-G. Sem prejuízo dos deveres previstos nos art. 16-A, art. 16-B e art. 16-C, os
+
+provedores de aplicações de internet deverão indisponibilizar, em resposta às
+notificações de que tratam o art. 16-D e o art. 16-E, o conteúdo gerado por terceiros
+
+que configure crime conforme a legislação nacional, excetuados os crimes contra a
+
+honra. § 1º O provedor poderá manter o conteúdo disponível quando, após análise
+diligente e fundamentada, concluir existir dúvida razoável sobre o caráter criminoso do
+
+conteúdo, considerada a proporcionalidade entre a dúvida e a gravidade do crime,
+
+hipótese em que comunicará ao notificante as razões da não indisponibilização. § 2º
+Com o objetivo de assegurar a liberdade de expressão, a aplicação das medidas
+
+previstas neste artigo considerará o contexto das publicações, a liberdade religiosa e
+
+de crença e a eventual finalidade informativa, educativa ou de crítica, sátira e paródia.
+
+Art. 16-H. Os provedores de aplicações de internet, ao identificarem ou concluírem pela
+
+existência de conteúdo relativo às condutas criminosas, deverão encaminhar o
+conteúdo e as informações necessárias à identificação da autoria e da materialidade
+
+dos crimes ao Poder Público. Parágrafo único. Ato do Ministro de Estado da Justiça e
+
+Segurança Pública disciplinará a forma de cumprimento deste artigo, inclusive quanto
+à possibilidade de encaminhamento das informações ao órgão central responsável por
+
+recebê-las, processá-las e disponibilizá-las às autoridades competentes, resguardadas
+
+as atribuições constitucionais e legais dos entes federativos.
+
+Art. 16-I. Na apuração da responsabilidade administrativa do provedor de aplicações
+
+de internet pelo descumprimento do disposto no art. 16-G, a autoridade competente
+avaliará a atuação diligente, proporcional e célere do provedor no tratamento das
+
+notificações recebidas, vedada a responsabilização fundada exclusivamente na
+
+manutenção ou na remoção isolada de conteúdos objeto de notificação. Parágrafo
+único. É vedada à autoridade competente a notificação de provedores de aplicações
+
+de internet para moderação de conteúdos criminosos ou ilícitos de forma isolada.
+
+Art. 16-J. A responsabilização de provedor de aplicações de internet por conteúdo
+gerado por terceiro dependerá de ordem judicial específica, nos termos do art. 19 da
+
+Lei nº 12.965/2014, nas hipóteses: I - de crimes e atos ilícitos contra a honra; e II - dos
+serviços de que trata o art. 16-O. Parágrafo único. Na hipótese de sucessivas replicações
+
+do fato ofensivo reconhecido por decisão judicial, todos os provedores de aplicações
+
+de internet que realizem intermediação de conteúdo gerado por terceiros deverão
+remover as publicações com conteúdos idênticos, independentemente de novas
+
+decisões judiciais, a partir de notificação judicial ou extrajudicial.
+
+
+
+[[pagina 10 | nativo]]
+Art. 16-K. Os provedores de aplicações de internet que, mediante pagamento,
+
+disponibilizem ferramentas para anúncio ou impulsionamento de conteúdo adotarão
+medidas adequadas para vedar a contratação de conteúdo que configure crime ou
+
+ato ilícito.
+
+Art. 16-L. Presume-se a responsabilidade do provedor de aplicações de internet quando
+o conteúdo ilícito for veiculado em anúncios, impulsionamentos pagos ou distribuído por
+
+meio de redes artificiais de distribuição de conteúdos, independentemente de
+
+notificação. Parágrafo único. Os provedores ficarão excluídos de responsabilidade se
+comprovarem que atuaram diligentemente e em tempo razoável para indisponibilizar
+
+o conteúdo.
+
+Art. 16-M. Os provedores de aplicações de internet que, mediante pagamento,
+disponibilizem ferramentas para anúncio ou impulsionamento de conteúdo deverão
+
+manter, pelo prazo de um ano, contado do encerramento da veiculação, as
+informações relativas a cada anúncio ou impulsionamento e aos respectivos
+
+anunciantes. Parágrafo único. A autoridade competente poderá regulamentar a forma
+
+de acesso às informações de que trata este artigo, de modo a possibilitar a fiscalização
+dos deveres dos provedores, respeitadas as competências da Secretaria Nacional do
+
+Consumidor do Ministério da Justiça e Segurança Pública.
+
+Art. 16-N. Sem prejuízo dos deveres previstos nos art. 16-A a art. 16-M, os provedores de
+aplicações de internet indisponibilizarão, em resposta à notificação, o conteúdo gerado
+
+por terceiros que constitua publicidade enganosa, abusiva ou fraudulenta, nos termos
+do art. 37 da Lei nº 8.078/1990 (Código de Defesa do Consumidor). § 1º A notificação
+
+poderá ser feita por autoridade integrante do Sistema Nacional de Defesa do
+
+Consumidor ou, quando relacionada a políticas públicas, pela Advocacia-Geral da
+União. § 2º O conteúdo que não for claramente identificável pelo usuário como
+
+publicidade será considerado publicidade enganosa.
+
+Art. 16-O. Os deveres previstos nos art. 16-B a art. 16-J não se aplicam às seguintes
+categorias de serviços: I - serviços de e-mail; II - serviços de mensageria instantânea,
+
+exclusivamente quanto às comunicações interpessoais, resguardadas pelo sigilo das
+comunicações (art. 5º, XII, da Constituição); e III - serviços de comunicação audiovisual
+
+em grupo restrito.
+
+Art. 16-P. A autoridade competente poderá definir critérios diferenciados para o
+cumprimento dos deveres previstos nos art. 16-A a art. 16-J e art. 16-M, considerados o
+
+porte econômico do operador, o nível de interferência na circulação de conteúdo de
+
+
+
+[[pagina 11 | nativo]]
+terceiros, o estado da técnica e o risco envolvido no serviço, especialmente quanto aos
+
+pequenos provedores.” (NR)
+
+Art. 19-A
+
+“Art. 19-A. A Agência Nacional de Proteção de Dados — ANPD atuará na regulação,
+
+na fiscalização e na apuração de infrações quanto à garantia dos direitos dos usuários
+
+e ao cumprimento dos deveres dos provedores de aplicações de internet, em especial
+aqueles previstos nos art. 16-A a 16-P deste Decreto, nos termos: I - da Lei nº 12.965, de
+
+23 de abril de 2014, especialmente quanto ao disposto nos art. 10 a art. 12; II - da Lei nº
+
+13.709, de 14 de agosto de 2018; e III - da Lei nº 15.211, de 17 de setembro de 2025.” (NR)
+
+Art. 20-A
+
+“Art. 20-A. Os provedores de aplicações de internet deverão editar termos e condições
+
+de uso e outras formas de autorregulação que abranjam, necessariamente: I - o sistema
+de notificações; II - o devido processo; e III - os relatórios anuais de transparência em
+
+relação a notificações extrajudiciais, anúncios e impulsionamentos. § 1º As regras de
+
+que trata o caput deverão ser publicadas e revisadas periodicamente, de forma
+transparente e acessível ao público. § 2º A autorregulação será considerada elemento
+
+de comprovação de boa-fé para a apuração de infrações quando tiver como
+
+finalidade a criação de padrões técnicos e de governança que visem a proteger os
+direitos dos usuários de internet previstos na Lei nº 12.965, de 23 de abril de 2014.” (NR)
+
+Art. 2º
+
+“Art. 2º Este Decreto entra em vigor sessenta dias após a data de sua publicação.”
+
+14. Em síntese do conteúdo normativo impugnado: o art. 1º, III, “b”, acrescenta
+
+ao objeto do regulamento para alcançar a transparência no cumprimento do dever
+
+de cuidado dos provedores, sendo o inciso IV (parâmetros para fiscalização e
+
+apuração de infrações) de redação preexistente ao Decreto nº 12.975/2026; o art. 15-
+
+A amplia o dever de guarda de dados técnicos, incluída a porta lógica de origem,
+
+independentemente de prévia requisição; os arts. 16-A a 16-P instituem capítulo
+
+autônomo de responsabilidade dos provedores de aplicações, com deveres gerais,
+
+dever de cuidado, falha sistêmica, gestão de riscos sistêmicos, notificação,
+
+indisponibilização, encaminhamento de informações ao Poder Público, regras sobre
+
+anúncios e impulsionamentos, presunção de responsabilidade e critérios diferenciados
+
+de cumprimento definidos pela autoridade competente; o art. 16-N, § 1º, atribui à
+
+Advocacia-Geral da União poder de notificação; o art. 19-A atribui à ANPD
+
+
+
+[[pagina 12 | nativo]]
+competência de regulação, fiscalização e apuração de infrações; e o art. 20-A impõe
+
+deveres de autorregulação e de transparência.
+
+15. A impugnação alcança os dispositivos 15-A; 16-B, § 2º; 16-C; 16-D; 16-E; 16-
+
+F; 16-G, caput; 16-H; 16-I; 16-N; e 19-A naquilo em que: (i) criam obrigações primárias
+
+não previstas em lei formal; (ii) estabelecem regime administrativo de fiscalização,
+
+apuração de infrações e responsabilização sancionatória sem suporte legal (arts. 16-I
+
+e 19-A), inclusive ao fazer incidir o catálogo do art. 12 da Lei nº 12.965/2014 sobre
+
+conduta diversa da prevista em seus arts. 10 e 11; (iii) ampliam a competência da
+
+ANPD e da AGU; (iv) permitem densificação infralegal de conceitos abertos em
+
+matéria de liberdade de expressão; e (v) conferem efeitos normativos próprios a
+
+notificações e procedimentos não previstos com tal alcance na Lei nº 12.965/2014.
+
+Ainda, por arrastamento e dependência lógica (inconstitucionalidade
+
+consequencial), o art. 1º, III, "b", os arts. 16-K, 16-M e 16-P e os arts. 16-J e 16-O na
+
+estrita medida em que aplicam o regime ora invalidado, preservado apenas o núcleo
+
+coincidente com a tese vinculante.
+
+16. Sem prejuízo do pedido principal de declaração de inconstitucionalidade,
+
+formula-se pedido subsidiário de interpretação conforme, sem redução de texto, para
+
+(i) sobrepor o prazo de 60 dias que a decisão vinculante (item 14) contou da
+
+publicação da ata dos embargos de declaração ao art. 2º do Decreto nº 12.975/2026;
+
+(ii) considerar o art. 1º, IV, de redação preexistente (Decreto 8.771/2016), lícito somente
+
+quando referido às infrações dos arts. 10 e 11 (art. 12 do Marco Civil); e (iii) dar ao art.
+
+16-L a redação do item 4 da tese, na qual se presume a culpa (relativa), não a
+
+responsabilidade. Cabe destacar que os arts. 16-A, 16-B, caput e incisos e 20-
+
+A reproduzem a tese vinculante e, por isso, devem ser preservados. Abaixo a matriz de
+
+inconstitucionalidade sintetizada por núcleos.
+
+Dispositivo impugnado Vício constitucional
+
+Art. 1º, III, “b”, e IV — Transformação do regulamento de execução em fonte de regime
+amplia o objeto do administrativo material, em afronta aos arts. 5º, II, e 84, IV, da
+regulamento para dever Constituição. O inciso IV é de redação preexistente ao decreto:
+de cuidado, não se impugna em si, mas por interpretação conforme, para
+transparência e alcançar apenas as infrações dos arts. 10 e 11 (art. 12 do Marco
+
+
+
+[[pagina 13 | nativo]]
+parâmetros de Civil); a inovação de 2026 é a alínea "b", impugnada por
+fiscalização arrastamento.
+
+Art. 15-A — estende o Densificação infralegal de obrigação que interfere em
+dever de guarda à porta privacidade e proteção de dados e sigilo das comunicações,
+lógica de origem, sem matérias sujeitas à reserva legal (art. 22, IV e XXX). Sem
+prévia requisição correspondência na tese do leading case.
+
+Criação de obrigações primárias e de categorias de
+Arts. 16- B, § 2º, e 16-C —
+responsabilização não previstas em lei formal, com conceitos
+falha sistêmica avaliada
+indeterminados e efeitos sancionatórios. o deslocamento da falha
+pela autoridade
+sistêmica do plano civil-judicial para o administrativo ofende a
+competente e gestão de
+reserva de jurisdição (art. 5º, XXXV). Os arts. 16-A e 16-B, caput e
+riscos sistêmicos
+incisos, reproduzem a tese (itens 10 e 5).
+
+Procedimento extrajudicial e administrativo com efeitos sobre
+Arts. 16-D a 16-H — liberdade de expressão e responsabilidade, fora das hipóteses
+notificação extrajudicial, legais expressas. O art. 16-H (reporte) carece de base legal. O
+indisponibilização e único dever legal de remover e comunicar é o art. 27 da Lei nº
+encaminhamento ao 15.211/2025, restrito à proteção de crianças e adolescentes no
+Poder Público ambiente digital. O art. 16-J reproduz a tese (honra e replicações)
+e é impugnado apenas por arrastamento.
+
+Art. 16-I —
+Regime sancionatório sem suporte legal: o art. 12 da Lei nº
+responsabilização
+12.965/2014 só alcança infrações aos arts. 10 e 11 (dados e
+administrativa do
+registros), em afronta aos arts. 5º, II e XXXIX, e 37, caput, da
+provedor pela
+Constituição.
+moderação de conteúdo
+
+Legislação material sobre direito civil, consumo e propaganda
+Arts. 16-K a 16-N —
+comercial por decreto, em afronta ao art. 22, I e XXIX, e ao art. 5º,
+anúncios,
+II, da Constituição. Os arts. 16-K e 16-M são impugnados por
+impulsionamentos,
+arrastamento; o art. 16-L não se anula, comportando
+publicidade e presunção
+interpretação conforme, pois a tese presume a “culpa relativa”,
+de responsabilidade
+não a responsabilidade (item 11).
+
+Delegação infralegal de elementos essenciais de regime
+administrativo-sancionatório, com déficit de taxatividade. O art.
+Arts. 16-O e 16-P —
+16-O reproduz a tese (item 3.4) em recorte mais estreito, omitindo
+âmbito de aplicação e
+a categoria residual (d) “a outros provedores de aplicações de
+critérios diferenciados de
+internet que não possuam interferência no fluxo comunicativo e
+cumprimento
+informacional” e expondo comunicações privadas protegidas
+pelo sigilo (art. 5º, X e XII); ambos impugnados por arrastamento.
+
+Art. 16-N, § 1º —
+notificação extrajudicial Competência criada por decreto, sem previsão legal, em afronta
+de remoção atribuída à ao art. 131 da Constituição e à Lei Complementar nº 73/1993, com
+Advocacia-Geral da risco de censura indireta.
+União
+
+
+
+[[pagina 14 | nativo]]
+Art. 19-A — competência Ampliação infralegal da competência da ANPD, cuja lei de
+regulatória, fiscalizatória regência a vincula à proteção de dados pessoais, em afronta ao
+e de apuração da ANPD art. 37, caput, da Constituição.
+
+Art. 20-A — deveres de Reproduz a tese vinculante (autorregulação, itens 7 a 9) e não é
+autorregulação e de impugnado; ressalva-se apenas que o § 2º pressupõe uma
+transparência "apuração de infrações" administrativa que carece de base legal.
+
+Sobreposição ao prazo de 60 dias do item 14 da tese (contado da
+Art. 2º — vigência em 60
+publicação da ata dos embargos); interpretação conforme para
+dias da publicação do
+que a eficácia das obrigações estruturais não se inicie antes (art.
+decreto
+5º, caput e XXXVI; art. 27 da Lei nº 9.868/1999).
+
+17. Antes de demonstrar cada um desses vícios, convém fixar o paradigma à luz
+
+do qual o excesso do decreto se afere. A inconstitucionalidade aqui sustentada não é
+
+abstrata: mede-se pelo contraste entre o que o Congresso Nacional deliberou, por lei
+
+formal, no Marco Civil da Internet, e o que o Poder Executivo pretendeu impor por
+
+decreto. Por isso, a trajetória legislativa da Lei nº 12.965/2014 e as opções estruturantes
+
+que dela resultaram são premissa necessária da análise que segue.
+
+V — DAS PREMISSAS NECESSÁRIAS: O QUE ESTA AÇÃO NÃO DISCUTE
+
+18. Antes de examinar os vícios do decreto, convém delimitar negativamente o
+
+objeto da ação.
+
+19. Primeiro: não se sustenta imunidade de conteúdos ilícitos. Crimes e atos
+
+ilícitos praticados no ambiente digital devem ser reprimidos pelos instrumentos previstos
+
+na Constituição, na legislação penal, civil, eleitoral, consumerista, de proteção de
+
+crianças e adolescentes, de proteção de dados pessoais e no próprio Marco Civil da
+
+Internet.
+
+20. Segundo: não se questiona que plataformas digitais possam ter deveres de
+
+diligência proporcionais à sua atividade, ao seu porte, ao risco criado e ao grau de
+
+interferência que exercem sobre a circulação de conteúdos. O ponto é que deveres
+
+materiais, responsabilidades, presunções e sanções devem ser definidos por lei formal,
+
+e não por decreto.
+
+
+
+[[pagina 15 | nativo]]
+21. Terceiro: não se pede a revisão da tese fixada pelo STF nos Temas 533 e 987.
+
+O contrário, busca-se preservá-la em seu âmbito próprio, o da responsabilização civil
+
+sob controle jurisdicional. Reconhece-se que a decisão ressalva os poderes de
+
+regulamentar e de organizar a Administração (item 12 da tese); essa ressalva, contudo,
+
+preserva poderes existentes nos seus limites constitucionais e "nos termos desta
+
+decisão", sem delegar ao Executivo a criação, por decreto, de regime administrativo-
+
+sancionador. Tanto é que a própria decisão, em sede de embargos de declaração,
+
+manteve o apelo ao Congresso Nacional para legislar a matéria.
+
+22. Quarto: não se nega que a proteção do Estado Democrático de Direito
+
+constitua valor constitucional de máxima relevância. Sustenta-se, porém, que
+
+expressões abertas efetivamente adotadas pelo decreto — como falha sistêmica,
+
+riscos sistêmicos, circulação massiva, rede artificial de distribuição, medidas
+
+adequadas de prevenção ou remoção e níveis mais elevados de segurança —, bem
+
+como a incorporação de crimes contra o Estado Democrático de Direito por mera
+
+remissão a tipos penais (art. 286, parágrafo único, e arts. 359-L a 359-R do Código
+
+Penal), somente podem gerar deveres, responsabilização ou sanções quando
+
+ancoradas em lei formal suficientemente determinada. A gravidade do bem jurídico
+
+protegido reforça, e não reduz, a exigência de legalidade estrita.
+
+VI — DO HISTÓRICO LEGISLATIVO DO MARCO CIVIL DA INTERNET
+
+23. A Lei nº 12.965/2014 não foi produto de regulação episódica ou improvisada.
+
+O Marco Civil da Internet resultou de processo legislativo amplo, precedido de
+
+consultas públicas, consolidado no PL nº 2.126/2011, em substitutivo apresentado no
+
+âmbito da Câmara dos Deputados, com redação final do PL nº 2.126-B/2011, relatoria
+
+do Deputado Alessandro Molon, e posterior revisão pelo Senado Federal como PLC nº
+
+21/2014.
+
+24. O histórico legislativo revela que o Congresso Nacional deliberou
+
+precisamente sobre os pontos agora reconfigurados pelo decreto: liberdade de
+
+expressão, privacidade, proteção de dados, neutralidade de rede, responsabilidade
+
+dos provedores, retirada de conteúdo, notificação extrajudicial, ordem judicial,
+
+contraditório, ampla defesa e limites do poder regulamentar.
+
+
+
+[[pagina 16 | nativo]]
+25. A redação final do projeto estabeleceu que a disciplina do uso da internet
+
+tem como fundamento o respeito à liberdade de expressão, bem como a pluralidade,
+
+a diversidade, a livre iniciativa, a livre concorrência, a defesa do consumidor e a
+
+finalidade social da rede. Também definiu, como princípio, a garantia da liberdade de
+
+expressão, comunicação e manifestação de pensamento, nos termos da
+
+Constituição, ao lado da privacidade, da proteção de dados pessoais e da
+
+responsabilização dos agentes de acordo com suas atividades, nos termos da lei.
+
+26. No Senado Federal, os pareceres ressaltaram a centralidade da liberdade
+
+de expressão e a natureza participativa da rede. O parecer da Comissão de Ciência,
+
+Tecnologia, Inovação, Comunicação e Informática destacou que a internet nasceu
+
+sob os signos da liberdade, da pluralidade, do compartilhamento e do conhecimento,
+
+abrindo espaço para a disseminação das mais variadas ideias, reconhecendo, ainda,
+
+que o mundo da liberdade também é o mundo dos abusos, razão pela qual o Marco
+
+Civil buscou conciliar direitos dos usuários, deveres dos agentes econômicos e
+
+instrumentos para repressão de ilícitos.
+
+27. A Comissão de Constituição, Justiça e Cidadania do Senado, por sua vez,
+
+afirmou a constitucionalidade do PLC nº 21/2014 porque cabia à União legislar sobre
+
+direito civil, informática e telecomunicações, nos termos do art. 22, I e IV, da
+
+Constituição. Mais relevante ainda: ao analisar a juridicidade da proposição, a CCJ
+
+ressaltou que a matéria era adequada precisamente porque veiculada por lei, com
+
+inovação no ordenamento jurídico, generalidade, potencial coercitividade e
+
+compatibilidade com o sistema constitucional.
+
+28. Essa constatação é decisiva para o presente caso. Aquilo que justificou a
+
+constitucionalidade do Marco Civil — a disciplina por lei formal, aprovada pelo
+
+Congresso Nacional — falta ao Decreto nº 12.975/2026. Os mesmos elementos que
+
+caracterizam a juridicidade de uma lei (inovação, generalidade e coercitividade)
+
+evidenciam o vício de um decreto que cria obrigações primárias sem base legal
+
+suficiente.
+
+
+
+[[pagina 17 | nativo]]
+VII — DAS OPÇÕES LEGISLATIVAS ESTRUTURANTES DO MARCO CIVIL
+
+29. Do processo legislativo e do texto final da Lei nº 12.965/2014 extraem-se
+
+opções normativas deliberadas.
+
+30. A primeira é a centralidade da liberdade de expressão. O art. 2º coloca o
+
+respeito à liberdade de expressão como fundamento da disciplina do uso da internet;
+
+o art. 3º, I, consagra-a como princípio; e o art. 8º afirma que a garantia do direito à
+
+privacidade e à liberdade de expressão nas comunicações é condição para o pleno
+
+exercício do direito de acesso à internet.
+
+31. A segunda é a opção por responsabilização nos termos da lei. O art. 3º, VI,
+
+não remeteu a parâmetros administrativos abertos, mas à responsabilização dos
+
+agentes de acordo com suas atividades, nos termos da lei.
+
+32. A terceira é a reserva de jurisdição como regra originária para
+
+responsabilização do provedor de aplicações por conteúdo de terceiros. O art. 19 do
+
+Marco Civil foi redigido com finalidade expressa: assegurar a liberdade de expressão
+
+e impedir a censura. Por isso, condicionou a responsabilização civil, como regra, ao
+
+descumprimento de ordem judicial específica, com identificação clara do conteúdo
+
+apontado como infringente.
+
+33. A quarta é a previsão de garantias procedimentais. O art. 20 buscou conferir
+
+transparência à indisponibilização de conteúdo, exigindo comunicação ao usuário,
+
+indicação dos motivos e informações que permitam contraditório e ampla defesa em
+
+juízo.
+
+34. A quinta é a técnica das exceções legais expressas. Quando o Congresso
+
+quis admitir hipótese de remoção extrajudicial, fê-lo por lei formal e em situação
+
+delimitada: o art. 21, relativo à divulgação não autorizada de imagens, vídeos ou
+
+outros materiais contendo cenas de nudez ou atos sexuais de caráter privado. Essa
+
+opção demonstra que o legislador sabe criar exceções ao regime judicial quando
+
+entende necessário, mas o faz por lei, com hipótese, legitimados e requisitos próprios.
+
+35. A sexta é a delimitação do poder regulamentar. O art. 9º, § 1º, do Marco
+
+Civil remete expressamente ao art. 84, IV, da Constituição apenas no contexto da
+
+discriminação ou degradação de tráfego, matéria técnica ligada à neutralidade de
+
+
+
+[[pagina 18 | nativo]]
+rede, ouvidos o Comitê Gestor da Internet e a Anatel. O legislador não conferiu
+
+autorização genérica para que decreto criasse regime de moderação, dever de
+
+cuidado, falha sistêmica ou fiscalização administrativa de conteúdo.
+
+36. O cotejo entre o texto enviado pelo Poder Executivo (PL nº 2.126/2011) e a
+
+redação final aprovada pelo Congresso Nacional (PLC nº 21/2014) confirma esse
+
+desenho. Enquanto a proposta originária remetia a disciplina da discriminação e da
+
+degradação de tráfego genericamente à regulamentação, a redação final do art. 9º,
+
+§ 1º, restringiu-a às atribuições do art. 84, IV, da Constituição, para a fiel execução da
+
+Lei, ouvidos o Comitê Gestor da Internet e a Anatel, e somente em duas hipóteses
+
+técnicas. O legislador, portanto, deliberadamente estreitou — e não ampliou — o
+
+espaço do poder regulamentar conferido ao Chefe do Executivo.
+
+37. Esse arranjo legislativo não impede que o Supremo Tribunal Federal, no
+
+exercício da jurisdição constitucional, module ou reinterprete provisoriamente a
+
+incidência do art. 19 diante de insuficiência de proteção a direitos fundamentais. Mas
+
+ele impede que o Poder Executivo, sob o pretexto de regulamentar, assuma a função
+
+legislativa para criar regime administrativo-sancionatório novo.
+
+38. Postas essas premissas, examinam-se a seguir os vícios de
+
+inconstitucionalidade do Decreto nº 12.975/2026, a começar pelo excesso do poder
+
+regulamentar (art. 84, IV).
+
+VIII — DO EXCESSO REGULAMENTAR E DA VIOLAÇÃO AO ART. 84, IV, DA CONSTITUIÇÃO
+
+39. O art. 84, IV, da Constituição autoriza o Presidente da República a expedir
+
+decretos e regulamentos para a fiel execução das leis. A competência é normativa,
+
+mas derivada; é instrumental, mas não legislativa; pressupõe lei anterior e deve
+
+permanecer contida nos limites materiais desta.
+
+40. O regulamento de execução pode detalhar, operacionalizar, coordenar
+
+procedimentos e indicar meios técnicos para cumprimento da lei. Não pode, porém,
+
+criar obrigações primárias dirigidas a particulares, estabelecer regime novo de
+
+responsabilidade, instituir presunções, definir infrações, ampliar competências
+
+administrativas ou deslocar para a Administração a definição de conteúdos sensíveis
+
+
+
+[[pagina 19 | nativo]]
+à liberdade de expressão. Não se trata de simples critério doutrinário: o próprio art. 49,
+
+V, da Constituição pressupõe que o decreto possa exorbitar do poder regulamentar e,
+
+ao atribuir ao Congresso Nacional a competência para sustá-lo, reconhece que tal
+
+exorbitância configura vício de índole constitucional. A ultrapassagem dos limites do
+
+art. 84, IV, portanto, não se resolve apenas no plano da legalidade ordinária, mas se
+
+projeta diretamente sobre a repartição constitucional de funções entre os Poderes, o
+
+que autoriza o controle concentrado.
+
+41. O Decreto nº 12.975/2026 ultrapassa esse limite. Seus dispositivos não se
+
+limitam a executar a Lei nº 12.965/2014: criam deveres gerais, dever de cuidado,
+
+gestão de riscos, critérios de falha sistêmica, notificação extrajudicial,
+
+indisponibilização de conteúdo, obrigações de publicidade, presunções de
+
+responsabilidade, autorregulação obrigatória e competências regulatórias da ANPD
+
+(art. 19-A), responsabilidade administrativa sancionatória (art. 16-I) e competência de
+
+notificação extrajudicial conferida à Advocacia-Geral da União (art. 16-N, § 1º).
+
+42. O argumento ganha densidade a partir do próprio Marco Civil. A única
+
+remissão expressa ao art. 84, IV, da Constituição (art. 9º, § 1º) foi cirurgicamente
+
+circunscrita à disciplina técnica da discriminação e degradação de tráfego, ouvidos
+
+o CGI.br e a Anatel. Onde o legislador quis abrir espaço ao poder regulamentar, fê-lo
+
+de modo expresso e delimitado; o silêncio quanto à moderação de conteúdo, ao
+
+dever de cuidado e à fiscalização administrativa não é lacuna a ser colmatada por
+
+decreto, mas opção normativa a ser respeitada. A lacuna legislativa eventualmente
+
+reconhecida pelo STF não se converte em delegação normativa ao Executivo.
+
+43. Não há, na Lei nº 12.965/2014, autorização para que decreto institua regime
+
+geral de dever de cuidado, de falha sistêmica, de moderação de conteúdo, de
+
+responsabilização administrativa, de publicidade digital ou de fiscalização por
+
+autoridade administrativa. Onde não há lei a executar, não há o que regulamentar; e
+
+o que o Decreto nº 12.975/2026 faz, nesses pontos, não é executar a lei, mas criar
+
+disciplina nova, primária e autônoma, função reservada ao Congresso Nacional.
+
+44. Tampouco o art. 84, VI, a, da Constituição ampara o ato impugnado. Tal
+
+dispositivo autoriza decreto autônomo apenas sobre organização e funcionamento
+
+da administração federal, quando não implicar aumento de despesa nem criação ou
+
+extinção de órgãos públicos. Não autoriza a imposição de deveres a particulares, nem
+
+
+[[pagina 20 | nativo]]
+a criação de regime regulatório para plataformas digitais — que é precisamente o que
+
+o decreto faz ao instituir competência externa, com efeitos sobre direitos
+
+fundamentais.
+
+45. O Decreto nº 12.622/2025 ilustra o uso legítimo do art. 84, VI, a: designou a
+
+Agência Nacional de Proteção de Dados como autoridade administrativa de
+
+proteção de crianças e adolescentes em ambientes digitais, atribuição que a Lei nº
+
+15.211/2025 (ECA Digital) havia previsto. Diferentemente, o art. 19-A não se limita a
+
+designar autoridade para competência criada por lei; cria a própria competência. No
+
+mesmo sentido, o art. 25 do Ato das Disposições Constitucionais Transitórias vedou a
+
+atribuição ou a delegação a órgão do Poder Executivo de competência normativa
+
+reservada pela Constituição ao Congresso Nacional. O dispositivo confirma que o
+
+regulamento não pode inovar onde a lei é exigida: o que a Constituição subtraiu do
+
+Executivo não lhe pode ser restituído por decreto.
+
+IX — DA RESERVA LEGAL E DA VIOLAÇÃO AO ART. 22 DA CONSTITUIÇÃO
+
+46. A matéria disciplinada pelos dispositivos impugnados incide sobre campos
+
+reservados à lei formal federal: direito civil e comercial; matéria penal e processual, na
+
+medida em que categorias criminais são utilizadas como pressuposto de deveres
+
+administrativos; informática e telecomunicações; propaganda comercial; proteção e
+
+tratamento de dados pessoais; além de repercutir diretamente sobre liberdade de
+
+expressão, comunicação social, devido processo legal e direito administrativo
+
+sancionador.
+
+47. A competência privativa da União para legislar sobre tais matérias não
+
+autoriza o Presidente da República a legislar por decreto. Ao contrário: reforça a
+
+necessidade de lei formal, aprovada pelo Congresso Nacional, observadas as
+
+garantias do processo legislativo democrático.
+
+48. A criação de responsabilidade por falha sistêmica, presunção de
+
+responsabilidade por anúncios e impulsionamentos, dever de indisponibilização, dever
+
+de gestão de riscos, obrigações de autorregulação e parâmetros de fiscalização
+
+configura disciplina material de direitos e deveres de particulares. Isso é lei em sentido
+
+material e deve ser lei em sentido formal. Não por outra razão, a CCJ do Senado, ao
+
+reconhecer a juridicidade do PLC nº 21/2014, a fundou precisamente nos atributos de
+
+
+
+[[pagina 21 | nativo]]
+inovação, generalidade e coercitividade — atributos que, à luz do art. 22, I, IV, XXIX e
+
+XXX, exigem veículo legislativo. O Decreto nº 12.975/2026 ostenta esses mesmos
+
+atributos, mas sem passar pelo processo legislativo constitucional: é lei em sentido
+
+material que se pretende impor sem ser lei em sentido formal. A ofensa é direta aos
+
+arts. 1º, caput e parágrafo único, 2º, 5º, II, 22, I, IV, XXIX e XXX, e 84, IV, da Constituição.
+
+X — DAS MATÉRIAS CONSTITUCIONALMENTE AFETADAS E DA RESERVA DEMOCRÁTICA DE
+
+LEI
+
+49. O Decreto nº 12.975/2026 não incide sobre zona administrativa periférica. Ele
+
+alcança, simultaneamente, a responsabilidade civil de provedores, a qualificação de
+
+conteúdos como criminosos ou ilícitos, a publicidade digital, o impulsionamento pago,
+
+a guarda e o tratamento de dados técnicos, a moderação de conteúdo, a atuação
+
+fiscalizatória estatal e o regime sancionatório administrativo.
+
+50. No campo do direito civil e comercial, o decreto cria deveres gerais de
+
+conduta, dever de cuidado, presunções de responsabilidade, obrigações de
+
+autorregulação e parâmetros de responsabilização de provedores de aplicações. São
+
+comandos que interferem diretamente na posição jurídica de particulares, na
+
+atividade econômica digital e na disciplina de direitos e deveres entre usuários,
+
+provedores, anunciantes e terceiros.
+
+51. No campo penal e processual, embora o decreto não crie tipos penais nem
+
+discipline processo penal em sentido próprio, ele utiliza categorias criminais como
+
+pressuposto de deveres administrativos de indisponibilização, notificação,
+
+encaminhamento de informações e apuração de descumprimento. A identificação
+
+administrativa de conteúdo como criminoso, quando convertida em gatilho para
+
+consequências jurídicas privadas e estatais, exige moldura legal clara, sob pena de
+
+transferir à Administração e a agentes privados uma função que demanda tipicidade,
+
+controle jurisdicional e garantias procedimentais.
+
+52. No campo da informática, das telecomunicações e da proteção de dados
+
+pessoais, o decreto disciplina registros, porta lógica de origem, funcionamento de
+
+aplicações, relatórios de transparência, perfilamento, publicidade, gestão de riscos e
+
+atuação da ANPD. Tais matérias estão abrangidas por competências legislativas
+
+
+
+[[pagina 22 | nativo]]
+expressas e por regimes legais próprios, não podendo ser reorganizadas por
+
+regulamento sem autorização suficiente em lei formal.
+
+53. No campo da propaganda comercial e das relações de consumo, os arts.
+
+16-K a 16-N disciplinam anúncios, impulsionamentos pagos, publicidade enganosa,
+
+abusiva ou fraudulenta e presunções de responsabilidade. Ainda que a proteção do
+
+consumidor seja valor constitucional e legal relevante, a definição de deveres,
+
+presunções e efeitos jurídicos nessa matéria exige deliberação legislativa,
+
+especialmente quando combinada com restrições à circulação de conteúdos.
+
+54. No campo do direito administrativo sancionador, o decreto cria parâmetros
+
+de fiscalização, apuração de infrações e cumprimento de deveres por autoridade
+
+administrativa. A legalidade sancionatória não admite que elementos essenciais de
+
+conduta, competência, procedimento, responsabilização e consequências gravosas
+
+sejam definidos por ato infralegal ou por regulamentação administrativa posterior.
+
+55. A exigência de lei formal, nesse contexto, não é formalismo. É garantia
+
+democrática. Nos termos do art. 1º, parágrafo único, da Constituição, todo poder
+
+emana do povo, que o exerce por representantes eleitos ou diretamente. Quando a
+
+Constituição reserva determinadas matérias à lei, ela reserva sua conformação ao
+
+processo legislativo parlamentar, com publicidade, contraditório político, possibilidade
+
+de emendas, controle bicameral, participação da maioria e da minoria e
+
+responsabilidade democrática perante a sociedade.
+
+56. O Presidente da República possui legitimidade democrática própria, mas
+
+não detém competência legislativa geral. Seu poder regulamentar é derivado e
+
+instrumental; não substitui a deliberação do Congresso Nacional. Em matéria que
+
+afeta a esfera pública digital, a circulação de informações, a liberdade de expressão
+
+e a responsabilidade de agentes privados, a reserva legal assume também dimensão
+
+de reserva democrática de Parlamento. A disciplina pode ser urgente, necessária e
+
+legítima; ainda assim, deve ser editada pela via constitucionalmente adequada: lei
+
+formal, com debate público, participação parlamentar e controle democrático, e não
+
+decreto regulamentar.
+
+57. A prova inequívoca dessa invasão de competência reside no fato de que a
+
+disciplina que o Decreto nº 12.975/2026 institui tramitou, por anos, no Congresso
+
+
+
+[[pagina 23 | nativo]]
+Nacional como o Projeto de Lei nº 2.630/2020 (PL das Fake News). O Parecer proferido
+
+em Plenário (Rel. Dep. Orlando Silva) contemplava, entre outros, os deveres de análise
+
+e atenuação de riscos sistêmicos (arts. 7º e 8º), o dever de cuidado (art. 11), os
+
+procedimentos de notificação e moderação (arts. 16 a 19), os deveres de
+
+transparência e os relatórios (arts. 20 a 23), a disciplina da publicidade (arts. 26 a 30),
+
+a guarda de registros, incluindo as portas de origem (art. 46), as sanções administrativas
+
+(art. 47) e o representante legal pessoa jurídica no País (art. 53). O projeto não foi
+
+aprovado. Ao reintroduzir por decreto esse mesmo núcleo de obrigações, o Poder
+
+Executivo atalhou a via legislativa que os arts. 2º e 49, V, da Constituição reservam ao
+
+Congresso.
+
+XI — DOS TEMAS 533 E 987 E DOS LIMITES DA RESSALVA DO ITEM 12 DA TESE
+
+58. A defesa do decreto poderá sustentar que o ato apenas incorporou os
+
+parâmetros fixados pelo Supremo Tribunal Federal nos Temas 533 e 987 da repercussão
+
+geral. Essa leitura, contudo, não afasta a inconstitucionalidade aqui apontada.
+
+59. Nos referidos temas — RE 1.037.396/SP (Tema 987), Rel. Min. Dias Toffoli, e RE
+
+1.057.258/MG (Tema 533), Rel. Min. Luiz Fux, julgamento conjunto concluído pelo
+
+Tribunal Pleno em 26 de junho de 2025 —, o STF reconheceu a inconstitucionalidade
+
+parcial e progressiva do art. 19 do Marco Civil da Internet, fixando parâmetros
+
+transitórios de responsabilização civil dos provedores enquanto não sobrevier nova
+
+legislação. O próprio enunciado da tese faz apelo ao Congresso Nacional para que
+
+seja elaborada legislação capaz de sanar as deficiências do regime vigente.
+
+60. Posteriormente, julgados os embargos de declaração, a decisão transitou
+
+em julgado, passando a produzir eficácia erga omnes e efeito vinculante (CF, art. 102,
+
+§ 2º). Por isso, esta ação não rediscute o mérito da tese, mas impugna apenas as
+
+inovações que o decreto, a pretexto de implementá-la, introduziu sem lei. Esse ponto
+
+é decisivo: no item 12 da tese, o STF apelou ao Congresso Nacional para legislar e, na
+
+mesma passagem, ressalvou ao Poder Executivo os poderes dos arts. 84, IV, e 84, VI,
+
+"a", "especialmente quanto às funções de regulação, fiscalização e apuração das
+
+obrigações impostas aos provedores [...], nos termos desta decisão". É nessa ressalva
+
+que o decreto pretende ancorar-se; ela não o sustenta por cinco razões:
+
+
+
+[[pagina 24 | nativo]]
+(i) ressalva que preserva poderes não é cláusula que os amplia. A fórmula "nos
+
+termos desta decisão" é limite, não habilitação: o Executivo conserva os poderes
+
+que já tinha, exercidos nos seus contornos constitucionais, sem receber
+
+autorização para criar, por decreto, o que a Constituição reserva à lei. Ler a
+
+ressalva como delegação normativa seria extrair de uma decisão judicial aquilo
+
+que nem o Congresso poderia conceder, uma carta branca para legislar por
+
+decreto.
+
+(ii) "regulamentar na forma do art. 84, IV" pressupõe lei a executar e essa lei é
+
+justamente a que o Supremo pediu ao Congresso. Onde inexiste lei material
+
+sobre moderação de conteúdo, dever de cuidado e fiscalização
+
+administrativa, não há o que o regulamento execute: regulamento sem lei
+
+anterior é, por definição, inovação primária vedada. O próprio apelo ao
+
+legislador é a prova mais eloquente, se o Executivo pudesse disciplinar a matéria
+
+por decreto, o apelo seria inútil, e a decisão não contém passagem inútil.
+
+(iii) "apuração" não equivale a "definição de infração e cominação de sanção".
+
+Fiscalizar e apurar pressupõem infração já definida em lei: são poderes de
+
+aplicação, não de criação. O poder de verificar o cumprimento de um dever
+
+não traz consigo o de tipificar a conduta, cominar a penalidade e designar a
+
+autoridade sancionadora, estes sob reserva legal estrita (art. 5º, XXXIX; art. 37).
+
+A ressalva confere ao Executivo, quando muito, a fiscalização do que a lei e a
+
+decisão já estabeleceram; não a competência para erigir um direito
+
+administrativo sancionador novo.
+
+(iv) o art. 84, VI, "a", organiza a Administração, sem criar deveres a particulares.
+
+Autoriza dispor sobre funcionamento e competências internas, não impor
+
+obrigações, infrações e sanções a provedores e usuários. As "funções de
+
+regulação, fiscalização e apuração" a que a ressalva alude recaem sobre as
+
+obrigações que a própria decisão impôs (as estruturais do item 5: sede e
+
+representante, canais de atendimento, autorregulação e transparência), não
+
+sobre um regime material de moderação que a decisão não criou; e
+
+(v) o tratamento específico prevalece sobre a ressalva genérica. A decisão
+
+construiu a falha sistêmica como hipótese de responsabilização civil (item 5.4),
+
+sob controle judicial (itens 5.5 e 5.6), e afastou a responsabilidade objetiva (item
+
+
+[[pagina 25 | nativo]]
+11). Esse desenho particular (civil, judicial e subjetivo) não se neutraliza por uma
+
+cláusula geral de ressalva de poderes regulamentares: onde a tese disse "civil e
+
+judicial", o decreto não pode dizer "administrativo e sancionatório". Acresce
+
+que, transitada em julgado a decisão, com eficácia erga omnes e efeito
+
+vinculante, esses limites integram a coisa julgada, e o que o Supremo confinou
+
+não se amplia por via regulamentar. A ressalva do item 12, lida "nos termos desta
+
+decisão", autoriza regulamentar a sua execução, não a reescrever.
+
+61. Há diferença constitucional entre: (i) a interpretação judicial vinculante, de
+
+caráter transitório, produzida no âmbito da jurisdição constitucional; (ii) a legislação
+
+formal superveniente, deliberada pelo Congresso Nacional; e (iii) o decreto
+
+regulamentar editado unilateralmente pelo Executivo. A primeira não autoriza a
+
+terceira a ocupar o lugar da segunda. Eventual lacuna legislativa reconhecida por
+
+essa Corte não se converte em delegação normativa ao Poder Executivo.
+
+62. A decisão do STF também não instituiu responsabilidade objetiva. Ao
+
+contrário, a tese de repercussão geral preservou a necessidade de aferição de culpa,
+
+diligência, falha sistêmica ou parâmetros próprios, conforme a natureza do conteúdo
+
+e do serviço. O decreto, porém, ao criar presunções, deveres administrativos,
+
+autoridade fiscalizatória e procedimentos a serem regulamentados, desloca a
+
+discussão do plano civil-jurisdicional para o plano administrativo-sancionatório, sem lei
+
+formal.
+
+63. Portanto, ainda que determinados vocábulos do decreto coincidam com a
+
+tese fixada pelo STF — como falha sistêmica, autorregulação, canais de atendimento
+
+ou anúncios —, isso não legitima sua transformação, por decreto, em regime
+
+administrativo de fiscalização, apuração e responsabilização. A decisão judicial pode
+
+ser parâmetro de interpretação do ordenamento; não é autorização para decreto
+
+criar competência administrativa e deveres primários.
+
+XII — DA RECONFIGURAÇÃO INFRALEGAL DO REGIME DE RESPONSABILIDADE DOS
+
+PROVEDORES
+
+64. O Marco Civil, em sua redação originária, adotou regime legal deliberado
+
+para a responsabilidade dos provedores por conteúdo gerado por terceiros. O art. 18
+
+
+[[pagina 26 | nativo]]
+excluiu a responsabilidade civil do provedor de conexão por danos decorrentes de
+
+conteúdo de terceiros. O art. 19, com finalidade expressa de assegurar a liberdade de
+
+expressão e impedir a censura, condicionou a responsabilidade do provedor de
+
+aplicações ao descumprimento de ordem judicial específica, ressalvadas hipóteses
+
+legais em contrário. O art. 21 criou exceção legal expressa para divulgação não
+
+autorizada de conteúdo íntimo sexual.
+
+65. A decisão do STF nos Temas 533 e 987 alterou a interpretação constitucional
+
+do art. 19 enquanto não houver nova legislação. Essa alteração, todavia, ocorreu pela
+
+via jurisdicional e dentro dos limites da tese fixada. O Decreto nº 12.975/2026 vai além
+
+quando converte a reinterpretação judicial em sistema administrativo geral, com
+
+poderes de fiscalização, apuração, regulamentação e presunções.
+
+66. Os arts. 16-B, 16-C, 16-G, 16-J e 16-L são especialmente sensíveis. Eles não
+
+apenas reconhecem a possibilidade de responsabilização civil em determinados
+
+casos. Eles constroem deveres de prevenção, monitoramento, gestão de riscos,
+
+indisponibilização, replicação e presunção de responsabilidade, com atuação de
+
+autoridade competente e potencial incidência administrativa. A forma constitucional
+
+adequada para compatibilizar a decisão do STF com a arquitetura normativa do
+
+Marco Civil é a lei formal. O decreto não pode transformar uma regra transitória de
+
+responsabilidade civil fixada em recurso extraordinário com repercussão geral em
+
+regime geral de polícia administrativa sobre plataformas digitais.
+
+67. Reforça esse vício a própria natureza das normas que o decreto invoca
+
+como esteio. Os arts. 19 e 21 da Lei nº 12.965/2014 integram a Seção III do Capítulo III
+
+do Marco Civil, sob a rubrica Da responsabilidade por danos decorrentes de conteúdo
+
+gerado por terceiros, e são, em sua inteireza, normas de responsabilidade civil: o art.
+
+19 dispõe que o provedor poderá ser responsabilizado civilmente por danos quando
+
+descumprida ordem judicial específica, e o art. 21, que será responsabilizado pelos
+
+danos quando, notificado, deixar de indisponibilizar conteúdo íntimo. O suporte e a
+
+consequência são o ilícito e o dever de indenizar, apurados pelo Poder Judiciário.
+
+Nenhum dos dois dispositivos institui regras de moderação de conteúdo, tampouco
+
+regime administrativo de fiscalização, apuração de infrações ou sanção — matéria
+
+que, no desenho do Marco Civil, pertence aos termos de uso e à autorregulação dos
+
+provedores, e não a comando estatal sancionatório. A própria releitura do art. 19 por
+
+
+
+[[pagina 27 | nativo]]
+essa Corte operou estritamente no registro da responsabilidade civil, aproximando-o
+
+da lógica de notificação extrajudicial seguida do dever de indenizar própria do art.
+
+21, sem instituir qualquer regime administrativo. O Decreto nº 12.975/2026, todavia,
+
+toma essas normas de responsabilidade civil e a respectiva releitura jurisdicional e as
+
+converte em deveres administrativos de moderação, em parâmetros de falha
+
+sistêmica e em competência fiscalizatória — o que a lei não autorizou e o que o
+
+regulamento não pode realizar.
+
+68. O deslocamento da falha sistêmica do plano civil-judicial para o
+
+administrativo subtrai do controle jurisdicional matéria que a própria tese a ele reservou
+
+(itens 5.5 e 5.6). A avaliação da falha sistêmica, confiada pela decisão ao Judiciário,
+
+passa a ser feita pela autoridade competente (art. 16-B, § 2º) e convertida em
+
+responsabilidade administrativa (art. 16-I), apurável pela ANPD (art. 19-A). Altera-se,
+
+por decreto, a natureza e o foro daquilo que a coisa julgada fixou como civil e judicial,
+
+em ofensa à reserva de jurisdição e à inafastabilidade do controle judicial (art. 5º,
+
+XXXV).
+
+XIII — DA TÉCNICA DAS EXCEÇÕES LEGAIS EXPRESSAS E DA IMPOSSIBILIDADE DE
+
+GENERALIZAÇÃO POR DECRETO
+
+69. O art. 21 do Marco Civil tem valor argumentativo decisivo. Ele demonstra
+
+que, quando o legislador quis admitir responsabilização do provedor por não remoção
+
+após notificação extrajudicial, fê-lo expressamente, por lei formal, em hipótese
+
+específica e delimitada, vinculada à proteção da intimidade sexual. O parecer
+
+legislativo do Senado foi claro ao justificar essa opção: conteúdos contendo nudez ou
+
+atos sexuais de caráter privado poderiam ser retirados mediante notificação
+
+extrajudicial do participante ou de seu representante legal — e não por ordem judicial
+
+— para resguardar a vida íntima do cidadão atingido.
+
+70. A existência de exceção legal específica indica que a ampliação de
+
+hipóteses de remoção extrajudicial, responsabilização subsidiária ou dever de resposta
+
+não pode decorrer de decreto. Exceções ao regime legal de responsabilidade devem
+
+ser previstas em lei, não por ato regulamentar.
+
+71. Registre-se, para evitar equívoco, que o vício aqui apontado não reside na
+
+regra material de remoção — inclusive de conteúdos idênticos já reconhecidos como
+
+
+
+[[pagina 28 | nativo]]
+ilícitos por decisão judicial —, que decorre da própria tese fixada nos Temas 533 e 987
+
+e não é objeto desta ação. O vício está na conversão desse mecanismo, por decreto,
+
+em dever administrativo geral, sindicável e sancionável por autoridade da
+
+Administração, com prazos, legitimados e procedimentos a serem definidos
+
+infralegalmente. Uma coisa é a consequência civil delimitada pela jurisdição
+
+constitucional; outra, substancialmente diversa, é o regime de polícia administrativa
+
+que o decreto edifica sem lei formal. A proteção contra conteúdos gravemente ilícitos
+
+é legítima; o vício está na forma normativa.
+
+XIV — DA AMPLIAÇÃO INDEVIDA DA COMPETÊNCIA DA ANPD
+
+72. A ANPD — Autoridade Nacional de Proteção de Dados, hoje Agência
+
+Nacional de Proteção de Dados, na forma da Lei nº 15.352/2026 — foi instituída pela
+
+Lei nº 13.709/2018 (Lei Geral de Proteção de Dados Pessoais) como órgão central de
+
+interpretação, orientação, fiscalização e aplicação da LGPD, com competência
+
+materialmente vinculada à proteção de dados pessoais e ao tratamento de dados,
+
+nos termos dos arts. 1º, 2º, 5º, XIX, e 55-J da LGPD. Sua competência legal é, portanto,
+
+setorial e materialmente circunscrita à proteção de dados pessoais. Fora desse
+
+campo, a ANPD não detém, em lei formal, a condição de autoridade reguladora geral
+
+de plataformas, de conteúdo ou de publicidade, e o princípio da legalidade
+
+administrativa (art. 37, caput, da Constituição) impede que essa competência lhe seja
+
+conferida por ato infralegal.
+
+73. O art. 19-A do Decreto nº 12.975/2026 atribui à ANPD competência para
+
+atuar na regulação, fiscalização e apuração de infrações quanto aos direitos dos
+
+usuários e ao cumprimento dos deveres dos provedores de aplicações de internet, em
+
+especial aqueles previstos nos arts. 16-A a 16-P.
+
+74. O problema é que os arts. 16-A a 16-P não tratam apenas de proteção de
+
+dados pessoais. Eles disciplinam moderação de conteúdo, dever de cuidado, falha
+
+sistêmica, indisponibilização de conteúdo, publicidade, impulsionamento pago,
+
+canais de denúncia, presunções de responsabilidade, autorregulação e gestão de
+
+riscos sistêmicos.
+
+75. Transformar a ANPD, por decreto, em autoridade geral de fiscalização de
+
+plataformas digitais, conteúdo e publicidade extrapola sua lei de regência.
+
+
+
+[[pagina 29 | nativo]]
+Competência administrativa, especialmente quando regulatória, fiscalizatória e
+
+sancionatória, exige previsão legal clara. O princípio da legalidade administrativa (art.
+
+37, caput) não permite que a competência de uma autoridade seja ampliada por ato
+
+infralegal para matérias que extrapolam a proteção de dados pessoais ou, quando
+
+aplicável, a tutela infantojuvenil nos limites estritos de lei específica.
+
+76. A própria remissão do art. 19-A à Lei nº 12.965/2014, à LGPD e à Lei nº
+
+15.211/2025, não supre a deficiência. A Lei nº 12.965/2014 e a LGPD contêm deveres
+
+setoriais e normas de proteção, mas não conferem, por si, à ANPD a condição de
+
+autoridade reguladora geral de conteúdo, moderação, dever de cuidado,
+
+publicidade e responsabilidade civil de provedores. E a Lei nº 15.211/2025 (ECA Digital),
+
+voltada à proteção de crianças e adolescentes em ambiente digital, reforça, a
+
+contrario sensu, a tese ora sustentada: quando o legislador quis impor a plataformas
+
+digitais deveres de prevenção, gestão de riscos e mecanismos fiscalizatórios em
+
+ambiente digital, fê-lo por lei formal, aprovada pelo Congresso Nacional, e em recorte
+
+material expressamente delimitado. O Decreto nº 12.975/2026 replica parte desse
+
+arsenal de deveres e de fiscalização administrativa, mas o dirige à generalidade dos
+
+usuários e dos conteúdos. Aquilo que, no âmbito infantojuvenil, dependeu de lei formal
+
+e de recorte material específico não pode ser estendido, por decreto, a todo o
+
+universo da comunicação digital.
+
+77. Há, ainda, vício de índole estrutural que torna a solução do decreto não
+
+apenas insuficiente, mas incompatível com o próprio modelo de agência reguladora
+
+que pretende mobilizar. A Agência Nacional de Proteção de Dados é hoje autarquia
+
+de natureza especial, dotada de autonomia funcional, técnica, decisória,
+
+administrativa e financeira. Essa autonomia é, em sua origem e em seu reforço, obra
+
+de lei formal: a transformação da ANPD em autarquia de natureza especial deu-se
+
+pela Lei nº 14.460/2022, sua desvinculação da estrutura direta da Presidência da
+
+República consolidou-se já em 2023, e a sua equiparação ao regime das agências
+
+reguladoras (Lei nº 13.848/2019), à semelhança da ANATEL e da ANVISA, veio com a
+
+Lei nº 15.352, de 25 de fevereiro de 2026 — arranjo concebido precisamente para
+
+assegurar-lhe independência e blindá-la da interferência política direta. É significativo,
+
+ademais, que essa mesma lei tenha sido o veículo formal escolhido para reaparelhar
+
+a ANPD com vistas à fiscalização do ambiente digital exigida pelo Estatuto Digital da
+
+
+
+[[pagina 30 | nativo]]
+Criança e do Adolescente (Lei nº 15.211, de 17 de setembro de 2025): quando o
+
+legislador quis conferir-lhe competência de supervisão de plataformas, fê-lo por lei
+
+formal, e não por decreto.
+
+78. Daí o paradoxo. Competência que não promana de lei, mas de ato do
+
+Chefe do Poder Executivo, é, por sua origem, precária e revisível pelo próprio editor do
+
+ato, que pode, a qualquer tempo, rever, revogar ou avocar aquilo que instituiu (cf. Lei
+
+nº 9.784/1999, arts. 11 a 15). Se a competência da ANPD para regular, fiscalizar e apurar
+
+infrações de plataformas decorresse do Decreto nº 12.975/2026, e não de lei, a relação
+
+daí emergente seria de subordinação e revisibilidade pelo delegante, exatamente o
+
+oposto da autonomia que o regime de autarquia especial foi concebido para
+
+assegurar: a agência que a própria lei acabara de desvincular da Presidência da
+
+República seria, por decreto, novamente capturável por ela. Para que a ANPD
+
+permaneça autônoma, sua competência só pode advir de lei formal; a fonte
+
+infralegal, no ponto, não é apenas insuficiente sob o prisma da legalidade, mas
+
+incompatível com a independência que a ordem jurídica lhe reconhece. Também por
+
+essa razão é inconstitucional a atribuição do art. 19-A.
+
+XV — DA INEXISTÊNCIA DE BASE LEGAL PARA O REGIME ADMINISTRATIVO-
+
+SANCIONADOR
+
+79. O art. 19-A, ao atribuir à ANPD competência de regulação, fiscalização e
+
+apuração de infrações, ancora-se expressamente no disposto nos arts. 10 a 12 da Lei
+
+nº 12.965/2014. A remissão, contudo, não sustenta o regime que o decreto pretende
+
+erguer, e o exame do próprio texto legal o demonstra de modo cirúrgico. O art. 12 do
+
+Marco Civil é a única norma sancionatória da lei e possui suporte fático fechado:
+
+comina sanções — advertência, multa de até dez por cento do faturamento,
+
+suspensão e proibição — exclusivamente às infrações às normas previstas nos arts. 10
+
+e 11, que disciplinam, tão somente, a guarda, a proteção e a disponibilização de
+
+registros, de dados pessoais e de comunicações privadas. O catálogo de sanções do
+
+art. 12 está, portanto, legalmente atrelado à tutela de dados e registros, e a nada mais.
+
+80. Ocorre que o dever de cuidado, a falha sistêmica na indisponibilização (art.
+
+16-B) e os demais deveres de moderação instituídos nos arts. 16-A e seguintes do
+
+decreto descrevem conduta inteiramente diversa daquela dos arts. 10 e 11: não
+
+
+
+[[pagina 31 | nativo]]
+tratam de guarda de registros nem de proteção de dados, mas de remoção de
+
+conteúdo de terceiros. Não são, por isso, o suporte fático do art. 12, e por ele não
+
+podem ser alcançados. Daí o vício, em sua expressão mais nítida: quem cria o nexo
+
+entre a conduta nova — a moderação de conteúdo — e a sanção do art. 12 não é a
+
+lei, é o decreto. O regulamento, a pretexto de remeter aos arts. 10 a 12, amplia o
+
+suporte fático da norma sancionatória, fazendo incidir o catálogo punitivo sobre
+
+hipóteses que o legislador a ele não vinculou — vale dizer, cria tipo infracional por ato
+
+infralegal.
+
+81. Tais dispositivos afrontam a legalidade estrita do ilícito administrativo: não há
+
+sanção sem lei anterior que a defina, exigência extraída do art. 5º, XXXIX, da
+
+Constituição, há muito estendida por essa Corte ao direito administrativo sancionador,
+
+e do princípio da legalidade administrativa do art. 37, caput. Resulta que a
+
+responsabilidade administrativa do art. 16-I e a competência fiscalizatória e de
+
+apuração de infrações conferida à ANPD pelo art. 19-A não encontram fundamento
+
+nem no Marco Civil — cujo art. 12 está adstrito ao suporte fático dos arts. 10 e 11 —
+
+nem na decisão de repercussão geral. O Decreto nº 12.975/2026 preenche esse vazio
+
+por conta própria, e é precisamente nisso que viola a reserva legal (arts. 5º, II e XXXIX,
+
+37, caput, e 84, IV, da Constituição).
+
+82. Idêntico vício de ausência de base legal atinge o dever de reporte do art.
+
+16-H, que obriga os provedores a encaminhar ao Poder Público o conteúdo e os dados
+
+de autoria e materialidade das condutas criminosas, e remete a forma de
+
+cumprimento a ato do Ministro de Estado da Justiça e Segurança Pública. A tese
+
+vinculante não prevê dever de reporte; e o único dever legal de remover e comunicar
+
+conteúdo às autoridades é o do art. 27 da Lei nº 15.211/2025, restrito a conteúdos de
+
+exploração, abuso sexual, sequestro e aliciamento de crianças e adolescentes. O art.
+
+16-H extrapola esse recorte setorial, pois alcança todas as condutas do art. 16-B, e
+
+ainda delega a sua disciplina a ato ministerial, em afronta à reserva legal (arts. 84, IV,
+
+e 5º, II) e, na entrega de dados de usuários, ao sigilo e ao devido processo (art. 5º, X,
+
+XII e LIV).
+
+XVI — DA ATRIBUIÇÃO DE COMPETÊNCIA À ADVOCACIA-GERAL DA UNIÃO SEM BASE
+
+LEGAL
+
+
+
+[[pagina 32 | nativo]]
+83. Vício análogo, e ainda mais sensível à liberdade de expressão, recai sobre o
+
+art. 16-N, § 1º. O dispositivo confere à Advocacia-Geral da União o poder de notificar
+
+extrajudicialmente os provedores para indisponibilização de conteúdo de terceiros
+
+sempre que a publicidade reputada enganosa, abusiva ou fraudulenta for
+
+relacionada a políticas públicas. A AGU não possui, em lei, competência dessa
+
+natureza: suas atribuições são fixadas pelo art. 131 da Constituição e pela Lei
+
+Complementar nº 73/1993, e cingem-se à representação judicial e extrajudicial da
+
+União e à consultoria e ao assessoramento jurídico do Poder Executivo. Em nenhuma
+
+delas se contém o poder de dirigir a particulares notificações de remoção de
+
+conteúdo, com efeito indutor de indisponibilização. Trata-se de competência criada
+
+ex novo por ato infralegal, em ofensa à legalidade administrativa (art. 37, caput) e à
+
+reserva legal.
+
+84. O arranjo é particularmente grave. Ao reservar à AGU justamente a
+
+publicidade relacionada a políticas públicas, o decreto entrega ao órgão de
+
+representação do próprio Governo o poder de provocar a remoção de conteúdos
+
+que tangenciem as políticas governamentais — e o faz sobre conceito de contornos
+
+abertos, ainda ampliado pelo § 2º, que presume enganoso o conteúdo que não for
+
+claramente identificável pelo usuário como publicidade. O desenho abre flanco a
+
+desvio de finalidade e a censura indireta, sob vestes de proteção ao consumidor, com
+
+efeito inibidor sobre o debate público.
+
+85. Nem se invoque, a existência da Procuradoria Nacional da União de Defesa
+
+da Democracia (PNDD), cujas competências, fixadas no art. 52 do Decreto nº
+
+12.540/2025, são de representação da União. O parágrafo único do art. 52 dispõe que
+
+a representação extrajudicial da União é de caráter pré-processual e não se aplica
+
+para fins de atuação em órgãos extrajudiciais de foro decisório. A própria
+
+Administração, portanto, limitou a atuação extrajudicial da AGU, vedando-lhe o foro
+
+decisório, que é justamente o que o art. 16-N, § 1º pretende criar ao conferir-lhe poder
+
+de notificar, com efeito de remoção, conteúdo de terceiro. A distinção é dupla:
+
+quanto à matéria, a PNDD tutela interesses da própria União, ao passo que o art. 16-N
+
+cuida de publicidade enganosa (art. 37 do CDC), de defesa do consumidor; quanto
+
+à natureza, a PNDD representa a União como parte, sob controle do Judiciário, ao
+
+passo que o decreto cria poder decisório de remoção sobre terceiro. A representação
+
+
+
+[[pagina 33 | nativo]]
+da União não se confunde com o poder de regular conteúdo alheio por ato próprio,
+
+poder de polícia que a lei não confere à AGU e que o Marco Civil reserva à ordem
+
+judicial.
+
+XVII — DA LEGALIDADE SANCIONATÓRIA, DA TAXATIVIDADE E DO DEVIDO PROCESSO
+
+LEGAL
+
+86. O decreto utiliza a expressão parâmetros para fiscalização e apuração de
+
+infrações e atribui à ANPD poder de regulação, fiscalização e apuração. Embora nem
+
+todos os dispositivos contenham sanção expressa, o desenho normativo é
+
+inequivocamente administrativo-sancionatório, pois cria deveres, define condutas
+
+esperadas e prevê apuração de descumprimento por autoridade pública.
+
+87. No direito administrativo sancionador, a legalidade possui densidade
+
+reforçada. A definição dos deveres essenciais, das condutas infracionais, das sanções,
+
+dos sujeitos obrigados, dos critérios de responsabilização e dos elementos
+
+procedimentais básicos deve decorrer de lei formal, em termos minimamente
+
+determinados.
+
+88. O Decreto nº 12.975/2026 não observa esse padrão. Ele remete à autoridade
+
+competente a definição da forma de notificação e contestação, prazos, legitimados
+
+e demais procedimentos necessários (art. 16-D, parágrafo único). Além disso,
+
+fragmenta a competência normativa e fiscalizatória entre múltiplos centros
+
+administrativos ativados por simples decreto — a ANPD, na regulação e apuração de
+
+infrações (art. 19-A); o Ministro de Estado da Justiça e Segurança Pública, na disciplina
+
+do encaminhamento de conteúdo ao Poder Público (art. 16-H, parágrafo único); e a
+
+Secretaria Nacional do Consumidor, com a Advocacia-Geral da União, na esfera da
+
+publicidade enganosa, abusiva ou fraudulenta (art. 16-N e parágrafos). Também
+
+permite a avaliação de falha sistêmica a partir de expressões abertas como medidas
+
+adequadas de prevenção ou remoção, níveis mais elevados de segurança,
+
+circulação massiva e rede artificial de distribuição.
+
+89. Essa combinação de conceitos indeterminados, delegação procedimental
+
+e potencial sancionatório compromete a previsibilidade jurídica e o devido processo
+
+legal substantivo e procedimental. Em matéria que afeta liberdade de expressão, a
+
+exigência de densidade normativa é ainda maior, pois a vagueza normativa produz
+
+
+
+[[pagina 34 | nativo]]
+efeito inibidor antes mesmo da imposição de qualquer sanção. Não basta prever
+
+genericamente devido processo em autorregulação ou contestação perante o
+
+provedor: quando o Estado cria regime de fiscalização, apuração e responsabilização,
+
+é a lei formal que deve estabelecer a moldura básica do procedimento, os limites da
+
+autoridade e as garantias do administrado.
+
+XVIII — DA INDETERMINAÇÃO NORMATIVA E DO PROBLEMA DAS CATEGORIAS ABERTAS
+
+90. A proteção do Estado Democrático de Direito é valor constitucional de
+
+primeira grandeza. Condutas efetivamente tipificadas como crimes contra as
+
+instituições democráticas podem e devem ser reprimidas, inclusive no ambiente digital,
+
+nos termos da legislação penal e processual aplicável.
+
+91. O problema constitucional surge quando categorias de intenso conteúdo
+
+político-institucional são manejadas administrativamente sem densidade legal
+
+suficiente. As expressões que o próprio decreto emprega como pressuposto de
+
+deveres — falha sistêmica, riscos sistêmicos, circulação massiva, rede artificial de
+
+distribuição e conteúdo criminoso ou ilícito — não podem funcionar como rótulos
+
+autônomos para impor deveres de remoção, fiscalização ou responsabilização sem
+
+critérios legais claros e controle procedimental adequado. O ponto é tanto mais grave
+
+quanto se observa que, no tocante aos crimes contra o Estado Democrático de Direito,
+
+o decreto não os define: se limita a remeter a tipos penais (art. 286, parágrafo único, e
+
+arts. 359-L a 359-R do Código Penal) e a convertê-los, sem mediação legislativa, em
+
+gatilho de dever administrativo de indisponibilização e de aferição de falha sistêmica.
+
+92. Há, ainda, uma distinção que o decreto desconsidera. A remissão a tipos
+
+penais não autoriza a Administração a ampliar o respectivo alcance por meio de
+
+categorias administrativas genéricas. O que é crime deve ser definido por lei penal,
+
+com tipicidade estrita; o que gera dever administrativo deve ser definido por lei
+
+administrativa, com previsão de conduta, de competência e de procedimento; e o
+
+que restringe a liberdade de expressão deve ser disciplinado por lei clara, necessária
+
+e proporcional. O Decreto nº 12.975/2026 confunde esses três planos: parte de tipos
+
+penais, converte-os em deveres administrativos de indisponibilização e fiscalização e,
+
+por essa via, projeta restrições sobre a liberdade de expressão sem a densidade legal
+
+que cada um desses planos reclama.
+
+
+
+[[pagina 35 | nativo]]
+93. Sem densidade normativa legal, a qualificação administrativa de um
+
+conteúdo como criminoso ou ilícito — sobretudo nas zonas politicamente sensíveis —
+
+pode oscilar entre condutas verdadeiramente criminosas e manifestações críticas,
+
+opiniões duras, discursos impopulares, sátiras, questionamentos institucionais, jornalismo
+
+investigativo ou debate público intenso. A Constituição não permite que essa linha seja
+
+traçada primariamente por decreto ou por autoridade administrativa. Por isso, a ação
+
+não precisa sustentar que tais conteúdos devam permanecer disponíveis; sustenta, sim,
+
+que a definição dos pressupostos jurídicos para remoção, responsabilização,
+
+fiscalização e sanção exige lei formal, com critérios objetivos, controles procedimentais
+
+robustos e preservação do controle jurisdicional.
+
+XIX — DO EFEITO INIBIDOR SOBRE A LIBERDADE DE EXPRESSÃO
+
+94. A liberdade de expressão é fundamento e princípio do Marco Civil e direito
+
+fundamental protegido pelos arts. 5º, IV, IX e XIV, e 220 da Constituição. Esse Supremo
+
+Tribunal Federal já assentou que eventuais abusos no exercício da liberdade de
+
+expressão e de imprensa devem ser resolvidos a posteriori, por direito de resposta ou
+
+reparação, e não por restrição ou censura prévia (cf. ADPF 130/DF, Rel. Min. Carlos
+
+Ayres Britto), e que a liberdade de expressão é condição do pluralismo de ideias e do
+
+próprio funcionamento do sistema democrático, abarcando inclusive a crítica
+
+contundente, a sátira e o humor (cf. ADI 4.451/DF, Rel. Min. Alexandre de Moraes).
+
+95. Em ambiente digital, sua tutela demanda cuidado especial, porque
+
+plataformas submetidas a deveres amplos, conceitos vagos e risco de
+
+responsabilização tendem a remover preventivamente conteúdos para reduzir
+
+exposição regulatória. Esse fenômeno — conhecido como efeito inibidor — não atinge
+
+apenas conteúdos ilícitos. Pode alcançar manifestações jornalísticas, acadêmicas,
+
+artísticas, satíricas, críticas, políticas ou de interesse público. A incerteza normativa
+
+desloca o ônus do erro para o discurso: diante do risco de fiscalização, a plataforma
+
+tende a retirar o conteúdo; diante do risco de remoção, o usuário tende a se
+
+autocensurar.
+
+96. O Decreto nº 12.975/2026 reconhece parcialmente esse risco ao mencionar
+
+liberdade de expressão, sátira, paródia, finalidade informativa, educativa e de crítica.
+
+Contudo, as salvaguardas permanecem dependentes de valoração administrativa e
+
+
+
+[[pagina 36 | nativo]]
+privada, sem base legal suficientemente determinada. A liberdade de expressão não
+
+pode depender de uma cadeia de avaliações infralegais abertas. A consequência
+
+constitucional é clara: o combate a ilícitos digitais deve ser feito por instrumentos legais,
+
+com precisão normativa, devido processo e controle jurisdicional.
+
+XX — DA VIOLAÇÃO AO SIGILO DAS COMUNICAÇÕES E À PRIVACIDADE
+
+97. A tese vinculante, ao delimitar a incidência do regime mais gravoso,
+
+resguardou sob o sigilo das comunicações (art. 5º, X e XII) os provedores de serviços de
+
+e-mail, de reuniões fechadas por vídeo ou voz e de mensageria privada, e ainda, em
+
+categoria residual, os demais provedores de aplicações que não possuam
+
+interferência no fluxo comunicativo e informacional (item 3.4). O Decreto nº
+
+12.975/2026 reproduz a exclusão no art. 16-O, porém em recorte mais estreito que o da
+
+decisão vinculante, e com isso expõe comunicações constitucionalmente sigilosas.
+
+98. Em primeiro lugar, o art. 16-O resguarda a mensageria apenas quanto às
+
+comunicações interpessoais, sem difusão pública do conteúdo transmitido ou de
+
+grupos abertos. As comunicações em grupos privados e fechados, igualmente
+
+protegidas pelo sigilo (art. 5º, XII), ficam fora da exclusão e, por isso, sujeitas ao dever
+
+de monitorar, identificar, avaliar e gerir os riscos sistêmicos (art. 16-C) — dever que, em
+
+si, é inovação, pois a tese (item 10) previu apenas dever de informar, não de monitorar.
+
+Impor ao provedor o dever de monitorar o que circula em comunicações privadas
+
+equivale a exigir-lhe a devassa do conteúdo sigiloso, em afronta ao art. 5º, X e XII.
+
+99. Em segundo lugar, o decreto omitiu a categoria residual da tese (item 3.4,
+
+d), submetendo ao regime provedores que a decisão vinculante havia excluído por
+
+não interferirem no fluxo comunicativo e informacional, em restrição, por ato infralegal,
+
+de salvaguarda fixada com eficácia erga omnes e efeito vinculante.
+
+100. Em terceiro lugar, o art. 15-A institui dever autônomo de guarda da porta
+
+lógica de origem, independentemente de prévia requisição, que recai sobre todos os
+
+provedores, inclusive os de serviços sigilosos, que escapam ao art. 16-O. Trata-se de
+
+retenção compulsória de dado de identificação não prevista nos arts. 13 e 15 do
+
+Marco Civil, que soma à inovação infralegal (reserva legal, arts. 84, IV; 22, IV e XXX; e
+
+5º, II) a ofensa ao sigilo e à proteção de dados (art. 5º, X e XII).
+
+
+
+[[pagina 37 | nativo]]
+XXI — DA VIOLAÇÃO À SEGURANÇA JURÍDICA E À PROTEÇÃO DA CONFIANÇA
+
+101. O Decreto nº 12.975/2026, publicado no Diário Oficial da União de 21 de
+
+maio de 2026, entra em vigor sessenta dias após a publicação, em 20 de julho de 2026,
+
+e impõe, desde logo, obrigações estruturais a um número indeterminado de agentes
+
+— provedores, anunciantes, usuários e órgãos públicos. Cria-se, por ato infralegal, um
+
+regime jurídico inteiramente novo antes mesmo de existir a lei que a Constituição exige
+
+para a matéria. Isso compromete a segurança jurídica e a proteção da confiança
+
+legítima, dimensões do Estado de Direito tuteladas pelo art. 5º, caput e XXXVI, da
+
+Constituição.
+
+102. O art. 2º do Decreto apresenta vício específico. A tese vinculante (item 14)
+
+conferiu aos provedores o prazo de 60 dias, contados da publicação da ata de
+
+julgamento dos embargos de declaração, para a implementação das obrigações
+
+estruturais. O art. 2º, porém, fixa a vigência em 60 dias contados da publicação do
+
+próprio decreto (21 de maio de 2026, com vigência em 20 de julho de 2026), termo
+
+anterior ao da carência assegurada pelo Supremo, e antecipa a exigibilidade e a
+
+sujeição à fiscalização antes de expirado o prazo garantido pela decisão. Como o
+
+decreto foi editado antes do julgamento dos embargos, não poderia alinhar-se a
+
+prazo que só viria a ser fixado depois. Há ofensa à segurança jurídica e à boa-fé (art.
+
+5º, caput e XXXVI) e à força vinculante da modulação (art. 27 da Lei nº 9.868/1999). O
+
+vício corrige-se por interpretação conforme, no sentido de que a eficácia das
+
+obrigações estruturais não se inicia antes de expirado o prazo do item 14, e não por
+
+nulidade, que faria o decreto vigorar desde a publicação (regra supletiva da LINDB),
+
+em resultado mais gravoso.
+
+103. A insegurança é qualificada por três fatores. Primeiro, a fonte normativa é
+
+precária: um decreto que pode ser sustado pelo Congresso Nacional (art. 49, V) ou
+
+invalidado por essa Corte. Segundo, os deveres impostos são onerosos e de difícil
+
+reversão, exigindo reorganização interna, canais, relatórios e políticas de moderação.
+
+Terceiro, os conceitos que disparam responsabilidade são indeterminados, de modo
+
+que o destinatário não tem como prever, com segurança mínima, qual conduta o
+
+eximirá de sanção. Submeter particulares a um regime dessa natureza, fundado em
+
+base normativa instável, contraria a previsibilidade que a ordem constitucional
+
+
+
+[[pagina 38 | nativo]]
+assegura e amplifica o risco de remoções preventivas de conteúdo, de difícil reversão
+
+posterior.
+
+XXII — DA VIOLAÇÃO À GOVERNANÇA MULTISSETORIAL PREVISTA NO MARCO CIVIL
+
+104. O Marco Civil consagrou, entre as diretrizes de atuação do Poder Público,
+
+mecanismos de governança multiparticipativa, transparente, colaborativa e
+
+democrática, com participação do governo, do setor empresarial, da sociedade civil
+
+e da comunidade acadêmica. Esse modelo foi expressamente valorizado nos
+
+pareceres do Senado, que destacaram o CGI.br como arranjo plural, capaz de reunir
+
+diversidade e expertise na gestão da rede. Na disciplina técnica da neutralidade de
+
+rede, o art. 9º, § 1º, exigiu inclusive a oitiva do CGI.br e da Anatel.
+
+105. O Decreto nº 12.975/2026, contudo, concentra na autoridade competente
+
+— e especialmente na ANPD — poderes de definição, fiscalização, regulamentação
+
+e apuração em matéria de plataformas digitais, conteúdo e deveres de cuidado. A
+
+substituição da governança multissetorial por autoridade administrativa centralizada,
+
+sem lei formal que a institua e delimite, tensiona o próprio desenho institucional do
+
+Marco Civil. Não se trata de afirmar que a governança multissetorial impeça regulação
+
+estatal; trata-se de reconhecer que eventual modelo regulatório de plataformas
+
+digitais deve ser definido por lei, com escolha institucional expressa do Congresso, e
+
+não por rearranjo infralegal das competências de autoridade administrativa
+
+preexistente.
+
+XXIII — DA MEDIDA CAUTELAR
+
+106. Estão presentes os requisitos para a concessão de medida cautelar, nos
+
+termos do art. 10 da Lei nº 9.868/1999.
+
+107. Do fumus boni iuris. A plausibilidade jurídica é qualificada e decorre da
+
+convergência de vícios autônomos, cada qual suficiente para a procedência: (i)
+
+excesso regulamentar e violação ao art. 84, IV; (ii) ofensa à legalidade, à reserva
+
+democrática de lei e à soberania popular; (iii) usurpação de competência legislativa
+
+e da reserva de Parlamento em matéria de direito civil, comercial, penal e processual,
+
+informática, telecomunicações, propaganda comercial e proteção de dados; (iv)
+
+ampliação infralegal da competência da ANPD; (v) transformação indevida da tese
+
+
+
+[[pagina 39 | nativo]]
+judicial dos Temas 533 e 987 em regime administrativo-sancionatório; (vi) déficit de
+
+taxatividade e violação à legalidade sancionatória; (vii) risco de efeito inibidor sobre
+
+a liberdade de expressão; e (viii) violação à segurança jurídica e à proteção da
+
+confiança; (ix) ausência de base legal para o regime administrativo-sancionatório,
+
+com criação de tipo infracional por ato infralegal, em afronta à legalidade estrita (art.
+
+5º, XXXIX); (x) atribuição, sem lei, de competência à Advocacia-Geral da União para
+
+notificar a remoção de conteúdo de terceiros (art. 16-N, § 1º); e (xi) subversão da
+
+autonomia da ANPD — autarquia de regime especial —, cuja competência
+
+regulatória somente pode advir de lei formal; (xii) violação ao sigilo das comunicações
+
+(art. 5º, X e XII), pelos deveres de monitoramento e de guarda que alcançam
+
+comunicações privadas (arts. 16-C, 16-O e 15-A); e (xiii) antecipação indevida da
+
+eficácia (art. 2º) ante o prazo do item 14 da tese vinculante (art. 5º, XXXVI; art. 27 da
+
+Lei nº 9.868/1999). A plausibilidade é reforçada pelos precedentes dessa Corte sobre
+
+os limites do poder regulamentar e sobre a vedação à censura.
+
+108. Do periculum in mora. A entrada em vigor do decreto, em 20 de julho de
+
+2026, impõe desde logo obrigações estruturais, deveres de organização interna, canais
+
+de denúncia, relatórios, políticas de autorregulação, guarda de informações, medidas
+
+de prevenção, gestão de riscos e sujeição à fiscalização administrativa. A
+
+manutenção da eficácia dos dispositivos impugnados produzirá insegurança jurídica
+
+imediata para provedores, usuários, anunciantes, órgãos públicos e autoridades
+
+administrativas. Mais grave: criará incentivos para remoções preventivas de conteúdo
+
+e consolidará práticas privadas de moderação orientadas por conceitos
+
+indeterminados, de difícil reversão posterior, porque o discurso suprimido no período
+
+de vigência não se recupera. O risco recai sobre direito fundamental, o que agrava o
+
+perigo e recomenda a suspensão imediata.
+
+109. Requer-se, assim, medida cautelar, ad referendum do Plenário, para
+
+suspender a eficácia dos dispositivos impugnados até o julgamento final do mérito,
+
+especialmente naquilo em que criam obrigações administrativas, atribuem
+
+competências regulatórias e fiscalizatórias à ANPD, permitem apuração de infrações,
+
+impõem presunções de responsabilidade, disciplinam notificações extrajudiciais com
+
+efeitos vinculantes e autorizam a densificação administrativa de conceitos abertos em
+
+matéria de liberdade de expressão. Subsidiariamente, caso não se suspendam
+
+
+
+[[pagina 40 | nativo]]
+integralmente os dispositivos, requer-se cautelar de interpretação conforme, nos
+
+termos do pedido final. A suspensão cautelar dos dispositivos impugnados não
+
+produzirá vácuo de proteção, pois permanecem plenamente aplicáveis a legislação
+
+penal, civil, consumerista, eleitoral, de proteção de dados, de proteção infantojuvenil,
+
+o Marco Civil da Internet e a tese vinculante fixada por esse Supremo Tribunal Federal
+
+nos Temas 533 e 987.
+
+XXIV — DOS PEDIDOS
+
+Ante o exposto, requer-se:
+
+a) o conhecimento da presente Ação Direta de Inconstitucionalidade e,
+subsidiariamente, caso entendida incabível em relação a algum núcleo
+normativo, o seu recebimento como Arguição de Descumprimento de Preceito
+Fundamental, por fungibilidade, diante da lesão direta a preceitos
+fundamentais e da inexistência de outro meio eficaz;
+
+b) a distribuição da ação por prevenção, nos termos do Capítulo I;
+
+c) a concessão de medida cautelar, ad referendum do Plenário, para, até o
+julgamento final do mérito: (i) suspender a eficácia dos arts. 15-A; 16-B, § 2º; 16-
+C; 16-D; 16-E; 16-F; 16-G, caput; 16-H; 16-I; 16-N; e 19-A, e, por arrastamento, do
+art. 1º, III, b, e dos arts. 16-K, 16-M e 16-P, bem como dos arts. 16-J e 16-O na
+estrita medida em que apliquem o regime impugnado; e (ii) conferir
+interpretação conforme para que o art. 1º, IV, alcance apenas as infrações dos
+arts. 10 e 11 (art. 12 do Marco Civil), o art. 16-L seja lido como presunção relativa
+de culpa e o art. 2º não antecipe a eficácia das obrigações estruturais antes de
+expirado o prazo de 60 dias contado da publicação da ata dos embargos de
+declaração (item 14 da tese); preservados os arts. 16-A, 16-B, caput e incisos, e
+20-A, e a plena incidência das normas legais aplicáveis e da tese vinculante dos
+Temas 533 e 987;
+
+d) alternativamente, em sede cautelar, a concessão de interpretação conforme à
+Constituição para suspender qualquer leitura dos dispositivos impugnados que
+produza os efeitos vedados no item h infra;
+
+e) a requisição de informações ao Presidente da República, autoridade responsável
+pela edição do ato impugnado;
+
+
+
+[[pagina 41 | nativo]]
+f) a oitiva do Advogado-Geral da União, nos termos do art. 103, § 3º, da
+Constituição, e do Procurador-Geral da República, nos termos do art. 103, § 1º,
+da Constituição;
+
+g) no mérito, a procedência do pedido, para declarar a inconstitucionalidade
+parcial do Decreto nº 12.975/2026, expungindo do ordenamento — dos
+dispositivos que conferiu ao Decreto nº 8.771/2016 — os arts. 15-A; 16-B, § 2º; 16-
+C; 16-D; 16-E; 16-F; 16-G, caput; 16-H; 16-I; 16-N; e 19-A, e, por arrastamento e
+dependência lógica, o art. 1º, III, b, os arts. 16-K, 16-M e 16-P e os arts. 16-J e 16-
+O (estes na estrita medida em que apliquem o regime invalidado, preservado o
+núcleo coincidente com a tese vinculante), com eficácia erga omnes e efeito
+vinculante, sem prejuízo da eficácia própria da tese de repercussão geral fixada
+nos Temas 533 e 987 no âmbito jurisdicional;
+
+h) subsidiariamente, no mérito, a interpretação conforme à Constituição, sem
+redução de texto, para:
+
+h.1) afastar qualquer competência da ANPD para moderação de conteúdo,
+publicidade, impulsionamento, dever de cuidado, falha sistêmica ou
+fiscalização de deveres não diretamente vinculados à proteção de dados
+pessoais ou, quando aplicável, à tutela infantojuvenil nos limites estritos de
+lei específica;
+
+h.2) impedir que os dispositivos impugnados sejam utilizados como fundamento
+autônomo para sanções administrativas, multas, penalizações, presunções
+de responsabilidade ou afetações financeiras sem lei formal específica;
+
+h.3) preservar a exigência de ordem judicial nas hipóteses em que a legislação
+ou a tese vinculante do Supremo Tribunal Federal assim exigirem;
+
+h.4) impedir que notificações extrajudiciais gerem dever automático e
+generalizado de remoção fora das hipóteses legais expressas, de ordem
+judicial específica ou dos limites estritos da tese vinculante aplicável;
+
+h.5) vedar responsabilização fundada exclusivamente em conceitos
+indeterminados como falha sistêmica, riscos sistêmicos, circulação massiva,
+rede artificial de distribuição ou conteúdo criminoso ou ilícito, inclusive
+quando resultantes de simples remissão a tipos penais, sem densificação
+legal adequada;
+
+
+
+[[pagina 42 | nativo]]
+h.6) resguardar conteúdos jornalísticos, acadêmicos, artísticos, satíricos, críticos,
+políticos e de interesse público;
+
+h.7) limitar a atuação administrativa às hipóteses estritamente previstas em lei
+formal;
+
+h.8) afirmar que eventual modelo regulatório geral de plataformas digitais, com
+deveres materiais, competências administrativas, procedimentos de
+fiscalização e consequências sancionatórias, depende de lei formal
+aprovada pelo Congresso Nacional, não podendo ser instituído por decreto
+regulamentar; e
+
+h.9) afastar a competência atribuída à Advocacia-Geral da União pelo art. 16-
+N, § 1º, para notificar a indisponibilização de conteúdo de terceiros, por
+ausência de previsão legal e por incompatibilidade com o art. 131 da
+Constituição e com a Lei Complementar nº 73/1993;
+
+h.10) fixar que o art. 1º, IV, ao tratar de parâmetros para fiscalização e apuração
+das infrações previstas na Lei nº 12.965, alcança exclusivamente as infrações
+dos arts. 10 e 11 (art. 12 do Marco Civil), e não as condutas de moderação
+de conteúdo;
+
+h.11) assentar que a presunção do art. 16-L é de culpa, relativa e ilidível, vedada
+a leitura que a converta em presunção de responsabilidade ou em
+responsabilidade objetiva (item 11 da tese vinculante);
+
+h.12) assentar que o art. 2º não antecipa a eficácia das obrigações estruturais
+(item 5 da tese) antes de expirado o prazo de 60 dias contado da
+publicação da ata dos embargos de declaração (item 14), preservada a
+força da modulação (art. 27 da Lei nº 9.868/1999);
+
+h.13) vedar que os deveres de monitoramento (art. 16-C) e de guarda de dados
+(art. 15-A) alcancem comunicações privadas protegidas pelo sigilo (art. 5º,
+X e XII);
+
+i) a admissão de amici curiae, facultando-se a participação de entidades
+representativas dos setores afetados, dada a relevância e a repercussão da
+matéria; e
+
+j) a juntada dos documentos que instruem a inicial e, no curso do processo, de
+pareceres técnicos, estudos legislativos, notas públicas e manifestações
+
+
+
+[[pagina 43 | nativo]]
+especializadas que auxiliem a compreensão da matéria constitucional, próprios
+ao caráter objetivo do controle abstrato.
+
+Dá-se à causa o valor de R$ 1.000,00 (mil reais), meramente para efeitos fiscais,
+
+por se cuidar de ação de controle abstrato de constitucionalidade, sem conteúdo
+
+econômico imediato aferível.
+
+Nesses termos, pede deferimento.
+
+Brasília/DF, na data da assinatura eletrônica.
+
+
+

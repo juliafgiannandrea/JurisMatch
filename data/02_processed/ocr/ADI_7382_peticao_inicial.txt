@@ -1,0 +1,1570 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO EGRÉGIO SUPREMO
+TRIBUNAL FEDERAL
+
+CONFEDERAÇÃO NACIONAL DA INDÚSTRIA – CNI, entidade sindical de
+
+grau superior representativa da indústria brasileira, inscrita no CNPJ sob o nº
+
+33.665.126/0001-34, com sede no SBN, Quadra 1, Bloco C, Edifício Roberto Simonsen,
+
+Brasília/DF, representada por seus advogados (Docs. 1 a 3), vem, respeitosamente,
+
+perante Vossa Excelência, com arrimo nos arts. 102, inciso I, alínea 'a', e 103, inciso IX, da
+
+Constituição Federal, e na Lei nº 9.868/99, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com pedido de liminar
+
+em face dos arts. 6º, inciso VI; 7º, caput e §§ 1º a 5º; e 9º, incisos I e II, todos da Lei nº
+
+3.617/2019, do Estado do Tocantins, que instituiu o Fundo Estadual de Transporte (FET),
+
+já consideradas as devidas redações conferidas pela Lei nº 4.029/2022, do Estado do
+
+Tocantins, a qual alterou o tratamento legislativo do referido Fundo e à contribuição que lhe
+
+é destinada, diante das condições impostas pelos referidos Diplomas, conforme razões que
+
+passa a expor.
+
+[[pagina 2 | nativo]]
+
+I SÍNTESE DA ADI
+
+1. Volta-se a presente ação direta contra legislação do Estado de Tocantins que
+
+pode ser encarada como criadora de novo tributo ou de uma parcela destacada do
+
+Imposto sobre operações relativas à Circulação de Mercadorias e sobre prestações de
+
+Serviços de transporte interestadual e intermunicipal e de comunicação (ICMS).
+
+2. Caso se entenda ser um novo tributo, ele está em desacordo com a
+
+competência constitucional atribuída aos Estados e a competência residual atribuída
+
+à União Federal, além de adotar o mesmo fato gerador e base de cálculo do referido
+
+imposto estadual.
+
+3. Caso se entenda como parcela destacada de ICMS, há patentes
+
+inconstitucionalidades: i) na tributação indevida das operações de exportação; e ii) ao se
+
+destinar parcela de imposto a fundo - todas práticas vedadas nos termos da Constituição
+
+Federal.
+
+4. Não bastasse isso, a lei em questão afronta os princípios da isonomia
+
+tributária, da não discriminação quanto à origem ou ao destino de bens e serviços, da livre
+
+concorrência e da neutralidade tributária.
+
+5. A Autora se volta contra essa legislação porque dentre os mais atingidos
+
+estão as agroindústrias e as indústrias de mineração, todas dentro da estrutura sindical da
+
+indústria, cuja entidade máxima é a CNI.
+
+6. Há pedido de liminar porque além de flagrantes as inconstitucionalidades
+
+formais e materiais, a garantia de não tributação dos contribuintes sobre
+
+operações de exportação e nas circulações interestaduais, as quais acarretam
+
+assimetria concorrencial por aumento da carga tributária suportada pelas empresas
+
+situadas no Estado do Tocantins, só pode ser assegurada pela suspensão liminar
+
+das normas combatidas, no mínimo dentro do seu prazo. Sem a concessão da
+
+cautelar, as empresas do setor industrial estabelecidas no território do aludido Ente
+
+Federado serão sujeitas à carga tributária indevida.
+
+[[pagina 3 | nativo]]
+
+II CONTEXTUALIZAÇÃO LEGAL
+
+7. Em 13 de dezembro de 2022, foi publicada a Lei Tocantinense nº 4.029
+
+(docs. 4.1 e 4.2), a qual modificou o tratamento legal conferido pela Lei Estadual nº
+
+3.617/2019 (docs. 5.1 e 5.2), instituidora do Fundo Estadual de Transporte (FET), fundo
+
+estadual que tem por objetivo prover recursos financeiros destinados ao planejamento, à
+
+execução, ao acompanhamento e à avaliação de obras e serviços relativos a transportes
+
+no Estado do Tocantins.
+
+8. Ao alterar o regramento relativo ao FET, a Lei nº 4.029/2022, do Estado do
+
+Tocantins, estabeleceu: i) a majoração da alíquota da contribuição destinada ao FET,
+
+prevista no art. 6º da Lei Tocantinense nº 3.617/2019, que passa de 0,2% para 1,2% sobre
+
+o valor da operação destacada no documento fiscal emitido para fins do Imposto sobre
+
+operações relativas à Circulação de Mercadorias e sobre prestações de Serviços de
+
+transporte interestadual e intermunicipal e de comunicação (ICMS); e iii) a remodelagem do
+
+fato gerador da exação destinada ao Fundo, que se tornou mais abrangente, deixando de
+
+se tributar apenas as operações de saídas interestaduais ou com destino a exportação (ou
+
+as equiparadas por força do art. 3º da Lei Complementar nº 87/96) de produtos de origem
+
+vegetal, mineral ou animal, conforme previa a redação originária da Lei Estadual nº
+
+3.617/2019, para passar a se exigir o recolhimento para o FET sobre toda e qualquer
+
+operação de saída das aludidas mercadorias (interna, interestadual, sobre exportações ou
+
+equiparadas nos termos da Lei Kandir).
+
+9. Com vistas a disciplinar a aludida contribuição no âmbito da Secretaria de
+
+Estado da Fazenda e Planejamento do Tocantins, foram editadas as Portarias SEFAZ nº
+
+193/2020 (docs. 6.1 e 6.2), que dispõe acerca dos procedimentos relativos ao
+
+recolhimento do FET, e nº 223/2023 (docs. 7.1 e 7.2) e seu Anexo Único (doc. 8), que
+
+promoveram modificações no primeiro normativo infralegal citado para adequá-lo aos
+
+ditames da Lei Estadual nº 4.029/2022.
+
+10. Todavia, com todas as vênias, o complexo conjunto normativo surge no
+
+ordenamento pátrio com diversos vícios de inconstitucionalidade formal e material,
+
+conforme adiante será articulado.
+
+[[pagina 4 | nativo]]
+
+III TEOR DAS LEIS E DISPOSITIVOS ATACADOS
+
+11. Eis o teor das normas da Lei Tocantinense nº 3.617/2019, com redações
+
+atualmente vigentes, que são ora vergastadas:
+
+Art. 6º Constituem fontes de receitas do FET:
+(...)
+VI - recursos apurados na forma do art. 7º desta Lei;
+
+Art. 7º Os contribuintes que promoverem operações de saídas, ainda
+que não tributadas, inclusive com destino à exportação ou
+equiparadas à exportação, previstas no parágrafo único do art. 3º da
+Lei Complementar Federal nº 87, de 13 de setembro de 1996, de
+produtos de origem vegetal, mineral ou animal, deverão recolher à
+conta do FET o percentual de 1,2% sobre o valor da operação
+destacada no documento fiscal. (Redação dada pela Lei
+Estadual nº 4.029, de 2022)
+§1º A importância devida nos termos deste artigo é recolhida no prazo
+previsto em regulamento para o pagamento do ICMS quando se tratar
+de contribuintes localizados no território tocantinense.
+§2º Excluem-se do recolhimento de que trata o caput deste artigo:
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+I - os combustíveis líquidos ou gasosos e lubrificantes derivados ou
+não de petróleo; (Redação dada pela Lei Estadual nº
+4.029, de 2022)
+II - as remessas efetuadas por produtor rural com destino a armazém
+geral, leilão, exposição ou feiras e os respectivos retornos, desde que
+observados os prazos previstos no Regulamento do ICMS, aprovado
+pelo Decreto nº 2.912, de 29 de dezembro de 2006;
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+III - as saídas efetuadas por produtor rural de ovos e mercadorias
+oriundas de hortaliças; (Redação dada pela Lei
+Estadual nº 4.029, de 2022)
+IV - as remessas nas operações internas com animais vivos: bovinos,
+suínos, bubalinos, caprinos, ovinos e equinos, inclusive aves.
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+§3º O pagamento da contribuição do FET referente às operações
+mencionadas no caput deste artigo, não dispensa o remetente da
+mercadoria da observância das demais disposições estabelecidas na
+legislação tributária estadual.
+§4º O recolhimento do percentual de que trata este artigo deve ser
+realizado independentemente da retenção e recolhimento do ICMS,
+devido em cada operação.
+§5º Os produtos referidos no caput e no §2º deste artigo poderão ser
+revistos por ato expedido pelo Secretário de Estado da Fazenda.
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+
+[[pagina 5 | nativo]]
+
+Art. 9º Os recursos decorrentes da aplicação desta Lei serão:
+I - destinados diretamente ao FET, que manterá conta bancária
+vinculada para suas movimentações;
+II - utilizados:
+a) em obras e serviços de infraestrutura agropecuária, nos modais de
+transporte, recuperação, manutenção, conservação, pavimentação e
+implantação de rodovias estaduais;
+b) em outras situações definidas pelo Conselho de Administração,
+conforme previsto no inciso VI do art. 4º desta Lei.
+
+12. As atuais disposições dos arts. 7º (caput e §§ 2º e 5º) e 9º (incisos I e II) do
+
+Diploma ora atacado, tiveram suas redações conferidas pela Lei Tocantinense nº
+
+4.029/2022. Contudo, as redações originárias dessas normas igualmente são eivadas das
+
+mesmas inconstitucionalidades que serão apontadas nesta ação de controle concentrado.
+
+13. Embora haja entendimento dessa egrégia Suprema Corte1 de que é possível
+
+delimitar a eficácia da decisão proferida em sede de controle concentrado de
+
+constitucionalidade e, caso necessário, afastar dos efeitos da decisão declaratória eventual
+
+efeito repristinatório quando verificada a incompatibilidade com a Carta da República, a
+
+Autora ataca também as redações originárias dos arts. 7º (caput e §§ 2º e 5º) e 9º (inciso
+
+II) da Lei Tocantinense nº 3.617/2019, em atenção à remansosa jurisprudência desse
+
+Pretório Excelso2 quanto à necessidade de impugnação completa do bloco normativo para
+
+fins de conhecimento da ação direta de inconstitucionalidade e, com isso, evitar qualquer
+
+efeito repristinatório de legislação pretérita:
+
+1 Nesse sentido: Ementa Ação direta de inconstitucionalidade. Art. 14, III, alínea d, e V, alínea a, e § 9º, XI e
+XII, da Lei 11.580/1996, do Estado do Paraná, com redação dada pelas Leis 16.016/2008, e 20.554/2021.
+Preliminares: sobrestamento e ausência de impugnação de todo complexo normativo. Rejeição. Tributário.
+ICMS. Seletividade. Operações de energia elétrica e de comunicações. Instituição de alíquota superior à
+geral. Essencialidade. Violação do art. 155, § 2º, III, da Constituição Federal. Aplicação, ao caso, da tese
+firmada ao exame do RE 714.139-RG/SC. Procedência do pedido. Modulação de efeitos. 1. Não obsta a
+cognição da ação direta a falta de impugnação de ato jurídico revogado pela norma tida como
+inconstitucional, supostamente padecente do mesmo vício, que se teria por repristinada. Cabe à Corte, ao
+delimitar a eficácia da sua decisão, se o caso, excluir dos efeitos da decisão declaratória eventual efeito
+repristinatório quando constatada incompatibilidade com a ordem constitucional. (...) 3. Ação direta de
+inconstitucionalidade conhecida. Pedido julgado procedente. 4. Modulação dos efeitos da decisão, para
+determinar que este decisum somente produzirá efeitos, ressalvadas as ações ajuizadas até 05.02.2021, a
+partir do exercício financeiro de 2024. (ADI 7110, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em
+14/09/2022, PROCESSO ELETRÔNICO DJe-195 DIVULG 28-09-2022 PUBLIC 29-09-2022) – grifou-se
+2 Nesse sentido: AÇÃO DIRETA DE INCONSTITUCIONALIDADE – IMPUGNAÇÃO PARCIAL – AUSÊNCIA
+DE UTILIDADE. A impugnação parcial do bloco normativo implica a inadequação da ação direta de
+inconstitucionalidade. (ADI 4333, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 21/10/2015,
+ACÓRDÃO ELETRÔNICO DJe-058 DIVULG 30-03-2016 PUBLIC 31-03-2016) – grifou-se
+
+[[pagina 6 | nativo]]
+
+Art. 7º Os contribuintes que promoverem as operações de saídas
+interestaduais ou com destino a exportação, bem como nas operações
+equiparadas a exportação, previstas no parágrafo único do art. 3º da
+Lei Complementar Federal 87, de 13 de setembro de 1996, ainda que
+não tributadas, de produtos de origem vegetal, mineral ou animal,
+deverão recolher o percentual de 0,2%, sobre o valor da operação
+destacada no documento fiscal, a conta do FET.
+(...)
+§2º O disposto neste artigo não se aplica às remessas efetuadas por
+produtor rural, dentro do território do Estado, com destino a leilão,
+exposição ou feiras e respectivos retornos.
+(...)
+§5º Os produtos mencionados no caput deste artigo, sujeitos ao
+recolhimento ao FET, serão elencados em ato expedido pelo
+Secretário de Estado da Fazenda. (Incluído pela Lei Estadual
+nº 3.796, de 2021)
+
+Art. 9º Os recursos decorrentes da aplicação desta Lei serão:
+(...)
+II - utilizados, exclusivamente:
+a) nas obras e serviços do sistema rodoviário estadual;
+b) como contribuição do Estado, a título de contrapartida na
+celebração de convênio com a União, cuja finalidade seja obras e
+serviços do sistema rodoviário do Estado.
+
+14. Diante da íntima conexão existente com os normativos acima, são
+
+impugnados a seguir, diante da patente inconstitucionalidade por atração, todos os
+
+dispositivos infralegais constantes das Portarias SEFAZ nº 193/2020 e 223/2023, bem
+
+como do Anexo Único desta, expedidos pela Secretaria de Estado da Fazenda e
+
+Planejamento do Tocantins.
+
+IV LEGITIMIDADE DA AUTORA. PERTINÊNCIA TEMÁTICA E INTERESSE DA
+ENTIDADE. CUMPRIMENTOS DOS REQUISITOS CONSTITUCIONAIS
+
+15. A Confederação Nacional da Indústria é entidade sindical de âmbito nacional,
+
+que exerce a adequada representação do setor secundário da economia como categoria
+
+econômica inclusive para questões judiciais, uma vez que congrega todas as federações
+
+industriais nos Estados. O setor representado pela Autora, constante do quadro relativo ao
+
+art. 577 da Consolidação das Leis do Trabalho (CLT), abrange aproximadamente 700 mil
+
+indústrias.
+
+[[pagina 7 | nativo]]
+
+16. É legitimada, nos termos dos arts. 102, inciso I, alínea 'a', e 103, inciso IX, da
+
+Constituição Federal, e da Lei nº 9.868/99, à propositura de ações de controle concentrado
+
+de constitucionalidade para provocar a atuação dessa Suprema Corte, tendo destacada
+
+atuação na defesa da ordem jurídico-tributária, como já reconhecido, entre outras
+
+oportunidades, no julgamento das ADIs 4.786 e 4.787 e pelos Eminentes Ministros
+
+Relatores das ADIs 5.635 e 7.363.
+
+17. A matéria discutida guarda, por sua vez, relevância para os contribuintes
+
+industriais e estreita vinculação aos princípios estatutários da CNI, que, nos exatos
+
+termos de seu Estatuto, tem como seus objetivos, dentre outros, “propor medidas judiciais
+
+na defesa dos interesses da indústria”3.
+
+18. No caso específico, são subordinadas aos Diplomas legais atacados as
+
+empresas industriais estabelecidas no Estado do Tocantins que promovam operações de
+
+saídas de produtos de origem mineral ou animal. Nesse particular, quando examinada a
+
+regra contida nos incisos I e III do § 9º do art. 11 da Portaria SEFAZ nº 193/20204,
+
+acrescido pela Portaria SEFAZ nº 223/2023, constata-se que as empresas dos setores
+
+agroindustrial (item 3.1) e minerário (itens 2.1 a 2.5), cujos produtos são listados no Anexo
+
+Único deste último Diploma infralegal5, serão contribuintes da cobrança destinada ao FET.
+
+3 Estatuto da CNI, art. 3º, inciso X.
+4 “Art. 11. Os contribuintes, quando promoverem operações de saídas, ainda que não tributadas, inclusive
+com destino à exportação ou equiparadas à exportação, previstas no parágrafo único do art. 3º da Lei
+Complementar Federal 87, de 13 de setembro de 1996, deverão recolher o percentual de 1,2%, sobre o valor
+da operação destacada no documento fiscal, à conta do FET, dos produtos elencados no Anexo Único a esta
+Portaria. (Redação dada pela Portaria SEFAZ nº 223 de 17.03.23. Produzindo efeitos retroativos a 13 de
+março de 2023.
+(...)
+§9º O recolhimento do FET se dará uma única vez, para os produtos elencados no Anexo Único, no
+momento das saídas: (Redação dada pela Portaria SEFAZ nº 223 de 17.03.23. Produzindo efeitos retroativos
+a 13 de março de 2023.
+I - do extrator, para os produtos de origem mineral; (Redação dada pela Portaria SEFAZ nº 223 de 17.03.23.
+Produzindo efeitos retroativos a 13 de março de 2023.
+(...)
+III - do frigorífico, para as carnes.” (NR) (Redação dada pela Portaria SEFAZ nº 223 de 17.03.23.”
+5 ANEXO ÚNICO À PORTARIA Nº 223, DE 17 DE MARÇO DE 2023.
+ITEM PRODUTOS
+1 VEGETAL IN NATURA
+(...)
+2 MINERAL
+2.1 CALCÁRIO
+2.2 AMIANTO
+
+[[pagina 8 | nativo]]
+
+19. Além da importância da posição política quanto à necessidade de respeito às
+
+garantias fundamentais dos contribuintes, à imunidade tributária, à legalidade e à
+
+segurança jurídica, a relevância da matéria está justificada pelos potenciais riscos aos
+
+integrantes do setor industrial com estabelecimentos no Estado do Tocantins, que, apesar
+
+dos claros regramentos já existentes na legislação nacional tributária, terão uma indevida
+
+oneração sobre as operações de circulação de mercadorias de origem mineral ou animal, o
+
+que acarretará perda de competitividade, e ainda a supressão do direito ao gozo da regra
+
+imunizante do ICMS sobre operações de exportações.
+
+20. Logo, há plena legitimidade e absoluta pertinência temática para
+
+instauração do controle abstrato de constitucionalidade, pois possui a matéria extrema
+
+relevância para o setor industrial.
+
+V DAS VIOLAÇÕES CONSTITUCIONAIS
+
+21. Uma leitura atenta das Leis Estaduais nº 3.617/2019 e nº 4.029/2022, e das
+
+Portarias SEFAZ nº 193/2020 e 223/2023, revela haver uma série de incompatibilidades
+
+entre as legislações tocantinenses e a Constituição Federal.
+
+V.I INCONSTITUCIONALIDADE FORMAL POR INSTITUIÇÃO DE NOVA
+ESPÉCIE DE TRIBUTÁRIA. AUSÊNCIA DE COMPETÊNCIA ESTADUAL E
+INVASÃO ÀS COMPETÊNCIAS TRIBUTÁRIAS DA UNIÃO E AO ESPAÇO
+LEGISLATIVO RESERVADO À LEI COMPLEMENTAR.
+
+22. A primeira delas que merece destaque, inclusive por servir de base para toda
+
+a análise da questão, é relativa ao caráter tributário da fonte de receita do Fundo
+
+Estadual do Transporte (FET) de que tratam os arts. 6º (inciso VI) e 7º (caput e §§ 1º a
+
+5º) da Lei Estadual nº 3.617/2019 e já consideradas as modificações advindas da Lei
+
+Tocantinense nº 4.029/2022, novamente transcrito abaixo:
+
+2.3 FERROLIGA
+2.4 COBRE
+2.5 OURO
+3 ANIMAL
+3.1 CARNES BOVINAS E BUBALINAS
+
+[[pagina 9 | nativo]]
+
+Art. 6º Constituem fontes de receitas do FET:
+(...)
+VI - recursos apurados na forma do art. 7º desta Lei;
+
+Art. 7º Os contribuintes que promoverem operações de saídas, ainda
+que não tributadas, inclusive com destino à exportação ou
+equiparadas à exportação, previstas no parágrafo único do art. 3º da
+Lei Complementar Federal nº 87, de 13 de setembro de 1996, de
+produtos de origem vegetal, mineral ou animal, deverão recolher à
+conta do FET o percentual de 1,2% sobre o valor da operação
+destacada no documento fiscal. (Redação dada pela Lei
+Estadual nº 4.029, de 2022)
+§1º A importância devida nos termos deste artigo é recolhida no prazo
+previsto em regulamento para o pagamento do ICMS quando se tratar
+de contribuintes localizados no território tocantinense.
+§2º Excluem-se do recolhimento de que trata o caput deste artigo:
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+I - os combustíveis líquidos ou gasosos e lubrificantes derivados ou
+não de petróleo; (Redação dada pela Lei Estadual nº
+4.029, de 2022)
+II - as remessas efetuadas por produtor rural com destino a armazém
+geral, leilão, exposição ou feiras e os respectivos retornos, desde que
+observados os prazos previstos no Regulamento do ICMS, aprovado
+pelo Decreto nº 2.912, de 29 de dezembro de 2006;
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+III - as saídas efetuadas por produtor rural de ovos e mercadorias
+oriundas de hortaliças; (Redação dada pela Lei
+Estadual nº 4.029, de 2022)
+IV - as remessas nas operações internas com animais vivos: bovinos,
+suínos, bubalinos, caprinos, ovinos e equinos, inclusive aves.
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+§3º O pagamento da contribuição do FET referente às operações
+mencionadas no caput deste artigo, não dispensa o remetente da
+mercadoria da observância das demais disposições estabelecidas na
+legislação tributária estadual.
+§4º O recolhimento do percentual de que trata este artigo deve ser
+realizado independentemente da retenção e recolhimento do ICMS,
+devido em cada operação.
+§5º Os produtos referidos no caput e no §2º deste artigo poderão ser
+revistos por ato expedido pelo Secretário de Estado da Fazenda.
+(Redação dada pela Lei Estadual nº 4.029, de 2022)
+
+23. Embora não impugnado, o art. 8º da Lei Tocantinense nº 3.617/2019, com
+
+redação dada pela Lei Estadual nº 3.796/2021, reforça o caráter tributário da cobrança
+
+levada a efeito pelo Ente Federado, conforme se confere in verbis:
+
+[[pagina 10 | nativo]]
+
+Art. 8º Em relação à apuração e ao recolhimento do percentual de que
+trata o caput do Art. 7º desta Lei ao FET, compete à Secretaria da
+Fazenda a administração, fiscalização, arrecadação e eventual
+aplicação de penalidade. (Redação conferida pela Lei Estadual nº
+3.796, de 2021)
+§1º A omissão de recolhimento do percentual de que trata o caput do
+Art. 7º desta Lei ao FET constitui infração e sujeita o contribuinte ou
+responsável ao pagamento de multa de 10% e juros de mora,
+calculados na conformidade da legislação tributária. (Redação
+conferida pela Lei Estadual nº 3.796, de 2021)
+§2º O descumprimento das obrigações acessórias, estabelecidas
+na legislação tributária para controle e acompanhamento dos
+valores relativos ao FET, fica sujeito à penalidade prevista no
+Código Tributário Estadual para infração correlata (Redação
+conferida pela Lei Estadual nº 3.796, de 2021)
+(grifou-se)
+
+24. Tendo em vista as previsões contidas nos arts. 3º e 4º do Código Tributário
+
+Nacional (CTN)6, é possível afirmar que foi instituída uma nova espécie tributária,
+
+porquanto é possível identificar: i) o Ente Tributante (Estado de Tocantins); ii) os
+
+contribuintes (pessoa física ou jurídica que promova operações de saídas, ainda que não
+
+tributadas, inclusive com destino à exportação ou equiparadas à exportação, de produtos
+
+de origem mineral ou animal); iii) os fatos geradores (as citadas operações de saída, que
+
+podem ser interna, interestadual, sobre exportações ou equiparadas nos termos da Lei
+
+Complementar nº 87/96); iv) a base de cálculo (valor da operação destacado no
+
+documento fiscal); e v) a alíquota (1,2%).
+
+25. Ainda que se possa refletir acerca da efetiva espécie tributária de que tratam
+
+as Leis Estaduais nº 3.617/2019 e nº 4.029/2022, parece ser nítida a natureza
+
+tributária da mencionada fonte de custeio do FET, a caracterizá-la como tributo, uma vez
+
+que se criou prestação pecuniária obrigatória, em moeda ou cujo valor nela se
+
+possa exprimir, que não constitua penalidade por ato ilícito, instituída em lei e exigida
+
+mediante atividade administrativa vinculada.
+
+6 “Art. 3º Tributo é toda prestação pecuniária compulsória, em moeda ou cujo valor nela se possa exprimir,
+que não constitua sanção de ato ilícito, instituída em lei e cobrada mediante atividade administrativa
+plenamente vinculada.
+Art. 4º A natureza jurídica específica do tributo é determinada pelo fato gerador da respectiva obrigação,
+sendo irrelevantes para qualificá-la:”
+
+[[pagina 11 | nativo]]
+
+26. Todavia, essa "espécie tributária" (contribuição intimamente relacionada ao
+
+ICMS) não encontra previsão dentre os impostos previstos nas competências tributárias
+
+dos Estados e do Distrito Federal de que tratam os arts. 145, inciso I, e 155, incisos I a III,
+
+ambos da Carta da República.
+
+27. Tampouco pode ser classificada como taxa ou contribuição de melhoria,
+
+espécies tributárias com assento constitucional no art. 145, incisos II e III, pois, claramente,
+
+não há qualquer aderência às previsões dos referidos comando da Lei Fundamental
+
+(exigência decorrente do exercício de poder de polícia ou de contraprestação de serviço
+
+público específico e divisível, no caso de taxa, ou de obra pública, na hipótese de
+
+contribuição de melhoria).
+
+28. Alternativamente, ainda poder-se-ia tentar enquadrar a imposição
+
+estabelecida nas Leis Estaduais nº 3.617/2019 e nº 4.029/2022 como um adicional ao
+
+ICMS já cobrado regularmente pelos fatos imponíveis em lei específica tocantinense.
+
+29. No entanto, melhor sorte não se obtém em relação à validade da exação,
+
+haja vista que o art. 82, § 1º, do Ato das Disposições Constitucionais Transitórias (ADCT)7,
+
+que trata da única possibilidade de cobrança de adicional do imposto estadual em questão,
+
+traz a previsão da instituição de parcela adicional de até 2 pontos percentuais na alíquota
+
+do referido imposto estadual para ser destinada a Fundo de combate à pobreza e
+
+condiciona a aplicação do adicional a imposições feitas sobre produtos e serviços
+
+considerados supérfluos.
+
+30. Logo, não há deferência à aludida previsão constitucional quando se verifica
+
+que o produto da arrecadação se destina a fundo diverso daquele destinado ao combate à
+
+pobreza e certas mercadorias elencadas na regulamentação da matéria (Anexo Único da
+
+7 “Art. 82. Os Estados, o Distrito Federal e os Municípios devem instituir Fundos de Combate á Pobreza, com
+os recursos de que trata este artigo e outros que vierem a destinar, devendo os referidos Fundos ser geridos
+por entidades que contem com a participação da sociedade civil. (Incluído pela Emenda Constitucional
+nº 31, de 2000)
+§ 1º Para o financiamento dos Fundos Estaduais e Distrital, poderá ser criado adicional de até dois pontos
+percentuais na alíquota do Imposto sobre Circulação de Mercadorias e Serviços - ICMS, sobre os produtos e
+serviços supérfluos e nas condições definidas na lei complementar de que trata o art. 155, § 2º, XII, da
+Constituição, não se aplicando, sobre este percentual, o disposto no art. 158, IV, da Constituição.
+(Redação dada pela Emenda Constitucional nº 42, de 19.12.2003)”
+
+[[pagina 12 | nativo]]
+
+Portaria SEFAZ nº 193/2020, acrescido pela Portaria SEFAZ nº 223/2023) são
+
+consideradas básicas, como as carnes bovina e bubalina.
+
+31. Também não é possível interpretar que a exação criada pelo Estado do
+
+Tocantins se refira às contribuições de que tratam os arts. 149, § 1º, e 149-A, ambos do
+
+Texto Maior, em razão, respectivamente, de não ser contribuição para o custeio de regime
+
+próprio de previdência social do aludido Ente Federado e por não se tratar de ser de
+
+competência desse instituir contribuição para o custeio de iluminação pública, finalidade
+
+que, frise-se, não é a da referida exação das legislações tocantinenses.
+
+32. Para além das espécies tributárias supramencionadas, a Carta Política de
+
+1988 ainda prevê em seus arts. 148, 149, caput, e 154 o empréstimo compulsório, as
+
+contribuições sociais e os impostos residuais e extraordinários, que são de competência
+
+tributária da União, inclusive a demandar, em certos casos, a Lei Complementar como
+
+veículo introdutor normativo.
+
+33. Como se percebe, a cobrança exacional perpetrada com base nas Leis
+
+Estaduais nº 3.617/2019 e nº 4.029/2022 (e, por conseguinte, nos regulamentos
+
+infralegais) é inconstitucional, porque o Estado do Tocantins não detém competência
+
+tributária para criação de tributo nos moldes previstos e acaba, dessa forma, por
+
+avançar indevidamente sobre as competências constitucionais da União para exercer a
+
+tributação e/ou reservadas à Lei Complementar.
+
+34. Dessarte, os arts. 6º (inciso VI) e 7º (caput e §§ 1º a 5º) da Lei Estadual nº
+
+3.617/2019 e já consideradas as modificações advindas da Lei Tocantinense nº
+
+4.029/2022, merecem ser declarados inconstitucionais.
+
+35. Caso reconhecida a incompatibilidade formal com a Lei Fundamental, a
+
+redação originária do caput do 7º da Lei Tocantinense nº 3.617/2019 igualmente padece do
+
+mesmo vício e deve ser declarada inconstitucional, a fim de obstar o efeito repristinatório
+
+do dispositivo em sua redação que vigorou até o advento da Lei Estadual nº 4.029/2022,
+
+do Estado do Tocantins.
+
+[[pagina 13 | nativo]]
+
+V.II AFRONTAS À PROIBIÇÃO CONSTITUCIONAL DE VINCULAÇÃO DE
+RECEITA TRIBUTÁRIA A FUNDO E À REPARTIÇÃO DE RECEITA
+TRIBUTÁRIA DO ICMS AOS MUNICÍPIOS TOCANTINENSES
+
+36. Em sintonia com a sistema tributário inaugurado pelo CTN e a própria
+
+natureza dos impostos prevista no art. 16 desse Diploma Legal8, a Carta da República
+
+estabeleceu norma profilática no sentido de vedar a vinculação da receita de impostos a
+
+órgão, fundo ou despesa como regra, como se infere in verbis:
+
+Art. 167. São vedados:
+(...)
+IV – a vinculação de receita de impostos a órgão, fundo ou despesa,
+ressalvadas a repartição do produto da arrecadação dos impostos a
+que se referem os arts. 158 e 159, a destinação de recursos para as
+ações e serviços públicos de saúde, para manutenção e
+desenvolvimento do ensino e para realização de atividades da
+administração tributária, como determinado, respectivamente, pelos
+arts. 198, § 2º, 212 e 37, XXII, e a prestação de garantias às
+operações de crédito por antecipação de receita, previstas no art. 165,
+§ 8º, bem como o disposto no § 4º deste artigo; (Redação dada
+pela Emenda Constitucional nº 42, de 19.12.2003)
+
+37. Na hipótese ora examinada, havendo o entendimento de que se trata de
+
+parcela do ICMS, são incompatíveis com a Lei Fundamental os arts. 6º (inciso VI), 7º
+
+(caput e §§ 1º a 5º) e 9º (incisos I e II) da Lei Estadual nº 3.617/2019, e já levando em
+
+consideração as mudanças feitas pela Lei Tocantinense nº 4.029/2022, e os dispositivos
+
+correlatos das legislações infralegais regulamentadoras.
+
+38. Ora, em essência, criou-se a obrigatoriedade de recolhimento para o FET
+
+dessa parte do imposto estadual em relação às operações de saída realizadas pelas
+
+empresas do setor agroindustrial e minerário.
+
+39. É dizer, caso não se reconheça a ausência de competência tributária do
+
+Estado de Tocantins e a invasão da competência tributária da União, não há como negar
+
+que as legislações em análise promoveram vinculação de receita do ICMS ao FET, em
+
+claro desrespeito à regra do art. 167, inciso IV, da Constituição Federal, e, além disso,
+
+8 “Art. 16. Imposto é o tributo cuja obrigação tem por fato gerador uma situação independente de qualquer
+atividade estatal específica, relativa ao contribuinte.”
+
+[[pagina 14 | nativo]]
+
+escamotearam receitas públicas que, por força do inciso IV do art. 158 da Lei Maior,
+
+pertencem aos Municípios.
+
+40. Sob o prisma material, as normas em comento impõem a tributação, por meio
+
+de um ICMS disfarçado de contribuição, de operações de saída que, na prática, visam a
+
+fraudar a vedação constitucional de vinculação de receita tributária a fundo e ainda subtrair
+
+a repartição tributária do citado imposto estadual pertencente aos Municípios. Insista-se: os
+
+Diplomas Legais lançaram uma cortina de fumaça para esconder a vinculação das receitas
+
+do ICMS incrementada pela apropriação da repartição devida aos Municípios.
+
+41. Contudo, em favor da não afetação das receitas de impostos, a jurisprudência
+
+desse Pretório Excelso é atenta às tentativas de vinculações indiretas ou mascaradas.
+
+Dentre muitos, seguem abaixo alguns precedentes:
+
+EMENTA Ação direta de inconstitucionalidade. Artigo 12 da Lei nº
+4.546/2005 do Estado do Rio de Janeiro. Concessão de créditos
+tributários de ICMS em contrapartida a contribuições realizadas para o
+Fundo de Aplicações Econômicas e Sociais do Estado do Rio de
+Janeiro (FAES). Indevida vinculação de receita de impostos a fundo
+público. Violação do art. 167, IV, da Constituição Federal.
+1. Como forma de preservação de um mínimo de flexibilidade
+orçamentária, a Constituição veda, em seu art. 167, IV, a
+“vinculação de receita de impostos a órgão, fundo ou despesa”.
+2. Para a incidência da vedação, a Corte considera “irrelevante se
+a destinação ocorre antes ou depois da entrada da receita nos
+cofres públicos” (ADI nº 1.750/DF, Relator o Ministro Eros Grau,
+DJ de 13/10/06). No mesmo sentido: ADI nº 3.576/RS, Relatora a
+Ministra Ellen Gracie, DJ de 2/2/07.
+(...)
+(ADI 3550, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em
+18/12/2019, PROCESSO ELETRÔNICO DJe-047 DIVULG 05-03-
+2020 PUBLIC 06-03-2020) – grifou-se
+
+Ementa: DIREITO TRIBUTÁRIO. AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. LEI MUNICIPAL Nº 923/2009.
+VINCULAÇÃO DE RECEITA DE ICMS A FUNDO.
+INCONSTITUCIONALIDADE MATERIAL DA LEI EVIDENCIADA.
+NORMA DE REPRODUÇÃO OBRIGATÓRIA. AFRONTA AO ART.
+167, IV, DA CRFB/88, E AO ART. 154, IV, DA CONSTITUIÇÃO
+ESTADUAL. JURISPRUDÊNCIA PACIFICADA. AÇÃO JULGADA
+PROCEDENTE.
+1. Nos termos da jurisprudência da Corte, é inconstitucional a
+destinação de receitas de impostos a fundos ou despesas, ante o
+
+[[pagina 15 | nativo]]
+
+princípio da não afetação aplicado às receitas provenientes de
+impostos.
+(...)
+(ARE 665291 AgR, Relator(a): ROBERTO BARROSO, Primeira
+Turma, julgado em 16/02/2016, ACÓRDÃO ELETRÔNICO DJe-038
+DIVULG 29-02-2016 PUBLIC 01-03-2016) – grifou-se
+
+IMPOSTO SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS
+– MAJORAÇÃO DE ALÍQUOTA – VINCULAÇÃO DA DIFERENÇA A
+ÓRGÃO, FUNDO OU DESPESA. A teor do disposto no inciso IV do
+artigo 167 da Constituição Federal, é vedado vincular receita de
+impostos a órgão, fundo ou despesa. Inconstitucionalidade dos
+artigos 1º e 2º da Lei nº 10.983/97, do Estado do Rio Grande do Sul.
+(RE 419795 AgR, Relator(a): MARCO AURÉLIO, Primeira Turma,
+julgado em 22/02/2011, DJe-056 DIVULG 24-03-2011 PUBLIC 25-03-
+2011 EMENT VOL-02489-02 PP-00354) – grifou-se
+
+42. Como se percebe, esta Corte Suprema rechaçou tentativas legislativas que,
+
+por via oblíqua, tentam vincular a receita de imposto a fundo, especialmente, quando isso
+
+implica desvio da repartição tributária pertencente aos Municípios.
+
+43. Inclusive em recentíssimo voto-vista da lavra do Eminente Ministro André
+
+Mendonça, proferido no julgamento virtual de ação direta proposta pela CNI para impugnar
+
+Fundos criados pelo Estado do Rio de Janeiro (ADI 5.635), esse posicionamento de
+
+impossibilidade de vinculação de receitas de impostos a fundo foi reafirmado (doc. 9).
+
+44. No mesmo diapasão foi a decisão proferida no último mês de março pelo
+
+Excelentíssimo Ministro Dias Toffoli, Relator desta ADI 7.363, em que se reconheceu a
+
+natureza tributária da contribuição destinada a Fundo instituído pelo Estado de Goiás e se
+
+concedeu a medida cautelar pleiteada pela CNI para suspender a cobrança da citada
+
+exação (doc. 10). Confiram-se trechos do decisum monocrático:
+
+(...)
+Pois bem. Em relação ao fumus boni iuris, anote-se que
+consoante a firme jurisprudência do Supremo Tribunal Federal e
+o teor do art. 167, IV, da Constituição Federal, é inconstitucional a
+vinculação de receita de impostos, no que se inclui a receita de
+ICMS, a órgão, fundo ou despesa (exceto nos casos permitidos
+pelo próprio texto constitucional). Diversos são os precedentes da
+Corte nos quais se verificou essa inconstitucionalidade, como, por
+exemplo, a ADI nº 1.689/PE, Tribunal Pleno, Relator o Ministro Sydney
+Sanches, DJ de 2/5/03; ADI nº 2.529/PR, Tribunal Pleno, Relator o
+Ministro Gilmar Mendes, DJe de 6/9/07; e a ADI nº 422/ES, Relator o
+
+[[pagina 16 | nativo]]
+
+Ministro Luiz Fux, Dje de 9/9/19. Por ser esclarecedor, transcrevo
+trecho do voto proferido por Sua Excelência nesse último caso:
+(...)
+Ainda nesse contexto, insta realçar que a tal indevida vinculação
+de receita de impostos a órgão, fundo ou despesa pode se dar
+não só de maneira direta, mas também indiretamente. Em ambos
+os casos há inconstitucionalidade. A jurisprudência do Supremo
+Tribunal Federal, a propósito, é clara no que diz respeito à última
+hipótese (de vinculação indireta).
+Por exemplo, na ADI nº 3.576/RS, o Tribunal Pleno reconheceu a
+inconstitucionalidade, por violação do art. 167, IV, da Constituição
+Federal, de norma de determinada unidade federal, a qual previa que,
+caso a empresa contribuísse para determinado fundo (a fim de
+participar de programas estaduais de custeio e de investimento em
+ações sociais e em infraestrutura), poderia ela compensar, por meio
+de um “crédito fiscal presumido” de ICMS, o valor depositado em tal
+fundo. Entendeu a Corte que, ao cabo, existiria nesse caso, de modo
+disfarçado, um redirecionamento ao fundo de recursos advindos do
+tributo.
+(...)
+Julgo, em sede de juízo perfunctório, que as disposições
+impugnadas, naquilo em que se conectam com a matéria relativa
+à contribuição destinada ao FUNDEINFRA, violam o art. 167, IV,
+do texto constitucional, por resultarem justamente em vinculação
+indireta de receita advinda do ICMS a tal fundo.
+(grifou-se)
+
+45. Repise-se ainda que, no caso ora em exame, não se pode invocar as
+
+disposições constitucionais do art. 82 do ADCT, porque, segundo a referida disposição
+
+constitucional, o abastecimento dos Fundos locais de Combate à Pobreza depende de uma
+
+série de outros requisitos constitucionais que não estão contemplados nas legislações
+
+tocantinenses.
+
+46. Perante essa disposição constitucional, só se pode vincular receita
+
+decorrente da criação do adicional de até dois pontos percentuais da alíquota de ICMS
+
+sobre produtos e serviços supérfluos e nas condições definidas em lei complementar.
+
+47. Como já registrado, não observa quaisquer dessas condições, uma vez que o
+
+produto da arrecadação se destina a Fundo com finalidade diversa da contida no art. 82,
+
+caput, do ADCT, e uma parcela dos produtos não é supérflua (milho, soja e carne). Pior,
+
+ignora a necessidade de respeito às condições da Lei Complementar, que não existe no
+
+ponto.
+
+[[pagina 17 | nativo]]
+
+48. Em suma, os dispositivos elencados são inconstitucionais, porque mascaram
+
+a vinculação de receita de ICMS ao FET e frustram a parcela pertencente aos Municípios
+
+do Estado de Tocantins, o que torna lei morta os arts. 158, inciso IV, e 167, inciso IV,
+
+ambos da Carta Política de 1988, e se encontra fora da moldura constitucional do § 1º do
+
+art. 82 do ADCT.
+
+49. Na hipótese de ser assentada a incompatibilidade material com a
+
+Constituição Federal, a redação originária dos arts. 7º (caput e §§ 2º e 5º) e 9º (inciso II) da
+
+Lei Tocantinense nº 3.617/2019 também possui o vício indicado e merece ter sua
+
+inconstitucionalidade reconhecida, obstando-se assim qualquer efeito repristinatório das
+
+normas em questão em suas respectivas redações de origem.
+
+V.III INOBSERVÂNCIA DA REGRAS DE IMUNIDADE DO ICMS SOBRE
+EXPORTAÇÕES
+
+50. Caso se entenda que não se trata de nova espécie tributária, as previsões
+
+contidas no arts. 6º (inciso VI) e 7º (caput e §§ 1º a 5º) da Lei Estadual nº 3.617/2019 e já
+
+consideradas as alterações trazidas pela Lei Estadual nº 4.029/2022, conduzem à
+
+interpretação que a base imponível da contribuição para o FET é o valor da operação
+
+mercantil realizada e, por conseguinte, que se trata verdadeiramente de nova parcela de
+
+ICMS.
+
+51. Considerada essa propriedade da denominada “contribuição”, que é
+
+verdadeiro ICMS escamoteado, é possível afirmar que os referidos dispositivos impedem a
+
+desoneração das exportações e, com isso, vulnera frontalmente a regra imunizante do art.
+
+155, § 2º, inciso X, alínea “a”, da Constituição Federal, in verbis:
+
+Art. 155. Compete aos Estados e ao Distrito Federal instituir impostos
+sobre: (Redação dada pela Emenda Constitucional nº 3, de 1993)
+(...)
+II - operações relativas à circulação de mercadorias e sobre
+prestações de serviços de transporte interestadual e intermunicipal e
+de comunicação, ainda que as operações e as prestações se iniciem
+no exterior; (Redação dada pela Emenda Constitucional nº 3, de
+1993)
+(...)
+
+[[pagina 18 | nativo]]
+
+§ 2º O imposto previsto no inciso II atenderá ao seguinte:
+(Redação dada pela Emenda Constitucional nº 3, de 1993)
+(...)
+X - não incidirá:
+(...)
+a) sobre operações que destinem mercadorias para o exterior, nem
+sobre serviços prestados a destinatários no exterior, assegurada a
+manutenção e o aproveitamento do montante do imposto cobrado nas
+operações e prestações anteriores; (Redação dada pela Emenda
+Constitucional nº 42, de 19.12.2003)
+
+52. Vale ressaltar, inclusive, que o Eminente Ministro Dias Toffoli, ao apreciar, em
+
+sede liminar na já mencionada ADI 7.363, a compatibilidade do Fundo Estadual Goiano
+
+com as regras e preceitos da Carta da República, reconheceu a inconstitucionalidade da
+
+tributação das exportações por intermédio de contribuição destinada a fundos, nos
+
+seguintes termos:
+
+(...)
+Também em sede de juízo perfunctório, considero
+inconstitucionais as novas condicionantes estabelecidas nas
+normas questionadas para o gozo da imunidade tributária
+prevista no art. 155, § 2º, X, a, da Constituição Federal, em razão
+de elas afetarem ou reduzirem, de maneira relevante, a própria
+efetividade do beneplácito constitucional. Atente-se, ainda, que, de
+acordo com o texto constitucional, compete apenas à lei
+complementar federal “regular as limitações constitucionais ao poder
+de tributar” (art. 146, II).
+(grifou-se)
+
+53. Quanto à natureza e objetivo das regras de imunidade trazidas pelo Texto
+
+Maior, a doutrina pouco diverge. Para o saudoso Aliomar Baleeiro, as regras de imunidade
+
+tributária devem ser traduzidas como limitações constitucionais ao poder de tributar. Neste
+
+sentido, afirmava que “toda imunidade é uma limitação constitucional ao poder de tributar,
+
+embora a recíproca não seja verdadeira”9.
+
+54. A Ministra Regina Helena Costa afirma que a imunidade tributária pode ser
+
+definida como a “exoneração, fixada constitucionalmente, traduzida em norma expressa
+
+impeditiva da atribuição de competência tributária ou extraível, necessariamente, de um ou
+
+9 Aliomar Baleeiro. “Imunidades e isenções tributárias”, RDTributário 1/70. APUD COSTA, Regina Helena.
+“Imunidades Tributárias. Teoria e análise da Jurisprudência do STF”. Pág. 33.
+
+[[pagina 19 | nativo]]
+
+mais princípios constitucionais, que confere direito público subjetivo a certas pessoas, nos
+
+termos por ela delimitados, de não se sujeitarem à tributação”10.
+
+55. Sem esquivar-se de tais conceitos, Humberto Ávila11 defende que:
+
+as regras de imunidade seriam uma limitação negativa ao poder de
+tributar, pois não poderiam ser qualificadas como subtração de
+competência, posto que esta não teria sido atribuída, razão pela qual
+não haveria algo a ser retirado”. O eminente Professor ainda defende
+que “as imunidades tributárias possuem eficácia semelhante à dos
+princípios somente na medida em que limitam o poder de tributar, pois
+as imunidades não são princípios, mas regras de exceção.
+
+56. Nada obstante as sutis divergências existentes na doutrina quanto à natureza
+
+jurídica das normas imunizantes, fato é que seu objetivo é afastar determinadas pessoas
+
+ou signos de riqueza do âmbito de competência de um Ente tributante, de modo a levar a
+
+efeito valores maiores, constitucionalmente protegidos.
+
+57. Na hipótese particular do ICMS, não se trata de exegese extensiva do
+
+beneplácito da imunidade do citado imposto estadual para fins de exportações, o que é
+rechaçado pelo STF12, mas sim de aplicação simples e direta dessa norma constitucional,
+
+como se depreende dos seguintes julgados:
+
+10 COSTA, Regina Helena. “Imunidades Tributárias. Teoria e análise da Jurisprudência do STF”. 2ª Edição.
+Editora Malheiros.
+11 Ávila, Humberto. “Sistema Constitucional Tributário: de acordo com a Emenda Constitucional nº 42/2.003”.
+São Paulo, Saraiva, 2004.
+12 “EMENTA Recurso extraordinário. Repercussão geral. Direito Tributário. Imunidade. Operações de
+exportação. Artigo 155, § 2º, X, a, CF. ICMS. Operações e prestações no mercado interno. Não abrangência.
+Possibilidade de cobrança do ICMS. Manutenção e aproveitamento dos créditos. 1. A Corte, sempre que se
+manifestou sobre as imunidades constitucionais, se ateve às finalidades constitucionais às quais estão
+vinculadas as mencionadas regras. Nas operações de exportação, é clara a orientação quanto à
+impossibilidade de, a pretexto de se extrair da regra imunitória o máximo de efetividade, se adotar uma
+interpretação ampliativa, de modo a se abarcarem fatos, situações ou objetos a priori não abrangidos pela
+expressão literal do enunciado normativo. 2. Ao estabelecer a imunidade das operações de exportação ao
+ICMS, o art. 155, § 2º, X, da Constituição se ocupa, a contrario sensu, das operações internas, pressupondo
+a incidência e estabelecendo o modo pelo qual o ônus tributário é compensado: mediante a manutenção e o
+aproveitamento dos créditos respectivos. 3. Caso houvesse imunidade para as operações internas, de modo
+que não fosse cobrado o ICMS em nenhuma das etapas anteriores à exportação, seria inútil e
+despropositada a regra de manutenção e aproveitamento de créditos. 4. Diante do exposto, nega-se
+provimento ao recurso extraordinário. 5. Tese do Tema nº 475 da Gestão por Temas da Repercussão Geral:
+“A imunidade a que se refere o art. 155, § 2º, X, a, da CF não alcança operações ou prestações anteriores à
+operação de exportação.” (RE 754917, Relator(a): DIAS TOFFOLI, Tribunal Pleno, julgado em 05/08/2020,
+PROCESSO ELETRÔNICO REPERCUSSÃO GERAL - MÉRITO DJe-243 DIVULG 05-10-2020 PUBLIC 06-
+10-2020)
+
+[[pagina 20 | nativo]]
+
+EMENTA RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL.
+TRIBUTÁRIO. IMUNIDADE. HERMENÊUTICA. CONTRIBUIÇÃO AO
+PIS E COFINS. NÃO INCIDÊNCIA. TELEOLOGIA DA NORMA.
+EMPRESA EXPORTADORA. CRÉDITOS DE ICMS TRANSFERIDOS
+A TERCEIROS.
+(...)
+IV - O art. 155, § 2º, X, “a”, da CF – cuja finalidade é o incentivo às
+exportações, desonerando as mercadorias nacionais do seu ônus
+econômico, de modo a permitir que as empresas brasileiras
+exportem produtos, e não tributos -, imuniza as operações de
+exportação e assegura “a manutenção e o aproveitamento do
+montante do imposto cobrado nas operações e prestações
+anteriores”. Não incidem, pois, a COFINS e a contribuição ao PIS
+sobre os créditos de ICMS cedidos a terceiros, sob pena de frontal
+violação do preceito constitucional.
+(...)
+(RE 606107, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em
+22/05/2013, ACÓRDÃO ELETRÔNICO REPERCUSSÃO GERAL -
+MÉRITO DJe-231 DIVULG 22-11-2013 PUBLIC 25-11-2013 RTJ
+VOL-00227-01 PP-00636) – grifou-se
+
+58. Vale ressaltar que esse Pretório Excelso possui entendimento consolidado no
+
+sentido de que lei inferior, seja lei complementar, lei ordinária, ou decreto, não pode se
+
+sobrepor à disposição constitucional. Nesse diapasão:
+
+Ementa: DIREITO TRIBUTÁRIO. AGRAVO INTERNO EM RECURSO
+EXTRAORDINÁRIO. SIMPLES NACIONAL. RECEITAS
+DECORRENTES DA PRESTAÇÃO DE SERVIÇOS PARA A ZONA
+FRANCA DE MANAUS. IMUNIDADE TRIBUTÁRIA. DECLARAÇÃO
+SEGREGADA. POSSIBILIDADE.
+(...)
+3. É legítima a declaração segregada das receitas decorrentes da
+exportação de serviços para a Zona Franca de Manaus, como forma
+de possibilitar a eficaz aplicação das regras de imunidade alocadas no
+texto constitucional, notadamente as previstas nos arts. 149, § 2º, I;
+153, IV, § 3º, III; e 155, II, § 2º, X, a. Permitir a tributação sobre
+operações imunes, mesmo na sistemática do Simples, seria
+equivocado, pois a Lei Complementar nº 123/2006 não pode se
+sobrepor às normas constitucionais imunizantes.
+(...)
+(RE 1393804 AgR, Relator(a): ROBERTO BARROSO, Primeira
+Turma, julgado em 05/12/2022, PROCESSO ELETRÔNICO DJe-249
+DIVULG 06-12-2022 PUBLIC 07-12-2022) – grifou-se
+
+59. Portanto, são patentemente inconstitucionais as regras das legislações
+
+tocantinenses atacadas, seja na redação conferida pela Lei nº 4.029/2022, seja na redação
+
+[[pagina 21 | nativo]]
+
+originária da Lei nº 3.617/2019, que suprimem a regra imunizante do imposto estadual
+
+sobre circulação de mercadorias de origem mineral ou animal.
+
+V.IV CONSEQUENTE OFENSA AOS PRINCÍPIOS DA ISONOMIA TRIBUTÁRIA,
+DA NÃO DISCRIMINAÇÃO QUANTO À ORIGEM OU AO DESTINO DE
+BENS E SERVIÇOS, DA LIVRE CONCORRÊNCIA E DA NEUTRALIDADE
+TRIBUTÁRIA
+
+60. Como assinalado, as legislações estaduais impõem um incremento de carga
+
+tributária sobre todas as operações de circulação de mercadorias.
+
+61. Ocorre que, a pretexto de se buscar recursos financeiros destinados ao
+
+planejamento, à execução, ao acompanhamento e à avaliação de obras e serviços
+
+relativos a transportes no Estado do Tocantins, acaba-se ainda por solapar a própria
+
+neutralidade tributária, postulado fundamental dos princípios da isonomia, da não-
+
+discriminação tributária em razão da origem ou destino dos bens e da livre concorrência, as
+
+quais constam dos arts. 1º, inciso IV,146-A, 150, inciso II, 152, e 170, inciso IV, todos da
+
+Lei Maior.
+
+62. Em que pese os Entes Federados possuam competência para criar leis
+
+tributárias que prevejam a hipótese de incidência do tributo, seus sujeitos ativo e passivo, a
+
+base de cálculo a ser utilizada e a alíquota aplicativo, o exercício dessa aptidão estatal não
+
+é livre, uma vez que deve respeitar os limites constitucional e legalmente positivados.
+
+Sobre o tema, merece destaque a lição de Roque Carrazza13:
+
+O princípio republicano vivifica cada artigo da Constituição, irisando-o
+e fazendo-o portador de sua mensagem de respeito pelo povo e por
+seus sagrados interesses. E é fundamentalmente no exercício da
+tributação que a idéia de República deve predominar, para que, contra
+este mesmo povo, não se cometam injustiças e arbitrariedades.
+Também no domínio dos tributos devem ser excluídas quaisquer
+distinções de classe, de casta ou de índole meramente política
+(Cardoso da Costa).
+É sempre oportuno encarecer que a competência tributária é conferida
+às pessoas políticas, em última análise, pelo povo, que é o detentor
+por excelência de todas as competências e de todas as formas de
+
+13 CARRAZZA, Roque Antonio. Curso de Direito Constitucional Tributário. 24. ed. São Paulo: Malheiros
+Editores, 2008. v. 1. p. 83-84.
+
+[[pagina 22 | nativo]]
+
+poder. De fato, se as pessoas políticas receberam a competência
+tributária da Constituição e se esta brotou da vontade soberana do
+povo, é evidente que a tributação não pode operar-se exclusiva e
+precipuamente em benefício do Poder Público ou de uma determinada
+categoria de pessoas. Seria um contra-senso aceitar-se, de um lado,
+que o povo outorgou a competência tributária às pessoas políticas e,
+de outro, que elas podem exercitá-la em qualquer sentido, até mesmo
+em desfavor desse mesmo povo.
+
+63. Nesse contexto de ideias, a simples necessidade de incremento das receitas
+
+estaduais, cujos desequilíbrios têm raízes profundas, não justifica que se imponha uma
+
+oneração às operações para o exterior. Igualmente não há razões para a tributação na
+
+modelagem prevista sobre operações internas e interestaduais, por mais convenientes que
+
+elas sejam para o Estado.
+
+64. Merece ser destacado que esse Supremo Tribunal Federal veda o tratamento
+
+diferenciado em razão da origem ou do destino da mercadoria, em especial para mitigar
+
+direitos e garantias fundamentais dos contribuintes, bem como a própria neutralidade
+
+tributária. Nesse sentido:
+
+EMENTA: DIREITO TRIBUTÁRIO. ICMS. LEI DO ESTADO DO PIAUÍ
+Nº 6.041/2010. ANTERIOR À EC nº 87/2015. AQUISIÇÃO NÃO
+PRESENCIAL. CONSUMINDOR FINAL NÃO CONTRIBUINTE.
+COBRANÇA PELO ESTADO DE DESTINO.
+INCONSTITUCIONALIDADE.
+(...)
+6. A instituição de um imposto estadual despida de autorização
+constitucional, de maneira a dificultar a circulação de
+mercadorias provenientes de outros Estados da Federação, viola
+o princípio da liberdade de tráfego (art. 155, V, da Constituição),
+além de introduzir uma discriminação entre as mercadorias em
+razão de sua origem, em ofensa ao art. 152 da Constituição.
+7. A busca de maior equilíbrio econômico e social entre os
+Estados da Federação não pode ser alcançada pela violação das
+regras constitucionais de competência – normas inderrotáveis ou
+insuperáveis, diante do modelo rígido de repartição do poder de
+tributar entre os entes federados traçado pelo Constituinte originário.
+(...)
+(ADI 4565, Relator(a): ROBERTO BARROSO, Tribunal Pleno, julgado
+em 24/02/2021, PROCESSO ELETRÔNICO DJe-045 DIVULG 09-03-
+2021 PUBLIC 10-03-2021) – grifou-se
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. § 6º DO
+ART. 25 DA LEI N. 7.098/1998 DE MATO GROSSO. LEGITIMIDADE
+ATIVA AD CAUSAM. CONSTITUCIONALIDADE DA QUESTÃO
+
+[[pagina 23 | nativo]]
+
+REFERENTE À OBSERVÂNCIA DA EQUAÇÃO CRÉDITO/DÉBITO
+NAS OPERAÇÕES COM ICMS. PRINCÍPIO DA NÃO
+CUMULATIVIDADE. CONFIGURAÇÃO NACIONAL DO IMPOSTO
+SOBRE CIRCULAÇÃO DE MERCADORIAS E SERVIÇOS – ICMS.
+COMPETÊNCIA CONCORRENTE PARA LEGISLAR SOBRE
+DIREITO TRIBUTÁRIO. PROIBIÇÃO CONSTITUCIONAL DE
+DIFERENCIAÇÃO DE BENS E SERVIÇOS QUANTO À
+PROCEDÊNCIA OU AO DESTINO. INCONSTITUCIONALIDADE DE
+RETALIAÇÃO TRIBUTÁRIA A BENEFÍCIO FISCAL CONCEDIDO
+POR OUTRA UNIDADE DA FEDERAÇÃO. ICMS. OPERAÇÃO
+INTERESTADUAL. APLICAÇÃO DE ALÍQUOTA INTERESTADUAL E
+ALÍQUOTA INTERNA DO ESTADO DE DESTINO. REPARTIÇÃO
+DOS VALORES OBTIDOS. JUSTIÇA TRIBUTÁRIA. AÇÃO DIRETA
+DE INCONSTITUCIONALIDADE JULGADA PROCEDENTE.
+(...)
+4. Nos termos do art. 152 da Constituição da República, não se
+pode reconhecer a validade constitucional do § 6º do art. 25 da
+Lei n. 7.098/1998, de Mato Grosso, no qual se confere
+desvantagem econômica às operações interestaduais realizadas
+pelos contribuintes do ICMS sediados em Mato Grosso ou que
+tenham como Estado de destino aquela unidade da Federação.
+(...)
+(ADI 4623, Relator(a): CÁRMEN LÚCIA, Tribunal Pleno, julgado em
+16/06/2020, PROCESSO ELETRÔNICO DJe-202 DIVULG 13-08-
+2020 PUBLIC 14-08-2020) – grifou-se
+
+65. Noutro giro, é preciso considerar que os produtos sujeitos às legislações
+
+tocantinenses são destinatários de tratamentos e proteções constitucionais específicos,
+
+como se verifica dos arts. 176, §1º14, para fins de recursos minerais, e 187, inciso I15, no
+
+que tange aos produtos de origem animal.
+
+66. Logo, são patentes as inconstitucionalidades apontadas, o que demanda que
+
+esse Pretório Excelso declare a incompatibilidade dos Diplomas atacados com a Lei Maior.
+
+14 “Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e os potenciais de energia hidráulica
+constituem propriedade distinta da do solo, para efeito de exploração ou aproveitamento, e pertencem à
+União, garantida ao concessionário a propriedade do produto da lavra.
+§ 1º A pesquisa e a lavra de recursos minerais e o aproveitamento dos potenciais a que se refere o "caput"
+deste artigo somente poderão ser efetuados mediante autorização ou concessão da União, no interesse
+nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que tenha sua sede e administração
+no País, na forma da lei, que estabelecerá as condições específicas quando essas atividades se
+desenvolverem em faixa de fronteira ou terras indígenas. (Redação dada pela Emenda Constitucional nº
+6, de 1995)”
+15 “Art. 187. A política agrícola será planejada e executada na forma da lei, com a participação efetiva do
+setor de produção, envolvendo produtores e trabalhadores rurais, bem como dos setores de comercialização,
+de armazenamento e de transportes, levando em conta, especialmente:
+I - os instrumentos creditícios e fiscais;”
+
+[[pagina 24 | nativo]]
+
+67. Caso reconhecida a incompatibilidade material com a Carta Política de 1988,
+
+a redação originária do caput do 7º da Lei Tocantinense nº 3.617/2019 igualmente padece
+
+do mesmo vício e deve ser declarada inconstitucional, a fim de impedir o efeito
+
+repristinatório do dispositivo em sua redação que vigorou até o advento da Lei Estadual nº
+
+4.029/2022, do Estado do Tocantins.
+
+VI REQUISITOS PARA CONCESSÃO DE TUTELA ANTECIPADA ESPECÍFICA
+(INCLUSIVE DE NATUREZA CAUTELAR SE FOR O CASO): PLAUSIBILIDADE
+JURÍDICA (FUMUS BONI IURIS) E PERIGO NA DEMORA (PERICULUM IN MORA) –
+SOLVE ET REPETE – ART. 10 DA LEI 9.868/99
+
+68. A Lei 9.868/99, ao disciplinar o processo da ação direta de
+
+inconstitucionalidade, autoriza, expressamente, a concessão de medida cautelar,
+
+consoante dispõem os arts. 10 e seguintes do referido diploma legal. No mesmo sentido
+
+são os arts. 102, inciso I, alínea “p”, da Lei Fundamental, 300 e ss. do Código de Processo
+
+Civil, e 21, inciso IV, do Regimento Interno desse Supremo Tribunal Federal.
+
+69. A plausibilidade jurídica do pedido (fumus boni iuris) já foi sobejamente
+
+demonstrada linhas atrás. Inclusive, a força jurídica das razões apresentadas nos itens
+
+anteriores tem apoio nos preceitos e normas constitucionais e em jurisprudência específica
+
+desta Corte Suprema.
+
+70. Nesse sentido, nos termos expostos, a categoria econômica representada
+
+pela CNI tem direito a não ser atingida por quaisquer prejuízos ficais até a definição total
+
+desta lide.
+
+71. Em resumo, a superficial leitura das razões acima expostas, especialmente,
+
+no tocante à: i) invasão de competência federal reservada à lei complementar; ii) proibição
+
+de vinculação de receita tributária a Fundo e desobediência da regra de repartição de
+
+receita tributária do ICMS aos Municípios; e iii) negligência à regra de imunidade do ICMS
+
+sobre exportações, é suficiente a deixar mais que evidente a plausibilidade jurídica dos
+
+pedidos antecipatórios (tutela específica) adiante formulados.
+
+[[pagina 25 | nativo]]
+
+72. Quanto ao fundado receio de dano irreparável ou perigo na demora
+
+(periculum in mora), o deferimento da antecipação de tutela é indispensável para evitar que
+
+o setor produtivo seja sujeito a deveres fiscais e sanções indevidas, o que pode implicar a
+
+necessidade de ajuizamento de outras milhares de ações individuais com grave prejuízo ao
+
+próprio bom funcionamento do Poder Judiciário. É dizer: a concessão de liminar também
+
+evitará o chamado efeito multiplicador de diversas ações, individuais e coletivas, em
+
+favor da almejada racionalidade e efetividade processuais.
+
+73. Nesse ponto, a urgência do deferimento da liminar ganha evidência diante da
+
+iminente cobrança da contribuição destinada ao FET em patamares mais elevados a partir
+
+do fim da noventena prevista na Lei Tocantinense nº 4.029/2022, que terá início no mês de
+
+abril de 2023, conforme predito no art. 1º, inciso I, alínea “b”, da Portaria SEFAZ nº
+
+1.072/202216 (doc. 11), e cujos eventuais inadimplementos sujeitam os contribuintes aos
+
+mais diversos embaraços fiscais, econômicos e operacionais, tais como a absorção de
+
+custo para fruição da imunidade do ICMS sobre operações de exportação sem
+
+possibilidade de restituição do valor despendido e a maior oneração dos
+
+contribuintes situados no Estado do Tocantins que promovam a circulação
+
+interestadual de mercadorias de origem mineral ou animal, implicando assim em
+
+assimetria concorrencial por aumento da carga tributária suportada.
+
+74. Vale dizer, a ausência de provimento jurisdicional antecipatório ou a demora
+
+natural do processo até o julgamento de mérito resultará em uma baixíssima utilidade
+
+prática da jurisdição constitucional ora provocada na contramão das almejadas celeridade
+
+e efetividade processuais de que tratam o art. 6º do Código de Processo Civil.
+
+75. Além disso, certamente, se não for concedida a medida antecipatória ora
+
+requerida, esse processo não terá mais a utilidade prática principal perseguida, pois, caso
+
+seja exigida a contribuição para o FET com fundamento na alíquota prevista na Lei
+
+Estadual nº 4.029/2022, a ilicitude que possui origem na própria legislação instituidora do
+
+16 “Art. 1º O pagamento do ICMS, no exercício fiscal de 2023, será efetuado até o dia 09 (nove) do mês
+seguinte ao de sua apuração, para os contribuintes deste Estado, que exercem as seguintes atividades
+econômicas:
+I - estabelecimentos:
+(...)
+b) industriais;”
+
+[[pagina 26 | nativo]]
+
+referido Fundo (Lei Tocantinense nº 3.617/2019) ganhará novas e perversas dimensões. A
+
+reparação ficará restrita a uma eventual repetição de indébito, cujo provimento final estará
+
+relegado às calendas.
+
+76. Em suma: o dano inconstitucional imposto estará consolidado em razão da
+
+demora na apreciação do pleito e só será “remediado” mediante mera repetição de indébito
+
+àqueles que ainda conseguirem manter as atividades (que, como se sabe, haverá de
+
+enfrentar todo percurso processual de cognição).
+
+77. Portanto, até mesmo para que possa evitar uma pletora de processos
+
+individuais (efeito multiplicador), o deferimento da tutela antecipada cautelar para
+
+suspensão dos arts. 6º, inciso VI; 7º, caput e §§ 1º a 5º; e 9º, incisos I e II, todos da Lei
+
+Estadual nº 3.617/2019, já consideradas as devidas redações conferidas pela Lei nº
+
+4.029/2022, bem como das redações originárias dos arts. 7º, caput e §§ 2º e 5º, e 9º, inciso
+
+II, ambos da Lei Tocantinense nº 3.617/2019, é necessário e absolutamente imprescindível
+
+à efetiva utilidade e integridade da jurisdição constitucional de mérito e à preservação da
+
+esfera jurídicas dos representados pela Autora.
+
+78. A ausência do provimento jurisdicional cautelar ensejará exigências e
+
+sanções tributárias inconstitucionais e só restará aos contribuintes individuais o amargo
+
+caminho da repetição de indébito para, após diversos anos, quiçá, reaver os valores
+
+indevidamente entregues. Trata-se, no caso, apenas de evitar o odioso caminho do solve
+
+et repete (“pague e depois reclame”), que obriga o cumprimento de uma obrigação para,
+
+depois, buscar a via judicial para repetição do indébito.
+
+79. Outrossim, cumpre frisar que não há perigo para as contas públicas
+
+estaduais em caso de deferimento da medida cautelar ora pleiteada, eis que, conforme
+
+se depreende da Lei Estadual nº 4.049/2022, aprovada no âmbito do próprio Ente
+
+Federado (doc. 12) e de notícias recentemente veiculados em meios de comunicação
+
+(docs. 13 e 14), haverá recursos disponíveis para o planejamento, a execução, o
+
+acompanhamento e a avaliação de obras e serviços relativos a transportes no Estado do
+
+Tocantins.
+
+[[pagina 27 | nativo]]
+
+80. Portanto, respeitosamente, os arts. 6º (inciso VI), 7º (caput e §§ 1º a 5º) e 9º
+
+(incisos I e II) da Lei Estadual nº 3.617/2019, já consideradas as devidas redações
+
+atribuídas pela Lei nº 4.029/2022, e os arts. 7º (caput e §§ 2º e 5º) e 9º (inciso II) da Lei
+
+Tocantinense nº 3.617/2019 em suas respectivas redações de origem, bem como
+
+dispositivos correlatos dos Diplomas infralegais (Portarias SEFAZ nº 193/2020 e 223/2023
+
+e o Anexo Único acrescido por este último Diploma infralegal àquele), devem ser
+
+cautelarmente suspensos até que haja o julgamento definitivo de mérito.
+
+VII INCONSTITUCIONALIDADE POR ARRASTAMENTO DAS PORTARIAS SEFAZ
+Nº 193/2020 E 223/2023
+
+81. Esse egrégio STF considera que a inconstitucionalidade por arrastamento ou
+
+por atração ocorre quando a inconstitucionalidade de uma norma se estende aos
+
+dispositivos normativos que apresentam com ela uma relação de conexão ou de
+
+interdependência:
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO. ADMINISTRATIVO. ATUALIZAÇÃO
+MONETÁRIA. INCONSTITUCIONALIDADE DO ART. 5° DA LEI Nº
+11.960/2009 QUE CONFERIU NOVA REDAÇÃO AO ART. 1º-F DA
+LEI Nº 9.494/1997. MODULAÇÃO DE EFEITOS DA DECISÃO
+PROFERIDA NAS ADIs 4.357 E 4.425. PENDÊNCIA DE
+APRECIAÇÃO POR ESTA CORTE. MANUTENÇÃO DO SISTEMA
+EM VIGOR. PRECEDENTES.
+1. O art. 1º-F da Lei nº 9.494/1997, com redação dada pela Lei nº
+11.960/2009, ao reproduzir as regras da EC nº 62/2009 quanto à
+atualização monetária e à fixação de juros moratórios de créditos
+inscritos em precatórios, incorre nos mesmos vícios de
+juridicidade que inquinam o art. 100, § 12, da Constituição
+Federal, razão pela qual se revela inconstitucional por
+arrastamento.
+(...)
+(RE 747703 AgR, Relator(a): LUIZ FUX, Primeira Turma, julgado em
+24/02/2015, ACÓRDÃO ELETRÔNICO DJe-045 DIVULG 09-03-2015
+PUBLIC 10-03-2015) – grifou-se
+
+Ementa: AGRAVO REGIMENTAL NO RECURSO
+EXTRAORDINÁRIO. CONTRIBUIÇÃO PARA O PIS. PERÍODO
+COMPREENDIDO ENTRE A EMENDA CONSTITUCIONAL 8/1977 E
+A CONSTITUIÇÃO FEDERAL DE 1988. DISCIPLINA POR
+DECRETO-LEI. IMPOSSIBILIDADE. ART. 55 DA CONSTITUIÇÃO DE
+1967, COM REDAÇÃO DADA PELA EMENDA CONSTITUCIONAL
+
+[[pagina 28 | nativo]]
+
+1/1969. INVALIDADE, POR ARRASTAMENTO, DE PORTARIA DO
+MINISTÉRIO DA FAZENDA. AGRAVO IMPROVIDO.
+(...)
+II - Segundo a jurisprudência dessa Corte, na hipótese de
+determinada norma constituir fundamento de validade para outro
+preceito normativo, a inconstitucionalidade daquela implica a
+invalidade, por arrastamento, desse. Precedentes.
+(...)
+(RE 631698 AgR, Relator(a): RICARDO LEWANDOWSKI, Segunda
+Turma, julgado em 22/05/2012, ACÓRDÃO ELETRÔNICO DJe-109
+DIVULG 04-06-2012 PUBLIC 05-06-2012 RSJADV jul., 2012, p. 40-
+43) – grifou-se
+
+82. Nesse sentido, impõe-se registrar que as Portarias SEFAZ nº 193/2020 e
+
+223/2023, bem como o Anexo Único incluído por este normativo infralegal ao primeiro
+
+Diploma, ambas da Secretaria de Estado da Fazenda e Planejamento do Tocantins,
+
+apresentam inquestionável relação de conexão e de interdependência com os dispositivos
+
+das Leis impugnadas, cujas inconstitucionalidades ora se examina.
+
+83. Esses normativos, por intermédio de seus dispositivos, regulamentam o
+
+conteúdo legal dos dispositivos legais atacados, de modo que também merecem ser
+
+declarados inconstitucionais, por arrastamento.
+
+VIII DOS PEDIDOS
+
+84. Ante todo o exposto, respeitosamente, requer a CNI:
+
+a) em sede de cognição sumária, a concessão de medida liminar para
+
+suspender cautelarmente a eficácia dos arts. 6º (inciso VI), 7º (caput e §§
+
+1º a 5º) e 9º (incisos I e II) da Lei Estadual nº 3.617/2019, já consideradas as
+
+devidas redações atribuídas pela Lei nº 4.029/2022, e os arts. 7º (caput e §§
+
+2º e 5º) e 9º (inciso II) da Lei Tocantinense nº 3.617/2019 em suas
+
+respectivas redações originárias, bem como dos dispositivos correlatos dos
+
+Diplomas infralegais (Portarias SEFAZ nº 193/2020 e 223/2023 e o Anexo
+
+Único acrescido por este último Diploma infralegal àquele), até que haja o
+
+julgamento definitivo de mérito;
+
+[[pagina 29 | nativo]]
+
+b) sejam solicitadas informações ao Governador e à Assembleia Legislativa do
+
+Estado do Tocantins, bem como oitiva do Advogado-Geral da União e do
+
+Procurador-Geral da República;
+
+c) ao final, no mérito, a declaração de inconstitucionalidade, com efeito ex tunc
+
+e eficácia erga omnes;
+
+c.1) dos arts. 6º (inciso VI), 7º (caput e §§ 1º a 5º) e 9º (incisos I e II) da Lei
+
+Estadual nº 3.617/2019, já consideradas as devidas redações atribuídas pela
+
+Lei nº 4.029/2022, e, por arrastamento, dos dispositivos correlatos das
+
+Portarias SEFAZ nº 193/2020 e 223/2023, bem como o Anexo Único incluído
+
+por este último Diploma ao primeiro normativo infralegal citado, todos da
+
+Secretaria de Estado da Fazenda e Planejamento do Tocantins; e
+
+c.2) caso reconhecida a incompatibilidade formal e material da Lei Estadual
+
+nº 4.029/2022 com a Lei Fundamental, dos arts. 7º (caput e §§ 2º e 5º) e 9º
+
+(inciso II) da Lei Tocantinense nº 3.617/2019 em suas respectivas redações
+
+originárias, a fim de obstar o efeito repristinatório dos referidos dispositivos
+
+em suas redações originárias;
+
+d) que as futuras publicações e intimações referentes ao presente feito ocorram
+
+pelo e-mail “cborges@sesicni.com.br”, se realizadas por endereço eletrônico,
+
+ou, ainda, em nome do patrono CASSIO AUGUSTO BORGES, inscrito na
+
+OAB/RJ 91.152 e OAB/DF 20.016-A, se realizadas por painel eletrônico ou
+
+via diário de justiça, sob pena de nulidade, nos termos do artigo 272, §§ 2º e
+
+5º, do CPC.
+
+Nesses termos, pede deferimento.
+
+Brasília (DF), 20 de abril de 2023.
+
+CASSIO AUGUSTO BORGES MARCOS ABREU TORRES
+OAB/RJ 91.152 e OAB/DF 20.016-A OAB/BA 19.668
+PEDRO HENRIQUE BRAZ AssinadoHENRIQUEdeBRAZformaSIQUEIRA:01013942175digital por PEDRO
+SIQUEIRA:01013942175 Dados: 2023.04.20 19:18:01 -03'00'
+PEDRO HENRIQUE BRAZ SIQUEIRA
+OAB/DF 37.996

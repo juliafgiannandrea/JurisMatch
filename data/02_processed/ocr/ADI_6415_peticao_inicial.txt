@@ -1,0 +1,2819 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO DIAS TOFFOLI,
+PRESIDENTE DO E. SUPREMO TRIBUNAL FEDERAL
+
+Distribuição por prevenção às ADI’s nº 6399 e 6403
+
+ASSOCIAÇÃO NACIONAL DOS AUDITORES FISCAIS DA RECEITA
+FEDERAL DO BRASIL-ANFIP, entidade de classe de âmbito nacional,
+inscrita no CNPJ sob o nº 03.636.693/0001-00, com sede no endereço Setor
+Bancário Norte, Quadra 01, Bloco H, S/N, Asa Norte, Brasília-DF, CEP
+70.040- 907, e endereço eletrônico no e-mail: presidencia@anfip.org.br (doc.
+02), na pessoa do seu representante legal, o Sr. Décio Bruno Lopes, inscrito
+no CPF nº 290.358.646-20 (doc. 03), vem, respeitosamente, através do seu
+advogado, ao final assinado (doc. 01), à presença de Vossa Excelência, com
+fulcro no art. 103, IX, da Constituição Federal e no art. 2º, IX, da Lei nº
+9.868/99, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+Com pedido de medida cautelar
+
+Em face do art. 28 da Lei nº 13.988, de 14 de abril de 2020, que inseriu o art.
+19-E na Lei nº 10.522, de 19 de julho de 2002 (doc. 05), instituindo novo
+critério para o desempate de julgamentos ocorridos no âmbito do Conselho
+Administrativo de Recursos Fiscais-CARF, órgão integrante da estrutura
+do Ministério da Economia, pelas razões de direito expostas a seguir.
+
+1
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 2 | nativo]]
+
+1. DO CABIMENTO DA AÇÃO: OBJETO E PARÂMETROS
+A tese jurídica veiculada na presente ação centra-se na
+inconstitucionalidade formal e material do art. 28 da Lei nº 13.988/20, que
+inseriu o art. 19-E na Lei nº 10.522/02, em razão, basicamente, da violação:
+(i) ao Princípio Democrático e ao Devido Processo Legislativo (art.
+1º, caput e parágrafo único; art. 5º, caput e LIV; art. 62, caput e §9º, da
+Constituição Federal), eis que o dispositivo impugnado resultou de
+emenda parlamentar apresentada após a emissão de parecer pela
+Comissão Mista, sem qualquer relação de pertinência com a Medida
+Provisória nº 899, de 16 de outubro de 2019, que lhe deu origem;
+(ii) à presunção de legitimidade do ato administrativo, como
+expressão do Princípio da Legalidade a que se sujeita a
+Administração Pública (art. 37, caput, da Constituição Federal), ao
+determinar o encerramento e a resolução do litígio administrativo a
+favor do contribuinte, em caso de empate no julgamento; e
+(iii) ao princípio constitucional implícito da prevalência do interesse
+público sobre o privado, que decorre da emanação da
+indisponibilidade do tributo e do princípio republicano (art. 1º da
+Constituição Federal).
+Eis o teor da norma questionada:
+“Art. 28. A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar
+acrescida do seguinte art. 19-E:
+‘Art. 19-E. Em caso de empate no julgamento do processo
+administrativo de determinação e exigência do crédito tributário,
+não se aplica o voto de qualidade a que se refere o § 9º do art. 25 do
+Decreto nº 70.235, de 6 de março de 1972, resolvendo-se
+favoravelmente ao contribuinte.’” (Grifos aditados)
+
+2
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 3 | nativo]]
+
+Considerando que o art. 28 da Lei nº 13.988/20, originado a partir do
+Projeto de Lei de Conversão (PLV) nº 2/2020, referente à MP nº 899, de 16
+de outubro de 2019, constitui ato normativo federal, dotado dos requisitos
+de generalidade e abstração, resta atendido o disposto no art. 102, I, “a”,
+da Constituição Federal, a ensejar o exercício do controle concentrado de
+constitucionalidade por esta E. Corte Suprema.
+Ademais, os vícios apontados revelam incompatibilidade direta do
+dispositivo impugnado com o texto constitucional, por não demandar
+exame prévio de legalidade de atos secundários, a demonstrar o perfeito
+cabimento da presente ação direta de inconstitucionalidade.
+Por derradeiro, há jurisprudência consolidada no âmbito do
+Supremo Tribunal Federal acerca das limitações inerentes ao Poder
+Legislativo de emenda durante a tramitação de projetos de conversão em
+lei de medidas provisórias editadas pelo Poder Executivo, de modo a
+garantir a pertinência temática entre os dois, vedando-se a configuração
+dos chamados “jabutis” ou “contrabandos legislativos”. É o que se
+depreende a partir do julgamento das ADI´s nº 5127 (Pleno, Relatora
+Ministra Rosa Weber, Relator p/ acórdão Ministro Edson Fachin, j.
+15/10/15, DJ 11/05/16) e nº 5012 (Pleno, Relatora Ministra Rosa Weber, j.
+16/02/17, DJ 01/02/18).
+No que concerne à necessidade de parecer da Comissão Mista sobre
+os dispositivos da medida provisória a ser convertida em lei, a posição da
+Corte restou igualmente sedimentada no julgamento paradigmático da
+ADI nº 4029 (Pleno, Relator Ministro Luiz Fux, j. 08/03/12, DJ 27/06/12), no
+qual foi examinada a constitucionalidade da Lei nº 11.516, de 28 de agosto
+de 2007, que dispôs sobre a criação do Instituto Chico Mendes de
+Conservação da Biodiversidade.
+
+3
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 4 | nativo]]
+
+2. DA LEGITIMIDADE ATIVA DA REQUERENTE
+A Associação Nacional dos Auditores Fiscais da Receita Federal do
+Brasil-ANFIP, constitui entidade de classe de âmbito nacional, possuindo
+associados em 21 (vinte e uma) das 27 (vinte e sete) unidades da Federação
+e com representação homogênea dos interesses de toda categoria de
+Auditores Fiscais da Receita Federal do Brasil, na forma do que preconiza
+o art. 103, IX, na Constituição Federal, in verbis:
+“Art. 103. Podem propor a ação direta de inconstitucionalidade e a
+ação declaratória de constitucionalidade:
+I - o Presidente da República;
+II - a Mesa do Senado Federal;
+
+III - a Mesa da Câmara dos Deputados;
+IV - a Mesa de Assembléia Legislativa ou da Câmara Legislativa do
+Distrito Federal;
+V - o Governador de Estado ou do Distrito Federal;
+VI - o Procurador-Geral da República;
+VII - o Conselho Federal da Ordem dos Advogados do Brasil;
+VIII - partido político com representação no Congresso Nacional;
+IX - confederação sindical ou entidade de classe de âmbito
+nacional.” (Grifos aditados)
+De se ver que a Constituição Federal de 1988 não apenas ampliou o
+rol de legitimados para a propositura da ação direta de
+inconstitucionalidade de lei ou ato normativo, promovendo a valorização
+do controle concentrado também através da criação de novas espécies de
+ação, como igualmente não trouxe requisitos adicionais de legitimação
+para além da previsão dos incisos do art. 103.
+Desde os debates da Constituinte de 1987, já se alertava para a alta
+quantidade de demandas submetidas à análise do Supremo Tribunal
+Federal. À época, o então Ministro da Justiça, Dr. Paulo Brossard, em
+manifestação à Comissão de Organização e Sistema de Governo da
+Assembleia Geral Constituinte, na reunião extraordinária de 28/04/87, ao
+
+4
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 5 | nativo]]
+
+tratar do presente e futuro da justiça brasileira, manifestou preocupação
+com a possibilidade de extensão do rol de legitimados para a propositura
+de ações diretas de inconstitucionalidade.1
+Não obstante, o constituinte acabou optando por um modelo de
+legitimação ampla em sede de controle abstrato de constitucionalidade.
+Nesse contexto, a extensa lista de legitimados, especificamente no tocante
+ao inciso IX, do art. 103, tem suscitado problemas de ordem prática no
+desempenho da jurisdição constitucional. Isso se deve ao fato de haver
+certa dificuldade na definição e na identificação objetiva das entidades de
+classe de âmbito nacional, que abarcam um grupo amplo de associações.
+
+1 “O SR. MINISTRO SIDNEY SANCHES: – Aí surge a questão que devo mencionar,
+porque V. Ex.ª enfatizou a corte constitucional, enfatizou a competência constitucional do
+Supremo Tribunal Federal. Daí a pergunta: com isso não se poderia ampliar consideravelmente a
+legitimidade ativa para a propositura da ação direta de inconstitucionalidade, ao invés de ficar só
+em mãos do Procurador-Geral da República, demissível ad nutum – por isso, recai toda a suspeita
+sobre o cargo e não sobre a pessoa? Isso possibilitaria outogar-se a legitimidade ativa a quem? Ao
+Senado Federal? À Camara dos Deputados? Às Assembléias Legislativas? A todos os tribunais
+judiciários? Aos partidos políticos a nível nacional e ás entidades de classe a nível nacional? Todas
+essas pessoas jurídicas, ou entidades, teriam acesso ao Supremo Tribunal Federal através da ação
+direta de constitucionalidade. Com isso, não deixaria o Supremo Tribunal Federal de ser a última
+instância em matéria de uniformização do direito federal, mas poderia exercer a competência
+constitucional que lhe está faltando e que causa o reclamo maior da sociedade.
+Pergunto a V. Ex.ª o que acha dessa meditação, que também ainda não é uma idéia
+formada, é uma meditação, como estão fazendo todos os Srs. Constituintes. [...]
+O SR. MINISTRO PAULOBROSSARD: – Sr. Presidente, diria que esta questão é mais
+dirigida aos Constituintes do que propriamente a mim, porque é uma questão interessante e que
+deverá ser examinada e decidida por quem tem voto, eu não tenho.
+[...] Quanto à ampliação, digamos assim, da titularidade da ação, digo ao Ministro que se
+cuide, porque, senão, no outro dia o Supremo estará com a mesma carga de trabalho, especialmente
+quando os litigantes apenas entram em juízo e depois transferem o problema para que o Supremo
+julgue. Eles não pagam custas; não têm qualquer problema; encheriam o Supremo Tribunal
+Federal, rapidamente.”
+(Ata da 7ª Reunião Extraordinária da Comissão de Organização e Sistema de Governo
+da Assembleia Geral Constituinte, realizada em 28/04/87. p. 153. Disponível em
+http://www.senado.leg.br/publicacoes/anais/constituinte/3c_Subcomissao_Do_Poder_J
+udiciario.pdf)
+
+5
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 6 | nativo]]
+
+Assim, em um esforço de balizar o conceito de entidades de classe de
+âmbito nacional, a jurisprudência do STF tem buscado estabelecer
+parâmetros para a aferição da legitimidade ativa das entidades de classe
+no controle concentrado de constitucionalidade.
+Com base nisso, a Corte construiu uma jurisprudência defensiva no
+tocante à legitimidade ativa de entidades de classe de âmbito nacional,
+exigindo, para tanto, a concorrência de três requisitos: 1)
+representatividade da categoria em sua totalidade e comprovação do
+caráter nacional da entidade, pela presença efetiva de associados em, pelo
+menos, nove Estados-membros; 2) homogeneidade entre os membros
+integrantes da entidade; e, por último 3) pertinência temática entre os
+objetivos institucionais da entidade postulante e a norma objeto da
+impugnação. É o que se extrai da ementa a seguir:
+"AGRAVO REGIMENTAL NA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. DECRETO 57.008/2018 DO
+ESTADO DE ALAGOAS. INSTITUIÇÃO DO PROGRAMA RONDA
+NO BAIRRO - PRB. CONTRATAÇÃO DE POLICIAIS MILITARES
+DA RESERVA REMUNERADA E DE PROFISSIONAIS CIVIS PARA
+O DESEMPENHO DE FUNÇÕES DE SEGURANÇA PÚBLICA.
+SUPOSTA CRIAÇÃO DE ÓRGÃO DE SEGURANÇA PÚBLICA
+NÃO CONSTANTE DO ROL TAXATIVO DO ARTIGO 144,
+CAPUT, DA CONSTITUIÇÃO FEDERAL. ALEGADA OFENSA
+AOS ARTIGOS 1º; 5º, II, III E PARÁGRAFO ÚNICO; 22, XXI; 37, II;
+84, IV, VI, A E B; E 144, § 5º, DA CONSTITUIÇÃO FEDERAL. AÇÃO
+PROPOSTA POR ASSOCIAÇÃO QUE REPRESENTA MERO
+SEGMENTO DA CARREIRA DOS MILITARES ESTADUAIS,
+CONSTITUÍDA NÃO SÓ PELOS OFICIAIS, MAS TAMBÉM PELOS
+PRAÇAS MILITARES. REQUERENTE QUE NÃO SE INCLUI NO
+ROL TAXATIVO DE LEGITIMADOS À PROPOSITURA DAS
+AÇÕES DE CONTROLE ABSTRATO DE
+CONSTITUCIONALIDADE. ARTIGO 103, IX, DA
+CONSTITUIÇÃO FEDERAL. ILEGITIMIDADE ATIVA AD
+
+6
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 7 | nativo]]
+
+CAUSAM. AGRAVO A QUE SE NEGA PROVIMENTO. 1. A
+Constituição de 1988 ampliou consideravelmente a legitimidade
+ativa para provocar o controle normativo abstrato, reforçando a
+jurisdição constitucional por meio da democratização das suas vias
+de acesso. No caso de entidades de classe de âmbito nacional, a
+legitimidade deve observar três condicionantes procedimentais: a)
+homogeneidade entre os membros integrantes da entidade (ADI
+108-QI, Rel. Min Celso de Mello, Plenário, DJ de 5/6/1992; ADI 146,
+Rel. Min. Maurício Corrêa, Plenário, DJ de 19/12/2002); b)
+representatividade da categoria em sua totalidade e comprovação
+do caráter nacional da entidade, pela presença efetiva de
+associados em, pelo menos, nove estados-membros (ADI 386, Rel.
+Min. Sydney Sanches, Plenário, DJ de 28/6/1991; e ADI 1.486-MC,
+Rel. Min. Moreira Alves, Plenário, DJ de 13/12/1996); e c)
+pertinência temática entre os objetivos institucionais da entidade
+postulante e a norma objeto da impugnação (ADI 1.873, Rel. Min.
+Marco Aurélio, Plenário, DJ de 19/9/2003). 2. A Federação Nacional
+das Entidades de Oficiais Militares Estaduais - FENEME representa
+mero segmento da categoria funcional dos policiais militares (os
+oficiais), que também é composta de praças militares (artigo 8º do
+Decreto-lei 667/1969). Apesar de alegar que passou a ser integrada
+também pelos praças militares, a FENEME não comprovou a
+representação da totalidade da categoria dos policiais militares –
+oficiais e praças – em, pelo menos, 9 (nove) Estados da Federação. 3.
+A Federação Nacional das Entidades de Oficiais Militares Estaduais
+- FENEME não possui legitimidade para propor ação de controle
+concentrado de constitucionalidade. Precedentes: ADI 4.751AgR,
+Rel. Min. Edson Fachin, Plenário, DJe de 20/9/2019; ADI 5.860-AgR,
+Rel. Min. Luiz Fux, Plenário, DJe de 8/5/2019; ADI 4.750-AgR, Rel.
+Min. Luiz Fux, Plenário, DJe de 15/6/2015; ADI 4.967, Rel. Min. Luiz
+Fux, Plenário, DJe de 10/4/2015; ADI 4.473-AgR, Rel. Min. Dias
+Toffoli, Plenário, DJe de 1º/8/2012; ADI 4.034, Rel. Min. Gilmar
+Mendes, Plenário, DJ de 28/3/2008. 4. Agravo a que se NEGA
+
+7
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 8 | nativo]]
+
+PROVIMENTO." (Pleno, ADI-AgR nº 6112, Relator Ministro Luiz
+Fux, j. 14/02/20, DJ 20/03/20 – Grifos aditados)
+Apesar de precedentes como o mencionado acima, é digno de nota
+o surgimento de uma tendência no âmbito desta Corte Suprema à
+flexibilização do requisito da pertinência temática, para fins de aferição da
+legitimidade ativa das entidades de classe de âmbito nacional em controle
+concentrado, dado o teor de subjetividade que esta exigência carrega. Além
+da ausência de sua previsão expressa no texto constitucional.
+É o que muito bem observou Beatriz Bastide Horbach, em artigo
+dedicado ao tema, ao comentar os debates ocorridos durante o julgamento
+do agravo regimental na ADI nº 3961 (Pleno, Relator Ministro Luís Roberto
+Barroso, Relatora p/ acórdão Ministra Rosa Weber, j. 07/02/19):
+“Com certeza, a exigência de pertinência temática aos chamados
+legitimados especiais é um requisito insólito de admissibilidade em
+controle abstrato de constitucionalidade. Vê-se que, não prevista no
+texto constitucional, foi desenvolvida pelo Supremo Tribunal
+Federal nos primeiros anos de vigência da Constituição de 1988 —
+em parte, possivelmente, em razão da incerteza do impacto que
+poderia gerar o aumento do rol de legitimados para propositura de
+ação direta de inconstitucionalidade.
+Hoje, passados mais de 30 anos, segue-se questionando a alta
+quantidade de demandas propostas na corte, tema que já gerava
+preocupação em Paulo Brossard nas discussões da Constituinte, em
+1987, e que em 1967 era relatado por Aliomar Baleeiro em “O
+Supremo Tribunal Federal, esse outro desconhecido”.
+Nesse contexto, até que ponto o requisito da pertinência temática
+gera impacto nos números do tribunal? Seria ainda justificável, de
+algum modo, manter-se uma exigência de cunho subjetivo em
+processo abstrato, que tem natureza objetiva? A resposta, ao que
+tudo indica, continuará sendo paulatinamente construída pelo STF,
+
+8
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 9 | nativo]]
+
+caso a caso — mas, considerando os últimos julgamentos, é possível
+que a pertinência temática esteja com seus dias contados.”2
+A ADI nº 3961 foi ajuizada pela Associação Nacional dos
+Magistrados da Justiça do Trabalho-ANAMATRA e pela Associação
+Nacional dos Procuradores do Trabalho-ANPT, em face do art. 5º, caput e
+parágrafo único, e do art. 18, da Lei nº 11.442, de 5 de janeiro de 2007, que
+dispõe sobre o transporte rodoviário de cargas por conta de terceiros e
+mediante remuneração.
+Os dispositivos questionados determinavam a natureza comercial
+da relação de transporte rodoviário regida pela referida lei, a afastar, com
+isso, a competência da Justiça do Trabalho para o julgamento de litígios
+dela decorrentes. Dada a interferência no exercício das funções de seus
+membros, a ANAMATRA e a ANPT ajuizaram a respectiva ação.
+O Relator, Ministro Luís Roberto Barroso, em decisão monocrática
+proferida em 01/08/16, julgou extinta a ação direta de inconstitucionalidade
+sem julgamento de mérito, em razão da ilegitimidade ativa das
+requerentes, pois, em sua visão, as categorias profissionais das
+proponentes não seriam diretamente afetadas pela norma. Ao julgar o
+agravo regimental interposto pelas associações, em sessão realizada em
+07/02/19, a Ministra Rosa Weber inaugurou a divergência, reconhecendo a
+possibilidade de repercussão dos dispositivos na atuação profissional dos
+associados às duas entidades, no que foi acompanhada pela maioria dos
+Ministros presentes à votação.3
+
+2 HORBACH, Beatriz Bastide. A gradual supressão da exigência da pertinência
+temática em controle abstrato. Observatório Constitucional. Revista Eletrônica Consultor
+Jurídico. 16 de fevereiro de 2019. Disponível em https://www.conjur.com.br/2019-fev-
+16/observatorio-constitucional-supressao-exigencia-pertinencia-tematica-controle-
+abstrato
+3 Ver: https://www.anamatra.org.br/imprensa/noticias/27671-stf-reconhece-
+legitimidade-da-anamatra-para-questionar-dispositivos-da-lei-dos-motoristas
+
+9
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 10 | nativo]]
+
+Na ocasião, o Ministro Gilmar Mendes reafirmou a sua posição, no
+sentido da supressão da referência ao requisito da pertinência temática em
+ações de índole objetiva, como as ações em controle concentrado de
+constitucionalidade. Ressaltou o Ministro que o uso deste critério pela
+jurisprudência do STF surgiu como mecanismo contra o possível aumento
+da quantidade de ações perante a Corte, mas que seria o momento
+adequado para a sua revisão pelo colegiado. É esse, aliás, o posicionamento
+defendido pelo Ministro em suas obras doutrinárias.4
+Pelo que se observa, há consenso quanto à existência dos três
+requisitos mencionados anteriormente e à sua respectiva exigência pela
+jurisprudência desta E. Corte. Contudo, a aferição destes requisitos no caso
+concreto tem revelado grande margem de casuísmos, especificamente no
+que concerne ao último requisito: o da pertinência temática, dada a sua
+subjetividade, incompatível, diga-se, com a natureza objetiva do controle
+concentrado de constitucionalidade.
+Este fato não tem passado despercebido pela régua crítica de alguns
+Ministros, mostrando a necessidade urgente de revisão da jurisprudência
+defensiva construída pelo STF após o advento da Constituição de 1988, em
+relação à pertinência temática.
+Referimo-nos não só ao julgamento do agravo regimental na ADI nº
+3961, mas também merece destaque o julgamento do agravo regimental na
+ADI nº 3153 (Pleno, Relator Ministro Celso de Mello, Relator p/ acórdão
+Ministro Sepúlveda Pertence, j. 12/08/04, DJ 09/09/05), em que o STF
+expressamente revisou a jurisprudência até então firmada para
+
+4 “Afigura-se excessiva a exigência de que haja uma relação de pertinência entre
+o objeto da ação e a atividade de representação da entidade de classe ou da confederação
+sindical. Cuida-se de inequívoca restrição ao direito de propositura, que, em se tratando
+de processo de natureza objetiva, dificilmente poderia ser formulada até mesmo pelo
+legislador ordinário. A relação de pertinência assemelha-se muito ao estabelecimento de
+uma condição de ação — análoga, talvez, ao interesse de agir —, que não decorre dos
+expressos termos da Constituição e parece ser estranha à natureza do sistema de
+fiscalização abstrata de normas.” (MENDES; Gilmar; COELHO, Inocêncio Mártires;
+BRANCO, Paulo Gonet. Curso de direito constitucional. 4ª Ed. SP: Saraiva, 2009.p. 1.157)
+
+10
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 11 | nativo]]
+
+compreender que o termo “entidade de classe de âmbito nacional”
+abrangeria as “associações de associações”.
+Assim, reconheceu a Corte a legitimidade ativa da Federação
+Nacional das Associações dos Produtores de Cachaça de Alambique para
+questionar a constitucionalidade de lei que atingia o interesse de seus
+associados, assegurando a abertura do controle de constitucionalidade
+concentrado à sociedade civil. Com isso, deu-se mais um passo em direção
+à consolidação de uma sociedade aberta de intérpretes da Constituição, sob
+influência das ideias de Peter Häberle,5 no exercício da jurisdição
+constitucional do STF.
+De todo modo, considerando os critérios que vem sendo aplicados
+pela jurisprudência defensiva desta E. Corte, deve-se frisar que a ANFIP é
+entidade de classe, representativa dos interesses de toda a categoria de
+Auditores Fiscais da Receita Federal do Brasil, resultante da fusão de várias
+associações (c.f. comprova o seu estatuto doc.02), presente em 21 (vinte e
+um) Estados da Federação, via associação ou representação estadual,
+conforme se verifica pelos cartões de CNPJ anexados à inicial (doc.04).
+O reconhecimento legal da representação judicial e extrajudicial de
+seus associados quanto à defesa dos seus direitos constitucionais, legais,
+funcionais, profissionais e em assuntos de seus interesses econômico,
+financeiro e salarial (remuneração e proventos), advém da Lei nº 1.134, de
+
+5 HÄBERLE, Peter. Hermenêutica Constitucional: a sociedade aberta dos intérpretes da
+Constituição – contribuição para a interpretação pluralista e procedimental da Constituição.
+Tradução de Gilmar Ferreira Mendes. Porto Alegre: Fabris, 1997.
+
+11
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 12 | nativo]]
+
+14 de junho de 19506, reafirmado posteriormente pelo art. 29 da Lei nº 4.069,
+de 11 de junho de 1962.7
+Todos os seus associados vinculam-se ao cargo de Auditor Fiscal da
+Receita Federal do Brasil-AFRB, criado pela Lei nº 11.457, de 11 de março
+de 2007, como “efetivos” (ocupantes do cargo na ativa e aposentados) ou
+“participantes”.(dependentes do Instituidor de pensão da carreira de
+AFRFB). Restam, portanto, cumpridos os requisitos 1) e 2) mencionados
+em linhas anteriores.
+Finalmente, quanto ao último requisito, o da pertinência temática, há
+nítida correlação entre o exercício das atribuições profissionais dos
+associados da Requerente e a incidência da nova regra de desempate nos
+julgamentos administrativos realizados no âmbito do Conselho
+Administrativo de Recursos Fiscais.
+Com efeito, nos termos do art. 1º, do Anexo I, do Regimento Interno
+do CARF, aprovado pela Portaria MF nº 343, de 9 de junho de 2015, o CARF
+é órgão colegiado, paritário, integrante atualmente da estrutura do
+Ministério da Economia, que tem por finalidade julgar recursos de ofício e
+voluntário de decisão de primeira instância, bem como os recursos de
+natureza especial, que versem sobre a aplicação da legislação referente a
+tributos administrados pela Secretaria da Receita Federal do Brasil. Na
+mesma linha, é a determinação dos incisos I e II, do art. 25, do Decreto nº
+
+6 “Art. 1º Às associações de classes existentes na data da publicação desta Lei,
+sem nenhum caráter político, fundadas nos têrmos do Código Civil e enquadradas nos
+dispositivos constitucionais, que congreguem funcionários ou empregados de emprêsas
+industriais da União, administradas ou não por ela, dos Estados, dos Municípios e de
+entidades autárquicas, de modo geral, é facultada a representação coletiva ou individual
+de seus associados, perante as autoridades administrativas e a justiça ordinária.
+Art. 2º A essas associações, que passam a ter as prerrogativas de órgãos de
+colaboração com o Estado, no estudo e na solução dos problemas que se relacionem com
+a classe que representam, é permitido, mediante consignação em fôlha de pagamento de
+seus associados, o desconto de mensalidades sociais.”
+7 “Art. 29. Ficam extensivos às entidades representativas de Servidores Públicos,
+de âmbito nacional, que tenham seus estatutos devidamente registrados, até a data da
+presente Lei, os benefícios de que trata a Lei número 1.134, de 14 de junho de 1950.”
+
+12
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 13 | nativo]]
+
+70.235, de 6 de março de 1972, recepcionado pela Constituição Federal de
+1988 com força de lei, que regula o processo administrativo fiscal em
+âmbito federal.8
+O Anexo II do Regimento Interno do CARF, a seu turno, ao tratar da
+competência, estrutura e funcionamento dos órgãos colegiados,
+especificamente nos arts. 28 e 29, esclarece a forma de escolha dos
+Conselheiros que integrarão as Turmas e a Câmara Superior do CARF.
+Confira-se:
+“Art. 28. A escolha de conselheiro representante da Fazenda
+Nacional recairá sobre os candidatos indicados em lista tríplice
+encaminhada pela RFB, e a de conselheiro representante dos
+Contribuintes recairá sobre os candidatos indicados em lista tríplice
+elaborada pelas confederações representativas de categorias
+econômicas e pelas centrais sindicais. (Redação dada pela Portaria
+MF nº 153, de 2018)
+§ 1º As centrais sindicais, com base no art. 29 da Lei nº 11.457,
+de 2007, indicarão conselheiros, representantes dos trabalhadores,
+para compor colegiado com atribuição de julgamento de recursos
+que versem sobre contribuições previdenciárias elencadas no inciso
+IV do caput do art. 3º.
+
+8 “Art. 25. O julgamento do processo de exigência de tributos ou contribuições
+administrados pela Secretaria da Receita Federal compete:
+I - em primeira instância, às Delegacias da Receita Federal de Julgamento, órgãos de
+deliberação interna e natureza colegiada da Secretaria da Receita Federal;
+a) aos Delegados da Receita Federal, titulares de Delegacias especializadas nas
+atividades concernentes a julgamento de processos, quanto aos tributos e contribuições
+administrados pela Secretaria da Receita Federal.
+b) às autoridades mencionadas na legislação de cada um dos demais tributos ou, na falta
+dessa indicação aos chefes da projeção regional ou local da entidade que administra o
+tributo, conforme for por ela estabelecido.
+II – em segunda instância, ao Conselho Administrativo de Recursos Fiscais, órgão
+colegiado, paritário, integrante da estrutura do Ministério da Fazenda, com atribuição
+de julgar recursos de ofício e voluntários de decisão de primeira instância, bem como
+recursos de natureza especial. (Redação dada pela Lei nº 11.941, de 2009)”
+
+13
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 14 | nativo]]
+
+§ 2º Ato do Ministro de Estado da Fazenda definirá a
+distribuição proporcional de vagas de conselheiros representantes
+dos Contribuintes dentre as entidades de que trata o caput, bem
+como a ordem em que se dará a participação de cada uma delas nas
+referidas indicações.
+Art. 29. A indicação de candidatos a conselheiro recairá:
+I - no caso de representantes da Fazenda Nacional, sobre
+Auditores-Fiscais da Receita Federal do Brasil (AFRFB), em
+exercício no cargo há pelo menos 5 (cinco) anos;
+II - no caso de representantes dos Contribuintes, sobre
+brasileiros natos ou naturalizados, com formação superior completa,
+registro no respectivo órgão de classe há, no mínimo, 3 (três) anos,
+notório conhecimento técnico, e efetivo e comprovado exercício de
+atividades que demandem conhecimento nas áreas de direito
+tributário, processo administrativo fiscal e tributos federais.” (g.n.)
+Os Conselheiros representantes da Fazenda Nacional que integram
+as Turmas e a Câmara Superior do CARF, com atribuição para julgar
+recursos de ofício, voluntário e especial, em face de decisões de primeira
+instância das Delegacias da Receita Federal sobre impugnações aos autos
+de infração lavrados pelos Auditores Fiscais da Receita Federal, são
+também integrantes desta última categoria, em exercício há pelo menos
+cinco anos, indicados em lista tríplice do Ministério da Economia, a ser
+encaminhada pelo Presidente do Conselho à seleção do Comitê de
+Acompanhamento, Avaliação e Seleção de Conselheiros (CSC), na forma
+do Anexo III.9
+
+9 “Art. 31. As listas tríplices das representações serão encaminhadas ao Presidente
+do CARF, acompanhadas dos currículos dos candidatos e demais documentos
+necessários à instrução do processo seletivo pelo CSC.
+Parágrafo único. As listas tríplices elaboradas pelas entidades mencionadas nos
+incisos I e II do caput do art. 29 deverão ser publicadas no sítio do CARF antes do início
+do processo de seleção de que trata o Anexo III, bem assim o currículo mínimo do
+candidato que vier a ser designado para a vaga.”
+
+14
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 15 | nativo]]
+
+Assim, os Conselheiros que compõem a representação da Fazenda
+Nacional no CARF são membros da carreira de Auditor Fiscal da Receita
+Federal, representada pela Requerente.
+Os autos de infração lavrados pelos associados da Requente, uma
+vez impugnados e sujeitos à recurso em segunda instância, serão revisados
+pelos integrantes do CARF, dentre eles, os Conselheiros Representantes da
+Fazenda, de forma que, seja exercendo a atividade de lançamento sujeita à
+revisão, seja participando do julgamento administrativo de revisão, o
+critério de desempate dos julgamentos administrativos no âmbito do
+CARF guarda relação direta com o desempenho das atividades funcionais
+dos Auditores Fiscais da Receita Federal, representados pela ANFIP.
+
+Vê-se, resta igualmente satisfeito o requisito da pertinência
+temática, tendo em vista que o art. 28 da Lei nº 13.988/20 interfere
+diretamente nas atividades exercidas pelos associados da Requerente,
+enquanto prolatores do ato administrativo sujeito à revisão e enquanto
+revisores. Trata-se, assim, da mesma lógica aplicada pela jurisprudência
+do Plenário desta E. Corte, no julgamento da ADI-AgR nº 3961.
+Ressalte-se, ademais, que se encontram em trâmite perante o STF,
+quatro ações diretas de inconstitucionalidade ajuizadas pela ANFIP, sem
+qualquer questionamento pelos membros da Corte, acerca de sua
+legitimidade ativa. São elas: ADI nº 6271, Relator Ministro Luís Roberto
+Barroso (ajuizada em face de dispositivos da Emenda Constitucional nº
+103, de 12 de novembro de 2019, que trata da “Reforma da Previdência”);
+ADI nº 6010, Relator Ministro Ricardo Lewandowski (ajuizada em face da
+Medida Provisória 849, de 31 de agosto de 2018); ADI nº 5246, Relator
+Ministro Luiz Fux (ajuizada em face da Medida Provisória nº 664, de
+30/12/2014); e ADI nº 4882, relator Ministro Gilmar Mendes (ajuizada em
+face dos arts. 127, IV, e 134 da Lei 8.112, de 11 de dezembro de 1990 -
+Regime Jurídico dos Servidores Públicos Civis da União, das Autarquias e
+das Fundações Públicas Federais).
+Por derradeiro, saliente-se o entendimento do Ministro Marco
+Aurélio, Relator das ADI´s nº 6399 e 6403, ajuizadas, respectivamente,
+
+15
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 16 | nativo]]
+
+pela Procuradoria Geral da República e pelo Partido Socialista
+Brasileiro-PSB em face do mesmo dispositivo que ora se impugna, e que,
+portanto, estando prevento, será o Relator da presente ação, em relação à
+legitimidade ativa da ANFIP, no julgamento dos agravos regimentais
+nas ADI´s nº 6234 e 6240 (Pleno, Relator Ministro Alexandre de Moraes,
+j. 17/04/20, Ata de Julgamento publicada em 29/04/20 – em que se
+questionam dispositivos da “Lei de Abuso de Autoridade”):
+“O SENHOR MINISTRO MARCO AURÉLIO – Descabe
+implementar interpretação estrita à legitimidade
+Constitucional para deflagrar processo revelador do controle
+abstrato de constitucionalidade.
+
+Provejo o agravo para que a ação direta de
+inconstitucionalidade tenha regular sequência, pronunciando-
+se o Colegiado sobre os diversos ângulos apresentados.”
+(Grifos aditados)
+Conforme se verifica, o Ministro Marco Aurélio, em voto
+recentíssimo, já se manifestou pelo reconhecimento da legitimidade
+ativa da Requerente para atuar no controle concentrado de lei que
+interfere no desempenho das atribuições funcionais dos seus associados
+(“Lei de Abuso de Autoridade”).
+
+3. DAS VIOLAÇÕES À CONSTITUIÇÃO FEDERAL
+PROMOVIDAS PELO ART. 28 DA LEI Nº 13.988/20:
+
+3.1 Inconstitucionalidades formais
+3.1.1 Violação ao Princípio Democrático e ao Devido Processo
+Legislativo: art. 1º, caput e parágrafo único; art. 5º, caput e LIV; da
+Constituição Federal. Ausência de pertinência temática entre o art.
+28 da Lei nº 13.988/20 e a Medida Provisória nº 899, de 16 de outubro
+de 2019: o famoso “jabuti”
+As medidas provisórias, uma vez editadas, devem ser
+imediatamente submetidas pelo Presidente da República à apreciação do
+
+16
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 17 | nativo]]
+
+Congresso Nacional, por meio de ambas as casas, conforme determina o
+art. 62 , caput, da Constituição Federal10 c/c art. 2º, §1º, da Resolução nº 1,
+de 2002 do Congresso Nacional.11
+A Lei nº 13.988, de 14 de abril de 2020, resulta do processo de
+aprovação pelo Congresso Nacional da Medida Provisória nº 899, de 16 de
+outubro de 2019 (doc.06), editada pelo Presidente da República com o
+objetivo de regulamentar a transação em âmbito tributário, estabelecendo
+requisitos e condições para a sua concretização e finalização do litígio, na
+forma do art. 171 do Código Tributário Nacional. É o que se extrai da
+leitura não só do art. 1º da MP nº 899/1912, mas também de sua Exposição
+de Motivos (EMI nº 00268/2019 ME AGU – doc.07), in verbis:
+
+“2. As alterações propostas visam suprir a ausência de
+regulamentação, no âmbito federal, do disposto no art. 171 do
+Código Tributário Nacional e de disposições que viabilizem a
+autocomposição em causas de natureza fiscal, contexto esse que tem,
+respectivamente, impedido maior efetividade da recuperação dos
+créditos inscritos em dívida ativa da União, por um lado, e resultado
+em excessiva litigiosidade relacionada a controvérsias tributárias,
+
+10 “Art. 62. Em caso de relevância e urgência, o Presidente da República poderá
+adotar medidas provisórias, com força de lei, devendo submetê-las de imediato ao
+Congresso Nacional.”
+11 “Art. 2º Nas 48 (quarenta e oito) horas que se seguirem à publicação, no Diário
+Oficial da União, de Medida Provisória adotada pelo Presidente da República, a
+Presidência da Mesa do Congresso Nacional fará publicar e distribuir avulsos da matéria
+e designará Comissão Mista para emitir parecer sobre ela.
+§ 1º No dia da publicação da Medida Provisória no Diário Oficial da União, o seu
+texto será enviado ao Congresso Nacional, acompanhado da respectiva Mensagem e de
+documento expondo a motivação do ato.”
+12 “Art. 1º Esta Medida Provisória estabelece os requisitos e as condições para
+que a União e os devedores ou as partes adversas realizem transação resolutiva de litígio,
+nos termos do art. 171 da Lei nº 5.172, de 25 de outubro de 1966 - Código Tributário
+Nacional.”
+
+17
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 18 | nativo]]
+
+noutra senda, com consequente aumento de custos, perda de
+eficiência e prejuízos à Administração Tributária Federal.
+3. A transação na cobrança da dívida ativa da União acarretará
+redução do estoque desses créditos, limitados àqueles classificados
+como irrecuperáveis ou de difícil recuperação, incrementará a
+arrecadação e esvaziará a prática comprovadamente nociva de
+criação periódica de parcelamentos especiais, com concessão de
+prazos e descontos excessivos a todos aqueles que se enquadram na
+norma (mesmo aqueles com plena capacidade de pagamento
+integral da dívida). [...]
+4. A proposição prevê, ainda, modalidade de transação voltada à
+redução de litigiosidade no contencioso tributário, afastando-se do
+modelo meramente arrecadatório. Objetiva-se, com a proposição,
+atacar o gargalo do processo contencioso tributário, cujo estoque,
+apenas no Conselho de Administrativo de Recursos Fiscais (CARF),
+totaliza mais de R$ 600 bilhões de reais, distribuídos em cerca de 120
+mil processos. [...]
+6. Em ambos os modelos a transação é instrumento de solução ou
+resolução, por meio adequado, de litígios tributários, trazendo
+consigo, muito além do viés arrecadatório, extremamente
+importante em cenário de crise fiscal, mas de redução de custos e
+correto tratamento dos contribuintes, sejam aqueles que já não
+possuem capacidade de pagamento, sejam aqueles que foram
+autuados, não raro, pela complexidade da legislação que permitia
+interpretação razoável em sentido contrário àquele reputado como
+adequado pelo fisco.
+7. Mediante concessões mútuas, credor e devedor, podem socorrer-
+se do instituto que pendia de regulamentação, obtendo solução
+adequada ao litígio tributário. "
+8. Todas essas propostas permitirão, ademais, que a PGFN concentre
+esforços noutras causas, litígios ou cobranças, promovendo
+incremento na arrecadação, a prevenção e a redução de litigiosidade,
+e ganhos de celeridade, eficiência e economicidade. [...]
+
+18
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 19 | nativo]]
+
+10. Estimativas conservadoras apontam como resultado da medida
+a arrecadação de R$ 1,425 bilhão em 2019, R$ 6,384 bilhões em 2020
+e R$ 5,914 bilhões em 2021, sem prejuízo da economia de recursos
+decorrentes da solução dos litígios encerrados pela transação.
+11. O grave quadro fiscal, bem como a urgente necessidade de
+enfrentamento dos problemas do contencioso administrativo
+tributário denotam a presença dos requisitos de relevância e
+urgência constitucionalmente exigidos para a edição da Medida
+Provisória que ora se propõe, repisando-se a imperiosidade da
+medida para o ingresso de receitas ainda no orçamento corrente e,
+sobretudo, trazendo novas estimativas de receita para os exercícios
+seguintes.”
+Nesse mister, todos os dispositivos da MP nº 899/19 visavam à
+disciplina e regulamentação das formas de transação (individual ou por
+adesão); espécies de créditos a que a medida seria aplicável (judicializados
+ou não); possibilidade de concessão de descontos em relação aos créditos
+considerados irrecuperáveis e de difícil recuperação; compromissos a
+serem assumidos pelo devedor; limitação à quitação em até oitenta e
+quatro meses; vedações à realização da transação; hipóteses de rescisão da
+transação e sua publicidade e transparência; dentre outros. Em nenhum
+dispositivo, porém, a Medida Provisória nº 899/19 tratou do
+funcionamento do Conselho Administrativo de Recursos Fiscais e,
+tampouco, do critério de desempate dos julgamentos por ele realizados.
+
+Aliás, é preciso destacar que a MP nº 899/19 expressamente rechaçou
+a possibilidade de versar a transação sobre o montante principal do crédito
+tributário inscrito em dívida ativa, deixando clara a sua aplicabilidade para
+possibilitar descontos tão somente em relação às multas tributárias e aos
+juros; jamais ao crédito tributário originário inscrito em dívida ativa. É o
+que constava no art. 5º, §2º, I, do texto da referida MP:
+
+19
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 20 | nativo]]
+
+“Art. 5º A transação poderá dispor sobre: [...]
+§ 2º É vedada a transação que envolva:
+I - a redução do montante principal do crédito inscrito em dívida
+ativa da União;” (Grifos aditados)
+A tramitação da MP nº 899/19 no Congresso Nacional originou o
+Projeto de Lei de Conversão nº 2, de 2020, cujo texto propôs sensíveis
+modificações ao texto original da medida. Nesse ponto, é certo que o poder
+de emenda parlamentar às espécies normativas em tramitação no
+Congresso é inerente ao exercício da função legislativa. Daí porque até
+mesmo no curso da tramitação de medidas provisórias, cuja competência
+privativa para edição é do Presidente da República, admite-se a
+apresentação de emendas parlamentares, com a finalidade de ampliar,
+restringir ou adequar o texto original da proposta.
+Entretanto, o poder de emenda parlamentar não deve nunca ser
+confundido com o poder de deflagração do processo legislativo, ainda que
+não se trate de ato normativo sujeito à iniciativa exclusiva do Presidente da
+República. A questão em jogo aqui não é propriamente o vício de iniciativa,
+mas sim o direito público subjetivo a um processo legislativo
+transparente e conforme as regras do debate democrático.
+A atuação do Poder Legislativo durante a tramitação de medidas
+provisórias é essencial, porém limitada, porquanto não é dada a este Poder
+a possibilidade de modificação da redação original do texto a ponto de
+representar inserção de matéria estranha ao objeto da medida. Em outras
+palavras, é preciso que as emendas parlamentares efetuadas durante a
+tramitação da MP guardem pertinência temática com o seu texto original,
+sob pena de subverter-se o devido processo legislativo.
+
+20
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 21 | nativo]]
+
+Nesse sentido, igualmente aduz a doutrina:
+“A medida provisória pode ser emendada no Congresso, não mais
+perdurando a proibição nesse sentido que havia no regime do
+decreto-lei, na ordem constitucional pretérita. As emendas
+apresentadas devem, porém, guardar pertinência temática com o
+objeto da medida provisória, sob pena de indeferimento.”13
+Importante notar ainda que a tramitação de uma medida provisória,
+dada a sua relevância e urgência, conta com prazos exíguos de votação e
+discussão, o que torna a tentativa de inserção no seu projeto de conversão
+em lei de matérias estranhas à proposição original conduta ainda mais
+grave do que tentativa semelhante realizada em um projeto de lei de
+iniciativa reservada. É o que aponta João Trindade Cavalcanti Filho:
+“Aliás, inserir tema estranho ao objeto da MP via emenda (seja me
+conduta individual – emenda propriamente dita; seja por meio de
+emenda da Comissão Mista, no relatório – conhecida como ‘emenda
+do relator’) é ainda mais grave que o mesmo proceder em relação a
+um PL. O motivo é simples: como a MP tem prazos exíguos para
+discussão e votação, muitas vezes a inserção é feita às escondidas,
+pouco antes do término do prazo, sem a possibilidade de uma
+discussão crítica e democrática. Ora, se atentarmos para o fato de que
+o processo legislativo existe especialmente para permitir a discussão
+do conteúdo das normas, já se vê que a conduta viola o justo
+processo legislativo – consagrado no próprio inciso LIV do art. 5º da
+CF, mas também derivado do parágrafo único do art. 1º e do
+parágrafo único do art. 59.”14
+
+13 MENDES; Gilmar; COELHO, Inocêncio Mártires; BRANCO, Paulo Gonet.
+Curso de direito constitucional. 4ª Ed. São Paulo: Saraiva, 2009. p. 934-835 – Grifos aditados.
+14 CAVALCANTE FILHO, João Trindade. Processo legislativo constitucional. 4ª ed.
+Salvador: Ed. JusPodivum, 2020.p. 284-285.
+
+21
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 22 | nativo]]
+
+Assim é que a Resolução do Congresso Nacional nº 1, de 2002, em
+seu art. 4º, determina que as emendas parlamentares à medida provisória
+editada pelo Presidente da República poderão ser apresentadas perante a
+Comissão Mista de Deputados e Senadores, designada para emissão de
+parecer, na forma do art. 2º do mesmo diploma e do §9º, do art. 62, da
+Constituição Federal, nos seis primeiros dias que se seguirem à sua
+publicação no Diário Oficial da União. O §4º, do art. 4º, da Resolução, por
+sua vez, veda expressamente a apresentação de emendas parlamentares
+estranhas ao projeto original da MP e, caso ocorra, elas deverão ser
+indeferidas liminarmente pelo Presidente da Comissão Mista. É de ver:
+“Art. 4º Nos 6 (seis) primeiros dias que se seguirem à publicação
+da Medida Provisória no Diário Oficial da União, poderão a ela ser
+oferecidas emendas, que deverão ser protocolizadas na Secretaria-
+Geral da Mesa do Senado Federal.
+§ 1º Somente poderão ser oferecidas emendas às Medidas
+Provisórias perante a Comissão Mista, na forma deste artigo.
+§ 2º No prazo de oferecimento de emendas, o autor de projeto sob
+exame de qualquer das Casas do Congresso Nacional poderá
+solicitar à Comissão que ele tramite, sob a forma de emenda, em
+conjunto com a Medida Provisória.
+§ 3º O projeto que, nos termos do § 2º, tramitar na forma de emenda
+à Medida Provisória, ao final da apreciação desta, será declarado
+prejudicado e arquivado, exceto se a Medida Provisória for rejeitada
+por ser inconstitucional, hipótese em que o projeto retornará ao seu
+curso normal.
+§ 4º É vedada a apresentação de emendas que versem sobre matéria
+estranha àquela tratada na Medida Provisória, cabendo ao
+Presidente da Comissão o seu indeferimento liminar.
+
+22
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 23 | nativo]]
+
+§ 5º O autor da emenda não aceita poderá recorrer, com o apoio de
+3 (três) membros da Comissão, da decisão da Presidência para o
+Plenário desta, que decidirá, definitivamente, por maioria simples,
+sem discussão ou encaminhamento de votação.
+§ 6º Os trabalhos da Comissão Mista serão iniciados com a presença,
+no mínimo, de 1/3 (um terço) dos membros de cada uma das Casas,
+aferida mediante assinatura no livro de presenças, e as deliberações
+serão tomadas por maioria de votos, presente a maioria absoluta dos
+membros de cada uma das Casas.” (Grifos aditados)
+Há, portanto, todo um rito regimental específico para a tramitação
+das medidas provisórias no Congresso Nacional, com prazos compatíveis
+com o regime de urgência que lhe é característico. Fora da previsão
+regimental, não é possível a apresentação de emendas parlamentares, já
+que a necessidade de análise prévia do texto da medida provisória pela
+Comissão Mista, com a respectiva emissão de parecer, decorre da própria
+Constituição Federal, conforme será objeto de melhor exame a seguir.
+Por hora, cabe-nos identificar exatamente como se sucedeu o
+processo legislativo de conversão da MP nº 899/19, que culminou com a
+inserção do art. 28 na Lei nº 13.988/20.
+Publicada a referida MP, durante o prazo regimental de 6 (seis dias),
+foram apresentadas à Comissão Mista 220 (duzentas e vinte) emendas,
+firmadas por membros do Congresso Nacional. O parecer aprovado pela
+Comissão Mista do Congresso Nacional em 19/02/20, de autoria do Relator,
+Deputado Marco Bertaiolli, concluiu pela incompatibilidade e
+inadequação financeira e orçamentária das Emendas nºs 1, 2, 9, 17, 21, 22,
+26, 28 a 31, 34, 35, 65, 76, 83, 84, 132, 133, 137, 154 a 157, 188 a 192, 196, 209,
+217 e 219, e pela compatibilidade e adequação financeira e orçamentária
+das demais; no mérito, pela aprovação, da Medida Provisória nº 899, de
+2019, e pela aprovação, total ou parcial, das Emendas nºs 4, 6 a 8, 11, 13, 16,
+18, 19, 20, 27, 32, 38, 40, 47, 50, 52, 54, 57, 59, 68, 70, 72, 73, 75, 77, 81, 86, 89,
+92, 94, 97, 101, 104, 109, 111, 119, 125, 128, 129, 131, 135, 139, 140, 149, 153,
+165, 170, 171, 172, 175, 176, 194, 195, 199, 200, 201, 206, 210, 215 e 220, na
+
+23
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 24 | nativo]]
+
+forma do Projeto de Lei de Conversão apresentado, bem como pela
+rejeição das demais emendas apresentadas.
+Contudo, ao ser apreciado em Plenário pela Câmara dos Deputados,
+o Deputado Hildo Rocha apresentou a Emenda Aglutinativa nº 1 (doc.08),
+que buscava “aglutinar” os textos das Emendas nº 9 e 162 com o Projeto de
+Lei de Conversão nº 2, de 2020 (doc.09).
+Ressalte-se que ambas foram objeto de análise pelo parecer
+elaborado pela Comissão Mista, que concluiu pela inadequação
+financeira e orçamentária da Emenda parlamentar nº 9 (Deputado Heitor
+Freire) e pela rejeição da Emenda parlamentar nº 162 (Deputado Gilberto
+Nascimento). Confira-se a redação original de cada uma delas:
+
+Emenda nº 9
+“Inclua-se, onde couber, novo artigo com a seguinte redação: Art. XX
+– A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar com a
+seguinte alteração:
+‘Art. 19-E. Se o processo administrativo de determinação e
+exigência do crédito tributário resolver-se favoravelmente à
+Fazenda Nacional, em virtude do voto de qualidade a que se refere
+o § 9º do artigo 25 do Decreto nº 70.235, de 6 de março de 1972, a
+multa de que trata o § 1º do artigo 44 da Lei nº 9.430, de 27 de
+dezembro de 1996 (multa qualificada), e as demais multas de ofício
+serão substituídas pela multa de mora conforme o artigo 61 da Lei
+nº 9.430, de 27 de dezembro de 1996.’ (NR)” (Grifos aditados)
+
+Emenda nº 162
+“São acrescidos à Lei 13.464, de 10 de julho de 2017, os parágrafos 5º
+e 6º do artigo 6º, com a seguinte redação:
+‘Art.6º..........................................................................................
+.....................................................................................................
+
+24
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 25 | nativo]]
+
+§ 5º A base de cálculo para definição do valor global do Bônus de
+Eficiência e Produtividade na Atividade Tributária e Aduaneira,
+estabelecida por Ato do Poder Executivo, não poderá considerar as
+receitas provenientes do produto da arrecadação de multas
+tributárias e aduaneiras incidentes sobre a receita dos tributos
+administrados pela Secretaria da Receita Federal do Brasil a que se
+refere o art. 4º da Lei nº 7.711, de 22 de dezembro de 1988 , inclusive
+por descumprimento de obrigações acessórias;
+§ 6º O valor individual do Bônus de Eficiência e Produtividade na
+Atividade Tributária e Aduaneira terá como limite máximo o valor
+correspondente a 80% (oitenta porcento) do maior vencimento
+básico do respectivo cargo do servidor.
+.....................................................................................................
+O art. 7º da Lei 13.464, de 10 de julho de 2017, passa a ter a seguinte
+redação: Art. 7º Os servidores ativos e aposentados terão direito ao
+valor individual atribuído do Bônus de Eficiência e Produtividade
+na Atividade Tributária e Aduaneira por servidor, na proporção de:
+.....................................................................................................
+O art. 14 da Lei 13.464, de 10 de julho de 2017, passa a ter a seguinte
+redação: Art. 14. O valor do Bônus de Eficiência e Produtividade na
+Atividade Tributária e Aduaneira não integrará o vencimento
+básico, não servirá de base de cálculo para adicionais, gratificações
+ou qualquer outra vantagem pecuniária.
+.....................................................................................................
+Propõe-se, por fim, a revogação do §2º do art. 7º da Lei 13.464/2017.’”
+A Emenda Aglutinativa nº 1, a seu turno, continha a seguinte
+redação, cujo art. 2º acabou dando origem ao art. 28 da Lei nº 13.988/20:
+“Art. 1º A Lei nº 13.464, de 10 de julho de 2017, passa a vigorar com
+as seguintes alterações:
+‘Art. 6° .........................................
+
+25
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 26 | nativo]]
+
+§ 8° A base de cálculo para definição do valor global do Bônus de
+Eficiência e Produtividade na Atividade Tributária e Aduaneira,
+estabelecida por Ato do Poder Executivo, não poderá considerar as
+receitas provenientes do produto da arrecadação de multas
+tributárias e aduaneiras incidentes sobre a receita dos tributos
+administrados pela Secretaria da Receita Federal do Brasil a que se
+refere o art. 4° da lei nº 7.711, de 22 de dezembro de 1988 , inclusive
+por descumprimento de obrigações acessórias;
+§ 9° O valor individual do Bônus de Eficiência e Produtividade na
+Atividade Tributária e Aduaneira terá como limite máximo o valor
+correspondente a 80% (oitenta por cento) do maior vencimento
+básico do respectivo cargo do servidor. (NR)" Art. 14. O valor do
+Bônus de Eficiência e Produtividade na Atividade Tributária e
+Aduaneira não integrará o vencimento básico, não servirá de base
+de cálculo para adicionais, gratificações ou qualquer outra vantagem
+pecuniária. (NR)”
+Art. 2° A Lei nº 10.522, de 19 de julho de 2002, passa a vigorar com
+a seguinte alteração:
+‘Art. 19-E. Em caso de empate no julgamento do processo
+administrativo de determinação e exigência do crédito tributário
+não se aplica o voto de qualidade a que se refere o do artigo 25 do
+Decreto nº 70.235, de 6 de março de 1972, resolvendo-se
+favoravelmente ao contribuinte.’ (NR)” (Grifos aditados)
+
+Ao que se vê, a Emenda Aglutinativa nº 1, além de não “aglutinar”
+texto algum, porque as Emendas parlamentares nº 9 e 162 não foram
+aprovadas, respectivamente, por inadequação financeira e orçamentária e
+por rejeição, a pretexto de promover a junção de dois textos, trouxe um
+terceiro texto totalmente novo. É dizer, a Emenda Aglutinativa nº 1 de
+autoria do Deputado Hildo Rocha, simplesmente inseriu uma nova
+emenda parlamentar no Projeto de Lei Conversão nº 2, de 2020, fora das
+hipóteses regimental e constitucionalmente admitidas.
+
+26
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 27 | nativo]]
+
+O texto da referida Emenda Aglutinativa nº 1, porém, foi aprovado
+em votação simbólica pela Câmara dos Deputados, em sessão realizada em
+18/03/20, sendo os dispositivos dela objeto incorporados à redação final do
+Projeto de Lei Conversão nº 2, de 2020, naquela Casa. Encaminhada ao
+Senado Federal, a redação final do PLV foi objeto de questionamento por
+parte dos Senadores, que afirmaram que a redação dos dois artigos
+inseridos no projeto pela Emenda Aglutinativa nº 1 constituía matéria
+estranha à Medida Provisória nº 899/19 (Requerimentos nºs 138, 139, 140,
+142, 144 e 145/2020).
+Não obstante, somente os Requerimentos nº 138, 139, 140 e 144/2020,
+os quais versavam sobre o art. 1º da Emenda Aglutinativa nº 1, foram
+aprovados e o referido dispositivo foi declarado como não escrito por tratar
+de matéria estranha à Medida Provisória nº 899/19. Os Requerimentos nº
+142 (Senador Alessandro Vieira) e nº 145/2020 (Senador Rogério Correa),
+os quais versavam sobre o art. 2º da Emenda Aglutinativa nº 1 (doc.10),
+porém não foram aprovados. Confira-se a justificativa dos dois Senadores
+em seus Requerimentos:
+Requerimento nº 142 (Senador Alessandro Vieira)
+“A Medida Provisória nº 899 de 2019 foi editada para estabelecer os
+requisitos e as condições para que a União e os devedores ou as
+partes adversas realizem transação, nas modalidades que especifica,
+que, mediante concessões mútuas, importe em determinação de
+litígio e consequente extinção de crédito tributário, nos termos do
+art. 171 da Lei nº 5.172, de 1966 - Código Tributário Nacional. Na
+ADI 5.127, o Supremo Tribunal Federal teve ocasião de se manifestar
+no sentido de que uma Medida Provisória não pode albergar
+dispositivos que sejam estranhos ao seu escopo, por se tratar de um
+procedimento antidemocrático que configura o que se passou a
+chamar de ‘contrabando legislativo’.
+Por essa razão, vale-se do presente requerimento para que se repute
+não escrito o art. 29 do PLV nº 2, de 2020, inserido por uma emenda
+aglutinativa aprovada no dia 18 do corrente mês pela Câmara dos
+
+27
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 28 | nativo]]
+
+Deputados, através da qual se acaba com o voto de qualidade no
+Conselho Administrativo de Recursos Fiscais (CARF) em caso de
+empate na votação de um processo.
+A regra atualmente vigente, nos termos do artigo 25, §9º do Decreto
+nº. 70.235/1972, é a de que o voto de desempate é proferido pelo
+Presidente da Turma Julgadora, ou seja, sempre um representante
+da Fazenda Nacional. Contudo, o art. 29 do PLV nº 2, de 2020,
+acrescenta o art. 19-E à Lei 10.522/02: "Em caso de empate no
+julgamento do processo administrativo de determinação e exigência
+do crédito tributário, não se aplica o voto de qualidade a que se
+refere o § 9º do art. 25 do Decreto nº 70.235, de 6 de março de 1972,
+resolvendo-se favoravelmente ao contribuinte.” Em suma, havendo
+referido empate entre contribuintes e a Fazenda Nacional, haveria
+decisão favorável àqueles. Trata-se de matéria não afeita ao objeto
+central da Medida Provisória nº 899 de 2019, vez que dispõe sobre
+critérios de julgamento tratados por outro diploma e que deveriam
+ser disciplinados por uma outra Medida Provisória. Para além do
+vício formal, consistente na contemplação de matéria estranha ao
+escopo da Medida Provisória sob exame, deve-se ponderar que no
+momento de uma crise sem precedentes para o país, a extinção do
+voto de qualidade acarretará uma perda imensurável de arrecadação
+para os cofres públicos, o que implicaria, inclusive, em possível
+carência de recursos para o combate da pandemia por conta do
+coronavírus.
+Ante o exposto, com fulcro no inciso II, do art. 7º, da Lei
+Complementar 95, de 1998, baseado no entendimento exarado na
+Ação Direta de Inconstitucionalidade 5127, pugna-se pela declaração
+como não escrito o art. 29 do PLV nº 2, de 2020, que promoveu
+alterações na Medida Provisória nº 899, de 2019.”
+Requerimento nº 145/2020 (Senador Rogério Correa)
+“A Câmara dos Deputados aprovou em Plenário a Emenda
+Aglutinativa 1, pretensamente resultante da fusão das emendas 9 e
+
+28
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 29 | nativo]]
+
+162 apresentadas à MPV 899. A alteração que foi nela introduzida à
+Lei 10.522, de 2002, contudo, padece de graves irregularidades.
+A primeira delas é que a Emenda 9, em que se baseia essa
+“aglutinação”, nada diz sobre o tema em questão, que é a extinção
+do voto de qualidade no CARF e a solução de controvérsia relativa
+a valores de multa objeto do recurso em favor do contribuinte. A
+emenda apenas propunha que, no caso de o processo de
+determinação e exigência do crédito tributário fosse resolvido
+favoravelmente à Fazenda Nacional, em virtude do voto de
+qualidade, as multas incidentes sofreriam redução. O texto original
+do PLV nada dizia sobre isso, e tampouco a MPV 899. Não havia,
+assim, conteúdos a “aglutinar” que permitissem a apresentação de
+nova emenda em plenário, contrariando a Resolução nº 1, de 2002-
+CN. Só por isso já deveria ser declarado NÃO REDIGIDA essa
+alteração.
+A segunda delas é que a questão se acha sob exame do STF em sede
+de Ação Direta de Inconstitucionalidade, ou seja, se pode ou não
+haver o voto de qualidade no CARF. Na ADI 5.731/DF, porém, o
+parecer do Ministério Público é no sentido de que “não há
+incompatibilidade entre o dispositivo questionado do decreto e o art.
+112 do CTN. São diversos os âmbitos de incidência das normas. O
+dispositivo da lei complementar tributária que se reputa ofendido
+contém norma geral de interpretação de leis que definam infrações
+tributárias ou cominem penalidades. Incide o critério exegético nele
+previsto no caso de dúvidas quanto a determinados aspectos dessas
+leis, tais como a capitulação do fato, a natureza ou circunstâncias
+materiais da infração, a extensão de seus efeitos, entre outros. Dirige-
+se a todos os julgadores em matéria fiscal, ainda que representantes
+da Fazenda Pública. J á o art. 25-§ 9º do Decreto 70.235/1972 traz
+regra procedimental relativa ao desempate em julgamentos de
+processos administrativos fiscais no âmbito do CARF. Sua aplicação,
+por si só, não implica contrariedade ao art. 112 do CTN, devendo o
+
+29
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 30 | nativo]]
+
+presidente da turma ao proferir voto de qualidade, observar os
+critérios interpretativos do CTN.”
+Assim, em lugar de acabar com o voto de qualidade, sem discussão
+adequada, atropelando o debate da constitucionalidade da regra
+vigente, deve ser mantida a norma vigente, que melhor interessa ao
+Erário, particularmente quando está em jogo a higidez das finanças
+públicas.
+Por fim, é necessário destacar que o voto de qualidade assegurado à
+Fazenda Pública pela norma em vigor já se acha subordinado a
+princípios rígidos, favoráveis ao princípio da justiça fiscal, não sendo
+justificável, sob a perspectiva da isonomia ou proporcionalidade,
+retira-se da Fazenda Nacional prerrogativa que é não somente
+necessária à luz da composição do CARF e suas instâncias, exercida
+por servidores efetivos, concursados e estáveis, mas que protege, em
+casos extremos, o interesse maior da sociedade em ver atendidos os
+princípios gerais da ordem tributária. Daí a necessidade da
+supressão do dispositivo.”
+A matéria foi, então, encaminhada à sanção presidencial, tendo sido
+o Projeto de Lei de Conversão nº 2, de 2020, sancionado sem vetos,
+mantendo-se o teor do art. 2º da Emenda Aglutinativa nº 1 tal como escrito
+pelo Deputado Hildo Rocha (correspondente ao art. 29 da redação final do
+PLV nº 2/20), o qual deu origem ao art. 28 da Lei nº 13.988/20.
+Possível concluir pelo exame integral da tramitação da MP nº 899/19
+até culminar com a edição da Lei nº 13.988/20, que a primeira vez que o
+texto do atual art. 28, que ora se impugna, aparece para escrutínio do
+Congresso é na Emenda Aglutinativa nº 1, apresentada pelo Deputado
+Hildo Rocha, após o prazo de seis dias que menciona o art. 4º, caput, da
+Resolução do Congresso Nacional nº 1, de 2002, e após o parecer
+elaborado pela Comissão Mista, na forma do art. 62, §9º, da Constituição
+Federal.
+
+30
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 31 | nativo]]
+
+Referido dispositivo não apenas deixou de constar do texto original
+da MP nº 899/19, como sua redação não guarda qualquer correlação com a
+da proposição original, que, oportuno destacar, quedou-se restrito tão
+somente a regulamentar a transação em matéria tributária.
+A tramitação anômala do dispositivo que originou a nova regra de
+desempate dos julgamentos administrativos ocorridos no CARF revela,
+assim, o claro intuito parlamentar de subtrair a apreciação da norma do
+devido debate público a que devem se submeter todos os atos normativos
+emanados pelo Poder Legislativo.
+Trata-se do famoso “contrabando legislativo” ou “jabuti”, prática
+que desvirtua o objetivo do processo legislativo, que é justamente o de
+promover a deliberação democrática sobre as propostas em votação, e cuja
+inconstitucionalidade já foi declarada por esta Suprema Corte no
+julgamento da ADI nº 5127 e reafirmada, posteriormente, no julgamento
+da ADI 5012. Confira-se:
+“DIREITO CONSTITUCIONAL. CONTROLE DE
+CONSTITUCIONALIDADE. EMENDA PARLAMENTAR EM
+PROJETO DE CONVERSÃO DE MEDIDA PROVISÓRIA EM
+LEI. CONTEÚDO TEMÁTICO DISTINTO DAQUELE
+ORIGINÁRIO DA MEDIDA PROVISÓRIA. PRÁTICA EM
+DESACORDO COM O PRINCÍPIO DEMOCRÁTICO E COM O
+DEVIDO PROCESSO LEGAL (DEVIDO PROCESSO
+LEGISLATIVO). 1. Viola a Constituição da República,
+notadamente o princípio democrático e o devido processo
+legislativo (arts. 1º, caput, parágrafo único, 2º, caput, 5º, caput, e
+LIV, CRFB), a prática da inserção, mediante emenda parlamentar
+no processo legislativo de conversão de medida provisória em lei,
+de matérias de conteúdo temático estranho ao objeto originário da
+medida provisória. 2. Em atenção ao princípio da segurança jurídica
+(art. 1º e 5º, XXXVI, CRFB), mantém-se hígidas todas as leis de
+conversão fruto dessa prática promulgadas até a data do presente
+julgamento, inclusive aquela impugnada nesta ação. 3. Ação direta
+
+31
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 32 | nativo]]
+
+de inconstitucionalidade julgada improcedente por maioria de
+votos.” (Pleno, ADI nº 5127 Relatora Ministra Rosa Weber, Relator
+p/ acórdão Ministro Edson Fachin, j. 15/10/15, DJ 11/05/16 – Grifos
+aditados)
+Embora a prática de inserção de emendas parlamentares alheias ao
+objeto da proposta original da medida provisória, durante a tramitação do
+projeto de conversão, tenha sido expressamente declarada inconstitucional
+pelo STF, no julgamento da ADI nº 5127, por razões de segurança jurídica,
+esta decisão só produziu efeitos aos atos normativos aprovados a partir do
+julgamento em diante, excluindo-se a hipótese normativa objeto de análise
+no leading case.
+
+Em seguida, a questão foi novamente levada à análise da Corte, no
+julgamento da ADI nº 5012, ocasião em que o colegiado reafirmou a
+posição externada na ADI nº 5127, mas, da mesma forma, como se tratava
+de ato normativo aprovado antes deste julgamento (15/10/15), os efeitos do
+entendimento não tiveram o condão de tornar nulo o ato impugnado.
+Confira-se:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. ARTS. 113 A
+126 DA LEI Nº 12.249/2010. CONVERSÃO DA MEDIDA
+PROVISÓRIA Nº 472/2009. DISPOSITIVOS INCLUÍDOS POR
+EMENDA PARLAMENTAR. AUSÊNCIA DE PERTINÊNCIA
+TEMÁTICA COM O OBJETO ORIGINAL DA MEDIDA
+PROVISÓRIA. INOBSERVÂNCIA DO DEVIDO PROCESSO
+LEGISLATIVO CONSTITUCIONAL. AFRONTA AO
+PRINCÍPIO DEMOCRÁTICO E AO POSTULADO DA
+SEPARAÇÃO DOS PODERES. ARTS. 1º, CAPUT, 2º, 5º, LIV, 62 E
+84, XXVI, DA CONSTITUIÇÃO DA REPÚBLICA. 1. Inclusão, por
+emenda parlamentar, dos arts. 113 a 126, versando sobre alteração
+de limites de unidades de conservação, na redação final da Lei nº
+12.249/2010, conversão da Medida Provisória nº 472/2009. 2. Afronta
+ao princípio democrático, ao postulado da separação entre os
+Poderes e à garantia do devido processo legislativo, à ausência de
+
+32
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 33 | nativo]]
+
+pertinência temática entre a matéria veiculada na emenda
+parlamentar e o objeto da medida provisória submetida à
+conversão em lei. 3. Em 15.10.2015, o Plenário do Supremo Tribunal
+Federal, embora reconhecendo formalmente inconstitucional, a teor
+dos arts. 1º, caput e parágrafo único, 2º, caput, e 5º, LIV, da Carta
+Política, a inclusão de emenda, em projeto de conversão de medida
+provisória em lei, versando conteúdo divorciado do seu objeto
+originário, ao julgamento da ADI 5127, forte no princípio da
+segurança jurídica, afirmou a validade dos preceitos normativos
+resultantes de emendas a projetos de lei de conversão, ainda que sem
+relação com o objeto da medida provisória, aprovados antes da data
+daquele julgamento. 4. Ação direta de inconstitucionalidade julgada
+improcedente.” (Pleno, ADI nº 5012 Relatora Ministra Rosa Weber, j.
+16/02/17, DJ 01/02/18 – Grifos aditados)
+E nem se diga que haveria conexão indireta entre a proposta de
+emenda parlamentar que deu origem ao atual art. 28 da Lei nº 13.988/20 e
+o objetivo da MP nº 899/19, visto que ambos constituem atos normativos
+que disciplinam hipóteses de extinção do crédito tributário, por dois
+motivos claros.
+O primeiro, porque o art. 28 da Lei nº 13.988/20 constitui regra
+concernente ao processo decisório em âmbito administrativo, a fim de fixar
+um critério de solução dos julgamentos em caso de empate, ainda que
+culmine com a extinção do crédito ao prever a vitória da tese do
+contribuinte. Trata-se, portanto, de norma processual e não de disciplina
+acerca da extinção do crédito tributário.
+E o segundo, pelo fato de a própria MP nº 899/19 esclarecer a vedação
+à transação em relação ao montante principal do crédito tributário
+inscrito em dívida ativa, limitando o seu espectro de atuação às multas e
+juros, enquanto o art. 28 da Lei nº 13.988/20 vai além e se refere ao
+julgamento administrativo não apenas da multa e demais consectários
+legais, mas do valor total do montante principal do tributo em discussão.
+
+33
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 34 | nativo]]
+
+Evidente que são assuntos absolutamente distintos. Ao que parece,
+houve uma tentativa de confundir o debate na esfera pública acerca da
+aplicabilidade da regra de desempate prevista pelo art. 25, §9º, do Decreto
+nº 70.235/72, com as alterações da Lei nº 11.941/09, que prevê o voto de
+qualidade do Conselheiro Presidente como critério de solução em qualquer
+caso, para as multas de caráter punitivo, com a aplicabilidade da regra em
+relação ao montante principal do crédito devido.
+Um coisa é a interpretação da penalidade aplicável, caso se
+estabeleça uma situação de empate no julgamento administrativo, e
+outra completamente diferente é a possibilidade de extinção da
+obrigação principal. O empate não significa que não ocorreu o fato
+gerador do tributo, mas apenas que há mais de uma interpretação
+possível, o que atrai a interpretação mais benéfica quanto à penalidade,
+mas não quanto ao tributo. É o que determina, inclusive, o art. 112 do
+Código Tributário Nacional.15
+Ademais, deve-se ter em conta o âmbito do quanto a Constituição
+Federal buscou preservar, e que o STF corretamente reconheceu nos
+julgamentos acima citados. Disso deflui o impedimento ao parlamentar de
+pretender subtrair determinadas questões do debate público
+imprescindível à aprovação legislativa, mediante a inserção de
+dispositivos estranhos ao texto da proposição original, a fim de aproveitar
+o rito urgente de tramitação das MP´s e, com isso, obter a aprovação de
+uma norma alheia ao processo de deliberação democrática. Nessa linha:
+
+15 “Art. 112. A lei tributária que define infrações, ou lhe comina penalidades,
+interpreta-se da maneira mais favorável ao acusado, em caso de dúvida quanto:
+I - à capitulação legal do fato;
+II - à natureza ou às circunstâncias materiais do fato, ou à natureza ou extensão
+dos seus efeitos;
+III - à autoria, imputabilidade ou punibilidade;
+IV - à natureza da penalidade aplicável, ou à sua graduação.”
+
+34
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 35 | nativo]]
+
+“A tentativa de retomada do protagonismo do Legislativo passou a
+ser exercitada por meio de “caronas” nas MPs, que passaram a ser a
+forma privilegiada para veicular benefícios fiscais, flexibilizações de
+obrigações e outras matérias de interesse de setores do Congresso ou
+mesmo da sociedade que, pelo rito legislativo normal, jamais
+chegariam a ser apreciadas com a mesma celeridade.
+Assim, por meio de acordo de líderes, contorna-se o processo
+legislativo ordinário sem grandes debates e questionamentos, em
+face do regime de urgência que é a marca do exame das MPs,
+apreciando-se rapidamente matérias das mais variadas origens e
+interesses em caráter definitivo, que, sancionadas, se convertem em
+lei. Isso compromete o amadurecimento e a qualidade das
+discussões associada à eficácia e efetividade das inovações em
+aumentar o bem-estar da sociedade, que acontece quando derivada
+de debate a partir do confronto de distintas visões políticas sobre um
+tema de interesse nacional. Como são de interesse público, todos os
+temas tramitando no CN devem ser discutidos de modo a levar em
+consideração de modo a identificar todos os potenciais efeitos, custos
+e benefícios gerados – esforço que, por definição, torna-se restrito no
+caso de pegar “carona” por emendamento a MPs, justificando a
+limitação de inserção de temas não conexos ao tema central expedido
+pelo PR.”16
+Como bem salientou a Ministra Rosa Weber na ações diretas
+mencionadas acima, não se trata somente de aproveitar o rito mais célere
+para fazer avançar o processo legislativo, supostamente sem prejuízo, mas
+sim, de verdadeira violação ao direito fundamental ao devido processo
+legislativo, como o direito de todo cidadão de não sofrer interferência em
+
+16 VAN DER LAAN, Cesar Rodrigues. Um panorama recente da apresentação de
+emendas sem pertinência temática a medidas provisória pós ADI 5.127. Textos para discussão,
+244. Núcleo de Estudos da Consultoria Legislativa do Senado Federal. Brasília, fevereiro
+de 2018. p. 13-14.
+
+35
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 36 | nativo]]
+
+sua esfera de interesses, senão por meio de normas jurídicas produzidas
+de acordo com o processo constitucionalmente determinado.
+Logo, não adianta pretender buscar um liame aleatório qualquer
+entre o art.28 da Lei nº 13.988/20 e a Medida Provisória nº 899/19, porque
+este eventual grau de conexão genérico entre os dois não se prestará a
+apagar o fato de que não houve um debate legislativo sério sobre o tema
+afeto à supressão do voto de qualidade no CARF, como critério de
+desempate dos julgamentos administrativos.
+Ainda que o conceito de pertinência temática carregue certo grau de
+subjetividade, isso não significa que não persistam parâmetros para a sua
+aferição. Dentre outros, a Constituição, ao prever a possibilidade de edição
+de medida provisória pelo Presidente da República, demarca seu
+cabimento pela relevância e urgência. Em vista disso, o dispositivo
+impugnado não parece atender aos pressupostos motivadores da relevância
+e urgência da transação tributária, adotada para atender aos propósitos de
+solução da crise econômica, e a mudança do critério de desempate dos
+julgamentos do CARF.
+Neste sentido, o objeto original serve de elemento de delimitação:
+“Não se pode esquecer, ainda, do que Marrafon (2014) já frisou, de
+que, na nossa organização constitucional, a prerrogativa de editar
+MPs é do PR, ao qual reputa delimitar o conteúdo de relevância e
+urgência, sob caráter excepcional. Isso implica a relevância da
+observação da pertinência temática das emendas em relação ao
+objeto original, como requisito imprescindível para que atenda as
+exigências constitucionais inerentes ao trâmite de uma MP. Isso
+pode não dar espaço para a interpretação mais flexível que admita
+assuntos pouco conexos com o texto original da MP.”17
+
+17 VAN DER LAAN, Cesar Rodrigues. Um panorama recente da apresentação de
+emendas sem pertinência temática a medidas provisória pós ADI 5.127. Textos para discussão,
+244. Núcleo de Estudos da Consultoria Legislativa do Senado Federal. Brasília, fevereiro
+de 2018. p. 38.
+
+36
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 37 | nativo]]
+
+Ora, qual é a urgência caracterizada para fins de alteração do
+critério de desempate dos julgamentos administrativos no CARF – o qual
+vem sendo aplicado há anos, diga-se –, que justificasse a sua veiculação via
+medida provisória? Nenhuma. Por isso mesmo, a MP nº 899/19 em
+nenhum momento tratou disso e emenda parlamentar alguma poderia
+fazê-lo no curso da tramitação da medida provisória.
+A forma anômala de tramitação legislativa que resultou na regra do
+art. 28 da Lei nº 13.988/20 impediu que o tema fosse submetido ao exame
+especializado das comissões temáticas, ao receber diferentes pareceres, e
+podendo ser alvo de pedidos de vista dos membros do colegiado; objeto
+de audiências públicas (com a participação dos cidadãos e grupos
+interessados e da sociedade em geral); enfim, que a matéria fosse debatida
+e refletida de forma aprofundada, de modo a amadurecer e legitimar o seu
+conteúdo, como é da natureza da atividade legislativa, e como se espera da
+discussão de um tema tão relevante para a sociedade.
+Trata-se de prática caracterizadora do chamado constitucionalismo
+abusivo por parte do Poder Legislativo, que, em uma acepção ampla, se
+verifica pela utilização de procedimentos, institutos e medidas próprias do
+direito constitucional para minar ou restringir a democracia constitucional
+em geral, ou seja, pelo uso abusivo de instrumentos constitucionais mesmo
+em democracias constitucionais sólidas.18
+
+18 Nesse sentido: “Há duas formas principais de emprego da categoria
+constitucionalismo abusivo para compreender práticas e realidades constitucionais:
+a) frequente e reiterado uso de Emendas à Constituição e criação de novos documentos
+constitucionais com intuito de manter um grupo social e político no poder com
+destruição dos elementos centrais da democracia constitucional, designando essa
+modalidade de constitucionalismo abusivo estrutural, e b) utilização de alguns institutos
+e técnicas constitucionais em desacordo com as diretrizes da democracia constitucional,
+consistindo o fenômeno no constitucionalismo abusivo episódico.” (BARBOZA,
+Estefânia Maria Queiroz; ROBL FILHO, Ilton Norberto. Constitucionalismo Abusivo:
+fundamentos teóricos e análise da sua utilização no Brasil contemporâneo. Direitos
+Fundamentais & Justiça. Belo Horizonte, ano 12, nº 39, jul./dez. 2018. p. 84-87)
+
+37
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 38 | nativo]]
+
+Nada obsta, porém que se submeta o dispositivo ao devido
+processo legislativo, mediante apresentação de projeto de lei de
+iniciativa parlamentar, a fim trazer ao debate público um novo critério
+de desempate para os julgamentos administrativos no CARF, que não o
+previsto no art. 25, §9º, do Decreto nº 70.235/72, desde que, respeitadas as
+determinações constitucionais.
+Por fim, não se pode ignorar que, fora o rito de tramitação urgente a
+que normalmente se submetem as medidas provisórias, está-se diante de
+um período em que, excepcionalmente, as votações do Congresso estão
+ocorrendo em ambiente virtual. Embora o parecer acerca do texto da MP
+nº 899/19 tenha sido aprovado pela Comissão Mista do Congresso Nacional
+em 19/02/20, por meio de sessão presencial, a apreciação das emendas
+parlamentares inseridas no Projeto de Lei de Conversão nº 2, de 2020 pela
+Câmara dos Deputados, foi analisada pelo Senado Federal em sessão
+virtual, com votação via aplicativo, pelo “Sistema de Deliberação
+Remota”, dada a situação atual de emergência sanitária (c.f. Ato da
+Comissão Diretora do Senado nº 7, de 2020).19
+3.1.2 Violação ao art. 62, caput e §9º, da Constituição Federal.
+Ausência de parecer da Comissão Mista acerca da Emenda
+Aglutinativa nº 1, de autoria do Deputado Hildo Rocha, que
+resultou no art. 28 da Lei nº 13.988/20. Burla ao Devido Processo
+Legislativo por apresentação de nova emenda fora do prazo
+regimental
+
+Não bastasse o vício formal já apontado, consistente na inserção de
+matéria estranha à proposição original durante a tramitação da MP nº
+899/19 no Congresso Nacional, há outro vício que compromete o devido
+processo legislativo e o princípio democrático e que, para além dos
+dispositivos constitucionais acima citados, viola diretamente o §9º, do art.
+62, da Constituição Federal.
+
+19 Ver: https://www12.senado.leg.br/tv/programas/noticias-1/2020/03/segunda-,
+sessao-virtual-sera-realizada-por-aplicativo-com-senha-individual-para-cada-senador
+
+38
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 39 | nativo]]
+
+Conforme se viu, o art. 28 da Lei nº 13.988/20 deriva da Emenda
+Aglutinativa nº 1, de autoria do Deputado Hildo Rocha, apresentada após
+o prazo regimental de seis dias (art. 4º, caput, da Resolução nº 1, de 2002)
+para emendamento e após a emissão de parecer pela Comissão Mista de
+Deputados e Senadores, do §9º, do art. 62, da Constituição, in verbis:
+“Art. 62. Em caso de relevância e urgência, o Presidente da República
+poderá adotar medidas provisórias, com força de lei, devendo
+submetê-las de imediato ao Congresso Nacional. (...)
+§ 9º Caberá à comissão mista de Deputados e Senadores examinar
+as medidas provisórias e sobre elas emitir parecer, antes de serem
+apreciadas, em sessão separada, pelo plenário de cada uma das
+Casas do Congresso Nacional. (Incluído pela Emenda
+Constitucional nº 32, de 2001)” (Grifos aditados)
+É de ver que a previsão acerca da existência e da necessidade de
+parecer da Comissão Mista de Deputados e Senadores sobre o texto das
+MP´s já existia no Regimento Interno do Congresso (art. 2º, caput e §1º, da
+Resolução nº 1, de 1989, revogada pela atual Resolução nº 1, de 2002)20,
+antes da Emenda Constitucional nº 32, de 11 de setembro de 2001, porém,
+com o advento desta última, a determinação adquiriu status constitucional.
+Isso decorre do fato de que, no contexto de tramitação das medidas
+provisórias, a função da Comissão Mista acaba por se tornar essencial,
+porquanto o texto da MP não é apreciado pelas Comissões Permanentes
+das Casas Legislativas, devendo ser encaminhado diretamente ao Plenário
+da Câmara e, em seguida, ao Plenário do Senado, caso seja aprovado.
+
+20 “Art. 2º Nas quarenta e oito horas que se seguirem à publicação, no Diário
+Oficial da União, de medida provisória adotada pelo Presidente da República, a
+Presidência do Congresso Nacional fará publicar e distribuir avulsos da matéria, e
+designará Comissão Mista para seu estudo e parecer.
+§ 1º A Comissão Mista será integrada por seis Senadores e seis Deputados e igual
+número de suplentes, indicados pelos respectivos líderes, obedecida, tanto quanto
+possível, a proporcionalidade partidária ou de blocos parlamentares.” (Resolução do
+Congresso Nacional nº 1, de 1989)
+
+39
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 40 | nativo]]
+
+O parecer da Comissão Mista de Deputados e Senadores, portanto,
+não constitui mera formalidade do processo de tramitação das medidas
+provisórias, e sim, uma verdadeira garantia de que o Poder Legislativo
+fiscalizará o exercício atípico da função legiferante pelo Poder Executivo.
+Nesse ponto, as medidas provisórias ostentam caráter excepcional
+no quadro da separação dos Poderes, porque não apenas revelam o
+exercício de uma função atípica pelo Executivo, como produzem efeitos de
+imediato, ainda que em caráter provisório e resolúvel, o que levou Pontes
+de Miranda a qualificá-las como leis sob condição resolutiva.21
+Dentro dessa ótica, a Comissão Mista assume o papel essencial de
+assegurar uma reflexão mais detida sobre o ato normativo primário
+emanado pelo Executivo, evitando, assim, que a análise da medida
+provisória sujeite-se ao chamado “império do relator”, como ocorria antes
+da constitucionalização da exigência e da reafirmação de sua necessidade
+pelo Supremo Tribunal Federal (Pleno, ADI nº 4029, Relator Ministro Luiz
+Fux, j. 08/03/12, DJ 27/06/12).
+Na prática, até então, considerando que os arts. 5º e 6º da Resolução
+nº 1, de 200222, mesmo após o advento da EC nº 32/01, determinavam um
+
+21 MIRANDA, Pontes de. Comentários à Constituição de 1967. São Paulo: Revista
+dos Tribunais, 1967, t. 3, p. 138.
+22 “Art. 5º A Comissão terá o prazo improrrogável de 14 (quatorze) dias, contado
+da publicação da Medida Provisória no Diário Oficial da União para emitir parecer
+único, manifestando-se sobre a matéria, em itens separados, quanto aos aspectos
+constitucional, inclusive sobre os pressupostos de relevância e urgência, de mérito, de
+adequação financeira e orçamentária e sobre o cumprimento da exigência prevista no §
+1º do art. 2º. [...]
+Art. 6º A Câmara dos Deputados fará publicar em avulsos e no Diário da Câmara
+dos Deputados o parecer da Comissão Mista e, a seguir, dispensado o interstício de
+publicação, a Medida Provisória será examinada por aquela Casa, que, para concluir os
+seus trabalhos, terá até o 28º (vigésimo oitavo) dia de vigência da Medida Provisória,
+contado da sua publicação no Diário Oficial da União. § 1º Esgotado o prazo previsto no
+caput do art. 5º, o processo será encaminhado à Câmara dos Deputados, que passará a
+examinar a Medida Provisória. § 2º Na hipótese do § 1º, a Comissão Mista, se for o caso,
+proferirá, pelo Relator ou Relator Revisor designados, o parecer no Plenário da Câmara
+
+40
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 41 | nativo]]
+
+prazo de quinze dias para a apresentação de parecer pela Comissão Mista,
+findo o qual sem a sua emissão seria o processo encaminhado à Câmara
+dos Deputados para exame da MP, a referida comissão sequer chegava a
+ser instalada. Com isso, a emissão de parecer ficava a critério do Relator.
+Não obstante, em sessão realizada em 8 de março de 2012, o STF
+reafirmou a efetividade do mandamento do art. 62, §9º, da Constituição
+Federal, condenando a prática até então comum, de não instalação da
+Comissão Mista. Veja-se trecho da ementa a seguir:
+“AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI FEDERAL
+Nº 11.516/07. CRIAÇÃO DO INSTITUTO CHICO MENDES DE
+CONSERVAÇÃO DA BIODIVERSIDADE. LEGITIMIDADE DA
+ASSOCIAÇÃO NACIONAL DOS SERVIDORES DO IBAMA.
+ENTIDADE DE CLASSE DE ÂMBITO NACIONAL. VIOLAÇÃO
+DO ART. 62, CAPUT E § 9º, DA CONSTITUIÇÃO. NÃO EMISSÃO
+DE PARECER PELA COMISSÃO MISTA PARLAMENTAR.
+INCONSTITUCIONALIDADE DOS ARTIGOS 5º, CAPUT, E 6º,
+CAPUT E PARÁGRAFOS 1º E 2º, DA RESOLUÇÃO Nº 1 DE 2002
+DO CONGRESSO NACIONAL. MODULAÇÃO DOS EFEITOS
+TEMPORAIS DA NULIDADE (ART. 27 DA LEI 9.868/99). AÇÃO
+DIRETA PARCIALMENTE PROCEDENTE. [...]
+4. As Comissões Mistas e a magnitude das funções das mesmas no
+processo de conversão de Medidas Provisórias decorrem da
+necessidade, imposta pela Constituição, de assegurar uma reflexão
+mais detida sobre o ato normativo primário emanado pelo
+Executivo, evitando que a apreciação pelo Plenário seja feita de
+maneira inopinada, percebendo-se, assim, que o parecer desse
+colegiado representa, em vez de formalidade desimportante, uma
+garantia de que o Legislativo fiscalize o exercício atípico da função
+legiferante pelo Executivo.
+
+dos Deputados, podendo estes, se necessário, solicitar para isso prazo até a sessão
+ordinária seguinte.”
+
+41
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 42 | nativo]]
+
+5. O art. 6º da Resolução nº 1 de 2002 do Congresso Nacional, que
+permite a emissão do parecer por meio de Relator nomeado pela
+Comissão Mista, diretamente ao Plenário da Câmara dos
+Deputados, é inconstitucional. A Doutrina do tema é assente no
+sentido de que “'O parecer prévio da Comissão assume condição
+de instrumento indispensável para regularizar o processo
+legislativo porque proporciona a discussão da matéria,
+uniformidade de votação e celeridade na apreciação das medidas
+provisórias'. Por essa importância, defende-se que qualquer ato
+para afastar ou frustrar os trabalhos da Comissão (ou mesmo para
+substituí-los pelo pronunciamento de apenas um parlamentar)
+padece de inconstitucionalidade. Nessa esteira, são questionáveis
+dispositivos da Resolução 01/2002-CN, na medida em que
+permitem a votação da medida provisória sem o parecer da
+Comissão Mista. (...) A possibilidade de atuação apenas do Relator
+gerou acomodação no Parlamento e ineficácia da Comissão Mista;
+tornou-se praxe a manifestação singular: 'No modelo atual, em que
+há várias Comissões Mistas (uma para cada medida provisória
+editada), a apreciação ocorre, na prática, diretamente nos Plenários
+das Casas do Congresso Nacional. Há mais: com o esvaziamento da
+Comissão Mista, instaura-se um verdadeiro 'império' do relator,
+que detém amplo domínio sobre o texto a ser votado em Plenário'.
+Cumpre lembrar que a apreciação pela Comissão é exigência
+constitucional. Nesses termos, sustenta-se serem inconstitucionais
+as medidas provisórias convertidas em lei que não foram
+examinadas pela Comissão Mista, sendo que o pronunciamento do
+relator não tem o condão de suprir o parecer exigido pelo
+constituinte. (...) Cabe ao Judiciário afirmar o devido processo
+legislativo, declarando a inconstitucionalidade dos atos normativos
+que desrespeitem os trâmites de aprovação previstos na Carta. Ao
+agir desse modo, não se entende haver intervenção no Poder
+Legislativo, pois o Judiciário justamente contribuirá para a saúde
+democrática da comunidade e para a consolidação de um Estado
+
+42
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 43 | nativo]]
+
+Democrático de Direito em que as normas são frutos de verdadeira
+discussão, e não produto de troca entre partidos e poderes.” (In:
+CLÈVE, Clèmerson Merlin. Medidas Provisórias. 3ª ed. São Paulo:
+RT, 2010. p. 178-180. V. tb. CASSEB, Paulo Adib. Processo Legislativo
+– atuação das comissões permanentes e temporárias. São Paulo: RT,
+2008. p. 285)
+6. A atuação do Judiciário no controle da existência dos requisitos
+constitucionais de edição de Medidas Provisórias em hipóteses
+excepcionais, ao contrário de denotar ingerência contramajoritária
+nos mecanismos políticos de diálogo dos outros Poderes, serve à
+manutenção da Democracia e do equilíbrio entre os três baluartes da
+República. Precedentes (ADI 1910 MC, Relator(a): Min.
+SEPÚLVEDA PERTENCE, Tribunal Pleno, julgado em 22/04/2004;
+ADI 1647, Relator(a): Min. CARLOS VELLOSO, Tribunal Pleno,
+julgado em 02/12/1998; ADI 2736/DF, rel. Min. CEZAR PELUSO,
+Tribunal Pleno, julgado em 8/9/2010; ADI 1753 MC, Relator Min.
+SEPÚLVEDA PERTENCE, Tribunal Pleno, julgado em 16/04/1998).
+7. A segurança jurídica, cláusula pétrea constitucional, impõe ao
+Pretório Excelso valer-se do comando do art. 27 da Lei 9.868/99 para
+modular os efeitos de sua decisão, evitando que a sanatória de uma
+situação de inconstitucionalidade propicie o surgimento de
+panorama igualmente inconstitucional.
+8. Deveras, a proteção do meio ambiente, direito fundamental de
+terceira geração previsto no art. 225 da Constituição, restaria
+desatendida caso pudessem ser questionados os atos
+administrativos praticados por uma autarquia em funcionamento
+desde 2007. Na mesma esteira, em homenagem ao art. 5º, caput, da
+Constituição, seria temerário admitir que todas as Leis que
+derivaram de conversão de Medida Provisória e não observaram o
+disposto no art. 62, § 9º, da Carta Magna, desde a edição da Emenda
+nº 32 de 2001, devem ser expurgadas com efeitos ex tunc. [...]
+
+43
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 44 | nativo]]
+
+11. Ação Direta julgada improcedente, declarando-se
+incidentalmente a inconstitucionalidade dos artigos 5º, caput, e 6º,
+caput e parágrafos 1º e 2º, da Resolução nº 1 de 2002 do Congresso
+Nacional, postergados os efeitos da decisão, nos termos do art. 27 da
+Lei 9.868/99, para preservar a validade e a eficácia de todas as
+Medidas Provisórias convertidas em Lei até a presente data, bem
+como daquelas atualmente em trâmite no Legislativo.” (Grifos
+aditados)
+Dessa forma, a Corte reafirmou a importância da Comissão Mista
+para o devido processo legislativo de apreciação de medidas provisórias,
+mantendo, contudo, a validade dos atos normativos editados até o
+julgamento da ADI nº 4029. Como bem definiu o Ministro Gilmar Mendes,
+na ocasião, a prática de ignorar a necessidade de parecer da Comissão
+Mista sobre medidas provisórias se tornou um tipo de Direito Costumeiro,
+só que um “Direito Costumeiro inconstitucional”.
+Na esteira da lição de Clèmerson Merlin Clève, restou assentado que
+o parecer prévio da Comissão assume condição de instrumento
+indispensável para a regularização do processo legislativo, porque
+proporciona discussão da matéria, uniformidade de votação e celeridade
+na apreciação das medidas provisórias. Por essa importância, defende-se
+que qualquer ato, para afastar ou frustrar os trabalhos da comissão ou
+mesmo para substituí-los pelo pronunciamento de apenas um
+parlamentar, padece de inconstitucionalidade.23
+
+Trazendo a lógica do precedente acima ao caso em análise, o que se
+observa? Vê-se aqui que o texto do qual resultou o art. 28 da Lei nº
+13.988/20 simplesmente não foi objeto de parecer pela Comissão Mista de
+Deputados e Senadores, bem como não foi debatido em nenhuma comissão
+dentro das Casas Legislativas, porquanto surgiu no meio da tramitação
+legislativa, através de emenda parlamentar supostamente aglutinativa, no
+Plenário da Câmara.
+
+23 CLÈVE, Clèmerson Merlin. Medidas Provisórias. 3ª ed. São Paulo: RT, 2010. p.
+178-180.
+
+44
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 45 | nativo]]
+
+Para que fique claro, tomando como base emendas distintas, e sem
+convergência ou afinidade alguma em seus conteúdos, a Emenda
+Aglutinativa nº 1, de autoria do Deputado Hildo Rocha, apresentava
+proposta de modificação ao Projeto de Conversão de Lei nº 2, 2020, que, na
+verdade, caracterizava nova emenda, não admissível regimental e
+constitucionalmente.
+Isso porque, no que toca à alteração à Lei nº 10.522, de 19 de julho
+2002, a Emenda Aglutinativa nº 1 nada aproveitava da Emenda nº 9,
+bastando a leitura do quadro comparativo a seguir para essa conclusão:
+
+EMENDA Nº 9 EMENDA
+AGLUTINATIVA Nº 1
+Art. 2° A Lei nº 10.522, de 19 Art. XX – A Lei nº 10.522, de 19
+de julho de 2002, passa a de julho de 2002, passa a
+vigorar com a seguinte vigorar com a seguinte
+alteração: "Art. 19-E. Em caso alteração: “Art. 19-E. Se o
+de empate no julgamento do processo administrativo de
+processo administrativo de determinação e exigência do
+determinação e exigência do crédito tributário resolver-se
+crédito tributário não se favoravelmente à Fazenda
+aplica o voto de qualidade a Nacional, em virtude do voto
+que se refere o do artigo 25 do de qualidade a que se refere
+Decreto nº 70.235, de 6 de o § 9º do artigo 25 do Decreto
+março de 1972, resolvendo-se nº 70.235, de 6 de março de
+favoravelmente ao 1972, a multa de que trata o §
+contribuinte." (NR) 1º do artigo 44 da Lei nº 9.430,
+de 27 de dezembro de 1996
+(multa qualificada), e as
+demais multas de ofício serão
+substituídas pela multa de
+mora conforme o artigo 61 da
+Lei nº 9.430, de 27 de
+dezembro de 1996.” (NR)”
+
+45
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 46 | nativo]]
+
+Com efeito, a Emenda nº 9 determinava que, em caso de solução do
+litígio administrativo em razão da aplicação da regra do art. 25, § 9º, do
+Decreto nº 70.235/72, com as alterações promovidas pela Lei nº 11.941/09,
+em favor da Fazenda Nacional, a multa qualificada prevista pelo art. 44,
+§1º, da Lei nº 9.430/96 e demais multas de ofício (de caráter punitivo),
+deveriam ser substituídas apenas pela multa de mora.
+Já a Emenda Aglutinativa nº 1, que deveria tão somente fundir a
+disposição mencionada com a Emenda nº 162, que tratava da base de
+cálculo e do limite máximo do bônus de produtividade fiscal, aboliu o
+próprio critério de desempate previsto no art. 25, § 9º, do Decreto nº
+70.235/72, tanto em relação à multa de qualquer espécie, quanto em
+relação ao montante principal do tributo. Ou seja, não aglutinou emenda
+alguma, mas, sim, trouxe um novo texto a título de emenda parlamentar,
+fora do prazo previsto, e sem que o mesmo passasse pela análise da
+Comissão Mista, obstando, assim, o devido debate que deveria ter sido
+feito em torno do disposto no art. 28 da Lei nº 13.988/20.
+Frise-se que não se está a questionar mera violação a norma
+regimental, porquanto essa ruptura do processo legislativo na Comissão
+Mista de Deputados e Senadores não se compatibiliza com a garantia
+constitucional da sua devida tramitação e, ademais, viola frontalmente o
+art. 62, §9º, da Constituição Federal. E isto, frise-se, já foi reconhecido pela
+E. Corte em casos semelhantes, como no julgamento da ADI nº 4029.
+Assim, por mais este motivo, resta evidente a tentativa de
+amesquinhar o processo legislativo, ao suprimir o critério de desempate do
+processo administrativo fiscal federal, medida de decisão processual que
+vem sendo aplicada há anos, sem o devido parecer da Comissão Mista
+sobre o referido dispositivo e, consequentemente, sem a necessária
+deliberação democrática em torno do tema.
+
+46
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 47 | nativo]]
+
+3.2 Inconstitucionalidades materiais
+3.2.1 Violação à presunção de legitimidade do ato administrativo
+como corolário do Princípio da Legalidade a que se sujeita a
+Administração Pública. Art. 37, caput, da Constituição Federal. O
+Conselho Administrativo de Recursos Fiscais como Tribunal
+Administrativo sem função jurisdicional.
+Conforme adiantado, nos termos do inciso II, do art. 25, do Decreto
+nº 70.235/72, que regula o processo administrativo fiscal em âmbito federal,
+e do art. 1º, do Anexo I, do Regimento Interno do CARF, aprovado pela
+Portaria MF nº 343, de 9 de junho de 2015, o CARF é órgão colegiado,
+paritário, integrante atualmente da estrutura do Ministério da Economia,
+que tem por finalidade julgar recursos de ofício e voluntário de decisão de
+primeira instância, bem como os recursos de natureza especial, que versem
+sobre a aplicação da legislação referente a tributos administrados pela
+Secretaria da Receita Federal do Brasil.
+A decisão de primeira instância julga a impugnação ao auto de
+infração lavrado pela autoridade fiscal e sua competência fica a cargo das
+Delegacias da Receita Federal de Julgamento, órgãos de deliberação
+interna e de natureza colegiada da Secretaria da Receita Federal, na forma
+do art. 25, inciso I, do Decreto nº 70.235/72. Dessa forma, a apresentação de
+impugnação ao auto de infração instaura a fase litigiosa do processo
+administrativo fiscal (art. 14 do Decreto nº 70.235/72), cujo encerramento
+será dado por decisão final do CARF, em segunda instância e instância
+especial, caso haja interposição de recurso.
+Contudo, não se pode perder de vista que a atividade exercida pelos
+órgãos julgadores em âmbito administrativo, embora resulte na prolação
+de uma decisão, não se confunde com a atividade judicante. Continua a
+Administração, enquanto tal, produzindo atos administrativos como
+resultado do desempenho de suas atividades, sejam elas quais forem.
+
+47
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 48 | nativo]]
+
+E, isto, porque no ordenamento jurídico brasileiro vigora o princípio
+da jurisdição una, cabendo aos órgãos do Poder Judiciário o monopólio da
+função jurisdicional, desde a edição da primeira Constituição da
+República. Dai decorre, como imperativo lógico, o princípio da
+inafastabilidade de jurisdição, consagrado atualmente no inciso XXXV, do
+art. 5º, da Constituição de 1988.
+Nesse ponto, difere o Brasil de outros países que admitem o exercício
+da função jurisdicional por órgãos do Poder Executivo, cabendo-lhe
+decidir em definitivo questões relacionadas com os atos por ele praticados,
+como é o caso da França. Neste país, uma vez considerado o julgamento de
+atos do Poder Executivo pelo Judiciário uma intromissão indevida deste
+último nas atividades independentes daquele, atribuiu-se somente à
+Administração, de forma privativa, a competência para dirimir “questões
+internas”.24 Gradualmente, porém, essa competência administrativa foi
+adquirindo status jurisdicional, resultando na jurisdicionalização do
+autocontrole administrativo.25
+
+24 Nesse sentido: “12. O que hoje conhecemos por "Direito Administrativo"
+nasceu na França. Mais que por leis que regulassem as relações entre Administração e
+administrados, foi sendo construído por obra da jurisprudência de um órgão - Conselho
+de Estado - encarregado de dirimir as contendas que surgissem entre estas duas partes.
+Tal órgão, diga-se de passagem, é alheio ao Poder Judiciário. Estava e está integrado no
+próprio Poder Executivo, a despeito de ter natureza jurisdicional, isto é, de decidir com
+força de coisa julgada. [...]
+13. A evolução histórica responsável por este encaminhamento que afastou o
+Poder Judiciário do exame dos atos administrativos e. que culminou com a instituição
+de uma ‘Jurisdição Administrativa’, criadora do Direito Administrativo, advém de que,
+após a Revolução Francesa, desenvolveu-se naquele país uma singular concepção da
+tripartição do exercício do Poder, segundo a qual haveria uma violação dela se o
+Judiciário controlasse atos provenientes do Executivo.” (MELO, Celso Antônio Bandeira
+de. Curso de Direito Administrativo. 32ª Ed. São Paulo: Editora Malheiros. 2015. p. 37-38)
+25 REDENSCHI, Ronaldo. Processo Administrativo Tributário I, II, e III. In: GOMES,
+Marcus Lívio; ANTONELLI, Leonardo Pietro (Coords.). Curso de Direito Tributário
+Brasileiro, Vol IV. São Paulo: Almedina, 2016. p. 200-201.
+
+48
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 49 | nativo]]
+
+Aqui, no entanto, embora as decisões administrativas promovam a
+auto vinculação da Administração, como desdobramento da segurança
+jurídica, da boa-fé e de outros valores constitucionais, quando fruto de um
+processo administrativo formal em que respeitadas as garantias inerentes
+ao devido processo legal, elas não tem o condão de vincular o Judiciário.
+Essa diferença entre modelos resulta de peculiaridades históricas próprias
+de cada País e da formação dos respectivos Direitos Administrativos.
+Assim, quando se diz que o CARF é um “Tribunal Administrativo”,
+deve-se levar em conta a sua atuação como revisor de atos administrativos,
+no exercício do poder de autotutela de que dispõe o Estado, e não a
+expressão em seu sentido técnico-científico, valendo o mesmo para a
+expressão “contencioso administrativo”, porquanto, apesar de referido
+como “Tribunal”, o CARF não constitui órgão jurisdicional.
+Diz-se revisor de atos administrativos, porque o objeto de exame,
+tanto do CARF quanto das Delegacias da Receita Federal de Julgamento, é
+o ato administrativo de acertamento tributário, definido pelo Código
+Tributário Nacional como “lançamento”, assim tido como “o
+procedimento administrativo tendente a verificar a ocorrência do fato
+gerador da obrigação correspondente, determinar a matéria tributável,
+calcular o montante do tributo devido, identificar o sujeito passivo e, sendo
+caso, propor a aplicação da penalidade cabível” (art. 142).26
+Como ensina Alberto Xavier:
+“O lançamento é, como vimos, um ato de aplicação da norma
+tributária material ao caso concreto. Mas ele ainda se individualiza
+por ser, por natureza, um ato organicamente administrativo, no
+
+26 “Art. 142. Compete privativamente à autoridade administrativa constituir o
+crédito tributário pelo lançamento, assim entendido o procedimento administrativo
+tendente a verificar a ocorrência do fato gerador da obrigação correspondente,
+determinar a matéria tributável, calcular o montante do tributo devido, identificar o
+sujeito passivo e, sendo caso, propor a aplicação da penalidade cabível.
+Parágrafo único. A atividade administrativa de lançamento é vinculada e
+obrigatória, sob pena de responsabilidade funcional.”
+
+49
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 50 | nativo]]
+
+sentido de que é praticado por órgãos integrados na Administração
+ativa, no exercício de uma função administrativa.”27
+A consequência prática disso, como bem reconheceu Aurélio Pitanga
+Seixas Filho, é que, sendo um ato jurídico praticado por uma autoridade
+administrativa no estrito cumprimento de sua competência outorgada ou
+delegada por uma lei, o regime jurídico que regula o seu comportamento é
+o de direito administrativo, assim como é a lei processual que rege a função
+do Juiz, a quem compete dirimir os conflitos de interesse.28
+Essa reflexão é imprescindível para compreensão da questão que ora
+se coloca à apreciação do STF sob o prisma material, pois, sendo os
+julgamentos administrativos processos de revisão de atos administrativos,
+está-se no âmbito de aplicação da teoria dos atos administrativos.
+A Administração tributária pratica tanto atos administrativos
+primários, quanto atos administrativos secundários. Os primeiros referem-se
+ao lançamento em si, em que a autoridade fiscal aplicando a lei à hipótese
+concreta, declara o surgimento da obrigação tributária; enquanto os
+últimos referem-se à apreciação da legalidade dos atos jurídicos primários
+praticados pelos órgãos de lançamento, em razão de impugnação
+administrativa. Ambos, porém, são regidos pela teoria dos atos
+administrativos e gozam de todos os atributos dos atos praticados pela
+Administração Pública, dentre eles, o da presunção de legitimidade.29
+
+27 XAVIER, Alberto. Do Lançamento no Direito Tributário Brasileiro. 3ª Ed. Rio de
+Janeiro: Forense, 2005. p. 63.
+28 SEIXAS FILHO, Aurélio Pitanga. Princípio do Procedimento Administrativo para o
+Controle da Legalidade do Lançamento Tributário. In: GOMES, Marcus Lívio; ANTONELLI,
+Leonardo Pietro (Coords.). Curso de Direito Tributário Brasileiro, Vol IV. São Paulo:
+Almedina, 2016. p. 177.
+29 Nesse sentido: “Os atos administrativos, quando editados, trazem em si a
+presunção de legitimidade, ou seja, a presunção de que nasceram em conformidade com
+as devidas normas legais, como bem anota DIEZ. Essa característica não depende de lei
+expressa, mas deflui da própria natureza do ato administrativo, como ato emanado de
+agente integrante da estrutura do Estado.
+
+50
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 51 | nativo]]
+
+Jose Juan Ferreiro Lapatza leciona que “el ordenamento jurídico dota a
+los actos administrativos tributários, como todos los actos administrativos, de una
+presunción de legalidade. Los actos administrativos tributários se presumen
+legítimos, y en virtude de esta presunción son imediatamente ejecutables.”30
+Observe-se que isso não significa que a Administração, como parte
+no processo administrativo, possa ser parcial. Mas, ao contrário, é
+justamente por limitar a sua atuação ao campo das atividades estritamente
+permitidas por lei, sobretudo, no campo da tributação, que a
+Administração deve sempre buscar a realização dos objetivos legais,
+agindo com imparcialidade. Imparcialidade no sentido de “desinteresse”
+que, por força de lei, a Administração fiscal, como sujeito do procedimento,
+tem de revelar quanto ao interesse formal do Estado.31
+Nas palavras de José Souto Maior Borges:
+“A atuação do Fisco no procedimento administrativo tributário é
+imparcial. Porque nele o Fisco persegue, como se disse, a descoberta
+da verdade material, é então indiferente ao objeto do processo sejam
+os fatos apurados ‘favoráveis’, e.g. a constatação do débito
+tributário, ou ‘desfavoráveis ao Fisco, tal como sucede com a
+verificação administrativa da inexistência de débito ou da ocorrência
+dos pressupostos legais para o desfrute de uma isenção tributária.”32
+
+Vários são os fundamentos dados a essa característica. O fundamento precípuo,
+no entanto, reside na circunstância de que se cuida de atos emanados de agentes
+detentores de parcela do Poder Público, imbuídos, como é natural, do objetivo de
+alcançar o interesse público que lhes compete proteger. Desse modo, inconcebível seria
+admitir que não tivessem a aura de legitimidade, permitindo-se que a todo momento
+sofressem algum entrave oposto por pessoas de interesses contrários. Por esse motivo é
+que se há de supor que presumivelmente estão em conformidade com a lei.”
+(CARVALHO FILHO, José dos Santos. Manual de direito administrativo. 30ª Ed. – São
+Paulo: Atlas, 2016. p. 192-193)
+30 LAPATZA, Jose Juan Ferreiro. Curso de Derecho Financiero Español. 12ªed.
+Madrid: Marcial Pons, 1990. p. 695.
+31 XAVIER, Alberto. Do Lançamento no Direito Tributário Brasileiro. 3ª Ed. Rio de
+Janeiro: Forense, 2005. p. 172.
+32 BORGES, José Souto Maior. Lançamento Tributário. RJ: Forense, 1981. p. 108.
+
+51
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 52 | nativo]]
+
+Assim, a atuação do órgão fiscal na cobrança dos tributos a seu
+encargo não envolve qualquer interesse próprio das autoridades fiscais,
+nem é o exercício de um direito subjetivo do órgão fiscal, que também não
+é parte credora de uma relação jurídica. A função administrativa tributária
+que deve ser exercida pela autoridade fiscal exige a obediência ao princípio
+da legalidade objetiva, em que o tributo será tornado líquido e certo nos
+exatos termos da lei.
+É, portanto, do Princípio da Legalidade a que se sujeitam os atos
+praticados pela Administração que se extrai a sua presunção de
+legitimidade e a própria imparcialidade da autoridade administrativa (art.
+37, caput, da Constituição Federal).33
+
+Na lição de Hely Lopes Meireles e José Emmanuel Burle Filho:
+“Os atos administrativos, qualquer que seja sua categoria ou espécie,
+nascem com a presunção de legitimidade, independentemente de
+norma legal que a estabeleça. Essa presunção decorre do princípio da
+legalidade da Administração (art. 37 da CF), que, nos Estados de
+Direito, informa toda a atuação governamental. Daí o art. 19, II, da
+CF proclamar que não se pode ‘recusar fé aos documentos
+públicos’.”34
+Esta presunção, no entanto, não se afigura absoluta, podendo ser
+ilidida mediante prova em contrário. No caso do processo administrativo
+fiscal, a prova em contrário faz-se mediante a apresentação de impugnação
+ao lançamento por parte do contribuinte, quando, então, a autoridade
+julgadora, in casu, a Delegacia de Julgamento, poderá rever o ato praticado
+
+33 Nesse ponto, Leonardo Perrone, expressamente, coloca a atuação imparcial da
+autoridade administrativa como decorrência do princípio da legalidade, sendo, também,
+a imparcialidade administrativa, um princípio constitucional, não só no ordenamento
+italiano, como em outros, em razão da evolução do Estado Liberal para o Estado Social.
+(PERRONE, Leonardo. Discricionlitá e Norma Interna Nell´Imposizione Tributaria, Milano:
+Giuffrè, 1969. p. 12-14.
+
+34 MEIRELLES, Hely Lopes; BURLE FILHO, José Emmanuel. Direito
+Administrativo Brasileiro. 42ª Ed. São Paulo: Editora Malheiros, 2016. p. 182.
+
+52
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 53 | nativo]]
+
+em desacordo com a lei, ou mantê-lo, submetendo-se a respectiva decisão
+ao duplo grau obrigatório também em sede administrativa.
+Dado que o exercício da atividade administrativa baseia-se no
+império da lei, o Conselho Administrativo de Recursos Fiscais, ao exercer
+o duplo grau obrigatório no processo administrativo federal, não pode
+simplesmente deixar de aplicar a lei, ainda que sob o argumento de sua
+inconstitucionalidade. É o que reza, inclusive, o art. 26-A do Decreto nº
+70.235/72, com as alterações promovidas pela Lei nº 11.941/09, à exceção
+dos casos em que o Judiciário já tenha declarado a inconstitucionalidade
+do ato normativo ou que haja parecer interno vinculante ou súmula,
+editados pela Advocacia Geral da União, ou ainda ato declaratório do
+Procurador geral da Fazenda Nacional.35 Nesse sentido:
+“Toda lei está revestida de presunção de constitucionalidade. Cabe
+ao Poder Executivo cumprir não só as leis como a Constituição.
+Porém, não cabe aos agentes administrativos subordinados deixar
+de aplicar a lei porque, a seu juízo, há uma inconstitucionalidade.
+
+35 “Art. 26-A. No âmbito do processo administrativo fiscal, fica vedado aos órgãos
+de julgamento afastar a aplicação ou deixar de observar tratado, acordo internacional,
+lei ou decreto, sob fundamento de inconstitucionalidade. (Redação dada pela Lei nº
+11.941, de 2009)
+§ 6o O disposto no caput deste artigo não se aplica aos casos de tratado, acordo
+internacional, lei ou ato normativo: (Incluído pela Lei nº 11.941, de 2009)
+I – que já tenha sido declarado inconstitucional por decisão definitiva plenária do
+Supremo Tribunal Federal; (Incluído pela Lei nº 11.941, de 2009)
+II – que fundamente crédito tributário objeto de: (Incluído pela Lei nº 11.941, de
+2009)
+a) dispensa legal de constituição ou de ato declaratório do Procurador-Geral da
+Fazenda Nacional, na forma dos arts. 18 e 19 da Lei no 10.522, de 19 de julho de 2002;
+(Incluído pela Lei nº 11.941, de 2009)
+b) súmula da Advocacia-Geral da União, na forma do art. 43 da Lei
+Complementar no 73, de 10 de fevereiro de 1993; ou (Incluído pela Lei nº 11.941, de 2009)
+c) pareceres do Advogado-Geral da União aprovados pelo Presidente da
+República, na forma do art. 40 da Lei Complementar nº 73, de 10 de fevereiro de 1993.
+(Incluído pela Lei nº 11.941, de 2009)”
+
+53
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 54 | nativo]]
+
+Se a autoridade administrativa entende que determinada lei é
+inconstitucional, cabe-lhe sobrestar o julgamento e representar o
+Chefe do Poder Executivo suscitando a questão que julga
+pertinente.”36
+Dentro dessa mesma lógica, a Fazenda Nacional tem evidente
+dificuldade de questionar judicialmente as decisões finais proferidas pelo
+CARF, posto faltar-lhe na hipótese o indispensável interesse de agir, já que
+ninguém pode ir a Juízo contra ato próprio.
+Por isso, as decisões finais deste órgão fazem, assim, coisa julgada para
+a Administração. Não se trata, com isso, de simplesmente pretender
+transpor o instituto da coisa julgada do processo judicial para o âmbito
+administrativo, eis que tal fato implicaria em ignorar a já mencionada
+unidade de jurisdição, como reflexo do princípio da inafastabilidade da
+apreciação judicial. Trata-se, em verdade, de afirmar a autoridade das decisões
+finais proferidas pela Administração Pública, sob o crivo do contraditório e da
+ampla defesa, como corolários do devido processo legal.
+Como afirmam Egon Bockmann Moreira e Gabriel Jamur Gomes:
+“A simples existência de feito conduzido por autoridade
+administrativa, que observe a publicidade, o contraditório, a ampla
+defesa e o devido processo legal, é apta a gerar presunção de
+confiança legítima ao particular quanto aos atos praticados e às
+decisões de mérito que criem direitos. Seria incompatível com o
+princípio em tela o indivíduo participar de relação processual
+perante a administração, apresentar suas razões, participar de
+instrução probatória, acompanhar a tramitação, despender recursos
+para tanto, para, ao final, a decisão de mérito que lhe for favorável
+
+36 GRECO, Marco Aurélio. In: MARTINS, Ives Gandra (Coord.). Processo
+Administrativo Tributário, Vol. 5. São Paulo: Ed. Revista dos Tribunais, 1999. p. 608.
+
+54
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 55 | nativo]]
+
+não estar protegida por qualquer grau de estabilidade para além da
+mera preclusão.”37
+Quando a Administração Pública desrespeita as suas próprias
+decisões, ela descredita a autoridade do processo administrativo e, no caso,
+do processo administrativo fiscal. Ou, como consta da Súmula nº 473 do
+STF, “A Administração pode anular seus próprios atos, quando eivados de vícios
+que os tornam ilegais, porque deles não se originam direitos; ou revogá-los, por
+motivo de conveniência ou oportunidade, respeitados os direitos adquiridos, e
+ressalvada, em todos os casos, a apreciação judicial.”38
+Veja-se, portanto, que a estrutura do processo administrativo fiscal
+possui uma lógica compatível com a presunção de legitimidade dos atos
+administrativos e, via de consequência, com o Princípio da Legalidade que
+rege a atividade da Administração Pública (art. 37, caput, da Constituição
+Federal), não permitindo que esta última possa ir ao Judiciário para
+manifestar mera inconformidade com as decisões finais de seus órgãos
+julgadores, integrantes de sua estrutura hierárquica.
+Ao mesmo tempo, permite-se que o ato administrativo, enquanto
+não for objeto de contestação judicial por parte do administrado, se
+presuma legítimo, porquanto baseado em lei formal, cuja
+constitucionalidade além de presumida não pode ser suscitada no âmbito
+administrativo, sob pena de usurpação da função do Poder Judiciário.
+É justamente dentro do contexto maior do processo administrativo
+fiscal como um todo, incluindo a composição dos órgãos julgadores e seus
+possíveis desdobramentos judiciais, que deve ser analisado o critério de
+desempate dos julgamentos administrativos em âmbito federal.
+
+37 MOREIRA, Egon Bockmann; GOMES, Gabriel Jamur. A indispensável coisa
+julgada administrativa. Revista de Direito Administrativo, vol. 277, nº 02, Rio de Janeiro,
+maio/agosto de 2018, p. 255.
+38 STF, Súmula nº 473, Sessão Plenária de 03/12/1969.
+
+55
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 56 | nativo]]
+
+Como o subscritor desta peça já teve a oportunidade de assentar há
+algum tempo atrás39, não pode haver jurisdição onde não seja afirmada a
+independência e isenção dos julgamentos e, no caso dos processos
+administrativos, ainda que a atividade julgadora não se confunda com a
+função jurisdicional, isso não é diferente.
+
+3.2.2 Violação ao Princípio da Prevalência do Interesse Público
+sobre o Privado inerentes às decisões do Conselho Administrativo
+de Recursos Fiscais: os fundamentos que informam a paridade
+Importa bem compreender que o chamado “voto de qualidade” não é
+mais do que o equivalente a outras técnicas de decisão quando não se
+obtém maioria, diante de empates, como se verifica no próprio Supremo
+Tribunal Federal, ou mesmo no chamado “voto médio”, nos casos de
+dispersão de votos dos tribunais.
+Outro aspecto fundamental a ser assentado é que a paridade dos
+julgadores, em si mesma, é uma evidência de democratização do poder
+decisório de um tribunal administrativo que se ocupa de decidir conflitos
+em matéria de tributos federais. A Constituição não estabelece a paridade
+ou mesmo que as decisões colegiadas em matéria tributária sejam tomadas
+por juízes indicados pelos contribuintes. Esta foi uma opção histórica do
+legislador e da Administração Tributária do nosso País. Logo, como outros
+tribunais administrativos, poderia ser formado unicamente por
+autoridades provenientes dos quadros da Administração.
+
+Neste sentido, a paridade é um fator de flexibilidade da prevalência da
+vontade exclusiva da Administração Tributária, ao tempo que se presta a
+integrar a composição com membros que representam os contribuintes.
+
+39 TORRES, Heleno Taveira. Processo administrativo fiscal é garantia constitucional
+insuprimível. Revista Eletrônica Consultor Jurídico. 13 de maio de 2015. Disponível em
+https://www.conjur.com.br/2015-mai-13/consultor-tributario-processo-administrativo-
+fiscal-garantia-constitucional-insuprimivel
+
+56
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 57 | nativo]]
+
+Dada a paridade, no caso de empate, justifica-se a solução com
+prevalência do interesse público sobre o privado, que tradicionalmente
+consistiu em atribuir ao Presidente, representante da Fazenda Pública, a
+titularidade de motivação e voto pelo desempate. E sem qualquer
+impedimento para que o faça em favor do contribuinte.
+Este modelo de decisão tem a virtude de preservar o direito do
+contribuinte de acesso ao Poder Judiciário, como direito fundamental (art.
+5º, XXXV da CF), para que possa deduzir, perante um terceiro imparcial, o
+Estado Juiz, sua pretensão por uma tutela judicial definitiva. Ao mesmo
+tempo, queda-se assegurado o direito material de prevalência do interesse
+público sobre o tributo, que se submeterá aos exames de legalidade e de
+constitucionalidade da exação pelas instâncias judiciais.
+Ora, a novidade do art. 28 da Lei nº 13.988/20 está em modificar este
+critério de decisão e, além de manter a paridade, no caso de empate,
+atribuir efeitos de decisão automática em favor do contribuinte, com
+extinção do crédito tributário, logo, não apenas restrito às multas
+tributárias, ao amparo do art. 112 do Código Tributário Nacional, mas com
+alcance inclusive sobre o montante do principal, ou seja, do tributo devido.
+Diante disso, inverte-se a ordem de prevalência do interesse público
+para o interesse privado, sem que seja dada a oportunidade de acesso da
+Fazenda Nacional ao Poder Judiciário, em virtude da eficácia preclusiva
+do art. 156, IX do Código Tributário Nacional.
+A relevância, porém, para desconstituição desse vício legislativo, é
+notória, até mesmo em função dos valores em litígio no CARF, cuja solução
+foi dada através do voto de qualidade do Presidente, no âmbito das
+Turmas ou da Câmara Superior de Recursos, nos últimos três anos, na
+ordem de aproximadamente 248 (duzentos e quarenta e oito) bilhões. O
+mesmo se diga em relação à expectativa dos julgamentos para este ano de
+2020 (aproximadamente R$ 29 bilhões, c.f. informações fornecidas pelo
+Ministério da Economia, por meio de resposta à solicitação nº
+03006.007183/2020-84, na forma da “Lei de Acesso à Informação”, Lei nº
+12.527/2011 – doc.11).
+
+57
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 58 | nativo]]
+
+É precisamente neste ponto que reside a comprovação cabal da falta
+de nexo causal entre a MP nº 899/19 e o art. 28 da Lei nº 13.988/20. Inverteu-
+se um critério de solução de empates em favor do contribuinte, presente
+em nosso ordenamento por mais de 80 anos, sem qualquer pertinência
+temática com a transação tributária ou mesmo com a urgência relacionada
+com soluções para a grave crise econômica que nos acompanha.
+A experiência internacional dos tribunais administrativos em matéria
+tributária é muito rica e confirma os fundamentos do direito constitucional
+ao contraditório e à ampla defesa com garantias típicas de juízes para os
+julgadores tributários.
+Quanto à composição, na maioria dos Países, o Tribunal
+Administrativo é integrado estritamente por membros da Administração
+Tributária (Estados Unidos, Espanha), por julgadores que são indicados e
+com mandatos temporários (Alemanha) ou por juízes com concursos
+especializados (Portugal, Itália, Argentina). Na maioria, a independência
+vê-se alcançada com autonomia funcional e garantias como estabilidade,
+inamovibilidade, irredutibilidade de salários e outros direitos assegurados
+aos membros, de forma continuada ou por certo período. Nestes casos, pela
+prevalência do interesse público, as decisões são tomadas sem qualquer
+paridade e a decisão é tomada por maioria.
+No Brasil, porém, tem-se que reconhecer o avanço institucional da
+paridade dos julgadores representantes do Fisco e dos contribuintes como
+evidência de efetividade do princípio democrático no processo
+administrativo tributário. Isto, porém, não pode implicar o efeito de que,
+em caso de empate, todas as decisões sejam tomadas, de forma automática,
+em favor do contribuinte, com extinção do crédito tributário, neste
+incluídos tributo, juros e multas.
+Se o Brasil é um Estado Democrático de Direito, a democracia deve ser
+uma prática permanente e contínua entre os poderes, incluídos os órgãos
+decisórios e as formas de deliberação das autoridades, tanto mais quando
+se trata do maior compromisso republicano, que é o pagamento e
+adequado emprego dos “tributos”.
+
+58
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 59 | nativo]]
+
+Ora, ao tempo que a nossa Constituição pugna por um Estado
+Democrático de Direito, no Preâmbulo e no seu artigo 1º, não se pode
+apregoar modelo diferente, cabendo, sim, o dever de sua concretização, na
+feição de “Estado dos direitos”.
+Democracia não é termo desprovido de conteúdo, mas a própria
+essência do nosso constitucionalismo. Por isso, todo aquele que se dedica
+ao estudo ou à prática dos tributos deve ser um ardoroso defensor da
+democracia e perseguir continuamente seu pleno exercício em todas as
+suas etapas: instituição, arrecadação e cobrança dos tributos.
+A administração tributária do Estado democrático de Direito tem que
+ser participativa, da qual o contribuinte deva se sentir parte, o que se impõe
+cada vez mais, até pelo modo como a legislação tem transferido
+responsabilidades e quase todo o dever de interpretar e aplicar normas
+tributárias antes de qualquer atuação de autoridades fiscais.
+A democracia da composição dos órgãos de decisão, porém, não pode
+implicar desconfianças sobre o motivo para o resultado dos julgamentos
+dos colegiados paritários. Muito menos que se preste a uma negação ao
+princípio da prevalência do interesse público sobre os interesses privados,
+por uma renúncia automática ao crédito tributário, como se verifica com o
+critério do art. 28 da Lei nº 13.988/20.
+Nos dias atuais tem sido comum certa confusão entre “interesse
+público” e “razões de Estado”.40 O interesse público, porém, é decorrência
+inexorável do princípio republicano (art. 1º da Constituição) e sua
+prevalência como medida para apreciação nas decisões administrativas,
+sem que isso resulte em imposição automática na forma de in dubio pro
+fiscum, ao nosso ver, apenas corrobora os valores da distribuição
+constitucional de competências e da indisponibilidade do tributo.
+
+40 CANOTILHO, José Joaquim Gomes. Constituição dirigente e vinculação do
+legislador: contributo para a compreensão das normas constitucionais programáticas. 2. ed.
+Coimbra: Coimbra Ed., 2001. p. 252. Cf. ainda: MACHADO, Raquel Cavalcanti
+Ramos. Interesse público e direitos do contribuinte. São Paulo: Dialética, 2007.
+
+59
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 60 | nativo]]
+
+É indiscutível que a segurança jurídica do constitucionalismo do
+Estado Democrático de Direito recusa qualquer valia à fundamentação da
+exigência de tributos com base na razão de Estado. Isto, porém, não se presta
+para afastar a prevalência do interesse público em casos como o presente.
+O interesse público será sempre o que concerne aos valores do coletivo.
+O princípio do interesse público é relativo e sua natureza normativa,
+essencialmente principiológica, deve levar o intérprete à ponderação entre
+interesses individuais e interesses coletivos nos casos em que a
+Constituição não o fez de forma objetiva e vinculante.
+No Brasil, infelizmente, o sentimento de Estado nunca foi bem
+compreendido. Importamos dos modelos europeus e americanos quase
+todos os valores da tradição do État de Droit, do Rule of Law ou do
+Rechtsstaat, numa síntese complexa onde o interesse público parece
+confundir-se com “autoritarismo”. Não. Conforme a Constituição de 1988,
+o interesse público deve ser compreendido a partir do princípio do Estado
+Democrático de Direito e visa a proteger os bens coletivos, sem que isso
+interfira com qualquer decisão a priori em favor do Fisco ou contra legem.
+A democracia é essencial à construção de um verdadeiro Estado
+Democrático de Direito, pois, na sua ausência, a concentração totalitário-
+decisionista logra espaço no exercício do poder. Não é, pois, despiciendo o
+adjetivo de “democrático” ao Estado de Direito e, menos ainda, sua
+aplicação ao processo administrativo. Contudo, o modelo decisório do art.
+28 da Lei nº 13.988/20 inverte esta lógica para uma decisão definitiva com
+prevalência do interesse particular sobre o coletivo, o que igualmente
+contraria frontalmente o princípio do Estado Democrático de Direito.
+No âmbito do Conselho Administrativo de Recursos Fiscais, a
+composição paritária é o modelo que melhor atende a esse propósito, na
+medida em que estimula uma espécie de autocontrole interno, que leva à
+construção de decisões no embate das teses contrapostas.
+
+60
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 61 | nativo]]
+
+Não obstante, essa paridade na composição do CARF não decorre de
+mandamento constitucional e nem representa uma obrigatoriedade a ser
+observada nos julgamentos administrativos.
+A composição paritária representa, pois, uma concessão democrática do
+processo administrativo fiscal federal, em direção à construção de um canal de
+participação da sociedade civil no processo de acertamento tributário.
+Esse modelo paritário de composição do órgão julgador
+administrativo em âmbito federal inspira, inclusive, os modelos de
+estruturação dos tribunais administrativos a nível estadual e municipal e é
+visto, por muitos, como um gérmen possível para o desenvolvimento de
+uma “Corte Arbitral” no País.41
+
+Como dito acima, é longa a tradição de composição paritária dos
+tribunais administrativos tributários. No regime republicano brasileiro,
+vem desde o projeto de Código Aduaneiro de 1928, preparado por uma
+comissão constituída em 1922, que inspirou sua extensão para o
+julgamento dos recursos relativos a todos os impostos federais, conforme
+autorizado pelo Decreto nº 5.157 de 12 de janeiro de 1927.42
+
+41 É o caso de Aurélio Pitanga Seixas Filho in Arbitragem em Direito Tributário.
+Revista da EMERJ, v. 11, nº 43, 2008.
+42 “O Presidente da República dos Estados Unidos do Brasil:
+Faço saber que o Congresso Nacional decretou e eu sanciono a seguinte
+resolução: Art. 1°: Fica o Governo autorizado a rever os regulamentos as Repartições
+Fiscais subordinadas ao Ministério da Fazenda, para o fim especial e exclusivo de
+estabelecer que os recursos dos contribuintes em matéria fiscal, sobretudo no tocante aos
+impostos de consumo, sejam julgados e resolvidos por um Conselho constituído em
+partes iguais, por funcionários da Administração Pública e por contribuintes, nomeados
+estes pelo Governo por proposta das principais associações de classe, representativas do
+comércio e da indústria, o qual funcionará sob a presidência do Ministro da Fazenda ou
+da autoridade fiscal por este designada.
+Parágrafo único: As deliberações do Conselho não poderão obrigar as decisões
+finais do Ministro da Fazenda, sempre que este não se conformar com aquelas
+deliberações.”
+
+61
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 62 | nativo]]
+
+Somente em 1931 foi criado o “Conselho de Contribuintes” para
+decidir em segunda instância os recursos sobre questões fiscais federais,
+pelo Decreto nº 20.350, de 31 de agosto de 1931, cabendo ao Representante
+da Fazenda Nacional recorrer ao Ministro da Fazenda quando a decisão
+fosse manifestamente contrária à lei ou à prova constante do procedimento
+administrativo, ou não houvesse obtido votação unânime.
+Posteriormente, pelo Decreto nº 24.036 de 26 de março de 1934, o
+“Conselho de Contribuintes” foi desdobrado em três, sendo o primeiro
+para decidir questões sobre o imposto de renda, imposto de selo e imposto
+sobre vendas mercantis; o segundo sobre questões do imposto de
+consumo, taxas e contribuições internas; cabendo ao Conselho Superior de
+Tarifa as questões aduaneiras. Esta estrutura deu origem, em seguida, ao
+atual Conselho Administrativo de Recursos Fiscais, criado pelo Decreto nº
+70.235, de 6 de março de 1972, recepcionado pela Constituição de 1998 com
+força de lei, e alterado pela Lei nº 11.941/09.
+O voto de qualidade nasce, assim, umbilicalmente ligado à
+composição paritária do Conselho, previsto originalmente em regimento e,
+após a Medida Provisória nº 449/08, passou a integrar o §9º, do art.25, do
+Decreto nº 70.235/72.43 Não se qualifica propriamente como espécie de “in
+
+43 “Art. 25. § 1o O Conselho Administrativo de Recursos Fiscais será constituído
+por seções e pela Câmara Superior de Recursos Fiscais.
+§ 2o As seções serão especializadas por matéria e constituídas por câmaras.
+§ 3o A Câmara Superior de Recursos Fiscais será constituída por turmas,
+compostas pelos Presidentes e Vice-Presidentes das câmaras.
+§ 4o As câmaras poderão ser divididas em turmas.
+§ 5o O Ministro de Estado da Fazenda poderá criar, nas seções, turmas especiais,
+de caráter temporário, com competência para julgamento de processos que envolvam
+valores reduzidos, que poderão funcionar nas cidades onde estão localizadas as
+Superintendências Regionais da Receita Federal do Brasil.
+§ 6o (VETADO) (Incluído pela Lei nº 11.941, de 2009)
+§ 7o As turmas da Câmara Superior de Recursos Fiscais serão constituídas pelo
+Presidente do Conselho Administrativo de Recursos Fiscais, pelo Vice-Presidente, pelos
+Presidentes e pelos Vice-Presidentes das câmaras, respeitada a paridade.
+
+62
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 63 | nativo]]
+
+dubio pro fiscum”, e sim, como regra atinente ao processo decisório em
+âmbito administrativo, que considera vencedora a corrente integrada pelo
+Presidente da Câmara ou da Turma Julgadora.44
+Fato incontestável é admitir que a paridade torna as votações mais
+suscetíveis de empate do que a composição em número ímpar de
+membros, por exemplo. Daí a necessidade de vir acompanhada por um
+critério de desempate nos julgamentos, o que no CARF corresponde ao
+“voto de qualidade”, reservado ao Presidente do colegiado.
+Deveras, dado que a Presidência das Câmaras e das Turmas são
+cargos ocupados por Conselheiros representantes da Fazenda Nacional,
+isto não necessariamente implica ser o seu voto favorável ao Fisco , tanto
+assim que se estima que mais de 25 % (vinte e cinco por cento) dos votos
+de qualidade em 2019, e cerca de 40% (quarenta por cento) até fevereiro de
+2020, foram favoráveis aos contribuintes.45
+
+§ 8o A presidência das turmas da Câmara Superior de Recursos Fiscais será
+exercida pelo Presidente do Conselho Administrativo de Recursos Fiscais e a vice-
+presidência, por conselheiro representante dos contribuintes.
+§ 9o Os cargos de Presidente das Turmas da Câmara Superior de Recursos
+Fiscais, das câmaras, das suas turmas e das turmas especiais serão ocupados por
+conselheiros representantes da Fazenda Nacional, que, em caso de empate, terão o
+voto de qualidade, e os cargos de Vice-Presidente, por representantes dos
+contribuintes. (Grifos aditados)
+44 Como afirmou o Ministro Marco Aurélio, ao votar a questão de ordem no RE
+nº 631.102: “Presidente, hoje me defrontei com um artigo no Correio Braziliense, citando
+situações, no âmbito internacional, relativamente a Tribunais reconhecido pelo Brasil,
+em que existe o voto de qualidade. Não participei – estive ausente – da sessão em que se
+aprovou, para inserção no Regimento Interno, a regra. Mas, se tivesse participado, e já
+havia me manifestado assim, votaria a favor dessa regra, entendendo-a a como a revelar
+a prevalência não do duplo voto do Presidente, mas da corrente, no caso de empate, a
+que integrado o Presidente da Corte. (Pleno, RE nº 631.102-QO, Relator Ministro Joaquim
+Barbosa, j. 27/10/20, DJ 20/06/11, p. 327 do acórdão)
+45 DANIEL NETO, Carlos Augusto; RIBEIRO, Diego Diniz. O voto de qualidade não
+é problema do Carf. Revista Eletrônica Consultor Jurídico, 1º de abril de 2020. Disponível
+em: https://www.conjur.com.br/2020-abr-01/direto-carf-voto-qualidade-nao-problema-
+carf
+
+63
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 64 | nativo]]
+
+Além disso, o critério de desempate pelo “voto de qualidade” não se
+apresenta como algo teratológico, como alguns pretendem fazer crer.
+Diversamente, está presente em distintas formas de jurisdição e em muitos
+dos Tribunais do Poder Judiciário, inclusive nesta E. Corte (art. 13, IX, do
+Regimento Interno do STF)46.47
+Seja como for, não se pretende aqui exercer uma defesa de qualquer
+critério, e nem apontar o que se pode considerar como “o melhor” critério
+que poderia ter sido escolhido pelo legislador, pois este não é o objeto da
+presente ação e sequer compete assim proceder, mas demonstrar que o
+critério trazido pelo art. 28 da Lei nº 13.988/20 não pode ser aplicado,
+porque é manifestamente inconstitucional.
+
+A bem da verdade, o art. 28 da Lei nº 13.988/20 não se afirma sequer
+como um critério de solução de impasse no julgamento, mas de disposição
+normativa que anula o próprio julgamento administrativo paritário, tornando
+inócuos todos os esforços em direção à composição do litígio até então efetuados.
+Extingue automaticamente o crédito tributário, sem qualquer licença para
+que outra autoridade possa decidir pelo desempate.
+
+46 “Art. 13. São atribuições do Presidente: […]
+IX - proferir voto de qualidade nas decisões do Plenário, para as quais o
+Regimento Interno não preveja solução diversa, quando o empate na votação decorra de
+ausência de Ministro em virtude de: a) impedimento ou suspeição; b) vaga ou licença
+médica superior a trinta dias, quando seja urgente a matéria e não se possa convocar o
+Ministro licenciado.”
+47 Exemplificativamente: STJ, art. 21, VI e art. 24, I, do Regimento Interno; TST,
+art. 124 do Regimento Interno; TSE, art. 9º, alínea c, do Regimento Interno. No direito
+comparado, pode-se referir ao art. 90 da Lei Orgânica do Tribunal Constitucional
+espanhol, prevendo o voto de desempate do presidente. Em adição, há ao menos duas
+previsões no direito alemão. De um lado, o Código dos Tribunais Administrativos
+(Verwaltungsgerichtsordnung) prevendo que o voto do presidente será usado para o
+desempate no Tribunal Federal Administrativo (§ 11). De outro lado, a lei do processo
+administrativo (Verwaltungsverfahrengesetz) prevendo que em comissões específicas,
+quando o presidente tiver direito de voto, seu voto desempatará; caso não o possua, o
+empate significará que o procedimento foi negado (§ 91). (ADAMY, Pedro. Voto de
+Qualidade no CARF – Violação ao Critério Paritário. Considerações de Lege Ferenda.
+Revista Direito Tributário Atual, nº 37, São Paulo, p.363-385.)
+
+64
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 65 | nativo]]
+
+Pior do que isso: a proposta do art. 28 da Lei nº 13.988/20
+simplesmente inverte a presunção constitucional de legitimidade dos atos
+administrativos como decorrência do Princípio da Legalidade da Administração
+(art. 37, caput, da Constituição Federal), ao prever que, em caso de empate, a
+vitória será necessariamente da tese defendida pelo contribuinte,
+extinguindo-se o crédito tributário em discussão (principal, multa e juros).
+E, com isso, consequentemente, aniquila o princípio republicano de
+prevalência do interesse público sobre o privado.
+Por este princípio republicano, impõe-se presumir a legitimidade do
+lançamento tributário, ato administrativo vinculado, e não o contrário.
+Ora, o §9º, do art. 25, do Decreto nº 70.235/72, que previu o voto do
+Presidente do colegiado como critério procedimental de desempate, não
+impôs derrota automática ao contribuinte, ao presumir, de antemão, a
+vitória do Fisco. Deixou para o Presidente decidir. Entretanto, mesmo
+quando a decisão é desfavorável ao contribuinte, este tem sempre o direito
+fundamental de acesso ao Poder Judiciário para deduzir sua pretensão.
+Inconteste, esta nova regra abala a composição paritária e
+democrática do CARF. Anula-se, com isso, um dos mais bem sucedidos
+intentos de cooperação e participação procedimental entre fisco e
+contribuintes que o ordenamento jurídico brasileiro logrou promover. Para
+além da falta da razoabilidade e da desproporcionalidade do art. 28 da Lei
+nº 13.988/20 desrespeita diretamente os art. 1º e 37, caput, da Constituição
+Federal, ao afrontar os princípios republicano e democrático do Estado
+constitucional brasileiro, e, igualmente, toda a lógica que embasa a teoria
+dos atos administrativos, motivo pelo qual não pode prosperar, por todas as
+razões de inconstitucionalidades formais e materiais aqui assinaladas.
+
+65
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 66 | nativo]]
+
+4. SUCESSIVAMENTE: O efeito dúplice da ação direta de
+inconstitucionalidade e a necessidade de manifestação
+uniformizadora desta Corte Suprema quanto à aplicabilidade do
+novo critério de desempate. Art. 5º, XXXVI, da Constituição
+Federal.
+A título subsidiário, considerando o caráter dúplice ou ambivalente da
+ação direta de inconstitucionalidade, reforçado pelo art. 24 da Lei nº
+9.868/99, ao afirmar que proclamada a constitucionalidade, julgar-se-á
+improcedente a ação direta ou procedente eventual ação declaratória; e, proclamada
+a inconstitucionalidade, julgar-se-á procedente a ação direta ou improcedente
+eventual ação declaratória, em caso de reputarem-se improcedentes as
+alegações anteriores, indispensável o acolhimento deste pleito alternativo.
+Isso porque, apesar de ser recente a existência da regra do art. 28 da
+Lei nº 13.988/20 no ordenamento jurídico brasileiro, ela tem suscitado
+fundadas controvérsias doutrinárias quanto à sua aplicabilidade, em
+função da natureza que possui.
+Se meramente procedimental, de caráter processual, como nos
+parece mais adequado, aplicar-se-á imediatamente aos casos pendentes e
+aos casos futuros, não podendo, porém, retroagir.
+Se considerada norma de direito material, com efeitos diretos sobre
+a repercussão criminal nos inquéritos policiais e ações penais originados
+por representações fiscais, poder-se-ia defender a sua retroação benéfica.
+São múltiplas as consequências gravosas sobre processos e sobre o
+erário, o que se pode converter até mesmo na própria extinção do modelo
+de contencioso administrativo.
+Observe-se que não se trata de divagação, mas de hipóteses
+concretas que vem sendo discutidas pela doutrina, tanto em um sentido,
+quanto em outro,48 levando, inclusive, o Procurador Geral da República,
+
+48 Nesse ponto, ver: ROCHA, Sérgio André. Inconstitucionalidade e controvérsias do
+fim do voto de qualidade. Coluna: Opinião & Análise, jornal eletrônico “o Jota”, de 17 de
+
+66
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 67 | nativo]]
+
+Augusto Aras, bem como o Ex-Ministro de Justiça, Sergio Moro, a
+externarem a sua preocupação ao Chefe do Poder Executivo, com o
+possível reflexo da nova regra na esfera criminal.49
+Logo, a se entender pela constitucionalidade do art. 28 da Lei nº
+13.988/20, razões de segurança jurídica demandam a atuação
+uniformizadora desta Corte, a fim de delimitar a natureza e,
+consequentemente, o momento da aplicabilidade da regra, sob pena de se
+obter uma série de decisões judiciais isoladas e conflitantes, instaurando-
+se um cenário de extrema incerteza.
+Conforme identifica César García Novoa, em uma visão elementar
+da segurança jurídica, pode-se dizer que a mesma consiste na própria
+existência do Direito50. Assim, a segurança jurídica se expressaria como
+uma tautologia, em que a própria existência de uma ordem jurídica
+representaria uma garantia de segurança e, ao mesmo tempo, a segurança
+
+abril de 2020. Disponível em: https://www.jota.info/opiniao-e-
+analise/artigos/inconstitucionalidade-e-controversias-do-fim-do-voto-de-qualidade-
+17042020 ; RIBEIRO, Diego Diniz; DANIEL NETO, Carlos Augusto. Novo alcance do voto
+de qualidade e alguns questionamentos jurídicos decorrentes. Revista Eletrônica Consultor
+Jurídico, de 22 de abril de 2020. Disponível em: https://www.conjur.com.br/2020-abr-
+22/direto-carf-alcance-voto-qualidade-questionamentos-decorrentes ; LACERDA,
+Fernando Hideo I. Retroatividade penal do fim do voto de qualidade no Carf. Revista
+Eletrônica Consultor Jurídico, de 3 de maio de 2020. Disponível em:
+https://www.conjur.com.br/2020-mai-03/fernando-lacerda-retroatividade-fim-voto-
+qualidade
+49 Vide OFÍCIO Nº 57/2020/ASSEP/PGR, de 30 de março de 2020: “[...] "tratando-
+se de lei que repercute na esfera penal de forma mais benéfica, deve ser aplicada
+retroativamente, comprometendo-se importantes investigações e processos em curso,
+impedindo-se que tantas outras se iniciem a partir das representações encaminhadas
+pelas RFB". Disponível em: http://www.mpf.mp.br/pgr/documentos/OficioPR.pdf
+Vide Despacho do Ministro da Justiça e Segurança Pública nº 290 de 2020,
+Processo: 08027.000234/2020-12: “[...] a constituição do crédito tributário é, por sua vez,
+fundamental para tipificação do crime contra a ordem tributária, com o que eventual
+fragilização do procedimento de formação tem, além de consequências na arrecadação
+tributária, efeito colateral negativo no combate ao crime em geral". Disponível em:
+https://www.conjur.com.br/dl/parecer-voto-qualidade-carf.pdf
+50 NOVOA, César García. Seguridad jurídica y tributación. Bolivia: Plural Editores,
+2013. p. 22-24.
+
+67
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 68 | nativo]]
+
+fundamentaria e justificaria o surgimento das instituições jurídicas e do
+próprio Estado. Trata-se de uma justificativa teórica para identificação do
+Estado moderno como uma ordem jurídica.
+Contudo, o próprio autor ressalta a insuficiência dessa construção
+em que a existência do próprio Estado justifica a existência de uma ordem
+jurídica e, consequentemente, a afirmação de um sistema de segurança
+jurídica. Em suas palavras, “si ese sistema es una forma de garantizar al sujeto
+certidumbre y confianza, cualquier orden estatal sería por definición ‘seguro’.”51
+A dimensão objetiva da segurança jurídica pode ser dividida em
+duas manifestações, como bem reconhece César García Novoa, amparado
+na clássica lição de ZIPPELIUS: a segurança de orientação e a segurança de
+realização ou segurança aplicativa52. A primeira está calcada na
+previsibilidade das regras de conduta, enquanto a segunda diz respeito à
+garantia da aplicação das regras de conduta abstratas a cada situação
+concreta, com respeito ao determinado por elas e sem variação de critérios
+na solução de questões similares. Esta última manifestação se dirige,
+portanto, aos aplicadores do direito: Administração e Tribunais.
+Com efeito, o abandono da abordagem positivo-formalista
+redundou no reconhecimento da relevância da atividade do intérprete e
+aplicador da norma para a construção de sentido do discurso jurídico. E,
+mais do que isso, trouxe para o centro do debate jurídico a respeito da
+segurança e determinabilidade do Direito a faceta subjetiva da relação,
+refletida na legítima expectativa gerada pelo comportamento do aplicador
+da norma na esfera de atuação do cidadão, garantindo-lhe a ciência, de
+antemão, das consequências possíveis de seus atos.
+Nesta ordem de ideias, o papel uniformizador da E. Suprema Corte,
+em matéria de interpretação constitucional reclama uma manifestação
+
+51 NOVOA, César García. Seguridad jurídica y tributación. Bolivia: Plural Editores,
+2013. p. 24.
+52 NOVOA, César García. Seguridad jurídica y tributación. Bolivia: Plural Editores,
+2013. p. 53-54.
+
+68
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 69 | nativo]]
+
+urgente e objetiva acerca do momento da aplicação do novo critério de
+desempate trazido pelo art. 28 da Lei nº 13.988/20, em respeito à segurança
+jurídica e à estabilidade das relações jurídico-tributárias submetidas à
+apreciação do Conselho Administrativo de Recursos Fiscais (art. 5º,
+XXXVI, da Constituição Federal).
+Assim, na hipótese de se considerar a constitucionalidade do art. 28
+da Lei nº 13.988/20 cabe ao STF delimitar seu momento de aplicação, a fim
+de reconhecer o caráter processual de que ela se reveste, com incidência
+imediata aos processos em curso, respeitando-se, porém, os atos praticados
+e as situações jurídicas consolidadas, sob a égide do critério anterior, na
+forma do art. 14 do Código de Processo Civil de 2015.53
+
+5. DA NECESSÁRIA CONCESSÃO DE MEDIDA CAUTELAR
+ANTES DO RETORNO DAS ATIVIDADES DO CONSELHO
+ADMINISTRATIVO DE RECURSOS FISCAIS
+Por fim, urge reconhecer que, diante dos elevados interesses
+públicos envolvidos, bem como o agravamento das questões que pode
+decorrer da demora da decisão final desta Ação, motiva-se a concessão de
+medida cautelar no presente caso, a fim de suspender liminarmente a
+aplicação do art. 28 da Lei nº 13.988/20, que insere o art. 19-E na Lei nº
+10.522/02, até o julgamento final de mérito da presente ação.
+A urgência se caracteriza a partir da retomada das sessões de
+julgamento do CARF em meio virtual, a partir do dia 4 de maio de 2020,
+data em que entrou em vigor a Portaria nº 10.786, de 28 de abril de 2020,
+editada pelo Ministério da Economia com a finalidade de regulamentar a
+realização de reunião de julgamento não presencial, por videoconferência
+
+53 “Art. 14. A norma processual não retroagirá e será aplicável imediatamente aos
+processos em curso, respeitados os atos processuais praticados e as situações jurídicas
+consolidadas sob a vigência da norma revogada.”
+
+69
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 70 | nativo]]
+
+ou tecnologia similar, prevista no art. 53, §§ 1º e 2º, do Anexo II, do
+Regimento Interno do CARF (doc. 12)54.
+E tanto as Turmas Ordinárias quanto a Câmara Superior de Recursos
+Fiscais, integrantes do órgão, voltaram a realizar julgamentos, não
+presenciais, na forma do Regimento Interno, aos quais, em caso de empate,
+já está sendo aplicada de imediato a nova regra, resolvendo-se o litígio
+a favor do contribuinte, com a extinção do crédito tributário.55
+Neste cenário, não resta outra alternativa senão buscar a tutela
+judicial, para evitar a eclosão de um quadro grave de insegurança jurídica
+tanto para a Administração Pública quanto para os contribuintes, em um
+momento, por si só, carregado de incertezas como o atual.
+
+Quanto à plausibilidade jurídica do pedido, esta encontra-se
+evidenciada por toda a argumentação exposta, por razões formais, em face
+do vício insanável que macula o processo legislativo do qual resulta a
+redação do art. 19-E da Lei nº 10.522/02; bem como por razões materiais,
+em virtude das afetações aos princípios de prevalência do interesse público
+sobre o privado e da legitimidade dos atos administrativos.
+
+54 “Art. 53 Ressalvada a hipótese do rito sumário de julgamento disciplinada no
+art. 61-A, a sessão de julgamento será pública, podendo ser realizada de forma presencial
+ou não presencial. (Redação dada pela Portaria MF nº 329, de 2017)
+§1º A sessão de julgamento não presencial, realizada por vídeo conferência ou
+tecnologia similar, deverá seguir o mesmo rito e asseguradas as mesmas garantias das
+sessões presenciais, com disponibilização de salas de recepção e transmissão para
+atuação das partes e gravação da sessão de julgamento.
+§ 2º Poderão ser julgados em sessões não presenciais os recursos em processos
+cujo valor original seja inferior a R$ 1.000.000,00 (um milhão de reais) ou,
+independentemente do valor, forem objeto de súmula ou resolução do CARF, ou de
+decisões definitivas do Supremo Tribunal Federal ou do Superior Tribunal de Justiça
+proferidas na sistemática dos arts. 543-B e 543-C da Lei nº 5.869, de 11 de janeiro de 1973,
+ou dos arts. 1.036 a 1.041 da Lei nº 13.105, de 16 de março de 2015 - Código de Processo
+Civil.”
+55 Veja-se: https://www.jota.info/tributos-e-empresas/tributario/carf-comeca-a-
+aplicar-desempate-pro-contribuinte-07052020
+
+70
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 71 | nativo]]
+
+Não se desconhece que, em regra, a medida cautelar deve ser
+concedida por decisão da maioria absoluta dos membros do Tribunal,
+observado o disposto no art. 22 da Lei nº 9.868/99, após a audiência dos
+órgãos ou autoridades dos quais emanou a lei ou ato normativo
+impugnado, os quais deverão se pronunciar no prazo de cinco dias.
+Entretanto, esta Corte tem inúmeros precedentes no sentido de que
+o poder geral cautela confere ao Relator a possibilidade de deferir pedido
+de medida cautelar ad referendum, desde que presentes seus requisitos
+autorizadores, como ocorre in casu.
+
+6. DO PEDIDO
+Diante do exposto, requer-se:
+(i) O conhecimento da presente ação direta de
+inconstitucionalidade ante o preenchimento de todos os seus
+pressupostos de admissibilidade, incluindo a legitimidade
+ativa da Requente;
+(ii) Na forma dos arts. 10 e 11 da Lei nº 9.868/99, o deferimento de
+medida cautelar, a fim de sustar a eficácia do art. 28 da Lei nº
+13.988, de 14 de abril de 2020, que inseriu o art. 19-E na Lei nº
+10.522, de 19 de julho de 2002, até o julgamento final de mérito
+da presente ação, em função da plausibilidade das alegações
+de inconstitucionalidade formal e material aduzidas,
+mantendo-se integralmente a aplicação do art. 25, § 9º do
+Decreto nº 70.235, de 6 de março de 1972;
+(iii) Em caso de não acolhimento do pedido anterior, seja atribuído
+à presente ação o rito sumário do art. 12 da Lei no 9.868/99, em
+face da relevância da matéria e de seu especial significado para
+a ordem jurídica e política do país;
+
+71
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 72 | nativo]]
+
+(iv) Independentemente do rito adotado, sejam solicitadas
+informações à Presidência da República, ao Congresso
+Nacional , bem como que se ouça a Advocacia-Geral da União,
+nos termos do art. 103, § 3º, da Constituição Federal.
+(v) Na sequência, seja colhida a manifestação da Procuradoria-
+Geral da República;
+(vi) No mérito, seja julgado inteiramente procedente a presente
+ação, a fim de reconhecer (a) a inconstitucionalidade formal do
+art. 28 da Lei nº 13.988, de 14 de abril de 2020, que inseriu o
+art. 19-E na Lei nº 10.522, de 19 de julho de 2002, por violação
+art. 1º, caput e parágrafo único; art. 5º, caput e LIV; art. 62, caput
+e §9º, da Constituição Federal, eis que o dispositivo
+impugnado resultou de emenda parlamentar apresentada
+após a emissão de parecer pela Comissão Mista, sem qualquer
+relação de pertinência com a Medida Provisória nº 899, de 16
+de outubro de 2019, que lhe deu origem; e (b) a
+inconstitucionalidade material do dispositivo, por violação ao
+art. 1º e art. 37, caput, da Constituição, eis que o encerramento
+e a resolução do litígio administrativo a favor do contribuinte,
+em caso de empate no julgamento, afronta a presunção de
+legitimidade do ato administrativo, como expressão dos
+princípios republicanos da legalidade, da prevalência do
+interesse público e do próprio Estado Democrático de Direito;
+com a manutenção integral da aplicação do art. 25, § 9º do
+Decreto nº 70.235, de 6 de março de 1972; e
+
+72
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br
+
+[[pagina 73 | nativo]]
+
+(vii) Subsidiariamente: em função da natureza dúplice da presente
+ação, caso reputados improcedentes os pedidos acima, seja
+delimitado o momento de aplicação do art. 28 da Lei nº 13.988,
+de 14 de abril de 2020, que inseriu o art. 19-E na Lei nº 10.522,
+de 19 de julho de 2002, a fim de reconhecer o caráter
+processual de que se reveste, com incidência imediata aos
+processos em curso, respeitando-se, porém, os atos praticados
+e as situações jurídicas consolidadas, sob a égide do critério de
+desempate anterior, na forma do art. 14 do Código de Processo
+Civil de 2015.
+Os subscritores declaram a autenticidade das cópias ora juntadas,
+sob as penas da lei, e requerem que as futuras intimações e publicações
+sejam realizadas em nome de Heleno Taveira Torres, inscrito na OAB/SP
+sob o nº 194.506, sob pena de nulidade, nos termos do § 2º, do art. 272 do
+Código de Processo Civil de 2015.
+Dá-se a causa o valor de R$ 1.000,00 (mil reais), para fins fiscais.
+Nestes termos, por justiça, pede-se deferimento.
+
+Brasília/DF, 8 de maio de 2020.
+
+Prof. Dr. Heleno Taveira Torres
+Advogado – OAB/SP nº 194.506
+
+Raquel de Andrade Vieira Alves
+Advogada – OAB/SP nº 433.086
+
+73
+Avenida Angélica, nº 2346, Cj. 111, Higienópolis. São Paulo - SP. 01228-200
+Tel./Fax (011) 3122-2100. E-mail: htt@helenotorres.com.br

@@ -1,0 +1,1521 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+Distribuição por prevenção: ADI 7.979/DF (art. 77-B do RISTF), rel. Min.
+CRISTIANO ZANIN
+
+ASSOCIAÇÃO BRASILEIRA DE DEFESA DOS CLIENTES E
+CONSUMIDORES DE OPERAÇÕES FINANCEIRAS E BANCÁRIAS – ABRADEB,
+associação civil sem fins lucrativos, inscrita no CNPJ sob o nº 53.341.903/0001-00, com
+sede na Avenida D, esquina com Rua 09, Quadra G-11, Lote 01, nº 419, Sala 401,
+Edifício Comercial Marista, Setor Marista, Goiânia/GO, CEP 74.150-040, com endereço
+eletrônico contato@abradeb.com.br, neste ato representada na forma de seu Estatuto
+Social por seu representante legal, vem, por seus advogados infra-assinados,
+constituídos por instrumento de mandato com poderes específicos (doc. 1), com
+fundamento nos arts. 102, inciso I, alíneas “a” e “p”, e 103, inciso IX, da Constituição
+da República e na Lei nº 9.868, de 10 de novembro de 1999, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+em face do art. 2º da Medida Provisória nº 1.393, de 25 de setembro de
+2026, na parte em que acrescentou à Lei nº 14.690, de 3 de outubro de 2023, o art. 31-C,
+§ 1º, incisos I e II, e § 3º, incisos I e II, e o art. 31-E, com pedido conexo de preservação
+da eficácia dos arts. 12 e 13 da Medida Provisória nº 1.355, de 4 de maio de 2026, nos
+termos do art. 62, §§ 3º e 11, da Constituição, pelas razões de fato e de direito a seguir
+expostas.
+
+
+[[pagina 2 | nativo]]
+I. SÍNTESE DA DEMANDA.
+
+1. A Medida Provisória nº 1.393/2026, publicada em edição extra do
+Diário Oficial da União de 25 de setembro de 2026, acrescentou à Lei
+nº 14.690/2023 o Capítulo VIII-A, que institui a Modalidade
+Emergencial de Renegociação de Dívidas de Pessoas Físicas
+Inadimplentes, denominada Desenrola Brasil 3.0.
+
+2. Pelo novo modelo, a União fica autorizada a adquirir, em
+procedimento competitivo, carteiras de créditos inadimplidos detidas
+por instituições financeiras e demais pessoas jurídicas credoras, com
+deságio mínimo de noventa por cento sobre o valor de face, e a
+repassar ao devedor pessoa física o desconto obtido na aquisição, seja
+pela quitação à vista, seja pelo parcelamento do saldo remanescente
+em condições fixadas pelo Conselho Monetário Nacional.
+
+3. O desenho do programa é meritório, e o autor não pretende vê-lo
+suspenso.
+
+4. Pelo contrário, a presente ação preserva o mecanismo de aquisição de
+carteiras, o deságio mínimo, o critério de julgamento pelo maior
+desconto, o limite global de despesa e a disciplina de
+operacionalização confiada ao Ministério da Fazenda, ao Banco do
+Brasil S.A. e à Caixa Econômica Federal, e dirige-se exclusivamente a
+dois recortes de elegibilidade fixados no art. 31-C, § 1º, que, tal como
+redigidos, afastam do alcance da política pública grupos de
+devedores em situação de vulnerabilidade idêntica ou superior à
+daqueles que ela alcança.
+
+5. O primeiro recorte é de valor, pois somente são elegíveis as dívidas
+com valor original inferior a R$ 10.000,00 (inciso II).
+
+6. O segundo é temporal, pois somente são elegíveis as dívidas
+inadimplidas há mais de setecentos e vinte e menos de mil seiscentos
+e quarenta e cinco dias, contados de 25 de setembro de 2026 (inciso I),
+o que, feitas as contas, restringe o programa às dívidas cujo
+inadimplemento teve início entre 25 de março de 2022 e 5 de outubro
+de 2024.
+
+7. Em ambos os casos, o § 3º do mesmo artigo admite que o credor, a seu
+critério, inclua na carteira ofertada dívidas de valor superior ou de
+inadimplemento mais recente, de modo que o acesso do devedor
+
+
+[[pagina 3 | nativo]]
+excluído a uma política custeada com recursos públicos passa a
+depender de escolha privada do credor.
+
+8. Sustenta-se, em síntese, que (i) o limite de R$ 10.000,00 rompe a
+igualdade entre devedores em situação equivalente, sobretudo
+quando confrontado com o parâmetro de R$ 15.000,00 adotado pelo
+próprio Poder Executivo, cinco meses antes, no Novo Desenrola
+Brasil; (ii) os dois recortes, somados à perda de eficácia da Medida
+Provisória nº 1.355/2026, produzem proteção insuficiente do
+consumidor superendividado, em afronta ao dever estatal de
+proteção inscrito nos arts. 5º, XXXII, e 170, V, da Constituição; (iii) o
+valor de R$ 10.000,00 é arbitrário, por carecer de correlação lógica com
+a finalidade da norma e com o próprio mecanismo de limitação do
+dispêndio que a medida provisória já contém; e (iv) é desarrazoado o
+prazo que delimita o universo elegível, fixado de modo estático na
+data de edição da medida provisória para um programa que durará
+até 30 de junho de 2028, o qual deixa ao desabrigo exatamente os
+devedores cujo inadimplemento se formou a partir do final de 2024,
+período em que funcionou o mercado regulado de apostas de quota
+fixa que o próprio Poder Executivo, no mesmo dia, decidiu proibir
+por meio da Medida Provisória nº 1.394/2026, e produz proteção
+insuficiente a fixação, na Medida Provisória nº 1.355/2026, do prazo
+de 31 de dezembro para os recursos que lastreiam a política, seja como
+marco dos valores do SVR transferidos ao FGO (31 de dezembro de
+2024), seja como termo para a devolução à União dos recursos não
+utilizados (31 de dezembro de 2026), porque limita e desmobiliza
+esses recursos justamente na transição entre as duas edições do
+programa.
+
+9. Como condição de efetividade da tutela requerida, e em primeiro
+lugar, pede-se que, enquanto o Congresso Nacional não disciplinar
+por decreto legislativo as relações jurídicas decorrentes da Medida
+Provisória nº 1.355/2026 (art. 62, §§ 3º e 11, da Constituição), fique
+assegurada a eficácia dos seus arts. 12 e 13, que determinaram a
+transferência ao Fundo de Garantia de Operações (FGO) dos recursos
+informados como "valores a devolver" no Sistema de Informações de
+Valores a Receber do Banco Central do Brasil, de modo que esses
+recursos permaneçam afetados à política de renegociação de dívidas
+de pessoas físicas e possam fazer frente ao acréscimo de recursos
+exigido pela ampliação do Desenrola Brasil 3.0.
+
+
+[[pagina 4 | nativo]]
+II. DA DISTRIBUIÇÃO POR PREVENÇÃO.
+
+10. Tramita nesta Corte a Ação Direta de Inconstitucionalidade nº
+7.979/DF, ajuizada pela Associação Brasileira de Administradoras de
+Consórcios (Abac) e distribuída ao Ministro Cristiano Zanin, cujo
+objeto compreende dispositivos das Medidas Provisórias nº
+1.355/2026 e nº 1.358/2026 e as normas que regulamentam a
+transferência ao FGO dos valores informados ao Sistema de
+Informações de Valores a Receber (SVR) do Banco Central até
+dezembro de 2024.
+
+11. Em 16 de junho de 2026, o eminente Relator indeferiu a medida
+cautelar, por entender ausentes a plausibilidade jurídica e a urgência,
+assentou que a transferência não priva os titulares de seus créditos e
+apenas altera o depositário dos recursos não procurados, e requisitou
+informações à Presidência da República e ao Congresso Nacional.1
+
+12. O art. 77-B do Regimento Interno do Supremo Tribunal Federal
+determina a distribuição por prevenção, nas ações do controle
+concentrado, sempre que houver coincidência total ou parcial de
+objetos.
+
+13. É o que se verifica no caso.
+
+14. O primeiro pedido desta ação incide precisamente sobre os arts. 12 e
+13 da Medida Provisória nº 1.355/2026, que integram o objeto da ADI
+7.979, e requer que se assegure a sua eficácia, nos termos do art. 62, §
+11, da Constituição, após a perda de eficácia da medida provisória
+por decurso de prazo.
+
+15. As duas ações exigem, portanto, que a Corte se pronuncie sobre o
+regime jurídico dos mesmos recursos transferidos ao FGO, e o risco
+de decisões incompatíveis sobre a sua titularidade, afetação e
+destinação recomenda que ambas permaneçam sob a mesma
+relatoria.
+
+16. Acresce que há entre as duas medidas provisórias evidente
+continuidade material.
+
+1 Supremo Tribunal Federal, "STF nega pedido para suspender destinação de recursos de consórcios
+ao Novo Desenrola Brasil", 17/06/2026, disponível em: https://noticias.stf.jus.br/postsnoticias/stf-nega-
+pedido-para-suspender-destinacao-de-recursos-de-consorcios-ao-novo-desenrola-brasil/.
+
+
+[[pagina 5 | nativo]]
+17. Ademais, a perda de vigência da Medida Provisória não importa, no
+ponto a perda de objeto da primeira ADI proposta. Isso porque o que
+se pretende é exatamente discutir são as relações jurídicas
+constituídas durante a sua vigência e, por isso, a manutenção dos
+recursos legalmente transferidos ao FGO, bem como a possibilidade de
+utilização desses recursos no financiamento da aquisição de carteiras
+de que trata a Medida Provisória nº 1.393/2026, sem os quais o
+programa não gozará da efetividade necessária à implementação dos
+direitos fundamentais em questão.
+
+18. Ambas medidas provisórias integram a mesma política federal de
+renegociação de dívidas de pessoas físicas, a primeira mediante
+garantia do FGO às novas operações de crédito contratadas com as
+instituições financeiras, a segunda mediante aquisição de carteiras
+pela União, e o financiamento da ampliação aqui postulada depende,
+nos termos do primeiro pedido, dos recursos reunidos no FGO por
+força da primeira.
+
+19. Requer-se, por isso, a distribuição da presente ação ao Ministro
+Cristiano Zanin.
+
+III. DA LEGITIMIDADE ATIVA E DO CABIMENTO.
+
+20. A Associação Brasileira de Defesa dos Clientes e Consumidores de
+Operações Financeiras e Bancárias - ABRADEB é associação civil sem
+fins lucrativos, constituída em 2023, que tem por finalidade
+estatutária a defesa dos direitos e interesses dos consumidores,
+especialmente no contexto das operações financeiras e bancárias,
+mediante atuação judicial e extrajudicial destinada à prevenção e
+repressão de práticas que violem ou possam violar seus direitos
+fundamentais (doc. 2).
+
+21. Desde a sua constituição, a ABRADEB desenvolve atuação judicial e
+extrajudicial voltada à tutela coletiva dos consumidores de serviços
+financeiros e bancários, mediante o ajuizamento de ações civis
+públicas, formulação de representações e pedidos de providências
+perante órgãos de controle e fiscalização, participação como amicus
+curiae em controvérsias de caráter repetitivo e atuação institucional
+em debates públicos relacionados à proteção do consumidor
+bancário.
+
+22. O art. 103, IX, da Constituição confere legitimidade ativa à “entidade
+de classe de âmbito nacional”.
+
+
+[[pagina 6 | nativo]]
+23. A jurisprudência tradicional deste Tribunal associou o conceito de
+classe ao conjunto de pessoas que exercem a mesma atividade
+profissional ou econômica.
+
+24. Essa compreensão restritiva do conceito de entidade de classe,
+contudo, foi posteriormente revista em precedentes desta Corte para
+alcançar entidades que representam, em âmbito nacional, grupos
+definidos por uma condição comum que a própria Constituição
+destaca como objeto de proteção especial.
+
+25. Foi com esse fundamento que o Ministro Luís Roberto Barroso
+reconheceu a legitimidade da Associação Brasileira de Gays, Lésbicas
+e Transgêneros na ADPF 527 e da Articulação dos Povos Indígenas
+do Brasil na ADPF 709, esta última com referendo do Plenário,
+assentando-se que a restrição do conceito de classe às categorias
+profissionais e econômicas deixava sem acesso à jurisdição
+constitucional concentrada justamente os grupos vulneráveis cuja
+proteção a Constituição assegura.
+
+26. O consumidor é sujeito expressamente destacado pela Constituição
+como destinatário de proteção estatal (arts. 5º, XXXII, e 170, V, e art.
+48 do ADCT), e a sua vulnerabilidade no mercado de consumo é
+reconhecida em lei como princípio da Política Nacional das Relações
+de Consumo (art. 4º, I, do Código de Defesa do Consumidor). No caso
+da ABRADEB, essa representação institucional apresenta delimitação
+material adicional, pois seus objetivos estatutários se concentram
+especialmente na defesa dos cidadãos e consumidores no contexto
+das operações financeiras e bancárias, inclusive mediante atuação
+judicial e extrajudicial contra práticas capazes de violar seus direitos
+fundamentais.
+
+27. Os consumidores de operações financeiras e bancárias, e em
+particular os consumidores superendividados cujo acesso ao
+Desenrola Brasil 3.0 está em causa, formam grupo identificável por
+condição jurídica comum e constitucionalmente qualificada,
+diretamente relacionado ao segmento de consumidores cuja proteção
+constitui o núcleo da atuação institucional da Requerente e que não
+dispõe de uma confederação sindical ou de entidade profissional que
+o represente.
+
+28. A evolução jurisprudencial verificada nos precedentes citados
+fornece, por isso, fundamento para a superação, no caso concreto, da
+
+
+[[pagina 7 | nativo]]
+compreensão restritiva anteriormente adotada quanto às associações
+de defesa dos consumidores. A ABRADEB não invoca a condição
+genérica de representante indistinta de toda a cidadania, mas a sua
+atuação institucional especificamente dirigida à tutela dos clientes e
+consumidores de operações financeiras e bancárias, grupo
+diretamente atingido pelas normas impugnadas, no contexto de
+política pública destinada à renegociação de suas dívidas.
+
+29. O âmbito nacional da entidade, aferido por esta Corte, por analogia,
+a partir da presença em pelo menos nove unidades da Federação
+(ADI 386, Rel. Min. Sydney Sanches), está demonstrado pela atuação
+concreta e efetiva da ABRADEB em todo o território nacional,
+inclusive mediante ações coletivas promovidas perante órgãos
+jurisdicionais situados no Distrito Federal e nos Estados de Goiás, São
+Paulo, Minas Gerais, Santa Catarina, Rondônia, Rio Grande do Sul,
+Paraná, Pará e Maranhão, além da atuação extrajudicial perante
+órgãos de controle e fiscalização de alcance nacional e estadual,
+conforme documentação comprobatória que acompanha a presente
+inicial (doc. 3). Soma-se a isso a composição de seu quadro
+associativo, com associados distribuídos em todo o território
+nacional.
+
+30. Além disso, a atuação institucional da ABRADEB também se projeta
+perante diversos Tribunais do país, especialmente no âmbito do
+Superior Tribunal de Justiça, onde foi admitida como amicus curiae
+em controvérsias diretamente relacionadas aos direitos dos
+consumidores bancários, nos Temas 1.396 (REsp nº 2.209.304/MG),
+relativo ao interesse de agir nas ações de consumo; 1.328 (REsp nº
+2.145.244/SC), referente à contratação de cartão de crédito com
+reserva de margem consignável (RMC); e 1.378 (REsp nº
+2.227.280/PR), relacionado à abusividade dos juros remuneratórios
+em contratos bancários. A entidade também atua como amicus curiae
+perante o TJGO, em controvérsia envolvendo o SCR/BACEN, e o
+TJPA, em demanda sobre irregularidades na oferta de produtos
+consignados, igualmente relacionadas à tutela do consumidor
+bancário (doc. 3).
+
+31. No STJ, a ABRADEB também foi selecionada como expositora em
+audiência pública realizada no âmbito do Tema 1.396, contribuindo
+diretamente para o debate destinado a subsidiar a formação de
+precedente qualificado de alcance nacional sobre o acesso dos
+consumidores à tutela jurisdicional, o que reforça a efetividade e a
+especialização de sua atuação institucional (doc. 3).
+
+
+[[pagina 8 | nativo]]
+32. A pertinência temática, exigida das entidades de classe, é manifesta,
+pois as normas impugnadas definem o acesso de consumidores
+inadimplentes a programa federal de renegociação de dívidas,
+matéria diretamente inserida nas finalidades estatutárias da
+Requerente, que compreendem a concretização dos direitos
+fundamentais dos consumidores no contexto das operações
+financeiras e bancárias, a repressão judicial e extrajudicial de práticas
+lesivas nesse mercado e a promoção de ações destinadas à proteção
+dos consumidores de produtos e serviços financeiros.
+
+33. A Associação está representada na forma do seu Estatuto Social, e o
+instrumento de mandato que acompanha a inicial confere poderes
+específicos, com indicação das normas impugnadas, na forma exigida
+por esta Corte (ADI 2.187-QO, Rel. Min. Octavio Gallotti).
+
+34. A medida provisória é ato normativo primário, com força de lei desde
+a sua publicação (art. 62, caput, da Constituição), e sujeita-se ao
+controle abstrato de constitucionalidade tanto quanto ao seu
+conteúdo material quanto aos pressupostos de sua edição.
+
+35. Os dispositivos impugnados são dotados de generalidade e
+abstração, regulam de modo vinculante os critérios de acesso a uma
+política pública de alcance nacional e produzem efeitos imediatos,
+pois o art. 5º da Medida Provisória nº 1.393/2026 determinou sua
+vigência na data da publicação e o cronograma divulgado pelo Poder
+Executivo prevê o chamamento público dos credores já em novembro
+de 2026.
+
+36. Não constitui óbice ao conhecimento o fato de a ação postular, em
+parte, a extensão do alcance subjetivo da norma.
+
+37. Quando o vício reside na exclusão de grupo que se encontra na
+mesma situação dos beneficiados, a inconstitucionalidade é da
+própria cláusula de exclusão, e o controle concentrado dispõe de
+técnicas decisórias adequadas para repará-la, que serão examinadas
+adiante.
+
+38. De outra parte, a Corte admite a fungibilidade entre a ação direta de
+inconstitucionalidade e a ação direta de inconstitucionalidade por
+omissão quando a pretensão se volta contra omissão parcial, o que
+autoriza o exame do pedido sob ambas as perspectivas.
+
+
+[[pagina 9 | nativo]]
+39. Registra-se, por fim, que eventual conversão da medida provisória
+em lei sem alteração substancial dos dispositivos impugnados não
+prejudica a ação, cabendo o aditamento da inicial, que a Requerente
+desde já se compromete a promover, conforme orientação reiterada
+deste Tribunal.
+
+IV. DAS NORMAS IMPUGNADAS E DO CONTEXTO NORMATIVO.
+
+A) O Desenrola Brasil 3.0.
+
+40. O art. 31-C da Lei nº 14.690/2023, acrescentado pelo art. 2º da Medida
+Provisória nº 1.393/2026, tem a seguinte redação, no que interessa:
+
+Art. 31-C. Para fins do disposto no art. 31-B, ato do Ministério da
+Fazenda definirá as regras para a realização de procedimento
+competitivo destinado à aquisição pela União, mediante cessão
+onerosa, da carteira de créditos decorrente de dívidas
+inadimplidas por pessoa física, que poderá contemplar:
+I - dívidas relativas a operações de crédito contratadas com
+instituições financeiras criadas por lei própria ou autorizadas a
+funcionar pelo Banco Central do Brasil; e
+II - demais dívidas passíveis de inscrição em cadastro de
+inadimplentes, tais como dívidas com prestadores de serviços
+públicos e de utilidade pública, de comércio varejista e de
+prestadores de serviço em geral.
+§ 1º Deverão ser observados para os créditos elegíveis,
+cumulativamente, os seguintes critérios:
+I - dívidas inadimplidas há mais de setecentos e vinte e menos
+de mil seiscentos e quarenta e cinco dias, contados de 25 de
+setembro de 2026, ressalvado o disposto no § 3º;
+II - dívidas inadimplidas com valor original inferior a R$
+10.000,00 (dez mil reais), ressalvado o disposto no § 3º;
+III - deságio mínimo de 90% (noventa por cento) sobre o valor de
+face de cada carteira ofertada;
+IV - classificação das propostas pelo critério do maior percentual
+de deságio ofertado, observado o limite das dotações
+orçamentárias e os limites financeiros disponíveis; e
+V - obrigatoriedade de oferta da totalidade dos créditos
+inadimplidos elegíveis de titularidade do credor originário
+perante cada devedor, vedada a seleção parcial de créditos na
+carteira ofertada.
+§ 3º Ato do Ministério da Fazenda poderá prever:
+
+
+[[pagina 10 | nativo]]
+I - a possibilidade de o credor ofertante da carteira incluir dívidas
+inadimplidas com prazo inferior ao previsto no inciso I do § 1º,
+desde que aplicado o mesmo deságio ofertado para a carteira
+elegível ao chamamento;
+II - a possibilidade, a critério do credor, de inclusão e oferta na
+carteira objeto do chamamento de dívidas acima do valor
+previsto no inciso II do § 1º, hipótese em que o valor considerado
+para fins de pagamento será o valor individual limite para cada
+dívida que se enquadre no disposto no inciso II do § 1º
+multiplicado pelo deságio ofertado na carteira; e
+III - hipóteses e condições para a cessão, gratuita ou por valor
+simbólico, como contrapartida obrigatória dos credores para
+venda das carteiras objeto dos editais, de dívidas inadimplidas
+há mais de mil seiscentos e quarenta e cinco dias.
+
+41. Completam o regime os §§ 4º e 5º do mesmo artigo, que autorizam a
+realização de chamamentos públicos em etapas, segmentados por
+tipo ou natureza das dívidas, e o agrupamento dos créditos em lotes
+segundo a natureza, a antiguidade e outras características relevantes,
+de modo a assegurar a comparabilidade entre as propostas; o art. 31-
+D, que disciplina a reestruturação das dívidas adquiridas mediante
+quitação à vista ou parcelamento, com deságio equivalente a até o
+mesmo deságio obtido pela União; o art. 31-E, que limita as despesas
+de aquisição a R$ 15.000.000.000,00 e lhes atribui natureza
+discricionária; os arts. 31-F e 31-G, que autorizam a aquisição e a
+gestão das carteiras por fundos; e o art. 31-H, que remete ao Ministro
+de Estado da Fazenda a regulamentação do programa.
+42. O art. 1º, § 2º, da Lei nº 14.690/2023, na redação da medida provisória,
+fixa a duração do Desenrola Brasil 3.0 até 30 de junho de 2028.
+
+43. Segundo os dados apresentados pelo Governo Federal no lançamento
+do programa, até R$ 150 bilhões em dívidas seriam elegíveis à
+aquisição, com estimativa de renegociação efetiva de cerca de R$ 75
+bilhões e potencial de alcançar até 15 milhões de pessoas.
+
+44. Os mesmos dados informam que, em agosto de 2026, o estoque de
+dívidas inadimplidas registradas nos birôs de crédito, considerados
+os débitos com até cinco anos de atraso, alcançava R$ 592 bilhões,
+distribuídos entre 83,9 milhões de pessoas negativadas, com média
+de quatro dívidas por pessoa, valor médio de R$ 7 mil por pessoa e
+
+
+[[pagina 11 | nativo]]
+de R$ 1,7 mil por dívida, sendo 56% dos negativados mulheres e
+cerca de 55% do estoque composto por dívidas não bancárias.2
+
+45. Pelos números do próprio Poder Executivo, portanto, o universo
+elegível corresponde a cerca de um quarto (25%) do estoque de
+dívidas negativadas e a, no máximo, dezoito por cento das pessoas
+negativadas.
+
+46. O cronograma divulgado prevê a publicação do chamamento para
+entrega de propostas em novembro de 2026, a entrega das propostas
+pelos credores em dezembro de 2026, a homologação das propostas
+selecionadas em janeiro de 2027 e a assinatura dos contratos, com o
+início do repasse do deságio aos devedores, em fevereiro de 2027.
+
+B) As etapas anteriores e a perda de eficácia da Medida Provisória nº 1.355/2026.
+
+47. A primeira edição do Desenrola Brasil, instituída pela Medida
+Provisória nº 1.176, de 5 de junho de 2023, convertida na Lei nº
+14.690/2023, alcançou, na sua Faixa 1, pessoas com renda de até dois
+salários mínimos ou inscritas no Cadastro Único, com dívidas
+negativadas entre 1º de janeiro de 2019 e 31 de dezembro de 2022.
+
+48. O marco final de elegibilidade foi fixado, assim, no último dia do ano
+civil anterior ao lançamento do programa, de modo que dívidas
+negativadas poucos meses antes da edição da medida provisória
+foram abrangidas.
+
+49. A segunda edição, denominada Novo Desenrola Brasil, foi instituída
+pela Medida Provisória nº 1.355, de 4 de maio de 2026. Destinava-se
+a pessoas físicas com renda mensal igual ou inferior a cinco salários
+mínimos, com contratos celebrados até 31 de janeiro de 2026 e
+parcelas em atraso entre noventa e um e setecentos e vinte dias no dia
+anterior à publicação da medida provisória, nas modalidades de
+cartão de crédito, cheque especial e crédito pessoal sem consignação
+(art. 3º).
+
+50. A nova operação de crédito, com juros máximos de 1,99% ao mês,
+podia alcançar até R$ 15.000,00 por beneficiário e por instituição
+
+2 BRASIL DE FATO, "Desenrola 3.0: saiba como funcionará compra de dívidas pela União", Brasil de
+Fato, 26/09/2026, https://www.brasildefato.com.br/2026/09/26/desenrola-30-saiba-como-funcionara-
+compra-de-dividas-pela-uniao/.
+
+
+[[pagina 12 | nativo]]
+financeira (art. 6º, § 1º, V), com garantia do FGO de cem por cento do
+principal de cada operação, limitada a cinquenta por cento da carteira
+vinculada (art. 8º, parágrafo único).
+
+51. A adesão implicava o compromisso de não utilizar plataformas de
+apostas de quota fixa por doze meses, com bloqueio do CPF (art. 5º,
+VII), e a medida provisória vedou às instituições financeiras a
+concessão de crédito vinculado diretamente à realização de apostas
+(art. 16).
+
+52. Segundo o Governo Federal, a segunda fase resultou em mais de 5,5
+milhões de operações e cerca de R$ 22 bilhões em dívidas
+renegociadas.3
+
+53. Para lastrear o programa, os arts. 12 e 13 da Medida Provisória nº
+1.355/2026 determinaram a transferência imediata ao FGO dos
+recursos informados até 31 de dezembro de 2024 como "valores a
+devolver" no Sistema de Informações de Valores a Receber, em conta
+segregada e destinada a garantir as novas operações de crédito para
+reestruturação de dívidas (art. 12, § 3º), com reserva de percentual
+para atender a eventuais demandas de devolução (art. 12, § 6º),
+publicação de edital com prazo de trinta dias para contestação pelos
+titulares e incorporação definitiva ao patrimônio do Fundo, após esse
+prazo, dos valores não contestados (art. 13, § 1º).
+
+54. Segundo o Ministério da Fazenda, as instituições financeiras
+transferiram ao FGO cerca de R$ 5,7 bilhões ainda em maio de 2026.4
+
+55. A mesma medida provisória autorizou a União a aumentar em até R$
+5 bilhões a sua participação no FGO, mediante subscrição de cotas
+destinadas exclusivamente à cobertura das operações do Novo
+Desenrola Brasil (art. 15), e determinou que os valores não utilizados
+até 31 de dezembro de 2026 para garantia das operações ativas sejam
+devolvidos à União por meio de resgate de cotas (art. 15, § 2º). Quanto
+
+CNN, "Governo lança Desenrola Brasil 3.0 com desconto mínimo de 90%", 26/09/2026,
+https://www.cnnbrasil.com.br/economia/money/macroeconomia/governo-anuncia-desenrola-3-0-e-
+espera-desconto-de-90-em-dividas/.
+
+4 AGÊNCIA BRASIL, "Bancos transferem R$ 5,7 bi de valores esquecidos para o Desenrola",
+27/05/2026, https://agenciabrasil.ebc.com.br/economia/noticia/2026-05/bancos-transferem-r-57-bi-de-
+valores-esquecidos-para-o-desenrola.
+
+
+[[pagina 13 | nativo]]
+aos recursos do SVR, o marco de 31 de dezembro de 2024 deixou fora
+da transferência os valores informados como "valores a devolver" a
+partir de 2025. Segundo o Banco Central, o saldo que permaneceu
+disponível no sistema depois da transferência era de R$ 6,24 bilhões
+em maio de 2026 e de R$ 5,12 bilhões em junho de 2026.
+
+56. A Medida Provisória nº 1.355/2026 foi prorrogada, mas não foi
+apreciada pelo Congresso Nacional e perdeu eficácia em 31 de agosto
+de 2026, conforme ato declaratório do Presidente da Mesa do
+Congresso Nacional publicado no Diário Oficial da União de 10 de
+setembro de 2026.5
+
+57. O prazo de sessenta dias previsto no art. 62, § 11, da Constituição para
+a edição do decreto legislativo que discipline as relações jurídicas dela
+decorrentes encerra-se, assim, em 30 de outubro de 2026.
+
+C) A descontinuidade entre as duas edições de 2026.
+
+58. As duas edições de 2026 foram concebidas como complementares no
+tempo.
+
+59. O Novo Desenrola Brasil alcançava dívidas bancárias com atraso
+entre noventa e um e setecentos e vinte dias em 3 de maio de 2026,
+isto é, cujo inadimplemento teve início, aproximadamente, entre 13
+de maio de 2024 e 1º de fevereiro de 2026.
+
+60. O Desenrola Brasil 3.0 alcança dívidas com mais de setecentos e vinte
+dias de atraso em 25 de setembro de 2026, isto é, cujo inadimplemento
+teve início antes de 5 de outubro de 2024.
+
+61. A perda de eficácia da Medida Provisória nº 1.355/2026 e o
+encerramento do prazo de adesão desfizeram essa
+complementaridade.
+
+5 Ato do Presidente da Mesa do Congresso Nacional nº 89, de 4 de setembro de 2026, publicado no
+Diário do Congresso Nacional nº 34, em 10 de setembro de 2026,
+https://legis.senado.leg.br/diarios/ver/126679?sequencia=107. AGÊNCIA SENADO, "Cinco medidas
+provisórias perderam eficácia no final de agosto", 08/09/2026,
+https://www12.senado.leg.br/noticias/materias/2026/09/08/cinco-medidas-provisorias-perderam-
+eficacia-no-final-de-agosto; PODER 360, "Novo Desenrola Brasil perde validade após MP não virar
+lei", 08/09/2026, https://www.poder360.com.br/poder-congresso/novo-desenrola-brasil-perde-
+validade-apos-mp-nao-virar-lei/.
+
+
+[[pagina 14 | nativo]]
+62. A partir de 25 de setembro de 2026, e pelo menos até 30 de junho de
+2028, não há instrumento federal de renegociação para (i) as dívidas
+bancárias cujo inadimplemento teve início depois de 5 de outubro de
+2024, cujos devedores não tenham renegociado no curto período de
+vigência do Novo Desenrola Brasil; (ii) as dívidas bancárias cujo
+inadimplemento teve início depois de 1º de fevereiro de 2026, que
+nunca foram elegíveis a nenhuma das edições; (iii) as dívidas não
+bancárias, com prestadores de serviços públicos e de utilidade
+pública, comércio varejista e prestadores de serviço em geral, cujo
+inadimplemento teve início depois de 5 de outubro de 2024, que
+também nunca foram elegíveis a nenhuma das edições, embora
+respondam, segundo o próprio Governo, por mais da metade do
+estoque; e (d) as dívidas de qualquer natureza com valor original
+igual ou superior a R$ 10.000,00, qualquer que seja a data do
+inadimplemento.
+
+D) A Medida Provisória nº 1.394/2026 e o reconhecimento das apostas como vetor
+de endividamento.
+
+63. No mesmo dia e na mesma edição do Diário Oficial da União, o
+Presidente da República editou a Medida Provisória nº 1.394/2026,
+que proíbe a exploração, a oferta, a intermediação e a publicidade de
+loterias de apostas de quota fixa no território nacional, extingue em
+trinta dias as autorizações concedidas com fundamento na Lei nº
+14.790/2023, impõe às operadoras e às instituições de pagamento a
+restituição integral dos valores devidos aos apostadores e veda às
+instituições financeiras e de pagamento o processamento de
+transações destinadas a apostas.
+
+64. As autorizações extintas são as que viabilizaram o funcionamento do
+mercado regulado de apostas de quota fixa a partir de 1º de janeiro
+de 2025.
+
+65. Ao anunciar o Desenrola Brasil 3.0 no mesmo ato, o Ministro de
+Estado do Planejamento e Orçamento associou expressamente o
+endividamento das famílias às apostas e defendeu que o poder de
+compra do Estado fosse posto a serviço da reestruturação dessas
+dívidas.
+
+66. A relação entre apostas e endividamento já estava positivada no
+Novo Desenrola Brasil, que condicionava a renegociação ao bloqueio
+do CPF do beneficiário nas plataformas de apostas.
+
+
+[[pagina 15 | nativo]]
+67. Não obstante, o marco temporal do art. 31-C, § 1º, I, exclui do
+Desenrola Brasil 3.0 todas as dívidas cujo inadimplemento teve início
+a partir de 5 de outubro de 2024, o que abrange a integralidade do
+período de funcionamento do mercado regulado de apostas.
+
+68. A contradição entre o diagnóstico que fundamenta as duas medidas
+provisórias e o recorte temporal da política de renegociação será
+examinada adiante.
+
+V. DOS FUNDAMENTOS JURÍDICOS.
+
+A) O parâmetro constitucional: o dever estatal de proteção do consumidor e o tratamento
+do superendividamento.
+
+69. A Constituição de 1988 dirigiu ao Estado comando positivo de defesa
+do consumidor, ao dispor, no art. 5º, XXXII, que "o Estado promoverá,
+na forma da lei, a defesa do consumidor", erigiu essa defesa a
+princípio da ordem econômica (art. 170, V) e determinou a elaboração
+do código respectivo (art. 48 do ADCT).
+
+70. Trata-se de direito fundamental cuja dimensão objetiva impõe ao
+Poder Público deveres de proteção, e cuja incidência sobre as relações
+bancárias foi afirmada por esta Corte no julgamento da ADI 2.591
+(Rel. p/ acórdão Min. Eros Grau), ao assentar que as instituições
+financeiras se submetem ao Código de Defesa do Consumidor.
+
+71. O superendividamento das pessoas naturais é o ponto em que esse
+dever de proteção se encontra com os objetivos fundamentais da
+República de construir uma sociedade livre, justa e solidária e de
+erradicar a pobreza e reduzir as desigualdades sociais (art. 3º, I e III),
+e com o fundamento da dignidade da pessoa humana (art. 1º, III).
+
+72. A Lei nº 14.181/2021 incorporou ao Código de Defesa do Consumidor
+a prevenção e o tratamento do superendividamento como princípio
+da Política Nacional das Relações de Consumo (art. 4º, X), assegurou
+ao consumidor a garantia de práticas de crédito responsável, de
+preservação do mínimo existencial e de repactuação de dívidas (art.
+6º, XI e XII) e instituiu procedimentos específicos de conciliação e
+revisão (arts. 104-A a 104-C).
+
+73. A doutrina de Cláudia Lima Marques, que inspirou essa legislação,
+demonstra que o superendividamento é fenômeno social e sistêmico,
+ligado à oferta massificada de crédito, que exige tratamento coletivo
+
+
+[[pagina 16 | nativo]]
+pelo Estado e não se resolve pela via da negociação individual entre
+partes desiguais.
+
+74. O Desenrola Brasil 3.0 é, hoje, o principal instrumento federal de
+execução desse dever de proteção.
+
+75. Ao legislador, e ao Presidente da República no exercício da
+competência do art. 62, cabe ampla margem de conformação na
+escolha dos meios, dos beneficiários e dos limites da política.
+
+76. Essa margem, contudo, não é ilimitada.
+
+77. Uma vez eleita a política pública, os critérios que definem quem dela
+se beneficia e quem dela fica excluído submetem-se ao princípio da
+igualdade, à exigência de razoabilidade que decorre do devido
+processo legal substantivo (art. 5º, LIV) e ao controle de suficiência
+que decorre da dimensão objetiva dos direitos fundamentais.
+
+78. É sob essas três perspectivas que se examinam os dispositivos
+impugnados.
+
+B) Primeiro fundamento: violação da igualdade no limite de valor da dívida.
+
+79. O princípio da igualdade (art. 5º, caput) admite que a lei estabeleça
+distinções, desde que, na formulação clássica de Celso Antônio
+Bandeira de Mello, o fator de discrímen resida nas próprias situações
+diferenciadas, exista correlação lógica entre esse fator e a
+desequiparação estabelecida, e essa correlação seja compatível com os
+valores prestigiados pela Constituição.
+
+80. O exame do art. 31-C, § 1º, II, à luz desse critério revela que a exclusão
+das dívidas com valor original igual ou superior a R$ 10.000,00 não
+resiste ao segundo e ao terceiro requisitos.
+
+81. A finalidade declarada do programa é fomentar a regularização das
+dívidas de pessoas físicas inadimplentes (art. 31-A).
+
+82. Não há correlação lógica entre essa finalidade e a exclusão, por
+inteiro, de quem deve R$ 10.000,00 ou mais.
+
+83. O devedor de uma dívida de R$ 10.500,00, inadimplida desde 2023,
+não está em situação menos grave do que o devedor de uma dívida
+de R$ 9.500,00 inadimplida no mesmo período; está, em regra, em
+
+
+[[pagina 17 | nativo]]
+situação mais onerosa, e mais distante da regularização por seus
+próprios meios.
+
+84. O critério produz, além disso, efeito de corte abrupto, pelo qual a
+diferença de um centavo no valor original separa o acesso a um
+desconto mínimo de noventa por cento da exclusão total, sem
+qualquer gradação.
+
+85. A incongruência se agrava diante da regra do art. 31-C, § 1º, V, que
+obriga o credor a ofertar a totalidade dos créditos elegíveis de que seja
+titular perante cada devedor, vedada a seleção parcial.
+
+86. A regra revela que o programa pretende resolver por inteiro a
+situação do devedor perante cada credor, pois a regularização parcial
+não devolve ao consumidor o acesso ao crédito.
+
+87. O limite de valor frustra esse propósito para o devedor que tenha,
+perante o mesmo credor, uma dívida elegível e outra de valor
+superior ao limite, que obterá o desconto quanto à primeira e
+permanecerá inscrito em cadastro de inadimplentes em razão da
+segunda.
+
+88. O parâmetro de comparação mais eloquente é oferecido pelo próprio
+Poder Executivo. Cinco meses antes, no Novo Desenrola Brasil, a
+Medida Provisória nº 1.355/2026 admitiu como adequada a
+renegociação de até R$ 15.000,00 por beneficiário e por instituição
+financeira (art. 6º, § 1º, V), valor que correspondia ao montante
+consolidado de todas as dívidas do beneficiário perante a mesma
+instituição, e não a cada dívida isoladamente.
+
+89. Para o mesmo objetivo de reequilíbrio financeiro das famílias, e para
+um público que, naquele programa, era limitado a quem recebia até
+cinco salários mínimos, o Poder Executivo considerou adequado um
+teto cinquenta por cento superior ao agora adotado, e aplicado sobre
+base mais ampla.
+
+90. A medida provisória impugnada não declina razão para a redução.
+
+91. Nem se diga que a diferença de mecanismos justificaria a diferença
+de limites. No Novo Desenrola Brasil, o FGO garantia cem por cento
+do principal de cada operação, até R$ 15.000,00, limitada a garantia a
+cinquenta por cento da carteira vinculada.
+
+
+[[pagina 18 | nativo]]
+92. No Desenrola Brasil 3.0, a União adquire os créditos com deságio
+mínimo de noventa por cento, de modo que, para uma dívida de R$
+15.000,00, o desembolso máximo da União seria de R$ 1.500,00, e esse
+desembolso é, em larga medida, recuperável, pois o devedor paga à
+União o valor da dívida com deságio equivalente a até o obtido na
+aquisição (art. 31-D).
+
+93. A exposição fiscal da União por dívida é, no novo modelo, uma fração
+da que o Poder Executivo aceitou no modelo anterior, o que retira da
+diferença de mecanismos qualquer aptidão para justificar a redução
+do alcance subjetivo do programa.
+
+94. A violação da igualdade se completa no § 3º, II, do mesmo artigo, que
+permite ao Ministério da Fazenda prever a inclusão de dívidas acima
+do limite "a critério do credor", com pagamento limitado ao valor-
+teto.
+
+95. O dispositivo demonstra que a própria medida provisória reconhece
+que dívidas superiores a R$ 10.000,00 cabem no programa sem
+acréscimo de custo por dívida, pois o pagamento fica limitado ao teto.
+Mas, em vez de torná-las elegíveis, condiciona o acesso do devedor a
+uma política custeada com recursos públicos à escolha privada do
+credor.
+
+96. Dois devedores com dívidas idênticas, de R$ 12.000,00, inadimplidas
+na mesma data, receberão tratamento oposto conforme o seu credor
+decida, ou não, incluir essas dívidas na carteira ofertada.
+
+97. A Administração Pública está submetida ao princípio da
+impessoalidade (art. 37, caput), que veda a seleção de beneficiários de
+despesa pública por critério que não seja objetivo e verificável.
+
+98. A delegação ao credor privado do poder de decidir quais devedores
+terão acesso ao desconto, em hipóteses nas quais a lei reconhece que
+a inclusão é compatível com o programa, transfere a um particular,
+que atua segundo o seu próprio interesse econômico, a definição do
+alcance de uma política pública, o que é incompatível com a
+igualdade de todos perante a lei e com a impessoalidade que rege a
+aplicação de recursos da União.
+
+
+[[pagina 19 | nativo]]
+C) Segundo fundamento: proteção insuficiente do consumidor
+superendividado.
+
+99. A dimensão objetiva dos direitos fundamentais gera para o Estado
+deveres de proteção, cujo descumprimento pode ocorrer tanto pela
+intervenção excessiva quanto pela proteção deficiente.
+
+100. A proibição de proteção insuficiente (Untermaßverbot),
+desenvolvida pelo Tribunal Constitucional Federal alemão e
+sistematizada por Claus-Wilhelm Canaris, foi incorporada à doutrina
+brasileira por Ingo Wolfgang Sarlet e por Gilmar Ferreira Mendes e
+Paulo Gustavo Gonet Branco, e à jurisprudência desta Corte, entre
+outros, no voto do Ministro Gilmar Mendes no RE 418.376 e no
+julgamento do HC 104.410 (Rel. Min. Gilmar Mendes), no qual se
+afirmou que os direitos fundamentais expressam não apenas
+proibições de intervenção, mas também postulados de proteção,
+cabendo ao Tribunal verificar se o legislador adotou medidas
+suficientes para a tutela do bem protegido.
+
+101. O controle de suficiência preserva a escolha dos meios pelo Poder
+Público e consiste em verificar se a medida adotada alcança um
+patamar mínimo de eficácia protetiva, e se as lacunas que deixa são
+justificáveis à luz da finalidade da própria medida.
+
+102. No caso, o dever de proteção decorre de comando textual (art. 5º,
+XXXII), e a medida adotada, por escolha do próprio Poder Executivo,
+é a principal política federal de tratamento do superendividamento
+em vigor.
+
+103. Pelos números oficiais, o universo elegível corresponde a cerca de
+vinte e cinco por cento do estoque de dívidas negativadas e a, no
+máximo, dezoito por cento das pessoas negativadas. O dado não
+seria, por si só, decisivo, pois é legítimo que uma política pública se
+desenvolva em etapas. Os recortes do art. 31-C, § 1º, contudo, têm
+natureza permanente. Os critérios ali previstos são cumulativos e
+vinculam todos os chamamentos públicos que se realizarem durante
+a vigência do programa, até 30 de junho de 2028, de modo que as
+etapas posteriores anunciadas pelo Governo, inclusive as destinadas
+às dívidas não bancárias, permanecerão presas ao limite de R$
+10.000,00 e à janela de inadimplemento encerrada em 5 de outubro de
+2024. A ampliação só poderá ocorrer por escolha do credor, nos
+termos do § 3º, ou por nova lei.
+
+
+[[pagina 20 | nativo]]
+104. As exclusões, ademais, não recaem sobre grupos de menor
+vulnerabilidade. Recaem, de um lado, sobre os devedores de dívidas
+de maior valor, que tendem a corresponder a empréstimos pessoais,
+financiamentos de bens e renegociações anteriores que consolidaram
+diversas dívidas em um único contrato, e, de outro, sobre o grupo de
+devedores cujo inadimplemento é mais recente, que ainda suporta a
+incidência plena de encargos moratórios, a cobrança mais intensa e a
+restrição cadastral mais próxima no tempo.
+
+105. Em relação a esse segundo grupo, a perda de eficácia da Medida
+Provisória nº 1.355/2026 converteu a limitação em vazio de proteção,
+pois, como demonstrado anteriormente, não há hoje instrumento
+federal algum que alcance as dívidas não bancárias inadimplidas a
+partir de outubro de 2024, nem as dívidas bancárias inadimplidas a
+partir de fevereiro de 2026.
+
+106. A proteção deficiente não se justifica pela racionalidade econômica
+do programa. É conhecido que créditos inadimplidos há mais tempo
+são precificados com desconto maior, o que explica a opção por
+concentrar o chamamento inicial em dívidas mais antigas.
+
+107. Essa racionalidade, contudo, é atendida pelos próprios instrumentos
+da medida provisória: o § 1º, III, fixa o deságio mínimo; os §§ 4º e 5º
+permitem chamamentos em etapas, segmentados por tipo de dívida,
+e a formação de lotes por antiguidade, de modo a assegurar a
+comparabilidade das propostas; e o § 3º, I, admite expressamente a
+inclusão de dívidas com prazo de inadimplemento inferior a
+setecentos e vinte dias, desde que aplicado o mesmo deságio.
+
+108. A medida provisória reconhece, portanto, que as dívidas mais
+recentes podem ser adquiridas nas mesmas condições.
+
+109. A exclusão legal dessas dívidas carece, assim, de fundamento na
+lógica do próprio mecanismo, e contraria o dever de proteção, que
+recai com maior intensidade sobre quem não dispõe de outro
+instrumento.
+
+D) Terceiro fundamento: arbitrariedade do limite de R$ 10.000,00.
+
+110. A fixação de limites numéricos para o acesso a políticas públicas é
+escolha legítima do legislador, e esta Corte a respeita. O respeito,
+porém, pressupõe que o limite guarde relação racional com a
+finalidade da norma e com a realidade que ela pretende regular.
+
+
+[[pagina 21 | nativo]]
+111. A jurisprudência do Tribunal extrai do devido processo legal, em sua
+dimensão substantiva (art. 5º, LIV), a exigência de razoabilidade dos
+atos normativos, e reconhece a inconstitucionalidade de normas cujo
+conteúdo se mostra arbitrário ou desprovido de justificação material
+(ADI 1.158-MC, Rel. Min. Celso de Mello; ADI 855-MC, Rel. Min.
+Sepúlveda Pertence).
+
+112. Humberto Ávila descreve a razoabilidade, entre outras acepções,
+como exigência de congruência entre o critério de diferenciação
+escolhido e a medida adotada, e de equivalência entre a medida e o
+critério que a dimensiona.
+
+113. O limite de R$ 10.000,00 não atende a essas exigências por quatro
+razões.
+
+114. A primeira é a ausência de justificação, pois o texto normativo não
+enuncia o critério que levou ao valor, e a comparação com o
+parâmetro de R$ 15.000,00 adotado cinco meses antes pelo mesmo
+Poder Executivo, para o mesmo objetivo, evidencia que o valor não
+decorre de grandeza econômica estável. Cabe ao Poder Executivo, nas
+informações, indicar a razão da escolha, e ao Tribunal verificar se ela
+é compatível com a finalidade do programa.
+
+115. A segunda é a desproporção entre a economia obtida e o prejuízo
+imposto, tendo em vista que, segundo os dados oficiais, o valor médio
+por dívida negativada é de R$ 1,7 mil, o que significa que as dívidas
+entre R$ 10.000,00 e R$ 15.000,00 correspondem a parcela reduzida do
+estoque. A inclusão dessa faixa tem, por isso, impacto fiscal limitado,
+ainda mais porque o desembolso por dívida está limitado a dez por
+cento do valor de face e é, em larga medida, recuperado pela União.
+Para os devedores excluídos, ao contrário, o prejuízo é total, pois a
+exclusão do programa significa a permanência da dívida integral,
+com encargos, e da restrição cadastral. A medida falha no exame da
+proporcionalidade em sentido estrito, porque o gravame imposto aos
+excluídos supera em muito a economia que a exclusão proporciona.
+
+116. A terceira é a inversão da lógica da boa-fé produzida pela referência
+ao "valor original". Tomada a expressão em seu sentido literal, a
+dívida decorrente de um financiamento de R$ 12.000,00, do qual o
+devedor tenha pago R$ 9.000,00 antes de se tornar inadimplente,
+restando saldo de R$ 3.000,00, estará excluída, ao passo que a dívida
+de R$ 9.900,00 da qual nada se pagou estará incluída. O critério
+
+
+[[pagina 22 | nativo]]
+recompensa o inadimplemento total e penaliza o adimplemento
+parcial, em sentido contrário ao princípio da boa-fé que orienta as
+relações de consumo (art. 4º, III, do Código de Defesa do
+Consumidor). A mesma distorção tende a atingir o devedor que,
+antes de se tornar inadimplente, buscou regularizar sua situação e
+consolidou dívidas menores em um contrato de renegociação de
+valor superior ao limite.
+
+117. Por fim, a quarta é a rigidez do critério diante da finalidade de
+proteção social. No julgamento da Rcl 4.374 e do RE 567.985 (Rel. p/
+acórdão Min. Gilmar Mendes), esta Corte declarou a
+inconstitucionalidade, sem pronúncia de nulidade, do critério de
+renda per capita de um quarto do salário mínimo fixado no art. 20, §
+3º, da Lei nº 8.742/1993 para o acesso ao benefício de prestação
+continuada, ao reconhecer que um critério numérico rígido, fixado
+em lei como condição de acesso a uma política de proteção, pode
+tornar-se incapaz de cumprir a proteção constitucional a que se
+destina, quando exclui pessoas em situação de necessidade
+equivalente ou superior à dos incluídos. A lógica é aplicável ao caso.
+O limite de R$ 10.000,00 é critério numérico rígido de acesso a uma
+política de proteção, e exclui, pelas razões expostas, devedores em
+situação equivalente ou mais grave do que a dos beneficiados.
+
+E) Quarto fundamento: irrazoabilidade do prazo e proteção insuficiente na
+fixação do prazo de 31 de dezembro.
+
+E.1) o prazo que delimita o universo elegível do Desenrola 3.0.
+
+118. O art. 31-C, § 1º, I, exige que a dívida esteja inadimplida há mais de
+setecentos e vinte e menos de mil seiscentos e quarenta e cinco dias,
+"contados de 25 de setembro de 2026". A contagem não se renova. O
+termo de referência é a data de edição da medida provisória, e não a
+data de cada chamamento, de modo que a janela de elegibilidade
+corresponde, de forma fixa, aos inadimplementos iniciados entre 25
+de março de 2022 e 5 de outubro de 2024, e assim permanecerá
+durante toda a vigência do programa.
+
+119. O programa, porém, durará até 30 de junho de 2028, seiscentos e
+quarenta e quatro dias depois da data de referência, e a própria
+medida provisória prevê a realização de chamamentos em etapas. A
+consequência é que uma dívida inadimplida desde 1º de janeiro de
+2025, que em 25 de setembro de 2026 contava seiscentos e trinta e dois
+dias de atraso, jamais será elegível, embora, no curso de 2027 e de
+
+
+[[pagina 23 | nativo]]
+2028, venha a superar em muito o prazo mínimo de setecentos e vinte
+dias que o próprio legislador considerou adequado.
+
+120. A duração do programa e a janela de elegibilidade não guardam
+congruência entre si. O critério que a medida provisória elege, a
+antiguidade do inadimplemento, passa a operar como recorte de
+data, que separa os devedores segundo o momento em que se
+tornaram inadimplentes, qualquer que venha a ser a duração do
+inadimplemento.
+
+121. A irrazoabilidade se agrava quando se considera o que o recorte
+exclui.
+
+122. O período posterior a 5 de outubro de 2024 coincide com a entrada
+em funcionamento do mercado regulado de apostas de quota fixa, a
+partir de 1º de janeiro de 2025, e com a elevação da taxa básica de
+juros ao longo de 2025.
+
+123. É precisamente esse o período cujos efeitos sobre o orçamento das
+famílias o Poder Executivo reconheceu ao editar, no mesmo dia, a
+Medida Provisória nº 1.394/2026, que proíbe as apostas de quota fixa,
+e ao associar publicamente o endividamento às apostas no
+lançamento do Desenrola Brasil 3.0.
+
+124. A política de renegociação exclui, assim, as dívidas formadas no
+período que o próprio Poder Executivo identifica como a causa mais
+recente do endividamento das famílias, contradição que compromete
+a coerência entre a finalidade declarada e o meio adotado.
+
+125. A essa incongruência soma-se a proteção insuficiente já examinada.
+As duas edições de 2026 foram desenhadas para se completarem no
+tempo, a segunda alcançando as dívidas que a primeira não
+alcançava. Com a perda de eficácia da Medida Provisória nº
+1.355/2026, o grupo de devedores cujo inadimplemento se formou
+depois de outubro de 2024 perdeu o instrumento que lhe era
+destinado e não foi acolhida pelo novo. O vazio tende a perdurar por
+toda a vigência do programa, pois a janela fixa do art. 31-C, § 1º, I,
+impede que essa coorte venha a ser alcançada nas etapas posteriores
+do programa.
+
+126. A incongruência se corrige pela contagem dos prazos do art. 31-C, §
+1º, I, a partir da data de publicação de cada chamamento público, em
+lugar da data fixa de 25 de setembro de 2026. A leitura preserva
+
+
+[[pagina 24 | nativo]]
+integralmente o critério escolhido pelo legislador, a antiguidade do
+inadimplemento superior a setecentos e vinte dias, e permite que ele
+opere durante toda a vigência do programa. A dívida inadimplida
+desde 1º de janeiro de 2026 torna-se elegível nos chamamentos
+publicados a partir de 23 de dezembro de 2026, e, até 30 de junho de
+2028, o programa poderá alcançar as dívidas inadimplidas até o início
+de julho de 2026, incorporando progressivamente a corte hoje
+excluída, sem alteração do deságio mínimo e do limite de despesa.
+
+127. A fixação do marco final de elegibilidade do Desenrola Brasil 3.0 em
+31 de dezembro de 2026 reproduz essa técnica e produz quatro efeitos
+compatíveis com a Constituição: alcança a integralidade do primeiro
+ano de funcionamento do mercado regulado de apostas; exige, na
+data de referência, no mínimo duzentos e sessenta e oito dias de
+inadimplemento, período muito superior ao atraso de noventa e um
+dias que a Medida Provisória nº 1.355/2026 adotou como piso de
+elegibilidade; preserva o limite máximo de mil seiscentos e quarenta
+e cinco dias e o tratamento das dívidas mais antigas previsto no § 3º,
+III; e mantém a lógica de marco fixo, que confere previsibilidade aos
+credores na formação das carteiras.
+
+128. A incorporação desse grupo não compromete a racionalidade
+econômica do procedimento, pois os §§ 4º e 5º do art. 31-C autorizam
+o Ministério da Fazenda a realizar chamamentos específicos e a
+agrupar os créditos em lotes segundo a antiguidade, de modo que as
+dívidas de inadimplemento mais recente possam ser ofertadas em
+lotes próprios, sem afetar a comparabilidade das propostas relativas
+às carteiras mais antigas e sem alterar o deságio mínimo fixado em
+lei. Caberá ao mercado, no procedimento competitivo, revelar em que
+medida os credores aceitam alienar essas carteiras nas condições
+legais, e à União, dentro do limite de dotações, adquirir as que
+ofereçam maior desconto.
+
+E.2. A proteção insuficiente na fixação do prazo de 31 de dezembro na
+Medida Provisória nº 1.355/2026
+
+129. O financiamento da política de renegociação foi estruturado, na
+Medida Provisória nº 1.355/2026, em torno de dois prazos de 31 de
+dezembro.
+
+130. O art. 12 limitou a transferência ao FGO aos "valores a devolver"
+informados ao SVR até 31 de dezembro de 2024, e o art. 15, § 2º,
+determinou a devolução à União, por resgate de cotas, dos recursos
+
+
+[[pagina 25 | nativo]]
+por ela aportados ao Fundo que não tenham sido utilizados até 31 de
+dezembro de 2026.
+
+131. Por força do art. 62, § 11, da Constituição, e à falta de decreto
+legislativo, ambos continuam a reger as relações jurídicas
+constituídas durante a vigência da medida provisória, e ambos
+restringem, sem justificação, os recursos disponíveis para a proteção
+do consumidor superendividado.
+
+132. O marco de 31 de dezembro de 2024 foi fixado por medida provisória
+editada em maio de 2026, cerca de dezesseis meses depois, e deixou
+fora da transferência os valores informados ao SVR ao longo de 2025
+e no início de 2026.
+
+133. Segundo o Banco Central, permaneceram no sistema, depois da
+transferência, R$ 6,24 bilhões em maio e R$ 5,12 bilhões em junho de
+2026, montante da mesma ordem de grandeza dos cerca de R$ 5,7
+bilhões transferidos.
+
+134. Esses recursos poderiam lastrear a renegociação de dívidas sob a
+mesma lógica que o Relator da ADI 7.979 reconheceu como
+compatível com o direito de propriedade, pois a transferência não
+priva os titulares de seus créditos e apenas altera o depositário dos
+recursos não procurados, com reserva para devoluções e prazo de
+contestação.
+
+135. A escolha de uma data pretérita, que não guarda relação com a data
+de edição da medida provisória nem com o calendário do programa,
+manteve ociosos recursos disponíveis e compatíveis com o direito de
+terceiros, ao mesmo tempo em que o programa sucessor foi limitado
+a R$ 15 bilhões e restrito aos recortes examinados nesta ação.
+
+136. O Estado dispunha de meio adequado e menos gravoso para ampliar
+a proteção devida ao consumidor superendividado e deixou de
+utilizá-lo em razão de uma data desprovida de justificação, o que
+caracteriza proteção insuficiente.
+
+137. O prazo de 31 de dezembro de 2026 previsto no art. 15, § 2º, agrava o
+quadro.
+
+138. Foi fixado para um programa cujo prazo de adesão se encerrou em 31
+de agosto de 2026 e, mantido em sua literalidade, determina a
+devolução ao Tesouro dos recursos eventualmente aportados pela
+
+
+[[pagina 26 | nativo]]
+União e não comprometidos com garantias semanas antes de o
+Desenrola Brasil 3.0, que dá continuidade à mesma política, iniciar a
+contratação das operações de parcelamento, prevista para fevereiro
+de 2027.
+
+139. Na mesma linha, o saldo dos recursos do SVR ao fim do prazo das
+operações é deslocado, pelo art. 12, § 4º, combinado com o art. 9º,
+parágrafo único, para a garantia de outras linhas de crédito do FGO.
+A estrutura de garantia constituída para a renegociação de dívidas de
+pessoas físicas é, assim, desmobilizada precisamente no intervalo
+entre as duas edições do programa, quando os devedores excluídos
+do Novo Desenrola Brasil e ainda não alcançados pelo novo modelo
+mais dependem dela.
+
+140. A correção desses prazos pelo Poder Executivo encontra obstáculo no
+art. 62, § 10, da Constituição, que veda a reedição, na mesma sessão
+legislativa, de medida provisória que tenha perdido a eficácia por
+decurso de prazo. Até o início da próxima sessão legislativa, a
+insuficiência somente pode ser remediada por lei ou pela
+interpretação que esta Corte conferir às normas que continuam a
+reger as relações constituídas, o que reforça a necessidade da tutela
+requerida.
+
+141. Quanto ao prazo de 31 de dezembro de 2026, a solução está ao alcance
+da interpretação conforme. Os recursos aportados pela União com
+fundamento no art. 15 integram relação jurídica constituída durante
+a vigência da medida provisória e destinam-se à cobertura de
+operações de reestruturação de dívidas de pessoas físicas. Lido à luz
+do dever de proteção e da continuidade da política, o art. 15, § 2º, deve
+ser compreendido no sentido de que o termo de 31 de dezembro de
+2026 não se aplica enquanto vigente o Desenrola Brasil 3.0, podendo
+os recursos não comprometidos ser alocados, por ato do Ministro de
+Estado da Fazenda, à garantia das operações de parcelamento
+previstas no art. 31-D, II, da Lei nº 14.690/2023 ou à integralização de
+cotas no fundo previsto no seu art. 31-G, até 30 de junho de 2028.
+
+142. Quanto ao marco de 31 de dezembro de 2024, cuja extensão aos
+valores informados posteriormente depende de ato legislativo,
+requer-se que a Corte reconheça a proteção insuficiente e dirija apelo
+ao Congresso Nacional para que, na lei que vier a disciplinar a
+matéria, estenda a sistemática do art. 12 aos valores informados ao
+SVR até a data da perda de eficácia da medida provisória,
+preservados a reserva para devoluções e o direito dos titulares.
+
+
+[[pagina 27 | nativo]]
+F) Da técnica decisória adequada.
+
+143. O autor não desconhece que esta Corte não atua como legislador
+positivo e que a Súmula Vinculante 37 veda ao Poder Judiciário
+aumentar vencimentos de servidores públicos sob o fundamento de
+isonomia.
+
+144. A orientação, contudo, tem campo próprio, relacionado à reserva de
+iniciativa em matéria remuneratória e à criação de despesa sem base
+legal, e não impede que o Tribunal, diante de norma que exclui
+indevidamente grupo em situação equivalente à dos beneficiados,
+empregue as técnicas decisórias que a sua jurisprudência consolidou
+para a tutela de direitos fundamentais.
+
+145. Entre elas estão a interpretação conforme à Constituição, de que é
+exemplo o julgamento da ADI 4.277 e da ADPF 132 (Rel. Min. Ayres
+Britto); as decisões de perfil aditivo, adotadas nos Mandados de
+Injunção 670, 708 e 712 e na ADO 26 (Rel. Min. Celso de Mello); e a
+declaração de inconstitucionalidade sem pronúncia de nulidade, com
+apelo ao legislador, adotada no julgamento conjunto das ADIs 875,
+1.987, 2.727 e 3.243 (Rel. Min. Gilmar Mendes), relativas aos critérios
+de rateio do Fundo de Participação dos Estados, e na Rcl 4.374. Gilmar
+Ferreira Mendes e Paulo Gustavo Gonet Branco observam que, nos
+casos de exclusão de benefício incompatível com o princípio da
+igualdade, a simples declaração de nulidade da norma pode agravar
+a situação inconstitucional, retirando o benefício também dos
+incluídos, razão pela qual a Corte deve buscar a técnica que repare a
+exclusão sem suprimir a proteção existente.
+
+146. No caso, a reparação não exige que o Tribunal crie critério novo. Os
+parâmetros necessários estão no próprio sistema normativo: o valor
+de R$ 15.000,00 foi adotado pelo Poder Executivo na Medida
+Provisória nº 1.355/2026 para o mesmo objetivo; a antiguidade do
+inadimplemento superior a setecentos e vinte dias é o próprio critério
+eleito no art. 31-C, § 1º, I, e a leitura proposta apenas o desvincula de
+uma data fixa; a inclusão de dívidas de maior valor e de
+inadimplemento mais recente, com pagamento limitado ao teto e com
+o mesmo deságio, está prevista no § 3º do art. 31-C; e a segmentação
+dos chamamentos e a formação de lotes por antiguidade estão
+previstas nos §§ 4º e 5º.
+
+
+[[pagina 28 | nativo]]
+147. A decisão requerida limita-se a converter em critério objetivo de
+elegibilidade aquilo que a medida provisória deixou ao arbítrio do
+credor, e a alinhar o alcance do programa a parâmetros que o próprio
+Poder Executivo já considerou adequados.
+
+148. A decisão requerida tampouco rompe a disciplina fiscal do programa.
+
+149. O art. 31-E, cuja validade não se questiona, limita as despesas de
+aquisição a R$ 15 bilhões e lhes atribui natureza discricionária, e o §
+1º, IV, do art. 31-C determina que as propostas sejam classificadas
+pelo maior deságio, observado o limite das dotações orçamentárias.
+
+150. A ampliação da elegibilidade não cria para a União obrigação de
+adquirir carteira alguma, nem confere ao devedor direito subjetivo a
+pagamento; amplia o conjunto de carteiras que podem ser ofertadas
+no procedimento competitivo.
+
+151. Pelo critério do maior desconto, a ampliação da oferta tende a elevar
+o deságio obtido pela União, o que beneficia simultaneamente o
+erário e os devedores. E o primeiro pedido desta ação indica fonte
+adicional de recursos, já constituída, para fazer frente à ampliação,
+sem necessidade de nova despesa primária.
+
+G) Da preservação da eficácia dos arts. 12 e 13 da Medida Provisória nº
+1.355/2026.
+
+152. O art. 62, § 3º, da Constituição determina que as medidas
+provisórias perdem eficácia, desde a edição, se não forem convertidas
+em lei no prazo constitucional, devendo o Congresso Nacional
+disciplinar, por decreto legislativo, as relações jurídicas delas
+decorrentes.
+
+153. O § 11 do mesmo artigo estabelece que, não editado o decreto
+legislativo até sessenta dias após a perda de eficácia, as relações
+jurídicas constituídas e decorrentes de atos praticados durante a
+vigência da medida provisória conservar-se-ão por ela regidas.
+
+154. Clèmerson Merlin Clève observa que o dispositivo, introduzido pela
+Emenda Constitucional nº 32/2001, conferiu ultratividade à medida
+provisória não convertida em relação às situações consolidadas
+durante a sua vigência, em nome da segurança jurídica.
+
+
+[[pagina 29 | nativo]]
+155. Durante a vigência da Medida Provisória nº 1.355/2026 constituíram-
+se relações jurídicas definidas com base nos seus arts. 12 e 13: as
+instituições financeiras transferiram ao FGO, segundo o Ministério da
+Fazenda, cerca de R$ 5,7 bilhões em "valores a devolver"; os recursos
+foram segregados em conta apartada, com reserva para eventuais
+demandas de devolução (art. 12, § 6º); e, observado o procedimento
+de edital e contestação do art. 13, os valores não contestados
+incorporam-se ao patrimônio do Fundo, sem prejuízo do disposto no
+art. 46 da Lei nº 14.973/2024, a que remete o próprio art. 13, § 1º. Essas
+relações foram examinadas por esta Corte na ADI 7.979, cujo Relator
+reconheceu, em juízo cautelar, que a transferência não priva os
+titulares de seus créditos.
+
+156. Até 30 de outubro de 2026, contudo, pende a possibilidade de edição
+do decreto legislativo, e, com ela, a incerteza sobre o destino desses
+recursos.
+
+157. A perda de eficácia da medida provisória pode ser invocada para
+sustentar a restituição dos recursos às instituições financeiras, ou para
+sustentar que a destinação prevista no art. 12, § 3º, se esgotou com o
+encerramento do programa ao qual os recursos estavam vinculados,
+o que os deslocaria, pelo art. 12, § 4º, combinado com o art. 9º,
+parágrafo único, para a garantia de outras linhas de crédito do FGO,
+alheias à renegociação de dívidas de pessoas físicas.
+
+158. Qualquer dessas soluções frustraria a finalidade com que os recursos
+foram reunidos e subtrairia à política pública de renegociação a fonte
+de custeio que poderia viabilizar a ampliação aqui postulada.
+
+159. O pedido preserva integralmente a competência do Congresso
+Nacional para editar o decreto legislativo e se limita a assegurar que,
+enquanto essa deliberação não ocorrer, a eficácia dos arts. 12 e 13 seja
+preservada, com a manutenção dos recursos no FGO, segregados e
+afetados à renegociação de dívidas de pessoas físicas, e que, em
+interpretação conforme dos arts. 31-E e 31-G da Lei nº 14.690/2023 e
+do art. 12, §§ 3º e 4º, da Medida Provisória nº 1.355/2026, a parcela
+desses recursos não comprometida com as garantias das operações
+contratadas no Novo Desenrola Brasil possa ser alocada, por ato do
+Ministro de Estado da Fazenda, ao Desenrola Brasil 3.0, seja mediante
+integralização de cotas no fundo previsto no art. 31-G, seja como
+garantia das operações de parcelamento previstas no art. 31-D, II,
+preservados sempre a reserva destinada aos titulares e o seu direito à
+restituição.
+
+
+[[pagina 30 | nativo]]
+160. A leitura proposta é a que melhor realiza a finalidade dos
+dispositivos. Os recursos do SVR foram transferidos ao FGO para
+custear a renegociação de dívidas de pessoas físicas; o Desenrola
+Brasil 3.0 é a continuação dessa mesma política, instituída pelo
+mesmo Poder Executivo, sob a mesma lei, para o mesmo público; e a
+destinação dos recursos à ampliação determinada nesta ação mantém
+a sua afetação original, ao passo que o seu deslocamento para outras
+linhas de crédito do Fundo a desviaria. O limite de R$ 15 bilhões do
+art. 31-E, que se refere às dotações orçamentárias consignadas ao
+Ministério da Fazenda, não impede o aporte complementar de
+recursos de fundo já constituído e afetado à mesma finalidade.
+
+161. Caso o Congresso Nacional não edite decreto legislativo será
+aplicável a previsão contida no § 11 do art. 62 da Constituição. É dizer,
+os atos praticados durante a vigência serão plenamente válidos. Os
+recursos devem, assim, permanecer à disposição do Poder Público,
+mas com uma finalidade específica: a redução do endividamento das
+famílias brasileiras.
+
+162. Essa compreensão, todavia, não deve ser restrita aos valores já
+incorporados, legalmente, à finalidade prevista. Simples atos
+administrativos de mero atendimento à previsão legal, que são atos
+necessariamente vinculados, devem ser exauridos e os recursos
+transferidos à finalidade prevista.
+
+163. Nessas condições, o pedido formulado, ao final, é para que esses
+recursos – não editado o decreto legislativo – devem ser empregados
+na finalidade indicada não permanecendo isso a critério
+discricionário da Administração.
+
+164. Logo, os recursos transferidos ou passíveis de serem transferidos ao
+FGO, com fundamento no art. 12 da Medida Provisória nº 1.355/2026,
+devem ser exclusivamente e diretamente utilizados, por meio do
+referido fundo, para a compra de carteira de que trata a Medida
+Provisória nº 1.393/2026, em adição ao limite de que trata este
+normativo, de modo a garantir a proteção ao consumidor tomador de
+crédito junto às instituições financeiras.
+
+
+[[pagina 31 | nativo]]
+VI. DA MEDIDA CAUTELAR.
+
+165. A plausibilidade jurídica do pedido está demonstrada: o limite de
+valor rompe a igualdade entre devedores em situação equivalente e
+delega ao credor privado a seleção dos beneficiários de despesa
+pública; o limite de R$ 10.000,00 carece de justificação e de
+proporcionalidade; o marco temporal fixo é incongruente com a
+duração do programa e exclui a coorte de devedores formada no
+período que o próprio Poder Executivo identifica como causa do
+endividamento; os prazos de 31 de dezembro fixados na Medida
+Provisória nº 1.355/2026 limitam e desmobilizam os recursos da
+política na transição entre as suas duas edições; e o conjunto dessas
+exclusões, somado à perda de eficácia da Medida Provisória nº
+1.355/2026, produz vazio de proteção incompatível com o art. 5º,
+XXXII, da Constituição.
+
+166. O perigo da demora decorre do cronograma do programa. O
+chamamento público está previsto para novembro de 2026, a entrega
+das propostas para dezembro de 2026 e a homologação para janeiro
+de 2027. Uma vez publicado o primeiro edital com os critérios atuais
+e formadas, precificadas e homologadas as carteiras, os recursos
+disponíveis estarão comprometidos até o limite do art. 31-E e a
+exclusão dos devedores terá se consolidado, comprometendo a
+utilidade de decisão final de procedência. Além disso, o prazo de
+sessenta dias do art. 62, § 11, da Constituição encerra-se em 30 de
+outubro de 2026, e, até lá, persiste a incerteza sobre o destino dos
+recursos transferidos ao FGO. Os recursos eventualmente aportados
+pela União com fundamento no art. 15 da Medida Provisória nº
+1.355/2026 e não utilizados deverão, por sua vez, ser devolvidos a
+partir de 31 de dezembro de 2026, antes do início das contratações do
+Desenrola Brasil 3.0. Enquanto isso, milhões de devedores excluídos
+permanecem inscritos em cadastros de inadimplentes, com incidência
+de encargos, sem instrumento público de renegociação.
+
+167. A urgência justifica a concessão da medida cautelar pelo Relator, ad
+referendum do Plenário, nos termos do art. 10, § 3º, da Lei nº 9.868/1999
+e do art. 21, V, do Regimento Interno, ou, subsidiariamente, a adoção
+do rito do art. 12 da Lei nº 9.868/1999, com julgamento definitivo antes
+da publicação do primeiro chamamento público.
+
+
+[[pagina 32 | nativo]]
+VII. DOS PEDIDOS.
+
+168. Diante do exposto, a Associação Brasileira de Defesa dos Clientes e
+Consumidores de Operações Financeiras e Bancárias - ABRADEB
+requer:
+
+a) a distribuição da presente ação, por prevenção, ao Ministro
+Cristiano Zanin, relator da ADI 7.979/DF, nos termos do art. 77-B do
+Regimento Interno do Supremo Tribunal Federal;
+
+b) a concessão de medida cautelar, ad referendum do Plenário, para:
+
+b.1) em primeiro lugar, assegurar que, enquanto o Congresso
+Nacional não disciplinar por decreto legislativo as relações jurídicas
+decorrentes da Medida Provisória nº 1.355/2026, nos termos do art.
+62, §§ 3º e 11, da Constituição, e sem prejuízo dessa competência,
+permaneça assegurada a eficácia dos seus arts. 12 e 13, mantidos no
+FGO, em conta segregada e afetados à renegociação de dívidas de
+pessoas físicas, os recursos transferidos a título de "valores a
+devolver" do Sistema de Informações de Valores a Receber,
+preservados a reserva do art. 12, § 6º, e o direito dos titulares à
+restituição, e, em interpretação conforme dos arts. 31-E e 31-G da Lei
+nº 14.690/2023 e do art. 12, §§ 3º e 4º, da Medida Provisória nº
+1.355/2026, admitir que a parcela desses recursos não comprometida
+com as garantias das operações do Novo Desenrola Brasil seja
+alocada, por ato do Ministro de Estado da Fazenda, à ampliação do
+Desenrola Brasil 3.0 determinada nesta ação, mediante integralização
+de cotas no fundo previsto no art. 31-G ou como garantia das
+operações de parcelamento previstas no art. 31-D, II, autorizando,
+desde já, o emprego dos recursos exclusivamente e diretamente na
+compra de carteiras de que trata a Medida Provisória nº 1.393/2026,
+em adição ao limite de que trata este normativo, de modo a garantir
+a proteção ao consumidor tomador de crédito junto às instituições
+financeiras.
+
+b.2) conferir interpretação conforme à Constituição ao art. 15, § 2º, da
+Medida Provisória nº 1.355/2026, cuja eficácia se preserva nos termos
+do art. 62, § 11, da Constituição, para assentar que o prazo de 31 de
+dezembro de 2026 nele previsto não se aplica enquanto vigente o
+Desenrola Brasil 3.0, podendo os recursos aportados pela União e
+não comprometidos com garantias ser alocados, por ato do Ministro
+de Estado da Fazenda, à garantia das operações de parcelamento
+
+
+[[pagina 33 | nativo]]
+previstas no art. 31-D, II, da Lei nº 14.690/2023 ou à integralização de
+cotas no fundo previsto no seu art. 31-G, até 30 de junho de 2028;
+
+b.3.1) conferir interpretação conforme à Constituição ao art. 31-C, §
+1º, II, da Lei nº 14.690/2023, na redação da Medida Provisória nº
+1.393/2026, para que sejam elegíveis ao Desenrola Brasil 3.0 as
+dívidas inadimplidas com valor original de até R$ 15.000,00 (quinze
+mil reais);
+
+b.3.2) conferir interpretação conforme para que todos as dívidas das
+pessoas com renda até R$5.000,00 (cinco mil reais),
+independentemente do valor da dívida, sejam elegíveis ao
+programa atendidas as demais condições, eis que são objetivamente
+vulneráveis, conforme critério estabelecido pelo próprio Supremo
+Tribunal Federal no julgamento da ADC nº 80, Tribunal Pleno, rel.
+para acórdão Min. Gilmar Mendes, j. 3.9.2026, acórdão pendente de
+publicação.
+
+b.3.3) caso não seja possível estabelecer que todos os vulneráveis
+sejam alcançados pelas medidas referidas no Desenrola 3.0, que ao
+menos seja determinado ao Conselho Monetário Nacional que o
+priorize o atendimento das pessoas de baixa renda conforme critério
+fixado pela jurisprudência do Supremo Tribunal Federal.
+
+b.4) conferir interpretação conforme à Constituição ao art. 31-C, § 1º,
+I, da Lei nº 14.690/2023, na redação da Medida Provisória nº
+1.393/2026, para que os prazos nele previstos sejam contados da data
+de publicação de cada chamamento público, e não da data fixa de 25
+de setembro de 2026;
+
+b.5) conferir interpretação conforme à Constituição ao art. 31-C, § 3º,
+I e II, e §§ 4º e 5º, da Lei nº 14.690/2023, na redação da Medida
+Provisória nº 1.393/2026, para assentar que a inclusão das dívidas
+referidas nos itens b.3.1, b.3.2, e b.4 não depende de critério exclusivo
+do credor, cabendo ao Ministério da Fazenda, no ato previsto no art.
+31-H e nos editais de chamamento, prever chamamentos ou lotes
+específicos para essas dívidas, de modo a preservar a
+comparabilidade das propostas, mantidos o deságio mínimo do § 1º,
+
+
+[[pagina 34 | nativo]]
+III, e a regra de oferta integral do § 1º, V, no âmbito de cada
+chamamento ou lote;
+
+b.6) determinar que o ato regulamentar previsto no art. 31-H e o
+primeiro chamamento público do Desenrola Brasil 3.0 observem os
+critérios fixados nos itens anteriores;
+
+c) a requisição de informações ao Presidente da República e ao
+Congresso Nacional, nos termos do art. 6º da Lei nº 9.868/1999,
+inclusive quanto à razão da fixação do limite de R$ 10.000,00 e do
+termo de referência de 25 de setembro de 2026, e a oitiva do
+Advogado-Geral da União e do Procurador-Geral da República, nos
+termos do art. 8º da mesma lei;
+
+d) no mérito, a procedência do pedido, para confirmar a medida
+cautelar e declarar a inconstitucionalidade parcial, sem redução de
+texto, do art. 31-C, § 1º, I e II, e § 3º, I e II, da Lei nº 14.690/2023, na
+redação dada pelo art. 2º da Medida Provisória nº 1.393/2026, nas
+interpretações que (i) excluam do programa as dívidas com valor
+original de até R$ 15.000,00, (ii) vinculem a contagem dos prazos de
+inadimplemento à data fixa de 25 de setembro de 2026 e (iii)
+condicionem a inclusão das dívidas referidas nos itens b.3.1, b.3.2, e
+b.4. a critério exclusivo do credor, conferindo-se a esses dispositivos,
+aos arts. 31-E e 31-G da mesma lei e ao art. 15, § 2º, da Medida
+Provisória nº 1.355/2026 interpretação conforme nos termos dos itens
+b.1 a b.6, e reconhecer a proteção insuficiente decorrente da fixação
+do marco de 31 de dezembro de 2024 no art. 12 da Medida Provisória
+nº 1.355/2026, com apelo ao Congresso Nacional para que estenda a
+sistemática nele prevista aos valores informados ao Sistema de
+Informações de Valores a Receber até a data da perda de eficácia
+daquela medida provisória, preservados a reserva para devoluções e
+o direito dos titulares;
+
+e) subsidiariamente ao item d:
+
+e.1) quanto ao limite de valor, conferir interpretação conforme ao art.
+31-C, § 1º, II, para que o "valor original" seja entendido como o valor
+do principal devido na data do inadimplemento, excluídos os
+encargos, de modo que os pagamentos realizados pelo devedor antes
+do inadimplemento sejam considerados na aferição do limite;
+
+e.2) caso não acolhidas as técnicas anteriores, declarar a
+inconstitucionalidade por omissão parcial dos dispositivos
+
+
+[[pagina 35 | nativo]]
+impugnados, sem pronúncia de nulidade, reconhecida a
+fungibilidade entre as ações diretas, com apelo ao legislador para
+que, em prazo razoável fixado pela Corte, discipline a inclusão no
+programa dos grupos de devedores indevidamente excluídos;
+
+f) caso a Medida Provisória nº 1.393/2026 venha a ser convertida em
+lei ou alterada, a admissão do aditamento da inicial, que o autor
+desde já requer.
+
+Nestes termos, pede deferimento.
+
+Brasília, 28 de setembro de 2026.
+
+Walter José Faiad de Moura
+OAB/DF 17.390
+
+

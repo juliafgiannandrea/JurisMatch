@@ -1,0 +1,2262 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO EGRÉGIO SUPREMO TRIBUNAL FEDERAL
+
+DISTRIBUIÇÃO POR PREVENÇÃO AO MINISTRO NUNES MARQUES (ADI 7551)
+
+CONFEDERAÇÃO NACIONAL DA INDÚSTRIA (CNI), entidade sindical de grau superior,
+
+CNPJ 33.665.126/0001-34, com sede no SBN, Quadra 1, Bloco C, Ed. Roberto Simonsen,
+
+Brasília/DF, CEP 70.040-903, representada por seus advogados (documentos de
+
+representação), vem, respeitosamente, perante Vossa Excelência, com fundamento nos
+
+arts. 102 (inciso I, alínea “a”, e § 1º) e 103 (inciso IX) da Constituição, e nas Leis 9.868/99
+
+e 9.882/99, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE CUMULADA COM ARGUIÇÃO DE DESCUMPRIMENTO DE
+
+PRECEITO FUNDAMENTAL COM PEDIDO DE MEDIDA CAUTELAR
+
+tendo por objeto a declaração da inconstitucionalidade dos arts. 1º a 12, 15, 16 e 21 da Lei
+
+14.789/23, que instituíram novo tratamento para a tributação das subvenções concedidas
+
+pela União, Estados, DF e Municípios, bem como a declaração de inconstitucionalidade,
+
+sem redução de texto, mediante interpretação conforme a Constituição, dos arts. 43, caput,
+
+incisos I e II, e § 1º, do Código Tributário Nacional; 44 da Lei 4.506/64; 6º, caput e § 1º, do
+
+Decreto-Lei 1.598/77; 51 da Lei 7.450/85; 2º da Lei 7.689/88; 37, § 1º, e 57 da Lei
+
+8.981/95; 1º, §§ 1º e 2º, da Lei 10.637/02 e 1º, §§ 1º e 2º, da Lei 10.833/03, conforme
+
+razões que passa a expor.
+
+[[pagina 2 | nativo]]
+EGRÉGIO SUPREMO TRIBUNAL FEDERAL
+
+I - SÍNTESE DA AÇÃO
+
+1. Esta ação questiona a constitucionalidade do novo tratamento para a tributação
+
+das subvenções concedidas pela União, Estados, DF e Municípios.
+
+2. A sistemática anterior previa a exclusão do valor das subvenções da apuração
+
+do lucro real das empresas e da base de cálculo da Contribuição ao PIS e da Cofins. Já as
+
+novas regras impõem a tributação plena dessas subvenções por IRPJ, CSLL, PIS e Cofins,
+
+além de conceder um crédito fiscal compensatório parcial relativo a subvenções para
+
+investimento, limitado à alíquota correspondente ao IRPJ (25%).
+
+3. A nova sistemática viola o pacto federativo, pois abocanha parte de incentivos e
+
+benefícios fiscais concedidos por Entes Subnacionais em favor de particulares no contexto
+
+de programas públicos de estímulo ao setor produtivo, que vêm acompanhado de
+
+expectativas econômicas e sociais a eles inerentes. O esvaziamento, a partir do uso da
+
+competência tributária da União, de políticas públicas de incentivo fiscal dos demais Entes
+
+Federativos viola frontalmente o pacto federativo.
+
+4. Em adição, esta ação também enfoca o desrespeito ao conceito constitucional
+
+de receita e aos conceitos de renda e lucro inerentes à tributação das subvenções sob a
+
+nova sistemática aqui atacada. Isto porque, como será desenvolvido adiante, as
+
+subvenções não correspondem a “ingresso financeiro que se integra ao patrimônio na
+
+condição de elemento novo e positivo, sem reservas ou condições”, “o registro contábil de
+
+diminuição do passivo, ainda que anotado como ingresso, não o transforma em receita”, e
+
+tampouco as subvenções se configuram “valores de livre disponibilidade do seu
+
+beneficiário”.
+
+[[pagina 3 | nativo]]
+II - CONTEXTUALIZAÇÃO LEGAL
+
+5. Questiona-se a constitucionalidade do novo tratamento para a tributação das
+
+subvenções concedidas pela União, Estados, DF e Municípios.
+
+6. Subvenções,1 para efeitos da discussão aqui desenvolvida, são benefícios
+
+fiscais concedidos pelos entes tributantes na forma de créditos presumidos, redução de
+
+base de cálculo, redução de alíquota, isenção, diferimento, entre outros, podendo ser
+
+classificadas como subvenções para custeio (para as quais não é exigida contrapartida) ou
+
+subvenções para investimento (que estão associadas à implantação ou expansão de
+
+empreendimentos econômicos).
+
+7. A Lei 14.789/23 instituiu o novo tratamento tributário das subvenções
+
+concedidas pelos Entes Federativos, com efeito a partir de 1º/1/2024, passando de
+
+exclusão do valor das subvenções da apuração do lucro real das empresas e da base de
+
+cálculo da Contribuição ao PIS e da Cofins, para a tributação plena dessas subvenções por
+
+IRPJ, CSLL, PIS e Cofins, além de conceder um crédito fiscal compensatório parcial
+
+relativo a subvenções para investimento, limitado à alíquota correspondente ao IRPJ
+
+
+8. Historicamente, o instituto da subvenção possui assento no direito financeiro,
+
+enquanto forma de despesa pública consistente em transferência periódica de recurso
+
+estatal, sem qualquer contraprestação específica e direta, que pode ser dirigido a entes
+
+públicos ou privados, podendo ser definida como “auxílio financeiro, previsto no orçamento
+
+público, para ajudar entidades públicas ou particulares a desenvolver atividades
+
+assistenciais, culturais ou empresariais”2.
+
+1 “O conceito de subvenção, em âmbito tributário, corresponde às transferências de patrimônio e capital
+recebidas pela pessoa jurídica cuja origem, em regra, encontra-se no Poder Público. Tais transferências
+recebem essa denominação uma vez que assim são designadas pela contabilidade e pelo orçamento dos
+entes públicos, e também devido à utilização da expressão, com o sentido de transferência de renda, pelo
+direito privado.” (SCHOUERI, Luís Eduardo; BARBOSA, Mateus Calicchio. Subvenções para Investimento e
+Parceria Público-privada. Revista Direito Tributário Atual, [S. l.], n. 27, p. 480–493, 2012. p. 483. Disponível
+em: https://revista.ibdt.org.br/index.php/RDTA/article/view/1686. Acesso 22 fev. 2024)
+
+2 OLIVEIRA, Regis Fernandes de. Curso de Direito Financeiro. 2ª tir. São Paulo: Revista dos Tribunais, 2007.
+p. 371.
+
+[[pagina 4 | nativo]]
+9. A Lei 4.320/64, recepcionada com status de lei complementar pela Constituição
+
+de 1988, confere tratamento normativo à matéria em seu art. 12, § 3º, ao segregar as
+
+subvenções em: sociais (destinadas a instituições públicas ou privadas de caráter
+
+assistencial ou cultural sem finalidade lucrativa) e econômicas (voltadas a empresas
+
+públicas ou privadas de caráter industrial, comercial, agrícola ou pastoril).
+
+10. Em relação às subvenções econômicas destinadas às pessoas jurídicas de
+direito privado, o art. 193 do referido Diploma Legal consigna que eventual ajuda financeira
+
+demandará lei autorizativa específica, não podendo ser livremente prevista na lei
+
+orçamentária do Ente Federativo concedente do auxílio.
+
+11. Já sob a perspectiva tributária, verifica-se a previsão das subvenções para
+custeio ou operação no art. 44 da Lei 4.506/64,4 em que se disse que tais subvenções
+
+integram a receita bruta operacional.
+
+12. Posteriormente, as denominadas subvenções para investimento foram
+
+disciplinadas pelo art. 182, § 1º, alínea “d”, da Lei 6.404/76,5 para se determinar que as
+
+contas em que tais subvenções fossem registradas seriam classificadas como reservas de
+
+capital (alínea revogada pela Lei 11.638/07).
+
+13. Em consonância com essa previsão, o art. 38, § 2º, do Decreto-Lei 1.598/776
+
+dizia que as subvenções para investimento não seriam computadas na determinação do
+
+3 Art. 19. A Lei de Orçamento não consignará ajuda financeira, a qualquer título, a emprêsa de fins lucrativos,
+salvo quando se tratar de subvenções cuja concessão tenha sido expressamente autorizada em lei especial.
+
+4 Art. 44. Integram a receita bruta operacional:
+IV – as subvenções correntes, para custeio ou operação, recebidas de pessoas jurídicas de direito público ou
+privado, ou de pessoas naturais.
+
+5 Art. 182. A conta do capital social discriminará o montante subscrito e, por dedução, a parcela ainda não
+realizada.
+§ 1º Serão classificadas como reservas de capital as contas que registrarem:
+d) as doações e as subvenções para investimento.
+
+6 Art. 38. Não serão computadas na determinação do lucro real as importâncias, creditadas a reservas de
+capital, que o contribuinte com a forma de companhia receber dos subscritores de valores mobiliários de sua
+emissão a título de:
+
+[[pagina 5 | nativo]]
+lucro real, desde que observados determinados requisitos, inclusive seu registro como
+
+reserva de capital (este dispositivo passou por alteração de redação em 19797 e foi
+
+finalmente revogado pela Lei 14.789/23, ora questionada).
+
+14. A Lei 11.638/07 alterou a disciplina da Lei 6.404/76 não apenas para revogar o
+art. 182, § 1º, alínea “d”, citado acima, mas, também, para lhe acrescer o art. 195-A8 e
+
+dizer que a parcela do lucro líquido decorrente de subvenções governamentais para
+
+investimentos poderá ser destinada à reserva de incentivos fiscais.
+
+15. O art. 18 da Lei 11.941/099 estabeleceu as regras de aplicação do Regime
+
+Tributário de Transição (RTT) para as subvenções para investimento, tendo sido revogado
+
+pela Lei 12.973/14.
+
+§ 2º As subvenções para investimento, inclusive mediante isenção ou redução de impostos concedida como
+estímulo à implantação ou expansão de empreendimentos econômicos e as doações não serão computadas
+na determinação do lucro real, desde que:
+a) registradas como reserva de capital, que somente poderá ser utilizada para absorver prejuízos ou ser
+incorporada ao capital social, observado o disposto no artigo 36 e seus parágrafos; ou
+b) feitas em cumprimento de obrigação de garantir a exatidão do balanço do contribuinte e utilizadas para
+absorver superveniências passivas ou insuficiências ativas.
+
+7 § 2º As subvenções para investimento, inclusive mediante isenção ou redução de impostos concedidas
+como estímulo à implantação ou expansão de empreendimentos econômicos, e as doações, feitas pelo
+Poder Público, não serão computadas na determinação do lucro real, desde que:
+a) registradas como reserva de capital, que somente poderá ser utilizada para absorver prejuízos ou ser
+incorporada ao capital social, observado o disposto nos §§ 3º e 4º do artigo 19; ou
+b) feitas em cumprimento de obrigação de garantir a exatidão do balanço do contribuinte e utilizadas para
+absorver superveniências passivas ou insuficiências ativas.
+
+8 Art. 195-A. A assembléia geral poderá, por proposta dos órgãos de administração, destinar para a reserva
+de incentivos fiscais a parcela do lucro líquido decorrente de doações ou subvenções governamentais para
+investimentos, que poderá ser excluída da base de cálculo do dividendo obrigatório (inciso I do caput do art.
+202 desta Lei).
+
+9 Art. 18. Para fins de aplicação do disposto nos arts. 15 a 17 desta Lei às subvenções para investimento,
+inclusive mediante isenção ou redução de impostos, concedidas como estímulo à implantação ou expansão
+de empreendimentos econômicos, e às doações, feitas pelo Poder Público, a que se refere o art. 38 do
+Decreto-Lei 1.598, de 26 de dezembro de 1977, a pessoa jurídica deverá:
+I – reconhecer o valor da doação ou subvenção em conta do resultado pelo regime de competência, inclusive
+com observância das determinações constantes das normas expedidas pela Comissão de Valores
+Mobiliários, no uso da competência conferida pelo § 3º do art. 177 da Lei 6.404, de 15 de dezembro de 1976,
+no caso de companhias abertas e de outras que optem pela sua observância;
+II – excluir do Livro de Apuração do Lucro Real o valor decorrente de doações ou subvenções
+governamentais para investimentos, reconhecido no exercício, para fins de apuração do lucro real;
+III – manter em reserva de lucros a que se refere o art. 195-A da Lei 6.404, de 15 de dezembro de 1976, a
+parcela decorrente de doações ou subvenções governamentais, apurada até o limite do lucro líquido do
+exercício;
+
+[[pagina 6 | nativo]]
+16. Por sua vez, o art. 3010 da Lei 12.973/14 prevê que as subvenções para
+
+investimento não seriam computadas na determinação do lucro real, desde que atendidas
+determinadas condições, bem como acresceu o inciso V11 no art. 19 do Decreto-Lei
+
+IV – adicionar no Livro de Apuração do Lucro Real, para fins de apuração do lucro real, o valor referido no
+inciso II do caput deste artigo, no momento em que ele tiver destinação diversa daquela referida no inciso III
+do caput e no § 3º deste artigo.
+§ 1º As doações e subvenções de que trata o caput deste artigo serão tributadas caso seja dada destinação
+diversa da prevista neste artigo, inclusive nas hipóteses de:
+I – capitalização do valor e posterior restituição de capital aos sócios ou ao titular, mediante redução do
+capital social, hipótese em que a base para a incidência será o valor restituído, limitado ao valor total das
+exclusões decorrentes de doações ou subvenções governamentais para investimentos;
+II – restituição de capital aos sócios ou ao titular, mediante redução do capital social, nos 5 anos anteriores à
+data da doação ou da subvenção, com posterior capitalização do valor da doação ou da subvenção, hipótese
+em que a base para a incidência será o valor restituído, limitado ao valor total das exclusões decorrentes de
+doações ou de subvenções governamentais para investimentos; ou
+III – integração à base de cálculo dos dividendos obrigatórios.
+§ 2º O disposto neste artigo terá aplicação vinculada à vigência dos incentivos de que trata o § 2º do art. 38
+do Decreto-Lei 1.598, de 26 de dezembro de 1977, não se lhe aplicando o caráter de transitoriedade previsto
+no § 1º do art. 15 desta Lei.
+§ 3º Se, no período base em que ocorrer a exclusão referida no inciso II do caput deste artigo, a pessoa
+jurídica apurar prejuízo contábil ou lucro líquido contábil inferior à parcela decorrente de doações e
+subvenções governamentais, e neste caso não puder ser constituída como parcela de lucros nos termos do
+inciso III do caput deste artigo, esta deverá ocorrer nos exercícios subsequentes.
+
+10 Art. 30. As subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas
+como estímulo à implantação ou expansão de empreendimentos econômicos e as doações feitas pelo poder
+público não serão computadas na determinação do lucro real, desde que seja registrada em reserva de
+lucros a que se refere o art. 195-A da Lei 6.404, de 15 de dezembro de 1976, que somente poderá ser
+utilizada para:
+I – absorção de prejuízos, desde que anteriormente já tenham sido totalmente absorvidas as demais
+Reservas de Lucros, com exceção da Reserva Legal; ou
+II - aumento do capital social.
+§ 1º Na hipótese do inciso I do caput, a pessoa jurídica deverá recompor a reserva à medida que forem
+apurados lucros nos períodos subsequentes.
+§ 2º As doações e subvenções de que trata o caput serão tributadas caso não seja observado o disposto no
+§ 1º ou seja dada destinação diversa da que está prevista no caput, inclusive nas hipóteses de:
+I – capitalização do valor e posterior restituição de capital aos sócios ou ao titular, mediante redução do
+capital social, hipótese em que a base para a incidência será o valor restituído, limitado ao valor total das
+exclusões decorrentes de doações ou subvenções governamentais para investimentos;
+II – restituição de capital aos sócios ou ao titular, mediante redução do capital social, nos 5 anos anteriores à
+data da doação ou da subvenção, com posterior capitalização do valor da doação ou da subvenção, hipótese
+em que a base para a incidência será o valor restituído, limitada ao valor total das exclusões decorrentes de
+doações ou de subvenções governamentais para investimentos; ou
+III – integração à base de cálculo dos dividendos obrigatórios.
+§ 3º Se, no período de apuração, a pessoa jurídica apurar prejuízo contábil ou lucro líquido contábil inferior à
+parcela decorrente de doações e de subvenções governamentais e, nesse caso, não puder ser constituída
+como parcela de lucros nos termos do caput, esta deverá ocorrer à medida que forem apurados lucros nos
+períodos subsequentes.
+
+11 Art. 19. Considera-se lucro da exploração o lucro líquido do período-base, ajustado pela exclusão dos
+seguintes valores:
+
+[[pagina 7 | nativo]]
+1.598/77 (para excluir as subvenções para investimento da determinação do lucro da
+
+exploração) e os incisos X12 e IX13 nos arts. 1º, § 3º, das Leis 10.637/2002 e 10.833/03
+
+(para dizer que as subvenções para investimento não integravam as bases de cálculo de
+
+PIS/Cofins).
+
+17. Por ocasião da Lei Complementar 160/17, cujo objetivo maior era arrefecer a
+
+cognominada guerra fiscal do ICMS, foram acrescidos os §§ 4º e 5º14 no art. 30 da Lei
+
+12.973/14 para disciplinar que os incentivos e benefícios fiscais de ICMS concedidos pelos
+
+Estados e DF seriam considerados subvenções para investimento, desde que cumpridos
+
+os requisitos e condições previstos naquele art. 30, mesmo que tivessem sido concedidos
+
+em desacordo com o art. 155 (§ 2º, inciso XII, alínea “g”) da Constituição.
+
+18. Destas considerações, conclui-se que, uma vez atendidos os requisitos e
+
+condições legais, tanto as subvenções para investimento, como as para custeio, não eram
+
+tributadas pela União, pois não computadas na determinação do lucro real, nem
+
+integrantes das bases de cálculo de PIS/Cofins.
+
+V – as subvenções para investimento, inclusive mediante isenção e redução de impostos, concedidas como
+estímulo à implantação ou expansão de empreendimentos econômicos, e as doações, feitas pelo poder
+público;
+
+12 Art. 1º A Contribuição para o PIS/Pasep, com a incidência não cumulativa, incide sobre o total das receitas
+auferidas no mês pela pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+§ 3º Não integram a base de cálculo a que se refere este artigo, as receitas:
+X – de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como
+estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder
+público;
+
+13 Art. 1º A Contribuição para o Financiamento da Seguridade Social - Cofins, com a incidência não
+cumulativa, incide sobre o total das receitas auferidas no mês pela pessoa jurídica, independentemente de
+sua denominação ou classificação contábil.
+§ 3º Não integram a base de cálculo a que se refere este artigo as receitas:
+IX - de subvenções para investimento, inclusive mediante isenção ou redução de impostos, concedidas como
+estímulo à implantação ou expansão de empreendimentos econômicos e de doações feitas pelo poder
+público;
+
+14 § 4º Os incentivos e os benefícios fiscais ou financeiro-fiscais relativos ao imposto previsto no inciso II do
+caput do art. 155 da Constituição, concedidos pelos Estados e pelo DF, são considerados subvenções para
+investimento, vedada a exigência de outros requisitos ou condições não previstos neste artigo.
+§ 5º O disposto no § 4º deste artigo aplica-se inclusive aos processos administrativos e judiciais ainda não
+definitivamente julgados.
+
+[[pagina 8 | nativo]]
+19. Com o advento da Lei impugnada (oriunda da conversão da Medida Provisória
+
+1.185/23), houve a revogação dos dispositivos legais que disciplinavam o ambiente de não
+tributação das referidas subvenções, conforme se verifica nos incisos do art. 21.15
+
+20. A regra vigente, portanto, passou a ser a tributação plena das subvenções por
+
+IRPJ, CSLL, PIS e Cofins, com a concessão de um crédito fiscal relativo apenas ao IRPJ,
+
+cuja disciplina se encontra nos arts. 1º a 12 e 15 e 16, da Lei 14.789/23.
+
+21. Pretende-se demonstrar que a tributação plena das subvenções, por parte da
+
+União, é inovação histórica no ordenamento jurídico e viola o pacto federativo (arts. 1º,
+
+caput, 18, caput, e 150, inciso VI, alínea “a”, da Constituição), o federalismo fiscal
+
+cooperativo, a promoção do desenvolvimento e a diminuição das desigualdades regionais
+
+e sociais (arts. 3º, incisos II e III, 151, inciso I, e 155, § 2º, inciso XII, alínea “g”, da
+
+Constituição), bem como o conceito constitucional de receita (arts. 195, inciso I, alínea “b”,
+
+da Constituição) e o conceito de renda e lucro, para fins tributários.
+
+22. Ressalte-se, contudo, que parte das inconstitucionalidades ora apontadas
+
+decorre de interpretação dos arts. 43, caput, incisos I e II, e § 1º, do CTN, 44 da Lei
+
+4.506/64, 6º, caput e § 1º, do Decreto-Lei 1.598/77, 51 da Lei 7.450/85, 2º, da Lei 7.689/88,
+
+37, § 1º, e 57, da Lei 8.981/95, 1º, §§ 1º e 2º, da Lei 10.637/02 e 1º, §§ 1º e 2º, da Lei
+
+10.833/03, no sentido de que o conceito constitucional de receita englobaria as
+
+subvenções recebidas pelas empresas, mesmo nas situações em que não há efetivo
+
+ingresso de novos e positivos valores ao seu patrimônio, mas apenas uma redução de
+
+passivo.
+
+23. Veja que é possível interpretar tais dispositivos à luz do pacto federativo e do
+
+conceito constitucional de receita já adotado por este Supremo Tribunal, qual seja, de
+
+ingresso financeiro que se integra no patrimônio na condição de elemento novo e positivo,
+
+sem reservas ou condições, de modo que as subvenções em tela não seriam alcançadas
+
+15 Art. 21. Ficam revogados os seguintes dispositivos:
+I – inciso V do caput do art. 19 e § 2º do art. 38 do Decreto-Lei 1.598, de 26 de dezembro de 1977;
+II – inciso X do § 3º do art. 1º da Lei 10.637, de 30 de dezembro de 2002;
+III – inciso IX do § 3º do art. 1º da Lei 10.833, de 29 de dezembro de 2003; e
+IV – art. 30 da Lei 12.973, de 13 de maio de 2014.
+
+[[pagina 9 | nativo]]
+pela tributação de IRPJ, CSLL, PIS e Cofins. Sob tal interpretação, não haveria as
+
+inconstitucionalidades ora apontadas.
+
+24. Ademais, agora tratando-se do conceito de renda, a exegese, embora não seja
+
+passível de ser unívoca (pois esse vocábulo é utilizado não apenas para delimitar a
+
+competência tributária da União de que trata o art. 153, inciso III, da Lei Maior), precisa ser
+
+balizada por diretrizes mínimas e à luz de outros princípios e comandos constitucionais, em
+
+especial a cláusula federativa.
+
+25. Em outras palavras, impõe-se declarar, pelas lentes da Constituição, uma
+
+interpretação segundo a qual tais dispositivos legais citados acima observem o conceito
+
+constitucional de receita já adotado por esse Egrégio Tribunal, bem como observem um
+
+conceito de renda que não fira o pacto federativo.
+
+26. Por fim, cabe mencionar que, com a declaração de inconstitucionalidade ora
+
+pleiteada, a repristinação dos dispositivos revogados para voltarem a viger as regras que
+
+autorizam a exclusão dos valores de subvenções para investimento e custeio da
+
+determinação do lucro real, bem como da base de cálculo de PIS/Cofins, desde que
+
+atendidos certos requisitos, é medida consonante com o pacto federativo e com o conceito
+
+constitucional de receita e os conceitos de renda e lucro, bem como observa a
+
+jurisprudência firmada pelo Egrégio Superior Tribunal de Justiça nos Embargos de
+
+Divergência no Recurso Especial (EREsp 1.517.492/PR) e no Tema 1182/STJ.
+
+III - TEOR DOS DISPOSITIVOS ATACADOS
+
+27. Os dispositivos objeto da presente ação são os seguintes:
+
+Arts. 1º a 12, 15, 16 e 21 da Lei 14.789/23 – doc. 01
+
+Art. 1º A pessoa jurídica tributada pelo lucro real que receber subvenção da União, dos
+Estados, do Distrito Federal ou dos Municípios para implantar ou expandir
+empreendimento econômico poderá apurar crédito fiscal de subvenção para
+investimento, observado o disposto nesta Lei.
+
+Art. 2º Para os fins do disposto no art. 1º desta Lei, considera-se:
+
+[[pagina 10 | nativo]]
+I - implantação - o estabelecimento de empreendimento econômico para o
+desenvolvimento da atividade a ser explorada por pessoa jurídica não domiciliada na
+localização geográfica do ente federativo que concede a subvenção;
+II - expansão - a ampliação da capacidade, a modernização ou a diversificação do
+comércio ou da produção de bens ou serviços do empreendimento econômico, inclusive
+mediante o estabelecimento de outra unidade, pela pessoa jurídica domiciliada na
+localização geográfica do ente federativo que concede a subvenção;
+III - crédito fiscal de subvenção para investimento - o direito creditório:
+a) decorrente de implantação ou expansão do empreendimento econômico
+subvencionado por ente federativo;
+b) concedido a título de Imposto sobre a Renda das Pessoas Jurídicas (IRPJ); e
+c) passível de ressarcimento ou de compensação com tributos administrados pela
+Secretaria Especial da Receita Federal do Brasil do Ministério da Fazenda.
+
+Art. 3º Poderá ser beneficiária do crédito fiscal de subvenção para investimento a
+pessoa jurídica habilitada pela Secretaria Especial da Receita Federal do Brasil.
+
+Art. 4º São requisitos para a concessão da habilitação à pessoa jurídica:
+I - ser beneficiária de subvenção para investimento concedida por ente federativo;
+II - haver ato concessivo da subvenção editado pelo ente federativo anterior à
+implantação ou à expansão do empreendimento econômico; e
+III - haver ato concessivo da subvenção editado pelo ente federativo que estabeleça
+expressamente as condições e as contrapartidas a serem observadas pela pessoa
+jurídica relativas à implantação ou à expansão do empreendimento econômico.
+Parágrafo único. Transcorrido o prazo de 30 (trinta) dias da apresentação do pedido de
+habilitação pela pessoa jurídica sem que tenha havido a manifestação pela Secretaria
+Especial da Receita Federal do Brasil, a pessoa jurídica será considerada habilitada.
+
+Art. 5º Observado o direito à ampla defesa e ao contraditório, a habilitação será:
+I - indeferida, na hipótese de a pessoa jurídica não atender aos requisitos de que trata o
+art. 4º desta Lei; ou
+II - cancelada, na hipótese de a pessoa jurídica deixar de atender aos requisitos de que
+trata o art. 4º desta Lei.
+
+Art. 6º A pessoa jurídica habilitada poderá apurar crédito fiscal de subvenção para
+investimento, que corresponderá ao produto das receitas de subvenção e da alíquota
+de 25% (vinte e cinco por cento) relativa ao IRPJ.
+Parágrafo único. O crédito fiscal deverá ser apurado na Escrituração Contábil Fiscal
+(ECF) relativa ao período de apuração de reconhecimento das receitas de subvenção.
+
+Art. 7º Na apuração do crédito fiscal, poderão ser computadas somente as receitas de
+subvenção que:
+I - estejam relacionadas à implantação ou à expansão do empreendimento econômico;
+e
+II - sejam reconhecidas após o protocolo do pedido de habilitação da pessoa jurídica.
+
+Art. 8º Na apuração do crédito fiscal, somente poderão ser computadas as receitas:
+
+[[pagina 11 | nativo]]
+I - que sejam relacionadas às despesas de depreciação, amortização ou exaustão ou
+de locação ou arrendamento de bens de capital, relativas à implantação ou à expansão
+do empreendimento econômico; e
+II - que tenham sido computadas na base de cálculo do IRPJ e da Contribuição Social
+sobre o Lucro Líquido (CSLL).
+§ 1º Não poderão ser computadas na apuração do crédito fiscal:
+I - a parcela das receitas que superar o valor das despesas a que se refere o inciso I do
+caput deste artigo;
+II - a parcela das receitas que superar o valor das subvenções concedidas pelo ente
+federativo; e
+III - as receitas decorrentes de incentivos de IRPJ e do próprio crédito fiscal de
+subvenção para investimento.
+§ 2º Para fins do disposto nos incisos I e II do § 1º deste artigo, os valores serão
+considerados de forma acumulada a partir da data do ato concessivo da subvenção.
+§ 3º O disposto no inciso I do caput e no inciso I do § 1º deste artigo não se aplicará na
+hipótese de subvenção relacionada a bem não sujeito a depreciação, amortização ou
+exaustão.
+§ 4º As receitas de subvenção de que trata o caput deste artigo não serão computadas
+na base de cálculo da estimativa mensal para fins do IRPJ e da CSLL e deverão ser
+tributadas no ajuste anual.
+
+Art. 9º O crédito fiscal de subvenção para investimento devidamente apurado e
+informado à Secretaria Especial da Receita Federal do Brasil poderá ser objeto de:
+I - compensação com débitos próprios, vincendos ou vencidos, relativos a tributos
+administrados pela Secretaria Especial da Receita Federal do Brasil, observada a
+legislação específica; ou
+II - ressarcimento em dinheiro.
+
+Art. 10. O pedido de ressarcimento e a declaração de compensação relativos ao crédito
+fiscal serão recepcionados após o reconhecimento das receitas de subvenção para fins
+de tributação.
+Parágrafo único. Na hipótese de o crédito fiscal não ter sido objeto de compensação, a
+Secretaria Especial da Receita Federal do Brasil efetuará o seu ressarcimento no
+vigésimo quarto mês, contado dos termos iniciais de que trata o caput deste artigo.
+
+Art. 11. O valor do crédito fiscal não será computado na base de cálculo do IRPJ, da
+CSLL, da Contribuição para os Programas de Integração Social e de Formação do
+Patrimônio do Servidor Público (Contribuição para o PIS/Pasep) e da Contribuição para
+o Financiamento da Seguridade Social (Cofins).
+
+Art. 12. O crédito fiscal de subvenção para investimento apurado em desacordo com o
+disposto nesta Lei não será reconhecido pela Secretaria Especial da Receita Federal do
+Brasil.
+
+Art. 15. A Secretaria Especial da Receita Federal do Brasil poderá disciplinar o disposto
+nesta Lei.
+
+Art. 16. Os valores registrados na reserva a que se refere o art. 195-A da Lei nº 6.404,
+de 15 de dezembro de 1976, em razão da aplicação do disposto no art. 30 da Lei nº
+
+[[pagina 12 | nativo]]
+12.973, de 13 de maio de 2014, ou no § 2º do art. 38 do Decreto-Lei nº 1.598, de 26 de
+dezembro de 1977, somente poderão ser utilizados para:
+I - absorção de prejuízos, desde que anteriormente já tenham sido totalmente
+absorvidas as demais reservas de lucros, com exceção da reserva legal; ou
+II - aumento do capital social.
+§ 1º Na hipótese do inciso I do caput deste artigo, a pessoa jurídica deverá recompor a
+reserva à medida que forem apurados lucros nos períodos subsequentes.
+§ 2º Os valores de que trata o caput serão tributados caso não seja observado o
+disposto no § 1º ou seja dada destinação diversa da prevista no caput deste artigo,
+inclusive nas hipóteses de:
+I - capitalização do valor e posterior restituição de capital aos sócios ou ao titular,
+mediante redução do capital social, hipótese em que a base para a incidência será o
+valor restituído, limitado ao valor total das exclusões decorrentes de doações ou de
+subvenções governamentais para investimentos;
+II - restituição de capital aos sócios ou ao titular, mediante redução do capital social,
+nos 5 (cinco) anos anteriores à data da doação ou da subvenção, com posterior
+capitalização do valor da doação ou da subvenção, hipótese em que a base para a
+incidência será o valor restituído, limitada ao valor total das exclusões decorrentes de
+doações ou de subvenções governamentais para investimentos; ou
+III - integração à base de cálculo dos dividendos obrigatórios.
+
+Art. 21. Ficam revogados os seguintes dispositivos:
+I - inciso V do caput do art. 19 e § 2º do art. 38 do Decreto-Lei nº 1.598, de 26 de
+dezembro de 1977;
+II - inciso X do § 3º do art. 1º da Lei nº 10.637, de 30 de dezembro de 2002;
+III - inciso IX do § 3º do art. 1º da Lei nº 10.833, de 29 de dezembro de 2003; e
+IV - art. 30 da Lei nº 12.973, de 13 de maio de 2014.
+
+Art. 43, caput, incisos I e II, e § 1º, do Código Tributário Nacional (caput e
+incisos I e II vigentes desde a redação original do código e § 1º incluído
+pela Lei Complementar 104/01) – doc. 02
+
+Art. 43. O impôsto, de competência da União, sôbre a renda e proventos de qualquer
+natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de
+ambos;
+II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais
+não compreendidos no inciso anterior.
+§ 1º A incidência do imposto independe da denominação da receita ou do rendimento,
+da localização, condição jurídica ou nacionalidade da fonte, da origem e da forma de
+percepção.
+
+Art. 44 da Lei 4.506/64 – doc. 03
+
+Art. 44. Integram a receita bruta operacional:
+IV - As subvenções correntes, para custeio ou operação, recebidas de pessoas
+jurídicas de direito público ou privado, ou de pessoas naturais.
+
+[[pagina 13 | nativo]]
+Art. 6º, caput, e § 1º, do Decreto-Lei 1.598/77 – doc. 04
+
+Art 6º - Lucro real é o lucro líquido do exercício ajustado pelas adições, exclusões ou
+compensações prescritas ou autorizadas pela legislação tributária.
+§ 1º - O lucro líquido do exercício é a soma algébrica de lucro operacional (art. 11), dos
+resultados não operacionais, do saldo da conta de correção monetária (art. 51) e das
+participações, e deverá ser determinado com observância dos preceitos da lei
+comercial.
+
+Art. 51 da Lei 7.450/85 – doc. 05
+
+Art 51 - Ficam compreendidos na incidência do imposto de renda todos os ganhos e
+rendimentos de capital, qualquer que seja a denominação que lhes seja dada,
+independentemente da natureza, da espécie ou da existência de título ou contrato
+escrito, bastando que decorram de ato ou negócio, que, pela sua finalidade, tenha os
+mesmos efeitos do previsto na norma específica de incidência do imposto de renda.
+
+Art. 2º da Lei 7.689/88 – doc. 06
+
+Art. 2º A base de cálculo da contribuição é o valor do resultado do exercício, antes da
+provisão para o imposto de renda.
+§ 1º Para efeito do disposto neste artigo:
+a) será considerado o resultado do período-base encerrado em 31 de dezembro de
+cada ano;
+b) no caso de incorporação, fusão, cisão ou encerramento de atividades, a base de
+cálculo é o resultado apurado no respectivo balanço;
+c ) o resultado do período-base, apurado com observância da legislação comercial, será
+ajustado pela:
+1 - adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio
+líquido;
+2 - adição do valor de reserva de reavaliação, baixada durante o período-base, cuja
+contrapartida não tenha sido computada no resultado do período-base;
+3 - adição do valor das provisões não dedutíveis da determinação do lucro real, exceto
+a provisão para o Imposto de Renda;
+4 - exclusão do resultado positivo da avaliação de investimentos pelo valor de
+patrimônio líquido;
+5 - exclusão dos lucros e dividendos derivados de participações societárias em pessoas
+jurídicas domiciliadas no Brasil que tenham sido computados como receita;
+6 - exclusão do valor, corrigido monetariamente, das provisões adicionadas na forma do
+item 3, que tenham sido baixadas no curso de período-base.
+§ 2º No caso de pessoa jurídica desobrigada de escrituração contábil, a base de cálculo
+da contribuição corresponderá a dez por cento da receita bruta auferida no período de
+1º janeiro a 31 de dezembro de cada ano, ressalvado o disposto na alínea b do
+parágrafo anterior.
+
+Arts. 37, § 1º, e 57, da Lei 8.981/95 – doc. 07
+
+Art. 37. Sem prejuízo dos pagamentos mensais do imposto, as pessoas jurídicas
+obrigadas ao regime de tributação com base no lucro real (art. 36) e as pessoas
+
+[[pagina 14 | nativo]]
+jurídicas que não optarem pelo regime de tributação com base no lucro presumido (art.
+44) deverão, para efeito de determinação do saldo de imposto a pagar ou a ser
+compensado, apurar o lucro real em 31 de dezembro de cada ano-calendário ou na
+data da extinção.
+§ 1º A determinação do lucro real será precedida da apuração do lucro líquido com
+observância das disposições das leis comerciais.
+
+Art. 57. Aplicam-se à Contribuição Social sobre o Lucro (Lei nº 7.689, de 1988) as
+mesmas normas de apuração e de pagamento estabelecidas para o imposto de renda
+das pessoas jurídicas, inclusive no que se refere ao disposto no art. 38, mantidas a
+base de cálculo e as alíquotas previstas na legislação em vigor, com as alterações
+introduzidas por esta Lei.
+§ 1º Para efeito de pagamento mensal, a base de cálculo da contribuição social será o
+valor correspondente a dez por cento do somatório:
+a) da receita bruta mensal;
+b) das demais receitas e ganhos de capital;
+c) dos ganhos líquidos obtidos em operações realizadas nos mercados de renda
+variável;
+d) dos rendimentos produzidos por aplicações financeiras de renda fixa.
+§ 2º No caso das pessoas jurídicas de que trata o inciso III do art. 36, a base de cálculo
+da contribuição social corresponderá ao valor decorrente da aplicação do percentual de
+nove por cento sobre a receita bruta ajustada, quando for o caso, pelo valor das
+deduções previstas no art. 29.
+§ 3º A pessoa jurídica que determinar o Imposto de Renda a ser pago em cada mês
+com base no lucro real (art. 35), deverá efetuar o pagamento da contribuição social
+sobre o lucro, calculando-a com base no lucro líquido ajustado apurado em cada mês.
+§ 4º No caso de pessoa jurídica submetida ao regime de tributação com base no lucro
+real, a contribuição determinada na forma dos §§ 1º a 3º será deduzida da contribuição
+apurada no encerramento do período de apuração.
+
+Art. 1º, §§ 1º e 2º, da Lei 10.637/02 – doc. 08
+
+Art. 1º A Contribuição para o PIS/Pasep, com a incidência não cumulativa, incide sobre
+o total das receitas auferidas no mês pela pessoa jurídica, independentemente de sua
+denominação ou classificação contábil.
+§ 1º Para efeito do disposto neste artigo, o total das receitas compreende a receita
+bruta de que trata o art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e
+todas as demais receitas auferidas pela pessoa jurídica com os respectivos valores
+decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art. 183 da
+Lei nº 6.404, de 15 de dezembro de 1976.
+§ 2º A base de cálculo da Contribuição para o PIS/Pasep é o total das receitas
+auferidas pela pessoa jurídica, conforme definido no caput e no § 1º.
+
+Art. 1º, §§ 1º e 2º, da Lei 10.833/03 – doc. 09
+
+Art. 1º A Contribuição para o Financiamento da Seguridade Social - Cofins, com a
+incidência não cumulativa, incide sobre o total das receitas auferidas no mês pela
+pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+§ 1º Para efeito do disposto neste artigo, o total das receitas compreende a receita
+bruta de que trata o art. 12 do Decreto-Lei nº 1.598, de 26 de dezembro de 1977, e
+
+[[pagina 15 | nativo]]
+todas as demais receitas auferidas pela pessoa jurídica com os seus respectivos
+valores decorrentes do ajuste a valor presente de que trata o inciso VIII do caput do art.
+183 da Lei nº 6.404, de 15 de dezembro de 1976.
+§ 2º A base de cálculo da Cofins é o total das receitas auferidas pela pessoa jurídica,
+conforme definido no caput e no § 1º.
+
+28. Embora haja entendimento dessa Egrégia Corte16 de que é possível delimitar a
+
+eficácia da decisão proferida em sede de controle concentrado de constitucionalidade e,
+
+caso necessário, afastar dos efeitos da decisão declaratória eventual efeito repristinatório
+
+quando verificada a incompatibilidade com a Carta da República, a autora ataca também
+as redações originárias dos arts. 2º da Lei 7.689/88,17 57 da Lei 8.981/95,18 1º, §§ 1º e 2º,
+
+16 ADI. Art. 14, III, alínea d, e V, alínea a, e § 9º, XI e XII, da Lei 11.580/96, do Estado do Paraná, com
+redação dada pelas Leis 16.016/08, e 20.554/21. Preliminares: sobrestamento e ausência de impugnação de
+todo complexo normativo. Rejeição. Tributário. ICMS. Seletividade. Operações de energia elétrica e de
+comunicações. Instituição de alíquota superior à geral. Essencialidade. Violação do art. 155, § 2º, III, da
+Constituição. Aplicação, ao caso, da tese firmada ao exame do RE 714.139-RG/SC. Procedência do pedido.
+Modulação de efeitos.
+1. Não obsta a cognição da ação direta a falta de impugnação de ato jurídico revogado pela norma
+tida como inconstitucional, supostamente padecente do mesmo vício, que se teria por repristinada.
+Cabe à Corte, ao delimitar a eficácia da sua decisão, se o caso, excluir dos efeitos da decisão
+declaratória eventual efeito repristinatório quando constatada incompatibilidade com a ordem
+constitucional.
+3. Ação direta de inconstitucionalidade conhecida. Pedido julgado procedente.
+4. Modulação dos efeitos da decisão, para determinar que este decisum somente produzirá efeitos,
+ressalvadas as ações ajuizadas até 5.2.2021, a partir do exercício financeiro de 2024. (ADI 7110, rel. Min.
+Rosa Weber, Pleno, j. 14/9/2022, DJe-195 28.9.2022 e p. 29.9.2022) destaque nosso
+
+17 Art. 2º A base de cálculo da contribuição é o valor do resultado do exercício, antes da provisão para o
+imposto de renda.
+§ 1º Para efeito do disposto neste artigo:
+a) será considerado o resultado do período-base encerrado em 31 de dezembro de cada ano;
+b) no caso de incorporação, fusão, cisão ou encerramento de atividades, a base de cálculo é o resultado
+apurado no respectivo balanço;
+c) o resultado do período-base, apurado com observância da legislação comercial, será ajustado pela:
+1. exclusão do resultado positivo da avaliação de investimentos pelo valor de patrimônio líquido;
+2. exclusão dos lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que
+tenham sido computado como receita;
+3. exclusão do lucro decorrente de exportações incentivadas, de que trata o art. 1º, § 1º do Decreto-Lei 2.413,
+de 10 de fevereiro de 1988, apurado segundo o disposto no art. 19 do Decreto-Lei 1.598, de 26 de dezembro
+de 1977, e alterações posteriores; (Revogado pela Lei 7.856, de 1989) (Revogado pela Lei 7.988, de 1989)
+4. adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido.
+c) o resultado do período-base, apurado com observância da legislação comercial, será ajustado pela:
+(Redação dada pela Medida Provisória 161, de 1990)
+1 - adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido; (Redação
+dada pela Medida Provisória 161, de 1990)
+2 - adição do valor de reserva de reavaliação, baixado durante o período-base, cuja contrapartida não tenha
+sido computada no resultado do período-base; (Redação dada pela Medida Provisória 161, de 1990)
+3 - adição do valor das provisões não deduzíeis na determinação do lucro real, exceto a provisão para o
+Imposto de Renda; (Redação dada pela Medida Provisória 161, de 1990)
+
+[[pagina 16 | nativo]]
+4 - exclusão do resultado positivo da avaliação de investimentos pelo valor de patrimônio líquido; (Redação
+dada pela Medida Provisória 161, de 1990)
+5 - exclusão dos lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que
+tenham sido computados como receita; (Incluído pela Medida Provisória 161, de 1990)
+6 - exclusão do valor, corrigido monetariamente, das provisões adicionadas, na forma do item 3, que tenham
+sido baixados no curso de período-base. (Incluído pela Medida Provisória 161, de 1990)
+c) o resultado do período-base, apurado com observância da legislação comercial, será ajustado pela:
+(Redação dada pela Lei 8.034, de 1990)
+1 - adição do resultado negativo da avaliação de investimentos pelo valor de patrimônio líquido; (Redação
+dada pela Lei 8.034, de 1990)
+2 - adição do valor de reserva de reavaliação, baixada durante o período-base, cuja contrapartida não tenha
+sido computada no resultado do período-base; (Redação dada pela Lei 8.034, de 1990)
+3 - adição do valor das provisões não dedutíveis da determinação do lucro real, exceto a provisão para o
+Imposto de Renda; (Redação dada pela Lei 8.034, de 1990)
+4 - exclusão do resultado positivo da avaliação de investimentos pelo valor de patrimônio líquido; (Redação
+dada pela Lei 8.034, de 1990)
+5 - exclusão dos lucros e dividendos derivados de investimentos avaliados pelo custo de aquisição, que
+tenham sido computados como receita; (Incluído pela Lei 8.034, de 1990)
+5 - exclusão dos lucros e dividendos derivados de participações societárias em pessoas jurídicas
+domiciliadas no Brasil que tenham sido computados como receita; (Redação dada pela Lei 12.973, de 2014)
+(Vigência)
+6 - exclusão do valor, corrigido monetariamente, das provisões adicionadas na forma do item 3, que tenham
+sido baixadas no curso de período-base. (Incluído pela Lei 8.034, de 1990)
+§ 2º No caso de pessoa jurídica desobrigada de escrituração contábil, a base de cálculo da contribuição
+corresponderá a dez por cento da receita bruta auferida no período de 1º janeiro a 31 de dezembro de cada
+ano, ressalvado o disposto na alínea b do parágrafo anterior.
+
+18 Art. 57. Aplicam-se à Contribuição Social sobre o Lucro (Lei 7.689, de 1988) as mesmas normas de
+apuração e de pagamento estabelecidas para o imposto de renda das pessoas jurídicas, inclusive no que se
+refere ao disposto no art. 38, mantidas a base de cálculo e as alíquotas previstas na legislação em vigor, com
+as alterações introduzidas por esta Lei. (Redação dada pela Lei 9.065, de 1995)
+§ 1º Para efeito de pagamento mensal, a base de cálculo da contribuição social será o valor correspondente
+a dez por cento do somatório:
+a) da receita bruta mensal;
+b) das demais receitas e ganhos de capital;
+c) dos ganhos líquidos obtidos em operações realizadas nos mercados de renda variável;
+d) dos rendimentos produzidos por aplicações financeiras de renda fixa.
+§ 2º No caso das pessoas jurídicas de que trata o inciso III do art. 36, a base de cálculo da contribuição social
+corresponderá ao valor da receita bruta ajustada, quando for o caso, pelo valor das deduções previstas no
+art. 29.
+§ 2º No caso das pessoas jurídicas de que trata o inciso III do art. 36, a base de cálculo da contribuição social
+corresponderá ao valor decorrente da aplicação do percentual de nove por cento sobre a receita bruta
+ajustada, quando for o caso, pelo valor das deduções previstas no art. 29. (Redação dada pela Medida
+Provisória 998, de 1995)
+§ 2º No caso das pessoas jurídicas de que trata o inciso III do art. 36, a base de cálculo da contribuição social
+corresponderá ao valor decorrente da aplicação do percentual de nove por cento sobre a receita bruta
+ajustada, quando for o caso, pelo valor das deduções previstas no art. 29. (Redação dada pela Lei 9.065, de
+1995)
+§ 3º A pessoa jurídica que determinar o Imposto de Renda a ser pago em cada mês com base no lucro real
+(art. 35), deverá efetuar o pagamento da contribuição social sobre o lucro, calculando-a com base no lucro
+líquido ajustado apurado em cada mês.
+§ 4º No caso de pessoa jurídica submetida ao regime de tributação com base no lucro real, a contribuição
+determinada na forma dos §§ 1º a 3º será deduzida da contribuição apurada no encerramento do período de
+apuração.
+
+[[pagina 17 | nativo]]
+da Lei 10.637/0219 e 1º, §§ 1º e 2º, da Lei 10.833/03,20 em atenção à jurisprudência desse
+
+Pretório Excelso21 quanto à necessidade de impugnação completa do bloco normativo para
+
+fins de conhecimento da ação direta de inconstitucionalidade e, com isso, evitar qualquer
+
+efeito repristinatório inconstitucional de legislação pretérita.
+
+29. Considerando que os arts. 43, caput, incisos I e II, do CTN, 44 da Lei 4.506/64,
+
+6º, caput e § 1º, do Decreto-Lei 1.598/77 e 51 da Lei 7.450/85 são anteriores à
+Constituição de 1988, não estão no alcance da ADI (vide ADIs 222 e 4222/MC23 e ADPF
+
+19 Art. 1º A contribuição para o PIS/Pasep tem como fato gerador o faturamento mensal, assim entendido o
+total das receitas auferidas pela pessoa jurídica, independentemente de sua denominação ou classificação
+contábil.
+§ 1º Para efeito do disposto neste artigo, o total das receitas compreende a receita bruta da venda de bens e
+serviços nas operações em conta própria ou alheia e todas as demais receitas auferidas pela pessoa jurídica.
+§ 2º A base de cálculo da contribuição para o PIS/Pasep é o valor do faturamento, conforme definido no
+caput.
+
+20 Art. 1º A Contribuição para o Financiamento da Seguridade Social - COFINS, com a incidência não-
+cumulativa, tem como fato gerador o faturamento mensal, assim entendido o total das receitas auferidas pela
+pessoa jurídica, independentemente de sua denominação ou classificação contábil.
+§ 1º Para efeito do disposto neste artigo, o total das receitas compreende a receita bruta da venda de bens e
+serviços nas operações em conta própria ou alheia e todas as demais receitas auferidas pela pessoa jurídica.
+§ 2º A base de cálculo da contribuição é o valor do faturamento, conforme definido no caput.
+
+21 ADI - IMPUGNAÇÃO PARCIAL – AUSÊNCIA DE UTILIDADE. A impugnação parcial do bloco normativo implica a
+inadequação da ação direta de inconstitucionalidade. (ADI 4333, rel. min. Marco Aurélio, Pleno, j.
+21/10/2015, DJe-058 30.3.2016 e p. 31.3.2016) destaque nosso
+
+22 CONSTITUIÇÃO. LEI ANTERIOR QUE A CONTRARIE. REVOGAÇÃO. INCONSTITUCIONALIDADE SUPERVENIENTE.
+IMPOSSIBILIDADE.
+1. A lei ou é constitucional ou não é lei. Lei inconstitucional é uma contradição em si. A lei é constitucional
+quando fiel à Constituição; inconstitucional na medida em que a desrespeita, dispondo sobre o que lhe era
+vedado. O vício da Inconstitucionalidade é congênito à lei e há de ser apurado em face da Constituição
+vigente ao tempo de sua elaboração. Lei anterior não pode ser inconstitucional em relação à
+Constituição superveniente; nem o legislador poderia infringir Constituição futura. A Constituição
+sobrevinda não torna inconstitucionais leis anteriores com ela conflitantes: revoga-as. Pelo fato de ser
+superior, a Constituição não deixa de produzir efeitos revogatórios. Seria ilógico que a lei fundamental, por
+ser suprema, não revogasse, ao ser promulgada, leis ordinárias. A lei maior valeria menos que a lei ordinária.
+2. Reafirmação da antiga jurisprudência do STF, mais que cinquentenária.
+3. Ação direta de que se não conhece por impossibilidade jurídica do pedido. (ADI 2, rel. min. Paulo Brossard,
+Pleno, j. 6.2.1992, DJ 21.11.1997) destaque nosso
+
+23 CONTROLE NORMATIVO ABSTRATO. A NOÇÃO DE CONSTITUCIONALIDADE-INCONSTITUCIONALIDADE COMO CONCEITO
+DE RELAÇÃO. A QUESTÃO PERTINENTE AO BLOCO DE CONSTITUCIONALIDADE (ADI 514/PI, rel. min. Celso de Mello –
+ADI 595/ES, rel. min. Celso de Mello, v.g.). DIREITO PRÉ-CONSTITUCIONAL. CÓDIGO ELEITORAL, ART. 224.
+INVIABILIDADE DESSA FISCALIZAÇÃO CONCENTRADA EM SEDE DE ADI. AÇÃO DIRETA NÃO CONHECIDA. PARECER DA
+PROCURADORIA-GERAL DA REPÚBLICA PELO NÃO PROVIMENTO. RECURSO DE AGRAVO IMPROVIDO.
+1. ADI não se revela instrumento juridicamente idôneo ao exame da legitimidade constitucional de
+atos normativos do Poder Público que tenham sido editados em momento anterior ao da vigência da
+Constituição sob cuja égide foi instaurado o controle normativo abstrato.
+
+[[pagina 18 | nativo]]
+3324), motivo pelo qual no presente feito se cumula, excepcionalmente, Arguição de
+
+Descumprimento de Preceito Fundamental, com fundamento no art. 1º, parágrafo único,
+
+inciso I, da Lei 9.882/99.
+
+2. A superveniência de uma nova Constituição não torna inconstitucionais os atos estatais a ela anteriores e
+que, com ela, sejam materialmente incompatíveis. Na hipótese de ocorrer tal situação, a incompatibilidade
+normativa superveniente resolver-se-á pelo reconhecimento de que o ato pré-constitucional acha-se
+revogado, expondo-se, por isso mesmo, a mero juízo negativo de recepção, cuja pronúncia, contudo, não se
+comporta no âmbito da ação direta de inconstitucionalidade. Doutrina. Precedentes. (ADI 4222 AgR, rel. min.
+Celso de Mello, Pleno, j. 1.8.2014, DJe-169 1.9.2014 e p. 2.9.2014) destaque nosso
+
+24 1. ADPF ajuizada com o objetivo de impugnar o art. 34 do Regulamento de Pessoal do Instituto de
+Desenvolvimento Econômico-Social do Pará (IDESP), sob o fundamento de ofensa ao princípio federativo, no
+que diz respeito à autonomia dos Estados e Municípios (art. 60, § 4º, CF/88) e à vedação constitucional de
+vinculação do salário-mínimo para qualquer fim (art. 7º, IV, CF/88).
+2. Existência de ADI contra a Lei 9.882/99 não constitui óbice à continuidade do julgamento de ADPF
+ajuizada perante o STF.
+3. Admissão de amicus curiae mesmo após terem sido prestadas as informações
+4. Norma impugnada que trata da remuneração do pessoal de autarquia estadual, vinculando o quadro de
+salários ao salário-mínimo.
+5. Cabimento da ADPF (sob o prisma do art. 3º, V, da Lei 9.882/99) em virtude da existência de inúmeras
+decisões do Tribunal de Justiça do Pará em sentido manifestamente oposto à jurisprudência pacificada desta
+Corte quanto à vinculação de salários a múltiplos do salário-mínimo.
+6. Cabimento de ADPF para solver controvérsia sobre legitimidade de lei ou ato normativo federal,
+estadual ou municipal, inclusive anterior à Constituição (norma pré-constitucional).
+7. Requisito de admissibilidade implícito relativo à relevância do interesse público presente no caso.
+8. Governador de Estado detém aptidão processual plena para propor ação direta (ADI-MC 127/AL, rel. min.
+Celso de Mello, DJ 4.12.92), bem como ADPF, constituindo-se verdadeira hipótese excepcional de jus
+postulandi.
+9. ADPF configura modalidade de integração entre os modelos de perfil difuso e concentrado no STF.
+10. Revogação da lei ou ato normativo não impede o exame da matéria em sede de ADPF, porque o que se
+postula nessa ação é a declaração de ilegitimidade ou de não-recepção da norma pela ordem constitucional
+superveniente.
+11. Eventual cogitação sobre a inconstitucionalidade da norma impugnada em face da Constituição
+anterior, sob cujo império ela foi editada, não constitui óbice ao conhecimento da ADPF, uma vez que
+nessa ação o que se persegue é a verificação da compatibilidade, ou não, da norma pré-
+constitucional com a ordem constitucional superveniente.
+12. Caracterizada controvérsia relevante sobre a legitimidade do Decreto Estadual 4.307/86, que aprovou o
+Regulamento de Pessoal do IDESP (Resolução do Conselho Administrativo 8/86), ambos anteriores à
+Constituição, em face de preceitos fundamentais da Constituição (art. 60, § 4º, I, c/c art. 7º, inciso IV, in fine,
+da Constituição Federal) revela-se cabível a ADPF.
+13. Princípio da subsidiariedade (art. 4º, § 1º, da Lei 9.882/99): inexistência de outro meio eficaz de
+sanar a lesão, compreendido no contexto da ordem constitucional global, como aquele apto a solver a
+controvérsia constitucional relevante de forma ampla, geral e imediata.
+14. A existência de processos ordinários e recursos extraordinários não deve excluir, a priori, a utilização da
+ADPF, em virtude da feição marcadamente objetiva dessa ação.
+15. ADPF julgada procedente para declarar a ilegitimidade (não-recepção) do Regulamento de Pessoal do
+extinto IDESP em face do princípio federativo e da proibição de vinculação de salários a múltiplos do salário-
+mínimo (art. 60, § 4º, I, c/c art. 7º, inciso IV, in fine, da Constituição) (ADPF 33, rel. min. Gilmar Mendes,
+Pleno, j. 7.12.05, DJ 27.10.06) destaques nossos
+
+[[pagina 19 | nativo]]
+III.I - DECOTE DA LEI 14.789/23. ESCLARECIMENTOS SOBRE OS TRECHOS DA LEI
+IMPUGNADOS E NÃO IMPUGNADOS NESTA AÇÃO
+
+30. Como visto, são objeto desta ação, especificamente em relação à Lei 14.789/23,
+
+os arts. 1º a 12, 15, 16 e 21, por veicularem a nova sistemática de tributação das
+
+subvenções, com a revogação dos artigos que disciplinavam a matéria até então, bem
+
+como por instituírem o crédito fiscal parcialmente compensatório e apresentarem
+
+disposições finais sobre o assunto.
+
+31. Não se atacam os demais dispositivos pois: i) os arts. 13 e 14 estabelecem
+
+transação e autoregularização de débitos anteriores, oriundos do descumprimento das
+
+condições e requisitos estabelecidos na legislação que antes disciplinava a matéria, ou
+
+seja, são dispositivos que não compõem o bloco normativo da nova sistemática de
+
+tributação aqui questionada; ii) o art. 17 estabelece tratamento constitucional diferenciado;
+
+iii) os arts. 18 a 20 alteram leis não relacionadas com o objeto deste feito, para tratar,
+
+respectivamente, de juros sobre capital próprio, de crédito presumido de PIS/Cofins para a
+
+atividade de transporte rodoviário de passageiros intermunicipal, exceto metropolitano, e
+
+interestadual, e de tributação de rendimentos no exterior e de rendimentos de aplicações
+
+em fundos de investimento no país; e iv) o art. 22 trata de previsão de entrada em vigor e
+
+produção de efeitos da Lei.
+
+IV - LEGITIMIDADE, PERTINÊNCIA TEMÁTICA E INTERESSE DA AUTORA
+
+32. A CNI é entidade sindical de nível superior (confederação sindical), sendo parte
+
+legítima para propor ADI e ADPF (arts. 102, inciso I, alínea “a”, e § 1º, e 103, inciso IX,
+
+Constituição; e 2º, inciso I, da Lei 9.882/99), o que já foi reconhecido pelo STF, entre
+
+outras oportunidades, no julgamento das ADIs 1.417, 4.623, 4.786 e 4.787.
+
+33. A matéria discutida guarda, por sua vez, relevância para os contribuintes
+
+industriais e estreita vinculação aos princípios estatutários da CNI, que, nos exatos termos
+
+[[pagina 20 | nativo]]
+de seu Estatuto, tem como seu objetivo, entre outros, “propor medidas judiciais na defesa
+
+dos interesses da indústria”.25
+
+34. No caso específico, as empresas industriais de todo o território nacional sofrem
+
+impactos decorrentes das normas atacadas, que impõem a tributação plena das
+
+subvenções por IRPJ, CSLL, PIS e Cofins, porquanto milhares de indústrias são
+
+beneficiadas pelas referidas subvenções, decorrentes de diversas normas estaduais e
+
+distritais. A importância da temática para a base industrial é, pois, inegável, e o julgamento
+
+final a afetará de forma horizontal.
+
+35. Além da importância da posição política quanto às violações constitucionais
+
+noticiadas, a relevância da matéria está justificada pelos potenciais riscos aos produtores
+
+industriais nacionais, que estarão submetidos à tributação pela União em desconformidade
+
+com os princípios constitucionais aqui elencados.
+
+V - VIOLAÇÕES CONSTITUCIONAIS
+
+V.I - PACTO FEDERATIVO, FEDERALISMO FISCAL COOPERATIVO, PROMOÇÃO DO
+DESENVOLVIMENTO E DIMINUIÇÃO DAS DESIGUALDADES REGIONAIS E SOCIAIS
+
+36. O pacto federativo decorre da forma federativa e da autonomia dos Entes
+
+Federativos membros do Estado Brasileiro e configura cláusula pétrea da Constituição (art.
+
+60, § 4º, inciso I, da CF). Entre os dispositivos constitucionais que se relacionam ao pacto
+
+federativo, destacam-se, para fins desta ação, os arts. 1º, caput, e 18, caput.
+
+37. Sobre o tema, diz a doutrina:
+
+O federalismo e suas regras de distribuição de competências legislativas são um
+dos grandes alicerces da consagração da fórmula Estado de Direito, que,
+conforme salientado por Pablo Lucas Verdú, ‘ainda exerce particular fascinação
+sobre os juristas’.
+
+25 Estatuto da CNI, artigo 3º, inciso X.
+
+[[pagina 21 | nativo]]
+De maneira idêntica, a manutenção do equilíbrio democrático e republicano, no
+âmbito do regime federalista, depende do bom entendimento, definição, fixação
+de funções, deveres e responsabilidades entre os Três Poderes, bem como a
+fiel observância da distribuição de competências legislativas,
+administrativas e tributárias entre União, Estados e Municípios,
+característica do pacto federativo, consagrado constitucionalmente no
+Brasil desde a primeira Constituição Republicana, em 1891, até a
+Constituição Federal de 1988.
+Na perspectiva federalista em um Estado de Direito, o art. 1º da Constituição
+Federal estabeleceu que a República Federativa do Brasil é formada pela união
+indissolúvel dos Estados e Municípios e do Distrito Federal, sendo completado
+pelo art. 18, que prevê que a organização políticoadminsitrativa da República
+Federativa do Brasil compreende a União, os Estados, o Distrito Federal e os
+Municípios, todos autônomos e possuidores da tríplice capacidade de auto-
+organização e normatização própria, autogovernos e autoadministração.26
+
+Como atribuir competências importa conferir poderes, mas também
+deveres, para cujo cumprimento são indispensáveis recursos financeiros
+suficientes, torna-se evidente a importância de uma equilibrada
+distribuição constitucional de rendas, mormente de receitas tributárias,
+entre os integrantes da Federação, para que possam desempenhar suas
+atribuições sem dependência financeira de uns em relação aos outros.
+Sim, porque a dependência financeira acaba sempre descaracterizando o
+federalismo, com o qual é incompatível a dependência política que aquela
+provoca. Fontes próprias de recursos, adequadamente distribuídas, constituem,
+portanto, o fulcro da autonomia nas relações federativas, sem a qual não pode
+sobreviver uma autêntica Federação.
+Ora, se a soberania é apanágio do Estado Federal, não é correto atribuí-la à
+União, pois esta não equivale àquele. Corresponde antes ao poder central
+nele existente, que, tanto quanto os poderes estaduais, integra a organização
+federativa, ostentando todos a condição de entes autônomos. É o que está dito
+com todas as letras no caput do art. 18 da Constituição.
+Dito de outro modo, a soberania, ou seja, a qualidade de autodeterminação
+plena do poder, exercida sem condicionamentos de ordem interna ou externa, é
+exclusiva do Estado Federal. A seus integrantes – União e Estados, no mais
+das vezes, ou União, Estados Distrito Federal e Município, como no caso
+brasileiro – é atribuída autonomia, que é também poder de autodeterminação,
+demarcado, porém, por um círculo de competências traçado pelo poder
+soberano, que garante aos entes autônomos – pensando-se em autonomia no
+seu mais alto grau – capacidade de auto-organização, autogoverno,
+
+26 Constituição Federal Comentada / Alexandre de Moraes ... [et al.]; [organização equipe forense]. – 1ª Ed. –
+Rio de Janeiro: Forense, 2018. pp. 10 e 12.
+
+[[pagina 22 | nativo]]
+autolegislação, e autoadministração, exercida, sem subordinação hierárquica
+dos poderes periféricos ao poder central.27 – destaques nossos
+
+38. Acerca da concessão de subvenções como legítima política fiscal dos Entes
+
+Federativos à luz do pacto federativo, vale colher trecho do robusto voto da i. Ministra
+Regina Helena Costa quando do julgamento do EREsp 1.517.492/PR:28
+
+27 Comentários à Constituição do Brasil / J. J. Gomes Canotilho... [et al.] – São Paulo: Saraiva/Almedina,
+2013. Outros autores e coordenadores: Ingo Wolfgang Sarlet, Lenio Luiz Streck, Gilmar Ferreira Mendes.
+Coordenação executiva e notas: Léo Ferreira Leoncy. pp. 110, 112 e 701.
+
+28 TRIBUTÁRIO. EMBARGOS DE DIVERGÊNCIA EM RECURSO ESPECIAL. CÓDIGO DE PROCESSO CIVIL DE 2015.
+APLICABILIDADE. ICMS. CRÉDITOS PRESUMIDOS CONCEDIDOS A TÍTULO DE INCENTIVO FISCAL. INCLUSÃO NAS BASES
+DE CÁLCULO DO IRPJ E DA CSLL. INVIABILIDADE. PRETENSÃO FUNDADA EM ATOS INFRALEGAIS. INTERFERÊNCIA DA
+UNIÃO NA POLÍTICA FISCAL ADOTADA POR ESTADO-MEMBRO. OFENSA AO PRINCÍPIO FEDERATIVO E À SEGURANÇA
+JURÍDICA. BASE DE CÁLCULO. OBSERVÂNCIA DOS ELEMENTOS QUE LHES SÃO PRÓPRIOS. RELEVÂNCIA DE ESTÍMULO
+FISCAL OUTORGADO POR ENTE DA FEDERAÇÃO. APLICAÇÃO DO PRINCÍPIO FEDERATIVO. ICMS NA BASE DE CÁLCULO
+DO PIS E DA COFINS. INCONSTITUCIONALIDADE ASSENTADA EM REPERCUSSÃO GERAL PELO SUPREMO (RE
+574.706/PR). AXIOLOGIA DA RATIO DECIDENDI APLICÁVEL À ESPÉCIE. CRÉDITOS PRESUMIDOS. PRETENSÃO DE
+CARACTERIZAÇÃO COMO RENDA OU LUCRO. IMPOSSIBILIDADE.
+I - Controverte-se acerca da possibilidade de inclusão de crédito presumido de ICMS nas bases de cálculo do
+IRPJ e da CSLL.
+II - O dissenso entre os acórdãos paradigma e o embargado repousa no fato de que o primeiro manifesta o
+entendimento de que o incentivo fiscal, por implicar redução da carga tributária, acarreta, indiretamente,
+aumento do lucro da empresa, insígnia essa passível de tributação pelo IRPJ e pela CSLL; já o segundo
+considera que o estímulo outorgado constitui incentivo fiscal, cujos valores auferidos não podem se expor à
+incidência do IRPJ e da CSLL, em virtude da vedação aos entes federativos de instituir impostos sobre
+patrimônio, renda ou serviços, uns dos outros.
+III - Ao considerar tal crédito como lucro, o entendimento manifestado pelo acórdão paradigma, da 2ª
+Turma, sufraga, em última análise, a possibilidade de a União retirar, por via oblíqua, o incentivo fiscal
+que o Estado-membro, no exercício de sua competência tributária, outorgou.
+IV - Tal entendimento leva ao esvaziamento ou redução do incentivo fiscal legitimamente outorgado pelo ente
+federativo, em especial porque fundamentado exclusivamente em atos infralegais, consoante declinado pela
+própria autoridade coatora nas informações prestadas.
+V - O modelo federativo por nós adotado abraça a concepção segundo a qual a distribuição das
+competências tributárias decorre dessa forma de organização estatal e por ela é condicionada.
+VI - Em sua formulação fiscal, revela-se o princípio federativo um autêntico sobreprincípio regulador da
+repartição de competências tributárias e, por isso mesmo, elemento informador primário na solução de
+conflitos nas relações entre a União e os demais entes federados.
+VII - A Constituição da República atribuiu aos Estados-membros e ao Distrito Federal a competência
+para instituir o ICMS – e, por consequência, outorgar isenções, benefícios e incentivos fiscais,
+atendidos os pressupostos de lei complementar.
+VIII - A concessão de incentivo por ente federado, observados os requisitos legais, configura
+instrumento legítimo de política fiscal para materialização da autonomia consagrada pelo modelo
+federativo. Embora represente renúncia a parcela da arrecadação, pretende-se, dessa forma, facilitar
+o atendimento a um plexo de interesses estratégicos para a unidade federativa, associados às
+prioridades e às necessidades locais coletivas.
+IX - A tributação pela União de valores correspondentes a incentivo fiscal estimula competição
+indireta com o Estado-membro, em desapreço à cooperação e à igualdade, pedras de toque da
+Federação.
+
+[[pagina 23 | nativo]]
+A concessão de incentivo por Estado-membro, observados os requisitos
+legais, configura, portanto, instrumento legítimo de política fiscal para
+materialização dessa autonomia consagrada pelo modelo federativo.
+Embora represente renúncia a parcela da arrecadação, pretende-se, dessa
+forma, facilitar o atendimento a um plexo de interesses estratégicos para a
+unidade federativa, associados às prioridades e às necessidades locais
+coletivas.
+No caso concreto, verifica-se, de fato, interferência na política fiscal adotada
+pelo Estado-membro mediante o exercício de competência federal.
+Examinada a questão sob valores ético-constitucionais da Federação,
+limitadores do próprio exercício dessa competência, como também pelo
+princípio da subsidiariedade, fator de salvaguarda da autonomia dos entes
+federados perante a atividade tributante federal, constata-se que a
+concorrência desses elementos, adiante sopesados, é capaz de inibir a
+pretensão de incidência tributária defendida pela União.
+Com efeito, o juízo de validade quanto ao exercício da competência tributária há
+de ser implementado em comunhão com os objetivos da Federação,
+insculpidos no art. 3º da Constituição da República, dentre os quais se destaca a
+
+X - O juízo de validade quanto ao exercício da competência tributária há de ser implementado em comunhão
+com os objetivos da Federação, insculpidos no art. 3º da Constituição, dentre os quais se destaca a redução
+das desigualdades sociais e regionais (inciso III), finalidade da desoneração em tela, ao permitir o
+barateamento de itens alimentícios de primeira necessidade e dos seus ingredientes, reverenciando o
+princípio da dignidade da pessoa humana, fundamento maior da República Federativa brasileira (art. 1º, III,
+XI - Não está em xeque a competência da União para tributar a renda ou o lucro, mas, sim, a irradiação de
+efeitos indesejados do seu exercício sobre a autonomia da atividade tributante de pessoa política diversa, em
+desarmonia com valores éticos-constitucionais inerentes à organicidade do princípio federativo, e em atrito
+com o princípio da subsidiariedade, que reveste e protege a autonomia dos entes federados.
+XII - O abalo na credibilidade e na crença no programa estatal proposto pelo Estado-membro acarreta
+desdobramentos deletérios no campo da segurança jurídica, os quais não podem ser desprezados,
+porquanto, se o propósito da norma consiste em descomprimir um segmento empresarial de determinada
+imposição fiscal, é inegável que o ressurgimento do encargo, ainda que sob outro figurino, resultará no
+repasse dos custos adicionais às mercadorias, tornando inócua, ou quase, a finalidade colimada pelos
+preceito legais, aumentando o preço final dos produtos que especifica, integrantes da cesta básica nacional.
+XIII - A base de cálculo do tributo haverá sempre de guardar pertinência com aquilo que pretende
+medir, não podendo conter aspectos estranhos, é dizer, absolutamente impertinentes à própria
+materialidade contida na hipótese de incidência.
+XIV - Nos termos do art. 4º da Lei 11.945/09, a própria União reconheceu a importância da concessão de
+incentivo fiscal pelos Estados-membros e Municípios, prestigiando essa iniciativa precisamente com a
+isenção do IRPJ e da CSLL sobre as receitas decorrentes de valores em espécie pagos ou creditados por
+esses entes a título de ICMS e ISSQN, no âmbito de programas de outorga de crédito voltados ao estímulo à
+solicitação de documento fiscal na aquisição de mercadorias e serviços.
+XV - O STF, ao julgar, em regime de repercussão geral, o RE 574.706/PR, assentou a
+inconstitucionalidade da inclusão do ICMS na base de cálculo do PIS e da Cofins, sob o entendimento
+segundo o qual o valor de ICMS não se incorpora ao patrimônio do contribuinte, constituindo mero
+ingresso de caixa, cujo destino final são os cofres públicos. Axiologia da ratio decidendi que afasta,
+com ainda mais razão, a pretensão de caracterização, como renda ou lucro, de créditos presumidos
+outorgados no contexto de incentivo fiscal.
+XVI - Embargos de Divergência desprovidos.
+(EREsp 1.517.492/PR, rel. min. Og Fernandes, relatora para acórdão Min. Regina Helena Costa, 1ª Seção, j.
+8.11.17, DJe 1.2.18) destaques nossos
+
+[[pagina 24 | nativo]]
+redução das desigualdades sociais e regionais (inciso III), finalidade da
+desoneração em tela, ao permitir o barateamento de itens alimentícios de
+primeira necessidade e dos seus ingredientes, reverenciando o princípio da
+dignidade da pessoa humana, fundamento maior da República Federativa
+brasileira (art. 1º, III, C.R.).
+Desse modo, a tributação pela União de valores correspondentes a
+incentivo fiscal estimula competição indireta com o Estado-membro, em
+desapreço à cooperação e à igualdade, pedras de toque da Federação.
+Naturalmente, não está em xeque a competência da União para tributar a renda
+ou o lucro, mas, sim, a irradiação de efeitos indesejados do seu exercício sobre
+a autonomia da atividade tributante de pessoa política diversa, em desarmonia
+com valores éticos-constitucionais inerentes à organicidade do princípio
+federativo, e em atrito com a subsidiariedade, ‘um princípio de bom senso’, no
+dizer do professor André Franco Montoro (Federalismo e o fortalecimento do
+Poder Local no Brasil e na Alemanha. Coleção Debates da Fundação Konrad
+Adenauer: Rio de Janeiro, 2002. p. 59), que reveste e protege a autonomia dos
+Estados-membros.
+(EREsp 1.517.492/PR, rel. Min. Og Fernandes, relatora para acórdão Min.
+Regina Helena Costa, 1ª Seção, j. 8/11/2017, DJe 1/2/2018)
+
+39. Tal entendimento é cristalino em estabelecer flagrante dissonância entre a
+
+pretensão da União de tributar valores concedidos por outros Entes Federativos a título de
+
+subvenções e o pacto federativo e os objetivos da federação, tais como a cooperação e a
+
+redução das desigualdades sociais e regionais.
+
+40. Olhando-se a legislação tributária, especialmente o conceito de renda para fins
+
+tributários, é certo que se afirma que há incidência da tributação da renda
+
+independentemente da denominação da receita ou do rendimento, da localização,
+
+condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção,
+
+consoante a dicção do 43, caput, incisos I e II, e § 1º, do CTN.29 A base de cálculo da
+
+CSLL é o valor do resultado do exercício, antes da provisão para o imposto de renda (art.
+
+2º, caput, da Lei 7.689/88). Por sua vez, a legislação de PIS/Cofins diz que estas
+
+29 Art. 43. O impôsto, de competência da União, sôbre a renda e proventos de qualquer natureza tem como
+fato gerador a aquisição da disponibilidade econômica ou jurídica:
+I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de ambos;
+II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais não compreendidos no
+inciso anterior.
+§ 1º A incidência do imposto independe da denominação da receita ou do rendimento, da localização,
+condição jurídica ou nacionalidade da fonte, da origem e da forma de percepção.
+
+[[pagina 25 | nativo]]
+contribuições incidem de forma não cumulativa sobre o total das receitas30
+
+independentemente de sua denominação ou classificação contábil (arts. 1º das Leis
+
+10.637/02 e 10.833/03).
+
+41. No entanto, as receitas de subvenções advêm, em última análise, de recursos
+
+públicos que o ente federado concedente abriu mão, notadamente mediante a renúncia de
+
+receitas tributárias no bojo da concessão de créditos presumidos, redução de base de
+
+cálculo, redução de alíquota, isenção, diferimento, entre outros.
+
+42. Assim, tributar a receita ou rendimento com essa origem, em última análise viola
+
+o pacto federativo, pois a tributação desses valores representa transferência de recursos
+
+dos Estados, DF e Municípios para a União, o que não tem previsão legal e subverte a
+
+lógica constitucional, qual seja de que transferências tributárias ocorram da União para os
+
+demais entes e de Estados para Municípios, não o contrário.
+
+43. Sobre o tema, Sacha Calmon Navarro Coelho, Valter de Souza Lobato e
+
+Eduardo Junqueira Coelho:
+
+Eis as razões de as subvenções de investimento feitas pelo Poder Público não
+se sujeitarem à tributação: os recursos não se ajustam ao conceito de renda e
+por isso eram registrados como reserva de capital. Por se tratar de uma
+contribuição pecuniária, com destinação específica, não há retorno ou
+exigibilidade. Ou seja, o capital transferido para o patrimônio da beneficiária não
+importa na assunção de dívida ou obrigação. Esta operação assemelha-se aos
+recursos trazidos pelos sócios da pessoa jurídica na condição de não serem
+exigidos ou cobrados porque injetados no capital da sociedade. A ciência
+contábil denomina-os ‘capital próprio’. Diferentes, portanto, do ‘capital alheio’ ou
+‘de terceiros’ cujos recursos são sempre exigíveis e cobráveis.
+Com o desaparecimento da alínea ‘d’ do §1º do art. 182 da Lei nº 6.404, as
+subvenções governamentais para investimentos não mais integram a conta
+reserva de capital. Contudo, podem, a princípio, comportar registro contábil
+diferenciado, dependendo do tipo de subvenção recebida (condicional ou
+incondicional): registro em conta de resultado ou de passivo. Se o registro se
+fizer em conta de resultado, o lucro líquido do exercício estará acrescido desses
+recursos. Considerando que a base de cálculo do imposto de renda e da
+contribuição social é exatamente o lucro líquido do exercício, a pessoa
+jurídica deverá excluir tais recursos da base imponível do imposto sob
+
+30 O próximo tópico desta inicial tratará do conceito constitucional de receita.
+
+[[pagina 26 | nativo]]
+pena de se perder o incentivo fiscal. Como se afirmou, transferência de
+capital não configura renda ou receita e o registro em contas de resultado
+não tem o condão de transformá-la em tal.
+Portanto, para fins de exigência do IRPJ e da CSLL, o acréscimo de patrimônio
+proporcionado pela subvenção não deve ser atingido pela incidência daqueles
+tributos, pois não se encontra na livre disponibilidade do seu beneficiário e
+tampouco satisfaz o seu interesse lucrativo do beneficiário, mas, sim, os fins
+públicos que motivaram o seu pagamento.
+Em verdade, não ocorre, na espécie, o fato gerador do IRPJ e da CSLL, que
+pressupõe a percepção de rendimentos passíveis de apropriação privada –
+voltados a uma finalidade lucrativa – para fazer face às despesas correntes da
+entidade beneficiária, presente, por exemplo, na remuneração proporcionada
+pela cobrança de pedágio em uma rodovia explorada por uma concessionária,
+mas ausente no caso da subvenção recebida do Estado a ser alocada como
+investimento no bem público objeto da concessão.31
+
+44. Nessa esteira, a violação ao pacto federativo se verifica não apenas no bojo dos
+
+arts. 1º, caput, 18, caput, mas também do art. 150, inciso VI, alínea “a”, da Constituição.
+
+45. Especificamente sobre este dispositivo e sua relação com o pacto federativo, a
+
+doutrina diz o seguinte:
+
+A letra ‘a’ do inciso VI consagra a denominada imunidade recíproca das
+entidades políticas no sentido de que nenhuma tem poder para tributar
+patrimônio, renda ou serviços das outras. Esta limitação é decorrência da
+igualdade das entidades políticas no bojo do pacto federativo (artigo 1º).
+Se todas estão em posição de igualdade perante as demais, nenhuma está
+investida de poder sobre as outras, nem mesmo do poder de tributar.32 –
+destaque nosso
+
+46. Uma vez que benefícios e incentivos de ICMS se consubstanciam em vantagens
+
+fiscais concedidas por um Ente Federativo no pleno gozo das suas competências
+
+31 LOBATO, Valter de Souza; COELHO, Sacha Calmon Navarro; COELHO, Eduardo Junqueira. Subvenções
+para investimentos à luz das Leis 11.638/2007 e 11.941/2009. in: ROCHA, Sergio André (Coord.). (Org.).
+Direito Tributário, Societário e a reforma da Lei das S/A. 1ª ed. São Paulo: Quartier Latin, 2010, p. 529-576 v.
+2, p. 555-557.
+
+32 Comentários à Constituição do Brasil / J. J. Gomes Canotilho... [et al.] – São Paulo: Saraiva/Almedina,
+2013. Outros autores e coordenadores: Ingo Wolfgang Sarlet, Lenio Luiz Streck, Gilmar Ferreira Mendes.
+Coordenação executiva e notas: Léo Ferreira Leoncy. p. 1.646.
+
+[[pagina 27 | nativo]]
+tributárias, com fundamento no art. 150, § 6º, da Constituição, eventual entendimento de
+
+que valores que deixaram de ser despendidos a título de pagamento do mencionado
+
+tributo devem ser considerados como renda, lucro, receita ou faturamento, acaba por
+
+refletir, de forma indireta, na autonomia administrativa, tributária e financeiro-orçamentária
+
+de Estados e DF, incorrendo, assim, em afronta à forma federativa do Estado brasileiro,
+
+bem como em prejuízo ao federalismo fiscal cooperativo, à promoção do desenvolvimento
+
+e à diminuição das desigualdades regionais e sociais.
+
+47. Sobre o federalismo de cooperação, esse E. STF já se manifestou no
+julgamento da ADPF 357,33 no sentido de que “federalismo de cooperação e de equilíbrio
+
+posto na Constituição da República de 1988 não legitima distinções entre os entes
+
+federados por norma infraconstitucional”.
+
+48. Assim, a lógica do denominado federalismo de cooperação tem por alicerce o
+
+respeito à autonomia e ao tratamento igualitário entre os Entes Federativos. Não por outra
+
+razão, são previstas regras gerais de conduta e de estrutura sobre a temática (arts. 23 e 24
+
+da CF) e, em matéria tributária, vedações expressas a comportamentos que poderiam
+
+colocar em risco esse ambiente cooperativo (arts. 151, incisos I a III, e 152).
+
+49. A revogações promovidas pela nova sistemática instaurada pela Lei 14.789/23
+
+sujeitam à tributação pela União os decréscimos exacionais concedidos pelos Entes
+
+33 ADPF. CONSTITUCIONAL. TRIBUTÁRIO. PARÁGRAFO ÚNICO DO ART. 187 DO CÓDIGO TRIBUTÁRIO NACIONAL.
+PARÁGRAFO ÚNICO DO ART. 29 DA LEI 6.830/80. CONCURSO DE PREFERÊNCIA ENTRE OS ENTES FEDERADOS NA
+COBRANÇA JUDICIAL DOS CRÉDITOS TRIBUTÁRIOS E NÃO TRIBUTÁRIOS. INCOMPATIBILIDADE DAS NORMAS IMPUGNADAS
+COM A CONSTITUIÇÃO DE 1988. AFRONTA AO INC. III DO ART. 19 DA CONSTITUIÇÃO. ARGUIÇÃO JULGADA
+PROCEDENTE.
+1. A ADPF viabiliza a análise de constitucionalidade de normas legais pré-constitucionais insuscetíveis de
+conhecimento em ação direta de inconstitucionalidade. Precedentes.
+2. A autonomia dos entes federados e a isonomia que deve prevalecer entre eles, respeitadas as
+competências estabelecidas pela Constituição, é fundamento da Federação. O federalismo de
+cooperação e de equilíbrio posto na Constituição de 1988 não legitima distinções entre os entes
+federados por norma infraconstitucional.
+3. A definição de hierarquia na cobrança judicial dos créditos da dívida pública da União aos Estados e DF e
+esses aos Municípios descumpre o princípio federativo e contraria o inc. III do art. 19 da Constituição de
+1988.
+4. Cancelamento da Súmula 563 deste Supremo Tribunal editada com base na EC 1/69 à Carta de 1967.
+5. ADPF julgada procedente para declarar não recepcionadas pela Constituição de 1988 as normas previstas
+no parágrafo único do art. 187 da Lei 5.172/66 (Código Tributário Nacional) e no parágrafo único do art. 29 da
+Lei 6.830/80 (Lei de Execuções Fiscais).
+(ADPF 357, rel. min. Cármen Lúcia, Pleno, j. 24.6.21, Dje-200 6.10.21 e p. 7.10.21) destaque nosso
+
+[[pagina 28 | nativo]]
+Subnacionais a título de subvenções. Além de desconsiderar o conceito de renda exposto
+
+acima, bem como o conceito constitucional de receita (a ser também discutido no próximo
+
+tópico), fere os princípios e regras atinentes ao federalismo tributário brasileiro, porquanto
+
+impõe ablação em nível federal sobre benefícios fiscais dados por outros Entes
+
+Federativos, esvaziando os efeitos do ato concessivo da benesse e, assim, limitando a
+
+plena autonomia e competência administrativa, tributária e financeiro-orçamentária de
+
+Estados, DF e Municípios.
+
+50. Nessa linha, é preciso registrar que o aresto proferido no EREsp 1.517.492/PR
+
+encontra-se lastreado na premissa fática de que a tributação das benesses fiscais de ICMS
+
+pelo IRPJ e pela CSLL conduz ao “esvaziamento ou redução do incentivo fiscal
+
+legitimamente outorgado pelo ente federativo”, conforme constou do voto condutor da
+
+Eminente Ministra Regina Helena Costa.
+
+51. No contexto da Lei 14.789/23, aqui atacada, a despeito de seu objeto ser mais
+
+amplo e incluir não só a tributação dos créditos presumidos por IRPJ e CSLL, mas também
+
+a tributação das subvenções por IRPJ, CSLL, PIS e Cofins, o efeito prático sempre é o de
+
+a União tributar incentivo fiscal legitimamente outorgado por Ente Federativo, esvaziando-o
+
+ou reduzindo-o.
+
+52. Em outras palavras, a União se apropria de receita que não teria se não
+
+houvesse a decisão soberana do Estado, Distrito Federal ou Município de incentivar e
+
+reduz ou mesmo anula a aptidão do incentivo concedido em provocar os fins extrafiscais
+
+almejados.
+
+53. Este E. STF já decidiu, para fins de repartição de receitas tributárias, que os
+
+benefícios fiscais concedidos pela União não compõem a base de cálculo das
+transferências intergovernamentais para os Municípios (RE 705.423,34 rel. Min. Edson
+
+34 RECURSO EXTRAORDINÁRIO. REPERCUSSÃO GERAL. CONSTITUCIONAL, TRIBUTÁRIO E FINANCEIRO. FEDERALISMO
+FISCAL. FUNDO DE PARTICIPAÇÃO DOS MUNICÍPIOS – FPM. TRANSFERÊNCIAS INTERGOVERNAMENTAIS. REPARTIÇÃO
+DE RECEITAS TRIBUTÁRIAS. COMPETÊNCIA PELA FONTE OU PRODUTO. COMPETÊNCIA TRIBUTÁRIA. AUTONOMIA
+FINANCEIRA. PRODUTO DA ARRECADAÇÃO. CÁLCULO. DEDUÇÃO OU EXCLUSÃO DAS RENÚNCIAS, INCENTIVOS E
+ISENÇÕES FISCAIS. IMPOSTO DE RENDA – IR. IMPOSTO SOBRE PRODUTOS INDUSTRIALIZADOS – IPI. ART. 150, I,
+CONSTITUIÇÃO.
+1. Não se haure da autonomia financeira dos Municípios direito subjetivo de índole constitucional
+com aptidão para infirmar o livre exercício da competência tributária da União, inclusive em relação
+
+[[pagina 29 | nativo]]
+Fachin - Tema 653). Portanto, não se revela compatível com a cláusula federativa ou o
+
+princípio da razoabilidade reconhecer que a competência tributária da União, ao ser
+
+exercida sob o prisma da desoneração, prepondera sobre a autonomia dos outros Entes
+
+Federativos, e inverter essa lógica quando a desoneração feita pelas pessoas políticas
+
+subnacionais, que não configura propriamente como renda ou receita das empresas, é
+
+convertida em pretenso resultado e submetido à tributação pela União.
+
+54. Como é de amplo conhecimento, a autora sustenta35 que a instituição pelos
+
+Estados-membros de políticas de atração de investimentos com base em incentivos,
+
+consubstanciadas, principalmente no ICMS, e que gera a famigerada guerra fiscal, decorre
+
+da ausência de uma verdadeira política de desenvolvimento regional, cuja elaboração e
+
+formatação é de competência constitucional da União.
+
+55. A despeito de entender que alterações legislativas, inclusive por meio do
+
+exercício do poder constituinte reformador, devem ser realizadas para dar uma solução
+
+adequada e definitiva à questão (sendo a Reforma Tributária do consumo, recentemente
+
+aprovada, passo essencial nessa direção), não é possível fechar os olhos à realidade. É
+
+necessário perceber que o planejamento econômico-financeiro das empresas é
+
+influenciado pela política de incentivos fiscais.
+
+aos incentivos e renúncias fiscais, desde que observados os parâmetros de controle constitucionais,
+legislativos e jurisprudenciais atinentes à desoneração.
+2. A expressão produto da arrecadação prevista no art. 158, I, da Constituição, não permite
+interpretação constitucional de modo a incluir na base de cálculo do FPM os benefícios e incentivos
+fiscais devidamente realizados pela União em relação a tributos federais, à luz do conceito técnico de
+arrecadação e dos estágios da receita pública.
+3. A demanda distingue-se do Tema 42 da sistemática da repercussão geral, cujo recurso-paradigma é RE-
+RG 572.762, de relatoria do Min. Ricardo Lewandowski, Pleno, j. 18.6.08, Dje 5.9.08. Isto porque no
+julgamento pretérito centrou-se na natureza compulsória ou voluntária das transferências
+intergovernamentais, ao passo que o cerne do debate neste Tema reside na diferenciação entre participação
+direta e indireta na arrecadação tributária do Estado Fiscal por parte de ente federativo. Precedentes.
+Doutrina.
+4. Fixação de tese jurídica ao Tema 653 da sistemática da repercussão geral: É constitucional a
+concessão regular de incentivos, benefícios e isenções fiscais relativos ao Imposto de Renda e
+Imposto sobre Produtos Industrializados por parte da União em relação ao Fundo de Participação de
+Municípios e respectivas quotas devidas às Municipalidades.
+5. Recurso extraordinário a que se nega provimento.
+(RE 705.423, rel. min. Edson Fachin, Pleno, j. 23.11.16, Dje-020 2.2.18 e p. 5.2.18) destaques nossos
+
+35 Confederação Nacional da Indústria. Desenvolvimento regional: crescimento para todos. Brasília: CNI,
+2022. – (Propostas da indústria eleições 2022; v. 5). p. 13-14. Disponível em:
+https://www.portaldaindustria.com.br/publicacoes/2022/6/propostas-da-industria-para-eleicoes-2022/#05-
+desenvolvimento-regional-crescimento-para-todos%20. Acesso em 21.2.24.
+
+[[pagina 30 | nativo]]
+56. Isso porque o planejamento econômico-financeiro dessas empresas, inclusive o
+
+de longo prazo, levou em consideração as respectivas políticas de atração de
+
+investimentos de cada Ente Federativo, de forma que qualquer alteração repentina e
+
+abrupta que altere as expectativas dos custos empresariais, ainda mais quando promovida
+
+por outra pessoa jurídica de direito público, frusta a previsibilidade necessária para a
+
+criação de um bom ambiente de negócios e para o exercício saudável das atividades
+
+empresariais.
+
+57. É curial frisar, ainda, que o Brasil, conforme consta do documento intitulado
+Competitividade em foco,36 possuía em outubro/2019 a maior alíquota da tributação
+
+sobre a renda das empresas (34%) quando comparada às de outros 17 países, entre os
+
+quais se incluem nações em desenvolvimento e desenvolvidas com porte econômico
+
+considerável.
+
+58. Dessa forma, o alargamento da base de cálculo para fins de IRPJ, CSLL, PIS e
+
+Cofins, para incluir as subvenções concedidas pelos Entes Federativos e sujeitar esses
+
+valores às incidências dos referidos tributos federais, prejudicará a competitividade das
+
+empresas brasileiras do setor industrial inclusive no cenário internacional.
+
+59. Tal medida tem como consequência nefasta a neutralização total ou parcial do
+
+benefício concedido, além do solapamento de toda e qualquer lógica federativa,
+
+prejudicando os efeitos econômicos esperados pelas empresas relacionados às vantagens
+
+financeiras das políticas de incentivos, os quais foram considerados para o
+
+desenvolvimento de atividades econômicas industriais em determinadas regiões do país,
+
+bem como a diminuir, dessa forma, o crescimento econômico, a geração de renda e a
+
+melhoria da qualidade da vida da população dessas localidades.
+
+60. Por fim, outro fator pontual que escancara as violações ora demonstradas está
+
+no art. 4º, inciso III, da Lei 14.789/23, pois condiciona a habilitação da pessoa jurídica para
+
+a fruição do crédito fiscal ali instituído à avaliação, pela União, das condições e
+
+contrapartidas exigidas pelo Ente Federativo para a concessão da subvenção. Ou seja,
+
+36 Disponível em: https://www.portaldaindustria.com.br/estatisticas/competitividade-em-foco/. Acesso em
+21.2.24.
+
+[[pagina 31 | nativo]]
+está declarado o intento da União de avaliar meritoriamente os benefícios e incentivos
+
+fiscais concedidos pelos Entes Subnacionais, em violação ao pacto federativo.
+
+V.II - CONCEITO CONSTITUCIONAL DE RECEITA
+
+61. Do ponto de vista contábil, as subvenções configuram receitas das pessoas
+
+jurídicas. Isto porque, pelo enfoque das ciências contábeis, receitas são os aumentos nos
+
+ativos ou reduções nos passivos que aumentam o patrimônio líquido e que não advêm de
+
+contribuições dos sócios.37 38
+
+62. As autoridades fiscais se fundamentam nesse conceito para fins de tributação –
+
+vide, exemplificativamente, Solução de Consulta Cosit 65/201939 e Solução de Consulta
+SRRF01/Disit 17/2010.40
+
+37 4.68 Receitas são aumentos nos ativos, ou reduções nos passivos, que resultam em aumentos no
+patrimônio líquido, exceto aqueles referentes a contribuições de detentores de direitos sobre o patrimônio.
+(CPC 00(R2) – Estrutura conceitual para relatório financeiro, Data Aprovação 1/11/19, Data Divulgação
+10/12/19) Disponível em https://www.cpc.org.br/CPC/Documentos-
+Emitidos/Pronunciamentos/Pronunciamento?Id=80 – consulta em 22.2.24.
+
+38 Receita – Aumento nos benefícios econômicos durante o período contábil, originado no curso das
+atividades usuais da entidade, na forma de fluxos de entrada ou aumentos nos ativos ou redução nos
+passivos que resultam em aumento no patrimônio líquido, e que não sejam provenientes de aportes dos
+participantes do patrimônio. (CPC 47 – Receita de contrato com cliente, Data Aprovação: 04/11/2016 Data
+Divulgação: 22/12/2016) Disponível em https://www.cpc.org.br/CPC/Documentos-
+Emitidos/Pronunciamentos/Pronunciamento?Id=105 – consulta em 22.2.24.
+
+39 Assunto: Imposto sobre a Renda de Pessoa Jurídica - IRPJ
+LUCRO REAL. PROGRAMA ESPECIAL DE REGULAMENTAÇÃO TRIBUTÁRIA - PERT. REDUÇÃO DE ENCARGOS.
+INCIDÊNCIA.
+No regime de tributação pelo Lucro Real, a reversão ou recuperação do valor dos juros de mora e das
+multas compensatórias que foram, a seu tempo, reconhecidas como despesa integram a base de
+cálculo do IRPJ no momento da adesão ao Programa Especial de Regularização Tributária (PERT)
+instituído pela Lei 13.496, de 2017.
+Dispositivos Legais: Lei 8.981, de 20 de janeiro de 1995, art. 41, caput e § 5º; Decreto 9.580 - RIR/18, de 22
+de novembro de 2018, art. 441, II; Lei 6.404, de 15 de dezembro de 1976, art. 177.
+Assunto: Contribuição Social sobre o Lucro Líquido - CSLL
+RESULTADO DO EXERCÍCIO AJUSTADO. PROGRAMA ESPECIAL DE REGULAMENTAÇÃO TRIBUTÁRIA - PERT. REDUÇÃO
+DE ENCARGOS. INCIDÊNCIA.
+Na apuração do Resultado do Exercício, a reversão ou recuperação do valor dos juros de mora e das
+multas compensatórias que foram, a seu tempo, reconhecidas como despesa integram a base de
+cálculo da CSLL no momento da adesão ao Programa Especial de Regularização Tributária (PERT)
+instituído pela Lei 13.496, de 2017.
+Dispositivos Legais: da Lei 7.689, de 15 de dezembro de 1988, art. 2º; Lei 6.404, de 15 de dezembro de
+1976, art. 177.
+
+[[pagina 32 | nativo]]
+63. Contudo, o conceito constitucional de receita não está vinculado ao conceito
+
+contábil. Este Egrégio Tribunal já se manifestou nesse sentido em algumas ocasiões. No
+julgamento do RE 606.10741 (Tema 283: incidência do PIS e da Cofins não-cumulativos
+
+Assunto: Contribuição para o Financiamento da Seguridade Social - Cofins
+NÃO CUMULATIVIDADE. PROGRAMA ESPECIAL DE REGULAMENTAÇÃO TRIBUTÁRIA - PERT. REDUÇÃO DE ENCARGOS.
+INCIDÊNCIA.
+No regime de apuração não cumulativa, compõe a base de cálculo da Cofins o valor da redução dos
+encargos - juros de mora e multas compensatórias - quando da adesão ao Programa Especial de
+Regularização Tributária (PERT), instituído pela Lei 13.496, de 2017.
+Dispositivos Legais: Lei 10.833, de 29 de dezembro de 2003, art. 1º.
+Assunto: Contribuição para o PIS/Pasep
+NÃO CUMULATIVIDADE. PROGRAMA ESPECIAL DE REGULAMENTAÇÃO TRIBUTÁRIA - PERT. REDUÇÃO DE ENCARGOS.
+INCIDÊNCIA.
+No regime de apuração não cumulativa, compõe a base de cálculo da Contribuição para o PIS/Pasep o
+valor da redução dos encargos - juros de mora e multas compensatórias - quando da adesão ao
+Programa Especial de Regularização Tributária (PERT), instituído pela Lei 13.496, de 2017.
+Dispositivos Legais: Lei 10.637, de 30 de dezembro de 2002, art. 1º. destaques nossos
+
+40 ASSUNTO: NORMAS GERAIS DE DIREITO TRIBUTÁRIO
+REMISSÃO DE DÍVIDA. INCIDÊNCIA DE IRPJ, CSLL, PIS/PASEP E COFINS.
+A remissão de dívida importa para o devedor (remitido) acréscimo patrimonial (receita operacional
+diversa da receita financeira), por ser uma insubsistência do passivo, cujo fato imponível se
+concretiza no momento do ato remitente.
+Dispositivos Legais: art. 9º, § 3º, II da Resolução CFC 750, de 1993; Parecer CT/CFC 11, de 2004; art.187 da
+Lei 6.404, de 1976; arts. 373 e 374 do RIR, de 1999; art. 3º da Lei 9.718, de 1998; art. 1º, § 3º, V, “b” da Lei
+10.833, de 2003; art. 1º, § 3º, V, “b”, da Lei 10.637/02; art. 53 da Lei 9.430, de 1996; arts. 2º e 3º do Ato
+Declaratório Interpretativo SRF 25, de 2003; art. 111, II, do CTN. destaque nosso
+
+41 RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL. TRIBUTÁRIO. IMUNIDADE. HERMENÊUTICA. CONTRIBUIÇÃO AO PIS E
+COFINS. NÃO INCIDÊNCIA. TELEOLOGIA DA NORMA. EMPRESA EXPORTADORA. CRÉDITOS DE ICMS TRANSFERIDOS A
+TERCEIROS.
+I - Esta Suprema Corte, nas inúmeras oportunidades em que debatida a questão da hermenêutica
+constitucional aplicada ao tema das imunidades, adotou a interpretação teleológica do instituto, a emprestar-
+lhe abrangência maior, com escopo de assegurar à norma supralegal máxima efetividade.
+II - A interpretação dos conceitos utilizados pela Carta da República para outorgar competências impositivas
+(entre os quais se insere o conceito de receita constante do seu art. 195, I, “b”) não está sujeita, por óbvio, à
+prévia edição de lei. Tampouco está condicionada à lei a exegese dos dispositivos que estabelecem
+imunidades tributárias, como aqueles que fundamentaram o acórdão de origem (arts. 149, § 2º, I, e 155, § 2º,
+X, “a”, da CF). Em ambos os casos, trata-se de interpretação da Lei Maior voltada a desvelar o alcance de
+regras tipicamente constitucionais, com absoluta independência da atuação do legislador tributário.
+III - A apropriação de créditos de ICMS na aquisição de mercadorias tem suporte na técnica da não
+cumulatividade, imposta para tal tributo pelo art. 155, § 2º, I, da Lei Maior, a fim de evitar que a sua incidência
+em cascata onere demasiadamente a atividade econômica e gere distorções concorrenciais.
+IV - O art. 155, § 2º, X, “a”, da CF – cuja finalidade é o incentivo às exportações, desonerando as
+mercadorias nacionais do seu ônus econômico, de modo a permitir que as empresas brasileiras exportem
+produtos, e não tributos -, imuniza as operações de exportação e assegura “a manutenção e o
+aproveitamento do montante do imposto cobrado nas operações e prestações anteriores”. Não incidem, pois,
+a Cofins e a contribuição ao PIS sobre os créditos de ICMS cedidos a terceiros, sob pena de frontal violação
+do preceito constitucional.
+V - O conceito de receita, acolhido pelo art. 195, I, “b”, da Constituição, não se confunde com o
+conceito contábil. Entendimento, aliás, expresso nas Leis 10.637/02 (art. 1º) e Lei 10.833/03 (art. 1º),
+que determinam a incidência da contribuição ao PIS/Pasep e da Cofins não cumulativas sobre o total
+das receitas, “independentemente de sua denominação ou classificação contábil”. Ainda que a
+
+[[pagina 33 | nativo]]
+sobre valores recebidos a título de transferência de ICMS), de relatoria da Min. Rosa
+
+Weber, ficou consignado que: “O conceito de receita, acolhido pelo art. 195, I, “b”, da
+
+Constituição Federal, não se confunde com o conceito contábil. (...) Sob o específico
+
+prisma constitucional, receita bruta pode ser definida como o ingresso financeiro
+
+que se integra no patrimônio na condição de elemento novo e positivo, sem reservas
+
+ou condições.” (destaques nossos)
+
+64. No mesmo sentido entendeu esta Corte quando do julgamento do RE 574.70642
+
+(Tema 69: inclusão do ICMS na base de cálculo do PIS e da Cofins), que decidiu pela
+
+contabilidade elaborada para fins de informação ao mercado, gestão e planejamento das empresas
+possa ser tomada pela lei como ponto de partida para a determinação das bases de cálculo de
+diversos tributos, de modo algum subordina a tributação. A contabilidade constitui ferramenta
+utilizada também para fins tributários, mas moldada nesta seara pelos princípios e regras próprios do
+Direito Tributário. Sob o específico prisma constitucional, receita bruta pode ser definida como o
+ingresso financeiro que se integra no patrimônio na condição de elemento novo e positivo, sem
+reservas ou condições.
+VI - O aproveitamento dos créditos de ICMS por ocasião da saída imune para o exterior não gera receita
+tributável. Cuida-se de mera recuperação do ônus econômico advindo do ICMS, assegurada expressamente
+pelo art. 155, § 2º, X, “a”, da Constituição.
+VII - Adquirida a mercadoria, a empresa exportadora pode creditar-se do ICMS anteriormente pago, mas
+somente poderá transferir a terceiros o saldo credor acumulado após a saída da mercadoria com destino ao
+exterior (art. 25, § 1º, da LC 87/1996). Porquanto só se viabiliza a cessão do crédito em função da
+exportação, além de vocacionada a desonerar as empresas exportadoras do ônus econômico do ICMS, as
+verbas respectivas qualificam-se como decorrentes da exportação para efeito da imunidade do art. 149, § 2º,
+I, da Constituição.
+VIII - Assenta esta Suprema Corte a tese da inconstitucionalidade da incidência da contribuição ao PIS e da
+Cofins não cumulativas sobre os valores auferidos por empresa exportadora em razão da transferência a
+terceiros de créditos de ICMS.
+IX - Ausência de afronta aos arts. 155, § 2º, X, 149, § 2º, I, 150, § 6º, e 195, caput e inciso I, “b”, da
+Constituição. Recurso extraordinário conhecido e não provido, aplicando-se aos recursos sobrestados, que
+versem sobre o tema decidido, o art. 543-B, § 3º, do CPC.
+(RE 606.107, rel. min. Rosa Weber, Pleno, j. 22.5.13, DJe-231 22.11.13 e p. 25.11.13) destaque nosso
+
+42 RECURSO EXTRAORDINÁRIO COM REPERCUSSÃO GERAL. EXCLUSÃO DO ICMS NA BASE DE CÁLCULO DO PIS E
+COFINS. DEFINIÇÃO DE FATURAMENTO. APURAÇÃO ESCRITURAL DO ICMS E REGIME DE NÃO CUMULATIVIDADE.
+RECURSO PROVIDO.
+1. Inviável a apuração do ICMS tomando-se cada mercadoria ou serviço e a correspondente cadeia, adota-se
+o sistema de apuração contábil. O montante de ICMS a recolher é apurado mês a mês, considerando-se o
+total de créditos decorrentes de aquisições e o total de débitos gerados nas saídas de mercadorias ou
+serviços: análise contábil ou escritural do ICMS.
+2. A análise jurídica do princípio da não cumulatividade aplicado ao ICMS há de atentar ao disposto no art.
+155, § 2º, inc. I, da Constituição, cumprindo-se o princípio da não cumulatividade a cada operação.
+3. O regime da não cumulatividade impõe concluir, conquanto se tenha a escrituração da parcela
+ainda a se compensar do ICMS, não se incluir todo ele na definição de faturamento aproveitado por
+este Supremo Tribunal. O ICMS não compõe a base de cálculo para incidência do PIS e da Cofins.
+3. Se o art. 3º, § 2º, inc. I, in fine, da Lei 9.718/1998 excluiu da base de cálculo daquelas contribuições sociais
+o ICMS transferido integralmente para os Estados, deve ser enfatizado que não há como se excluir a
+transferência parcial decorrente do regime de não cumulatividade em determinado momento da dinâmica das
+operações.
+
+[[pagina 34 | nativo]]
+impossibilidade de se tributar por PIS/Cofins valores de ICMS, por se constituírem em
+
+verbas de mero trânsito no caixa das empresas, não representando receita ou faturamento.
+
+65. Naquele julgado se consignou: “Desse quadro é possível extrair que, conquanto
+
+nem todo o montante do ICMS seja imediatamente recolhido pelo contribuinte posicionado
+
+no meio da cadeia (distribuidor e comerciante), ou seja, parte do valor do ICMS destacado
+
+na “fatura” é aproveitado pelo contribuinte para compensar com o montante do ICMS
+
+gerado na operação anterior, em algum momento, ainda que não exatamente no
+
+mesmo, ele será recolhido e não constitui receita do contribuinte, logo ainda que,
+
+contabilmente, seja escriturado, não guarda relação com a definição constitucional
+
+de faturamento para fins de apuração da base de cálculo das contribuições”.
+
+(destaques e grifo nossos)
+
+66. Como consignado, o ICMS não compõe o patrimônio do contribuinte e, portanto,
+
+não figura como base de cálculo de PIS/Cofins. O mesmo racional se aplica às
+
+subvenções, outorgadas no contexto de incentivo fiscal, por se tratar de renúncia fiscal dos
+
+Entes Federativos concedentes, no âmbito de suas políticas econômico-sociais, cuja
+
+tributação por Ente Federativo diverso não se pode admitir.
+
+67. Ainda, vale mencionar o voto do Min. Marco Aurélio no RE 835.818 (Tema 843:
+
+possibilidade de exclusão da base de cálculo do PIS e da Cofins dos valores
+
+correspondentes a créditos presumidos de ICMS decorrentes de incentivos fiscais
+
+concedidos pelos Estados e DF).
+
+68. Este caso teve seu julgamento iniciado em plenário virtual, alcançando o placar
+
+de 6 votos a 5, com prevalência do entendimento do voto do relator, acompanhado pelos
+
+Ministros Rosa Weber, Edson Fachin, Cármen Lúcia, Ricardo Lewandowski e Luís Roberto
+
+Barroso. A corrente minoritária foi formada pelos Ministros Alexandre de Moraes, Gilmar
+
+Mendes, Nunes Marques, Luiz Fux e Dias Toffoli. Houve pedido de destaque pelo Min.
+
+Gilmar Mendes.
+
+4. Recurso provido para excluir o ICMS da base de cálculo da contribuição ao PIS e da Cofins.
+(RE 574.706, rel. min. Cármen Lúcia, Pleno, j. 15.3.17, DJe-223 29.9.17 e p. 2.10.17) destaque nosso
+
+[[pagina 35 | nativo]]
+69. Na ocasião do plenário virtual, o Min. Marco Aurélio consignou o seguinte: “Não
+
+se pode admitir tributação sobre algo que não corresponda ao figurino constitucional. A
+
+presunção de crédito, longe de revelar riqueza nova e, portanto, passível de sujeição
+
+ao PIS e à Cofins, indica o abrandamento de custo a ser suportado. A redução de
+
+despesas, ao propiciar aumento do resultado operacional da pessoa jurídica, interessa, em
+
+regra, à tributação efetuada sobre o lucro – IRPJ e CSLL –, e não à tomada como receita,
+
+cuja materialidade diz com ingressos efetivos que tenham potencial de aumentar o ativo,
+
+sendo neutro proceder-se a deduções no passivo. Cabe destacar que o registro contábil
+
+atinente à diminuição do passivo de ICMS a ser pago em razão do benefício, ainda
+
+que anotado como ingresso, não o transforma em receita. Entendimento contrário
+
+implica potencializar a forma em detrimento do conteúdo.”
+
+70. Necessário abrir parênteses para esclarecer o seguinte: ainda que o último
+
+entendimento colacionado acima diga que a redução de despesas interesse à tributação
+
+sobre o lucro por IRPJ e CSLL, no tópico precedente demonstrou-se a razão pela qual as
+
+subvenções também não devem ser alcançadas por esses tributos em razão de violação
+
+ao pacto federativo, especialmente pelas origens de tais valores, que, em última análise,
+
+advêm dos cofres públicos dos Entes Federativos que renunciaram receitas com o
+
+propósito de fomentar o desenvolvimento econômico e produtivo de seus territórios.
+
+71. Não apenas isso, o IRPJ incide sobre a renda ou o proveito cuja disponibilidade
+
+econômica ou jurídica tenha sido definitivamente adquirida pelo contribuinte, plasmado,
+
+para o que aqui importa, pela apuração do lucro real. Já a CSLL é contribuição incidente
+
+sobre o lucro líquido, com ajustes de adições e exclusões. Como já transcrito acima
+
+(transcrito novamente agora em nota de rodapé),43 a doutrina é clara em afastar a
+
+43 Portanto, para fins de exigência do IRPJ e da CSLL, o acréscimo de patrimônio proporcionado pela
+subvenção não deve ser atingido pela incidência daqueles tributos, pois não se encontra na livre
+disponibilidade do seu beneficiário e tampouco satisfaz o seu interesse lucrativo do beneficiário, mas, sim, os
+fins públicos que motivaram o seu pagamento.
+Em verdade, não ocorre, na espécie, o fato gerador do IRPJ e da CSLL, que pressupõe a percepção de
+rendimentos passíveis de apropriação privada – voltados a uma finalidade lucrativa – para fazer face às
+despesas correntes da entidade beneficiária, presente, por exemplo, na remuneração proporcionada pela
+cobrança de pedágio em uma rodovia explorada por uma concessionária, mas ausente no caso da
+subvenção recebida do Estado a ser alocada como investimento no bem público objeto da concessão.
+(LOBATO, Valter de Souza; COELHO, Sacha Calmon Navarro; COELHO, Eduardo Junqueira. Subvenções
+para investimentos à luz das Leis 11.638/2007 e 11.941/2009. In: ROCHA, Sergio André (Coord.). (Org.).
+
+[[pagina 36 | nativo]]
+tributação de IRPJ e CSLL das subvenções por não se configurarem valores de livre
+
+disponibilidade do seu beneficiário, bem como porque tal tributação pressupõe a percepção
+
+de rendimentos passíveis de apropriação privada, o que não é o caso, pois as subvenções,
+
+no mais das vezes, representam redução de custos e não percepção de rendimentos.
+
+72. A jurisprudência também já se manifestou nessa mesma linha, conforme
+
+acórdão de lavra da Min. Regina Helena Costa mencionado e parcialmente transcrito
+
+acima, do qual agora se repete trecho relevante de sua ementa: “XV - O STF, ao julgar, em
+
+regime de repercussão geral, o RE 574.706/PR, assentou a inconstitucionalidade da
+
+inclusão do ICMS na base de cálculo do PIS e da COFINS, sob o entendimento segundo o
+
+qual o valor de ICMS não se incorpora ao patrimônio do contribuinte, constituindo mero
+
+ingresso de caixa, cujo destino final são os cofres públicos. Axiologia da ratio decidendi
+
+que afasta, com ainda mais razão, a pretensão de caracterização, como renda ou
+lucro, de créditos presumidos outorgados no contexto de incentivo fiscal.”44
+
+73. Fechado os parênteses, vale apresentar aqui trecho do parecer da PGR naquele
+
+RE 835.818 em que se disse que os créditos presumidos de ICMS “embora ingressem
+
+como se receita fossem, nada mais são esses valores do que alívio de custos de produção
+
+concedido pelo Estado”, bem como que “tais créditos não constituem expressão de riqueza
+
+sobre a qual devam incidir tributos, pois seu ingresso no caixa do contribuinte não promove
+
+efetivo acréscimo à sua esfera patrimonial”.45
+
+Direito Tributário, Societário e a reforma da Lei das S/A. 1ª ed. São Paulo: Quartier Latin, 2010, p. 529-576 v.
+2, p. 557)
+
+44 EREsp 1.517.492/PR, rel. min. Og Fernandes, relatora para acórdão min. Regina Helena Costa, 1ª Seção,
+j. 8.11.17, DJe 1.2.18.
+
+45 Trecho mais amplo daquele parecer diz o seguinte: “Os créditos presumidos de ICMS, estabelecidos por
+legislação local, consistem em benefícios fiscais concedidos por alguns estados a determinados
+contribuintes. Embora ingressem como se receita fossem, nada mais são esses valores do que alívio
+de custos de produção concedido pelo Estado.
+Desse modo, tais créditos não constituem expressão de riqueza sobre a qual devam incidir tributos,
+pois seu ingresso no caixa do contribuinte não promove efetivo acréscimo à sua esfera patrimonial.
+Seriam não receitas, mas meras entradas, cifras incapazes de refletir a capacidade contribuinte, como se
+extrai da lição de Alessandro Barreto Borges e Benedicto Celso Benício Filho, para os quais a distinção entre
+receita e entrada há de ser traçada nos seguintes termos:
+As entradas são valores que, embora transitando graficamente pela contabilidade das empresas, não
+integram seu patrimônio e, por consequência, são elementos incapazes de exprimir traços de sua capacidade
+contributiva, nos termos em que exige a CF. As receitas, ao contrário, correspondem ao benefício
+
+[[pagina 37 | nativo]]
+74. Como visto, a pretensão arrecadatória inerente às disposições da Lei 14.789/23
+
+tem fundamento na compreensão de que qualquer ingresso que a contabilidade classifique
+
+como receita comporia a apuração do Lucro Real, bem como a base de cálculo de PIS e
+
+Cofins. Entretanto, a receita passível de tributação não é qualquer lançamento que a
+
+coerência contábil determine, mas aqueles que representem ingresso de riqueza nova,
+
+conforme os precedentes deste E. STF acima mencionados. No caso em questão, as
+
+subvenções não são um ingresso, são uma redução do imposto a pagar.
+
+75. Em outras situações, esse mesmo argumento também se verificou, como na
+
+discussão acerca da incidência da Contribuição ao PIS e da Cofins sobre descontos
+
+condicionados concedidos pelo fornecedor ao varejista, decidida pelo STJ no REsp
+1.836.082.46
+
+efetivamente resultante do exercício da atividade profissional. Passam a integrar o patrimônio das pessoas
+jurídicas, exteriorizando sua capacidade contributiva.”
+
+46 Processual Civil. Tributário. Recurso Especial. Violação ao art. 1.022 do CPC/2015. Inocorrência. Arts. 1º,
+caput, § 3º, V, a, das leis 10.637/02 e 10.883/03. Base de cálculo da contribuição ao PIS e da Cofins.
+Ingresso patrimonial novo. Aquisição de produtos por varejista com desconto concedido por
+fornecedores. Parcela redutora do custo que não caracteriza receita do comprador. Contrapartida do
+adquirente para obtenção do abatimento não constitui prestação de serviço. Recurso Especial parcialmente
+conhecido e provido.
+I - Consoante o decidido pelo Plenário desta Corte na sessão realizada em 9.3.16, o regime recursal será
+determinado pela data da publicação do provimento jurisdicional impugnado. In casu, aplica-se o CPC de
+2015.
+II - O tribunal de origem apreciou todas as questões relevantes apresentadas com fundamentos suficientes,
+mediante apreciação da disciplina normativa e cotejo ao posicionamento jurisprudencial aplicável à hipótese.
+Não existência de omissão, contradição ou obscuridade.
+III - Consoante previsto nos arts. 1º, § 3º, V, a, das Leis 10.637/02 e 10.883/03, a base de cálculo da
+contribuição ao PIS e da Cofins, no regime não cumulativo, consiste no total de receitas auferidas no mês
+pela pessoa jurídica, independentemente de sua denominação ou classificação contábil, razão pela qual o
+conceito jurídico de receita não se vincula àquele veiculado pela ciência das finanças. Precedente do STF.
+IV - Nas relações comerciais entre agentes econômicos, o adquirente de mercadorias para revenda
+despende valores com a compra de produtos para desempenho de sua atividade empresarial, sendo
+desinfluente a natureza jurídica dos descontos obtidos do fornecedor para a incidência das
+contribuições em exame quanto ao varejista, porquanto rubrica modificadora da receita de quem
+vende e redutora dos custos do comprador.
+V - A pactuação de contrapartida a cargo do revendedor para a redução da quantia paga ao fornecedor
+constitui forma de composição do preço acordado na transação mercantil, motivo pelo qual não pode ser
+dissociada desse contexto para figurar, autonomamente, como a contraprestação por um serviço.
+VI - Os descontos concedidos pelo fornecedor ao varejista, mesmo quando condicionados a
+contraprestações vinculadas à operação de compra e venda, não constituem parcelas aptas a
+possibilitar a incidência da contribuição ao PIS e da Cofins a cargo do adquirente.
+VII - Recurso Especial parcialmente conhecido e, nessa extensão, provido.
+(REsp 1.836.082/SE, rel. min. Regina Helena Costa, 1ª Turma, j. 11.4.23, DJe 12.5.23) destaques nossos
+
+[[pagina 38 | nativo]]
+76. Naquele julgado, restou consignado que “nas relações comerciais entre agentes
+
+econômicos, o adquirente de mercadorias para revenda despende valores com a compra
+
+de produtos para desempenho de sua atividade empresarial, sendo desinfluente a
+
+natureza jurídica dos descontos obtidos do fornecedor para a incidência das contribuições
+
+em exame quanto ao varejista, porquanto rubrica modificadora da receita de quem vende e
+
+redutora dos custos do comprador”. Ou seja, na aquisição de mercadoria com desconto
+
+pelo varejista, ainda que em virtude de contrapartida negocial (inclusão de produtos com
+
+destaque nas gôndolas e a divulgação deles em folhetos de propaganda, v.g.), o desconto
+
+não representa receita tributável pela Contribuição ao PIS e pela Cofins.
+
+77. Menciona-se, também, a tributação que a Receita Federal do Brasil fazia dos
+
+descontos obtidos por empresas em recuperação judicial quando da renegociação de suas
+
+dívidas. Isso restou resolvido apenas com a derrubada dos vetos presidenciais à Lei
+14.112/20 e a consequente inclusão do art. 50-A, inciso I, na Lei 11.101/05,47 que excluiu
+
+expressamente esses valores das bases de cálculo da Contribuição ao PIS e da Cofins.
+
+78. Segundo Luís Eduardo Schoueri e Mateus Calicchio Barbosa,
+
+A contribuição ao PIS e a Cofins são contribuições sociais incidentes sobre as
+receitas auferidas pelas pessoas jurídicas, independentemente de sua
+denominação ou classificação contábil. Sabe-se que nem todo ingresso em uma
+pessoa jurídica é receita, da mesma forma que nem toda dedução constitui
+despesa. Assim, um aumento de capital não representa receita, da mesma
+forma que o pagamento de dividendos não constitui uma despesa da pessoa
+jurídica.
+Conforme já se mencionou, a natureza jurídica das subvenções para
+investimento é de capital transferido pelo Poder Público ao particular, com a
+finalidade de auxiliá-lo na consecução de determinado empreendimento. Não
+por outro motivo, as subvenções para investimentos foram contabilizadas, até
+2007, como reserva de capital.
+Assim, em princípio, a subvenção para investimento consistiria em ingresso que
+não corresponde a receita, tal como uma contribuição de um sócio, não
+restituível, para o capital de determinada empresa.
+
+47 Art. 50-A. Nas hipóteses de renegociação de dívidas de pessoa jurídica no âmbito de processo de
+recuperação judicial, estejam as dívidas sujeitas ou não a esta, e do reconhecimento de seus efeitos nas
+demonstrações financeiras das sociedades, deverão ser observadas as seguintes disposições:
+I - a receita obtida pelo devedor não será computada na apuração da base de cálculo da Contribuição para o
+Programa de Integração Social (PIS) e para o Programa de Formação do Patrimônio do Servidor Público
+(Pasep) e da Contribuição para o Financiamento da Seguridade Social (Cofins);
+
+[[pagina 39 | nativo]]
+Em verdade, as subvenções para investimento não possuem caráter de receita,
+seja porque não constituem resultado de atividade desenvolvida pela empresa
+(receita operacional), seja porque não correspondem a um valor auferido na
+venda de bens do ativo (receita não operacional). Receita, seja operacional, seja
+não operacional, sempre decorre de uma presença no mercado. Não é o caso
+da subvenção para investimento, que é tão somente um valor, transferido pelo
+Poder Público, para que a empresa realize empreendimento específico. Não
+pressupõe – eis o elemento central – a atuação no mercado.48
+
+79. Resta claro que STF já manifestou entendimento, seguido pela doutrina, de que
+
+o conceito constitucional de receita, para fins de tributação, corresponde ao ingresso
+
+financeiro que se integra ao patrimônio na condição de elemento novo e positivo, sem
+
+reservas ou condições, como bem sintetizados pela i. Min. Rosa Weber no RE 606.107,
+
+bem como que o registro contábil de diminuição do passivo, ainda que anotado como
+
+ingresso, não o transforma em receita, como bem fixou o Min. Marco Aurélio em seu voto
+
+no RE 835.818.
+
+80. Do exposto, revela-se inconstitucional, portanto, a pretensão de tributação de
+
+IRPJ, CSLL, PIS e Cofins em desacordo com o conceito constitucional já adotado por este
+
+Egrégio Tribunal, tal como se verifica na nova sistemática de tributação das subvenções
+
+veiculada pela Lei 14.789/23, em violação ao art. 195, inciso I, alínea “b”, da Constituição.
+
+VI - INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO
+
+81. Parte das inconstitucionalidades ora apontadas decorre de interpretação dos
+
+arts. 43, caput, incisos I e II, e § 1º, do CTN; 44 da Lei 4.506/64; 6º, caput e § 1º, do
+
+Decreto-Lei 1.598/77; 51 da Lei 7.450/85; 2º da Lei 7.689/88; 37, § 1º, e 57, da Lei
+
+8.981/95; 1º, §§ 1º e 2º, da Lei 10.637/02 e 1º, §§ 1º e 2º, da Lei 10.833/03, no sentido de
+
+que os conceitos de renda, lucro e receita englobariam as subvenções recebidas pelas
+
+empresas, mesmo nas situações em que não há efetivo ingresso de novos e
+
+positivos valores ao seu patrimônio, mas apenas uma redução de passivo.
+
+48 SCHOUERI, Luís Eduardo; BARBOSA, Mateus Calicchio. Subvenções para Investimento e Parceria
+Público-privada. Revista Direito Tributário Atual, [S. l.], n. 27, p. 480–493, 2012. p. 485-486. Disponível em:
+https://revista.ibdt.org.br/index.php/RDTA/article/view/1686. Acesso em 22.2.24.
+
+[[pagina 40 | nativo]]
+82. Relativamente ao conceito de renda e aos arts. 43, caput, incisos I e II, e § 1º,
+
+do CTN; 6º, caput e § 1º, do Decreto-Lei 1.598/77; 51 da Lei 7.450/85; 2º da Lei 7.689/88 e
+
+37, § 1º, e 57 da Lei 8.981/95, não se deve desconsiderar que tal conceito (materialidade
+
+de que trata o art. 153, inciso III, da Carta da República) e o de lucro (art. 195, inciso I,
+
+alínea “c”) estão intimamente atrelados ao conceito de despesa, de modo que “o lucro
+
+posterior é resultado de despesas anteriores”,49 ou, dito de outro modo, o que se ganha
+
+posteriormente é resultado do que se investe antes, conformando assim a ideia de
+
+acréscimo patrimonial.
+
+83. Ocorre, no entanto, que essa competência constitucionalmente conferida à
+
+União para tributar os signos de riqueza renda e lucro precisa ser enxergada à luz de toda
+
+a lupa normativa que consubstancia o Texto Maior.
+
+84. Nesse sentido, a situação demanda leitura sob o enfoque do princípio federativo,
+
+considerado o poder tributário conferido aos Entes Subnacionais, inclusive para fins de
+
+desoneração fiscal, e os objetivos que porventura podem ser definidos por cada unidade
+
+federativa para a concessão de subvenções, dentro da sua autonomia constitucionalmente
+
+assegurada para a opção política de renúncia de receitas tributárias.
+
+85. Isto porque a concessão de qualquer espécie de benefício ou incentivo fiscal por
+
+um Ente Subnacional demanda programação política, administrativa, financeira e
+
+orçamentária, além de gerar expectativas para a pessoa política concedente, que
+
+vislumbra crescimento de empresas instaladas em seu território, tornando-o assim mais
+
+atrativo em virtude de novas oportunidades de trabalho e de geração de riquezas.
+
+86. O objetivo com essa momentânea diminuição da arrecadação tributária é que o
+
+desenvolvimento econômico numa dada localidade territorial implique aumento da
+
+arrecadação futura do Ente Federativo que concedeu o subsídio, enquanto verdadeira
+
+externalidade positiva.
+
+87. Eventual tributação federal sobre parcela que represente o subsídio concedido
+
+frustrará o plano concebido, o qual foi submetido ao crivo político do Ente Federado que
+
+49 ÁVILA, Humberto. Conceito de renda e compensação de prejuízos fiscais. São Paulo: Malheiros Editores,
+2011, p. 43.
+
+[[pagina 41 | nativo]]
+outorgante e foi levado em consideração do ponto de vista financeiro-orçamentário nas
+
+respectivas leis que regem essa temática, ferindo o federalismo sob a perspectiva vertical.
+
+88. Assim, é possível interpretar tais dispositivos, especialmente à luz do contexto
+
+acima exposto, de modo a não se alcançar os supostos valores que se originem em
+
+recursos advindos de subvenções governamentais, sob pena de se tributar indevidamente
+
+recursos renunciados por Entes Federativos diversos, bem como prejudicar sobremaneira
+
+o planejamento privado e público em nível local, voltado para estimular o setor produtivo.
+
+89. Em relação aos arts. 44 da Lei 4.506/64; 1º, §§ 1º e 2º, da Lei 10.637/02 e 1º, §§
+
+1º e 2º, da Lei 10.833/03, como visto, o conceito constitucional de receita já expresso por
+
+este Egrégio Tribunal não corresponde ao conceito contábil de receita que fundamenta a
+
+pretensão de tributação das subvenções, nos termos da Lei 14.789/23.
+
+90. Desta forma, impende que essa Colenda Corte estabeleça a exegese desses
+
+dispositivos legais conforme a Constituição, para que a receita tributável neles prevista se
+
+coadune com o respectivo conceito constitucional plasmado nos precedentes selecionados
+
+apresentados no tópico precedente.
+
+VII - MEDIDA CAUTELAR
+
+91. A plausibilidade jurídica do pedido (fumus boni iuris) já foi sobejamente
+
+demonstrada linhas atrás. Inclusive, a força jurídica das razões apresentadas nos itens
+
+anteriores tem apoio nos preceitos e normas constitucionais e em jurisprudência desta
+
+Corte Suprema.
+
+92. Em resumo, a leitura das razões acima expostas, especialmente, no tocante à: i)
+
+violação ao pacto federativo, ao federalismo fiscal cooperativo, à promoção do
+
+desenvolvimento e à diminuição das desigualdades regionais e sociais; e ii) violação ao
+
+conceito constitucional de receita e aos conceitos de renda e lucro, para fins tributários; é
+
+suficiente a deixar mais que evidente a plausibilidade jurídica da cautelar postulada.
+
+[[pagina 42 | nativo]]
+93. Quanto ao fundado receio de dano irreparável ou perigo na demora (periculum
+
+in mora), o deferimento da medida cautelar é indispensável para evitar que o setor
+
+produtivo nacional, bem como os Entes Federativos subnacionais, continuem a sofrer as
+
+nefastas consequências já demonstradas da nova sistemática da tributação das
+
+subvenções.
+
+94. A urgência do deferimento da medida cautelar ganha evidência, porque os
+
+prejuízos decorrentes das inconstitucionalidades acima apontadas já estão em curso. Vale
+
+dizer, a ausência de provimento jurisdicional cautelar ou a demora natural do processo até
+
+o julgamento de mérito resultará na concretização da tributação indevida em prejuízo aos
+
+agentes já especificados, que serão em toda medida irrecuperáveis, ou então objeto de
+
+futuro pedido de repetição de indébito, via tortuosa que, na prática, pune os credores das
+
+Fazenda Públicas, na contramão das almejadas celeridade e efetividade processuais de
+que tratam o art. 6º do CPC.50
+
+95. Portanto, respeitosamente, é urgente a suspensão da eficácia da nova
+
+sistemática de tributação das subvenções veiculada pelos artigos indicados da Lei
+
+14.789/23, bem como da interpretação dos demais dispositivos indicados que permita a
+
+tributação da renda, lucro e receita em desconformidade com o pacto federativo e os
+
+pertinentes conceitos constitucionais aplicáveis.
+
+VIII - PEDIDOS
+
+96. Ante todo o exposto, respeitosamente, requer-se:
+
+a) Em sede de cognição sumária, ad referendum do Plenário, a concessão de
+medida cautelar para suspender eficácia dos arts. 1º a 12, 15, 16 e 21 da Lei
+14.789/23, bem como a interpretação desconforme à Constituição dos arts. 43,
+caput, incisos I e II, e § 1º, do CTN; 44 da Lei 4.506/64; 6º, caput e § 1º, do
+Decreto-Lei 1.598/77; 51 da Lei 7.450/85; 2º da Lei 7.689/88; 37, § 1º, e 57, da
+Lei 8.981/95; 1º, §§ 1º e 2º, da Lei 10.637/02 e 1º, §§ 1º e 2º, da Lei 10.833/03,
+até que haja o julgamento definitivo de mérito. Em outras palavras, deve-se
+
+50 Art. 6º Todos os sujeitos do processo devem cooperar entre si para que se obtenha, em tempo razoável,
+decisão de mérito justa e efetiva.
+
+[[pagina 43 | nativo]]
+suspender a eficácia da nova sistemática de tributação das subvenções
+veiculada pelos artigos indicados da Lei nº 14.789/23, bem como da
+interpretação dos demais dispositivos indicados que permita a tributação da
+renda, lucro e receita em desconformidade com o pacto federativo e os
+pertinentes conceitos constitucionais aplicáveis;
+
+b) ao final, no mérito, a declaração da inconstitucionalidade dos arts. 1º a 12, 15,
+16 e 21 da Lei 14.789/23, bem como a declaração de inconstitucionalidade, sem
+redução de texto, mediante interpretação conforme a Constituição dos arts. 43, §
+1º, do CTN; 2º, da Lei 7.689/88; 37, § 1º, e 57, da Lei 8.981/95; 1º, §§ 1º e 2º, da
+Lei 10.637/02 e 1º, §§ 1º e 2º, da Lei 10.833/03, com efeito ex tunc e eficácia
+erga omnes; e ainda a declaração de não recepção pela Constituição Federal de
+1988 dos arts. 43, caput, incisos I e II, do Código Tributário Nacional; 44 da Lei
+4.506/64; 6º, caput e § 1º, do Decreto-Lei 1.598/77 e 51 da Lei 7.450/85, na
+interpretação que a viola. Em outras palavras, deve-se declarar a
+inconstitucionalidade da nova sistemática de tributação das subvenções
+veiculada pelos artigos indicados da Lei nº 14.789/23, bem como a declaração
+de inconstitucionalidade e de não recepção da interpretação dos demais
+dispositivos indicados que permita a tributação da renda, lucro e receita em
+desconformidade com o pacto federativo e os pertinentes conceitos
+constitucionais aplicáveis;
+
+c) que as futuras publicações e intimações referentes ao presente feito ocorram
+pelo e-mail cborges@sesicni.com.br se realizadas por endereço eletrônico, ou,
+ainda, em nome do patrono CASSIO AUGUSTO BORGES, inscrito na OAB/RJ
+91.152 e OAB/DF 20.016-A, se realizadas por painel eletrônico ou via diário de
+justiça, restando consignado que os advogados da autora possuem endereço
+profissional, nesta capital, no SBN Quadra 1, Bloco C, Ed. Roberto Simonsen,
+13º andar, CEP 70.040-903.
+
+Nesses termos, pede deferimento.
+
+Brasília/DF, 29 de fevereiro de 2024.
+
+CASSIO AUGUSTO BORGES MARCOS ABREU TORRES
+OAB/RJ 91.152 e OAB/DF 20.016-A OAB/BA 19.668
+GUILHERME DE AssinadoGUILHERMEde DEformaALMEIDAdigital por
+ALMEIDA COSTA:30771318898
+COSTA:30771318898 Dados:-03'00' 2024.02.29 17:00:31
+PEDRO HENRIQUE BRAZ SIQUEIRA GUILHERME DE ALMEIDA COSTA
+OAB/DF 37.996 OAB/SP 299.892
+

@@ -1,0 +1,633 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO DIAS TOFFOLI, PRESIDENTE
+DO SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO SOCIALISTA BRASILEIRO – PSB NACIONAL,
+partido político devidamente registrado perante o Tribunal Superior
+Eleitoral e com representação no Congresso Nacional, inscrito no CNPJ
+sob o n. 01.421.697/0001-37, com sede nacional na SCLN 304, Bloco A,
+Sobreloja 01, Entrada 63, Asa Norte, Brasília/DF, CEP no. 70.736-510,
+vem, por intermédio de seus advogados devidamente constituídos (Doc.
+01), respeitosamente à douta presença de Vossa Excelência, com fulcro
+no art. 102, inciso I, alínea a, da Constituição Federal, e na Lei n.
+9.868/1999, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+que visa atribuir interpretação conforme à Constituição Federal aos
+artigos 116, II, e 117, V, da Lei n. 8.112/1990 (Doc. 02), e o faz pelas
+razões de fato e de direito a seguir aduzidas.
+
+I. SÍNTESE DA DEMANDA
+
+Trata-se de ação direta de inconstitucionalidade cujo objeto
+é a atribuição de interpretação conforme à Constituição Federal aos
+artigos 116, II, e 117, V, da Lei n. 8.112/1990, que assim dispõem:
+
+
+[[pagina 2 | nativo]]
+Art. 116. São deveres do servidor:
+II - ser leal às instituições a que servir;
+
+Art. 117. Ao servidor é proibido:
+V - promover manifestação de apreço ou desapreço no recinto
+da repartição;
+
+A controvérsia constitucional acerca dos dispositivos
+transcritos foi inaugurada com a edição da Nota Técnica n. 1556/2020
+(Doc. 03), aprovada pela Corregedoria-Geral da União, órgão que compõe
+a Controladoria-Geral da União (CGU).
+
+Conforme se observa da instrução correcional formulada pela
+CGU, a Administração Pública Federal deverá adotar medidas
+disciplinares contra servidores que formularem em redes sociais e outros
+meios virtuais manifestações contrárias ao órgão ao qual está
+subordinado, com fundamento em suposto “dever de lealdade” do
+servidor, veja-se:
+
+4.42. A divulgação em mídia social de manifestações de
+indignação com superiores ou colegas de trabalho ou de
+opiniões contrárias aos entendimentos da casa pelo servidor
+são exemplos de condutas que não se identificam com a
+consecução dos seus deveres legais, nem com a eficiência
+do seu trabalho. Em verdade, as referidas condutas vão de
+encontro ao dever subjetivo de lealdade prescrito no inciso II,
+do artigo 116, cabendo, nesse sentido, a correspondente
+responsabilização, caso efetivadas.
+
+Não fosse bastante, o documento da CGU busca alargar
+desproporcionalmente o conceito de “recinto da repartição”, previsto no
+art. 117, V, da Lei n. 8.112/1990, atingindo de forma indistinta todos
+os atos da vida privada do servidor público, sobretudo aqueles praticados
+em ambiente virtual, veja-se:
+
+4.69. Neste cenário, hodiernamente, não há como se admitir
+que o “recinto da repartição” esteja delimitado
+exclusivamente aos limites físicos das dependências órgão.
+Exige-se, pois, uma percepção de que a nova concepção de
+
+
+[[pagina 3 | nativo]]
+espaço de trabalho transite entre o físico e o virtual. Na
+verdade, o trabalho remoto deu nova caracterização aos
+espaços de execução de atividades públicas, apresentando,
+com esta transmudação, um novo ambiente virtual e
+dinâmico a exigir novas interpretações, alterações ou
+inovações normativas, visando um efetivo sistema de
+regulação e controle.
+4.70. Por estas razões, deve-se admitir a ampliação do
+conceito de “recinto da repartição” para além do seu
+espaço físico, devendo se estender aos ambientes virtuais
+externos onde se verifique a produção de atividade
+administrativa ou de assuntos relacionados a atividade ou à
+função do servidor.
+4.71. Como reflexo deste novo conceito no campo disciplinar,
+expõe-se a justa adequação do inciso II, do artigo 116, às
+condutas irregulares de servidores públicos executadas por
+meio de ambientes virtuais.
+
+O conteúdo exposto na aludida Nota Técnica ganha especial
+relevo considerando-se as competências conferidas à Controladoria-Geral
+da União pela Lei n. 13.844/2019, segundo a qual, dentre outras
+atribuições, lhe compete a “proposição de medidas legislativas ou
+administrativas e sugestão de ações para evitar a repetição de
+irregularidades constatadas” e a “execução das atividades de
+controladoria no âmbito da administração pública federal” (art. 51, X e
+XIII).
+
+Especificamente no que se refere à Corregedoria-Geral da
+União, órgão que assina a Nota Técnica, o Decreto n. 9.681/2019 lhe
+atribui a função de órgão central do Sistema de Correição do Poder
+Executivo Federal, com as seguintes atribuições:
+
+Art. 13. À Corregedoria-Geral da União compete:
+I - exercer as competências de órgão central do Sistema de
+Correição do Poder Executivo Federal;
+II - fiscalizar a efetividade da aplicação das leis de
+responsabilização administrativa de servidores, empregados
+públicos e entes privados;
+III - fomentar a implementação e o desenvolvimento da
+atividade correcional no âmbito do Poder Executivo federal;
+[...] XIII - apurar a responsabilidade de agentes públicos pelo
+descumprimento injustificado de recomendações do controle
+interno e das decisões do controle externo;
+
+
+[[pagina 4 | nativo]]
+[...] XV - verificar a regularidade dos procedimentos
+disciplinares e de responsabilização administrativa de entes
+privados instaurados no âmbito do Poder Executivo federal;
+[...] XIX - promover capacitações e orientar servidores e
+empregados públicos em matéria disciplinar e de
+responsabilização administrativa de entes privados e em
+outras atividades de correição;
+
+Conforme será detalhado no decorrer desta ação direta de
+inconstitucionalidade, ao estipular espécie de censura prévia aos
+servidores públicos federais, a interpretação conferida à Lei n.
+8.112/1990 pela Nota Técnica da CGU configura manifesta violação do
+direito fundamental à liberdade de expressão, garantido pelo art. 5º,
+IV, da Constituição Federal.
+
+Não fosse bastante, a orientação claramente intimidatória
+veiculada pela Controladoria-Geral da União, fundamentada nos
+dispositivos objeto desta ação, traduz clara violação ao princípio da
+legalidade estrita (art. 5º, II, da Constituição Federal), tendo em vista as
+consequências sancionatórias da orientação disciplinar expedida para
+todos os órgãos da Administração Pública Federal.
+
+Nesse contexto, imperiosa a propositura da presente ação
+direta, a fim de ver reconhecida a inconstitucionalidade dos dispositivos
+apontados, conforme se passa a demonstrar.
+
+II. DA LEGITIMIDADE ATIVA
+
+Conforme dispõe o art. 103, VIII, da Constituição Federal, e
+o art. 2º, VIII, da Lei no 9.868/99, os partidos políticos que possuem
+representação no Congresso Nacional podem propor ação direta de
+inconstitucionalidade, como é o caso do Partido Socialista Brasileira –
+PSB (Doc. 04).
+
+Segundo a jurisprudência deste Excelso STF, a legitimidade
+ativa de agremiação partidária com representação no Congresso Nacional
+“não sofre as restrições decorrentes da exigência jurisprudencial relativa
+ao vínculo de pertinência temática nas ações diretas” (ADI no 1.407-MC,
+Rel. Min. Celso de Mello, Plenário, DJ 24.11.2000).
+
+
+[[pagina 5 | nativo]]
+Quer-se dizer, portanto, que os partidos políticos possuem a
+denominada legitimidade ativa universal para provocação do controle
+abstrato de constitucionalidade, de modo que resta clara a legitimidade
+do Partido Socialista Brasileiro para o ajuizamento da presente ação.
+
+III. DO CABIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+A ação direta de inconstitucionalidade encontra fundamento
+no art. 102, inciso I, a, da Constituição Federal, tendo por finalidade a
+declaração de inconstitucionalidade, em caráter concentrado e abstrato,
+de lei ou ato normativo federal ou estadual que viole o texto
+constitucional.
+
+Na presente hipótese, busca-se o reconhecimento da
+inconstitucionalidade de interpretação conferida pela Controladoria-
+Geral da União a dispositivos da Lei n. 8.112/1990. Tem-se, portanto,
+ato formal do Poder Público no qual prescreve-se forma de censura prévia
+a servidores públicos federais a partir da ameaça de eventual aplicação
+de sanção disciplinar.
+
+Nas palavras do e. Ministro Ayres Britto, é “cabível o pedido
+de "interpretação conforme à Constituição" de preceito legal portador de
+mais de um sentido, dando-se que ao menos um deles é contrário à CF”
+(ADI n. 4.274, Rel. Min. Ayres Britto, DJe 02.05.2012).
+
+Ademais, a violação constitucional provocada pela
+inconstitucional interpretação dos dispositivos apontados é direta e não
+depende de anterior juízo de legalidade, pois não há outra norma
+intermediando, em termos de fundamento e validade, a relação entre a lei
+questionada e a Constituição Federal.
+
+Por fim, se considerada incabível a presente ação direta, mas
+admissível a arguição de descumprimento de preceito fundamental,
+requer-se, com fundamento no princípio da fungibilidade, o
+conhecimento da ação, a teor do artigo 1º, caput, da Lei n. 9.882/1999.
+Com efeito, a ADPF se mostra único meio apto a sanar de forma eficaz
+e definitiva a lesividade aos preceitos fundamentais da liberdade de
+
+
+[[pagina 6 | nativo]]
+expressão e da legalidade estrita, atendendo-se, assim, ao requisito da
+subsidiariedade.
+
+Dessa forma, amplamente demonstrado o cabimento da
+presente demanda, passa-se às razões que levam à procedência do
+pedido.
+
+IV. INCONSTITUCIONALIDADE DA INTERPRETAÇÃO CONFERIDA
+PELA NOTA TÉCNICA N. 1556/2020/CGUNE/CRG AOS ARTS. 116,
+II, E 117, V, DA LEI N. 8.112/1990. VIOLAÇÃO AO DIREITO
+FUNDAMENTAL DA LIBERDADE DE EXPRESSÃO E AO PRINCÍPIO DA
+LEGALIDADE ESTRITA.
+
+Conforme exposto inicialmente, a Nota Técnica n.
+1556/2020 expedida pela Corregedoria-Geral da União — órgão
+integrante da estrutura da Controladoria-Geral da União e que centraliza
+o Sistema de Correição do Poder Executivo Federal — busca conferir aos
+arts. 116, II, e 117, V, da Lei n. 8.112/1990 interpretação que conduz à
+persecução administrativa de servidores públicos federais que veiculem
+manifestações contrárias ou opiniões críticas a respeito do órgão ao qual
+está vinculado ou, até mesmo, ao Governo Federal de maneira mais
+ampla.
+
+A orientação da Corregedoria-Geral da União/CGU encontra-
+se especialmente direcionada à presença e manifestação de servidores
+públicos em redes sociais e ambientes virtuais — ainda que
+estritamente privados — buscando reprimir até mesmo potenciais
+condutas que não guardem qualquer relação com a atividade pública
+desempenhada pelo agente, veja-se (grifou-se):
+
+4.50. Daí porque, de forma excepcional, em atenção ao
+interesse de manutenção da ordem pública, o campo da
+garantia de liberdade de expressão de um servidor na vida
+privada pode ser particularmente atingido, especialmente
+pela relação qualificada do agente público de vínculo e
+representação da Administração Pública. Esta situação traz
+a incidência de uma série de deveres, proibições e
+responsabilidades inerentes à sua função, que, muitas das
+vezes, transpassam a esfera pública, alcançando o ambiente
+privado. Nestas situações, a depender do caso, o direito à
+liberdade de manifestação poderá ser relativizado em prol
+
+
+[[pagina 7 | nativo]]
+do atendimento ao interesse público, bem como para a
+manutenção da ordem social e administrativa.
+
+Em sua fundamentação, a Nota Técnica chega a sugerir
+que os servidores públicos devem estar alinhados ao plano de
+governo estabelecido pelas autoridades superiores, sendo-lhes vedada
+a crítica pública e manifestação de quaisquer opiniões contrárias à
+atuação do órgão ao qual está vinculado, às autoridades superiores ou
+mesmo ao Governo Federal, apoiando-se em suposto “dever de lealdade”
+do servidor, veja-se (grifou-se):
+
+4.36. Sabe-se que a coordenação da execução administrativa
+federal no país é realizada a partir dos desígnios de
+autoridades superiores, visando concretizar a política
+governamental, por meio de um plano de governo. No
+entanto, para que a máquina administrativa funcione de
+forma harmônica, com a manutenção da higidez da
+Administração, exige-se, além das vontades dos
+administradores, a unificação de propósitos e
+entendimentos de seus servidores (e não de convicções,
+que são de foro íntimo), de modo a permitir o bom
+funcionamento dos serviços públicos e, de forma mais ampla,
+a fiel consecução das metas estabelecidas.
+
+O que propõe a orientação expedida pela CGU, portanto, é a
+submissão obrigatória dos servidores públicos às “vontades dos
+administradores”, hipótese absolutamente inadmissível em um
+ambiente democrático e plural, regido pelas balizas impostas na
+Constituição Federal.
+
+Nota-se que, a pretexto de adaptar a atividade correcional da
+administração federal à atual situação de isolamento social e
+consequente afastamento dos servidores dos recintos públicos, a Nota
+Técnica veicula verdadeira censura prévia ao direito de manifestação
+crítica dos servidores públicos federais.
+
+A hipótese se encontra, sob qualquer parâmetro de análise,
+rechaçada pelo texto constitucional, que garante no inciso IV do art. 5º a
+livre manifestação do pensamento, desde que devidamente
+identificada, inexistindo qualquer barreira ou ressalva à fruição deste
+
+
+[[pagina 8 | nativo]]
+direito fundamental a integrantes da administração pública, tampouco a
+formulação de críticas a autoridades e órgãos públicos.
+
+Nas palavras do e. Ministro Marco Aurélio, “A liberdade de
+expressão constitui-se em direito fundamental do cidadão, envolvendo o
+pensamento, a exposição de fatos atuais ou históricos e a crítica” (HC
+83.125, Rel. Min. Marco Aurélio, Primeira Turma, DJ 07.11.2003).
+
+Também sobre o tema, cabe transcrever as percucientes
+considerações do e. Ministro Alexandre de Moraes (grifou-se):
+
+A Democracia não existirá e a livre participação política não
+florescerá onde a liberdade de expressão for ceifada, pois esta
+constitui condição essencial ao pluralismo de ideias, que por
+sua vez é um valor estruturante para o salutar
+funcionamento do sistema democrático. A livre discussão, a
+ampla participação política e o princípio democrático estão
+interligados com a liberdade de expressão, tendo por objeto
+não somente a proteção de pensamentos e ideias, mas
+também opiniões, crenças, realização de juízo de valor e
+críticas a agentes públicos, no sentido de garantir a real
+participação dos cidadãos na vida coletiva. São
+inconstitucionais os dispositivos legais que tenham a nítida
+finalidade de controlar ou mesmo aniquilar a força do
+pensamento crítico, indispensável ao regime democrático.
+[...] O direito fundamental à liberdade de expressão não se
+direciona somente a proteger as opiniões supostamente
+verdadeiras, admiráveis ou convencionais, mas também
+aquelas que são duvidosas, exageradas, condenáveis,
+satíricas, humorísticas, bem como as não compartilhadas
+pelas maiorias. Ressalte-se que, mesmo as declarações
+errôneas, estão sob a guarda dessa garantia constitucional.
+(ADI 4.451, Rel. Min. Alexandre de Moraes, DJe 06.03.2019)
+
+Observa-se que, a fim de conferir aspecto de legalidade à
+orientação correcional, a Nota Técnica n. 1556/2020 fundamenta suas
+conclusões em interpretação transbordante e inconstitucional do
+disposto nos arts. 116, II, e 117, V, da Lei n. 8.112/1990.
+
+Não há na referida legislação, contudo, qualquer disposição
+que permita a imposição de limitações ao direito fundamental de
+liberdade de expressão do servidor público — inclusive de índole político-
+
+
+[[pagina 9 | nativo]]
+partidária — disposição que, caso existente, estaria em flagrante
+descompasso com a Constituição Federal.
+
+Esse foi, precisamente, o entendimento do e. Ministro Luís
+Roberto Barroso em recente precedente monocrático, que afastou a
+restrição à manifestação político-partidária em redes sociais imposta pelo
+Provimento n. 71/2018 do CNJ a servidores do Poder Judiciário. Em
+sua decisão, o e. Relator destacou que os servidores civis possuem
+estatuto jurídico diverso de outras categorias com maiores restrições,
+como é o caso dos magistrados, veja-se:
+
+12. Em relação aos servidores, no entanto, o regime
+constitucional e legal é diverso. A Constituição Federal não
+veda aos servidores civis a dedicação à atividade político-
+partidária, tal como impõe aos magistrados (CF/1988, art.
+95, parágrafo único, III), nem proíbe a sua filiação
+partidária, tal como faz em relação aos militares (CF/1988,
+art. 142, § 3º, V).
+13. A Lei nº 8.112/90, que dispõe sobre o regime jurídico
+dos servidores públicos civis da União, assegura, ao
+contrário, o direito à licença para candidatura:
+[...] 18. Diante disso, com exceção dos servidores em exercício
+na Justiça Eleitoral, a restrição à manifestação político-
+partidária em redes sociais prevista no Provimento nº
+71/2018 contraria o regime legal e constitucional que
+assegura aos servidores civis o direito de filiação
+partidária e o exercício pleno de atividade política.
+(MS 35.779-MC, Rel. Min. Roberto Barroso, decisão
+monocrática, DJe 10.12.2018)
+
+Sobre o tema, cabe destacar que a Procuradoria Federal dos
+Direitos do Cidadão (PFDC-MPF) editou recentemente recomendação à
+Comissão de Ética Pública diante de notícia sobre a possibilidade de
+punição disciplinar a servidora do INCRA que manifestou opiniões
+contrárias a autoridade superior durante audiência pública. Veja-se, por
+oportuno, os seguintes trechos do documento (Doc. 05):
+
+CONSIDERANDO que a liberdade de expressão protege
+simultaneamente os direitos daqueles que desejam expor as
+suas opiniões ou sentimentos e os do público em geral, ou
+seja, quando se proíbe uma manifestação qualquer, viola-se
+tanto a liberdade dos que são impedidos de exprimir as suas
+ideias, como também os direitos dos integrantes do público,
+que são privados do contato com pontos de vista que
+
+
+[[pagina 10 | nativo]]
+poderiam ser importantes para que formassem livremente as
+suas próprias opiniões;
+[...] CONSIDERANDO que os servidores públicos não estão
+impedidos, nem pela Constituição, nem pela Lei 8.112, a
+participar de discussões públicas e informar ao público
+questões fundamentais pertinentes ao assunto em debate;
+CONSIDERANDO que, ao contrário, temas de tamanha
+repercussão exigem que servidores técnicos e experientes
+apresentem sua percepção, de modo a facilitar o complexo
+processo de tomada de decisões, seja no âmbito do Executivo,
+seja no do Legislativo;
+
+Cumpre, ainda, destacar que esta Suprema Corte tem
+reafirmado em numerosos precedentes que o grave momento de
+pandemia — utilizado como ensejo pela CGU para a expedir a Nota
+Técnica — não pode ser utilizado como justificativa para flexibilizar
+direitos fundamentais garantidos pelo Constituição Federal, proceder
+que vem sendo recorrentemente adotado pelo Poder Executivo nos
+últimos meses.
+
+Nessa linha, citam-se como exemplos a ADI n. 6.353-MC,
+Rel. Min. Alexandre de Moraes, na qual o Plenário impediu o
+enfraquecimento da Lei de Acesso à Informação previsto na MP n.
+928/2020 (j. 30.04.2020); e a ADI n. 6.389-MC, Rel. Min. Rosa Weber,
+na qual o Plenário suspendeu os efeitos da MP n. 954/2020, que previa
+o compartilhamento indiscriminado de dados de usuários de
+telecomunicações com o IBGE (j. 07.05.2020).
+
+A inconstitucionalidade das interpretações conferidas pela
+Controladoria-Geral da União consubstanciadas na Nota Técnica n.
+1556/2020 aos arts. 116, II, e 117, V, da Lei n. 8.112/1990, também se
+observa diante da flagrante violação ao princípio da legalidade estrita,
+tendo em vista as evidentes consequências sancionatórias da
+orientação disciplinar expedida pela Controladoria-Geral da União.
+
+No ponto, cumpre destacar a indevida e desproporcional
+relativização do conceito de “recinto da repartição” sustentada pela CGU
+em sua orientação.
+
+Sob o argumento de regulamentar a nova realidade de
+trabalho remoto implementada em diversos órgãos — e potencializada
+
+
+[[pagina 11 | nativo]]
+durante o período de afastamento social atualmente vivenciado — a Nota
+Técnica intenta a reclassificação da disposição expressa contida no art.
+117, V, da Lei n. 8.112/1990, para atingir de maneira indiscriminada
+e sem critérios específicos todos os atos da vida do servidor, dentro
+ou fora das dependências do órgão público, veja-se:
+
+4.69. Neste cenário, hodiernamente, não há como se admitir
+que o “recinto da repartição” esteja delimitado
+exclusivamente aos limites físicos das dependências órgão.
+Exige-se, pois, uma percepção de que a nova concepção de
+espaço de trabalho transite entre o físico e o virtual. Na
+verdade, o trabalho remoto deu nova caracterização aos
+espaços de execução de atividades públicas, apresentando,
+com esta transmudação, um novo ambiente virtual e
+dinâmico a exigir novas interpretações, alterações ou
+inovações normativas, visando um efetivo sistema de
+regulação e controle.
+4.70. Por estas razões, deve-se admitir a ampliação do
+conceito de “recinto da repartição” para além do seu
+espaço físico, devendo se estender aos ambientes virtuais
+externos onde se verifique a produção de atividade
+administrativa ou de assuntos relacionados a atividade ou
+à função do servidor.
+4.75. Dessa maneira, entende-se que a identificação de
+cargo, órgão, ou local de trabalho de servidor, no corpo das
+manifestações por ele divulgadas nas mídias sociais, pode
+vir a se apresentar como um descumprimento de dever ou
+proibição – como o dever de lealdade – ou mesmo de
+norma interna. Com efeito, a caracterização do ilícito exige
+a avaliação do conteúdo propagado, com vistas a identificar
+opiniões, entendimentos ou informações no seu bojo que
+possam trazer consequências negativas à imagem e
+credibilidade de seu órgão ou seu corpo de servidores.
+
+Ou seja, valendo-se de leitura extremamente alargada dos
+dispositivos apontados, o dispositivo impugnado interfere de forma grave
+na esfera jurídica dos servidores públicos, reprimindo potenciais
+condutas que não se encontram elencadas na legislação.
+
+Adotando-se uma aplicação mais voluntariosa das diretrizes
+disciplinares exaradas pelas CGU, seria possível conceber, até mesmo,
+possível controle da atividade acadêmica, docente e de pesquisa, de
+servidores públicos, visto a natureza online de muitas destas atividades
+
+
+[[pagina 12 | nativo]]
+Em outras palavras, ao exprimir exigência de conduta não
+contida na Lei n. 8.112/1990, a interpretação defendida pela CGU
+terminou por criar hipótese de sanção não prevista em Lei, infligindo
+aos servidores públicos repressão inconstitucional ao direito
+fundamental à liberdade de expressão.
+
+É de ressaltar que a Lei n. 8.112/1990 já prevê em seu
+regulamento disciplinar diversas hipóteses de infração administrativa
+capazes de coibir eventuais abusos e desvios efetivos de conduta, como é
+o caso dos deveres (art. 116) de cumprir ordens superiores, guarda de
+sigilo sobre assuntos internos, conduta compatível com a moralidade
+administrativa e tratamento urbano; bem como das proibições (art. 117)
+de opor resistência injustificada ao serviço, coação de subordinados a
+filiação em associação, sindicato ou partido político e utilização do cargo
+para proveito pessoal — nenhuma delas sendo apta a reprimir a livre
+manifestação de ideias pelo servidor.
+
+Diante de tais considerações, não há como afastar a
+inconstitucionalidade da interpretação conferida pela Corregedoria-Geral
+da União/CGU aos dispositivos apontados como objeto da presente ação
+direta, razão pela qual a procedência da demanda é medida que se impõe.
+
+V. DA MEDIDA CAUTELAR
+
+No presente caso, impõe-se o deferimento de medida cautelar
+para que sejam imediatamente suspensos qualquer tipo de apuração
+ou punição administrativa e judicial contra servidores públicos com
+base na inconstitucional interpretação conferida pela CGU por meio da
+Nota Técnica n. 1556/2020/CGUNE/CRG aos artigos 116, II e III, e 117,
+V, da Lei n. 8.112/1990, uma vez que presentes os requisitos do
+probabilidade do direito e do perigo na demora.
+
+A probabilidade do direito está suficientemente evidenciada
+nas razões aduzidas no decorrer da presente inicial, que demonstram a
+inconstitucionalidade da interpretação conferida pela Corregedoria-Geral
+da União aos dispositivos da Lei n. 8.112/1990, em flagrante violação ao
+direito fundamental à liberdade de expressão (art. 5º, IV, da CF), impondo
+aos servidores públicos federais verdadeira barreira à livre manifestação
+do pensamento.
+
+
+[[pagina 13 | nativo]]
+A interpretação que se busca afastar viola, também, o
+princípio da legalidade estrita (art. 5º, II, da CF), na medida em que
+conduz a grave hipótese sancionatória aos servidores públicos federais
+com fundamento em leitura extremamente alargada dos dispositivos
+apontados.
+
+O perigo na demora, por sua vez, está demonstrado ante o
+patente risco de que a interpretação conferida pela CGU aos arts. 116, II
+e III, e 117, V, da Lei n. 8.112/1990 seja utilizada, desde já, para
+perseguir e punir servidores públicos que exerçam seu regular direito de
+manifestação e de críticas. Se é certo que a democracia opera a partir da
+regra da maioria, também é certo que pressupõe dissensos e que a crítica
+e a contestação fazem parte das regras do jogo democrático.
+
+O perigo na demora para a concessão da medida cautelar
+também se fundamenta no caráter transversal da CGU, uma vez que a
+intepretação chancelada pela instituição pode ultrapassar os limites do
+órgão e ser aplicada como fundamento para abertura de processos
+disciplinares e punições contra todo e qualquer servidor público
+federal, razão pela qual o conteúdo da Nota Técnica precisa ser
+imediatamente suspenso por esta Suprema Corte.
+
+Como visto, a Corregedoria-Geral da União da CGU — órgão
+que assina a Nota Técnica — possui, entre as suas atribuições legais,
+implementar as diretivas da atividade correcional da Administração
+Pública Federal, encabeçando o Sistema de Correição do Poder Executivo
+Federal, o que evidencia o potencial replicador e vinculante das
+orientações expedidas pelo órgão.
+
+Ademais, a prevalência da interpretação ora impugnada, cuja
+inconstitucionalidade é patente, configura verdadeira mordaça aos
+servidores públicos, que, diante da mera possibilidade de punição
+administrativa, passam a dirigir seus comportamentos, corações e
+mentes pela lógica do medo e da desconfiança, impedidos de fruir na
+integralidade de seu direito fundamental à liberdade de expressão e de
+manifestação do pensamento.
+
+Em reação à medida, a Direção do Sindicato dos Servidores
+das Justiças Federais no Estado do Rio de Janeiro (SISEJUFE-RJ)
+
+
+[[pagina 14 | nativo]]
+destacou o caráter intimidatório da Nota Técnica emitida pela CGU,
+afirmando que “tal posicionamento tem visivelmente como único objetivo,
+o de intimidar o servidor, atitude que é incompatível com o Estado de
+direito”1.
+
+A medida também foi repudiada pela Federação Nacional dos
+Policiais Federais (Fenapef), destacando que “a livre expressão do
+pensamento é garantida pela Constituição, lei máxima deste País, e que os
+servidores públicos não abrem mão desse direito quando são aprovados
+em concurso público”2.
+
+Como efeito colateral da orientação disciplinar, tem-se o
+desencorajamento do agente público a expor publicamente suas críticas
+a atuação do órgão e, até mesmo, eventuais denúncias sobre
+irregularidades no trato da coisa pública, em franco desatendimento aos
+princípios da transparência e da publicidade que devem reger a
+Administração Pública.
+
+Sob outra perspectiva, estar-se-ia a fomentar manifestações
+de servidores de forma anônima ou sob pseudônimos, sobretudo diante
+do atual cenário de afastamento social, no qual os ambientes virtuais
+caracterizam-se como único reduto para a expressão e o diálogo de ideias,
+gerando, consequentemente, a necessidade da preservação de uma
+esfera individual do cidadão para o exercício da expressão neste
+ambiente, seja qual for sua ocupação funcional.
+
+Assim, cumpre a este Supremo Tribunal suprimir os efeitos
+da interpretação inconstitucional conferida pela Corregedoria-Geral da
+União às disposições da Lei n. 8.112/1990, desde a data da sua edição,
+por consequência invalidando todos os possíveis procedimentos e/ou
+processos que tenham por fundamento a intepretação questionada na
+presente ADI.
+
+Caso não se entenda devida a concessão da medida cautelar,
+requer-se a adoção do rito abreviado para análise da ação previsto no art.
+12 da Lei n. 9.868/1999, a fim de que o processo seja diretamente
+submetido a julgamento definitivo por esta Corte.
+
+1 Disponível em: https://sisejufe.org.br/noticias/63781/
+2 Disponível em: https://fenapef.org.br/nota-a-imprensa-30-07-2020
+
+
+[[pagina 15 | nativo]]
+VI. PEDIDOS
+
+Diante do exposto, requer-se seja conhecida a presente ação
+direta de inconstitucionalidade (ou, alternativamente, a ADPF), tendo em
+vista o preenchimento de seus pressupostos de admissibilidade, para
+que:
+
+a) Preliminarmente, seja concedida medida cautelar
+para determinar a suspensão de qualquer tipo de
+apuração ou punição administrativa e judicial contra
+servidores públicos com base na inconstitucional
+interpretação conferida pela Nota Técnica n.
+1556/2020/CGUNE/CRG aos artigos 116, II e III, e 117,
+V, da Lei n. 8.112/1990;
+
+b) No mérito, seja julgada procedente a presente ação
+direta, ratificando a liminar eventualmente concedida.
+Ou, caso conhecida como ADPF, requer-se o julgamento
+da procedência da ação, afastando-se os efeitos
+sancionatórios previstos na Nota Técnica n. 1556/2020.
+
+Por fim, requer-se que as publicações sejam realizadas em
+nome do advogado Rafael de Alencar Araripe Carneiro, inscrito na
+OAB/DF sob o n. 25.120, sob pena de nulidade. Informa, para os efeitos
+do disposto pelo artigo 39, I, do Código de Processo Civil, que o signatário
+tem escritório em Brasília, no endereço SGAN Quadra 601 Bloco H L2
+Norte - Edifício ION - Sala 1035, Brasília/DF - CEP 70.830-018.
+
+É atribuído à causa, para meros efeitos contábeis, o valor de
+R$ 100,00 (cem reais).
+
+Nesses termos, pede deferimento.
+Brasília, 5 de agosto de 2020.
+
+Rafael de Alencar Araripe Carneiro Felipe Santos Correa
+OAB/DF 25.120 OAB/DF 53.078
+
+

@@ -1,0 +1,1214 @@
+[[pagina 1 | nativo]]
+
+Excelentíssimos Senhores Ministros
+Supremo Tribunal Federal
+Brasília - DF
+
+Assunto: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE
+DIREITO PÚBLICO | CONTROLE DE CONSTITUCIONALIDADE (10645)1
+
+Ementa: Constitucional. ADI. Emenda Constitucional nº 103, de 2019. Artigo
+25, § 3º. Nulidade de aposentadorias do Regime Próprio. Violação à cláusula
+pétrea (direitos individuais fundamentais). Direito adquirido, ato jurídico perfeito
+e segurança jurídica. Artigo 5º, inciso XXXVI, da Constituição da República de
+1988. Artigo 4º da Emenda Constitucional nº 20, de 1998.
+
+ASSOCIAÇÃO DOS MAGISTRADOS BRASILEIROS - AMB,
+inscrita no CNPJ/MF sob o nº. 34.102.228/0001-04, com sede no SCN, Quadra 2,
+Bloco D, Torre B, Sala 1302, Shopping Liberty Mall, CEP: 70712-903, Brasília-DF;
+ASSOCIAÇÃO NACIONAL DOS MEMBROS DO MINISTÉRIO PÚBLICO –
+CONAMP, inscrita no CNPJ sob o n. 54.284.583/0001-59, com sede no SHS,
+Quadra 6, Conjunto “A”, Complexo Brasil 21, Bloco “A”, salas 305/306, CEP n.º
+70.322-915, Brasília-DF; ASSOCIAÇÃO NACIONAL DOS PROCURADORES
+DO TRABALHO - ANPT, inscrita no CNPJ sob o n. 03.495.090/0001-27, com sede
+no SBS, Quadra 2, bloco S, Edifício Empire Center, 11º andar, salas 1103/1108,
+CEP.: 70.070-904, Brasília-DF, ASSOCIAÇÃO NACIONAL DOS
+MAGISTRADOS DA JUSTIÇA DO TRABALHO - ANAMATRA, inscrita no
+CNPJ/MF sob o n. 00.536.110/0001-72, com sede no SHS, Quadra 06, bloco E,
+conjunto A, salas 602 a 608, CEP.: 70.316-000, Brasília-DF; e ASSOCIAÇÃO
+NACIONAL DOS PROCURADORES DA REPÚBLICA - ANPR, inscrita no
+CNPJ/MF sob o n. 00.392.696/0001-49, com sede no SAF Sul, Quadra 4, conjunto
+C, bloco B sala 113/114, Brasília-DF, CEP: 70.050-900, por seus procuradores
+regularmente constituídos (mandatos inclusos) que recebem intimações e
+notificações em Brasília-DF, no SAUS, quadra 5, bloco N, salas 212 a 217, edifício
+OAB, CEP 70.070-913, telefone (61) 3223-0552, e-mail: publica@servidor.adv.br,
+com suporte nos artigos 102, I, “a”2, e 103, IX, da Constituição da República de
+
+1 Assunto de acordo com as Tabelas Processuais Unificadas do Poder Judiciário expedidas pelo Conselho
+Nacional de Justiça (Resolução nº 46, de 2007): https://www.cnj.jus.br/sgt/consulta_publica_classes.php
+1 de 27
+
+[[pagina 2 | nativo]]
+
+19882, e no artigo 2º, IX, da Lei 9.868, de 19993, propõe AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE com pedido de MEDIDA CAUTELAR, em razão
+da inconstitucionalidade do § 3º do artigo 25 da Emenda Constitucional nº 103, de
+2019, que viola o artigo 5º, inciso XXXVI, o artigo 60, § 4º, inciso IV, da Constituição
+da República de 1988, e o artigo 4º da Emenda Constitucional nº 20, de 1998,
+conforme se passa a demonstrar:
+
+1. OBJETO
+
+As autoras congregam membros do Judiciário e do Ministério
+Público e agem contra o que dispõe o § 3º do artigo 25 da Emenda Constitucional nº
+103, de 2019 (anexa), porque, ao considerar “nula a aposentadoria que tenha sido
+concedida ou que venha a ser concedida por regime próprio de previdência social
+com contagem recíproca do Regime Geral de Previdência Social”, não excepciona
+desta declaração de nulidade as aposentadorias concedidas ou que venham a ser
+concedidas com averbações de tempo de serviço previstos em leis específicas ou
+anterior à Emenda Constitucional nº 19, de 1998, que, por expressa disposição
+constitucional, equivale a tempo de contribuição.
+
+Como será visto no tópico sobre os fundamentos da
+inconstitucionalidade: no contexto do direito adquirido e do ato jurídico perfeito que
+integram cláusula pétrea (direitos fundamentais individuais)4, está o cômputo de
+tempo de advocacia anterior à Emenda Constitucional nº 19 (publicada em
+16/12/1998) ou previsto na legislação das carreiras da magistratura e do parquet,
+especialmente relevante aos agentes políticos representados pelas requerentes. E no
+tópico seguinte, também abordando o direito adquirido e o ato jurídico perfeito, está
+a questão do computo do tempo ficto de 17% dos magistrados e membros do
+ministério público do sexo masculino, sobre o período trabalhado antes da Emenda
+Constitucional nº 20.
+
+A inconstitucionalidade da abolição de cláusula pétrea, consistente
+na anulação irrestrita de aposentadorias concedidas - ou que venham a ser concedidas
+
+2 Constituição da República: “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+Constituição, cabendo-lhe: I - processar e julgar, originariamente: a) a ação direta de inconstitucionalidade de
+lei ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo
+federal; [...] Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (...) IX - confederação sindical ou entidade de classe de âmbito nacional.”
+3 Lei 9.868, de 1999: “Art. 2º Podem propor a ação direta de inconstitucionalidade: (...) IX - confederação sindical
+ou entidade de classe de âmbito nacional”
+4 Constituição da República de 1988: “Art. 60 [...] § 4º § 4º Não será objeto de deliberação a proposta de
+emenda tendente a abolir: [...] IV - os direitos e garantias individuais.”
+2 de 27
+
+[[pagina 3 | nativo]]
+
+– pelo Regime Próprio, quando há contagem recíproca do Regime Geral, é revelada
+pela redação do § 3º do artigo 25 do texto da Emenda Constitucional nº 103, de 2019,
+quando afirma:
+
+"Art. 25
+[...]
+§ 3º Considera-se nula a aposentadoria que tenha sido concedida ou que
+venha a ser concedida por regime próprio de previdência social com contagem
+recíproca do Regime Geral de Previdência Social mediante o cômputo de tempo
+de serviço sem o recolhimento da respectiva contribuição ou da correspondente
+indenização pelo segurado obrigatório responsável, à época do exercício da
+atividade, pelo recolhimento de suas próprias contribuições previdenciárias. ".
+
+A redação impugnada não constava do texto original da PEC nº 6, de
+2019, mas foi inserida pelo relator e aprovada durante a tramitação na Comissão
+Especial da Câmara dos Deputados. O catalisador para a inserção, segundo
+amplamente noticiado na época, foi o Acórdão nº 1435/2019/TCU-Plenário
+(documento anexado), com julgamento concluído na sessão de 19 de junho de 2019,
+conforme sumário seguinte:
+
+PESSOAL. APOSENTADORIA. MAGISTRADO. AVERBAÇÃO DE TEMPO DE
+ADVOCACIA SEM COMPROVAÇÃO DA RESPECTIVA CONTRIBUIÇÃO
+PREVIDENCIÁRIA. TEMPO AVERBADO E INGRESSO NA MAGISTRATURA
+ANTERIORES À EC 20/1998. POSSIBILIDADE. DESNECESSIDADE DE
+RECOLHIMENTO DAS CONTRIBUIÇÕES DE FORMA INDENIZADA.
+LEGALIDADE. REGISTRO. É legal, para fins de aposentadoria de magistrado, a
+contagem do tempo exercido como advogado, independentemente do
+recolhimento das contribuições previdenciárias, desde que comprovada por meio
+de certidão da OAB e apenas para os interessados que ingressaram na carreira
+antes do advento da Emenda Constitucional 20/1998, de 16/12/1998.
+(TCU, Plenário, processo TC 012.621/2016-1, Acórdão nº 1435/2019, relator
+Min. Benjamin Zymler, com voto vencedor do Min. Walton Alencar Rodrigues,
+julgado na sessão de 19/06/2019)
+
+A despeito dessa motivação isolada, não há como negar que o texto
+final acabou por alcançar outras situações assemelhadas, como a da contagem do
+tempo ficto de 17% dos magistrados e membros do ministério público, sobre o
+período antecedente à Emenda Constitucional nº 20, garantido no art. 8º desta,
+reafirmado nos artigos 2º e 10 da EC n. 41 e mantido pelo artigo 3º da EC 47.
+
+Conforme se verá adiante, o § 3º do artigo 25 da Emenda
+Constitucional nº 103, de 2019, viola o artigo 5º, inciso XXXVI, combinado com
+
+3 de 27
+
+[[pagina 4 | nativo]]
+
+artigo 60, § 4º, inciso VI, da Constituição da República de 1988, seja em configuração
+autônoma ou combinada com o artigo 4º da Emenda Constitucional nº 20, de 1998,
+motivo pelo qual deve ser declarado inconstitucional.
+
+2. CONHECIMENTO
+
+A despeito do inciso IX do artigo 103 da Constituição da República,
+que assegura legitimidade às entidades de classe de âmbito nacional, não obstante o
+Supremo Tribunal Federal exija que a pertinência temática tenha “referibilidade
+direta entre as normas contestadas e os objetos sociais das requerentes” (ADI 4.400),
+considerando a injusta restrição de acesso à justiça por inexistir assunto que não
+tangencie outras classes, a Corte passou a entender que basta demonstração de que a
+norma contestada afeta os fins institucionais das entidades que provocam o controle
+concentrado:
+
+EMENTA Agravo regimental em ação direta de inconstitucionalidade.
+Tributação incidente sobre verbas de comissão de corretagem. Sociedades
+seguradoras. CONSIF. Objetivos institucionais. Objeto da ação. Correlação.
+Pertinência temática. Existência. 1. Existe correlação entre os objetivos
+institucionais da CONSIF, entidade sindical de grau superior que “congrega as
+federações que agrupam as entidades de classe representativas das instituições
+financeiras e assemelhadas, empresas seguradoras e empresas de capitalização e
+previdência”, e o objeto de ação direta com que se busca afastar a incidência da
+contribuição previdenciária sobre verbas de comissão de corretagem. 2. Agravo
+regimental provido para, afastando o óbice da ausência de pertinência temática,
+dar regular prosseguimento ao feito. (ADI 4673 AgR, Rel. Min. Alexandre de
+Moraes, Rel.p/ Acórdão Min. Dias Toffoli, Tribunal Pleno, j. 13/06/2018, p. DJe-
+225 d. 22/10/2018 p. 23/10/2018)
+
+Com base nesse posicionamento, em relação às autoras, houve
+reconsideração de decisão que não reconheceu sua legitimidade em caso em que
+diploma impugnado também se referia a outras classes do funcionalismo público:
+
+Trata-se de Agravo Regimental interposto pela Associação dos Magistrados
+Brasileiros – AMB, pela Associação Nacional dos Magistrados da Justiça do
+Trabalho – ANAMATRA, e pela Associação dos Juízes Federais do Brasil –
+AJUFE, contra decisão monocrática que extinguiu arguição de descumprimento
+de preceito fundamental proposta por essas entidades em face do art. 127, IV, e
+art. 134 da Lei Federal 8.112/1990, Estatuto dos Servidores Civis da União, que
+tratam da aplicação da penalidade de cassação de aposentadoria.
+A decisão agravada acatou preliminar suscitada pelo Procurador-Geral da
+República de ilegitimidade ativa das autoras, ora agravantes, sob o aspecto da
+
+4 de 27
+
+[[pagina 5 | nativo]]
+
+ausência de pertinência temática entre a norma impugnada e suas finalidades
+institucionais e o seu âmbito de representatividade.
+Em suas razões recursais, as agravantes sustentam terem efetivamente
+demonstrado, na petição inicial, a existência de pertinência temática entre o
+objeto da arguição e seus objetos sociais, mediante a demonstração de que os
+dispositivos questionados da Lei 8.112/1990 têm sido regularmente aplicados
+pelos Tribunais aos membros da magistratura. Aduziram ainda ser possível ao
+SUPREMO TRIBUNAL FEDERAL tanto proclamar a nulidade desses
+dispositivos quanto declarar a sua inaplicabilidade aos magistrados. Invocaram
+precedentes, pelos quais, segundo alegam, a jurisprudência da CORTE daria
+respaldo à legitimidade da AMB para a impugnação, em sede de controle
+concentrado, de normas atinentes a todos os servidores públicos. Em relação à
+ANAMATRA e AJUFE, argumentam que a aplicação das normas impugnadas
+dependerá da atuação particular de cada Tribunal (Federal ou Trabalhista) na
+imposição dessa sanção (cassação de aposentadoria), pelo que entendem presente
+a legitimidade dessas entidades para a propositura da arguição em foco.
+É o relatório.
+No julgamento do Agravo Regimental interposto nos autos da Ação Direta de
+Inconstitucionalidade 4.673, na qual figuro como Relator, este SUPREMO
+TRIBUNAL FEDERAL houve por bem assentar entendimento em prol da maior
+flexibilidade no reconhecimento do requisito da pertinência temática como
+pressuposto para a legitimidade ativa em controle abstrato de constitucionalidade
+(ADI 4.673 AgR, de minha Relatoria, Tribunal Pleno, j. em 13/6/2018). O
+posicionamento que externei naquele caso – semelhante ao adotado na decisão
+agravada neste processo – não foi acolhido pelos demais membros desta CORTE.
+Em homenagem ao princípio da colegialidade, considerando o quanto
+sedimentado no referido precedente, RECONSIDERO a decisão agravada, para
+reconhecer a legitimidade das autoras, e JULGO PREJUDICADO o presente
+Agravo Regimental.
+(Decisão do Min. Alexandre de Moraes no Ag.Reg. na Argüição de
+Descumprimento de Preceito Fundamental 418)
+
+Conforme se passa a demonstrar, em que pese o § 3º do artigo 25 da
+Emenda Constitucional nº 103, de 2019, também afetar outras categorias do
+funcionalismo público, constatam-se efeitos negativos específicos sobre a
+aposentadoria de membros do Poder Judiciário e do Ministério Público, gerando
+grave insegurança jurídica.
+
+3. INCONSTITUCIONALIDADES EM FACE DO TEMPO DE SERVIÇO NA
+ADVOCACIA
+
+O direito adquirido e o ato jurídico perfeito são direitos individuais
+fundamentais, corolários da segurança jurídica, cuja ruptura não é admitida mesmo
+que o veículo seja emenda constitucional (Constituição de 1988, artigo 60, § 4º, IV).
+5 de 27
+
+[[pagina 6 | nativo]]
+
+O § 3º do artigo 25 da Emenda Constitucional nº 103, de 2019, traz
+especial prejuízo aos membros da Administração da Justiça, cujos regimes jurídicos
+são interligados com a advocacia privada e, em função disso, têm o seu tempo de
+contribuição no cargo somado ao tempo de serviço nessa profissão para o gozo dos
+benefícios previdenciários.
+
+Não por menos, tanto o artigo 77 da Lei Complementar 35, de 19795,
+quanto o § 1º do artigo 231 da Lei Complementar 75, de 19936, e o § 2º do artigo 50
+da Lei nº 8.625, de 19937, abordam essa contagem, além do fato de o exercício dessa
+atividade jurídica compor o tempo necessário para ingresso nessas carreiras8.
+
+Bem por isso, esses agentes políticos têm o direito adquirido a
+contabilizar esse tempo de serviço até a edição da Emenda Constitucional nº 20/1998;
+por óbvio: sem necessidade de comprovar a respectiva contribuição, que passou a ser
+exigida posteriormente.
+
+Até a publicação da EC 20/98, os fatores a serem observados para
+fins de aposentadoria eram a idade e o tempo de serviço. Somente após o início de
+sua vigência, passou a ser necessária a comprovação do recolhimento das
+contribuições previdenciárias. Assim, a mudança no texto constitucional ressalvou
+que deveria ser respeitada, para fins de aposentadoria, a lei vigente à época, devendo-
+se, portanto, considerar como tempo de contribuição o tempo de serviço anterior à
+obrigatoriedade de comprovação das contribuições:
+
+Art. 4º - Observado o disposto no art. 40, § 10, da Constituição Federal, o tempo
+de serviço considerado pela legislação vigente para efeito de aposentadoria,
+cumprido até que a lei discipline a matéria, será contado como tempo de
+contribuição. (grifou-se)
+
+Diante da clareza desse direito, os órgãos do Judiciário e do
+
+5 Lei Complementar 35/1979: Art. 77 - computar-se-á, para efeito de aposentadoria e disponibilidade, o tempo
+de exercício da advocacia, até o máximo de quinze anos, em favor dos Ministros do Supremo Tribunal Federal
+e dos membros dos demais Tribunais que tenham sido nomeados para os lugares reservados a advogados,
+nos termos da Constituição federal.
+6 Lei Complementar 75/1993: Art. 231. [...] § 1º Será contado como tempo de serviço para aposentadoria, não
+cumulativamente, até o limite de quinze anos, o tempo de exercício da advocacia. (grifou-se)
+7 Lei nº 8.625, de 1993: Art. 50. Além dos vencimentos, poderão ser outorgadas, a membro do Ministério
+Público, nos termos da lei, as seguintes vantagens: (...)§ 2º Computar-se-á, para efeito de aposentadoria,
+disponibilidade e adicionais por tempo de serviço, o tempo de exercício da advocacia, até o máximo de quinze
+anos.
+8 Na forma dos artigos 93, inciso I, e 129, § 3º, da Constituição da República de 1988.
+6 de 27
+
+[[pagina 7 | nativo]]
+
+Ministério Público admitem que o tempo de serviço realizado no exercício da
+advocacia antes da Emenda Constitucional nº 20/1998 pode ser comprovado tão
+somente com base em certidão expedida pela Ordem dos Advogados do Brasil,
+independentemente da comprovação do recolhimento de contribuições
+previdenciárias.
+
+Não obstante a mudança substancial no regime, a Emenda
+Constitucional nº 20/1998, em homenagem ao princípio da segurança jurídica,
+respeitou as situações já consolidadas anteriormente ou previstas em leis específicas
+vigentes, já que seria ilegítima a exigência da prova das contribuições pretéritas,
+quando a Constituição e a legislação vigente consideram suficiente a demonstração
+do serviço realizado (especialmente em razão das dificuldades encontradas nessas
+profissões liberais).
+
+Não obstante alterar o texto constitucional para impedir a contagem
+de tempo de contribuição fictício9, o artigo 4º da EC nº 20/1998 equiparou a tempo
+de contribuição o tempo de serviço, preservando os direitos adquiridos antes da
+expressa vedação. Da mesma forma, preservou o direito ao cômputo do tempo de
+serviço considerado pela legislação vigente para efeito de aposentadoria, cumprido
+até que a lei discipline a matéria (no caso de magistrados e promotores de justiça,
+as respectivas leis complementares e orgânicas mantêm a previsão de averbação do
+tempo de advocacia).
+
+Quanto ao período de serviço até a Emenda 20, este é o entendimento
+da doutrina de Marçal Justen Filho:
+
+A vedação à contagem de tempo de contribuição fictício: Ademais disso, é
+proibido produzir contagem de tempo de contribuição fictício. Assim, as regras
+tais como a de que o sujeito que deixar de gozar de licença poderá contar o
+período em dobro devem ser reputadas como proscritas. A regra geral é de que
+não se computa tempo de serviço sem a efetiva ocorrência de contribuição. Mas
+essa determinação não impede a fruição pelo interessado de eventual direito
+adquirido antes da consagração de vedação constitucional sobre o tema10.
+
+No âmbito do Regime Geral de Previdência Social, vigorava a Lei
+
+9 Constituição da República, com a redação dada pela EC nº 20/1998: “Art. 40 (...) § 10 - A lei não poderá
+estabelecer qualquer forma de contagem de tempo de contribuição fictício.” (Incluído pela Emenda
+Constitucional nº 20, de 15/12/98)
+10 MARÇAL, Justen Filho. Curso de direito administrativo. 10. Ed. rev. atual. e ampl. São Paulo: Editora Revista
+dos Tribunais, 2014. p.1015.
+7 de 27
+
+[[pagina 8 | nativo]]
+
+Orgânica da Previdência Social (Lei nº 3.807/1960) que disciplinava a aposentadoria
+por tempo de serviço, cujas regras estavam contidas no Regulamento (Decreto nº
+48.959-A/1960)11. Os decretos regulamentadores posteriores mantiveram os aspectos
+principais das regras de aposentação.
+
+Diante dessas ponderações, evidencia-se o fato de que, ao tempo em
+que os membros do Judiciário e do Ministério Público estiveram exercendo a
+advocacia vigoravam (e vigoram, se o artigo 4º da EC 20/98 for interpretado em sua
+devida extensão) as regras de aposentadoria por tempo de serviço. Por conseguinte,
+é dispensável a exigência de comprovação de recolhimento das contribuições
+previdenciárias, pois o tempo de serviço deve ser considerado caso esteja alicerçado
+em certidão autêntica da OAB.
+
+Vale repetir: apesar de a EC nº 20/1998 atribuir caráter contributivo
+ao regime previdenciário dos servidores públicos, vedando a contagem fictícia, ela
+também garante, através do artigo 4º, que o tempo de serviço considerado pela
+legislação vigente para efeito de aposentadoria seja contado como tempo de
+contribuição, mantendo essa possibilidade até que lei posterior modifique o
+procedimento. No caso de membros do Poder Judiciário e do Ministério Público, seja
+pela legislação vigente antes ou depois da EC 20/98, não houve lei modificando a
+contagem do tempo de advocacia, independente de comprovação de contribuição.
+
+Não se trata, meramente, de discutir o direito adquirido à contagem
+do tempo de serviço na advocacia, independentemente de comprovação do
+recolhimento das contribuições, mas também a preservação do ato jurídico perfeito12
+por tais averbações já terem em sua grande maioria ocorrido, de modo que esse
+período já foi incorporado pelo patrimônio jurídico dessas classes, não havendo mais
+a possibilidade de restringi-lo.
+
+O Superior Tribunal de Justiça, no julgamento do Recurso
+Especial nº 627.472, afastou qualquer dúvida acerca do disposto pelo artigo 4º da EC
+
+11 Decreto nº 48.959-A/1960: “Art. 58. A aposentadoria por tempo de serviço será concedida ao segurado que
+contar, no mínimo 55 (cinqüenta e cinco) anos de idade e 30 (trinta) anos de serviço.
+Art. 59. Considera-se "tempo de serviço", para os efeitos dêste Regulamento, o lapso de tempo transcorrido,
+de data a data, desde a admissão em emprêsa ou o início de atividade vinculada à previdência social, ainda
+que anterior à instituição desta, até a dispensa ou afastamento da atividade, quando ocorrer, descontados os
+períodos legalmente estabelecidos como de suspensão do contrato de trabalho ou de interrupção de exercício,
+e os de afastamento da atividade, devidamente registrados, e computado o tempo de serviço militar obrigatório
+e de outro munus público.”
+12 Constituição Federal: “Art. 5º (...) XXXVI - a lei não prejudicará o direito adquirido, o ato jurídico perfeito e a
+coisa julgada;”
+8 de 27
+
+[[pagina 9 | nativo]]
+
+nº 20/1998, reconhecendo ser dispensável a comprovação do recolhimento das
+contribuições previdenciárias relativas ao período de advocacia – no caso, versavam
+os autos sobre a função de solicitador acadêmico, que possui o mesmo tratamento da
+advocacia:
+
+PREVIDENCIÁRIO. TEMPO DE SERVIÇO. MAGISTRADA FEDERAL.
+ATIVIDADE DE SOLICITADORA ACADÊMICA.CONTRIBUIÇÃO.
+RECOLHIMENTO. DESNECESSIDADE.EMENDA CONSTITUCIONAL 20/98.
+-Admite-se o cômputo do tempo de serviço em favor de magistrados que
+exerceram antes da investidura a advocacia ou atuaram como solicitadores
+sem a obrigatoriedade do recolhimento das contribuições exigidas pelo INSS
+para fins de averbação do referido tempo laboral.
+- Com o advento da Emenda Constitucional nº 20 de 1998, o sistema
+previdenciário tornou obrigatório o recolhimento das contribuições para fins de
+contagem de tempo de serviço, resguardando, entretanto, as situações já
+consolidadas.
+- As alterações na Lei Previdenciária não podem retroagir para alcançar
+fatos anteriores a ela, em face do princípio do tempus regit actum.
+- Recurso Especial improvido.
+(REsp 627472/RS, Rel. Ministro Paulo Medina, Sexta Turma, julgado em
+26/05/2004, DJ 01/07/2004) (grifou-se)
+
+Do voto do Relator, Min. Paulo Medina, extrai-se trecho que reforça
+o direito adquirido dessa classe:
+
+Nas razões recursais, alega o recorrente descumprimento do art. 96, inciso IV da
+Lei 8.213/91, ao dispor que "o tempo de serviço anterior ou posterior à
+obrigatoriedade de filiação à Previdência Social só será contado mediante
+indenização da contribuição correspondente ao período respectivo (...)".
+Entretanto, há que se ressaltar que as alterações do diploma legal
+regulamentador dos benefícios previdenciários, que impossibilitaram tal
+reconhecimento sem as devidas contribuições, não podem negar o direito
+adquirido dos segurados que à época foram isentados, em respeito ao
+princípio do tempus regit actum.
+Com o advento da Emenda Constitucional nº 20 de 1998, o sistema
+previdenciário tornou obrigatório o recolhimento das contribuições para
+fins de contagem de tempo de serviço, resguardando, entretanto, as situações
+já consolidadas.
+In casu, verifica-se que a recorrida faz jus ao direito ao cômputo do tempo de
+serviço na advocacia ou na atividade de solicitador acadêmico, posto que
+desempenhou as referidas atividades no período de 12 de maio de 1969 a 30
+de abril de 1971, sem a exigência de qualquer contraprestação pecuniária.
+A uma, porque a legislação que trata da magistratura federal prevê a a contagem
+do tempo de serviço na advocacia para fins de averbação e aposentadoria, sendo
+que a atividade de solicitador acadêmico a essa se equipara.
+9 de 27
+
+[[pagina 10 | nativo]]
+
+A duas, porque à época em que foi exercida a referida atividade, não era
+obrigatória a filiação à Previdência Social, devendo aplicar-se a legislação
+vigente naquele período. (grifou-se)
+
+Não fosse suficiente, a Advocacia-Geral da União emitiu o
+PARECER/MP/CONJUR/SMM/Nº 1319 - 3.21 / 2009 (anexo) reforçando o robusto
+entendimento jurisprudencial. Convém destacar alguns excertos do parecer, que
+acertadamente valoriza o princípio da segurança jurídica:
+
+2. Trata-se de divergência de entendimento acerca do cômputo de tempo de
+serviço, prestado na condição de solicitador acadêmico, no período de 12 de maio
+de 1975 a 31 de março de 1977, por Desembargador do Tribunal Regional Federal
+da 4ª Região, nomeado para lugar reservado a advogados.
+(...)
+12. Observe-se que a possibilidade de cômputo deste período ficto ampara-se na
+própria redação do artigo 4º da Emenda nº 20. Para o Tribunal de Contas da União
+no citado precedente, Decisão nº 748, de 2000, “a data-limite para a aquisição
+do direito, ante a nova redação conferida ao art. 40, § 10, da Constituição
+Federal, deve ser a de 16/12/98. Demais tempos fictos também poderão ser
+utilizados para efeito de aposentadoria, desde que tenham sido incorporados ao
+patrimônio do servidor até 16/12/98”. (g. n.)
+(...)
+22. Neste diapasão é que entendemos que o posicionamento até então adotado
+pela Administração Pública de permitir o cômputo do tempo de serviço de
+solicitador acadêmico, prestado pelos magistrados ocupantes dos lugares
+destinados a advogados, mediante a apresentação de certidão da OAB,
+anteriormente à edição da Emenda Constitucional nº 20, de 1998, está em perfeita
+sintonia com a moderna doutrina do Direito Administrativo que deixa de dar
+ênfase excessiva ao princípio da legalidade para prestigiar a atuação positiva dos
+princípios, especialmente o da segurança jurídica.
+
+Outrossim, o Supremo Tribunal Federal já decidiu sobre a
+preservação de direitos adquiridos, no contexto do art. 4º da EC nº 20/1998:
+
+O SENHOR MINISTRO GILMAR MENDES (RELATOR): O agravante não
+deduz argumentação capaz de alterar o resultado da decisão impugnada.
+Como bem salientado pela decisão ora agravada, o art. 4º da Emenda
+Constitucional 20/98, ao estabelecer regra de transição, admite que o tempo
+de serviço considerado pela legislação vigente para efeito de aposentadoria,
+cumprido até que a lei discipline a matéria, seja contado como tempo de
+contribuição.
+Assim, tendo em vista que a Lei municipal n. 10.182/86 admite a contagem do
+referido período – 25.3.1980 a 24.3.1981 (na condição de estagiário) e 26.6.1981
+a 24.3.1982 (na qualidade de advogado) – para fins de aposentadoria, não merece
+
+10 de 27
+
+[[pagina 11 | nativo]]
+
+amparo a pretensão do recorrente.
+Ademais, a discussão acerca da necessidade de prévia averbação do período, por
+se tratar de suposta condição suspensiva para aquisição do direito, demanda
+análise de legislação infraconstitucional (Lei municipal 10.1825/86 e Código
+Civil), providência vedada no âmbito do recurso extraordinário. Nesse sentido,
+confiram-se os seguintes precedentes:
+(STF, AI 727410 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma,
+julgado em 20/03/2012, ACÓRDÃO ELETRÔNICO DJe-066 DIVULG 30-03-
+2012 PUBLIC 02-04-2012) (grifou-se)
+
+Eis a ementa do referido julgado do Supremo Tribunal Federal:
+
+Agravo regimental em agravo de instrumento. 2. Direito Administrativo. 3.
+Servidor público civil. 4. Contagem do tempo de serviço como advogado e
+estagiário para fins de aposentadoria e disponibilidade no cargo de
+Procurador Municipal (Lei 10.182/86). 5. Regra de transição do art. 4º da
+EC 20/98. Possibilidade. Admissão de que o tempo de serviço considerado
+pela legislação vigente para efeito de aposentadoria, cumprido até que a lei
+discipline a matéria, seja contado como tempo de contribuição. 6. Discussão
+acerca da necessidade de prévia averbação do período, por se tratar de suposta
+condição suspensiva para aquisição do direito. Inviabilidade. Necessidade de
+análise de legislação infraconstitucional, providência vedada no âmbito do
+recurso extraordinário. 7. Agravo regimental a que se nega seguimento.
+(AI 727410 AgR, Relator(a): Min. GILMAR MENDES, Segunda Turma,
+julgado em 20/03/2012, ACÓRDÃO ELETRÔNICO DJe-066 DIVULG 30-03-
+2012 PUBLIC 02-04-2012) (grifou-se)
+
+Nessa linha, o Tribunal de Contas da União, em resposta à consulta
+do Tribunal Regional do Trabalho da 11ª Região acerca do cômputo do tempo de
+serviço dos magistrados togados, já havia decidido que o cômputo do tempo de
+serviço de advocacia era possível apenas com a certidão expedida pela OAB (Decisão
+TCU - Plenário nº 514/19942).
+
+Como referido na descrição do objeto desta ação direta, o TCU
+reafirmou o seu entendimento, nos autos do TC 012.621/2016-1, por meio do
+Acórdão nº 1435/2019/TCU-Plenário, publicado em de julho de 2019, de que a
+contagem do tempo de advocacia para os que ingressaram na carreira antes da EC nº
+20/98 pode ser feita com base na certidão emitida pela OAB, independentemente do
+recolhimento das contribuições previdenciárias:
+
+SUMÁRIO: PESSOAL. APOSENTADORIA, MAGISTRADO. AVERBAÇÃO DE
+TEMPO DE ADVOCACIA SEM COMPROVAÇÃO DA RESPECTIVA
+CONTRIBUIÇÃO PREVIDENCIÁRIA. TEMPO AVERBADO E INGRESSO NA
+
+11 de 27
+
+[[pagina 12 | nativo]]
+
+MAGISTRATURA ANTERIORES À EC 20/1998. POSSIBILIDADE.
+DESNECESSIDADE DE RECOLHIMENTO DAS CONTRIBUIÇÕES DE FORMA
+INDENIZADA. LEGALIDADE. REGISTRO. É legal, para fins de aposentadoria de
+magistrado, a contagem do tempo exercido como advogado, independentemente
+do recolhimento das contribuições previdenciárias, desde que comprovada por
+meio de certidão da OAB e apenas para os interessados que ingressaram na
+carreira antes do advento da Emenda Constitucional 20/1998, de 16/12/1998.
+(grifou-se)
+
+Assim, o § 3º do artigo 25 a Emenda Constitucional nº 103, de 2019,
+viola as cláusulas pétreas do direito adquirido, ato jurídico perfeito e segurança
+jurídica, refletidas aqui no direito fundamental e social à previdência digna, pois
+pretende anular as situações constituídas sob a égide do artigo 4º da Emenda
+Constitucional nº 20.
+
+A lição doutrinária abaixo se ajusta à hipótese em que o constituinte
+derivado, abusando da sua prerrogativa, pretende apagar a cultura do tempo de
+serviço vigente até a Emenda Constitucional 20, e que foi por ela respeitada na
+transição de regimes:
+
+[...] Segundo entendemos, as novas regras previdenciárias podem sim, em
+princípio, ter aplicação imediata, desde que para o futuro. O que não podem é
+retroagir para desconstituir direito adquirido ou desconsiderar, em termos
+absolutos e irrazoáveis, os chamados direitos em processo de aquisição, fazendo
+tábula rasa do tempo que o segurado já percorreu de acordo com as normas que
+vigorarem até́ a mudança do sistema. 13
+
+Celso Antonio Bandeira de Mello14, ao tratar da transição entre
+regimes previdenciários, aborda como se deve dar o balanço entre as inovações
+legislativas e a garantia de não violação de cláusulas pétreas, sendo necessário
+resguardar a juridicidade das relações constituídas:
+
+[...] fatos pretéritos, mas que se encartam em situações ainda em curso, podem e
+devem ser tratados de maneira a se lhes reconhecer a significação jurídica que
+tiveram em face da regra precedente, sem com isto afronta-se a regra nova ou
+negar-lhe imediata vigência. Basta compatibilizá-los de sorte a atribuir a tudo
+
+13 TRINDADE, Fernando. Notas sobre direito adquirido, expectativas de direito e regras de transição na reforma
+previdenciária. Disponível em <https://www2.senado.leg.br/bdsf/item/id/135>
+14 BANDEIRA DE MELLO, Celso Antonio. Parecer. In: MODESTO, Paulo (org.). Reforma da Previdência:
+análise e crítica da Emenda Constitucional n. 41/2003 (doutrina, pareceres e normas selecionadas). Belo
+Horizonte: Ed. Fórum, 2004, páginas 431-452. Apud MODESTO, Paulo. A reforma da Previdência e a espera
+de Godot (parte 2). Disponível em <https://www.conjur.com.br/2019-mai-09/interesse-publico-reforma-
+previdencia-espera-godot-parte#_edn13>
+12 de 27
+
+[[pagina 13 | nativo]]
+
+que passou o valor jurídico que lhe correspondeu até o tempo da sobrevinda da
+nova lei e atribuir a tudo que transcorrerá a partir desta última os efeitos que
+resultam de seu tempo de império. Vale dizer: reconhecer-se – o que é
+incontendível – a força modificadora da regra nova em relação ao regime anterior,
+sem, com isto, fazer ‘tabula rasa’ da disciplina pretérita [...] cada ano de serviço
+possui uma significação de direito perante a norma então vigente. Esta
+significação é a relação entre o período vencido e o período total requerido para
+que se integralize o direito a se aposentar. A superveniência de outra norma
+encontra significações já existentes e, dentre elas, está a que se aludiu. Por força
+das disposições novas certamente o servidor não poderá se aposentar antes de 35
+anos de serviço, mas tais disposições não podem desconstituir o significado
+jurídico que os 20 anos passados tiveram sob o império da lei do tempo em que
+transcorreram sem com isto estarem incursas em retroação. Ou seja: se ele tinha,
+pois, 2/3 do tempo necessário para a aposentação, ele continuará a ter estes 2/3,
+já agora dos 35 anos que passaram a ser requeridos. (...). Em razão disso,
+recusar aos fatos passados o relevo que um dia tiveram perante uma norma
+equivale a recusar-lhes a única densidade que possuíam perante o Direito. Em
+uma palavra: equivale a desconstituir a juridicidade, a expressão ‘de jure’, que
+fazia deles um elemento do universo jurídico. Em outros termos, negar o valor
+que então possuíam é pura e simplesmente fazer retroagir a nova regra, sem o que
+seria impossível infirmar o alcance que dantes possuíam”.[grifos do autor][14].
+
+Portanto, emendas constitucionais carecem de validade quando
+tentam modificar culturas constitucionais vigentes desde o texto originário, por
+violação ao direito adquirido e à segurança jurídica, como neste caso. É o que
+esclarece o doutrinador, outrora Ministro, Carlos Ayres Britto:
+
+1. A Constituição como norma que se põe na linha de largada do Direito
+1.1. Há direito adquirido, sim, contra as emendas constitucionais. O que não há é
+direito adquirido contra a Constituição, tal como originariamente posta, porque a
+Constituição originariamente posta é o começo lógico de toda a normatividade
+jurídico-positiva de um Estado soberano (KELSEN). Logo, não tem
+compromisso com a ordem jurídica anterior, justamente por ser inaugural de uma
+nova ordem cujo primeiro efeito é sepultar a própria Constituição primitiva.15
+
+Por isso que não é admissível ao constituinte derivado zerar a
+contabilidade jurídica anterior16, como se fosse autorizado a estabelecer um novo
+marco zero para o regime previdenciário, visto que, durante décadas, o sistema
+brasileiro de previdência funcionou mediante o regime de tempo de serviço.
+
+15 BRITTO, Carlos Ayres. Direito adquirido contra as emendas constitucionais. Revista de Direito Administrativo,
+Rio de Janeiro, v. 202, p. 75-80, out. 1995. ISSN 2238-5177. Disponível em:
+<http://bibliotecadigital.fgv.br/ojs/index.php/rda/article/view/46620/46354>. Acesso em: 29 Out. 2019.
+doi:http://dx.doi.org/10.12660/rda.v202.1995.46620.
+16 Idem.
+13 de 27
+
+[[pagina 14 | nativo]]
+
+Ao tratar das limitações ao poder reformador, a doutrina ressalta a
+prevalência da garantia do direito adquirido por ser fundamento originário de toda a
+ordem constitucional de um Estado Democrático de Direito:
+
+[...] 4.4. Com este nosso modo de ver as coisas, não estamos negando que as
+emendas possam prejudicar (por modificação ou supressão) certos direitos
+subjetivos que não façam parte da relação dos expressamente nominados como
+"direitos e garantias individuais". O que estamos a afirmar é que tais direitos, uma
+vez adquiridos, seja qual for a respectiva natureza (direito social, político,
+funcional etc.), não podem mais ser lesionados por efeito de reforma
+constitucional. A normatividade das emendas, no caso, já nasce etiquetada com
+o timbre do "doravante", e mais com o timbre do "desde sempre" [...]
+6.4. Em síntese, a norma constitucional veiculadora da intocabilidade do direito
+adquirido é norma de bloqueio de toda função legislativa pós-Constituição.
+Impõe-se a qualquer dos atos estatais que se integram no "processo legislativo",
+sem exclusão das emendas.17
+
+Quando da alteração da redação da Súmula 359, na sessão 14 de
+fevereiro de 1973, em julgamento dos embargos de nulidade e infrintentes no RE
+72.509, rel. Min. Luís Gallotti, o Supremo Tribunal Federal esclareceu a diferença
+entre aquisição e expectativa em matéria previdenciária (acórdão publicado no DJ de
+30/03/1973):
+
+[...] Uma coisa é aquisição de direito: outra, diversa, é o seu uso ou exercício.
+Não devem as duas ser confundidas. E convém ao interesse público que não o
+sejam, porque, assim, quando pioradas pela lei as condições de aposentadoria, se
+permitirá́ que aqueles eventualmente atingidos por ela, mas já́ então com os
+requisitos para se aposentarem de acordo com a lei anterior, em vez de o fazerem
+imediatamente, em massa, como costuma ocorrer, com grave ônus para os cofres
+públicos, continuem trabalhando, sem que o Tesouro tenha de pagar, em cada
+caso, a dois, ao novo servidor em atividade e ao inativo.18
+
+A interpretação se aplica para a hipótese de exercício futuro do
+direito adquirido, segundo verbete de José Cretella Júnior:
+
+[...] Quando, durante a vigência de determinada lei, alguém adquire um direito,
+este se incorpora ao patrimônio do titular mesmo que este não o exercite, de tal
+
+17 Idem.
+18 Dada a antiguidade do precedente, cuja consulta deve se dar a partir do formulário sobre a Súmula 359 do
+STF, segue o endereço eletrônico de acesso ao acórdão:
+http://redir.stf.jus.br/paginadorpub/paginador.jsp?docTP=AC&docID=38443
+14 de 27
+
+[[pagina 15 | nativo]]
+
+modo que o advento de lei nova não atinge o status conquistado, embora não
+exercido ou utilizado, como, p. ex., o agente público que, após trinta anos de
+serviço, adquire direito à aposentadoria, conforme a lei então vigente, e não
+atingido pela lei nova que fixe em trinta e cinco anos o requisito para a
+aposentadoria. O não - exercício do direito, nesse caso, não implica a perda
+do direito, adquirido na vigência da lei anterior. Ao completar, na vigência da
+lei antiga, trinta anos de serviço público, o titular adquiriu o direito subjetivo
+público de requerer a aposentadoria, em qualquer época, independentemente de
+alteração introduzida pela lei nova, que não mais o atinge. Qualquer ameaça ou
+medida concreta de cercear tal direito encontraria a barreira constitucional do
+direito adquirido.19
+
+A incidência do § 3º do artigo 25 da Emenda Constitucional nº 103,
+de 2019, causará prejuízo aos direitos subjetivos constituídos de forma caótica,
+porque, entre os atingidos está um grande número de agentes políticos aposentados
+há anos, desconectados da função, que confiaram nos atos derivados da legislação
+vigente – confirmados por pelo artigo 4º da Emenda Constitucional nº 20, de 1998 -
+que autorizaram o cômputo do tempo de serviço (equiparado a tempo contributivo)
+usado para a inatividade.
+
+No âmbito institucional, não há sequer cargos vagos para o retorno
+do aposentado à ativa, vez que as vacâncias derivadas de aposentadoria são providas
+por novo concurso. A análise de lotação disponível, quando não apresentar resultado
+negativo, demandará readequação de quadros pautados na antiguidade, em uma
+reengenharia praticamente impossível à gestão administrativa.
+
+Além disso, as regras para anulação de aposentadorias que realmente
+atentem contra a legalidade estão previstas na legislação de regência do Regime
+Geral, conjugadas com a Constituição, não havendo razoabilidade na imposição não
+ponderada da regra impugnada.
+
+Ainda que mais possa ser dito, é evidente que declaração de nulidade
+das aposentadorias, inserta no § 3º do artigo 25 da Emenda Constitucional nº 103, de
+2019, desborda dos limites de legitimidade material do Poder Constituinte Derivado.
+A configuração adotada causa perplexidade, porque, nas reformas previdenciárias
+anteriores, ao menos os direitos adquiridos e atos jurídicos perfeitos foram
+respeitados. Caso se admita a supressão do que representa o artigo 5º, inciso XXXVI,
+da Constituição da República, afasta-se a fronteira elementar para a configuração da
+segurança jurídica.
+
+19 CRETELLA JÚNIOR, José. Verbete. In: Enciclopédia Saraiva. 3.ed. São Paulo. 1999. p. 134.
+15 de 27
+
+[[pagina 16 | nativo]]
+
+4. INCONSTITUCIONALIDADES EM FACE DA CÔMPUTO DO TEMPO
+FICTO DE 17% AOS MAGISTRADOS E MEMBROS DO MP ATÉ A EC 20
+
+Como dito anteriormente, ainda que a norma do § 3º do art. 25 da
+Emenda Constitucional nº 103, de 2019, tenha sido editada visando a obstar o direito
+reconhecido pelo TCU - de contagem do tempo de advocacia - acabou por alcançar
+também outras situações, como a do cômputo do tempo ficto de 17% pelos
+magistrados e membros do MP até a EC n. 20.
+
+Trata-se de um direito assegurado no art. 8º, da EC 20/1998, assim
+como nos arts. 2º e 10, da EC 41/2003, e no art. 3º da EC 47/2005, que foi
+regularmente observado pelo legislador constituinte derivado, a partir do momento
+no qual se deu a ampliação do tempo de aposentadoria, de 30 para 35 anos dos
+magistrados e membros do ministério público do sexo masculino.
+
+Não há como negar que o legislador constituinte derivado tem, ao
+longo do tempo, diante das reformas empreendidas na Previdência, assegurado
+direito subjetivo a todo o servidor que tenha ingressado regularmente em cargo
+efetivo na Administração Pública, direta, autárquica e fundacional até a data da sua
+respectiva publicação.
+
+Com efeito, a doutrina mais autorizada sobre o direito intertemporal
+distingue o direito adquirido da expectativa de direito com base na existência de um
+fato, previsto diretamente na lei ou não, capaz de converter uma previsão de direito
+objetivo (mera expectativa) em um direito subjetivo.
+
+É por essa razão que LIMONGI FRANÇA define o direito adquirido
+como “a conseqüência de uma lei, por via direta ou por intermédio de fato idôneo;
+conseqüência que, tendo passado a integrar o patrimônio material ou moral do
+sujeito, não se fez valer antes da vigência de lei nova sobre o mesmo objeto.” (A
+Irretroatividade das Leis e o Direito Adquirido, São Paulo: Saraiva, 2000, p. 216).
+
+Consequentemente, esclarece o autor que “a diferença entre
+expectativa de direito e direito adquirido está na existência, em relação a este, do
+fato aquisitivo específico, já configurado por completo”, aduzindo, em seguida, que
+“é preciso porém esclarecer que o fato aquisitivo específico não é só o fato
+particular, exterior à lei; diversamente, ele também se pode encontrar na própria lei,
+se se trata de direito adquirido por virtude direta da própria norma legal.” (LIMONGI
+
+16 de 27
+
+[[pagina 17 | nativo]]
+
+FRANÇA, op.cit., p. 226).
+
+No mesmo sentido, sustenta CARLOS MAXIMILIANO que “fato capaz
+de transmudar um direito objetivo e abstrato em um subjetivo e concreto é
+indispensável para criar direito adquirido” (Direito Intertemporal ou Teoria da
+Retroatividade das Leis, Editora Freitas Bastos, 1946, p. 38). Ressalta, entretanto,
+que, dentre os fatos que geram direitos, estão os “involuntários e fortuitos, de que
+por lei decorrem direitos.”, (op.cit., p. 25).
+
+É importante destacar que a importância do fato não se restringe aos
+sistemas de direito intertemporal subjetivos que, como é o caso do brasileiro, limitam
+a retroatividade das leis à existência de direito adquirido. Também nos sistemas
+objetivos, que impossibilitam a retroatividade da lei para alcançar as situações
+jurídicas concretas, é a ocorrência do fato previsto na situação jurídica abstrata
+que lhe transformará em concreta.
+
+Logo, a partir do momento que um fato é capaz de transformar uma
+situação jurídica abstrata em concreta, tem-se que a lei não pode retroagir sobre esta,
+tal como defende ROUBIER, o principal expoente da teoria objetiva, cujo pensamento
+é muito bem sintetizado por EDUARDO ESPÍNOLA (A Lei de Introdução ao Código
+Civil Brasileiro Comentada, Livraria Freitas Bastos, 1943, pp. 319-320):
+
+“A situação jurídica concreta, em oposição à abstrata, é o modo de ser que
+deriva, para uma pessoa determinada, de um ato jurídico ou de um fato jurídico,
+que, em proveito dessa pessoa ou em relação a ela, aplicou as regras de uma
+instituição jurídica, conferindo-lhe as vantagens e obrigações inerentes ao
+funcionamento da mesma instituição.
+
+Em outras palavras: a situação jurídica abstrata é maneira de ser teórica, a
+situação jurídica concreta uma realidade positiva.”
+
+Dessa maneira, é fácil concluir que as emendas constitucionais de n.
+20/1998, 41/2003 e 47/2005, já previram o fato idôneo para assegurar o direito nelas
+previstos: a condição de magistrado ou membro do ministério público na data da
+sua respectiva publicação.
+
+É exatamente por isso que não se trata de mera expectativa de direito,
+mas de direito adquirido em razão de fato aquisitivo previsto expressamente nas
+referidas Emendas Constitucionais.
+
+17 de 27
+
+[[pagina 18 | nativo]]
+
+É certo que o direito à aposentadoria, tal como previsto nas emendas
+constitucionais de n. 20/1998, 41/2003 e 47/2005, dependerá ainda do cumprimento
+de alguns requisitos por parte do magistrado ou membro do ministério público do
+sexo masculino, tais como a idade e o tempo mínimo no cargo em que pretender se
+aposentar.
+
+No entanto, o fato não precisa estar definitivamente constituído para
+ser considerado aquisitivo de direitos.
+
+Desde que o atendimento dos demais requisitos para a sua
+constituição dependa apenas do interessado, existe o direito adquirido, como
+demonstra CARLOS MAXIMILIANO, com base na lição de GABBA (op.cit., pp. 44-45):
+
+“O direito adquirido compõe-se, em síntese, de dois elementos: o direito
+objetivamente considerado e o facto aquisitivo, que transforma aquele, de
+objetivo em subjetivo ou individual.
+(...)
+O fato não definitivamente constituído produz direito adquirido, só em três
+casos: a) quando seja, por sua natureza, fatal, infalível; b) quando não dependa
+o seu completamento senão do adquirente, conforme se dá na hipótese de
+verdadeira e própria condição; c) quando a aquisição tenha a sua raiz em
+anterior direito adquirido, de que seja simples desenvolvimento, ou
+transformação.”
+
+Ora, o atendimento dos requisitos previstos nas emendas
+constitucionais 20/1998, 41/2003 e 47/2005 depende exclusivamente dos respectivos
+servidores (magistrado ou membro do ministério público do sexo masculino), motivo
+pelo qual tal circunstância, jamais poderia ser desconstituída pelo § 3º do art. 25
+da Emenda Constitucional nº 103, de 2019, para afastar a existência de direito
+adquirido.
+
+Especialmente na parte que toca ao cômputo do tempo ficto de 17%
+dos magistrados e membros do ministério público do sexo masculino, sobre o período
+trabalhado antes da Emenda Constitucional nº 20, cumpre às autoras registrar que o
+Conselho Nacional de Justiça apreciou a questão e decidiu no sentido de reconhecer
+o direito adquirido, ao julgar o PP n. 0005125-61.2009.2.00.0000. Senão vejamos a
+ementa da decisão e o seu dispositivo:
+
+Ementa: PEDIDO DE PROVIDÊNCIAS. Aposentadoria voluntária.
+Magistrados. EC nº 20/98. Artigo 8º, § 3º. Norma de transição de efeitos
+concretos. Tempo de serviço. Acréscimo de 17%. Incidência. Direito adquirido.
+
+18 de 27
+
+[[pagina 19 | nativo]]
+
+Integração ao patrimônio jurídico. Pedido procedente. Deve ser reconhecido o
+direito adquirido ao acréscimo de 17% ao tempo de serviço dos magistrados,
+previsto no § 3º do artigo 8º da Emenda Constitucional nº 20/98, por se tratar de
+norma de transição de efeitos concretos, que passou a integrar o patrimônio
+jurídico dos magistrados.
+
+Dispositivo:
+
+5. Diante do exposto, concluo pela aplicabilidade das disposições do § 3º do art.
+8º da Emenda Constitucional nº 20, de 16 de dezembro de 1998, à contagem de
+tempo de serviço dos magistrados do sexo masculino, incidindo o tempo ficto
+de 17% (dezessete por cento) sobre o tempo de serviço exercido pelo
+magistrado até a data de publicação da referida Emenda. E, tendo em vista
+que este entendimento deverá ser aplicado a todos os magistrados que se
+encontrem em situação análoga, determino a expedição de ofício aos
+tribunais brasileiros, integrantes do Poder Judiciário, a fim de dar
+conhecimento do presente.
+
+A eloquência do Conselheiro relator, jurista de escol reconhecido,
+Professor Marcelo Neves, justifica a transcrição do seu voto:
+
+"Ora, em se tratando da vigência da Emenda Constitucional nº 20/98, a qual
+garantiu o acréscimo de 17% de tempo de serviço aos magistrados do sexo
+masculino, para fins de aposentação, observo que a aplicação jurídica do instituto
+do "direito adquirido", conforme manifestado acima, é perfeitamente cabível ao
+presente caso.
+
+O artigo 8º da EC nº 20/98 configura, exatamente, a proposição normativa que
+veio dar suporte jurídico à aquisição do direito à contagem do tempo de serviço
+acrescido de 17% aos magistrados que já se encontravam em atividade no
+momento de sua entrada em vigor, e como tal, desde então, este direito já poderia
+ter sido averbado em suas respectivas anotações funcionais. O que difere a
+questão posta na ADI nº 3.105 do presente caso é que, na primeira, a norma que
+alterou o sistema de arrecadação previdenciária tem por escopo regular relações
+jurídicas para o futuro, enquanto o disposto no art. 8º da EC nº 20/98 produziu
+seus efeitos imediatamente, pois seu objetivo foi o de incidir plenamente
+sobre situações fáticas já existentes quando de sua entrada em vigor.
+
+2. Analogamente, pode-se concluir que essa espécie normativa que atribuiu o
+direito aos magistrados a acrescerem 17% ao seu tempo de serviço reveste-se de
+caráter nitidamente transitório, assim como as regras contidas no Ato da
+Disposições Constitucionais Transitórias - ADCT, e sob esta configuração deve
+ser interpretada e aplicada.
+
+19 de 27
+
+[[pagina 20 | nativo]]
+
+Com efeito, ainda que não se trate tecnicamente de um dispositivo contido
+topologicamente no ADCT, não há como negar sua natureza transitória, visto que
+a regra contida no § 3º do art. 8º da EC nº 20/98 nada mais fez do que regular
+uma situação específica de determinadas categorias profissionais, buscando
+equalizar eventuais distorções causadas pela reforma.
+
+Norma de caráter transitório, incide em relação às situações para as quais se
+destina e, em seguida, perde a vigência (no sentido de Pontes de Miranda,
+“Incidência e aplicação da lei”, in: Revista da Ordem dos Advogados de
+Pernambuco, ano I, nº 1, Recife, 1956: não pode mais incidir). Pode-se
+acrescentar que se trata de norma jurídica temporalmente uno-incidente, ou
+seja, “regra jurídica para classe de um caso só” (Pontes de Miranda, Tratado
+de Direito Privado, 4ª ed., São Paulo: Revista dos Tribunais, 1974, tomo I, p.8).
+Daí por que não ser relevante disposição “revogatória” ou cláusula restritiva
+contida nos textos das Emendas Constitucionais supervenientes, que deram
+continuidade à reforma previdenciária. Seu alcance exauriu ao incidir
+imediatamente aos casos por ela tutelados, fazendo o acréscimo de 17% ao
+tempo de serviço ser incorporado ao patrimônio jurídico dos magistrados
+que se encontravam em efetivo exercício à época.
+
+3. Observe-se que a possibilidade de não acatamento dessa disponibilidade dos
+17% como categoria de direito adquirido ensejaria seu reconhecimento como
+mera expectativa de direito. Nesse sentido, a balizada doutrina de Pontes de
+Miranda esclarece que a expectativa de direito corresponde “à posição de
+alguém em que se perfizeram elementos de suporte fáctico, de que sairá fato
+jurídico, produtor de direitos e outros efeitos, porém ainda não todos os elementos
+do suporte fáctico: a regra jurídica, a cuja incidência corresponderia o fato
+jurídico, ainda não incidiu, porque suporte fáctico ainda não há” (Tratado de
+Direito Privado, 4ª ed., São Paulo: Revista dos Tribunais, 1974, tomo V, p. 291 –
+grifo no original). À toda evidência, as disposições da EC nº 20/98, no que tange
+à questão destes autos, incidiram imediatamente, eis que o suporte fático para
+a produção de seus efeitos era, especificamente, a existência de tempo de
+serviço já cumprido por magistrados e membros do Tribunal de Contas e do
+Ministério Público, aos quais se devem acrescer 17%. Portanto, há o suporte
+fático e há a norma jurídica sobre ele incidindo. Somente não ocorrera, à época,
+a imediata aposentadoria dos agentes públicos, porque isto não integrou os
+requisitos exigidos pela norma constitucional para o aproveitamento da
+disposição equalizadora. Adquiriu-se o direito à percepção do acréscimo, a ser
+computado no momento futuro da aposentação, assim que atingidos os demais
+requisitos para tanto (tempo total de serviço e idade). Quanto a estes últimos é
+que não se pode invocar o direito adquirido, uma vez que, enquanto não se
+perfizerem, norma posterior poderá vir a alterá-los e, caso esta norma traga
+novas regras de adaptação (transitórias), como a presentemente discutida,
+também tornar-se-ão direitos subjetivos de seus titulares e, assim também,
+tornar-se-ão integrantes de seus respectivos patrimônios jurídicos; inatingíveis,
+como a do caso em tela, por alteração posterior; e assim sucessivamente.
+
+20 de 27
+
+[[pagina 21 | nativo]]
+
+4. Caminhando um pouco além do reconhecimento ao direito adquirido, tem-se
+que a regra do § 3º do art. 8º da EC nº 20/98 traduz a manifestação de um ato
+jurídico perfeito, que nada mais é do que o próprio fundamento de garantia do
+direito adquirido. A respeito, preleciona DINIZ (1998, pp. 182 ss):
+
+"(...) A segurança do ato jurídico perfeito é um modo de garantir o direito
+adquirido pela proteção que se concede ao seu elemento gerador, pois se
+a nova norma considerasse como inexistente, ou inadequado, ato já
+consumado sob o amparo da norma precedente, o direito adquirido dele
+decorrente desapareceria por falta de fundamento".
+
+E continua:
+
+"(...) Claro está que a garantia do ato jurídico perfeito seria um modo de
+assegurar o direito adquirido, uma vez que o ato jurídico perfeito é um dos
+elementos geradores de direito adquirido e do dever jurídico correlato.
+Assim sendo, o ato jurídico perfeito não poderá ser alcançado por lei
+posterior, sendo inclusive imunizado contra quaisquer requisitos formais
+exigidos pela nova norma".
+
+Com efeito, o disposto no § 3º do art. 8º da EC nº 20/98 é o ato jurídico
+perfeito que concede legitimidade plena ao direito adquirido de computar
+17% ao tempo de serviço exercido até sua entrada em vigor, qual seja, a data
+de 16 de dezembro de 1998.
+
+A revogação posterior do artigo 8º da EC nº 20/98 pela EC nº 41/2003 em nada
+afetou o disposto no § 3º do referido artigo, visto se tratar de regra de transição,
+a qual opera efeitos imediatos. É norma de efeitos concretos que, uma vez
+entrando em vigor, atinge instantaneamente seu objetivo e, automaticamente,
+deixa de produzir qualquer efeito jurídico (o exercício do direito e a
+correspondente aplicação da norma é que ocorrerá após a incidência). Nesse
+sentido, sua revogação não traz qualquer alteração jurídica ou fática.
+
+Por fim, a referida "revogação" foi apenas aparente, permaneceu no plano
+do significante, ou seja, da disposição constitucional, não atingindo a própria
+norma, pois o art. 2º, § 3º, da EC nº 41, manteve esse benefício (o acréscimo
+do tempo ficto de 17%), dentro do regime jurídico por ela estabelecido.
+
+5. Diante do exposto, concluo pela aplicabilidade das disposições do § 3º do art.
+8º da Emenda Constitucional nº 20, de 16 de dezembro de 1998, à contagem de
+tempo de serviço dos magistrados do sexo masculino, incidindo o tempo ficto
+de 17% (dezessete por cento) sobre o tempo de serviço exercido pelo
+magistrado até a data de publicação da referida Emenda. E, tendo em vista
+que este entendimento deverá ser aplicado a todos os magistrados que se
+encontrem em situação análoga, determino a expedição de ofício aos tribunais
+
+21 de 27
+
+[[pagina 22 | nativo]]
+
+brasileiros, integrantes do Poder Judiciário, a fim de dar conhecimento do
+presente.
+
+Reconheceu-se a existência do ato jurídico perfeito e do direito
+adquirido, observados, naquele momento, corretamente pelas ECs n. 20 e 41 e,
+posteriormente, pela EC 47.
+
+De forma contrária andou o legislador constituinte na Emenda
+Constitucional nº 103, de 2019, pois é evidente que declaração de nulidade das
+aposentadorias, inserta no § 3º do seu artigo 25, desborda dos limites de legitimidade
+material do Poder Constituinte Derivado.
+
+A configuração adotada causa perplexidade, porque, nas reformas
+previdenciárias anteriores, ao menos os direitos adquiridos e atos jurídicos perfeitos
+foram respeitados. Caso se admita a supressão do que representa o artigo 5º, inciso
+XXXVI, da Constituição da República, afasta-se a fronteira elementar para a
+configuração da segurança jurídica.
+
+5. A NATUREZA JURÍDICA E A FINALIDADE DAS REGRAS DE
+TRANSIÇÃO NÃO SE COMPATIBILIZAM COM A POSSIBILIDADE DE
+REVOGAÇÃO SUPERVENIENTE
+
+Há, ainda, um outro aspecto a ser considerado, e que igualmente
+demonstra a existência de direito adquirido na hipótese: a própria natureza jurídica e
+as finalidades de uma norma de transição, na qual se deu, seja a preservação da
+contagem do tempo de advocacia, seja a preservação do direito do cômputo do tempo
+ficto de 17% aos magistrados e membros do ministério público do sexo masculino.
+
+Como é de saber comum, o pressuposto do direito intertemporal
+é o de que o período de vigência das normas no tempo é indeterminado quanto
+ao seu fim, motivo pelo qual, sobrevindo uma norma superveniente, é necessário
+saber os efeitos desta sobre a norma anterior, inclusive no que diz respeito à
+preservação de situações ou direitos já constituídos sob a vigência da norma
+antecedente.
+
+Não é sem razão que o art. 2º, da Lei de Introdução ao Código Civil,
+ao prever a regra geral de revogação das leis, afirma que “não se destinando à
+vigência temporária, a lei terá vigor até que outra a modifique ou revogue.” Dessa
+forma, as leis de vigência temporária foram excetuadas da regra geral da
+
+22 de 27
+
+[[pagina 23 | nativo]]
+
+revogação superveniente, em razão de já possuírem a sua vigência perfeitamente
+delimitada no tempo, tanto no que se refere ao início como também ao fim.
+
+É exatamente esse o caso de uma norma de transição, que possui
+vigência temporária e objetivos de regular, de forma concreta, a passagem de
+determinada normatização jurídica para uma outra. Dessa maneira, a própria natureza
+jurídica de uma regra de transição, cuja vigência é temporária, já é suficiente para
+demonstrar a manifesta inaplicabilidade da regra geral de revogação das leis, diante
+da circunstância especial de que as mesmas já têm a vigência delimitada no tempo.
+
+No entanto, não é apenas a natureza jurídica de uma regra de
+transição que a torna insuscetível de ser revogada supervenientemente, de acordo com
+o arbítrio do legislador. É a finalidade destas regras que impõe tal entendimento.
+
+Não se pode esquecer que o direito intertemporal se estrutura a
+partir da tensão entre a segurança jurídica, por um lado, e dinamicidade do
+direito, por outro. Dessa forma, o direito intertemporal visa a encontrar mecanismos
+que possibilitem o progresso do direito, a fim de que as leis possam acompanhar a
+evolução social, sem ignorar as situações ou direitos já constituídos e considerando,
+dentro do possível, as justas expectativas do que estavam submetidos à anterior
+regulação legal e orientaram vários de seus comportamentos em face desta.
+
+De todos os mecanismos de que dispõe o direito intertemporal para
+resolver o conflito de leis no tempo, nenhum deles é mais idôneo e apto a
+contrabalançar os dois princípios envolvidos – segurança jurídica e dinamicidade -
+do que a utilização das leis de transição, que podem tornar a passagem de um sistema
+legal para o outro menos traumática, prestigiando não apenas os direitos adquiridos
+ou as situações jurídicas concretas, mas também a boa-fé e a justa expectativa de
+todos aqueles que se submeteram à regulação anterior na esperança de receberem a
+contraprestação prevista nas leis da época.
+
+ROUBIER, que é certamente uma das maiores referências sobre o
+assunto, mostrou que o direito intertemporal não deixa de ser um método de
+“homeopatia jurídica” para resolver os conflitos das leis no tempo e que, dentre as
+soluções legislativas mais eficientes para esse propósito, deveria ser destacado o
+mecanismo das leis transição (Les conflits de lois dans le temps, Paris: Libraire du
+Recueil Sirey, 1933, Tomo I, p. 32).
+
+Com efeito, é da essência das leis de transição a conciliação de
+
+23 de 27
+
+[[pagina 24 | nativo]]
+
+interesses particulares com a nova legislação, motivo pelo qual devem conter regras
+específicas para a solução dos conflitos, evitando, dessa maneira, os inúmeros
+problemas que decorrem da passagem de um sistema para o outro (ROUBIER, op.cit.,
+Tomo I, pp. 35-36).
+
+É por essa razão que as leis de transição não estão sujeitas à regra
+geral da revogação das leis, pois têm como finalidade exatamente a de evitar o
+conflito de leis no tempo e não a de postergá-lo ou até mesmo aumentá-lo.
+
+A partir do momento em que se admite que as leis de transição
+possam ser revogadas a qualquer momento, de acordo com as conveniências do
+legislador, estas deixam de fazer qualquer sentido no ordenamento jurídico. Se
+a sua finalidade era a de assegurar a passagem de um sistema para o outro,
+disciplinando as relações intermediárias em respeito às justas expectativas daqueles
+que guiaram os seus comportamentos com base no sistema anterior, é inequívoco que
+a revogação da lei da transição implicará uma total subversão dos seus objetivos e
+das suas finalidades.
+
+Ademais, a possibilidade de que as leis de transição sejam
+revogadas sem nenhuma limitação faz com que as mesmas deixem de ser
+instrumentos para resolver conflitos de leis no tempo e tornem-se um fator
+complicador deste conflito, tornando a sua solução ainda mais tormentosa.
+
+Se a finalidade da lei de transição é a de conciliar a segurança jurídica
+e a dinamicidade do direito diante de uma alteração legislativa, a sua revogação
+apenas poderá ocorrer mediante o comprometimento irremediável da segurança
+jurídica, o que é inaceitável, d.v..
+
+Afinal, a partir do momento em que se admite a completa subversão
+das finalidades de uma regra de transição, permite-se que estas estejam sujeitas
+apenas ao arbítrio do poder constituinte derivado, sem nenhum compromisso com a
+segurança jurídica.
+
+No caso, a norma do § 3º do art. 25 da Emenda Constitucional nº
+103, de 2019, ao proclamar a nulidade de aposentadorias já concedidas ou a nulidade
+de aposentadorias que poderiam ser concedidas, com base em normas de transição
+que asseguraram o direito adquirido, está claramente violando o direito adquirido.
+
+Resta claro, assim, que além de ter violado o princípio da segurança
+
+24 de 27
+
+[[pagina 25 | nativo]]
+
+jurídica e da proteção ao direito adquirido, é manifesto o desvio de finalidade do § 3º
+do art. 25 da Emenda Constitucional nº 103, de 2019, que desconsidera de forma
+abusiva e desproporcional as regras de transição das anteriores emendas, ofendendo
+o devido processo legal em seu sentido material, que igualmente se aplica ao poder
+constituinte derivado.
+
+6. MEDIDA CAUTELAR
+
+A garantia de tutela jurisdicional tempestiva, nos termos do artigo
+5º, LXXVIII, da Constituição da República, assegura a todos, no âmbito judicial ou
+administrativo, a razoável duração do processo e os meios que garantam a celeridade
+de sua tramitação. Só assim distribui-se o inevitável ônus do tempo do processo.
+
+Entre os meios que garantem a celeridade da tramitação processual
+está a concessão de medida cautelar para suspender a ilegítima eficácia da regra
+inconstitucional, nos termos do artigo 10 da Lei 9.868, de 1999.
+
+É o caso, pelos fundamentos postos até aqui, pois a relevância da
+matéria e seu especial significado para o domínio dos direitos individuais e da
+segurança jurídica não admitem relativização, especialmente porque a incidência da
+regra de anulação das aposentadorias é imediata, produzindo efeitos irreparáveis à
+juridicidade e aos direitos subjetivos envolvidos.
+
+O perigo na demora é evidenciado pelo início dos efeitos da
+norma em novembro de 2019, momento a partir do qual o processo de revisão das
+aposentadorias concedidas, com anulação subsequente, pode ser iniciado,
+considerando o comando do § 3º do artigo 25 da Emenda Constitucional nº 103, de
+2019.
+
+De imediato, um grande número de aposentados será atingido,
+apenas no Poder Judiciário e Ministério público, em uma violação do direito
+adquirido e do ato jurídico perfeito sem precedentes.
+
+Assim, revela-se urgente e juridicamente possível o deferimento de
+medida cautelar.
+
+7. PEDIDOS
+
+Ante o exposto, pedem:
+
+25 de 27
+
+[[pagina 26 | nativo]]
+
+(a) o deferimento de medida cautelar para suspender os efeitos do
+§ 3º do artigo 25 da Emenda Constitucional nº 103, de 2019, ou, sucessivamente,
+suspender os efeitos da regra impugnada para as aposentadorias concedidas e a serem
+concedidas com o cômputo de tempo de serviço anterior à Emenda Constitucional nª
+20, de 1998;
+
+(b) a expedição de notificações ao Presidente da Câmara dos
+Deputados, ao Presidente do Senado Federal, bem como à Presidência da República,
+para que prestem informações, conforme artigo 6º da Lei 9.868, de 1999;
+
+(c) findo o prazo a que se refere o parágrafo único do artigo 6º da Lei
+9.868, 1999, a intimação do Advogado-Geral da União e, sucessivamente, do
+Procurador-Geral da República para que se manifestem, conforme artigo 8º da Lei
+9.868, de 1999;
+
+(d) no mérito, pelas violações aos artigos 5ª, inciso XXXVI, 60, §
+4º, inciso VI, da Constituição da República de 1988, e ao artigo 4º da Emenda
+Constitucional nº 20, de 1998, pedem a procedência dos pedidos para confirmar a
+cautelar deferida e declarar a inconstitucionalidade do § 3º do artigo 25 da Emenda
+Constitucional nº 103, de 2019, ou sucessivamente, dar interpretação conforme à
+Constituição ao § 3º do artigo 25 da Emenda Constitucional nº 103, de 2019, a fim
+de que seja excluída qualquer exegese que pretenda aplicar a regra impugnada para
+as aposentadorias concedidas e a serem concedidas com averbação de tempo de
+serviço anterior à Emenda Constitucional nº 20, de 1998.
+
+(e) que as publicações das intimações sejam realizadas,
+exclusivamente, no nome dos advogados ALBERTO PAVIE RIBEIRO, OAB/DF
+nº 7.077, ARISTIDES JUNQUEIRA ALVARENGA, OAB/DF nº 12.500,
+ISABELA MARRAFON, OAB/DF nº 37.798 e RUDI MEIRA CASSEL, OAB/DF
+nº 22.256.
+
+Atribui-se à causa do valor de R$1.000,00 (mil reais).
+
+Brasília - DF, 13 de novembro de 2019.
+
+de forma digital [assinado eletronicamente] AssinadoMARCOS JOEL DOS SANTOS MARCOS DN: c=BR, o=ICP-Brasil, por
+ou=Autenticado por AR Certisign Marcos Joel dos Santos OAB, ou=Assinatura Tipo A3, JOEL DOS ou=0005420690, ou=ADVOGADO,
+cn=MARCOS JOEL DOS SANTOS,
+email=publica@servidor.adv.br
+Dados: 2019.11.13 10:53:46 -03'00' OAB/DF 21.203 SANTOS
+26 de 27
+
+[[pagina 27 | nativo]]
+
+RELAÇÃO DE ANEXOS
+
+Anexo Descrição
+1 a 10 Procurações, documentos constitutivos e declarações.
+11 Texto original da PEC nº 06/2019.
+12 PEC 6/2019- redação para o segundo turno
+13 Publicação da EC nº 103/2019 no DOU de 13/11/2019
+14 Acórdão nº 1435/2019/TCU-Plenário
+15 PARECER/MP/CONJUR/SMM/Nº 1319 - 3.21 / 2009
+
+27 de 27

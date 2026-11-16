@@ -1,0 +1,1836 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO DIAS TOFFOLI – PRESIDENTE DO E.
+
+SUPREMO TRIBUNAL FEDERAL
+
+Distribuição por prevenção ao Min. Luiz Fux, Relator da ADI nº 4.352.
+
+A ASSOCIAÇÃO NACIONAL DE JORNAIS – ANJ (“ANJ”,
+
+“Requerente” ou “Autora”), entidade de classe de âmbito nacional, que congrega a
+
+categoria econômica das sociedades brasileiras editoras de jornais, fundada em 17.08.1979,
+
+inscrita no CNPJ sob nº 30.459.929/0001-44, com sede em Brasília, no SAF/Sul, Quadra 2,
+
+Bloco D, Sala 101, ED. Via Esplanada, CEP 70.070-600 (Doc. nº 02), vem, por seus
+
+advogados abaixo assinados (Doc. nº 01), especificamente constituídos para este fim, propor
+
+a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE,
+
+com pedido de concessão de medida cautelar,
+
+tendo por objeto: (i) a declaração de inconstitucionalidade do art. 43, caput, da Lei nº
+
+9.504/97 (Doc. nº 03) e, por arrastamento, do art. 36 da Res. TSE nº 23.551/17 (Doc. nº 04);
+
+bem como (ii) a fixação de interpretação conforme a Constituição do 57-C, caput e §1º, I,
+
+da Lei nº 9.504/97 e, por arrastamento, do art. 24, caput e §1º, I, da Res. TSE nº 23.551/17;
+
+todos por violação às liberdades de expressão, de imprensa e de informação (arts. 5º, IV, IX,
+
+XIV, e 220, caput e §§1º, 2º e 3º, CRFB); às liberdades de iniciativa e de concorrência das
+
+empresas dos meios de comunicação (art. 1º, IV, art. 5º, caput, art. 170, caput e inc. IV, e art.
+
+220, caput e §1º, CRFB), aos princípios democrático, republicano e ao pluralismo político
+
+[[pagina 2 | nativo]]
+(art. 1º, caput e inc. V, CRFB); bem como aos princípios da proporcionalidade e da
+
+razoabilidade (art. 1º e art. 5º, LIV, CRFB).
+
+I – O OBJETO DESTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+1. A presente ADI tem por objeto a declaração da inconstitucionalidade das
+
+restrições impostas pelo art. 43, caput, da Lei nº 9.504/97, além da fixação de interpretação
+
+conforme a Constituição do art. 57-C, caput e §1º, inciso I, da Lei nº 9.504/97 (todos eles em
+
+sua redação atualmente em vigor), bem como, por arrastamento, dos artigos da Resolução
+
+TSE nº 23.551/17, que reproduziram e conferiram densidade ao conteúdo daqueles
+
+enunciados normativos. Confiram-se, desde logo, os dispositivos legais impugnados nesta
+
+ação:
+
+“Art. 43. São permitidas, até a antevéspera das eleições, a divulgação paga,
+na imprensa escrita, e a reprodução na internet do jornal impresso, de até 10
+(dez) anúncios de propaganda eleitoral, por veículo, em datas diversas, para
+cada candidato, no espaço máximo, por edição, de 1/8 (um oitavo) de página
+de jornal padrão e de 1/4 (um quarto) de página de revista ou
+tabloide. (Redação dada pela Lei nº 12.034, de 2009)1
+(…)”
+
+“Art. 57-C. É vedada a veiculação de qualquer tipo de propaganda eleitoral
+paga na internet, excetuado o impulsionamento de conteúdos, desde que
+identificado de forma inequívoca como tal e contratado exclusivamente por
+partidos, coligações e candidatos e seus representantes. (Redação dada pela
+Lei nº 13.488, de 2017)
+§ 1º É vedada, ainda que gratuitamente, a veiculação de propaganda eleitoral
+na internet, em sítios: (Incluído pela Lei nº 12.034, de 2009)
+I - de pessoas jurídicas, com ou sem fins lucrativos; (Incluído pela Lei nº
+12.034, de 2009)2
+(…)”
+
+1 Res. TSE 23.551/17: “Art. 36. São permitidas, até a antevéspera das eleições, a divulgação paga, na imprensa
+escrita, e a reprodução na internet do jornal impresso, de até 10 (dez) anúncios de propaganda eleitoral, por
+veículo, em datas diversas, para cada candidato, no espaço máximo, por edição, de 1/8 (um oitavo) de página de
+jornal padrão e de 1/4 (um quarto) de página de revista ou tabloide (Lei nº 9.504/1997, art. 43, caput).”
+2 Res. TSE 23.551/17: “Art. 24. É vedada a veiculação de qualquer tipo de propaganda eleitoral paga na internet,
+excetuado o impulsionamento de conteúdos, desde que identificado de forma inequívoca como tal e contratado
+exclusivamente por partidos políticos, coligações e candidatos e seus representantes (Lei nº 9.504/1997, art. 57-
+C, caput). § 1º É vedada, ainda que gratuitamente, a veiculação de propaganda eleitoral na internet em sítios (Lei
+nº 9.504/1997, art. 57- C, § 1º, incisos I e II): I - de pessoas jurídicas, com ou sem fins lucrativos;”
+
+
+[[pagina 3 | nativo]]
+2. Como se observa, a redação atual do art. 43, caput, da Lei nº 9.504/97 permite
+
+a veiculação de propaganda eleitoral paga em veículos de comunicação impressa, mas
+
+restringe sua divulgação à antevéspera do pleito e a limita a “até 10 (dez) anúncios (…), por
+
+veículo, em datas diversas, para cada candidato, no espaço máximo, por edição, de 1/8 (um
+
+oitavo) de página de jornal padrão e de 1/4 (um quarto) de página de revista ou tablóide”. Já
+
+o art. 57-C, caput e §1º, I, do referido diploma veda a veiculação de propaganda eleitoral
+
+paga na internet, o que abrange, inclusive, os sites de empresas que produzem e divulgam
+conteúdo jornalístico, excepcionando, no entanto, o impulsionamento de conteúdo.3
+
+3. A propaganda eleitoral desempenha três papeis importantes e fundamentais,
+
+que não podem ser esvaziados. Em primeiro lugar, funciona como: (i) meio de comunicação e
+
+de campanha eleitoral entre candidatos, partidos e coligações e seus potenciais eleitores. Em
+
+segundo lugar, da perspectiva dos eleitores, a propaganda é (ii) forma de acesso à informação,
+
+que lhes facilita o exercício da cidadania, na medida em que permite o conhecimento das
+
+propostas políticas das agremiações e dos candidatos, para que possam escolher seus
+
+mandatários. Por fim, mas não menos relevante, a propaganda eleitoral, como qualquer outra
+
+forma de propaganda, também é (iii) ferramenta essencial para viabilizar o financiamento – e,
+
+por conseguinte, o próprio funcionamento – dos veículos de comunicação. Afinal, como se
+
+sabe, nenhuma empresa que produz e divulga conteúdo jornalístico, notadamente impresso, é
+
+capaz de sobreviver apenas de recursos angariados com o valor de sua assinatura ou venda
+
+avulsa, razão pela qual dependem de fontes alternativas de receitas, como a propaganda paga.
+
+4. Em qualquer uma de suas três dimensões, a ferramenta se liga de maneira
+
+íntima às liberdades de expressão, de imprensa e ao direito difuso da população à informação,
+
+de tal forma que qualquer restrição – para legitimar-se – deve submeter-se a rigoroso
+
+escrutínio de constitucionalidade. No caso, verifica-se que as restrições impostas pelos
+
+diplomas atacados definitivamente não passam nesse teste. Especificamente, as proibições
+
+3 Segundo o art. 32, XIII, da Res. TSE 23.551/17, impulsionamento de conteúdo é “o mecanismo ou serviço que,
+mediante contratação com os provedores de aplicação de internet, potencializem (sic) o alcance e a divulgação
+da informação para atingir usuários que, normalmente não teriam acesso ao seu conteúdo”.
+
+
+[[pagina 4 | nativo]]
+legais manietadas pelo legislador ordinário representam claro descumprimento aos deveres
+
+decorrentes dos princípios da proporcionalidade e razoabilidade (arts. 1º e 5º, LIV,
+
+CRFB), esvaziando inconstitucionalmente os princípios democrático e republicano, bem
+
+como o pluralismo político (art. 1º, caput e V, CRFB); e as liberdades de iniciativa e
+
+concorrência dos meios de comunicação (arts. 1º, IV, 5º, caput, 170, caput e IV, e 220,
+
+caput e §1º, CRFB).
+
+5. As empresas jornalísticas possuem papel central na promoção e garantia da
+
+democracia. Mais ainda: em um contexto de profusão de fake news (i.e., notícias falsas ou
+
+fraudulentas), a imprensa profissional tem papel estratégico contra a desinformação, na
+
+medida em que, para usar as palavras do Min. Luiz Fux, “acompanha diuturnamente a
+
+movimentação de atores políticos, quanto a que se dedica à checagem de fatos e declarações
+
+de autoridades, prática conhecida como fact-checking”. Daí porque, prossegue o Ministro, o
+
+“jornalismo político-eleitoral precisa ser livre para apontar as imprecisões do discurso
+público e investigar condutas questionáveis. No período de campanha, ainda mais”4.
+
+6. Nada obstante isso, se, de um lado, a imprensa vem ganhando importância
+
+decisiva, de outro lado, as restrições a ela impostas no processo eleitoral são crescentes e não
+
+acompanham a dinâmica que vem sendo observada fora desse período. Os jornais impressos
+
+se submetem às mesmas restrições para veiculação de propagandas eleitorais impostas
+
+desde 2009 – época em que as redes sociais, ainda incipientes, possuíam papel bastante
+
+reduzido no universo político-eleitoral. O cenário vislumbrado à época pelo legislador – o
+
+qual considerava a escassez dos meios de comunicação e as dificuldades de fiscalização dos
+
+novos meios –, não subsiste mais. A mídia impressa e profissional sofreu grandes impactos e
+
+transformações, e os canais alternativos de comunicação virtuais ampliaram-se
+
+exponencialmente.
+
+7. Basta verificar, nesse sentido, que, em 2009, o Facebook atingia no País seu
+
+4 FUX, Luiz. “Contra notícia falsa, mais jornalismo”. In: Portal G1. Disponível em
+<https://glo.bo/2NVSQ1G>.Acesso em: 03.07.2019.
+
+
+[[pagina 5 | nativo]]
+primeiro milhão de usuários, isto é, cerca de 0,5% (meio por cento) da população brasileira.
+
+Hoje, esse número é vertiginosamente superior. A rede social conta com mais de dois bilhões
+de usuários no mundo, dos quais 127 milhões são brasileiros5. No cenário atual, os brasileiros
+
+gastam, em média, 9 horas por dia na internet, das quais 3 horas são dedicadas ao acesso às
+
+redes sociais. Mais ainda, cerca de 65% da população com 10 anos de idade ou mais são
+usuários ativos mensais do Facebook no País6. Como será explicado, a ampliação do uso da
+
+internet como fonte de informação e comunicação para a população transformou
+
+profundamente o sentido das normas atacadas, o que as tornou inconstitucionais, na medida
+
+em que lhes retirou a aptidão, a necessidade e a proporcionalidade para atingir os fins a que
+
+eventualmente se destina(va)m.
+
+8. De forma direta, não faz mais sentido limitar propagandas em jornais
+
+impressos, tampouco em sítios eletrônicos de empresas que divulgam notícias, se, para outros
+
+veículos que utilizam exclusivamente a internet, as regras são substancialmente diversas e
+
+mais permissivas. Ao tempo em que para os jornais há sérias limitações, na rede mundial de
+
+computadores permite-se: (i) a propaganda eleitoral em sítios eletrônicos de candidatos,
+
+partidos ou coligações (art. 57-B, I e II), (ii) o envio de mensagens eletrônicas por esses
+
+mesmos remetentes (art. 57-B, III), como também – e mais importante – (iii) por meio de
+
+blogs, redes sociais, canais de mensagens instantâneas e aplicações de internet, desde que
+
+geradas por candidatos, partidos ou coligações ou até mesmo pessoas naturais; (iv) sem
+
+mencionar a possibilidade de impulsionamento de conteúdo próprio em redes sociais (art. 57-
+
+C, caput), garantido também a candidatos, partidos ou coligações.
+
+9. Mas não é só. É importante destacar, ademais, a existência de diversas medidas
+
+que, em conjunto com o quadro fático relatado, subverteram a ratio que supostamente
+
+justificava as indigitadas restrições veiculadas pelas normas impugnadas, tais como (i) a
+
+vedação ao financiamento de campanhas por parte de pessoas jurídicas; e (ii) a fixação de
+
+5 OLIVEIRA, Filipe. “Facebook chega a 127 milhões de usuários mensais no Brasil”. In: Folha de São Paulo.
+Edição de 18.07.2018. Disponível em: <http://bit.ly/2J6csfB>. Acesso em: 03.07.2019.
+6 Idem.
+
+
+[[pagina 6 | nativo]]
+limites de gastos para o custeio das campanhas eleitorais. Esse novo contexto normativo,
+
+como se verá adiante, tornou absolutamente desnecessária a restrição à propaganda paga nos
+
+veículos de comunicação que divulgam conteúdos jornalísticos, porquanto é, per se, apto a
+
+evitar abusos de poder econômico, sem retirar deles, do eleitorado e dos veículos impressos, o
+
+direito ao uso de uma ferramenta essencial para a divulgação de ideias, o exercício do voto de
+
+maneira informada e para o financiamento da atividade editorial.
+
+10. É assim que, como será desenvolvido, à luz do quadro fático e regulatório
+
+atual, as imposições previstas nos arts. 43, caput e 57, caput e §1º, inciso I, da Lei Eleitoral
+
+passaram por um processo de inconstitucionalização, ante a mudança substancial do
+
+substrato fático e da concepção jurídica geral em relação à base que permeou sua
+edição.7
+
+11. O art. 43, caput, representa grave afronta aos princípios da isonomia, da livre
+
+concorrência e da livre iniciativa, ao sistema de liberdades de expressão, imprensa e
+
+informação (arts. 5º, caput, e incs. IV, IX, XIV; 1º, IV; 170, IV; 220, caput e §§1º, 2º e 3º,
+
+CRFB); bem como aos princípios da proporcionalidade e da razoabilidade (arts. 1º e 5º, LIV,
+
+CRFB) e aos princípios democrático, republicano e do pluralismo político (art. 1º, caput e inc.
+
+V, CRFB).
+
+12. O art. 57-C, a seu turno, por implicar a proibição da veiculação de qualquer
+
+tipo de propaganda eleitoral paga na internet em sítios de empresas que veiculam notícias
+
+jornalísticas, com favorecimento injustificável de outras pessoas jurídicas, que arrecadam
+milhões com o impulsionamento de conteúdo8, agride a isonomia (art. 5º, CRFB), como
+
+também a livre concorrência (arts. 1º, IV e 170, IV, CRFB) e as liberdades de expressão,
+
+7 BARCELLOS, Ana Paula. Curso de Direito Constitucional. Rio de Janeiro: Forense, 2018, p. 512. O STF
+expressamente reconheceu a possibilidade de declaração de inconstitucionalidade pelo processo de
+inconstitucionalização: STF, Rcl 4374, Rel. Min. Gilmar Mendes, Pleno, j. em 18/04/2013, DJe 04/09/2013; ADI
+3356, Rel. p/ acórdão Min. Dias Toffoli, Pleno, j. em 30/11/2017, DJe 01/02/2019; Rcl 4374, Rel. Min. Gilmar
+Mendes, Pleno, j. em 18/04/2013, DJe 04/09/2013; RE 135328, Rel. Min. Marco Aurélio, Pleno, j. em 29/06/1994,
+DJ 20/04/2001; RE 147776, Rel. Min. Sepúlveda Pertence, 1ª T., j. em 19/05/1998, DJ 19/06/1998.
+8 Cf. PESSOA, Gabriela Sá. “Anúncios pagos em redes sociais ampliam recursos para candidatos”. In: Folha de
+São Paulo. Edição de 29.01.2018. Disponível em: <http://bit.ly/2NCj3CO>. Acesso em: 02.07.2019.
+
+
+[[pagina 7 | nativo]]
+imprensa e informação (arts. 5°, IX, XIV, e 220, caput e §§1º, 2º e 3º, CRFB) e os princípios
+
+democrático, republicano e do pluralismo político (art. 1º, caput e inc. V; CRFB), em franco
+
+descumprimento aos postulados da razoabilidade e da proporcionalidade (art. 5º, LIV,
+
+CRFB). Daí porque é imperiosa a atribuição de interpretação conforme a Constituição ao art.
+
+57-C, caput e §1º para afastar a incidência da norma em questão aos sites de toda e qualquer
+
+organização econômica que produza, veicule e/ou divulgue notícias voltadas ao público
+
+brasileiro, por qualquer meio de comunicação, impresso ou digital.
+
+13. Na realidade, o que se tem atualmente é a manutenção de anacrônica e
+
+injustificável assimetria entre as regras impostas às empresas voltadas ao exercício da
+
+atividade jornalística e aquelas previstas para blogs e redes sociais, que já não encontra
+
+embasamento na realidade dos fatos. Isso impõe o acolhimento dos pedidos que serão adiante
+
+formulados nesta inicial.
+
+II – IMPOSITIVA DISTRIBUIÇÃO DESTA ADI POR PREVENÇÃO AO
+
+MIN. LUIZ FUX, RELATOR DA ADI Nº 4.352.
+
+14. Esta ADI deve ser encaminhada por prevenção ao Exmo. Ministro Luiz
+
+Fux, por conta da prévia distribuição da ADI nº 4.352, na qual o Partido Democrático
+
+Trabalhista postula a inconstitucionalidade de diversos dispositivos da Lei nº 9.504/97, dentre
+
+os quais do art. 43, caput, com a redação que lhe foi dada pela Lei nº 12.034/09, bem como
+
+do art. 57-C, caput e §1º daquele diploma – dispositivos esses também impugnados na
+
+presente ADI.
+
+15. Há, pois, nítida conexão entre as ações constitucionais, tendo em vista que em
+
+todas elas se discute a validade jurídico-constitucional de enunciados normativos da mesma
+
+lei, com coincidência parcial de objeto e por fundamentos jurídicos semelhantes, ainda que
+
+não idênticos. Tais circunstâncias justificam a distribuição desta ação por prevenção, nos
+
+termos dos arts. 69 e 77-B do RISTF.
+
+
+[[pagina 8 | nativo]]
+III – LEGITIMIDADE DA ANJ PARA AJUIZAR A PRESENTE ADI
+
+16. Conforme estabelecem o art. 103, IX, da CRFB, e o art. 2º, IX, da Lei nº
+
+9.868/1999, são legitimadas para a propositura de ADI as entidades de classe de âmbito
+
+nacional. Esse é o caso da Associação Nacional de Jornais, ora requerente, como, aliás, já foi
+reconhecido por esse E. STF em outras oportunidades9.
+
+17. Afinal, trata-se de associação que congrega categoria econômica
+homogênea, 10 constituída por sociedades brasileiras editoras de jornais impressos e/ou
+
+digitais, em língua portuguesa e para o público em geral, ou por pessoas naturais. Além disso,
+
+a associação possui atuação em âmbito nacional, com 94 associados, distribuídos e
+
+presentes em 24 Estados da Federação e no Distrito Federal (Doc. nº 02).
+
+18. Ademais, é inegável a existência de pertinência temática entre o objeto
+
+desta ADI e a atuação da ANJ. É o que se verifica da leitura do Estatuto Social da
+
+requerente (Doc. nº 02), que elenca, dentre seus objetivos institucionais (art. 3º): (i) a
+
+sustentação da liberdade de expressão do pensamento, (ii) o funcionamento sem restrições da
+
+imprensa, (iii) a defesa do livre exercício da profissão de jornalista e (iv) a representação dos
+
+interesses gerais de suas associadas junto aos poderes públicos, independentemente da
+
+outorga de mandato específico.
+
+19. Finalmente, as atividades das editoras de jornais representadas pela ANJ
+
+são diretamente impactadas pelos dispositivos impugnados nesta ADI. Discutem-se,
+
+afinal, as implicações de regras de publicidade eleitoral dirigidas a veículos de comunicação
+
+jornalísticos, que atentam contra garantias constitucionais do sistema de liberdade de
+
+expressão, de imprensa e de informação consagrados na Constituição de 1988. É clara,
+
+portanto, a legitimidade ativa ad causam da ANJ.
+
+9 V., e.g., ADI nº 5.436/DF, em que figura como Requerente.
+10 Conforme determina o art. 7º do Estatuto Social da ANJ: “Art. 7º O quadro da ANJ será constituído por
+sociedades brasileiras editoras de jornais impressos e/ou digitais, em língua portuguesa e para o público em
+geral, ou por pessoas naturais.”
+
+
+[[pagina 9 | nativo]]
+MÉRITO
+
+IV – PARÂMETROS PARA O CONTROLE DA CONSTITUCIONALIDADE DAS
+
+RESTRIÇÕES À PROPAGANDA ELEITORAL PAGA EM JORNAIS.
+
+20. Em um País marcado pela desigualdade, a propaganda política, durante o
+
+período de sufrágio, deve ser objeto de preocupações. É preciso atenção para que se
+
+compatibilizem a liberdade de expressão dos candidatos, de comunicação da imprensa e o
+
+direito de acesso da população à informação, com os desafios da busca de igualdade de
+
+condições na corrida eleitoral. É justamente esse ponto ótimo que legitima o modelo de
+
+democracia representativa adotado pela Constituição de 1988.
+
+21. Nesse sentido, tem-se admitido algum grau de regulação de tais liberdades em
+
+prol do aperfeiçoamento do debate sobre a escolha dos representantes do povo. Todavia, a
+
+condição de validade jurídico-constitucional da regulação imposta pela Lei Eleitoral será o
+
+respeito aos limites e às possibilidades abertos pelo sistema constitucional brasileiro; já a
+
+baliza deverá ser a promoção da própria democracia e o respeito à sistemática das liberdades
+de expressão, imprensa e informação. 11 Trata-se de uma dinâmica em que os direitos
+
+fundamentais orientam o estabelecimento das regras do jogo, numa dialética a ser solucionada
+
+por critérios de razoabilidade e proporcionalidade.
+
+22. É nesse contexto que se insere a discussão objeto desta ADI. Não há dúvidas
+
+quanto à relevância da Lei Eleitoral (Lei nº 9.504/97) para o aperfeiçoamento da democracia
+
+no País. Ocorre que os arts. 43, caput, e 57-C, caput e §1º, I, já não mais encontram
+
+justificativa no mundo atual, marcado pela crescente e preponderante utilização da internet
+
+como meio de acesso à informação. Daí porque as restrições às propagandas eleitorais pagas
+
+em meios de comunicação que divulgam conteúdos jornalísticos hoje se mostram francamente
+
+desproporcionais. Para demonstrá-lo, cumpre apresentar os preceitos constitucionais que
+
+11 Como se verá ao longo desta ação, referida regulação deverá justificar-se de forma a promover o próprio
+princípio democrático e o sistema constitucional da liberdade de expressão, o que pressupõe a preservação, na
+maior medida possível, das garantias de livre manifestação individual, de livre funcionamento dos veículos de
+comunicação e o livre fluxo de informações verdadeiras.
+
+
+[[pagina 10 | nativo]]
+servem de parâmetro para o exame da constitucionalidade dos dispositivos objetos desta ação.
+
+23. Em relação à propaganda eleitoral veiculada nos meios de comunicação – em
+
+especial nos meios impressos –, há pelo menos três blocos de preceitos constitucionais que
+
+servem de filtro para o exame da legitimidade das normas do processo eleitoral. São eles: (i) a
+
+sistemática constitucional de proteção da liberdade de expressão, de imprensa e do direito
+
+difuso à informação, a qual está intimamente ligada (ii) aos princípios relacionados à
+
+democracia, à república e ao pluralismo jurídico; e (iii) as normas relacionadas à livre
+
+iniciativa e à livre concorrência dos meios de comunicação. Esse conjunto de dispositivos
+deve ser confrontado com os princípios da igualdade, da paridade de armas 12 e demais
+
+finalidades de eventuais restrições ao processo eleitoral, a fim de que se possa aferir a
+
+razoabilidade e proporcionalidade de eventuais restrições legais.
+
+24. O primeiro bloco abarca as dimensões substantiva e instrumental da liberdade
+
+de expressão, de imprensa e do direito à informação (arts. 5º, IX, XIV, e 220, caput e §§1º,
+2º e 3º, CRFB)13, elementos tão centrais da democracia brasileira que, inclusive, gozam de
+verdadeira posição preferencial14. Tais direitos abrangem a liberdade de expressão stricto
+
+12 Paridade de armas é o direito que cada candidato tem de dispor dos mesmos mecanismos para alavancar sua
+candidatura eleitoral e de comunicar-se, em iguais condições, com o seu eleitorado. (OSÓRIO, Aline. Direito
+Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, p. 150).
+13 Sob o ponto de vista substantivo, a liberdade de expressão possui um valor imanente, enquanto
+desdobramento da própria dignidade da pessoa humana. Cada ser humano, para a realização de sua
+personalidade, têm o direito de exprimir e divulgar suas concepções de mundo, suas visões estéticas, e suas
+visões políticas. A necessidade de comunicar-se é inerente à condição humana, sendo a imposição do silêncio
+uma violência à sua dignidade. Já sob a perspectiva instrumental, a liberdade de expressão deve ser garantida
+como instrumento necessário ao exercício do autogoverno e à consecução de outros objetivos importantes para
+a sociedade (como, por exemplo, a autodeterminação coletiva, o controle e a fiscalização das instâncias de
+poder, o incremento da accountability ou da responsabilização política e eleitoral do agente, dentre outros). De
+acordo com a visão instrumental, portanto, o compromisso com a liberdade de expressão funda-se na premissa
+de que, ao longo do tempo, a liberdade produzirá resultados melhores para a sociedade do que qualquer
+benefício que se pudesse alcançar por meio de sua supressão. O melhor remédio para uma eventual patologia
+do discurso é uma dose ainda maior de liberdade discursiva. Sobre o assunto, v. KOATZ, Rafael Lorenzo
+Fernandez. “As Liberdades de Expressão e de Imprensa na Jurisprudência do Supremo Tribunal Federal”. In:
+Daniel Sarmento. (Org.). Direitos Fundamentais na Jurisprudência do STF: balanço e crítica. Rio de Janeiro:
+Lumen Juris, 2011, p. 391/448.
+14 Destaca-se que a liberdade de expressão goza de verdadeira posição preferencial em relação aos demais
+direitos fundamentais, tal como reconhecido pacificamente pela jurisprudência do STF (v. ADPF 130, Rel. Min.
+Carlos Britto, Pleno, DJe 05.11.2009; Rcl 18.638, Rel. Min. Roberto Barroso, DJe 19.09.2014); e pela doutrina (v.
+BARROSO, Luís Roberto. “Colisão entre liberdade de expressão e direitos da personalidade”. Rio de Janeiro:
+RDA, 2004, p. 20; SCHREIBER, Simone. A publicidade opressiva de julgamentos criminais. Rio de Janeiro:
+
+
+[[pagina 11 | nativo]]
+sensu, correspondendo ao direito individual de externar ideias; a liberdade de informação,
+
+densificada tanto no direito individual de comunicar fatos objetivamente considerados (direito
+
+de informar), quanto no direito subjetivo de receber informações verdadeiras e de não ser
+
+enganado; e uma robusta liberdade de imprensa, protetiva do direito dos meios de
+
+comunicação de divulgarem o que lhes for conveniente, vedada qualquer forma de censura.
+
+25. O referido sistema de proteção conferido à liberdade de expressão, de imprensa
+
+e ao direito à informação no Brasil propõe-se, de sua vez, a tutelar e promover o pluralismo
+
+político e a cidadania participativa, com vistas ao aperfeiçoamento da democracia. Na
+
+perspectiva dos candidatos a cargos eletivos, é de se notar que a propaganda é a forma por
+excelência para que manifestem suas opiniões e dialoguem com os seus potenciais eleitores.15
+
+De outro lado, a plena liberdade de expressão e informação promove um ambiente
+
+deliberativo potencialmente ativo e informado, mais apto a assegurar que a condução da
+
+coisa pública expresse a real vontade do povo.
+
+26. Por desdobramento do exposto, o objeto da presente ação também envolve um
+
+segundo bloco de valores constitucionais, ligados aos princípios democrático, republicano e
+ao pluralismo político (art. 1º, caput e inc. V, CRFB). A democracia 16 pressupõe a
+
+existência de espaços de discussão que permitam o confronto direto de ideias entre os
+
+candidatos, capazes de contribuir para a formação da convicção política dos eleitores. Trata-se
+
+de incentivar o surgimento de fóruns qualificados de deliberação e informação, sendo a
+
+imprensa um dos principais locus catalisadores desse processo.
+
+Renovar, 2008 p. 68/69).
+15 De fato, “a propaganda política nada mais é do que expressão da opinião política, ou seja, uma projeção da
+liberdade de expressão na esfera política, calcada constitucionalmente e, por isso, impõe a ‘abstenção dos
+destinatários passivos (Estado e particulares), inclusive em editar normas legais e infralegais que a limitem’”
+(PECCININ, Luiz Eduardo. “Princípio da liberdade da propaganda política, propaganda eleitoral antecipada e o
+artigo 36-A da Lei Eleitoral”. In: Paraná Eleitoral: Revista Brasileira de Direito Eleitoral e Ciência Política,
+Curitiba, v. 2, n. 3, pp. 321-344, 2013).
+16 Segundo Cláudio Pereira de Souza Neto, uma democracia deliberativa envolve a possibilidade de se debater
+publicamente a respeito de questões a serem decididas. Para o autor, “[a] troca de argumentos e contra-
+argumentos racionaliza e legitima a gestão da res pública. Se determinada proposta política logra superar a
+crítica formulada pelos demais deliberantes, tal proposta pode ser considerada, pelo menos prima facie legítima
+e racional”. (SOUZA NETO, Cláudio Pereira de. Teoria constitucional e democracia deliberativa: um estudo
+sobre o papel do direito na garantia das condições para cooperação na deliberação democrática. Rio de Janeiro:
+Renovar, 2006, p. 10).
+
+
+[[pagina 12 | nativo]]
+27. Esse sistema constitucional de liberdade, contudo, não funciona per se. Há
+
+condições materiais que precisam ser asseguradas e mantidas, o que inclui a existência de
+
+veículos jornalísticos viáveis e operacionais, aptos a informar e expressar ideias. É dizer: a
+
+mera narrativa de proteção dos valores constitucionais não é suficiente para garantir que os
+veículos de comunicação terão recursos materiais para cumprir esse importante mister.17
+
+28. É justamente nesse ponto que surge o terceiro bloco de preceitos fundamentais
+
+a serem considerados no exame da constitucionalidade das restrições às propagandas
+
+eleitorais: aqueles voltados à tutela da liberdade de iniciativa e da livre concorrência entre
+
+os meios de comunicação impressos e eletrônicos (arts. 1º, IV; 5º, caput; 170, caput e inc.
+
+IV e 220, caput e §1º, CRFB). Com efeito, as regras eleitorais não podem, como no caso,
+
+incentivar a alocação de escassos recursos financeiros nas mídias eletrônicas, tais quais as
+
+redes sociais, em detrimento de veículos de comunicação que produzem conteúdos
+
+jornalísticos impressos e também adotam versões eletrônicas de suas publicações, criando
+
+verdadeiros desequilíbrios concorrenciais, que só prejudicam os veículos jornalísticos
+
+tradicionais, colocando em risco o seu funcionamento. Todos os players devem dispor de
+
+liberdade concorrencial para conquistar, sem amarras ou restrições, o direito de publicar
+
+propagandas eleitorais pagas.
+
+29. Mais ainda, à luz do regramento constitucional vigente, não é possível admitir
+
+que existam restrições à propaganda paga no meio eletrônico para os veículos jornalísticos, ao
+
+mesmo tempo em que, nesse mesmo espaço virtual, há a possibilidade, por exemplo, de
+
+realizar o impulsionamento de postagens por intermédio das redes sociais dos candidatos. Sob
+
+essa ótica, a disparidade de tratamento verificada no âmbito virtual não encontra fundamento
+
+em qualquer norma constitucional e deve ser repudiada. As regras eleitorais devem, pois, ser
+
+sensíveis ao papel central dos meios de comunicação para a democracia, enquanto fontes de
+
+17 Refere-se à realidade financeira difícil de periódicos, em especial de jornais e revistas, o que é uma questão
+mundial já com reflexos no Brasil. Basta ver o caso do Grupo Abril, que teve o pedido de recuperação judicial
+deferido após devastador processo de fechamento e venda de revistas e da demissão de cerca de 600 pessoas
+por insuficiência de verbas: “Justiça de São Paulo aceita pedido de recuperação judicial da editora Abril”. In:
+Conjur. Disponível em: <https://bit.ly/2nHN30a>. Acesso em: 03.07.2019.
+
+
+[[pagina 13 | nativo]]
+informação verdadeira. Não podem, portanto, criar incentivos financeiros para alguns meios
+
+em detrimentos de outros, bem como não se pode tolerar o tratamento díspar conferido aos
+
+sítios eletrônicos das empresas que exercem atividade jornalística, se comparado ao maior
+
+espaço de liberdade da internet, já consagrado pela própria lei eleitoral, para as redes sociais.
+
+30. São esses, portanto, os preceitos que devem guiar o intérprete, a partir dos
+
+postulados da proporcionalidade e da razoabilidade (arts. 1º e 5º, LIV, CRFB), no exame da
+
+constitucionalidade da legislação eleitoral impugnada nesta ação. Cumpre demonstrar, assim,
+
+por que os arts. 43, caput e 57-C, caput e §1º, I, são inconstitucionais quando os seus fins são
+
+contrapostos às normas constitucionais apontadas anteriormente. É o que se passa a
+
+demonstrar.
+
+V – INCONSTITUCIONALIDADE DO ART. 43, CAPUT, DA LEI ELEITORAL.
+
+V.1. Objetivos das restrições à propaganda eleitoral em veículos impressos.
+
+31. Para que se possa avaliar a constitucionalidade das normas impugnadas, é
+
+necessário, primeiro, apresentar os objetivos que elas pretendem alcançar, de modo a
+
+evidenciar, posteriormente, que as medidas intentas pelo legislador, além de irrazoáveis, não
+
+passam no teste de proporcionalidade, porquanto não são adequadas, necessárias e
+proporcionais em sentido estrito18. Senão vejamos.
+
+32. Restrições à propaganda eleitoral na mídia impressa não constituem novidade
+
+no Brasil, nem foram criações da Lei nº 9.504/1997. Na verdade, limitações desse tipo
+
+vigoram há mais de 30 anos. É possível citar, nesse sentido, a Lei nº 7.664/88, que
+
+18 Como já consolidado no Brasil, o dever constitucional de proporcionalidade, corolário das cláusulas do Estado
+Democrático de Direito (art. 1º da CRFB) e do devido processo legal em sua dimensão material ou substantiva
+(art. 5º, LIV, da CRFB), é um dos mais importantes parâmetros de controle da juridicidade das leis e atos
+estatais, quando houver relação de causa e efeito da medida analisada. Na prática, trata-se de um teste de três
+fases, as quais verificam a adequação, a necessidade e a proporcionalidade em sentido estrito da medida
+estatal. A ideia é que uma medida somente será constitucional quando, ao mesmo tempo, for (i) adequada à
+consecução da finalidade almejada, (ii) necessária, ou exigível para tanto, o que implica uma avaliação sobre a
+eventual (in)existência de outro meio igualmente apto e menos gravoso a atingir o mesmo desiderato, e (iii)
+proporcional em sentido estrito, o que indica uma análise entre os custos e benefícios envolvidos (v. ÁVILA,
+Humberto. Teoria dos princípios, 3a ed., São Paulo: Malheiros, 2004).
+
+
+[[pagina 14 | nativo]]
+estabeleceu normas para as eleições municipais daquele ano e fixou um limite máximo da
+
+área que a propaganda de um candidato poderia ocupar por edição de veículos da impressa
+escrita.19 Já a Lei nº 7.773/89 estabeleceu limitações espaciais em seu art. 22.20 Tais restrições
+foram reproduzidas nas leis que regularam as eleições subsequentes.21
+
+33. Atualmente, a matéria é disciplinada pelo art. 43, caput, da Lei Eleitoral, que
+
+define o modo de veiculação dos anúncios eleitorais em mídia impressa e fixa limitações de
+
+três ordens, quais sejam: (i) espacial, consistente em uma área máxima a ser ocupada pelas
+
+propagandas de cada candidato, equivalente a até um oitavo no caso de jornais e de um quarto
+
+no caso de revistas; (ii) quantitativa, consistente na restrição ao máximo de 10 anúncios por
+veículo de comunicação, em dias diferentes;22 e (iii) temporal, já que os anúncios só podem
+ser publicados até a antevéspera das eleições.23 Todas as dimensões são inconstitucionais.
+
+34. As restrições quantitativa e espacial foram criadas como medidas que tinham
+
+como objetivo garantir a paridade de armas nas disputas eleitorais, no combate ao exercício
+abusivo do poder econômico.24 Dado que o elemento-chave na garantia da paridade de
+
+armas é a visibilidade dos candidatos junto ao eleitorado, a legislação buscou permitir que as
+
+mensagens de diferentes candidatos chegassem aos eleitores com um mínimo de equilíbrio, e
+que o maior número possível de candidatos tivesse a oportunidade de veicular anúncios.25
+
+19 “Art. 31. Pela imprensa escrita será permitida a divulgação paga de curriculum vitae do candidato, ilustrado ou
+não com foto e um slogan, do número de seu registro na Justiça Eleitoral, bem como do Partido a que pertence.
+Parágrafo único. O espaço máximo de cada anúncio a ser utilizado, por edição, é de 240cm² (duzentos e
+quarenta centímetros quadrados) para cada candidato à eleição proporcional, e de 360cm² (trezentos e
+sessenta centímetros quadrados) para cada candidato à eleição majoritária”.
+20 “Art. 22. Será permitida, na imprensa escrita, a divulgação, paga de propaganda, no espaço máximo a ser
+utilizado, por edição, para cada candidato, de 1/8 (um oitavo) de página de jornal padrão e de 1/4 (um quarto) de
+página de revista ou tablóide”.
+21 A Lei nº 8.713/93, que estabeleceu as normas para as eleições de 1994, e a Lei nº 9.100/95, que estabeleceu
+as normas para as eleições municipais de 1996, reproduziram, em seus arts. 54 e 63, respectivamente, as
+limitações à propaganda na imprensa escrita trazidas pela Lei nº 7.773/89.
+22 A restrição quantitativa foi introduzida pela Lei nº 11.300/06.
+23 A proibição temporal foi instituída pela Lei nº 12.034/09.
+24 O TSE define abuso de poder como “toda conduta abusiva de utilização de recursos financeiros, públicos ou
+privados, ou de acesso a bens ou serviços em virtude do exercício de cargo público que tenha potencialidade
+para gerar desequilíbrio entre os candidatos, afetando a legitimidade e a normalidade das eleições” (TSE,
+Roteiro de Direito Eleitoral – Introdução ao Tema de Abuso de Poder – disponível em <https://bit.ly/2OpejPN>).
+25 De fato, “[o] principal objetivo das limitações legais da propaganda eleitoral é garantir a liberdade de
+
+
+[[pagina 15 | nativo]]
+35. É que, na década de 1980 (quando as restrições foram originalmente
+
+pensadas), o consumo de conteúdo jornalístico e informativo era limitado quase
+
+exclusivamente ao jornal, sendo comum que a população de cidades fora das grandes
+
+aglomerações urbanas tivesse acesso a um número reduzido de fontes. Esses poucos veículos
+
+impressos constituíam a principal – por vezes a única – forma de obtenção de informação e de
+
+notícias. E, dada a natureza impressa desses veículos, argumentava-se haver uma
+
+escassez de espaço – que, caso ocupado por apenas poucos candidatos dotados de poder e
+influência, inviabilizaria a visibilidade de outros com menos recursos.26 A esse quadro de
+
+“escassez” de meios somava-se a discrepância na capacidade financeira de alguns candidatos
+em relação a de outros, porquanto a legislação não limitava os gastos eleitorais;27 e permitia,
+
+como se sabe, o financiamento empresarial. Esse cenário parecia justificar a imposição dessas
+
+restrições.
+
+36. As limitações temporais à propaganda eleitoral também foram originalmente
+
+pensadas em um contexto semelhante. Elas constituíam mecanismos voltados a promover a
+
+“garantia de um período em que a cidadania possa refletir calmamente sobre as opções
+
+disponíveis e realizar suas escolhas de voto de forma absolutamente livre”, em atenção à
+“legitimidade do pleito”.28 Isto é, partiu-se da premissa de que não visualizar propagandas na
+
+véspera e no dia do sufrágio levaria o eleitor a tomar uma decisão menos enviesada, pois
+
+expressão de forma equânime entre os candidatos, ou seja, permitir que todos aqueles que almejam um
+cargo eletivo possam participar do pleito em igualdade de condições” (DOMINGUES, Maíra de Barros.
+“Comentário ao artigo 43 da Lei 9.504/1997”. In: PINHEIRO, Célia Regina de Lima; SALES, José Edvaldo
+Pereira; FREITAS, Juliana Rodrigues (Coords.). Comentários à Lei das Eleições. Belo Horizonte: Fórum, 2016,
+p. 150; grifou-se).
+26 HARTMANN, Ivar. “Liberdade de manifestação política e campanhas: é preciso atenção aos algoritmos”. In:
+FALCÃO, Joaquim. Reforma Eleitoral no Brasil. Rio de Janeiro: Civilização Brasileira, 2015, p. 155.
+27 Em sua versão original, a Lei das Eleições dispunha apenas que “juntamente com o pedido de registro de
+seus candidatos, os partidos e coligações comunicarão à Justiça Eleitoral os valores máximos de gastos que
+farão por candidatura em cada eleição em que concorrerem” (art. 18). A Lei nº 11.300/06, por sua vez, inseriu o
+art. 17-A na Lei nº 9.504/97, o qual dispunha que a lei estabeleceria os limites de gastos; caso a lei não fosse
+editada, vigoraria a regra anterior: os partidos comunicariam à Justiça Eleitoral os seus próprios limites. Na
+prática, a minirreforma de 2006 não funcionou, porque passaram-se anos sem que a lei a que se refere o art.
+17-A fosse editada. Assim, a Lei nº 13.165/15 revogou o art. 17-A e alterou a redação do art. 18 para determinar
+que os limites de gastos seriam fixados pelo TSE “com base nos parâmetros definidos em lei”, e os referidos
+parâmetros vieram discriminados na própria Lei nº 13.165/15. A minirreforma de 2017 veio a alterar novamente
+a redação do art. 18 e a fixar expressamente os valores que serviriam como teto de gastos. Por essas razões,
+pode-se dizer que, por muito tempo, os tetos de gastos não eram eficazes: afinal, eram estabelecidos pelos
+próprios partidos políticos.
+28 OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, p. 207.
+
+
+[[pagina 16 | nativo]]
+permitiria tempo de reflexão independente e sem interferências publicitárias. Concorde-se ou
+
+não com a premissa, fato é que a restrição temporal pressupõe ser factível evitar a veiculação
+
+de propagandas pela proibição de exibição de anúncios nos veículos regulados, como os
+
+jornais.
+
+37. Mas o quadro que serviu de justificativa para todas as três restrições mudou
+
+completamente, e é possível afirmar que o contexto em que elas se baseiam não mais subsiste.
+
+Houve uma série de transformações fáticas e jurídicas que afetaram os pressupostos da
+
+regulação da mídia impressa, tornando as regras atacadas nesta ADI desproporcionais e
+
+irrazoáveis e, portanto, inconstitucionais, à luz dos princípios da proporcionalidade
+
+(considerado em seus três testes de: adequação, necessidade e proporcionalidade em sentido
+
+estrito) e da razoabilidade (arts. 1º e 5º, LIV, CRFB).
+
+V.2. Violação à razoabilidade e à proporcionalidade (arts. 1º e 5º, LIV, CRFB)
+
+38. Uma leitura contextual do caput do art. 43 da Lei nº 9.504/1997 indica que as
+
+suas restrições, além de irrazoáveis, porquanto anacrônicas, não são proporcionais. Isso
+
+porque, tais medidas: (i) não se revelam adequadas à garantia da paridade de armas nas
+
+disputas eleitorais, nem de quaisquer outras finalidades para as quais possam ter sido criadas;
+
+(ii) não são necessárias para atender às finalidades pelas quais foram impostas, visto que há
+
+medidas menos severas às liberdades dos candidatos, dos cidadãos e dos meios de
+
+comunicação disponíveis; e (iii) carecem de fundamento legítimo para justificar os custos das
+
+restrições a preceitos constitucionais de extrema relevância, devidamente apontados no
+
+capítulo IV desta exordial (i.e.: seus benefícios são menores que seus elevados custos para os
+
+direitos envolvidos).
+
+39. Nesse sentido, os contextos fático (disponibilidade de meios de acesso à
+
+informação e evolução tecnológica) e jurídico (forma de regulação) que marcam a propaganda
+
+eleitoral no Brasil passaram por profundas transformações desde a imposição dessas
+
+restrições, de forma que, ainda que se entendesse que elas não eram inconstitucionais quando
+
+criadas, é inegável que se tornaram desproporcionais e irrazoáveis de forma superveniente.
+
+
+[[pagina 17 | nativo]]
+Nesse caso, “o excesso de regulação contribui para silenciar o debate, dificultar a
+fiscalização e atuar contra a garantia de um processo eleitoral livre e igualitário”29. É o que
+
+se passa a demonstrar.
+
+V.2.1 – Irrazoabilidade e inadequação das restrições para a promoção de suas finalidades. O
+
+atual contexto fático é marcado por uma pluralidade de meios e pela ausência de escassez.
+
+40. Embora as restrições tenham se baseado no suposto poder de penetração e
+
+formação de opiniões dos jornais, a mídia impressa há tempos já não possui a exclusividade
+
+no fornecimento de conteúdo jornalístico e informativo aos eleitores sobre seus potenciais
+
+candidatos. De fato, as novas tecnologias propiciaram o surgimento de uma pluralidade de
+
+fontes de acesso à informação, e até mesmo de comunicação direta dos eleitores com os
+
+candidatos (e.g., por meio de mensagens diretas aos celulares), muitas das quais não
+
+existiam ou não eram tão amplamente utilizadas quando as restrições do art. 43 foram
+
+elaboradas. Por essas razões, as restrições impostas pelo art. 43, caput, da Lei nº 9.504/97
+
+revelam uma hipótese de anacronismo legislativo que viola o princípio da razoabilidade
+como congruência (arts. 1º e 5º, LIV, CRFB)30.
+
+41. Tais restrições são, ainda, desproporcionais. Antes de tudo, porque são
+
+manifestamente inadequadas para cumprir as finalidades a que se destinam (i.e., garantir a
+
+paridade de armas e a contenção do abuso do poder econômico nas eleições). Afinal, os
+
+candidatos têm liberdade de expressão política para escolher os mecanismos de veiculação de
+
+campanha; e, na medida em que as mídias tradicionais convivem com outros meios de acesso
+
+à informação sobre os candidatos, as restrições impostas a esses veículos apenas farão com
+
+que os candidatos migrem seus recursos, de forma mais célere, para outras espécies de
+
+propaganda ou eventos de campanha, em especial, para as redes sociais, a fim de alcançar seu
+
+29 OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, p. 367.
+30 De acordo com Humberto Ávila, “Desvincular-se da realidade é violar os princípios do Estado de Direito e do
+devido processo legal. Essa exigência também assume relevo nas hipóteses de anacronismo legislativo, isto é,
+naqueles casos em que a norma, concebida para ser aplicada em determinado contexto sócio-econômico, não
+mais possui razão para ser aplicada” (ÁVILA, Humberto. Teoria dos Princípios – da definição à aplicação dos
+princípios jurídicos. 7ª ed. São Paulo: Malheiros, 2007. p.156).
+
+
+[[pagina 18 | nativo]]
+potencial eleitorado31.
+
+42. Por conta disso, é necessário apontar, em primeiro lugar, que a limitação
+
+quantitativa não cumpre mais o objetivo da norma, na medida em que simplesmente não
+
+existe limitação quanto aos tipos (i.e., meios) de veículos escolhidos por cada candidato. É
+
+dizer: mesmo que um determinado candidato atinja o limite previsto na norma impugnada, ele
+
+ainda disporá de alternativas para alcançar seus eleitores. O caput do art. 43, portanto, cria
+
+restrições a direitos sem atingir necessariamente as finalidades intentadas pelo legislador à
+
+época de sua edição (i.e., a paridade de armas e a vedação ao abuso do poder econômico).
+
+43. Em segundo lugar, a limitação espacial tampouco é capaz de atingir os fins
+
+anteriormente buscados. Os leitores possuem diferentes meios de acesso à informação, o que
+
+implode a premissa de escassez segundo a qual um candidato poderia ocupar todo o espaço de
+
+conteúdo disponibilizado ao eleitorado. Nesse tópico, registre-se, ainda, que a publicização
+
+dos valores gastos pelos candidatos nas propagandas eleitorais (cf. art. 43, §1º, da Lei
+
+Eleitoral) serve para assegurar o princípio da paridade de armas, de modo a impedir que sejam
+
+cobrados valores diferentes dos candidatos pelos veículos impressos. A igualdade de chances
+
+é, portanto, prestigiada com a medida, de modo a evitar o abuso do poder econômico durante
+
+o pleito eleitoral.
+
+44. Além disso, em terceiro lugar, a limitação temporal trazida pelo art. 43
+
+também não é mais capaz de atingir a finalidade a que se destina(va). As transformações no
+
+substrato fático da norma, causadas pela evolução tecnológica, a tornaram completamente
+
+inadequada para essa função, porquanto a vedação à propaganda na mídia impressa
+
+31 Conforme leciona Aline Osório, “Parece claro que essas restrições pontuais aos meios de campanha são
+muito mais gravosas à liberdade de expressão política dos competidores do que a imposição de um teto geral
+de gastos, já que impedem que os candidatos selecionem quais os meios entendem mais efetivos para
+transmitir as suas mensagens e propagandas aos eleitores. Por outro lado, tais medidas são totalmente
+ineficazes para a restrição dos custos de campanha e para a promoção da paridade de armas entre os
+competidores. Isso porque a proibição de gasto em uma determinada espécie de propaganda ou evento de
+campanha, como showmícios ou envelopamento de veículos, apenas promove a transferência do uso dos
+recursos para outras espécies de propaganda ou eventos de campanha.” (OSORIO, Aline. Direito eleitoral e
+liberdade de expressão. Belo Horizonte: Fórum, 2017, p.362).
+
+
+[[pagina 19 | nativo]]
+tradicional até a antevéspera do pleito não impede que a divulgação dos candidatos na internet
+
+ocorra até o dia das eleições. Isto é: inexiste momento de reflexão e calma na sociedade atual.
+
+O silêncio imposto aos meios tradicionais, ora representados pela ANJ, não ocorre na
+internet.32
+
+45. O resultado é que alguns candidatos (como celebridades e aqueles com
+
+apoiadores atuantes majoritariamente no mundo virtual) são beneficiados, em prejuízo de
+
+candidatos que ainda empregam esforços para se tornarem conhecidos. A norma, assim, não
+
+apenas é inadequada ao alcance de seu fim, mas cria sérios problemas de igualdade e paridade
+de armas na disputa eleitoral.33 Tal tipo de restrição, por silenciar o debate democrático, deve,
+portanto, passar por um rigoroso escrutínio de validade.34
+
+V.2.2 – Desnecessidade das restrições. A evolução no contexto regulatório da propaganda
+
+eleitoral revela que há meios menos gravosos capazes de promover as finalidades almejadas.
+
+46. As restrições do caput do art. 43 são também inconstitucionais do ponto de
+
+vista do teste da necessidade, segunda etapa da verificação da proporcionalidade. Há medidas
+
+menos restritivas aos blocos de direitos em jogo do que a regulação minuciosa, ora
+
+questionada, de como devem ser posicionados os anúncios nos veículos de comunicação, tal
+
+como efetivamente adotadas pela legislação eleitoral atualmente em vigor. É dizer: tamanha
+
+restrição às liberdades de expressão, de imprensa e de informação; ao princípio
+
+democrático e ao pluralismo político; e às liberdades de iniciativa e concorrência dos
+
+meios de comunicação são manifestamente desnecessárias para atender às finalidades
+
+32 OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, p. 209.
+33 “Além de ineficaz e inadequada, as restrições à veiculação de propaganda eleitoral nos dias imediatamente
+anteriores ao pleito e no próprio dia da votação produzem diversas distorções na disputa. Tais regras tendem a
+privilegiar os candidatos que já estão no poder” (OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo
+Horizonte: Fórum, 2017, p. 209).
+34 Aliás, este E. STF já teve a oportunidade de analisar a constitucionalidade da limitação temporal que era
+imposta pelo art. 35-A da Lei nº 9.504/97, introduzido pela Lei nº 11.300/06, que vedava a divulgação de
+pesquisas eleitorais até o 15º dia antes do pleito. Na ocasião, o Plenário decidiu que a restrição “se mostra
+inadequada, desnecessária e desproporcional quando confrontada com o objetivo colimado pela legislação
+eleitoral, que é, em última análise, permitir que o cidadão forme a sua convicção de modo mais amplo e
+livre possível” (ADI nº 3.741/DF, Rel. Min. Ricardo Lewandowski, Plenário, j. 06.09.2006, DJ 06.09.2006; grifou-
+se).
+
+
+[[pagina 20 | nativo]]
+almejadas pelas imposições do art. 43, caput, da Lei Eleitoral.
+
+47. Com efeito, se à época da edição das restrições impugnadas a lei brasileira não
+
+previa controles estritos sobre a arrecadação e as despesas realizadas nas campanhas, isso não
+
+mais se verifica. Nesse novo quadro, a exigência ora impugnada tornou-se sem sentido.
+Refere-se, (i) à vedação do financiamento de campanhas por pessoas jurídicas35, bem
+
+como (e mais importante), (ii) à criação de um teto de gastos para os pleitos eleitorais.
+
+48. Ao tempo da edição da Lei nº 9.504/97, não havia limite legal às despesas com
+campanhas, cujos gastos máximos eram definidos pelos próprios partidos.36 O teto foi criado
+
+apenas em 2015, pela Lei nº 13.165, que alterou o art. 18 da Lei nº 9.504/97 para definir que
+
+“os limites de gastos de campanha, em cada eleição, são os definidos pelo Tribunal Superior
+
+Eleitoral com base nos parâmetros definidos em lei”. Os referidos parâmetros estavam
+
+definidos na própria lei de 2015, e tinham como critério a aplicação de um percentual sobre os
+maiores gastos das eleições anteriores.37 Atualmente, vigora o regime introduzido pela Lei nº
+
+13.488/17, que trouxe limites claros e fixos, em valores absolutos, às despesas com
+
+campanhas em seu art. 6º, e alterou novamente o art. 18 da Lei nº 9.504/97 para dispor que
+
+“os limites de gastos de campanha serão definidos em lei e divulgados pelo Tribunal Superior
+
+Eleitoral”.
+
+35 ADI nº 4.650/DF, Rel. Min. Luiz Fux, Plenário, j. 17.09.2015, DJe de 24.02.2016.
+36 A redação original do art. 18 da Lei das Eleições dispunha que “juntamente com o pedido de registro de seus
+candidatos, os partidos e coligações comunicarão à Justiça Eleitoral os valores máximos de gastos que
+farão por candidatura em cada eleição em que concorrerem” (grifou-se).
+37 Os arts. 5º e 6º da Lei nº 13.165/2015, revogados pela Lei nº 13.488/2017, dispunham: “Art. 5º O limite de
+gastos nas campanhas eleitorais dos candidatos às eleições para Presidente da República, Governador e
+Prefeito será definido com base nos gastos declarados, na respectiva circunscrição, na eleição para os mesmos
+cargos imediatamente anterior à promulgação desta Lei, observado o seguinte: I - para o primeiro turno das
+eleições, o limite será de: a) 70% (setenta por cento) do maior gasto declarado para o cargo, na circunscrição
+eleitoral em que houve apenas um turno; b) 50% (cinquenta por cento) do maior gasto declarado para o cargo,
+na circunscrição eleitoral em que houve dois turnos; II - para o segundo turno das eleições, onde houver, o limite
+de gastos será de 30% (trinta por cento) do valor previsto no inciso I. Parágrafo único. Nos Municípios de até
+dez mil eleitores, o limite de gastos será de R$ 100.000,00 (cem mil reais) para Prefeito e de R$ 10.000,00 (dez
+mil reais) para Vereador, ou o estabelecido no caput se for maior.” “Art. 6º O limite de gastos nas campanhas
+eleitorais dos candidatos às eleições para Senador, Deputado Federal, Deputado Estadual, Deputado Distrital e
+Vereador será de 70% (setenta por cento) do maior gasto contratado na circunscrição para o respectivo cargo
+na eleição imediatamente anterior à publicação desta Lei”.
+
+
+[[pagina 21 | nativo]]
+49. Assim, a partir das eleições de 2018, a regulação voltada à garantia da paridade
+
+de armas entre os candidatos assumiu uma forma mais alinhada às melhores práticas
+
+internacionais. Ao invés de criar restrições a modalidades de propaganda (medida pouco
+
+eficaz, porque depende da capacidade irreal de prever todos os meios possíveis de emprego de
+
+recursos infindáveis em propaganda), o legislador fixou um limite máximo de despesas com
+
+campanhas eleitorais. Dentro desse teto, os candidatos devem ser livres para empregar os
+
+recursos (agora mais controlados) nas mídias que julgarem mais adequadas à comunicação
+com o seu eleitorado, com base nas balizas da legislação em vigor.38
+
+50. Esse regime é perfeitamente compatível com a multiplicidade de meios de
+
+comunicação que existem, atualmente, à disposição dos candidatos. De fato, se há (i) um
+
+limite de gastos global a todas as candidaturas e (ii) uma ampla pluralidade de opções de
+
+meios jornalísticos disponíveis ao eleitor, não faz mais sentido restringir os anúncios dos
+
+candidatos em meios específicos, como faz o art. 43 da Lei Eleitoral. Dentro do limite traçado
+
+pela lei, os candidatos devem poder eleger a melhor forma de dar visibilidade às suas
+
+candidaturas, e alocar os recursos (agora mais escassos, diante da vedação ao financiamento
+
+por empresas) da forma que melhor convier ao convencimento de seu eleitorado e à
+
+propagação de suas ideias.
+
+51. Dito de outro modo, a vedação ao financiamento empresarial e a existência de
+
+um teto efetivo de gastos atingem os fins intentados pela norma impugnada sem cercear os
+
+espaços de comunicação entre candidatos e eleitores e os meios de financiamento dos jornais
+
+e revistas. Há, pois, meios menos restritivos – e já em vigor – aos direitos fundamentais em
+
+jogo. Tais medidas, realmente, são menos onerosas ao princípio democrático; às liberdades de
+
+expressão, de imprensa e de informação; e à liberdade de iniciativa e concorrência dos meios
+
+de comunicação do que aquelas restrições previstas no caput do art. 43 da Lei nº 9.504/97,
+
+que se mostram, por essa razão, absolutamente desnecessárias.
+
+38 O texto atual prevê medidas menos onerosas, como a transparência dos custos da propaganda (art. 43, §1º).
+
+
+[[pagina 22 | nativo]]
+V.2.3 – Desproporcionalidade em sentido estrito. Prevalência das liberdades de expressão, de
+
+imprensa e de informação, dos princípios democrático e do pluralismo político, e da liberdade
+
+de inciativa e de concorrência.
+
+52. Por fim, sob a ótica da proporcionalidade em sentido estrito, terceira e última
+
+etapa do teste de proporcionalidade, também se conclui pela invalidade do dispositivo. É
+
+dizer: as limitações aos direitos fundamentais e preceitos fundamentais em jogo não são
+
+legítimas quando confrontadas com os benefícios almejados pelo caput do art. 43 da Lei
+
+Eleitoral.
+
+53. Os custos impostos à liberdade de expressão, imprensa e informação (arts.
+
+5º, IV, IX, XIV, e 220, caput e §§1º, 2º e 3º, CRFB), em verdade, simplesmente não fazem
+
+mais sentido, diante da manutenção da maior liberdade de comunicação na internet e de
+
+outros meios para limitar o abuso do poder econômico no período eleitoral. A paridade de
+
+armas não é alcançada pelas limitações à mídia impressa. Trata-se de real censura, banida
+
+pelo §6º do art. 220 da CRFB. Afinal, cria-se, sem justificativa, um controle de conteúdo
+
+inócuo em contraposição a um direito fundamental que, repita-se, goza de posição
+
+preferencial no ordenamento constitucional.
+
+54. Já em relação aos princípios democrático, republicano e ao pluralismo
+
+político (art. 1º, caput e inc. V CRFB), são tolhidos meios legítimos de comunicação entre
+
+candidatos e eleitores sem nenhum benefício, sobretudo quando avaliados o contexto fático e
+
+normativo que permeia as campanhas eleitorais nos dias atuais. Há de se privilegiar, sempre
+
+que possível, que os postulantes a mandatos eletivos tenham liberdade para alocar seus
+
+(escassos) recursos nos canais que entenderem adequados para atingir o seu público-alvo, sem
+
+qualquer orientação, pelo legislador, sobre qual é mais adequado para tanto.
+
+55. Por derradeiro, as liberdades de iniciativa e de concorrência das empresas
+
+dos meios de comunicação (arts. 1º, IV; 5º, caput; 170, caput e inc. IV; e 220, caput e §1º,
+
+CRFB) são manifestamente sobrepujadas pelo dispositivo legal impugnado. Em um espaço
+
+de muita regulação nas mídias impressas, o legislador cria incentivos aos candidatos para que
+
+
+[[pagina 23 | nativo]]
+procurem outras formas de comunicação com seus eleitores (sobretudo na internet),
+
+asfixiando um relevante meio de financiamento de jornais e revistas, na contramão de sua
+
+crescente importância como fontes de informação verdadeira.
+
+56. Em suma, a proteção à paridade de armas levada a cabo pelo art. 43, caput, da
+
+Lei Eleitoral, senão é inadequada e desnecessária, ao menos é injustificada quando sopesada
+
+com os direitos contrapostos. Portanto, conclui-se que há violações graves aos postulados da
+
+proporcionalidade e da razoabilidade (arts. 1º e 5º, LIV, CRFB), que impõem a declaração de
+
+inconstitucionalidade do art. 43, caput, da Lei nº 9.504/97, sem a repristinação da legislação
+
+anterior, igualmente incompatível com os referidos princípios constitucionais.
+
+VI – INTERPRETAÇÃO CONFORME A CONSTITUÇÃO DO CAPUT E DO §1º,
+
+INC. I, DO ART. 57-C DA LEI Nº 9.504/97.
+
+57. A presente ADI também busca que este E. STF confira interpretação
+
+conforme a Constituição ao caput e ao §1º, inc. I, do art. 57-C da Lei nº 9.504/97, com
+
+redação dada pela Lei nº 13.488/17. Tais dispositivos vedam “a veiculação de qualquer tipo
+
+de propaganda eleitoral paga na internet”, com exceção do “impulsionamento de conteúdos”
+
+(devidamente identificados) e contratados pelos partidos, seus partidos ou coligações (art.
+
+57-C). De forma ainda mais explícita e categórica, proíbe-se a propaganda eleitoral (mesmo
+
+gratuita) em sítios de pessoas jurídicas com ou sem fins lucrativos (§ 1º do art. 57-C),
+
+atingindo-se, assim, os inúmeros veículos de comunicação que exercem atividades
+
+jornalísticas e divulgam notícias em sítios da internet, inclusive aqueles que, hoje, funcionam
+
+exclusivamente online.
+
+58. Veda-se em razão dos atores envolvidos. Se pertencente a pessoas jurídicas,
+
+com ou sem fins lucrativos, é proscrita a propaganda. É por incidência desse alargado veto ad
+
+persona, que os jornais virtuais e demais empresas que produzem e divulgam notícias estão
+
+proibidos de veicular propaganda eleitoral paga. E é justamente essa exegese que se espera
+
+
+[[pagina 24 | nativo]]
+seja afastada por esse STF. De forma direta, almeja-se que as páginas na internet das
+empresas que exercem atividade jornalística39 sejam excluídas do âmbito de incidência da
+
+proibição de veiculação de propaganda paga na internet. Tal é a solução inafastável diante do
+
+sistema constitucional de direitos relacionados à atividade jornalística, como também em
+
+razão de uma discriminação sem sentido, a qual conduz a uma inconstitucional realidade
+
+anticompetitiva.
+
+59. Tais inconstitucionalidades são facilmente demonstradas pela incidência dos
+
+deveres de razoabilidade e proporcionalidade. Sim, porque, a uma, a vedação da veiculação
+
+de anúncios pagos nos sites de empresas que exercem atividades jornalísticas revela um
+
+critério irrazoável de diferenciação com as mídias impressas tradicionais, com a consequente
+
+quebra de isonomia e desdobramentos anticoncorrenciais. Em verdade, a norma foi pensada
+
+para um contexto fático muito diferente, revelando-se, hoje, totalmente anacrônica e
+
+incompatível com o postulado da razoabilidade. Além disso, a duas, a proibição não se revela
+
+adequada, necessária nem proporcional em sentido estrito, considerando-se os fins aos quais
+
+se dirige a vedação (quais sejam: a facilitação do controle, pela Justiça Eleitoral, e a coibição
+
+do abuso de poder econômico), com o que se desconsidera o dever de proporcionalidade.
+
+60. Esses pontos serão aprofundados abaixo. Antes, porém, é pertinente que se
+
+passe a uma breve descrição do atual quadro regulatório da propaganda eleitoral na internet.
+
+VI.1. Um pressuposto necessário: o contexto do meio digital para as empresas jornalísticas.
+
+61. A proteção de que gozam as empresas jornalísticas, essenciais à garantia dos
+
+valores do Estado Democrático de Direito (art. 1º, CRFB), não está adstrita aos jornais de
+
+papel. O jornalismo é uma atividade, não um meio, podendo ser desenvolvido em qualquer
+
+veículo de comunicação social. Basta, para a sua caracterização, que se verifique uma
+
+39 Considerando-se serem empresas jornalísticas todas as organizações econômicas que se dediquem à
+produção, veiculação e/ou divulgação de notícias para o público, independentemente do veículo utilizado para a
+divulgação de seu conteúdo, seja ele impresso ou digital (internet).
+
+
+[[pagina 25 | nativo]]
+estrutura organizada para agenciar ou divulgar conteúdos noticiosos ao público, ou editar
+
+conteúdo tendo em vista esse tipo de divulgação. Segundo o Min. Luís Roberto Barroso:
+
+“uma vez que o jornalismo é uma espécie de conteúdo que poderá ser
+veiculado por diferentes meios de comunicação social, é apenas natural que
+as regras pertinentes a tal conteúdo incidam sobre qualquer meio de
+comunicação na medida em que desenvolve atividade jornalística. Não seria
+diferente, portanto, no caso de meios de comunicação social eletrônica” 40
+
+62. Nas últimas décadas, a atividade jornalística tem migrado para a internet, e as
+
+proteções que a cercam devem acompanhar essa mudança. Foram vários os jornais
+
+tradicionais brasileiros que decidiram encerrar suas versões impressas e passar a exercer o
+jornalismo apenas digitalmente – a exemplo da Gazeta do Povo 41, principal jornal de
+Curitiba, e da Gazeta Vitória 42, jornal relevante no Espírito Santo, os quais decidiram
+
+restringir a circulação de suas versões impressas a apenas uma vez por semana e focar seus
+
+jornalismos na web. De outro lado, há sites de portais que praticam atividade jornalística e
+
+que já nasceram na internet, como o UOL, o Terra, o Huffington Post e, mais recentemente,
+
+o JOTA e o Nexo. Isso sem falar em blogs e páginas, como a do Antagonista.
+
+63. Nada obstante isso, os jornais que ainda possuem versões impressas têm no
+
+meio digital um instrumento de suma importância para: (i) a divulgação rápida e célere de
+
+informações, opiniões e notícias verdadeiras, essenciais na dinamicidade da sociedade atual,
+
+sobretudo em tempos de profusão de fake news; e (ii) garantir meios alternativos de
+
+financiamento de sua atividade. Tanto é assim que praticamente todas as empresas
+
+jornalísticas do universo editorial tradicional – tal como O Globo, a Folha de São Paulo e o
+
+The New York Times – possuem suas versões online, muitas vezes com conteúdo próprio e
+
+parcialmente diverso de suas versões impressas. O caso do jornal The New York Times, aliás,
+
+merece destaque. O tradicional periódico conseguiu se reinventar a partir da publicidade
+
+40 Parecer juntado aos autos da ADI nº 5.613 (doc. 06 da inicial daquele caso), p. 06.
+41 "Parem as máquinas! A Gazeta do Povo virará só digital”. Notícia de 01.05.2017. In: Veja. Disponível em:
+<https://abr.ai/2Na3sEJ>. Acesso em: 03.07.2019.
+42 “https://www.gazetaonline.com.br/noticias/cidades/2019/07/a-gazeta-lanca-site-mais-moderno-e-reduz-jornais-
+impressos-1014192021.html”
+
+
+[[pagina 26 | nativo]]
+digital43. A propaganda no conteúdo eletrônico, portanto, vem sendo encarada cada vez mais
+
+como um subsídio fundamental para a manutenção dos jornais.
+
+64. Em sentido contrário, a essa tendência, o art. 57-C da Lei Eleitoral, em seu
+
+caput e §1º, I, despiu essas empresas de uma importante fonte de financiamento. Se é
+
+garantido aos jornais impressos o direito de exibir propaganda eleitoral paga para viabilizar o
+
+exercício de suas atividades com autonomia, não pode ser outra a regra para os veículos que
+
+produzem e divulgam notícias nos meios virtuais. Essa contrariedade é reforçada também
+
+pelo fato de que no próprio meio virtual, por intermédio das redes sociais, é possível veicular
+
+propaganda eleitoral, por exemplo, ao se adotar a estratégia dos impulsionamentos dos
+
+conteúdos postados, nos termos do previsto na Lei nº 13.488/17. Dessa forma, em vista do
+
+ambiente notadamente mais livre da internet, não há que prevalecer tal cenário de assimetria,
+
+instaurado entre as empresas que exercem a atividade jornalística, também virtualmente, e as
+
+redes sociais. A liberdade, assim, enquanto vetor principal da rede mundial de computadores,
+
+tem o condão de pôr fim a qualquer restrição à veiculação de propaganda eleitoral paga no
+
+meio eletrônico por parte de empresas jornalísticas.
+
+VI.2. Os objetivos das restrições à propaganda eleitoral na internet.
+
+65. Até a edição da Lei nº 12.034/09 (que alterou a Lei nº 9.504/9744), não havia
+
+normas sobre propaganda eleitoral no meio digital. Diante da lacuna até então existente, o
+
+TSE decidiu regular a matéria em tom peremptório e bastante restritivo, estabelecendo, em
+
+2008, que “a propaganda eleitoral na Internet somente será permitida na página do
+candidato destinada exclusivamente à campanha eleitoral e na do partido político”45.
+
+43 Diante da grande crise de financiamento dos jornais impressos ao redor do mundo, o The New York Times
+passou a atuar nas plataformas digitais, de modo a se manter competitivo. O resultado foi melhor do que o
+esperado, e a companhia terminou 2017 com um crescimento de 80% (oitenta por cento) dos assinantes nas
+plataformas digitais, acompanhado por uma incrível alta da publicidade digital. In: Folha de S. Paulo. Disponível
+in: <https://bit.ly/2NW4Ccg>. Acesso em: 03.07.2019.
+44 Os arts. 57-A a 57-I regulamentaram de forma minuciosa a propaganda na internet em suas diversas formas.
+45 Art. 18 da Res. TSE nº 22.718/08, com a redação dada pela Res. TSE nº 22.930/08.
+
+
+[[pagina 27 | nativo]]
+66. A restrição absoluta à propaganda paga na internet foi adotada em meio ao
+
+vertiginoso crescimento da rede como mecanismo de acesso à informação e à dificuldade de
+
+fiscalização que acompanhava tal avanço. O Min. Ari Pargendler, relator da resolução,
+
+afirmou que a proibição visava “dotar a Justiça Eleitoral de condições de fiscalizar a
+
+propaganda eleitoral na internet”. Isto é, almejava-se facilitar a verificação de situações de
+
+abuso de poder econômico na rede mundial de computadores em meio à incerteza sobre as
+possibilidades desse novo universo de mídia.46
+
+67. A Lei de 2009 alterou esse cenário e iniciou um processo de abertura da
+
+internet à propaganda eleitoral. Nesse segundo momento, manteve-se a sistemática do TSE
+
+no que se refere à propaganda paga na internet (inseriu-se o art. 57-C na Lei nº 9.504/97).
+
+Todavia, criou-se a ressalva da propaganda gratuita em sites próprios dos candidatos e dos
+
+partidos. Assim, tornou-se viável a publicidade eleitoral online em blogs e sítios de
+
+mensagens instantâneas, e páginas de pessoas naturais (além de candidatos, partidos e
+coligações).47
+
+68. Um terceiro momento de paulatina flexibilização deu-se com a minirreforma
+
+eleitoral de 2017, quando passou a ser permitido o “impulsionamento de conteúdo”, serviço
+
+que, mediante contratação com os provedores de aplicação de internet, permite seja
+
+potencializado o alcance e a divulgação da informação para atingir usuários que normalmente
+
+não teriam acesso aquele conteúdo.
+
+69. Pois bem. A despeito da abertura gradual, a Lei de 2017 manteve a vedação à
+
+propaganda, gratuita ou onerosa, nas páginas de pessoas jurídicas em geral (art. 57-C,
+
+46 Era necessário evitar, diante do relativamente desconhecido mundo da internet, o risco de “favorecimento
+indevido aos candidatos de maior poder econômico”. Prestação de informações do Min. Ari Pargendler, Rel. da
+Res. TSE nº 22.718/18, nos autos do writ impetrado contra a referida resolução (TSE, MS nº 3.738/DF, Rel. Min.
+Joaquim Barbosa, j. 09.09.2008, DJe 31.03.2009).
+47 Além dos sítios dos candidatos e dos partidos (art. 57-B, I e II), passou a ser possível também o envio de
+mensagens instantâneas para endereços cadastrados gratuitamente (art. 57-B, III) e a propaganda em blogs,
+redes socais, sítios de mensagens instantâneas e aplicações assemelhadas feitos pelos candidatos, partidos ou
+coligações (art. 57-B, IV, “a”); ou por qualquer pessoa natural (art. 57-B, IV, “b”), sendo vedada, neste último
+caso, a contratação de impulsionamento de conteúdo.
+
+
+[[pagina 28 | nativo]]
+caput e §1º, I), incluídos aí os meios de comunicação voltados à produção e veiculação de
+
+conteúdo jornalístico. O resultado é que, hoje, a propaganda paga é possível e regulamentada
+
+nas (poucas) redes sociais existentes nesse mercado (cada vez mais importantes como fonte
+
+de disseminação de informação e conteúdo jornalístico dos brasileiros) que disponibilizam o
+
+serviço de impulsionamento de conteúdo, mas é vedada em outros sites e plataformas,
+
+incluindo as páginas de empresas jornalísticas, que produzem conteúdo jornalístico.
+
+70. A inconstitucionalidade salta aos olhos. Com um critério injustificável,
+
+favorece-se um setor da mídia em detrimento de outro, afrontando-se a isonomia e a livre
+
+concorrência.
+
+VI.3. Quebra de isonomia e efeito anticoncorrencial. Irrazoabilidade e
+
+desproporcionalidade da proibição de veiculação de propaganda eleitoral paga nos sítios e
+
+aplicações de empresas que exercem atividade jornalística na internet.
+
+VI.3.1 – Inadequação e incongruência da restrição. Irrazoabilidade da permissão de
+
+impulsionamento de conteúdos vis à vis a proibição de propaganda eleitoral no sítios
+
+eletrônicos das empresas que exercem atividade jornalística.
+
+71. A vedação genérica contida no art. 57-C da Lei das Eleições não é adequada à
+
+promoção dos fins que almeja. Mais que isso: a norma é incongruente, porquanto
+
+desconsidera as suas condições externas de aplicação.
+
+72. De fato, a edição da Lei nº 13.488/17 inaugurou um regramento mais flexível
+
+da propaganda eleitoral virtual ao passar a permitir o impulsionamento de conteúdo na rede,
+
+“desde que identificado de forma inequívoca como tal e contratado exclusivamente por
+
+partidos, coligações e seus representantes” (art. 57-C). O “impulsionamento de conteúdo”,
+
+como visto acima, é definido de forma bastante ampla pela lei, de forma a incluir tanto a
+
+ampliação do alcance de “publicações, como no Facebook e no Instagram”, quanto a
+
+contratação de ferramentas de buscas para se ter prioridade no resultado (art. 26, §2º, Lei nº
+
+9.504/97, com a redação dada pela Lei nº 13.488/17). Segundo o TSE, “desse modo, fica
+
+
+[[pagina 29 | nativo]]
+liberado o uso de mídia paga para impulsionar essas publicações em mídias sociais e
+
+também para garantir posições de destaque nas páginas de respostas dos grandes
+buscadores, como o Google, por meio de anúncios contratados no Google AdWords”.48
+
+73. Entretanto, não há razões para crer que o controle da publicidade em sítios
+
+de empresas que exercem atividade jornalística seria mais difícil, e o abuso de poder
+
+econômico mais fácil do que no caso do impulsionamento. Pelo contrário: enquanto o
+
+primeiro caso trata de anúncios exibidos em domínios virtuais específicos onde a fiscalização
+
+poderia ser feita diretamente, o impulsionamento traz desafios de fiscalização, podendo ser
+usado de maneira enviesada em prol de ganhos eleitoreiros.49
+
+74. Nas eleições de 2018, alguns problemas permearam a propaganda paga nas
+
+redes sociais (justamente onde o legislador criou incentivos à prática). Por um lado, houve,
+
+denúncias do uso indevido do Twitter, por meio do pagamento de “influenciadores digitais
+para veicularem mensagens positivas a determinados candidatos”. 50 Além disso, alguns
+
+candidatos pagaram pelo impulsionamento de links de suas próprias campanhas em
+
+buscadores quando os nomes dos adversários são pesquisados por terceiros, prática que tem
+gerado disputas jurídicas.51 Segundo o portal G1, determinado candidato ao Senado pelo
+
+Estado de São Paulo supostamente impulsionou conteúdo próprio não quando pesquisado o
+
+seu nome no buscador, mas o de outro candidato ao mesmo cargo. Confira-se a imagem
+
+reproduzida na notícia:
+
+48 TSE, Cartilha Informativa sobre Propaganda Eleitoral na Internet 2018. Disponível em: <http://bit.ly/2XkKjtP>.
+Acesso em: 03.07.2019.
+49 Não se sustenta, aqui, que o impulsionamento deva ser proibido. Argumenta-se apenas que a sua liberação,
+enquanto é vedada a veiculação de propaganda paga em sítios de empresas jornalísticas sob o argumento de
+facilitação de controle e coibição de abusos de poder econômico, é um absoluto contrassenso.
+50 Em agosto de 2018, veio a público que agências de publicidade contratadas pela campanha do Partido dos
+Trabalhadores teriam pago R$ 1,5 mil por mês para influenciadores digitais propagarem mensagens de apoio a
+candidatos do partido. V. Jornal “O Globo”. Esquema de propaganda ilegal da internet oferecia R$ 1.500
+mensais por elogios a petistas. Notícia de 27.08.2018. Disponível em: <https://glo.bo/2y39wcF>. Acesso em:
+24.09.2018.
+51 Cf. Site “G1”. Anúncios de candidatos em resultados de buscas na web por adversários geram disputa na
+Justiça. Disponível em: <https://glo.bo/2xOkDHo>. Acesso em: 03.07.2019.
+
+
+[[pagina 30 | nativo]]
+75. Nesse sentido, é de se indagar se um sítio de empresa que exerce atividade
+
+jornalística, cujo endereço eletrônico é facilmente encontrado pela justiça eleitoral, é mais
+
+difícil de se controlar do que um impulsionamento ilegal cuja identificação só é possível
+
+avaliar casuisticamente, quando apresentadas circunstâncias tão específicas que nem sempre
+
+serão de conhecimento amplo do público. A verdade é que não há razoabilidade na imposição
+
+desse odioso tratamento anti-isonômico em comparação entre redes sociais e buscadores,
+
+que vêm arrecadando milhões com o impulsionamento, de um lado; e sítios de empresas que
+
+veiculam conteúdo noticioso, de outro. É dizer: se o legislador reconheceu o impulsionamento
+
+como forma legítima de propaganda eleitoral (art. 57-C), é um verdadeiro contrassenso que
+
+seja mantida a proibição de veiculação de propaganda paga em sites de pessoas jurídicas
+
+comprometidas com a produção e divulgação de informação. Não por outra razão, afirma-se
+
+que “a regulação do uso da Internet nas eleições reflete a falta de compreensão sobre a
+estrutura e o funcionamento da rede”.52
+
+76. O que se vê, portanto, é grave afronta à isonomia (art. 5º, CRFB), com
+
+favorecimento injustificável de setores de mídia online, que se desdobra em violação à
+
+concorrência (art. 170, IV, CRFB), corolário da livre inciativa (arts. 1º, IV e 170, caput), com
+
+escoamento de recursos de publicidade para os mecanismos de internet, em detrimento das
+
+52 OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, pp. 337-338.
+
+
+[[pagina 31 | nativo]]
+empresas jornalísticas virtuais. Nessa toada, a limitação não passa no teste da razoabilidade,
+
+aqui entendida como comando de congruência, pois não há harmonia entre a norma e as suas
+condições externas de aplicação. 53 O resultado dessa desvinculação da realidade é a
+
+inadequação da norma à produção dos fins a que se destina e o descumprimento dos
+
+princípios do Estado de Direito (art. 1º, CRFB) e do devido processo legal (art. 5º, LIV,
+
+CRFB).
+
+VI.3.2 – Violação ao subprincípio da necessidade e à vedação do excesso. Os meios de
+
+controle das propagandas eleitorais são suficientes para o alcance dos fins da norma.
+
+77. A vedação de propagandas eleitorais pagas em sites de empresas que exercem
+
+atividade jornalística tampouco é necessária para promover a facilitação do controle pelo
+
+TSE. Há outros meios menos gravosos à liberdade de expressão, de imprensa e de
+
+informação, que são mais aptos a evitar o abuso do poder econômico.
+
+78. Na verdade, o meio mais efetivo já está em vigor: a existência de um teto de
+
+gastos. De fato, as campanhas estão adstritas a um limite de dispêndios. Cabe, assim, aos
+
+candidatos escolher onde melhor alocar seus recursos de publicidade: se em redes sociais,
+
+buscadores, jornais e revistas, aplicativos de mensagens instantâneas ou outros meios. Salvo
+
+em casos de Caixa 2 (situação irregular per se), o limite global tem o condão de atender
+
+perfeitamente ao intuito de evitar o abuso do poder econômico, sem que haja necessidade de
+
+se cercear a liberdade de quem quer que seja. Daí porque a restrição legal não passa no
+
+subteste da necessidade sendo, por isso mesmo, manifestamente inconstitucional.
+
+79. De outra banda, é oportuno lembrar que a liberação do impulsionamento de
+
+conteúdos implica, em verdade, o reconhecimento da possibilidade de fiscalização desses
+
+meios. Isto é: se é viável fiscalizar impulsionamentos, por maioria de razão é igualmente
+
+53 ÁVILA, Humberto. Teoria dos Princípios: da definição à aplicação dos princípios jurídicos, 17ª ed. São Paulo:
+Malheiros, 2016, p. 199: Com efeito, segundo o autor, a exigência de razoabilidade como congruência assume
+relevo “nas hipóteses de anacronismo legislativo, isto é, naqueles casos em que a norma, concebida para ser
+aplicada em determinado contexto socioeconômico, não mais possui razão para ser aplicada”.
+
+
+[[pagina 32 | nativo]]
+viável – e muito mais simples – fiscalizar empresas que produzem conteúdo na, e para a,
+internet.54
+
+VI.3.3 – Desproporcionalidade em sentido estrito. Os supostos benefícios da norma não
+
+superam os custos da excessiva restrição a direitos fundamentais.
+
+80. Também à luz do teste da proporcionalidade em sentido estrito, a aplicação da
+
+proibição do art. 57-C da Lei Eleitoral às empresas que exercem atividade jornalística através
+
+da internet não tem amparo constitucional. Os custos da medida às liberdades de expressão e
+de imprensa de tais veículos55 são muito mais altos que seus duvidosos benefícios. O mesmo
+
+vale para a gravíssima restrição que a referida vedação impõe sobre a liberdade de
+
+propaganda – que, como se viu, é corolário da liberdade de expressão – dos candidatos e
+partidos.56 O fato é que a medida termina por favorecer um seguimento econômico que pode
+
+fazer impulsionamento, como o Facebook e o Instagram, ao passo em que esvazia importante
+
+fonte de renda de empresas que estão comprometidas com o combate ao fenômeno das fake
+
+news.
+
+81. Aliás, a melhor forma de combater a propagação desse tipo de
+
+desinformação é com o bom trabalho jornalístico profissional. Não é demais relembrar,
+
+novamente, as palavras do Min. Luiz Fux, para quem a imprensa tradicional tem papel central
+
+nesse sentido, na medida em que “acompanha diuturnamente a movimentação de atores
+
+54 Não apenas porque os sites que produzem e veiculam conteúdo jornalístico têm domínios fixos que podem
+ser facilmente encontrados, mas também porque há mecanismos que os próprios prejudicados dispõem em
+auxílio à Justiça Eleitoral; sabe-se, por exemplo, que “um jornal ou revista que faça a publicidade de um
+candidato, não pode se recusar a fazer publicação de mensagem de outro candidato ou de outro partido. Cabe
+representação do recusado (art. 96 desta Lei), devendo o Juiz Eleitoral decidir de pronto. Aliás, deve haver uma
+compatibilidade de preço, não podendo o jornal exigir um preço para um candidato e outro preço para o
+adversário do primeiro”. (CONELIAN, Olivar. Propaganda eleitoral: de acordo com o Código Eleitoral e com a Lei
+9.504/97, 4ª ed. Curitiba: Juruá, 2000, p. 162).
+55 A extensão da proteção da liberdade de expressão aos jornais digitais é pacificamente reconhecida. O TSE
+trata as proteções como equivalentes, como se verifica, exemplificativamente, no AgRg no AgRg no AgInst nº
+983-35/MT, Rel. Min. Luiz Fux, j. em 21.02.2017, DJe 03.04.2017.
+56 Confiram-se as palavras de Aline Osório: “(…) a proibição de publicidade paga nas emissoras justificava-se
+para a garantia da paridade de armas entre os competidores. Ocorre que em relação às novas mídias – que,
+como dito, mais se assemelham à propaganda na imprensa escrita – a regra pode tornar-se excessivamente
+restritiva da liberdade de expressão de candidatos e partidos, impedindo o uso mais eficaz da propaganda on-
+line” (OSÓRIO, Aline. Direito Eleitoral e Liberdade de Expressão. Belo Horizonte: Fórum, 2017, p. 345).
+
+
+[[pagina 33 | nativo]]
+políticos, quanto a que se dedica à checagem de fatos e declarações de autoridades, prática
+
+conhecida como fact-checking. O jornalismo político-eleitoral precisa ser livre para apontar
+
+as imprecisões do discurso público e investigar condutas questionáveis. No período de
+campanha, ainda mais”.57 Em suma, “para notícias falsas, precisamos de mais imprensa e
+mais jornalismo”,58 sob pena de não termos eleições livres.59
+
+82. Todavia, ao incentivar a propaganda paga nas redes sociais – fortalecendo e
+auxiliando o financiamento desses meios60 – e vedar completamente a prática nas empresas
+
+que exercem atividade jornalística pelo meio digital, enfraquecendo o jornalismo tradicional,
+
+o legislador foi no sentido contrário. Em suma, essa “falha regulatória” contida na atual
+
+redação do art. 57-C produz no mínimo três incentivos perversos: (i) intensifica a crise no
+
+financiamento dos jornais tradicionais, impondo custos injustificáveis à liberdade de
+
+iniciativa e de concorrência dos meios de comunicação (arts. 1º, IV; 5º, caput;
+
+170, caput e inc. IV; e 220, caput e §1º, CRFB); (ii) propulsiona a difusão de fake news,
+extremamente prejudiciais à própria democracia (art. 1º, CRFB)61; e, por conseguinte,
+
+(iii) enfraquece o jornalismo sério, comprometido com a veracidade das informações que
+
+veicula, em afronta às liberdades de expressão, de imprensa e de informação (arts. 5º, IV,
+
+IX, XIV; e 220, caput e §§1º, 2º e 3º, CRFB). Tais incentivos não são apenas errôneos, mas
+
+também inconstitucionais.
+
+57 FUX, Luiz. “Contra notícia falsa, mais jornalismo”. In: Portal G1. Disponível em <https://glo.bo/2NVSQ1G>.
+Acesso em: 03.07.2019. Grifou-se.
+58 Min. Luiz Fux no Seminário “Impacto Social, Político e Econômico das Fake News”, organizado pela
+Associação Brasileira de Rádio e Televisão – ABRATEL, em 20.06.2018.
+59 “Uma democracia pressupõe eleições livres. Mas o que são eleições livres? São eleições livres de
+suborno, são eleições livres de corrupção, mas também são eleições livres de desinformação. O eleitor não
+pode depositar na urna um voto consciente, um voto livre, se ele não está informado das aptidões do seu
+candidato. E o que fazem as fake news? São notícias falsas, notícias fraudulentas, que derretem uma
+candidatura. Elas denigrem a imagem do adversário em vez de revelarem a aptidão do próprio candidato”
+(entrevista concedida pelo Min. Luiz Fux no programa Data Venia, exibido na RedeTv em 19.09.2018).
+60 Segundo dados do TSE, de pouco mais de R$ 1 bilhão em despesas registradas até 8 de setembro, R$ 17
+milhões foram destinados ao chamado impulsionamento de conteúdo. Disponível em: <https://bit.ly/2DJwH1W>.
+61 Segundo o Min. Luiz Fux, “[U]ma democracia pressupõe eleições livres. Mas o que são eleições livres?
+São eleições livres de suborno, são eleições livres de corrupção, mas também são eleições livres de
+desinformação. O eleitor não pode depositar na urna um voto consciente, um voto livre, se ele não está
+informado das aptidões do seu candidato. E o que fazem as fake news? São notícias falsas, notícias
+fraudulentas, que derretem uma candidatura. Elas denigrem a imagem do adversário em vez de revelarem a
+aptidão do próprio candidato” (entrevista concedida pelo Min. Luiz Fux no programa Data Venia, exibido na
+RedeTv em 19.09.2018).
+
+
+[[pagina 34 | nativo]]
+83. À luz de todo o exposto, é certo que a incidência da proibição de veiculação de
+
+qualquer tipo de propaganda eleitoral paga na internet em sítios de pessoas jurídicas revela-se
+
+manifestamente inconstitucional quando aplicada às empresas que exercem atividades
+
+jornalísticas. A medida é clara afronta à isonomia (art. 5º, CRFB), como também à livre
+
+concorrência, à democracia e às liberdades de expressão, imprensa e informação, em franco
+
+descumprimento aos postulados da razoabilidade e da proporcionalidade. Daí porque é
+
+imperiosa a atribuição de interpretação conforme a Constituição ao art. 57-C, caput e §1º
+
+da Lei Eleitoral para afastar a incidência da restrição em questão dos sites de toda e qualquer
+
+organização econômica que produza, veicule e/ou divulgue notícias voltadas ao público
+
+brasileiro, por qualquer meio de comunicação, impresso ou digital.
+
+VII – CONCLUSÃO E PEDIDOS
+
+84. Diante de todo o exposto, a ANJ pede e espera que esse E. STF, tendo em vista
+
+a relevância da matéria e seu especial significado para a ordem social e para a segurança
+
+jurídica, adote o rito do art. 12 da Lei nº 9.868/99 e, por conseguinte, determine,
+
+sucessivamente, a intimação das autoridades responsáveis pela edição dos atos normativos
+
+questionados, do Advogado-Geral da União e do Procurador-Geral da República, no prazo
+
+legal, para que se manifestem sobre o objeto desta ADI, postulando, desde já, que a matéria
+
+seja julgada em definitivo antes do início do período eleitoral de 2020.
+
+85. A Requerente protesta, desde já, pela produção de todas as provas em Direito
+
+admitidas.
+
+86. No mérito, a ANJ pede seja julgada procedente in totum a presente ADI, a fim
+
+de que seja:
+
+(i) declarada a inconstitucionalidade das restrições impostas pelo caput do
+art. 43 da Lei nº 9.504/97 às propagandas eleitorais pagas realizadas
+em veículos impressos tradicionais, ante a incompatibilidade das
+restrições temporal (“até a antevéspera das eleições”); espacial (“no
+espaço máximo, por edição, de 1/8 (um oitavo) de página de jornal
+
+
+[[pagina 35 | nativo]]
+padrão e de 1/4 (um quarto) de página de revista ou tabloide”); e
+quantitativa (“até 10 (dez) anúncios de propaganda eleitoral, por
+veículo, em datas diversas”) com a Carta de 1988, sem que haja
+repristinação de normas com restrições similares à revogada pela
+declarada inconstitucional;
+
+(ii) fixada interpretação conforme a Constituição ao art. 57-C, caput e §1º,
+inc. I, da Lei nº 9.504/97, de modo a afastar a incidência da proibição
+da veiculação de qualquer tipo de propaganda eleitoral paga na internet
+em sites de toda e qualquer organização econômica que produza,
+veicule e/ou divulgue notícias voltadas ao público brasileiro, por
+qualquer meio de comunicação, impresso ou digital, em conformidade
+com os dispositivos constitucionais elencados ao longo da exordial; e
+
+(iii) declarados inconstitucionais, por arrastamento, os arts. 24, caput e §1º,
+inciso I, e 36 da Res. TSE nº 23.551/17, na medida em que
+reproduzem as normas legais acima indicadas, ou qualquer outras que
+venham a substituí-las.
+
+87. Em cumprimento ao disposto no art. 272, § 2º, do Código de Processo Civil, a
+
+autora informa que todas as intimações e publicações referentes a este processo sejam
+
+feitas, exclusivamente, sob pena de nulidade, em nome dos subscritores desta peça, no
+
+endereço constante do timbre.
+
+88. Atribui-se à causa, para efeitos fiscais, o valor de R$ 1.000,00 (mil reais).
+
+Nestes termos,
+Pede deferimento.
+Brasília/DF, 09 de dezembro de 2019.
+
+GUSTAVO BINENBOJM ANDRÉ CYRINO
+OAB/DF Nº 58.607 OAB/DF Nº 58.605
+
+RAFAEL L. F. KOATZ ALICE VORONOFF
+OAB/DF Nº 46.142 OAB/DF Nº 58.608
+
+RENATO TOLEDO CESAR HENRIQUE LIMA
+OAB/RJ Nº 188.862 OAB/RJ Nº 228.249
+
+
+[[pagina 36 | nativo]]
+ROL DE DOCUMENTOS
+
+Doc. 01 – Procuração outorgada aos advogados signatários;
+
+Doc. 02 – Atos constitutivos, ata da assembleia de eleição da atual diretoria e comprovante
+
+de inscrição no CNPJ, lista de associados;
+
+Doc. 03 – Publicação da Lei nº 9.504, de 30 de setembro de 1997, no Diário Oficial da
+
+União, e da Lei nº 11.300, de 10 de maio de 2006; da Lei nº 12.034, de 29 de
+
+setembro de 2009 e da Lei nº 13.488, de 06 de outubro de 2017, que alteraram a
+
+redação dos dispositivos impugnados;
+
+Doc. 04 – Publicação da Resolução nº 23.551, de 18 de dezembro de 2017, no Diário de
+
+Justiça Eletrônico do Tribunal Superior Eleitoral – TSE nos dias 05/02/2018 e
+
+14/05/2018.
+
+

@@ -1,0 +1,1233 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO RICARDO LEWANDOWSKI DO COLENDO SUPREMO
+TRIBUNAL FEDERAL.
+
+SISTEMA ELEITORAL – REGRAS – QUOCIENTE –
+APLICAÇÃO – SOBRAS ELEITORAIS – CADEIRAS –
+DISTRIBUIÇÃO.
+Possibilidade de na terceira fase da distribuição das sobras
+no cálculo das maiores médias (art. 109, III, do CE) sejam
+contemplados todos os partidos que participaram do pleito,
+independentemente do quociente eleitoral alcançado, em
+atenção aos princípios estabelecidos na Constituição da
+República.
+
+PODEMOS, pessoa jurídica de direito privado, devidamente inscrito no CNPJ sob o
+
+nº 01.248.362/0001-6, com sede no SHIS QI 9, Conj. 6, Casa 7, Lago Sul - Brasília/DF,
+neste ato representado por sua Presidente Nacional e representante legal RENATA
+
+HELLMEISTER DE ABREU, brasileira, casada, inscrita no RG sob nº 24.486.052/SSP-SP e
+
+inscrita no CPF sob o nº 183.729.888-20 e PARTIDO SOCIALISTA BRASILEIRO, pessoa
+jurídica de direito privado, inscrito no CNPJ sob o nº 01.421.697/0001-37, com sede na
+
+SCLN 304, Bloco A, Entrada 63, Sobreloja - Brasília-DF, CEP: 70736-510, e-mail para
+
+intimações: psb@psbnacional.org.br, telefone ((61) 3327.5196, neste ato representado por
+
+seu Presidente, CARLOS ROBERTO SIQUEIRA DE BARROS, brasileiro, inscrito no CPF sob o
+
+nº 084.316.204-04, vêm, respeitosamente, por seus advogados, com fundamento nos artigos
+102, I, “a” e “p”1, e 103, IV2, da Constituição da República de 1988 e art. 2º, VIII3, da Lei
+nº 9.868/99, perante Vossas Excelências, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com requerimento de medida cautelar
+
+objetivando conferir interpretação conforme à Constituição da República ao inciso III do art.
+
+109 do Código Eleitoral (Lei nº 4.737, de 15 de julho de 1965), na redação dada pelo art. 2º
+da Lei nº 14.211, de 01 de outubro de 2021, e, por arrastamento, ao art. 11, caput e § 4º, da
+
+1 Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe
+I - processar e julgar, originariamente: a) a ação direta de inconstitucionalidade de lei ou ato normativo
+federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (...) p) o
+pedido de medida cautelar das ações diretas de inconstitucionalidade; (...).
+2 2 Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (...) VIII - partido político com representação no Congresso Nacional; (...).
+3 3 Art. 2o Podem propor a ação direta de inconstitucionalidade: (...) VIII - partido político com
+representação no Congresso Nacional; (...).
+
+
+[[pagina 2 | nativo]]
+Resolução/TSE nº 23.677, de 16 de dezembro de 2021, em atenção ao princípio do
+
+pluralismo político e ao Estado Democrático de Direito (art. 1º, V da CR/88), da igualdade
+
+de chances (art. 5 da CR/88), da soberania popular (art. 14 da CR/88), do sistema
+proporcional (45 da CR/88), da legalidade (art. 2º da CR/88) e do princípio da separação de
+
+poderes (art. 5º, II da CR/88), consoante as razões de fato e de direito a seguir aduzidas.
+
+DA LEGITIMIDADE ATIVA DE PARTIDO POLÍTICO
+
+Primeiramente, considera-se inequívoca a legitimidade ativa do Podemos para
+
+agir em sede de controle constitucional, uma vez que é Partido Político regularmente
+
+constituído perante o Tribunal Superior Eleitoral e possui representação no Congresso
+
+Nacional, nos termos da Lei nº 9.889/1999, artigo 2º, inciso I c/c do artigo 103, inciso
+VIII, da Constituição da República.
+
+Segundo a jurisprudência desse c. Supremo Tribunal Federal, a legitimidade ativa
+de agremiação partidária com representação no Congresso Nacional “não sofre as
+
+restrições decorrentes da exigência jurisprudencial relativa ao vínculo de pertinência
+temática nas ações diretas”.4
+
+Dessa forma, os partidos políticos possuem a denominada legitimidade ativa
+
+universal para provocação do controle de constitucionalidade, de modo que resta clara a
+legitimidade do Podemos para a propositura da presente ação.
+
+NORMAS IMPUGNADAS
+
+A presente ação direta de inconstitucionalidade tem por escopo conferir interpretação
+
+conforme à Constituição da República ao inciso III do art. 109 do Código Eleitoral (Lei nº
+4.737, de 15 de julho de 1965), na redação dada pelo art. 2º da Lei nº 14.211, de 01 de
+
+outubro de 2021, e, por arrastamento, ao art. 11, caput e § 4º, da Resolução/TSE nº 23.677,
+
+de 16 de dezembro de 2021, em atenção ao princípio do pluralismo político e ao Estado
+Democrático de Direito (art. 1º, V da CR/88), da igualdade de chances (art. 5 da CR/88), da
+
+soberania popular (art. 14 da CR/88), do sistema proporcional (45 da CR/88), da legalidade
+
+4 ADI n. 1.407-MC, Rel. Min. Celso de Mello, DJ 24.11.2000.
+
+
+[[pagina 3 | nativo]]
+(art. 2º da CR/88) e do princípio da separação de poderes (art. 5º, II da CR/88), tudo em
+
+conformidade com os fundamentos que serão detalhados em tópico próprio.
+
+A par de evidenciar os vícios que inquinam a norma, faz-se oportuna a transcrição
+
+da integralidade de seus dispositivos, a saber:
+
+Código Eleitoral - Lei nº 4.737, de 15 de julho de 1965
+
+Institui o Código Eleitoral
+
+Art. 109. Os lugares não preenchidos com a aplicação dos
+quocientes partidários e em razão da exigência de votação nominal
+
+mínima a que se refere o art. 108 serão distribuídos de acordo com as
+
+seguintes regras:
+[..]
+
+III - quando não houver mais partidos com candidatos que
+
+atendam às duas exigências do inciso I deste caput, as cadeiras serão
+distribuídas aos partidos que apresentarem as maiores médias.
+
+ Inciso III com redação dada pelo art. 1º da Lei nº
+
+14.211/2021.
+
+RESOLUÇÃO Nº 23.677, DE 16 DE DEZEMBRO DE 2021
+
+Dispõe sobre os sistemas eleitorais, a destinação dos votos na
+
+totalização, a proclamação dos resultados, a diplomação e as ações
+
+decorrentes do processo eleitoral nas eleições gerais e municipais.
+
+Art. 11. As vagas não preenchidas com a aplicação do quociente
+
+partidário e a exigência de votação nominal mínima, a que se refere o
+art. 8º desta Resolução, serão distribuídas pelo cálculo da média, entre
+
+todos os partidos políticos e as federações que participam do pleito,
+
+desde que tenham obtido 80% (oitenta por cento) do quociente
+eleitoral (Código Eleitoral, art. 109, caput, III e § 2º, I e Lei nº 9.504,
+
+art. 6º-A) .
+
+
+
+[[pagina 4 | nativo]]
+§ 4º Quando não houver mais partidos políticos ou federações
+
+com candidatas ou candidatos que atendam à exigência de votação
+
+nominal mínima estabelecida no § 2º deste artigo, as cadeiras serão
+distribuídas aos partidos políticos ou federações que apresentem as
+
+maiores médias (Código Eleitoral, art. 109, III e Lei nº 9.504, art. 6º-
+
+A) .
+
+Portanto, a presente ação direta objetiva conferir interpretação conforme à
+
+Constituição da República ao inciso III do art. 109 do Código Eleitoral (Lei nº 4.737, de 15
+
+de julho de 1965), na redação dada pelo art. 2º da Lei nº 14.211, de 01 de outubro de 2021,
+
+e, por arrastamento, ao art. 11, caput e § 4º, da Resolução/TSE nº 23.677, de 16 de dezembro
+
+de 2021, em atenção ao princípio do pluralismo político e ao Estado Democrático de Direito
+(art. 1º, V da CR/88), da igualdade de chances (art. 5 da CR/88), da soberania popular (art.
+
+14 da CR/88), do sistema proporcional (45 da CR/88), da legalidade (art. 2º da CR/88) e do
+
+princípio da separação de poderes (art. 5º, II da CR/88)
+
+Vejamos, agora, as inconstitucionalidades perpetradas.
+
+1) QUANTO AO ERRO NA FORMA DE CÁLCULO ADOTADO PELA JUSTIÇA ELEITORAL NA
+DISTRIBUIÇÃO DAS CADEIRAS PARA O CARGO DE DEPUTADO FEDERAL
+
+Como se sabe, a Lei nº 12.211 de 1 º de outubro de 2021 alterou diversos
+
+dispositivos da Lei nº 4.737, de 15 de julho de 1965 (Código Eleitoral), e da Lei n º 9.504,
+
+de 30 de setembro de 1997 (Lei das Eleições), para ajustar a sua redação à vedação
+constitucional de coligações nas eleições proporcionais; para fixar critérios para a
+
+participação dos partidos e dos candidatos na distribuição dos lugares pelo critério das
+
+maiores médias nas eleições proporcionais; e para reduzir o limite de candidatos que cada
+
+partido poderá registrar nas eleições proporcionais.
+
+Com isso, a Lei nº 14.211/2021, promoveu profundas reformas no sistema
+eleitoral pátrio e dentre as diversas alterações promovidas, destaca-se a distribuição das
+
+vagas das sobras que segue as seguintes etapas:
+
+
+
+[[pagina 5 | nativo]]
+1ª FASE DE DISTRIBUIÇÃO DAS VAGAS: Quociente Eleitoral
+
+atingido pelo partido político, desde que tenha candidato com votação
+
+nominal mínima de pelo menos 10% do Quociente Eleitoral, que é regida
+pelos artigos 106, 107 e 108 do Código Eleitoral.
+
+Requisito 1: o partido deve ter obtido votação igual ou superior ao
+Quociente Eleitoral
+
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒 𝑣𝑜𝑡𝑜𝑠 𝑣á𝑙𝑖𝑑𝑜𝑠
+𝑄𝑢𝑜𝑐𝑖𝑒𝑛𝑡𝑒 𝐸𝑙𝑒𝑖𝑡𝑜𝑟𝑎𝑙 =
+𝑁ú𝑚𝑒𝑟𝑜 𝑑𝑒
+c𝑎𝑑𝑒𝑖𝑟𝑎𝑠
+
+Requisito 2: o partido deve ter candidato com votação igual ou
+
+superior a 10% do Quociente Eleitoral:
+
+2ª FASE DE DISTRIBUIÇÃO DAS VAGAS – PRIMEIRA
+
+ETAPA DE DISTRIBUIÇÃO DAS SOBRAS: Quando não houver mais
+partidos que tenham alcançado os dois requisitos da fase anterior requisitos
+
+(quociente eleitoral + candidato com votação nominal de pelo menos 10%),
+
+os lugares não preenchidos serão distribuídos pela regra prevista no artigo
+109, I, e II, cumulado com o § 2º, do Código Eleitoral, que também prevê
+
+requisitos cumulativos.
+
+Para participar da distribuição das sobras, o § 2º do art. 109 do Código
+
+Eleitoral prevê que o partido deve atender, cumulativamente, duas exigências:
+
+Requisito 1: o partido deve ter obtido pelo menos 80% do
+
+Quociente Eleitoral
+
+Requisito 2: o partido deve ter candidato com votação igual ou superior
+a 20% do Quociente Eleitoral
+
+Cálculo da maior média: a obtenção da média se apresenta a partir da
+divisão do número de votos válidos atribuídos a cada partido pelo número de
+
+lugares por ele obtido mais 1 (um). Esse processo se repete até se preencher todas
+
+as vagas restantes, nos moldes do art. 109, II, do Código Eleitoral.
+
+
+
+[[pagina 6 | nativo]]
+3ª FASE DE DISTRIBUIÇÃO DAS VAGAS - SEGUNDA
+
+ETAPA DE
+DISTRIBUIÇÃO DAS SOBRAS: quando não houver mais partidos
+
+que tenham alcançado os dois requisitos (80% dos votos válidos + candidato
+
+com votação nominal mínima de pelo menos 20%), as cadeiras serão
+distribuídas aos partidos que apresentarem as maiores médias, prevista no
+
+art. 109, III, do Código Eleitoral.
+
+Ou seja, a Lei nº 14.211/2021, ao dar nova redação ao § 2º do art. 109 do CE, não
+
+só retomou o quociente eleitoral como cláusula de exclusão, definindo o mínimo de 80%,
+
+como criou a exigência de o candidato possuir votação mínima de 20% do quociente
+eleitoral.
+
+Referida lei previu então DUAS cláusulas de exclusão para esta fase dos
+incisos I e II do art. 109. Se o partido não atender, cumulativamente, às duas cláusulas,
+
+não pode, em tese, participar da distribuição das sobras.
+
+Então, como distribuir as duas últimas vagas das sobras quando nenhum
+
+partido atende, cumulativamente, às duas exigências de partido com 80% do quociente
+
+eleitoral e candidato com 20% do quociente eleitoral?
+
+O artigo 109, inciso III, do Código Eleitoral define que “quando não houver
+
+mais partidos com candidatos que atendam às DUAS EXIGÊNCIAS DO INCISO I
+(80% do quociente eleitoral + candidato com 20% do quociente eleitoral) deste caput,
+
+as cadeiras serão distribuídas aos partidos que apresentarem as maiores médias”,
+
+sem qualquer restrição.
+
+Com efeito, não faria sentido que o dispositivo normativo fizesse referência às
+
+duas exigências do inciso I, se apenas uma delas - candidato com votação nominal
+igual ou superior a 20% - pudesse ser afastada nessa fase de distribuição das sobras
+
+prevista no inciso III, tal como pretendeu o c. TSE.
+
+No entanto, segundo o que previsto na Resolução TSE nº 23.677/2021, a partir
+
+
+
+[[pagina 7 | nativo]]
+de interpretação extensiva do Código Eleitoral, criou-se requisito não previsto no
+
+Código Eleitoral, qual seja, a maior média somente deve ser calculada entre os
+
+partidos que tenham obtido o primeiro requisito da fase anterior, ou seja, pelo menos
+80% do Quociente Eleitoral:
+
+Art. 11. As vagas não preenchidas com a aplicação do quociente
+partidário e a exigência de votação nominal mínima, a que se refere o art. 8º
+
+desta Resolução, serão distribuídas pelo cálculo da média, entre todos os
+
+partidos políticos e as federações que participam do pleito, desde que tenham
+
+obtido 80% (oitenta por cento) do quociente eleitoral (Código Eleitoral, art.
+
+109, caput, III e § 2º, I e Lei nº 9.504, art. 6º-A)
+
+§ 4º Quando não houver mais partidos políticos ou federações com
+candidatas ou candidatos que atendam à exigência de votação nominal
+
+mínima estabelecida no § 2º deste artigo, as cadeiras serão distribuídas aos
+
+partidos políticos ou federações que apresentem as maiores médias (Código
+Eleitoral, art. 109, III e Lei nº 9.504, art. 6º-A) .
+
+Segundo o que previsto no Código Eleitoral, a partir da Lei nº 14.211/2021, a
+
+apuração da maior média deve se dar dentre todos os partidos que participaram
+
+da eleição, pois não se estabelece no art. 109, inciso III, do Código Eleitoral
+
+nenhum outro requisito ou distinção para que a agremiação possa participar
+dessa fase da distribuição das sobras.
+
+Caso a norma quisesse atribuir essa restrição nessa fase do artigo 109, inciso
+III, do Código Eleitoral, teria apenas afastado a exigência de votação nominal mínima,
+
+enão faria referência expressa ao afastamento das duas exigências cumuladas:
+
+partidos que tenham obtido pelo menos 80% do quociente eleitoral + candidato com
+
+votação nominal mínima de 20% do quociente eleitoral.
+
+Quanto ao tema, vejamos trecho da fala do Excelentíssimo Deputado Federal
+Isnaldo Bulhões, na Sessão parlamentar do dia 9 de setembro de 2021, em que se
+
+apreciou o Projeto de Lei nº 783/2021, que deu origem à Lei nº 14.211/2021, que
+
+orientou a bancada do MDB na votação do referido projeto que culminou com a
+aprovação da lei que conferiu nova redação ao parágrafo 2º do artigo 109 do Código
+
+
+
+[[pagina 8 | nativo]]
+Eleitoral (https://youtu.be/QJ7YQChADeY?t=1872 - destaque: 31:09 até 32:03)
+
+O parlamentar afirmou taxativamente que, por meio ACORDO durante a fase de
+tramitação da proposta legislativa, estipulou-se que todos os partidos, mesmo os que não
+
+alcançassem o quociente eleitoral, ou pelo menos 80%, ou as candidaturas não atingissem
+
+a cláusula de desempenho individual, de pelo menos 20% do quociente eleitoral, também
+participariam da disputa das sobras, na fase subsequente (CE, art. 109, inciso III). Veja a
+
+transcrição:
+
+O SR. PRESIDENTE (Arthur Lira. PP - AL) - Como orienta o MDB,
+
+Deputado Isnaldo Bulhões Jr.?
+
+O SR. ISNALDO BULHÕES JR. (MDB - AL. Pela ordem. Sem revisão
+do orador.) - Presidente, o MDB orienta “sim”. É verdade que defendíamos
+
+a disputa pelas vagas da sobra da média para os partidos apenas que
+
+atingissem o quociente eleitoral e a cláusula de desempenho individual de
+candidato de 20%, mas, desde ontem, trabalhamos de forma conjunta,
+
+dialogamos bastante, a negociação avançou, e chegamos ao texto ideal. Em
+
+tempo, quero parabenizar o Relator, Deputado Luis Tibé, pela sua
+
+compreensão, traduzindo o substitutivo, o acordo dentre as lideranças e os
+
+partidos na quase totalidade dos que têm assento neste plenário.
+
+Nesse sentido, em 22 de setembro de 2021, prosseguem os demais senadores
+
+afirmando que se nenhum candidato chegasse a 20%, prossegue-se para a terceira fase
+
+onde não se exige mais cláusula de desempenho individual e pela literalidade do inciso
+III do artigo 109, que aponta apenas as maiores médias, devem ser contemplados todos
+
+os partidos que participaram do pleito independentemente do quociente eleitoral:
+
+Senador Marcelo Castro: “Então, nós entendemos que o projeto é
+
+razoável, Sr. Presidente. Um partido que não tenha nem 80%, evidentemente,
+
+não deve participar das sobras. E já que o partido não alcançou o quociente
+eleitoral, se exige do candidato que ele tenha, pelo menos, 20% do quociente
+
+eleitoral para ter alguma representatividade e chegar aqui respaldado pelo
+
+voto popular.”
+
+
+
+[[pagina 9 | nativo]]
+Senador Telmario: “Deixe-me explicar: há duas condições. É preciso
+
+o partido conseguir 80% e o candidato mais votado desse partido precisa ter
+
+20% do coeficiente. São duas condições. (…)”
+Senador VANDERLAN CARDOSO (relator) - Sim. Ao nosso
+
+digníssimo amigo Telmário Mota, da nossa querida Roraima.
+
+Senador Telmário, com relação ao questionamento, à primeira
+pergunta que V. Exa. me fez, sobre o coeficiente eleitoral. Certo?
+
+Os 80% vou simplificar em números. Por exemplo, Senador, se o
+
+coeficiente eleitoral for de mil votos, o partido precisa ter pelo menos 800
+
+votos. Isso é o partido todo. O candidato desse partido precisaria ter, pelo
+
+menos, 20% desse total, ou seja, 200 votos.
+
+NOTA TAQUIGRAFICA ANEXADA.
+
+Com base no pluralismo político, na igualdade de chances e no voto como valor
+
+igual para todos, na literalidade do art. 109, III, há de ser dada interpretação conforme
+ao § 4º da Resolução TSE nº 23.677/2021 para declarar que, havendo vagas e não
+
+existindo mais nenhum partido que atenda à regra cumulativa do 80/20, TODOS os
+
+partidos devem participar da distribuição das sobras, sendo as vagas conferidas ao
+
+partido que atingir as maiores médias, nos termos do inciso III do art. 109 do Código
+
+Eleitoral.
+
+Vale destacar que o sistema proporcional tem sofrido muitas alterações visando
+
+o seu aprimoramento no decorrer das últimas eleições, sendo que essa é a primeira vez
+
+que a redação atual do artigo 109 dada pela Lei nº 14.211/2021 está sendo aplicada,
+devendo se ter uma atenção especial para que a sua interpretação seja dada a partir dos
+
+parâmetros constitucionais que regem essa temática.
+
+As alterações legislativas se aproximam de uma tentativa de equilíbrio entre
+
+essas variáveis do sistema proporcional, na medida em que, nitidamente, visam impedir
+
+o "arrastamento" de candidatos com votação inexpressiva às cadeiras legislativas (e que,
+caso eleitos, não refletiriam a vontade popular registrada em urna), tão somente em função
+do quociente partidário obtido pela legenda.2
+
+Portanto, nos termos do inciso III do artigo 109, CE, a participação de todos os
+
+
+
+[[pagina 10 | nativo]]
+partidos na distribuição das sobras independentemente do percentual de quociente
+
+eleitoral, quando o partido não tem candidato que atenda à exigência de votação nominal
+
+mínima, visa evitar distorções no nosso sistema de representação proporcional,
+prestigiando a votação conquistada pelas forças políticas, impedindo que candidatos se
+
+elejam com votação inexpressiva, sem que tenham se apresentado adequadamente à
+
+sociedade, prestigiando a votação conquistada pelas forças políticas, impedindo que
+candidatos se elejam com votação inexpressiva, sem que tenham se apresentado
+
+adequadamente à sociedade.
+
+3) QUANTO À NECESSÁRIA INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO DA
+
+REPÚBLICA, OBSERVANDO O PLURALISMO POLÍTICO E O ESTADO DEMOCRÁTICO DE
+
+DIREITO (ART. 1º, V DA CR/88), A IGUALDADE DE CHANCES (ART. 5 DA CR/88), A
+SOBERANIA POPULAR (ART. 14 DA CR/88), O SISTEMA PROPORCIONAL (45 DA CR/88), A
+
+LEGALIDADE (ART. 2º DA CR/88) E O PRINCÍPIO DA SEPARAÇÃO DE PODERES (ART. 5º, II
+
+DA CR/88) PARA EVITAR DISTORÇÕES AINDA MAIORES DA REPRESENTAÇÃO
+PROPORCIONAL DO ELEITORADO
+
+O sistema de representação proporcional, conquanto tenha por finalidade
+
+assegurar a partidos quantidade de representantes nas casas legislativas correlacionada ao
+montante de votos que eles e seus candidatos obtiveram no pleito, não é refratário ao
+
+critério de ocupação de cadeiras resultantes das sobras eleitorais por legenda que não
+
+tenha obtido o quociente eleitoral.
+
+A possibilidade de todos os partidos que participaram do pleito poder concorrer à
+
+distribuição dos lugares não significa ruptura com o sistema proporcional ou com cláusula
+de desempenho expressa pelo quociente eleitoral. O sistema proporcional não alija,
+
+necessariamente, a ocupação de vagas no Poder Legislativo por partidos que, embora não
+
+alcancem o quociente eleitoral, tenham obtido expressiva votação no pleito.
+
+Além disso, ao eventualmente se considerar a fórmula da maior média associada
+
+com a cláusula que exclui das sobras os partidos que não alcançarem o quociente eleitoral
+acaba-se por exercer efeito redutor sobre o sistema partidário brasileiro. A interpretação
+
+que ora se pretender dar ao inciso III do art. 109 do Código Eleitoral atenua esse efeito
+
+ao considerar que os partidos que não atingirem o quociente eleitoral não ficarão
+
+
+
+[[pagina 11 | nativo]]
+impedidos de participar do cálculo da distribuição das sobras. O que, na prática, beneficia
+
+as pequenas agremiações que obtiveram votação expressiva no pleito em função da
+
+atuação de determinado (s) candidato (s) e prestigia a vontade popular expressada nas
+urnas.
+
+O sistema eleitoral proporcional, observa Marcos Ramayana, visa, em seus
+critérios matemáticos, a “atender a participação de um número maior de partidos
+
+políticos por critérios equitativos, e assim, refletir na Câmara Municipal, nas
+
+Assembleias Legislativas, na Câmara Legislativa – Distrito Federal, e Câmara dos
+
+Deputados (eleições de vereadores, deputados estaduais, distritais e federais), uma mais
+ampla participação da cidadania ativa pelo exercício do voto”.5
+
+Amplia-se essa participação com a abertura de espaço para pequenos partidos,
+
+mediante critério de distribuição de vagas remanescentes que promove um acesso mais
+
+igualitário das minorias participativas no processo eletivo (princípio da igualdade de
+chances).
+
+O princípio da igualdade de chances deve ser conferido “não apenas aos eleitores
+
+individualmente considerados, mas também aos partidos políticos, como uma garantia
+
+de que gozarão das mesmas oportunidades em todas as fases do processo eleitoral, aqui
+
+compreendido como o que precede, o que sucede e o que ocorre durante o período das
+eleições”.6
+
+Ao permitir que as pequenas agremiações ocupem vagas no Legislativo, além de
+emprestar igualdade ao valor do voto, atende ao postulado do pluripartidarismo. Com a
+
+distribuição das vagas remanescentes a todos os partidos que participaram do pleito,
+
+prestigia-se o ideário político dos partidos e a presunção de que os votos dados a seus
+
+candidatos sufraguem ideologia ou estilo de atuação em particular. Adequa-se, portanto,
+
+à própria finalidade do sistema de representação proporcional, que é assegurar aos
+
+partidos quantidade de representantes nas Casas Legislativas correlacionada ao montante
+de votos que eles e seus candidatos obtiveram no pleito.
+
+5 RAMAYANA, Marcos. Direito Eleitoral. 15 ed. Rio de Janeiro: Impetus, 2016, p. 183.
+6 ADI 4.617/DF, Rel. Min. Luiz Fux, DJe 12.02.2014.
+
+
+[[pagina 12 | nativo]]
+Não se esta aqui a desnaturar o sistema proporcional. Pelo contrário, ao não mais
+
+impedir que os partidos que não atingirem o quociente eleitoral participem do cálculo da
+
+distribuição das sobras, confere equilíbrio à relação entre o resultado das urnas e a
+representação-democrática no Parlamento, duas forças essenciais a esse modelo de
+
+representação.
+
+No campo da teoria política, os professores Norberto Bobbio, Nicola Matteucci e
+
+Gianfranco Pasquino explicitam, de maneira didática, os contornos gerais da questão da
+
+seguinte forma:
+
+O princípio proporcional acompanha a moderna democracia de massas e
+
+a ampliação do sufrágio universal. Partindo da consideração de que numa
+assembleia representativa deve-se criar espaço para todas as necessidades, todos
+
+os interesses, todas as ideias que animam um organismo social, o princípio
+
+proporcional procura estabelecer a perfeita igualdade de voto e dar a todos os
+eleitores o mesmo peso, prescindindo de preferência manifesta […] Quanto aos
+
+sistemas proporcionais, o argumento principal a seu favor consiste na garantia
+
+que eles oferecem às minorias contra os abusos das maiorias. Este argumento
+
+assume toda a importância nos sistemas políticos nos quais o fair plav
+democrático ainda não está bem enraizado.7
+
+Na visão do Min. Marco Aurélio, “eis a razão de ser da opção constituinte pelo
+
+sistema representativo, consideradas as eleições parlamentares: viabilizar a
+
+participação das minorias na formação da “vontade geral” da Nação, tomando de
+empréstimo a locução consagrada por Jean-Jacques Rousseau, mediante o afastamento
+
+do puro e simples critério majoritário, levando-se em conta a proporcionalidade dos
+
+votos atribuídos às diversas facções político ideológicas.”
+
+Prossegue o Min. Marco Aurélio quando do julgamento da ADI nº 5947, que tinha
+
+por objeto o art. 109-§2.º da Lei 4.737, de 15 de julho de 1965 (Código Eleitoral), na
+redação conferida pelo art. 3.º da Lei 13.488, de 6 de outubro de 2017 (minirreforma
+
+eleitoral de 2017), ao se considerar no cômputo das sobras eleitorais todos os partidos
+
+que participaram do pleito, permite-se que agremiações menores, geralmente
+
+7 Dicionário de política. Brasília: Editora Universidade de Brasília, 1986, p 1175/1176.
+
+
+[[pagina 13 | nativo]]
+vinculados à defesa de demandas de grupos socialmente minoritários, tenham
+
+representação parlamentar, evitando-se que candidatos bem votados de siglas que não
+
+alcançaram o quociente eleitoral fiquem de fora do cálculo. Destaque-se ainda referido
+trecho do seu voto:
+
+No Estado Democrático de Direito, a nenhuma maioria, organizada em
+torno de qualquer ideário ou finalidade – por mais louvável que se apresente –, é
+
+dado tirar ou restringir os direitos e liberdades fundamentais dos grupos
+
+minoritários, vedando-lhes a possibilidade de influírem nos destinos da sociedade
+
+como um todo, participando plenamente da vida pública, inclusive mediante a
+
+fiscalização dos atos determinados pela maioria. Ao revés, dos governos
+
+democráticos espera-se o resguardo das prerrogativas e da identidade própria
+dos quais, até numericamente em desvantagem, porventura requeiram mais da
+
+força do Estado como anteparo para que lhes esteja preservada a matriz cultural
+
+ou, no limite, continuem existindo. Democracia incapaz de legitimar esse convívio
+não merece tal nome, sinalizando, ao contrário, a face despótica da
+
+inflexibilidade e da intransigência, atributos normalmente afetos a regimes
+
+autoritários, marcados pela escravidão da minoria pela maioria.
+
+Registre-se que a referida ADIN nº 5.947 decidiu pela constitucionalidade
+
+serem contemplados na distribuição das sobras todos os partidos que participaram do
+pleito, o que a Lei nº 14.211/2021 não alterou, na medida em que apenas se limitou a
+
+definir quais partidos poderiam participar da segunda fase da distribuição das sobras
+
+(com pelo menos 80% do quociente eleitoral) e a respectiva cláusula de desempenho
+individual dos seus candidatos (pelo menos 20% do quociente eleitoral).
+
+Mas, em havendo partido ou candidato que porventura não alcançasse uma
+
+dessas exigências, em absolutamente nada a reforma legislativa de 2021 alterou o
+
+disposto no inciso III do artigo 109, CE, no sentido de que na terceira fase da
+
+distribuição das sobras, " III - quando não houver mais partidos com candidatos que
+atendam às duas exigências do inciso I deste caput, as cadeiras serão distribuídas aos
+
+partidos que apresentarem as maiores médias. (Redação dada pela Lei nº14.211, de
+
+2021)
+
+
+
+[[pagina 14 | nativo]]
+Daí porque prossegue o Ministro Marco Aurélio ao apontar que “ao flexibilizar
+
+a exigência de votação mínima para que os partidos possam concorrer à obtenção de
+
+assentos no Legislativo a partir das “sobras eleitorais”, cuidou o Congresso
+Nacional de optar por uma entre as várias fórmulas possíveis para disciplinar a
+
+distribuição das cadeiras não preenchidas após a aplicação dos divisores previstos
+
+na legislação de regência, sem discrepar do cerne do sistema de representação
+proporcional – especialmente porque pretendeu-se reforçar o principal traço
+
+distintivo desta fórmula eleitoral: a efetiva participação das minorias na arena
+
+político-institucional.”
+
+Em seu parecer, a d. Procuradoria Geral da República afirmou nos autos da
+
+ADI nº 5497 que “não extrapola a margem de conformação do legislador para
+definir o modelo de sistema de proporcional regra que deixe de exigir dos partidos
+
+ou coligações o quociente eleitoral como requisito indispensável para ocupação de
+
+vaga no Poder Legislativo.”
+
+A interpretação correta da norma, portanto, é no sentido de que na terceira fase da
+
+distribuição das sobras no cálculo das maiores médias sejam contemplados todos os
+
+partidos que participaram do pleito, independentemente do quociente eleitoral alcançado,
+
+alcançando-se o que já pontuava o Min. Dias Toffoli na ADI nº 5497, “ao ampliar a
+
+abrangência da distribuição das sobras eleitorais, deu maior efetividade ao princípio
+da proporcionalidade”. Na ocasião, muito bem exemplificado pelo Ministro, ao
+
+relembrar a seguinte situação:
+
+Havia muitos casos. Lembro-me que, nas eleições de 2002 ou 2006, houve
+
+parlamentares cujos partidos não alcançaram o quociente eleitoral: o mais
+
+votado no Tocantins; outro, em Alagoas, que foi um dos mais votados naquelas
+
+eleições. Eles não participavam das sobras eleitorais, e a maioria - ou quase
+
+todos que entravam pelas sobras - entrou com muito menos votos do que aqueles
+
+cujos partidos não tinham alcançado o quociente eleitoral, mas tinham tido uma
+enormidade de votos.
+
+Referida interpretação, portanto, evita a situação externada pelo Min. Dias
+Toffoli e prestigia o ideário político dos partidos e a presunção de que votos dados a
+
+
+
+[[pagina 15 | nativo]]
+seus candidatos sufraguem ideologia ou estilo de atuação em particular.
+
+A partir disso, importante destacar os ensinamentos de Hans Kelsen8 acerca
+da necessidade da proteção das minorias nos parlamentos, permitindo que o indivíduo
+
+seja efetivamente representado no Poder Legislativo de modo a evitar a ditadura das
+
+maiorias, senão vejamos:
+
+Esta proteção da minoria é a função essencial dos chamados direitos
+
+fundamentais e liberdades fundamentais, ou direitos do homem e do cidadão,
+
+garantidos por todas as modernas constituições das democracias
+
+parlamentares. Esses direitos apresentam-se, na origem, como uma proteção
+
+do indivíduo contra o poder executivo, que, apoiando-se ainda no princípio
+da monarquia absoluta, tem o direito de, no ‘interesse público’, intervir na
+
+esfera da liberdade do próprio indivíduo toda vez que a lei não o vete
+
+expressamente (KELSEN, 2000, p. 67).
+
+Por sua vez, Jairo Nicolau indica que a principal qualidade do sistema
+
+proporcional é a representatividade das mais diversas ideologias do eleitorado no
+Parlamento:9
+
+A principal virtude da representação proporcional, segundo seus
+
+defensores, estaria em sua capacidade de espelhar no Legislativo todas as
+preferências e opiniões relevantes existentes na sociedade. O inspirador
+
+dessa concepção foi o líder político francês Mirabeau, que, durante a
+
+Constituinte de Provença, em 1789, defendeu que a função do Parlamento era
+refletir o mais fielmente possível as feições do eleitorado [...]
+
+Olavo Brasil de Lima Júnior também reconhece a vantagem da
+
+representação proporcional em “garantir que o Poder Legislativo seja o espelho da
+Nação, em toda sua diversidade social e política” (LIMA JÚNIOR, 1997, p. 11).10
+
+Ocorre que as alterações legislativas que impactem o sistema proporcional não
+
+8 7 KELSEN, Hans. A Democracia. 2a ed. São Paulo: Martins Fontes, 2000.
+9 NICOLAU, Jairo. Sistemas Eleitorais. 5a ed. Rio de Janeiro: Ed. FGV, 2004, p. 37.
+10 LIMA JÚNIOR, Olavo Brasil de. A legislação eleitoral e a competição política. Revista do legislativo,
+Belo Horizonte: Assembleia Legislativa do Estado de Minas Gerais, n. 20, p. 9- 13, out./dez. 1997.
+
+
+[[pagina 16 | nativo]]
+podem colocar em cheque a representatividade plural de ideias no Poder
+
+Legislativo, sob pena de que se transmude em sistema majoritário puro, ceifando as
+
+ideias e ideologias minoritárias.
+
+É exatamente a constatação da eleitoralista Eneida Desiree, ao lecionar que
+
+“embora o discurso das propostas seja por mais igualdade, mais democracia e mais
+representatividade, o sentido das alterações na Constituição e na legislação eleitoral
+
+e partidária demonstra que o que se busca é blindar os espaços nos parlamentos e
+
+no Poder Executivo da alternância de poder e da democratização” (SALGADO,
+2018, p. 75).11
+
+Nas eleições de 2022, para Deputado Federal, em apenas 4 (quatro) Unidades
+da Federação (Amapá, Distrito Federal, Rondônia e Tocantins), aplicou-se a regra do
+
+art. 109, inciso III, do Código Eleitoral, mais precisamente a regra prevista no
+
+parágrafo 4o do artigo 11 da Resolução TSE nº 23.677/2022, que gerou a
+parametrização do cálculo do Sistema de Totalização, mas permitindo que apenas os
+
+partidos que alcançaram 100% ou pelo menos 80% do Quociente Eleitoral,
+
+participassem da distribuição das sobras.
+
+A redução da representatividade da Câmara dos Deputados pode ser
+
+demonstrada pelo expressivo número de votos desconsiderados no pleito
+proporcional. O total de votos dados na eleição para a Câmara foi da ordem de
+
+109.300.281, sendo 105.127.585 nominais e 4.172.606 nas legendas partidárias, mas
+
+a soma dos votos dos eleitos chegou a apenas 60.501.119, praticamente a metade. O
+número de votos dados aos candidatos nos estados em que os partidos não atingiram
+
+80% do quociente eleitoral chegou a 13.979.918, os quais foram desconsiderados ou
+
+jogados na lata do lixo, num completo desrespeito para com esse contingente de
+
+eleitores, conforme tabela a seguir. Somente 28 dos 513 deputados se elegeram com
+
+seus próprios votos ou atingiram o quociente eleitoral, sendo que os 485 restantes se
+beneficiaram dos votos dos puxadores de seus partidos ou federações.12
+
+11 SALGADO, Eneida Desiree. Reforma Política. São Paulo: Contracorrente, 2018.
+12 Disponível em: https://congressoemfoco.uol.com.br/area/congresso-nacional/eleicao-proporcional-de-
+2022-governabilidade-em-prejuizo-da-representatividade/. Acesso em 21.10.2022.
+
+
+[[pagina 17 | nativo]]
+Na prática, a regra do art. 109, III, CE, acaba sendo aplicada nos Entes
+
+federativos com poucas vagas, onde poucos partidos fazem 80% do QE, e ficam com
+
+todas as vagas, gerando evidente desproporcionalidade da representação do eleitor na
+Câmara Federal.
+
+Vale ressaltar que, se não contemplar todos os partidos que participaram
+dopleito na fase da distribuição das sobras, independentemente do quociente eleitoral
+
+alcançado, a atual redação da regra do art. 109, III, do Código Eleitoral pode trazer
+
+situações esdrúxulas onde um partido pode acabar ficando com todas as vagas,
+
+caso só ele alcance o Quociente Eleitoral e nenhum outro faça 80% do QE, elegendo
+
+candidato que tenha obtido margem mínima de votos.
+
+É o que consta inclusive na petição inicial da ADI nº 7728, de relatoria do
+
+Ministro Ricardo Lewandowski, ainda não analisada pelo c. STF, que destaca a
+
+possibilidade de apenas um partido político obter todas as vagas para a Câmara dos
+Deputados, caso seja o único a obter os 80% do quociente eleitoral, desnaturando por
+
+completo o sistema proporcional brasileiro, senão vejamos:
+
+[...] registrar uma situação ainda mais inusitada: o que aconteceria se
+
+apenas um partido político X atingir o quociente eleitoral e nenhum outro
+
+atingir 80% do QE? Pela leitura do Código Eleitoral, ao que parece, tal
+partido X elegeria os parlamentares de acordo com o seu quociente partidário
+
+na primeira rodada do sistema proporcional. Na rodada das sobras, contudo,
+
+apenas tal partido participaria, já que, pela vedação do art. 109 do Código
+Eleitoral, apenas ele atingira, no mínimo, 80% do QE.
+
+E, nesse caso, quer parecer que a adequada interpretação da norma
+
+vigente é a de que esse partido X elegeria todas as cadeiras, na medida em
+
+que arestrição da votação nominal superior a 20% do QE é flexibilizada pelo
+
+inciso III do art. 109 e pelo § 4º do art. 11 da Resolução/TSE nº 23.677/2021.
+
+Ou seja, a composição de toda a casa/bancada parlamentar de um
+determinado ente federado seria de um mesmo partido político.
+
+Em termos práticos, a possibilidade de todos os partidos participarem da
+distribuição da 3ª fase de distribuição das sobras (CE, artigo 109, inciso III),
+
+
+
+[[pagina 18 | nativo]]
+independentemente do quociente eleitoral alcançado, volta-se a permitir que possam
+
+usufruir de representação parlamentar agremiações de menor porte, em regra vinculadas
+
+à defesa de demandas e reivindicações de grupos socialmente minoritários, as quais
+tenham obtido votações expressivas em função da atuação de determinado candidato, mas
+
+não em quantitativo suficiente para alcançar o número correspondente ao quociente
+
+eleitoral.
+
+Portanto, no presente caso, a utilização de regra interpretativa da “interpretação
+
+conforme” possibilita a manutenção no ordenamento jurídico da espécie normativa
+editada, desde que guarde valor interpretativo compatível com o texto constitucional.13
+
+Na hipótese tratada na presente ação, a interpretação correta da norma é no sentido de que
+
+os partidos políticos podem todos os partidos participem da distribuição da 3ª fase de
+distribuição das sobras (CE, artigo 109, inciso III), independentemente do quociente
+
+eleitoral alcançado.
+
+4) QUANTO À NORMA INOVADORA QUE CONFIGURA ATO
+
+NORMATIVO PRIMÁRIO, COM ABSTRAÇÃO, GENERALIDADE,
+
+AUTONOMIA JURÍDICA E IMPESSOALIDADE. VIOLAÇÃO AO
+
+PRINCÍPIO DA LEGALIDADE, AO PRINCÍPIO DA SEPARAÇÃO DE
+PODERES (ARTIGOS 2º E 5º, II DA CR11), AO ART. 22, I, DA CR E AO
+
+PRINCÍPIO DA ANUALIDADE
+
+Conforme já explicitado anteriormente, para além de subverter o sistema
+proporcional previsto atualmente no Código Eleitoral, em especial a partir da leitura da
+
+própria Constituição da República, a totalização dos votos a partir da parametrização do
+
+cálculo estabelecido pelo dispositivo do art. 11, caput e §4º da Resolução nº 23.677/21
+sem a interpretação sistemática, teleológica e conforme a Constituição da República do
+
+art. 109, III do Código Eleitoral, acaba por violar ainda o princípio da legalidade, ao
+princípio da separação de poderes (artigos 2º e 5º, II da CR13),o art. 22, I, da CR.
+
+Em que pese a autorização legal conferida pelo Código Eleitoral12, em seu artigo
+
+23, inciso IX, possibilitando ao c. TSE regulamentar a legislação eleitoral a partir da
+
+13 ADI 1.344/ES, Rel. Min. Moreira Alves; ADI 3046/SP, Rel. Min. Sepúlveda Pertence; ADI 3.368-9/DF,
+Rel. Min. Eros Grau; ADI 5971/DF, Rel. Min. Alexandre de Moraes.
+
+
+[[pagina 19 | nativo]]
+edição das resoluções, não conferiu a possibilidade de criar restrições de direitos ou
+
+cláusulas de exclusão não previstas na lei, elaborando norma inovadora que configura
+
+ato normativo primário, com abstração, generalidade, autonomia jurídica e
+impessoalidade.
+
+Dessa forma, em que pese eventual caráter de ato normativo secundário que
+permeia o conteúdo da Resolução nº 23.677/21, o art. 11, caput e §4º da Resolução tem
+
+forte conotação de ato normativo primário com usurpação de competência legislativa,
+
+uma vez que estabelece parametrização sem base constitucional e legal.
+
+Assim, sempre será cabível ação de controle concentrado em face de ato
+
+normativo primário, conforme decisões anteriores proferidas por esse Colendo Supremo
+Tribunal Federal:
+
+RESOLUÇÃO Nº 23.396/2013, DO TRIBUNAL SUPERIOR ELEITORAL.
+INSTITUIÇÃO DE CONTROLE JURISDICIONAL GENÉRICO E PRÉVIO À
+
+INSTAURAÇÃO DE INQUÉRITOS POLICIAIS. SISTEMA ACUSATÓRIO E
+
+PAPEL INSTITUCIONAL DO MINISTÉRIO PÚBLICO. (...) 3. Parâmetro de
+
+avaliação jurisdicional dos atos normativos editados pelo TSE: ainda que o
+
+legislador disponha de alguma margem de conformação do conteúdo concreto do
+
+princípio acusatório – e, nessa atuação, possa instituir temperamentos pontuais
+à versão pura do sistema, sobretudo em contextos específicos como o processo
+
+eleitoral – essa mesma prerrogativa não é atribuída ao TSE, no exercício de sua
+
+competência normativa atípica. 4. Forte plausibilidade na alegação de
+inconstitucionalidade do art. 8º, da Resolução nº 23.396/2013. Ao condicionar a
+
+instauração de inquérito policial eleitoral a uma autorização do Poder
+
+Judiciário, a Resolução questionada institui modalidade de controle judicial
+
+prévio sobre a condução das investigações, em aparente violação ao núcleo
+
+essencial do princípio acusatório. 5. Medida cautelar parcialmente deferida para
+
+determinar a suspensão da eficácia do referido art. 8º, até o julgamento definitivo
+da ação direta de inconstitucionalidade.14
+
+Além disso, a referida Resolução foi editada em 16 de dezembro de 2021, sendo
+
+14 STF - CAUTELAR NA ADI 5.104, DF, Rel. Min. ROBERTO BARROSO, 21/05/2014.
+
+
+[[pagina 20 | nativo]]
+que quaisquer inovações normativas trazidas por ela, que não sejam previstas em lei,
+
+somente podem ser objeto de aplicação no pleito de 2024, já que a referida norma foi
+
+publicada menos de um ano antes do pleito de 2022.
+
+Nessa esteira, o Ministro Luiz Fux e Carlos Eduardo Frazão também pontuam que
+
+a finalidade do princípio da anterioridade eleitoral é a de assegurar o pluralismo político
+no pleito (art. 1º, inciso V, da CR/88), “com igualdade de condições entre quem está no
+
+poder e quem está fora, para que os primeiros não criem regras de exceção, de última
+
+hora, em benefício próprio”. Rememora-se, no ponto, que essa Suprema Corte, ao longo
+
+dos anos, solidificou magistério jurisprudencial no que tange à importância do princípio
+
+da anualidade eleitoral para a segurança jurídica dos pleitos. Senão, vejamos:
+
+A necessidade de se garantir estabilidade ao processo eleitoral foi reconhecida
+
+pelo legislador constituinte originário ao estabelecer, no art. 16 da Constituição
+
+da República, que “a lei que alterar o processo eleitoral entrará em vigor na data
+de sua publicação, não se aplicando à eleição que ocorra até um ano da data de
+
+sua vigência”. A segurança jurídica e a estabilidade do direito impõem seja
+
+respeitado o devido processo legal eleitoral, cuja dinâmica fixa os parâmetros
+
+para a justa e igualitária competição no jogo político, sem o que as eleições não
+
+seriam, como têm de ser, instrumento imprescindível à concretização do Estado
+
+Democrático de Direito. Disso decorre que o art. 16 da Constituição da República
+visa proteger o processo eleitoral contra alterações legais casuísticas surgidas
+
+há menos de um ano antes das eleições, no claro intuito de preservar a segurança
+
+do direito e, reflexamente, a segurança jurídica lato sensu que, conforme
+salientado por José Afonso da Silva, se refere “à proteção dos direitos subjetivos
+
+em face das mutações formais do direito posto, em face especialmente da sucessão
+
+de leis no tempo e à necessidade de assegurar a estabilidade dos direitos
+adquiridos.15
+
+Entendimento contrário implica em violação ao princípio da anualidade previsto
+no artigo 16 da CR/88, pois é vedada a alteração de lei que reflita no processo eleitoral,
+
+há menos de um ano das eleições. Afinal, se o princípio da anualidade eleitoral deve ser
+
+15 Trecho extraído do voto proferido pela Ministra Cármen Lúcia, por ocasião do julgamento da ADI nº
+4307.
+
+
+[[pagina 21 | nativo]]
+observado por lei inovadora, também deve ser observado por resolução editada pelo c.
+
+TSE, que busca regulamentar as eleições criando nova cláusula de exclusão.
+
+DO PEDIDO CAUTELAR. FUMAÇA DO BOM DIREITO E PERIGO DA DEMORA
+
+A teor do comando inscrito no art. 10, §3º da Lei nº 9.868/1999, em caso de
+excepcional urgência, o Tribunal poderá deferir a medida cautelar sem a audiência dos
+
+órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado, nos
+termos do art. 1016 da Lei nº 9.868/99.
+
+De acordo com Ada Pellegrini Grinover, “os provimentos cautelares fundam-se
+
+na hipótese de um futuro provimento definitivo favorável ao autor (fumus bonis juris):
+verificando-se cumulativamente esse pressuposto e o do periculum in mora, o provimento
+
+cautelar opera em regime de urgência, como instrumento provisório sem o qual o
+
+definitivo poderia ficar frustrado em seus efeitos. Assim, a garantia cautelar surge, como
+que posta a serviço da ulterior atividade jurisdicional, que deverá restabelecer,
+
+definitivamente, a observância do direito: é destinada não tanto a fazer justiça, como a
+dar tempo a que a justiça seja feita”.17
+
+Assim, a medida liminar deve ser deferida para conferir interpretação conforme à
+
+Constituição da República ao inciso III do art. 109 do Código Eleitoral (Lei nº 4.737, de
+15 de julho de 1965), na redação dada pelo art. 2º da Lei nº 14.211, de 01 de outubro de
+
+2021, e, por arrastamento, ao art. 11, caput e § 4º, da Resolução/TSE nº 23.677, de 16 de
+
+dezembro de 2021, até julgamento em definitivo da ação, sob pena de se perpetuar danos
+irreparáveis aos players da competição eleitoral e ao próprio eleitor e sua vontade
+
+expressada nas urnas.
+
+A fumaça do bom direito, com efeito, está devidamente comprovada em razão
+
+da demonstração de ofensa ao princípio do pluralismo político e ao Estado Democrático
+
+de Direito (art. 1º, V da CR/88), da igualdade de chances (art. 5 da CR/88), da soberania
+
+16 Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da
+maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência dos órgãos
+ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no prazo
+de cinco dias.
+17 GRINOVER, Ada Pellegrini. Teoria Geral do Processo. 28. Ed. São Paulo: Malheiros, p. 353.
+
+
+[[pagina 22 | nativo]]
+popular (art. 14 da CR/88), do sistema proporcional (45 da CR/88), da legalidade (art. 2º
+
+da CR/88) e do princípio da separação de poderes (art. 5º, II da CR/88).
+
+O perigo da demora está no fato de que são essas normas poderão acarretar
+
+futuras mudanças nas composições da Câmara dos Deputados e das Assembleias
+
+Legislativas já nestas eleições de 2022.
+
+Demonstrados, portanto, a fumaça do com direito e o perigo da demora, aptos ao
+
+deferimento da medida liminar requerida.
+
+5) DOS PEDIDOS
+
+Assim, diante de todo o exposto, requer:
+
+a) o conhecimento da presente ADI, porquanto preenchidos seus pressupostos de
+admissibilidade;
+
+b) na forma dos arts. 10 e 11 da Lei nº 9.868/1999, o deferimento de medida cautelar
+para assegurar a eficácia da demanda cognitiva e garantir interpretação conforme à
+Constituição da República ao inciso III do art. 109 do Código Eleitoral (Lei nº 4.737, de
+
+15 de julho de 1965), na redação dada pelo art. 2º da Lei nº 14.211, de 01 de outubro de
+
+2021, e, por arrastamento, ao art. 11, caput e § 4º, da Resolução/TSE nº 23.677, de 16 de
+dezembro de 2021, possibilitando que na terceira fase da distribuição das sobras no
+
+cálculo das maiores médias sejam contemplados todos os partidos que participaram do
+
+pleito, independentemente do quociente eleitoral alcançado, até o julgamento em
+definitivo da ação, fundada na plausibilidade dos fatos apresentados, em razão da
+
+demonstração de ofensa ao princípio do pluralismo político e ao Estado Democrático de
+
+Direito (art. 1º, V da CR/88), da igualdade de chances (art. 5 da CR/88), da soberania
+popular (art. 14 da CR/88), do sistema proporcional (45 da CR/88), da legalidade (art. 2º
+
+da CR/88) e do princípio da separação de poderes (art. 5º, II da CR/88);
+
+c) caso não seja deferido o pedido, que imprima à presente ADI o rito sumário do
+art. 12 da Lei nº 9.868/1999, em razão da relevância da matéria e de seu especial
+
+significado para a ordem jurídica e política do país;
+
+
+
+[[pagina 23 | nativo]]
+d) decorrido o prazo das informações, seja determinada a oitiva sucessiva do Exmo.
+Advogado-Geral da União e do Exmo. Procurador-Geral da República (art. 8º da Lei nº
+9.868/1999);
+
+e) após o devido processo legal, no mérito, que seja julgado integralmente
+procedente o pedido inicial da ação para conferir interpretação conforme à Constituição
+
+da República ao inciso III do art. 109 do Código Eleitoral (Lei nº 4.737, de 15 de julho
+de 1965), na redação dada pelo art. 2º da Lei nº 14.211, de 01 de outubro de 2021, e, por
+
+arrastamento, ao art. 11, caput e § 4º, da Resolução/TSE nº 23.677, possibilitando que na
+
+terceira fase da distribuição das sobras no cálculo das maiores médias sejam
+contemplados todos os partidos que participaram do pleito, independentemente do
+
+quociente eleitoral alcançado, em atenção aos princípios estabelecidos na Constituição da
+
+República;
+
+f) por fim, requer que todas as publicações sejam efetuadas em nome do advogado
+Joelson Dias, OAB/DF nº 10.441.
+
+Dá à causa o valor de R$ 1.000,00 (um mil reais).
+
+Nestes termos,
+
+P. E. Deferimento
+
+Brasília-DF, 31 de outubro de 2022
+
+Joelson Dias
+
+OAB/DF 10.441
+
+Marcelli Pereira
+
+OAB-DF 33.843
+
+Gabriela Rollemberg
+
+OAB-DF 25.157
+
+
+
+[[pagina 24 | nativo]]
+Rodrigo Pedreira
+
+OAB-DF 29.627
+
+
+

@@ -1,0 +1,3005 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO EG. SUPREMO TRIBUNAL FEDERAL
+
+CONFEDERAÇÃO NACIONAL DE SAÚDE – HOSPITAIS, ESTABELECIMENTOS E
+
+SERVIÇOS (“CNSaúde”), entidade sindical inscrita no CNPJ/MF sob o nº 97.496.574/0001-
+
+34, com sede no Setor de Rádio e TV Sul 701, Conjunto E, Edifício Palácio do Rádio I, Bloco
+
+03, nº 130, 5º andar, Asa Sul, Brasília/DF, por seus advogados subscritos (doc. 01), vem,
+
+respeitosamente, com fundamento no art. 102, I, a e p e no art. 103, IX, da Constituição
+
+Federal, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+Com pedido de concessão de medida cautelar
+
+a fim de que seja conferida interpretação conforme à Constituição ao § 1º do art. 3º da Lei
+
+nº 7.713/88; ao art. 17 do Decreto-Lei nº 1.598/77; ao art. 43, inciso II e § 1º, do Código
+
+Tributário Nacional (Lei nº 5.172/66); ao art. 8º, da Lei nº 8.541/92; e ao art. 57 da Lei nº
+
+8.981/95 (doc. 02), de modo a se excluir do âmbito desses dispositivos a incidência do IRPJ
+
+e da CSLL sobre a SELIC que corrige o levantamento de depósitos judiciais. As razões que
+
+conduzem à procedência do pedido serão desenvolvidas adiante, conforme o roteiro abaixo.
+
+[[pagina 2 | nativo]]
+
+I. PRELIMINARMENTE: O CONHECIMENTO DA PRESENTE ADI
+
+I.1. Legitimidade ativa, abrangência nacional e pertinência temática
+
+I.2. Cabimento e objeto
+
+II. O MÉRITO
+
+II.1. Síntese da controvérsia jurídica: a inconstitucionalidade da incidência de
+
+IRPJ e de CSLL sobre a Selic que corrige o levantamento de depósitos judiciais
+
+tributários
+
+II.2. A Selic que corrige o levantamento de depósitos judiciais não configura
+
+renda, lucro ou qualquer tipo de acréscimo patrimonial (art. 146, III, a; art.
+
+153, III; e 195, I, c; da Constituição Federal)
+
+II.3. As razões de decidir do Tema 962 e a sua necessária aplicação aos depósitos
+
+judiciais: os efeitos transcendentes das decisões em repercussão geral e a
+
+necessidade de uniformização da matéria em prol da segurança jurídica (art.
+
+102, §3º; art. 5º, caput, da Constituição Federal)
+
+II.4. A afronta à isonomia (art. 5º, caput, e art. 150, II, da Constituição Federal)
+
+II.5. A afronta à legalidade tributária (art. 150, I, da Constituição Federal)
+
+II.6. A afronta à capacidade contributiva e ao não confisco (art. 145, §1º; art.
+
+150, IV, da Constituição Federal)
+
+II.7. Subsidiariamente: a inconstitucionalidade da incidência de IRPJ e CSLL
+
+sobre a parcela de correção monetária que compõe a Selic
+
+III. OS PEDIDOS
+
+III.1. Pedido cautelar
+
+III.2. Requerimentos, pedidos principais e pedidos subsidiários
+
+2
+
+[[pagina 3 | nativo]]
+
+I. PRELIMINARMENTE: O CONHECIMENTO DA PRESENTE ADI
+
+I.1. Legitimidade ativa, abrangência nacional e pertinência temática
+
+1. Em relação à sua legitimidade ativa, a Requerente, fundada em 22 de março
+
+de 1994, é entidade sindical de terceiro grau – o mais elevado existente na legislação sindical
+
+– que representa todos os estabelecimentos de serviços de saúde do País, congregando quase
+uma dezena de Federações e uma centena de Sindicatos1.
+
+2. A CNSaúde tem por objetivo primordial coordenar e zelar pelos direitos e
+
+interesses das entidades econômicas do setor de serviços de saúde junto aos órgãos públicos
+
+e, inclusive, defender os interesses coletivos ou individuais de suas associadas perante o
+Poder Judiciário (cf. art. 3º de seu Estatuto Social2).
+
+3. O art. 2º do Estatuto Social3 da Requerente indica seu status de representante
+
+nacional dos direitos e interesses das entidades que reúnem as categorias econômicas
+da área da saúde para os fins do art. 8º, III, da Constituição Federal4. Assim, ela se enquadra
+
+inequivocamente como legitimada ativa para a propositura de ação direta de
+
+inconstitucionalidade, na condição de confederação sindical, conforme previsto no art. 103,
+
+IX, da Constituição Federal e no art. 2º, IX da Lei 9.868/1999.
+
+4. Desde a sua fundação em 1994, a legitimidade ativa da Requerente tem sido
+reconhecida por essa Eg. Corte em diversas oportunidades5, inclusive na defesa de interesses
+
+1 Informações disponíveis em: http://cnsaude.org.br/sobre-a-cnsaude/
+2 “Art. 3º - São prerrogativas da CNS:
+I – representar, defender e amparar perante os poderes públicos e entidades privadas os interesses individuais e
+coletivos da categoria econômica da saúde, bem como coordenar a atuação de suas entidades filiadas,
+representando-as, defendo-as e amparando-as tanto no âmbito judicial, como no extrajudicial, sempre que assim
+designada; (...)”.
+3 “Art. 2º - São objetivos da CNS a coordenação e a defesa das entidades representativas das categorias
+econômicas da área da saúde, assim como a adoção e o pleito de interesse das filiadas.”.
+4 “Art. 8º É livre a associação profissional ou sindical, observado o seguinte:
+(...)
+III - ao sindicato cabe a defesa dos direitos e interesses coletivos ou individuais da categoria, inclusive em
+questões judiciais ou administrativas; (...).”.
+5 Por exemplo: ADI 1589 (Rel. Min. Eros Grau), ADI 1692 (Rel. Min. Ilmar Galvão), ADI 1931 (Rel. Min. Marco
+Aurélio), ADI 4350 (Rel. Min. Luiz Fux), ADI 4468 (Rel. Min. Celso de Mello), ADI 5336 (Rel. Min. Alexandre de
+Moraes), ADI 5344 (Rel. Min. Edson Fachin), ADI 5504 (Rel. Min. Dias Toffoli), ADI 5544 (Rel. Min. Luiz Fux), ADI
+5605 (Rel. Min. Edson Fachin), ADI 6149 (Rel. Min. Alexandre de Moraes), ADI 6317 (Rel. Min. Edson Fachin), ADI
+
+3
+
+[[pagina 4 | nativo]]
+
+de suas filiadas em matéria tributária, dentre as quais citamos as ADIs 18026, 20287, 22288 e
+26219, que impugnaram leis federais que criaram requisitos para fruição de imunidades.
+
+5. Mais recentemente, na ADPF 499, de relatoria do Exmo. Ministro Alexandre de
+
+Moraes, a Requerente questionou a Lei Complementar nº 116/2003, que estabelece regras
+
+gerais sobre o Imposto sobre Serviços (ISS), e leis de diversos Municípios que, após alterações
+
+implementadas pela Lei Complementar nº 157/2016, instituíram modificações substanciais
+
+acerca do local onde seria considerada a ocorrência do fato gerador do referido imposto. Na
+
+ocasião, o Exmo. Relator ratificou a legitimidade ativa da CNSaúde, tendo sido
+
+acompanhado, à unanimidade, nesse ponto. Veja-se:
+
+“A Confederação Nacional de Saúde, Hospitais e Estabelecimentos e Serviços
+(CNS), autora da ADPF 499, representa em caráter nacional empresas de prestação
+de serviços de saúde, entre as quais figuram as operadoras de planos de saúde e
+odontológicos, afetadas diretamente pela legislação questionada (art. 3º, XXIII, da
+LC 116/2003, quanto aos subitens 4.22 e 4.23 da lista de serviços anexa). Não
+bastasse, sua legitimidade para deflagrar o controle concentrado já fora aferida em
+outras oportunidades perante essa CORTE (ADI 4.350, Rel. Min. LUIZ FUX, Tribunal
+Pleno, DJe de 3/12/2014; ADI 1.802, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, DJe de
+3/5/2018; ADI 4.468, Rel. Min. CELSO DE MELLO, Tribunal Pleno, DJe de
+27/10/2020).” (Negritos acrescidos)10.
+
+6. Em relação à abrangência nacional, como adiantado, a Requerente congrega
+
+atualmente 8 (oito) federações, em diferentes estados do País, e aproximadamente 90
+
+(noventa) sindicatos, que representam diversas atividades no âmbito da saúde, entre
+
+hospitais, clínicas, laboratórios de análises clínicas e patologia clínica, serviços de
+
+diagnóstico, imagem e fisioterapia, e outros estabelecimentos do gênero. Trata-se de um
+
+setor que reúne mais de 250 mil estabelecimentos (sendo 4.198 hospitais, pelos últimos
+dados), gerando mais de 2,5 milhões de empregos (números de 2018)11.
+
+6362 (Rel. Min. Ricardo Lewandowski), ADI 7222 (Rel. Min. Luís Roberto Barroso), ADPF 151 (Red. Min. Gilmar
+Mendes), ADPF 227 (Rel. Min. Rosa Weber), ADPF 229 (Rel. Min. Ricardo Lewandowski) e ADPF 325 (Rel. Min. Rosa
+Weber).
+6 Quanto à legitimidade temática da Requerente, o Min. Dias Toffoli assim se manifestou:
+“Não merece, contudo, prosperar a preliminar ventilada, eis que o Supremo Tribunal Federal tem reconhecido a
+legitimidade ativa da autora para a propositura da ação direta de inconstitucionalidade, conforme se depreende
+dos julgamentos da ADI 1.589/DF, Relator o Ministro Eros Grau, DJ de 3/3/05, e da ADPF 151/DF-MC, Relator
+para o acórdão o Ministro Gilmar Mendes, DJ de 6/5/11.” (ADI 1802, Rel. Min. Dias Toffoli, Dje 03.05.2018).
+7 Rel. Min. Rosa Weber, DJe 08.05.2017.
+8 Rel. Min. Rosa Weber, DJe 23.05.2017.
+9 Rel. Min. Rosa Weber, DJe 02.06.2017.
+10 Trecho do voto do Ministro Alexandre de Moraes na ADPF 499 (fl. 27): STF, Tribunal Pleno, ADPF 499, Rel. Min.
+Alexandre de Moraes, DJe 27.07.2023.
+11 Informações retiradas de: http://cnsaude.org.br/wp-
+content/uploads/2018/09/CNSaude_Agenda_Saude_2019_Aprova%C3%A7%C3%A3o-compressed.pdf
+
+4
+
+[[pagina 5 | nativo]]
+
+7. Restando inconteste a legitimidade ativa e a abrangência nacional da
+
+Requerente, inegável é também a pertinência temática em relação à controvérsia jurídica
+
+constitucional que será aprofundada: o reconhecimento da (in)constitucionalidade da
+
+incidência de Imposto de Renda Pessoa Jurídica (IRPJ) e de Contribuição Social sobre o Lucro
+
+Líquido (CSLL) sobre a Selic que corrige o levantamento de depósitos judiciais tributários.
+
+8. Os filiados da Requerente – que atuam em parceria com o Poder Público,
+
+suprindo, muitas vezes, demandas do Sistema Único de Saúde (SUS) - têm interesses
+
+específicos e diretos no julgamento da presente demanda, na medida em que os depósitos
+
+judiciais são a forma mais célere de suspensão da exigibilidade de créditos tributários objeto
+
+de autuações, execuções fiscais e discussões judiciais no geral, conforme previsto no art.
+151, II, do Código Tributário Nacional12.
+
+9. Diversos entes públicos exigem, para contratar ou realizar pagamentos de
+
+serviços prestados pelas instituições privadas de saúde, a regularidade fiscal dessas pessoas
+
+jurídicas, comprovada por meio da Certidão Negativa de Débitos (CND), emitida quando não
+
+há créditos tributários exigíveis pelo Fisco, ou por meio da Certidão Positiva com Efeitos de
+Negativa (CEPEN), gerada quando há créditos com exigibilidade suspensa13.
+
+10. Sendo a realização de depósitos o meio mais gravoso de garantia do crédito
+
+tributário, mas também o mais célere - pois, a partir da disponibilização dos valores integrais
+
+12 “Art. 151. Suspendem a exigibilidade do crédito tributário:
+(...)
+II - o depósito do seu montante integral; (...).”.
+13 A interpretação é extraída por alguns entes de:
+Constituição Federal,
+“Art. 195 ...
+§ 3º A pessoa jurídica em débito com o sistema da seguridade social, como estabelecido em lei, não poderá
+contratar com o Poder Público nem dele receber benefícios ou incentivos fiscais ou creditícios. (Vide Medida
+Provisória nº 526, de 2011) (Vide Lei nº 12.453, de 2011) (Vide Emenda constitucional nº 106, de 2020)”;
+
+Lei de Licitações (Lei nº 14.133/2021)
+“Art. 63. Na fase de habilitação das licitações serão observadas as seguintes disposições:
+(...)
+III - serão exigidos os documentos relativos à regularidade fiscal, em qualquer caso, somente em momento
+posterior ao julgamento das propostas, e apenas do licitante mais bem classificado;”
+
+Por exemplo, o Estado do Paraná: https://site.mppr.mp.br/saude/Noticia/E-legitima-exigencia-de-provas-de-
+regularidade-fiscal-de-entidade-privada-de-
+saude#:~:text=%C3%89%20leg%C3%ADtima%20a%20exig%C3%AAncia%20de%20provas%20de,o%20repasse%20de%20
+verbas%20%C3%A0%20entidade%20privada ; o Município de São Paulo:
+http://legislacao.prefeitura.sp.gov.br/leis/parecer-procuradoria-geral-do-municipio-pgm-819-de-30-de-junho-
+de-2015
+
+5
+
+[[pagina 6 | nativo]]
+
+dos tributos à conta corrente vinculada ao Juízo, há um dever do magistrado de reconhecer
+
+a suspensão do crédito, conferindo o direito à fruição dos seus consectários legais - diversas
+empresas e entidades do setor, sem alternativa, optam pela sua efetuação14.
+
+11. Em que pese esses depósitos judiciais serem muitas vezes imprescindíveis para
+
+a manutenção do funcionamento e dos recebimentos do SUS, o levantamento dos depósitos
+judiciais, ao fim dos processos, tem sua atualização – pela Selic15 - tributada pela União, por
+
+IRPJ e por CSLL, uma vez que o ente entende que a incidência da Selic configura acréscimo
+
+patrimonial. Esse entendimento equipara os depósitos judiciais (um gravoso e necessário
+
+meio para suspensão da exigibilidade de créditos tributários) a investimentos financeiros,
+
+em que há ganho de capital a ser tributado.
+
+12. Ocorre que, conforme será abordado no capítulo II.4, o levantamento de
+
+depósitos judiciais e a sua correção pela Selic não podem ser comparados a investimentos
+
+que visam ao lucro e ao acréscimo patrimonial. Um dos principais motivos que tornam essa
+
+equiparação inconstitucional é o fato de que o levantamento de depósitos judiciais
+
+tributários ocorre apenas quando o sujeito passivo da relação tributária ganha a causa. Em
+
+outras palavras, o levantamento dos depósitos se dá quando, em decisão transitada em
+
+julgado, o Judiciário conclui que o ente tributante agiu afrontando a Constituição Federal
+
+ou a lei.
+
+13. Essa inconstitucionalidade ou ilegalidade cometida pelo ente é o fundamento
+
+para que seja reconhecido o direito de o contribuinte levantar os valores depositados que,
+
+se efetuados com base na Lei nº 9.703/98, são corrigidos, em nível federal, pela Selic ou
+índice que a ela não seja superior, caso estados e municípios elejam correção diversa16. Não
+
+há, portanto, nenhuma semelhança entre os depósitos judiciais e um investimento
+
+livremente escolhido pelo contribuinte com o intuito de incrementar o seu patrimônio.
+
+14 Em pesquisa realizada com auxílio do software da Inspira, uma legaltech líder no mercado jurídico e muito
+utilizada para pesquisas jurisprudenciais, com indicação dos termos de busca “Tema 504”, número do Repetitivo
+do STJ que veiculava a controvérsia, e as palavras “Hospital”, “Clínica”, “Casa de Saúde”, “Laboratório”, “plano
+de saúde”, “seguro saúde”, foram localizados mais de 127 decisões sobre o assunto, nos TRFs 1, 2, 3, 4 e 5.
+15 Para depósitos efetuados até 15.09.2024, conforme art. 37, II, da Lei nº 14.973/2024.
+16 Conforme decidido por esta Corte quando do julgamento do ARE 1.216.078 (Tema 1.062 da RG): “Os estados-
+membros e o Distrito Federal podem legislar sobre índices de correção monetária e taxas de juros de mora
+incidentes sobre seus créditos fiscais, limitando-se, porém, aos percentuais estabelecidos pela União para os
+mesmos fins.”. (Rel. Min. Presidente Dias Toffoli, DJe 26.09.2019).
+
+6
+
+[[pagina 7 | nativo]]
+
+14. Considerando também a incidência de IRPJ e CSLL sobre a Selic que corrige os
+
+depósitos judiciais, nota-se que os estabelecimentos de saúde são grandes contribuintes dos
+
+referidos tributos – circunstância que não cessará se equalizada a inconstitucionalidade
+
+objeto desta ação.
+
+15. Afinal, os gastos com o consumo de bens e serviços de saúde representam
+cerca de 9,6% do PIB brasileiro17. Em termos de arrecadação, estudo realizado pela
+
+Requerente, em 2018, aponta que a arrecadação tributária total (federal, estadual e
+
+municipal) do setor foi de R$80,8 bilhões de reais. Apenas a título de IRPJ e CSLL, o setor
+
+arrecadou R$11,1 bilhões de reais e, no período de 2013 a 2017, esse montante chegou a
+R$50,9 bilhões18.
+
+16. Nesse contexto, a incidência do IRPJ e da CSLL também sobre a Selic em
+
+levantamento de depósitos judiciais, à revelia de sua real base de cálculo, atinge e onera
+
+direta e excessivamente grande parte das pessoas jurídicas do setor de saúde, integrando
+
+os fatores para o cálculo dos preços por elas praticados, o que estende os efeitos do ônus
+
+econômico suportado, indiretamente, às pessoas físicas tomadoras de seus serviços.
+
+17. Importa pontuar referida abrangência na perspectiva de se destacar que essa
+
+Eg. Corte também já reconheceu a legitimidade ativa de confederações sindicais setoriais
+em diversos processos objetivos tributários19 cujos interesses defendidos ultrapassavam a
+
+esfera subjetiva dos representados pela confederação. Conforme decisão unânime na ADI
+
+17 https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/33482-
+conta-satelite-de-saude-9-6-do-pib-foram-gastos-no-consumo-de-bens-e-servicos-de-saude-em-2019
+18 Informações retiradas de: http://fbh.com.br/wp-content/uploads/2020/11/Livro-tributacao.pdf.
+19 Foi, por exemplo, reconhecida a legitimidade ativa da Confederação Nacional da Indústria (CNI) e da
+Confederação Nacional do Comércio (CNC) nas seguintes ações abstratas tributárias:
+• ADI 5635 (CNI): em face da Lei do Estado do Rio de Janeiro nº 7.428/2016, que instituiu condição para
+concessão e manutenção de benefícios e incentivos fiscais ou financeiros relacionados ao ICMS;
+• ADI 5051 (CNC): em face do art. 1º da Lei Complementar nº110/2001, de 29 de junho de 2001, que criou
+o adicional de 10% à multa sobre o FGTS para o caso de demissão sem justa causa;
+• ADI 4905 (CNI): em face dos parágrafos 15 e 17 do artigo 74 da Lei n.º 9.430, de 27 de dezembro de
+1996, com a redação introduzida pela Lei n.º 12.249, de 11 de junho de 2010, e, por arrastamento, os
+artigos 36, caput e 45, § 1.º, inciso I da Instrução Normativa RFB n.º 1.300, de 20 de novembro de 201.
+“(...) esse conjunto de regras concebeu um complexo de normas punitivas, que estabelecem, ao
+contribuinte que age de boa-fé, multa de 50% do valor total do crédito objeto de declaração de
+compensação não homologada ou do valor do crédito objeto de pedido de ressarcimento indeferido ou
+indevido.”;
+• ADI 4612 (CNC): em face dos seguintes dispositivos, da expressão “plena ou não” do artigo 2º, da Lei nº
+7.543, de 30 de dezembro de 1988 e de dispositivos do artigo 4º, da Lei nº 15.242/2010, especificados
+no pedido, ambas do Estado de Santa Catarina, que tratam de IPVA.
+
+7
+
+[[pagina 8 | nativo]]
+
+4364, de relatoria do Exmo. Ministro Dias Toffoli, tal circunstância não interfere no
+
+reconhecimento da pertinência temática do caso. Veja-se:
+
+“A meu ver, a exigência de pertinência temática não impede, quando o vício de
+inconstitucionalidade for idêntico para todos os seus destinatários, o amplo
+conhecimento da ação, nem a declaração de inconstitucionalidade da norma, para
+além do âmbito dos indivíduos representados pela entidade requerente.
+
+Foi o que ocorreu, mais recentemente, na ADI nº 15/DF, da relatoria do Ministro
+Sepúlveda Pertence, DJ de 31/09/07, em que a Corte declarou a inconstitucionalidade
+do art. 9º da Lei nº 7.689, que mantinha em vigor a contribuição para o FINSOCIAL. A
+decisão beneficiou todos os potenciais contribuintes do tributo e não apenas a classe
+representada pela entidade requerente (Confederação das Associações de
+Microempresas do Brasil), até porque, segundo entendimento da Corte,
+inconstitucional era a manutenção do FINSOCIAL para quaisquer contribuintes, não
+havendo especificidade relativa às microempresas. A inconstitucionalidade era,
+portanto, essencialmente a mesma para todos.”20 (Negritos do original).
+
+18. É incontroverso, portanto, o interesse específico e direto da Requerente e de
+
+suas associadas em obter o provimento jurisdicional desta Eg. Corte no sentido de que seja
+
+declarada inconstitucionalidade da incidência de IRPJ e CSLL sobre a Selic que corrige o
+
+levantamento de depósitos judiciais, sendo clara a sua legitimidade ativa que também se
+
+vincula “ao objeto da ação, pelo que deve haver pertinência da norma impugnada com os
+objetivos do autor da ação.”21.
+
+I.2. Cabimento e objeto
+
+19. Conforme art. 102, I, a, da Constituição Federal, a ação direta de
+
+inconstitucionalidade é cabível como meio de impugnação de lei ou ato normativo federal
+
+ou estadual. Na presente, questiona-se a interpretação conferida pela União e seus órgãos
+
+aos seguintes dispositivos de leis federais, transcritos em atendimento ao art. 3º, I, da Lei
+
+nº 9.868/99:
+
+a) Art. 43, inciso II e § 1º, do Código Tributário Nacional (Lei nº
+
+5.172/1966):
+
+“Art. 43. O imposto, de competência da União, sobre a renda e proventos de
+qualquer natureza tem como fato gerador a aquisição da disponibilidade
+econômica ou jurídica:
+
+20 STF, Tribunal Pleno, ADI 4364, Rel. Min. Dias Toffoli, DJ 16.05.2011.
+21 STF, Tribunal Pleno, ADI 1.507 MC AgR, Rel. Min. Carlos Velloso, DJ de 6.06.1997.
+
+8
+
+[[pagina 9 | nativo]]
+
+I - de renda, assim entendido o produto do capital, do trabalho ou da
+combinação de ambos;
+
+II - de proventos de qualquer natureza, assim entendidos os acréscimos
+patrimoniais não compreendidos no inciso anterior.
+
+§ 1o A incidência do imposto independe da denominação da receita ou do
+rendimento, da localização, condição jurídica ou nacionalidade da fonte, da
+origem e da forma de percepção.”;
+
+b) Art. 17 do Decreto-Lei nº 1.598/1977:
+
+“Art 17 - Os juros, o desconto, a correção monetária prefixada, o lucro na
+operação de reporte e o prêmio de resgate de títulos ou debêntures, ganhos
+pelo contribuinte, serão incluídos no lucro operacional e, quando derivados
+de operações ou títulos com vencimento posterior ao encerramento do
+exercício social, poderão ser rateados pelos períodos a que competirem.”;
+
+c) Art. 3º, §1º da Lei nº 7.713/1988:
+
+“Art. 3º O imposto incidirá sobre o rendimento bruto, sem qualquer dedução,
+ressalvado o disposto nos arts. 9º a 14 desta Lei.
+
+§ 1º Constituem rendimento bruto todo o produto do capital, do trabalho ou
+da combinação de ambos, os alimentos e pensões percebidos em dinheiro, e
+ainda os proventos de qualquer natureza, assim também entendidos os
+acréscimos patrimoniais não correspondentes aos rendimentos declarados.”;
+
+d) Art. 8º, da Lei nº 8.541/1992:
+
+“Art. 8° Serão consideradas como redução indevida do lucro real, de
+conformidade com as disposições contidas no art. 6°, §5°, alínea b, do
+Decreto-Lei n° 1.598, de 26 de dezembro de 1977, as importâncias
+contabilizadas como custo ou despesa, relativas a tributos ou contribuições,
+sua respectiva atualização monetária e as multas, juros e outros encargos,
+cuja exigibilidade esteja suspensa nos termos do art. 151 da Lei n° 5.172, de
+25 de outubro de 1966, haja ou não depósito judicial em garantia.”; e
+
+e) Art. 57, caput, da Lei nº 8.981/1995:
+
+“Art. 57. Aplicam-se à Contribuição Social sobre o Lucro (Lei nº 7.689, de
+1988) as mesmas normas de apuração e de pagamento estabelecidas para o
+imposto de renda das pessoas jurídicas, inclusive no que se refere ao disposto
+
+9
+
+[[pagina 10 | nativo]]
+
+no art. 38, mantidas a base de cálculo e as alíquotas previstas na legislação
+em vigor, com as alterações introduzidas por esta Lei.”.
+
+20. Não se questiona, portanto, na presente ação, o art. 37, II, da Lei nº
+
+14.973/2024, que determina que, a partir de 16.09.2024, os depósitos judiciais tributários
+
+deverão ser submetidos apenas à “correção monetária por índice oficial que reflita a
+
+inflação”. Questiona-se tão somente a constitucionalidade da interpretação atualmente
+
+conferida pela União aos dispositivos acima transcritos, a fim de exigir IRPJ e CSLL sobre a
+
+Selic que, com base na Lei nº 9.703/1998, ainda corrige os depósitos judiciais feitos até a
+entrada em vigor da Lei nº 14.973/202422.
+
+21. Objetiva-se, portanto, na presente ação, que seja conferida, aos referidos
+
+dispositivos de leis federais, interpretação conforme à Constituição, notadamente aos seus
+
+artigos 145, §2º; 153, III; 195, I, c; 150, II; e 150, I, a fim de excluir, do âmbito de incidência
+
+do IRPJ e da CSLL, a Selic que corrige os depósitos judiciais tributários, uma vez que é
+
+inegável que tal exação afronta a capacidade contributiva, o conceito constitucional de
+
+renda e lucro, os princípios da isonomia e a legalidade tributária.
+
+22. Destaca-se que a controvérsia não é nova no âmbito dessa Eg. Corte. Em 2021,
+
+sob relatoria do Exmo. Ministro Dias Toffoli, o Tribunal Pleno analisou dois Temas de
+
+repercussão geral relacionados ao presente: o RE 855.091 (Tema 808) e o RE 1.063.187 (Tema
+
+962).
+
+23. No primeiro – Tema 808 -, mediante a técnica da interpretação conforme à
+
+Constituição, o Tribunal declarou a inconstitucionalidade da incidência de imposto de renda
+
+sobre os juros de mora decorrentes de atraso no pagamento das remunerações advindas de
+
+exercício de empregos, cargos ou funções.
+
+24. No segundo precedente vinculante – Tema 962 -, esse Eg. STF analisou situação
+
+equivalente à presente, concluindo pela inconstitucionalidade da incidência de IRPJ e CSLL
+
+22 A vigência da Lei nº 9.703/1998 para depósitos judiciais tributários feitos até a entrada em vigor da Lei nº
+14.973/2024 é reconhecida pelo próprio art. 40, parágrafo único, da Lei nº 14.973/2024:
+“Art. 40. (...)
+Parágrafo único. Os valores que estejam depositados na Conta Única do Tesouro Nacional serão corrigidos
+conforme previsto na norma vigente ao tempo do depósito, aplicando-se o disposto neste Capítulo a partir de
+sua vigência.”.
+
+10
+
+[[pagina 11 | nativo]]
+
+sobre a Selic que corrige a repetição de indébito tributário, a partir de interpretação
+
+conforme à Constituição dos mesmos artigos de leis federais acima elencados e que são
+
+objeto da presente ação direta, conforme se verifica a partir do dispositivo decisório
+
+daquele v. acórdão:
+
+“Decisão: O Tribunal, por unanimidade, apreciando o tema 962 da repercussão geral,
+negou provimento ao recurso extraordinário, dando interpretação conforme à
+Constituição Federal ao § 1º do art. 3º da Lei nº 7.713/88, ao art. 17 do Decreto-Lei
+nº 1.598/77 e ao art. 43, inciso II e § 1º, do CTN (Lei nº 5.172/66), de modo a excluir
+do âmbito de aplicação desses dispositivos a incidência do imposto de renda e da CSLL
+sobre a taxa SELIC recebida pelo contribuinte na repetição de indébito tributário, nos
+termos do voto do Relator.”.
+
+25. Ocorre que, em que pese a semelhança entre as situações da repetição de
+
+indébito e dos depósitos judiciais, o Tema de Repercussão Geral em questão se voltou à
+
+análise específica da primeira hipótese, em razão da delimitação de seu objeto – ainda que,
+
+de sua ratio decidendi, possa se permitir a mesmíssima conclusão de inconstitucionalidade
+
+que ora se suscita.
+
+26. Em dezembro/2022, esse Eg. Tribunal chegou até a realizar primeira análise
+sobre o tema, mas, ao fazê-lo, no ARE 1.405.416 (Tema 1243 da RG23), acabou por entender
+
+ser “(...) infraconstitucional, a ela se aplicando os efeitos da ausência de repercussão geral,
+
+controvérsia acerca da incidência do IRPJ e da CSLL sobre os valores relativos à taxa SELIC
+
+concernente ao levantamento de depósitos judiciais”.
+
+27. Desse modo, considerando o óbice processual criado, a partir do julgamento
+
+do Tema 1243, para a admissibilidade de recursos extraordinários que objetivam o controle
+
+concreto de constitucionalidade dos referidos dispositivos legais, não restou alternativa
+
+senão a propositura da presente ação direta de inconstitucionalidade, para que, em controle
+
+abstrato e objetivo, com efeitos vinculantes e eficácia erga omnes, essa Eg. Corte defina se
+
+a incidência de IRPJ e CSLL sobre a Selic que corrige o levantamento de depósitos judiciais
+
+está amparada pelas referidas regras e princípios constitucionais – ou, diversamente, como
+
+se defende nesta, há inconstitucionalidade parcial dos dispositivos.
+
+28. Para os fins do art. 3º, I, da Lei nº 9.868/99, sistematizamos os fundamentos
+
+jurídicos para as impugnações dos referidos dispositivos de leis federais:
+
+23 STF, Tribunal Pleno, ARE 1.405.416, Rel. Min. Presidente Rosa Weber, Dje 03.03.2023.
+
+11
+
+[[pagina 12 | nativo]]
+
+(i) A Selic que corrige o levantamento de depósitos judiciais não configura renda,
+
+lucro ou qualquer tipo de acréscimo patrimonial, (art. 146, III, a; art. 153, III;
+
+e 195, I, c da Constituição Federal);
+
+(ii) As razões de decidir do Tema 962/STF e a sua necessária aplicação aos
+
+depósitos judiciais: a necessidade de respeito à segurança jurídica e os efeitos
+
+transcendentes das decisões em repercussão geral (art. 102, §3º; art. 5º,
+
+caput, da Constituição Federal);
+
+(iii) A afronta à isonomia (art. 5º, caput, e art. 150, II, ambos da Constituição
+
+Federal);
+
+(iv) A afronta à legalidade tributária (art. 150, I, da Constituição Federal); e
+
+(v) A afronta à capacidade contributiva e ao não confisco (art. 145, §1º, e art.
+
+150, IV, ambos da Constituição Federal).
+
+29. As referidas afrontas à Constituição Federal serão detidamente comprovadas
+
+no decorrer da presente petição, sendo robustecidas por Pareceres Acadêmicos de autoria
+
+do Professor Associado da Faculdade de Direito da Universidade de São Paulo (USP), Paulo
+
+Ayres Barreto, (doc. 03) e pelo Professor de Direito Constitucional e Ministro aposentado
+
+dessa Eg. Corte, Carlos Ayres Britto (doc. 04), produzidos quando do julgamento do tema
+
+pelo Eg. Superior Tribunal de Justiça.
+
+30. Inegável, portanto, o cabimento da presente ADI e, como se demonstrará
+
+detidamente adiante, a procedência do pleito nesta veiculado.
+
+II. O MÉRITO
+
+II.1. Síntese da controvérsia jurídica: a inconstitucionalidade da incidência de IRPJ e de
+
+CSLL sobre a Selic que corrige o levantamento de depósitos judiciais tributários
+
+31. A presente ação direta visa à declaração de inconstitucionalidade da
+
+incidência de IRPJ e CSLL sobre a Selic que corrige o levantamento de depósitos judiciais
+
+12
+
+[[pagina 13 | nativo]]
+
+tributários, nos termos das razões de decidir do RE 855.091 (Tema 808 da RG) e,
+
+principalmente, do RE 1.063.187 (Tema 962 da RG), ambas de relatoria do Exmo. Ministro
+
+Dias Toffoli, cujas teses firmadas foram, respectivamente, as seguintes:
+
+“Não incide imposto de renda sobre os juros de mora devidos pelo atraso no
+pagamento de remuneração por exercício de emprego, cargo ou função.”
+(Tema 808 da RG)”; e
+
+“É inconstitucional a incidência do IRPJ e da CSLL sobre os valores atinentes
+à taxa Selic recebidos em razão de repetição de indébito tributário.” (Tema
+962 da RG).
+
+32. O julgamento do RE 1.063.187 (Tema 962 da RG) significou verdadeira
+
+alteração da jurisprudência firmada pelo Superior Tribunal de Justiça em 2013, no REsp
+1.138.695 (Temas Repetitivos 504 e 505)24, sob a relatoria do Exmo. Min. Mauro Campbell
+
+Marques, ocasião na qual aquele Eg. Tribunal havia entendido pela legalidade de incidência
+
+de IRPJ e CSLL sobre a Selic que corrige as repetições de indébito e o levantamento dos
+
+depósitos judiciais tributários, conforme teses abaixo transcritas:
+
+Tema Repetitivo 504: “Os juros incidentes na devolução dos depósitos
+judiciais possuem natureza remuneratória e não escapam à tributação pelo
+IRPJ e pela CSLL.”.
+
+Tema Repetitivo 505: “Quanto aos juros incidentes na repetição do indébito
+tributário, inobstante a constatação de se tratarem de juros moratórios, se
+encontram dentro da base de cálculo do IRPJ e da CSLL, dada a sua natureza
+de lucros cessantes, compondo o lucro operacional da empresa.”.
+
+33. Considerando a superação de sua jurisprudência pelo RE 1.063.187 (Tema 962
+
+da RG), a Primeira Seção do Eg. STJ reanalisou, em abril/2023, as teses fixadas nos Temas
+Repetitivos 504 e 505, conforme determina o art. 1.040, II, do CPC/201525. O v. acórdão de
+
+readequação foi assim ementado:
+
+“PROCESSUAL CIVIL. TRIBUTÁRIO. RECURSO REPETITIVO. RETRATAÇÃO. ART. 1.040,
+II, CPC/2015. ADAPTAÇÃO DA JURISPRUDÊNCIA DO STJ AO QUE JULGADO PELO STF NO
+RE N. 1.063.187 - SC (TEMA N. 962 - RG). INTEGRIDADE, ESTABILIDADE E COERÊNCIA
+DA JURISPRUDÊNCIA. ART. 926, DO CPC/2015. MODIFICAÇÃO DA TESE REFERENTE AO
+TEMA 505/STJ PARA AFASTAR A INCIDÊNCIA DE IR E CSLL SOBRE A TAXA SELIC QUANDO
+APLICADA À REPETIÇÃO DE INDÉBITO TRIBUTÁRIO. PRESERVAÇÃO DA TESE REFERENTE
+
+24 Primeira Seção, DJe 31.05.2013.
+25 “Art. 1.040. Publicado o acórdão paradigma:
+(...)
+II - o órgão que proferiu o acórdão recorrido, na origem, reexaminará o processo de competência originária, a
+remessa necessária ou o recurso anteriormente julgado, se o acórdão recorrido contrariar a orientação do
+tribunal superior; (...).”
+
+13
+
+[[pagina 14 | nativo]]
+
+AO TEMA 504/STJ E DEMAIS TESES JÁ APROVADAS NO TEMA 878/STJ.
+RECONHECIMENTO DA MODULAÇÃO DE EFEITOS ESTABELECIDA PELO SUPREMO
+TRIBUNAL FEDERAL.
+
+(...).
+
+2. Em julgado proferido no RE n. 1.063.187/SC (STF, Tribunal Pleno, Rel. Min. Dias
+Toffoli, julgado em 27.09.2021) o Supremo Tribunal Federal, apreciando o Tema n.
+962 da repercussão geral, em caso concreto onde apreciados valores atinentes à taxa
+SELIC recebidos em razão de repetição de indébito tributário, deu interpretação
+conforme à Constituição Federal ao art. 3º, §1º, da Lei n. 7.713/88; ao art. 17, do
+Decreto-Lei n. 1.598/77 e ao art. 43, II e §1º, do CTN para excluir do âmbito de
+aplicação desses dispositivos a incidência do IR e da CSLL sobre a taxa SELIC recebida
+pelo contribuinte na repetição de indébito tributário. Fixou-se então a seguinte tese:
+Tema nº 962 da Repercussão Geral: ‘É inconstitucional a incidência do IRPJ e da CSLL
+sobre os valores atinentes à taxa Selic recebidos em razão de repetição de indébito
+tributário’.
+
+3. Em sede de embargos de declaração (Edcl no RE n. 1.063.187/SC, STF, Tribunal
+Pleno, Rel. Min. Dias Toffoli, julgado em 02.05.2022) o STF acolheu pedido de
+modulação de efeitos estabelecendo que a tese aprovada no Tema n. 962 da
+repercussão geral produz efeitos ex nunc a partir de 30.9.2021 (data da publicação
+da ata de julgamento do mérito), ficando ressalvados: a) as ações ajuizadas até
+17.9.2021 (data do início do julgamento do mérito); b) os fatos geradores anteriores
+à 30.9.2021 em relação aos quais não tenha havido o pagamento do IRPJ ou da CSLL
+a que se refere a tese de repercussão geral.
+
+4. O dever de manter a jurisprudência deste Superior Tribunal de Justiça íntegra,
+estável e coerente (art. 926, do CPC/2015) impõe realizar a compatibilização da
+jurisprudência desta Casa formada em repetitivos e precedentes da Primeira Seção
+ao que decidido no Tema n. 962 pela Corte Constitucional. Dessa análise, após as
+derrogações perpetradas pelo julgado do STF na jurisprudência deste STJ, restam
+preservadas as teses referentes ao TEMA 878/STJ e exsurgem as seguintes teses, no
+que concerne ao objeto deste repetitivo:
+
+| TEMA 504/STJ: ‘Os juros incidentes na devolução dos depósitos judiciais
+possuem natureza remuneratória e não escapam à tributação pelo IRPJ e pela
+CSLL’; e
+
+| TEMA 505/STJ: ‘Os juros SELIC incidentes na repetição do indébito tributário se
+encontram fora da base de cálculo do IR e da CSLL, havendo que ser observada a
+modulação prevista no Tema n. 962 da Repercussão Geral do STF - Precedentes: RE
+n. 1.063.187/SC e Edcl no RE n. 1.063.187/SC’.
+
+5. Em juízo de retratação previsto no art. 1.040, II, do CPC/2015, DOU PARCIAL
+PROVIMENTO ao presente recurso especial da FAZENDA NACIONAL e o acolho em nova
+e reduzida extensão apenas para modificar a redação da tese referente ao TEMA
+505/STJ, mantendo a tese referente ao TEMA 504/STJ.”. (Grifos do original).
+
+34. Conforme se verifica, em que pese a equivalência jurídica entre a repetição
+
+de indébito e o levantamento de depósitos judiciais, a Primeira Seção do Eg. STJ
+
+readequou, com base no Tema 962 da RG, apenas a tese referente à repetição de indébito,
+
+14
+
+[[pagina 15 | nativo]]
+
+em verdadeira redução teleológica das razões de decidir produzidas por essa Eg. Corte em
+
+sede de repercussão geral, pautando-se no fato de que a situação fática que ensejou a
+
+afetação do Tema nessa Eg. Corte Constitucional era relativa à repetição de indébito apenas.
+
+35. A necessidade de padronização do entendimento quanto à tributação da Selic
+
+foi devidamente apontada em embargos de declaração perante aquele Eg. Tribunal. No
+entanto os embargos restaram desprovidos em fevereiro deste ano26, consolidando referida
+
+interpretação restritiva do entendimento desse Eg. STF – o que suscitou a necessidade de se
+
+propor a presente ação em sede de controle abstrato e com objeto especificamente voltado
+
+aos depósitos.
+
+36. Como pretendemos demonstrar, a Selic incidente sobre a repetição de
+
+indébito e sobre o levantamento dos depósitos judiciais é a mesma e há equivalência
+
+jurídica entre a repetição de indébito e o levantamento de depósito judicial para fins de
+
+aplicação das razões de decidir firmadas no Tema 962. Assim, respeitosamente, a
+
+manutenção da cobrança de IRPJ e de CSLL sobre a Selic que corrige o levantamento de
+
+depósitos judiciais tributários, perpetrada pela União com chancela do Eg. STJ, afronta, de
+
+uma só vez: a capacidade contributiva e os conceitos de renda e lucro; os efeitos vinculantes
+
+das razões de decidir dos precedentes firmados em recurso extraordinário com repercussão
+
+geral e a segurança jurídica; a isonomia; e a legalidade tributária, pelas mesmas razões
+
+constitucionais observadas no julgamento do mencionado Tema de Repercussão Geral.
+
+II.2. A Selic que corrige o levantamento de depósitos judiciais não configura renda, lucro
+
+ou qualquer tipo de acréscimo patrimonial
+
+37. O artigo 153, III, da Constituição Federal, outorga à União a competência para
+
+instituir imposto sobre a renda e proventos de qualquer natureza. Em linha com a regra de
+
+competência delineada no artigo 146, III, a, da Constituição Federal, o Código Tributário
+
+Nacional (CTN) apresenta, em seu art. 43, o fato gerador do imposto de renda:
+
+“Art. 43. O imposto, de competência da União, sobre a renda e proventos de qualquer
+natureza tem como fato gerador a aquisição da disponibilidade econômica ou jurídica:
+
+26 Primeira Seção, Embargos de declaração no REsp 1.138.695, DJe 25.02.2025.
+
+15
+
+[[pagina 16 | nativo]]
+
+I - de renda, assim entendido o produto do capital, do trabalho ou da combinação de
+ambos;
+
+II - de proventos de qualquer natureza, assim entendidos os acréscimos patrimoniais
+não compreendidos no inciso anterior.”.
+
+38. A incidência do imposto, portanto, depende da aquisição de disponibilidade
+
+sobre um conjunto de bens, valores ou direitos dos quais o contribuinte possa dispor e que
+
+integram seu patrimônio, representando um (i) saldo positivo resultante do (ii) confronto
+
+entre (ii.a) certas entradas e (ii.b) certas saídas, ocorridas ao longo de um dado (iii)
+
+período27.
+
+39. A atribuição para a criação da CSLL, por sua vez, foi conferida à União por
+
+meio do artigo 195, I, c, da Constituição Federal, segundo o qual o ente poderá instituir
+
+contribuição social a cargo do empregador, da empresa e da entidade a ela equiparada,
+
+incidente sobre o lucro.
+
+40. Lucro, em apertada síntese, representa ganho auferido durante uma operação
+
+comercial ou por meio do exercício de uma atividade econômica. Com reservas às diferenças
+
+entre a teoria contábil e o direito tributário, lucro é o resultado positivo da diferença entre
+
+o total das receitas percebidas e as despesas incorridas pela pessoa jurídica considerada.
+
+41. Os fatos geradores do IRPJ e da CSLL decorrem, portanto, de idêntica
+
+materialidade, uma vez que pressupõem a aquisição de disponibilidade de acréscimo
+
+patrimonial, tal como corrobora o artigo 57 da Lei nº 8.981/1995, segundo o qual se aplicam
+
+à CSLL (Lei nº 7.689, de 1988) as mesmas normas de apuração e de pagamento estabelecidas
+
+para o imposto de renda das pessoas jurídicas.
+
+42. Em linha com o princípio da capacidade contributiva, há muito esse Eg.
+
+Supremo Tribunal Federal firmou o entendimento de que, por mais variado que seja o
+
+conceito de renda, todos os economistas, financistas e juristas se unem em um ponto: renda
+
+é sempre um ganho ou acréscimo de patrimônio28.
+
+43. Nesse contexto, à luz dos conceitos constitucionais de renda e lucro, são
+
+precisas as considerações de Luís Eduardo Schoueri:
+
+27 GONÇALVES. José Artur Lima. Imposto Sobre a Renda – Pressupostos Constitucionais. São Paulo: Malheiros
+Editores, 1ª Edição, 2ª Tiragem, pág. 179.
+28 STF. Recurso Extraordinário nº 89.791. Relator Ministro Cunha Peixoto. Julgamento em 03.10.1978.
+
+16
+
+[[pagina 17 | nativo]]
+
+“Na linha do raciocínio desenvolvido pela teoria da renda produto (ou teoria da
+fonte), tem-se por renda o fruto periódico de uma fonte permanente. Em imagem
+figurativa, diz-se que a renda seria o fruto que se obtém, sem que pereça a árvore de
+onde ele provém. A ‘árvore’ seria o capital e o ‘fruto’, sua renda. Só caberia falar em
+renda no momento em que o fruto se destaca da árvore (realização).
+
+Já na teoria da renda-acréscimo patrimonial, o conceito de renda surge a partir da
+comparação da situação patrimonial em dois momentos distintos. Pressupõe a teoria,
+assim, um intervalo consistindo a renda na diferença positiva entre a situação
+patrimonial no final e no começo do período.”29 (Negritos acrescidos).
+
+44. A distinção conceitual entre renda e proventos de qualquer natureza,
+
+contudo, não permite concluir que qualquer elemento positivo corresponda a acréscimo
+
+patrimonial e, via de consequência, se qualifique como fato gerador do IRPJ. Segundo
+
+Ricardo Mariz de Oliveira, “As causas de produção de acréscimo patrimonial, passíveis de se
+
+submeter ao imposto de renda, são causas internas ao patrimônio, geradas e manejadas por
+
+ele ou por seu titular, distintas de causas exclusivamente externas a esse mesmo
+
+patrimônio”30.
+
+45. Nessa linha, é inconstitucional a tributação de valor que não represente
+
+acréscimo patrimonial efetivo, eis que deixaria de incidir sobre a renda do contribuinte para
+
+recair sobre o seu patrimônio.
+
+46. Desbordando das balizas impostas pela Constituição Federal e pelo CTN para
+
+a incidência do IRPJ e da CSLL, a interpretação conferida pela União aos artigos 3º, §1º, da
+
+Lei nº 7.713/1988 e art. 17, do Decreto-lei nº 1.598/1977, inclui, entre as grandezas a serem
+
+computadas na base de cálculo dos referidos tributos, valores que não representam ganho
+
+ou acréscimo patrimonial, quais sejam, os juros indenizatórios e a correção monetária, pois
+
+equiparam o levantamento de depósitos judiciais a situações diametralmente opostas, como
+
+o resgate de títulos ou debêntures. Confira-se:
+
+Decreto-lei nº 1.598/77:
+“Art 17 - Os juros, o desconto, a correção monetária prefixada, o lucro na operação
+de reporte e o prêmio de resgate de títulos ou debêntures, ganhos pelo contribuinte,
+serão incluídos no lucro operacional e, quando derivados de operações ou títulos com
+vencimento posterior ao encerramento do exercício social, poderão ser rateados pelos
+períodos a que competirem.”
+
+29 SCHOUERI, Luís Eduardo. O conceito de renda e o art. 43 do CTN: entre disponibilidade e econômica e
+disponibilidade jurídica. In: André Elali, Evandro Zaranza e Kallina Flôr dos Santos (coords.), Direito corporativo.
+São Paulo: Quartier Latin, 2013, p. 343/344.
+30 OLIVEIRA, Ricardo Mariz de. Fundamentos do Imposto sobre a Renda. São Paulo: Quartier Latin, 2008, p. 287.
+
+17
+
+[[pagina 18 | nativo]]
+
+Lei nº 7.713/1988:
+“Art. 3º O imposto incidirá sobre o rendimento bruto, sem qualquer dedução,
+ressalvado o disposto nos arts. 9º a 14 desta Lei.
+§ 1º Constituem rendimento bruto todo o produto do capital, do trabalho ou da
+combinação de ambos, os alimentos e pensões percebidos em dinheiro, e ainda os
+proventos de qualquer natureza, assim também entendidos os acréscimos
+patrimoniais não correspondentes aos rendimentos declarados.”.
+
+47. A interpretação conferida aos dispositivos transcritos afronta os artigos 153,
+
+III; e 195, I, c, da Constituição Federal, submetendo à tributação pelo IRPJ e pela CSLL
+
+valores incompatíveis com as hipóteses constitucionais de incidência.
+
+48. Esse entendimento também foi ratificado pelo Exmo. Ministro Dias Toffoli, ao
+
+proferir seu voto no RE nº 1.063.187/SC, no sentido de que os juros de mora estão fora do
+
+campo de incidência do imposto de renda e da CSLL, pois visam, precipuamente, a recompor
+
+efetivas perdas, decréscimos, não implicando aumento de patrimônio do credor.
+
+49. Assim, embora definidos em lei, os fatos geradores não podem extrapolar os
+
+limites da competência tributária definida pela Constituição Federal e por ela delegada ao
+
+legislador complementar, conforme previsto no art. 146, III, a. Essa é a orientação do Eg.
+
+STF, representada pelo irretocável voto do Exmo. Min. Luiz Galloti no julgamento do RE nº
+
+71.758:
+
+“Sr. Presidente, é certo que podemos interpretar a lei, de modo a arredar a
+inconstitucionalidade. Mas, interpretar interpretando e, não, mudando-lhe o texto,
+e, menos ainda, criando um novo imposto, que a lei não criou.
+
+Como sustentei muitas vezes, ainda no Rio, se lei pudesse chamar de compra o que
+não é compra, de importação o que não é importação, de exportação o que não é
+exportação, de renda o que não é renda, ruiria todo o sistema constitucional
+tributário inscrito na Constituição.”31.
+
+50. Nessa linha, e conforme já destacado, os depósitos judiciais tributários são a
+
+forma mais célere (ainda que ao mesmo tempo mais gravosa) de suspensão da exigibilidade
+
+do crédito tributário (art. 151, III, do CTN), consubstanciando, para o credor, a mais segura
+
+garantia de pagamento dos tributos discutidos judicialmente. Em outras palavras, decorrem
+
+de uma situação de necessidade de um contribuinte que, ao fim, se afere o direito à
+
+liberação do depósito, comprovou ter contra si uma exação indevida.
+
+31 RE nº 71.758-GB, Relator Min. Thompson Flores, Tribunal Pleno, julgado em 14/06/1972, DJ 31.08.1973.
+
+18
+
+[[pagina 19 | nativo]]
+
+51. É dizer, portanto, que os depósitos judiciais tributários não se assemelham em
+
+nada a um investimento facultado ao contribuinte, mas se constituem como verdadeiro ônus
+
+em face de uma cobrança que, ao fim, se demonstrará indevida.
+
+52. Quando devolvidos em favor dos contribuintes – o que só ocorre após decisão
+
+transitada em julgado que reconheça a inconstitucionalidade ou a ilegalidade cometida pelo
+
+ente tributante -, os depósitos são atualizados pelos mais diversos índices, de acordo com a
+
+legislação do ente federativo, desde que não ultrapassem o índice estabelecido pela União
+
+(ARE 1.216.078, Tema 1062 da RG).
+
+53. Para a União, em relação aos depósitos judiciais tributários feitos até
+
+setembro/2024, a atualização se dá pela Selic (Lei nº 9.703/1998), índice que possui caráter
+
+híbrido, comportando, a um só tempo, correção monetária e juros indenizatórios.
+
+54. Para melhor alcance da sua função de índice de correção monetária, tem-se
+
+como necessária a análise do conceito de inflação.
+
+55. A melhor doutrina econômica define inflação como fenômeno correspondente
+
+ao aumento generalizado e persistente dos preços de produtos e serviços em determinado
+
+mercado. Como esclarece Alexandre Schwartsman32, economista e ex-diretor do Banco
+
+Central do Brasil, essas “duas características são cruciais, pois se apenas poucos preços
+
+aumentam (...) não há como caracterizar um processo inflacionário, ainda que o índice de
+
+preços mostre valores positivos. Da mesma forma, se há um aumento de todos os preços
+
+num dado mês, (...) mas estabilidade em seguida, também não temos como caracterizar
+
+inflação.”.
+
+56. A inflação deteriora o poder de compra, tendo em vista que, se constantes as
+
+demais grandezas (como o produto do capital – rendimentos - e do trabalho - salário), o
+
+aumento persistente e generalizado dos preços implicará queda real de consumo.
+
+57. Para atenuar os efeitos do fenômeno inflacionário, a correção monetária é
+
+instrumento voltado à preservação do poder aquisitivo no tempo, recompondo os valores
+
+corroídos pela inflação, em linha com o princípio da propriedade estampado no artigo 5º,
+
+inciso XXII, da Constituição Federal. Esse foi o entendimento consolidado pelo Plenário da
+
+Eg. Suprema Corte no julgamento do RE 870.947 (Tema 810 da RG):
+
+32 Disponível em: http://g1.globo.com/economia/inflacao-o-que-e/platb, acessado em 31.03.2025.
+
+19
+
+[[pagina 20 | nativo]]
+
+“(...) 3. A correção monetária tem como escopo preservar o poder aquisitivo da
+moeda diante da sua desvalorização nominal provocada pela inflação. É que a
+moeda fiduciária, enquanto instrumento de troca, só tem valor na medida em que
+capaz de ser transformada em bens e serviços. A inflação, por representar o
+aumento persistente e generalizado do nível de preços, distorce, no tempo, a
+correspondência entre valores real e nominal (cf. MANKIW, N.G. Macroeconomia.
+Rio de Janeiro, LTC 2010, p. 94; DORNBUSH, R.; FISCHER, S. e STARTZ, R.
+Macroeconomia. São Paulo: McGraw-Hill do Brasil, 2009, p. 10; BLANCHARD, O.
+Macroeconomia. São Paulo: Prentice Hall, 2006, p. 29). 4. A correção monetária e
+a inflação, posto fenômenos econômicos conexos, exigem, por imperativo de
+adequação lógica, que os instrumentos destinados a realizar a primeira sejam
+capazes de capturar a segunda, razão pela qual os índices de correção monetária
+devem consubstanciar autênticos índices de preços. 5. Recurso extraordinário
+parcialmente provido.”33.
+
+58. Tratando-se de mero reajuste do valor monetário, portanto, a correção não
+se adequa ao conceito de rendimento, como leciona Bulhões Pedreira34, pois
+
+“A lei fiscal não contém dispositivo geral regulando a determinação do juro no curso
+da inflação, que autorize distinguir entre reposição do capital e juro. Diversas
+disposições especiais, todavia, autorizam a correção monetária do principal de
+empréstimos e declaram que as variações nominais resultantes dêsse reajustamento
+monetário não constituem rendimento.”.
+
+59. O mesmo entendimento é pacífico no âmbito dessa Eg. Corte e foi destacado
+
+no julgamento de mérito do Tema 962 da RG, notadamente no voto do Exmo. Ministro Luís
+
+Roberto Barroso, que consignou que “a correção monetária embutida na taxa SELIC não se
+
+qualifica como um ganho novo, mas sim a recomposição de uma perda.”.
+
+60. E tal compreensão sequer é inovadora, o que se exemplifica pelo fato de que
+
+já era destacada pelo Exmo. Ministro Luiz Fux ainda quando Ministro do Eg. Superior Tribunal
+
+de Justiça, ao consignar que “a correção monetária não traduz acréscimo patrimonial, pois
+
+sua aplicação não gera qualquer incremento no capital, mas tão somente o restaura dos
+
+efeitos corrosivos da inflação, razão pela qual não há como fazer incidir Imposto de Renda,
+sob pena de tributar-se o próprio capital.” 35.
+
+61. Assim, é indubitável que a parcela da Selic que corresponde à correção
+
+monetária visa a tão somente manter os valores reais dos depósitos judiciais tributários para
+
+que – caso eles venham a ser levantados pelos contribuintes – não tenham sofrido perdas
+
+33STF, Tribunal Pleno, RE 870.947, Relator Min. Luiz Fux, DJe 20.11.2017.
+34 PEDREIRA, José Luiz Bulhões. Imposto de Renda. Rio de Janeiro: APEC Editora, 1969, Capítulo 8, item 8.20
+(30).
+35 REsp 544.009, Rel. Ministro Luiz Fux, Primeira Turma, DJ 16.02.2004, p. 220.
+
+20
+
+[[pagina 21 | nativo]]
+
+inflacionárias, evitando que ocorra a indevida diminuição do seu patrimônio e o
+
+enriquecimento sem causa da União.
+
+62. Por sua vez, quanto à sua parcela de juros indenizatórios, o papel da Selic
+
+está definido nos artigos 394, 395 e 404 do Código Civil36, nos termos dos quais a ausência
+
+de pagamento no tempo, lugar e forma que a lei ou convenção estabelecer constitui o
+
+devedor em mora e assegura ao credor o pagamento das perdas e danos com atualização
+
+monetária, juros, custas e honorários advocatícios.
+
+63. Os juros de natureza moratória, portanto, são devidos em razão do
+
+inadimplemento e visam indenizar o credor, como leciona Sílvio de Salvo Venosa37:
+
+“Se houve inadimplemento, parcial ou total, surge o dever de indenizar. Indenizar
+é reparar o dano, o prejuízo. Indene é aquele que não sofreu prejuízo, que está
+incólume. Indenizar é tornar indene. Tanto na responsabilidade contratual, como
+na extracontratual, para que surja o direito à indenização, há necessidade de
+um prejuízo, isto é, um dano avaliável, uma perda, uma diminuição no
+patrimônio.” (Negritos acrescidos).
+
+64. Esse é, inclusive, o entendimento manifestado por essa Eg. Corte no
+
+mencionado RE 855.091 (Tema 808 da RG), como se verifica do excerto abaixo:
+
+Não parece haver dúvidas, portanto, de que a expressão juros moratórios, que é
+própria do Direito Civil, designa a indenização pelo atraso no pagamento da dívida
+em dinheiro. Para o legislador, o não recebimento nas datas correspondentes dos
+valores em dinheiro aos quais tem direito o credor implica prejuízo para ele. Note-se
+que o legislador previu a possibilidade de serem as perdas efetivas maiores que os
+juros de mora, e por isso, possibilitou, caso não haja pena convencional, a concessão
+de indenização complementar.
+
+Cumpre destacar, ainda, que os juros de mora legais têm natureza jurídica autônoma
+em relação à natureza jurídica da verba em atraso. Vide, em primeiro lugar, que eles
+não constituem frutos civis (parcela acessória que, em regra, segue a sorte do
+principal) decorrentes da exploração econômica do capital, como ocorre, por
+exemplo, com os juros remuneratórios (ou compensatórios) em relação ao mútuo
+feneratício. É necessário notar, ainda, que a causa que gera o direito aos juros
+de mora legais decorre de um ato ilícito imputado ao devedor consistente no não
+
+36 Art. 394. Considera-se em mora o devedor que não efetuar o pagamento e o credor que não quiser recebê-lo
+no tempo, lugar e forma que a lei ou a convenção estabelecer.
+Art. 395. Responde o devedor pelos prejuízos a que sua mora der causa, mais juros, atualização dos valores
+monetários segundo índices oficiais regularmente estabelecidos, e honorários de advogado.
+Art. 404. As perdas e danos, nas obrigações de pagamento em dinheiro, serão pagas com atualização monetária
+segundo índices oficiais regularmente estabelecidos, abrangendo juros, custas e honorários de advogado, sem
+prejuízo da pena convencional.
+37 VENOSA, Sílvio de Salvo. Direito Civil – Teoria Geral das Obrigações e Teoria Geral dos Contratos (vol. 2). São
+Paulo: Editora Atlas S.A., 2012, p. 323.
+
+21
+
+[[pagina 22 | nativo]]
+
+pagamento nas datas correspondentes dos valores em dinheiro aos quais tem
+direito o credor.38.
+
+65. Assim, é inequívoca a natureza indenizatória dos juros moratórios, os quais
+
+visam à recomposição do prejuízo causado ao credor, diante do período em que seu
+
+patrimônio, indisponível, sofre afetação pela inflação.
+
+66. Em seu já mencionado parecer, o eminente Professor Ayres Britto concluiu
+
+igualmente pela natureza indenizatória da Selic que corrige os depósitos judiciais
+
+tributários, uma vez que:
+
+(i) A mera atualização monetária e a percepção de juros de mora não se
+
+caracterizam como renda ou lucro; e
+
+(ii) A Selic incidente sobre depósitos não possui natureza jurídica de lucros
+
+cessantes.
+
+67. Em relação ao item (i), o Professor ratifica que, ao afirmar que a Selic que
+
+recai sobre os depósitos judiciais atua de forma simultânea como índice de correção
+
+monetária e taxa de juros moratórios (art. 2º-A, § 2º, da Lei nº 9.703/1998 com o art. 39,
+
+§ 4º, da Lei nº 9.250/1995), reveste-se da mesma natureza dos juros que incidem sobre os
+
+precatórios, conforme art. 100, §12, da Constituição Federal:
+
+“Art. 100. (...)
+
+§12 A partir da promulgação desta Emenda Constitucional, a atualização de valores
+de requisitórios, após sua expedição, até o efetivo pagamento, independentemente
+de sua natureza, será feita pelo índice oficial de remuneração básica da caderneta
+de poupança, e, para fins de compensação da mora, incidirão juros simples no
+mesmo percentual de juros incidentes sobre a caderneta de poupança, ficando
+excluída a incidência de juros compensatórios. (Incluído pela Emenda
+Constitucional nº 62, de 2009).”. (Negritos acrescidos).
+
+68. Sobre a diferença entre juros moratórios e juros compensatórios,
+
+manifestou-se o Ilmo. Parecerista:
+
+“Enquanto os juros remuneratórios ou compensatórios têm, como regra, origem numa
+postulação negocial, econômica e obviamente lícita da parte que os titulariza (o que
+não se altera mesmo que sejam quantificados em lei), os juros moratórios ressaem
+de um fato ilícito que acomete o seu titular. Um fato, portanto, que passa ao largo
+da vontade ou mesmo da iniciativa substantivamente livre do destinatário dos juros
+de mora. Não por acaso, então, que o referido §12 do art. 100 da Constituição
+
+38 Trecho do voto do Ministro Dias Toffoli no v. acórdão do RE 855.091 (Tema 808), pg. 15. Itálico e negrito do
+trecho final incluídos.
+
+22
+
+[[pagina 23 | nativo]]
+
+correlaciona juros de mora e precatórios judiciais, mas destes afasta a incidência
+de juros compensatórios, considerando-se que os precatórios nada mais são do
+que a dimensão financeira quantificada de uma obrigação estatal de pagar. O que,
+obviamente, decorre da necessidade jurídica de o Poder Público reparar um dano
+que tenha indisputavelmente causado a um particular. Aliás, no art. 404, o Código
+Civil expressamente estabelece a imbricação conceitual e também funcional entre
+juros de mora e reparação de danos ou prejuízo (...).”.
+
+69. Já no tocante à impossibilidade de enquadrar a Selic como renda ou lucro, o
+
+Professor Ayres Britto concluiu em seu parecer que:
+
+“Vê-se, pois, que os juros de mora têm natureza essencialmente reparatória, servindo
+para cobrir um prejuízo, na linguagem até figurativa de que se vale o parágrafo único
+do art. 404 do Código Civil. Noutras palavras, os juros de mora servem de antídoto
+para uma causa exógena e anterior de minoração patrimonial. O que, antecipo, já
+seria o suficiente para afastar, em linha de princípio, os juros moratórios da incidência
+do IRPJ e da CSLL, centrados que são, esses tributos, na materialização de um
+acréscimo, de um plus de substância jurídico-econômica, e não de um mero fenômeno
+de reparação patrimonial.”.
+
+70. O Exmo. Ministro aposentado desse Eg. STF explicou que os juros moratórios
+
+referentes à Selic não se confundem com lucros cessantes em razão de não ser possível
+
+“correlacioná-los a essa ou aquela aplicação econômica assim produtiva como esperada” e
+
+acrescentou que a indenização por lucros cessantes “pressupõe a perda de uma chance
+
+indubitável de ampliar o patrimônio mediante aplicação produtiva dos recursos
+
+tredestinados ao depósito judicial”. Sobre as possibilidades de aplicação dos depósitos
+
+judiciais, que afastam a natureza de lucros cessantes da Selic, o Professor afirma que:
+
+“Não se pode aprioristicamente vinculá-lo [o depósito] a um tipo específico de
+emprego produtivo, pois são inimagináveis as possibilidades de uso do valor – com
+destaque, no mais das vezes, para o próprio custeio das empresas, o que
+evidentemente não corresponde a lucro. Mas o certo é que se pode, e assim
+juridicamente se determina, presumir que a parte preterida da disponibilidade do
+dinheiro sofreu um decréscimo patrimonial, a ser justamente recomposto pela
+incidência dos juros moratórios. (...).
+Os juros de mora correspondem, então, a uma técnica normativa de neutralização dos
+danos emergentes absoluta e presuntivamente sofridos por quem se vê privado do uso
+de um valor patrimonial.”.
+
+71. O Parecerista também ressaltou a impossibilidade de se identificar como
+
+renda ou lucro a Selic, devido à sua função de recomposição de perda inflacionária, bem
+
+como reiterou a responsabilidade do Estado por ter dado azo ao depósito posteriormente
+
+levantado:
+
+23
+
+[[pagina 24 | nativo]]
+
+“Como o instituto jurídico da taxa SELIC não incide senão para recompor o nível
+patrimonial desfalcado pela realização do depósito judicial, inválida é sua
+identificação com renda, ou lucro, ou provento. Óbvio! E se digo óbvio, é porque,
+como se sabe, há uma relação de referibilidade entre inflação, período de
+indisponibilidade do dinheiro e taxa SELIC. Esta não existiria sem aquelas, assim como
+o ondear das plantas não existiria sem o vento e a temperatura a impactá-las. E o
+certo é que o fato em si da inflação e da privação financeira imposta aos contribuintes
+também tem a ver com a eficiência do Estado para lidar com ela. Eficiência que é um
+dos expressos deveres constitucionais da Administração Pública de qualquer das
+unidades federadas do Brasil (cabeça do art. 37 da Constituição Federal, já
+transcrito), a inadmitir que ela, Administração Pública brasileira, venha a fazer de
+um processo inflacionário que não soube combater, ou, pior ainda, que
+eventualmente passou a deflagrar, um dado gerador e até mesmo incrementador de
+receitas tributárias. O mesmo ocorrendo com o tempo de indisponibilidade financeira
+provocado pela ilicitude da exação levada a efeito pela Administração Fazendária.
+Seria a configuração da esdrúxula interpretação jurídica de que o Tesouro Estatal bem
+pode tirar partido da inflação em si, pois, afinal, taxa SELIC e inflação se imbricam
+conceitualmente.”.
+
+72. Pela natureza inequívoca de danos emergentes é que não devem incidir o IRPJ
+
+e a CSLL sobre a Selic que recai sobre o levantamento dos depósitos judiciais tributários,
+
+sendo a atual cobrança formalmente inconstitucional, por contrariar o art. 146, III, a, da
+
+Constituição Federal, bem como materialmente inválida, por ir contra os conceitos de renda
+
+e lucro dos artigos 153, III e 195, I, c, da Constituição Federal.
+
+73. A chancela conferida pelo E. STJ (d.m.v., de forma equivocada) à tributação
+
+da Selic incidente sobre os depósitos judiciais tributários se deu, justamente, em razão das
+
+diferenças com relação ao já explicado cenário em que a controvérsia se insere e à natureza
+
+dos juros incidentes sobre tais depósitos, que, no entender daquele Eg. Tribunal, é de mero
+
+dano remoto ou indireto (lucro cessante), classificado pelo Exmo. Min. Mauro Campbell
+
+Marques como “aquele dano decorrente dos compromissos feitos pelo credor em seu próprio
+
+prejuízo durante a mora do devedor e que não estavam no contrato e não eram previsíveis
+
+pelo devedor”. A própria classificação, como se vê, denota uma divergência em relação à
+
+real situação dos depósitos judiciais tributários, que decorrem de relação de direito público
+
+e acabam por ter caráter compulsório.
+
+74. Tal natureza, contudo, como se extrai do próprio voto do Exmo. Min. Dias
+
+Toffoli no Tema 962, não poderia ser presumida, notadamente diante das diversas realidades
+
+de pessoas jurídicas existentes – o que pode ser evidenciado a partir do próprio universo de
+
+representadas da Requerente, cujo setor engloba empresas dos mais diversos portes e
+
+entidades sem fins lucrativos. Afinal, como evidenciado no voto do referido Relator:
+
+24
+
+[[pagina 25 | nativo]]
+
+“[...] para ser aceita a ideia de que os juros de mora legais revestem-se, de modo
+estrito, da natureza de lucros cessantes, seria necessário pressupor, por exemplo,
+que o credor normalmente aplicaria, durante todo o período em atraso, a
+integralidade das verbas não recebidas tempestivamente em algum instrumento que
+lhe gerasse renda na mesma porcentagem da taxa Selic.
+Considerando as inúmeras realidades das pessoas jurídicas existentes, as quais
+podem se afigurar não só como sociedades empresárias comuns, mas também como
+fundações, associações sem fins lucrativos, sociedades simples, microempresas,
+empresas de pequeno porte, empresas individuais de responsabilidade limitada etc.,
+não me parece razoável pressupor tal entendimento.”
+
+75. Conforme será aprofundado a seguir, não há como fugir, no caso dos depósitos
+
+judiciais tributários, das conclusões esboçadas – que se coadunam com a exata conclusão a
+
+que chegou esta Eg. Corte no julgamento o RE 1.063.187 (Tema 962 da RG) –, sendo
+
+integralmente aplicáveis as suas razões de decidir ao presente caso.
+
+II.3. As razões de decidir do Tema 962 e a sua necessária aplicação aos depósitos
+
+judiciais: os efeitos transcendentes das decisões em repercussão geral e a necessidade
+
+de uniformização da matéria em prol da segurança jurídica
+
+76. Em julgamento finalizado em 27.09.2021, o Plenário do Eg. Supremo Tribunal
+
+Federal, com base no art. 153, III, e art. 195, I, c, da Constituição Federal, fixou a seguinte
+
+tese em sede de repercussão geral: “é inconstitucional a incidência do IRPJ e da CSLL sobre
+
+os valores atinentes à taxa SELIC recebidos em razão de repetição de indébito tributário”.
+
+Trata-se do já mencionado RE 1.063.187 - Tema 962 da sistemática da repercussão geral,
+
+julgado sob relatoria do Exmo. Ministro Dias Toffoli.
+
+77. Apesar de a tese ser bastante sucinta e refletir exatamente a conclusão dos
+
+julgadores, é importante destacar que o elemento vinculante do precedente, como se sabe,
+
+são as razões de decidir (ou fundamentos determinantes) dos votos da maioria. Essa
+
+conclusão é extraída do próprio texto constitucional, que após a Emenda Constitucional nº
+
+45/2004, passou a prever “a repercussão geral das questões constitucionais discutidas no
+
+caso” (art. 102, §3º, da Constituição Federal), o que, atualmente, opera como sistemática
+
+de admissibilidade e como técnica de julgamento de recursos extraordinários.
+
+78. O Código de Processo Civil de 2015, ao versar sobre o tema, adotou previsão
+
+análoga à da Lei nº 11.418/2006, ao estabelecer que “para efeito de repercussão geral, será
+
+considerada a existência ou não de questões relevantes do ponto de vista econômico,
+
+25
+
+[[pagina 26 | nativo]]
+
+político, social ou jurídico que ultrapassem os interesses subjetivos do processo” (art.
+
+1.035, §1º). Não por outro motivo, o CPC/2015 elencou entre os precedentes de observância
+
+obrigatória as decisões proferidas em recurso extraordinário analisado sob o rito dos recursos
+
+repetitivos (art. 927, III).
+
+79. No mesmo sentido decidiu essa Eg. Corte no RE 955.227 (Tema 885 da RG)39,
+
+de relatoria do Exmo. Min. Luís Roberto Barroso, ao reconhecer expressamente que as
+
+decisões proferidas em recurso extraordinário com repercussão geral passariam a produzir
+
+os mesmos efeitos vinculantes erga omnes das decisões proferidas em controle abstrato de
+
+constitucionalidade. Confira-se a tese de julgamento firmada pela Eg. Corte na ocasião:
+
+“1. As decisões do STF em controle incidental de constitucionalidade, anteriores à
+instituição do regime de repercussão geral, não impactam automaticamente a coisa
+julgada que se tenha formado, mesmo nas relações jurídicas tributárias de trato
+sucessivo.
+
+2. Já as decisões proferidas em ação direta ou em sede de repercussão geral
+interrompem automaticamente os efeitos temporais das decisões transitadas em
+julgado nas referidas relações, respeitadas a irretroatividade, a anterioridade anual
+e a noventena ou a anterioridade nonagesimal, conforme a natureza do tributo.”.
+
+80. Ao se equipararem os efeitos das decisões proferidas em controle abstrato e
+
+em recurso extraordinário com repercussão geral para os fins da interrupção dos efeitos
+
+futuros das coisas julgadas individuais, este Tribunal, sem sombra de dúvidas, aproximou
+
+definitivamente ambos os controles de constitucionalidade. Tal ponto resta ainda mais claro
+
+nos seguintes trechos do v. acórdão do RE 955.227 (Tema 885 da RG):
+
+“Como ressaltei, com a sistemática da repercussão geral, instituída pela EC nº
+45/2004, e a sucessiva adoção de teses de julgamento, o processo de objetivação do
+controle difuso se tornou ainda mais claro. O Código de Processo Civil de 1973,
+alterado pela Lei nº 11.418/2006, ao regulamentar o instituto, definiu como requisito
+para o reconhecimento da repercussão geral ‘a existência, ou não, de questões
+relevantes do ponto de vista econômico, político, social ou jurídico, que ultrapassem
+os interesses subjetivos da causa’ e do mesmo modo dispõe o CPC/2015, em seu artigo
+1.035, §1º.
+
+18. Nessa linha, ressalto que o art. 927, III, do novo código processual, afirma que ‘os
+juízes e tribunais observarão os acórdãos em incidente de assunção de competência
+ou de resolução de demandas repetitivas e em julgamento de recursos extraordinário
+e especial repetitivos’, deixando expresso que o Poder Judiciário está também
+vinculado às decisões desta Corte proferidas em recurso extraordinário com
+repercussão geral. (...).
+
+21. Assim, aproveito para afirmar ser necessário que esta Corte reconheça que a
+declaração de inconstitucionalidade, em sede de recurso extraordinário com
+repercussão geral, possui os mesmos efeitos vinculantes e eficácia erga omnes
+
+39 STF, Tribunal Pleno, RE 955.227, Rel. Min. Luís Roberto Barroso, DJe 02.05.2023.
+
+26
+
+[[pagina 27 | nativo]]
+
+atribuídos às ações de controle abstrato. Nesses casos, a resolução do Senado, a que
+faz menção o art. 52, X, da CF/1988, possuirá a finalidade de publicizar as decisões
+de inconstitucionalidade, não configurando requisito para a atribuição de efeitos
+vinculantes erga omnes.”. (Trecho do voto do Rel. Min. Luís Roberto Barroso).
+
+“Sugere [o relator], ainda, que, nesses casos, a resolução do Senado (art. 52, X, da
+CF/1988), deva ter a finalidade de publicizar as decisões de inconstitucionalidade,
+não configurando requisito para a atribuição de efeitos vinculantes erga omnes.
+
+Penso que essa solução é a que mais se compatibiliza com o postulado da segurança
+jurídica, uma vez que a Constituição Federal e a legislação processual estabelecem
+que, para o reconhecimento da repercussão geral, a controvérsia, além de ser dotada
+de relevância econômico, político, social ou jurídico, deve ultrapassar os interesses
+subjetivos da causa. Em especial, o art. 988, § 5º, II, do CPC/2015 admite reclamação
+para a garantia da observância de acórdão de recurso extraordinário com repercussão
+geral reconhecida, quando não esgotadas as instâncias ordinárias.
+
+Assim, vê-se que, de fato, houve a objetivação do controle difuso quando proferido
+em sede de repercussão geral.” (Trecho do voto do Min. Alexandre de Moraes).
+
+“Ante a decisão da Corte na Rcl nº 4.335/AC, adoto o posicionamento doutrinário de
+Teori Zavascki, para quem a decisão em que o Supremo Tribunal Federal declara, em
+sede de controle difuso de constitucionalidade não submetido à sistemática da
+repercussão geral, a inconstitucionalidade de lei só adquire eficácia erga omnes (não
+havendo, obviamente, súmula vinculante com mesmo teor) com a resolução do
+Senado Federal. Ficam, assim, preservados os poucos efeitos práticos que ainda
+subsistem na aplicação do art. 52, X, da Constituição Federal.”. (Trecho do voto do
+Min. Dias Toffoli, negritos do original).
+
+“27. Enfim, com relação às decisões plenárias realizadas sob o rito da repercussão
+geral, apesar de exigir maior esforço interpretativo, decorreu do Código de Processo
+Civil de 1973, a partir da Lei nº 11.418, de 2006, e atualmente resulta do CPC de
+2015 a imputação do caráter vinculante e da eficácia contra todos às decisões
+tomadas pelo Tribunal Pleno desta Corte em sede de repercussão geral.”. (Trecho
+do voto do Min. André Mendonça, negritos do original).
+
+81. Sendo, portanto, idênticos os efeitos desses tipos de controle de
+
+constitucionalidade, as decisões em sede de repercussão geral passam a estar dotadas de
+
+efeitos vinculantes, que são assim definidos pelo Exmo. Min. Gilmar Mendes:
+
+“Em verdade, o efeito vinculante decorre do particular papel político-institucional
+desempenhado pela Corte ou pelo Tribunal Constitucional, que deve zelar pela
+observância estrita da Constituição nos processos especiais concebidos para solver
+determinadas e específicas controvérsias constitucionais. (...).
+
+Vale ressaltar que o alcance do efeito vinculante das decisões não pode estar limitado
+à sua parte dispositiva, devendo considerar, também, os chamados ‘fundamentos
+determinantes’. (...).”40.
+
+40 STF, Tribunal Pleno, Reclamação nº 1987, Rel. Min. Maurício Corrêa, DJ 21.05.2004.
+
+27
+
+[[pagina 28 | nativo]]
+
+82. E esse é também o entendimento doutrinário do Ministro, inspirado pelos
+
+efeitos do controle de constitucionalidade alemão:
+
+“Tal como assente em estudo que produzimos sobre este assunto, que foi incorporado
+às justificações apresentadas no aludido Projeto, a eficácia erga omnes e o efeito
+vinculante deveriam ser tratados como institutos afins, mas distintos. Vale
+transcrever, a propósito, a seguinte passagem da justificação desenvolvida:
+‘[...]. Trata-se de instituto jurídico desenvolvido no Direito processual alemão,
+que tem por objetivo outorgar maior eficácia às decisões proferidas por aquela
+Corte Constitucional, assegurando força vinculante não apenas à parte dispositiva
+da decisão, mas também aos chamados fundamentos ou motivos determinantes
+(tragende Gründe).’”41. (Grifos do original).
+
+“(...) Se o tribunal declarar a inconstitucionalidade de uma lei do Estado A, o efeito
+vinculante terá o condão de impedir a aplicação de norma de conteúdo semelhante
+do Estado B ou C, que explica o efeito vinculante, suas consequências e a diferença
+entre eles e a eficácia, seja inter partes ou erga omnes.
+Estas propostas não só reforçam o papel do Supremo Tribunal Federal, como guardião
+da Carta Magna, mas também contribuem para a celeridade e economia processuais
+na medida em que, com a decisão de um determinado caso e mediante a aplicação
+da eficácia ‘erga omnes’ e do efeito vinculante, propiciam solverem-se todas as
+questões semelhantes ou idênticas.”42.
+
+83. Principalmente a partir do CPC/2015, a vinculação pelos fundamentos
+
+determinantes restou inequivocamente aplicável não apenas em sede de controle de
+
+constitucionalidade, mas como decorrência lógica da adoção de um sistema de precedentes.
+
+Essa conclusão resta incontroversa a partir da leitura do art. 489, §1º, V:
+
+“Art. 489.
+(...)
+§ 1º Não se considera fundamentada qualquer decisão judicial, seja ela interlocutória,
+sentença ou acórdão, que:
+(...)
+V - se limitar a invocar precedente ou enunciado de súmula, sem identificar seus
+fundamentos determinantes nem demonstrar que o caso sob julgamento se ajusta
+àqueles fundamentos; (...).”.
+
+84. No mesmo sentido, manifestou-se o Exmo. Min. Luís Roberto Barroso em obra
+
+dedicada ao tema do controle de constitucionalidade no Brasil:
+
+“Em sucessivas decisões, o Supremo Tribunal Federal estendeu os limites objetivos e
+subjetivos das decisões proferidas em sede de controle abstrato de
+constitucionalidade, com base em uma construção que vem denominando
+transcendência dos motivos determinantes. Por essa linha de entendimento, é
+reconhecida eficácia vinculante não apenas à parte dispositiva do julgado, mas
+também aos próprios fundamentos que embasaram a decisão. Em outras palavras:
+
+41 MENDES, Gilmar. O efeito vinculante das decisões do Supremo Tribunal Federal nos processos de controle
+abstrato de normas., Revista Jurídica Virtual Brasília, vol. 1, n. 4, agosto 1999, p 1.
+42 MARTINS, Ives Gandra. MENDES, Gilmar Ferreira. Controle concentrado de constitucionalidade: comentários à
+Lei nº 9.868, de 10-11-1999. 3 ed. São Paulo, SP: Saraiva, 2009, p. 397-398.
+
+28
+
+[[pagina 29 | nativo]]
+
+juízes e tribunais devem acatamento não apenas à conclusão do acórdão, mas
+igualmente às razões de decidir.
+(...)
+Os efeitos transcendentes integram a lógica da jurisdição constitucional. Os tribunais
+devem observar as teses firmadas pelo STF. (...).”43.
+
+85. Desse modo, é possível estabelecer três premissas, derivadas dos efeitos
+
+vinculantes adotados pela jurisprudência desta Eg. Corte, bem como a partir da leitura dos
+
+referidos dispositivos constitucionais e do CPC/2015 e das conclusões doutrinárias:
+
+(i) o elemento vinculante de um acórdão não é apenas o seu dispositivo,
+
+mas as suas razões de decidir;
+
+(ii) a tese de julgamento deve apenas indicar as razões de decidir do
+
+julgado e, quando não o faz, é imprescindível que se retorne ao acórdão, a
+
+fim de extrair os seus fundamentos determinantes;
+
+(iii) até mesmo essa Eg. Corte deve manter a sua jurisprudência estável,
+
+íntegra e coerente, conforme previsto no art. 926, do CPC.
+
+86. Especificamente quanto ao item (iii) supra, o dever estabelecido pelo art. 926
+
+do CPC/2015 concretiza a proteção da segurança jurídica — expressamente prevista no art.
+
+5º, caput, da Constituição Federal — no processo de formação e aplicação de precedentes
+
+pelos próprios Tribunais.
+
+“O art. 926, CPC, institui claramente o que a doutrina chama de stare decisis
+horizontal. Ao dizer expressamente que há dever de outorgar unidade ao direito e de
+fazê-lo seguro - o que implica torná-lo cognoscível, estável e confiável – o legislador
+obviamente determinou ao Supremo Tribunal Federal e ao Superior Tribunal de
+Justiça respeito aos próprios precedentes, além de ter determinado aos Tribunais
+Regionais Federais e aos Tribunais de Justiça respeito à própria jurisprudência
+formada a partir dos incidentes de resolução de demandas repetitivas e de assunção
+de competência. Isso porque a primeira condição para que exista um sistema de
+precedentes e de compatibilização vertical das decisões judiciais é o respeito por
+parte das Cortes Supremas aos seus próprios precedentes.”44.
+
+43 BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição sistemática da
+doutrina e análise crítica da jurisprudência, 7 ed, São Paulo: Saraiva, 2016, p. 248-9.
+44 MARINONI, Luiz Guilherme; ARENHART, Sérgio Cruz; MITIDIERO, Daniel. Novo Código de processo
+civil comentado. 3. ed. rev. atual. e ampl. São Paulo: Revista dos Tribunais, 2017, p. 1006.
+
+29
+
+[[pagina 30 | nativo]]
+
+87. Trata-se, como se vê, da dimensão horizontal dos precedentes ou
+
+autoprecedentes, que gera aos Tribunais um dever de consideração de seus próprios
+
+paradigmas em nome da isonomia, da segurança e da previsibilidade jurídica:
+
+“Entendemos que o ideal de coerência e previsibilidade dos atos emanados do Estado
+é um dos fundamentos das democracias, na medida em que indivíduos ou pessoas
+jurídicas em situações análogas não podem ser discriminadas e têm o direito de pautar
+suas ações futuras em expectativas de que terão o mesmo tratamento recebido em
+situações passadas. [...], citando Frederick Schauer, a vida em sociedade é moldada
+por experiências passadas e por expectativas criadas para o futuro.
+
+[...]. O mandamento de proteção e respeito a esses direitos deve também ser
+considerado quando da análise das próprias decisões entre si; do sistema que elas
+geram; dos efeitos que elas causam na vida das pessoas; e da expectativa que criam.
+
+Nesse mesmo sentido, manifestou-se o Professor e, então advogado, Luís Roberto
+Barroso:
+
+‘A obrigação dos órgãos do Poder Público de não vulnerar a confiança legítima e
+de agir com boa-fé é inerente ao Estado democrático de direito. Sob um regime
+constitucional, Estado e sociedade não podem ser vistos como antagonistas ou
+como pólos opostos de uma relação conflituosa. Ao contrário, ambos devem
+conviver em unidade e harmonia, compartilhando valores, princípios e objetivos
+comuns. Nesse ambiente, a relação entre o Estado e o particular não opõe duas
+partes privadas, cada qual defendendo seu interesse, embora também entre
+partes privadas haja o dever recíproco de boa-fé. Na verdade, o Poder Público
+deriva sua autoridade do conjunto de administrados, agindo em nome e por conta
+da totalidade da população, não se concebendo que possa agir deslealmente em
+relação a seus próprios constituintes.
+A proteção da confiança ou das expectativas legítimas, assim como a boa-fé, são
+princípios que se dirigem, primariamente, à Administração Pública e ao Poder
+Judiciário. Compete a tais órgãos aplicarem o direito aos casos concretos e, nesse
+ofício, devem atuar com certa constância e previsibilidade, já que lhes cabe
+preservar a ordem jurídica existente e assegurar a isonomia perante a lei.
+[...].’[45]”46.
+
+88. Desse modo, é inegável que o julgamento do RE 1.063.187 (Tema 962) gerou
+
+expectativa legítima de que as situações análogas seriam tuteladas pelas mesmas normas
+
+jurídicas (razões de decidir) criadas por esta E. Corte. Sendo o levantamento de depósitos
+
+judiciais equiparável, por diversos prismas (com destaque para os expostos no item II.4 a
+
+seguir), à repetição de indébito, conferir tratamento tributário distinto à Selic que atualiza
+
+um ou outro fere a racionalidade e a segurança que se espera do sistema de precedentes.
+
+45 BARROSO, Luís Roberto. Mudança da jurisprudência do Supremo Tribunal Federal em matéria tributária.
+Segurança jurídica e modulação dos efeitos temporais das decisões judiciais. Revista de direito do Estado: RDE,
+n. 2, p. 261-288, abr./jun. 2006, p. 277-278.
+46 PENCAK, Nina Pinheiro. Direito tributário e controle de constitucionalidade: o STF como intérprete da
+Constituição tributária à luz do sistema de precedentes. 2025. 491f. Tese (Doutorado em Direito) – Faculdade de
+Direito, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2025, p. 203-204.
+
+30
+
+[[pagina 31 | nativo]]
+
+89. Após breve digressão sobre a vinculação em nosso sistema de precedentes,
+
+verifica-se a necessidade de extrair, do RE 1.063.187, os seus fundamentos determinantes,
+
+a fim de demonstrar, portanto, que eles são igualmente aplicáveis para a declaração de
+
+inconstitucionalidade da incidência de IRPJ e CSLL tanto sobre a SELIC na repetição de
+
+indébito quanto no levantamento de depósitos judiciais. É o que passaremos a expor.
+
+a. As razões de decidir do RE 1.063.187 (Tema 962 da RG)
+
+90. Conforme já mencionado, em 27.09.2021 o Plenário do E. Supremo Tribunal
+
+Federal apreciou, sob relatoria do eminente Ministro Dias Toffoli, o RE 1.063.187 - Tema 962
+
+da repercussão geral - e reconheceu a inconstitucionalidade da incidência do IRPJ e da CSLL
+
+sobre os valores atinentes à taxa SELIC recebidos em razão de repetição de indébito
+
+tributário. O paradigma derivou de acórdão de Tribunal Regional Federal que reconheceu,
+
+em sede de controle difuso, a inconstitucionalidade parcial, sem redução de texto, do § 1º
+
+do art. 3º da Lei nº 7.713, de 1988, do art. 17 do Decreto-Lei nº 1.598, de 1977, e do art.
+
+43, inciso II e § 1º, do CTN – objeto desta ADI - de forma a afastar a incidência de IRPJ e
+
+CSLL sobre a Selic recebida pelo contribuinte na repetição de indébito.
+
+91. Ao se debruçar sobre referida declaração incidental de inconstitucionalidade
+
+em razão de recurso da União, o Plenário desse E. STF chancelou o controle de
+
+constitucionalidade dos diversos dispositivos que impõem a tributação da Selic, chegando
+
+aos seguintes termos:
+
+“O Tribunal, por unanimidade, apreciando o tema 962 da repercussão geral, negou
+provimento ao recurso extraordinário, dando interpretação conforme à Constituição
+Federal ao § 1º do art. 3º da Lei nº 7.713/88, ao art. 17 do Decreto-Lei nº 1.598/77 e
+ao art. 43, inciso II e § 1º, do CTN (Lei nº 5.172/66), de modo a excluir do âmbito de
+aplicação desses dispositivos a incidência do imposto de renda e da CSLL sobre a taxa
+SELIC recebida pelo contribuinte na repetição de indébito tributário, nos termos do
+voto do Relator.”.
+
+92. A fim de que restem claras as razões que embasaram os votos que formam o
+
+v. acórdão do RE 1.063.187 (Tema 962 da RG), bem como dos embargos de declaração
+
+opostos pela União, passe-se à análise das manifestações dos Ministros que apresentaram
+
+voto escrito em ambos os julgamentos virtuais (Ministros Dias Toffoli, Gilmar Mendes e Luís
+
+Roberto Barroso), a iniciar pelo voto do Exmo. Relator no julgamento de mérito encerrado
+
+em 27.09.2021.
+
+31
+
+[[pagina 32 | nativo]]
+
+93. No voto proferido pelo Exmo. Ministro Dias Toffoli, verificamos os seguintes
+
+fundamentos:
+
+• No julgamento do RE 855.091 (Tema 808 da RG), o Eg. STF firmou a tese
+de que “não incide imposto de renda sobre os juros de mora devidos pelo
+atraso no pagamento de remuneração por exercício de emprego, cargo ou
+função”. Apesar de ser distinto, o caso possui similaridades com a incidência
+de IRPJ e CSLL sobre a Selic aplicável à repetição de indébito;
+• O direito aos juros de mora legais decorre de um ato ilícito imputado ao
+devedor consistente no não pagamento dos valores em dinheiro aos quais tem
+direito o credor nas datas estabelecidas;
+• A legislação civil vai no sentido de que as perdas e os danos pagos ao lesado
+em razão do inadimplemento de uma obrigação de pagar em dinheiro de
+natureza indenizatória ou não, devem ser os mais amplos possíveis,
+insuscetível de diminuição patrimonial pela incidência do imposto de renda
+sobre o valor dos juros de mora;
+• O legislador tributário já reconheceu que os juros de mora consistem em
+indenização (Lei nº 4.506/64, art. 16, p. único);
+• O imposto de renda pode alcançar os valores relativos a lucros cessantes,
+mas não os relativos a danos emergentes;
+• Os juros de mora estão fora do campo de incidência do imposto de renda e
+da CSLL, pois visam, precipuamente, a recompor efetivas perdas,
+decréscimos, não implicando aumento de patrimônio do credor;
+• Cuidando-se da obrigação de pagar em dinheiro, é preferível dizer que o
+atraso em seu adimplemento gera danos emergentes;
+• Para ser aceita a ideia de que os juros de mora legais se revestem, de modo
+estrito, da natureza de lucros cessantes, seria necessário pressupor, por
+exemplo, que o credor normalmente aplicaria, durante todo o período em
+atraso, a integralidade das verbas não recebidas tempestivamente em algum
+instrumento que lhe gerasse renda na mesma porcentagem da taxa Selic;
+• Os juros de mora legais têm natureza autônoma em relação à natureza
+jurídica da verba em atraso. Logo, o tributo restituído e o montante
+correspondente à taxa Selic possuem naturezas distintas, de modo que o
+acessório não segue a sorte do principal;
+• Como foi decidido por esta Eg. Corte no Tema 808, mesmo que se considere
+que os juros de mora legais envolvidos pela taxa Selic devida no contexto em
+tela abranjam não só danos emergentes, mas também lucros cessantes, não
+vislumbro a possibilidade de submetê-los à tributação pelo imposto de renda
+e pela CSLL, sem se ferir o conteúdo mínimo das materialidades previstas no
+art. 153, III, e no art. 195, I, c, da Constituição.
+
+32
+
+[[pagina 33 | nativo]]
+
+94. Ainda quanto ao mérito, o Exmo. Ministro Gilmar Mendes seguiu as razões de
+
+decidir do relator, ressalvando, em atenção ao dever de coerência, seu entendimento
+
+pessoal em relação ao tema:
+
+“(...) nada obstante a minha compreensão pessoal já enunciada quando do
+julgamento do RE nº 855.091/RS, representativo do Tema nº 808 da
+repercussão geral, não deixo de perceber que o eminente relator destes autos,
+Ministro Dias Toffoli, reproduziu com fidedignidade a ratio decidendi do
+colegiado enunciada naquela ocasião e que hora se replica.”.
+
+95. O Exmo. Ministro Luís Roberto Barroso, por sua vez, enquanto terceiro
+
+Ministro a apresentar voto escrito no julgamento do RE 1.063.187, apoiou a
+
+inconstitucionalidade da incidência de IRPJ e CSLL sobre a SELIC aplicável à repetição de
+
+indébito sobre os seguintes fundamentos:
+
+• A União efetua a devolução de seus indébitos tributários aplicando a taxa
+SELIC, a título de juros de mora. Estes constituem verbas de natureza
+indenizatória devidas em decorrência de perdas e danos advindos de ato
+ilícito, conforme previsto no art. 395, do Código Civil;
+• Os juros de mora quando visam recompor danos emergentes objetivam a
+compensação de uma perda efetivamente sofrida e, por isso, não sofrem
+incidência tributária, já que não há uma riqueza nova no patrimônio do
+contribuinte;
+• Quando os juros adquirem a natureza de lucros cessantes, o objetivo é de
+que atuem para garantir um “ganho esperável”, o qual se traduz em nova
+manifestação de riqueza e, por isso, devem ser tributados pelo imposto de
+renda;
+• Os juros moratórios legais possuem natureza jurídica própria, que pode ser
+diferente daquela do valor principal;
+• Não é possível segregar a parcela dos juros qualificável como lucros
+cessantes daquela que configura danos emergentes.
+• A correção monetária embutida na SELIC não constitui um ganho novo, mas
+a recomposição de uma perda;
+• O tratamento contábil dado à devolução dos tributos, com a sua inclusão
+na base de cálculo do IRPJ e da CSLL, não guarda relação com o tratamento a
+ser dado à Taxa SELIC, devido a sua natureza autônoma em relação à verba
+principal;
+• Essa construção está em consonância com a decisão prolatada por esse Eg.
+Supremo Tribunal Federal no julgamento do RE 855.091 (Tema 808).
+
+33
+
+[[pagina 34 | nativo]]
+
+96. Verifica-se, da análise, que os votos dos Ministros Gilmar Mendes e Luís
+
+Roberto Barroso, seja de forma mais sucinta ou mais alongada, acompanharam na íntegra as
+
+razões de decidir do voto do Exmo. Ministro Dias Toffoli, o qual, quanto ao mérito, foi
+
+seguido também pelos demais Ministros da Eg. Corte. Assim, conforme já demonstrado, não
+
+apenas a sua conclusão, mas as suas razões de decidir se tornaram vinculantes.
+
+97. É ainda importante destacar que os três Ministros expressamente citaram o
+
+entendimento do Plenário quando do julgamento do RE 855.091 (Tema 808 da RG), em que,
+
+pelas mesmas razões jurídicas, foi firmada a seguinte tese de repercussão geral: “Não incide
+
+imposto de renda sobre os juros de mora devidos pelo atraso no pagamento de remuneração
+
+por exercício de emprego, cargo ou função”. Na ocasião foi declarada a não recepção,
+
+inconstitucionalidade ou interpretação conforme dos seguintes dispositivos:
+
+“(...) considerando não recepcionada pela Constituição de 1988 a parte do parágrafo
+único do art. 16 da Lei nº 4.506/64 que determina a incidência do imposto de renda
+sobre juros de mora decorrentes de atraso no pagamento das remunerações previstas
+no artigo (advindas de exercício de empregos, cargos ou funções), concluindo que o
+conteúdo mínimo da materialidade do imposto de renda prevista no art. 153, III, da
+Constituição Federal de 1988 não permite que ele incida sobre verbas que não
+acresçam o patrimônio do credor. Ademais, acordam os Ministro em conferir ao § 1º
+do art. 3º da Lei nº 7.713/88 e ao art. 43, inciso II e § 1º, do CTN, interpretação
+conforme à Constituição Federal, de modo a se excluir do âmbito de aplicação desses
+dispositivos a incidência do imposto de renda sobre os juros de mora em questão.”47.
+
+98. Portanto, as razões de decidir comuns aos votos dos Ministros Dias Toffoli
+
+e Luís Roberto Barroso – acompanhados dos demais - foram, resumidamente, as seguintes:
+
+(i) o direito aos juros de mora decorre de um ato ilícito cometido pelo
+devedor, conforme previsto no Código Civil;
+(ii) os danos emergentes são intributáveis pelo imposto de renda e pela
+CSLL, pois visam à recomposição de uma perda efetivamente sofrida pelo
+credor;
+(iii) os lucros cessantes, por sua vez, podem ser tributados, pois são parcela
+de ganho de capital que o credor auferiria se a obrigação tivesse sido
+cumprida pelo devedor a tempo e modo;
+(iv) o atraso na obrigação de pagar/devolver dinheiro gera o direito ao
+pagamento de danos emergentes;
+(v) é impossível separar a parcela da SELIC que se refere à correção
+monetária (danos emergentes) da parcela que se refere aos lucros cessantes,
+de modo que a presunção é de que, a partir do descumprimento de uma
+
+47 RE 855.091 (Tema 808 da RG), Rel. Min. Dias Toffoli, DJe 08.04.2021.
+
+34
+
+[[pagina 35 | nativo]]
+
+obrigação legal/contratual, toda a SELIC deve ser considerada, para fins de
+tratamento jurídico-tributário, como danos emergentes; e
+(vi) os juros e o principal podem possuir naturezas diferentes e
+definitivamente essa natureza não está relacionada ao tratamento contábil
+conferido às parcelas.
+
+99. Considerando as razões de decidir do Eg. STF no julgamento do RE 1.063.187
+
+e no RE 855.091 acima sintetizadas, não é possível a realização de distinguishing em relação
+
+à Selic que recai sobre o levantamento dos depósitos judiciais tributários, uma vez que
+
+ambas são a mesma Selic, contemplando a mesma natureza jurídica de danos emergentes,
+
+devendo, portanto, receber o mesmo tratamento por parte dessa Eg. Corte.
+
+100. Essa conclusão se impõe não apenas pelo papel estabilizador e uniformizador
+
+que os precedentes constitucionais desempenham em nosso sistema jurídico, mas também
+
+na medida em que a manutenção do tratamento diferenciado a ambas as situações produziria
+
+gravíssima afronta à isonomia, à legalidade tributária e à capacidade contributiva.
+
+II.4. A afronta à isonomia
+
+101. A controvérsia quanto à incidência de IRPJ e de CSLL sobre a Selic na repetição
+
+de indébito e no levantamento de depósitos judiciais é idêntica. A discussão envolve,
+
+inclusive, o controle de constitucionalidade dos mesmos dispositivos legais, e em face das
+
+mesmas violações constitucionais, como se constata do quadro abaixo:
+
+Dispositivos
+Questão submetida a
+Objeto constitucionais
+julgamento
+violados
+
+“Incidência do Imposto de renda
+Tema 962 - Pessoa Jurídica (IRPJ) e da Inconstitucionalidade da Art. 153, III; art.
+da RG Contribuição Social sobre o interpretação conferida ao 195, I, c
+Lucro Líquido (CSLL) sobre a art. 3º, §1º, da Lei nº
+taxa Selic (juros de mora e 7.713/88; art. 17 do
+correção monetária) recebida Decreto-Lei nº 1.598/77;
+pelo contribuinte na repetição art. 43, II e § 1º, do Código
+do indébito.”. Tributário Nacional.
+
+Presente Inconstitucionalidade da Inconstitucionalidade da
+ação direta incidência de IRPJ e CSLL sobre interpretação conferida ao
+
+35
+
+[[pagina 36 | nativo]]
+
+a Selic que corrige os depósitos art. 3º, §1º, da Lei nº Art. 153, III; art.
+judiciais tributários. 7.713/88; art. 17 do 195, I, c; art. 150, I
+Decreto-Lei nº 1.598/77; e II; e art. 145, §1º
+art. 43, II e § 1º, do Código
+Tributário Nacional.
+
+102. A partir de 01.01.1995, conforme art. 13, da Lei nº 9.065/9548, os juros de
+
+mora e a correção monetária dos tributos federais, cujos fatos geradores tenham ocorrido
+
+dessa data em diante, são calculados por um único índice, a Selic. Do mesmo modo, por
+
+expressa disposição legal, os depósitos judiciais de tributos federais também são corrigidos
+
+monetariamente e têm seus juros de mora calculados pela Selic (art. 2ª-A, §2º, da Lei nº
+9.703/199849).
+
+103. O entendimento de que a natureza jurídica da Selic que incide sobre os valores
+
+devolvidos a título de repetição de indébito é diferente da natureza jurídica da Selic
+
+incidente sobre os valores recebidos quando do levantamento de depósitos judiciais, com a
+
+devida vênia, é anti-isonômica e inconstitucional, premiando o Estado (que receberá parte
+
+do valor retornado em tributo) pela exação indevida objeto da garantia.
+
+104. Isso ocorre porque, na repetição de indébito tributário, o contribuinte vê
+
+reconhecido seu direito ao ressarcimento ou compensação de tributo indevidamente pago
+
+no passado (art. 165, CTN), devendo seu valor ser atualizado para que não ocorra perda do
+
+valor da moeda, que comprometa o seu poder aquisitivo ou que gere enriquecimento sem
+
+causa do Estado. Essa premissa é tão cara ao legislador tributário que está prevista
+
+expressamente no art. 167 do Código Tributário Nacional:
+
+“Art. 165. O sujeito passivo tem direito, independentemente de prévio protesto, à
+restituição total ou parcial do tributo, seja qual for a modalidade do seu pagamento,
+ressalvado o disposto no § 4º do artigo 162, nos seguintes casos:
+
+48 Art. 13. A partir de 1º de abril de 1995, os juros de que tratam a alínea c do parágrafo único do art. 14 da Lei
+nº 8.847, de 28 de janeiro de 1994, com a redação dada pelo art. 6º da Lei nº 8.850, de 28 de janeiro de 1994, e
+pelo art. 90 da Lei nº 8.981, de 1995, o art. 84, inciso I, e o art. 91, parágrafo único, alínea a.2, da Lei nº 8.981,
+de 1995, serão equivalentes à taxa referencial do Sistema Especial de Liquidação e de Custódia - SELIC para
+títulos federais, acumulada mensalmente. Produção de efeito (Vide Decreto nº 7.212, de 2010)
+49 “Art. 2º-A. Aos depósitos efetuados antes de 1o de dezembro de 1998 será aplicada a sistemática prevista
+nesta Lei de acordo com um cronograma fixado por ato do Ministério da Fazenda, sendo obrigatória a sua
+transferência à conta única do Tesouro Nacional. (Incluído pela Lei nº 12.058, de 2009) (Vide Lei nº 12.099, de
+2009, vigência)
+(...)
+§ 2º Após a transferência à conta única do Tesouro Nacional, os juros dos depósitos referidos no caput serão
+calculados na forma estabelecida pelo § 4º do art. 39 da Lei nº 9.250, de 26 de dezembro de 1995. (Incluído pela
+Lei nº 12.099, de 2009).”. (Dispositivo vigente para depósitos de tributos federais efetuados até 15.09.2024,
+conforme previsto na Lei nº 14.973/2024).
+
+36
+
+[[pagina 37 | nativo]]
+
+I - cobrança ou pagamento espontâneo de tributo indevido ou maior que o devido em
+face da legislação tributária aplicável, ou da natureza ou circunstâncias materiais do
+fato gerador efetivamente ocorrido;
+II - erro na edificação do sujeito passivo, na determinação da alíquota aplicável, no
+cálculo do montante do débito ou na elaboração ou conferência de qualquer
+documento relativo ao pagamento;
+III - reforma, anulação, revogação ou rescisão de decisão condenatória.
+(...)
+Art. 167. A restituição total ou parcial do tributo dá lugar à restituição, na mesma
+proporção, dos juros de mora e das penalidades pecuniárias, salvo as referentes a
+infrações de caráter formal não prejudicadas pela causa da restituição.”. (Grifos
+acrescidos).
+
+105. Assim, na hipótese da repetição (seja via restituição ou compensação), resta
+
+claro que o ente que exerceu a competência tributária figura como devedor e o contribuinte
+
+como credor. O ente tributante possui a obrigação (art. 37, caput; art. 150, IV, CRFB; e art.
+
+165, do CTN) de restituir ao contribuinte o tributo pago com base em lei, ato normativo ou
+
+interpretação jurídica ilegal ou inconstitucional, de modo que o descumprimento dessa
+
+obrigação geraria enriquecimento sem causa (vedado pelo art. 884 e seguintes do Código
+
+Civil, e pelos citados dispositivos constitucionais - moralidade administrativa e não-
+
+confisco).
+
+106. O mesmo acontece nas hipóteses de depósitos judiciais de tributos federais.
+
+Nesses casos, o contribuinte deposita em juízo o valor integral do tributo com o objetivo de
+
+suspender a sua exigibilidade, uma vez que a constitucionalidade ou legalidade desse débito
+
+está sendo discutida judicialmente.
+
+107. Aqui, poderia surgir a dúvida sobre a natureza do ato de depositar o tributo e
+
+do seu levantamento ao final do processo judicial. Há quem afirme ser o depósito uma
+
+faculdade do contribuinte, o que o diferenciaria do pagamento do tributo (uma obrigação)
+
+e, portanto, o levantamento do depósito seria diferente da repetição de indébito.
+
+108. No entanto, como já abordado, o depósito judicial é feito para suspender a
+
+exigibilidade do crédito tributário sob discussão. Somente ao final, caso o Judiciário
+
+reconheça a ilegalidade ou inconstitucionalidade do crédito tributário, surgirá o direito ao
+
+levantamento. O depósito é, ao mesmo tempo, uma garantia do juízo e o meio mais seguro
+
+que o contribuinte dispõe para questionar o pagamento de tributos inconstitucionais ou
+
+ilegais. Sem o depósito, o contribuinte deixaria de cumprir sua obrigação de regularidade
+
+fiscal.
+
+37
+
+[[pagina 38 | nativo]]
+
+109. Não à toa, o Código Tributário Nacional atribui os mesmos efeitos à certidão
+
+negativa, que faz prova do pagamento do tributo (art. 205), e à certidão positiva com efeitos
+
+de negativa, que faz prova da garantia ou suspensão da exigibilidade do tributo (art. 206).
+
+Pagamento e depósito são alternativas – mas não faculdades – para que o contribuinte prove
+
+sua regularidade fiscal.
+
+110. Além disso, quem diferencia o depósito da repetição de indébito, por entender
+
+que o primeiro é uma faculdade, parte da equivocada premissa de que o pagamento de
+
+tributos inconstitucionais e ilegais é uma obrigação do contribuinte. Importante ter em
+
+mente que o fato ou ato que gera a obrigação de pagamento de tributos tem três planos:
+
+existência, validade e eficácia.
+
+111. O fato gerador e o lançamento administrativo, quando praticados, passam a
+
+existir para o direito e produzir efeitos como se válidos fossem, inclusive, constituindo óbice
+
+para emissão de certidão de regularidade fiscal.
+
+112. No entanto, caso entenda que aquele fato ou ato se fundamentou em
+
+ilegalidade ou inconstitucionalidade, o contribuinte não é obrigado a pagar o tributo que se
+
+supõe ilegal ou inconstitucional. Assim, para evitar o abominável “solve et repete”, o
+
+contribuinte deve ajuizar uma ação para discutir a (i)legalidade ou a (in)constitucionalidade
+
+daquele fato ou ato administrativo.
+
+113. Conforme amplamente demonstrado, o reconhecimento ao direito à repetição
+
+de indébito ocorre apenas por provimento judicial transitado em julgado que reconheça a
+
+ilegalidade ou a inconstitucionalidade (invalidade) da cobrança do tributo. Essa decisão
+
+judicial atesta, a um só tempo, a invalidade, a nulidade e a ineficácia da cobrança pautada
+
+em ilegalidade ou inconstitucionalidade.
+
+114. Desse modo, nem bem o depósito é uma faculdade do contribuinte nem bem
+
+o pagamento de tributo ilegal ou inconstitucional é uma obrigação. Tanto o levantamento
+
+de depósitos judiciais quanto a repetição de indébito são exercício regular de um direito,
+
+que decorre do reconhecimento de uma ilegalidade ou inconstitucionalidade cometida pelo
+
+Fisco, de modo a impedir o enriquecimento sem causa do Estado.
+
+115. Reitera-se: apenas o depósito do valor integral do crédito discutido suspende
+
+a sua exigibilidade pelo Fisco. Esse é o meio mais ágil para a suspensão da exigibilidade de
+
+créditos tributários e o melhor também para o credor, uma vez que, se a ação for julgada
+
+38
+
+[[pagina 39 | nativo]]
+
+improcedente, o ente da Federação poderá converter o depósito em renda e extinguir o
+
+crédito. No entanto, se o pleito do contribuinte for julgado procedente, ele possui, claro, o
+
+direito de reaver os valores a título de tributo que foram depositados.
+
+116. Destaca-se que, com base no princípio da legalidade administrativa (art. 37,
+
+da Constituição Federal), os entes só podem agir com base na lei e não contrariamente a
+
+ela, devendo, assim, abster-se da prática de atos inconstitucionais ou ilegais. A
+
+inadimplência do Fisco para com o contribuinte, pelo exercício de uma obrigação negativa
+
+(de não praticar ato ilegal ou inconstitucional), gera direito a perdas e danos por aquele que
+
+sofre a cobrança indevida (art. 389, do Código Civil) e a privação de parte do patrimônio do
+
+credor para depósito judicial e para a comprovação, em juízo, da inconstitucionalidade e
+
+ilegalidade da norma tributária, constitui o Fisco em mora em relação a esses valores (art.
+
+394 e 397, do Código Civil).
+
+117. Assim, tanto na repetição quanto no levantamento do depósito judicial, os
+
+valores a que o contribuinte faz jus são valores de tributos que foram indevidamente
+
+pagos (repetição) ou que foram indevidamente cobrados pelo Fisco e precisaram ser
+
+depositados, tendo, em ambos os casos, ficado igualmente indisponíveis ao contribuinte
+
+para a garantia ou quitação de indébito tributário. A mesma lógica se aplica ao
+levantamento dos depósitos efetuados com base no art. 9º, I, da Lei nº 6.830/8050, com a
+
+procedência dos embargos à execução fiscal.
+
+118. Ainda quanto aos depósitos judiciais de tributos federais, é importante
+
+destacar que, assim que realizados pelos contribuintes, passam a integrar a conta única do
+
+Tesouro Nacional, “independente de qualquer formalidade”, conforme resta claro no art.
+1º, §2º, da Lei nº 9.703/9851, podendo a União deles dispor.
+
+119. Sob a ótica orçamentária-financeira da União, portanto, o depósito judicial
+
+tem os mesmos efeitos de um puro e simples recolhimento de tributo, passando a compor o
+
+50 Art. 9º. Em garantia da execução, pelo valor da dívida, juros e multa de mora e encargos indicados na Certidão
+de Dívida Ativa, o executado poderá:
+I - efetuar depósito em dinheiro, à ordem do Juízo em estabelecimento oficial de crédito, que assegure
+atualização monetária;
+51 Art. 1º. Os depósitos judiciais e extrajudiciais, em dinheiro, de valores referentes a tributos e contribuições
+federais, inclusive seus acessórios, administrados pela Secretaria da Receita Federal do Ministério da Fazenda,
+serão efetuados na Caixa Econômica Federal, mediante Documento de Arrecadação de Receitas Federais - DARF,
+específico para essa finalidade.
+(...)
+§ 2º Os depósitos serão repassados pela Caixa Econômica Federal para a Conta Única do Tesouro Nacional,
+independentemente de qualquer formalidade, no mesmo prazo fixado para recolhimento dos tributos e das
+contribuições federais.
+
+39
+
+[[pagina 40 | nativo]]
+
+caixa do Tesouro. Ou seja, o levantamento do depósito pelo contribuinte tem, para a União,
+
+a mesma consequência financeira da repetição de indébito.
+
+120. E foi exatamente nesse sentido que se manifestou o Professor Ayres Britto, ao
+
+justificar a necessidade de aplicação das razões de decidir do Tema 962 da RG ao
+
+levantamento dos depósitos judiciais. Veja-se:
+
+“Com efeito, no Tema 962, o STF enfrentou a questão atinente à tributação da
+incidência da SELIC, por IRPJ e CSLL, sobre o objeto da repetição de indébito. No
+Tema 504 do STJ, sai de cena a repetição de indébito e sobe à ribalta a devolução de
+depósito judicial. Seria o bastante para tornar impertinente todo o encadeamento de
+razões que levaram o STF a afastar a tributação da SELIC no primeiro caso? Penso
+decididamente que não, por verificar uma quádrupla identidade entre as hipóteses.”.
+
+121. Assim, são quatro os pontos que o Parecerista elencou para fundamentar a
+
+necessária aplicação do Tema 962 da RG ao presente caso:
+
+(i) IDENTIDADE NORMATIVA - os dois casos possuem a mesma base de
+referibilidade normativa, tanto no plano infraconstitucional, quanto no
+constitucional, ‘pois concernem, no plano infraconstitucional, à
+interpretação adequada a ser atribuída ao art. 3º, § 1º, da Lei nº 7.713/1988
+e ao art. 17 do Decreto-Lei nº 1.598/1977, e têm por parâmetro de validade
+constitucional também os mesmos dispositivos: o inciso III do art. 153 e a
+alínea ‘c’ do inciso I do art. 195’;
+
+(ii) IDENTIDADE JURÍDICO-CAUSAL - o ato ilícito cometido pelas Fazendas
+Públicas que dá ensejo à repetição e ao depósito e a necessidade de
+responsabilização em ambos os casos são idênticos: “se originam de uma
+cobrança tributária ilícita, indevida, pela qual a Fazenda Pública deve ser
+igualmente responsabilizada. Uma mesma hipótese de ilicitude e correlata
+responsabilização, no caso, que é formal e definitivamente atestada por um
+pronunciamento judicial, de modo que é a mesma conjuntura jurídica que
+leva os contribuintes a repetirem o valor indevidamente pago a título de
+tributo e a levantarem o valor depositado judicialmente para acautelar a
+discussão sobre uma cobrança tributária indevida”;
+
+(iii) IDENTIDADE ECONÔMICA: para o contribuinte, os pagamentos realizados
+equivocadamente ao Fisco e os depósitos judiciais ensejam a mesma
+consequência, qual seja, a indisponibilidade financeira decorrente de um ato
+ilícito praticado pela Fazenda; e
+
+(iv) IDENTIDADE ORÇAMENTÁRIA: os valores pagos indevidamente ou depositados
+judicialmente são direcionados ao mesmo destino provisório: “Num caso e
+noutro, os valores aportam na Conta Única do Tesouro Nacional, como
+determina, no caso dos depósitos judiciais, o § 2º do art. 1º da Lei nº
+9.703/1998”.
+
+40
+
+[[pagina 41 | nativo]]
+
+122. Os pontos acima são sintetizados pelo parecerista da seguinte forma:
+
+“É o quanto basta para que se perceba a relação de unha e carne, olho e pálpebra
+entre o Tema 962/STF e o Tema 504/STJ, de modo que o desfecho daquele seja
+reproduzido neste. Indisponibilidade financeira causada por um ato ilícito; sua
+caracterização como dano emergente (e não lucros cessantes); natureza
+indenizatória dos juros de mora; a autonomia deste em relação à natureza
+jurídica da verba em atraso, inclusive quanto ao tratamento contábil; a
+impossibilidade de se fracionar o conteúdo econômico da SELIC; a consonância
+com a decisão tomada no Tema 808 de Repercussão Geral, no sentido já aqui
+registrado de que ‘não incide imposto de renda sobre os juros de mora devidos pelo
+atraso no pagamento de remuneração por exercício de emprego, cargo ou função’:
+todos, rigorosamente todos os elementos constitutivos das razões decisórias do
+Tema 962/STF se amoldam à controvérsia instaurada no Tema 504/STJ.”.
+
+123. Nesse mesmo sentido, manifestou-se o Professor Paulo Ayres Barreto, da
+
+Faculdade de Direito da USP, ao afirmar que:
+
+• A natureza da SELIC que incide sobre a repetição e sobre o levantamento de
+depósitos é de danos emergentes. Classificá-la como lucros cessantes significa
+presumir que o contribuinte aplicaria os valores “em investimentos diversos,
+com remunerações distintas”, no entanto, tal conclusão não é plausível, uma
+vez que o contribuinte poderia usar os valores “para o pagamento de custos e
+despesas relacionados à própria atividade da empresa, o que é mais
+consentâneo com a realidade da maior parte das empresas do País”;
+
+• Tanto na repetição quanto no levantamento de depósitos, os numerários só
+serão devolvidos aos contribuintes “se houver decisão definitiva do Poder
+Judiciário no sentido de que a exigência fiscal nunca fora devida, de modo
+que a União deu causa, indevidamente, à privação do patrimônio do
+contribuinte.”;
+
+• “Por isso, em ambos os casos, incide a Selic, por determinação legal, para
+indenizar o contribuinte dos danos ocasionados pelo ilícito que o levou a ficar
+privado dos seus recursos durante o trâmite do processo judicial. Nem em um
+caso nem no outro há qualquer relação do valor acrescido ao montante
+nominal devolvido com o que o contribuinte deixou de ganhar (lucros
+cessantes), como bem analisou o STF no julgamento do Tema 962.”;
+
+• “O depósito é efetuado para suspender a exigibilidade do crédito tributário,
+inexistindo escolha sobre a taxa, o prazo ou o credor. Trata-se de medida que
+visa à concretização e execução do direito de defesa (CF/88, art. 5º, LV)”;
+
+• “A adoção do entendimento no sentido de que haveria a tributação da Selic
+incidente sobre depósitos judiciais implicaria desincentivo dessa modalidade
+de garantia em prol de outras (seguro-garantia, fiança bancária, etc.) que
+não proporcionam à União disponibilidade imediata sobre os recursos,
+acabando por mais prejudicar as contas públicas do que ajuda-las.”; e
+
+• “(...) a forma de contabilização da Taxa Selic incidente sobre a repetição do
+indébito tributário e os depósitos judiciais, sejam eles referentes a tributos
+dedutíveis em relação à base de cálculo do IRPJ e da CSLL ou não, é
+
+41
+
+[[pagina 42 | nativo]]
+
+absolutamente irrelevante para a não incidência dos tributos sobre receita
+em relação a estas parcelas, por tratar-se de indenizações por danos
+emergentes”, conforme chancelado pelo STF quando da análise do Tema 962
+da RG.
+
+124. Desse modo, com a devida vênia, não há espaço para qualquer distinguishing,
+
+uma vez que o Tema 962 da RG e a presente ação versam exatamente sobre os mesmos fatos
+
+relevantes: a inconstitucionalidade de IRPJ e CSLL sobre a Selic que corrige valores que serão
+
+devolvidos ao contribuinte por inconstitucionalidade ou ilegalidade do ato do ente
+
+tributante, reconhecida judicialmente.
+
+125. A manutenção de tratamentos díspares a situações equivalentes, além de ferir
+
+a racionalidade jurisdicional almejada pelo sistema de precedentes, fere frontalmente o
+
+princípio geral da igualdade (art. 5º, caput, da Constituição Federal) e o seu desdobramento
+
+em matéria tributária, o princípio da isonomia (art. 150, II, da Constituição).
+
+126. Sobre a relação da igualdade com o sistema de precedentes constitucionais,
+
+verifica-se que:
+
+“O princípio geral da igualdade pode se relacionar com o sistema de precedentes de
+três formas: (i) como mandamento de vedação à criação de discriminações
+injustificadas pelo Estado (em que se inclui o Judiciário); (ii) ao restringir a
+possibilidade de que o Judiciário confira soluções diversas a problemas equivalentes,
+naquilo que Marinoni chamou de igualdade perante a interpretação da lei; e, assim,
+(iii) impor vedação ao tratamento parcial por parte do julgador, perfazendo
+verdadeira garantia de parcialidade.
+
+Observa-se que, em relação ao primeiro ponto, trata-se de aplicação ‘endógena’ da
+igualdade pelo juiz, que no âmbito da própria decisão, não pode produzir norma que
+a contrarie. Em relação ao segundo ponto, a igualdade perante a interpretação da lei
+consubstancia a ideia de que a(s) norma(s) criada(s) pelo Judiciário para a solução de
+casos concretos devem ser universalizáveis, conforme defendido por MacCormick.
+Assim, as razões de decidir extraídas de um julgado devem ser aplicadas a todos os
+casos que a elas se subsumirem pelo dever de isonomia que vincula a atuação do juiz
+em um sistema de precedentes. Trata-se da aplicação ‘exógena’ da igualdade,
+referente à aplicação de uma decisão a casos análogos ao precedente.”52.
+
+127. Por uma singela, porém relevante peculiaridade do princípio da isonomia
+
+tributária, transcrevemos o respectivo dispositivo constitucional:
+
+“Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à
+União, aos Estados, ao Distrito Federal e aos Municípios:
+(...).
+
+52 PENCAK, Nina Pinheiro. Direito tributário e controle de constitucionalidade: o STF como intérprete da
+Constituição tributária à luz do sistema de precedentes. 2025. 491f. Tese (Doutorado em Direito) – Faculdade de
+Direito, Universidade do Estado do Rio de Janeiro, Rio de Janeiro, 2025, p. 269.
+
+42
+
+[[pagina 43 | nativo]]
+
+II - instituir tratamento desigual entre contribuintes que se encontrem em situação
+equivalente, proibida qualquer distinção em razão de ocupação profissional ou função
+por eles exercida, independentemente da denominação jurídica dos rendimentos,
+títulos ou direitos; (...)” (Grifos acrescidos).
+
+128. Sobre a isonomia tributária, “Destaca-se que o próprio texto constitucional
+
+reconheceu, ao menos em matéria tributária, que a igualdade de tratamento entre
+
+contribuintes não se limita àqueles que se encontrem em situação idêntica, mas em
+
+situações que sejam valoradas da mesma forma, que equivalham ‘em termos quantitativos,
+
+apesar de apresentar[em]-se sob forma diferente’. Em outras palavras, depreende-se que o
+
+constituinte entendeu que as normas tributárias não podem discriminar contribuintes,
+desde que eles estejam em situação que seja considerada equivalente.”53.
+
+129. É inegável, portanto, a equivalência entre a repetição de indébito e o
+
+levantamento de depósitos judiciais que atrai a necessidade de tratamento isonômico à Selic
+
+que corrige ambas.
+
+130. Essa equivalência já foi, inclusive, reconhecida pela própria União que, para
+
+fins orçamentários equiparou ambas as situações na Lei de Diretrizes Orçamentárias (LDO)
+
+de 2024, quando afirma que:
+
+“De acordo com a Lei nº 9.703, de 13 de novembro de 1998, os depósitos judiciais são
+efetuados em conta corrente da Caixa Econômica Federal (CAIXA) e seus recursos
+repassados à Conta Única do Tesouro Nacional. Em a decisão da lide sendo favorável
+ao contribuinte, a devolução do depósito deve ser feita em até vinte quatro horas. O
+levantamento de depósito possui natureza semelhante à restituição de tributos.
+Em a decisão sendo contrária ao contribuinte, há a conversão do depósito em renda
+transformando-se, assim, em pagamento definitivo”.
+
+131. Assim, considerando que a Selic incidente na repetição de indébito e no
+
+levantamento de depósitos judiciais possui a mesma natureza, incabível eventual distinção
+
+em relação às razões de decidir firmadas no RE 1.063.187 (Tema 962 da RG) e a situação
+
+apresentada nesta ADI. A tributação da Selic pelo IRPJ e pela CSLL fere, em ambas as
+
+hipóteses, a interpretação conferida ao § 1º do art. 3º da Lei nº 7.713/88; ao art. 17 do
+
+Decreto-Lei nº 1.598/77; ao art. 43, inciso II e § 1º, do Código Tributário Nacional (Lei nº
+
+5.172/66); e ao art. 8º, da Lei nº 8.541/92, que excluiu, inequivocamente, do conceito de
+
+“acréscimos patrimoniais”, os danos emergentes representados pelo referido índice.
+
+53 Op. Cit. p. 271.
+
+43
+
+[[pagina 44 | nativo]]
+
+132. Assevera-se que o respeito aos precedentes é o principal meio que o Judiciário
+
+- e sobretudo os Tribunais Superiores –, dispõem para resguardar a segurança jurídica e a
+
+isonomia, e implementar o princípio democrático, via colegialidade (art. 926, do CPC/2015).
+
+133. A criação de discriminações no âmbito das normas produzidas pelo Eg.
+
+Supremo Tribunal Federal por meio de seus precedentes vinculantes gera estímulos e
+
+desestímulos indesejados e imponderados pela própria Eg. Corte, conforme apontou o
+
+Professor Paulo Ayres Barreto:
+
+“O depósito é efetuado para suspender a exigibilidade do crédito tributário,
+inexistindo escolha sobre a taxa, o prazo ou o credor. Trata-se de medida que visa à
+concretização e execução do direito de defesa (CF/88, art. 5º, LV). (...).
+
+A adoção do entendimento no sentido de que haveria a tributação da Selic incidente
+sobre depósitos judiciais implicaria desincentivo dessa modalidade de garantia em
+prol de outras (seguro-garantia, fiança bancária, etc.) que não proporcionam à União
+disponibilidade imediata sobre os recursos, acabando por mais prejudicar as contas
+públicas do que ajuda-las.”.
+
+134. É imperioso, portanto, sob pena de perpetuação da afronta à isonomia, que
+
+sejam aplicadas, ao presente caso, as já citadas razões de decidir que levaram à declaração
+
+de inconstitucionalidade da incidência de IRPJ e CSLL sobre a Selic no RE 1.063.187 (do Tema
+
+962) pelo Eg. STF.
+
+II.5. A afronta à legalidade tributária
+
+135. O art. 150, I, da Constituição Federal, impõe que apenas por lei em sentido
+
+estrito um ente pode exigir ou aumentar tributo. Essa é a leitura tradicional do referido
+
+dispositivo.
+
+136. No entanto, dele também extraímos a impossibilidade da escolha arbitrária
+
+da abrangência das razões de decidir de um precedente, de modo que essa escolha resulte
+
+em situação de incidência tributária prevista em lei ou em interpretação de lei já declarada
+inconstitucional54.
+
+54 Esse argumento foi originalmente sustentado em: PENCAK, Nina Pinheiro. Direito tributário e controle de
+constitucionalidade: o STF como intérprete da Constituição tributária à luz do sistema de precedentes. 2025.
+491f. Tese (Doutorado em Direito) – Faculdade de Direito, Universidade do Estado do Rio de Janeiro, Rio de
+Janeiro, 2025, p. 285 e seguintes.
+
+44
+
+[[pagina 45 | nativo]]
+
+137. Desse modo, considerando que esse Eg. Tribunal, quando do julgamento do RE
+
+1.063.187 (Tema 962 da RG), conferiu interpretação conforme à Constituição ao §1º do art.
+
+3º da Lei nº 7.713/88; ao art. 17 do Decreto-Lei nº 1.598/77; e ao art. 43, inciso II e § 1º, do
+
+CTN (Lei nº 5.172/66), “de modo a se excluir do âmbito de aplicação desses dispositivos a
+
+incidência do imposto de renda e da CSLL sobre a taxa SELIC recebida pelo contribuinte na
+
+repetição de indébito tributário”, é forçoso que se reconheça que, desde então, não existe
+
+suporte legal válido a fundamentar a exigência dos tributos federais que incidem sobre a
+
+Selic em situações equivalentes (como o é o levantamento dos depósitos judiciais
+tributários)55.
+
+138. Não se trata aqui da antiga distinção entre texto e norma, mas da
+
+impossibilidade de se criar distinguishings randômicos, não apenas porque afrontam ao
+
+princípio da isonomia, mas porque, no presente caso, violaria a legalidade tributária, uma
+
+vez que já foi decidido em precedente vinculante que a Selic configura danos emergentes
+
+e, portanto, não está no âmbito de incidência das referidas normas.
+
+139. Como a Selic que corrige a repetição é a mesma que corrige o levantamento
+
+dos depósitos judiciais realizados até 15.09.2024, permitir a tributação da segunda é
+
+permitir a incidência de IRPJ e de CSLL com base em dispositivos de leis já declarados
+
+inconstitucionais, o que desrespeita de forma manifesta a legalidade tributária.
+
+II.6. A afronta à capacidade contributiva e ao não confisco
+
+140. Não bastasse todo o exposto, a incidência de IRPJ e CSLL sobre as parcelas
+
+correspondentes a juros e correção monetária viola, ainda, os princípios da razoabilidade,
+
+da proporcionalidade, da capacidade contributiva e do não-confisco.
+
+141. Nos termos do artigo 37 da Constituição Federal, a Administração Pública tem
+
+o dever de agir com razoabilidade e proporcionalidade, atuando por meio de práticas
+
+eficazes que assegurem a finalidade almejada, qual seja, resguardar o interesse público.
+
+142. No presente caso, não há que se falar em interesse público a ser resguardado
+
+ante a tributação de grandezas que não denotam riqueza sujeita à tributação para
+
+55 Op. Cit.
+
+45
+
+[[pagina 46 | nativo]]
+
+manutenção das atividades estatais. Ao contrário, juros e correção monetária correspondem
+
+à indenização ao contribuinte e à recomposição de seu patrimônio.
+
+143. A capacidade contributiva, por sua vez, é prevista no artigo 145, §1º, da
+
+Constituição, como desdobramento da isonomia (artigo 150, inciso II), que impõe a
+
+existência de uma dimensão econômica (pecuniária) intrínseca ao fato sobre o qual recai o
+
+tributo.
+
+144. Para além de elemento identificador da renda, a capacidade contributiva é
+
+verdadeiro pressuposto de exercício da competência tributária, que necessariamente
+
+deverá eleger como base de cálculo os fatos que exprimam riqueza. A atualização dos
+
+depósitos judiciais de débito tributário não denota riqueza passível de tributação – o
+
+chamado “signo presuntivo de riqueza”. Nesse sentido, Ricardo Lodi Ribeiro, Professor de
+
+Direito Tributário da Universidade do Estado do Rio de Janeiro:
+
+“Em seu primeiro aspecto objetivo, a Capacidade Contributiva constitui fundamento
+constitucional para a exigência tributária, uma vez que não há tributação onde não
+há manifestação de riqueza. Ademais, o plano objetivo se completa pelo segundo
+aspecto, revelado na diretriz constitucionalmente firmada para a eleição pelo
+legislador de um fato gerador que seja revestido de conteúdo econômico. Tal
+dimensão objetiva será, portanto, violada quando houver tributação de atos que
+não se revelem em signos presuntivos de riqueza (...).”56 (Negritos acrescidos).
+
+145. Ausente o elemento de expressão de capacidade contributiva nos juros
+
+indenizatórios e na correção monetária, conforme reconhecido no RE 1.063.187 (Tema 962
+
+da RG), sua tributação pelo IRPJ e pela CSLL ofende o princípio protegido pelo artigo 145,
+
+§1º, da Constituição Federal.
+
+146. A exigência ora impugnada viola também o artigo 150, inciso IV, da
+
+Constituição, que limita expressamente o poder do Estado para a instituição e cobrança de
+
+tributos: “Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União,
+
+aos Estados, ao Distrito Federal e aos Municípios utilizar tributo com efeito de confisco”.
+
+147. A tributação ora questionada viola o princípio do não confisco, pois
+
+representa exigência, por parte do ente público, de valores que acarretam a absorção total
+
+ou parcial da propriedade privada, sem indenização57. Isso porque, se há tributação além da
+
+56 RIBEIRO, Ricardo Lodi. Limitações constitucionais ao poder de tributar. Rio de Janeiro: Lumen Juris, 2010, p.
+155.
+57 BARRETO, Aires F. ISS na Constituição e na lei, São Paulo: Dialética, 2003, p. 17.
+
+46
+
+[[pagina 47 | nativo]]
+
+capacidade contributiva, o Estado não tributa a renda ou lucro, mas, sim, patrimônio do
+
+contribuinte.
+
+148. Também por essas razões, deve ser afastada a incidência do IRPJ e da CSLL
+
+sobre a parcela correspondente à Selic que corrige os depósitos judiciais relativos à débitos
+
+tributários.
+
+II.7. Subsidiariamente: a inconstitucionalidade da incidência de IRPJ e CSLL sobre a
+
+parcela de correção monetária que compõe a Selic
+
+149. Conforme exposto, a Selic é composta de parcela referente à correção
+
+monetária e parcela referente a juros moratórios indenizatórios, que essa Eg. Corte já
+
+entendeu possuir a natureza jurídica de danos emergentes, quando do julgamento do Tema
+
+962 da RG, motivo pelo qual não configura acréscimo patrimonial passível de ser tributado
+
+por IRPJ e por CSLL.
+
+150. Nesse sentido, destaca-se que o Exmo. Min. Luís Roberto Barroso explicou em
+
+seu voto, no julgamento do RE 1.063.187 (Tema 962), em consonância com o sustentado pelo
+
+Exmo. Min. Dias Tofolli, que:
+
+“15. A taxa SELIC possui uma natureza dúplice, já que, por um lado, procura refletir
+a expectativa de rendimento do capital, tendo por base os empréstimos bancários em
+um mercado com lastro em títulos públicos federais negociados no Sistema Especial
+de Liquidação e Custódia; e, por outro lado, considera a instabilidade do poder de
+compra da moeda, atuando como um mecanismo de neutralização dos efeitos
+inflacionários.
+
+16. Veja-se que essa afirmação não significa que a taxa SELIC efetivamente contém a
+correção monetária no seu resultado, no sentido de sempre, ao menos, equivaler à
+inflação do período. Pode haver taxa SELIC superior à inflação (juros reais positivos)
+ou inferior a esta (juros reais negativos)58.”.
+
+151. No entanto, como visto, a Primeira Seção do Eg. STJ, quando da reanálise da
+
+tese que havia firmado nos Temas Repetitivos 504 e 505, entendeu que apenas a Selic que
+
+corrige a repetição de indébito possuiria natureza de danos emergentes, enquanto a Selic
+
+58 STF, RE 1.063.187, Tribunal Pleno, Relator: Min. Dias Toffoli, DJe-247, 16 dez. 2021.
+
+47
+
+[[pagina 48 | nativo]]
+
+que corrige o levantamento de depósitos judiciais teria natureza de lucros cessantes, uma
+
+vez que os juros moratórios seriam remuneratórios e não indenizatórios.
+
+152. Mesmo admitindo a impossibilidade de tributação da correção monetária,
+
+aquela Eg. Corte de Justiça decidiu que toda a Selic que corrige o levantamento de
+
+depósitos judiciais é lucros cessantes, e, portanto, acréscimo patrimonial, inclusive a parte
+
+que se refere à correção monetária.
+
+153. Desse modo, caso essa Eg. Corte decida por manter as premissas adotadas
+
+pelo Eg. STJ, no sentido de que apenas a parte dos juros da Selic que recai sobre os depósitos
+
+deveria ser tributada por configurar lucros cessantes, é necessário que se adeque, ao menos,
+
+a conclusão a que chegou aquele Tribunal. Portanto, na atualização de depósitos judiciais,
+
+deve ser excluída da tributação por IRPJ e por CSLL a parcela da Selic correspondente à
+
+correção monetária.
+
+154. Assim, subsidiariamente, a Requerente pleiteia que, na hipótese de se
+
+entender pela possibilidade de tributação por IRPJ e CSLL da parte referente aos juros de
+
+mora que compõem a Selic que corrige os depósitos, que essa Eg. Corte, com base nos seus
+
+precedentes, declare a inconstitucionalidade da incidência dos tributos federais sobre a
+
+parcela referente à correção monetária.
+
+I. OS PEDIDOS
+
+III.1. O pedido cautelar
+
+155. Conforme art. 102, I, p, da Constituição Federal, e art. 10 e seguintes, da Lei
+
+nº 9.868/99, é possível que essa Eg. Corte conceda a medida cautelar pleiteada pelo
+
+Requerente desde que observado o cumprimento de dois requisitos – fumus boni iuris e
+
+periculum in mora – ambos presentes no caso concreto.
+
+156. Quanto ao fumus boni iuris, o direito suscitado pela Requerente é mais do que
+
+plausível e foi exaustivamente demonstrado ao longo da presente petição. Conforme
+
+decidido por essa Eg. Corte no RE 1.063.187 (Tema 962 da RG) a Selic aqui discutida possui
+
+natureza de danos emergentes, não configurando renda, lucro ou qualquer acréscimo
+
+48
+
+[[pagina 49 | nativo]]
+
+patrimonial. As razões de decidir desse precedente qualificado, em que pese vinculante a
+
+todo o Judiciário e ao Poder Executivo (art. 102, §3º, da Constituição e Tema 885 da RG),
+
+não têm sido aplicadas à situação equivalente objeto desta ADI, de modo que a Selic que
+
+corrige os depósitos judiciais efetuados até 15.09.2024, continuam a sofrer a incidência de
+
+IRPJ e de CSLL.
+
+157. Tal situação, além de representar uma gravíssima ofensa ao Tema 962 da RG
+
+e ao Tema 808 (ou, no mínimo, às suas razões), conforme exposto, viola per se os conceitos
+
+constitucionais limitadores da competência tributária da União previstos no art. 146, III, a;
+
+153, III; e 195, I, c, da Constituição Federal.
+
+158. Ao perpetuar a cobrança de IRPJ e CSLL sobre a Selic no levantamento de
+
+depósitos judiciais tributários, a União cria, com a chancela do Eg. Superior Tribunal de
+
+Justiça, situação verdadeiramente anti-isonômica, discriminando contribuintes que se
+
+encontram em situações equivalentes – aqueles que pagaram e pediram repetição e aqueles
+
+que depositaram -, em contrariedade ao art. 5º, e art. 150, II, da Constituição. É clara,
+
+ainda, a afronta à legalidade tributária, à capacidade contributiva e ao não-confisco, posto
+
+que se tributa fato que não consubstancia signo presuntivo de riqueza, pois possui
+
+reconhecida natureza indenizatória.
+
+159. Igualmente presente está o requisito do periculum in mora. Isso porque o
+
+precedente do Tema 962 firmado em 2021, e integrado por v. acórdão de embargos de
+
+declaração em 2022, está em vigor há quase quatro anos, sem ser devidamente observado
+
+pela União e pelo Poder Judiciário federal, no que se refere às suas razões de decidir.
+
+160. Desse modo – e sobretudo após a negativa, pela Primeira Seção do Eg. STJ, da
+
+readequação da tese firmada no REsp nº 1.138.695 (cujos embargos de declaração foram
+
+julgados em 06.02.2025) – o entendimento da União no sentido da incidência do IRPJ e da
+
+CSLL sobre a Selic que corrige o levantamento de depósitos judiciais ganhou ainda mais
+
+força, fomentando a judicialização da matéria e o temerário cenário de justiça lotérica.
+
+161. Há de se observar, ainda, que o risco em discussão é contemporâneo e se
+
+concretiza a cada dia, uma vez que, conforme se dão as liberações do levantamento dos
+
+depósitos judiciais tributários, o Fisco federal procede às consequentes autuações – gerando
+
+a necessidade de novos depósitos para discussão do novo suposto débito, em verdadeiro ciclo
+
+de insegurança e onerosidade ao contribuinte.
+
+49
+
+[[pagina 50 | nativo]]
+
+162. Faz-se, pois, imperioso que essa Eg. Corte, liminarmente, decida pela
+
+suspensão da eficácia da interpretação conferida ao art. § 1º do art. 3º da Lei nº 7.713/88;
+
+ao art. 17 do Decreto-Lei nº 1.598/77; ao art. 43, inciso II e § 1º, do Código Tributário
+
+Nacional (Lei nº 5.172/66); e ao art. 8º, da Lei nº 8.541/92; 57 da Lei nº 8.981/1995, de
+
+modo a excluir do âmbito dos referidos dispositivos a incidência de IRPJ e CSLL sobre a Selic
+
+que corrige o levantamento dos depósitos judiciais, até o julgamento de mérito da presente
+
+ação.
+
+163. Subsidiariamente, requer-se que essa Eg. Corte suspenda nacionalmente a
+
+tramitação de ações de judiciais e processos administrativos que versem sobre a matéria,
+
+para evitar que ocorra o trânsito em julgado e o perecimento do direito dos contribuintes.
+
+Faz-se, necessário, ainda nessa hipótese, o reconhecimento da suspensão da exigibilidade
+
+dos créditos tributários de IRPJ e CSLL para que se evite que os contribuintes ingressem em
+
+juízo para discutir as cobranças, o que gerará uma enorme quantidade de litígios.
+
+164. Por fim, não há que se falar em periculum in mora reverso, na medida em que
+
+a União, na hipótese de se sagrar vencedora, poderá dar continuidade às cobranças
+
+administrativas e judiciais dos referidos tributos, não havendo que se falar em perecimento
+
+do seu suposto direito.
+
+III.2. Requerimentos, pedidos principais e pedidos subsidiários
+
+165. Por todo o exposto, a CNSaúde requer:
+
+(i) preliminarmente, o conhecimento da presente ação direta de
+
+inconstitucionalidade posto restarem cumpridos os requisitos constitucionais (art. 102, I, a,
+
+e 103, IX, da Constituição Federal) e legais (art. 2º e seguinte da Lei nº 9.868/99);
+
+(ii) ainda preliminarmente, e em caráter subsidiário, caso essa Eg. Corte
+
+entenda que o art. 37, II, da Lei nº 14.973/2024 – que, frise-se não é objeto da presente
+
+ação - teria alterado o cenário fático-jurídico de correção dos depósitos judiciais federais,
+
+em nome do princípio da fungibilidade e restado cumprido o requisito da subsidiariedade,
+
+que a presente ADI seja recebida como arguição de descumprimento de preceito
+
+fundamental, nos termos dos precedentes dessa Eg. Corte (p. ex. MC ADI 4.180, Rel. Min.
+
+Cezar Peluso);
+
+50
+
+[[pagina 51 | nativo]]
+
+(iii) liminarmente, nos termos do art. 102, I, p, da Constituição Federal,
+
+a concessão da cautelar acima pleiteada inaudita altera parte e ad referendum do Plenário,
+
+conforme previsto no art. 10, §3º, da Lei nº 9.868/99, a fim de suspender a eficácia da
+
+interpretação conferida ao art. § 1º do art. 3º da Lei nº 7.713/88; ao art. 17 do Decreto-Lei
+
+nº 1.598/77; ao art. 43, inciso II e § 1º, do Código Tributário Nacional (Lei nº 5.172/66); e
+
+ao art. 8º, da Lei nº 8.541/92; 57 da Lei nº 8.981/1995, de modo a excluir do âmbito dos
+
+referidos dispositivos a incidência de IRPJ e CSLL sobre a Selic que corrige o levantamento
+
+dos depósitos judiciais, até o julgamento de mérito da presente ação. Subsidiariamente,
+
+requer-se que essa Eg. Corte suspenda nacionalmente a tramitação de ações de judiciais e
+
+processos administrativos que versem sobre a matéria, para evitar que ocorra o trânsito em
+
+julgado e o perecimento do direito dos contribuintes. Faz-se necessário nessa hipótese o
+
+reconhecimento da suspensão da exigibilidade dos créditos tributários de IRPJ e CSLL já
+
+lançados para que se evite que os contribuintes ingressem em juízo para discutir as
+
+cobranças, o que gerará uma enorme quantidade de litígios;
+
+(iv) sucessivamente, (a) a notificação das autoridades competentes pela
+
+edição dos atos normativos impugnados para prestar informações no prazo de 30 (trinta)
+
+dias, nos termos do art. 6º, caput e parágrafo único, da Lei 9.868/1999 e, na sequência (b)
+
+a oitiva do Advogado-Geral da União e do Procurador-Geral da República, conforme art. 8º
+
+da Lei 9.868/99;
+
+(v) no mérito, a confirmação da medida liminar para que se confira
+
+interpretação conforme à Constituição Federal, ao art. § 1º do art. 3º da Lei nº 7.713/88; ao
+
+art. 17 do Decreto-Lei nº 1.598/77; ao art. 43, inciso II e § 1º, do Código Tributário Nacional
+
+(Lei nº 5.172/66); e ao art. 8º, da Lei nº 8.541/92; 57 da Lei nº 8.981/1995, a fim de declarar
+
+sua inconstitucionalidade parcial sem redução de texto, de modo a excluir do âmbito dos
+
+referidos dispositivos a incidência de IRPJ e CSLL sobre a Selic que corrige o
+
+levantamento dos depósitos judiciais; e
+
+(vi) subsidiariamente, no mérito, que se confira interpretação conforme
+
+à Constituição Federal, ao art. § 1º do art. 3º da Lei nº 7.713/88; ao art. 17 do Decreto-Lei
+
+nº 1.598/77; ao art. 43, inciso II e § 1º, do Código Tributário Nacional (Lei nº 5.172/66); e
+
+ao art. 8º, da Lei nº 8.541/92; 57 da Lei nº 8.981/1995, de modo a excluir do âmbito dos
+
+referidos dispositivos a incidência de IRPJ e CSLL sobre a parcela da Selic que equivale
+
+apenas à correção monetária (inflação) e que recai sobre o levantamento dos depósitos
+
+judiciais pelos mesmos fundamentos expostos.
+
+51
+
+[[pagina 52 | nativo]]
+
+166. Por fim, requer que todas as futuras publicações e intimações relativas ao
+
+presente feito sejam realizadas em nome do advogado BRENO FERREIRA MARTINS
+
+VASCONCELOS, inscrito na OAB/SP nº 224.120, com endereço profissional na Avenida
+
+Paulista, número 1776, 23º andar, Bela Vista, São Paulo/SP, CEP: 01310-200; e do escritório
+
+MUDROVITSCH ADVOGADOS, registrado na OAB/DF nº 2037/12, com sede na SHIS, QI 3,
+
+Conjunto 6, Casa 25, Brasília/DF, CEP 71605-260.
+
+Termos em que, pede deferimento.
+
+Brasília, 02 de maio de 2025.
+
+Breno Ferreira Martins Vasconcelos Rodrigo de Bittencourt Mudrovitsch
+OAB/SP 224.120 OAB/DF 26.966
+
+Nina Pinheiro Pencak Victor Santos Rufino
+OAB/RJ 186.829 OAB/DF 57.089
+
+52

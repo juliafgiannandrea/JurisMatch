@@ -1,0 +1,1436 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO LUIZ FUX, PRESIDENTE DO
+SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO SOCIALISTA BRASILEIRO – PSB NACIONAL,
+partido político devidamente registrado perante o Tribunal Superior
+Eleitoral e com representação no Congresso Nacional (Doc. 01), inscrito
+no CNPJ sob o n. 01.421.697/0001-37, com sede nacional na SCLN 304,
+Bloco A, Sobreloja 01, Entrada 63, Asa Norte, Brasília/DF, CEP n.
+70.736-510, vem, por intermédio de seus advogados devidamente
+constituídos (Doc. 02), respeitosamente à douta presença de Vossa
+Excelência, com fulcro no art. 102, inciso I, alínea a, da Constituição
+Federal, e na Lei n. 9.868/1999, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+em face da MP n. 1.068/2021 (Doc. 03), que impõe restrições à
+moderação de conteúdo e de perfis de usuários pelas provedoras de redes
+sociais, e o faz pelas razões de fato e de direito a seguir aduzidas.
+
+I. SÍNTESE DA DEMANDA
+
+Trata-se de ação direta de inconstitucionalidade voltada a
+impugnar a MP n. 1.068/2021, que, alterando a Lei n. 12.965/2014
+(Marco Civil da Internet), e a Lei n. 9.610/1998 (Lei dos Direitos
+Autorais), restringe a exclusão de conteúdo e de perfis pelas provedoras
+de redes sociais.
+
+
+[[pagina 2 | nativo]]
+Em maio deste ano, o Presidente da República chegou a
+anunciar que editaria um Decreto com conteúdo semelhante, que
+regulamentaria o Marco Civil da Internet. O projeto, no entanto, não foi
+adiante, tendo sofrido duras críticas por parte de especialistas.
+
+Agora, por meio do ato impugnado, às vésperas do feriado de
+7 de setembro, a Presidência concretiza seu intento de proibir as
+empresas provedoras de aplicações de internet de excluir ou suspender
+contas e conteúdos, exceto por “justa causa”.
+
+É de se destacar que o rol restrito de hipóteses de “justa
+causa” desconsidera o quadro de desinformação que tem se instituído
+na internet mediante a divulgação de informações falsas e com potencial
+nocivo, permitindo o agravamento dessa situação.
+
+A “justa causa” não compreende, por exemplo, a remoção de
+conteúdos potencialmente danosos à saúde pública – tarefa que vem
+sendo exercida de forma eficaz pelas provedoras de redes sociais durante
+a pandemia da Covid-19, em prol da saúde da população. Também
+desconsidera ameaças ao próprio regime democrático, como é o caso
+da propagação de mentiras a respeito do sistema de votação eletrônica.
+
+Ao fim e ao cabo, ao proibir a moderação de conteúdo, a
+Medida Provisória mina os grandes esforços institucionais dos Poderes
+Legislativo e Judiciário que têm sido empreendidos no combate à
+desinformação.
+
+Nessa linha, a medida também se coloca na contramão dos
+instrumentos internacionais que vêm sendo adotados no sentido do
+fortalecimento de medidas de combate à desinformação, a exemplo do
+“Código de Boas Práticas” instituído com o apoio da Comissão Europeia1.
+
+A medida subverte, violenta e repentinamente, a lógica do
+Marco Civil da Internet, diploma que foi construído a partir de longo
+processo legislativo, com ampla participação da sociedade civil, e
+que é dotado, portanto, de relevante legitimidade social. Nele, buscou-
+se a compatibilização de princípios constitucionais e a sua
+funcionalização conforme as características e particularidades do
+ambiente virtual.
+
+1 Disponível em: https://ec.europa.eu/commission/presscorner/detail/en/ip_21_2585
+
+
+[[pagina 3 | nativo]]
+Nesse aspecto, ressalta-se a previsão do art. 19 do Marco
+Civil, que prevê a responsabilização das provedoras por danos
+decorrentes do conteúdo gerado por usuários apenas em tendo havido
+ordem judicial específica determinando a remoção. Ou seja, não há um
+dever de as plataformas removerem conteúdo a não que ser que exista
+decisão judicial nesse sentido, mas nada impede que elas o façam de
+acordo com suas políticas internas.
+
+O ato impugnado, ao modificar o Marco Civil para vedar que
+as plataformas digitais realizem moderação de conteúdo, a não ser em
+hipóteses limitadas de “justa causa”, subverte a orientação do próprio
+diploma que altera – legislação que norteia toda a regulamentação do
+ambiente digital –, revelando violação ao princípio da legalidade (art.
+37, caput, CF).
+
+A proibição também afronta o princípio da livre iniciativa
+(art. 1º, IV, e 170, caput, CF), eis que compromete indevidamente o
+modelo de negócio das empresas provedoras de aplicações de internet.
+Inseridas na lógica mercadológica, as plataformas não prescindem da
+moderação de conteúdo, essencial para a manutenção da qualidade dos
+serviços e, portanto, para a atração de usuários e anunciantes.
+
+De outro lado, também se identifica a contrariedade do ato
+impugnado ao princípio da função social da empresa (art. 5º, XXIII, e
+art. 170, III, CF), porquanto a moderação de conteúdo representa
+atividade de interesse da coletividade. Ao afastarem desinformação e
+discursos de ódio, as provedoras dão conta de seu dever de promover um
+ambiente virtual hígido e seguro no qual a livre troca de informações
+possa ocorrer.
+
+Por fim, há ofensa ao princípio da proporcionalidade (art.
+37, caput, CF). Ao condicionar a moderação de conteúdo ao alcance do
+rol taxativo de hipóteses de justa causa, a MP modifica substancial e
+repentinamente o regime jurídico das provedoras, ainda prevendo
+diversas sanções a serem aplicadas por “autoridade administrativa” não
+identificada, em um quadro de total insegurança jurídica.
+
+Nesse contexto, imperiosa a propositura da presente ação
+direta, a fim de ver reconhecida a inconstitucionalidade do ato
+impugnado, pelos motivos que passa a demonstrar.
+
+
+[[pagina 4 | nativo]]
+II. DA LEGITIMIDADE ATIVA
+
+Conforme dispõem o art. 103, VIII, da Constituição Federal,
+e o art. 2º, VIII, da Lei no 9.868/99, os partidos políticos que possuem
+representação no Congresso Nacional podem propor ação direta de
+inconstitucionalidade, como é o caso do Partido Socialista Brasileira –
+PSB (Doc. 01).
+
+Segundo a jurisprudência deste Excelso STF, a legitimidade
+ativa de agremiação partidária com representação no Congresso Nacional
+“não sofre as restrições decorrentes da exigência jurisprudencial relativa
+ao vínculo de pertinência temática nas ações diretas” (ADI no 1.407-MC,
+Rel. Min. Celso de Mello, Plenário, DJ 24.11.2000).
+
+Quer-se dizer, portanto, que os partidos políticos possuem a
+denominada legitimidade ativa universal para provocação do controle
+abstrato de constitucionalidade, de modo que resta clara a legitimidade
+do Partido Socialista Brasileiro para o ajuizamento da presente ação.
+
+III. DO CABIMENTO DA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+Na presente hipótese, busca-se o controle concentrado de
+constitucionalidade da Lei n. 14.182/2021, ato normativo federal
+primário e abstrato, plenamente apto ao crivo deste e. Supremo Tribunal
+Federal.
+
+Ademais, as violações constitucionais provocadas pelo
+diploma impugnado são diretas e não dependem de anterior juízo de
+legalidade, pois não há outra norma intermediando, em termos de
+fundamento e validade, a relação entre a lei questionada e a Constituição
+Federal.
+
+Dessa forma, amplamente demonstrado o cabimento da
+presente ação, passa-se às razões que levam à procedência do pedido.
+
+IV. DAS INCONSTITUCIONALIDADES DO ATO IMPUGNADO.
+
+4.1. DA VIOLAÇÃO AO PRINCÍPIO DA LEGALIDADE (ART. 37,
+CAPUT): SUBVERSÃO DA LÓGICA DO MARCO CIVIL DA INTERNET
+
+
+[[pagina 5 | nativo]]
+a) Breves considerações sobre o Marco Civil da Internet e as recentes
+medidas promovidas pelo Governo Federal
+
+Em 2014, o acesso à internet no Brasil atingiu a marca de
+54,4% da população em 2014, de acordo com dados do IBGE (PNAD,
+2015)2. O crescimento dessa nova esfera pública de interação da
+sociedade, aliada à esparsa e, muitas vezes, insuficiente legislação civil e
+criminal para dirimir conflitos relacionados à internet, impulsionaram o
+início das discussões, no Congresso Nacional, sobre a regulação do
+espaço virtual no Brasil3.
+
+Os debates sobre a aprovação de diploma que unificasse a
+regulação do uso da internet, não apenas sob o prisma dos crimes
+virtuais, mas também, e principalmente, da proteção de liberdades civis
+no espaço cibernético, iniciaram-se em 20114 e contaram com
+significativa participação de diversos setores da sociedade civil. Os
+anseios da população usuária da internet e das empresas de aplicações
+virtuais transitavam entre a proteção das liberdades e a conformação
+adequada do ambiente concorrencial.
+
+Todo esse complexo e gradual processo, de amplo debate
+público, culminou na aprovação da Lei n. 12.965, de 23 de abril de 2014,
+o Marco Civil da Internet.
+
+Vale destacar que o Brasil foi um dos países pioneiros na
+regulação da matéria de forma tão aprofundada5. O Marco Civil
+representou importante passo a caminho da efetivação de uma internet
+livre, aberta e transparente, tendo sido inclusive alvo de elogios por Tim
+Berners-Lee, um dos criadores da internet6.
+
+2 Disponível em http://agenciabrasil.ebc.com.br/economia/noticia/2016-04/celular-e-
+principal-meio-de-acesso-internet-na-maioria-dos-lares.
+3 SOLAGNA, Fabrício; SOUZA, Rebeca Hennemann V; LEAL, Ondina Fachel. Quando o
+Ciberespaço faz as suas leis: o processo do Marco Civil da Internet no contexto de
+regulação e vigilância global. Revista Vivência, Ed. N. 45, 2015, p. 133.
+4 Em 24.08.2011, foi apresentado o Projeto de Lei n. 2126/2011, pelo Poder Executivo,
+que: "Estabelece princípios, garantias, direitos e deveres para o uso da Internet no
+Brasil".
+5 Nesse mesmo espírito de busca pela neutralidade de rede e pelas garantias dos
+usuários, também é possível citar o exemplo do Chile, que aprovou a Lei n.
+20.453/2010, a fim de unificar as questões envolvendo o uso de internet no País, ainda
+que o Código Processual Penal Chileno já estabelecesse regras para o armazenamento
+de informações pessoais dos usuários de internet.
+6 Disponível em http://exame.abril.com.br/tecnologia/noticias/criadores-da-internet-
+elogiam-o-marco-civil-da-internet.
+
+
+[[pagina 6 | nativo]]
+O que se percebe é que, diferentemente do que ocorreu em
+outros países, tais como EUA, Espanha e França, que possuem forte
+concepção intervencionista de segurança nacional (tendo aprovado leis
+que aumentaram o controle e a vigilância sob dados pessoais de usuários
+que trafegam pela rede7), a tônica preconizada pelo Marco Civil foi a
+proteção das liberdades e direitos dos usuários e a preservação da
+internet como instrumento de participação democrática.
+
+Com efeito, o art. 2º logo deixa claro que a disciplina da
+internet tem como fundamentos, entre outros, os direitos humanos e o
+exercício da cidadania em meios digitais; a pluralidade e a diversidade; a
+abertura e a colaboração; a livre iniciativa, a livre concorrência e a defesa
+do consumidor; e a finalidade social da rede.
+
+O art. 3º, por sua vez, elenca os princípios que regem o uso
+da internet, senão vejamos:
+
+I - garantia da liberdade de expressão, comunicação e
+manifestação de pensamento, nos termos da Constituição
+Federal;
+II - proteção da privacidade;
+III - proteção dos dados pessoais, na forma da lei;
+IV - preservação e garantia da neutralidade de rede;
+V - preservação da estabilidade, segurança e
+funcionalidade da rede, por meio de medidas técnicas
+compatíveis com os padrões internacionais e pelo estímulo ao
+uso de boas práticas;
+VI - responsabilização dos agentes de acordo com suas
+atividades, nos termos da lei;
+VII - preservação da natureza participativa da rede;
+VIII - liberdade dos modelos de negócios promovidos na
+internet, desde que não conflitem com os demais princípios
+estabelecidos nesta Lei.
+
+Assim, podem ser identificados no Marco Civil três grandes
+pilares: a neutralidade de rede, a liberdade de expressão e a proteção dos
+dados pessoais8.
+
+7 SEGURADO, Rosemary. Regulamentação da internet: perspectiva comparada entre
+Brasil, Chile, Espanha, EUA e França. Rio de Janeiro, vol. 22, supl., pp. 1551-1571,
+2015. Disponível em http://www.scielo.br/scielo.php?script=sci_arttext&pid=S0104-
+59702015001001551&lng=en&nrm=iso.
+8 CARDOZO, José Eduardo Martins. Prefácio. In: LEITE, George Salomão; LEMOS,
+Ronaldo (coord.). Marco Civil da Internet. São Paulo: Atlas, 2014.
+
+
+[[pagina 7 | nativo]]
+A neutralidade de rede implica a igualdade e a ausência de
+discriminação na gestão técnica do tráfego da internet, o que significa
+que não se pode atribuir privilégios a determinados serviços, conteúdos,
+localidades, aplicações ou dispositivos em detrimento de outros.
+Corolário da isonomia, a neutralidade privilegia o poder de escolha dos
+usuários, promove o livre fluxo de informações e estimula a inovação.
+
+Questão central em qualquer discussão atinente à internet,
+a liberdade de expressão é reforçada pelo Marco Civil enquanto
+fundamento do diploma e princípio orientador da disciplina. Por esse
+motivo, o texto é firme ao tratar da sua compatibilização com os direitos
+de personalidade e ao instituir critérios de responsabilização de
+intermediários, de modo a proteger a internet como espaço de debate
+público.
+
+Em seu terceiro pilar, o Marco Civil inova ao instituir regras
+de proteção dos dados pessoais, atribuindo expressamente aos
+cidadãos o direito sobre seus dados e destacando a transparência e o
+consentimento expresso como pressupostos da coleta e do tratamento de
+dados.
+
+Percebe-se que o espírito democrático do Marco Civil se fez
+presente desde a sua concepção, com a ampla participação da sociedade
+civil em um processo aberto e colaborativo de elaboração da norma,
+passando pelo reforço de direitos e garantias fundamentais previstas no
+art. 5º da Constituição Federal, até a afirmação da internet como meio de
+aperfeiçoamento e aprofundamento da participação dos cidadãos na
+democracia.
+
+Nas palavras de Ronaldo Lemos, “[o Marco Civil] não apenas
+demonstra um anseio por inovação técnica, mas também por inovação
+política. Por uma expansão dos canais da democracia. Um desejo de que a
+participação pública de cada cidadão possa ampliar-se no meio digital e
+que a democracia possa se renovar para enfrentar os desafios cada vez
+mais complexos que teremos pela frente”. Assim, o Marco Civil é concebido
+como experiência de democracia ampliada9.
+
+Embora se tenha como legislação guarda-chuva em matéria
+de internet um diploma de caráter nitidamente democrático e que orienta
+
+9 LEMOS, Ronaldo. O Marco Civil como símbolo do desejo por inovação no Brasil. In:
+LEITE, George Salomão; LEMOS, Ronaldo (coord.). Marco Civil da Internet. São Paulo:
+Atlas, 2014.
+
+
+[[pagina 8 | nativo]]
+a regulação do ambiente virtual em função da proteção aos direitos
+humanos10, as recentes medidas tomadas pelo Governo Federal
+caminham em sentido diametralmente oposto.
+
+Ainda em 2019, por meio do Decreto n. 10.046, a
+Presidência da República instituiu o chamado “Cadastro Base do
+Cidadão”, que, centralizando diversos dados pessoais de brasileiros,
+permite o seu compartilhamento por órgãos da Administração Pública. A
+base poderá congregar desde informações de identificação (como nome,
+número de CPF, sexo e filiação), passando por informações relativas a
+emprego, saúde e educação, até dados biométricos.
+
+Embora instituída sob o argumento da desburocratização
+do acesso a serviços públicos, a criação do Cadastro foi imensamente
+criticada por especialistas, haja vista preocupações quanto à proteção da
+privacidade e a perspectiva da sua utilização como instrumento de
+vigilância estatal11.
+
+Isso porque o Decreto n. 10.046/2019 não define de forma
+clara mecanismos de proteção aos dados e de controle pelos próprios
+cidadãos, nem critérios para o seu compartilhamento, inclusive com
+entidades privadas. Também cria e confere poderes normativos e
+fiscalizatórios a um comitê central integrado somente por membros do
+próprio governo, sem a participação de representantes da sociedade civil.
+
+Não à toa, a constitucionalidade do referido Decreto é alvo de
+questionamento perante este e. Tribunal por meio da ADPF n. 695 e da
+ADI n. 6.649, ambas de relatoria do Min. Gilmar Mendes, sob o
+ângulo do direito fundamental à proteção dos dados pessoais.
+
+No ano seguinte à publicação do Decreto n. 10.046, o
+Governo Federal editou a Medida Provisória n. 954/2020, que dispôs
+sobre o compartilhamento de dados por empresas de telefonia fixa e
+móvel com o IBGE durante a pandemia. A MP determinava que as
+telefônicas repassassem relações de nomes, números de telefone e
+
+10 SOUZA, Carlos Affonso; LEMOS, Ronaldo. NoC Online Intermediaries Case Studies
+Series: Brazilian Courts and the Internet – Rulings Before and After the Marco Civil on
+Intermediary Liability. In: GASSER, Urs; SCHULZ, Wolfgang. Governance of online
+Intermediaries: observations from a series of national casa studies. The Berkman
+Center for Internet & Society Research Publication Series, n. 2015-5.
+11 Disponível em: https://www.nexojornal.com.br/expresso/2019/10/12/O-que-
+%C3%A9-o-Cadastro-Base-do-Cidad%C3%A3o.-E-quais-os-seus-riscos
+
+
+[[pagina 9 | nativo]]
+endereços de seus consumidores para permitir a continuidade das
+pesquisas realizadas pelo IBGE de forma remota.
+
+A constitucionalidade da medida foi questionada por meio do
+ajuizamento das ADIs n. 6387, 6388, 6389, 6390 e 6393, tendo o Plenário
+deste e. STF referendado a liminar concedida pela Minª Rosa Weber,
+relatora das ações, para suspender a eficácia do ato normativo a fim de
+prevenir danos à intimidade e ao sigilo da vida privada dos usuários dos
+serviços de telefonia.
+
+Na oportunidade do julgamento, observou-se que “ao não
+apresentar mecanismo técnico ou administrativo apto a proteger, de
+acessos não autorizados, vazamentos acidentais ou utilização indevida,
+seja na transmissão, seja no tratamento, o sigilo, a higidez e, quando o
+caso, o anonimato dos dados pessoais compartilhados, a MP n. 954/2020
+descumpre as exigências que exsurgem do texto constitucional no tocante
+à efetiva proteção dos direitos fundamentais dos brasileiros”.
+
+Mais recentemente, em maio deste ano, a Presidência
+anunciou a elaboração de um decreto que regulamentaria o Marco Civil
+para impedir a retirada de postagens e a exclusão de perfis pelas
+plataformas sem ordem judicial. Isso depois que publicações do
+Presidente e de seus apoiadores haviam sido apagadas e limitadas nas
+redes sociais por disseminarem informações falsas acerca da Covid-19.
+
+O possível decreto também foi durante criticado e não veio a
+ser emitido. No entanto, pretensão idêntica se concretiza agora por meio
+do ato impugnado, que proíbe as plataformas de moderarem conteúdo,
+exceto por determinação judicial.
+
+Vê-se que a atuação do Executivo Federal no que se refere à
+normatização do compartilhamento de dados e de moderação de
+conteúdo no ambiente virtual tem ido de encontro ao sentido democrático
+e de proteção de liberdades preconizado pelo Marco Civil.
+
+Esse conjunto de medidas governamentais na tentativa de
+controlar a atuação das plataformas e os dados pessoais dos cidadãos
+revela uma espécie de “tecnoautoritarismo”12 – conforme observam as
+
+12“Interferência do Governo na moderação de conteúdos das plataformas”. Episódio do
+Podcast Direito Digital, apresentado pelas Profas Ana Frazão e Caitlin Mulholland.
+Disponível em:
+https://podcasts.google.com/feed/aHR0cHM6Ly9hbmNob3IuZm0vcy81ODQ3YTExNC
+
+
+[[pagina 10 | nativo]]
+professoras Ana Frazão e Caitlin Mulholland –, quadro no qual se insere
+o ato ora impugnado, como se verá a seguir.
+
+b) A subversão da lógica do art. 19 do Marco Civil pelo ato
+impugnado: violação da legalidade.
+
+O ato impugnado pretende impedir a exclusão e a suspensão
+de contas e conteúdos pelos provedores de aplicações de internet,
+restringindo a moderação a um rol taxativo de hipóteses de “justa causa”.
+
+No entanto, é certo que, o Marco Civil da Internet, norma de
+ampla legitimidade social, já realiza a devida ponderação entre
+princípios constitucionais e os adequa às condições e características
+particulares da internet.
+
+Ao estabelecer como um de seus grandes princípios a
+“liberdade dos modelos de negócios promovidos na internet”, o Marco
+Civil confere às plataformas liberdade para a moderação dos conteúdos
+nela compartilhados, conforme critérios previstos nas suas diretrizes e
+termos de uso.
+
+A compatibilização dessa liberdade de condução da
+atividade empresarial com a liberdade de expressão e com o direito ao
+ressarcimento do ofendido por danos sofridos encontra guarida no art.
+19 do Diploma, cujo teor é a seguir transcrito:
+
+Art. 19. Com o intuito de assegurar a liberdade de expressão
+e impedir a censura, o provedor de aplicações de internet
+somente poderá ser responsabilizado civilmente por danos
+decorrentes de conteúdo gerado por terceiros se, após ordem
+judicial específica, não tomar as providências para, no
+âmbito e nos limites técnicos do seu serviço e dentro do prazo
+assinalado, tornar indisponível o conteúdo apontado como
+infringente, ressalvadas as disposições legais em contrário.
+
+Em outras palavras, o Marco Civil prevê que as plataformas
+sejam responsabilizadas pelos conteúdos partilhados pelos usuários
+apenas nos casos de descumprimento de decisões judiciais que
+determinem a sua retirada.
+
+9wb2RjYXN0L3Jzcw?sa=X&ved=0CAMQ4aUDahcKEwjI0qLypefwAhUAAAAAHQAAAAA
+QBQ
+
+
+[[pagina 11 | nativo]]
+O dispositivo concede proteção às provedoras de modo a
+prevenir que o poder de moderação se converta em “censura colateral”13,
+situação em que as plataformas se veem incentivadas à remoção
+compulsória e excessiva de publicações, ante a perspectiva de
+responsabilização por todo e qualquer conteúdo postado pelos usuários.
+
+Conforme explica Clara Keller “regimes que responsabilizam
+intermediários amplamente, por exemplo, os estimulariam a remover
+publicações ou bloquear perfis diante de qualquer suspeita ou denúncia, o
+que aumentaria o risco de se restringir atividades legais. É por isso que
+esses regimes acabam influenciando também políticas internas e o
+comportamento de uma série de agentes econômicos e usuários das
+plataformas”14.
+
+Na mesma linha, o comentário do Laboratório de Políticas
+Públicas e Internet – LAPIN sobre o art. 19 do Marco Civil:
+
+“Esse dispositivo foi essencial para que acabasse no Brasil
+uma prática recorrente pela qual provedores, a partir de
+praticamente qualquer denúncia contra algum conteúdo,
+tirassem-no do ar pela falta de regulação adequada que lhes
+desse segurança jurídica sobre qual informação estaria ou
+não de acordo com a ordem legal. O Marco Civil representou,
+portanto, uma nova divisa para a liberdade de expressão no
+Brasil [...]15”
+
+Com efeito, o sistema de responsabilidade de intermediários
+eleito pelo legislador brasileiro, consubstanciado no art. 19 do Marco
+Civil, é considerado pela literatura e pela sociedade civil como uma
+escolha que privilegia a segurança jurídica e a liberdade de expressão
+dos usuários16.
+
+Veja-se que o Marco Civil condiciona a responsabilização
+da provedora à existência de ordem judicial: a empresa não é obrigada a
+
+13BALKIN, M. Jack. Free Speech in the Algorithmic Society: Big Data, Private
+Governance, and New School Speech Regulation. University of California, Davis, p.1149-
+1210, 2018, p. 1181.
+14 Disponível em: https://www.jota.info/stf/supra/efeitos-regulatorios-do-marco-civil-
+o-julgamento-no-stf-alem-do-direito-civil-27112019
+15 LAPIN. Nota técnica: PL 1.429/2020. Abril de 2020. Disponível em:
+https://lapin.org.br/2020/05/14/nota-tecnica-projeto-de-lei-n-1-429-20-sobre-
+desinformacao/
+16 Disponível em: https://www.jota.info/stf/supra/efeitos-regulatorios-do-marco-civil-
+o-julgamento-no-stf-alem-do-direito-civil-27112019
+
+
+[[pagina 12 | nativo]]
+remover conteúdo, a menos que exista determinação judicial nesse
+sentido. Por outro lado, não há impedimento para que a provedora
+realize a moderação que entenda necessária a luz de seus termos de
+uso.
+
+O ato impugnado, no entanto, subverte a lógica instituída
+pelo próprio diploma que altera, restringindo a exclusão de perfis e a
+moderação de conteúdos a um rol taxativo de hipóteses consideradas de
+“justa causa”.
+
+A situação é incompatível com o Marco Civil, que não
+apenas não impede a moderação, mas também é um Diploma que
+privilegia a liberdade – seja a liberdade de expressão ou a liberdade
+empresarial.
+
+Como já ressaltado, o art. 19, fruto dos amplos debates
+públicos de construção do Marco Civil da Internet, compõe o equilíbrio
+entre os direitos dos usuários, a responsabilização dos intermediários e
+a liberdade de desenvolvimento dos modelos de negócios.
+
+A previsão legislativa foi pensada justamente para assegurar
+a liberdade de expressão e evitar abusos e remoção desnecessária de
+conteúdos. O ato impugnado, no entanto, destitui as provedoras de
+qualquer liberdade de moderação, o que não condiz com essa orientação.
+
+Observa-se que, ao burlar a lógica instituída pelo Marco Civil
+da Internet – que deve ser o norte de toda e qualquer regulamentação que
+se pretenda instituir sobre o ambiente virtual –, especialmente do modelo
+previsto no art. 19, o ato impugnado revela normas de caráter
+contrassistêmico.
+
+Em outras palavras, o ato impugnado está em franco
+descompasso com o arcabouço jurídico no qual pretende se inserir,
+violando frontalmente o princípio da legalidade – instrumento específico
+e essencial ao Estado Direito e postulado basilar do regime jurídico-
+administrativo, já que “fruto da submissão do Estado à Lei”17.
+
+Cabe ainda mencionar ser a legalidade, nas palavras de Celso
+Antônio Bandeira de Mello, princípio que “contrapõe-se [...] a quaisquer
+tendências de exacerbação personalista dos governantes”, revelando o
+
+17 MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. São Paulo:
+Malheiros, 2007, p. 97.
+
+
+[[pagina 13 | nativo]]
+propósito político de “submeter os exercentes do poder concreto – o
+administrativo – a um quadro normativo que embargue favoritismos,
+perseguições ou desmandos”18.
+
+Tendo isso em vista, não se pode ignorar o contexto fático no
+qual o ato impugnado foi editado. No decorrer do último ano, o Presidente
+Jair Bolsonaro e apoiadores tiveram diversas publicações deletadas de
+suas redes sociais em razão de violações às regras das plataformas.
+
+Mais recentemente, em julho passado, o Youtube retirou do
+ar quinze vídeos, a maioria referentes a “lives de quinta-feira” realizadas
+entre 2020 e 2021, nos quais o Presidente propagava informações falsas
+acerca da Covid-19. Em comunicado, o Youtube informou19:
+
+“Após análise cuidadosa, removemos vídeos do canal Jair
+Bolsonaro por violar nossas políticas de informações
+médicas incorretas sobre a Covid-19. Nossas regras não
+permitem conteúdo que afirma que hidroxicloroquina e/ou
+ivermectina são eficazes para tratar ou prevenir Covid-19;
+garante que há uma cura para a doença; ou assegura que as
+máscaras não funcionam para evitar a propagação do vírus”.
+
+No mês seguinte, o Presidente anunciou que enviaria ao
+Congresso um projeto de lei a fim de proibir que as empresas de
+tecnologia e redes sociais de retirarem publicações do ar sem decisão
+judicial, afirmando o seguinte20:
+
+“Decisão minha é nesta semana enviarmos projeto curtinho
+para parlamento, mais ou menos seguindo com seguintes
+termos, baseado no art. 5º [da Constituição] das garantias e
+direitos individuais, um deles liberdade de expressão. Fazer
+com que qualquer matéria sua, de quem está nos ouvindo, só
+possam ser retiradas dessas páginas por decisão judicial. E
+ponto final”.
+
+“Caso contrário, vai acontecer exatamente o que vimos nos
+Estados Unidos. Onde quem apoiava o [Donald] Trump era
+censurado, e quem não apoiava era exaltado. O mesmo já
+acontece aqui no Brasil. Não temos outra alternativa a não
+ser nos socorrermos do Parlamento”.
+
+18 MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. São Paulo:
+Malheiros, 2007, p. 97.
+19 Disponível em: https://www.poder360.com.br/midia/youtube-remove-videos-de-
+bolsonaro-por-informacoes-incorretas-sobre-covid/
+20 Disponível em: https://www.poder360.com.br/governo/bolsonaro-quer-limitar-
+retiradas-de-conteudos-de-paginas-da-internet/
+
+
+[[pagina 14 | nativo]]
+Agora, às vésperas do feriado do dia 7 de setembro, o
+Presidente edita Medida Provisória com o claro intuito de dificultar
+sobremaneira a moderação de conteúdo pelas redes sociais, o que é tido
+como uma grande vitória contra a “censura” pelos integrantes e aliados
+do Governo:
+
+Vê-se que a Presidência da República se vale da liberdade de
+expressão como subterfúgio para promover medida unicamente favorável
+aos seus próprios interesses e que é incompatível com a lógica
+democrática e protetiva às liberdades do Marco Civil.
+
+E mais: para descaracterizar pilares básicos e essenciais do
+Marco Civil, criando novo regime jurídico a ser seguido pelas provedoras
+de redes sociais, o Presidente utiliza-se do instrumento legislativo
+excepcional da medida provisória, a demandar o atendimento estrito dos
+requisitos da relevância e da urgência, o que evidentemente não é o
+caso.
+
+Cabe destacar que tramita atualmente o Projeto de Lei n.
+2.630/2020 (“Lei das Fake News”), por meio do qual se pretende regular
+a responsabilidade dos provedores no combate à desinformação e
+instituir regras de transparência nas redes sociais, matéria semelhante à
+do ato impugnado.
+
+
+[[pagina 15 | nativo]]
+O referido projeto de lei já compreendeu a realização de mais
+de uma dezena de audiências públicas, beirando o absurdo a pretensão
+de normatizar matéria de tamanha complexidade por meio de medida
+provisória, às margens do debate público e do devido processo
+legislativo.
+
+Portanto, é flagrante a violação do princípio da legalidade,
+motivo pelo qual este e. Supremo Tribunal dever declarar a
+inconstitucionalidade do ato impugnado.
+
+4.2. DA VIOLAÇÃO AO PRINCÍPIO DA LIVRE INICIATIVA (ART. 1º, IV,
+E 170, CAPUT, CF)
+
+De outra parte, a norma impugnada também se opõe ao
+princípio da livre iniciativa, já que as restrições à exclusão de perfis e à
+moderação de conteúdo impostas pela Medida Provisória comprometem
+excessivamente o modelo de negócios das plataformas digitais.
+
+A adoção da livre iniciativa como fundamento da ordem
+econômica (art. 170, caput, CF) e da própria República Federativa (art.
+1º, IV) revela a opção do constituinte pelo modelo capitalista de produção,
+lastreado na apropriação privada dos meios de produção e na iniciativa
+privada.
+
+Assim, ao lado da valorização do trabalho, o preceito da
+liberdade de iniciativa conforma e orienta a atividade econômica. Nas
+palavras de José Afonso da Silva:
+
+“A Constituição declara que a ordem econômica é fundada na
+valorização do trabalho humano e na iniciativa privada. Que
+significa isso? Em primeiro lugar quer dizer precisamente
+que a Constituição consagra uma economia de mercado
+de natureza capitalista, pois a inciativa privada é um
+princípio básico da ordem capitalista”21.
+
+Conforme as lições doutrinárias do Min. Eros Grau, a livre
+iniciativa é um princípio político constitucionalmente conformador e
+consubstancia um dos desdobramentos da liberdade, compreendida
+enquanto “sensibilidade e acessibilidade a alternativas de conduta e de
+
+21 SILVA, José Afonso da. Direito Constitucional Positivo. 15 ed. Malheiros: São Paulo,
+p. 754.
+
+
+[[pagina 16 | nativo]]
+resultado. Pois não se pode entender como livre aquele que nem ao menos
+sabe de sua possibilidade de reivindicar alternativas de conduta e de
+comportamento — aí a sensibilidade; e não se pode chamar livre, também,
+aquele ao qual tal acesso é sonegado — aí a acessibilidade”22.
+
+Ainda de acordo com o autor, quando considerada em sua
+faceta econômica, pertinente à empresa (apesar de não ter sua aplicação
+restrita a esse âmbito), a livre iniciativa apresenta dupla face, podendo
+se manifestar como liberdade de comércio e indústria ou como
+liberdade de concorrência. Estas, por sua vez, subdividem-se nas
+seguintes classificações:
+
+“a) liberdade de comércio e indústria (não ingerência do
+Estado no domínio econômico):
+a.l) faculdade de criar e explorar uma atividade
+econômica a título privado — liberdade pública;
+a.l) não sujeição a qualquer restrição estatal senão em
+virtude de lei — liberdade pública;
+b) liberdade de concorrência:
+b.l) faculdade de conquistar a clientela, desde que não
+através de concorrência desleal — liberdade privada;
+b.2) proibição de formas de atuação que deferiam a
+concorrência — liberdade privada;
+b.3) neutralidade do Estado diante do fenômeno
+concorrencial, em igualdade de condições dos concorrentes
+— liberdade pública”23.
+
+Cabe reconhecer, é claro, que o princípio da livre iniciativa
+não afasta a atuação do Estado sobre o domínio econômico. Segundo
+Tércio Sampaio Ferraz Jr., a livre iniciativa “não exclui a atividade
+fiscalizadora, estimuladora, arbitral e até suplementarmente empresarial
+do próprio Estado”, mas implica “a ausência de impedimentos para a
+expansão da própria criatividade”24. O autor sustenta:
+
+“Afirmar a livre iniciativa como base é reconhecer na
+liberdade um dos fatores estruturais da ordem, é afirmar a
+autonomia empreendedora do homem na conformação da
+atividade econômica, aceitando a sua intrínseca contingência
+e fragilidade; é preferir, assim, uma ordem aberta ao fracasso
+a uma 'estabilidade' supostamente certa e eficiente. Afirma-
+
+22 GRAU, Eros Roberto. A ordem econômica na Constituição de 1988. 14ª ed.
+Malheiros: São Paulo, 2010, p. 203.
+23 GRAU, Eros Roberto. A ordem econômica na Constituição de 1988. 14ª ed.
+Malheiros: São Paulo, 2010, p. 206.
+24 FERRAZ JÚNIOR, Tércio Sampaio. A economia e o controle do Estado. Parecer
+publicado no jornal “O Estado de S. Paulo”, edição de 4.6.1989.
+
+
+[[pagina 17 | nativo]]
+se, pois, que a estrutura da ordem está centrada na atividade
+das pessoas e dos grupos e não na atividade do Estado”25.
+
+Portanto, a intervenção do Estado na economia se dá de
+forma complementar ao princípio da livre iniciativa, como indica Paula
+Forgioni, “para garantir a manutenção/preservação do sistema econômico,
+conduzindo-o de forma a impedir as crises”26. Por óbvio, essa função
+estatal não compreende coerções arbitrárias sobre a atividade
+econômica.
+
+Ou seja, embora caiba ao Estado estabelecer regras que
+protejam direitos dos consumidores e que conformem o espaço
+concorrencial, impedindo que a atividade econômica se desenvolva de
+maneira desenfreada, o princípio da livre iniciativa é violado quando o
+regramento estatal impõe encargos desnecessários e desarrazoados às
+empresas27.
+
+Conforme observado por este e. Tribunal, no recente
+julgamento da ADPF n. 449 (Rel. Min. Luiz Fux, DJe 02/09/2019):
+
+A liberdade de iniciativa garantida pelos artigos 1º, IV, e 170
+da Constituição brasileira consubstancia cláusula de
+proteção destacada no ordenamento pátrio como
+fundamento da República e é característica de seleto grupo
+das Constituições ao redor do mundo, por isso que não
+pode ser amesquinhada para afastar ou restringir
+injustificadamente o controle judicial de atos normativos que
+afrontem liberdades econômicas básicas [...]
+O constitucionalismo moderno se fundamenta na
+necessidade de restrição do poder estatal sobre o
+funcionamento da economia de mercado, sobrepondo-se o
+Rule of Law às iniciativas autoritárias destinadas a
+concentrar privilégios, impor o monopólio de meios de
+produção ou estabelecer salários, preços e padrões
+arbitrários de qualidade, por gerarem ambiente hostil à
+competição, à inovação, ao progresso e à distribuição de
+riquezas.
+
+25 FERRAZ JÚNIOR, Tércio Sampaio. A economia e o controle do Estado. Parecer
+publicado no jornal “O Estado de S. Paulo”, edição de 4.6.1989.
+26 FORGIONI, Paula A. Os fundamentos do antitruste. 5ª ed. São Paulo: Revista dos
+Tribunais, 2012, p. 135.
+27 Nesse sentido: RE 422.941, STF, Relator Ministro Carlos Velloso, Segunda Turma,
+DJe de 24.03.2006AI 683.098-AgR, STF, Relatora Ministra Ellen Gracie, Segunda
+Turma, DJe de 25.06.2010.
+
+
+[[pagina 18 | nativo]]
+Dessa forma, vê-se que ato impugnado, ao comprometer o
+modelo de negócios das plataformas, acaba por violar o princípio
+fundamental da livre iniciativa (art. 1º, IV, e art. 170 da CF), segundo o
+qual a atividade estatal de regulação não pode ser exercida a ponto de
+inviabilizar o bom desempenho da atividade econômica.
+
+O modelo de negócios das plataformas, que são agentes
+econômicos assim como as mídias tradicionais, ainda se baseia na venda
+de espaço publicitário. No entanto, diferentemente do que ocorre com a
+TV e o rádio, por exemplo, nas plataformas a publicidade é direcionada
+de forma personalizada, a partir da compreensão, aferida por meio de
+dados, do que é relevante para o usuário28.
+
+A necessidade de que as plataformas mantivessem espaços
+atrativos para os anunciantes levou a uma profissionalização da
+atividade de moderação, voltada para o tratamento padronizado e o
+controle de conteúdo danoso. Conforme explica relatório do Instituto de
+Referência em Internet e Sociedade – IRIS29:
+
+No empreendimento baseado em direcionamento de
+anúncios, os clientes da plataforma são os anunciantes e
+parte substancial do ferramental do serviço ofertado são os
+dados e a atenção dos usuários. Por isso, as plataformas
+assumem um papel mais proativo em relação ao conteúdo
+que elas suportam. O interesse comercial as leva a não
+relegar apenas à moderação voluntária de usuários o controle
+sobre conteúdo ofensivo. Como modelo de negócio, parte
+de sua garantia de qualidade passa pelo controle do
+conteúdo associado a seu ambiente, em que também
+circula publicidade contratada por anunciantes.
+
+A conservação do ambiente também é, por óbvio, importante
+para a atração e a manutenção da conexão dos próprios usuários da
+rede, cujo engajamento favorece a visualização dos anúncios e atrai mais
+publicidade, como pontua relatório do Instituto de Tecnologia e Sociedade
+do Rio30:
+
+28 RODRIGUES, Gustavo; KURTZ, Lahis. Transparência sobre moderação de conteúdo
+em políticas de comunidade. Belo Horizonte: Instituto de Referência em Internet e
+Sociedade, 2020. Disponível em: https://bit.ly/3nUbXYh.
+29 RODRIGUES, Gustavo; KURTZ, Lahis. Transparência sobre moderação de conteúdo
+em políticas de comunidade. Belo Horizonte: Instituto de Referência em Internet e
+Sociedade, 2020. Disponível em: https://bit.ly/3nUbXYh.
+30 ITS. Redes sociais e moderação de conteúdo: criando regras para o debate público
+a partir da esfera privada. Disponível em: https://itsrio.org/pt/publicacoes/redes-
+sociais-e-moderacao-de-conteudo/.
+
+
+[[pagina 19 | nativo]]
+“as plataformas precisam criar um ambiente acolhedor para
+atrair e manter usuários online além de promover
+engajamento. Caso contrário, elas podem acabar afastando
+usuários que não se sentem seguros online. Assim,
+conteúdos obscenos e ofensivos (ou, em geral, sensíveis)
+devem sofrer moderação para evitar a alienação de parcelas
+do público”.
+
+Assim, cabe às empresas de plataforma exercer um papel
+ativo sobre o que pode ou não ser publicado ou compartilhado e coibir a
+circulação de conteúdo danoso, o que faz parte do modelo de negócios
+que dá sustentação à prestação dos serviços.
+
+Nesse sentido, as empresas têm estabelecido um conjunto de
+“mecanismos e práticas de ordem técnica, política, jurídica e comercial”
+que regula o funcionamento das plataformas e dá legitimidade à
+moderação de conteúdo. Dentre essas práticas de governança,
+sobressaem dois documentos que são geralmente adotados pelas
+empresas, os “termos de serviço” e as “diretrizes da comunidade”31.
+
+Conforme indica Tarleton Gillespie, os termos de serviço
+compõem um documento jurídico formal, um contrato que expõe as
+regras às quais os usuários devem se obrigar como condição de sua
+participação na plataforma e os meios de resolução de eventuais
+conflitos. Por sua vez, as diretrizes da comunidade, em linguagem mais
+coloquial, estabelecem as expectativas da plataforma sobre o que é
+adequado e o que não é, enunciando princípios e proibições e geralmente
+referenciando os termos de serviço32.
+
+À luz dessas disposições – ao menos em tese –, as
+plataformas arranjam, por meio de algoritmos e do trabalho de
+moderadores, a filtragem, a limitação da visibilidade, a rotulação e a
+retirada de conteúdos.
+
+Vê-se, portanto, que a moderação de conteúdo é
+contratualizada entre usuários e empresas privadas, as quais têm
+liberdade para limitar, suspender ou excluir conteúdos e contas de
+
+31 ANDRÉA, Carlos d’. Pesquisando plataformas online: conceitos e métodos. Salvador:
+EDUFBA, 2020. Disponível em: https://repositorio.ufba.br/ri/handle/ri/32043;
+32 GILLESPIE, Tarleton. Custodians of the Internet: platforms, content moderation,
+and the hidden decisions that shape social media. New Haven: Yale University Press,
+2018.
+
+
+[[pagina 20 | nativo]]
+acordo com seus termos de serviço e políticas de comunidade, ainda que
+as violações identificadas não configurem propriamente ilícitos.
+
+É evidente que as plataformas compõem relevante espaço de
+debate público e têm moldado a forma como a comunicação é feita, o que
+obsta que essa moderação seja feita de forma discricionária ou excessiva,
+de modo a suprimir a liberdade de expressão e o acesso à informação.
+
+Daí a importância de que a sociedade e as instituições sigam
+discutindo soluções regulatórias, por meio da implementação de canais
+de transparência, mecanismos de accountability e procedimentos de
+prestação de contas sobre a moderação de conteúdo.
+
+O que não se pode é admitir que agentes econômicos cuja
+condução da atividade empresarial depende da moderação sejam
+totalmente tolhidos de sua liberdade de iniciativa ao serem impedidos de
+controlar conteúdos nocivos ao ambiente virtual.
+
+O ato impugnado, ao limitar excessivamente o poder das
+plataformas de moderar conteúdos compromete de forma excessivamente
+onerosa a livre iniciativa, razão pela qual deve ser declarado
+inconstitucional.
+
+III. DA VIOLAÇÃO AO PRINCÍPIO DA FUNÇÃO SOCIAL DA EMPRESA
+(ART. 5º, XXIII, E ART. 170, III, CF)
+
+Conforme abordado no tópico anterior, a Constituição
+Federal, ao fundar a ordem econômica brasileira sobre a livre iniciativa,
+adota o modelo capitalista de produção, cujo cerne consubstancia-se no
+instituto da propriedade privada.
+
+Ao mesmo tempo em que faz a opção por uma economia
+capitalista, a matriz constitucional de 1988 condiciona os princípios da
+livre iniciativa e da propriedade privada à realização da dignidade da
+pessoa humana, que é tida como o centro e o fim último do ordenamento.
+
+Esse condicionamento é instituído por meio da submissão da
+propriedade à sua função social, conforme ensina José Afonso da Silva:
+
+“[...] a iniciativa econômica privada é amplamente
+condicionada no sistema da constituição econômica
+brasileira. Se ela se implementa na atuação empresarial, e
+
+
+[[pagina 21 | nativo]]
+esta se subordina ao princípio da função social, para realizar
+ao mesmo tempo o desenvolvimento nacional, assegurada a
+existência digna de todos, conforme ditames da justiça social,
+bem se vê que a liberdade de iniciativa só se legitima quando
+voltada à efetiva consecução desses fundamentos, fins e
+valores da ordem economia”33.
+
+Veja-se que a propriedade privada e a livre iniciativa não se
+colocam de forma antagônica ou conflitante em relação à função social
+da propriedade. Tratam-se de princípios que compõem, de forma
+complementar e interdependente, a estrutura do Estado Democrático de
+Direito.
+
+Cabe observar que, quando se fala em função social da
+propriedade, fala-se também em função social da empresa. É o que
+ensina Eros Grau:
+
+“O princípio da função social da propriedade, para logo se vê,
+ganha substancialidade precisamente quando aplicado à
+propriedade dos bens de produção, ou seja, na disciplina
+jurídica da propriedade de tais bens, implementada sob
+compromisso com a sua destinação. A propriedade sobre a
+qual em maior intensidade refletem os efeitos do princípio é
+justamente a propriedade, dinâmica, dos bens de produção.
+Na verdade, ao nos referirmos à função social dos bens de
+produção em dinamismo, estamos a aludir à função social
+da empresa”34.
+
+Acerca da previsão constitucional da função social da
+propriedade, observa Ana Frazão:
+
+“[...] o princípio da função social da propriedade, cuja
+decorrência necessária é a função da empresa, pode ser
+considerado como uma forma que a Constituição encontrou
+de condicionar o exercício da atividade empresarial à justiça
+social sem ter que recorrer a nenhum compromisso
+previamente determinado, resgatando, de modo amplo, a
+solidariedade e a intersubjetividade da liberdade de inciativa
+e mostrando sua relação com a dignidade da pessoa
+humana”35.
+
+33 SILVA, José Afonso da. Direito Constitucional Positivo. 15 ed. Malheiros: São Paulo,
+p. 780.
+34 GRAU, Eros Roberto. Elementos de Direito Econômico. São Paulo: Revista dos
+Tribunais, p. 128.
+35 FRAZÃO, Ana. A função social da empresa na Constituição de 1988. In: Direito
+Civil Contemporâneo. Brasília: Gran Cursos, 2009.
+
+
+[[pagina 22 | nativo]]
+Ainda de acordo com a autora, “o fim da empresa passa a ser
+o de proporcionar benefício para todos os envolvidos com tal atividade [...]
+e também para a coletividade, como é o caso dos consumidores e dos
+demais cidadãos”36.
+
+Assim, de uma perspectiva institucionalista, os interesses da
+empresa, para além dos interesses dos sócios, passam a dizer respeito
+também aos interesses da própria coletividade, assumindo a empresa um
+lugar de relevo como instrumento de crescimento e de geração de
+benefícios para a comunidade37.
+
+Frisa-se que a função social não impõe somente limitações
+ao exercício da propriedade, mas também exige do proprietário uma
+atuação positiva em função do interesse social.
+
+A respeito da função social, observa Fábio Konder
+Comparato que “o desenvolvimento da atividade é, portanto, um dever,
+mais exatamente, um poder-dever; e isto, não no sentido negativo, de
+respeito a certos limites estabelecidos em lei para o exercício da atividade,
+mas na acepção positiva, de algo que deve ser feito ou cumprido”38.
+
+É necessário ressaltar que a moderação de conteúdo não
+atende somente aos interesses privados das empresas de plataforma,
+mas também ao interesse público, já que, além de ser imprescindível para
+o modelo de negócios das empresas, constitui instrumento de controle
+da desinformação e de discursos de ódio.
+
+Com efeito, a desinformação – conteúdos falsos criados e
+compartilhados com a intenção de causar dano ou de gerar vantagens
+com a sua disseminação39 –, e o discurso de ódio – manifestações de
+intolerância direcionadas a grupos minoritários ou vulneráveis – têm sido
+questões centrais no debate da moderação de conteúdo.
+
+Isso porque tais tipos de manifestação têm se feito cada vez
+mais presentes na internet e moldado a formação da opinião pública,
+
+36 FRAZÃO, Ana. A função social da empresa na Constituição de 1988. In: Direito
+Civil Contemporâneo. Brasília: Gran Cursos, 2009.
+37 FRAZÃO, Ana. A função social da empresa na Constituição de 1988. In: Direito
+Civil Contemporâneo. Brasília: Gran Cursos, 2009.
+38 COMPARATO, Fábio Konder. Estado, empresa e função social. São Paulo: Revista
+dos Tribunais. V. 85, n. 732, 1996, p. 41.
+39Disponível em: https://unesdoc.unesco.org/ark:/48223/pf0000368647.
+
+
+[[pagina 23 | nativo]]
+com reflexos sobre o regime democrático, em um contexto no qual as
+plataformas digitais são meios de comunicação em massa dos mais
+relevantes. Conforme observa o IRIS:
+
+Alguns tipos de conteúdo levam a revisões periódicas e
+reabertura dos debates sobre a necessidade de transparência
+e de compreender o papel das plataformas na internet. Em
+especial, discursos extremistas, discursos de ódio e
+desinformação (pautas que costumam caminhar juntas)
+vem representando uma preocupação cada vez mais
+concreta. Esse tipo de conteúdo pode servir para
+manipulação de opinião pública sobre eventos
+importantes, com reflexos que podem alterar decisões
+sobre votos, atitudes de prevenção coletiva, percepção
+pública sobre determinado grupo ou autoridade, etc. No
+caso da pandemia, podemos exemplificar com atitudes como
+recusa em usar máscara ou compra de medicamentos sem
+efeito comprovado40.
+
+Cabe frisar que, assim como o poder de moderação das
+plataformas não é absoluto, devendo atender amplamente a critérios de
+transparência, a garantia fundamental da liberdade de expressão
+articula-se com outros direitos e garantias com ela relacionadas, bem
+como depende diretamente de um contexto hígido no qual possa ser
+exercida com plenitude e segurança.
+
+Não se trata, como aliás nenhuma outra garantia
+fundamental o é, de direito unidimensional, que possa ser implementado
+independentemente de considerações acerca de sua eficácia ou da análise
+de potenciais violações a outras garantias e direitos.
+
+O contexto específico no qual a liberdade de expressão é
+exercida apresenta importância fundamental, mormente ao se considerar
+a internet como meio no qual hoje têm lugar parcela majoritária das
+comunicações. Nesse aspecto, ressalte-se que a mudança de espaços de
+debate e discussão, fóruns e demais espaços físicos para ambientes
+virtuais – efeito da inserção das tecnologias de informação e
+comunicação, que foi acentuado no período pandêmico – não se dá sem
+que alguns pressupostos de participação e do seu exercício tenham sido
+modificados tanto quantitativamente como qualitativamente.
+
+Em particular, um elemento que se apresenta como condição
+essencial para que o espaço de expressão individual seja tão aberto e
+
+40 Disponível em: https://irisbh.com.br/padroes-para-moderacao-de-conteudo/
+
+
+[[pagina 24 | nativo]]
+acessível quanto possível, fazendo com que a garantia da liberdade de
+expressão possa ser efetivamente exercida, é a manutenção de uma
+esfera pública capaz de proporcionar a devida ressonância para as
+opiniões que sejam expressas, evitadas as distorções e amplificações
+que, instrumentalmente, desvirtuem o debate público.
+
+São justamente essas manifestações que, artificialmente
+engendradas, caracterizam o fenômeno da desinformação, hoje
+identificado como elemento desagregador da esfera pública e que, para
+ser desincentivado e combatido, demanda esforços de diversos atores no
+chamado ecossistema da comunicação, inclusive – e essencialmente –
+dos provedores de aplicação na internet e redes sociais. Estes, com as
+ferramentas à sua disposição e pela aplicação de regras de conduta
+presentes nas suas políticas internas e termos de uso, desempenham
+papel fundamental para identificar e desmantelar estruturas de
+distribuição de conteúdo desinformativo – com instrumentos que, pela
+extrema complexidade e dinâmica do problema da desinformação, caso
+restem circunscritos às hipóteses de moderação por “justa causa”
+presentes na MP 1.068/2021, privados estariam de qualquer eficácia
+significativa.
+
+Assim, pode-se afirmar que, como em um mecanismo típico
+de retroalimentação, pelo qual o exercício de um direito resta fortalecido
+com a constante indicação de vetores para sua funcionalização, a
+liberdade de expressão ganha eficácia e amplitude com o recurso a
+medidas que procuram contrastar a utilização abusivas de recursos
+de comunicação – que comprometem a confiabilidade e a segurança de
+espaços de comunicação e restringem o valor da esfera pública, levando,
+em última análise, a uma leitura meramente formal da garantia da
+liberdade de expressão.
+
+Com efeito, a liberdade de expressão não pode ser usada
+como subterfúgio para a propagação de mentiras e de ataques contra a
+própria democracia, como bem pontuou o Min. Celso de Mello no
+julgamento da ADPF n. 572:
+
+[...] a liberdade constitucional de expressão do pensamento
+não legitima o discurso de ódio, não protege ofensas ao
+patrimônio moral de quem quer que seja e não tutela
+manifestações que objetivam transgredir as salvaguardas
+estabelecidas pela Lei Fundamental em sua própria defesa,
+pois tais atos de natureza criminosa – e de caráter
+evidentemente subversivo – não são dignos nem merecedores
+do amparo constitucional, sob pena de consagrar-se
+
+
+[[pagina 25 | nativo]]
+verdadeiro paradoxo, na medida em que a Carta Política, ao
+assegurar as franquias democráticas à generalidade dos
+cidadãos, culmina por viabilizar aos infratores da ordem
+jurídica a destruição do próprio sistema constitucional.
+
+Compressão atualizada da liberdade de expressão e
+condizente com a evolução e as transformações da sociedade não abrange
+a disseminação de desinformação e discursos de ódio, que são
+precisamente os tipos de manifestação que as empresas provedoras de
+aplicações de internet têm responsabilidade social de coibir.
+
+Conforme explica Luna van Brussel Barroso, “a teoria
+tradicional da liberdade de expressão foi pensada para um mundo de
+escassez de informação”, no qual as informações provinham de poucas
+fontes e a maior ameaça à liberdade de expressão era a censura
+governamental. Hoje, diferentemente, “é preciso conceber uma teoria da
+liberdade de expressão desenhada não para um mundo de escassez de
+informação, mas de escassez de atenção: um mundo em que não é
+possível conhecer toda a informação disponível e o livre mercado de ideias
+não leva mais à depuração da verdade”41.
+
+No Brasil, os últimos anos têm sido marcados pelo
+escancaramento da problemática das “fake news”. Ainda em 2018,
+reportagem jornalística noticiou a contratação de disparos massivos de
+mensagens com informações falsas e difamatórias pelo Whatsapp a fim
+de beneficiar o então candidato à presidência Jair Bolsonaro42. Ainda
+tramitam no âmbito do Tribunal Superior Eleitoral duas ações voltadas
+à investigação desses fatos.
+
+Em 2019, instaurou-se Comissão Parlamentar Mista de
+Inquérito a fim de investigar “a criação de perfis falsos e ataques
+cibernéticos nas diversas redes sociais, com possível influência no
+processo eleitoral e debate público”, bem como “a prática de cyberbullying
+contra autoridades e cidadãos vulneráveis” e “o aliciamento de crianças
+para o cometimento de crimes de ódio e suicídio".
+
+No mesmo ano, foi instaurado, no âmbito deste e. Tribunal,
+o Inquérito n. 4.781 (“inquérito das fake news), com o intuito de
+
+41 Disponível em: https://blogs.oglobo.globo.com/fumus-boni-iuris/post/luna-van-
+brussel-barroso-democracia-e-liberdade-de-expressao.html
+42 Disponível em: https://www1.folha.uol.com.br/poder/2018/10/empresarios-
+bancam-campanha-contra-o-pt-pelo-whatsapp.shtml
+
+
+[[pagina 26 | nativo]]
+investigar a existência de notícias fraudulentas, ofensas e ameaças
+contra a Corte, seus Ministros e familiares. Recentemente, a pedido do
+Tribunal Superior Eleitoral, o Min. Alexandre de Moraes, relator do
+inquérito, determinou a inclusão do Presidente da República como
+investigado, em razão das sistemáticas acusações infundadas contra o
+sistema eleitoral brasileiro43.
+
+Diga-se que no julgamento da ADPF n. 572 (Rel. Min. Edson
+Fachin, DJe 07.05.2021), oportunidade em que analisada a
+constitucionalidade da instauração do referido inquérito, este Supremo
+destacou o caráter corrosivo para as instituições democráticas da
+disseminação de notícias fraudulentas.
+
+Considerado o quadro, e atentando-se para a função social
+da empresa, é possível concluir que as plataformas têm não só um poder,
+mas também o dever e a responsabilidade de controlar distorções e
+agentes nocivos, de modo a promover um ambiente virtual seguro e
+saudável, no qual a livre troca de informações possa ocorrer.
+
+Nesse sentido, há, inclusive, expectativa e pressão social
+por uma postura mais ativa em reação à circulação de conteúdos
+danosos. Um exemplo é o Sleeping Giants, movimento internacional de
+ativismo digital com representação no Brasil que estimula empresas a
+retirarem seus anúncios publicitários de sites que veiculem informações
+falsas e discurso de ódio44.
+
+O interesse público e a função social da moderação de
+conteúdo realizada pelas empresas ficaram ainda mais evidentes na
+realidade brasileira durante a pandemia, momento no qual a propagação
+– inclusive por autoridades públicas, como já visto – de desinformação
+acerca de tratamentos e medidas de prevenção contra a Covid-19
+chega a dificultar o enfrentamento da emergência de saúde pública e a
+colocar em risco a saúde e a segurança da população.
+
+Conforme indicou o relatório “Ciência Contaminada:
+analisando o contágio de desinformação sobre coronavírus via Youtube”,
+produzido ainda em maio de 2020 pelo projeto Democracia Infectada:
+
+43 Disponível em: https://www.cnnbrasil.com.br/politica/2021/08/04/tse-pede-que-
+supremo-compartilhe-dados-de-investigacao-sobre-fake-news
+44 Disponível em: https://www.b9.com.br/126467/sleeping-giants-brasil-anuncios-
+fake-news/
+
+
+[[pagina 27 | nativo]]
+“O dano maior da desinformação no campo da saúde advém
+do fato que as únicas medidas atualmente eficazes no
+enfrentamento da pandemia de Covid-19 são as intervenções
+de saúde pública não farmacológicas, cuja eficácia depende
+da observância de certos padrões de comportamento pela
+população. O discurso da desinformação, ao minimizar a
+gravidade da doença ou cogitar medidas contrárias a esses
+padrões, mas ineficazes para prevenir a doença ou minimizar
+seus danos, prejudica justamente a capacidade de se obter
+esse comportamento social eficaz”45.
+
+Nesse contexto, as plataformas têm atuado de forma a limitar
+o alcance de publicações e remover conteúdos que neguem a existência e
+a gravidade da pandemia, que contrariem diretrizes internacionais de
+prevenção ao vírus e que desincentivem a população a tomar medidas de
+precaução contra a contaminação. Além disso, têm priorizado nos
+mecanismos de busca e recomendação algorítmica os conteúdos
+provenientes de fontes oficiais e notificado contas de usuários que
+promovem a disseminação de informações falsas.
+
+O Twitter, por exemplo, esclarece que estão sujeitos à
+remoção conteúdos relacionados à Covid-19 que “são alegações de fato,
+comprovadamente falsas ou enganosas e com probabilidade de causar
+danos”, e que “contas que violam essa regra repetidamente podem ser
+suspensas permanentemente”. Também informa poder “incluir avisos ou
+mensagens de alerta para dar explicações adicionais em situações em que
+os riscos de dano associados ao Tweet são menos graves, mas o conteúdo
+pode ainda assim confundir ou enganar”46.
+
+Embora ainda haja um longo caminho a ser percorrido em
+direção a soluções regulatórias e medidas mais transparentes de
+moderação de conteúdo, é certo que a pandemia tem mostrado que a
+sociedade não pode prescindir de ações no sentido do controle de
+conteúdo.
+
+Conclui-se que restringir excessivamente o poder de as
+plataformas realizarem moderação de conteúdo e excluírem perfis é
+impedir que estas cumpram com o seu dever em face da coletividade, o
+que se opõe ao princípio da função social da empresa e,
+consequentemente, ao interesse público. Também por essa razão, o ato
+impugnado deve ser declarado inconstitucional.
+
+45 Disponível em: https://laut.org.br/ciencia-contaminada.pdf
+46 Disponível em: https://blog.twitter.com/pt_br/topics/company/2019/uma-
+atualizacao-sobre-nossa-estrategia-continua-durante-o-covid-19.
+
+
+[[pagina 28 | nativo]]
+4.4. DA VIOLAÇÃO AO PRINCÍPIO DA PROPORCIONALIDADE (ART.
+37, CAPUT, CF).
+
+Como visto, o ato impugnado impede as provedoras de
+aplicações de internet de excluírem e suspenderem contas e conteúdos,
+salvo em hipóteses de “justa causa”. Para além de ferir o princípio de
+legalidade e os preceitos constitucionais da livre iniciativa e da função
+social da empresa, a medida viola frontalmente o princípio da
+proporcionalidade.
+
+O princípio da proporcionalidade traduz a ideia, nas palavras
+de Celso Antônio Bandeira de Mello, de que “as competências
+administrativas só podem ser exercidas na extensão e intensidade
+proporcionais ao que seja realmente demandado para cumprimento da
+finalidade de interesse público a que estão atreladas”47.
+
+Nesse sentido, o preceito constitui fundamental ferramenta
+de aferição do excesso de poder legislativo. Com efeito, a
+discricionariedade do legislador não é ilimitada, devendo ser exercida
+dentro dos parâmetros instituídos pela Carta Magna, de modo a
+equacionar os valores constitucionais de forma adequada, necessária e
+proporcional. Nesse sentido, veja-se a lição do Exmo. Ministro Gilmar
+Mendes, em sede doutrinária:
+
+É possível que o vício de inconstitucionalidade substancial
+decorrente do excesso de poder legislativo constitua um dos
+mais tormentosos temas do controle de constitucionalidade
+hodierno. Cuida-se de aferir a compatibilidade da lei com os
+fins constitucionalmente previstos ou de constatar a
+observância do princípio da proporcionalidade
+(Verhältnismässigkeitsprinzip), isto é, de se proceder à
+censura sobre a adequação (Geeignetheit) e a necessidade
+(Erforderlichkeit) do ato legislativo.
+O excesso de poder como manifestação de
+inconstitucionalidade configura afirmação da censura
+judicial no âmbito da discricionariedade legislativa ou, como
+assente na doutrina alemã, na esfera de liberdade de
+conformação do legislador (gesetzgeberische
+Gestaltungsfreiheit) [...]
+O conceito de discricionariedade no âmbito da legislação
+traduz, a um só tempo, ideia de liberdade e de limitação.
+Reconhece-se ao legislador o poder de conformação dentro de
+
+47 MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. São Paulo:
+Malheiros, 2007, p. 107.
+
+
+[[pagina 29 | nativo]]
+limites estabelecidos pela Constituição. E, dentro desses
+limites, diferentes condutas podem ser consideradas
+legítimas48.
+
+Em se tratando de normas que impõem limitação às
+liberdades constitucionais, como é o caso da livre iniciativa, o princípio
+da proporcionalidade adquire importância ainda maior. Conforme
+observado por este e. Tribunal no julgamento da ADPF n. 449:
+
+O exercício de atividades econômicas e profissionais por
+particulares deve ser protegido da coerção arbitrária por
+parte do Estado, competindo ao Judiciário, à luz do sistema
+de freios e contrapesos estabelecidos na Constituição
+brasileira, invalidar atos normativos que estabeleçam
+restrições desproporcionais à livre iniciativa e à liberdade
+profissional [...]
+O sistema constitucional de proteção de liberdades goza de
+prevalência prima facie, devendo eventuais restrições ser
+informadas por um parâmetro constitucionalmente legítimo
+e adequar-se ao teste da proporcionalidade, exigindo-se ônus
+de justificação regulatória baseado em elementos empíricos
+que demonstrem o atendimento dos requisitos para a
+intervenção.
+
+No caso, vê-se que a proibição de que as plataformas
+realizem moderação de conteúdo, salvo nas hipóteses expressas no texto
+legal não é uma é uma medida adequada, proporcional e muito menos
+necessária.
+
+A Medida Provisória representa desarrazoada limitação à
+liberdade das companhias provedoras, que são entidades privadas
+conduzindo seus negócios conforme a lógica de mercado e devem ter
+liberdade para aplicar regras de uso. Impõe-se, do dia para noite, uma
+série de comandos que efetivamente alteram o regime jurídico a que se
+submetem essas empresas, concedendo-lhes, para fins de adaptação, o
+exíguo prazo de 30 dias.
+
+Não fosse isso o bastante, a MP ainda prevê um amplo rol
+de sanções a serem aplicadas às empresas que realizem moderação de
+conteúdo fora dos parâmetros de “justa causa”. As punições vão desde
+advertências à suspensão e à proibição do exercício de atividades,
+
+48 MENDES, Gilmar Ferreira. Controle de Constitucionalidade – Aspectos Jurídicos e
+Políticos. São Paulo: Saraiva, 1990, p. 38-39.
+
+
+[[pagina 30 | nativo]]
+passando por multas pecuniárias, e poderão vir a ser aplicadas por
+“autoridade administrativa” que a MP nem sequer indica qual é.
+
+O quadro é de flagrante insegurança jurídica, podendo dar
+azo é a uma profusão de processos judiciais envolvendo a moderação de
+contas e de conteúdos, com a perspectiva de abarrotamento do Poder
+Judiciário.
+
+Assim, ante a manifesta desproporcionalidade da medida
+impugnada, que repentinamente altera o regime jurídico das empresas
+provedoras de redes sociais, submetendo-as à aplicação de graves
+sanções por autoridade não identificada, há de ser declarada a sua
+inconstitucionalidade.
+
+V. DA MEDIDA CAUTELAR
+
+No presente caso, impõe-se o deferimento de medida cautelar
+para que sejam imediatamente suspensos os efeitos da MP n.
+1.068/2021, uma vez que presentes os requisitos do fumus boni iuris e
+do periculum in mora, já amplamente demonstrados no decorrer da
+peça.
+
+O fumus boni iuris está suficientemente evidenciado nas
+razões aduzidas acima, que demonstram a flagrante
+inconstitucionalidade do ato impugnado.
+
+De pronto, extrai-se do ato impugnado violação à legalidade,
+já que a restrição da moderação de conteúdo pelas plataformas é
+incompatível com a orientação do Marco Civil da Internet. O referido
+diploma privilegia a liberdade das empresas de conduzirem seus
+negócios, ao mesmo tempo em que protege a liberdade de expressão e o
+direito de indenização por danos ao instituir o sistema de
+responsabilização consubstanciado no art. 19.
+
+A medida também ofende a livre iniciativa e a função social
+da empresa, pois a moderação de conteúdo, que se traduz no controle de
+distorções e agentes nocivos, é essencial para a manutenção do modelo
+de negócios das plataformas e a promoção de um ambiente virtual hígido
+no qual a livre comunicação possa ocorrer.
+
+
+[[pagina 31 | nativo]]
+Por fim, é flagrante a desproporcionalidade do ato
+impugnado, por retirar arbitrariamente das empresas provedoras de
+redes sociais qualquer liberdade de conduzirem seus negócios de acordo
+com seus termos de uso, alterando repentinamente o seu regime jurídico
+e submetendo-lhes à imediata aplicação de graves sanções.
+
+O periculum in mora, por sua vez, está demonstrado ante o
+caráter imediato e continuado das violações constitucionais produzidas
+pelo ato impugnado.
+
+Como já ressaltado, a moderação de conteúdo por parte das
+plataformas representa uma tarefa de evidente interesse público, ao
+mitigar a desinformação e os discursos de ódio, de efeitos nocivos para
+um Estado de Direito que se pretenda democrático.
+
+Isso se tornou ainda mais evidente no momento atual de
+pandemia, em que as plataformas, ao moderarem conteúdo, têm
+contribuído para afastar informações falsas ou fraudulentas que
+dificultam o combate e a prevenção ao vírus ou mesmo representam risco
+à saúde dos brasileiros.
+
+Assim, a manutenção dos efeitos da norma impugnada, cuja
+inconstitucionalidade é patente, implica ameaça de dano à saúde e à
+segurança da população brasileira e de enfraquecimento das
+instituições democráticas, o que não se pode admitir.
+
+Ademais, o ato impugnado está sendo publicado às vésperas
+do feriado do dia 7 de setembro – em que se espera a realização de
+manifestações antidemocráticas, havendo um crescente temor de
+ameaças golpistas – agravando-se o quadro de insegurança e
+instabilidade democráticas já existente.
+
+Portanto, cumpre a esta Suprema Corte sustar os efeitos do
+ato impugnado até a decisão final de mérito na presente ação direta.
+
+Caso não se entenda devida a concessão da medida cautelar,
+requer-se a adoção do rito abreviado para análise da ação previsto no art.
+12 da Lei n. 9.868/1999, a fim de que o processo seja diretamente
+submetido a julgamento definitivo por esta Corte.
+
+
+[[pagina 32 | nativo]]
+VI. DOS PEDIDOS
+
+Diante do exposto, requer-se seja conhecida a presente ação
+direta de inconstitucionalidade, tendo em vista o preenchimento de seus
+pressupostos de admissibilidade, para que:
+
+a) Seja concedida medida liminar para determinar a
+suspensão imediata dos efeitos da MP n. 1.068/2021,
+visto que integralmente preenchidos os requisitos legais
+para a concessão da medida cautelar;
+
+b) No mérito, seja julgada procedente a presente ação
+direta para, ratificando-se a liminar eventualmente
+concedida, declarar-se a inconstitucionalidade da MP n.
+1.068/2021.
+
+Por fim, requer-se que as publicações sejam realizadas em
+nome do advogado Rafael de Alencar Araripe Carneiro, inscrito na
+OAB/DF sob o n. 25.120, sob pena de nulidade. Informa, para os efeitos
+do disposto pelo artigo 39, I, do Código de Processo Civil, que o signatário
+tem escritório em Brasília, no endereço SGAN Quadra 601 Bloco H L2
+Norte - Edifício ION - Sala 1035, Brasília/DF - CEP 70.830-018.
+
+É atribuído à causa, para meros efeitos contábeis, o valor de
+R$ 100,00 (cem reais).
+
+Nesses termos, pede deferimento.
+Brasília, 6 de setembro de 2021.
+
+Rafael de Alencar Araripe Carneiro Danilo Doneda
+OAB/DF 25.120 OAB/RJ 156.590
+
+Ana Luísa Gonçalves Rocha Felipe Santos Correa
+OAB/DF 64.379 OAB/DF 53.078
+
+

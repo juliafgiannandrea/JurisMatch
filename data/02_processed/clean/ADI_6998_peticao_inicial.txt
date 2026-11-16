@@ -1,0 +1,1517 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO
+TRIBUNAL FEDERAL
+
+O CONSELHO FEDERAL DA ORDEM DOS ADVOGADOS DO
+BRASIL – CFOAB, serviço público dotado de personalidade jurídica própria e forma
+federativa, regulamentado pela Lei nº 8.906/94, com endereço eletrônico: pc@oab.org.br e
+com sede em Brasília/DF, no SAUS, Qd. 05, Lote 01, Bloco M, inscrito no CNPJ sob nº
+33.205.451/0001-14, por seu Presidente e pelos/as advogados/as que a esta subscrevem (doc.
+anexo), vem, à presença de Vossa Excelência, com fulcro nos arts. 102, I, a e 103, VII, da
+Constituição, 54, XIV, da Lei nº 8.906/94 e 2º, VII, da Lei nº 9.868/99, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+(COM PEDIDO DE MEDIDA CAUTELAR)
+
+em face da Medida Provisória nº 1.068, de 6 de setembro de 2021, editada pelo Presidente
+da República, em razão de sua inconstitucionalidade formal – pois ausentes os requisitos
+autorizadores da edição de Medida Provisória – e material, ante a evidente violação das
+liberdades de expressão e informação, e das garantias da livre iniciativa e livre concorrência,
+com reflexos nefastos para o combate à disseminação de desinformação e de discursos que
+atentem contra a ordem democrática e a integridade do processo eleitoral brasileiro, pelos
+fundamentos a seguir aduzidos.
+
+
+
+[[pagina 2 | nativo]]
+I - DO ATO NORMATIVO IMPUGNADO: MEDIDA PROVISÓRIA N.º
+1.068/21
+
+Em 6.9.2021, foi publicada, no Diário Oficial da União, a Medida Provisória nº
+1.068. Em suma, a Medida Provisória altera a Lei nº 12.965/2014, de 23 de abril de 2014
+(“Marco Civil da Internet”), para, dentre outras disposições, limitar a atuação espontânea e
+extrajudicial – isto é, sem ordem judicial – dos provedores de redes sociais para a remoção ou
+indisponibilização de conteúdo e suspensão de contas de usuários, seja em decorrência de
+violação à lei, seja em razão da violação ao contrato que rege a relação privada com os seus
+usuários.
+
+Isso porque, sob o suposto objetivo de preservar a liberdade de expressão e
+resguardar contas em serviços de redes sociais, a Medida Provisória arbitrariamente
+estabelece exaustivamente quais seriam as condutas e os conteúdos compartilhados por
+usuários de redes sociais que seriam passíveis de moderação, ou seja, de suspensão ou
+remoção, respectivamente, sem ordem judicial.
+
+A Medida Provisória, à toda evidência, visa proibir as plataformas de
+atuarem espontaneamente no combate à desinformação, à disseminação de informações
+inverídicas relacionadas a questões de saúde pública e também a discursos tendentes a
+fragilizar a ordem democrática e integridade do processo eleitoral brasileiro, haja vista que
+condutas e conteúdos dessa natureza não se encontram nas hipóteses de “justa causa” para a
+atuação das plataformas sem intervenção judicial.
+
+Além disso, forçoso reconhecer que limitam a atuação das redes sociais na
+prevenção e repressão aos atos de preconceito ou de discriminação praticados contra pessoas
+integrantes de grupos sociais vulneráveis, uma vez que só autoriza a moderação de conteúdo
+quando há incitação de atos de ameaça ou violência ou se enquadrem exclusivamente em
+tipos penais de ação pública incondicionada, não abarcando o discurso de ódio de maneira
+geral.
+
+Nesse sentido, os artigos 8-B e 8-C da Medida Provisória estabelecem uma
+lista exaustiva de hipóteses que caracterizariam justa causa para a atuação espontânea das
+plataformas, a possibilitar, sem intervenção judicial, a suspensão de contas ou perfis ou de
+conteúdo1.
+
+1 “Art. 8º-aB Em observância à liberdade de expressão, comunicação e manifestação de pensamento, a exclusão,
+o cancelamento ou a suspensão, total ou parcial, dos serviços e das funcionalidades da conta ou do perfil de
+usuário de redes sociais somente poderá ser realizado com justa causa e motivação.
+
+
+[[pagina 3 | nativo]]
+§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses:
+I - inadimplemento do usuário;
+II - contas criadas com o propósito de assumir ou simular identidade de terceiros para enganar o público,
+ressalvados o direito ao uso de nome social e à pseudonímia e o explícito ânimo humorístico ou paródico;
+III - contas preponderantemente geridas por qualquer programa de computador ou tecnologia para simular ou
+substituir atividades humanas na distribuição de conteúdo em provedores;
+IV - prática reiterada das condutas previstas no art. 8º-C;
+V - contas que ofertem produtos ou serviços que violem patente, marca registrada, direito autoral ou outros
+direitos de propriedade intelectual; ou
+VI - cumprimento de determinação judicial.
+§ 2º O usuário deverá ser notificado da exclusão, do cancelamento ou da suspensão, total ou parcial, dos serviços
+e das funcionalidades da conta ou do perfil.
+§ 3º A notificação de que trata o § 2º:
+I - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede social;
+II - ocorrerá de forma prévia ou concomitante à exclusão, ao cancelamento ou à suspensão, total ou parcial, dos
+serviços e das funcionalidades da conta ou do perfil; e
+III - conterá a identificação da medida adotada, a motivação da decisão e as informações sobre prazos, canais
+eletrônicos de comunicação e procedimentos para a contestação e a eventual revisão pelo provedor de redes
+sociais.
+§ 4º As medidas de que trata o caput também poderão ser adotadas a requerimento do próprio usuário, de seu
+representante legal ou de seus herdeiros, ressalvadas as hipóteses de guarda obrigatória de registros previstas na
+legislação." (NR)
+"Art. 8º-C Em observância à liberdade de expressão, comunicação e manifestação de pensamento, a exclusão, a
+suspensão ou o bloqueio da divulgação de conteúdo gerado por usuário somente poderá ser realizado com justa
+causa e motivação.
+§ 1º Considera-se caracterizada a justa causa nas seguintes hipóteses:
+I - quando o conteúdo publicado pelo usuário estiver em desacordo com o disposto na Lei nº 8.069, de 13 de
+julho de 1990;
+II - quando a divulgação ou a reprodução configurar:
+a) nudez ou representações explícitas ou implícitas de atos sexuais;
+b) prática, apoio, promoção ou incitação de crimes contra a vida, pedofilia, terrorismo, tráfico ou quaisquer
+outras infrações penais sujeitas à ação penal pública incondicionada;
+c) apoio, recrutamento, promoção ou ajuda a organizações criminosas ou terroristas ou a seus atos;
+d) prática, apoio, promoção ou incitação de atos de ameaça ou violência, inclusive por razões de discriminação
+ou preconceito de raça, cor, sexo, etnia, religião ou orientação sexual;
+e) promoção, ensino, incentivo ou apologia à fabricação ou ao consumo, explícito ou implícito, de drogas
+ilícitas;
+f) prática, apoio, promoção ou incitação de atos de violência contra animais;
+g) utilização ou ensino do uso de computadores ou tecnologia da informação com o objetivo de roubar
+credenciais, invadir sistemas, comprometer dados pessoais ou causar danos a terceiros;
+h) prática, apoio, promoção ou incitação de atos contra a segurança pública, defesa nacional ou segurança do
+Estado;
+i) utilização ou ensino do uso de aplicações de internet, sítios eletrônicos ou tecnologia da informação com o
+objetivo de violar patente, marca registrada, direito autoral ou outros direitos de propriedade intelectual;
+j) infração às normas editadas pelo Conselho Nacional de Autorregulamentação Publicitária referentes a
+conteúdo ou material publicitário ou propagandístico;
+k) disseminação de vírus de software ou qualquer outro código de computador, arquivo ou programa projetado
+para interromper, destruir ou limitar a funcionalidade de qualquer recurso de computador; ou
+l) comercialização de produtos impróprios ao consumo, nos termos do disposto no § 6º do art. 18 da Lei nº
+8.078, de 11 de setembro de 1990;
+
+
+[[pagina 4 | nativo]]
+Na verdade, é possível concluir do cotejamento da Medida Provisória e das
+motivações expressas pelo Poder Executivo que o objetivo da medida é coibir que os
+provedores de redes sociais possam agir espontaneamente para combater verdadeiras
+manifestações abusivas e ilegais contra a ordem democrática, o processo eleitoral ou a saúde
+pública que sejam, contudo, simpáticas às preferências do governo atual. Também visa coibir
+a moderação do discurso de ódio, que atualmente é instrumentalizado para a radicalização
+política e partidária , corroendo o debate político público democrático. Com devido respeito,
+tal proceder revela severo vício de desvio de finalidade contrário aos princípios da
+administração pública definidos pela Constituição Federal.
+
+No respeitoso entendimento do CFOAB, a simples leitura da Medida
+Provisória deixa transparecer a sua evidente inconstitucionalidade formal e material, uma
+vez que:
+
+i. Não foram preenchidos os pressupostos constitucionais de urgência e
+relevância, a justificar a sua edição, nos termos do artigo 62 da
+Constituição Federal;
+
+ii. Há flagrante violação aos artigos 1º, inciso IV, 170, caput e inciso IV, da
+Constituição Federal, os quais asseguram a livre concorrência e a livre
+iniciativa;
+
+iii. Há violação dos artigos 1º, inciso IV, que traz como fundamento da
+República a dignidade da pessoa humana, e artigo 3º. inciso IV, que traz
+como objetivo fundamental promover o bem de todos sem quaisquer tipos
+de preconceito ou moderação, ao limitar a moderação do discurso de ódio
+
+III - requerimento do ofendido, de seu representante legal ou de seus herdeiros, na hipótese de violação à
+intimidade, à privacidade, à imagem, à honra, à proteção de seus dados pessoais ou à propriedade intelectual; ou
+IV - cumprimento de determinação judicial.
+§ 2º O usuário deverá ser notificado da exclusão, da suspensão ou do bloqueio da divulgação de conteúdo por ele
+gerado.
+§ 3º A notificação de que trata o § 2º:
+I - poderá ocorrer por meio eletrônico, de acordo com as regras de uso da rede social;
+II - ocorrerá de forma prévia ou concomitante à exclusão, à suspensão ou ao bloqueio da divulgação de
+conteúdo; e
+III - conterá a identificação da medida adotada, a motivação da decisão e as informações sobre prazos, canais
+eletrônicos de comunicação e procedimentos para a contestação e a eventual revisão pelo provedor de redes
+sociais.
+§ 4º As medidas de que trata o caput também poderão ser adotadas a requerimento do próprio usuário,
+ressalvadas as hipóteses de guarda obrigatória de registros previstas na legislação."
+
+
+[[pagina 5 | nativo]]
+restringindo apenas à possibilidade de moderação a violência ou ameaça ou
+quando configurar crime sujeito a ação penal incondicionada;
+
+iv. Há violação dos artigos 5º, incisos XIV (acesso à informação), XXIII
+(função social da propriedade) quando impede que os provedores de redes
+sociais possam agir espontaneamente para combater campanhas de
+desinformações que comprometem a saúde pública e a ordem democrática;
+
+v. E, por fim, violação ao artigo 5º, incisos IV, IX, XIV, ao art. 206, II, e ao
+art. 220 e §§ 1º e 2º, todos da Constituição Federal, quando, à pretexto de
+defender a liberdade de expressão nas redes sociais, a Medida Provisória
+cria sanções a serem aplicadas pela administração pública federal, que
+supervisionará a atividade de moderação sem transparência ,sem debate
+público ou previsão de qualquer forma de controle social podendo as
+sanções previstas serem aplicadas dando toda a margem para arbitrariedade
+uma vez que o texto prevê a aplicação de sanções “pela autoridade
+administrativa, no âmbito de suas competências, isolada ou
+cumulativamente, inclusive por medida cautelar, antecedente ou
+incidente de procedimento administrativo.” Nota-se que as sanções são
+gravíssimas, chegando à proibição do exercício das atividades. O efeito
+de tal medida é o controle da moderação do conteúdo pela administração
+pública federal, uma vez que as sanções do diploma legal foram construídas
+de modo a limitar os provedores a adotarem a visão do órgão sancionador,
+para sua segurança jurídica, caracterizando controle prévio e apriorístico do
+debate público nas redes sociais (2).
+
+2. Art. 28-A. Sem prejuízo das demais sanções cíveis, criminais ou administrativas, as infrações às normas
+previstas nos art. 8º-A, art. 8º-B, art. 8º-C, art. 10 e art. 11 ficam sujeitas, conforme o caso, às seguintes sanções:
+
+I - advertência, com indicação de prazo para adoção de medidas corretivas;
+II - multa de até dez por cento do faturamento do grupo econômico no País em seu último exercício, excluídos os
+tributos, considerados a condição econômica do infrator e o princípio da proporcionalidade entre a gravidade da
+falta e a intensidade da sanção;
+III - multa diária, observado o limite total a que se refere o inciso II;
+IV - suspensão temporária das atividades que envolvam os atos previstos no art. 11; ou
+V - proibição de exercício das atividades que envolvam os atos previstos no art. 11.
+§ 1º Na hipótese de empresa estrangeira, responde solidariamente pelo pagamento da multa de que trata ocaputa
+filial, a sucursal, o escritório ou o estabelecimento situado no País.
+§ 2º As sanções previstas neste artigo serão aplicadas pela autoridade administrativa, no âmbito de suas
+competências, isolada ou cumulativamente, inclusive por medida cautelar, antecedente ou incidente de
+procedimento administrativo.
+§ 3º As sanções previstas neste artigo serão aplicadas de forma proporcional, de acordo com as peculiaridades do
+caso concreto, e dependerão de procedimento administrativo, assegurados a ampla defesa e o contraditório."
+(NR)
+
+
+
+[[pagina 6 | nativo]]
+Além de flagrantemente inconstitucional, a Medida Provisória constitui
+verdadeiro retrocesso legislativo, uma vez que modifica a sistemática atualmente vigente à
+luz do Marco Civil da Internet – a qual, ressalte-se, foi intensamente debatida pela sociedade e
+pelos Poderes Legislativo e Executivo por mais de 5 (cinco) anos –, de forma a representar
+grave e injustificável interferência nos mecanismos utilizados pelos provedores de aplicação
+de Internet.
+
+Diferentemente do que se tem equivocadamente afirmado, o artigo 19, §1º, do
+Marco Civil da Internet, não proíbe a remoção ativa e espontânea, pelos provedores de
+aplicação de Internet, incluindo as redes sociais, de conteúdo gerado por seus usuários, sendo
+necessária uma ordem judicial apenas para a criação da obrigação de remoção de conteúdo
+sob pena de responsabilização civil. E é justamente essa liberdade e possibilidade de
+atuação extrajudicial dos provedores de redes sociais que será proibida pela Medida
+Provisória.
+
+Com a disseminação do uso da Internet como forma de acesso à informação e
+interação entre usuários, as plataformas passaram a ser cobradas para atuarem na promoção de
+ambientes digitais saudáveis e no combate à desinformação. Assim, tendo em vista que a
+liberdade de expressão não compreende um direito absoluto, a sistemática do Marco Civil da
+Internet autoriza as plataformas a adotarem medidas restritivas a publicações que ofendam
+gratuitamente terceiros, divulguem conteúdo íntimo ou compreendam as chamadas “fake
+news”, além de uma série de outras condutas que possam violar os seus termos, sem que haja
+a necessidade de intervenção do Poder Judiciário sobre a questão.
+
+Mais do que aceitáveis, essas medidas são desejáveis, sobretudo porque
+buscam precipuamente a proteção dos próprios usuários da Internet. Tanto assim é que se
+discute, em diversos projetos de lei, a criminalização da conduta de quem publica ou
+compartilha conteúdo que possa ser considerado como fake news até a obrigação de remoção
+de conteúdo de plataformas online e redes sociais sem qualquer avaliação pelo Poder
+Judiciário, o que evidencia uma tentativa de solução atabalhoada e imediatista.3
+
+Com efeito, a redação das regras e diretrizes que regem o uso dos provedores
+de redes sociais – pessoas jurídicas de direito privado – e a vinculação de seus usuários a elas
+compreendem contratos e, portanto, devem ser regulados pela autonomia da vontade e pela
+
+3 É o caso do anteprojeto de lei de iniciativa do Senado Federal, que pretende (i) definir o que deva ser
+considerado fake news, (ii) alterar o Código Penal para tipificar a conduta de divulgação ou compartilhamento de
+fake news como crime; e (ii) alterar o Marco Civil da Internet para prever a obrigação de remoção, pelas
+plataformas online e pelas redes sociais, de conteúdo que pode caracterizar fake news, mediante mera notificação
+de qualquer interessado e sem qualquer valoração de sua ilicitude pelo Poder Judiciário.
+
+
+[[pagina 7 | nativo]]
+liberdade contratual, amparadas pela Constituição Federal como resultado da livre
+iniciativa, fundamento da ordem econômica e da própria República.
+
+De fato, a faculdade garantida pelo Marco Civil da Internet para que os
+provedores de redes sociais tenham um espaço de liberdade para definirem regras de conduta
+e políticas de moderação de conteúdo, dentro dos parâmetros da Constituição Federal, nada
+mais é do que a potencialização da livre iniciativa e livre concorrência. Diferentes plataformas
+podem decidir atuar de maneira diversa quanto à moderação de conteúdo, permitirem ou não
+determinados temas, experimentarem abordagens diferentes e se apresentarem aos
+consumidores de maneira distinta.
+
+Essa escolha do Marco Civil garante um ciclo virtuoso em que a livre iniciativa
+e a livre concorrência favorecem a competição entre as plataformas, inclusive no que se refere
+à moderação de conteúdos, permitindo maior poder de escolha aos consumidores. Estes
+tenderão a optar por plataformas que propiciem um ambiente adequado aos seus interesses e
+perfil, o que, portanto, favorecerá a pluralidade, a diversidade do discurso público e as
+liberdades de expressão e informação.
+
+Diante disso, a Medida Provisória constitui verdadeira intromissão injustificada
+na atividade econômica lícita exercida pelos provedores redes sociais, além de prejudicar
+severamente o ciclo virtuoso de auto reforço de direitos fundamentais articulado a partir do
+Marco Civil da Internet.
+
+Imprescindível, ainda, a constatação de que a Medida Provisória certamente
+trará severos reflexos sociais a todo o ecossistema da Internet, sobretudo diante de um
+cenário de grave crise de saúde pública global, crise política e proximidade das eleições
+presidenciais.
+
+A depender do pronunciamento desse Egrégio Supremo Tribunal Federal, os
+provedores de redes sociais serão proibidos de atuar espontânea e extrajudicialmente para a
+remoção ou indisponibilização de conteúdo e suspensão de contas que violem não apenas os
+seus termos e políticas, mas também disposições legais – uma vez que, em nenhum momento,
+a atual sistemática do Marco Civil da Internet veda às plataformas a sua atuação legítima de
+análise e verificação da violação do contrato celebrado com o usuário.
+
+Portanto, os efeitos econômicos e sociais decorrentes do julgamento da
+presente ação são, inquestionavelmente, mais amplos que os limites subjetivos do processo.
+Há que se considerar, até mesmo, que a forma pela qual serão harmonizadas a liberdade de
+expressão e a livre iniciativa, especialmente para fins de moderação de conteúdo por parte dos
+
+
+
+[[pagina 8 | nativo]]
+provedores de redes sociais, é questão que, na atual era da informação e conectividade, gera
+reflexos diretos na atividade dessas empresas e na vida de praticamente todas as pessoas.
+
+Por essas razões e conforme amplamente demonstrado a seguir, o CFOAB
+espera que esse Egrégio Supremo Tribunal Federal declare a inconstitucionalidade da Medida
+Provisória, preservando, por conseguinte, todos os esforços e avanços conquistados a partir do
+Marco Civil da Internet, resguardando-se, ao final, a possibilidade de se reprimir
+espontaneamente conteúdos ilícitos nas plataformas de internet.
+
+II. DO CABIMENTO DESTA AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+As medidas provisórias são atos normativos que têm caráter e força de lei.
+Por força do artigo 62 da Constituição Federal, o Presidente da República pode, em situações
+de relevância e urgência, editar medidas provisórias, devendo submetê-las de imediato ao
+Congresso Nacional: “Em caso de relevância e urgência, o Presidente da República poderá adotar
+medidas provisórias, com força de lei, devendo submetê-las de imediato ao Congresso Nacional.”
+
+Esse Egrégio Supremo Tribunal Federal “admite, em caráter excepcional, a
+declaração de inconstitucionalidade de medida provisória quando se comprove abuso da
+competência normativa do Chefe do Executivo, pela ausência dos requisitos constitucionais
+de relevância e urgência”. Vide ementa exemplificativa:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA
+PROVISÓRIA N. 558/2012. CONVERSÃO NA LEI N. 12.678/2012.
+INÉPCIA DA INICIAL E PREJUÍZO DA AÇÃO QUANTO AOS ARTS. 6º
+E 11 DA MEDIDA PROVISÓRIA N. 558/2012 E AO ART. 20 DA LEI N.
+12.678/2012. POSSIBILIDADE DE EXAME DOS REQUISITOS
+CONSTITUCIONAIS PARA O EXERCÍCIO DA COMPETÊNCIA
+EXTRAORDINÁRIA NORMATIVA DO CHEFE DO EXECUTIVO.
+AUSÊNCIA DOS PRESSUPOSTOS DE RELEVÂNCIA E URGÊNCIA.
+ALTERAÇÃO DA ÁREA DE UNIDADES DE CONSERVAÇÃO POR
+MEDIDA PROVISÓRIA. IMPOSSIBILIDADE. CONFIGURADA OFENSA
+AO PRINCÍPIO DA PROIBIÇÃO DE RETROCESSO SOCIOAMBIENTAL.
+AÇÃO PARCIALMENTE CONHECIDA E, NESSA PARTE, JULGADA
+PROCEDENTE, SEM PRONÚNCIA DE NULIDADE.
+
+
+
+[[pagina 9 | nativo]]
+1. Este Supremo Tribunal manifestou-se pela possibilidade e análise dos
+requisitos constitucionais para a edição de medida provisória após a sua
+conversão em lei.
+2. A jurisprudência deste Supremo Tribunal admite, em caráter
+excepcional, a declaração de inconstitucionalidade de medida provisória
+quando se comprove abuso da competência normativa do Chefe do
+Executivo, pela ausência dos requisitos constitucionais de relevância e
+urgência. Na espécie, na exposição de motivos da medida provisória não
+se demonstrou, de forma suficiente, os requisitos constitucionais de
+urgência do caso.
+3. As medidas provisórias não podem veicular norma que altere espaços
+territoriais especialmente protegidos, sob pena de ofensa ao art. 225, inc. III,
+da Constituição da República.
+4. As alterações promovidas pela Lei n. 12.678/2012 importaram diminuição
+da proteção dos ecossistemas abrangidos pelas unidades de conservação por
+ela atingidas, acarretando ofensa ao princípio da proibição de retrocesso
+socioambiental, pois atingiram o núcleo essencial do direito fundamental ao
+meio ambiente ecologicamente equilibrado previsto no art. 225 da
+Constituição da República. 5. Ação direta de inconstitucionalidade
+parcialmente conhecida e, nessa parte, julgada procedente, sem pronúncia de
+nulidade.”(STF, ADI 4717, Relator(a):
+CÁRMEN LÚCIA, Tribunal Pleno, julgado em 05/04/2018)
+
+Outro conjunto de limitações é extraído da interpretação sistemática e
+teleológica dos artigos 62 e 68 da Constituição. O art. 68, § 1º, proíbe o uso de leis delegadas
+para disciplinar determinados temas, conformando uma reserva de lei formal. Sendo vedado o
+tratamento dessas questões por lei delegada – que não tem efeitos imediatos, depende de
+prévia autorização do Congresso e ainda pode ser condicionada à apreciação do Legislativo
+(art. 68, caput e §§ 2º e 3º) –, o mesmo se aplica, e com ainda maior razão, às medidas
+provisórias4. Como observou o Ministro Alexandre de Moraes em obra doutrinária, “se o
+legislador constituinte entendeu indelegáveis essas matérias pelo Poder Legislativo ao Poder
+Executivo, lógica e coerentemente, não seria cabível manter a possibilidade de o Presidente
+da República, unilateralmente por medidas provisórias, discipliná-las”5.
+
+4 V., e.g., Edilson Pereira Nobre Júnior, Medidas provisórias, 2000, p. 201; Clèmerson Merlin Cléve, Atividade
+legislativa do Poder Executivo, 2011, p. 182.
+
+5 Alexandre de Moraes, Direito constitucional, 2020, p. 750. Como apontou Paulo de Barros Carvalho, em obra
+anterior à EC nº 32/2001, “o expediente que o constituinte afastou das mãos do Presidente da República, por
+meio de lei delegada, forma legítima e tradicional de manifestação do Poder Legislativo, certamente que não o
+entregaria para que fosse utilizado por intermédio de medida provisória” (Paulo de Barros Carvalho, Medidas
+
+
+[[pagina 10 | nativo]]
+A necessidade – mais do que a possibilidade – de controle constitucional de
+medidas provisórias pelo Poder Judiciário restou assegurada em voto do I. Ministro LUIZ FUX,
+na ocasião do julgamento da ADI nº 4.029, no qual salientou-se que a edição de medidas
+provisórias sem os pressupostos constitucionais gera efeitos deletérios à atuação do
+Congresso Nacional e à própria ordem social, servindo o controle de constitucionalidade
+como verdadeiro mecanismo de “manutenção da Democracia e do equilíbrio entre os três
+baluartes da Republica”. Confira-se:
+
+(...) A atuação do Judiciário no controle da existência dos requisitos
+constitucionais de edição de Medidas Provisórias, ao contrário de denotar
+ingerência contramajoritária nos mecanismos políticos de diálogo dos outros
+Poderes, serve à manutenção da Democracia e do equilíbrio entre os três
+baluartes da Republica. John Hart Ely explicita de forma precisa o papel do
+Judiciário no jogo democrático: “Courts thus should ensure not on-ly that
+administrators follow those legislative policy directions that do exist (...) but
+also that such directions are given” (em tradução livre: “As Cortes, então,
+deveriam assegurar não somente que os administradores sigam essas
+orientações políticas dadas pelo Legislativo já existentes, mas também que
+tais orientações sejam dadas”. Democracy and Distrust – A Theory of Judicial
+Review. Cambridge: Harvard University Press, 2002. p. 133).
+O Supremo Tribunal Federal, nesta esteira, deve assegurar que o
+Legislativo não se torne um simples anexo do Executivo, subserviente e
+pouco ativo, que se limite a apreciar, na maior parte do tempo, as
+medidas materialmente legislativas adotadas pelo Chefe da
+Administração.
+A má́ utilização dos provimentos de urgência pelo Executivo pode gerar
+efeitos indesejados, não somente para a ordem social, mas igualmente
+para a dinâmica decisória das Casas parlamentares, com constantes
+trancamentos de pauta e apressando a deliberação sobre temas que
+demandariam maior reflexão. (...)
+In casu, o abuso do poder de editar Medidas Provisórias afigura-se
+evidenciado de forma patente, sendo impossível defender com seriedade que a
+criação de um ente para desincumbir-se das mesmas atribuições de autarquia
+já em operação revista-se da urgência necessária para afastar a adoção do rito
+legislativo ordinário. [...] (ADI nº 4029, Rel. Min. LUIZ FUX, julgado em
+08/03/2012, DJe 26/06/2012 – sem ênfase no original)
+
+provisórias, Revista de Direito Administrativo e Infraestrutura 4 (12):385-392, 2020. Disponível em:
+https://rdai.com.br/index.php/rdai/article/view/270. Acesso em: 27 ago. 2021).
+
+
+[[pagina 11 | nativo]]
+O rigor dos requisitos previstos para a edição de medidas provisórias destina-se
+justamente a assegurar, dentre outros princípios norteadores do ordenamento jurídico pátrio, a
+observância ao Princípio da Separação dos Poderes (artigo 2º da Constituição Federal), na
+esteira do qual a atribuição atípica da função legislativa ao Chefe do Poder Executivo deve ser
+interpretada dentro dos estritos limites fixados pela Constituição Federal, que garantem seu
+exercício em caráter excepcional.
+
+Nas palavras do I. Ministro CELSO DE MELLO6, “a possibilidade de controle
+jurisdicional, mesmo sendo excepcional, apoia-se na necessidade de impedir que o Presidente
+da República, ao editar medidas provisórias, incida em excesso de poder ou em situação de
+manifesto abuso institucional, pois o sistema de limitação de poderes não permite que
+práticas governamentais abusivas venham a prevalecer sobre os postulados constitucionais
+que informam a concepção democrática de Poder e de Estado, especialmente naquelas
+hipóteses em que se registrar o exercício anômalo e arbitrário das funções estatal”. Confira-
+se:
+
+(...) O exercício dessa excepcional prerrogativa presidencial, precisamente
+porque transformado em inaceitável prática ordinária de governo, torna
+necessário – em função dos paradigmas constitucionais, que, de um lado,
+consagram a separação de poderes e o princípio da liberdade e que, de outro,
+repelem a formação de ordens normativas fundadas em processo legislativo de
+caráter autocrático – que se imponha moderação no uso da extraordinária
+competência de editar atos com força de lei, outorgada, ao Chefe do Poder
+Executivo da União, pelo art. 62 da Constituição da República.
+
+Desse modo, e mesmo que o exercício (sempre excepcional) da atividade
+normativa primária pelo Poder Executivo possa justificar-se em situações
+absolutamente emergenciais, abrandando, em tais hipóteses, “o monopólio
+legislativo dos Parlamentos” (RAUL MACHADO HORTA, “Medidas
+Provisórias”, in Revista de Informação Legislativa, vol. 107/5), ainda assim
+revela-se profundamente inquietante – na perspectiva da experiência
+institucional brasileira – o progressivo controle hegemônico do aparelho de
+Estado, decorrente da superposição da vontade unipessoal do Presidente da
+República, em função do exercício imoderado da competência extraordinária
+que lhe conferiu o art. 62 da Constituição.
+Eventuais dificuldades de ordem política – exceto quando
+verdadeiramente presentes razões constitucionais de urgência,
+necessidade e relevância material – não podem justificar a utilização de
+medidas provisórias, sob pena de o Executivo, além de apropriar-se
+
+6 ADI nº 2213-MC, Rel. Min. Celso de Mello, Tribunal Pleno, DJ 23/04/2004
+
+
+[[pagina 12 | nativo]]
+ilegitimamente da mais relevante função institucional que pertence ao
+Congresso Nacional, converter-se em instancia hegemônica de poder no
+âmbito da comunidade estatal, afetando, desse modo, com grave prejuízo para
+o regime das liberdades públicas e sérios reflexos sobre o sistema de checks
+and balances, a relação de equilíbrio que necessariamente deve existir entre os
+Poderes da República.
+Vê-se, pois que a relevância e a urgência – que se revelam noções redutíveis à
+categoria de conceitos relativamente indeterminado – qualificam-se como
+pressupostos constitucionais legitimadores da edição das medidas
+provisórias. Constituem requisitos condicionantes do exercício desse poder
+extraordinário de legislar que a Carta Política outorgou ao Presidente da
+República.
+
+Tratando-se de requisitos de índole constitucional, cabe, ao Supremo
+Tribunal Federal, em cada caso ocorrente, analisar a configuração desses
+pressupostos, cuja existência se revela essencial ao processo de
+legitimação do exercício, pelo Presidente da República, do seu poder de
+editar medidas provisórias. (...)”
+
+Trata-se assim de ato normativo federal primário e abstrato e, diante disso,
+assentada a possibilidade de controle judicial das medidas provisórias, não
+resta qualquer dúvida quanto ao cabimento da presente ação direta de
+inconstitucionalidade, com fundamento nos artigos 102, inciso I, alínea a7, e
+103 da Constituição Federal, e artigos 2º e seguintes da Lei nº 9.868/1999.
+
+Como se nota de todo o exposto, mostra-se incabível o tratamento da matéria
+via Medida Provisória, devendo ser declarada sua inconstitucionalidade formal e material.
+
+III. DA LEGITIMIDADE ATIVA DA CFOAB
+
+Conforme previsto nos artigos 103, inciso VII, da Constituição Federal e 2º,
+inciso VII, da Lei nº 9.868/1999, o Conselho Federal da Ordem dos Advogados do Brasil é
+parte legítima para propor ação direta de inconstitucionalidade. Confira-se:
+
+Constituição Federal
+Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação
+declaratória de constitucionalidade:
+
+7 “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-
+lhe:
+I - processar e julgar, originariamente:
+a) a ação direta de inconstitucionalidade de lei ou ato normativo federal ou estadual e a ação declaratória
+de constitucionalidade de lei ou ato normativo federal”
+
+
+[[pagina 13 | nativo]]
+VII - o Conselho Federal da Ordem dos Advogados do Brasil; (...)” (sem
+ênfase no original)
+
+LEI Nº 9.868/99
+Art. 2º. Podem propor a ação direta de inconstitucionalidade:
+VII - o Conselho Federal da Ordem dos Advogados do Brasil; (...)” (sem
+ênfase no original)
+
+É patente, portanto, a legitimidade ativa da CFOAB para o ajuizamento da
+presente ação direta de inconstitucionalidade.
+
+IV. DA INCONSTITUCIONALIDADE FORMAL: INEXISTÊNCIA DE
+RELEVÂNCIA E URGÊNCIA PARA EDIÇÃO DA MEDIDA PROVISÓRIA
+
+Ao conferir ao Presidente da República a possibilidade de editar medidas
+provisórias com força de lei, o artigo 62 da Constituição Federal estabelece como requisitos
+formais – cumulativos e simultâneos – dessa espécie normativa a relevância e a urgência do
+caso. Por se tratar de medida excepcional e atípica do Poder Executivo, natural que sejam
+demonstrados os pressupostos capazes de justificar a sua edição.
+
+Esses pressupostos, como bem observados pela I. Ministra CARMEN LÚCIA, não
+são “conceitos vagos ou despojados de conteúdo comprovável em cada caso; antes, são
+conceitos cuja precisão se põe como possível e imprescindível em cada situação na qual se
+pretendam utilizá-los”.8
+
+Nas palavras da I. Ministra, a relevância exigida é a “circunstância constatada
+como de necessidade imperiosa na sociedade e a ser objeto de um cuidado normativo”. Tal
+circunstância “tem de ser objetivamente demonstrativa de uma necessidade social de
+importância insuperável por outra medida que não aquela de natureza normativa (com força
+de lei) adotada, provisoriamente, pelo Presidente da República”.
+
+8 ROCHA, Cármen Lúcia Antunes. Medidas provisórias e princípio da separação de poderes. In: Direito
+contemporâneo: estudos em homenagem a Oscar Dias Corrêa, p. 44-69. Rio de Janeiro: Forense Universitária,
+2001. p. 62)
+
+
+[[pagina 14 | nativo]]
+No tocante à urgência, restará configurada “somente quando a necessidade
+social imperiosa for urgente e demandar uma imediata resposta por meio da adoção da
+medida normativa presidencial”. Significa dizer que “se o cuidado normativo de uma
+determinada matéria a incidir sobre uma circunstância social puder aguardar pelo menos o
+prazo mínimo para a tramitação urgente de um projeto de lei (hoje fixado em 45 dias), é
+evidente não se poder fazer uso do instituto da medida provisória por carência de um dos
+seus pressupostos”. Confira-se:
+
+(...) 11. O primeiro pressuposto estabelecido na Constituição para o exercício da
+competência normativa do Presidente da República para adotar medida provisória é
+a existência de uma circunstância de relevância – ‘em caso de relevância…’.
+
+A questão que se põe, primariamente, para o perfeito esclarecimento deste
+elemento é a que se refere ao caso constitucionalmente referido no texto
+constitucional. A relevância haverá de ser de um caso cuidado e a ser solucionado
+com a adoção de medida normativa ou de uma matéria a ser objeto deste ato
+normativo a atender, urgentemente, um caso social e politicamente pendente na
+sociedade? ‘Em caso de relevância…’ significa que há uma necessidade inexorável
+emergente na sociedade a reclamar, como única solução possível, um
+comportamento normativo?
+
+Relevante é o que tem importância, é o que se põe como essencial, como
+dotado de qualidade indispensável à essência de um ato, de algo ou de alguém.
+Quando se configurar, pois, uma circunstância constatada como de
+necessidade imperiosa na sociedade e a ser objeto de um cuidado normativo, é
+que se poderá, então, cogitar de adoção de medida nos moldes do art. 62 da
+Constituição da República.
+
+Pressupõe-se, então, que a relevância prevista constitucionalmente concerne à
+circunstância social a tornar exercitável a competência descrita no art. 62, da Lei
+Fundamental da República brasileira. Esta circunstância tem de ser objetivamente
+demonstrativa de uma necessidade social de importância insuperável por outra
+medida que não aquela de natureza normativa (com força de lei) adotada,
+provisoriamente, pelo Presidente da República.
+
+Urge salientar que a relevância é, pois, da situação social sobre a qual incidirá
+o cuidado normativo trazido na medida provisória adotada. Não se
+considerará jamais caso de relevância aquele que se traduza em interesses,
+ainda que sérios e importantes, de governo, de partidos, de governantes,
+mesmo que a hipótese ofereça riscos para a permanência de um grupo no
+poder ou algo que a isso se equipare.
+
+Somente para a sociedade deverá ser relevante o caso e é apenas em face dela e
+para ela que será apurada a ocorrência objetiva de tal qualidade das circunstâncias
+alegadas. Grupos particulares ou interesses, ainda que partidários, não se
+
+
+
+[[pagina 15 | nativo]]
+enquadram na hipótese prevista constitucionalmente e definidora da competência
+presidencial excepcional.
+12. Mas não somente apenas o caso é que haverá de ser relevante para ser possível
+a deflagração da competência normativa presidencial, como haverá de ser, ainda,
+pesquisado quando um caso autoriza o seu exercício, para, então, se ter o quadro
+dos pressupostos do desempenho válido e legítimo daquela atribuição.
+
+A resposta a essa segunda questão é oferecida, expressamente, pela própria
+Constituição: somente quando a necessidade social imperiosa for urgente e
+demandar uma imediata resposta por meio da adoção da medida normativa
+presidencial haverá de ser legitimada a atuação excepcional da autoridade
+titular do Poder Executivo. Há, pois, que se ler o art. 62, da Constituição da
+República na forma seguinte: em caso de relevância e quando esse caso de
+relevância for urgente… Pode haver casos urgentes na sociedade que não têm,
+contudo, o relevo imposto como pressupostos para o exercício possível da
+atribuição presidencial em pauta. Pode também haver casos relevantes que não têm
+a urgência que se põem na base fundante da constitucionalidade legítima do
+desempenho presidencial. Assim, se o cuidado normativo de uma determinada
+matéria a incidir sobre uma circunstância social puder aguardar pelo menos o
+prazo mínimo para a tramitação urgente de um projeto de lei (hoje fixado em
+45 dias), é evidente não se poder fazer uso do instituto da medida provisória
+por carência de um dos seus pressupostos.
+
+A urgência alia questão de data (momento) com a condição nela constatada. A
+urgência qualifica o momento e define o tempo de exercício de uma competência.
+Note-se que a urgência pode ser preventiva ou reparadora, e tal qualidade
+demonstrada altera a análise da constitucionalidade da declaração de urgência para
+o exercício da competência.
+
+O pressuposto da relevância do caso para o qual se adote medida provisória expõe
+a natureza da exigência, enquanto o pressuposto da urgência define,
+constitucionalmente, o momento da exigência da atuação administrativo-
+normativa.
+(...)” (sem ênfase no original)9
+
+Corroborando esse entendimento, o ilustre doutrinador CELSO ANTÔNIO
+BANDEIRA DE MELLO10 ensina que, “mesmo que a palavra contenha em si algum teor de
+fluidez, qualquer pessoa entenderá que só é urgente o que tem de ser enfrentado
+imediatamente, o que não pode aguardar o decurso do tempo, caso contrário o benefício
+
+9 ROCHA, Cármen Lúcia Antunes. Medidas provisórias e princípio da separação de poderes. In: Direito
+contemporâneo: estudos em homenagem a Oscar Dias Corrêa, p. 44-69. Rio de Janeiro: Forense Universitária,
+2001. p. 58-60)
+10 MELLO, Celso Antônio Bandeira de. Curso de Direito Administrativo. 20ª edição. São Paulo-SP; Editora
+Malheiros; 2006; p. 118.
+
+
+[[pagina 16 | nativo]]
+pretendido inalcançável ou o dano que se quer evitar consumar-se-á ou, no mínimo existirão
+sérios riscos de que sobrevenha efeitos desastrosos em caso de demora”.
+
+A carência de qualquer um dos requisitos elencados no artigo 62 da
+Constituição Federal torna a medida provisória inconstitucional e um instrumento de poder
+que visa a satisfação dos anseios do Poder Executivo, ferindo, dessa forma, os princípios
+norteadores de qualquer Estado Democrático de Direito.
+
+Reitere-se, nessa linha, que a jurisprudência desse Egrégio Supremo Tribunal
+Federal admite, em caráter excepcional, a declaração de inconstitucionalidade de medidas
+provisórias quando se afigure evidente o abuso da competência normativa do Chefe do
+Executivo, pela ausência dos requisitos constitucionais de relevância e urgência:
+
+CONSTITUCIONAL. ART. 5º DA MP 2.170/01. CAPITALIZAÇÃO DE
+JUROS COM PERIODICIDADE INFERIOR A UM ANO. REQUISITOS
+NECESSÁRIOS PARA EDIÇÃO DE MEDIDA PROVISÓRIA.
+SINDICABILIDADE PELO PODER JUDICIÁRIO. ESCRUTÍNIO
+ESTRITO. AUSÊNCIA, NO CASO, DE ELEMENTOS SUFICIENTES
+PARA NEGÁ-LOS. RECURSO PROVIDO.
+1. A jurisprudência da Suprema Corte está consolidada no sentido de que,
+conquanto os pressupostos para a edição de medidas provisórias se exponham
+ao controle judicial, o escrutínio a ser feito neste particular tem domínio
+estrito, justificando-se a invalidação da iniciativa presidencial apenas quando
+atestada a inexistência cabal de relevância e de urgência.
+2. Não se pode negar que o tema tratado pelo art. 5º da MP 2.170/01 é
+relevante, porquanto o tratamento normativo dos juros é matéria
+extremamente sensível para a estruturação do sistema bancário, e,
+consequentemente, para assegurar estabilidade à dinâmica da vida econômica
+do país.
+3. Por outro lado, a urgência para a edição do ato também não pode ser
+rechaçada, ainda mais em se considerando que, para tal, seria indispensável
+fazer juízo sobre a realidade econômica existente à época, ou seja, há quinze
+anos passados.
+4. Recurso extraordinário provido”. (RE 592.377, Relator Ministro MARCO
+AURÉLIO, Relator para o acórdão Ministro Teori Zavascki, Tribunal Pleno,
+DJe 20.3.2015)
+“MEDIDA CAUTELAR EM AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA 2.226, DE
+04.09.2001. TRIBUNAL SUPERIOR DO TRABALHO. RECURSO DE
+
+
+
+[[pagina 17 | nativo]]
+REVISTA. REQUISITO DE ADMISSIBILIDADE. TRANSCENDÊNCIA.
+AUSÊNCIA DE PLAUSIBILIDADE JURÍDICA NA ALEGAÇÃO DE
+OFENSA AOS ARTIGOS 1º; 5º, CAPUT E II; 22, I; 24, XI; 37; 62, CAPUT
+E § 1º, I, B; 111, § 3º E 246. LEI 9.469/97. ACORDO OU TRANSAÇÃO EM
+PROCESSOS JUDICIAIS EM QUE PRESENTE A FAZENDA PÚBLICA.
+PREVISÃO DE PAGAMENTO DE HONORÁRIOS, POR CADA UMA
+DAS PARTES, AOS SEUS RESPECTIVOS ADVOGADOS, AINDA QUE
+TENHAM SIDO OBJETO DE CONDENAÇÃO TRANSITADA EM
+JULGADO. RECONHECIMENTO, PELA MAIORIA DO PLENÁRIO, DA
+APARENTE VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA
+ISONOMIA E DA PROTEÇÃO À COISA JULGADA.
+1. A medida provisória impugnada foi editada antes da publicação da Emenda
+Constitucional 32, de 11.09.2001, circunstância que afasta a vedação prevista
+no art. 62, § 1º, I, b, da Constituição, conforme ressalva expressa contida no
+art. 2º da própria
+EC 32/2001.
+2. Esta Suprema Corte somente admite o exame jurisdicional do mérito dos
+requisitos de relevância e urgência na edição de medida provisória em casos
+excepcionalíssimos, em que a ausência desses pressupostos seja evidente. No
+presente caso, a sobrecarga causada pelos inúmeros recursos repetitivos em
+tramitação no TST e a imperiosa necessidade de uma célere e qualificada
+prestação jurisdicional aguardada por milhares de trabalhadores parecem
+afastar a plausibilidade da alegação de ofensa ao art. 62 da Constituição.
+(…)
+6. Pedido de medida liminar parcialmente deferido”. (ADI 2.527-MC,
+Relatora Ministra ELLEN GRACIE, Tribunal Pleno, DJe 23.11.2007)11
+
+No presente caso, a exposição de motivos da Medida Provisória impugnada,
+além de fundamentada em premissas incorretas e/ou falaciosas, não demonstrou, ainda que
+minimamente, a presença dos requisitos de relevância e urgência a permitir o exercício
+excepcional da competência legislativa pelo Presidente da República.
+
+De acordo com as informações divulgadas até este momento pela Secretaria
+Geral da Presidência da República, “A urgência e relevância da medida decorrem do fato de
+que a remoção arbitrária e imotivada de contas, perfis e conteúdos por provedores de redes
+
+11 E ainda: ADI 2.418, Relator Ministro Teori Zavascki, Tribunal Pleno, DJe 17.11.2016; ARE 704.520, Relator
+Ministro Gilmar Mendes, Tribunal Pleno, DJe 2.12.2014; ADC 11-MC, Relator Ministro Cezar Peluso Tribunal
+Pleno, DJe 29.6.2007; ADI 1.910-MC, Relator Ministro Sepúlveda Pertence, Tribunal Pleno, DJ 27.2.2004; ADI
+1.717-MC, Relator Ministro Sydney Sanches, Tribunal Pleno, DJ 25.2.2000; ADI 1.647, Relator Ministro Carlos
+Velloso, Tribunal Pleno, DJ 26.3.1999; ADI 1.753-MC, Relator Ministro Sepúlveda Pertence, Tribunal Pleno,
+DJ 12.6.1998; ADI 162-MC, Relator Ministro Moreira Alves, Tribunal Pleno, DJ 19.9.1997.
+
+
+[[pagina 18 | nativo]]
+sociais, além de prejudicar o debate público de ideias e o exercício da cidadania, resulta em
+um quadro de violação em massa de direitos e garantias fundamentais como a liberdade de
+expressão e exercício do contraditório de ampla defesa.”
+
+É de se notar, contudo, que não há nenhuma evidência sobre um "quadro de
+violação em massa de direitos fundamentais" nas redes sociais, o que, se houvesse, já teria
+sido repelido pelo próprio Poder Judiciário. De fato, o Poder Executivo não apresentou
+nenhum dado objetivo que permitisse qualquer conclusão semelhante a essa. Audiências
+públicas sobre o tema não foram realizadas, o texto proposto não foi discutido com a
+sociedade civil, nenhuma análise de impacto regulatório foi produzida.
+
+A Medida Provisória também não indica, em momento algum, qual seria a
+urgência da alteração de temas de governança da Internet debatidos tão intensamente pela
+sociedade, pelo Legislativo e também pelo Executivo. Finalmente, a Medida Provisória não
+informa qual teria sido a situação crítica ensejadora de tal intervenção imediata, excepcional e
+gravosa na esfera dos direitos individuais.
+
+Como apontado acima, a única motivação que se revela na proposição desta
+Medida Provisória é o interesse pessoal e político do Chefe do Executivo em ter a ação de
+moderação de conteúdo dos provedores de aplicação restringida. É notório que o texto da
+Medida Provisória não encampa sob as hipóteses de moderação espontânea de conteúdo casos
+de desinformação na saúde pública, ataques às instituições do Estado Brasileiro, ataques à
+ordem democrática, desinformações sobre o sistema eleitoral, dentre outros temas.
+
+Eventuais dificuldades de ordem política e interesses de cunho pessoal ou
+partidário não podem, por óbvio, justificar a superposição da vontade unipessoal do
+Presidente da República (ou do atual governo) no exercício imoderado da competência
+extraordinária conferida pelo artigo 62 da Constituição Federal.
+
+Revela-se sim, nesta ação, verdadeiro desvio de finalidade, incompatível com
+os princípios da Administração Pública veiculados no artigo 37 da Constituição Federal.
+
+Vale ressaltar, ainda, que o tema da moderação de conteúdo pelas plataformas
+já é objeto de diversos projetos de lei em trâmite perante o Congresso Nacional, com especial
+destaque para o PL 2630/20, de autoria do Senador Alessandro Vieira, conhecido como PL
+das Fake News, e que tem por objetivo a criação de regramento específico sobre a repressão à
+disseminação de desinformação e de comportamentos inautênticos dentro do ambiente online.
+
+
+
+[[pagina 19 | nativo]]
+A existência de processo e debate legislativo em curso apenas ratifica a
+inexistência de urgência na edição da Medida Provisória, especialmente para a modificação
+do Marco Civil da Internet que foi exemplar como fruto de amplo e irrestrito e participativo
+processo colaborativo de sua construção, com participação de representantes multissetoriais e
+da sociedade civil.
+
+Contudo, a edição da Medida Provisória demonstra a unilateralidade e a
+imposição de regras arbitrárias, sem o necessário debate legislativo e democrático, dado o
+profundo impacto que essas alterações provocarão no ambiente online, com a permissividade
+de conteúdo e de condutas atualmente combatidas de maneira espontânea e extrajudicial pelas
+plataformas. Trata-se de verdadeira inversão de princípios e de valores!
+
+No respeitoso entendimento do CFOAB, inexiste qualquer urgência a legitimar
+a alteração da governança da Internet no Brasil por meio de medida provisória. Eventuais
+alterações devem ser feitas através de iniciativas legislativas pautadas em consultas públicas e
+participativas, de forma totalmente democrática e transparente, sob pena de enfraquecimento
+da democracia e ameaça aos próprios princípios e fundamentos da Constituição Federal e do
+Marco Civil da Internet.
+
+Ausentes, portanto, os pressupostos da relevância e urgência, é imperioso se
+reconhecer a inconstitucionalidade formal da Medida Provisória nº 1.068/2021 conforme
+requerimento ao final formulado, sobretudo porque a Medida Provisória representa verdadeiro
+ato de abuso de poder do Executivo que, à sua melhor conveniência, ultrapassa os limites da
+competência legislativa delegada ao Poder Executivo para inovar no ordenamento jurídico.
+
+V. DAS INCONSTITUCIONALIDADES MATERIAIS
+
+V. a) VIOLAÇÃO AOS PRINCÍPIOS CONSTITUCIONAIS DA LIVRE
+INICIATIVA E LIVRE CONCORRÊNCIA
+
+A livre iniciativa constitui, em primeiro lugar, um dos fundamentos da própria
+República, conforme expressamente previsto no artigo 1º, inciso IV, da Constituição Federal.
+Além de ser um princípio fundamental do Estado brasileiro, a livre iniciativa também um
+princípio geral da ordem econômica, nos termos do artigo 170 da Constituição:
+
+
+
+[[pagina 20 | nativo]]
+Art. 1º. A República Federativa do Brasil, formada pela união indissolúvel dos
+Estados e Municípios e do Distrito Federal, constitui-se em Estado Democrático de
+Direito e tem como fundamentos:
+IV - os valores sociais do trabalho e da livre iniciativa; (...)”
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na
+livre iniciativa, tem por fim assegurar a todos existência digna, conforme os
+ditames da justiça social, observados os seguintes princípios:
+IV - livre concorrência;
+Parágrafo único. É assegurado a todos o livre exercício de qualquer atividade
+econômica, independentemente de autorização de órgãos públicos, salvo nos casos
+previstos em lei.
+
+Isso significa que toda e qualquer iniciativa regulatória que se destine a
+interferir nos modelos de negócios deve, por conseguinte, respeitar as liberdades inerentes à
+atividade empresarial asseguradas pela Constituição da República. Conforme pontuado em
+recente acórdão de repercussão geral proferido por esse Egrégio Supremo Tribunal Federal
+em demanda análoga, “a livre iniciativa consiste na liberdade de iniciar, organizar e gerir
+uma atividade econômica. Ela consagra uma garantia de abstenção do Estado no domínio
+econômico”.12
+
+A livre iniciativa assegura aos particulares o exercício de suas atividades
+econômicas, em princípio, sem a interferência do Estado, isto é, sem que a Administração
+Pública imponha óbices ao regular desenvolvimento de seus negócios. A excepcional
+intervenção do Estado nessa seara é admitida somente quando autorizado pela própria
+Constituição Federal. Vale conferir, nesse ponto, a lição do I. Ministro LUÍS ROBERTO
+BARROSO:
+
+(...) É bem de ver que, embora a referência à livre iniciativa seja tradicional nos
+textos constitucionais brasileiros, a Carta de 1988 traz uma visão bem diversa da
+ordem econômica e do papel do Estado, em contraste com os modelos anteriores.
+Já não se concede mais, como fazia a Carta de 1967/69, ampla competência na
+matéria ao legislador ordinário, ao qual era reconhecida até mesmo a
+possibilidade de instituir monopólios estatais. As exceções ao princípio da livre
+iniciativa, portanto, haverão de estar autorizadas pelo próprio texto da
+
+12 STF – Repercussão geral no RE 1.054.110/SP – Rel. Min. Luís Roberto Barroso - DJe 13.11.2017 – sem
+ênfase no original (a ação tem por objeto o exame da constitucionalidade da proibição do serviço de transporte
+individual remunerado de passageiros intermediado por aplicações de Internet).
+
+
+[[pagina 21 | nativo]]
+Constituição de 1988 que o consagra. Não se admite que o legislador ordinário
+possa livremente excluí-la, salvo se agir fundamentado em outra norma
+constitucional específica. (...)”13 (sem ênfase no original)
+
+Seguindo a lógica da Constituição Federal, o Marco Civil da Internet
+consagrou a livre iniciativa como um dos fundamentos da disciplina do uso da Internet no
+Brasil, em seu artigo 2º, inciso V.14 Em decorrência disso, os provedores podem, por óbvio,
+estabelecer políticas claras sobre as condições de uso dos seus serviços, com a criação de
+mecanismos de denúncia e avaliação do conteúdo que é gerado dentro das plataformas.
+
+Outrossim, a Lei da Liberdade Econômica ratificou, em seus artigos 2º e 421-
+A, a liberdade de contratar entre as plataformas e seus usuários, mediante o estabelecimento
+de regras, direitos e deveres norteadores de suas relações, assim como o dever de interferência
+mínima do Estado no âmbito privado da contratação entre particulares, chocando-se, por
+assim dizer, com a ideia de que se deveria buscar uma autor regulação regulada, ou seja, com
+a interferência direta do Estado na forma de agir dos provedores de redes sociais na ausência
+da ordem judicial preconizada pelo já mencionado artigo 19 do Marco Civil da Internet.
+
+A Medida Provisória interfere na atividade econômica privada e no direito de
+livre iniciativa e a estruturação e gestão do modelo de negócio dos provedores de redes sociais
+ao proibi-los de aplicarem suas políticas de uso e removerem conteúdos e contas infringentes
+independentemente de ordem judicial. Essa interferência estatal, sem a mínima
+justificativa razoável, viola diametralmente a Constituição Federal.
+
+A regulação estatal não pode afetar o núcleo essencial da livre iniciativa,
+privando os provedores de redes sociais de estabelecerem regras, direitos e deveres
+norteadores de suas relações contratuais, em especial com o propósito de garantir o seu
+adequado funcionamento, preservar as características essenciais dos serviços e prevenir a
+violação de direitos de terceiros. A restrição desproporcional desse direito contraria, a toda
+evidência, a Constituição Federal.
+
+Vale conferir, nesse sentido, trecho de voto do I. Ministro LUIZ FUX, no âmbito
+da Arguição de Descumprimento de Preceito Fundamental nº 499/DF, proposta para
+questionar lei municipal de Fortaleza que proibia o uso de carros particulares cadastrados ou
+
+13 Luís Roberto Barroso, Temas de direito constitucional, tomo II, 2 ed. rev., Rio de Janeiro: Renovar, 2009, p.
+49/51.
+14 Art. 2o A disciplina do uso da internet no Brasil tem como fundamento o respeito à liberdade de expressão,
+bem como: (...) V - a livre iniciativa, a livre concorrência e a defesa do consumidor; (...)”
+
+
+[[pagina 22 | nativo]]
+não em aplicativos para o transporte remunerado individual de pessoas no Município de
+Fortaleza:
+
+(...) Nesse contexto, afigura-se incompatível com a distribuição constitucional de
+competências a edição de lei municipal que restrinja o exercício de atividade de
+transporte de natureza estritamente privada, sob pena de transformar-se o modelo
+federativo em óbice ao pleno desenvolvimento do país, considerada a profusão
+desordenada de legislações conflitantes.
+Nesse contexto, o art. 3º, VIII, da Lei Federal n.º 12.965/2014 (Marco Civil da
+Internet) já garante a liberdade dos modelos de negócios promovidos na internet,
+como é o caso das redes de transporte particular de passageiros por aplicativos
+Resta patente, assim, que o objetivo perseguido pelo regulador, in casu, é
+inconstitucional, porquanto os princípios constitucionais da livre iniciativa
+(artigos 1º, IV, e 170), da liberdade profissional (art. 5º, XIII), da igualdade
+(art. 5º, caput) e da ampla concorrência (art. 173, § 4º) impedem ações
+legislativas e administrativas que preservem os interesses de agentes
+tradicionais do mercado em detrimento de novos entrantes e dos
+consumidores.
+Conforme restou amplamente demonstrado no presente voto, a providência
+gravíssima de proibição das atividades de plataformas de economia compartilhada
+no setor de transporte urbano não se sustenta por razão legítima alguma. A
+Constituição brasileira não admite, sob pena de franca violação a direitos
+fundamentais, medidas restritivas de liberdade desprovidas de bases racionais, seja
+de primeira ou de segunda ordem, a exemplo do ocorrido no caso concreto.
+À míngua de razões de segunda ordem capazes de sustentar a norma proibitiva,
+concluo pela sua inconstitucionalidade, por ofensa aos artigos 1º, IV; 5º, caput,
+XIII e XXXII; 22, incisos IX, XI e XVI; 144, § 10, I; 170, caput, IV, V e VIII; e
+173, § 4º, todos da Carta Magna. Demais disso, observo que a
+inconstitucionalidade dos artigos 1º e 2º da lei hostilizada é prejudicial à vigência
+dos artigos 3º e 4º da mesma norma, o que impõe a uso da técnica de declaração
+por arrastamento para estes artigos.
+
+Ex positis, julgo procedente a Arguição de Descumprimento de Preceito
+Fundamental para declarar inconstitucional, in totum, a Lei Municipal de Fortaleza
+nº 10.553/2016.” (sem ênfase no original)
+
+
+
+[[pagina 23 | nativo]]
+Reitere-se que os provedores de redes sociais são empresas privadas e podem,
+no exercício de sua autonomia privada e desde que observada a lei, adotar seus critérios e
+estabelecer seus próprios estatutos e códigos, indicando o modo pelo qual os seus serviços são
+fornecidos e a forma como podem ser utilizados pelos usuários, por meio da estipulação de
+condutas e práticas proibidas.
+
+É esta, aliás, a essência do conceito e a própria razão de existir de um contrato:
+fixar os limites ao exercício de direitos resguardados pela Constituição Federal. O contrato
+define limites ao exercício de liberdades constitucionais dos contratantes, criando entre as
+partes regras que a lei não impõe à coletividade. O estabelecimento desses limites integra a
+liberdade contratual do provedor, de forma que, ao negar essa prerrogativa, a Medida
+Provisória esgota o próprio conceito de contrato e viola o princípio da livre iniciativa.
+
+Com a devida vênia, ao desconsiderar por completo o dever de interferência
+mínima do Estado no âmbito privado da contratação legítima entre particulares, a Medida
+Provisória é flagrantemente inconstitucional e constitui verdadeiro retrocesso social e
+legislativo.
+
+Concretamente, ao limitar a atuação das plataformas apenas para as hipóteses
+consideradas como justa causa elencadas nos artigos 8-B e 8-C, a Medida Provisória, de
+maneira absolutamente injustificável e desproporcional, interfere na liberdade de contratar,
+que é corolário da livre iniciativa, das plataformas com seus usuários. E nisso nada há de
+restritivo à liberdade de expressão ou de manifestação!
+
+Como se verá adiante, infelizmente, nos dias atuais, a defesa da liberdade de
+expressão e de manifestação tem sido indevidamente utilizada para justificar condutas e
+conteúdos manifestamente ilícitos, não encontrando guarida na Constituição Federal,
+podendo, diante do caso concreto, e de maneira proporcional, sofrer limitações, se
+caracterizado o seu exercício abusivo.
+
+Logo, não há dúvida de que a Medida Provisória viola os artigos 1º, inciso IV e
+170, inciso IV, da Constituição Federal.
+
+V. b) DA VIOLAÇÃO DA DIGNIDADE HUMANA E DO DEVER DO ESTADO E
+DOS ENTES PRIVADOS DE PROMOVER O BEM DE TODOS SEM QUAISQUER
+TIPO DE PRECONCEITO OU DISCRIMINAÇÃO BEM COMO DA FUNÇÃO
+SOCIAL DA PROPRIEDADE
+
+
+
+[[pagina 24 | nativo]]
+Ao limitar a moderação do discurso de ódio restringindo apenas à possibilidade
+de moderação a violência ou ameaça ou quando configurar crime sujeito a ação penal
+incondicionada a Medida Provisória impede a atuação das redes sociais na prevenção e
+repressão aos atos de preconceito ou de discriminação praticados contra pessoas integrantes
+de grupos sociais vulneráveis, muito comum na internet. Um exemplo é a injúria racial, que
+nos termos da Medida Provisória só poderá ter seu conteúdo moderado por requerimento do
+próprio usuário, de seu representante legal ou de seus herdeiros, pois seu tipo penal não se
+trata de ação penal pública incondicionada, dependendo de representação. Uma vez que a
+injuria racial é proferida ao invés de um indivíduo mas para um grupo indeterminado de
+pessoas, por exemplo, não há legitimidade de nenhum usuário específico de solicitar a
+remoção de determinado conteúdo.
+
+A Medida Provisória também traz obstáculos para que os próprios provedores
+de rede sociais tenham atuação pró-ativa criando políticas de moderação que vedem o
+discurso de ódio e a promoção de ideários preconceituosos e discriminatórios. Destacasse que
+o reconhecimento dos deveres de proteção e a eficácia horizontal dos direitos fundamentais
+nas relações privadas é amplamente presente na doutrina brasileira como a teoria foi
+incorporado por essa Corte a partir do julgamento do Recurso Extraordinário 201-819-8 pela
+segunda turma em 2005. 15
+
+Destacando alguns trechos do voto do Ministro Celso de Mello:
+
+“Cumpre considerar, neste ponto, até mesmo para efeito de exame da questão ora
+em análise, a advertência de Ingo Wolfgang Sarlet (...): ‘uma opção por uma
+eficácia direta traduz uma decisão política em prol de um constitucionalismo
+da igualdade, objetivando a efetividade do sistema de direitos e garantias
+fundamentais no âmbito do Estado Social de Direito, ao passo que a concepção
+defensora de uma eficácia apenas indireta encontra- se atrelada ao
+constitucionalismo de inspiração liberal-burguesa (...)
+É por essa razão que a autonomia privada – que encontra claras limitações de
+ordem jurídica – não pode ser exercida em detrimento aos direitos e garantias
+de terceiros, especialmente aqueles positivados em sede constitucional, pois a
+autonomia da vontade não confere aos particulares, no domínio de sua
+incidência e atuação, o poder de transgredir ou de se ignorar as restrições
+postas e definidas pela própria Constituição, cuja eficácia e força normativa
+
+15 SARMENTO, Daniel. Direitos Fundamentais e relações privadas. 2 ed. Rio de Janeiro: Editora Lumen Juris,
+2006.
+
+
+[[pagina 25 | nativo]]
+também se impõem aos particulares, no âmbito de suas relações privadas, em
+tema de liberdades fundamentais.”
+
+V. c) DA POSSIBILIDADE DE LIMITAÇÃO DAS LIBERDADES DE
+EXPRESSÃO E PENSAMENTO, E DE INFORMAÇÃO;
+
+Dentre as diversas formas de manifestação das liberdades individuais, a
+liberdade de expressão é objeto de proteção no ordenamento jurídico brasileiro desde a nossa
+primeira Constituição, outorgada no período imperial.
+
+O artigo 179, inciso IV, da Constituição de 1824 estabelecia que “Todos podem
+comunicar os seus pensamentos, por palavras, escritos, e publica-los pela Imprensa, sem
+dependência de censura; com tanto que hajam de responder pelos abusos, que cometerem no
+exercício deste Direito, nos casos, e pela forma, que a Lei determinar”.
+
+A tutela constitucional da liberdade de expressão e do direito à informação
+somente perdeu espaço, na história do Direito brasileiro, durante o Estado Novo (Constituição
+de 1937) e no regime militar (Emenda Constitucional nº 1 de 1969) – reflexo nítido das
+aspirações antidemocráticas e autoritárias dos governos que exerceram o poder nesses
+períodos.
+
+Exceto durante esses tristes interregnos da história do Brasil, a liberdade de
+expressão e o direito à informação sempre foram, como atualmente são, objeto da mais
+elevada tutela assegurada pelo ordenamento jurídico brasileiro.
+
+A Constituição Federal de 1988 conferiu amplo tratamento à liberdade de
+pensamento e de expressão (artigos 5º, incisos IV, IX, XIV e 220)16, que constituem não
+apenas direito fundamental, mas também exigência da convivência em sociedade segundo os
+ditames do Estado Democrático de Direito. Nas palavras de PINTO FERREIRA, “o Estado
+democrático defende o conteúdo essencial da manifestação da liberdade, que é assegurado
+
+16 “Art. 5º. (...) IV – é livre a manifestação do pensamento, sendo vedado o anonimato; (...) IX – é livre a
+expressão da atividade intelectual, artística, científica ou de comunicação, independente de censura ou licença;
+(...) XIV – é assegurado a todos o acesso à informação e resguardado o sigilo da fonte, quando necessário ao
+exercício profissional; (...)”.
+Art. 220. A manifestação do pensamento, a criação, a expressão e a informação sob qualquer forma, processo ou
+veículo não sofrerão qualquer restrição, observado o disposto nesta Constituição. § 1º Nenhuma lei conterá
+dispositivo que possa constituir embaraço à plena liberdade de informação jornalística em qualquer veículo de
+comunicação social, observado o disposto no art. 5º, IV, V, X, XIII e XIV. § 2ª É vedada toda e qualquer censura
+de natureza política, ideológica e artística”.
+
+
+[[pagina 26 | nativo]]
+tanto sob o aspecto positivo, ou seja, proteção da exteriorização da opinião, como sob o
+aspecto negativo, referente à proibição de censura”.17
+
+A liberdade de informação tem grande relevância social, em especial, por
+permitir o livre exercício da democracia, já que sua efetivação assegura a participação dos
+indivíduos nos assuntos comuns da sociedade, a formação de suas convicções e crenças
+pessoais e o pleno desenvolvimento da personalidade e dignidade do ser humano. A esse
+respeito já se posicionou HESSE:
+
+(...) Sem a liberdade de manifestação da opinião e liberdade de informação,
+sem a liberdade dos ‘meios de comunicação de massa’ modernos, imprensa,
+rádio e filme, a opinião pública não pode nascer, o desenvolvimento de
+iniciativas e alternativas pluralistas, assim como ‘formação preliminar da
+vontade política’ não são possíveis, publicidade da vida política não pode
+haver, a oportunidade igual das minorias não está assegurada com eficácia e
+vida política em um processo livre e aberto não se pode desenvolver. (...)18
+
+Não é outro o entendimento de ROBERT DAHL, para quem a liberdade de
+expressão é necessária para se adquirir “compreensão esclarecida de possíveis atos e políticas
+do governo”, “competência cívica” e “capacidade de influenciar o programa de planejamento
+das decisões do governo”. Nas palavras de DAHL, “Cidadãos silenciosos podem ser perfeitos
+para um governo autoritário, mas seriam desastrosos para uma democracia”.19
+
+Há que se considerar, ainda, que os direitos aqui em discussão, em especial a
+liberdade de informação, são resguardados pelo ordenamento constitucional brasileiro sob as
+dimensões positiva (direito de informar) e negativa (direito de se informar) – esta última de
+feição nitidamente coletiva.
+
+O direito de se informar consiste na faculdade de buscar e conhecer a
+informação, vale dizer, um direito de não ser impossibilitado ou entravado de acessar a notícia
+e outros conteúdos veiculados nos meios de comunicação social. Como afirma TATIANA
+STROPPA, “O direito de se informar é o que faculta à pessoa a busca por informações sem
+qualquer espécie de empecilho ou limitações”.20
+
+17 citado por Alexandre de Moraes. Direito Constitucional – 23 ed. – São Paulo: Atlas, 2008, p. 45.
+18 Konrad Hesse, Elementos de direito constitucional da República Federal da Alemanha, p. 305.
+19 Robert A. Dahl, Sobre a democracia, p. 110.
+20 Tatiana Stroppa. As dimensões constitucionais do direito de informação e o exercício da liberdade de
+informação jornalística. Belo Horizonte: Fórum, 2010, p. 92.
+
+
+[[pagina 27 | nativo]]
+Em sua faceta de direito de se informar, a liberdade de informação assume
+feição de direito coletivo lato sensu, já que tem como titulares não apenas as pessoas
+isoladamente consideradas, mas toda a coletividade a que a Constituição assegura a faculdade
+de acessar a notícia e outros conteúdo veiculados pelos meios de comunicação social. A
+feição coletiva da liberdade de informação é assim referida por JOSÉ AFONSO DA SILVA:
+
+(...) O direito de informar, como aspecto da liberdade de manifestação do
+pensamento, revela-se um direito individual, mas já contaminado de sentido
+coletivo, em virtude das transformações dos meios de comunicação, de sorte que a
+caracterização mais moderna do direito de comunicação, que especialmente se
+concretiza pelos meios de comunicação social ou de massa, envolve a transmutação
+do antigo direito de imprensa e de manifestação do pensamento, por esses meios,
+em direitos de feição coletiva. (...)”21 (sem ênfase no original)
+
+Ao disciplinar o uso da internet no Brasil, o Marco Civil da Internet, após um
+longo e extenso debate público, seguiu a sistemática da Constituição Federal, tendo
+estabelecido a garantia à liberdade de expressão, a livre iniciativa e, ao mesmo tempo, a
+liberdade dos modelos de negócios promovidos na Internet como uns de seus
+fundamentos22 e princípios23.
+
+Com efeito, o Marco Civil da Internet optou expressamente por privilegiar,
+prima facie, a liberdade de expressão e de informação em relação às alegadas violações aos
+direitos da personalidade. Tanto assim é que a já mencionada regra geral que disciplina a
+remoção de conteúdo gerado por usuários da internet, condicionando-a à prolação de uma
+ordem judicial específica, encontra-se expressamente prevista em seu artigo 19, caput e § 1º.
+
+21 José Afonso da Silva. Comentário Contextual à Constituição. 8 ed. São Paulo: Malheiros, 2012, p. 112.
+22 “Art. 2º A disciplina do uso da internet no Brasil tem como fundamento o respeito à liberdade de expressão,
+bem como: (...) V - a livre iniciativa, a livre concorrência e a defesa do consumidor; e (...)”.
+23 “Art. 3º A disciplina do uso da internet no Brasil tem os seguintes princípios: I - garantia da liberdade de
+expressão, comunicação e manifestação de pensamento, nos termos da Constituição Federal; (...) VIII - liberdade
+dos modelos de negócios promovidos na internet, desde que não conflitem com os demais princípios
+estabelecidos nesta Lei”.
+
+
+[[pagina 28 | nativo]]
+A despeito disso, o Marco Civil da Internet não proíbe – e sequer poderia – os
+provedores de aplicação de Internet de atuarem ativa e espontaneamente no que diz respeito à
+remoção de conteúdo postado por seus usuários, quando constatada, de acordo com os
+critérios e parâmetros estabelecidos em suas políticas e termos de uso, violações às regras
+estabelecidas para o uso do serviço. Significa dizer, portanto, que essa intervenção
+extrajudicial por parte dos provedores de aplicação de internet, em observância ao acordo
+firmado com os usuários, afigura-se como sua mera liberalidade, e não como uma
+obrigação legal.
+
+Em nenhum momento o Marco Civil determina que precise existir uma ordem
+judicial para que um conteúdo seja removido da internet. O provedor apenas será obrigado a
+remover um conteúdo caso, em regra, exista uma ordem judicial ordenando isso. Antes da
+ordem judicial, cabe ao provedor, no exercício de sua autonomia privada e liberdade
+contratual, gerir a sua plataforma e decidir se removerá ou não determinado conteúdo,
+quando constatadas violações ao contrato pactuado entre as partes.
+
+Isso ocorre porque as liberdades de expressão e manifestação do pensamento
+(asseguradas pelos artigos 5º, incisos IV e IX, da Constituição Federal e 3º, inciso I, e 8º do
+Marco Civil da Internet) não são absolutas ou irrestritas, encontrando limitação nos demais
+direitos e garantias igualmente assegurados pela Constituição Federal.
+
+A Medida Provisória 1.068/2021 viola o sistema normativo ao tratar a
+liberdade de expressão como um direito absoluto, sendo esse justamente um dos grandes
+perigos dessa garantia que deve ser conferida a todo ser humano, tal como esclarecido já há
+algum tempo por diversos doutrinadores, conforme leciona João Carlos Souto:
+
+Nessa linha, é preciso não perder de vista que o freedom of speech (liberdade
+de expressão), não obstante sua inegável relevância constitucional, precisa ser
+conjugado com o right of privacy (direito à privacidade), expressão cunhada
+por Samuel D. Warren e Louis Brandeis, em artigo veiculado na prestigiada
+Revista de Direito da Harvard Law School, em 1890.
+
+Como a liberdade de expressão é uma conquista contra o Estado, uma garantia
+de não interferência no direito de livre pensar e de tornar público o
+pensamento, imaginou-se, nos primórdios dessa conquista, que qualquer
+limite significaria um atentado contra as liberdades individuais e mesmo
+coletiva, muito embora nessa quadra da história da humanidade os direitos
+coletivos não gozavam do prestígio e do desenvolvimento, que somente viriam
+a ser conquistados no decorrer do século XX.
+
+
+
+[[pagina 29 | nativo]]
+Até a publicação do texto de autoria de Brandeis e Warren, a liberdade de
+expressão não conhecia limites nos Estados democráticos. A expressão right
+of privacy literalmente ganhou o mundo granjeando enorme repercussão,
+sendo incorporada pela doutrina e mais tarde pela jurisprudência. O direito à
+privacidade, ou à intimidade, como preferem outros, deixava os corredores e
+as páginas de Harvard para as Constituições democráticas como direito e
+garantia fundamental, lado a lado com o seu quase antagônico, o direito à
+liberdade de expressão.24
+
+Com efeito, ao não permitir que as empresas de tecnologia possam por ato
+próprio e no exercício de sua autonomia, proibir o discurso de ódio e/ou as denominadas “fake
+news”, a Medida Provisória violenta o right privacy, vale dizer, coloca o cidadão na condição
+vulnerável de poder sofrer ataques nas redes sociais e ter que aceitar essa violência sob o salfo
+manto do “exercício regular da liberdade de expressão”, em flagrante desrespeito ao seu
+direito à privacidade. Ocorre que, como já exposto, essa exacerbação do direito de
+manifestação e da liberdade sem imposição de qualquer limite e ponderações, já foi superado
+há algum tempo com o advento dos Estado de bem estar social, sendo aprimorado e
+consagrado pelo Estado Democrático de Direito, a partir do surgimento da fraternidade como
+um valor norteados dos direitos e garantias dos indivíduos e da coletividade.
+
+No caso dos autos, sob o falacioso pretexto de que, “A ausência (...) de
+regulamentação do capítulo dos direitos e garantias dos usuários da Lei nº 12.965, de 2014,
+de maneira a conferir-lhe maior clareza, tem permitido que provedores de aplicações de
+internet prevejam, em seus termos ou políticas de uso, políticas próprias de remoção de
+conteúdo e cancelamento de contas que afrontam o ordenamento jurídico nacional”, a
+Medida Provisória parece confundir, de forma equivocada, data maxima venia, o resguardo
+desses direitos como censura.
+
+Esse entendimento é completamente errôneo porquanto a censura pressupõe
+uma exceção prévia à manifestação do pensamento ou, ainda, um silenciamento posterior com
+base em meros pressupostos de ordem política ou ideológica, o que, note-se, é totalmente
+diferente da limitação contratual imposta por contrato válido e aceito por usuário da
+plataforma quanto a ações ou conteúdos considerados inadequados.
+
+A censura, totalmente inadmissível, não pode ser confundida com a limitação
+fundamentada do direito à liberdade de expressão de usuários em razão da restrição de
+
+24. SOUTO, João Carlos. Suprema Corte dos Estados Unidos - Principais Decisões. São
+Paulo: Atlas, 4ª edição, 2021, p. 272/273.
+
+
+[[pagina 30 | nativo]]
+conteúdos desinformativos e ilícitos e da inobservância de limites contratuais convencionados
+pelas partes, independentemente de qualquer intervenção do Poder Judiciário:
+
+(...) Nesse contexto e de acordo com a precisa e oportuna síntese de Daniel
+Sarmento, muito embora a posição adotada pelo Ministro Carlos Ayres de Britto no
+julgamento da ADPF n. 130, quando sustentou que nenhum limite legal poderia ser
+instituído em relação à liberdade de expressão, pois as limitações existentes seriam
+apenas aquelas já contempladas no texto constitucional, cabendo tão-somente ao
+Poder Judiciário fazer as ponderações pertinentes em caso de tensões com outros
+direitos, o Ministro Gilmar Ferreira Mendes, no voto condutor que proferiu no
+Recurso Extraordinário n. 511.961/SP, observou que as restrições à liberdade de
+expressão em sede legal são admissíveis, desde que visem a promover outros
+valores e interesses constitucionais também relevantes e respeitem o princípio
+da proporcionalidade. (...)” (sem ênfase no original)25
+
+Nesse sentido, o artigo 8-A, em seu parágrafo único, dispõe que: “É vedada
+aos provedores de redes sociais a adoção de critérios de moderação ou de limitação do
+alcance de conteúdo que impliquem censura de ordem política, ideológica, científica,
+artística ou religiosa, observado o disposto nos art. 8-B e 8-C.”
+
+Entende, a CFOAB, que, ao assim dispor, a Medida Provisória pressupõe que a
+atividade de moderação de conteúdo das plataformas tenha natureza de censura privada. Mas,
+em verdade, o que se pretende com tal dispositivo é permitir que toda e qualquer decisão de
+moderação de conteúdo seja questionada sob a perspectiva da vedação à censura, abrindo-se
+verdadeiro abismo sem fim para toda e qualquer suspensão de contas ou perfis e remoção de
+conteúdo que contrariar os interesses daqueles que, sabidamente, disseminam conteúdo ilícito.
+
+A título exemplificativo, eventual política de moderação de conteúdo definida
+por uma plataforma durante o período da pandemia para combater conteúdos desinformativos
+sobre a eficácia das vacinas seria considerada ilegal diante do teor desta Medida Provisória.
+
+Da mesma forma, políticas de moderação de conteúdo que objetivassem
+combater desinformação sobre o processo eleitoral, ou mesmo ataques ao Estado Democrático
+de Direito, também não poderiam ser implementadas por provedores de redes sociais de
+
+25 ROBL FILHO, Ilton; SARLET, Ingo Wolfgang. Estado democrático de direito e os limites da liberdade de
+expressão na constituição federal de 1988, com destaque para o problema da sua colisão com outros direitos
+fundamentais, em especial, com os direitos de personalidade. Constituição, Economia e Desenvolvimento:
+Revista da Academia Brasileira de Direito Constitucional. Curitiba, 2016, vol. 8, n. 14, Jan.-Jun. p. 112-142.
+
+
+[[pagina 31 | nativo]]
+forma espontânea e extrajudicial. As plataformas dependeriam em todos os casos de prévia
+apreciação do Poder Judiciário para agir, mesmo em caso de evidente e flagrante ilicitude.
+
+Ora, esse tipo de restrição às atividades de moderação de conteúdo nas
+redes sociais proposta pela Medida Provisória não é uma proteção às liberdades de
+expressão e informação, mas o seu exato oposto.
+
+Tendo em vista que as redes sociais constituem hoje grande parte da
+infraestrutura que condiciona a atual esfera pública comunicacional, é evidente que os
+provedores de aplicação de Internet são responsáveis por zelar por um ambiente no qual
+a democracia e a liberdade de expressão sejam preservadas, mitigando riscos de lesão a
+direitos fundamentais previstos na Constituição Federal brasileira.
+
+Aliás, a função social dos provedores de redes sociais constitui importante
+vetor para o exercício de sua atividade econômica, o que lhes impõe deveres positivos de
+orientar seus usuários na construção de uma esfera pública democrática e que respeite direitos
+individuais e coletivos.
+
+Caso não seja decretada a inconstitucionalidade da Medida Provisória ora
+impugnada, não há dúvidas de que haveria (i) perpetuação e reiteração de práticas ilegais e
+criminosas até a prolação de ordem judicial; (ii) exponencial aumento da propagação de
+informações falsas e desinformativas e discurso de ódio; (iii) impossibilidade de remoção de
+conteúdo que caracterize violação de direitos humanos e da personalidade, entre outros, até a
+prolação de ordem judicial; e (iv) sobrecarga do Poder Judiciário com casos triviais.
+
+Diante da grande influência das mídias sociais no contexto político, social e
+econômico atual e a necessidade de busca por mecanismos de combate, sem, todavia, afetar a
+liberdade de expressão assegurada constitucionalmente, a Medida Provisória constitui
+verdadeiro e inaceitável retrocesso social e legislativo, podendo colocar o Brasil no mapa da
+insegurança jurídica.
+
+Além disso, como já dito anteriormente, quando a Medida Provisória cria
+sanções a serem aplicadas pela administração pública federal, que passará supervisionar e
+sancionar a atividade de moderação das redes sociais sem nenhuma previsão de transparência,
+debate público ou qualquer forma de controle social. E, considerando que as sanções previstas
+podem ser aplicadas dando margem para toda arbitrariedade uma vez que o texto prevê a
+aplicação de sanções “pela autoridade administrativa, no âmbito de suas competências,
+isolada ou cumulativamente, inclusive por medida cautelar, antecedente ou incidente de
+
+
+[[pagina 32 | nativo]]
+procedimento administrativo.” E considerando que as sanções são gravíssimas,
+prevendo: desde advert6encia até multa de até dez por cento do faturamento do grupo
+econômico, multa diária, suspensão da atividade e até mesmo a proibição do exercício das
+atividades acaba que o efeito de tal medida é o controle da moderação do conteúdo pela
+administração pública federal, uma vez que as sanções do diploma legal foram construídas de
+modo a não somente estimular, mas a limitar que os provedores a adotem exclusivamente a
+visão e os critérios do órgão sancionador, para sua segurança jurídica, caracterizando controle
+prévio e apriorístico do debate público nas redes sociais, a partir de um posicionamento
+político ideológico e partidário claro que tem permeado todo o debate da contrução dessa
+Medida Provisória.
+
+Assim, também por esse motivo, o CFOAB respeitosamente requer seja
+declarada inconstitucionalidade da Medida Provisória ora impugnada.
+
+VI. PEDIDO DE TUTELA DE URGÊNCIA: SUSPENSÃO IMEDIATA DOS
+EFEITOS DA MEDIDA PROVISÓRIA
+
+A possibilidade de concessão de medida cautelar à ação direta de
+inconstitucionalidade é expressamente assegurada ordenamento jurídico brasileiro,
+notadamente nos artigos 102, inciso I, alínea p, da Constituição Federal e 10 da Lei nº
+9.868/1999:
+
+CONSTITUIÇÃO FEDERAL
+Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+Constituição, cabendo-lhe:
+I - processar e julgar, originariamente:
+p) o pedido de medida cautelar das ações diretas de inconstitucionalidade;
+(...)” (sem ênfase no original)
+
+LEI Nº 9.868/1999
+“Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será
+concedida por decisão da maioria absoluta dos membros do Tribunal,
+observado o disposto no art. 22, após a audiência dos órgãos ou autoridades dos
+quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no
+prazo de cinco dias. (...).” (sem ênfase no original)
+
+
+
+[[pagina 33 | nativo]]
+Em situações de excepcional urgência ou flagrante inconstitucionalidade, o
+artigo 10, § 3º, da Lei nº 9.868/199926, admite a concessão da tutela cautelar à ação direta de
+inconstitucionalidade antes mesmo da oitiva dos responsáveis por sua edição, decretação
+ou promulgação, ou mesmo o Advogado-Geral da União e o Procurador-Geral da República,
+desde que demonstrado o fumus boni juris das alegações e o periculum in mora.27 A
+possibilidade de deferimento cautelar ad referendum do plenário é pacificada pela
+jurisprudência desse Egrégio Supremo Tribunal.28
+
+No presente caso, estão presentes não apenas os requisitos cautelares do
+fumus boni iuris e do periculum in mora, como também existe verdadeira situação de
+urgência qualificada, uma vez que a lesão é aviada por Medida Provisória de efeitos
+imediatos e de difícil reparação.
+
+O fumus boni juris tem-se evidente, em primeiro lugar, porquanto restou
+devidamente demonstrado que ausentes os requisitos constitucionais (relevância e urgência)
+autorizadores do exercício excepcional de competência legislativa por parte do Presidente da
+República, nos termos do artigo 62 da Constituição Federal.
+
+Não bastasse, restou exaustivamente demonstrado que a Medida Provisória ora
+impugnada é um instrumento normativo que visa exclusivamente a satisfação de interesses
+políticos (subjetivos e particulares) de um governo e Poder Executivo autoritários, que
+utilizam as mídias sociais para assegurar e fortalecer sua base social de apoio – no caso, com
+receio de ter suas contas e de seus apoiadores suspensas ou postagens excluídas em função
+das regras privadas de conteúdo com as quais consentiram.
+
+Também se comprovou de forma incontestável que a Medida Provisória viola
+diametralmente os princípios da livre iniciativa e da livre concorrência (artigos 1º, inciso IV,
+
+§ 3º. Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem a audiência dos
+órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado.” (sem ênfase no original)
+27 “A função da tutela de urgência é garantir a eficácia da decisão final buscada na ADIN ou na ADC, devendo o
+requerente demonstrar a presença dos requisitos da verossimilhança das suas alegações (fumus boni juris) e da
+probabilidade de superveniência de dano irreparável ou de difícil reparação (periculum in mora).” (DIDIER JR.,
+Fredie. Ações Constitucionais. Editora Jus Podivum: Salvador, 2008, p. 466.)
+28 É o que ocorreu, a título ilustrativo, no julgamento da ADI nº 4.310-MC (Rel. Min. CÁRMEN LÚCIA, DJe
+14/04/2010), no qual, em face da urgência qualificada e dos riscos objetivamente comprovados de efeitos de
+desfazimento, foi deferida a cautelar requerida, ad referendum do plenário desse Egrégio Supremo Tribunal
+Federal.
+
+
+[[pagina 34 | nativo]]
+170, inciso IV e 174, da Constituição Federal), constituindo verdadeira intromissão
+injustificada na atividade econômica lícita exercida pelos provedores de redes sociais.
+
+Isso porque, as alterações previstas pela Medida Provisória são diametralmente
+opostas à atual sistemática do Marco Civil da Internet e da própria Constituição Federal,
+segundo os quais a liberdade de expressão é passível de limitação e que os provedores estão,
+portanto, autorizados a adotarem medidas restritivas a publicações que ofendam gratuitamente
+terceiros, divulguem conteúdo íntimo ou compreendam desinformação, além de uma série de
+outras condutas que possam violar os seus termos, sem que haja a necessidade de intervenção
+do Poder Judiciário sobre a questão.
+
+Assim, é evidente que, ao proibir a atuação espontânea e extrajudicial dos
+provedores de aplicação de Internet, impedindo que os provedores de aplicação atuem no
+sentido de promover ambientes digitais saudáveis e no combate à desinformação, a Medida
+Provisória representa uma grave e negativa interferência estatal na liberdade contratual dos
+provedores de aplicação de Internet, de forma a evidenciar o fumus boni iuris necessário a
+justificar a concessão da medida cautelar.
+
+Por sua vez, o periculum in mora também está presente in casu, uma vez que,
+com a promulgação da Medida Provisória, os provedores de redes sociais e a própria ordem
+social sofrerão prejuízos irreparáveis decorrentes do uso abusivo e desvirtuado das aplicações
+de Internet por usuários de má-fé, com exponencial aumento da propagação de informações
+falsas e desinformativas e discurso de ódio.
+
+Some-se a isso o exíguo prazo de 30 dias concedidos pela Medida Provisória
+para a adequação dos termos de uso e das políticas das plataformas às condições de
+moderação de conteúdo. Mais do que isso, a prevalecer a sua eficácia imediata, não se tratará
+apenas de modificação da linguagem desses documentos, mas sim a alteração operacional e
+estrutural das plataformas para atender às condições específicas procedimentais previstas pela
+Medida Provisória, o que certamente demandará prazo superior aos 30 dias previstos no artigo
+3o.
+
+Caso não sejam cautelarmente suspensos os efeitos da Medida Provisória, os
+provedores de redes sociais serão proibidos de aplicar seus termos e políticas próprias para
+suspender contas e remover conteúdos, o que perpetuaria a incitação e prática de
+manifestações ilegais, criminosas e discriminatórias, sem que os provedores possam intervir
+na promoção de ambientes digitais saudáveis e no combate à desinformação, prejudicando,
+assim, a gestão e própria a segurança das plataformas e dos usuários da Internet.
+
+
+[[pagina 35 | nativo]]
+Como se pode notar, de nada adiantaria aguardar decisão final, tampouco
+oitiva do Presidente da República, ou mesmo o Advogado-Geral da União e o
+Procurador-Geral da República para obter o provimento objetivado: a situação é grave
+e urgente, última análise, para toda a coletividade, o que justifica, a toda evidência, a
+concessão da medida cautelar à presente ação direta de inconstitucionalidade.
+
+Não bastasse, não é possível vislumbrar qualquer periculum in mora reverso,
+notadamente porque inexiste qualquer risco ou prejuízo em se suspender cautelarmente a
+vigência de Medida Provisória que, como detalhadamente demonstrado, não possui qualquer
+relevância ou urgência.
+
+Por conseguinte, presentes os requisitos autorizadores da medida, requer-se
+seja concedida a medida cautelar para suspender desde já os efeitos da Medida Provisória,
+diante de sua flagrante inconstitucionalidade, até o julgamento final desta ação, nos termos
+dos artigos 102, inciso I, alínea p, da Constituição Federal e 10, § 3º, da Lei nº 9.868/1999.
+
+VII. CONCLUSÃO
+
+Diante de todo o exposto, o Conselho Federal da Ordem dos Advogados do
+Brasil requer se:
+
+a) admissão e o conhecimento desta Ação Direta de
+Inconstitucionalidade por esse Egrégio Supremo Tribunal
+Federal, com a concessão da tutela de urgência pretendida
+antes mesmo que o responsável pela edição da Medida
+Provisória seja ouvido, para que se suspenda de imediato,
+com efeitos ex tunc, a eficácia da Medida Provisória até o
+julgamento final desta ação, diante de sua flagrante
+inconstitucionalidade, conforme autorizado pelos artigos 10,
+§ 3º, da Lei nº 9.868/1999 e 300 do Código de Processo Civil.
+
+b) a notificação do Presidente da República, na condição de
+autoridade responsável pela edição do ato normativo
+impugnado, para que preste as informações necessárias, nos
+termos do artigo 6º, da Lei nº 9.868/1999.
+
+
+[[pagina 36 | nativo]]
+c) a notificação do Advogado-Geral da União e do Procurador-
+Geral da República a respeito da constitucionalidade da
+Medida Provisória, conforme determina o artigo 8º, da Lei nº
+9.868/99 e nos termos dos artigos 103, § 1º e 3º, da
+Constituição Federal.
+
+d) Ao final, a procedência do pedido, declarando-se a
+inconstitucionalidade, na íntegra, da Medida Provisória nº
+1.068/2021, por afronta aos requisitos de relevância e
+urgência previstos no artigo 62, caput, da Constituição
+Federal; e por violação direta aos artigos 1º, inciso IV, 3º,
+inciso IV, 5º, incisos IV, IX, XIV e XXIII, e 170, inciso IV,
+ao art. 206, II, e ao art. 220 e §§ 1º e 2º, todos da Constituição
+Federal.
+
+Caso necessário, requer-se a produção de provas adicionais, nos termos do
+artigo 20, § 1º, da Lei nº 9.868/99.
+
+Por fim, requer-se todas as publicações do feito sejam realizadas em nome dos
+subscritores, sob pena de nulidade.
+
+Deixa-se de atribuir valor à causa, em face da impossibilidade de aferi-lo.
+
+Pede deferimento.
+
+Brasília/DF, 10 de setembro de 2021.
+
+Felipe de Santa Cruz Oliveira Scaletsky
+Presidente do Conselho Federal da OAB
+OAB/RJ 95.573
+
+Marcus Vinicius Furtado Coêlho
+Presidente da Comissão Nacional de Estudos Constitucionais
+OAB/DF 18.958
+
+
+
+[[pagina 37 | nativo]]
+Estela Aranha
+Presidente da Comissão de Proteção de Dados e Privacidade da OAB-RJ
+OAB-RJ 202221
+
+Lizandra Nascimento Vicente Ana Paula Del Vieira Duque
+OAB/DF 39.992 OAB/DF 51.469
+
+Manuela Elias Batista
+OAB/DF 55.415
+
+
+

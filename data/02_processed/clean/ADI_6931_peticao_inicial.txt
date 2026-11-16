@@ -1,0 +1,2080 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR PRESIDENTE DO SUPREMO
+
+TRIBUNAL FEDERAL, MINISTRO LUIZ FUX
+
+Distribuição por dependência ao Ministro
+
+Alexandre de Moraes, relator da ADI 6921
+
+ASSOCIAÇÃO BRASILEIRA DE TELEVISÃO POR
+
+ASSINATURA – ABTA, pessoa jurídico-associativa de direito privado, constituída
+
+por tempo indeterminado e sem fins lucrativos, inscrita no CNPJ/ME nº
+
+61.844.049/0001-15, sediada em São Paulo/SP1 (documentos constitutivos, doc. 1) e
+
+com endereço eletrônico gestaoprocessual@ayresbritto.com.br, vem à presença de
+
+Vossa Excelência, por seus advogados (procuração, doc. 2), com base nos arts. 102,
+inc. I, “a”, e 103, inc. IX, da Constituição Federal, bem como na Lei nº 9.868/19992
+
+e no art. 5º do Regimento Interno desse Colendo STF (RISTF), propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com pedido de CONCESSÃO IMEDIATA DE MEDIDA CAUTELAR
+
+INAUDITAALTERAPARTE
+
+para que essa egrégia Suprema Corte, julgando procedente a presente ação, declare a
+
+inconstitucionalidade do art. 11 da Lei nº 14.173/2021 e, por conseguinte, nova
+
+redação por ele atribuída ao §15 do art. 32 da Lei nº 12.485/2011. Ressalte-se,
+
+desde já, que a presente ação deve ser distribuída ao Ministro Alexandre de Moraes
+
+por prevenção, em razão de sua relatoria na ADI 6921, pela qual se impugna o mesmo
+dispositivo legal.
+
+1 Rua Paes de Araújo, 29, 18º Andar, conjunto 181/182, Bairro Itaim Bibi, São Paulo/SP, CEP 04531-090.
+2 A inicial atende os incisos I e II do art. 3º da Lei nº 9.868/99. Em duas vias, segue com procuração e cópias
+da Lei nº 14.173/2021 (art. 3º, parágrafo único da Lei nº 9.868/99).
+
+[[pagina 2 | nativo]]
+SUMÁRIO
+
+1. DISTRIBUIÇÃO POR PREVENÇÃO: o anterior ajuizamento da ADI 6921, de idêntico
+
+2. O OBJETO DA ADI: comando normativo que, além de maculado por vícios formais,
+
+alarga de modo injustificado e desproporcional o dever de carregamento obrigatório das
+
+3. LEGITIMIDADE ATIVA DA ABTA: A) a mais nítida vinculação temática entre normas
+versantes sobre a atividade de distribuição de TV por assinatura e a entidade que reúne as
+
+empresas distribuidoras de TV por assinatura do País; B) a homogeneidade de interesses e o
+
+
+4. NOTA INTRODUTÓRIA SOBRE O DEVER DE CARREGAMENTO OBRIGATÓRIO NA
+
+DISTRIBUIÇÃO DE TV POR ASSINATURA: A) a racionalidade e os limites subjacentes ao
+
+instituto; B) as diferenças entre as operações a cabo e por satélite como razão de ser da
+ressalva inscrita no §8º do art. 32 da Lei nº 12.485/2011 e regulamentada pela Anatel; C) a
+
+alteração promovida no §15 do mesmo art. 32 como desnaturação do
+
+
+5. INCONSTITUCIONALIDADE FORMAL DO NOVO §15 DO ART. 32 DA LEI 12.485: A) a
+
+impertinência temática entre a Medida Provisória nº 1.018/2020 e a emenda parlamentar que
+
+veio a incluir a alteração do §15 do art. 32 no projeto de lei conversão; B) a violação à
+limitação material veiculada pelo art. 2º da Emenda Constitucional nº 8/1995 e pelo art. 246
+
+
+6. INCONSTITUCIONALIDADE MATERIAL DO NOVO §15 DO ART. 32 DA LEI 12.485/2011:
+
+A) múltiplas violações ao teor substantivo da Constituição; B) afronta à livre iniciativa, à
+
+defesa do consumidor, ao princípio da proporcionalidade, à separação de Poderes (pela
+
+vertente da reserva de Administração) e à segurança
+
+7. A NECESSÁRIA IMPLEMENTAÇÃO DE MEDIDA CAUTELAR INAUDITA ALTERA
+
+
+
+[[pagina 3 | nativo]]
+1. DISTRIBUIÇÃO POR PREVENÇÃO: o anterior ajuizamento da ADI 6921, de
+
+idêntico objeto e distribuída ao Ministro Alexandre de Moraes
+
+1.1. No último dia 25/06/2021, o Partido Democrático Trabalhista – PDT ajuizou
+
+ação direta de inconstitucionalidade com pedido de medida cautelar para que seja
+
+julgado inconstitucional o §15 do art. 32 da Lei nº 12.485/2011, com a redação que
+
+lhe foi dada pelo art. 11 da Lei nº 14.173/2021. Protocolada e autuada sob o nº 6921,
+a ADI foi distribuída ao Ministro Alexandre de Moraes, que aplicou ao feito o rito do
+
+art. 12 da Lei nº 9.868/1999.
+
+1.2. Esta ADI, a seu turno, também se volta contra o mesmíssimo dispositivo
+
+normativo, pelo que se requer, nos termos do art. 56 do CPC e do art. 69 do RISTF,
+a distribuição ao Ministro Alexandre de Moraes, prevento para relatá-la em razão da
+
+distribuição anterior da ADI 6921.
+
+1.3. Cumpre ressaltar que a jurisprudência dessa e. Corte determina que, quando
+
+duas ou mais ações diretas de constitucionalidade têm objeto coincidente, “estão
+
+imbricadas por uma evidente relação de conexão, fenômeno que determina o seu
+julgamento conjunto” [STF, Tribunal Pleno, ADIs 875, 2727, 3243 e 1987 (julgadas
+
+conjuntamente), Relator Ministro GILMAR MENDES, DJ 30.04.2010]3.
+
+2. O OBJETO DA ADI: comando normativo que, além de maculado por
+
+vícios formais, alarga de modo injustificado e desproporcional o dever de
+carregamento obrigatório das distribuidoras de TV por assinatura
+
+3 “Para que se estabeleça a prevenção de competência nos processos de controle concentrado de
+constitucionalidade é preciso que dois ou mais feitos dessa natureza possuam, total ou parcialmente, um mesmo
+objeto, isto é, um mesmo ato normativo.” (STF, ADPF 455/DF, Relator Ministro LUIZ FUX, DJe 29.09.2017)
+
+[[pagina 4 | nativo]]
+2.1. O focado objeto desta ação direta reside no art. 11 da Lei nº 14.173/2021, pelo
+
+qual se conferiu nova redação ao §15 do art. 32 da Lei nº 12.485/2011. Eis o inteiro
+
+teor do comando normativo impugnado:
+
+Art. 11. O § 15 do art. 32 da Lei nº 12.485, de 12 de setembro de 2011, passa a vigorar
+
+com a seguinte redação:
+
+
+§ 15. Equiparam-se às geradoras de que tratam os §§ 12 e 13 deste artigo as
+
+retransmissoras habilitadas a operar em regiões de fronteira de desenvolvimento do
+País que realizarem inserções locais de programação e publicidade, inclusive as que
+
+operarem na Amazônia Legal, bem como as pertencentes a um conjunto de estações,
+
+sejam geradoras locais ou retransmissoras, com presença em todas as regiões
+
+geopolíticas do País, e alcance de, no mínimo, 1̸3 (um terço) da população brasileira
+
+com o provimento da maior parte da programação por uma das estações.
+
+
+2.2. O contexto de normatividade no qual se insere o comando acima transcrito
+
+será detidamente apresentado mais à frente, mas já convém assentar que se trata de
+
+norma ampliativa do que se convencionou chamar de dever de carregamento
+obrigatório, assim imposto às operadoras de TV por assinatura. Mais especificamente
+
+falando, o dispositivo faz com que as distribuidoras (ou operadoras) de TV por
+
+assinatura incluam em seus pacotes, obrigatória e gratuitamente, o conteúdo de
+
+canais locais para todo e qualquer ponto do País em que haja uma simples estação
+
+retransmissora. Sabendo-se que, pela regra anterior, esse conteúdo de geração local já
+era obrigatória e gratuitamente transmitido para a respectiva localidade, nos termos
+
+do inc. I4 do caput do art. 32.
+
+4 Art. 32. A prestadora do serviço de acesso condicionado, em sua área de prestação, independentemente de
+tecnologia de distribuição empregada, deverá tornar disponíveis, sem quaisquer ônus ou custos adicionais para
+seus assinantes, em todos os pacotes ofertados, canais de programação de distribuição obrigatória para as
+seguintes destinações:
+
+[[pagina 5 | nativo]]
+2.3. Noutras palavras, e muito resumidamente, o que faz o novo §15 do art. 32 da
+
+Lei nº 12.485/2011 é ampliar, desmesurada e desproporcionalmente, um dever
+setorial que incide sobre o núcleo da atividade desenvolvida pelas distribuidoras de
+
+TV por assinatura. Incide sobre o núcleo dessas atividades, insista-se, pois se trata de
+
+um comando que recobre a própria distribuição de TV por assinatura com o manto
+
+da obrigatoriedade e da gratuidade. Assim eliminando, de uma parte significativa do
+
+espectro material da atividade em questão, o seu caráter assim voluntário como
+oneroso. Pior do que isso, fazendo-o sem qualquer justificativa técnica e sem nenhum
+
+interesse público aparente ou subjacente, conforme será evidenciado mais adiante.
+
+2.4. Daqui já se percebe que o dispositivo legal, também maculado por vícios de
+
+inconstitucionalidade formal, é temática e diretamente vinculado às atividades
+
+prestadas pelas empresas distribuidoras de TV por assinatura. Donde se atrair a
+legitimidade da ABTA para a propositura desta ADI, conforme minudenciada a
+
+seguir.
+
+3. LEGITIMIDADE ATIVA DA ABTA: A) a mais nítida vinculação temática
+
+entre normas versantes sobre a atividade de distribuição de TV por assinatura
+e a entidade que reúne as empresas distribuidoras de TV por assinatura do
+
+País; B) a homogeneidade de interesses e o alcance nacional da associação-
+
+autora
+
+3.1. Fundada em 1989, a ABTA é a única associação de âmbito nacional do
+
+setor, representando 11 (onze) distribuidoras de TV por assinatura, atuantes em todas
+
+as regiões do País e que, juntas, são responsáveis pelo atendimento de 90%
+(noventa porcento) dos consumidores brasileiros. É, nessa medida, a entidade
+
+associativa que representa o setor de TV por assinatura do País.
+
+I - canais destinados à distribuição integral e simultânea, sem inserção de qualquer informação, do sinal aberto
+e não codificado, transmitido em tecnologia analógica pelas geradoras locais de radiodifusão de sons e imagens,
+em qualquer faixa de frequências, nos limites territoriais da área de cobertura da concessão;
+
+[[pagina 6 | nativo]]
+3.2. Pelo art. 1º de seu Estatuto Social (doc.1), a ABTA congrega todos os agentes
+
+econômicos vinculados à “prestação a assinantes de serviços de distribuição de sinais
+
+de vídeo e áudio”. Dota-se, pois, de homogeneidade e alcance representativo em
+todo o território brasileiro. Assim como a associação tem, como ratio essendi, a bem
+
+delimitada atividade de distribuição de TV por assinatura, o setor de distribuição de
+
+TV por assinatura tem, na ABTA, a única entidade associativa criada para representá-
+
+lo. Estrutura institucional e realidade setorial têm na ABTA, portanto, o seu
+
+ponto de unidade.
+
+3.3. Não por outra razão é que o caput do 1º do Estatuto Social elenca os objetivos
+
+da associação, verbis:
+
+3.4. Já no parágrafo único do mesmo art. 1º, prevê-se, como instrumento de
+realização de seus objetivos, o ajuizamento de “mandado de segurança coletivo ou
+
+qualquer outra ação judicial em defesa dos interesses coletivos de seus associados”
+
+(inc. VII).
+
+3.5. Segundo o Ministro Luís Roberto Barroso, para o preenchimento do
+pressuposto processual da pertinência temática, “a norma contestada deverá
+
+repercutir direta ou indiretamente sobre a atividade profissional ou econômica da
+
+
+[[pagina 7 | nativo]]
+classe envolvida, ainda que só parte dela seja atingida”5. É o caso do novo §15 do art.
+
+32 da Lei nº 12.485/2011, que amplia, de modo inconstitucional, o dever de
+
+carregamento obrigatório que pesa sobre as distribuidoras de TV por assinatura.
+Conforme já foi dito – e será minudenciado no tópico seguinte –, o campo de
+
+incidência da norma impugnada é, apenas e tão somente, a atividade prestada
+
+pelas empresas que se dedicam à distribuição de TV por assinatura. E é
+
+justamente no foro associativo da ABTA que as empresas distribuidoras de TV
+
+por assinatura do Brasil se reúnem. A evidenciar, com isso, a manifesta
+afinidade temática entre ela, ABTA, e o objeto processual desta ADI.
+
+3.6. Mais do que isso, é de se ver que a categoria empresarial que integra e
+
+conforma o setor econômico da distribuição de TV por assinatura está,
+
+praticamente toda ela, inscrita nos quadros da ABTA, o que faz da entidade o
+lócus associativo adequado de representação dos direitos e interesses setoriais,
+
+cabendo-lhe, nos termos de seu estatuto social: a) “defender os direitos, prerrogativas
+
+e garantias legais da atividade, visando ao seu incremento e desenvolvimento” (inc. II
+
+do caput do art. 1º); b) “representar os interesses gerais e específicos de seus associados
+
+junto aos poderes públicos, nas esferas municipal, estadual e federal, bem como junto
+
+a instituições nacionais e internacionais” (inc. IV do caput do art. 1º); c) ajuizar
+“mandado de segurança coletivo ou qualquer outra ação judicial em defesa dos
+
+interesses coletivos de seus associados” (inc. VII do parágrafo único do art. 1º).
+
+3.8. Com essa vocação estatutária, e congregando praticamente todos os agentes
+
+econômicos do setor, não há dúvidas de que a ABTA está dotada de legitimidade para
+o ajuizamento desta ADI, nos termos do inc. IX do art. 103 da Constituição.
+
+3.9. Por fim, é de se destacar que não procede a ideia de que, pelo simples fato de
+
+também admitir, como associadas, outras associações, a ABTA não estaria habilitada
+
+para o ajuizamento desta ação. Como se sabe, desde o julgamento da ADI 3153, ainda
+
+5 Barroso, Luís Roberto. O Controle de Constitucionalidade no Direito Brasileiro: exposição sistemática da
+doutrina e análise crítica da jurisprudência. 7ª ed.rev.e atual. – São Paulo: Saraiva, 2016, p. 207.
+
+[[pagina 8 | nativo]]
+em 2004, o STF passou a admitir o ajuizamento de ações de controle concentrado
+
+pelas denominadas associações de associações, “desde que nacionalmente
+
+congreguem classe econômica homogênea” (ADI 4815, Relatora Ministra Carmen
+Lúcia, DJe 10.06.2015). E o fato indiscutível, neste caso, é que a ABTA efetivamente
+
+reúne, no plano nacional, toda a classe econômica das operadoras de TV por
+
+assinatura. Nem mesmo há, no País, outra entidade associativa no setor. É a
+
+ABTA que desempenha o mister representativo dessas empresas. Empresas
+
+que, nos termos do inc. I do art. 4º do Estatuto Social, figuram como os efetivos
+“Associados Titulares” da instituição.
+
+3.10. O fato de a ABTA ter previsto um modelo complexo de associatividade, assim
+
+compreensivo, para além dos “Associados Titulares, de “Associados Afiliados”,
+
+“Associados Correspondentes”, “Associados Honorários” e “Associados
+Institucionais”, não elide o fato de que a única missão institucional da entidade é
+
+a defesa dos interesses afetos à “prestação a assinantes de serviços de
+
+distribuição de sinais de vídeo e áudio, de serviços de telecomunicações e de
+
+serviços de valor adicionado” (caput do art. 1º). É dizer: a associação se
+
+peculiariza e se distingue, no campo jurídico-institucional, justamente por
+
+reunir e vocalizar os interesses atividade de distribuição de TV por assinatura.
+Atividade que, nos termos técnicos da Lei nº 12.485/2011, é nominada como serviço
+
+de acesso condicionado, segmento que se inclui no espectro maior da comunicação
+
+audiovisual de acesso condicionado, nos termos combinados dos arts. 4º e 29 da lei:
+
+Art. 4º São atividades da comunicação audiovisual de acesso condicionado:
+
+I - produção;
+
+II - programação;
+
+III - empacotamento;
+IV - distribuição.
+
+Art. 29. A atividade de distribuição por meio do serviço de acesso condicionado é
+
+livre para empresas constituídas sob as leis brasileiras, com sede e administração no
+País, sendo regida pelas disposições previstas nesta Lei, na Lei nº 9.472, de 16 de
+
+
+[[pagina 9 | nativo]]
+julho de 1997, e na regulamentação editada pela Agência Nacional de
+
+Telecomunicações - Anatel.
+
+3.11. Como se vê, a ABTA, enquanto única entidade associativa do País
+dedicada à distribuição de TV por assinatura (leia-se: distribuição por serviço
+
+de acesso condicionado), apenas adota um modelo associativo deferente à
+
+complexidade da cadeia econômica que integra a comunicação audiovisual de
+
+acesso condicionado, nos termos da própria lei que estrutura o setor. Por isso
+
+é que, por exemplo, abre-se à possibilidade de contar com empresas programadoras
+
+ou produtoras (categorias listadas no art. 4º da Lei nº 12.485/2011) como “Associados
+
+Afiliados”, de parelha com os já mencionados “Associados Titulares”, que são as
+
+empresas “detentoras de outorgas para a prestação de serviços de televisão por
+
+assinatura”.
+
+3.12. Indiscutível, portanto, a legitimidade da ABTA para aportar, à jurisdição da
+
+Suprema Corte, a sua perspectiva sobre a inconstitucionalidade formal e material do
+
+art. 11 da Lei nº 14.173/2021, pelo qual se conferiu nova redação ao §15 do art. 32
+
+da Lei nº 12.485/2011, uma vez que seus efeitos deletérios incidem, diretamente,
+
+sobre a esfera jurídica e patrimonial de seus filiados.
+
+4. NOTA INTRODUTÓRIA SOBRE O DEVER DE CARREGAMENTO
+
+OBRIGATÓRIO NA DISTRIBUIÇÃO DE TV POR ASSINATURA: A) a racionalidade e
+
+os limites subjacentes ao instituto; B) as diferenças entre as operações a cabo
+
+e por satélite como razão de ser da ressalva inscrita no §8º do art. 32 da Lei nº
+
+12.485/2011 e regulamentada pela Anatel; C) a alteração promovida no §15 do
+mesmo art. 32 como desnaturação do instituto
+
+4.1. Esta ADI, como visto, gira em torno de um dever setorial que se
+
+convencionou chamar de carregamento obrigatório ou, mais comumente até, de
+
+mustcarry. Trata-se do dever que tem a empresa prestadora de serviço de acesso
+
+
+[[pagina 10 | nativo]]
+condicionado6 (este, a seu turno, o nome técnico da distribuição de TV por
+
+assinatura) de incluir, gratuitamente, em seus pacotes de distribuição aos assinantes,
+
+determinados canais de programação. São, eles, os canais elencados nos 11 incisos
+que se seguem ao caput do art. 32 da Lei nº 12.485/2011, dispositivo que tem a
+
+seguinte estrutura de linguagem:
+
+“Art. 32. A prestadora do serviço de acesso condicionado, em sua área de prestação,
+
+independentemente de tecnologia de distribuição empregada, deverá tornar
+disponíveis, sem quaisquer ônus ou custos adicionais para seus assinantes, em todos
+
+os pacotes ofertados, canais de programação de distribuição obrigatória para as
+
+seguintes destinações:”
+
+4.2. Para além de canais delimitados pelo interesse público de sua matéria (“canal
+
+universitário”, por exemplo) ou por uma vinculação de ordem institucional (caso das
+
+TVs Câmara, Senado, Justiça, dentre outros), o inc. I do art. 32 inclui, no âmbito de
+
+incidência do carregamento obrigatório, os canais destinados às geradoras locais
+
+de radiodifusão de sons e imagens, circunscrevendo o dever de transmissão aos
+“limites territoriais da área de cobertura da concessão” de tais emissoras de TV7. É
+
+dizer: nos pacotes de distribuição de TV por assinatura de uma determinada
+
+localidade, devem ser incluídos, obrigatória e gratuitamente, os conteúdos gerados
+
+pelas geradoras de radiodifusão de sons e imagens que atuem nessa mesma e bem
+
+delimitada região.
+
+6 Art. 2º Para os efeitos desta Lei, considera-se: (...)
+
+XXIII - Serviço de Acesso Condicionado: serviço de telecomunicações de interesse coletivo prestado no regime
+privado, cuja recepção é condicionada à contratação remunerada por assinantes e destinado à distribuição de
+conteúdos audiovisuais na forma de pacotes, de canais nas modalidades avulsa de programação e avulsa de
+conteúdo programado e de canais de distribuição obrigatória, por meio de tecnologias, processos, meios
+eletrônicos e protocolos de comunicação quaisquer.
+
+7 I - canais destinados à distribuição integral e simultânea, sem inserção de qualquer informação, do sinal aberto
+e não codificado, transmitido em tecnologia analógica pelas geradoras locais de radiodifusão de sons e imagens,
+em qualquer faixa de frequências, nos limites territoriais da área de cobertura da concessão;
+
+
+[[pagina 11 | nativo]]
+4.3. Trata-se, portanto, de uma política de incentivo ao consumo da produção
+
+audiovisual local, que opera pela imposição da gratuidade na relação entre uma
+
+concessionária de radiodifusão de sons e imagens e uma empresa autorizatária do
+serviço de acesso condicionado (que nada mais é, repita-se, do que a distribuição de
+
+canais de TV por assinatura). Essa premissa é importante, pois o inc. I do art. 32
+
+versa, apenas e tão somente, sobre geradoras locais de TV, categoria que se
+
+peculiariza: a) por instrumentalizar-se em um contrato de concessão de radiodifusão,
+
+sob o regime inscrito no art. 223 da Constituição Federal8; b) pela produção de
+conteúdo próprio9.
+
+4.4. É apenas nessa ambiência de estímulo ao conteúdo local que o inc. I10 do
+
+art. 32 ganha a densidade normativa necessária para justificar o amplo grau de
+
+8 Art. 223. Compete ao Poder Executivo outorgar e renovar concessão, permissão e autorização para o serviço
+de radiodifusão sonora e de sons e imagens, observado o princípio da complementaridade dos sistemas privado,
+público e estatal.
+§ 1º O Congresso Nacional apreciará o ato no prazo do art. 64, § 2º e § 4º, a contar do recebimento da
+mensagem.
+§ 2º A não renovação da concessão ou permissão dependerá de aprovação de, no mínimo, dois quintos do
+Congresso Nacional, em votação nominal.
+§ 3º O ato de outorga ou renovação somente produzirá efeitos legais após deliberação do Congresso Nacional,
+na forma dos parágrafos anteriores.
+§ 4º O cancelamento da concessão ou permissão, antes de vencido o prazo, depende de decisão judicial.
+§ 5º O prazo da concessão ou permissão será de dez anos para as emissoras de rádio e de quinze para as de
+televisão.
+9 Decreto nº 5.371/2005:
+Art. 6º Para os efeitos deste Regulamento, são adotadas as seguintes definições:
+I - Estação Geradora de Televisão: é o conjunto de equipamentos, incluindo os acessórios, que realiza emissões
+portadoras de programas que têm origem em seus próprios estúdios;
+
+10 Embora o inc. I do art. 32 trate, apenas, de canais transmitidos com tecnologia analógica, os §§ 12, 13 e 14
+do mesmo artigo cuidam da possibilidade de extensão do carregamento obrigatório aos canais adaptados à
+tecnologia digital, desde que: (i) não haja entendimento comercial entre as partes; (ii) “a tecnologia de
+transmissão empregada pelo distribuidor e de recepção disponível pelo assinante assim o permitam, de acordo
+com critérios estabelecidos em regulamentação da Anatel”:
+
+§12. A geradora local de radiodifusão de sons e imagens de caráter privado poderá, a seu critério, ofertar sua
+programação transmitida com tecnologia digital para as distribuidoras de forma isonômica e não
+discriminatória, nas condições comerciais pactuadas entre as partes e nos termos técnicos estabelecidos pela
+Anatel, ficando, na hipótese de pactuação, facultada à prestadora do serviço de acesso condicionado a
+descontinuidade da transmissão da programação com tecnologia analógica prevista no inciso I deste artigo.
+§13. Caso não seja alcançado acordo quanto às condições comerciais de que trata o § 12, a geradora local de
+radiodifusão de sons e imagens de caráter privado poderá, a seu critério, exigir que sua programação transmitida
+com tecnologia digital seja distribuída gratuitamente na área de prestação do serviço de acesso condicionado,
+desde que a tecnologia de transmissão empregada pelo distribuidor e de recepção disponível pelo assinante
+assim o permitam, de acordo com critérios estabelecidos em regulamentação da Anatel.
+
+[[pagina 12 | nativo]]
+intervenção que promove na atividade empresarial das prestadoras de serviço
+
+de acesso condicionado. Sabido que, embora constitutiva de um serviço de
+
+telecomunicações, a distribuição de canais de TV por assinatura é, nos termos do art.
+29 da Lei nº 12.485/2011, “livre para empresas constituídas sob as leis brasileiras,
+
+com sede e administração no País, sendo regida pelas disposições previstas nesta Lei,
+
+na Lei nº 9.472, de 16 de julho de 1997, e na regulamentação editada pela Agência
+
+Nacional de Telecomunicações – Anatel”. Isso já por efeito do inc. XI do art. 21 da
+
+Constituição Federal, com a redação declaradamente liberalizante que lhe atribuiu a
+Emenda Constitucional nº 8/1995, notadamente pela inclusão de meros atos
+
+autorizativos no rol de títulos habilitantes para a prestação dos serviços de
+
+telecomunicações. Aliás, foi com essa base de inspiração constitucional que o STF há
+
+muito validou o modelo prestacional privado instituído pela Lei Geral de
+
+Telecomunicações (ADI 1.668-MC11). Modelo assim caracterizado pela liberdade de
+iniciativa e pela livre concorrência entre os agentes do setor. Ainda assim, apenas em
+
+consideração ao interesse público subjacente ao inc. I do art. 32 e no alcance
+
+circunscrito do dispositivo, é que se tem entendido pela sua validade enquanto
+
+mecanismo de intervenção no domínio econômico (art. 17412 da Constituição).
+
+4.5. De se observar, porém, que a própria Lei nº 12.485/2011 cuidou de estabelecer
+uma hipótese exceptiva ao dever de carregamento obrigatório, fazendo-o nos §§ 8º e
+
+9º do art. 32, comandos com a seguinte redação:
+
+§8º Em casos de inviabilidade técnica ou econômica comprovada, a Anatel
+
+determinará a não obrigatoriedade da distribuição de parte ou da totalidade dos canais
+de que trata este artigo nos meios de distribuição considerados inapropriados para o
+
+transporte desses canais em parte ou na totalidade das localidades servidas pela
+
+distribuidora.
+
+§14. Na hipótese de que trata o § 13, a cessão da programação em tecnologia digital não ensejará pagamento
+por parte da distribuidora, que ficará desobrigada de ofertar aos assinantes a programação em tecnologia
+analógica.
+11 DJ 09/10/1997.
+12 Art. 174. Como agente normativo e regulador da atividade econômica, o Estado exercerá, na forma da lei, as
+funções de fiscalização, incentivo e planejamento, sendo este determinante para o setor público e indicativo
+para o setor privado.
+
+[[pagina 13 | nativo]]
+§9º Na hipótese da determinação da não obrigatoriedade da distribuição de parte dos
+
+canais de que trata este artigo, a Anatel disporá sobre quais canais de programação
+deverão ser ofertados pelas distribuidoras aos usuários, observando-se a isonomia
+
+entre os canais de que trata o inciso I deste artigo de uma mesma localidade,
+
+priorizando após as geradoras locais de conteúdo nacional ao menos um canal
+
+religioso em cada localidade, caso existente, na data da promulgação desta Lei.
+
+4.6. A exceção, como se vê, é pautada pela ideia de inviabilidade técnica ou
+
+econômica do carregamento obrigatório, derivada da inadequação de certos
+
+meios ou tecnologias de distribuição para o transporte desses canais.
+
+Nomeadamente, a inviabilidade técnica e/ou econômica a que se refere o §8º diz com
+a tecnologia de distribuição via satélite (conhecida, no jargão setorial, como
+
+DTH). Isso porque a operação de TV por satélite tem, necessariamente, abrangência
+
+nacional, de modo que o conteúdo transmitido é o mesmo para todo o País. O que
+
+torna, realmente, inviável a entrega direcionada dos canais de geradoras de TV locais
+
+para as suas respectivas áreas de concessão, sendo igualmente claro que não seria nem
+técnica, nem economicamente factível a imposição de que as operadoras de TV por
+
+satélite incluíssem, em seus pacotes, uniformemente para todo o Brasil, todos os
+
+canais de geração local do País.
+
+4.7. Quanto à distribuição por cabo, aí sim, ela se dá por modo regionalizado,
+
+tornando possível, com isso, o carregamento segmentado e direcionado de um canal
+local para a sua respectiva localidade. O Professor Tercio Sampaio Ferraz Junior
+
+assim apresenta as peculiaridades operacionais do setor13:
+
+O serviço de TV a Cabo cobre principalmente as áreas urbanas e permite a
+
+transmissão de programação com conteúdo local, pois o headend está situado no
+local da prestação do serviço.
+
+O DTH (Direct to Home) é um sistema de TV paga no qual o assinante instala em
+
+casa uma antena parabólica e um receptor/decodificador, chamado IRD (Integrated
+
+13 O regime jurídico da televisão e a lei do serviço de acesso condicionado. Revista de Direito das Comunicações | vol.
+6/2012 | p. 147 - 173 | Jul - Dez / 2012 | DTR\2013\461.
+
+[[pagina 14 | nativo]]
+Receiver/Decoder), e recebe os canais diretamente de um satélite geoestacionário.
+
+Entre suas vantagens está a cobertura nacional ou mesmo continental, com mais de
+180 canais digitais, e a rápida implantação. Contrariamente às tecnologias de cabo e
+
+MMDS, o DTH não viabiliza a inserção de programas de conteúdo local, pois a
+
+programação é a mesma para todos os assinantes, em toda a área de cobertura.
+
+4.8. Ainda assim, habilitada pelo que dispõe o §9º do art. 32, a Anatel (entidade
+
+dotada de capacidade institucional) concebeu uma fórmula regulatória para
+
+viabilizar o carregamento de alguns (mas não todos) canais de geração local
+
+pelas operadoras de TV via satélite. É o que ressai do §2º do art. 52 da Resolução
+
+Anatel nº 581/2012, segundo o qual:
+
+§ 2º No caso de inviabilidade técnica ou econômica para o cumprimento do disposto
+
+no inciso I, deve-se observar que o carregamento de um canal de Geradora Local de
+
+radiodifusão de sons e imagens, pertencente a um conjunto de estações, sejam
+
+geradoras locais ou retransmissoras, e caracterizado pela presença em todas as regiões
+geopolíticas do país, pelo alcance de, ao menos, um terço da população brasileira e
+
+pelo provimento da maior parte da programação por uma das estações para as
+
+demais, implicará o carregamento de, ao menos, um canal de Geradora de cada um
+
+dos demais conjuntos de geradoras e retransmissoras com as mesmas características.
+
+4.9. Noutras palavras, trata-se de uma regra pela qual uma geradora local de
+
+radiodifusão de sons e imagens pode ser habilitar para o carregamento obrigatório
+
+por uma distribuidora de TV por assinatura via satélite, desde que essa geradora local
+
+passe a se estruturar como um conjunto de estações dotado de representatividade
+adequada, assim integrado por outras geradoras afiliadas ou mesmo por meras
+
+retransmissoras. Sabido que, enquanto uma geradora local é (i) uma concessionária
+
+de radiodifusão (ii) que produz conteúdo próprio, uma estação retransmissora14 é
+
+14 Decreto nº 5.371/2005:
+
+Art. 6º Para os efeitos deste Regulamento, são adotadas as seguintes definições:
+
+[[pagina 15 | nativo]]
+apenas um conjunto de aparelhos que, não balizado por um contrato de concessão,
+
+simplesmente reproduz os sinais de uma geradora de televisão. Já o critério
+
+estabelecido para se aferir a representatividade adequada desse conjunto de estações
+consiste, conjugadamente: a) na presença em todas as regiões geopolíticas do país; b)
+
+no alcance de, ao menos, um terço da população brasileira; c) no provimento da maior
+
+parte da programação por uma das estações para as demais.
+
+4.10. Recapitulando, então, o modelo de carregamento obrigatório de geração local
+de radiodifusão de TV instituído pela Lei nº 12.485/2011 consiste no seguinte:
+
+I – para as distribuidoras de TV a cabo, considerando-se que a sua operação
+
+se estrutura por modo local, impõe-se o carregamento obrigatório dos canais
+
+de toda e qualquer geradora local para a sua respectiva localidade (inc. I do
+caput do art. 32, combinado com os §§ 12 a 14 do mesmo artigo);
+
+II – para as distribuidoras de TV via satélite (DTH), dada a sua abrangência
+
+necessariamente nacional, e com base nos §§ 8º e 9º do art. 32, a Anatel limitou
+
+o carregamento obrigatório às geradoras locais que se organizem em conjunto
+
+de estações com representatividade adequada. seja pela afiliação de outras
+geradoras, seja pela intermediação de simples retransmissoras (§2º do art. 52
+
+da Resolução Anatel nº 581/2012);
+
+III – para além disso, havia apenas, na redação original do §15, a
+
+equiparação de retransmissoras de TV (sem concessão e sem conteúdo
+próprio, portanto) a geradoras locais, para fins de aquisição do direito ao
+
+carregamento obrigatório, desde que essas retransmissoras operassem “em
+
+regiões de fronteira de desenvolvimento do País que realizarem
+
+inserções locais de programação e publicidade, inclusive as que
+
+III - Estação Retransmissora de Televisão: é o conjunto de receptores e transmissores, incluindo equipamentos
+acessórios, capaz de captar sinais de sons e imagens e retransmiti-los, simultaneamente ou não, para recepção
+pelo público em geral;
+
+
+[[pagina 16 | nativo]]
+operarem na Amazônia Legal”. A ratio dessa equiparação não é difícil de
+
+explicar: dada a escassez de geradoras locais a atuarem nessas bem circunscritas
+
+e estratégicas regiões do País, achou-se justo e proporcional que o direito ao
+carregamento obrigatório também favorecesse as retransmissoras com atuação
+
+em tais áreas.
+
+4.11. Tinha-se, portanto, um arranjo institucional que acomodava, otimizada e
+
+proporcionalmente, (i) o interesse público subjacente ao incentivo aos conteúdos
+locais de TV, (ii) as limitações e singularidades técnicas da prestação do serviço de
+
+acesso condicionado e (iii) o espaço constitucionalmente garantido de liberdade
+
+empresarial às empresas distribuidoras que operam no setor como autorizatárias.
+
+Tudo isso, porém, foi inopinadamente subvertido com o acréscimo redacional que a
+
+Lei nº 14.173/2021 aportou no §15 do art. 32 da Lei nº 12.485/2011, a seguir realçado:
+
+§15. Equiparam-se às geradoras de que tratam os §§ 12 e 13 deste artigo as
+
+retransmissoras habilitadas a operar em regiões de fronteira de desenvolvimento do
+
+País que realizarem inserções locais de programação e publicidade, inclusive as que
+
+operarem na Amazônia Legal, bem como as pertencentes a um conjunto de
+estações, sejam geradoras locais ou retransmissoras, com presença em todas
+
+as regiões geopolíticas do País, e alcance de, no mínimo, 1̸3 (um terço) da
+
+população brasileira com o provimento da maior parte da programação por
+
+uma das estações. (Redação dada pela Lei nº 14.173, de 2021)
+
+4.12. Vê-se que o novo trecho do dispositivo reproduz, mas agora como norma
+
+geral para todo o setor, o critério de representatividade adequada especificamente
+
+concebido pela Anatel para conformar o dever de carregamento obrigatório à
+
+realidade operacional da TV por satélite (DTH). Portanto, ao assim fazê-lo, o novo
+
+dispositivo torna esse critério incidente sobre a operação das distribuidoras de TV a
+
+cabo. Distribuidoras, estas, que não ensejavam (nem ensejam) qualquer desafio ao
+cumprimento rigoroso do inc. I do art. 32, pois, torne-se a dizer, são elas plenamente
+
+capacitadas a distribuir o conteúdo de uma geradora local para a sua respectiva
+
+
+[[pagina 17 | nativo]]
+localidade, assim cumprindo o desiderato da política pública, que não é outro senão
+
+o de estimular o consumo dessa programação de âmbito localizado.
+
+4.13. Na prática, do ponto de vista operacional, o que esse acréscimo legal
+
+significa? Ora, significa que as distribuidoras de TV a cabo, para além do dever de
+
+distribuir localmente tantas quantas sejam as geradoras locais existentes no País, ainda
+
+terão de carregar o sinal dessas geradoras locais para outros pontos do País, desde que
+
+elas se estruturem em conjuntos de estações (inclusive por meras retransmissoras)
+com um certo grau de representatividade nacional.
+
+4.14. Noutras palavras, o que faz o novo §15 do art. 32 é misturar indevidamente
+
+critérios técnicos, fazendo com que as distribuidoras de TV a cabo tenham a
+
+obrigação de transmitir, gratuitamente, conteúdos gerados numa localidade,
+mas não apenas para essa localidade (o que já ocorria), e, sim, para qualquer
+
+outro ponto do País em que haja uma simples estação de retransmissão, se for
+
+assim atendido o critério de representatividade da rede.
+
+4.15. Ilustrativa e hipoteticamente, então, o que passa o ocorrer é seguinte: se, antes,
+
+a distribuidora já era obrigada a carregar, para Criciúma/SC, o canal da geradora local
+de Criciúma/SC, agora, com a nova norma, desde que essa geradora local de Criciúma
+
+se associe a algumas meras retransmissoras espalhadas pelo País (de modo a cumprir
+
+o critério de representatividade), a distribuidora passa a ter o dever de carregar
+
+gratuitamente esse conteúdo local de Criciúma/SC para todos os pontos do Brasil em
+
+que houver uma singela retransmissão do conteúdo de produção exclusivamente
+catarinense - como, por exemplo e ainda hipoteticamente, Poxoréu/MT,
+
+Itabaiana/SE, Itaboraí/RJ e Curralinho/PA.
+
+4.16. Trata-se, portanto, de um modo indevido de se alargar o conteúdo do
+
+carregamento obrigatório quanto às distribuidoras de TV a cabo. Pois é mesmo de
+se indagar qual o valor constitucional que justificaria que um conteúdo local
+
+gerado em Criciúma/SC passe a ser obrigatória e gratuitamente carregado e
+
+
+[[pagina 18 | nativo]]
+transmitido por uma distribuidora de TV a cabo que opera em Itabaiana/SE.
+
+A resposta, adianta-se, só pode ser nenhum. A nova regra, como será mais
+
+detidamente evidenciado, serve apenas para atender aos interesses privados
+dessas geradoras de conteúdo, assim “financiando” a sua expansão às custas
+
+das distribuidoras de TV a cabo – e, em rigor, às custas dos consumidores,
+
+assinantes dos serviços de TV a cabo que, muito provavelmente, irão ver esses
+
+custos transferidos para o valor de suas assinaturas. A revelar, com isso, um
+
+dispositivo legal inquinado do mais aparente vício de inconstitucionalidade material.
+Preliminarmente a isso, porém, o dispositivo apresenta insanáveis e igualmente
+
+manifestos vícios de fabricação legislativa, também incorrendo em inconstitucionalidade
+
+formal.
+
+5. INCONSTITUCIONALIDADE FORMAL DO NOVO §15 DO ART. 32 DA LEI Nº
+12.485/2011: A) a impertinência temática entre a Medida Provisória nº
+
+1.018/2020 e a emenda parlamentar que veio a incluir a alteração do §15 do art.
+
+32 no projeto de lei conversão; B) a violação à limitação material veiculada pelo
+
+art. 2º da Emenda Constitucional nº 8/1995 e pelo art. 246 da Constituição
+
+5.1. Indo diretamente ao ponto, eis o texto original da Medida Provisória nº
+1.018/2021:
+
+Art. 1º O Anexo I à Lei nº 5.070, de 7 de julho de 1966, passa a vigorar com as
+
+alterações constantes do Anexo I a esta Medida Provisória.
+Art. 2º O Anexo à Lei nº 11.652, de 7 de abril de 2008, passa a vigorar com as
+
+alterações constantes do Anexo II a esta Medida Provisória.
+
+Art. 3º O Anexo I à Medida Provisória nº 2.228-1, de 6 de setembro de 2001, passa
+
+a vigorar com as alterações constantes Anexo III a esta Medida Provisória.
+Art. 4º Esta Medida Provisória entra em vigor na data de sua publicação e produzirá
+
+efeitos a partir de 1º de janeiro de 2021.
+
+5.2. Os anexos alterados concernem, apenas e tão somente, aos valores das tabelas
+
+da Taxa de Fiscalização de Instalação (Fiscalização das Telecomunicações), da
+
+
+[[pagina 19 | nativo]]
+Contribuição para o Fomento da Radiodifusão Pública e da Contribuição para o
+
+Desenvolvimento da Indústria Cinematográfica Nacional. Logo, a medida
+
+provisória se limitava a incidir sobre tributos setoriais das telecomunicações.
+Tributos que, embora voltados a favorecer a radiodifusão, incidiam sobre o setor de
+
+telecomunicações, onerando-o. Portanto, a medida provisória nada, absolutamente
+
+nada, dispunha sobre o regime jurídico de prestação do serviço de acesso
+
+condicionado. Pior do que isso, a medida provisória teve, como leitmotiv, a
+
+desoneração do setor de telecomunicação, pela redução dos valores desses
+tributos voltados a subsidiar os setores de radiodifusão e de cinema, como se
+
+vê do trecho seguinte de sua exposição de motivos:
+
+“Por fim, registra-se que diversos estudos sobre o setor de TICs têm sido realizados
+
+nos últimos anos, a exemplo dos estudos do Instituto de Pesquisa Econômica
+Aplicada (IPEA), preparados a pedido da Agência Nacional de Telecomunicações
+
+(ANATEL) (Produto I, Texto para Discussão nº 2322 e Texto para Discussão nº
+
+2349), do relatório "Alternativas para a revisão do modelo de prestação de serviços e
+
+telecomunicações", da "Estratégia brasileira para a transformação digital" (E-Digital).
+Com base neles, pode-se concluir que a infraestrutura de redes de telecomunicações
+
+é elemento-chave, posicionada nas camadas mais elementares da Economia Digital e
+
+cada vez mais importante para o desenvolvimento socioeconômico do País. A
+
+proposta de desoneração de TFI, TFF, CFRP e Condecine está alinhada a diretrizes
+do Decreto nº 9.612, de 17 de dezembro de 2018, que dispõe sobre políticas públicas
+
+de telecomunicações, e do Decreto nº 9.319, de 21 de março de 2018, que institui o
+
+Sistema Nacional para a Transformação Digital”.
+
+5.3. O escopo e o propósito normativos, portanto, residiam na desoneração do
+
+setor de telecomunicações, pela diminuição da carga tributária que incide sobre si para
+
+favorecer e subsidiar os setores de radiodifusão e de cinema. Não é difícil perceber,
+
+então, que as Emendas nº 7 e 8 (que resultaram no dispositivo impugnado nesta ADI)
+
+desbordam, por completo, do raio temático estabelecido pela medida provisória. Mais
+do que isso, essas emendas acabam por gerar um efeito diametralmente oposto
+
+ao que almejava a medida provisória, pois, ao ampliar o espaço de gratuidade
+
+
+[[pagina 20 | nativo]]
+imposto sobre a operação de prestadoras do serviço de acesso condicionado,
+
+a norma passa onerar (e não desonerar) as redes de infraestrutura
+
+telecomunicacional, em favor de parcela do setor de radiodifusão de sons e
+imagens. Justamente o oposto, portanto, do que pretendia a medida provisória.
+
+5.4. Convém insistir: onde havia um ato normativo tematicamente tributário
+
+e com o propósito de desoneração do segmento de telecomunicações,
+
+diminuído a tributação que sobre ele incide para beneficiar o setor de
+radiodifusão, incluiu-se uma norma materialmente afeita ao regime jurídico
+
+de prestação do serviço de acesso condicionado e orientada à oneração do
+
+segmento de telecomunicações e ao subsídio do setor de radiodifusão. O exato
+
+oposto, portanto, de modo que a impertinência temática não poderia ser mais
+
+evidente, a implicar, na linha do que decidido pelo STF na ADI 5.12715, nítida
+violação ao devido processo legislativo e ao princípio democrático.
+
+5.5. Com efeito, embora se reconheça, por explicitude constitucional (§1216 do art.
+
+61), a legitimidade do poder de emenda parlamentar na fase de apreciação legislativa
+
+das medidas provisórias, a Constituição exige, segundo o referido precedente do
+
+STF17, que a proposta parlamentar guarde, com o texto original, “estrita relação de
+afinidade temática”. É, aliás, o que já preconizava a melhor doutrina
+
+constitucionalista: "A medida provisória pode ser emendada no Congresso, não
+
+mais perdurando a proibição nesse sentido que havia no regime do decreto-lei, na
+
+ordem constitucional pretérita. As emendas apresentadas devem, porém, guardar
+
+pertinência temática com o objeto da medida provisória, sob pena de
+
+15 ADI 5127, Relator(a): ROSA WEBER, Relator(a) p/ Acórdão: EDSON FACHIN, Tribunal Pleno, julgado
+em 15/10/2015, PROCESSO ELETRÔNICO DJe-094 DIVULG 10-05-2016 PUBLIC 11-05-2016.
+
+16 §12. Aprovado projeto de lei de conversão alterando o texto original da medida provisória, esta manter-se-á
+integralmente em vigor até que seja sancionado ou vetado o projeto. (Incluído pela Emenda Constitucional
+nº 32, de 2001)
+
+17 A Ministra Rosa Weber ainda destaca, em seu primoroso voto, que essa é a tônica internacional: Nas
+experiências constitucionais italiana e espanhola, a modificação, pelo Parlamento, do provimento provisório
+editado pelo Poder Executivo, mediante a apresentação de emendas ao processo de conversão, é norteada pelo
+princípio da congruência entre a emenda proposta e a matéria do decreto-legge (na Itália) ou do decreto-ley (na
+Espanha) que se submete à aprovação” (p. 30).
+
+[[pagina 21 | nativo]]
+indeferimento”18. Na mesma linha, ainda, a própria norma regimental que dá conta
+
+da tramitação das medidas provisórias (§4º do art. 4º da Resolução nº 01/2002): “Art.
+
+4.º (...) § 4º. É vedada a apresentação de emendas que versem sobre matéria estranha
+àquela tratada na Medida Provisória, cabendo ao Presidente da Comissão o seu
+
+indeferimento liminar”.
+
+5.6. Não há dúvidas, pois, de que a pertinência temática é requisito de validade
+
+constitucional de toda e qualquer norma que se origine de emenda parlamentar aposta
+ao texto de uma medida provisória. E as razões para tanto são as mais sistêmicas e
+
+transversais possíveis, uma vez que atinentes ao devido processo legislativo e ao
+
+próprio princípio democrático. Bem por isso, inclusive, o STF construiu antiga e
+
+sólida linha jurisprudencial no sentido de limitar o poder de emenda parlamentar, pelo
+
+critério da afinidade temática, nas hipóteses de projeto de lei de iniciativa submetida
+a cláusula de reserva. Nesses termos, por todos, a ADI 1333/RS19.
+
+5.7. Com mais razão ainda, portanto, é de se exigir a observância de um estrito
+
+ponto de contato temático entre medida provisória e emenda parlamentar, pois, como
+
+bem anotou a Ministra Rosa Weber no voto proferido quando do julgamento da ADI
+
+5.127: “no processo de conversão de medida provisória em lei, de caráter excepcional,
+o Poder Legislativo não atua em toda a sua amplitude e nem detém a mesma liberdade
+
+para tanto. Nas palavras de Clèmerson Merlin Clève, ‘(...) o procedimento de
+
+conversão não se confunde com o ordinário de produção legislativa. A lei de
+
+conversão não pode, por isso, ser considerada um modo normal de manifestação do
+
+Congresso Nacional.’ (Medidas provisórias. 2ª edição revista e ampliada. São Paulo:
+Max Limonad, 1999)” (p. 27).
+
+18 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional. 8a ed. rev.
+e atual., São Paulo: Saraiva, 2013, p. 884-5.
+
+19 “Admissão de emendas parlamentares aos projetos de lei de iniciativa privativa do Poder Executivo e
+Judiciário, desde que guardem pertinência temática com o projeto e não importem em aumento de despesas. 3.
+A Emenda Parlamentar n. 4/1995 afastou-se da temática do Projeto de Lei n. 54/1995, interferiu na autonomia
+financeira e administrativa do Poder Judiciário: desrespeito ao art. 2º da Constituição da República. 4. Ação
+direta de inconstitucionalidade julgada procedente”. Relatora Ministra Cármen Lúcia, Tribunal Pleno,
+julgamento em 29.10.2014, DJe 18.11.2014.
+
+[[pagina 22 | nativo]]
+5.8. É que as medidas provisórias são, além de tudo, timbradas com as notas
+
+constitucionais da urgência e da relevância, de modo que, no entendimento
+manifestado pelo STF a partir do leading case da ADI 5.127, “uma vez estabelecido o
+
+tema relevante e urgente, toda e qualquer emenda parlamentar em projeto de
+
+conversão de medida provisória em lei se limita e circunscreve ao tema definido como
+
+urgente e relevante”.
+
+5.9. Partindo desse caráter conceitualmente excepcional de atuação legislativa (pois
+
+somente autorizado em face dos requisitos de relevância e urgência), a Ministra Rosa
+
+Weber chama atenção para o alto grau de potencialidade deletéria da prática que se
+
+convencionou chamar, muito ilustrativamente, de contrabando legislativo:
+
+“O que tem sido chamado de contrabando legislativo, caracterizado pela introdução
+
+de matéria estranha a medida provisória submetida à conversão, não denota, a meu
+
+juízo, mera inobservância de formalidade, e sim procedimento marcadamente
+
+antidemocrático, na medida em que, intencionalmente ou não, subtrai do debate
+público e do ambiente deliberativo próprios ao rito ordinário dos trabalhos
+
+legislativos a discussão sobre as normas que irão regular a vida em sociedade. (...)
+
+Não se trata em absoluto de apenas de aproveitar o rito mais célere para fazer avançar
+
+o processo legislativo, supostamente sem prejuízo. A hipótese evidencia violação do
+direito fundamental ao devido processo legislativo – o direito que têm todos os
+
+cidadãos de não sofrer interferência, na sua esfera privada de interesses, senão
+
+mediante normas jurídicas produzidas em conformidade com o procedimento
+
+constitucionalmente determinado”. (ADI 5.127, p. 31-32).
+
+5.10. Também no julgamento da ADI 5.127, e nesse mesmo trilho de
+
+fundamentação, os Ministros Edson Fachin e Roberto Barroso jogam luzes sobre as
+
+implicações (in)constitucionais desse modo deturpado e disfuncional de produção
+
+legislativa:
+
+
+[[pagina 23 | nativo]]
+“Quando uma Medida Provisória, ao ser convertida em lei, passa a tratar de diversos
+
+temas inicialmente não previstos - não raras vezes de modo precoce -, o seu papel de
+regulação da vida comum vê-se enfraquecido no que diz respeito à legitimação pelo
+
+procedimento democrático. Gera-se, com tal prática, insegurança justamente por
+
+submeter ao rito de discussão e aprovação excepcionais e céleres, sem sequer se fazer.
+
+necessária a alegação dos requisitos constitucionais da relevância e da urgência
+necessários para a edição de Medida Provisória.” (Voto do Ministro Edson Fachin,
+
+p. 62).
+
+“Há pelo menos três violações constitucionais. Admitir que um parlamentar
+apresente, a uma medida provisória encaminhada pelo Executivo, uma emenda que
+
+não tenha nenhuma pertinência temática viola a Constituição em três momentos. Em
+
+primeiro lugar, subtrai do Presidente da República a competência para fazer a
+
+avaliação da urgência e da relevância, que é uma competência dele, atribuída pela
+Constituição. Portanto, é uma usurpação de poder. Em segundo lugar - e também
+
+observou a Ministra Rosa Weber -, há uma clara violação ao devido processo legal,
+
+porque existe um modo normal e ordinário de produção legislativa. A medida
+
+provisória é a exceção, e a exceção para casos específicos. Quem apresenta uma
+emenda sem pertinência temática a uma medida provisória está burlando o devido
+
+processo legal, que tem uma tramitação diversa. E, em terceiro lugar - e também
+
+observado pela Ministra Rosa Weber -, há um problema de violação do princípio
+
+democrático, porque a medida provisória suprime uma parcela importante do debate
+público e do processo deliberativo que deve transcorrer no âmbito do Congresso
+
+Nacional” (Voto do Ministro Roberto Barroso, p. 80-81).
+
+5.11. Ora, neste caso, como dito, a ampliação do dever de carregamento
+obrigatório imposto às distribuidoras de TV por assinatura é matéria atinente
+
+ao regime jurídico de prestação de um serviço de telecomunicações e, nessa
+
+medida, nada tem a ver com a redução de tributos, o escopo original da
+
+Medida Provisória nº 1.018/2020. Bem ao contrário, o que faz essa norma
+
+contrabandeada durante o peculiaríssimo processo legislativo da MP, ao ampliar a carga
+
+de oneração regulatória da prestação do serviço de acesso condicionado, é se
+contrapor, frontal e acintosamente, ao propósito normativo que animou o
+
+
+[[pagina 24 | nativo]]
+Poder Executivo a lançar mão da medida excepcional e urgente, que foi
+
+justamente o desonerar as redes de telecomunicações de uma carga tributária
+
+e regulatória que lhe é imposta para subsidiar o setor de radiodifusão. Donde
+a incontornável conclusão de que o art. 11 da Lei nº 14.173/2021 (modificador do
+
+§15 do art. 32 da Lei nº 12.485/2011) é violador do devido processo legislativo e do
+
+princípio democrático, pois segue o caminho diametralmente oposto, ampliando um
+
+dever setorial sobre empresas prestadoras de serviço de telecomunicações e, com isso,
+
+beneficiando indevidamente parte do setor de radiodifusão de sons e imagens.
+
+5.12. Mas não é só. Também pela matéria que veicula, o dispositivo impugnado
+
+afronta o art. 2º da Emenda Constitucional nº 8/1995 e o art. 246 da
+
+Constituição, passagens normativas pelas quais se veda a edição de medida
+
+provisória sobre o regime jurídico das telecomunicações. Veja-se:
+
+Art. 2º É vedada a adoção de medida provisória para regulamentar o disposto no
+
+inciso XI do art. 21 com a redação dada por esta emenda constitucional.
+
+Art. 246. É vedada a adoção de medida provisória na regulamentação de artigo da
+Constituição cuja redação tenha sido alterada por meio de emenda promulgada entre
+
+1º de janeiro de 1995 até a promulgação desta emenda, inclusive. (Redação dada
+
+pela Emenda Constitucional nº 32, de 2001)
+
+5.13. Chega a ser autoevidente que a nova redação do §15 do art. 32 da Lei nº
+
+12.485/2011 traduz uma iniciativa de regulamentação do inc. XI do art. 21 da
+
+Constituição. O campo constitucional protegido pelas passagens normativas
+
+acima é o da prestação dos serviços de telecomunicação e a norma legal ora
+
+impugnada versa, justamente, sobre um aspecto prestacional do serviço de
+acesso condicionado, modalidade telecomunicacional regida, em conjunto,
+
+pela Lei Geral de Telecomunicações e pela Lei nº 12.485/2011.
+
+5.14. Ampliar o dever de carregamento obrigatório das distribuidoras de TV por
+
+assinatura é impactar, em cheio, a operação desse serviço, com consequências sobre
+
+
+[[pagina 25 | nativo]]
+a receita e infraestrutura das empresas autorizatárias. Dando-se, portanto, a mais
+
+nítida correlação entre a norma questionada e o inc. XI do art. 21 da Constituição, a
+
+atrair o óbice veiculado no art. 2º da Emenda Constitucional nº 8/1995 e no art. 246
+da Constituição. Nesse sentido, registra-se recente decisão pela
+
+inconstitucionalidade da Medida Provisória nº 954/2020, proferida nas ADIs
+
+6.387, 6.388, 6.389, 6.390 e 6.393:
+
+“Inicialmente, ainda que o tema não tenha sido aventado na exordial e nos debates
+que me antecederam, considero oportuno suscitar a inconstitucionalidade formal da
+
+medida provisória por entender que ela incide em vedação constitucional ao uso
+
+desse instrumento normativo para dispor sobre o regime de prestação de serviços de
+
+telecomunicações.
+Nos termos dos seus arts. 1º e 2º, a norma impugnada impõe às “empresas de
+
+telecomunicações prestadoras do Serviço Telefônico Fixo Comutado - STFC e do
+
+Serviço Móvel Pessoal – SMP” a obrigação de “disponibilizar à Fundação IBGE, em
+
+meio eletrônico, a relação dos nomes, dos números de telefone e dos endereços de
+seus consumidores, pessoas físicas ou jurídicas”. (...)
+
+De toda sorte, fato é que a MP institui uma obrigação aos delegatários de serviços de
+
+telecomunicações. Até mesmo por isso a norma previu a oitiva do Poder Concedente,
+
+qual seja a Agência Nacional de Telecomunicações, para a definição do procedimento
+de disponibilização dos dados (art. 2º, § 1º).
+
+Todavia, por expressa previsão contida no art. 2º da Emenda Constitucional 8/1995,
+
+que promoveu a liberalização do setor de telecomunicações, tornou-se vedado o uso
+
+de medida provisória para dispor sobre o regime jurídico de prestação desses
+serviços. Transcreva-se o dispositivo: (...)
+
+Considerando que a MP 954/2020 interfere diretamente no regime de prestação dos
+
+serviços de telecomunicações, torna- se clara a inconstitucionalidade formal,
+
+porquanto estar-se-ia utilizando medida provisória “para regulamentar o disposto no
+inciso XI do art. 21”.
+
+Sob outra ótica, a inconstitucionalidade formal da MP poderia também ser
+
+reconhecida face ao art. 246 da Constituição Federal de 1988, com a redação dada
+
+pela Emenda Constitucional 32/2001, que, com o objetivo de vedar a
+
+
+[[pagina 26 | nativo]]
+regulamentação dos setores de telecomunicações e de petróleo por meio de medida
+
+provisória, estabeleceu: (...)
+Assim, considerando que a norma impugnada tem como objetivo central dispor
+
+sobre “compartilhamento de dados por empresas de telecomunicações prestadoras
+
+de Serviço Telefônico Fixo Comutado e de Serviço Móvel Pessoal com a Fundação
+
+Instituto Brasileiro de Geografia e Estatística” e que esta matéria se insere no âmbito
+da regulamentação do art. 21, inciso XI, da CF, resta reconhecida a
+inconstitucionalidade formal da medida provisória”20.
+
+5.15. É de se rechaçar, antecipadamente, eventual objeção baseada no fato de que o
+
+dispositivo enfocado não constava do teor original da Medida Provisória nº
+1.018/2020, somente passando a compor o texto do projeto de lei de conversão por
+
+efeito de emenda parlamentar. Tal circunstância não é suficiente para elidir a
+
+limitação material à edição de medidas provisórias, que se estende às emendas
+
+apresentadas na fase de tramitação congressual da espécie legislativa.
+
+5.16. Com efeito, a medida provisória traduz espécie legislativa de identidade
+
+constitucional e perfil normativo próprio, razão pela qual figura, em apartado, no
+
+rol de atos normativos primários inscrito no art. 5921 da Constituição. Cada um deles
+
+a suscitar um devido e respectivo processo legislativo, o que se acentua, a mais não
+
+poder, no caso das medidas provisórias, visto que são peculiarizadas não apenas pela
+eficácia imediata de suas disposições, mas, igualmente, pelo processo legislativo
+
+singular que deflagram, marcado (i) pela brevidade temporal de suas fases (chegando
+
+a ensejar o trancamento de pauta), (ii) pela apreciação concentrada de seu teor em
+
+comissão mista e (iii) pela caducidade em face da expiração do prazo constitucional.
+
+20 ADI 6387 MC-Ref, Relator(a): ROSA WEBER, Tribunal Pleno, julgado em 07/05/2020, PROCESSO
+ELETRÔNICO DJe-270 DIVULG 11-11-2020 PUBLIC 12-11-2020.
+21 Art. 59. O processo legislativo compreende a elaboração de:
+I - emendas à Constituição;
+II - leis complementares;
+III - leis ordinárias;
+IV - leis delegadas;
+V - medidas provisórias;
+VI - decretos legislativos;
+VII - resoluções.
+
+
+[[pagina 27 | nativo]]
+5.17. Nesse sentido, e ao menos no que atine ao processo legislativo, o figurino
+
+jurídico das medidas provisórias se projeta para a fase de sua apreciação
+congressual e, mais até do que isso, ao produto da deliberação parlamentar, a
+
+denominada lei de conversão. Lei de conversão que, em matéria de processo
+
+legislativo, nada tem a ver com uma lei tipicamente considerada. Nesse sentido, o
+
+testemunho doutrinário de José Levi Mello do Amaral Junior:
+
+“A lei de conversão particulariza-se e qualifica-se por: a) pressupor uma medida
+
+provisória a converter; b) possuir conteúdo delimitado e condicionado pela medida
+
+provisória; c) seguir processo legislativo específico; e d) dever ser aprovada dentro
+
+do prazo constitucional sob pena de decadência. Portanto, tendo âmbito temático
+próprio, bem assim processo legislativo específico, a lei de conversão da medida
+provisória é, insista-se, espécie normativa primária e autônoma”22.
+
+5.18. Portanto, quando a Constituição impõe às medidas provisórias uma
+vedação de ordem material, essa limitação incide sobre todo o processo de
+
+deliberação parlamentar, igualmente conformando o teor da lei de conversão.
+
+No julgamento da ADI 5.127, a imbricação material entre medida provisória e seu
+
+trâmite legislativo, tudo a compor um só e bem caracterizado regime constitucional,
+
+foi realçada nas seguintes passagens:
+
+“Sem embargo da indiscutível relevância adquirida pelas medidas provisórias na
+
+ordem política atual, muitas vezes funcionando, entre choques e consensos, como
+
+verdadeiros mecanismos de acoplamento de agendas entre o Poder Executivo e o
+
+Poder Legislativo, não há como perder de vista que não traduzem o procedimento
+típico e ordinário previsto na Constituição para a produção de normas jurídicas gerais
+
+e abstratas para regular as condutas individuais. Lembrando que o processo
+
+legislativo é espécie do gênero processo, André Del Negri salienta, escorado em
+
+Elpídio Donizete Nunes, que “a extrema sumariedade de seu trâmite pode ocasionar
+
+22 AMARAL JUNIOR, José Levi Mello do. Medida provisória e sua conversão em lei: a emenda constitucional nº 32 e o
+papel do Congresso Nacional. São Paulo: Revista dos Tribunais, 2004, p. 284.
+
+[[pagina 28 | nativo]]
+graves consequências por meio da supressão de garantias processuais, levando a um
+
+produto final desprovido de legitimidade” (Controle de Constitucionalidade no
+Processo Legislativo: teoria da legitimidade democrática. Belo Horizonte: Fórum,
+
+2003, p. 86)” (Voto da Ministra Rosa Weber, p. 23).
+
+“Do fato de a Constituição admitir tal interferência no regular processo legislativo,
+de modo excepcional, a fim de atender demanda reputada urgente e relevante pelo
+
+mandatário do Poder Executivo, de modo algum se infere que qualquer intenção de
+
+direito novo manifestada por parlamentar tenha legitimidade para tramitar sob o
+
+mesmo regime extremamente simplificado” (Voto da Ministra Rosa Weber, p. 33).
+
+“A incorporação de emenda parlamentar sobre matéria estranha às versadas na
+
+medida provisória implica permitir se instaure o rito legislativo anômalo previsto
+
+excepcionalmente na Carta Política para a conversão de medida provisória em lei
+quanto a matéria não submetida ao Congresso Nacional na forma do art. 62, caput,
+
+da Constituição da República. Mais do que o poder de emenda, significa conferir ao
+
+parlamentar a titularidade de iniciativa para, esquivando-se do procedimento para
+
+aprovação das leis ordinárias, submeter propostas legislativas avulsas ao rito dos
+projetos de lei de conversão, aproveitando-se da tramitação de medida provisória
+
+sobre outra matéria” (Voto da Ministra Rosa Weber, p. 27).
+
+“Por outro lado, porém, o fato de a Constituição não ter expressamente disposto no
+art. 62 a impossibilidade de se transbordar a temática da Medida Provisória, não
+
+significa que o exercício da faculdade de emendar pelo Congresso Nacional seja
+
+incondicionado. É o que se vê, por exemplo, ao se constatar que as demais limitações
+
+previstas ao poder de emenda (exemplificativamente as previstas nos arts. 61, §1°,
+84, 63, I, II, 166, §§3° e 4°) também se aplicam àquelas apresentadas ao projeto de
+
+conversão de medida provisória”. (Voto do Ministro Edson Fachin, p. 62).
+
+“E também, em respeito ao princípio do devido processo legislativo, há que se
+respeitar a natureza de cada qual das espécies legislativas. Aqui haveria até uma
+
+contradição nos termos, porque a Constituição dispõe que a medida provisória será
+
+convertida, e, por isso, adotou-se a lei de conversão. Ora, não se converte o que não
+
+veio na medida provisória; converte-se aquela matéria tratada, como medida adotada,
+
+
+[[pagina 29 | nativo]]
+em lei. Por isso é que se chama lei de conversão. Então, essa introdução de emendas
+
+com temas que nada tem a ver com o posto inicialmente na medida provisória
+esbarram não apenas na natureza, mas até mesmo na qualificação que emana do que
+
+estabelecido na Constituição. Converte-se o que existe. Essa matéria é inteiramente
+
+nova e realmente seria contrária, portanto, ao devido processo legislativo.” (Voto da
+
+Ministra Cármen Lúcia, p. 96).
+
+5.19. Em suma, considerando-se que o regime constitucional da medida provisória
+
+compreende desde o instante de sua edição até o momento de sua conversão em lei,
+
+quando a Constituição proíbe a veiculação de determinada matéria sob a
+
+forma medida provisória, está a proibir não apenas a vigência imediata dessa
+temática, mas também a sua formulação em processo legislativo permeado
+
+das circunstâncias excepcionais das medidas provisórias.
+
+5.20. Muito ilustrativa, nesse ponto, a observação da Ministra Cármen Lúcia no
+
+sentido de que até mesmo a terminologia da lei de conversão é indicativa de que ela e
+a medida provisória formam um todo pro indiviso, pois apenas se converte o que existe
+
+– e, acrescente-se, o que se pode existir com esse título de medida provisória. Tem-
+
+se, portanto, uma ideia de identidade ou continuidade ou indissociabilidade
+
+entre medida provisória e lei de conversão, que há muito habita o imaginário
+
+jurisprudencial do STF, como se pode depreender, por exemplo, de trechos bastante
+
+esclarecedores do julgamento da ADI 3.090 – MC23. Ei-los:
+
+“Se dermos ao caso específico desta figura de produção legislativa híbrida – a medida
+
+provisória que se converte em lei -, o mesmo tratamento jurídico-constitucional que
+
+se dá a projeto de lei e lei, a distinção entre as duas figuras desaparece. Por quê?
+Porque vamos dar à medida provisória a qualificação de uma lei autônoma capaz de
+
+ser secionada no tempo e na sua eficácia. Se me fosse permitido usar uma figura não
+
+jurídica, de retórica, diria que o mesmo se sucede na transformação da crisálida em
+
+23 ADI 3090 MC, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em 11/10/2006, DJe-131
+DIVULG 25-10-2007 PUBLIC 26-10-2007 DJ 26-10-2007 PP-00027 EMENT VOL-02295-01 PP-00049
+RTJ VOL-00202-03 PP-00972, p. 79 do acórdão.
+
+[[pagina 30 | nativo]]
+borboleta. Não se trata de outro ser, mas do mesmo, com modos diferentes de ser,
+
+que, no caso, é um produto legislativo híbrido, com esta agravante: se o legislador
+constitucional quis impedir que determinadas matérias fossem reguladas e
+
+disciplinadas por um mecanismo híbrido principiado por uma medida provisória – e
+
+esta, ele, como legislador, não poderia ignorar que pode ser convertida em lei -, essa
+
+sua preocupação de proibir que as matérias fossem cuidadas por via de medida
+provisória seria um absurdo constitucional” (Voto do Ministro Cezar Peluso, p. 75
+
+do acórdão).
+
+“Na doutrina brasileira e italiana fala-se em novação normativa, que supõe, na
+verdade, a mantença dos fundamentos” (Intervenção do Ministro Gilmar Mendes, p.
+
+74-75 do acórdão).
+
+5.21. Numa perspectiva de sistematicidade constitucional, torna-se inaceitável o
+entendimento de que o processo legislativo própria e especificamente talhado
+
+para as medidas provisórias pudesse albergar, ainda que por emenda
+
+parlamentar, aquilo que a Constituição vedou justamente para...medidas
+
+provisórias. Espécie de non sense institucional, essa, que corresponderia ao mais
+
+confessado fenômeno de preterição constitucional, a ser pronta e integralmente
+
+combatido pelo Supremo Tribunal Federal.
+
+5.22. Essa ideia ganha ainda mais consistência quando se leva em consideração as
+
+razões pelas quais foi concebida essa fórmula de limitação material das medidas
+
+provisórias, toda ela centrada nas reformas constitucional-econômicas dos anos 1990.
+
+Com precisão, José Levi Mello do Amaral Junior e José Afonso da Silva situam
+histórica e teleologicamente o tema:
+
+“O Governo Fernando Henrique Cardoso (1995-2002) propôs diversas reformas
+
+constitucionais. Eram relativas, no primeiro momento, à ordem econômica. Houve,
+
+então, negociação política para que as inovações que viessem a ser aprovadas não
+fossem objeto de regulamentação por meio de medida provisória. Assim, a Emenda
+
+Constitucional n. 5, de 15 de agosto de 1995 (gás canalizado), a Emenda
+
+Constitucional n. 8, de 15 de agosto de 1995 (telecomunicações), e a Emenda
+
+[[pagina 31 | nativo]]
+Constitucional n. 9, de 11 de novembro de 1995 (petróleo), possuem normas que
+
+vedam a edição de medida provisória no que se refere à regulamentação das
+inovações por elas introduzidas. (...) Portanto, o art. 246 – de modo imediato –
+
+decorre do referido acordo político levado a efeito para aprovar as reformas
+
+constitucionais. Com isso, todas as inovações à Constituição de 1988, feitas por meio
+
+de emendas constitucionais promulgadas a partir de 1995, somente admitiriam
+regulamentação com o efetivo concurso – desde o início do processo legislativo – do
+Congresso Nacional”24.
+
+“O objetivo imediato consistiu em estabelecer limites de atuação do Poder Executivo
+quanto às leis mencionadas nas ECs-5, 6, 7 e 8 relativamente à regulamentação das
+
+matérias ali previstas que eram monopólios. E aí seu alcance é importante. Abriram-
+
+se monopólios, mas estabelece regra de controle dessa abertura pelo Congresso
+Nacional”25.
+
+5.23. No que concerne, especificamente, à Emenda Constitucional nº 8/1995, o seu
+
+propósito de reforma foi assim resumido na Mensagem nº 191/1995: “Exaurido em
+
+sua capacidade de financiamento, principalmente diante das novas tecnologias e da
+
+crescente demanda de serviços por elas gerada, o Estado não tem como arcar sozinho
+com todas as necessidades de investimento. Nesse contexto, impõe-se a abertura de
+
+espaço para a parceria com a iniciativa privada, o que poderá ser feito com a
+
+eliminação da exigência constitucional do controle estatal para a exploração dos
+
+serviços telefônicos, telegráficos e de comunicações de dados e demais serviços de
+
+telecomunicações. (...)”.
+
+5.24. E, como visto nos trabalhos doutrinários acima elencados, fez parte desse
+
+regime constitucional de liberalização econômica do País o mecanismo de bloqueio
+
+de incidência de medidas provisórias sobre essa temática, num movimento de realce
+
+e empoderamento da função legislativa do Congresso Nacional.
+
+24 Comentário ao art. 246. In: CANOTILHO, J.J. Gomes; MENDES, Gilmar F.; SARLET, Ingo W.; STRECK,
+Lenio L. (Coords.). Comentários à Constituição do Brasil. São Paulo: Saraiva/Almeidina, 2013, p. 2.181.
+25 Curso de direito constitucional positivo, 21. Ed. São Paulo: Malheiros, 2002, p. 530-531.
+
+[[pagina 32 | nativo]]
+5.25. Nem se diga que, no presente caso, por se tratar de norma originada em
+
+emenda parlamentar, não haveria aviltamento ao propósito de investir o Congresso
+Nacional no controle detido da regulamentação dessas matérias constitucionais. Isso
+
+não procede por três razões:
+
+I - é a própria Constituição (documento que governa, permanentemente,
+
+quem detém o poder, transitoriamente) que disciplina o modo pelo qual o
+Congresso Nacional irá controlar o tratamento legislativo desses temas,
+
+fazendo-o pela eliminação explícita do instituto da medida provisória e,
+
+portanto, de seu processo legislativo tão peculiar quanto encurtado e
+
+ainda politicamente pressionado pelo prazo de caducidade. Donde a
+
+lição de Manoel Gonçalves Ferreira Filho: “É princípio pacífico em nosso
+Direito a supremacia da Constituição com todas as suas consequências, em
+
+especial a sua rigidez, de onde decorre a invalidade de toda lei ou de todo ato
+
+que a ela se contradisser. A validade de qualquer ato derivado da Constituição,
+
+portanto, depende sua concordância com a Constituição. Depende, mais
+
+precisamente, da observância dos requisitos formais e substanciais
+
+estabelecidos na Constituição (...). Ora, ‘de modo algum há regras jurídicas
+menos fortes no texto constitucional’, reconhece Pontes de Miranda, de modo
+
+que tanto é inconstitucional o ato que foi editado com descumprimento dos
+
+requisitos formais, quanto o que fere direitos ou garantias assegurados pela
+
+Constituição”26;
+
+II - essa determinação constitucional, embora seja favorecedora do Congresso
+
+Nacional, não traduz uma espécie de prerrogativa institucional
+
+disponível, em linha com o entendimento jurisprudencial consagrado de que
+
+que a sanção presidencial não sana a violação à iniciativa legislativa privativa
+
+26 Do processo legislativo. 5ª ed. São Paulo: Saraiva, 2002, p. 214-217.
+
+[[pagina 33 | nativo]]
+do Presidente da República27, pois o certo é que o “processo legislativo encerra
+
+atos complexos e cada qual deve estar afinado com os ditames
+
+constitucionais”28;
+
+III - o mecanismo do art. 246 e do art. 2º da Emenda nº 8/1995 não foi editado
+
+apenas em benefício do Parlamento, mas também como uma forma de
+
+estabilizar os setores alcançados pelas reformas constitucional-
+
+econômicas, retirando os seus respectivos regimes jurídicos do alcance das
+medidas provisórias e os reservando ao tipo mais detido e aprofundado de
+
+reflexão parlamentar que é próprio dos projetos de lei.
+
+5.26. No caso concreto, o vício que macula o art. 11 da Lei nº 14.173/2021 é
+
+realçado pela circunstância de que não houve nem mesmo discussão e deliberação do
+projeto de lei de conversão por uma comissão mista. É que, por efeito da bem
+
+inspirada decisão cautelar proferida pelo STF nas ADPFs 661 e 663, autorizou-se a
+
+substituição das comissões mistas pela instrução das medidas provisórias diretamente
+
+nos Plenários das Casas Legislativas. A decisão, em si, é irretocável e oportuna, pois
+
+evitou que o comprometimento circunstancial (pelo período de crise vivido) de uma
+
+ou de outra peça da engrenagem constitucional pudesse ocasionar, a um só tempo, o
+agravamento da crise de realidade que se estava a enfrentar e a derrocada geral do
+
+próprio modelo jurídico-político instituído pela Constituição.
+
+5.27. Entretanto, por outro lado, tratando-se de modelo excepcional e voltado
+
+para viger em um período crítico, a sua adoção impõe, tanto ao Poder
+Legislativo quanto à jurisdição constitucional, o mais estrito controle dos
+
+demais aspectos atinentes à tramitação das medidas provisórias, a fim de se
+
+evitar que a circunstância extraordinária seja instrumentalizada para a
+
+27 Esse entendimento jurisprudencial, superador do Enunciado nº 5 da Súmula do STF, é tão antigo quanto
+reiteradamente confirmado. Ver, por tantos outros precedentes, a ADI 2.867 (Relator(a): CELSO DE MELLO,
+Tribunal Pleno, julgado em 03/12/2003, DJ 09-02-2007 PP-00016 EMENT VOL-02263-01 PP-00067 RTJ
+VOL-00202-01 PP-00078).
+28 ADI 2.192-MC, Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 25/05/2000, DJ 04-08-2000
+PP-00003 EMENT VOL-01998-01 PP-00115.
+
+[[pagina 34 | nativo]]
+consumação de abusos legislativos. E, no caso, foi precisamente o que ocorreu,
+
+pois se aproveitou uma medida provisória com propósito de desoneração tributária
+
+para se impor, ao setor de TV por assinatura, sem nenhuma discussão, um dever
+regulatório que onera, grave e decisivamente, a prestação do serviço.
+
+5.28. Por fim, cumpre registrar que, bem vistas as coisas, os dois argumentos de
+
+inconstitucionalidade formal aqui apresentados se retroalimentam e provam, de uma
+
+vez por todas, o vício de origem que macula o dispositivo impugnado nesta ADI. É
+que a própria exigência de pertinência temática é uma evidência de que há, do
+
+ponto de vista da normatividade constitucional, um continuumentre a medida
+
+provisória e o projeto de lei de conversão, de modo que as limitações materiais
+
+daquela se impõem também sobre este. Assim como a própria subsunção do
+
+teor da emenda parlamentar em comento (que gerou a norma ora impugnada)
+às matérias vedadas na Emenda nº 8/1995 e no art. 246 deixam claro que não
+
+há pertinência temática entre ela, emenda parlamentar, e o teor original da
+
+Medida Provisória nº 1.018/2020, sob pena de se assumir que a medida
+
+provisória já versava, ela mesma, matéria constitucionalmente proibida. Tudo
+
+a assentar, de uma vez por todas, a invalidade da nova redação do §15 do art. 32 da
+
+Lei nº 12.485/2011.
+
+6. INCONSTITUCIONALIDADE MATERIAL DO NOVO §15 DO ART. 32 DA LEI
+
+Nº 12.485/2011: A) múltiplas violações ao teor substantivo da Constituição; B)
+
+afronta à livre iniciativa, à defesa do consumidor, ao princípio da
+
+proporcionalidade, à separação de Poderes (pela vertente da reserva de
+Administração) e à segurança jurídica
+
+6.1. Sob o ângulo material, o que primeiro se registra sobre o novo §15 do art. 32
+
+da Lei nº 12.485/2011 é a sua violação frontal ao princípio da livre iniciativa.
+
+Princípio que é, a um só tempo, fundamento da República Federativa do Brasil (inc.
+IV do art. 1º) e, mais especificamente, da ordem econômica (caput do art. 170), donde
+
+consubstanciar valor central para a estruturação da ordem jurídica brasileira. E não é
+
+
+[[pagina 35 | nativo]]
+diferente com o setor de distribuição de TV por assinatura, modalidade de serviço de
+
+telecomunicação que, nos termos do já transcrito art. 29 da Lei nº 12.485/2011, é
+
+pautado pela liberdade de iniciativa e de concorrência.
+
+6.2. No caso, a nova redação do §15 do art. 32 da Lei nº 12.485/2011 entra em
+
+choque com a livre iniciativa e com a própria liberdade concorrencial, na medida em
+
+que amplia, desmesurada e injustificadamente, o dever de carregamento obrigatório
+
+de canais pelas distribuidoras do serviço de acesso condicionado (TV por assinatura).
+Conforme referido no item 4, acima, o dispositivo passou a exigir, das distribuidoras
+
+de TV a cabo, a transmissão gratuita e obrigatória não apenas dos conteúdos de
+
+geração local para essa mesma localidade, mas também a transmissão para todo e
+
+qualquer ponto do País em que haja uma simples estação retransmissora (se o
+
+conjunto de estações daquela geradora atingir o critério de representatividade). Já
+sabido que a inspiração para essa regra reside na fórmula regulatória concebida pela
+
+Anatel, com base no §9º do art. 32, somente para adaptar o carregamento obrigatório
+
+de geradoras locais às singularidades técnicas e operacionais da distribuição de TV
+
+por satélite.
+
+6.3. É dizer: o que era, por designação legal (§9º do art. 32), um remédio
+regulatório, uma fórmula compensatória dirigida à distribuição de TV por satélite,
+
+tornou-se um modo sub-reptício de ampliar indevida e desproporcionalmente o dever
+
+de carregamento obrigatório na distribuição de TV a cabo. Tornou-se, portanto, um
+
+modo de aviltamento da liberdade de iniciativa e de concorrência das operadoras de
+
+TV a cabo, que se veem obrigadas a dedicar parcela significativa de sua infraestrutura
+de redes à difusão de conteúdos locais em lugares outros, que apenas contam com
+
+meras estações retransmissoras. Com essa ocupação injustificada da rede, as
+
+operadoras veem encurtado o espaço de gestão empresarial que têm para selecionar
+
+os conteúdos e os canais que irão compor os pacotes a serem disponibilizados ao
+
+público.
+
+
+[[pagina 36 | nativo]]
+6.4. Esse cenário se torna ainda mais grave quando se leva em consideração as
+
+assimetrias regulatórias que já existiam entre o setor de TV por assinatura e a oferta
+
+de conteúdo por outras tecnologias, como a internet, que nem chega a se sujeitar a
+regra alguma de carregamento obrigatório. Donde se vê que a nova redação do §15
+
+do art. 32, ao invés de seguir o caminho virtuoso da desoneração do setor de TV por
+
+assinatura e da redução de suas assimetrias em relação à nova concorrência, andou em
+
+sentido oposto, agravando ainda mais a carga regulatória que lhe é assimetricamente
+
+imposta.
+
+6.5. Pior do que isso, a nova regra, ao ampliar o escopo do carregamento
+
+obrigatório e atingir as liberdades de iniciativa e concorrencial, viola o princípio da
+
+proporcionalidade, pois restringe o espaço de movimentação jurídica desses agentes
+
+econômicos de foram desnecessária, inadequada e desproporcional em sentido estrito.
+
+6.6. A regra é desnecessária, pois o inc. I do art. 32 já cumpre o papel de garantir
+
+a distribuição gratuita, via TV a cabo, dos conteúdos locais para as pertinentes e
+
+respectivas localidades - e nunca houve nenhuma alegação de qualquer tipo de
+
+descumprimento de seu teor. A regra é tecnicamente inadequada, na medida em
+
+que aplica, às TVs a cabo, a racionalidade que se construiu para dar efetividade à regra
+do carregamento obrigatório às TVs distribuídas por satélite. Foi a combinação do
+
+§8º do art. 32 da Lei nº 12.485/2011 com o §2º do art. 52 da Resolução Anatel nº
+
+581/2012 que ensejou um critério de representatividade adequada para a delimitação
+
+das redes locais a serem obrigatoriamente carregadas nas TVs por satélite. E, por fim,
+
+a norma não atende à proporcionalidade em sentido estrito, uma vez que implica
+severa interferência na gestão das distribuidoras de TV por assinatura, notadamente
+
+na gestão do bem de capacidade limitada que é o espectro do cabo, pois as empresas
+
+se veem obrigadas a utilizar parcela dessa infraestrutura para o carregamento de
+
+conteúdos de geração local para outras praças, que nada têm a ver com essa localidade.
+
+6.7. Aliás, essa falta de pertinência entre o conteúdo gerado num
+
+determinado local e a nova praça abrangida pela nova regra corrobora a falta
+
+
+[[pagina 37 | nativo]]
+de proporcionalidade em sentido estrito, pois a norma não enseja qualquer
+
+vantagem em termos de interesse público. A transmissão gratuita de conteúdo
+
+local para as suas respectivas localidades sempre foi garantida pelo inc. I do art. 32,
+numa vertente clara de racionalidade no incentivo à aproximação entre o público
+
+telespectador e o conteúdo gerado na mesma localidade. A nova regra, porém, não
+
+atende a esse propósito, servindo apenas ao interesse privado que têm
+
+determinadas geradoras de ver ampliado, gratuitamente, às custas das
+
+distribuidoras, o alcance de seus conteúdos.
+
+6.8. É de se renovar, então, a indagação hipotética e ilustrativa lançada no item 4
+
+desta petição: qual seria o valor constitucional a justificar que um conteúdo local
+
+gerado em Criciúma/SC venha a ser gratuitamente carregado e transmitido por uma
+
+distribuidora de TV a cabo de Mossoró/RN? Nenhum, por óbvio. O impulso à
+inclusão desse jabuti na conversão da Medida Provisória nº 1.018/2020 reside, muito
+
+claramente, na acolhida de interesses meramente privados de determinadas geradoras
+
+de conteúdo local, assim subsidiando a sua expansão às custas das distribuidoras de
+
+TV a cabo29. Mais precisamente, às custas dos consumidores, os assinantes dos
+
+serviços de TV a cabo que, muito provavelmente, terão esses custos incorporados ao
+
+valor de suas assinaturas, na contramão, portanto, do art. 5º, XXXII, e do art. 170,
+V, da Constituição, normas que erigem a defesa do consumidor a peça central
+
+da tessitura constitucional brasileira.
+
+6.9. É de se enfatizar que, em matéria de carregamento obrigatório de
+
+conteúdo, o princípio da proporcionalidade é de extrema relevância, pois serve
+para evitar que, por sucessivas e irrefletidas alterações legislativas (no caso,
+
+por um não discutido jabuti incluído em medida provisória com outro tema
+
+29 Conforme reportado na matéria veiculada pelo link abaixo, o próprio Presidente da República e o Ministro
+das Comunicações explicitaram, em live, que “a nova regra beneficia todas as emissoras católicas e evangélicas,
+‘que serão carregadas no cabo sem custo’”. Ver: https://telaviva.com.br/25/06/2021/em-live-bolsonaro-e-
+faria-destacam-beneficios-da-mp-1-018-21-a-canais-religiosos/
+
+No mesmo sentido: https://www1.folha.uol.com.br/mercado/2021/07/ministro-derruba-veto-de-bolsonaro-
+e-beneficia-igrejas-aliadas-em-tv-a-cabo.shtml
+
+
+[[pagina 38 | nativo]]
+original), o seu campo de incidência seja alargado ilimitadamente, podendo,
+
+no limite, esvaziar de sentido econômico a própria atividade das distribuidoras
+
+de TV por assinatura. Se o conteúdo obrigatório se amplia indefinidamente, sem
+razões públicas claras e justificadas, a distribuição de TV por assinatura passa a se
+
+sujeitar, indefinidamente, à obrigatoriedade e à gratuidade, decretando-se, com isso, o
+
+fim do setor. Isso fica ainda mais claro quando se percebe que, no caso, o legislador
+
+transpôs, de modo tecnicamente inadequado, a incidência de um critério residual,
+
+criado pela Anatel exclusivamente para a TV por satélite, para as TVs a cabo, de perfil
+distributivo local e operacionalmente distinto.
+
+6.10. Mais do que isso, o legislador fez, de um critério regulatório talhado para a
+
+dispensa ou adaptação de uma obrigação às peculiaridades da distribuição de TV por
+
+satélite, um modo de ampliar a obrigação regulatória das operadoras de TV a cabo.
+Ou seja, o que tinha sido concebido, pela Anatel, em um sentido restritivo, de
+
+desoneração regulatória, foi desnaturado pelo legislador sob a forma de
+
+oneração regulatória. O que já é suficiente para também se reconhecer, na
+
+hipótese, violação à reserva de administração, decorrente do princípio da
+
+separação de Poderes (arts. 2º e 60, §4º, inc. III), visto que houve substituição
+
+de um juízo essencialmente técnico da Anatel por um juízo político,
+interferindo-se severamente na economia e nos aspectos essencialmente
+
+operacionais de um setor regulado. Em sentido semelhante, reconhecendo a
+
+dimensão constitucional da reserva de administração, o STF julgou a ADI 5.501
+
+(Relator(a): MARCO AURÉLIO, Tribunal Pleno, julgado em 19/05/2016,
+
+PROCESSO ELETRÔNICO DJe-168 DIVULG 31-07-2017 PUBLIC 01-08-2017).
+
+6.11. Por fim, é de se chamar atenção para o princípio da segurança jurídica,
+
+extraído do próprio Estado Democrático de Direito (art. 1º, caput, da Constituição).
+
+No caso, de um dia para o outro, diversas relações jurídicas comerciais mantidas entre
+
+geradoras de conteúdo e distribuidoras de TV por assinatura passaram de um quadro
+de inequívoca e legítima onerosidade para um cenário de impositiva gratuidade. Se
+
+
+[[pagina 39 | nativo]]
+não houver a possibilidade de controle jurisdicional de medidas como essa, a
+
+segurança jurídica do setor será reduzida a pó, assim inibindo os investimentos.
+
+6.12. Essas, portanto, as razões pelas quais o art. 11 da Lei nº 14.173/2021, ao
+
+atribuir nova redação ao §15 do art. 32 da Lei nº 12.485/2011, revela-se não apenas
+
+formalmente contrário à Constituição como também materialmente acometido de
+
+inconstitucionalidade.
+
+7. A NECESSÁRIA IMPLEMENTAÇÃO DE MEDIDA CAUTELAR INAUDITA
+
+ALTERAPARS
+
+7.1. Uma vez demonstrada a inconstitucionalidade formal e material do novo §15
+
+do art. 32 da Lei nº 12.485/2011, preencheu-se um dos requisitos necessários à
+concessão da cautelar, qual seja, a plausibilidade e relevância dos fundamentos
+
+jurídicos apresentados (fumus boni iuris). Embora o controle concentrado de
+
+constitucionalidade possa prescindir da iminência de um dano concreto, bastando a
+
+relevância do pedido e a conveniência da medida, é importante ressaltar que a norma
+
+impugnada já está em vigor e tem o potencial de causar um alto grau de perturbação
+
+operacional e financeira no setor de distribuição audiovisual por meio do serviço de
+acesso condicionado.
+
+7.2. Da noite para o dia, por efeito de um mal engendrado jabuti, o conjunto de
+
+operadoras se vê obrigada a distribuir, gratuitamente, um rol significativo de canais, o
+
+que se revela especialmente grave quando se leva em consideração que a infraestrutura
+de distribuição traduz um bem escasso. Mais do que isso, a norma em causa submete
+
+os contratos vigentes entre as distribuidoras e esses canais por ela beneficiados em
+
+grave estado de insegurança jurídica. Sobre esses negócios jurídicos onerosos passa a
+
+pairar a sombra de uma canhestra regra legal de gratuidade. Tudo isso, portanto,
+
+reforça o periculum in mora e a necessidade de concessão da medida cautelar de modo
+inaudita altera parte.
+
+
+[[pagina 40 | nativo]]
+7.3. Vale frisar que a concessão de cautelar inaudita altera parte é permitida pelo §3º
+
+do art. 10 da Lei nº 9.869/99, que diz: “em caso de excepcional urgência, o Tribunal
+
+poderá deferir a medida cautelar sem a audiência dos órgãos ou das autoridades das
+quais emanou a lei ou o ato normativo impugnado. O STF tem reiterada prática de
+
+concessão de cautelares nesses termos. Eis alguns exemplos na área de
+
+telecomunicações, apenas para ilustrar o ponto: (i) ADI 4739-MC (Rel. Min. Marco
+
+Aurélio, DJe 30/9/2013); (ii) ADI 4533-MC (Rel. Min. Edson Fachin, DJe
+
+1/2/2012); (iii) ADI 4715-MC (Rel. Min. Marco Aurélio, DJe 29/10/2018); (iv) ADI
+4649-MC (Rel. Min. Dias Toffoli, DJe 12/8/2016)30.
+
+7.4. Há mais precedentes, inclusive do Ministro relator deste caso, Alexandre de
+
+Moraes: ADI 4.594-MC; ADI 6.244-MC; ADI 5.855-MC. Sem contar os exemplos
+
+mais recentes, como: ADI 6357, de relatoria do Ministro Alexandre de Moraes;
+ADPFs 661 e 663, de relatoria do Ministro Alexandre de Moraes; ADPFs 668 e 669,
+
+de relatoria do Ministro Roberto Barroso; a ADI 6351, de relatoria do Ministro
+
+Alexandre de Moraes; ADPF 662, de relatoria do Ministro Gilmar Mendes.
+
+8. CONCLUSÕES E PEDIDOS
+
+8.1. Evidenciadas a legitimidade da ABTA e a procedência de suas razões, pugna-
+
+se pela implementação de medida cautelar inaudita altera parte, com a
+
+suspensão da nova redação do §15 do art. 32 da Lei nº 12.485/2011, assim atribuída
+
+por força do art. 11 da Lei nº 14.173/2021.
+
+8.2. Requer-se, em seguida: a) a solicitação de informações ao Presidente da
+
+República, do Senado Federal e da Câmara dos Deputados; b) após a oitiva da
+
+Advocacia-Geral da União e do Ministério Público Federal, o julgamento de
+
+procedência desta ADI, com a confirmação da medida cautelar e a consequente
+
+30 Cautelares: ADI 4369 MC-REF, Rel. Min. Marco Aurélio, DJe 3/5/2011; ADI 2615 MC, Rel. p. acórdão
+Min. Gilmar Mendes, DJ 6/12/2002; ADI 3322 MC, Rel. Min. Gilmar Mendes, DJ 19/12/2006; ADI 4401-
+MC, Rel. Min. Gilmar Mendes, DJ 1º/10/10; ADI 4715 MC, Rel. Min. Marco Aurélio, DJe 19/8/2013.
+
+[[pagina 41 | nativo]]
+declaração de inconstitucionalidade formal e/ou material da nova redação do
+
+§15 do art. 32 da Lei nº 12.485/2011, assim atribuída pelo art. 11 da Lei nº
+
+14.173/2021; c) a comunicação da decisão ao Presidente da República, do Senado
+Federal e da Câmara dos Deputados.
+
+8.3. Requer-se, por fim, que todas as publicações sejam feitas em nome do
+
+advogado MARCELO MONTALVÃO MACHADO, OAB/DF nº 34.391,
+
+OAB/SE nº 4.187 e OAB/SP nº 357.553, sob pena de nulidade processual.
+
+Pede deferimento.
+
+Brasília, 15 de julho de 2021
+
+Carlos Ayres Britto Marcelo Montalvão Machado
+OAB/DF 40.040 OAB/DF 34.391
+
+Desyreé Tavares Ramos João Paulo Gomes Almeida
+OAB/DF 62.942 OAB/DF 37.155
+
+.
+
+

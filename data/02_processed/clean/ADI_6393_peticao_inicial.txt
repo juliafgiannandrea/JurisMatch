@@ -1,0 +1,638 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR PRESIDENTE DO
+
+SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO COMUNISTA DO BRASIL – PCdoB, pessoa
+
+jurídica de direito privado, registrado no Tribunal Superior Eleitoral, com sede na sala
+
+1.224, do Edifício Executivo Office Tower, localizado no bloco F, da Quadra 2, do
+
+SHN, Asa Norte, Brasília, DF, inscrito no CNPJ sob o nº 54.956.495/0001-56,
+
+representado por sua Presidenta, LUCIANA BARBOSA DE OLIVEIRA SANTOS,
+
+brasileira, em relação de união estável, no exercício de mandato de Vice-
+
+Governadora do Estado de Pernambuco, residente e domiciliada em Recife-PE e
+
+estabelecida na sede do Autor vem, por seu advogado (docs. 1 a 6), com fundamento
+
+no disposto no art. 102, I, “a”, e art. 103, VIII, ambos da Constituição Federal e na
+
+Lei nº 9.868, de 10 de novembro de 1.999, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com pedido de concessão de medida cautelar
+
+em relação à Medida Provisória nº 954, de 17 de abril de 2020, publicada no DOU
+
+em sua edição extra do dia 17/04/2020 (doc. 7), pelas razões que passa a expor:
+
+
+
+[[pagina 2 | nativo]]
+I. O ato normativo impugnado
+
+A Medida Provisória nº 954, de 17/04/2020, que “Dispõe
+
+sobre o compartilhamento de dados por empresas de telecomunicações prestadoras
+
+de Serviço Telefônico Fixo Comutado e de Serviço Móvel Pessoal com a Fundação
+
+Instituto Brasileiro de Geografia e Estatística, para fins de suporte à produção
+
+estatística oficial durante a situação de emergência de saúde pública de importância
+
+internacional decorrente do coronavírus (covid-19), de que trata a Lei nº 13.979, de
+
+6 de fevereiro de 2020”, ora impugnada, por vício de inconstitucionalidade, tem o
+
+seguinte teor:
+
+Art. 1º Esta Medida Provisória dispõe sobre o compartilhamento de dados por
+empresas de telecomunicações prestadoras do Serviço Telefônico Fixo
+Comutado - STFC e do Serviço Móvel Pessoal - SMP com a Fundação
+Instituto Brasileiro de Geografia e Estatística - IBGE.
+Parágrafo único. O disposto nesta Medida Provisória se aplica durante a
+situação de emergência de saúde pública de importância internacional
+decorrente do coronavírus (covid-19), de que rata a Lei nº 13.979, de 6 de
+fevereiro de 2020.
+Art. 2º As empresas de telecomunicação prestadoras do STFC e do SMP
+deverão disponibilizar à Fundação IBGE, em meio eletrônico, a relação dos
+nomes, dos números de telefone e dos endereços de seus consumidores,
+pessoas físicas ou jurídicas.
+§ 1º Os dados de que trata o caput serão utilizados direta e exclusivamente
+pela Fundação IBGE para a produção estatística oficial, com o objetivo de
+realizar entrevistas em caráter não presencial no âmbito de pesquisas
+domiciliares.
+§ 2º Ato do Presidente da Fundação IBGE, ouvida a Agência Nacional de
+Telecomunicações, disporá, no prazo de três dias, contado da data de
+publicação desta Medida Provisória, sobre o procedimento para a
+disponibilização dos da dos de que trata o caput.
+§ 3º Os dados deverão ser disponibilizados no prazo de:
+I - sete dias, contado da data de publicação do ato de que trata o § 2º; e
+II – quatorze dias, contado da data da solicitação, para as solicitações
+subsequentes.
+Art. 3º Os dados compartilhados:
+I - terão caráter sigiloso;
+II - serão usados exclusivamente para a finalidade prevista no § 1º do art. 2º;
+e
+III - não serão utilizados como objeto de certidão ou meio de prova em
+processo administrativo, fiscal ou judicial, nos termos do disposto na Lei nº
+5.534, de 14 de novembro de 1968.
+§ 1º É vedado à Fundação IBGE disponibilizar os dados a que se refere o
+caput do art. 2º a quaisquer empresas públicas ou privadas ou a órgãos ou
+entidades da administração pública direta ou indireta de quaisquer dos entes
+federativos.
+
+
+
+[[pagina 3 | nativo]]
+§ 2º A Fundação IBGE informará, em seu sítio eletrônico, as situações em que
+os dados referidos no caput do art. 2º foram utilizados e divulgará relatório de
+impacto à proteção de dados pessoais, nos termos do disposto na Lei nº
+13.709, de 14 de agosto de 2018.
+Art. 4º Superada a situação de emergência de saúde pública de importância
+internacional decorrente do coronavírus (covid-19), nos termos do disposto na
+Lei nº 13.979, de 2020, as informações compartilhadas na forma prevista no
+caput do art. 2º ou no art. 3º serão eliminadas das bases de dados da
+Fundação IBGE.
+Parágrafo único. Na hipótese de necessidade de conclusão de produção
+estatística oficial, a Fundação IBGE poderá utilizar os dados pelo prazo de
+trinta dias, contado do fim da situação de emergência de saúde pública de
+importância internacional.
+Art. 5º Esta Medida Provisória entra em vigor na data de sua publicação.
+
+II. A legitimidade ativa do Autor
+
+Nos termos do disposto no inciso VIII do art. 103 da
+
+Constituição Federal, como os Partidos Políticos com representação no Congresso
+
+Nacional têm legitimidade ativa para propor ação direta de inconstitucionalidade, o
+
+Autor, por se fazer representar no Congresso Nacional, com uma bancada de nove
+
+(9) Deputados e Deputadas Federais (doc. 8), sendo que um deles não se encontra
+
+no exercício do mandato parlamentar, por estar exercendo cargo de Secretário de
+
+Estado no Governo do Estado do Maranhão, tem legitimidade ativa para propor a
+
+presente ação direta de inconstitucionalidade.
+
+III. O cabimento da presente Ação Direta de Inconstitucionalidade
+
+Tratando-se de Medida Provisória, que nos termos do
+
+disposto no art. 62 da Constituição Federal tem força de lei, constitui-se, portanto em
+
+ato normativo federal, sujeito a controle concentrado de sua constitucionalidade, nos
+
+termos previstos no art. 102, I, “a”, da Constituição Federal e de acordo com reiterada
+
+orientação jurisprudencial deste Supremo Tribunal Federal.
+
+
+
+[[pagina 4 | nativo]]
+IV. As inconstitucionalidades na Medida Provisória nº 954/2020
+
+Ao adotar a Medida Provisória nº 954/2020, o Chefe do
+
+Poder Executivo exorbitou de seu poder conferido pelo art. 62 da Constituição
+
+Federal, por afrontar o disposto nos incisos X e XII do art. 5º da Constituição Federal.
+
+O art. 1º da Medida Provisória ora impugnada, que
+
+estabelece a diretriz normativa no sentido de que dados sejam compartilhados entre
+
+empresas de telecomunicações, prestadoras de serviço telefônico fixo comutado e
+
+serviço móvel pessoal, com a Fundação Instituto Brasileiro de Geografia e Estatística
+
+e que nos termos de seu parágrafo único “se aplica “durante a situação de
+
+emergência de saúde pública de importância internacional decorrente do coronavírus
+
+(covid-19), de que rata a Lei nº 13.979, de 6 de fevereiro de 2020”, só tem razão de
+
+ser, em função do propósito explicitado no art. 2º da mesma Medida Provisória nº
+
+954/2020, que obriga a disponibilização à Fundação IBGE, pelas referidas empresas
+
+prestadoras de STFC e SMP: “em meio eletrônico, a relação dos nomes, dos
+
+números de telefone e dos endereços de seus consumidores, pessoas físicas
+
+ou jurídicas”.
+
+O § 1º do art. 2º da MP impugnada, estabelece que os
+
+dados cujo conteúdo do compartilhamento de dados das empresas prestadores de
+
+STFC e SMP para a FIBGE, previsto no caput deste dispositivo normativo, “serão
+
+utilizados direta e exclusivamente pela Fundação IBGE para a produção estatística
+
+oficial, com o objetivo de realizar entrevistas em caráter não presencial no
+
+âmbito de pesquisas domiciliares”.
+
+Já os §§ 2º e 3º dispõem sobre os procedimentos e os
+
+prazos para que os dados com “a relação dos nomes, dos números de telefone e
+
+dos endereços de seus consumidores, pessoas físicas ou jurídicas” sejam
+
+disponibilizados para a FIBGE, prevendo que:
+
+1. Ato do Presidente da Fundação IBGE, ouvida a Agência Nacional de
+
+Telecomunicações, disporá, no prazo de três dias, contado da data de
+
+publicação desta Medida Provisória, sobre o procedimento para a
+
+
+
+[[pagina 5 | nativo]]
+disponibilização dos dados” previstos no caput do art. 2º da MP ora
+
+impugnada;
+
+2. Os dados deverão ser disponibilizados no prazo de:
+
+a) sete dias, contado da data de publicação do ato de que trata o § 2º; e
+
+b) quatorze dias, contado da data da solicitação, para as solicitações
+
+subsequentes.
+
+O art. 3º da MP 954/2020 estabelece, por sua vez, que
+
+“os dados compartilhados:
+
+I - terão caráter sigiloso;
+
+II - serão usados exclusivamente para a finalidade prevista no § 1º do art. 2º;
+
+III - não serão utilizados como objeto de certidão ou meio de prova em
+
+processo administrativo, fiscal ou judicial, nos termos do disposto na Lei nº
+
+5.534, de 14 de novembro de 1968.
+
+Apesar de ter determinado que os dados pessoais dos
+
+consumidores dos serviços de telefonia fixa comutada e serviços móveis pessoais
+
+sejam disponibilizados com nomes, dos números de telefone e dos endereços de
+
+seus consumidores, pessoas físicas ou jurídicas, o § 1º do art. 3º da MP ora
+
+impugnada, veda à FIBGE, disponibilizar os dados já revelados e transferidos “a
+
+quaisquer empresas públicas ou privadas ou a órgãos ou entidades da administração
+
+pública direta ou indireta de quaisquer dos entes federativos” e o § 2º do mesmo art.
+
+3º da MP 954 prevê que FIBGE “informará, em seu sítio eletrônico, as situações em
+
+que os dados referidos no caput do art. 2º foram utilizados e divulgará relatório de
+
+impacto à proteção de dados pessoais, nos termos do disposto na Lei nº 13.709, de
+
+14 de agosto de 2018”.
+
+E por fim, o art. 4º da Medida Provisória ora impugnada,
+
+prevê que: “superada a situação de emergência de saúde pública de importância
+
+internacional decorrente do coronavírus (covid-19), nos termos do disposto na Lei nº
+
+13.979, de 2020, as informações compartilhadas na forma prevista no caput do art.
+
+2º ou no art. 3º serão eliminadas das bases de dados da Fundação IBGE”; embora
+
+seu parágrafo único, contenha expressa previsão para uma possível prorrogação,
+
+
+
+[[pagina 6 | nativo]]
+por trinta (30) dias, “contado do fim da situação de emergência de saúde pública de
+
+importância internacional”, para a utilização dos dados pessoais dos cidadãos, das
+
+cidadãs e das pessoas jurídicas consumidores de serviços de telefonia fixa comutada
+
+e serviços móveis pessoais, “na hipótese de necessidade de conclusão de produção
+
+estatística oficial...”, pela “Fundação IBGE”.
+
+Com efeito, a Medida Provisória nº 954/2020 foi
+
+concebida, para que o Poder Executivo, por intermédio da Fundação Instituto
+
+Brasileiro de Geografia e Estatística, entidade autárquica da União, vinculada ao
+
+Ministério da Economia, se aproprie, em prazo exíguo, ou seja, entre os dias
+
+23/04/2020 e 29/04/2020, da “relação dos nomes, dos números de telefone e dos
+
+endereços de seus consumidores, pessoas físicas ou jurídicas” e até o dia
+
+06/05/2020, para disponibilização de dados decorrentes de “solicitações
+
+subsequentes”.
+
+Ocorre que a Constituição Federal, nos incisos X e XII do
+
+seu art. 5º, estabelece que:
+
+“Art. 5º...
+...
+X - são invioláveis a intimidade, a vida privada, a honra e a imagem das
+pessoas, assegurado o direito a indenização pelo dano material ou moral
+decorrente de sua violação;
+...
+XII - é inviolável o sigilo da correspondência e das comunicações telegráficas,
+de dados e das comunicações telefônicas, salvo, no último caso, por ordem
+judicial, nas hipóteses e na forma que a lei estabelecer para fins de
+investigação criminal ou instrução processual penal;
+
+A inviolabilidade da intimidade e da vida privada das
+
+pessoas, como a inviolabilidade do sigilo de suas correspondências e das
+
+comunicações telegráficas, de dados e das comunicações telefônicas, assegurada
+
+constitucionalmente, só encontra uma exceção, conforme consignado na segunda
+
+parte do inciso XII do art. 5 º da Constituição Federal: “nas hipóteses e na forma que
+
+a lei estabelecer para fins de investigação criminal ou instrução processual penal”.
+
+
+
+[[pagina 7 | nativo]]
+Portanto, não se tratando de investigação criminal, ou
+
+instrução processual penal, nos termos previstos na Lei nº 9.296, de 24 de julho de
+
+1996, não há possibilidade, sem que os referidos e transcritos preceitos
+
+constitucionais, sejam violados, que o sigilo dos dados das pessoas naturais ou
+
+jurídicas cujas informações foram disponibilizadas, por força de contratos de
+
+prestação de serviços de telefonia fixa comutada e móvel pessoal, firmados com
+
+empresas concessionárias de serviço público, possam, por vontade unilateral,
+
+abusiva e inconstitucional do cidadão que ainda exerce a Presidência da República,
+
+serem transferidos e disponibilizados para uma autarquia da União, para “a
+
+realização de produção estatística oficial, com o objetivo de realizar entrevistas em
+
+caráter não presencial no âmbito de pesquisas domiciliares”.
+
+Ora, o IBGE já detém expertise e experiência suficiente,
+
+para que possa realizar pesquisas com a confiabilidade que o País já teve a
+
+oportunidade de reconhecer, sem necessitar utilizar-se de agressões tão
+
+expressivas contra direitos e garantias dos cidadãos, das cidadãs e das pessoas
+
+jurídicas existentes no Brasil.
+
+Se o IBGE não realiza pesquisa neste momento, não
+
+decorre de restrições impostas por corretas cautelas prescritas pela Organização
+
+Mundial de Saúde, adotadas por praticamente todos os países no mundo, pela
+
+comunidade científica internacional e brasileira, pelas autoridades sanitárias dos
+
+Estados Federados, dos Municípios e da União (pelo menos até o presente), mas
+
+por irresponsáveis restrições orçamentárias e financeiras que o Chefe da
+
+Administração Pública Federal e seu Ministério da Economia impuseram ao IBGE e
+
+a diversos relevantes órgãos públicos da União, como se pode aferir nas seguintes
+
+notícias veiculadas pela imprensa nacional:
+
+Censo 2020 do IBGE terá 32% menos perguntas do que o modelo original, diz
+presidente do instituto - Inicialmente, seriam 112 questões. Susana Guerra,
+presidente do órgão, disse, nesta terça-feira (28), que serão 76 perguntas. O
+custo da pesquisa deve fica em R$ 2,3 bilhões” 1;
+
+“Com desconstrução do Censo 2020, Bolsonaro tenta encobrir fracassos de
+seu governo - Barão de Itararé reúne Luanda Botelho, Luiz Gonzaga
+
+1 https://g1.globo.com/economia/noticia/2019/05/28/censo-2020-do-ibge-tera-32percent-menos-perguntas-do-que-o-modelo-
+original-diz-presidente-do-instituto.ghtml
+
+
+[[pagina 8 | nativo]]
+Belluzzo, Luis Nassif e Raquel Rolnik para debater gravidade dos cortes no
+questionário da pesquisa do instituto
+São Paulo – Debate no Centro de Estudos da Mídia Alternativa Barão de
+Itararé, na noite desta quinta-feira (4) em São Paulo, reuniu o economista Luiz
+Gonzaga Belluzzo, o jornalista Luis Nassif, a coordenadora do núcleo Chile
+da Associação dos Servidores do IBGE (ASSIBGE) Luanda Botelho e a
+urbanista Raquel Rolnik para falar da estrutura do censo demográfico 2020.
+Com a gestão da presidenta do IBGE, Susana Cordeiro Guerra, o questionário
+do censo sofre graves alterações sob a justificativa de que é preciso haver
+cortes de orçamento. Ela foi sabatinada, nesta quinta-feira (4), na Comissão
+de Defesa dos Direitos da Pessoa Idosa, na Câmara dos Deputados,
+e confirmou que o instituto fará cortes no questionário utilizado para o Censo
+2020, de 112 para 76 perguntas.
+“Não se trata apenas do IBGE. Ele está incluído no processo de
+desconstrução. Nesse governo, trata-se de desconstrução de instituições que
+o Brasil levou décadas para construir, como as universidades“, disse Belluzzo.
+Mas não apenas instituições de Estado. O patrimônio natural do país se inclui
+na desconstrução. “O meio ambiente. Estão dizendo que o desmatamento
+está diminuindo. Todo mundo sabe que não está. A gente não está
+percebendo a gravidade da situação que está vivendo”, acrescentou.
+Sob a nova gestão, questões cruciais para o entendimento da sociedade
+brasileira foram retirados do Censo 2020, como aluguel, bens de consumo,
+fontes de renda, formação escolar e até as motocicletas. Luanda Botelho
+afirmou que a presidente do órgão já apresentou várias justificativas para o
+enxugamento do questionário, como falta de verba para perguntas
+detalhadas, ou que as pessoas se cansam de responder tantas perguntas,
+ou que é importante reduzir o questionário para obter qualidade. “Hoje ela
+apresentou o orçamento como justificativa. Um dos cortes é a propaganda. É
+mais ou menos onde ela se encontra hoje.”
+Não é só uma questão de estrutura, mas de colocar nosso trabalho em xeque.
+O ministro (da Economia, Paulo Guedes) esteve no IBGE. Disse que tinha que
+vender prédios do IBGE. Disse também que quem pergunta demais descobre
+o que não é. Fazia tempo que não ouvia algo assim”, ironizou Luanda.
+Para Nassif, o presidente Jair Bolsonaro e o ministro da Economia “querem
+tirar os indicadores que mostram o fracasso de suas políticas”. Em sua
+opinião, a profunda importância do IBGE decorre do fato de o órgão mostrar
+a complexidade das realidades. “E a visão complexa da economia serve
+inclusive para a elaboração de novas políticas econômicas, com as quais vai-
+se trabalhar a nova socialdemocracia ou a nova esquerda.”
+A compreensão da sociedade como um todo não pode prescindir das
+informações e dados fornecidos por uma pesquisa de abrangência
+incomparável como a do censo, defendeu Nassif. “As políticas têm que ser
+repensadas a partir da sociedade, das organizações sociais, das ONGs.” No
+contexto de desconstrução e ocultamento de informações que dizem respeito
+ao perfil da sociedade e do país, como a desindustrialização do Brasil, por
+exemplo, “os indicadores são usados como instrumento ideológico”,
+acrescentou.
+O entendimento da economia de maneira ampla, disse Belluzzo, é
+fundamental para entender a vida das pessoas e suas necessidades. “E o
+futuro das pessoas depende de como a economia se comporta.” Por isso, para
+
+
+
+[[pagina 9 | nativo]]
+ele, os cortes no questionário do IBGE não se dão por acaso, mas fazem parte
+do “fenômeno da desconstrução” que afeta o país sob Bolsonaro. “Sem
+informação, as pessoas se prostram. As informações do IBGE são preciosas.”
+Raquel Rolnik defendeu o Censo do IBGE dizendo que nenhum grupo de
+pesquisa no Brasil tem condição de fazer levantamentos complexos e
+abrangentes como o instituto, nem mesmo a Pnad Contínua, que
+geograficamente é muito menos ampla. “Temos que continuar lutando pela
+integridade do censo e do IBGE, pensando que esse governo vai passar, mas
+o Estado brasileiro tem que ficar, assim como alguns pilares que atravessaram
+ditaduras, a redemocratização, e mantiveram qualidade. O IBGE é um
+patrimônio e temos que manter isso vivo. É preciso que as pessoas entendam
+o que está acontecendo e qual a gravidade disso.”
+Como exemplos, Luanda Botelho citou dois itens retirados do questionário
+pela direção do IBGE: aluguel das famílias e o uso de motocicletas. Raquel
+Rolnik ironizou: “saiu motocicleta e ficou máquina de lavar. Deve ser
+propaganda da Brastemp”. Ela acrescentou, porém, que, como dado, a
+questão das motos é essencial para se aferir novas realidades. “Há muitas
+questões de mobilidade ligadas à moto. É um novo modal. A gente precisa
+saber quem está e onde está com a motocicleta.”
+Para Raquel, é “muito grave” o aluguel desaparecer do questionário. “Vai
+sumir o componente do déficit habitacional e não vai ter mais politica de
+moradia.” Segundo ela, as questões racial e de gênero podem ser conhecidas
+com mais nitidez graças aos dados comparativos que podem ser levantados
+pelo censo. “É possível fazer todas as leituras com os recortes de gênero e
+racial com os dados do censo, proporcionando o entendimento da sociedade.”
+A presidenta do IBGE de Bolsonaro justificou, nesta sexta-feira (4): “Os
+ajustes do questionário visaram à qualidade e a cobertura. Sete minutos para
+quatro minutos faz diferença, sim, em um universo de 70 milhões de
+domicílios”, disse Susana Guerra.
+Segundo Luanda Botelho, o item aluguel, que é fundamental para entender a
+estrutura das famílias e suas necessidades, foi retirado da pesquisa do censo
+sem justificativa aceitável. “Você está falando de informações importantes
+para estabelecer políticas públicas. O valor do aluguel em média demora três
+segundos. Mesmo assim foi cortado.”
+“Eles não têm nenhum senso de realidade”, afirmou Belluzzo”2.
+
+Em meio a debate sobre Censo, IBGE exonera diretor responsável por
+pesquisas
+Nova presidente do instituto recebeu missão de cortar o orçamento do
+Censo”3
+
+Além da agressão ao texto constitucional, o Presidente da
+
+República atenta contra a razoabilidade, na medida em que busca, com esta Medida
+
+2 https://www.redebrasilatual.com.br/cidadania/2019/07/com-desconstrucao-do-censo-2020-bolsonaro-tenta-encobrir-
+fracassos-de-seu-governo/
+3 https://www1.folha.uol.com.br/mercado/2019/05/em-meio-a-debate-sobre-censo-ibge-exonera-diretor-responsavel-por-
+pesquisas.shtml
+
+
+[[pagina 10 | nativo]]
+Provisória, beneficiar-se com o acesso a dados, que a Lei Geral de Proteção de
+
+Dados – Lei nº 13.709, de 14/08/2018, parcialmente em vigor, e que em menos de
+
+quatro (4) meses estará integralmente em vigor, estabelece limites.
+
+Exemplo relevante, que denota o abuso legislativo do
+
+Poder Executivo, envolvendo a Medida Provisória ora impugnada, consiste no
+
+disposto no inciso IV, do art. 7º, da Lei nº 13709/2018, segundo o qual:
+
+Art. 7º O tratamento de dados pessoais somente poderá ser realizado nas
+seguintes hipóteses:
+...
+IV - para a realização de estudos por órgão de pesquisa, garantida,
+sempre que possível, a anonimização dos dados pessoais;
+
+A preservação dos dados pessoais dos cidadãos, das
+
+cidadãs e das pessoas jurídicas, decorre da correta concepção normativa adotada
+
+pelos legisladores ordinários brasileiros, expressa na Lei nº 13.709/2018, no sentido
+
+de que a disponibilização ou o conhecimento de dados pessoais é possível mediante
+
+consentimento do titular das informações ou dos dados, ou nas hipóteses
+
+criteriosamente concebidas pelo Parlamento brasileiro, tendo como referência as
+
+experiências e convenções internacionais.
+
+Trata-se da solução normativa que se harmoniza com o
+
+texto constitucional.
+
+Diferente vem a ser a violenta determinação imposta na
+
+Medida Provisória ora impugnada, que concebeu grosseiro estratagema para se
+
+apossar e utilizar de dados pessoais de cidadãos e cidadãs, bem como pessoas
+
+jurídicas em funcionamento no Brasil.
+
+Importa observar, que sendo o grande propósito da
+
+Medida Provisória ora impugnada, o contido no seu art. 2º, em especial no seu caput,
+
+os demais dispositivos normativos da Medida Provisória nº 954/2020 por serem
+
+previsões normativas destinadas à viabilizar o comando contido no referido art. 2º,
+
+restam contaminadas da idêntica inconstitucionalidade, mesmo porque, sem os
+
+dados nele previstos, nenhum dos demais três (3) artigos da Medida Provisória, que
+
+
+
+[[pagina 11 | nativo]]
+disciplinam o modus operandi e a utilização dos dados cuja disponibilização se
+
+pretende de forma inconstitucional, tem razão de ser.
+
+V. A necessidade de concessão de medida cautelar para suspensão dos
+
+efeitos jurídicos da Medida Provisória nº 954/2020
+
+A grave relevância e urgência para a concessão de
+
+medida cautelar, para suspender os efeitos da medida provisória ora impugnada,
+
+decorre, do prazo exíguo, que a própria Medida Provisória 954 prevê, no § 3º do seu
+
+art. 2º, no sentido de que entre os dias 23/04/2020 e 29/04/2020, seja disponibilizada
+
+a “relação dos nomes, dos números de telefone e dos endereços de seus
+
+consumidores, pessoas físicas ou jurídicas” e até o dia 06/05/2020, para
+
+disponibilização de dados decorrentes de “solicitações subsequentes”.
+
+Com efeito, tendo sido efetivada a disponibilização dos
+
+dados pretendidos pelo Poder Executivo, a violação aos direitos e garantias
+
+individuais dos cidadãos, das cidadãs e das pessoas jurídicas no Brasil, estará
+
+irremediavelmente consumada, circunstância que evidencia o risco iminente e de
+
+difícil, para não se admitir impossível reparação, a justificar a concessão da medida
+
+cautelar ora requerida, para que seja determinada a suspensão dos efeitos jurídicos
+
+da Medida Provisória nº 954, de 17/04/2020.
+
+VI. Pedido
+
+Do exposto, o Autor requer:
+
+1. A concessão da medida cautelar, para que sejam suspensos os efeitos
+
+jurídicos da Medida Provisória nº 954, de 17/04/2020, independente da
+
+manifestação da autoridade de onde emanou o ato normativo ora impugnado,
+
+tendo em vista a excepcional urgência, decorrente dos prazos fixados no § 3º
+
+do art. 2º da Medida Provisória ora impugnada, conforme admitido no § 3º do
+
+art. 10, da Lei nº 9868/99, até o julgamento do mérito desta ação direta de
+
+inconstitucionalidade;
+
+
+
+[[pagina 12 | nativo]]
+2. Seja intimado o Presidente da República, para que possa apresentar as
+
+informações que considere adequadas em relação ao objeto da presente ação
+
+direta de inconstitucionalidade, nos termos do disposto no art. 6º da Lei nº
+
+9868/99;
+
+3. Em seguida, seja intimados o Advogado Geral da União e posteriormente o
+
+Procurador Geral da República, para que se manifestem, conforme previsto
+
+no art. 8º da Lei nº 9868/99;
+
+4. Que a Medida Provisória nº 954, de 17 de abril de 2020, seja declarada
+
+inconstitucional, nos termos expostos na presente Ação Direta de
+
+Inconstitucionalidade.
+
+Nestes termos,
+
+E. Deferimento.
+
+Brasília – DF, 21 de abril de 2020.
+
+Paulo Machado Guimarães
+
+OAB/DF nº 5.358
+
+
+

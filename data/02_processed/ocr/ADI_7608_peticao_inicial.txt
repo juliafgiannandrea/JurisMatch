@@ -1,0 +1,1212 @@
+[[pagina 1 | nativo]]
+
+Excelentíssimos Senhores Ministros
+Supremo Tribunal Federal
+Brasília - DF
+
+Assunto: DIREITO ADMINISTRATIVO E OUTRAS MATÉRIAS DE DIREITO
+PÚBLICO | CONTROLE DE CONSTITUCIONALIDADE (10645)1
+
+Ementa: Constitucional. ADI. Execução extrajudicial de crédito fiduciário com
+dispensa de notificação pessoal e busca e apreensão privadas. § 7º do artigo 8º-
+B, §§ 1º a 9º do artigo 8º-C, parte do 8º-D e partes do caput e parágrafo único do
+artigo 8º-E do Decreto-Lei 911/69, na redação do artigo 6º da Lei 14.711/2023.
+Execução extrajudicial de crédito hipotecário com desocupação privada. Inciso II
+do § 9º, § 12 e § 15 do artigo 9º da Lei 14.711/2023. Violação à dignidade da pessoa
+humana, à vida e à segurança, à proteção da intimidade, dos dados pessoais e da casa,
+ao direito fundamental de ser processado e sentenciado pela autoridade competente,
+à reserva da jurisdição, ao devido processo legal, contraditório e à ampla defesa, à
+função social da propriedade e dos contratos. Constituição da República, artigos: 1º,
+III; 5º, caput e incisos X, XI, XII, XXXV, LIII, LIV e LV; 170, III.
+
+FENASSOJAF – Associação Nacional dos Oficiais de Justiça Avaliadores Federais,
+entidade de classe de âmbito nacional fundada em 1998, representando associados de
+26 Estados, cadastrada no CNPJ nº 03.547.218/0001-59, com sede em Brasília-DF, no
+SDS – Bloco F e G –Conjunto Baracat, 2º andar, Sala 204, CEP 70.392-900, e
+AFOJEBRA - Associação Federal dos Oficiais de Justiça do Brasil, entidade de
+classe de âmbito nacional fundada em 2006, representando associados de 12 Estados,
+cadastrada no CNPJ nº 08.853.757/0001-30, com sede em Brasília-DF, no SBS QD 02,
+Bloco E nº 12, Sala 206, Asa Sul, CEP 70.070-120 por seus procuradores regularmente
+constituídos (mandatos inclusos), que recebem intimações e notificações em Brasília-
+DF, no SAUS, quadra 5, bloco N, salas 212 a 217, edifício OAB, CEP 70.070-913,
+telefone (61) 3223-0552, e-mail: publica@servidor.adv.br, com suporte nos artigos 102,
+I, “a”, e 103, IX, da Constituição da República de 19882, e no artigo 2º, IX, da Lei 9.868,
+de 19993, propõe AÇÃO DIRETA DE INCONSTITUCIONALIDADE com pedido
+de MEDIDA CAUTELAR, em razão da inconstitucionalidade dos § 7º do artigo 8º-B,
+
+1 Assunto de acordo com as Tabelas Processuais Unificadas do Poder Judiciário expedidas pelo Conselho Nacional
+de Justiça (Resolução nº 46, de 2007).
+2 Constituição da República: “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da
+Constituição, cabendo-lhe: I - processar e julgar, originariamente: a) a ação direta de inconstitucionalidade de lei
+ou ato normativo federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal;
+[...] Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade:
+(...) IX - confederação sindical ou entidade de classe de âmbito nacional.”
+3 Lei 9.868, de 1999: “Art. 2º Podem propor a ação direta de inconstitucionalidade: (...) IX - confederação sindical
+ou entidade de classe de âmbito nacional”
+1 de 25
+
+[[pagina 2 | nativo]]
+
+§§ 1º a 9º do artigo 8º-C, parte do 8º-D e partes do caput e parágrafo único do artigo 8º-
+E do Decreto-Lei 911/69 (ato normativo anexado), na redação do artigo 6º da Lei
+14.711/2023, e dos inciso II do § 9º, § 12 e § 15 do artigo 9º da Lei 14.711/2023 (ato
+normativo anexado).
+
+Em respeito aos pressupostos da ação direta de inconstitucionalidade,
+os fundamentos subsequentes foram divididos entre: (1) conhecimento, onde se dá a
+demonstração da legitimidade ativa, da pertinência temática a e da presença em pelo
+menos 9 Estados da Federação; (2) regras impugnadas, com a descrição dos artigos,
+parágrafos e incisos impugnados; (3) inconstitucionalidades, momento em que são
+desdobradas as violações constitucionais das regras impugnadas.
+
+1 CONHECIMENTO
+
+As autoras, associações nacionais de oficiais de justiça federais e
+estaduais, agem contra a ruptura da jurisdição, entre outras violações constitucionais,
+promovida pelos § 7º do artigo 8º-B, §§ 1º a 9º do artigo 8º-C, parte do artigo 8º-D e
+partes do caput e parágrafo único do artigo 8º-E do Decreto-Lei 911/694, na redação do
+artigo 6º da Lei 14.711/2023, bem como do II do § 9º, § 12 e § 15 do artigo 9º da Lei
+14.711/20235.
+
+Tais regras permitem a execução extrajudicial das garantias fiduciárias
+e hipotecárias, inclusive com o uso da força, monitoramento e diligências sobre
+devedores, com busca e apreensão de bens e desocupação de imóvel, em uma espécie
+de justiça privada que afasta o Poder Judiciário das situações mais sensíveis ao
+cumprimento das decisões judiciais.
+
+As duas entidades do polo ativo desta ADI (FENASSOJAF e
+AFOJEBRA) representam, respectivamente, os maiores números de associados oficiais
+de justiça federais e estaduais do País. Investidos na fé pública, integram o sistema
+processual, com a missão de cumprir ordens judiciais; entre elas, as mais complexas:
+busca e apreensão de bens e desocupação de imóveis na execução de créditos garantidos
+por fidúcia ou hipoteca, onde o atrito entre credor e devedor atinge seu pico. Tais
+associações nacionais têm, entre suas prerrogativas estatutárias, não apenas a defesa das
+atribuições dos seus associados, mas também a contribuição para o aprimoramento da
+Justiça e do acesso a ela pelo cidadão, inclusive por meio de ações diretas por
+inconstitucionalidade de lei.
+
+4 Decreto-Lei nº 911, de 1969. Disponível em: https://www.planalto.gov.br/ccivil_03/Decreto-Lei/1965-
+1988/Del0911.htm. Acesso em: 5 mar. 2024.
+5 Lei 14.711, de 2023. Disponível em: https://www.planalto.gov.br/ccivil_03/_ato2023-
+2026/2023/Lei/L14711.htm. Acesso em: 5 mar. 2024.
+2 de 25
+
+[[pagina 3 | nativo]]
+
+O inciso IX do artigo 103 da Constituição da República assegura
+legitimidade às entidades de classe de âmbito nacional. O Supremo Tribunal Federal
+complementa o requisito com a exigência de pertinência temática e espacialidade
+suficiente (mínimo de associados em 9 Estados da Federação).
+
+A presente ação tem por campos temáticos a dignidade da pessoa
+humana (1º, III), a vida e a segurança (5º, caput), a proteção da intimidade (5º, X), a
+inviolabilidade residencial (5º, XI), o sigilo dos dados (5º XII), o acesso à justiça,
+conectado aos direitos fundamentais da inafastabilidade da jurisdição (5º, XXXV), do
+processo e julgamento por autoridade competente (5º, LIII), do devido processo legal
+(5º, LIV), do contraditório e da ampla defesa (5º, LV) da propriedade (5º, caput e inciso
+XXI), bem como ao princípio da função social da propriedade e dos contratos (170, III),
+todos da Constituição de 1988.
+
+Há vários legitimados para a discussão da inconstitucionalidade de
+regras da Lei 14.711/2023; nesse caso em especial, um legitimado não exclui o outro,
+mas complementam-se.
+
+Assim como determinada entidade de classe de âmbito nacional, a
+exemplo da AMB (ADI 7061), apresenta um enfoque que parte da posição do
+magistrado, as autoras representam servidores que atuam no cumprimento dos
+mandados e atos processuais de natureza externa, entre eles os mais complexos, como
+busca e apreensão e desocupação de imóvel. Embora concentrem seus argumentos em
+violações constitucionais, enriquecem a fundamentação com um conjunto de
+ponderações sobre o que ocorre no momento da entrega da jurisdição, revelando os
+riscos da justiça privada, conceito incompatível com o Estado Democrático de Direito.
+
+A autora FENASSOJAF é entidade associativa nacional (não sindical)
+constituída em 1998 (comprovante de regularidade cadastral no CNPJ anexado),
+congrega servidores de 26 Estados (conforme lista de associados anexada) e representa
+os oficiais de justiça avaliadores federais, tendo, entre seus objetivos (estatuto anexado):
+
+Art. 2º- A FENASSOJAF tem por objetivos permanentes a representação, a defesa
+dos direitos, a promoção dos interesses socioeconômicos e profissionais dos
+integrantes da classe e a defesa das reivindicações de seus associados, junto a
+quaisquer entes de direito público ou privado, inclusive como representante
+processual e tem por finalidade: [...]
+
+IX- Defender o cumprimento da Constituição da República Federativa do Brasil, das
+Leis, do seu Estatuto, dos princípios da moralidade, legalidade, impessoalidade,
+razoabilidade, eficiência e transparência administrativas, arguindo
+inconstitucionalidades e ilegalidades sempre que necessário; [...]
+
+XI- Promover a representação e a defesa judicial e extrajudicial dos direitos e
+interesses difusos, coletivos e individuais homogêneos dos Oficiais de Justiça
+
+3 de 25
+
+[[pagina 4 | nativo]]
+
+Avaliadores Federais, ativos ou inativos, e de seus pensionistas, podendo, para tanto,
+ajuizar mandado de segurança individual ou coletivo, mandado de injunção, ação
+direta de inconstitucionalidade e outras medidas, independentemente de autorização
+assemblear;
+
+A AFOJEBRA, fundada em 2006 (comprovante de regularidade
+cadastral do CNPJ anexado), entidade de classe nacional (não sindical), representa
+entidades associativas de oficiais de justiça estaduais de 12 Estados, conforme lista
+anexada) e, entre seus objetivos, contempla (estatuto anexado):
+
+An. 3° - São objetivos da AFOJEBRA:
+I. Defender o cumprimento da Constituição da República Federativa do Brasil de
+1988, as legislações infraconstitucionais, a Declaração Universal dos Direitos do
+Homem, as Convenções e Tratados Internacionais e os princípios da moralidade,
+legalidade, impessoalidade, publicidade. eficiência, razoabilidade e transparência
+administrativa, arguindo inconstitucionalidade e ilegalidade quando necessária;
+
+IV Representar Judicial e Extrajudicialmente os interesses individuais e coletivos
+dos Oficiais de Justiça e das entidades filiadas;
+
+A vinculação do tema desta ação direta com as finalidades estatutárias
+e de classe dos oficiais de justiça federais e estaduais é manifesta, assim como seu
+interesse em evitar que a desjudicialização presente na Lei 14.711/2023 e nas inserções
+que promove no Decreto-Lei 911/1969 leve ao arbítrio, onde atos do Estado-juiz e seus
+agentes são substituídos por atos de empresas privadas, que exigem lucro operacional.
+
+Logo, as autoras preenchem os requisitos de admissibilidade para
+controle concentrado das regras impugnadas.
+
+2 REGRAS IMPUGNADAS
+
+Os dispositivos, tidos por inconstitucionais nesta ação, partiram do
+Projeto de Lei nº 4.188, de 2021 (vulgarmente nominado de marco das garantias dos
+credores) que, entre outros institutos jurídico-processuais, prevê o procedimento de
+busca e apreensão extrajudicial de bens móveis e desocupação extrajudicial de bens
+imóveis.
+
+Após sua aprovação nas duas casas do Congresso Nacional, teve partes
+vetadas pelo Presidente da República (Mensagem nº 560, anexada) e resultou na Lei
+14.711/2023. Do veto, merecem destaque os trechos seguintes:
+
+Ouvido, o Ministério da Justiça e Segurança Pública manifestou-se
+pelo veto aos seguintes dispositivos do Projetode Lei:
+Art. 6º do Projeto de Lei, na parte em que altera o § 1º, § 2º, § 3º,
+
+4 de 25
+
+[[pagina 5 | nativo]]
+
+§ 4º, § 5º, § 6º, § 7º, § 8º, § 9º, § 10 e § 11 do art. 8º-C do Decreto-Lei
+nº 911, de 1º de outubro de 1969.
+[...]
+Razões dos vetos
+“[...]
+Em que pese a boa intenção do legislador, a proposição legislativa
+incorre em vício de inconstitucionalidade, visto que os dispositivos, ao
+criarem uma modalidade extrajudicial de busca e apreensão do bem
+móvel alienado fiduciariamente em garantia, acabaria por permitir a
+realização dessa medida coercitiva pelos tabelionatos de registro de
+títulos e documentos, sem que haja ordem judicial para tanto, o que
+violaria a cláusula de reserva de jurisdição e, ainda, poderia criar risco
+a direitos e garantias individuais, como os direitos ao devido processo
+legal e à inviolabilidade de domicílio, consagrados nos incisos XI e LIV
+do caput do art. 5º da Constituição.
+Registre-se que, ao julgar a Ação Direta de Inconstitucionalidade nº
+1.668/DF, o Plenário do Supremo Tribunal Federal - STF) decidiu que
+a busca e posterior apreensão, efetuada pela Agência Nacional de
+Telecomunicações sem ordem judicial, com fundamento apenas no
+poder de polícia do qual a agência reguladora é investida, ofende a
+inviolabilidade domiciliar do inciso XI do caput do artigo 5º da
+Constituição. Além disso, no julgamento da Ação Direta de
+Inconstitucionalidade nº 5.886/DF, o Plenário da Suprema Corte
+entendeu que a decretação de indisponibilidade na via administrativa é
+inconstitucional, por se tratar de forte intervenção no direito de
+propriedade, de forma que dever ser respeitada a cláusula de reserva de
+jurisdição. Por fim, ao julgar, em 25 e 26 de outubro de 2023, o Recurso
+Extraordinário nº 860.631/SP, com repercussão geral reconhecida
+(Tema 982), o Plenário do STF considerou constitucional o
+procedimento de execução extrajudicial da alienação fiduciária de bens
+imóveis em garantia, porém consignou que, se o devedor fiduciante
+permanecer no bem imóvel após a consolidação da propriedade, será
+necessário o ajuizamento de ação de reintegração de posse para
+conseguir a desocupação do bem imóvel.
+A inovação pretendida também oferece risco à estabilidade das
+relações entre particulares ao relativizar direitos e garantias individuais,
+independentemente de decisão judicial.”
+Ouvida, a Casa Civil da Presidência da República manifestou-se pelo
+veto ao seguinte dispositivo do Projeto deLei:
+Art. 6º do Projeto de Lei, na parte em que altera o parágrafo
+único do art. 8º-E do Decreto-Lei nº 911, de 1ºde outubro de 1969.
+[...]
+Razões do veto
+
+5 de 25
+
+[[pagina 6 | nativo]]
+
+“A proposição legislativa estabelece que, na hipótese de o credor
+exercer a faculdade de que trata o caput do art.8º-E do Decreto-Lei nº
+911, de 1º de outubro de 1969, as empresas previstas no parágrafo único
+do art. 129-B da Lei nº9.503, de 23 de setembro de 1997 - Código de
+Trânsito Brasileiro, praticariam os atos de processamento da execução,
+inclusive os atos de que trata o § 2º do art. 8º-C do Decreto-Lei nº 911,
+de 1º de outubro de 1969.
+O veto por arrastamento ao parágrafo único do art. 8º-E, a ser
+incluído no Decreto-Lei nº 911, 1º de outubro de1969, é medida que se
+impõe, tendo em vista que o dispositivo faz remissão direta ao § 2º do
+art. 8º-C, que também é objeto de veto.”
+
+Tais aspectos, observados no veto presidencial posteriormente rejeitado
+pelo Congresso Nacional, diante da forte pressão das entidades representativas de
+cartórios de registro privatizados, decorrem de normas que, a pretexto de fixarem o
+marco das garantias, ultrapassam os Temas 249 e 982 do Supremo Tribunal Federal,
+para instituir procedimentos (busca e apreensão e desocupação forçadas) que não foram
+por eles autorizados.
+
+A percepção da regras inconstitucionais restará evidente no decorrer nas
+próximas subseções des ação, onde são reproduzidas, associadas ao capítulo sobre as
+inconstitucionalidades, onde são conjugadas com o fundamento republicano da
+dignidade da pessoa humana, os direitos fundamentais e os princípios da ordem
+econômica fixados na Constituição Federal de 1988.
+
+2.1 Sobre o § 7º do artigo 8º-B do Decreto-Lei nº 911, de 1969
+
+O artigo 8-B do Decreto-Lei nº 911/1969, inserido pelo artigo 6º da Lei
+14.711, de 2023, estabelece o procedimento extrajudicial de consolidação da
+propriedade fiduciária, com a redação seguinte:
+
+“Art. 8º-B Desde que haja previsão expressa no contrato em cláusula em destaque
+e após comprovação da mora na forma do § 2º do art. 2º deste Decreto-Lei, é
+facultado ao credor promover a consolidação da propriedade perante o competente
+cartório de registro de títulos e documentos no lugar do procedimento judicial a que
+se referem os arts. 3º, 4º, 5º e 6º deste Decreto-Lei.
+§ 1º É competente o cartório de registro de títulos e documentos do domicílio do
+devedor ou da localização do bem da celebração do contrato.
+§ 2º Vencida e não paga a dívida, o oficial de registro de títulos e documentos, a
+requerimento do credor fiduciário acompanhado da comprovação da mora na forma
+do § 2º do art. 2º deste Decreto-Lei, notificará o devedor fiduciário para:
+I - pagar voluntariamente a dívida no prazo de 20 (vinte) dias, sob pena de
+consolidação da propriedade;
+II - apresentar, se for o caso, documentos comprobatórios de que a cobrança é
+total ou parcialmente indevida.
+
+6 de 25
+
+[[pagina 7 | nativo]]
+
+§ 3º O oficial avaliará os documentos apresentados na forma do inciso II do § 2º
+deste artigo e, na hipótese de constatar o direito do devedor, deverá abster-se de
+prosseguir no procedimento.
+§ 4º Na hipótese de o devedor alegar que a cobrança é parcialmente indevida,
+caber-lhe-á declarar o valor que entender correto e pagá-lo dentro do prazo indicado
+no inciso I do § 2º deste artigo.
+§ 5º É assegurado ao credor optar pelo procedimento judicial para cobrar a dívida
+ou o saldo remanescente na hipótese de frustração total ou parcial do procedimento
+extrajudicial.
+§ 6º A notificação, a cargo do oficial de registro de títulos e documentos, será
+feita preferencialmente por meio eletrônico, a ser enviada ao endereço eletrônico
+indicado em contrato pelo devedor fiduciário.
+§ 7º A ausência de confirmação do recebimento da notificação eletrônica em até
+3 (três) dias úteis, contados do recebimento, implicará a realização da notificação
+postal, com aviso de recebimento, a cargo do oficial de registro de títulos e
+documentos, ao endereço indicado em contrato pelo devedor fiduciário, não
+exigido que a assinatura constante do aviso de recebimento
+seja a do próprio destinatário, desde que o endereço seja o indicado no
+cadastro.
+§ 8º Paga a dívida, ficará convalescido o contrato de alienação fiduciária em
+garantia.
+§ 9º Não paga a dívida, o oficial averbará a consolidação da propriedade fiduciária
+ou, no caso de bens cuja alienação fiduciária tenha sido registrada apenas em outro
+órgão, o oficial comunicará a este para a devida averbação.
+§ 10. A comunicação de que trata o § 6º deste artigo deverá ocorrer conforme
+convênio das serventias, ainda que por meio de suas entidades representativas, com
+os competentes órgãos registrais.
+§ 11. Na hipótese de não pagamento voluntário da dívida no prazo legal, é dever
+do devedor, no mesmo prazo e com a devida ciência do cartório de registro de títulos
+e documentos, entregar ou disponibilizar voluntariamente a coisa ao credor para a
+venda extrajudicial na forma do art. 8º-C deste Decreto-Lei, sob pena de sujeitar-se
+a multa de 5% (cinco por cento) do valor da dívida, respeitado o direito do devedor
+a recibo escrito por parte do credor.
+§ 12. No valor total da dívida, poderão ser incluídos os valores dos emolumentos,
+das despesas postais e das despesas com remoção da coisa na hipótese de o devedor
+tê-la disponibilizado em vez de tê-la entregado voluntariamente.
+§ 13. A notificação deverá conter, no mínimo, as seguintes informações:
+I - cópia do contrato referente à dívida;
+II - valor total da dívida de acordo com a possível data de pagamento;
+III - planilha com detalhamento da evolução da dívida;
+IV - boleto bancário, dados bancários ou outra indicação de meio de pagamento,
+inclusive a faculdade de pagamento direto no competente cartório de registro de
+títulos e documentos;
+V - dados do credor, especialmente nome, número de inscrição no Cadastro de
+Pessoas Físicas (CPF) ou no Cadastro Nacional da Pessoa Jurídica (CNPJ), telefone
+e outros canais de contato;
+VI - forma de entrega ou disponibilização voluntárias do bem no caso de
+inadimplemento;
+VII - advertências referentes ao disposto nos §§ 2º, 4º, 8º e 10 deste artigo.”
+
+7 de 25
+
+[[pagina 8 | nativo]]
+
+Do conjunto, deve-se destacar o §7º, porque permite notificação pela
+via postal com recebimento por qualquer pessoa (ao contrário do que ocorre na via
+judicial, onde a citação deve se dar na pessoa do devedor).
+
+2.2 Sobre os §§ 1º a 9º do artigo 8º-C do Decreto-Lei nº 911, de 1969
+
+No artigo 8º-C do Decreto-Lei nº 911/1969, também adicionado pelo
+artigo 6º da Lei 14.711, de 2023, estão previstas as etapas de venda e, de extrema
+gravidade, a busca e apreensão privada do bem alineado fiduciariamente, da seguinte
+forma:
+
+“Art. 8º-C Consolidada a propriedade, o credor poderá vender o bem na forma do
+art. 2º deste Decreto-Lei.
+§ 1º Caso o bem não tenha sido entregue ou disponibilizado voluntariamente no
+prazo legal, o credor poderá requerer ao oficial de registro de
+títulos e documentos a busca e apreensão extrajudicial, com
+apresentação do valor atualizado da dívida e da planilha prevista no inciso III do §
+13 do art. 8º-B deste Decreto-Lei.
+§ 2º Recebido o requerimento, como forma de viabilizar a busca e apreensão
+extrajudicial, o oficial adotará as seguintes providências:
+I - lançará, no caso de veículos, restrição de circulação e de
+transferência do bem no sistema de que trata o § 9º do art. 3º
+deste Decreto-Lei;
+II – comunicará, se for o caso, aos órgãos registrais competentes para
+averbação da indisponibilidade do bem e da busca e apreensão
+extrajudicial;
+III - lançará a busca e apreensão extrajudicial na plataforma
+eletrônica mantida pelos cartórios de registro de títulos e
+documentos por meio de suas entidades representativas, com base no art. 37 da
+Lei nº 11.977, de 7 de julho de 2009; e
+IV - expedirá certidão de busca e apreensão extrajudicial do bem.
+§ 3º Para facilitar a realização das providências de que tratam os incisos I e II do
+§ 2º deste artigo, os órgãos de trânsito e outros órgãos de registro
+poderão manter convênios com os cartórios de registro de
+títulos e documentos, ainda que por meio das suas entidades representativas
+incumbidas de promover o sistema de registro eletrônico de que trata o art. 37 da Lei
+nº 11.977, de 7 de julho de 2009.
+§ 4º O credor, por si ou por terceiros mandatários, poderá
+realizar diligências para a localização dos bens.
+§ 5º Os terceiros mandatários de que trata o § 4º deste artigo
+poderão ser empresas especializadas na localização de bens.
+§ 6º Ato do Poder Executivo poderá definir requisitos mínimos para o
+
+8 de 25
+
+[[pagina 9 | nativo]]
+
+funcionamento de empresas especializadas na localização de bens constituídas para
+os fins deste Decreto-Lei.
+§ 7º Apreendido o bem pelo oficial da serventia extrajudicial,
+o credor poderá promover a venda de que trata o caput deste artigo e deverá
+comunicá-la ao oficial de cartório de registro de títulos e documentos, o qual adotará
+as seguintes providências:
+I - cancelará os lançamentos e as comunicações de que trata o § 2º deste artigo;
+II - averbará no registro pertinente ou, no caso de bens cuja alienação fiduciária
+tenha sido registrada apenas em outro órgão, comunicará a este para a devida
+averbação.
+§ 8º O credor fiduciário somente será obrigado por encargos tributários ou
+administrativos vinculados ao bem a partir da aquisição da posse plena, o que se dará
+com a apreensão do bem ou com a sua entrega voluntária.
+§ 9º No prazo de 5 (cinco) dias úteis após a apreensão do bem, o devedor
+fiduciante terá o direito de pagar a integralidade da dívida pendente, segundo os
+valores apresentados pelo credor fiduciário no seu requerimento, hipótese na qual
+será cancelada a consolidação da propriedade e restituída a posse plena do bem.
+§ 10. No valor da dívida, o credor poderá incluir os valores com emolumentos e
+despesas com as providências do procedimento previsto neste artigo e no art. 8º-B
+deste Decreto-Lei, além dos tributos e demais encargos pactuados no contrato.
+§ 11. O procedimento extrajudicial não impedirá o uso do processo judicial pelo
+devedor fiduciante.
+
+Dessa regra, são impugnados os dispositivos que permitem busca e
+apreensão privada, o uso dos registros públicos e a realização de coleta de dados e
+diligências privadas.
+
+Note-se que, após a consolidação da propriedade prevista no artigo 8º-
+B, o caput do 8º-C avança para a venda extrajudicial, providência prevista no artigo 2º
+do Decreto-Lei 911/69 (redação da Lei 13.043/2014). Porém, agora (8º-C, §1º) o oficial
+de registro de títulos e documentos, a requerimento do credor, pode determinar a busca
+e apreensão extrajudicial do bem, ordem que somente poderia partir de um juiz togado.
+
+Nesse caminho, no caso de veículo, o oficial de registro deve (§ 2º, I a
+IV) lançar a restrição de circulação/transferência e a ordem de busca/apreensão
+diretamente no sistema RENAVAM (ou determinar ao órgão de trânsito competente que
+efetue tais registros), bem como lançar a busca e apreensão na plataforma dos cartórios
+de registro de títulos e documentos, expedindo a certidão correspondente (que será usada
+por uma empresa privada de busca e apreensão para retirar o bem da posse do suposto
+devedor). Para facilitar a empreitada, (§ 3º) os sistemas de registros públicos poderão
+ser integrados pelos cartórios.
+
+Não suficiente, (§§ 4º e 5º) o credor, seus representantes ou empresas
+especializadas poderão efetuar diligências (e coletar dados sensíveis) para localização
+do bem. Tais empresas privadas (§ 6º) poderão ser reguladas por ato do Poder Executivo.
+
+9 de 25
+
+[[pagina 10 | nativo]]
+
+Realizada a busca e apreensão (§7º a 9º), o credor poderá vender o bem.
+O instituto da busca e apreensão no contexto privado, diferentemente do que até então
+se tinha por execução extrajudicial, não pode ser aceito.
+
+2.3 Sobre o artigo 8º-D do Decreto-Lei nº 911, de 1969
+
+O artigo 8º-D tem a redação seguinte:
+
+“Art. 8º-D No caso de a cobrança extrajudicial realizada na forma dos arts. 8º-B
+e 8º-C deste Decreto-Lei ser considerada indevida, o credor fiduciário sujeitar-se-
+á à multa e ao dever de indenizar de que tratam os §§ 6º e 7º do art. 3º deste Decreto-
+Lei.”
+
+Da previsão, a remissão ao artigo 8º-C inclui a busca e apreensão
+privada, motivo pelo qual é impugnada.
+
+2.4 Sobre o artigo 8º-E do Decreto-Lei nº 911, de 1969
+
+Em uma alternativa de competência para o afastamento da jurisdição,
+quando a cobrança envolve veículo automotor, o artigo 8º-E permite o processamento
+da execução extrajudicial pelos órgãos ou entidades executivos de trânsito dos Estados
+e do Distrito Federal:
+
+“Art. 8º-E Quando se tratar de veículos automotores, é facultado ao credor,
+alternativamente, promover os procedimentos de execução extrajudicial a que se
+referem os arts. 8º-B e 8º-C desta Lei perante os órgãos executivos de trânsito dos
+Estados, em observância às competências previstas no § 1º do art. 1.361 da Lei nº
+10.406, de 10 de janeiro de 2002 (Código Civil).
+Parágrafo único. Na hipótese de o credor exercer a faculdade de que trata
+o caput deste artigo, as empresas previstas no parágrafo único do art. 129-B da Lei
+nº 9.503, de 23 de setembro de 1997 (Código de Trânsito Brasileiro), praticarão os
+atos de processamento da execução, inclusive os atos de que trata o § 2º
+do art. 8º-C desta Lei.
+
+Novamente, a busca e apreensão é permitida, sem ordem judicial, pelo
+que são impugnadas a remissão do caput ao 8º-C e a parte final do parágrafo único do
+mesmo artigo, ao se referir aos atos de que trata o § 2º do artigo 8º-C.
+
+2.5 Sobre o inciso II do § 9º, § 12 e § 15 do artigo 9º da Lei 14.711, de 2023
+
+Ampliando o rol da execução extrajudicial das garantias, o artigo 9º da
+Lei 14.711, de 2023, aplica o procedimento para créditos garantidos por hipoteca, assim:
+
+CAPÍTULO III
+
+10 de 25
+
+[[pagina 11 | nativo]]
+
+DA EXECUÇÃO EXTRAJUDICIAL DOS CRÉDITOS GARANTIDOS POR
+HIPOTECA
+Art. 9º Os créditos garantidos por hipoteca poderão ser executados
+extrajudicialmente na forma prevista neste artigo.
+§ 1º Vencida e não paga a dívida hipotecária, no todo ou em parte, o devedor e,
+se for o caso, o terceiro hipotecante ou seus representantes legais ou procuradores
+regularmente constituídos serão intimados pessoalmente, a requerimento do credor
+ou do seu cessionário, pelo oficial do registro de imóveis da situação do imóvel
+hipotecado, para purgação da mora no prazo de 15 (quinze) dias, observado o
+disposto no art. 26 da Lei nº 9.514, de 20 de novembro de 1997, no que couber.
+§ 2º A não purgação da mora no prazo estabelecido no § 1º deste artigo autoriza
+o início do procedimento de excussão extrajudicial da garantia hipotecária por meio
+de leilão público, e o fato será previamente averbado na matrícula do imóvel, a partir
+do pedido formulado pelo credor, nos 15 (quinze) dias seguintes ao término do prazo
+estabelecido para a purgação da mora.
+§ 3º No prazo de 60 (sessenta) dias, contado da averbação de que trata o § 2º deste
+artigo, o credor promoverá leilão público do imóvel hipotecado, que poderá ser
+realizado por meio eletrônico.
+§ 4º Para fins do disposto no § 3º deste artigo, as datas, os horários e os locais dos
+leilões serão comunicados ao devedor e, se for o caso, ao terceiro hipotecante por
+meio de correspondência dirigida aos endereços constantes do contrato ou
+posteriormente fornecidos, inclusive ao endereço eletrônico.
+§ 5º Na hipótese de o lance oferecido no primeiro leilão público não ser igual ou
+superior ao valor do imóvel estabelecido no contrato para fins de excussão ou ao
+valor de avaliação realizada pelo órgão público competente para cálculo do imposto
+sobre transmissão inter vivos, o que for maior, o segundo leilão será realizado nos
+15 (quinze) dias seguintes.
+§ 6º No segundo leilão, será aceito o maior lance oferecido, desde que seja igual
+ou superior ao valor integral da dívida garantida pela hipoteca, das despesas,
+inclusive emolumentos cartorários, dos prêmios de seguro, dos encargos legais,
+inclusive tributos, e das contribuições condominiais, podendo, caso não haja lance
+que alcance referido valor, ser aceito pelo credor hipotecário, a seu exclusivo critério,
+lance que corresponda a, pelo menos, metade do valor de avaliação do bem.
+§ 7º Antes de o bem ser alienado em leilão, é assegurado ao devedor ou, se for o
+caso, ao prestador da garantia hipotecária o direito de remir a execução, mediante o
+pagamento da totalidade da dívida, cujo valor será acrescido das despesas relativas
+ao procedimento de cobrança e leilões, autorizado o oficial de registro de imóveis a
+receber e a transferir as quantias correspondentes ao credor no prazo de 3 (três) dias.
+§ 8º Se o lance para arrematação do imóvel superar o valor da totalidade da dívida,
+acrescida das despesas previstas no § 7º deste artigo, a quantia excedente será
+entregue ao hipotecante no prazo de 15 (quinze) dias, contado da data da efetivação
+do pagamento do preço da arrematação.
+§ 9º Na hipótese de o lance oferecido no segundo leilão não ser igual ou superior
+ao referencial mínimo estabelecido no § 6º deste artigo para arrematação, o credor
+terá a faculdade de:
+I - apropriar-se do imóvel em pagamento da dívida, a qualquer tempo, pelo valor
+correspondente ao referencial mínimo devidamente atualizado, mediante
+requerimento ao oficial do registro de imóveis competente, que registrará os autos
+dos leilões negativos com a anotação da transmissão dominial em ato registral único,
+dispensadas, nessa hipótese, a ata notarial de especialização de que trata este artigo
+e a obrigação a que se refere o § 8º deste artigo; ou
+
+11 de 25
+
+[[pagina 12 | nativo]]
+
+II - realizar, no prazo de até 180 (cento e oitenta) dias, contado do último leilão,
+a venda direta do imóvel a terceiro, por valor não inferior ao referencial mínimo,
+dispensado novo leilão, hipótese em que o credor hipotecário ficará
+investido, por força desta Lei, de mandato irrevogável para
+representar o garantidor hipotecário, com poderes para
+transmitir domínio, direito, posse e ação, manifestar a
+responsabilidade do alienante pela evicção e imitir o
+adquirente na posse.
+§ 10. Nas operações de financiamento para a aquisição ou a construção de imóvel
+residencial do devedor, excetuadas aquelas compreendidas no sistema de consórcio,
+caso não seja suficiente o produto da excussão da garantia hipotecária para o
+pagamento da totalidade da dívida e das demais despesas previstas no § 7º deste
+artigo, o devedor ficará exonerado da responsabilidade pelo saldo remanescente,
+hipótese em que não se aplica o disposto no art. 1.430 da Lei nº 10.406, de 10 de
+janeiro de 2002 (Código Civil).
+§ 11. Concluído o procedimento e havendo lance vencedor, os autos do leilão e o
+processo de execução extrajudicial da hipoteca serão distribuídos a tabelião de notas
+com circunscrição delegada que abranja o local do imóvel para lavratura de ata
+notarial de arrematação, que conterá os dados da intimação do devedor e do
+garantidor e dos autos do leilão e constituirá título hábil de transmissão da
+propriedade ao arrematante a ser registrado na matrícula do imóvel.
+§ 12. Aplicam-se à execução hipotecária realizada na forma prevista neste artigo
+as disposições previstas para o caso de execução extrajudicial da alienação fiduciária
+em garantia sobre imóveis relativamente à desocupação do ocupante do imóvel
+excutido, mesmo se houver locação, e à obrigação do fiduciante em arcar com taxa
+de ocupação e com as despesas vinculadas ao imóvel até a desocupação, conforme
+os §§ 7º e 8º do art. 27 e os arts. 30 e 37-A da Lei nº 9.514, de 20 de novembro de
+1997, equiparada a data de consolidação da propriedade na execução da alienação
+fiduciária à data da expedição da ata notarial de arrematação ou, se for o caso, do
+registro da apropriação definitiva do bem pelo credor hipotecário no registro de
+imóveis.
+§ 13. A execução extrajudicial prevista no caput deste artigo não se aplica às
+operações de financiamento da atividade agropecuária.
+§ 14. Em quaisquer das hipóteses de arrematação, venda privada ou adjudicação,
+deverá ser previamente apresentado ao registro imobiliário o comprovante de
+pagamento do imposto sobre transmissão inter vivos e, se for o caso, do laudêmio.
+§ 15. O título constitutivo da hipoteca deverá conter, sem prejuízo dos requisitos
+de forma do art. 108 da Lei nº 10.406, de 10 de janeiro de 2002 (Código Civil), ou
+da lei especial, conforme o caso, como requisito de validade, expressa previsão do
+procedimento previsto neste artigo, com menção ao teor dos §§ 1º a 10
+deste artigo.
+
+Da regra, são impugnados nesta ação direta o inciso II do §9º, porque
+não há como conferir ao credor a posição de procurador irrevogável, considerando que
+procurações são imbuídas do poder de representação fruto da vontade do mandante.
+
+Na primeira metade do §12 do artigo 9º, a Lei 14.711/2023 estabelece
+
+12 de 25
+
+[[pagina 13 | nativo]]
+
+que as providencias aplicáveis à execução extrajudicial da garantia fiduciária podem ser
+aplicadas para a plena satisfação do credor hipotecário, inclusive para a desocupação do
+imóvel excutido, mesmo se houver locação. Ao que parece, empresas especializadas no
+uso da força/violência podem praticar os atos físicos necessários para retirar do imóvel
+a pessoa que lá esteja residindo, algo que não pode ser admitido.
+
+Além disso, os procedimentos impugnados acima se tornaram
+obrigatórios nos títulos de hipoteca, a partir da previsão do § 15 do artigo 9º, mediante
+menção ao teor dos §1º a 10 do artigo 9º, de modo que dessa obrigatoriedade devem ser
+retiradas as regras manifestamente inconstitucionais, constantes do inciso II do § 9º e do
+§ 12 do artigo 9º.
+
+3. INCONSTITUCIONALIDADES
+
+Conforme demonstrado no capítulo sobre as regras impugnadas desta
+ação direta, o sistema processual revelado pelos artigos 8º-B, 8º-C, 8º-D e 8º-E do
+Decreto-Lei 911/69, na redação do artigo 6º da Lei 14.711/2023, e pelo artigo 9º desta
+lei, tem por pressuposto o afastamento da função jurisdicional. No entanto, ele não se
+limita a repetir procedimentos admitidos no passado como constitucionais pelo Supremo
+Tribunal Federal (Temas 249 e 982).
+
+Com efeito, no bojo do Decreto-Lei 911/69 alterado, o § 7º do artigo
+8º-B, quando adota a comunicação postal (especialmente necessária para idosos e grupos
+vulneráveis), não exige notificação pessoal do devedor, enquanto os §§ 1º a 9º do
+artigo 8º-C disciplinam a ordem e a execução de busca e apreensão de bens, sob a
+titularidade de organizações privadas, onde o arbítrio e os riscos de violência são
+presumíveis. Para auxiliar no cumprimento particular de atos que, comumente, exigem
+o uso da força, autoriza-se a integração aos sistemas de registros públicos, a exemplo do
+RENAVAM, mediante lançamento direto de tais ordens e autorizações de busca e
+apreensão, entre outras restrições.
+
+Isso se repete na remissão ao mesmo modelo de procedimento (§12 do
+artigo 9º da Lei 14.711/2023) para a desocupação de imóveis, patrocinada por empresas
+privadas, na execução extrajudicial de créditos garantidos por hipoteca, onde se cria o
+mandato irrevogável (inciso II do § 9º) do devedor para o credor e se exige que o
+procedimento arbitrário conste do título hipotecário (§ 15).
+
+Tais previsões legais atentam contra um conjunto de pressupostos do
+Estado Democrático de Direito, contrariando o fundamento republicano da dignidade da
+pessoa humana (1º, III).
+
+As regras impugnadas rompem os direitos fundamentais da vida e
+
+13 de 25
+
+[[pagina 14 | nativo]]
+
+segurança (5º, caput), da proteção da intimidade (5º, X), da inviolabilidade residencial
+(5º, XI), do sigilo dos dados (5º XII), do acesso à justiça, compreendido pela
+inafastabilidade da jurisdição (5º, XXXV), pelo processo e julgamento por autoridade
+competente (5º, LIII), pelo devido processo legal (5º, LIV), pelo contraditório e pela
+ampla defesa (5º, LV).
+
+Se não fosse suficiente, o pretenso avanço no tratamento das garantias,
+que agora se estende para o tratamento físico dos corpos envolvidos no litígio (busca e
+apreensão e desocupação extrajudiciais), ignora por completo os princípios econômicos
+da existência digna e da função social da propriedade e dos contratos (170, III).
+
+A abordagem dessas violações consta dos subtópicos seguintes.
+
+3.1 Violação ao artigo 1º, inciso III
+
+Sob a roupagem da execução extrajudicial, pode-se usar a força para a
+consecução dos objetivos do credor, contrariando-se a dignidade da pessoa humana,
+fundamento republicano. O fundamento se relaciona intimamente com o direito
+fundamental à justiça (será visto adiante), também de envergadura constitucional.
+
+Nesse sentido, ressalte-se que não apenas o credor possui direitos, mas
+o devedor também os possui, inclusive na condição de inadimplente. A
+responsabilização patrimonial do devedor, no caso de inadimplência, deve se dar da
+maneira menos onerosa possível, preservando-lhe a garantia mínima à sobrevivência
+digna. Contudo, a Lei nº 14.711/2023 não possui mecanismos capazes de conter o
+arbítrio privado, garantindo o mínimo de direitos ao devedor/executado, ao final,
+tratando-se de verdadeiro retrocesso ao processo de execução.
+
+Larenz6 leciona que a obrigação corresponde a um vínculo que,
+juridicamente, impõe deveres recíprocos que transcendem a solvência. Essa noção, por
+exemplo, permeia a relação contratual ao ponto de projetar efeitos antes, durante e após
+a sua conformação.
+
+A evolução histórica do processo executivo, na tradição romanística
+aderida pelo sistema jurídico brasileiro, suplantou, justamente, o que a lei impugnada
+pretende reavivar: a justiça privada e a autotutela entre credor e devedor. Noutras
+palavras, o direito evoluiu não apenas para garantir a efetividade da execução, mas,
+igualmente, para proteger a dignidade do devedor.
+
+Relembre-se que, no passado, a solvência de uma obrigação poderia se
+dar pela objetificação (ou desumanização) da pessoa do devedor que, em caso de
+
+6 LARENZ, Karl. Derecho de obligaciones. Tradução de Jaime Santos Briz. Madrid: ERDP, 1958.
+14 de 25
+
+[[pagina 15 | nativo]]
+
+execução concursal, poderia ser esquartejado pelos credores (notadamente, tratando-se
+de execução, no sentido capital dessa palavra). Nesse processo evolutivo, mesmo
+quando a responsabilização passou a recair sobre o patrimônio do devedor, a execução
+precisou ser limitada apenas ao necessário para sua quitação, dado que, inicialmente,
+poderia recair sobre todo o patrimônio da pessoa inadimplente.
+
+Para o Supremo Tribunal Federal, em contextos atentatórios à
+dignidade da pessoa humana:
+
+Lei 3.528 de 2019 do estado do Tocantins. Cadastro estadual de usuários e
+dependentes de drogas. (...) Materialmente (...) há inconstitucionalidade. A
+seletividade social do cadastro é incompatível com o Estado de Direito e os direitos
+fundamentais que a Constituição de 1988 protege, especialmente, a igualdade
+(CRFB, art. 5º, caput), a dignidade da pessoa humana (CRFB, art. 1º, III), o direito
+à intimidade e à vida privada (CRFB, art. 5º, X) e o devido processo legal (CRFB,
+art. 5º, LIV). Inexistência tampouco de protocolo claro de proteção e tratamento
+desses dados.
+[ADI 6.561, rel. min. Edson Fachin, j. 4-9-2023, P, DJE de 3-11-2023.]
+
+Não apenas o Estado haverá de ser convocado para formular as políticas públicas
+que podem conduzir ao bem-estar, à igualdade e à justiça, mas a sociedade haverá
+de se organizar segundo aqueles valores, a fim de que se firme como uma
+comunidade fraterna, pluralista e sem preconceitos (...). E, referindo-se,
+expressamente, ao Preâmbulo da Constituição brasileira de 1988, escolia José
+Afonso da Silva que "O Estado Democrático de Direito destina-se a assegurar o
+exercício de determinados valores supremos. ‘Assegurar’, tem, no contexto,
+função de garantia dogmático-constitucional; não, porém, de garantia dos
+valores abstratamente considerados, mas do seu ‘exercício’. Este signo
+desempenha, aí, função pragmática, porque, com o objetivo de ‘assegurar’, tem o
+efeito imediato de prescrever ao Estado uma ação em favor da efetiva realização dos
+ditos valores em direção (função diretiva) de destinatários das normas
+constitucionais que dão a esses valores conteúdo específico" (...). Na esteira destes
+valores supremos explicitados no Preâmbulo da Constituição brasileira de 1988 é
+que se afirma, nas normas constitucionais vigentes, o princípio jurídico da
+solidariedade.
+[ADI 2.649, voto da rel. min. Cármen Lúcia, j. 8-5-2008, P, DJE de 17-10-2008.]
+
+As normas impugnadas, especialmente quanto à possibilidade de
+aplicação de medidas executórias sob coerção, exercida privadamente, a pedido do
+credor, não garante que o devedor terá a preservação mínima de sua dignidade;
+conquanto esse predicado deve anteceder essa particularidade que confere à pessoa a
+condição – sempre temporária – de devedor.
+
+Por essa perspectiva, a dignidade da pessoa humana, como valor
+constitucional superlativo, deve acompanhar qualquer tipo de procedimento executivo,
+pois prepondera – ou deveria preponderar – sobre os interesses econômicos. Não por
+acaso, a Convenção Americana sobre Direitos Humanos, fez constar que: “Valores
+
+15 de 25
+
+[[pagina 16 | nativo]]
+
+como liberdade e dignidade do ser humano são superiores ao interesse econômico da
+cobrança” 7. E esta Corte Constitucional, considerando-a, editou a Súmula Vinculante
+nº 25, para reconhecer ilegítima a prisão civil do devedor, garantindo-lhe a liberdade e
+a dignidade humanas.
+
+Diante disso, ao permitirem busca e apreensão e desocupação privadas
+de bens, as regras impugnadas contrariam o artigo 1º, inciso III, da Constituição da
+República.
+
+3.2 Violação ao artigo 5º, caput e incisos X, XI, XII, XXXV, LIII, LIV e LV
+
+A Constituição Federal de 1988, em seu artigo 5º, caput e incisos X, XI,
+XII, XXXV, LIII, LIV e LV, estabelece direitos fundamentais relacionados à
+vida/segurança, à inviolabilidade da intimidade, da casa e dos dados, à inafastabilidade
+da jurisdição, ao processamento e sentença produzidos por autoridade competente, ao
+devido processo legal, ao contraditório e à ampla defesa, assim:
+
+Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza,
+garantindo-se aos brasileiros e aos estrangeiros residentes no País a inviolabilidade
+do direito à vida, à liberdade, à igualdade, à segurança e à propriedade, nos termos
+seguintes: [...]
+
+X - são invioláveis a intimidade, a vida privada, a honra e a imagem das pessoas,
+assegurado o direito a indenização pelo dano material ou moral decorrente de sua
+violação;
+
+XI - a casa é asilo inviolável do indivíduo, ninguém nela podendo penetrar sem
+consentimento do morador, salvo em caso de flagrante delito ou desastre, ou para
+prestar socorro, ou, durante o dia, por determinação judicial;
+
+XII - é inviolável o sigilo da correspondência e das comunicações telegráficas, de
+dados e das comunicações telefônicas, salvo, no último caso, por ordem judicial, nas
+hipóteses e na forma que a lei estabelecer para fins de investigação criminal ou
+instrução processual penal; [...]
+
+XXXV - a lei não excluirá da apreciação do Poder Judiciário lesão ou ameaça a
+direito; [...]
+
+LIII - ninguém será processado nem sentenciado senão pela autoridade
+competente;
+
+LIV - ninguém será privado da liberdade ou de seus bens sem o devido processo
+legal;
+
+7 MARQUES, Cláudia Lima; BENJAMIN, Herman e MIRAGEM, Bruno. Comentários ao Código de Defesa do
+Consumidor, 6ª edição, p. 1.164
+16 de 25
+
+[[pagina 17 | nativo]]
+
+LV - aos litigantes, em processo judicial ou administrativo, e aos acusados em geral
+são assegurados o contraditório e ampla defesa, com os meios e recursos a ela
+inerentes;
+
+A garantia constitucional da inviolabilidade do direito à vida e à
+segurança, inscrita no caput do artigo 5º, inclui a proteção contra a vingança privada e
+o exercício arbitrário das próprias razões.
+
+Ao direito à vida corresponde o dever do Estado em garantir a proteção
+da integridade física, moral e psicológica de qualquer cidadão. Trata-se de valor
+fundamental para a convivência em sociedade, porque permite a estabilidade
+civilizatória para o pleno exercício dos demais direitos e liberdades individuais, sem o
+que impera a barbárie.
+
+Não por acaso, o artigo 144 da Constituição lista os órgãos de segurança
+pública; neles não se encontram cartórios e empresas especializadas. Pelo contrário,
+mesmo os órgãos de segurança pública dependem de ordem judicial para busca e
+apreensão de bens ou desocupação de imóvel. Da mesma maneira, o oficial de justiça
+depende de mandado judicial para o cumprimento desse tipo de providência processual,
+normalmente com apoio policial. Em qualquer caso, tem-se a presença do Estado-juiz
+para legitimar procedimentos que, invariavelmente, geram resistência do possuidor do
+bem em litígio.
+
+No que se refere à segurança individual, por óbvio a Constituição
+assegura a inviolabilidade do domicílio, a liberdade de locomoção, a proteção à vida e
+à integridade física, entre outros direitos fundamentais. Essas proteções desaparecem
+quando credor, cartórios e empresas privadas recebem a titularidade para definir e
+executar o afastamento do suposto devedor da posse de seus bens.
+
+Em episódios recentes, o Supremo Tribunal Federal foi convocado para
+evitar o pior sobre a ideia de segurança privada:
+
+Os direitos à vida e à segurança são dotados não apenas de dimensão negativa,
+senão também de dimensão positiva, constituindo exigência de que o Estado
+construa políticas de segurança pública e controle da violência armada. [...]
+[ADI 6.446, rel. min. Edson Fachin, j. 3-7-2023, P, DJE de 5-9-2023.]
+
+Decretos Presidenciais que dispõem sobre aquisição, cadastro, registro, posse e porte
+de armas de fogo, acessórios e munições (Decretos nºs 10.627, 10.628, 10.629 e
+10.630, de 12 de fevereiro de 2021). Atos normativos editados com o propósito de
+promover a chamada “flexibilização das armas” no Brasil. (...) Inúmeros estudos,
+nacionais e internacionais, públicos e privados, apoiados por expressiva maioria da
+comunidade científica mundial, revelam uma inequívoca correlação entre a
+facilitação do acesso da população às armas de fogo e o desvio desses produtos para
+as organizações criminosas, milícias e criminosos em geral, por meio de furtos,
+
+17 de 25
+
+[[pagina 18 | nativo]]
+
+roubos ou comércio clandestino, aumentando ainda mais os índices gerais de delitos
+patrimoniais, de crimes violentos e de homicídios. A segurança pública é corolário
+do direito à vida. É a tutela prestada pelo Estado em favor da vida digna, livre
+do medo, livre dos atos de barbárie que revoltam a consciência da humanidade.
+O Estatuto do Desarmamento é o diploma legislativo que consubstancia os valores
+constitucionais concernentes à proteção da vida humana (CF, art. 5º, caput) e à
+promoção da segurança pública (CF, art. 144, caput) contra o terror e a mortalidade
+provocada pelo uso indevido das armas de fogo. (...) Os Decretos presidenciais
+impugnados, ao inovarem na ordem jurídica, fragilizaram o programa normativo
+estabelecido na Lei 10.826/2003, que inaugurou uma política de controle
+responsável de armas de fogo e munições no território nacional.
+[ADI 6.680 MC, rel. min. Rosa Weber, j. 3-7-2023, P, DJE de 5-9-2023.]
+
+Plano Nacional de Segurança Pública e Defesa Social 2021-2030. Retrocesso pela
+ausência de menção dos objetivos e ações estratégicas constantes no plano anterior.
+Ausência de indicadores para acompanhamento de feminicídios e mortes causadas
+por agentes da segurança pública. Ofensa aos arts. 5º, caput, e 144 da constituição
+da república e aos princípios da vedação ao retrocesso social e da proibição de
+proteção deficiente.
+[ADI 7.013, rel. min. Cármen Lúcia, j. 3-7-2023, P, DJE de 5-9-2023.]
+
+Se a cautela impõe limites nas hipóteses legitimadas por decisões
+judiciais e forças de segurança públicas, o direito à vida e à segurança proíbem a prática
+de qualquer ingerência física de um cidadão sobre o outro para obter benefício, ainda
+que em relação de igualdade. Em uma relação que projeta uma configuração de poder
+de suposto credor para suposto devedor, o resultado é a barbárie, seja porque força e
+violência serão adotadas ou porque, a depender de quem esteja envolvido, a resistência
+ampliará a violência.
+
+Em caso de remoção da posse, seja por busca e apreensão ou
+desocupação, não é possível maquiar o resultado. Oficiais de justiça se deparam com
+tais ocorrências diariamente, não raro com auxílio policial. Não há dúvida: se o
+enfrentamento for de particular para particular, sem a presença do Estado-juiz, espra-se
+o pior.
+
+Sobre a violação à intimidade e ao sigilo dos dados, quando se atribui
+ao credor e a empresas por ele escolhidas a possibilidade de realizar diligências para
+localização do devedor e de seus bens, permitindo-se a integração das pretensões
+executivas dos cartórios nos sistemas públicos, não há como preservar intimidade e
+dados pessoais.
+
+Nesse contexto, nem a registros públicos ou serviços de inteligência é
+permitido relativizar a proteção dos incisos X e XII do artigo 5º da Constituição. Em
+situações de risco de violação nas práticas administravas, o Supremo Tribunal Federal
+decidiu:
+
+18 de 25
+
+[[pagina 19 | nativo]]
+
+O tratamento de dados pessoais pelo Estado é essencial para a prestação de serviços
+públicos. Todavia, diferentemente do que assevera o ente público, a discussão sobre
+a privacidade nas relações com a Administração Estatal não deve partir de uma visão
+dicotômica que coloque o interesse público como bem jurídico a ser tutelado de
+forma totalmente distinta e em confronto com o valor constitucional da privacidade
+e proteção de dados pessoais. [...]. O acesso ao Cadastro Base do Cidadão deve
+observar mecanismos rigorosos de controle, condicionando o compartilhamento e
+tratamento dos dados pessoais à comprovação de propósitos legítimos, específicos e
+explícitos por parte dos órgãos e entidades do Poder Público. A inclusão de novos
+dados na base integradora e a escolha de bases temáticas que comporão o Cadastro
+Base do Cidadão devem ser precedidas de justificativas formais, prévias e
+minudentes, cabendo ainda a observância de medidas de segurança compatíveis com
+os princípios de proteção da Lei Geral de Proteção de Dados Pessoais, inclusive a
+criação de sistema eletrônico de registro de acesso, para fins de responsabilização
+em caso de abuso.
+[ADI 6.649 e ADPF 695, rel. min. Gilmar Mendes, j. 15-9-2022, P, DJE de 19-6-
+2023.]
+
+Conforme disposto no inciso XII do art. 5º da CF, a regra é a privacidade quanto à
+correspondência, às comunicações telegráficas, aos dados e às comunicações,
+ficando a exceção – a quebra do sigilo – submetida ao crivo de órgão equidistante
+– o Judiciário – e, mesmo assim, para efeito de investigação criminal ou instrução
+processual penal. [...] Conflita com a Carta da República norma legal atribuindo à
+Receita Federal – parte na relação jurídico-tributária – o afastamento do sigilo de
+dados relativos ao contribuinte.
+[RE 389.808, rel. min. Marco Aurélio, j. 15-12-2010, P, DJE de 10-5-2011.]
+
+Ainda mais grave é a percepção da ofensa à inviolabilidade do
+domicílio do devedor, considerando a possibilidade de cartórios de registro ordenarem
+e empresas privadas realizarem a busca, apreensão e desocupação previstas no Decreto-
+Lei 911/69 e na Lei 14.711/2023, a mando do credor. O cumprimento desse tipo de
+ordem exige que os agentes privados ingressem na residência do cidadão, rompendo
+eventuais resistências.
+
+A autorização para a providência de ingresso no domicílio do suposto
+devedor (e de qualquer pessoa) somente pode ser produzida em um processo judicial,
+não em uma execução extrajudicial. O Supremo Tribunal Federal é pedagógico a esse
+respeito:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. LEI GERAL DE
+TELECOMUNICAÇÕES. LEI 9.472/1997. [...] PODER NORMATIVO DAS
+AGÊNCIAS REGULATÓRIAS. SUBMISSÃO AO PRINCÍPIO DA
+LEGALIDADE. COMPETÊNCIA PARA REALIZAÇÃO DE BUSCA E
+APREENSÃO PELO ÓRGÃO REGULADOR. IMPOSSIBILIDADE. [...]
+AÇÃO DIRETA CONHECIDA EM PARTE E, NA PARTE CONHECIDA,
+JULGADA PARCIALMENTE PROCEDENTE. [...] 4. A busca e posterior
+apreensão, efetuada sem ordem judicial, com base apenas no poder de polícia de
+que é investida a agência, mostra-se inconstitucional diante da violação ao
+disposto no princípio da inviolabilidade de domicílio, à luz do art. 5º, XI, da
+19 de 25
+
+[[pagina 20 | nativo]]
+
+Constituição Federal. [...] 9. Ação direta conhecida em parte, e, na parte conhecida,
+julgada parcialmente procedente.
+[ADI 1668, Relator(a): EDSON FACHIN, Tribunal Pleno, julgado em 01-03-2021,
+PROCESSO ELETRÔNICO DJe-055 DIVULG 22-03-2021 PUBLIC 23-03-2021]
+
+A cláusula constitucional da reserva de jurisdição – que incide sobre
+determinadas matérias, como a busca domiciliar (CF, art. 5º, XI), a interceptação
+telefônica (CF, art. 5º, XII) e a decretação da prisão de qualquer pessoa, ressalvada
+a hipótese de flagrância (CF, art. 5º, LXI) – traduz a noção de que, nesses temas
+específicos, assiste ao Poder Judiciário, não apenas o direito de proferir a última
+palavra, mas, sobretudo, a prerrogativa de dizer, desde logo, a primeira
+palavra, excluindo-se, desse modo, por força e autoridade do que dispõe a própria
+Constituição, a possibilidade do exercício de iguais atribuições, por parte de
+quaisquer outros órgãos ou autoridades do Estado.
+[MS 23.452, rel. min. Celso de Mello, j. 16-9-1999, P, DJ de 12-5-2000.]
+
+Os julgados citados demonstram que os procedimentos autorizados,
+violam a reserva da jurisdição (5º, XXXV), direito fundamental que seria suficiente
+para a declaração da inconstitucionalidade das regras impugnadas.
+
+Não se trata, como ocorreu durante o julgamento dos Temas 249 e 982,
+de indagar se é constitucional a execução extrajudicial dos créditos decorrentes de
+garantias fiduciárias e hipotecárias. As novas regras extrapolam os limites dúbios sobre
+reserva da jurisdição e ocupam um lugar contrário ao artigo 5º, XXXV da Constituição,
+mesmo em uma visão de superfície.
+
+É evidente que na expressão [a lei não excluirá da apreciação do Poder
+Judiciário lesão ou ameaça a direito] reside, não como faculdade, mas como componente
+exclusivo, a busca/apreensão e a desocupação de bens, assim como qualquer providência
+que exija a ruptura física entre o devedor e bem sob sua posse. Para tanto, exige-se um
+agente da autoridade judicial, no cumprimento de uma ordem do Poder Judiciário.
+
+E por isso a situação do suposto devedor, diante das ordens de coerção
+física, deve ser lida no contexto do direito fundamental de ser processado e sentenciado
+pela autoridade competente (5º, LIII), qualificada no devido processo legal (5º, LIV)
+dessa natureza como devido processo legal judicial.
+
+Portanto, há violação ao devido processo legal quando se permite busca
+e apreensão ou desocupação por ordem e execução privadas, ou quando se permite ao
+credor a escolha pela rede extrajudicial e não se exige, sequer, notificação pessoal do
+executado (no caso da notificação postal), ao contrário do que determina o direito
+fundamental ao contraditório e à ampla defesa (5º, LV). Como se percebe do § 7º do
+artigo 8º-B, não é necessária a comunicação pessoal do suposto devedor, podendo ser
+assinada por qualquer pessoa.
+
+20 de 25
+
+[[pagina 21 | nativo]]
+
+3.3 Violação ao artigo 170, caput e inciso III
+
+O fundamento republicano da dignidade humana não representa mera
+abstração. O constituinte originário repete o direito à existência digna como princípio
+da ordem econômica, algo pouco visitado por credores fiduciários e hipotecários,
+embora operem sob a ordem constitucional brasileira. Nele, a propriedade privada
+convive com a função social da propriedade (e dos contratos), conforme prevê o caput
+e o inciso III do artigo 170 da Constituição:
+
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre
+iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da
+justiça social, observados os seguintes princípios: [...]
+
+III - função social da propriedade;
+
+Quando os atalhos da execução extrajudicial são ampliados, a cada
+alteração legislativa, em benefício dos credores, há correspondente retrocesso social. Ao
+Supremo Tribunal Federal cabe a difícil, mas necessária missão de equilibrar os valores
+em jogo.
+
+Nas regras impugnadas, institutos que permitem busca e apreensão,
+desocupação, inexigência de notificação pessoal do devedor e integração a sistemas e
+dados públicos não podem ser admitidos como atributos da propriedade privada. Violam
+a reserva da jurisdição e outros direitos fundamentais do artigo 5º da Constituição.
+Desrespeitam a dignidade da pessoa humana. Não menos importante, afastam a ordem
+econômica dos princípios que asseguram a todos existência digna, justiça social e função
+social da propriedade (e dos contratos).
+
+4. MEDIDA CAUTELAR
+
+A garantia de tutela jurisdicional tempestiva, nos termos do artigo 5º,
+LXXVIII, da Constituição da República, assegura a todos, no âmbito judicial ou
+administrativo, a razoável duração do processo e os meios que garantam a celeridade de
+sua tramitação. Só assim distribui-se o inevitável ônus do tempo do processo.
+
+Entre os meios que garantem a celeridade da tramitação processual está
+a concessão de medida cautelar para suspender a ilegítima eficácia dos dispositivos
+inconstitucionais, nos termos do artigo 10 da Lei 9.868, de 1999, assim redigido:
+
+Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida
+por decisão da maioria absoluta dos membros do Tribunal, observado o disposto no
+art. 22, após a audiência dos órgãos ou autoridades dos quais emanou a lei ou ato
+normativo impugnado, que deverão pronunciar-se no prazo de cinco dias.
+
+21 de 25
+
+[[pagina 22 | nativo]]
+
+§ 1º O relator, julgando indispensável, ouvirá o Advogado-Geral da União e o
+Procurador-Geral da República, no prazo de três dias.
+
+§ 2º No julgamento do pedido de medida cautelar, será facultada sustentação oral
+aos representantes judiciais do requerente e das autoridades ou órgãos responsáveis
+pela expedição do ato, na forma estabelecida no Regimento do Tribunal.
+
+§ 3º Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar
+sem a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato
+normativo impugnado.
+
+É o caso, pelos fundamentos postos até aqui, pois a relevância da
+matéria e seu especial significado para a ordem social e a segurança jurídica reside nos
+argumentos de mérito que demonstram violação constitucional inadmissível a direitos
+fundamentais relacionados à jurisdição.
+
+A dinâmica da diligência de busca e apreensão engloba uma série de
+etapas, ao longo das quais o oficial de justiça - até então o detentor da atribuição com
+exclusividade para cumprimento de tal medida de constrição desde o advento de sua
+previsão legal - analisa todas as variáveis e melhor forma de cumprimento.
+
+Ocorre que, em se tratando de medida de constrição, a diligência
+envolve o aspecto emocional da expropriação de bens que sofre o devedor e agrava os
+riscos de incidentes na ocasião da entrega do bem, quando não é feita de maneira
+voluntária. Tanto é assim, que o cumprimento desse tipo de diligência demanda a
+atuação de dois oficiais de justiça, com a presença de duas testemunhas, facultado o uso
+de força policial, tudo a demonstrar a complexidade desse ato processual.
+
+Para além do arcabouço legal pertinente, tais situações demandam do
+oficial de justiça enorme habilidade para contornar episódios de resistência à entrega do
+bem. Não raro se torna necessário lançar mão de arrombamento, remoção de obstáculos
+e solicitação de acompanhamento policial. É um dos momentos mais delicados em que
+o Estado brasileiro (com a devida identificação) entra no espaço privado, na intimidade
+de um cidadão, manejando medidas extremas de força.
+
+São episódios usuais: resistência na entrega do bem, não retirada dos
+objetos no seu interior, instalação de obstáculos físicos, tumulto no cumprimento
+envolvendo a vizinhança, violência, ameaças, agressão física, uso de armas brancas e
+armas de fogo, tentativa de atropelamento do oficial de justiça, entre outros. Esses riscos
+serão hipertrofiados pelo devedor, ao perceber que uma empresa privada cumpre a
+ordem, que sequer parte de um juiz. Pior, ao se usar uma empresa privada que não
+representa a justiça, apenas o credor, a fórmula do cumprimento sofrerá picos de
+violência dos dois lados da equação.
+
+22 de 25
+
+[[pagina 23 | nativo]]
+
+Entre os exemplos que se multiplicam pelo País, as autoras destacam
+algumas manchetes de notícias que integram o relatório RAIO X DA VIOLÊNCIA
+CONTRA O OFICIAL DE JUSTIÇA NO BRASIL8, que consiste na reunião de casos
+reportados sobre o tema:
+
+Busca e apreensão: oficial de Justiça é alvejado com 10 tiros [p 125]
+
+Busca e apreensão: oficial de Justiça é quase atropelado em diligência [p 39]
+
+Taxista danifica veículo durante mandado de busca e apreensão em Rondônia [p 66]
+
+Oficial de Justiça é agredida ao tentar cumprir mandado de busca e apreensão [p 92]
+
+Oficial de Justiça sofre tentativa de homicídio durante diligência [p 92]
+
+Busca e apreensão: executado ameaça atear fogo em carro [p 96]
+
+Busca e apreensão: réu tenta esfaquear e advogado atropela oficial de Justiça [p 100]
+
+Busca e apreensão: oficial é agredido e ameaçado de morte [p 114]
+
+Intimado tenta atropelar oficiais de Justiça durante busca e apreensão [p 148]
+
+Busca e apreensão: recebidos a tiros [p 173]
+
+Busca e apreensão: companheiro de oficial de Justiça em atividade é arrastado e
+morto por executado [p 176]
+
+Busca e apreensão: oficial de Justiça é atropelado ao cumprir mandado [p 187]
+
+Busca e apreensão: homem quebra a própria moto para não entregá-la a oficial de
+Justiça [p 201]
+
+Oficial de Justiça cumpre busca de carro e proprietário coloca fogo no veículo [p
+218]
+
+Oficial de Justiça tem carro danificado e quase é atropelado [p 228]
+
+Oficial tem dedos da mão torcidos ao fazer busca e apreensão [p 244]
+
+Nesse cenário, o arbítrio resultante das autorizações para instituições
+privadas ordenarem e realizarem busca e apreensão de bens e desocupação de
+imóveis, com acesso direto a dados de registros públicos, está em vigor e certamente
+produzirá graves e irreversíveis efeitos na vida dos jurisdicionados.
+
+Logo, revela-se urgente e juridicamente possível o deferimento de
+
+8 RAIO X DA VIOLÊNCIA CONTRA O OFICIAL DE JUSTIÇA NO BRASIL. Disponível em:
+https://www.fenassojaf.org.br/images/dossieGO.pdf Acesso em 4 mar. 2024.
+23 de 25
+
+[[pagina 24 | nativo]]
+
+medida cautelar.
+
+5. PEDIDOS
+
+Ante o exposto, pedem:
+
+(a) o deferimento de medida cautelar para suspender: (a.1) os efeitos
+do § 7º do artigo 8º-B, §§ 1º a 9º do artigo 8º-C, da expressão “8º-C” do artigo 8º-D, e
+das expressões “8º-C” (do caput) e “inclusive os atos de que trata o § 2º do art. 8º-C
+desta Lei” (do parágrafo único) do artigo 8º-E, todas do Decreto-Lei 911/69, na redação
+do artigo 6º da Lei 14.711/2023; (a.2) os efeitos do inciso II do § 9º, do § 12 e do § 15
+do artigo 9º da Lei 14.711/2023;
+
+(b) a expedição de notificações às Mesas Diretoras da Câmara dos
+Deputados e do Senado Federal, bem como à Presidência da República, para que
+prestem informações, conforme artigo 6º da Lei 9.868, de 1999;
+
+(c) após, a notificação do Advogado-Geral da União e do Procurador-
+Geral da República para que se manifestem, conforme artigo 8º da Lei 9.868, de 1999;
+
+(d) no mérito, pedem a procedência dos pedidos para confirmar a
+cautelar deferida e declarar a inconstitucionalidade: (d.1) do § 7º do artigo 8º-B, §§ 1º a
+9º do artigo 8º-C, da expressão “8º-C” do artigo 8º-D, e das expressões “8º-C” (do caput)
+e “inclusive os atos de que trata o § 2º do art. 8º-C desta Lei” (do parágrafo único) do
+artigo 8º-E, todas do Decreto-Lei 911/69, na redação do artigo 6º da Lei 14.711/2023;
+(d.2) do inciso II do § 9º, do § 12 e do § 15 do artigo 9º da Lei 14.711/2023;
+
+(e) que as publicações das intimações sejam realizadas, exclusivamente,
+no nome do advogado Rudi Meira Cassel, OAB/DF nº 22.256.
+
+Atribui-se à causa do valor de R$1.000,00 (mil reais).
+
+Brasília - DF, 5 de março de 2024.
+RUDI MEIRA AssinadoCASSEL:68075294068DN: c=BR,deo=ICP-Brasil,forma digitalou=Secretariapor RUDI MEIRAda
+
+ou=(EM BRANCO), ou=22677427000161, CASSEL:680752 ReceitaA1,ou=videoconferencia,Federal do Brasil - RFB, ou=RFB e-CPF cn=RUDI MEIRA
+94068 CASSEL:68075294068Dados: 2024.03.05 15:50:08 -03'00'
+Rudi Meira Cassel
+OAB/DF 22.256
+
+24 de 25
+
+[[pagina 25 | nativo]]
+
+RELAÇÃO DE ANEXOS
+
+Anexo Descrição
+1 Procuração com poderes específicos da FENASSOJAF
+2 Documento identificação presidente FENASSOJAF
+3 Certidão de inscrição e situação cadastral CNPJ FENASSOJAF
+4 Estatuto FENASSOJAF
+5 Termo de posse diretoria FENASSOJAF
+6 Lista de associados em 26 Estados FENASSOJAF
+7 Tabela-resumo de associados em 26 Estados FENASSOJAF
+8 Procuração com poderes específicos da AFOJEBRA
+9 Documento identificação presidente AFOJEBRA
+10 Certidão de inscrição e situação cadastral CNPJ AFOJEBRA
+11 Estatuto AFOJEBRA
+12 Termo de posse diretoria AFOJEBA
+13 Lista de associados em 12 Estados AFOJEBRA
+14 Lei 14.711/2023 DOU 31-10-23 e 22-12-23
+15 Decreto-Lei 911/1969 – ficha e texto integral
+16 Veto ao PL 4188/2021
+
+25 de 25

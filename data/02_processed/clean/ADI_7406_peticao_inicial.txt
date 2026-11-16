@@ -1,0 +1,2055 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMA SENHORA MINISTRA PRESIDENTE DO C.
+SUPREMO TRIBUNAL FEDERAL
+
+PARTIDO NOVO (“NOVO”), agremiação política registrada no
+Tribunal Superior Eleitoral, registrado no Cartório de Registro Civil das
+Pessoas Naturais e Jurídica do Distrito Federal, no Livro A-25, sob o nº.
+9.255 e com representatividade no Congresso Nacional, inscrito no
+CNPJ/MF sob o nº 13.405.866/0001-24, com sede no Setor de Rádio e TV
+SUL (SRTVS), quadra 701, lote 05, bloco B, sala 322, Centro Empresarial
+Brasília, Asa Sul, CEP 70340-000, em Brasília, DF, neste ato representado
+por seu Presidente, Sr. EDUARDO RODRIGO FERNANDES RIBEIRO, vem
+à presença de Vossa Excelência, por seus advogados, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+COM PEDIDO DE TUTELA DE URGÊNCIA
+
+com o intuito de trazer a esta e. Corte Suprema a pretensão de exame da
+Lei nº 8.246 do Estado do Maranhão, de 25 de maio de 2005, com a
+redação que lhe foi dada pelas Leis nºs. 11.184/19 e 11.222/20, a qual
+instituiu o “Fundo Estadual de Desenvolvimento Industrial e de
+Infraestrutura do Estado do Maranhão – FDI”, buscando o reconhecimento
+de sua inconstitucionalidade, com fundamento nas seguintes razões de
+fato e de direito que passa a expor:
+
+
+[[pagina 2 | nativo]]
+I. O CABIMENTO DESTA AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE E A LEGITIMIDADE DO PARTIDO NOVO
+PARA PROMOVÊ-LA
+
+Esta ação direta tem como objeto o reconhecimento de
+inconstitucionalidade da Lei nº 8.246 do Estado do Maranhão, de 25 de
+maio de 2005, com a redação que lhe foi dada pelas Leis nºs. 11.184/19 e
+11.222/20, a qual instituiu o “Fundo Estadual de Desenvolvimento
+Industrial e de Infraestrutura do Estado do Maranhão – FDI”, por afronta
+a várias disposições constitucionais tributárias e financeiras.
+
+Esse “fundo” passou a onerar os produtos daquele Estado, mas
+tais exigências se revelam contrárias à ordem jurídica. Daí o cabimento
+desta ação.1
+
+A pretensão se justifica na medida em que o art. 102, I, “a”, da
+Constituição da República confere a este Supremo Tribunal Federal,
+precipuamente, a guarda da Constituição, cabendo-lhe processar e julgar,
+originariamente, a ação direta de inconstitucionalidade de lei ou ato
+normativo federal ou estadual, dentre outras atribuições.
+
+A Lei nº 8.246, com as alterações das Leis nºs. 11.184/19 e
+11.222/20, instituiu o FDI sobre o valor da tonelada produzida ou
+meramente transportada ou armazenada de soja, milho, milheto e sorgo,
+passando a exigir o pagamento a esse “fundo” como condição para a
+fruição de tratamentos diferenciados no âmbito de ICMS, englobando a
+aplicação de diferimento, concessão de redução de base de cálculo, crédito
+presumido, crédito outorgado e de regime especial para cumprimento de
+obrigações fiscais, abarcando operações internas, interestaduais e de
+exportações – em flagrante e direto desrespeito ao texto da Carta
+Constitucional, como será detalhado adiante. Tal afronta é o mote da
+presente medida.
+
+1 Para fins de padronização desta peça, convenciona-se, desde já, que sempre que esse fundo for
+mencionado ele o será em caixa alta e sem aspas.
+
+
+[[pagina 3 | nativo]]
+O autor é partido político registrado perante o Tribunal
+Superior Eleitoral e está representado no Congresso Nacional, o que lhe
+confere legitimidade para o ajuizamento desta ação direta de
+inconstitucionalidade, nos termos do art. 103, VIII, da Constituição
+Federal e do art. 2º, VIII, da Lei nº 9.868/99.
+
+De acordo com a jurisprudência da Suprema Corte, os partidos
+políticos com representação no Congresso Nacional têm legitimidade
+universal, motivo pelo qual é inexigível a demonstração de pertinência
+temática para o ajuizamento da ADI, tal como decidido no julgamento da
+ADI nº 1.407, in verbis:
+
+Ementa: “Partido político. Ação direta. Legitimidade ativa.
+Inexigibilidade do vínculo de pertinência temática. Os partidos
+políticos, desde que possuam representação no Congresso
+Nacional, podem, em sede de controle abstrato, arguir, perante
+o STF, a inconstitucionalidade de atos normativos federais,
+estaduais ou distritais, independentemente de seu conteúdo
+material, eis que não incide sobre as agremiações partidárias
+a restrição jurisprudencial derivada do vínculo de pertinência
+temática.”2 (sem destaques no original)
+
+Portanto, demonstrados estão tanto o cabimento da medida,
+quanto a legitimidade do autor para promovê-la.
+
+II. O ATO NORMATIVO IMPUGNADO
+
+Em 25 de maio de 2005, o Estado do Maranhão promulgou a
+Lei nº 8.246, a qual criou o “Fundo Estadual de Desenvolvimento
+Industrial”, posteriormente rebatizado de “Fundo Estadual de
+Desenvolvimento Industrial e de Infraestrutura” pela Lei nº 11.184/19, o
+qual é o cerne desta medida judicial.
+
+2 ADI-MC nº 1.407. Rel. Min. Celso de Mello. DJU 24.11.2000.
+
+
+[[pagina 4 | nativo]]
+Eis o teor da Lei nº 8.246, com a redação dada pelas Leis nºs.
+11.184/19 e 11.222/20, cujo texto normativo foi retirado de repositório
+oficial do Estado e cujos itens negritados, por sua ofensa flagrante a
+disposições constitucionais, são o cerne da presente discussão:3
+
+“LEI Nº 8.246, DE 25 DE MAIO DE 2005
+Cria o Fundo Estadual de Desenvolvimento
+Industrial do Estado do Maranhão, e dá outras
+providências.
+
+O GOVERNADOR DO ESTADO DO MARANHÃO,
+
+Faço saber a todos os seus habitantes que a Assembleia Legislativa
+do Estado decretou e eu sanciono a seguinte Lei:
+
+Art. 1º Fica criado o Fundo Estadual de Desenvolvimento
+Industrial do Estado do Maranhão, vinculado à Secretaria de Estado da
+Indústria, Comércio e Turismo do Estado do Maranhão, tendo por finalidade
+proporcionar recursos em prol do desenvolvimento das atividades
+industriais, por meio da manutenção, operacionalização, fiscalização e
+contratação de serviços básicos infra-estruturais de áreas e distritos
+industriais.
+Art. 2° - O Fundo de que trata a presente Lei destina-se às
+atividades governamentais relacionadas:
+I - ao planejamento de áreas industriais existentes e a
+implantar;
+II - ao diagnóstico dos distritos industriais existentes;
+III - à implantação do polo minero-metalúrgico;
+IV - ao mapeamento sócio-econômico das potencialidades
+regionais;
+V - à ampliação do parque industrial atual;
+VI - aos estudos de identificação de oportunidades de
+investimentos e de implantação de núcleos habitacionais em áreas próximas
+aos distritos industriais;
+VII - à contratação de serviços de cadastramento físico-jurídico
+das áreas de interesse do Estado com ação de desapropriação jurídica;
+VIII - à regularização das áreas pertencentes aos distritos
+industriais;
+IX - à organização de banco de dados para investidores
+potenciais;
+X - à implantação de polo estaleiro naval e polo cerâmico;
+XI– investimentos e custeio da infraestrutura rodoviária
+estadual.
+Art. 3º - São fontes de recursos para o Fundo Estadual de
+Desenvolvimento Industrial e de Infraestrutura do Estado do Maranhão:
+I - dotações consignadas no orçamento do Estado;
+
+3 https://sistemas1.sefaz.ma.gov.br/portalsefaz/files?codigo=15028.
+
+
+[[pagina 5 | nativo]]
+II - doações de organismos ou entidades nacionais, internacionais
+ou estrangeiras, bem como de pessoas físicas ou jurídicas nacionais ou
+estrangeiras;
+III - venda dos terrenos de propriedade do Estado, localizados nos
+distritos industriais existentes;
+IV - percentual de 5% (cinco por cento) do valor a ser amortizado
+nos termos do art. 4º da Lei nº 7.978, de 30 de setembro de 2003;
+V - recursos de outras origens, inclusive os provenientes de
+financiamentos externos e internos;
+VI – contribuição de 1,8% (um virgula oito por cento) sobre o
+valor da tonelada de soja, milho, milheto e sorgo produzidos ou
+transportados no Estado do Maranhão.
+Parágrafo único. A contribuição a que se refere o inciso VI deste
+artigo também se aplica sobre o valor da tonelada de soja, milho, milheto e
+sorgo armazenada no Estado do Maranhão.
+Art. 3º-A A contribuição não-compulsória de que tratam o
+inciso VI e o parágrafo único do art. 3º desta Lei fica instituída como produto
+da arrecadação decorrente e vinculada à fruição de tratamentos
+diferenciados por contribuintes do Imposto sobre Operações Relativas à
+Circulação de Mercadorias e sobre Prestação de Serviços de Transporte
+Interestadual e intermunicipal e de Comunicação (ICMS).
+§ 1º Para os efeitos do disposto no caput deste artigo, o
+tratamento diferenciado refere-se à aplicação de diferimento, concessão de
+redução da base de cálculo, crédito presumido ou crédito outorgado, e de
+regime tributário para o cumprimento de obrigações, todos vinculados ao
+ICMS.
+§ 2º O recolhimento da contribuição pelas empresas
+comerciais, exportadoras ou não, ocorrerá até o dia 20 (vinte) do mês
+subsequente ao da saída da soja, milho, milheto ou sorgo do estabelecimento,
+nas operações internas, nas interestaduais ou de exportação, bem como nas
+operações equiparadas à exportação, previstas no art. 3º, parágrafo único, da
+Lei Complementar Federal nº 87, de 13 de setembro de 1996.
+§ 3º A fruição dos tratamentos tributários diferenciados de que
+trata o § 1º fica condicionada a que os contribuintes contribuam para o FDI.
+§ 4º O disposto neste artigo não se aplica:
+I – às transferências dos produtos efetuadas por produtor
+primário, entre seus estabelecimentos, de idêntica atividade econômica
+preponderante, localizados no território do Estado do Maranhão;
+II – às saídas dos produtos quando destinados à
+industrialização em território maranhense;
+III – nas operações cujo Estado de origem já tenha instituído e
+cobrado contribuição de mesma natureza daquela prevista no inciso VI do
+art. 3º da Lei nº 8.246, de 25 de maio de 2005.
+§ 5º O montante da contribuição a que se refere este artigo
+deverá ser aplicado exclusivamente na despesa a que se refere o inciso XI do
+art. 2º desta Lei.
+Art. 3º-B O pagamento da contribuição de que trata o inciso VI
+do art. 3º desta Lei, cumulativamente, é:
+I – faculdade do contribuinte;
+II – condição para usufruir o tratamento diferenciado a que se
+refere o § 1º do art. 3º-A desta Lei.
+
+
+[[pagina 6 | nativo]]
+III- condição para manutenção de regime especial para
+apuração e recolhimento mensal do ICMS nas operações interestaduais e de
+exportação e de saídas com o fim específico de exportação, incluídas as
+remessas destinadas à formação de lote, quando couber.
+Art. 4° - O FDI será gerido por um Conselho Gestor composto
+pelo Secretário de Estado de Indústria, Comércio e Energia, pelo Secretário
+de Estado do Planejamento e Orçamento, pelo Secretário de Estado da
+fazenda e pelo Secretário de Estado da Infraestrutura.
+Parágrafo único. Haverá participação de um representante dos
+produtores maranhenses de soja, milho, milheto e sorgo, na forma de ato do
+Poder Executivo, quando se tratar de deliberação sobre a aplicação da
+contribuição não compulsória de que trata o art. 3º-A desta Lei.
+Art. 5º - Ao Conselho gestor compete, dentre outras
+atribuições, as seguintes:
+I - manter o controle e acompanhamento da aplicação dos
+recursos;
+II - efetuar os registros contábeis necessários;
+III - elaborar o programa anual dos recursos do Fundo;
+IV - gerir e deliberar sobre a aplicação dos recursos;
+V - avaliar o desempenho e prestar contas dos resultados
+obtidos.
+Parágrafo único. O Conselho Gestor contará com o apoio
+técnico operacional da Secretaria de Estado da Indústria, Comércio e
+Energia, a qual exercerá as funções de Secretaria Executiva do Conselho.
+Art. 6°- Esta Lei entra em vigor na data de sua publicação.
+Mando, portanto, a todas as autoridades a quem o conhecimento e
+a execução da presente Lei pertencerem que a cumpram e a façam cumprir tão
+inteiramente como nela se contém. O Excelentíssimo Senhor Secretário-Chefe da
+Casa Civil, a faça publicar, imprimir e correr.”
+
+A transcrição foi indispensável. Basta uma leitura rápida do
+texto para se perceber a gravidade institucional do problema trazido a esta
+e. Corte: a gênese de um sistema arrecadatório que desafia e viola o
+sistema financeiro-tributário da Constituição de 1988.
+
+Visando ao cumprimento do requisito processual do art. 3º,
+inciso I e parágrafo único, da Lei nº 9.868/99, o autor anexa a esta petição
+o texto integral em vigor do ato normativo impugnado.
+
+III. A EXPOSIÇÃO, ÀS CLARAS, DAS VIOLAÇÕES CAUSADAS PELO FDI
+
+A reprodução dos dispositivos da lei questionada revela que o
+Estado do Maranhão instituiu o FDI sob o pretexto de se tratar de uma
+
+
+[[pagina 7 | nativo]]
+“contribuição voluntária”, na tentativa de escapar da rigidez das normas
+constitucionais de caráter tributário e financeiro, buscando – em vão –
+burlar o sistema jurídico.
+
+Para que a clareza impere, viabilizando a exata dimensão das
+inválidas implicações que o FDI acarreta, o autor traz abaixo um quadro
+que resume bem os problemas submetidos a esta e. Corte:
+
+Tema Preceito Problemas constatados
+Tratado Normativo
+Criação do FDI Art. 1º Cria o FDI, tendo por finalidade “proporcionar recursos
+em prol do desenvolvimento das atividades
+industriais, por meio da manutenção,
+operacionalização, fiscalização e contratação de
+serviços básicos infra-estruturais de áreas e distritos
+industriais”.
+Aplicação dos Art. 2º Estabelece que o fundo se destina “às atividades
+recursos governamentais relacionadas”: (i) ao “planejamento”
+de áreas industriais existentes ou a implantar; (ii) ao
+“diagnóstico” dos distritos industriais existentes; (iii) à
+implantação de polo minero-metalúrgico; (iv) ao
+“mapeamento” sócio-econômico das “potencialidades”
+regionais; (v) à ampliação do parque industrial atual; (vi)
+aos “estudos” de identificação de “oportunidades” de
+investimentos; (vii) à contratação de serviços de
+“cadastramento” físico-jurídico de áreas de interesse;
+(viii) à regularização de áreas; (ix) à “organização de
+banco de dados” para investidores potenciais; (x) à
+implantação de polo naval e cerâmico; (xi) e aos
+“investimentos e custeio” da infraestrutura rodoviária
+estadual.
+Fontes de custeio Art. 3º, VI e Fixa como receita do FDI, dentre outras, uma
+do FDI parágrafo “contribuição” de 1,8% “sobre o valor da tonelada de
+único soja, milho, milheto e sorgo produzidos ou
+transportados” no Estado. A contribuição “também se
+aplica sobre o valor da tonelada de soja, milho,
+milheto e sorgo armazenada no Estado do
+Maranhão”.
+Causa jurídica Art. 3º-A, A “contribuição não-compulsória” criada, de acordo
+para o pagamento caput e com a lei, fica instituída como “produto da arrecadação
+do FDI §§ 1º a 3º decorrente e vinculada à fruição de tratamentos
+diferenciados” de ICMS. Os tratamentos diferenciados
+envolvem “aplicação de diferimento, concessão de
+redução da base de cálculo, crédito presumido ou
+crédito outorgado, e de regime tributário para o
+cumprimento de obrigações”, todos vinculados ao
+
+
+[[pagina 8 | nativo]]
+ICMS. O recolhimento da contribuição “pelas empresas
+comerciais, exportadoras ou não, deve ocorrer até o dia
+20 (vinte) do mês subsequente à saída dos produtos
+mencionados “nas operações internas, nas
+interestaduais ou de exportação, bem como nas
+operações equiparadas à exportação”. Por fim, a
+fruição dos tratamentos tributários diferenciados
+descritos na lei “fica condicionada a que os
+contribuintes contribuam para o FDI”.
+Não-incidência do Art. 3º-A, O FDI só não será exigível: (i) nas transferências dos
+FDI § 4º produtos efetuadas pelo produtor entre seus
+estabelecimentos localizados no Estado do Maranhão; (ii)
+nas saídas de produtos destinados à industrialização em
+território maranhense; (iii) ou então nas operações “cujo
+Estado de origem já tenha instituído e cobrado
+contribuição de mesma natureza”.
+Condicionantes do Art. 3º-B O pagamento da contribuição, nos termos da lei
+FDI maranhense, “cumulativamente, é: I – faculdade do
+contribuinte; II – condição para usufruir o tratamento
+diferenciado a que se refere o § 1º do art. 3º-A desta
+Lei; III – condição para manutenção do regime
+especial para apuração e recolhimento mensal do
+ICMS nas operações interestaduais e de exportação e
+de saídas com fim específico de exportação, incluídas
+as remessas destinadas à formação de lote”.
+Gestão dos Arts. 4º e 5º Estabelecem que os recursos ficarão a cargo de um
+recursos Conselho Gestor, ao qual se conferiu, dentre outras, a
+competência para “gerir e deliberar sobre a aplicação
+dos recursos”.
+
+O Estado vale-se, propositadamente, de sua atividade
+legislativa para obscurecer a compreensão do FDI e, com isso, furtar-se a
+qualquer mecanismo de controle mais rígido, afeito ao sistema tributário
+ou orçamentário, os quais devem pautar os recursos públicos.
+
+Trata-se, supostamente, de uma “contribuição não-
+compulsória” criada pelo Estado a partir de materialidades típicas de
+impostos, para um “fundo” previsto para custear despesas típicas de
+impostos, que incide sobre a cadeia rural e que é gerido através de
+entidades paraestatais mediante normas infralegais. Por qualquer
+perspectiva que se olhe esse “fundo” é avassaladora sua afronta à
+Constituição da República.
+
+
+[[pagina 9 | nativo]]
+IV. A ESTRUTURA DOS FUNDAMENTOS JURÍDICOS ARTICULADOS
+NESTA PEÇA, POSTOS DE FORMA RESUMIDA
+
+A engenhosidade com que o FDI dribla os elementos jurídicos
+de controle é espantosa. Há um mosaico de impropriedades nesse fundo,
+a ponto de consistir um desafio intelectual conseguir organizá-las para a
+compreensão mais adequada desta c. Corte, de acordo com a temática
+envolvida em cada uma de suas inconsistências.
+
+O FDI é inconstitucional do início ao fim. Seja na sua origem,
+no mote de sua cobrança em si; seja no seu destino, na aplicação que se
+faz dos recursos auferidos. Sob o prisma tributário, financeiro ou
+orçamentário, a cobrança agride a Carta da República em muitas direções,
+como abaixo será detalhado.
+
+Para facilitar a análise de Vossas Excelências, o autor divide
+a matéria posta nesta ação, com suas respectivas subdivisões, em 05
+(cinco) grandes grupos, de modo a mostrar as inconstitucionalidades
+aqui denunciadas: (i) sobre os produtos rurais; (ii) sobre a incidência “em
+cascata” e sobre fatos manifestamente despidos de vinculação aos
+fundamentos para instituição do fundo; (iii) sobre as exportações; (iv) sob
+o ângulo dos desdobramentos jurídicos adicionais acarretados; (v) e sob a
+perspectiva orçamentária e financeira.
+
+Como se verá, a análise cuidadosa do FDI conduz
+irremediavelmente à conclusão de que se trata de instituto
+inconstitucional tanto na sua gênese (na origem da arrecadação dos
+recursos), quanto no seu destino (na gestão e aplicação dos recursos), de
+modo que, seja sob um prisma, seja sob outro, justifica-se a invalidação
+do ato normativo impugnado.
+
+V. A INCONSTITUCIONALIDADE DO FDI SOBRE OS PRODUTOS
+RURAIS
+
+
+[[pagina 10 | nativo]]
+A legislação transcrita revela que o FDI repercute de maneira
+direta sobre o agronegócio maranhense, na medida em que seu prévio
+recolhimento é condição para a aplicação de diferimento; concessão de
+redução de base de cálculo, crédito presumido ou crédito outorgado; e de
+regime tributário para o cumprimento de obrigações, dentre as quais
+regimes especiais que envolvam as operações internas, interestaduais ou
+de exportação, inclusive quanto à possibilidade de apuração e
+recolhimento mensal de ICMS. Ou seja, o FDI atinge em cheio a cadeia
+rural.
+
+A normatização do “fundo” estadual se enlaça para agredir de
+diversas formas o livre trânsito das mercadorias do agro, por conta do
+leque de produtos carimbados pelos preceitos “legais”, que são os
+principais da atividade rural local (soja, milho, milheto e sorgo).
+
+O quadro é grave, como se vê. Nos trechos abaixo o autor
+demonstrará, com vários fundamentos, o porquê essa exigência é
+inconstitucional.
+
+V.1. O 1º fundamento: a inequívoca natureza tributária desse fundo
+
+O FDI é tributo e assim deve ser visto e tratado. Porém, um
+tributo à margem da Constituição, o qual, por isso mesmo, deve sofrer
+pronta reprimenda deste e. Tribunal.
+
+V.1.1. O sistema de arrecadação de receitas públicas previsto
+constitucionalmente e a irrelevância do nomen iuris adotado
+
+Desde a valiosa obra de Geraldo Ataliba, ficou evidenciado que,
+no Brasil, diferentemente do que se passa em outras nações, o direito
+
+
+[[pagina 11 | nativo]]
+tributário começa na Constituição, que dele se ocupou detidamente.4 É da
+tradição do direito brasileiro essa técnica legislativa, em especial a partir
+da Carta de 1946, o que historicamente sempre foi reconhecido também
+por esta Corte.
+
+Com a Constituição de 1988 esse norte se reforçou. Além de
+dividir as competências tributárias entre os entes federados, o constituinte
+tratou também de classificar as respectivas espécies tributárias. Essa
+classificação, contudo, não foi meramente nominal, senão conceitual,
+como diversas vezes já reconhecido por esta e. Corte, conferindo a cada
+espécie tributária o seu respectivo regime jurídico, como bem demonstra
+o Prof. Roque Carrazza em conhecida passagem.5 Não há saída: ou os
+entes federados, para que exijam seus tributos, observam a Constituição;
+ou então estarão fadados a resvalar para o campo da invalidade e, por
+consequência, do arbítrio.
+
+Ocorre que o Estado do Maranhão afirma ter criado não um
+tributo, mas uma “contribuição” em sentido lato. E mais do que isso, fez
+inserir na sua legislação, em diversas passagens, que essa contribuição
+é “condição” para aplicação das regras nela previstas. E daí logo vêm
+à mente as seguintes perguntas: trata-se mesmo de uma contribuição? Se
+não, que figura jurídica é essa? Qual seu enquadramento à luz da ordem
+constitucional brasileira? E seu regime jurídico? É possível que Estado-
+membro crie uma “contribuição” como essa? E se for possível, qual o
+respaldo constitucional?
+
+Para desvendar esse cenário nebuloso, o ponto de partida é
+entender as rubricas previstas constitucionalmente que permitem aos
+entes federados receber quantias em dinheiro. A solução do problema
+
+4 “Sistema Constitucional Tributário Brasileiro”. São Paulo: RT, 1968, passim.
+5 “No Brasil a Constituição não só efetuou uma classificação estrita das espécies tributárias, como
+apontou o regime jurídico de cada uma. Portanto, como ressalta Geraldo Ataliba, a distinção das
+espécies tributárias, na Constituição, não é apenas nominal, mas conceitual. Queremos com isto
+exprimir que o arquétipo genérico de cada tributo está traçado no Texto Supremo e, destarte, o
+legislador ordinário não pode dele se afastar”. “Curso de Direito Constitucional Tributário”. 30. ed.
+São Paulo: Malheiros, 2015, p. 447, nota de rodapé.
+
+
+[[pagina 12 | nativo]]
+depende do exame do sistema de arrecadação financeira previsto pela
+Constituição, universo do qual o sistema tributário é parte.
+
+Em alguma daquelas regras o FDI tem que se encaixar, porque
+não pode o Estado-membro agir fora dos contornos tracejados pelo
+constituinte, dada a dicotomia fundamental entre “receitas originárias” e
+“receitas derivadas”. Ou o FDI é receita originária (venda de bens públicos,
+uso de bens públicos, recursos de empresas estatais, exploração de
+riquezas públicas etc.) ou é receita derivada (tributos ou penalidades).
+
+Na hipótese, a inaplicabilidade do regime de receita originária
+ao FDI é evidente. Afinal de contas, não se está a tratar da exploração de
+bens do Estado, porque no FDI a justificativa dada – e explícita – é a de
+que sua exigência é condição para fruição de benefício ou incentivo fiscal
+de ICMS (para produtos rurais) e sem qualquer outro motivo para as
+exportações. Logo, de exploração do patrimônio do Estado não se trata.
+
+Se o FDI não é receita originária, só resta ser receita derivada.
+Sobre essa última modalidade, necessariamente a arrecadação há de
+decorrer da lei (no binômio lícito/ilícito) ou de contrato. Sendo previsto em
+lei, o motivo do recolhimento não pode ser visto como um ato ilícito, pois
+de multa ou indenização não se trata; se for compulsório e decorrente de
+ato lícito, é tributo. Por outro lado, em sendo enquadrado como um
+contrato, deve ter por pressuposto o elemento de vontade.
+
+O nomen iuris adotado, evidentemente, não é o critério de relevo
+para se fixar o enquadramento jurídico do FDI. Como diziam os romanos,
+verba non mutant substantiam rei. O que interessa, isso sim, é o regime
+jurídico aplicável, frente ao contexto da Carta Constitucional.
+
+Pudesse o legislador driblar as amarras constitucionais
+batizando as coisas do direito com nomes diferentes, seria bem fácil
+afastar a aplicabilidade dos preceitos do constituinte, preceitos esses que,
+bem demonstra a Carta brasileira, são de natureza rígida, como lembrado
+
+
+[[pagina 13 | nativo]]
+por Aliomar Baleeiro.6 O próprio art. 4º do CTN, de forma franca e direta,
+reconhece que a natureza jurídica do tributo independe da denominação
+legal.
+
+Portanto, as primeiras conclusões são as de que (i) o FDI há de
+enquadrar-se em alguma das modalidades arrecadatórias do Estado
+previstas constitucionalmente; (ii) o fundo não se amolda às receitas
+originárias, só restando as derivadas; (iii) nas derivadas, ele nem é ato
+ilícito, nem é receita oriunda de alguma forma de contrato administrativo;
+(iv) o nomen iuris adotado é irrelevante nessa análise; (v) por conta disso,
+ele se ajusta ao figurino constitucional típico de tributo.
+
+V.1.2. A incontestável compulsoriedade do FDI, a revelar sua
+verdadeira natureza jurídica. Distinguishing case dos precedentes
+desta Corte envolvendo o “Fundersul”
+
+A proliferação envolvendo os “fundos do agronegócio” é algo
+espantoso e que ganhou corpo nos últimos tempos, estando a merecer, no
+entendimento do autor, uma análise aprofundada por esta c. Corte.
+Outros Estados, como Mato Grosso do Sul, ao exigir o FUNDERSUL, e
+Mato Grosso, ao instituir o FETHAB, sempre se pautaram pela premissa
+de que tais fundos não teriam natureza tributária, pois a eles faltaria o
+elemento essencial da compulsoriedade. No caso do FDI, como será
+mostrado adiante, não há facultatividade alguma.
+
+Com efeito, a grande armadilha que sustentou esses fundos
+por esses anos todos foi a premissa – equivocada, com a devida venia – de
+que não haveria compulsoriedade em sua cobrança, porque o
+
+6 “Não poderia ter efetividade, nem sobrevivência, o sistema tributário nacional instituído pela
+Constituição com evidentes e confessados propósitos políticos, como a implantação do regime
+federativo, se fosse lícito ao legislador ordinário iludi-lo, pela troca dos nomes de cada tributo para
+invasão do campo tributário reservado a competência diversa. A jurisprudência do STF fulminou
+de inconstitucionalidade, no regime constitucional anterior, várias usurpações dessa natureza (p.
+ex., Súmula n.º 144 do STF, impostos estaduais que mascaravam o imposto federal sobre atos e
+instrumentos regulados por lei da União, falsas taxas etc.)”. BALEEIRO, Aliomar. Direito Tributário
+Brasileiro – CTN Comentado. Ed. Forense, p. 37.
+
+
+[[pagina 14 | nativo]]
+contribuinte poderia “optar” por recolher o ICMS normalmente. A
+legislação sul-mato-grossense fez questão de estabelecer, de forma
+explícita e como um escudo retórico, que o recolhimento seria uma
+“opção”. Daí o alegado caráter facultativo dos “fundos”.
+
+Tal entendimento foi, inclusive, o indutor de julgamentos por
+esta c. Corte que, data maxima venia, não alcançaram o elemento nuclear
+de análise dessa figura tributária anômala, o que, por si só, revela que não
+podem ser utilizados como precedentes de referência para o exame da
+presente ADI.
+
+O caso é totalmente diferente do precedente do FUNDERSUL.
+No julgamento da ADI 2056/MS, de Relatoria do Min. Gilmar Mendes,
+ficou assentado que “não há como atribuir natureza jurídica tributária à
+contribuição criada pela lei estadual”, uma vez que, no entendimento dos
+julgadores à época, “está ela destituída do elemento essencial de
+compulsoriedade”. Assim, qualificou-se a contribuição ao FUNDERSUL
+como “uma obrigação facultativa, que, acaso seja cumprida, gera uma
+sanção premial, qual seja, o benefício do diferimento do ICMS nas operações
+internas com produtos agropecuários”.
+
+Na esteira desse julgamento, 04 (quatro) casos foram decididos
+monocraticamente pelos Ministros Dias Toffoli, Luís Roberto Barroso e
+Alexandre de Moraes. Tratam-se, respectivamente, do AI n° 859.321 e dos
+RE’s n°s. 602.492, 606.218 e 613.468. Em todos esses recursos a alegada
+facultatividade do programa foi aplicada mediante analogia ao
+FUNDERSUL, sem que houvesse a oportunidade de uma análise mais
+detida seja da compulsoriedade absoluta, evidente nas exportações, seja
+da compulsoriedade por indução, verificada na ameaça de perda do regime
+do diferimento.
+
+Ou seja, não foi objeto do julgamento se verdadeiramente
+existiria facultatividade nesses casos: tanto a facultatividade sob a ótica
+da lei, quanto a facultatividade fática, inclusive não foi analisado se há,
+realmente, alguma facultatividade no caso das exportações.
+
+
+[[pagina 15 | nativo]]
+Por ocasião do pretenso leading case do FUNDERSUL, o debate
+acabou se tornando até certo ponto mais restrito – com todo respeito,
+evidentemente – talvez porque a ADI proposta à época por entidade de
+classe tenha questionado apenas quatro artigos da lei sul-mato-grossense
+(arts. 9º, 10, 11 e 22), e não a sistemática da lei como um todo, inclusive
+e especialmente com relação à possibilidade de criação de um fundo
+estadual como gestor dos recursos arrecadados, e mais, a possibilidade de
+uma cobrança com essa destinação específica, como se faz aqui em relação
+ao fundo maranhense.7
+
+Em síntese, o modelo geral, e o não específico sobre poucos
+dispositivos de uma lei estadual, de se utilizar uma facultatividade “às
+avessas” para disfarçar uma real obrigatoriedade ainda não foi objeto de
+uma análise acurada deste e. Tribunal.
+
+Fatalmente por conta disso este Supremo direcionou sua
+análise naquela ocasião apenas na compulsoriedade ou não do
+FUNDERSUL, sem examinar se há meios, por exemplo, para o produtor
+efetivamente “optar” por recolher o ICMS de forma adequada, com a
+sistemática de créditos, de um lado, e de débitos, de outro.
+
+Essas questões são relevantes na contextualização desta ação,
+passados mais de vinte anos do julgamento da liminar do fundo sul-mato-
+grossense – o qual acabou balizando o julgamento de mérito – a reclamar,
+pois, um novo pronunciamento por esta e. Corte, agora a partir de outros
+ângulos de análise, mais amplos, do relevante problema posto à
+apreciação. Por esse principal motivo, tais julgamentos são distinghishing
+cases em relação ao presente, o que deve levar esta ação a ser julgada de
+forma autônoma e sem aplicação dos precedentes citados.
+
+A não facultatividade do FDI é sem dúvida o aspecto central de
+análise dessa figura. Pode-se dizer que esse é o grande desafio intelectual
+
+7 Somente em sede de embargos de declaração do julgamento de mérito na ADI 2056/MS a
+entidade autora suscitou as questões envolvendo os princípios da livre concorrência, da
+repartição das receitas e das dificuldades para a sistemática da não-cumulatividade, o que
+acabou levando o Supremo a não analisar esses argumentos.
+
+
+[[pagina 16 | nativo]]
+cuidadosamente estruturado pelo engenho pragmático do legislador do
+Maranhão a ser rompido no enfrentamento de tão inusitada cobrança. O
+nó a ser desatado é demonstrar, com riqueza de detalhes, porque o FDI
+não é verdadeiramente facultativo e, desse modo, revelar sua real natureza
+jurídica.
+
+Uma leitura apressada dos dispositivos da lei pode levar ao
+entendimento de que seu recolhimento é facultativo. Isso porque, ao
+apresentar o rol de opções ao contribuinte, o Estado parece ter se
+inspirado na caricatura autoritária e insustentável constitucionalmente
+que oferece “aos optantes, tudo” e “aos não-optantes, o rigor da lei”. A
+suposta faculdade que se apresenta é: valer-se de um regime tributário
+racional e competitivo e presente nos demais Estados da Federação em
+contrapartida ao pagamento; ou sucumbir ao labirinto de regras que
+sequer o Estado tem clareza quanto ao funcionamento?
+
+Quem tenta não pagar o FDI se depara com um sistema
+irracional e oneroso do tráfego comercial, o que revela, ademais, uma
+compulsoriedade por indução ou até mesmo uma compulsoriedade
+prática. Nesse anormal sistema paralelo de arrecadação, Maranhão se
+avocou no direito de, sem atenção às regras constitucionais de controle,
+proibir a utilização do diferimento, inerente à tributação da produção rural
+em todos os Estados, e até afastar a imunidade constitucional das
+exportações em relação ao ICMS. Em alguns casos, nem mesmo a
+“contrapartida” do diferimento existe! Isso sem contar as situações nas
+quais o Estado sequer se preocupou em “limpar os vestígios tributários”
+de sua atuação, como na incidência sobre as exportações, orientada pelo
+modal compulsório (obrigatório), conforme demonstrado mais adiante.
+
+Assim, no caso do FDI não há sequer que se cogitar da
+“pseudofacultatividade” na qual buscou apoio o FUNDERSUL. A situação
+retratada no Maranhão é diferente e deve ser vista com esse alcance, como
+medida de distinção do caso paradigma, de forma diversa ao que
+ordinariamente se apresenta nas lides envolvendo esse tema.
+
+
+[[pagina 17 | nativo]]
+V.1.3. Desdobramentos do raciocínio posto no subtópico anterior: o
+Estado impôs o pagamento do FDI como condição para aplicação de
+tratamento tributário diferenciado, mas o produtor rural não é o
+destinatário de tais normas, não havendo “facultatividade”
+
+É curioso notar como o Estado do Maranhão quis seguir na
+mesma esteira do Estado de Mato Grosso do Sul para criar sua própria
+“contribuição” – na linguagem popular, “taxa” – do agro. Na legislação
+daquele Estado, porém, ficou estabelecido que a tal contribuição seria
+“voluntária”, porque seria uma “opção”, seria “facultativa” (ainda que isso
+não seja verdade). E mais, o destinatário de suas regras foi o produtor
+rural, que poderia “optar” por recolher o FUNDERSUL, ou, então, se
+submeter ao ICMS (embora totalmente distorcido, por isso que não
+genuinamente facultativo).
+
+Acontece que os destinatários das normas maranhenses
+não são os produtores rurais! A eles não se conferiu “opção” alguma.
+Por isso, se havia intenção de escamotear a compulsoriedade do FDI, esta
+cai por terra. Com efeito, a Lei nº 8.246 é composta por 06 artigos, mas
+nenhum deles tem o produtor por destinatário direto e imediato dos seus
+comandos.
+
+O art. 3º, inciso VI, estabelece apenas que o FDI terá como fonte
+de recursos “contribuição de 1,8% (um vírgula oito por cento) sobre o
+valor da tonelada de soja, milho, milheto e sorgo produzidos ou
+transportados no Estado do Maranhão”. O parágrafo único
+complementa a regra prescrevendo que “a contribuição a que se refere
+o inciso VI deste artigo também se aplica sobre o valor da tonelada
+de soja, milho, milheto e sorgo armazenada no Estado do
+Maranhão”.
+
+Ora, até aqui é possível concluir, com facilidade, que o produtor
+rural não é o sujeito de direitos responsável por cumprir o comportamento
+previsto na lei no que concerne ao transporte e ao armazenamento.
+Noutras palavras, não é o produtor, evidentemente, que faz o transporte,
+
+
+[[pagina 18 | nativo]]
+muito menos quem armazena grãos, mas sim empresas que se dedicam a
+essas atividades. Isso significa dizer que quanto aos “fatos geradores do
+FDI” envolvendo os serviços de transporte e de armazenagem são as
+empresas envolvidas no fluxo de comercialização as contribuintes,
+não o produtor.
+
+Não é só, a engenhosidade legislativa para amarrar os agentes
+econômicos do agro maranhense ao recolhimento do FDI não se resume a
+isso. O art. 3º-A, caput, dispõe que a “contribuição não-compulsória”
+fica instituída como “produto decorrente da arrecadação e vinculada
+à fruição de tratamentos diferenciados por contribuintes” de ICMS.
+Note-se que, no âmbito do caput, a lei não mencionou o produtor rural,
+mas qualquer contribuinte de ICMS que queira usufruir algum tratamento
+diferenciado em matéria de imposto estadual – tudo já a indicar que não
+há facultatividade para o produtor.
+
+O art. 3º-A, § 1º, vai fechando o cerco ao prever que o
+tratamento diferenciado mencionado no caput abrange (i) o diferimento; (ii)
+a concessão de redução de base de cálculo, crédito presumido ou crédito
+outorgado; (iii) e a concessão de “regime tributário para o cumprimento
+de obrigações”, “todos vinculados ao ICMS”. Debaixo do leque daquilo
+que a lei denominou de “tratamentos diferenciados”, o legislador, de forma
+ardil, incluiu o diferimento (esse sim aplicável ao produtor rural em
+alguma medida), mas também outras regras que podem ter por
+destinatárias igualmente as empresas adquirentes e/ou responsáveis
+pela comercialização, e não o agricultor propriamente dito, como a
+redução de base de cálculo, o crédito presumido, o crédito outorgado e o
+regime diferenciado para o cumprimento de obrigações fiscais.
+
+A prova cabal de que são as empresas que têm diretamente seu
+comportamento atingido pela lei, e não os produtores, está no § 2º do
+mencionado art. 3º-A. Esse enunciado prescritivo estabelece que “o
+recolhimento da contribuição pelas empresas comerciais,
+exportadoras ou não, ocorrerá até o dia 20 (vinte) do mês
+subsequente ao da saída da soja, milho, milheto ou sorgo do
+
+
+[[pagina 19 | nativo]]
+estabelecimento, nas operações internas, nas interestaduais ou de
+exportação, bem como nas operações equiparadas à exportação”.
+
+Como se está a perceber, quem tem que recolher o FDI é a
+empresa adquirente, e não o produtor! Pela lógica da lei, quando a empresa
+dá saída de soja, milho, milheto ou sorgo do seu estabelecimento, ela tem
+que recolher a “contribuição voluntária” até o dia 20 (vinte) do mês
+subsequente.
+
+Poder-se-ia argumentar, no entanto, que essa regra seria
+apenas uma espécie de “substituição tributária”, incumbindo à empresa
+indagar se o produtor deseja contribuir voluntariamente ou não com o FDI:
+em caso positivo, haveria somente um “desconto” de FDI (1,8% sobre o
+valor da nota), ficando a empresa responsável por repassar aos cofres
+públicos tal montante no mês seguinte à venda do produto; se negativa a
+resposta, aí haveria incidência regular do ICMS.
+
+Aqui está o engodo, o jogo de palavras camuflado pela lei.
+E assim se afirma porque a empresa adquirente, como, por óbvio, quer
+manter o seu próprio “tratamento diferenciado”, irá sempre recolher
+o FDI, não restando ao produtor “opção” alguma. É que o art. 3º-A, §
+3º, prevê que “a fruição dos tratamentos diferenciados de que trata
+o § 1º fica condicionada a que os contribuintes contribuam para o
+FDI”.
+
+Quais “tratamentos diferenciados”? Todos, indistintamente,
+previstos no § 1º, não só o diferimento de ICMS envolvendo o produtor
+rural, mas também a redução de base de cálculo, o crédito presumido, o
+crédito outorgado e o regime diferenciado para cumprimento de obrigações
+fiscais, categorias aplicáveis aos adquirentes. E quais “contribuintes”
+devem recolher o FDI como condição para fruição desses tratamentos
+diferenciados? Todos aqueles que querem manter seus regramentos
+distintos, ou seja, também as empresas adquirentes.
+
+Para que não paire dúvida alguma sobre a armadilha jurídica
+criada pelo legislador maranhense, o art. 3º-B vem confessar tudo o que
+
+
+[[pagina 20 | nativo]]
+foi dito antes. De acordo com esse dispositivo, o pagamento do FDI “é,
+cumulativamente”, uma pretensa “faculdade” do contribuinte (inciso I),
+mas também “condição para usufruir o tratamento diferenciado”
+previsto no art. 3º-A, § 1º (inciso II), e o que é principal, trata-se de mais
+uma “condição para manutenção de regime especial para apuração
+e recolhimento mensal do ICMS nas operações interestaduais e de
+exportação e de saídas com o fim específico de exportação, incluídas
+as remessas destinadas à formação de lote” (inciso III).
+
+Ora, quem necessita ter regime especial para apuração e
+recolhimento mensal de ICMS nas operações interestaduais e,
+absurdamente, de exportação? As empresas adquirentes, não o
+produtor. São elas que fazem operações interestaduais e de exportação,
+aí incluídas as saídas com fim específico de exportação e para formação
+de lote.
+
+Portanto, não tem como o produtor se opor ao
+recolhimento do FDI, porque quem sairá perdendo será a empresa
+adquirente! Não se trata, repita-se, de uma espécie de regra de
+“substituição tributária”, a qual pressuporia o produtor como contribuinte
+voluntário, incumbindo à empresa apenas coletar e repassar a
+“contribuição” (no sentido benevolente do termo) feita pelo produtor.
+
+Em outras palavras: o produtor não tem poder algum de
+decisão. Se o adquirente não recolhe o FDI na operação com o produtor, é
+penalizado na sua própria apuração. A decisão está, portanto, tomada,
+sem qualquer ingerência do vendedor, o que evidencia de maneira patente
+a ausência de facultatividade.
+
+Como a lei previu, de forma ampla, que a fruição de todos os
+“tratamentos diferenciados” está condicionada ao pagamento do FDI;
+como boa parte desses “tratamentos diferenciados” envolve os benefícios
+deferidos às empresas adquirentes (redução de base de cálculo, crédito
+presumido, crédito outorgado e regime especial para apuração e
+recolhimento mensal do ICMS); e como a lei determinou às empresas
+comerciais, exportadoras ou não, o recolhimento do FDI até o 20º dia do
+
+
+[[pagina 21 | nativo]]
+mês subsequente; a conclusão que se tira é a de que, sob a ótica do
+produtor rural, a facultatividade não passa de uma falácia. Que
+“opção” tem o produtor para não sofrer o impacto do FDI?
+
+Por isso mesmo as empresas adquirentes transformaram o
+FDI em custo no Estado do Maranhão, o qual é embutido no preço das
+sacas de soja, milho, milheto e sorgo daquele Estado. Afinal de contas,
+como elas não podem operar no mercado econômico sem essas regras
+diferenciadas, sob pena de oneração considerável de suas transações, elas
+simplesmente se sujeitam ao FDI, incorporando-o ao preço a ser pago – na
+verdade, diminuindo em 1,8% o legítimo valor a que teria direito o
+produtor na venda de seus produtos em virtude do “fundo”. Logo, a
+facultatividade do FDI fica apenas no papel.
+
+Em conclusão, é evidente que o FDI não é facultativo para o
+produtor rural não só sob o ângulo do transporte e do armazenamento de
+grãos, porque são empresas que atuam nesses segmentos que pagam o
+“fundo”, sem qualquer ingerência do produtor (cujo encargo econômico,
+obviamente, é repassado a ele); mas também da perspectiva da produção
+agrícola em si, na medida em que os grãos produzidos sofrem a incidência
+do FDI como custo, sem que o agricultor possa, de alguma forma, se opor
+a isso, retirando-lhe qualquer “opção” e, nessa medida, descaracterizando
+qualquer “facultatividade” desse “fundo”.
+
+V.1.4. A roupagem jurídica do FDI: adicional de ICMS com destinação
+específica. Um “quase” tributo, “quase” constitucional?
+
+A Constituição de 1988 é singular pelo grau de detalhamento e
+minúcia quanto às competências tributárias. Nela, a competência
+tributária é a atribuição de prerrogativa conferida aos entes políticos
+federais para instituir e cobrar os tributos que menciona.
+
+Para Geraldo Ataliba, a própria rigidez do sistema
+constitucional tributário pode ser compreendida como princípio
+
+
+[[pagina 22 | nativo]]
+constitucional implícito, que reflete nas competências tributárias
+detalhadas na Carta Magna, não havendo margem de liberdade para o
+legislador “desenhar qualquer traço fundamental”. Nessa esteira, o autor
+identificava a rigidez do sistema constitucional tributário com a rigidez da
+atribuição de competências tributárias, in verbis:
+
+“Ora, tanto a rigidez da discriminação, quanto a do próprio
+sistema tributário – que se traduz na necessidade de
+permissão, autorização, outorga expressa e específica do
+próprio texto constitucional – são peculiaridades da nossa
+Constituição. (...) Nos demais estados federais, a repartição
+das competências tributárias é formada em termos genéricos,
+que caracterizam os respectivos sistemas constitucionais como
+flexíveis. Desta flexibilidade decorre – via de regra – a
+flexibilidade de todo o sistema tributário, como da
+inflexibilidade da nossa discriminação decorre a do próprio
+sistema, como um todo.”8 (sem destaques no original)
+
+Nesse sentido, além da possibilidade de instituição de taxas e
+contribuições de melhoria, cada Estado é detentor de uma faixa privativa
+de impostos a exigir. Nas palavras de Ataliba, “quem diz privativa, diz
+exclusiva”, isto é, a Constituição priva a cada ente o uso de seu texto de
+forma exclusiva, individual, não competindo aos demais sua utilização.
+Tendo em vista a demarcação exclusiva estabelecida pela Constituição de
+1988 com tal rigidez, qualquer criação de tributos à margem desses
+critérios é inconstitucional.
+
+Pois bem, considerando a demonstrada compulsoriedade do
+FDI, é evidente que sua cobrança ostenta natureza jurídica tributária. E
+enquanto tributo, o FDI não tem base constitucional. Não há na
+demarcação de competências da Constituição a possibilidade de
+instituição dessa estranha figura por parte do Estado do Maranhão.
+
+Como é cediço, o constituinte atribuiu aos Estados o poder de
+instituir (i) impostos; (ii) taxas; e (iii) contribuições de melhoria (art. 145
+
+8 “Sistema Constitucional Tributário Brasileiro”. São Paulo: Revista dos Tribunais, 1968, p. 20.
+
+
+[[pagina 23 | nativo]]
+da Constituição). As contribuições sociais, de intervenção no domínio
+econômico e de interesse de categorias profissionais ou econômicas –
+figuras que poderiam até dificultar a compreensão da natureza do FDI em
+razão de sua complexidade pós-arrecadatória – são de competência
+exclusiva da União, de modo que o debate fica restrito a essas três exações,
+pois se for diferente a inconstitucionalidade é flagrante.
+
+Postas as coisas dessa forma, parece claro, por razões óbvias,
+que o FDI nem é taxa, nem é contribuição de melhoria. Restam, então, os
+impostos. E nesse âmbito, o constituinte deferiu aos Estados a
+possibilidade de exigir o ITCD, o ICMS e o IPVA.
+
+Embora com sutil diferença, e observando essa tributação
+pelos mais variados contornos para além das possibilidades de
+inconstitucionalidade flagrante, o FDI se aproxima de forma promíscua
+dos contornos normativos do ICMS, se comparadas as regras-matrizes de
+incidência (“RMIT”) de uma e de outra figura. Confira-se:
+
+RMIT DO ICMS-MA RMIT DO FDI
+Critério material: realizar operações Critério material: realizar operações
+relativas à circulação de mercadorias, relativas à circulação de mercadorias,
+no mercado interno ou interestadual, no mercado interno, interestadual ou
+com produtos do agronegócio, como para o exterior, com produtos do
+soja, milho, milheto e sorgo agronegócio, como soja, milho,
+milheto e sorgo
+Critério espacial: qualquer ponto do Critério espacial: qualquer ponto do
+território do Estado do Maranhão território do Estado do Maranhão
+Critério temporal: no momento da Critério temporal: no momento da
+realização da operação mercantil realização da operação mercantil
+Sujeito ativo: Estado do Maranhão Sujeito ativo: Estado do Maranhão
+Sujeito passivo: aquele que realizou a Sujeito passivo: aquele que realizou a
+operação mercantil de venda desses operação mercantil de compra desses
+produtos produtos
+Base de cálculo: valor da mercadoria Base de cálculo: valor da mercadoria
+comercializada comercializada
+
+
+[[pagina 24 | nativo]]
+Alíquota: X% (definido conforme as Alíquota: 1,8%
+alíquotas nacionais)
+
+Ora, diante desse contexto, é evidente que o FDI pretende ser
+um adicional de ICMS. Afinal de contas, os fatos geradores são os
+mesmos e a base de cálculo é a mesma, havendo pequena diferença por se
+estabelecer como sujeito passivo o adquirente (e não o remetente) da
+mercadoria e por se computar um percentual das alíquotas admitidas para
+o ICMS.
+
+É tão somente na delimitação de competência do ICMS que o
+FDI pode encontrar um mínimo de aderência ao Sistema Constitucional
+Tributário. Uma vez que somente a União tem competência para criar
+impostos residuais ou extraordinários (art. 154, I e II) e que a instituição
+do ICMS é sujeita a limites, nos termos do art. 155, como a não-
+cumulatividade e a necessidade de uniformidade nacional por deliberação
+dos Estados, dentre outros, a identificação do FDI com o ICMS simplifica
+a demonstração de sua inconstitucionalidade.
+
+A nenhum Estado foi atribuída competência para cobrar dois
+impostos sobre os mesmos fatos (como o FDI e o ICMS). Ainda que assim
+o fosse, em razão de seu caráter antecipado, cumulativo e da não
+observância da regra federativa de deliberação entre Estados, estaria o
+FDI, igualmente, fulminado pela inconstitucionalidade.
+
+V.1.5. A inexistência de um tertium genus nessa matéria
+
+Dizer que FDI não é tributo por supostamente não ser
+compulsório necessariamente deve levar ao seu enquadramento em
+alguma das figuras previstas na ordem jurídica que dão amparo à
+arrecadação de recursos pelo Estado. Com efeito, o raciocínio por
+exclusão – de que não haveria compulsoriedade e que, portanto, não se
+
+
+[[pagina 25 | nativo]]
+estaria diante de um tributo – deixa sem resposta, perigosamente sem
+resposta, o que é o FDI então.
+
+Se FDI não é tributo, a que título o Estado se arvora no direito
+de arrecadar esses valores, que são elevadíssimos? Onde há amparo para
+validar uma “contribuição” estadual? É uma doação que faz o
+contribuinte? Parece claro que não.9 Em que outra modalidade
+arrecadatória, pois, há como enquadrar o FDI? Nenhuma.
+
+Logo, não há uma terceira possibilidade a dar respaldo ao FDI
+no sistema jurídico brasileiro.
+
+V.2. O 2º fundamento: violação ao postulado da segurança jurídica. O
+FDI não pode reduzir o acesso a benefícios fiscais criados por lei (art.
+178 do CTN e art. 150, § 6º, da Constituição de 1988)
+
+A legislação do Estado do Maranhão prevê, inequivocamente,
+regras de diferimento, de concessão de redução de base de cálculo, de
+crédito presumido, de crédito outorgado e de regimes diferenciados para
+recolhimento de ICMS. Nem mesmo o Estado coloca isso em dúvida. A
+questão é que, maliciosamente, com o FDI a fruição desses “tratamentos
+diferenciados” (nas palavras da lei) fica “condicionada” ao pagamento da
+“contribuição” para esse fundo.
+
+Sucede que o FDI não pode reduzir o acesso a benefícios fiscais
+criados por lei, na esteira do art. 178 do CTN e do art. 150, § 6º, da
+Constituição da República, os quais se aplicam a benefícios fiscais
+
+9 O jogo de palavras que esse tipo de mecanismo representa acabou por levar até mesmo o
+respeitável Ministro Sepúlveda Pertence, com a devida venia, a incorrer em equívoco quando da
+análise da liminar do Fundersul, ocasião em que Sua Excelência afirmou que o produtor rural
+faria uma “doação” ao fundo, o que hoje soa bastante impreciso.
+
+
+[[pagina 26 | nativo]]
+desonerativos em sentido amplo10-11, no que se inserem os regimes de
+diferimento e de outras técnicas desonerativas. Normas superiores – de
+índole constitucional e veiculadas nacionalmente por lei complementar –
+tolhem essa iniciativa.
+
+Tais normas trazem, em conjunto, a necessidade de
+observância de requisitos mínimos de controle para a criação e, por
+consectário lógico evidente, supressão de regimes especiais. Os
+microparâmetros que tais dispositivos impõem às autoridades políticas
+(legalidade, respeito às condições de fruição e prazo etc.) revelam a
+preocupação do legislador complementar e do constituinte de garantir ao
+contribuinte certeza do direito, elemento fundamental do princípio
+constitucional da segurança jurídica.
+
+O diferimento é regime de tributação especial, o qual tem
+respaldo na lei e que deve ser preservado, não podendo uma “contribuição”
+estadual e setorial minimizar seus efeitos. O mesmo se diga quanto aos
+outros instrumentos de calibração dos tributos. O FDI não pode servir de
+embaraço a isso.
+
+Atrelar o gozo dessas regras à submissão a um “desconto” de
+FDI é menosprezar o direito concedido, é violar o que se pretendeu com a
+própria regra desonerativa. E condicionar a aplicação da regra de
+substituição tributária, no que se insere a do diferimento, à incidência do
+FDI é tornar obrigatória a propalada “contribuição”, porque, sob o ângulo
+prático, nem o alienante (o produtor), nem o adquirente (a agroindústria)
+manifestam “opção” alguma ao recolhimento a esse fundo.
+
+10 “Deve-se destacar, todavia, a importância central do regime legal das isenções para as reflexões
+destinadas ao controle de segurança jurídica dos regimes especiais tributários. Sua relevância é
+tamanha que a jurisprudência tem adotado as regras que tratam da revogação de isenções como
+ponto de referência para o tratamento dos benefícios fiscais de forma ampla.” SOUZA, Pedro G.
+G. Regimes especiais tributários. São Paulo: Quartier Latin, 2018, p. 265.
+11 “PROCESSUAL CIVIL E TRIBUTÁRIO – EMBARGOS À EXECUÇÃO FISCAL – ICMS – REDUÇÃO
+DA BASE DE CÁLCULO – ISENÇÃO PARCIAL – REVOGAÇÃO: POSSIBILIDADE – ART. 178 C/C 104
+DO CTN [...] A revogação da isenção e do benefício da redução da base de cálculo do imposto pode-
+se ocorrer a qualquer tempo, exceto se concedidos por prazo certo e em função de determinadas
+condições (art. 178 c/c 104, III do CTN)”. REsp. nº 762.754/MG. 2ª Turma. Rel.ª Min.ª Eliana
+Calmon. DJ 02.10.2007, p. 230.
+
+
+[[pagina 27 | nativo]]
+Os regimes especiais vinculam os Estados. Assim se afirma
+porque o art. 178 do Código Tributário Nacional, exercendo legitimamente
+o papel de norma geral em matéria tributária, estabelece que as isenções
+condicionais concedidas com prazo certo não podem ser livremente
+suprimidas enquanto estivem sendo cumpridas as condições previstas e
+antes do advento do seu termo. A lei complementar, nesse aspecto, exerce
+função hierárquica superior, dotada de eficácia de bloqueio sobre as
+normas que não se conformem à sua disciplina normativa.
+
+A isenção com prazo certo confere ao cidadão o direito adquirido
+à continuidade desse direito no limite do referido prazo – isso, é claro,
+enquanto estiverem sendo cumpridas as condições. Não é outro o teor da
+Súmula 544 desta Corte, aplicável inteiramente aqui, segundo a qual
+“isenções tributárias concedidas, sob condição onerosa, não podem ser
+livremente suprimidas”.
+
+A aplicação expansiva do art. 178 do Código Tributário
+Nacional como mecanismo de controle de todos os regimes especiais que
+contemplam alguma carga desonerativa, como é o caso do diferimento,
+resulta em satisfatória concretização do postulado da certeza da duração
+temporal dos regimes especiais. O tratamento conferido por José Souto
+Maior Borges aos benefícios fiscais, os quais qualificou como “isenções
+parciais”,12 atribuindo àqueles as condicionantes eficaciais destas, trouxe
+importante contribuição para a sedimentação desse entendimento na
+seara dos regimes especiais tributários.
+
+Ofende a lógica tributária e a racionalidade constitucional no
+contexto de regimes especiais forçar o contribuinte a ter que “optar” trocar
+um sistema pelo outro. Isso não é verdadeira opção e infringe a ideia
+de segurança jurídica, de boa-fé estatal e de confiança legítima
+depositada no Estado. Destarte, conclui-se que são inconstitucionais os
+dispositivos que vinculam a fruição dos “tratamentos diferenciados”, aí
+incluídos o diferimento e as demais categorias desonerativas tratadas na
+legislação maranhense, ao prévio recolhimento do FDI, por ofensa direta
+
+12 Isenções tributárias. São Paulo: Sugestões Literárias S.A., 1969, p. 281.
+
+
+[[pagina 28 | nativo]]
+ao postulado de segurança jurídica decorrente da estrita legalidade para
+concessão (e supressão) de regimes especiais desonerativos prevista no
+art. 150, § 6º, da Constituição da República.
+
+V.3. O 3º fundamento: as peculiaridades do agronegócio, que se situa
+no início da cadeia
+
+Por força de mandamento constitucional, o Estado deve
+observar os ditames aplicáveis à técnica da não-cumulatividade em
+matéria de ICMS. E isso ganha especial destaque na cadeia do
+agronegócio.
+
+Isto porque, na atividade rural, o contribuinte (produtor) está
+no início da cadeia, inaugurando um novo ciclo econômico (colheita de
+grãos ou produção de bezerros, por exemplo), sem que necessariamente
+os insumos necessários à produção repercutam proporcionalmente em
+valor expressivo frente à mercadoria produzida (o valor do fertilizante para
+o grão ou da vacina para o bezerro). E mais, sem que esses insumos,
+necessários à produção, tenham sofrido obrigatoriamente a incidência de
+ICMS.
+
+Ora, é por essa razão que as legislações de todos os Estados
+preveem mecanismos de desoneração ou de diferimento para os
+produtos do agro, justamente porque, a se levar no rigor terminológico o
+princípio da não-cumulatividade, não haveria como, de forma adequada,
+aplicar esse princípio àquele que está no início da cadeia produtiva. Há
+aqui uma questão lógica, de possibilidade e eficiência que justificam essa
+regra desonerativa.
+
+Perceba-se que a cadeia primária do agronegócio gera produtos
+novos oriundos da natureza (seja pela colheita de grãos, pelo nascimento
+de bezerros ou pelo corte da madeira), diferentemente da cadeia industrial,
+que depende de investimentos em maquinários e outros insumos. Mais do
+que isso, muitas vezes não há várias fases de ciclo produtivo desde o início
+
+
+[[pagina 29 | nativo]]
+dessa cadeia até seu final. Esses são aspectos peculiares que não podem
+passar à margem da contextualização do problema que o FDI traz. Eis um
+quadro sinótico de alguns desses produtos:
+
+PRODUTO INSUMOS ATIVIDADE DO DESTINAÇÃO
+PRODUTOR
+Soja Corretivos de solo Plantio, colheita e Cooperativa,
+(calcário e gesso), venda do grão armazém geral,
+sementes e revendedora de
+defensivos agrícolas grãos ou trading
+(pesticidas,
+fungicidas e
+herbicidas)
+Milho Corretivos de solo Plantio, colheita e Cooperativa,
+(calcário e gesso), venda do grão armazém geral,
+sementes e revendedora de
+defensivos agrícolas grãos ou trading
+(pesticidas,
+fungicidas e
+herbicidas)
+Bezerro Inseminação Cria e venda de Produtores que
+artificial, sal mineral, bezerros irão acabar a fase
+vacinas etc. da cria e engordar
+o animal para
+abate
+
+A pergunta é: como compatibilizar um imposto plurifásico, que
+incide sobre a circulação de mercadorias e para o qual, por isso mesmo,
+deve estar previsto o sistema de créditos e débitos, com a realidade da
+atividade rural em si e examinando-se especificamente a posição do
+produtor rural, que está no início do elo?
+
+A resposta dada por praticamente todos Estados da Federação
+é a mesma: diferimento nas vendas dentro do Estado. Essa é a razão
+da existência do diferimento em relação aos produtos agrícolas.
+
+
+[[pagina 30 | nativo]]
+O FDI acaba por quebrar esse sistema, exigindo um ICMS
+disfarçado do produtor rural como condição para o “diferimento” do
+próprio ICMS. É como se cobrasse uma parte do imposto do produtor, de
+forma antecipada, diminuindo a desoneração completa ou o diferimento
+por ele próprio falado.
+
+Ocorre que, à luz da Constituição da República e da Lei Kandir,
+devem ser assegurados ao produtor todos os créditos da cadeia ou alguma
+outra forma de compensação que faça frente à ausência de créditos, como,
+por exemplo, a isenção ou o diferimento, reforçando-se tal direito em
+relação ao agronegócio, já que o produtor inaugura um novo ciclo
+produtivo. A ausência dessa característica demonstra que não se está a
+falar de um ICMS, ou de seu diferimento.
+
+A compulsoriedade do FDI por indução ou por coação nesse
+aspecto fica ainda mais evidente, pois boa parte dos insumos utilizados na
+atividade rural não é tributada, especialmente em operações dentro do
+Estado. E se não são tributados os insumos, o art. 155, § 2º, I, “a”, da
+Constituição de 1988 estabelece que a sua aquisição “não implicará crédito
+para compensação com o montante devido nas operações ou prestações
+seguintes”.
+
+Eis mais uma distorção decorrente do FDI: o Estado desonera
+a cadeia dos insumos de ICMS e não concede nenhum benefício ou
+incentivo fiscal de ICMS ao produtor se ele não “aderir” ao FDI. Paga-se a
+“contribuição” em etapa única, sem direito a crédito, no início da cadeia.
+É compulsório e conflitante com a não-cumulatividade, se tomado como
+ICMS. Ou se tomado como uma outra figura, é inconstitucional por falta
+de competência.
+
+V.4. O 4º fundamento: garantias constitucionais da igualdade e da
+livre concorrência no mercado nacional
+
+
+[[pagina 31 | nativo]]
+Não bastassem todos os fundamentos trazidos até aqui, os
+desdobramentos danosos que o FDI acarreta para os contribuintes
+maranhenses agride também as garantias constitucionais da igualdade e
+da livre concorrência no mercado nacional.
+
+Limitar a fruição do diferimento de ICMS, além de ir de
+encontro a princípios outros, viola o princípio da isonomia e a vedação ao
+tratamento desigual para contribuintes em situação de igualdade,
+previstos nos artigos 5º, caput, e 150, inciso II, da Constituição.
+
+É isso o que ocorre no Maranhão em razão do FDI. A prática
+adotada pelo Estado faz com que os produtores situados em seu território
+percam competitividade com aqueles que exerçam a mesma atividade e
+estejam situados em outras unidades da Federação, diante do custo que,
+naturalmente, recai sobre o preço da mercadoria. Evidencia-se também
+ataque ao princípio do federalismo.
+
+Os produtores abarcados pela ampla fruição do diferimento,
+não sujeitos à contribuição de um fundo cada vez mais oneroso,
+prevalecerão no mercado nacional e internacional, gozando de condições
+que os produtores maranhenses não têm, já que o FDI, em total
+dissonância com os ditames legais, também incide sobre as operações
+interestaduais e de exportação.
+
+Além do mais, a instituição e exigência do fundo têm um efeito
+que, antagonicamente, limita as operações com soja, milho, milheto e
+sorgo ao âmbito interno, já que, como dito, retira a competitividade
+nacional do produto produzido em seu território.
+
+Este c. Supremo Tribunal Federal, marcado pela defesa da
+isonomia entre contribuintes, historicamente consolidou em sua
+jurisprudência a vedação ao tratamento desigual entre contribuintes em
+situação equivalente, nos termos do julgado abaixo transcrito:
+
+“EMENTA: RECURSO EXTRAORDINÁRIO. CONSTITUCIONAL.
+TRIBUTÁRIO. REMUNERAÇÃO DE MAGISTRADOS. IMPOSTO DE
+
+
+[[pagina 32 | nativo]]
+RENDA SOBRE A VERBA DE REPRESENTAÇÃO. ISENÇÃO.
+SUPERVENIÊNCIA DA PROMULGAÇÃO DA CONSTITUIÇÃO
+FEDERAL DE 1988. ISONOMIA TRIBUTÁRIA. INSUBSISTÊNCIA
+DO BENEFÍCIO.
+1. O artigo 150, inciso II, da Constituição Federal, consagrou
+o princípio da isonomia tributária, que impede a diferença de
+tratamento entre contribuintes em situação equivalente,
+vedando qualquer distinção em razão do trabalho, cargo ou
+função exercidos. 2. Remuneração de magistrados. Isenção do
+imposto de renda incidente sobre a verba de representação,
+autorizada pelo Decreto-lei 2.019/83. Superveniência da Carta
+Federal de 1988 e aplicação incontinenti dos seus artigos 95,
+III, 150, II, em face do que dispõe o § 1º do artigo 34 do ADCT-
+CF/88. Conseqüência: Revogação tácita, com efeitos imediatos,
+da benesse tributária. Recurso extraordinário não conhecido.”
+(RE 236881, Relator(a): Min. MAURÍCIO CORRÊA, Segunda Turma,
+julgado em 05/02/2002, DJ 26-04-2002 PP-00090 EMENT VOL-
+02066-02 PP-00432) (sem destaques no original)
+
+A questão se agrava, na medida em que os produtores não
+podem, obviamente, deslocar suas fazendas e sua produção para outro
+Estado mais competitivo, que respeite seus direitos. Portanto, tornam-se
+dependentes das políticas fiscais inconstitucionais do Estado.
+
+As propriedades rurais não comportam simples deslocamento
+de um lugar para outro, como podem fazer o setor comercial ou, até
+mesmo, o industrial. A produção agrícola, especialmente a cultivada em
+grandes extensões, como é a vocação do Maranhão, tem dificuldades
+impeditivas para alterar o local da produção a curto e médio prazos. Uma
+vez feito o investimento em uma fazenda, que requer vultosas somas e tem
+pouca liquidez, não se muda de Estado sem muito tempo de planejamento
+e transição. Um cenário competitivo, de acordo com os parâmetros
+constitucionais, envolve a igualdade de tratamento para contribuintes do
+mesmo segmento.
+
+Ademais, a violação aos artigos 5º, caput, e 150, inciso II, da
+Constituição de 1988 independe da natureza jurídica do FDI, já que o
+
+
+[[pagina 33 | nativo]]
+que se discute, nessa hipótese, é a indevida limitação da fruição do
+diferimento do ICMS, condicionada ao recolhimento ao fundo, quando, em
+outros Estados, essa técnica ocorre de forma ampla e desonerada. De fato,
+o FDI, sobre violar o ordenamento jurídico brasileiro, provoca ainda vários
+tipos de distorções, dentre elas as que envolvem a aplicação, na sua
+inteireza, do princípio isonômico e da liberdade econômica no seu sentido
+mais genuíno, como lembra Ives Gandra da Silva Martins.13
+
+Não se pode admitir que uma “contribuição” estadual ocasione
+desarranjos no mercado competitivo, a qual é cobrada de uns, mas não de
+outros, sendo que todos se encontram em situação equivalente. Assim, a
+legislação impugnada deve ser reputada inconstitucional também sob as
+perspectivas da igualdade tributária e da livre concorrência.
+
+VI. A INCONSTITUCIONALIDADE DO FDI SOB A PERSPECTIVA DA
+INCIDÊNCIA “EM CASCATA” E SOBRE FATOS MANIFESTAMENTE
+DESPIDOS DE VINCULAÇÃO AOS FUNDAMENTOS PARA INSTITUIÇÃO
+DO FUNDO
+
+Demonstrada a inconstitucionalidade do FDI sobre os produtos
+rurais em si, cabe agora examinar os fundamentos que indicam a
+invalidade do fundo estadual sob a perspectiva de sua incidência “em
+cascata” e sobre fatos manifestamente despidos de vinculação aos
+fundamentos para instituição do fundo.
+
+13 “Equivalente é um vocábulo de densidade ôntica mais abrangente do que ‘igual’. A igualdade
+exige absoluta consonância em todas as partes, o que não é da estrutura do princípio da
+equivalência. Situações iguais na equipolência, mas diferentes na forma, não podem ser tratadas
+diversamente. A equivalência estende à similitude de situações a necessidade de tratamento igual
+pela política impositiva, afastando a tese de que os desiguais devem ser tratados,
+necessariamente, de forma desigual. Os desiguais, em situação de aproximação, devem ser
+tratados, pelo princípio da equivalência, de forma igual em matéria tributária, visto que a igualdade
+absoluta, na equivalência não existe, mas apenas a igualdade na equiparação de elementos (peso,
+valor etc.)”. MARTINS, Ives Gandra da Silva. “Obrigações acessórias no interesse da fiscalização
+e da livre concorrência entre empresas. Direito assegurado ao Fisco pelas leis suprema e
+complementar”. Revista Dialética de Direito Tributário. v. 105. São Paulo: Dialética, 2004, p. 131.
+
+
+[[pagina 34 | nativo]]
+O art. 3º, inciso VI e parágrafo único, da Lei nº 8.246/05, como
+se teve a oportunidade de demonstrar, estabelece que cada tonelada de
+soja, de milho, de milheto e de sorgo no Estado do Maranhão está sujeita
+à incidência do FDI em 03 (três) etapas: na produção, no transporte e
+no armazenamento. Com efeito, a legislação dispõe que a contribuição de
+1,8% sobre o valor da tonelada incidirá sobre os grãos “produzidos ou
+transportados” (inciso VI), bem como sobre a produção agrícola
+“armazenada no Estado do Maranhão” (parágrafo único).
+
+Ora, basta dizer isso para se notar, até de forma intuitiva, que
+há uma perigosa incidência “em cascata” do FDI, onerando
+demasiadamente o produto maranhense. Abrindo o horizonte de análise
+para se compreender a cadeia como um todo, o que se passa, em síntese,
+é o seguinte:
+
+Etapa 01: o produtor colhe a soja, o milho, o milheto ou o
+sorgo. Normalmente o produtor remete sua produção para um armazém-
+geral onde os grãos são comercializados;
+
+Etapa 02: a remessa de grãos para armazenagem pressupõe
+um serviço de frete, o qual, por envolver o transporte desses produtos,
+estará sujeito à incidência do FDI (1ª incidência);
+
+Etapa 03: chegando os grãos no estabelecimento, a empresa
+armazenadora, porque realiza a armazenagem de grãos, estará obrigada
+também ao pagamento do FDI (2ª incidência);
+
+Etapa 04: decidindo o produtor pela venda, haverá um retorno
+simbólico dos grãos para ele, de modo a que possa ser formalizada a venda
+ao estabelecimento adquirente, com entrega direta do armazém ao
+comprador (remessa por conta e ordem). Para que isso ocorra, novamente
+será necessário um serviço de frete, sujeito à incidência do FDI (3ª
+incidência);
+
+
+[[pagina 35 | nativo]]
+Etapa 05: entrando o produto no estabelecimento adquirente,
+a empresa pagará o valor ao produtor e terá que recolher o FDI até o 20º
+dia do mês subsequente (4ª incidência);
+
+Etapa 06: como muitas empresas não adquirem grãos para
+uso próprio, mas sim para nova comercialização no mercado interno, no
+mercado interestadual ou para exportação, quando ela der destino à
+produção será necessário, uma vez mais, novo serviço de frete, o qual
+também estará submetido ao FDI (5ª incidência).
+
+Esse é um quadro resumido do que geralmente ocorre, mas a
+dinâmica da operação pode se desdobrar em tantas outras, como a venda
+de uma empresa para outra no mercado interno, para só então haver
+comercialização interestadual ou para o exterior, o que atrairia novas
+incidências.
+
+O sistema criado não tem lógica, porque a legislação não
+prevê uma única incidência do “fundo” ao longo da cadeia econômica,
+ou, ao menos, “créditos de FDI” em cada etapa. Muito pelo contrário, à
+luz da Lei nº 8.246/05, o FDI tem repercussão cumulativa sobre os
+produtos rurais do Estado do Maranhão, atingindo-os em cheio, porque
+não há agro sem produção, transporte e armazenamento. Isso gera um
+preço “inflado”, recheado de cobranças pretensamente voluntárias,
+prejudicando a competitividade dos agentes econômicos, bem como o
+consumidor final.
+
+Não é verdade, portanto, que no FDI seriam devidos “somente”
+1,8% do valor da tonelada, algo que poderia ser visto em um exame de
+primeiro instante como módico. A repercussão em cadeia quatro, cinco ou
+até mais vezes demonstra a gravidade do problema aqui colocado, o qual
+afronta o arcabouço constitucional da livre iniciativa da atividade
+econômica.
+
+Se não fosse suficiente esse aspecto negativo que o FDI
+ocasiona, a análise detida do liame estabelecido entre os fundamentos
+
+
+[[pagina 36 | nativo]]
+para sua instituição e seus fatos geradores demonstra, às claras, o
+absoluto descompasso entre uma coisa e outra.
+
+Com efeito, foi instituído um fundo tendo por finalidade
+“proporcionar recursos” em prol do desenvolvimento das atividades
+industriais, o que se faz, de acordo com a lei, por meio da manutenção,
+operacionalização, fiscalização e contratação de serviços básicos de
+infraestrutura de áreas e distritos industriais (art. 1º).
+
+Para cumprir tais objetivos, a lei previu que o fundo se destina
+a “atividades governamentais” das mais variadas, dentre elas, (i) o
+“planejamento” de áreas industriais existentes ou a implantar; (ii) o
+“diagnóstico” dos distritos industriais existentes; (iii) a implantação de
+polo minero-metalúrgico; (iv) o “mapeamento” socioeconômico das
+“potencialidades” regionais; (v) a ampliação do parque industrial atual;
+(vi) os “estudos” de identificação de “oportunidades” de investimentos;
+(vii) a contratação de serviços de “cadastramento” físico-jurídico de áreas
+de interesse; (viii) a regularização de áreas; (ix) a “organização de banco
+de dados” para investidores potenciais; (x) a implantação de polo naval e
+cerâmico; (xi) e os “investimentos e custeio” da infraestrutura rodoviária
+estadual (art. 2º).
+
+Por fim, para custear tais “atividades governamentais”, a lei
+dispôs que servirão, dentre outras, dotações orçamentárias, doações,
+venda de imóveis estatais e, claro, a propalada “contribuição não-
+compulsória” aqui impugnada (art. 3º).
+
+Frente a esse contexto, é de se questionar, com franqueza: que
+legitimidade tem um “fundo” arrecadatório supostamente criado para
+o fomento de atividades industriais cujo montante serve para custear
+“planejamento”, “diagnóstico”, “mapeamento” de “potencialidades”,
+“estudos” para identificação de “oportunidades”, contratação de
+serviços de “cadastramento”, “organização de banco de dados” e
+outras firulas de linguagem arraigadas de vagueza?
+
+
+[[pagina 37 | nativo]]
+São fatos manifestamente despidos de vinculação aos
+fundamentos para a genuína instituição de um fundo. E mais, nada
+justifica a cobrança de uma “contribuição” sobre o agro para canalizar
+recursos para esse tipo de despesa.
+
+É bem verdade que o art. 3º-A, § 5º, atrela a arrecadação da
+“contribuição” ao FDI especificamente aos gastos com “investimentos e
+custeio” da infraestrutura rodoviária estadual, mas, a despeito disso, o
+rol de absurdos contidos como “atividades governamentais” que
+reclamariam a instituição desse fundo é de causar indignação.
+
+Mesmo que se enfoque especificamente a despesa causada por
+“investimentos e custeio” da infraestrutura rodoviária estadual, a
+situação não muda de figura. E assim se afirma porque gastos com
+infraestrutura rodoviária devem ser custeados por receitas de impostos
+(argumento a ser trazido mais adiante) e porque a produção, o
+armazenamento e o transporte de grãos não guardam relação direta e
+imediata com as causas que levaram à instituição desse fundo.
+
+A única atividade tipificada na lei que poderia apresentar uma
+relação direta com os tais gastos é o transporte. Porém, igualmente aqui
+há problemas, porquanto, além de o FDI incidir “em cascata” em toda a
+cadeia do agro, especificamente no que concerne ao transporte a lei
+permite sua incidência sobre cargas que apenas transitam em território
+maranhense, e não sobre serviços de transporte contratados dentro
+de suas fronteiras.
+
+As situações são diferentes. Se uma empresa (como uma
+trading) resolve escoar a produção adquirida no Centro-Oeste pelo
+chamado “arco Norte”, ou seja, através dos portos situados nos Estados
+do Pará, Maranhão e Piauí, acaso os caminhões adentrem em solo
+maranhense, na dicção da lei, já estarão sujeitos a serem parados nas
+barreiras fiscais, com a imposição de recolhimento do FDI. Isso, repita-se,
+mesmo que o serviço tenha sido contratado nos Estados de Mato Grosso e
+Goiás, por exemplo.
+
+
+[[pagina 38 | nativo]]
+Nessa medida o FDI assume um tom típico de verdadeiro
+pedágio, pois, para circular nas rodovias maranhenses, os
+transportadores se verão obrigados a pagar a “contribuição não-
+compulsória” ao FDI. Mas, que facultatividade há para eles?
+
+Em síntese, por qualquer ângulo que se analise a questão a
+conclusão é a mesma: não há como defender a exigibilidade do FDI.
+
+VII. A INCONSTITUCIONALIDADE DO FDI SOBRE AS EXPORTAÇÕES
+
+De forma autônoma o FDI se mostra inválido, de igual maneira,
+sob a perspectiva das exportações. Os referidos arts. 3º-A, §§ 2º e 3º, e 3º-
+B, inciso III, da Lei nº 8.246/05 passaram a condicionar, como se viu, as
+exportações diretas e indiretas ao pagamento do FDI.
+
+Sobre isso, é importante aprofundar-se nos problemas
+jurídicos suscitados pela legislação maranhense. A legislação prescreveu
+que constitui receita do FDI a “contribuição não-compulsória” exigida
+como “condição” para o contribuinte manter o “tratamento
+diferenciado”, no que se inclui o “regime especial” de exportação.
+
+Ora, nesse modelo não há opção legítima alguma. A
+Constituição não tolera o ICMS sobre as exportações, mas o Estado
+entendeu que poderia instituir uma “contribuição”, que foi criada como
+“produto da arrecadação decorrente e vinculada à fruição de
+tratamentos diferenciados” por contribuintes de ICMS.
+
+Em poucas palavras: se o exportador não pagar o FDI, ele será
+obrigado a recolher o ICMS na exportação, porque perderá o regime
+especial para realizar a remessa para o exterior.
+
+Há franca incompetência do Estado para impedir o direito à
+imunidade nas exportações, violadora do princípio da desoneração e, por
+consequência, causadora de confisco. Todo o arcabouço jurídico nacional
+
+
+[[pagina 39 | nativo]]
+está estruturado de modo a desonerá-las, sendo certo que essa
+“contribuição” cria pedágio a esse direito constitucionalmente assegurado.
+
+A Constituição brasileira contém diversas normas veiculando
+imunidades tributárias em matéria de exportação: (i) por exemplo, a
+imunidade de contribuições sociais e de intervenção no domínio
+econômico (art. 149, § 2º, I); (ii) a imunidade de IPI (art. 153, § 3º, III); (iii)
+além da imunidade do próprio ICMS (art. 155, § 2º, X, “a”). É razoável,
+portanto, sustentar a presença de um princípio constitucional de
+desoneração das exportações, que se dá de maneira explícita.
+
+O legislador maranhense acreditou que poderia amesquinhar
+esse direito e criar um “regime especial de exportação”, e muito mais do
+que isso, que poderia condicionar as exportações desoneradas desses
+produtos ao prévio pagamento do FDI.
+
+A “não-incidência” de impostos na exportação decorre de
+norma genuinamente constitucional, que veicula uma imunidade
+tributária, de tal modo que Estado algum pode criar condicionantes à sua
+fruição, máxime se o condicionante é o pagamento de um valor em
+dinheiro.
+
+Não há esteio para se onerar as exportações em matéria de
+imposto estadual. Por isso que o fundo aqui questionado, nessa dimensão,
+assume feição compulsória para os exportadores e viola o princípio
+constitucional da desoneração das exportações, que é da essência da
+imunidade do ICMS e, em última análise, implica o uso do FDI com efeito
+de confisco, afrontando o art. 155, § 2º, X, “a”, da Carta da República.
+
+VIII. OS FUNDAMENTOS JURÍDICOS ADICIONAIS INDICADORES DA
+INCONSTITUCIONALIDADE DO FDI
+
+Além dos fundamentos específicos que sustentam a
+inconstitucionalidade do FDI, de forma individualizada, sobre os produtos
+
+
+[[pagina 40 | nativo]]
+rurais e sobre as operações de exportação, há também aspectos adicionais
+que evidenciam a invalidade do fundo estadual.
+
+VIII.1. Afetação ao princípio da não-cumulatividade nas operações
+internas e interestaduais
+
+O FDI, apesar de se apropriar, em vários trechos, de
+materialidades típicas de ICMS, de seus sujeitos passivos e até de suas
+bases de cálculo, não segue o imposto estadual naquilo que ele tem de
+mais essencial, que é a ideia de não-cumulatividade. E sem se conceder,
+efetivamente, o direito ao crédito ao contribuinte não há respeito ao
+princípio da não-cumulatividade, levando, por corolário, à infringência da
+regra constitucional que assim o estabelece.
+
+A cobrança do FDI se dá sem que haja direito a crédito. O
+mandamento da não-cumulatividade estipula, inexoravelmente, que há de
+estar viabilizado o sistema de créditos e débitos; sem isso, seu efeito em
+cascata o torna mais gravoso ainda. É por isso que a tal “contribuição”
+estadual interfere nas operações econômicas. Ou há exigência do ICMS,
+com garantia do diferimento ou, ao menos, com garantia do sistema não-
+cumulativo, ou então não pode ser exigido o FDI.
+
+Na verdade, no âmbito das operações desoneradas, o FDI
+torna-se um custo para o produtor, pelos motivos já expostos, sem que ele
+possa “descontar créditos” dessa contribuição. E sob o ângulo das
+exportações a contribuição mostra-se também compulsória, onerando
+toda a cadeia pelo custo igualmente envolvido. Nesse quadro, a cobrança
+faz pouco caso da regra constitucional, estando a merecer, por isso
+mesmo, aniquilação por este c. Supremo Tribunal Federal.
+
+VIII.2. Quebra do princípio da uniformidade de alíquotas do ICMS,
+definidas nacionalmente
+
+
+[[pagina 41 | nativo]]
+Outro ponto que comporta questionamento é a quebra do
+princípio da uniformidade de alíquotas do ICMS, definidas nacionalmente.
+
+Com efeito, a carga tributária do FDI foi fixada em 1,8% sobre
+o valor da tonelada produzida, transportada ou armazenada de soja,
+milho, milheto e sorgo.
+
+Parece por si só evidente a flagrante inconstitucionalidade da
+alíquota adotada. Afinal de contas, o sistema de definição de alíquotas
+incidentes sobre a circulação de mercadorias foi cuidadosamente pensado
+pela Constituição da República, justamente com o objetivo de evitar a
+denominada “guerra fiscal” (em que pese a constatação fática de que os
+Estados, infelizmente, continuam a praticá-la).
+
+Segundo o Texto Constitucional, “resolução do Senado Federal,
+de iniciativa do Presidente da República ou de um terço dos Senadores,
+aprovada pela maioria absoluta de seus membros, estabelecerá as
+alíquotas aplicáveis às operações e prestações, interestaduais e de
+exportação” (art. 155, § 2º, IV).
+
+Além disso, “é facultado ao Senado Federal: a) estabelecer
+alíquotas mínimas nas operações internas, mediante resolução de iniciativa
+de um terço e aprovada pela maioria absoluta de seus membros; b) fixar
+alíquotas máximas nas mesmas operações para resolver conflito específico
+que envolva interesse de Estados, mediante resolução de iniciativa da
+maioria absoluta e aprovada por dois terços de seus membros” (art. 155, §
+2º, V).
+
+E ainda, “salvo deliberação em contrário dos Estados e do
+Distrito Federal, nos termos do disposto no inciso XII, ‘g’, as alíquotas
+internas, nas operações relativas à circulação de mercadorias e nas
+prestações de serviços, não poderão ser inferiores às previstas para as
+operações interestaduais” (art. 155, § 2º, VI).
+
+O FDI põe tudo isso abaixo. O fundo é definido aleatória e
+internamente, por ato praticado fora do concerto de vontades entre os
+
+
+[[pagina 42 | nativo]]
+Estados da Federação, e o que é pior, sobre produtos que têm clara
+vocação interestadual, por envolver alimentos. E relembre-se que, ao exigir
+o FDI, o Estado não abre mão do ICMS, o que torna o ICMS
+maranhense sobretaxado, se levada em conta a soma do ICMS com o
+FDI.
+
+Há mais. Se o fundo foi criado sob o pretexto de melhorias nas
+estradas, a pergunta a ser colocada é a seguinte: qual é a relação entre o
+valor da produção gerada dentro da porteira com o gasto feito pelo Estado
+na estrada, que é usada por todos, sendo certo que muitas vezes o
+investimento é feito em outra região, que não aquela onde está situada a
+fazenda do produtor? Se fosse essa a justificativa de relação entre o critério
+e o aumento da tributação a alíquota violaria claramente a isonomia.
+
+Para os impostos a medida de distinção entre os contribuintes
+é a capacidade contributiva, nos termos do art. 145, § 1º, da Constituição
+Federal, o que evidencia uma clara inconstitucionalidade, como bem
+colocado por Humberto Ávila.14
+
+Na situação em voga não há respeito à capacidade contributiva
+mesmo se considerado que aquele produtor que produz determinado bem
+tem maior capacidade econômica do que o que produz outro bem.
+
+Não há correspondência entre uma coisa e outra, pois não é
+porque o produtor tem uma produtividade maior (ou de valor individual
+maior) que ele irá “gastar mais” estrada. Somente um pensamento arcaico
+poderia respaldar esse tipo de raciocínio. Ou seja, para custear a
+manutenção de despesas com estradas (que são utilizadas por todos) o
+Estado leva em conta a geração de riquezas dentro da fazenda.
+
+14 “O decisivo é que o poder de tributar é limitado pelo critério da capacidade contributiva subjetiva:
+a instituição de impostos ’pessoais’ é inconstitucional quando não obedecer a capacidade
+econômica dos contribuintes”. ÁVILA, Humberto. Teoria da Igualdade Tributária. 2 ed. São Paulo:
+Malheiros, 2009, p. 160.
+
+
+[[pagina 43 | nativo]]
+Destarte, também por violar o art. 155, § 2º, incisos IV, V e
+VI, da Constituição, deve ser declarada a inconstitucionalidade das
+normas de referência do FDI.
+
+IX. A INCONSTITUCIONALIDADE DO FDI SOB A PERSPECTIVA
+ORÇAMENTÁRIA E FINANCEIRA
+
+Chega-se, finalmente, ao último, mas não menos importante,
+ângulo de análise a ser considerado para a declaração de
+inconstitucionalidade postulada. Trata-se da perspectiva que enfoca o FDI
+a partir das suas graves inconsistências à luz dos capítulos da
+Constituição de 1988 dedicados à repartição de receitas tributárias, às
+finanças públicas e ao orçamento (“Título VI – Da Tributação e do
+Orçamento”, “Capítulo II – Das Finanças Públicas”), a chamada
+“Constituição Financeira”.
+
+Não é só a atividade tributária em si que é menosprezada pelo
+FDI. Não há distorções apenas sob os ângulos da igualdade, da legalidade,
+da rígida distribuição de competências, da não-cumulatividade, da
+imunidade das exportações e da liberdade econômica. Também todo o
+arcabouço normativo envolvendo as regras financeiras e orçamentárias do
+Estado são vilipendiadas – escancaradamente vilipendiadas – pelo FDI.
+Tudo à margem absoluta do Estado de Direito.
+
+IX.1. Um mecanismo paralelo de arrecadação
+
+O processo de controle do Estado constitucional não se exaure
+na arrecadação, mas se sujeita a uma série de procedimentos
+condicionados a partir da Constituição Financeira. As palavras de Kiyoshi
+Harada são ilustrativas a esse respeito, ao afirmar que “ao direito de
+autorizar a arrecadação de tributos seguiu-se o direito de controlar as
+despesas, dando origem ao orçamento como processo de fiscalização
+
+
+[[pagina 44 | nativo]]
+financeira e cerceamento das tendências abusivas dos
+governantes”.15
+
+O controle sobre a execução orçamentária é múnus caríssimo
+do administrador público brasileiro na ordem constitucional de 1988. O
+artigo 70 da Constituição16 dispõe que o orçamento será fiscalizado pelo
+Congresso Nacional, mediante controle externo, e pelo sistema de controle
+interno de cada Poder, observando a legalidade, legitimidade,
+economicidade, aplicação das subvenções e renúncia de receitas.17
+
+Vê-se que o princípio da legalidade é nota essencial do Estado
+de Direito e sujeita a atuação estatal à lei. É nesse sentido que se deve
+entender a assertiva de que o Estado, ou o Poder Público, ou os
+administradores não podem exigir qualquer ação, nem impor qualquer
+abstenção, nem mandar, tampouco proibir nada aos administrados, senão
+em virtude de lei.18
+
+Assim, para que o Estado do Maranhão pudesse realizar a
+cobrança do FDI, deveria encontrar na Constituição o permissivo legal
+a essa geração de receita pública, o que não fez, conforme já esclarecido
+nesta peça. Por outro lado, também para gastar os recursos arrecadados
+o Estado há de observar as limitações e regras de controle decorrentes da
+Constituição Financeira, sob pena de atuar de forma incompatível com
+sua natureza de entidade política da Federação.
+
+Acontece que o FDI não é fundo constitucional, isto é, não é
+fundo previsto na Carta da República. Não é, portanto, fundo legítimo. O
+
+15 “Fiscalização Financeira e Orçamentária e a Atuação dos Tribunais de Contas. Controle
+Interno, Controle Externo e Controle Social do Orçamento”. In: Orçamentos Públicos e Direito
+Financeiro. São Paulo: Revista dos tribunais, 2011, p. 1.257 (sem destaques no original).
+16 “Art. 70. A fiscalização contábil, financeira, orçamentária, operacional e patrimonial da União e
+das entidades da administração direta e indireta, quanto à legalidade, legitimidade,
+economicidade, aplicação das subvenções e renúncia de receitas, será exercida pelo Congresso
+Nacional, mediante controle externo, e pelo sistema de controle interno de cada Poder.”
+17 Há correspondência com os artigos 49, X, e 74 da Constituição de 1988.
+18 SILVA, José Afonso. Curso de Direito Constitucional Positivo. 33. ed. São Paulo: Malheiros,
+2009, p. 420.
+
+
+[[pagina 45 | nativo]]
+Estado criou um subsistema de arrecadação, à custa do produtor rural
+e do exportador, sem qualquer exploração de um patrimônio público.
+
+Esse método sui generis de arrecadação e empenho de receitas
+derivadas, nitidamente, viola o arcabouço normativo em vigor. E tudo isso,
+repita-se, driblando a ordem jurídica tributária, mas também ao arrepio
+da Constituição Financeira.
+
+IX.2. A existência de regra constitucional expressa que proíbe a
+criação de fundo para fazer frente a despesas previstas nas leis
+orçamentárias: a pujança da regra estabelecida pela Emenda
+Constitucional nº 109/21
+
+Outro aspecto relevantíssimo desta ADI – e que não foi
+examinado até o momento por esta e. Corte, até mesmo porque à época do
+caso FUNDERSUL sequer existia – envolve o mandamento trazido pela
+Emenda Constitucional nº 109/21, que proíbe a criação de fundo para
+fazer frente a despesas previstas nas leis orçamentárias, como se dá no
+FDI.
+
+O art. 167, inciso XIV, da Constituição, incluído pelo
+constituinte reformador através da EC 109/21, passou a vedar “a
+criação de fundo público, quando seus objetivos puderem ser
+alcançados mediante a vinculação de receitas orçamentárias
+específicas ou mediante a execução direta por programação
+orçamentária e financeira de órgão ou entidade da administração
+pública”.
+
+A regra constitucional inovadora é importante e há de ter sua
+aplicabilidade respeitada neste caso. O que buscou o constituinte,
+claramente, foi tolher a criação desenfreada de fundos, impedindo que tais
+categorias jurídicas fossem instituídas nas hipóteses em que seus
+objetivos possam ser atingidos “mediante a vinculação de receitas
+orçamentárias específicas” ou então “mediante a execução direta
+
+
+[[pagina 46 | nativo]]
+por programação orçamentária e financeira de órgão ou entidade
+da administração pública”.
+
+Ora, o que motivou a exigência do FDI, isto é, qual foi a
+vinculação das receitas arrecadadas às respectivas despesas? De acordo
+com o art. 2º da Lei nº 8.246, o FDI serve para custear “atividades
+governamentais” relacionadas: (i) ao “planejamento” de áreas
+industriais existentes ou a implantar; (ii) ao “diagnóstico” dos distritos
+industriais existentes; (iii) à implantação de polo minero-metalúrgico; (iv)
+ao “mapeamento” socioeconômico das “potencialidades” regionais; (v)
+à ampliação do parque industrial atual; (vi) aos “estudos” de identificação
+de “oportunidades” de investimentos; (vii) à contratação de serviços de
+“cadastramento” físico-jurídico de áreas de interesse; (viii) à
+regularização de áreas; (ix) à “organização de banco de dados” para
+investidores potenciais; (x) à implantação de polo naval e cerâmico; (xi) e
+aos “investimentos e custeio” da infraestrutura rodoviária estadual.
+
+As despesas tipificadas na lei como justificadoras de criação de
+um “fundo” falam por si mesmas. Não há nada aí que possa legitimar uma
+política governamental diferenciada que já não esteja no contexto do
+cotidiano da administração pública. Vale lembrar que a contribuição ao
+FDI aqui questionada foi atrelada pela lei para fazer frente especificamente
+aos gastos com investimentos e custeio da infraestrutura rodoviária
+estadual, mas também esses gastos, por tudo que já foi dito, não
+autorizam a cobrança do fundo.
+
+Pois bem, a pergunta a ser feita é a seguinte: por acaso alguma
+dessas despesas pode ser classificada como extraordinária, que não
+possa ser custeada mediante a vinculação de receita orçamentária
+específica ou – o que é o caso – mediante a execução direta por
+programação orçamentária e financeira de órgão ou entidade da
+administração pública, já constante das leis orçamentárias? Não, não há
+nenhuma que se enquadre nessa exceção e, portanto, não há legitimidade
+para a instituição ou a manutenção de um fundo que está preordenado a
+custear essas despesas corriqueiras.
+
+
+[[pagina 47 | nativo]]
+Questões como políticas públicas em infraestrutura
+envolvendo rodovias estaduais podem e devem ser custeadas com as
+receitas previstas no próprio orçamento. O FDI não é nem um fundo
+transitório, nem está voltado para despesas específicas ou extraordinárias.
+Muito pelo contrário: os seus motivos se inserem em tudo e por tudo nas
+despesas normais do Estado, a serem custeadas pelos impostos.
+
+Portanto, não bastasse a robustez dos demais argumentos
+trazidos nesta peça, o fato é que, diante do mandamento do art. 167, XIV,
+da Carta Constitucional, o fundo estadual não para em pé.
+
+IX.3. A burla ao sistema de repasse do montante arrecadado com o
+ICMS aos Municípios
+
+A Constituição de 1988, como se sabe, cuida do regime de
+repasse dos recursos arrecadados entre os entes federados. Um deles se
+dá por meio do FPM – Fundo de Participação dos Municípios (art. 159).
+Não se pode esquecer que “pertencem aos Municípios: (...) IV – vinte e cinco
+por cento do produto da arrecadação do imposto do Estado sobre operações
+relativas à circulação de mercadorias e sobre prestações de serviços de
+transporte interestadual e intermunicipal e de comunicação” (art. 158, IV,
+da Constituição).
+
+Ora, a partir do momento em que o Estado cria um “ICMS
+paralelo”, com o nome de “fundo”, é evidente que há violações também a
+essas regras orçamentárias, cuja aplicabilidade fica comprometida porque
+o FDI, na prática, não se submete aos mesmos comandos constitucionais
+de controle, isso por força da manobra realizada pelo Estado.
+
+Noutras palavras, quando Maranhão institui uma
+“contribuição” com materialidades e bases de cálculo típicas de ICMS,
+deixando de repassar os valores arrecadados aos Municípios, há uma
+burla ao sistema de transferências de recursos entre os entes federativos,
+o qual foi alçado ao patamar constitucional. Ao adotar essa prática o
+
+
+[[pagina 48 | nativo]]
+Estado menospreza a Constituição da República, o que é um fundamento
+a mais para levar à declaração de inconstitucionalidade do FDI.
+
+IX.4. Violações à Lei de Responsabilidade Fiscal, ao art. 37, caput, e
+ao art. 163 da Constituição da República
+
+A Constituição Financeira é regulamentada em seus
+pormenores por leis infraconstitucionais, a exemplo da Lei nº 4.320/64 e
+da Lei de Responsabilidade Fiscal (Lei Complementar nº 101/00).
+
+Esses diplomas legislativos têm um objetivo muito claro:
+disciplinar, com rigor, o agir do homem público no que pertine ao manejo
+do dinheiro do povo. Não basta apenas normatizar os modos de
+arrecadação dos recursos; hoje, felizmente, a ênfase é muito maior na
+gestão dos recursos públicos.
+
+Nesse particular a denominada Lei de Responsabilidade Fiscal
+foi um passo importante no estabelecimento de novos padrões de gestão
+pública, de maneira a proibir e a punir os administradores que não agirem
+conforme suas regras. O escopo da lei é garantir que a verba pública seja
+aplicada conforme o bem comum.
+
+Todavia, com o FDI não é isso o que se passa, pois a
+“contribuição” contorna os mecanismos de controle, inclusive pela falta de
+orçamento próprio para sua gestão. A pretexto de ser um “fundo”, e não
+tributo, o FDI busca escapar do regime jurídico da Lei de
+Responsabilidade Fiscal, que disciplina o art. 163 da Constituição de
+1988.
+
+Nesse desenho, não há transparência, não há participação
+popular nas discussões das políticas públicas, não há rigor na aplicação
+da lei. Há, sim, violação ao art. 37, caput, da Constituição da República,
+que exige do administrador público o atendimento aos princípios da
+legalidade, impessoalidade, moralidade, publicidade e eficiência. Afinal de
+
+
+[[pagina 49 | nativo]]
+contas, as regras de responsabilidade fiscal alcançam a gestão de fundos
+públicos, devendo guardar observância às normas de controle.
+
+Todavia, o Estado parece não se importar muito com isso. É
+que os arts. 4º e 5º da Lei nº 8.246, de forma absurda, confiam ao
+Conselho Gestor do FDI – cujos integrantes, evidentemente, não são eleitos
+pelo povo – o poder de “gerir e deliberar sobre a aplicação dos
+recursos”.
+
+Como pode isso? Como o dinheiro arrecadado dos produtores
+rurais e das empresas do agro pode ficar sujeito ao bel-prazer de um órgão
+cujos membros não têm legitimidade democrática para “decidir” sobre a
+aplicação dos recursos, inclusive com o poder para estabelecer prioridades
+e a ordem das obras?
+
+Para tudo há de haver um limite, até para os devaneios. A
+legislação cria uma “contribuição” estadual a pretexto de instituir um
+“fundo” para custear despesas ordinárias e confia a um órgão sem
+legitimidade democrática a definição dos destinos dos recursos. É uma
+demonstração escancarada de desrespeito.
+
+Assim, também pelo descumprimento das normas
+orçamentárias e das regras de transparência e controle da gestão fiscal, o
+FDI deve ser declarado inconstitucional.
+
+X. CONCLUSÕES
+
+A exposição minuciosa dos fatos e dos aspectos jurídicos
+relacionados ao FDI demonstra que essa figura está em absoluto
+descompasso com a Constituição da República. O rol de violações é amplo,
+é vastíssimo.
+
+Os argumentos aqui trazidos são autônomos e todos eles
+suficientes para se levar ao pronunciamento de inconstitucionalidade do
+
+
+[[pagina 50 | nativo]]
+fundo. Para tanto, basta uma de duas abordagens: (i) ou bem se
+reconhece, conforme pormenorizadamente demonstrado, que a
+facultatividade do FDI é uma falácia, aplicando-se as já sedimentadas
+regras constitucionais de competência e limitação ao poder de tributar; (ii)
+ou, mesmo que se entenda pela alegada facultatividade (o que não
+corresponde à realidade, pelos motivos expostos), declara-se a
+inconstitucionalidade por violação das regras de controle da
+Administração Pública e do orçamento.
+
+Qualquer saída que se distinga dessas alternativas implicará
+na manutenção desse mecanismo paralelo de arrecadação, em franca
+afronta à Carta Constitucional. O FDI nada mais é do que um
+desdobramento do preocupante alastramento dos “fundos do agro” e por
+isso mesmo deve ser barrado.
+
+Desse modo, o autor espera ver reconhecida a
+inconstitucionalidade dos seguintes dispositivos: arts. 3º, inciso VI e
+parágrafo único; e 3º-A e 3º-B, na íntegra, todos da Lei nº 8.246/05.
+
+XI. OS FUNDAMENTOS PARA CONCESSÃO DE LIMINAR COM O
+OBJETIVO DE SUSPENDER OS EFEITOS DO ATO NORMATIVO
+IMPUGNADO
+
+Percorrido todo esse trajeto, parece claro que o caso está a
+reclamar a concessão de medida liminar, com o intuito de suspender os
+efeitos do ato normativo impugnado.
+
+O Código de Processo Civil prevê no art. 300 a possibilidade de
+concessão de tutela de urgência, a qual será concedida “quando houver
+elementos que evidenciem a probabilidade do direito e o perigo de dano ou
+o risco ao resultado útil do processo”.
+
+É exatamente a hipótese. A probabilidade do direito invocado
+foi demonstrada, articuladamente, em cada um dos itens e subitens desta
+
+
+[[pagina 51 | nativo]]
+peça, todos evidenciando que o programa normativo impugnado apresenta
+sérios e diversos vícios de inconstitucionalidade.
+
+Já o perigo de dano ou o risco ao resultado útil do processo
+decorrem da posição assumida pelo Estado, que previu o FDI de forma
+perene, além de os contribuintes daquele Estado estarem sujeitos à
+obrigatoriedade de recolhimento a esse fundo, o qual é totalmente
+dissociado da ordem constitucional em vigor.
+
+Os artigos 10 a 12 da Lei Federal nº 9.868/99 igualmente
+contêm prescrições no mesmo sentido, assegurando à parte a prerrogativa
+de postular medida cautelar em ação direta, quando estiverem presentes
+os requisitos de relevância e urgência reclamados nas medidas cautelares
+em geral, inclusive com a possibilidade de abreviação do rito para
+julgamento diretamente do mérito da ação, em face da relevância da
+matéria e de seu especial significado para a ordem social e a segurança
+jurídica, como se dá na espécie.
+
+Por essa razão, a concessão de medida liminar que suspenda a
+eficácia dos dispositivos impugnados enquanto estiver a presente ação
+pendente de julgamento de mérito é medida que se impõe.
+
+P E D I D O
+
+Diante do exposto, requer:
+
+a) o recebimento e regular processamento desta ação
+direta de inconstitucionalidade, de tal modo a que este c. Supremo
+Tribunal Federal conceda a medida liminar postulada a título de tutela
+de urgência, com o objetivo de suspender a cobrança do FDI,
+envolvendo especificamente os arts. 3º, inciso VI e parágrafo único; e
+3º-A e 3º-B, na íntegra, todos da Lei nº 8.246/05;
+
+
+[[pagina 52 | nativo]]
+b) em consequência, requer o afastamento momentâneo
+dessas regras, de modo a que os contribuintes maranhenses não sejam
+compelidos a recolher valores a esse “fundo” como condição para o gozo
+de tratamentos tributários diferenciados de ICMS assegurados pela
+legislação local e nacional, incluindo o diferimento e a imunidade
+tributária, para as operações internas, para a realização de transações
+interestaduais e para as exportações de produtos rurais;
+
+c) após, requer a oitiva da Assembleia Legislativa do
+Estado do Maranhão, na pessoa do seu Exm.º Sr. Presidente, e do Exm.º
+Sr. Governador de Estado do Maranhão;
+
+d) na sequência, requer sejam colhidos os pareceres do
+Exm.º Sr. Advogado-Geral da União e do Exm.º Sr. Procurador-Geral da
+República;
+
+e) por fim, requer a confirmação da medida liminar e o
+julgamento de integral procedência do pedido, com o intuito de se
+pronunciar a inconstitucionalidade dos dispositivos indicados na
+alínea “a” do pedido, de tal modo a se invalidar a cobrança da
+contribuição ao “Fundo Estadual de Desenvolvimento Industrial e de
+Infraestrutura do Estado do Maranhão – FDI”, instituído por aquele
+Estado;
+
+f) como desdobramento do julgamento de procedência,
+requer o afastamento em definitivo dessas regras, de modo a que os
+contribuintes maranhenses não sejam compelidos a recolher valores a
+esse “fundo” como condição para o gozo de tratamentos tributários
+diferenciados de ICMS assegurados pela legislação local e nacional,
+incluindo o diferimento e a imunidade tributária, para as operações
+internas, para a realização de transações interestaduais e para as
+exportações de produtos rurais.
+
+O autor junta neste ato todos os documentos exigidos na
+legislação, bem como aqueles necessários à adequada compreensão da
+causa, inclusive cópia atual do ato normativo impugnado, na forma
+
+
+[[pagina 53 | nativo]]
+exigida pelo art. 3º, parágrafo único, da Lei Federal nº 9.868/99.
+
+Dá-se à causa, apenas para fins fiscais em razão da
+incomensurabilidade do direito em discussão, o valor de R$ 10.000,00 (dez
+mil reais).
+
+Por fim, requer-se a anotação do nome dos subscritores
+desta, para que todas as intimações sejam realizadas em nome de
+LEONARDO FURTADO LOUBET (OAB/MS 9.444), MANUEL EDUARDO
+C. M. BORGES (OAB/SP 280.216), MARCELO GUARITÁ BORGES
+BENTO (OAB/SP 207.199), PEDRO GUILHERME GONÇALVES DE
+SOUZA (OAB/SP 246.785), RODOLFO GIL MOURA REBOUÇAS (OAB/DF
+31.994) e ANA CAROLINA SPONZA BRAGA (OAB/RJ 158.492), sob pena
+de nulidade.
+
+Termos em que, pede deferimento.
+
+Brasília, 26 de junho de 2023.
+
+Leonardo Furtado Loubet Marcelo Guaritá Borges Bento
+OAB/MS 9.444 OAB/SP 207.199
+
+Pedro Guilherme G. de Souza Manuel Eduardo C. M. Borges
+OAB/SP 246.785 OAB/SP 280.216
+
+Rodolfo Gil Moura Rebouças Ana Carolina Sponza Braga
+OAB/DF 31.994 OAB/RJ 158.492
+
+Leonardo Arruda Souza
+OAB/MA 23.177
+
+
+[[pagina 54 | nativo]]
+RELAÇÃO DE DOCUMENTOS
+
+I. Procuração
+
+II. Estatuto do autor
+
+III. Ata de eleição da Diretoria
+
+IV. Cópia integral consolidada do texto em vigor da Lei
+Estadual nº 8.246 do Estado do Maranhão, de 25 de maio
+de 2005
+
+Assinado de forma LEONARDO
+digital por LEONARDO
+FURTADO LOUBET FURTADO
+Dados: 2023.06.26
+LOUBET 10:55:04 -04'00'
+
+

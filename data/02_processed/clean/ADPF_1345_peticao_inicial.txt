@@ -1,0 +1,1546 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO RELATOR DO SUPREMO TRIBUNAL
+FEDERAL
+
+Requer-se, preliminarmente, com fundamento no art. 66, § 1º, do Regimento Interno do Supremo Tribunal
+Federal, a integral preservação e a imediata disponibilização dos registros técnicos, metadados, logs e trilhas
+de auditoria relativos à distribuição eletrônica da presente ação constitucional, haja vista que a higidez dos
+atos certificadores automatizados constitui o próprio objeto da controvérsia sob exame.
+
+ASSOCIAÇÃO CIVITAS PARA CIDADANIA E CULTURA, associação civil sem fins
+lucrativos, pessoa jurídica de direito privado, inscrita no CNPJ sob o nº 31.522.644/0001-
+73, neste ato representada por sua Presidente, conforme instrumento de mandato anexo,
+vem, respeitosamente, à presença de Vossa Excelência, com fundamento no artigo 102,
+§1º, da Constituição da República e na Lei nº 9.882/1999, propor a presente
+
+ARGUIÇÃO DE DESCUMPRIMENTO
+DE PRECEITO FUNDAMENTAL
+COM PEDIDO DE MEDIDA LIMINAR
+
+em face do complexo normativo, administrativo e tecnológico que disciplina a emissão e
+a governança dos atos certificadores estruturantes no âmbito do Processo Judicial
+Eletrônico nacional — notadamente aqueles destinados a definir competência
+jurisdicional, prevenção, redistribuição e trânsito em julgado —, por ausência de regime
+constitucional uniforme que assegure a auditabilidade, a rastreabilidade, a autoria
+técnica, a segregação funcional e a responsabilização institucional de tais atos, cuja
+produção tecnológica imediata de efeitos processuais impacta diretamente garantias
+fundamentais da jurisdição, conforme os fundamentos de fato e de direito a seguir
+expostos.
+
+
+[[pagina 2 | nativo]]
+PRELIMINARMENTE
+
+A Atemporalidade da Constituição Federal e a Recalibragem dos Sistemas de Freios
+e Contrapesos à Luz da Jurisdição Digital
+
+A Constituição da República foi concebida em momento histórico no qual a atividade
+jurisdicional desenvolvia-se predominantemente em ambiente analógico. O constituinte
+originário não disciplinou a distribuição eletrônica de processos, a certificação
+automatizada, os algoritmos de prevenção ou os sistemas informatizados de gestão
+processual. Tampouco poderia fazê-lo.
+
+Essa circunstância, entretanto, não revela uma lacuna constitucional, mas uma
+característica inerente às Constituições que se consagram no tempo porque o
+transcendem. A Constituição não regula tecnologias, ela calibra o exercício do poder.
+Seus princípios estruturantes possuem vocação atemporal exatamente porque foram
+concebidos para disciplinar formas futuras de manifestação da autoridade estatal,
+independentemente do suporte tecnológico empregado.
+
+À medida que o processo judicial se tornou progressivamente eletrônico, parcela
+relevante da atividade estatal migrou da atuação humana visível para arquiteturas
+digitais, rotinas automatizadas e atos administrativos produzidos em ambiente
+informacional — sem que os mecanismos constitucionais de controle acompanhassem
+essa transformação. A forma de exercício do poder transformou-se, os limites
+constitucionais ao seu exercício, contudo, permaneceram os mesmos.
+
+Não se exige, portanto, uma nova Constituição para a era digital. A tarefa que cabe ao
+Supremo Tribunal Federal é balizar a correta incidência dos mecanismos constitucionais
+já existentes no mundo algorítmico.
+
+Os princípios do devido processo legal, do juiz natural, da ampla defesa e contraditório,
+publicidade, da impessoalidade e do sistema de freios e contrapesos não perderam
+eficácia com a informatização da Justiça. Ao contrário, reclamam permanente
+recalibragem hermenêutica para preservar, sob novas formas tecnológicas, as mesmas
+garantias que sempre buscaram assegurar.
+
+A presente Arguição insere-se em movimento internacional de fortalecimento da
+governança pública digital, em consonância com os compromissos assumidos pelo Brasil
+no âmbito da Agenda 2030 (ODS 16 – Paz, Justiça e Instituições Eficazes), que reconhece
+a transparência, a responsabilização e a auditabilidade como elementos essenciais à
+legitimidade das instituições públicas.
+
+Pretende colaborar com a formação de consenso e estimular o amplo debate que
+precede toda inovação institucional de envergadura constitucional.
+
+
+[[pagina 3 | nativo]]
+Ao expor preceitos conforme ocorrem no espectro digital, a Suprema Corte é chamada a
+rever os mecanismos de controle constitucional que historicamente limitaram o exercício
+do poder estatal.
+
+A tecnologia deve operar como vetor de expansão das garantias fundamentais 1 e no
+momento em que a inovação tecnológica altera o exercício do poder estatal, exige-se a
+correspondente aferição dos mecanismos de controle — sempre orientada pela
+finalidade constitucional de fortalecer, e nunca de restringir, o núcleo essencial dos
+direitos fundamentais.
+
+I. DO CABIMENTO, DA LEGITIMIDADE ATIVA ADCAUSAME DA SUBSIDIARIEDADE
+
+1.1. Da Legitimidade Ativa e Pertinência Temática
+
+A Arguente, Associação Civitas para Cidadania e Cultura, é associação civil de âmbito
+nacional, constituída com a finalidade estatutária de promover a cidadania, a cultura, a
+transparência institucional, a proteção de dados pessoais, a inclusão digital e o
+fortalecimento das instituições democráticas, conforme dispõe seu Estatuto Social.
+
+Suas finalidades estatutárias foram deliberadamente formuladas em caráter permanente,
+geral e principiológico, defesa de direitos fundamentais, interesses difusos e coletivos e
+ao aperfeiçoamento das instituições públicas, voltadas à tutela de direitos fundamentais,
+em consonância com os arts. 1º, II, III e V, 5º, XXXV e 127 da Constituição, afastando
+qualquer finalidade casuística ou direcionamento voltado à impugnação de situações
+específicas.
+
+A presente Arguição insere-se diretamente nesse campo de atuação institucional,
+porquanto discute parâmetros constitucionais de transparência, auditabilidade,
+governança administrativa e devido processo na jurisdição digital, matérias que guardam
+relação imediata com os objetivos estatutários da associação.
+
+Além da pertinência temática, a propositura da presente ação foi expressamente
+autorizada por deliberação da Assembleia Geral Extraordinária da entidade, conforme ata
+anexa, atendendo às exigências fixadas pela jurisprudência desta Suprema Corte quanto
+à representação processual das associações. Tal deliberação evidencia que a atuação da
+entidade decorre de decisão institucional regularmente tomada por seus órgãos
+deliberativos, reforçando a representatividade e a legitimidade democrática da presente
+iniciativa.
+
+1 Esta Suprema Corte já assentou que o progresso científico e tecnológico deve ser interpretado em
+conformidade com a Constituição e a dignidade da pessoa humana (ADI 3510)
+
+
+[[pagina 4 | nativo]]
+A pretensão deduzida possui natureza objetiva e volta-se à tutela de direitos e garantias
+de alcance nacional, circunstância compatível com a vocação institucional da Arguente e
+com a eficácia geral própria da Arguição de Descumprimento de Preceito Fundamental.
+
+Desse modo, o nexo de afinidade evidencia-se de forma nítida: discute-se na presente
+ação o aperfeiçoamento republicano e a conformação constitucional da infraestrutura
+tecnológica que ampara os atos administrativos de certificação do Poder Judiciário.
+Trata-se de resguardar o devido processo legal contra a opacidade algorítmica e
+sistêmica — temática que se situa exatamente no epicentro das finalidades institucionais
+da Arguente.
+
+A presente Arguição também convida esta Suprema Corte a refletir sobre a adequada
+conformação da legitimidade ativa das entidades da sociedade civil diante das novas
+formas de tutela dos direitos fundamentais na era digital.
+
+Sem afastar o regime constitucional do art. 103 da Constituição da República, sustenta-se
+que sua interpretação deve ser compatibilizada com os princípios da máxima efetividade
+da Constituição, do acesso à jurisdição constitucional e da participação da sociedade civil
+na proteção de direitos de natureza difusa e estrutural.
+
+A transformação tecnológica do Estado produziu novos espaços de incidência de
+preceitos fundamentais cuja tutela reclama a atuação institucional de entidades
+vocacionadas à defesa da cidadania digital, da transparência e da integridade das
+instituições democráticas.
+
+Presentes, portanto, a pertinência temática, a deliberação institucional específica e a
+vocação estatutária para a tutela de interesses difusos relacionados à cidadania digital e à
+integridade das instituições públicas, encontra-se demonstrada a legitimidade da
+Arguente para provocar esta Suprema Corte no exercício da jurisdição constitucional
+objetiva.
+
+1.2. Da Satisfação do Princípio da Subsidiariedade
+
+A presente arguição dirige-se contra um déficit estrutural de tutela constitucional
+decorrente da inexistência de disciplina constitucional e institucional adequada para a
+atividade certificadora exercida no âmbito do processo judicial eletrônico brasileiro.
+
+A lesão aos preceitos fundamentais aqui denunciada não emana de uma decisão judicial
+isolada, tampouco se exaure em um único ato administrativo fragmentado.
+
+
+[[pagina 5 | nativo]]
+O objeto desta insurgência é o complexo normativo, procedimental e tecnológico
+responsável pela emissão de certidões que estruturam a marcha processual e produzem
+efeitos imediatos sobre direitos fundamentais, desprovido de um regime constitucional
+suficiente de auditabilidade, autoria técnica, rastreabilidade, responsabilização funcional
+e controle institucional.
+
+Cuida-se de uma deficiência sistêmica que transcende lides individuais e se manifesta de
+forma endêmica em diferentes instâncias do Poder Judiciário, conforme descortinado
+pelos paradigmas empíricos que instruem a exordial.
+
+Sob essa ótica, a controvérsia constitucional deduzida ao crivo deste Pretório Excelso é a
+própria inexistência de mecanismos institucionais e regulatórios aptos a assegurar
+que atos administrativos certificadores informatizados — dotados de severo impacto
+restritivo ou ampliativo de garantias constitucionais — sejam emitidos mediante
+procedimento auditável, documentalmente reconstruível e sujeito a efetivo controle
+externo.
+
+Evidencia-se, portanto, a total ausência de instrumento processual de índole subjetiva
+apto a arrostar essa deficiência estrutural de forma sistêmica. Recursos ordinários, habeas
+corpus, mandados de segurança, reclamações constitucionais ou incidentes processuais
+tópicos revelam-se manifestamente inidôneos para o escopo pretendido: permitem,
+quando muito, impugnar os efeitos de certidões individuais produzidos em determinado
+processo interpartes.
+
+Nenhum desses remédios detém aptidão dogmática para submeter ao controle
+concentrado de constitucionalidade a engenharia institucional que disciplina a
+certificação dos fatos processuais em toda a extensão do Poder Judiciário nacional.
+
+Desse modo, o princípio da subsidiariedade, insculpido no art. 4º, § 1º, da Lei nº
+9.882/1999, encontra-se plenamente satisfeito. Inexiste outro meio processual eficaz,
+dotado de idoneidade e amplitude, capaz de produzir provimento uniforme e
+centralizado para sanar a omissão sistêmica que alcança, indistintamente, a certificação
+da distribuição, da prevenção, da redistribuição e da estabilização da coisa julgada.
+
+A jurisprudência consolidada desta Suprema Corte consagra o entendimento de que a
+subsidiariedade na ADPF deve ser apreciada sob uma perspectiva material. Vale dizer:
+afere-se a adequação da via pela capacidade real de o meio processual eliminar a lesão
+constitucional de forma ampla, geral e definitiva, e não mediante um exame meramente
+formal da existência abstrata de outras vias impugnativas.
+
+
+[[pagina 6 | nativo]]
+A presente Arguição não pretende o reconhecimento de Estado de Coisas
+Inconstitucional, nos moldes da ADPF 3472. O precedente, contudo, possui elevada
+relevância metodológica, ao afirmar que determinadas violações constitucionais não
+decorrem de atos isolados, mas de deficiências estruturais de governança institucional,
+cuja superação reclama providências igualmente estruturais.
+
+Ao permitir que atos tecnológicos dotados de eficácia imediata sobre a liberdade e o juiz
+natural sejam gerados à margem de um regime uniforme de auditabilidade e autoria
+técnica, cria-se uma ausência de parâmetros constitucionais de governança atividade
+certificadora dos atos e uma intolerável zona de penumbra ou de não controle
+constitucional. É esse déficit estrutural que a presente Arguição pretende romper
+submetendo a questão ao controle concentrado desta Suprema Corte.
+
+A recusa de conhecimento da presente Arguição implicaria admitir que parcela relevante
+da infraestrutura administrativa responsável pela constituição e certificação dos fatos
+processuais permanecesse imune ao controle concentrado de constitucionalidade,
+resultado incompatível com a função integradora da ADPF e com a supremacia da
+Constituição.
+
+II. DO OBJETO DA AÇÃO E DA QUESTÃO CONSTITUCIONAL SUBEXAMINE
+
+A presente Arguição de Descumprimento de Preceito Fundamental submete ao Supremo
+Tribunal Federal questão constitucional inédita e de acentuada repercussão institucional,
+decorrente da transição paradigmática para a jurisdição digital brasileira.
+
+O objeto da controvérsia reside no reconhecimento de um déficit estrutural de
+proteção a preceitos fundamentais decorrente da ausência de um regime jurídico-
+constitucional de governança, auditabilidade e segregação funcional dos atos
+certificadores eletrônicos.
+
+Cuida-se, especificamente, da atividade administrativa informatizada voltada a certificar
+fatos processuais estruturantes — tais como a distribuição, a prevenção, a redistribuição,
+a remessa, o arquivamento e a estabilização do trânsito em julgado —, cujos efeitos
+jurídicos operam modificações imediatas em garantias constitucionais dos
+jurisdicionados.
+
+2 ADPF 347/DF, Relator: Min. Marco Aurélio; Redator para o acórdão: Min. Luís Roberto Barroso, Tribunal
+Pleno, julgado em 04/10/2023.
+
+
+[[pagina 7 | nativo]]
+A evolução tecnológica operou uma translação funcional no cerne do procedimento: a
+produção de efeitos processuais de alta densidade migrou substancialmente para atos
+automatizados de certificação eletrônica. Sob a veste de meros registros, esses atos
+passaram a determinar, de forma soberana e autônoma, o nascimento, a modificação, a
+estabilização ou a extinção de relevantes situações jurídicas e competências processuais.
+
+Todavia, enquanto a práxis tecnológica avançou, a arquitetura institucional do Poder
+Judiciário permaneceu atrelada à dogmática do processo físico tradicional, época em que
+a atividade certificadora detinha natureza meramente acessória, retrospectiva e
+documental.
+
+Na jurisdição digital contemporânea, a certidão desgarrou-se de sua condição de simples
+expediente cartorário para assumir autêntica função regulatória e constitutiva da
+marcha processual, incidindo diretamente sobre o princípio do juiz natural (art. 5º, XXXVII
+e LIII), do devido processo legal (art. 5º, LIV), do contraditório (art. 5º, LV) e o acesso à
+jurisdição (art. 5º, XXXV).
+
+A despeito dessa profunda metamorfose funcional, verifica-se um vácuo normativo e
+regulatório proporcional às consequências jurídicas produzidas. Inexiste disciplina jurídica
+adequada que imponha critérios estritos de autoria técnica, auditabilidade material,
+rastreabilidade reversa, responsabilização funcional e transparência algorítmica sobre
+esses atos, ensejando a formação de um espaço institucional de opacidade técnica
+incompatível com os ditames dos arts. 5º, incisos XXXV, LIII, LIV e LV; 37, caput; e 93,
+inciso IX, da Constituição da República.
+
+À vista disso, a presente Arguição propõe o reconhecimento do Princípio da
+Auditabilidade do Ato Certificador como o segundoelementoestruturante da teoria
+do Devido Processo Tecnológico.
+
+Por este postulado, nenhum ato administrativo-tecnológico de certificação apto a balizar
+ou restringir garantias fundamentais poderá irradiar consequências jurídicas sem
+resguardar, de maneira permanente, ostensiva e publicamente verificável, os seguintes
+requisitos de validade:
+
+I – A autoria funcional: identificação precisa e inequivocável do agente ou do parâmetro
+sistêmico responsável pela emissão;
+
+II – Os pressupostos objetivos: demonstração empírica e documental dos elementos
+fáticos que justificaram o teor do ato;
+
+
+[[pagina 8 | nativo]]
+III – A origem tecnológica ou administrativa: mapeamento da matriz sistêmica, rotina
+ou código que processou a informação;
+
+IV – A cadeia documental de formação: preservação histórica e ordenada de todas as
+etapas e atos preparatórios que antecederam a emissão; e
+
+V – A trilha permanente de auditoria: manutenção de registros digitais (logs) imutáveis
+que permitam a reconstrução retrospectiva e o controle externo independente de toda a
+sua trajetória jurídica.
+
+Os documentos que instruem a presente Arguição revelam que o déficit de
+auditabilidade da atividade certificadora manifesta-se sob diferentes paradigmas
+empíricos.A demonstração desta lacuna de accountability da atividade certificadora se
+manifesta sob padrões recorrentes e objetivamente identificáveis, os quais servem como
+matriz interpretativa para a compreensão dos paradigmas concretos examinados no
+capítulo seguinte.
+
+Exemplos práticos da violação do preceito, cujas evidências ora se junta, na ação cível nº
+1002099-11, a deficiência é inequívoca, o sistema deixou de emitir ato certificador de
+decurso de prazo (revelia), e posteriormente expediu manualmente certidão de trânsito
+em julgado na pendência de recurso em julgamento. Outro caso, o HC 835719, houve
+menção de trânsito em julgado que estava superado diante superveniência de ordem de
+Habeas Corpus proferida pelo mesmo Relator. Há, ainda, situações (Rext em Revisão
+Criminal) em a certidão foi exarada atribuindo imutabilidade enquanto a parte estava
+impedida – pelo próprio Estado - de exercer contraditório, e a Decisão Terminativa não
+foi prolatada pelo órgão competente, ou seja, não foi observado o preenchimento dos
+pressupostos que autorizariam sua emissão.
+
+A jurisprudência desta Suprema Corte igualmente consolidou que a publicidade
+administrativa, o acesso à informação e a transparência constituem pressupostos da
+legitimidade do exercício do poder estatal, admitindo restrições apenas quando
+estritamente justificadas por fundamento constitucional idôneo (ADI 55273, ADI 63514 e
+ADI 62525).
+
+Tais premissas irradiam-se igualmente sobre os atos administrativos certificadores que
+estruturam a jurisdição digital.
+
+3 Ação Direta de Inconstitucionalidade, Min. Rosa Weber. Julgado em 27/11/2024
+4 Ação Direta de Inconstitucionalidade, Min. Alexandre de Moraes. Julgado em 30/04/2020.
+5 Ação Direta de Inconstitucionalidade, Min. Marco Aurélio, julgado em 04/12/2020
+
+
+[[pagina 9 | nativo]]
+O Inquérito 5026 é utilizado como paradigma concreto da presente controvérsia
+constitucional, por evidenciar, em dimensão objetiva e atual, a insuficiência dos atuais
+mecanismos de governança dos atos certificadores. A impugnação dirige-se ao modelo
+normativo que permitiu sua emissão, e não apenas ao ato individualmente considerado.
+
+III. DO DÉFICIT ESTRUTURAL DE GOVERNANÇA: PARADIGMAS EMPÍRICOS
+Esta Arguição expõe um déficit estrutural dos atos certificadores praticados no âmbito do
+processo judicial eletrônico em âmbito nacional, cuja repercussão se manifesta de forma
+endêmica e reiterada.
+
+A atividade certificadora, delegada às Secretarias e serventias judiciais subordinadas,
+carece de um regime de controle que resguarde as garantias do devido processo legal e
+tecnológico.
+
+Para além de meras falhas operacionais ou erros humanos isolados, a análise do
+ecossistema judiciário descortina uma deficiência arquitetônica na engenharia regulatória
+dos fatos processuais. Esse fenômeno encontra-se objetivamente documentado em
+marcadores empíricos que transcendem lides individuais e alcançam todos os graus de
+jurisdição:
+
+ No Supremo Tribunal Federal — o INQ 5026 Corporifica o arquétipo da
+opacidade na fixação da competência jurisdicional. A cadeia político-
+administrativa de constituição, modificação e declínio da prevenção do juiz
+natural operou-se por meio de atos certificadores que não se apresentam
+documentalmente demonstráveis ou sindicáveis pelas vias ordinárias de auditoria
+processual.
+
+ No Superior Tribunal de Justiça — o HC 835.719 ilustra a gravidade da
+irradiação de efeitos nocivos por atos informatizados acríticos. No referido writ, a
+menção a uma suposta certidão de trânsito em julgado materialmente inexistente
+vinculou e induziu a erro o julgamento colegiado, evidenciando a força coercitiva
+de fatos gerados por sistemas descompassados com a realidade dos autos.
+
+ Na Segunda Instância Estadual (RExt na Revisão Criminal nº 2218921-
+86.2023.8.26.0000 – TJSP) documenta certidão de trânsito em julgado emitida
+em sede de Revisão Criminal indeferida liminarmente, sem demonstração objetiva
+da competência do órgão julgador, e em momento em que a Defesa estava
+impedida pelo próprio Estado de exercer contraditório.
+
+
+[[pagina 10 | nativo]]
+ Na Primeira Instância Criminal (Ação Penal nº 0014146-61.2021.8.26.0050 -
+TJSP) foram expedidas sucessivas e conflitantes certidões de trânsito em julgado
+no mesmo processo, revelando a ausência de critérios uniformes de
+verificabilidade e controle dos atos certificadores das serventias digitais.
+
+ Na Primeira Instância Cível (Ação Cível nº 1002099-11.2022.8.26.0565 -
+TJSP) está documentada revelia por falha sistêmica na emissão da certidão de
+decurso de prazo, a marcha processual permitiu intervenção anômala de terceiros
+seis meses após a citação, subvertendo a ordem preclusiva do procedimento.
+Posteriormente, foi exarada certidão de trânsito em julgado quando pendente
+recurso de julgamento, cuja tentativa de impugnação específica pela via do
+Mandado de Segurança (MS nº 2000378-48.2025.8.26.0000) restou obstaculizada
+por nova decisão despida de competência do Órgão Especial, evidenciando o
+círculo vicioso de falha estrutural e o completo esgotamento e a ineficácia dos
+meios ordinários para estancar a lesão.
+
+Embora distintos quanto ao objeto processual, todos esses paradigmas revelam a mesma
+deficiência constitucional: a inexistência de um regime jurídico apto a assegurar a
+auditabilidade, a rastreabilidade, a autoria técnica e a responsabilidade institucional
+dos atos certificadores que estruturam a marcha do processo eletrônico.
+
+A análise conjunta desses marcadores empíricos afasta a hipótese de mero erro humano
+ou falha operacional isolada. Nobre Ministro Relator, os padrões acima identificados não
+constituem formulações abstratas, são paradigmas concretos e documentados,
+provenientes de diferentes órgãos e graus de jurisdição, cuja análise conjunta evidencia
+que a deficiência observada possui natureza sistêmica, e não episódica.
+
+Trata-se, ao revés, de uma característica arquitetônica e estrutural da atual governança
+dos atos certificadores no processo eletrônico nacional, a qual reclama intervenção
+corretiva uniforme por parte deste Supremo Tribunal Federal.
+
+3.1. Da Inexistência de Controle Abstrato sobre a Atividade Certificadora e da
+Configuração de Espaço de Não-Sindicabilidade
+
+A jurisdição brasileira dispõe de uma malha densa e sofisticada de controle sobre a
+atividade jurisdicional propriamente dita, operada por meio de recursos ordinários e
+extraordinários, ações autônomas de impugnação, reclamações constitucionais e
+institutos de natureza correcional-disciplinar. Não obstante, verifica-se uma lacuna
+absoluta no que se refere a mecanismos equivalentes voltados ao controle abstrato e
+sistêmico da atividade certificadora informatizada.
+
+
+[[pagina 11 | nativo]]
+A despeito de os atos tecnológicos de certificação operarem modificações imediatas e
+gravosas em garantias fundamentais — tais como o juiz natural, a imutabilidade da coisa
+julgada, o contraditório e a ampla defesa —, eles permanecem em uma zona de não-
+sindicabilidade. Essa assimetria regulatória evidencia o severo déficit de tutela
+constitucional que impulsiona o conhecimento da presente Arguição.
+
+IV. DA EVOLUÇÃO DOUTRINÁRIA E DOGMÁTICA DA TEORIA DO DEVIDO
+PROCESSO TECNOLÓGICO
+
+4.1. Da Natureza Jurídica do Ato Certificador e da Competência Certificadora
+
+No paradigma do Devido Processo Tecnológico, opera-se uma translação dogmática
+fundamental: a certidão deixa de ser compreendida como mero espelho retrospectivo e
+documental de um fato consumado para assumir a natureza de ato administrativo
+constitutivo e regulatório autônomo, dotado de severo impacto restritivo ou ampliativo
+sobre as garantias processuais.
+
+Por conseguinte, a fé pública desse registro desvincula-se da simples assinatura aposta
+ao documento e passa a emanar estritamente da auditabilidade material e da
+rastreabilidade reversa dos elementos fáticos que justificaram sua emissão, em estrita
+observância ao art. 37, caput, da Lei Maior. Daí se origina uma competência
+administrativa própria e autônoma: a competência certificadora.
+
+O agente público ou o parâmetro sistêmico responsável pelo ato não exerce atividade
+jurisdicional, mas sim o controle vinculante de conformidade dos pressupostos legais.
+Se os requisitos objetivos não estiverem integralmente presentes nos autos, o dever
+funcional desloca-se da certificação para a adoção da providência saneadora adequada.
+Sob essa ótica, o agente certificador subordina-se exclusivamente à legalidade e à
+realidade dos autos, não podendo ser compelido a emitir certidão por ingerência
+hierárquica superior quando eivada de desconformidade material.
+
+4.2. O Nexo Epistemológico com o Juiz Natural Digital e a Necessidade de
+Integração Sistêmica
+
+A presente Arguição representa o desenvolvimento dogmático da construção inaugurada
+perante esta Suprema Corte na ADPF nº 1.330, em que se propôs o reconhecimento do
+Princípio do Juiz Natural Digital como primeiro elemento estruturante do Devido
+Processo Tecnológico, destinado a assegurar a integridade constitucional da distribuição
+eletrônica dos processos.
+
+
+[[pagina 12 | nativo]]
+O aprofundamento da pesquisa jurídica e a análise dos paradigmas empíricos revelaram,
+contudo, que a distribuição constitui apenas uma etapa da formação da competência
+jurisdicional.
+
+A regularidade do juiz natural depende igualmente da integridade dos atos
+administrativos que constituem, modificam, estabilizam ou extinguem situações
+processuais relevantes ao longo da tramitação.
+
+A proteção constitucional do juiz natural não se esgota, portanto, na auditabilidade do
+algoritmo de distribuição. Ela exige, igualmente, que os atos certificadores responsáveis
+por reconhecer fatos processuais estruturantes — como a prevenção, a redistribuição e o
+trânsito em julgado — observem parâmetros mínimos de verificabilidade, rastreabilidade
+e responsabilidade funcional.
+
+Essa constatação gera a necessidade de reconhecer o Princípio da Auditabilidade do
+Ato Certificador como segundo elemento estruturante do Devido Processo Tecnológico.
+Enquanto o Juiz Natural Digital assegura a integridade da formação inicial da
+competência jurisdicional, a Auditabilidade do Ato Certificador preserva sua integridade
+ao longo de toda a marcha processual, impedindo que fatos processuais produzidos por
+atos administrativos desprovidos de verificabilidade comprometam garantias
+constitucionais.
+
+A presente Arguição limita-se à demonstração da necessidade constitucional desse
+princípio. Os aspectos técnicos e institucionais relacionados à sua implementação serão
+objeto de estudo específico a ser oportunamente apresentado como contribuição
+doutrinária aos autos, caso esta Suprema Corte entenda útil o aprofundamento da
+matéria no âmbito de eventual tutela estrutural.
+
+V. DOS FUNDAMENTOS JURÍDICOS: A MUTAÇÃO DOS ATOS CERTIFICADORES NA
+JURISDIÇÃO DIGITAL
+
+5.1. A Translação para a Jurisdição Digital e a Transformação Constitucional da
+Atividade Certificadora
+
+A virtualização da jurisdição não representou mera alteração do suporte documental do
+processo. A transformação digital modificou a própria arquitetura dos atos responsáveis
+pela constituição, estabilização e extinção das situações jurídicas processuais.
+
+No modelo tradicional do processo físico, a atividade certificadora desempenhava função
+predominantemente documental, limitada ao registro de acontecimentos processuais
+materialmente verificáveis. Na jurisdição digital, contudo, os atos certificadores passaram
+a integrar a própria infraestrutura de funcionamento do processo eletrônico.
+
+
+[[pagina 13 | nativo]]
+Distribuições, prevenções, redistribuições, trânsitos em julgado, remessas, arquivamentos,
+recolhimentos de custas e inúmeros outros eventos passaram a produzir efeitos jurídicos
+mediante certificação administrativa praticada em ambiente tecnológico.
+
+Essa evolução alterou a natureza jurídica da atividade certificadora, já que o ato
+certificador deixou de constituir simples expediente cartorário para assumir função
+estruturante da marcha processual, tornando-se elemento indispensável à produção de
+diversos efeitos processuais.
+
+Quando a certificação administrativa passa a definir competência, estabilizar decisões ou
+reconhecer fatos processuais dos quais dependem garantias fundamentais, sua emissão
+deixa de representar simples ato interno de administração judiciária para converter-se em
+verdadeiro pressuposto do exercício válido da jurisdição.
+
+5.2. O Princípio da Auditabilidade do Ato Certificador
+
+A Constituição da República não exige transparência como um valor abstrato, exige-a
+porque todo exercício do poder estatal deve permanecer sujeito ao controle
+democrático, ao contraditório e à responsabilização institucional.
+
+A progressiva digitalização da atividade jurisdicional deslocou parcela relevante do
+exercício desse poder para atos administrativos certificadores que passaram a produzir,
+de forma imediata, efeitos sobre a competência jurisdicional, a estabilização de decisões,
+a abertura e encerramento de prazos, o trânsito em julgado e diversos outros fatos
+processuais estruturantes.
+
+Essa transformação rompeu o paradigma clássico do processo físico, o que antes era uma
+certificação com função predominantemente documental, hoje passa a integrar a própria
+infraestrutura de produção dos efeitos processuais.
+
+Em outras palavras, a atividade certificadora passou a exercer verdadeiro poder
+regulatório sobre a marcha processual.
+
+Em termos constitucionais, toda atividade estatal apta a produzir efeitos jurídicos
+imediatos sobre direitos e garantias fundamentais faz surgir, como contrapartida
+necessária, o dever do Estado de assegurar mecanismos proporcionais de controle sobre
+a regularidade de seu exercício, em conformidade com os arts. 5º, LIV e LV, 37, caput, e
+93, IX, da Constituição da República.
+
+É precisamente dessa relação indissociável entre o exercício do poder e a possibilidade
+de seu controle que emerge o Princípio da Auditabilidade do Ato Certificador.
+
+
+[[pagina 14 | nativo]]
+Esse princípio exige que todo ato certificador permaneça permanentemente vinculado à
+demonstração objetiva dos pressupostos jurídicos que autorizaram sua emissão, à
+preservação de sua cadeia documental de formação e à preservação dos elementos
+necessários ao controle posterior de sua regularidade, ou seja, não se exaure apenas com
+a identificação formal do agente responsável pela certificação.
+
+A auditabilidade, portanto, não constitui simples requisito tecnológico nem formalidade
+administrativa, trata-se de garantia constitucional destinada a assegurar que o exercício
+do poder estatal na jurisdição digital permaneça permanentemente demonstrável,
+verificável e sujeito ao controle republicano.
+
+5.3. O Déficit Estrutural de Governança da Atividade Certificadora
+
+Apesar da centralidade adquirida pelos atos certificadores na arquitetura contemporânea
+do processo eletrônico, inexiste regime institucional de governança compatível com a
+relevância constitucional dos efeitos que produzem.
+
+O modelo atualmente vigente presume a regularidade das certidões emitidas, mas não
+assegura mecanismos proporcionais destinados à reconstrução do ato certificador, à
+identificação objetiva dos pressupostos que autorizaram sua emissão, à preservação de
+sua cadeia documental ou à manutenção de trilhas permanentes de auditoria.
+
+Essa deficiência não decorre da informatização do processo em si. Ao contrário, resulta
+da ausência de adaptação dos mecanismos constitucionais de controle à crescente
+centralidade assumida pela atividade certificadora no processo eletrônico.
+
+Sempre que atos administrativos passam a definir competência jurisdicional, inaugurar
+ou extinguir prazos, reconhecer o trânsito em julgado ou produzir outros efeitos
+estruturantes da marcha processual, o sistema constitucional exige mecanismos
+proporcionais de governança, responsabilidade e verificabilidade.
+
+As evidências paradigma conduzem a Arguente a entender que adaptação institucional
+hoje se revela insuficiente e carece de intervenção desta Suprema Corte.
+
+a) A vulnerabilidade produzida pela ruptura da cadeia certificadora
+
+A deficiência estrutural torna-se particularmente evidente quando os mecanismos
+automatizados deixam de produzir o ato certificador esperado. Os sistemas
+informatizados foram concebidos para automatizar diversos atos vinculados da marcha
+processual.
+
+
+[[pagina 15 | nativo]]
+Entretanto, a prática demonstra que a ausência de emissão automática de determinadas
+certidões frequentemente desloca a atividade certificadora para procedimentos
+administrativos informais, desprovidos de parâmetros uniformes de governança e
+auditabilidade.
+
+Nessas hipóteses, instala-se um vazio institucional: a automação deixa de atuar, mas o
+ordenamento tampouco disciplina, de forma suficiente, o regime constitucional da
+intervenção humana destinada a suprir essa lacuna.
+
+b) A insuficiência da governança administrativa
+
+A deficiência estrutural manifesta-se ainda pela inexistência de regime claramente
+delimitado para a competência certificadora.
+
+Na prática, o agente responsável pela certificação encontra-se inserido em estrutura
+administrativa vinculada à organização da unidade jurisdicional, sem que exista disciplina
+constitucional específica destinada a assegurar a autonomia funcional necessária ao
+exercício do juízo de certificabilidade.
+
+Não há crítica quanto a atuação individual de determinado servidor ou magistrado, o
+cerne da controvérsia constitucional questiona o modelo constitucionalmente adequado
+de governança da atividade certificadora na era do processo eletrônico.
+
+Os paradigmas concretos apresentados na presente Arguição demonstram precisamente
+essa insuficiência estrutural, evidenciando que fatos processuais aptos a produzir
+relevantes consequências constitucionais continuam sendo certificados sem mecanismos
+uniformes de auditabilidade, reconstrução documental e responsabilização institucional.
+
+VI. DA VIOLAÇÃO AOS PRECEITOS FUNDAMENTAIS E AO SISTEMA DE FREIOS E
+CONTRAPESOS
+
+6.1. Do Ato do Poder Público Impugnado
+
+O ato do Poder Público submetido ao controle concentrado nesta Arguição consiste no
+modelo institucional de governança da atividade certificadora atualmente adotado
+pelo Poder Judiciário. A relevância constitucional desse paradigma não aponta
+irregularidade individual da certidão, mas uma circunstância mais abrangente, o fato dela
+produzir efeitos imediatos sobre a definição da competência jurisdicional sem que o
+jurisdicionado disponha dos elementos necessários para reconstruir, de forma
+objetivamente verificável, os pressupostos que fundamentaram sua emissão.
+
+
+[[pagina 16 | nativo]]
+O paradigma se materializa na certidão de prevenção emitida no Inquérito nº 5.026,
+expondo uma deficiência estrutural que ultrapassa seus próprios limites. De outro lado, a
+controvérsia em exame consiste em verificar se o atual modelo de governança da
+atividade certificadora oferece mecanismos constitucionais suficientes para assegurar que
+atos administrativos aptos a produzir efeitos sobre direitos fundamentais permaneçam
+sujeitos à reconstrução objetiva de sua cadeia de formação e ao correspondente controle
+republicano.
+
+Essa exigência decorre diretamente dos princípios do devido processo legal (art. 5º, LIV),
+do contraditório e da ampla defesa (art. 5º, LV), do acesso às informações de interesse
+coletivo (art. 5º, XXXIII), da publicidade e da eficiência administrativa (art. 37, caput), bem
+como do dever de transparência que informa a legitimidade da atividade jurisdicional
+(art. 93, IX, da Constituição da República).
+
+O paradigma utilizado nesta Arguição provém de processo submetido a segredo de
+justiça. O sigilo do Inq 5026, entretanto, protege o conteúdo da persecução penal, não os
+pressupostos administrativos que fundamentam a constituição, a alteração ou o declínio
+da competência jurisdicional.
+
+Por essa razão, a certidão de prevenção deveria permanecer acompanhada dos
+elementos indispensáveis à reconstrução objetiva dos pressupostos que autorizaram sua
+emissão, preservando-se integralmente o sigilo da investigação e, ao mesmo tempo, a
+verificabilidade dos atos administrativos que estruturam o exercício da jurisdição.
+
+6.2. Da Insuficiência Constitucional da Atual Governança da Atividade Certificadora
+
+A Constituição da República estruturou o exercício do poder estatal sobre mecanismos
+permanentes de separação funcional, publicidade, responsabilização e controle. Nenhum
+ato estatal apto a produzir efeitos sobre direitos fundamentais pode permanecer imune à
+verificação objetiva de sua regularidade.
+
+A profunda transformação tecnológica da jurisdição alterou significativamente a posição
+ocupada pela atividade certificadora.
+
+Se, no processo físico, a certidão desempenhava função predominantemente
+documental, na jurisdição eletrônica ela passou a integrar o próprio mecanismo de
+constituição, modificação, estabilização e extinção das situações jurídicas processuais,
+condicionando diretamente a produção de relevantes efeitos jurídicos.
+
+
+[[pagina 17 | nativo]]
+Essa transformação funcional, contudo, não foi acompanhada pela correspondente
+evolução de seu regime constitucional de controle. Enquanto a atividade jurisdicional
+permanece submetida à motivação, à publicidade, ao contraditório, ao sistema recursal e
+à responsabilização funcional, a atividade certificadora continua disciplinada por modelo
+concebido para realidade em que a certidão apenas registrava fatos já consumados.
+Surge daí o déficit estrutural de governança submetido ao exame desta Suprema Corte.
+
+No julgamento da ADPF 336, esta Corte assentou entendimento que o requisito é
+satisfeito quando não existe outro meio capaz de solucionar a controvérsia
+constitucional de forma ampla, geral e imediata, e não apenas porque exista um
+recurso qualquer.
+
+Conforme exposto, a defasagem entre a nova função constitucional desempenhada pelo
+ato certificador e a persistência de um regime jurídico concebido para outra realidade
+tecnológica é o que constitui o objeto da presente Arguição.
+
+6.3. Da Violação ao Sistema Constitucional de Freios e Contrapesos
+
+O Estado Constitucional não distribui competências entre os Poderes da República por
+formalidade, a missão desta repartição é submeter o exercício do poder estatal a
+mecanismos permanentes de limitação, publicidade, responsabilização e controle.
+Nenhuma manifestação da autoridade estatal pode produzir efeitos sobre direitos
+fundamentais sem permanecer sujeita à possibilidade de verificação de sua regularidade.
+
+Essa lógica também informa a organização interna do Poder Judiciário. A independência
+funcional do magistrado convive com um complexo sistema de controles recíprocos
+destinado a preservar a legitimidade do exercício da jurisdição, manifestado, entre outros
+instrumentos, na motivação das decisões, no contraditório, no sistema recursal, na
+publicidade dos atos processuais e na responsabilização funcional dos agentes públicos.
+
+A transformação digital da atividade jurisdicional introduziu, entretanto, uma categoria
+de atos administrativos que passou a exercer influência direta sobre garantias
+fundamentais sem que lhes correspondesse mecanismo equivalente de controle
+institucional. Os atos certificadores deixaram de desempenhar função meramente
+documental e passaram a interferir diretamente na constituição, estabilização e extinção
+de situações processuais juridicamente relevantes.
+
+6 ADPF 114, rel. min. Roberto Barroso, j. em 23-8-2019, P, DJEde 6-9-2019, Precedente ADPF 33, Rel. Min.
+Gilmar Mendes
+
+
+[[pagina 18 | nativo]]
+Apesar dessa transformação, a atividade certificadora permaneceu submetida a um
+modelo institucional que presume a regularidade de seus atos sem oferecer instrumentos
+proporcionais destinados à reconstrução objetiva de sua formação. Forma-se, assim, uma
+cadeia de autovalidação na qual fatos processuais certificados irradiam sucessivamente
+efeitos para novos atos e novas decisões, sem que exista estrutura própria destinada ao
+controle da regularidade do ato certificador originário.
+
+Não se trata de presumir irregularidades individuais, mas de reconhecer uma deficiência
+estrutural de governança. Sempre que um ato estatal produz efeitos imediatos sobre
+garantias fundamentais, o sistema constitucional de freios e contrapesos exige
+mecanismos compatíveis de verificabilidade. A evolução da jurisdição digital e das
+normas internacionais de governança, transparência e auditabilidade dos sistemas
+públicos apenas evidencia a necessidade de estender essas garantias à atividade
+certificadora, cujos atos condicionam a própria produção dos efeitos processuais.
+
+6.4. Da Responsabilidade Constitucional pelos Atos Certificadores
+
+A Carta Magna estabelece que os danos decorrentes da atuação dos agentes públicos
+são imputáveis primariamente ao Estado, assegurado o direito de regresso contra o
+agente responsável nos casos de dolo ou culpa (art. 37, § 6º).
+
+Ao interpretar esse regime constitucional, esta Suprema Corte, no julgamento do Tema
+777 da Repercussão Geral, reafirmou que o exercício de funções públicas dotadas de fé
+pública pressupõe a possibilidade de identificação do agente responsável e de apuração
+da regularidade do ato praticado. Embora aquele precedente diga respeito aos serviços
+notariais e registrais, sua razão de decidir transcende o regime jurídico específico do art.
+236 da Constituição e reafirma princípio mais amplo de responsabilidade institucional
+pelos atos estatais dotados de eficácia jurídica perante terceiros.
+
+Essa mesma lógica incide sobre a atividade certificadora desenvolvida no processo
+judicial eletrônico.
+
+Os atos certificadores produzem efeitos imediatos sobre situações jurídicas processuais e,
+por essa razão, devem permanecer permanentemente verificáveis quanto à sua autoria
+funcional, aos pressupostos que fundamentaram sua emissão e à regularidade de sua
+formação. A auditabilidade não constitui apenas garantia do jurisdicionado. Representa
+igualmente garantia institucional do próprio agente certificador, pois permite demonstrar
+objetivamente os elementos que fundamentaram sua atuação e delimitar, de forma
+precisa, o âmbito de sua responsabilidade funcional.
+
+
+[[pagina 19 | nativo]]
+A inexistência de mecanismos de reconstrução do ato certificador dificulta
+simultaneamente o exercício do controle externo e a adequada proteção do servidor que
+atuou em conformidade com os pressupostos legais da certificação.
+
+Por essa razão, não se mostra constitucionalmente compatível a produção de efeitos
+processuais por atos certificadores cuja autoria funcional, pressupostos jurídicos e cadeia
+de formação não possam ser objetivamente reconstruídos.
+
+A responsabilidade pressupõe verificabilidade, e esta, por sua vez, possui papel vital
+como ato regulatório e requisito inerente ao exercício da competência certificadora.
+
+6.5. Dos Preceitos Fundamentais Violados
+
+A deficiência estrutural da atual governança da atividade certificadora projeta lesão direta
+a diversos preceitos fundamentais da Constituição da República pela inexistência de
+mecanismos institucionais compatíveis com a relevância constitucional dos efeitos
+produzidos pelos atos certificadores.
+
+a) Do Devido Processo Legal (art. 5º, LIV)
+
+O devido processo legal não se realiza sem observância formal dos atos processuais. É
+direito do jurisdicionado conhecer e verificar os pressupostos que autorizam a produção
+dos efeitos jurídicos que incidem sobre sua esfera de direitos. Sempre que um ato
+certificador condiciona a constituição, a estabilização ou a extinção de situações
+processuais, sua regularidade deve permanecer objetivamente verificável.
+
+b) Do Contraditório e da Ampla Defesa (art. 5º, LV)
+
+O contraditório pressupõe igualdade material de acesso aos elementos que
+fundamentam a atuação estatal. Não existe possibilidade efetiva de impugnação quando
+o jurisdicionado é impedido de reconstruir os pressupostos do ato certificador que
+produziu o efeito processual controvertido.
+
+A impossibilidade de verificação material da cadeia certificadora não apenas converte o
+contraditório em garantia meramente formal, mas também malfere o princípio da
+impessoalidade administrativa, ao blindar escolhas sistêmicas ou humanas contra o
+controle das partes.
+
+
+[[pagina 20 | nativo]]
+c) Do Princípio do Juiz Natural (art. 5º, XXXVII e LIII)
+
+A garantia do juiz natural foi concebida para proteger tanto a imparcialidade subjetiva do
+julgador quanto a regularidade objetiva da competência jurisdicional.
+
+Como, por vezes, a fixação da competência depende de atos certificadores, sua
+legitimidade pressupõe a reconstrução objetiva desses atos, sem os quais o próprio juiz
+natural permanece parcialmente insuscetível ao controle constitucional.
+
+d) Dos Princípios da Publicidade, Moralidade e Eficiência Administrativa (art. 37,
+caput)
+
+Os princípios da moralidade, da publicidade e da eficiência exigem que atos
+administrativos dotados de fé pública permaneçam suficientemente documentados para
+permitir a verificação objetiva de sua regularidade, especialmente quando produzem
+efeitos imediatos sobre direitos fundamentais. A publicidade administrativa não se
+cumpre nem se satisfaz com a publicização do resultado final da certificação.
+
+e) Da Motivação das Decisões Judiciais (art. 93, IX)
+
+A certidão integra o suporte fático sobre o qual se desenvolve a atividade jurisdicional. A
+legitimidade constitucional da motivação judicial presume que os atos certificadores que
+lhe deram origem sejam objetivamente verificáveis. A ausência destes parâmetros
+compromete a transparência da atividade jurisdicional que sobre ele se apoia.
+
+VII. DOS DADOS EMPÍRICOS: AUSÊNCIA DE SEGREGAÇÃO FUNCIONAL E ANÁLISE
+DAS HIERARQUIAS
+
+7.1. A Estrutura Organizacional da Governança dos Atos Certificadores
+
+A presente Arguição evidencia, mediante análise dos organogramas oficiais do Supremo
+Tribunal Federal, do Superior Tribunal de Justiça, dos Tribunais Regionais Federais e do
+Tribunal de Justiça do Estado de São Paulo, a inexistência de segregação funcional entre
+a atividade certificadora, a governança tecnológica e a estrutura administrativa
+responsável pelos sistemas processuais eletrônicos.
+
+Embora cada Tribunal adote organização própria, observa-se padrão institucional
+uniforme. As unidades encarregadas da infraestrutura tecnológica, da administração dos
+sistemas, da custódia dos registros eletrônicos e do suporte à certificação permanecem
+inseridas na estrutura administrativa do próprio órgão jurisdicional, sem instância
+especificamente destinada à governança independente da atividade certificadora.
+
+
+[[pagina 21 | nativo]]
+Essa constatação não revela qualquer irregularidade administrativa. Ao contrário,
+evidencia que a evolução tecnológica do processo judicial não foi acompanhada da
+correspondente evolução de sua arquitetura institucional. A crescente relevância
+constitucional da atividade certificadora passou a exigir mecanismos próprios de
+governança, auditabilidade e supervisão, ainda inexistentes.
+
+A deficiência estrutural ora em apreço debate a inexistência de instância funcional
+especificamente vocacionada à governança, auditabilidade e supervisão da atividade
+certificadora enquanto função administrativa dotada de eficácia imediata sobre garantias
+fundamentais.
+
+7.2. Da Ausência de Validação Institucional Independente
+
+A estrutura organizacional anteriormente descrita produz uma consequência institucional
+específica: a inexistência de mecanismos de validação institucional independente
+compatíveis com a relevância constitucional dos atos certificadores.
+
+Forma-se, assim, um circuito institucional de autovalidação. A mesma estrutura
+administrativa participa da produção do ato certificador, da custódia de sua cadeia
+documental, da preservação dos registros eletrônicos e da disponibilização dos
+elementos destinados à verificação de sua regularidade.
+
+Não se afirma qualquer irregularidade concreta decorrente desse modelo. A quaestio
+juris concentra-se na identificação de uma deficiência estrutural de governança. O
+Estado Constitucional exige que todo ato administrativo apto a produzir efeitos sobre
+direitos fundamentais permaneça permanentemente sujeito a mecanismos proporcionais
+de controle.
+
+Quando a reconstrução dos pressupostos do ato certificador, de sua autoria funcional e
+de sua cadeia documental depende essencialmente da própria estrutura responsável por
+sua emissão e custódia, instala-se déficit de verificabilidade incompatível com a lógica
+republicana dos freios e contrapesos.
+
+A Constituição não impede que o Poder Judiciário pratique e certifique os seus próprios
+atos. Exige, porém, que sua regularidade permaneça objetivamente demonstrável
+mediante mecanismos de validação institucional independente, aptos a assegurar
+transparência, responsabilização administrativa e controle republicano.
+
+
+[[pagina 22 | nativo]]
+As recentes evoluções da governança pública digital, tanto no plano nacional quanto
+internacional, caminham na mesma direção, evidenciando que essa necessidade já se
+consolidou como parâmetro regulatório contemporâneo, ainda insuficientemente
+incorporado à atividade certificadora do processo judicial eletrônico.
+
+Nesse contexto, a trilha de auditoria deixa de representar simples recurso tecnológico
+para assumir a condição de garantia constitucional do Devido Processo Tecnológico.
+Sua função não consiste em substituir a presunção de legitimidade dos atos
+administrativos, mas em preservar a possibilidade permanente de demonstrar a
+conformidade do ato certificador com os pressupostos legais que autorizaram sua
+emissão.
+
+7.3. A Evolução da Governança Pública Digital e a Ausência de Disciplina
+Equivalente para a Atividade Certificadora
+
+A transformação digital da Administração Pública brasileira vem sendo acompanhada da
+progressiva incorporação de modelos de governança baseados na transparência, na
+auditabilidade, na explicabilidade e na responsabilização dos sistemas utilizados pelo
+Estado para a produção de decisões administrativas.
+
+Nesse contexto, merece destaque o projeto Transparência Algorítmica, desenvolvido
+pela Transparência Brasil em parceria com a Controladoria-Geral da União, voltado ao
+mapeamento e à avaliação dos sistemas algorítmicos empregados pela Administração
+Pública Federal. No mesmo sentido, a Estratégia Nacional de Governo Digital e o
+Plano Brasileiro de Inteligência Artificial reconhecem expressamente que a utilização
+de sistemas informatizados pelo poder público deve observar padrões mínimos de
+rastreabilidade, auditabilidade, transparência e responsabilização institucional.
+
+Esses instrumentos demonstram que a necessidade de mecanismos de governança sobre
+sistemas digitais deixou de representar mera recomendação técnica para constituir
+diretriz consolidada da Administração Pública contemporânea.
+
+A presente Arguição, portanto, não propõe inovação incompatível com a evolução
+institucional do Estado brasileiro. Busca apenas afirmar que os mesmos princípios de
+governança pública digital já progressivamente incorporados pela Administração devem
+alcançar também a atividade certificadora exercida no âmbito do processo judicial
+eletrônico, em razão da especial relevância constitucional dos efeitos jurídicos
+produzidos por seus atos.
+
+
+[[pagina 23 | nativo]]
+Paradoxalmente, justamente a função estatal responsável pela tutela das garantias
+fundamentais permanece desprovida de disciplina equivalente. Embora os atos
+certificadores produzam efeitos imediatos sobre direitos fundamentais, ainda não existe
+modelo nacional destinado a assegurar parâmetros mínimos de validação institucional
+independente, rastreabilidade, reconstrução documental da cadeia certificadora e
+governança uniforme da atividade certificadora.
+
+Essa assimetria evidencia que a evolução da governança pública digital ainda não
+alcançou, em sua plenitude, a atividade certificadora desenvolvida no processo judicial
+eletrônico. É precisamente essa lacuna institucional — caracterizada pela ausência de
+mecanismos de validação institucional independente, governança própria e
+auditabilidade compatível com a relevância constitucional dos atos certificadores — que
+fundamenta a presente Arguição de Descumprimento de Preceito Fundamental.
+
+7.4. O Paradigma Internacional da Auditabilidade dos Atos Públicos Digitais
+
+A transformação digital da Administração Pública vem sendo acompanhada, em
+diferentes democracias constitucionais, pela construção de novos parâmetros de
+transparência, auditabilidade, rastreabilidade e responsabilização institucional. A presente
+Arguição insere-se nesse movimento de atualização das garantias fundamentais,
+propondo que a atividade certificadora do processo judicial eletrônico seja submetida a
+padrões equivalentes de governança pública digital.
+
+a) O Estado de Direito na Sociedade da Caixa-Preta (TheBlackBoxSociety)
+
+Como adverte Frank Pasquale, a proliferação de sistemas digitais opacos para a tomada
+de decisões ou para a consolidação de situações jurídicas relevantes cria uma "sociedade
+da caixa-preta", caracterizada pela assimetria informacional e pela blindagem técnica dos
+atos do Poder Público. A opacidade algorítmica e o represamento inaudível de dados
+não constituem problemas estritamente tecnológicos, mas sim graves patologias
+constitucionais de distribuição do poder.
+
+Quanto maior o grau de dependência do Estado — e, especificamente, do Poder
+Judiciário — em relação a infraestruturas de processamento eletrônico, maior e mais
+rigorosa deve ser a capacidade institucional de reconstruir, auditar, rastrear e
+responsabilizar os atos produzidos por esses sistemas. O devido processo legal repele a
+existência de limbos mecânicos imunes à verificação externa.
+
+
+[[pagina 24 | nativo]]
+A crítica formulada por Pasquale demonstra que a opacidade algorítmica constitui
+problema de distribuição do poder, e não mero desafio tecnológico. Quanto maior a
+dependência institucional de sistemas digitais, maior deve ser a capacidade de
+reconstrução objetiva dos atos por eles produzidos.
+
+b) TechnologicalDueProcess
+
+A translação dos procedimentos estatais para o ambiente digital demanda que os
+mecanismos tradicionais do devido processo legal sejam reconstruídos e adequados às
+especificidades da engenharia de sistemas.
+
+O conceito de TechnologicalDueProcess de Danielle Keats Citron impõe que os atos
+estruturantes do processo — como a verificação de prazos e a emissão de certidões
+regulatórias — não derivem de uma autoridade mecânica inquestionável, mas sim da
+possibilidade permanente e dialética de reconstrução objetiva de sua cadeia de
+formação. Na jurisdição digital, a integridade da marcha processual pressupõe a
+transparência absoluta dos códigos, parâmetros e rotinas que governam o tempo e os
+atos jurídicos.
+
+c) Mireille Hildebrandt e o Império da Lei por Design (RuleofLawbyDesign)
+
+Em obras seminais como SmartTechnologiesandtheEnd(s)ofLaw (2015) e Lawfor
+ComputerScientistsandOtherFolk(2020), Mireille Hildebrandt formula a necessidade de
+transposição das salvaguardas constitucionais diretamente para a arquitetura tecnológica
+dos sistemas públicos, sob o paradigma do RuleofLawbydesign.
+
+A autora demonstra que o império da lei não pode ser um elemento posterior ou
+extrínseco ao software; as garantias do devido processo, da preclusão temporal e da
+isonomia devem estar inscritas nas próprias linhas de código e na arquitetura de
+governança da infraestrutura digital.
+
+Se o desenho de um sistema de processo eletrônico permite o represamento de atos
+vinculados e obstaculiza a fiscalização em tempo real, é o próprio designtecnológico que
+se revela inconstitucional por afrontar os freios e contrapesos do processo. A
+Constituição deixa de atuar apenas como limite externo do software para tornar-se
+parâmetro de sua própria arquitetura.
+
+
+[[pagina 25 | nativo]]
+d) A Evolução Normativa Europeia: Os Princípios Universais do Regulamento
+Europeu de Inteligência Artificial (AI Act) como Vetores de Governança Digital
+
+O recente marco regulatório da União Europeia sobre Inteligência Artificial (AI Act)
+consolidou um núcleo duro de princípios universais destinados a regular a atuação do
+poder público em ambientes informatizados.
+
+Dentre estes, sobressaem os deveres de responsabilização institucional (accountability),
+registro sistemático de eventos (logging), supervisão humana efetiva (humanoversight) e
+rastreabilidade integral (traceability).
+
+Embora os sistemas de processo judicial eletrônico atualmente vigentes no Brasil não se
+qualifiquem, em sua totalidade, como sistemas de inteligência artificial strictosensu, a
+evolução normativa europeia evidencia um robusto consenso internacional de que toda e
+qualquer plataforma digital utilizada pelo Poder Público para produzir efeitos sobre
+direitos fundamentais deve preservar mecanismos permanentes de auditoria e
+controle humano.
+
+Os eixos do AIAct ultrapassam o campo específico da inteligência artificial e exprimem
+princípios gerais de governança pública digital para se converterem em mandamentos
+universais de governança pública digital.
+
+e) As Diretrizes de Governo Digital da OCDE: Transparência e Responsabilização
+Sistêmica
+
+Alinhada a esse movimento, a Organização para a Cooperação e Desenvolvimento
+Econômico (OCDE), por meio de suas Recomendações sobre Estratégias de Governo
+Digital (OECDRecommendationonDigitalGovernmentStrategies) e sucessivos relatórios
+sobre Governança Pública Digital, fixou balizas imperativas para os Estados-membros e
+parceiros estratégicos.
+
+Os padrões internacionais da OCDE convergem na exigência de que os ecossistemas
+públicos de dados sejam estruturados sob os pilares da transparência algorítmica, da
+auditabilidade de processos e da governança corporativa independente.
+
+A chancela internacional desses organismos demonstra que a atividade certificadora e de
+gestão de dados pelo Estado não tolera modelos de autocertificação ou arquiteturas
+fechadas que diluam a responsabilidade técnica do agente público, reforçando a
+urgência de que o Poder Judiciário brasileiro alinhe sua infraestrutura processual aos
+vetores globais de integridade digital.
+
+
+[[pagina 26 | nativo]]
+A convergência desses documentos demonstra que a governança digital deixou de
+representar questão meramente tecnológica para converter-se em exigência inerente ao
+Estado de Direito contemporâneo.
+
+Não menos relevante, a evolução normativa internacional converge, ainda, com os
+compromissos assumidos pelo Estado brasileiro no âmbito da Agenda 2030 das Nações
+Unidas, especialmente com o Objetivo de Desenvolvimento Sustentável nº 16, que
+preconiza a construção de instituições eficazes, responsáveis e transparentes, o
+fortalecimento do Estado de Direito, a ampliação do acesso à justiça e a garantia do
+acesso à informação.
+
+O reconhecimento do Princípio da Auditabilidade do Ato Certificador representa
+projeção direta desses compromissos sobre a realidade da jurisdição digital brasileira,
+reforçando a convergência entre a evolução tecnológica do Poder Judiciário e os
+parâmetros contemporâneos de boa governança pública.
+
+7.5. A Doutrina Nacional
+
+A evolução do constitucionalismo brasileiro igualmente vem reconhecendo que a
+transformação digital do Estado impõe releitura das categorias clássicas do direito
+público.
+
+Luís Roberto Barroso, ao tratar do constitucionalismo digital, sustenta que as garantias
+constitucionais devem acompanhar a transformação tecnológica das formas de exercício
+do poder, preservando a centralidade da Constituição também nos ambientes digitais.
+
+José Eduardo Faria demonstra que a crescente complexidade tecnológica do Estado
+produz assimetrias informacionais capazes de comprometer a transparência e a
+controlabilidade do exercício do poder público.
+
+Ana Paula de Barcellos, por sua vez, destaca que a publicidade administrativa
+contemporânea não se satisfaz com a mera divulgação do resultado final do ato estatal,
+exigindo mecanismos que permitam compreender sua formação e submetê-la ao
+controle democrático.
+
+A presente Arguição desenvolve essas premissas no âmbito específico da atividade
+certificadora do processo judicial eletrônico, propondo sua sistematização a partir do
+Princípio da Auditabilidade do Ato Certificador e da necessidade de validação
+institucional independente.
+
+
+[[pagina 27 | nativo]]
+VIII. O PARADIGMA INTERNACIONAL E A DOUTRINA NACIONAL DA GOVERNANÇA
+PÚBLICA DIGITAL
+
+A presente Arguição se apoia em incentivo à contínua transformação digital do Poder
+Judiciário, mas o faz levantando questões estruturais, exemplo disso, o objeto da ação
+constitucional, a ausência de adaptação das garantias constitucionais ao novo regime de
+produção dos atos processuais eletrônicos.
+
+A digitalização da jurisdição modificou profundamente a função desempenhada pelos
+atos certificadores. Certidões que antes possuíam natureza predominantemente
+documental passaram a condicionar diretamente a produção de efeitos jurídicos
+relevantes, como a constituição da competência jurisdicional, a prevenção, o trânsito em
+julgado, a redistribuição e outros eventos estruturantes da marcha processual.
+
+Essa transformação funcional não foi acompanhada pela correspondente evolução de seu
+regime constitucional de controle. A atividade certificadora adquiriu centralidade
+crescente na conformação do processo eletrônico, sem que se estabelecessem
+mecanismos proporcionais de governança, validação institucional independente e
+auditabilidade compatíveis com a relevância dos efeitos que produz.
+
+A lacuna daí resultante projeta lesão direta aos preceitos fundamentais do devido
+processo legal, do contraditório, da ampla defesa, do juiz natural, da publicidade
+administrativa, da motivação dos atos estatais e do sistema republicano de freios e
+contrapesos. Sempre que um ato administrativo passa a produzir efeitos imediatos sobre
+garantias fundamentais, a Constituição exige que sua regularidade permaneça
+objetivamente verificável.
+
+O Princípio da Auditabilidade do Ato Certificador representa precisamente a
+adaptação dessas garantias constitucionais à realidade da jurisdição digital. Não se trata
+da criação de novo direito fundamental, mas do reconhecimento de que os arts. 5º, LIV e
+LV, 37, caput, 93, IX, e 102, §1º, da Constituição da República irradiam efeitos também
+sobre a atividade certificadora, impondo que seus atos permaneçam
+permanentemente sujeitos à reconstrução objetiva de seus pressupostos, de sua autoria
+funcional e de sua cadeia documental de formação.
+
+
+[[pagina 28 | nativo]]
+IX. A AUTONOMIA DA COMPETÊNCIA CERTIFICADORA ANTE A DOGMÁTICA
+PROCESSUAL TRADICIONAL
+
+9.1. Da Mitigação da Fé Pública Tradicional à Luz da Auditabilidade
+
+A transformação digital da jurisdição modificou profundamente a função desempenhada
+pelos atos certificadores, exigindo o realinhamento da dogmática processual clássica aos
+parâmetros contemporâneos de boa governança pública.
+
+Diante desse cenário, a presente Arguição não visa obstaculizar a evolução tecnológica
+do Poder Judiciário, mas sim garantir a adaptabilidade das salvaguardas constitucionais
+ao novo regime de produção dos atos eletrônicos, combatendo o déficit estrutural que
+hoje projeta lesão direta ao devido processo legal, ao contraditório e ao sistema de freios
+e contrapesos.
+
+Historicamente, a dogmática processual tradicional estruturou-se em um contexto em
+que a simples emissão da certidão de prevenção ou de trânsito em julgado bastava para
+que pudesse surtir os efeitos dela decorrentes. No entanto, a partir de uma visão
+constitucional, todo ato certificador pressupõe a verificação objetiva dos pressupostos
+legais que autorizam sua emissão.
+
+Antes de certificar, o agente competente exerce um juízo administrativo de aptidão,
+consistente na aferição da conformidade entre os elementos objetivamente constantes
+dos autos e os requisitos previstos pelo ordenamento jurídico. Essa atividade não se
+confunde com o exercício da jurisdição.
+
+O agente certificador não decide controvérsias, não cria situações jurídicas nem substitui
+a atuação do magistrado. Sua competência consiste exclusivamente em verificar se estão
+presentes os pressupostos que autorizam a emissão da certidão correspondente.
+
+Daí decorre que toda certidão apta a produzir efeitos jurídicos relevantes possui
+fundamento próprio de validade, consistente na demonstração objetiva de que os
+pressupostos legais da certificação se encontravam integralmente preenchidos no
+momento de sua emissão. A fé pública do ato certificador projeta-se precisamente sobre
+essa conformidade objetiva, e não sobre a mera formalização documental da certidão.
+
+9.2. Da Autonomia Funcional da Competência Certificadora
+
+O reconhecimento da competência certificadora produz consequência institucional
+imediata.
+
+
+[[pagina 29 | nativo]]
+Se a emissão da certidão pressupõe juízo administrativo próprio acerca da presença dos
+pressupostos legais da certificação, essa atividade não pode permanecer funcionalmente
+subordinada ao exercício da jurisdição que ela própria condiciona.
+
+Ao magistrado compete decidir as controvérsias submetidas à sua apreciação. Ao agente
+certificador compete verificar a conformidade dos pressupostos legais necessários à
+emissão do ato certificador. São competências distintas, exercidas sobre objetos distintos
+e submetidas a regimes jurídicos igualmente distintos.
+
+Por essa razão, o exercício da competência certificadora vincula-se exclusivamente ao
+ordenamento jurídico e aos elementos objetivamente constantes dos autos, não
+podendo sofrer influência hierárquica quanto ao conteúdo da certificação. Essa
+autonomia funcional não constitui prerrogativa do servidor, representa garantia
+institucional do jurisdicionado e pressuposto da validade constitucional da própria
+atividade certificadora.
+
+X. DAS MEDIDAS TRANSITÓRIAS DE ADEQUAÇÃO CONSTITUCIONAL
+
+O controle concentrado de constitucionalidade distingue-se da jurisdição subjetiva por
+tutelar diretamente a integridade da ordem constitucional. Nessa modalidade processual,
+a regular constituição da competência assume relevo institucional singular, pois
+condiciona o exercício de atribuições que transcendem os interesses das partes e
+irradiam efeitos sobre toda a coletividade.
+
+Nesse contexto, os atos certificadores responsáveis pela definição da competência
+jurisdicional deixam de representar meros expedientes administrativos. A certidão que
+reconhece prevenção, redistribuição ou distribuição por sorteio constitui pressuposto
+imediato para o exercício da jurisdição constitucional e para a prática de todos os atos
+processuais subsequentes.
+
+Da regularidade desse ato certificador dependem, entre outras consequências, a
+definição da relatoria, a apreciação de medidas cautelares, a condução do contraditório
+objetivo, a admissão de amici curiae, a realização de audiências públicas e a própria
+formação da agenda deliberativa da Corte.
+
+Quanto maior a relevância constitucional dos efeitos produzidos pela certificação, maior
+deve ser a exigência de mecanismos proporcionais de validação institucional
+independente e de auditabilidade.
+
+
+[[pagina 30 | nativo]]
+A Constituição da República não admite que a constituição da competência jurisdicional,
+especialmente no âmbito do controle concentrado, permaneça condicionada a atos
+administrativos insuscetíveis de reconstrução objetiva de seus pressupostos.
+
+10.1. Da Autonomia Constitucional da Atividade Certificadora
+
+A centralidade constitucional adquirida pelos atos certificadores na jurisdição digital
+impede que sua disciplina permaneça submetida às categorias tradicionais da atividade
+cartorária. Ao emitir certidão de prevenção, trânsito em julgado, redistribuição ou
+qualquer outro ato certificador estruturante, o agente competente não exerce atividade
+jurisdicional nem atua como mero executor de determinações do magistrado.
+
+Exerce competência administrativa própria, consistente na verificação objetiva da
+ocorrência dos pressupostos legais que autorizam a certificação. Por essa razão, o
+conteúdo do ato certificador vincula-se exclusivamente ao ordenamento jurídico e aos
+elementos objetivamente constantes dos autos. A certificação não pode ser determinada
+por autoridade hierárquica nem condicionada à conveniência do órgão jurisdicional cujos
+efeitos ela própria viabiliza.
+
+A independência funcional da atividade certificadora não constitui prerrogativa do
+servidor. Representa garantia institucional do jurisdicionado, destinada a assegurar que a
+produção dos fatos processuais estruturantes permaneça submetida exclusivamente aos
+pressupostos legais que autorizam sua certificação.
+
+A evolução tecnológica do processo judicial tornou insuficiente a compreensão segundo
+a qual os atos cartorários constituiriam mera extensão operacional da atividade
+jurisdicional. Na jurisdição digital, a certificação passou a exercer verdadeira função
+regulatória sobre a marcha processual, razão pela qual deve submeter-se a regime
+próprio de autonomia funcional, auditabilidade permanente, validação institucional
+independente e responsabilização administrativa.
+
+10.2. Das Diretrizes Provisórias de Adequação e Providência Estrutural
+
+O reconhecimento da autonomia funcional da atividade certificadora não exige a
+imediata reorganização integral da infraestrutura administrativa do Poder Judiciário. A
+implementação definitiva de um modelo nacional de governança da atividade
+certificadora poderá demandar adaptações normativas, administrativas e tecnológicas
+cuja disciplina compete, em grande medida, aos órgãos de direção do Poder Judiciário.
+
+
+[[pagina 31 | nativo]]
+Essa circunstância, entretanto, não impede que esta Suprema Corte fixe, desde logo,
+parâmetros constitucionais mínimos destinados a assegurar a efetividade do devido
+processo tecnológico durante o período de transição.
+
+Enquanto não implementado regime nacional de governança da atividade certificadora,
+requer-se o reconhecimento das seguintes diretrizes constitucionais provisórias:
+
+I – Autonomia funcional da atividade certificadora
+
+A competência certificadora deverá permanecer vinculada exclusivamente aos
+pressupostos legais da certificação, sendo vedada qualquer interferência externa quanto
+ao conteúdo técnico do ato certificador.
+
+II – Auditabilidade permanente
+
+Todo ato certificador capaz de produzir efeitos sobre garantias fundamentais deverá
+conservar trilha permanente de auditoria suficiente para permitir a reconstrução objetiva
+de sua cadeia de formação.
+
+III – Responsabilidade funcional
+
+A atividade certificadora permanecerá submetida ao regime constitucional de
+responsabilidade administrativa, civil e regressiva, preservando-se a identificação do
+agente responsável pela certificação e dos pressupostos que fundamentaram sua
+emissão.
+
+XI. DA PRESENÇA DOS PRESSUPOSTOS PARA CONCESSÃO DA MEDIDA CAUTELAR
+
+11.1. O fumusboniiuris
+
+O fumus boni iuris decorre da elevada plausibilidade jurídica da tese constitucional
+desenvolvida na presente Arguição, nos termos do art. 300 do Código de Processo Civil.
+
+Demonstrou-se que a transformação digital da jurisdição conferiu aos atos certificadores
+função estruturante da própria atividade jurisdicional, sem que lhes correspondesse
+regime constitucional adequado de auditabilidade, autoria funcional, rastreabilidade e
+responsabilização.
+
+Os paradigmas empíricos apresentados evidenciam que a deficiência não constitui
+episódio isolado, mas manifestação reiterada em diferentes instâncias do Poder
+Judiciário.
+
+
+[[pagina 32 | nativo]]
+Dentre eles, destaca-se o Inquérito nº 5.026, cuja cadeia de constituição da
+competência jurisdicional constitui paradigma representativo da controvérsia
+constitucional ora submetida ao controle concentrado.
+
+Conforme a documentação pública disponível, o feito foi inicialmente distribuído por
+prevenção ao Ministro Dias Toffoli em 22/12/2025, sobrevindo posteriormente sua
+redistribuição ao Ministro André Mendonça em 12/02/2026. Embora se trate de processo
+submetido a sigilo, os atos administrativos responsáveis pela constituição da
+competência jurisdicional permanecem sujeitos às garantias constitucionais que regem o
+processo e a atividade certificadora.
+
+A documentação atualmente acessível não permite reconstruir, de forma objetivamente
+verificável, a cadeia de formação desses atos certificadores. Não é possível identificar o
+processo paradigma que fundamentou a prevenção, a natureza automática ou manual da
+certificação, os pressupostos considerados para sua emissão ou os fundamentos que
+justificaram a posterior redistribuição.
+
+Também não é possível verificar se, por ocasião da certificação da prevenção, foram
+apreciadas eventuais hipóteses concorrentes decorrentes de outros feitos já em
+tramitação nesta Suprema Corte que, em tese, poderiam apresentar identidade parcial de
+partes ou conexão fática, probatória ou instrumental. Caso tal exame tenha sido
+realizado, sua cadeia documental deve permanecer objetivamente demonstrável e apta
+a reconstrução; caso não tenha ocorrido, a deficiência procedimental igualmente
+assume relevância constitucional.
+
+A presente Arguição não afirma, neste momento processual, a invalidade desses atos.
+Sustenta apenas que sua regularidade não pode ser atualmente submetida à verificação
+objetiva pelo jurisdicionado, precisamente em razão do déficit estrutural de governança
+jurisdicional gerado pela atividade certificadora que constitui objeto desta ação.
+
+11.2. O periculuminmora
+
+O perigo da demora decorre da permanência dos efeitos produzidos pelos atos
+certificadores cuja regularidade se pretende tornar constitucionalmente verificável.
+
+Segundo a documentação pública disponível, o Inquérito nº 5.026 originou diversos
+procedimentos posteriores que envolvem potencialmente outros órgãos e situações
+conexas, formando cadeia processual cuja reconstrução se torna progressivamente mais
+difícil à medida que novos atos jurisdicionais são praticados.
+
+
+[[pagina 33 | nativo]]
+A cada novo procedimento derivado, consolidam-se efeitos processuais fundados na
+mesma cadeia certificadora originária. Caso sua verificabilidade permaneça postergada,
+eventual controle constitucional futuro tornar-se-á significativamente mais complexo,
+com risco de propagação de controvérsias acerca da regularidade dos atos
+subsequentes.
+
+A tutela cautelar possui natureza estritamente conservativa. Não busca antecipar o
+julgamento de mérito nem infirmar a validade dos atos praticados, mas preservar a
+possibilidade de controle constitucional efetivo da atividade certificadora antes que a
+sucessiva produção de efeitos processuais comprometa ou inviabilize sua reconstrução
+objetiva.
+
+11.3. Das Providências Provisórias à Preservação da Controvérsia Constitucional
+
+Diante da presença simultânea do fumusboniiurise do periculuminmora, requer-se a
+adoção das seguintes providências provisórias, necessárias à preservação da
+controvérsia constitucional submetida ao exame desta Suprema Corte:
+
+I. Reconstrução da cadeia de formação do ato certificador
+
+Que a Secretaria Judiciária apresente a documentação necessária para reconstruir
+objetivamente a cadeia de constituição da competência do Inquérito nº 5.026,
+compreendendo, entre outros elementos:
+
+ a certidão originária de prevenção;
+ a identificação do processo paradigma;
+ a natureza automática ou manual da certificação;
+ os respectivos registros administrativos e trilhas de auditoria compatíveis com o
+procedimento adotado.
+
+II. Demonstração dos fundamentos da prevenção
+
+Caso a prevenção tenha resultado de processamento automatizado, que sejam
+apresentados os elementos técnicos suficientes para demonstrar objetivamente a
+existência do vínculo de prevenção com o processo paradigma correspondente.
+
+Caso tenha resultado de intervenção humana, que sejam apresentados o ato
+administrativo que fundamentou a certificação, o agente certificador responsável, os
+pressupostos jurídicos considerados e a demonstração de eventual exame de outras
+hipóteses concorrentes de prevenção.
+
+
+[[pagina 34 | nativo]]
+III. Reconstrução da redistribuição
+
+Que seja apresentada a documentação administrativa que fundamentou a posterior
+cessação da competência anteriormente atribuída ao Ministro Dias Toffoli, indicando o
+fato jurídico que legitimou a redistribuição do feito.
+
+IV. Preservação provisória da competência
+
+Constatada a insuficiência da documentação apresentada para permitir a reconstrução
+objetiva da cadeia certificadora que fundamentou a prevenção. A insuficiência
+documental, por si só, não implica invalidade do ato certificador, mas impede, até sua
+adequada reconstrução, a demonstração objetiva de sua conformidade constitucional.
+
+V. Providência estrutural subsidiária
+
+Caso esta Suprema Corte entenda que a controvérsia ultrapassa os limites do caso
+concreto, requer-se seja determinada ao Conselho Nacional de Justiça a elaboração de
+proposta normativa destinada à implementação de regime nacional de governança da
+atividade certificadora, observados os parâmetros constitucionais fixados neste
+julgamento.
+
+VI. Preservação das evidências
+
+Seja determinada a preservação integral e íntegra dos registros eletrônicos, logs,
+metadados e demais elementos técnicos relacionados à constituição da competência do
+Inquérito nº 5.026, vedada sua eliminação ou alteração até o julgamento definitivo da
+presente Arguição.
+
+XII. DAS TESES CONSTITUCIONAIS A SEREM FIXADAS (ART. 102, §1º, CF)
+
+A Constituição Cidadã é atemporal e seu sistema de freios e contrapesos foi consolidado
+de forma a permitir a perenidade de suas estruturas de proteção de direitos.
+
+A solução constitucional ora proposta se estende além dos pilares da concretização de
+preceitos fundamentais da Constituição Federal, ela se harmoniza com os parâmetros
+contemporâneos de governança pública digital e com os compromissos internacionais
+assumidos pelo Brasil para o fortalecimento de instituições transparentes, responsáveis e
+eficazes, a exemplo das metas da Agenda 2030 da Organização das Nações Unidas.
+
+Diante da controvérsia constitucional submetida ao controle desta Suprema Corte,
+requer-se sejam fixadas as seguintes teses vinculantes:
+
+
+[[pagina 35 | nativo]]
+1. "Na jurisdição digital, o devido processo legal compreende o Princípio da
+Auditabilidade do Ato Certificador. Todo ato administrativo certificador
+apto a produzir efeitos sobre direitos fundamentais deve permanecer
+sujeito à autoria funcional identificável, à reconstrução de sua cadeia de
+formação, à preservação de trilhas de auditoria e à correspondente
+responsabilização institucional. Não produz efeitos constitucionais legítimos
+a certificação fundada em procedimento cuja regularidade não possa ser
+objetivamente demonstrada.
+
+2. A atividade certificadora constitui função administrativa autônoma em
+relação à atividade jurisdicional, exercida mediante critérios técnicos
+vinculados aos pressupostos legais da certificação, não podendo seu
+conteúdo submeter-se à influência da autoridade jurisdicional destinatária
+dos efeitos do próprio ato certificador.
+
+3. Sempre que a competência jurisdicional for certificada, o jurisdicionado
+possui direito de acesso à cadeia documental que permita reconstruir
+objetivamente os fundamentos administrativos da certificação,
+independentemente do eventual sigilo incidente sobre o mérito da
+investigação.
+
+4. Na jurisdição digital, a legitimidade constitucional da decisão judicial
+começa antes do julgamento, ela se inicia na regular formação, certificação
+e auditabilidade dos fatos processuais que tornam possível o exercício da
+própria jurisdição.”
+
+XIII. DOS PEDIDOS
+
+Ante o exposto, requer a Arguente:
+
+I – Quanto ao processamento
+
+(a) o recebimento e regular processamento da presente Arguição de
+Descumprimento de Preceito Fundamental;
+
+(b) a oitiva do Advogado-Geral da União e do Procurador-Geral da República, na
+forma da Lei nº 9.882/1999;
+
+(c) a admissão dos amicicuriaee terceiros interessados que demonstrem pertinência
+temática.
+
+
+[[pagina 36 | nativo]]
+II – Da tutela provisória
+
+(d) a adoção das providências provisórias necessárias à preservação da controvérsia
+constitucional, determinando-se à Secretaria Judiciária deste Supremo Tribunal
+Federal a preservação e a apresentação da documentação necessária à
+reconstrução objetiva da cadeia de constituição da competência no Inquérito
+INQ nº 5.026, compreendendo:
+
+▪ Diante do regime de sigilo que recai sobre o Inquérito nº 5.026, requer-se,
+com fundamento no art. 6º da Lei nº 9.882/1999, que Vossa Excelência
+requisite à autoridade responsável pela guarda dos autos as informações,
+cópia dos seguintes atos processuais, para fins exclusivos de instrução da
+presente medida cautelar e do controle constitucional em análise:
+
+▪ a certidão originária de prevenção ao Ministro Dias Toffoli, com a
+indicação do processo paradigma que a fundamentou, incluindo os
+registros administrativos e as trilhas de auditoria correspondentes ao
+procedimento de prevenção adotado, na forma prevista pelo art. 66, 1º do
+Regimento Interno desta Corte;
+
+▪ os documentos que fundamentaram a redistribuição do Inq 5026 ao
+Ministro André Mendonça, indicando o fato e o fundamento jurídico que
+autorizou o ato, bem como os elementos necessários à reconstrução
+objetiva do procedimento de redistribuição, inclusive da regularidade do
+eventual sorteio livre subsequente.
+
+(e) subsidiariamente, caso a documentação apresentada não permita a reconstrução
+objetiva da cadeia certificadora, seja suspensa a eficácia da certidão de prevenção
+e dos atos que dela dependam diretamente, até ulterior deliberação desta
+Suprema Corte conforme Artigo 7º da Resolução nº 706/2020 do Supremo
+Tribunal Federal (STF), preservando-se a possibilidade de regular definição da
+competência constitucional.
+
+(f) sendo este o caso, requer-se seja determinada a reavaliação da competência
+constitucional, mediante apreciação formal das eventuais hipóteses concorrentes
+de prevenção, conexão, continência, inclusive em relação a ações e feitos já em
+tramitação nesta Corte que apresentem identidade de partes, conexão fática,
+probatória ou instrumental.
+
+
+[[pagina 37 | nativo]]
+III – No mérito
+
+Julgar procedente a presente Arguição para:
+
+(g) Conferir interpretação conforme a Constituição aos mecanismos de certificação
+processual empregados pelo Poder Judiciário, assentando que todo ato
+certificador apto a produzir efeitos sobre direitos fundamentais deve permanecer
+permanentemente sujeito à autoria funcional identificável, à reconstrução objetiva
+de sua cadeia de formação (preenchimento dos requisitos), à preservação de
+trilhas de auditoria e à correspondente responsabilização institucional;
+
+(h) reconhecer que a competência certificadora constitui função administrativa
+autônoma em relação ao exercício da função jurisdicional, sendo exercida
+mediante critérios técnicos vinculados exclusivamente aos pressupostos legais da
+certificação;
+
+(i) determinar ao Conselho Nacional de Justiça que, no prazo a ser fixado por esta
+Corte, apresente proposta normativa destinada à implementação nacional do
+regime constitucional da atividade certificadora para que os órgãos
+competentes promovam, progressivamente, a adequação dos sistemas
+eletrônicos do Poder Judiciário aos parâmetros constitucionais fixados neste
+julgamento;
+
+(j) reconhecer o Princípio da Auditabilidade do Ato Certificador como elemento
+estruturante do Devido Processo Tecnológico;
+
+IV – Da fixação da tese constitucional
+
+(k) Requer, por fim, seja fixada tese vinculante nos termos propostos no Capítulo XII
+da presente Arguição.
+
+Atribui-se à causa, para efeitos fiscais, o valor de R$ 1.000,00 (mil reais).
+
+Respeitosamente,
+Pede deferimento
+
+Gisela Britto | OAB/SP 439.477
+
+São Paulo para Brasília, 13 de julho de 2026.
+
+

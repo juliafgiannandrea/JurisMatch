@@ -1,0 +1,1713 @@
+[[pagina 1 | nativo]]
+
+EXMO(A). SR(A). MINISTRO(A) RELATOR(A) DO SUPREMO TRIBUNAL FEDERAL
+
+Distribuição por dependência: ADI nº 7359
+
+ABEP – ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE EXPLORAÇÃO E
+
+PRODUÇÃO DE PETRÓLEO E GÁS, associação privada com sede no Rio de Janeiro/RJ, na
+
+Av. Almirante Barroso, nº 52, 21º andar, parte, inscrita no CNPJ sob o nº 19.844.231/0001-
+
+00, vem, por meio de seus advogados que assinam ao final (doc. nº 01), com
+
+fundamento no art. 102, I, “a” c/c art. 103, IX, da Constituição Federal e na Lei nº
+
+9.868/99, propor a presente AÇÃO DIRETA DE INCONSTITUCIONALIDADE (ADI), COM
+PEDIDO DE CONCESSÃO DE MEDIDA CAUTELAR, em face dos arts. 7º e 8º da Medida 1
+
+Provisória 1.163/23 (doc. nº 02), que instituíram, com eficácia imediata, a alíquota de
+
+9,2%, a título de Imposto de Exportação, sobre operações que destinem óleos brutos de
+
+petróleo ou de minerais betuminosos ao exterior (classificadas no código 2709 da NCM),
+
+pelas razões de fato e de direito que se passa a expor.
+
+1. BREVE SÍNTESE DOS FATOS E DISPOSITIVOS LEGAIS QUESTIONADOS.
+
+Em 01.03.23, foi publicada a Medida Provisória 1.163/23, editada pelo
+
+Governo Federal com dois objetivos muitos claros:
+
+a) Em primeiro lugar, manter os subsídios federais (via desoneração fiscal)
+
+sobre os combustíveis, de forma a controlar a alta do preço desses
+
+produtos (como gasolina, álcool, gás natural veicular etc.) no mercado
+
+interno;
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 2 | nativo]]
+
+b) Em segundo lugar, definir uma fonte de custeio específica para essa
+
+intervenção na economia.
+
+Tais pontos foram, literalmente, admitidos pelo Poder Executivo no corpo
+
+da Exposição de Motivos da MP nº 1.163/23, encaminhada, em 28.02.23 (EM nº
+
+00026/2023 MF – doc. nº 03), pelo Ministro da Fazenda ao Presidente da República.
+
+Para que não restem dúvidas, vale deixar consignado os seguintes trechos
+
+da Exposição de Motivos, em que (i) afirma-se a necessidade de o Estado de intervir na
+
+economia para mitigar o impacto negativo da elevação do preço dos combustíveis;
+
+(ii) atesta-se a importância da desoneração das operações internas com combustíveis
+
+como medida de proteção à economia nacional; e (iii) quantifica-se a renúncia de
+
+receita tributária envolvida com os referidos subsídios (qual seja, R$ 6,61 bilhões):
+
+“Essas medidas têm por objetivo contribuir para a estabilização da
+economia, pois evita o impacto inflacionário decorrente da reoneração imediata
+dos combustíveis, considerada, em particular, a conjuntura internacional
+desafiadora, inclusive com a permanência da guerra entre Rússia e Ucrânia, que
+agrega incertezas ao cenário econômico, especialmente em relação à evolução
+2 dos preços internacionais de petróleo (...).
+A relevância da desoneração proposta se caracteriza pela importância do
+setor de combustíveis para a economia nacional. Entende-se, portanto, ser do
+interesse público a prorrogação da redução da alíquota dos tributos incidentes
+sobre combustíveis citados.
+(...) a medida em tela ocasiona redução de receitas tributárias estimada em
+R$ 6,61 bilhões (seis bilhões, seiscentos e dez milhões de reais), renúncia já prevista
+na Lei Orçamentária Anual de 2023.”
+
+Na sequência, a Exposição de Motivos trata da fixação de alíquota do
+
+Imposto de Exportação (IE) sobre petróleo bruto, afirmando que tal medida terá um
+
+impacto financeiro positivo de R$ 6,65 bilhões (o que, evidentemente, cobrirá os gastos
+
+de R$ 6,61 bilhões da desoneração dos combustíveis), como se vê abaixo:
+
+“Ademais, a medida ora proposta eleva a alíquota do imposto de
+exportação incidente sobre as exportações de óleos brutos de petróleo ou de
+minerais betuminosos, classificado no código 2709 da Nomenclatura Comum do
+Mercosul – NCM, cujo impacto financeiro positivo, nos termos da Nota
+Cetad/Coest nº 025, de 28 de fevereiro de 2023, é da ordem de R$ 6,65 bilhões
+(seis bilhões, seiscentos e cinquenta milhões de reais).
+(...) A proposta atenua impactos negativos da elevação desses preços
+sobre a economia, protege os mais vulneráveis e confere tempo hábil para a
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 3 | nativo]]
+
+estruturação da política de preço dos combustíveis de forma geral.”
+
+Está nítido, portanto, que a instituição da alíquota do IE – de 9,2% - sobre
+
+as exportações de óleos brutos de petróleo e minerais betuminosos compreende uma
+
+medida de cunho eminentemente arrecadatório (fiscal), que visa compensar as perdas
+
+de receitas decorrentes dos subsídios tributários para a comercialização interna de
+
+combustíveis.
+
+A instituição dessa novel alíquota do IE, com validade até 30.06.23, está
+
+prevista no art. 7º da Medida Provisória nº 1.163/23. E o art. 8º do mesmo diploma, por
+
+sua vez, impõe sua imediata entrada em vigor, ou seja, a partir de 01.03.23, como se vê
+
+abaixo:
+
+“Art. 7º. Fica estabelecida, até 30 de junho de 2023, em nove inteiros e dois
+décimos por cento a alíquota do imposto de exportação incidente sobre as
+exportações de óleos brutos de petróleo ou de minerais betuminosos, classificados
+no código 2709 da NCM.
+
+Art. 8º. Esta Medida Provisória entra em vigor na data de sua publicação.”
+3
+
+Essa repentina e contundente oneração das exportações de petróleo
+
+bruto, em 9,2%, surpreendeu (da pior forma possível) todo o setor de óleo e gás, na
+
+medida em que onerou significativamente a comercialização do petróleo bruto para o
+
+exterior, que sequer pode ser repassado para os compradores externos, já que se está
+
+diante de um dos maiores mercados de commodities do mundo, cuja precificação é
+
+feita internacionalmente a partir de valores de referência (petróleo tipo Brent, WTI etc.).
+
+Tem-se, portanto, uma nova incidência tributária que, a despeito de suas
+
+inúmeras inconstitucionalidades, joga uma pá de cal em todo o planejamento
+
+econômico-financeiro realizado quando se decide ingressar em um leilão promovido
+
+pela ANP, seja por empresas nacionais ou estrangeiras, que confiam em um sistema
+
+jurídico estável para que possam realizar, ao longo de décadas, investimentos bilionários
+
+de alto risco para a exploração e produção de petróleo e gás nos campos concedidos.
+
+Igualmente, trata-se de medida que vai na contramão da Lei do Petróleo
+
+(Lei nº 9.478/97), que buscou abrir o mercado nacional para investidores privados – de
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 4 | nativo]]
+
+forma a ampliar a produção de óleo e gás por meio da quebra do monopólio da
+
+Petrobras –, e que prejudica a pretensão dos Estados e Municípios produtores de
+
+estimular o desenvolvimento do setor visando a geração de renda e a criação dos
+
+empregos perdidos nos últimos anos1.
+
+Dessa forma, diante de uma exigência absolutamente inconstitucional
+
+(sob todos os ângulos possíveis), vem a Autora propor a presente ação declaratória de
+
+inconstitucionalidade, com pedido de medida cautelar, para impugnar os seguintes
+
+dispositivos:
+
+a) Art. 7º da MP nº 1.163/23: o dispositivo viola o art. 153, II, o art. 153, § 1º2,
+
+e o art. 146, III, “a”3, todos da Constituição Federal, bem como os
+
+princípios da segurança jurídica, da não surpresa e aqueles que
+
+norteiam o desenvolvimento da ordem econômica (arts. 3º, II4, e 170,
+
+caput e IV5, da CF/88), corolários do nosso Estado Democrático de
+
+Direito;
+
+b) Art. 8º da MP nº 1.163/23: subsidiariamente, deve ser declarada a 4
+
+inconstitucionalidade do citado dispositivo, sem redução de texto,
+
+porquanto a nova exigência viola a regra da anterioridade anual e
+
+nonagesimal (art. 150, III, “b” e “c” da CF/886), de modo que só poderia
+
+produzir efeitos a partir de 01.01.24.
+
+1 Afinal, os investimentos no setor de óleo e gás notadamente envolvem longos prazos e expressivos valores.
+As empresas nacionais e estrangeiras, ao avaliarem suas opções de alocação de recursos, consideram o
+arcabouço legislativo vigente, confiando na segurança jurídica, previsibilidade, coerência e estabilidade
+das instituições.
+2 “Art. 153. Compete à União instituir impostos sobre: (...)
+II - exportação, para o exterior, de produtos nacionais ou nacionalizados (...)
+§ 1º É facultado ao Poder Executivo, atendidas as condições e os limites estabelecidos em lei, alterar as
+alíquotas dos impostos enumerados nos incisos I, II, IV e V.”
+3 “Art. 146. Cabe à lei complementar: (...)
+III - estabelecer normas gerais em matéria de legislação tributária, especialmente sobre:
+a) definição de tributos e de suas espécies, bem como, em relação aos impostos discriminados nesta
+Constituição, a dos respectivos fatos geradores, bases de cálculo e contribuintes”.
+4 “Art. 3º Constituem objetivos fundamentais da República Federativa do Brasil: (...)
+II - garantir o desenvolvimento nacional”.
+5 “Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por
+fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes
+princípios: (...)
+IV - livre concorrência”.
+6 “Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é vedado à União, aos Estados,
+ao Distrito Federal e aos Municípios: (...)
+III - cobrar tributos: (...)
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 5 | nativo]]
+
+É o que se passa a demonstrar.
+
+2. DA LEGITIMIDADE DA ABEP PARA PROPOR A PRESENTE ADI.
+
+Este e. Supremo Tribunal Federal já reconheceu, reiteradas vezes, que a
+
+ABEP – Associação Brasileira de Empresas de Exploração e Produção de Petróleo e Gás
+
+– é entidade legítima para propor ação direta de inconstitucionalidade. Vejamos alguns
+
+exemplos:
+
+“1. Reconhecida a legitimidade ativa da Associação Brasileira de Empresas
+de Exploração e Produção de Petróleo e Gás (ABEP), tendo em vista a assimétrica
+distribuição da indústria de petróleo e gás no território nacional e a expressividade
+das suas filiadas para o segmento como um todo, o que demonstra a sua
+abrangência nacional. Precedente.” (ADI 5480, Rel. Min. ALEXANDRE DE MORAES,
+Tribunal Pleno, em 20.04.20)
+
+“Preliminarmente, entendo que a autora possui legitimidade para propor a
+presente ação direta. Como ela aduz, são suas associadas as quatro maiores
+produtoras de petróleo do país (entre elas, a Petrobras) e mais outras vinte e duas
+empresas, responsáveis por mais de 90% da produção nacional do óleo. Ademais, 5
+consta dos autos o Anuário estatístico brasileiro do petróleo, gás natural e
+biocombustíveis (2015), produzido pela Agência Nacional do Petróleo (ANP), no
+qual se constata que as associadas da autora são concessionárias em campos
+situados em vários estados da Federação: Alagoas, Amazonas, Bahia, Espírito
+Santo, Rio de Janeiro, Paraná, Rio Grande do Norte, São Paulo, Santa Catarina e
+Sergipe.” (ADI 5481, Rel. Min. DIAS TOFFOLI, Tribunal Pleno, julgado em 29.03.21)
+
+Além das ADIs 5.480 e 5.481, a Autora teve sua legitimidade também
+
+reconhecida nas ADIs 6.226 e 6.2337. Nesse sentido, vale destacar que, segundo dados
+
+extraídos do Anuário Estatístico Brasileiro do Petróleo, Gás Natural e Biocombustíveis 2022
+
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os instituiu ou aumentou;
+c) antes de decorridos noventa dias da data em que haja sido publicada a lei que os instituiu ou aumentou,
+observado o disposto na alínea b”.
+7 A ABEP é uma associação de fins não econômicos com objetivo de “promover o desenvolvimento do
+segmento de Exploração e Produção de Petróleo e Gás Natural, por meio da representação de seus
+Associados e do referido segmento, em âmbito nacional, na defesa de interesses perante órgãos públicos
+e privados, em especial a Administração Pública e demais órgãos do Poder Judiciário e Legislativo”, nos
+termos do art. 2º de seu estatuto social (vide doc. 01). Entre os seus objetivos, está justamente o de
+“representar, manifestar e defender os interesses do Segmento e/ou das Associadas perante quaisquer
+entidades ou órgãos públicos ou privados, judicial e extrajudicialmente, com o objetivo principal de
+desenvolver o Segmento, podendo, com esse propósito, propor quaisquer remédios jurídicos (…) e pleitear
+tudo o que for de interesse do Segmento e/ou das Associadas, em especial ação direta de
+inconstitucionalidade de lei ou ato normativo federal, estadual ou municipal” (art. 3º, “b”, parágrafo único
+do estatuto social – vide doc. 01).
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 6 | nativo]]
+
+(doc. nº 04)8, a produção de petróleo e de gás natural está concentrada em poucas
+
+concessionárias. Veja-se:
+
+6
+
+E praticamente todas as empresas que exploram e produzem petróleo e
+
+gás natural são associadas à Autora, conforme listagem de associados em anexo (doc.
+
+nº 01).
+
+Destaque-se, também, que os associados da Autora possuem atuação em
+
+mais de nove Estados da Federação, conforme está registrado no Anuário Estatístico
+
+Brasileiro do Petróleo, Gás Natural e Biocombustíveis 2022, confirmando-se que se trata
+
+de entidade de caráter nacional, à luz do critério estabelecido na ADI nº 386 (Rel. Min.
+
+Sidney Sanches, julgamento em 04.04.91)9. Vejamos:
+
+8 Disponível em https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-
+estatistico/anuario-estatistico-2022. Acesso em 10.03.23.
+9 Registre-se, também, que a jurisprudência desta e. Corte tem considerado que tal critério “cederá nos
+casos em que haja comprovação de que a categoria dos associados só existe em menos de nove Estados”
+(ADI 386 Min. Moreira Alves). Nesses termos, reconheceu-se a legitimidade da ABEP na ADI 5.481:
+“Situação análoga ocorre no presente feito. Como aduz a autora, as reservas de petróleo estão
+concentradas em certas áreas do território nacional, especialmente no Estado do Rio de Janeiro.
+Consoante o citado anuário, possui o estado fluminense 81,9% das reservas provadas de petróleo. Em
+grande parte, por esse motivo é que está lá sediada a maioria das empresas exploradoras e produtoras
+de petróleo – que possuem estabelecimentos e filiais espalhados em vários outros estados da Federação
+–, inclusive aquelas quatro responsáveis por expressiva parcela da produção nacional do óleo. Diante
+desse cenário, é desarrazoado exigir que a autora tenha associados cujas sedes estejam distribuídas
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 7 | nativo]]
+
+7
+
+Em resumo, os dados acima colacionados são suficientes para se
+
+comprovar que a ABEP congrega praticamente todo o setor de produção de petróleo
+
+no país, motivo pelo qual deve ser considerada uma entidade classista de âmbito
+
+nacional e está, portanto, legitimada à propositura da ADI nos termos do art. 103, IX,
+
+parte final, da Constituição Federal10 e art. 2º, IX, da Lei nº 9.868/9911.
+
+Por fim, é inequívoco o preenchimento do requisito de pertinência
+
+temática, pois a medida provisória impugnada instituiu imposto exatamente sobre a
+
+exportação de petróleo e minerais betuminosos.
+
+Portanto, seja pela amplitude de sua representação, seja por suas
+
+finalidades institucionais, a Autora está qualificada para propor a presente ação direta
+
+em pelo menos nove estados da Federação.”
+10 “Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (Redação dada pela Emenda Constitucional nº 45, de 2004) (…) IX - confederação
+sindical ou entidade de classe de âmbito nacional.”
+11 “Art. 2o Podem propor a ação direta de inconstitucionalidade: (…)
+IX - confederação sindical ou entidade de classe de âmbito nacional.”
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 8 | nativo]]
+
+de inconstitucionalidade.
+
+3. DA INCONSTITUCIONALIDADE DO ART. 7º DA MEDIDA PROVISÓRIA Nº
+
+1.163/23.
+
+3.1. Da inconstitucionalidade material e formal do art. 7º da MP nº
+
+1.163/23: violação ao art. 153, II, ao art. 153, §1º e ao art. 146, III, “a”, da Constituição
+
+Federal - Imposto de Exportação que não encontra respaldo no art. 26 do CTN.
+
+Como visto acima, o art. 7º da MP nº 1.163/23 estabeleceu a incidência de
+
+Imposto de Exportação sobre operações com petróleo, com fins meramente
+
+arrecadatórios, já que objetiva gerar receita de R$ 6,65 bilhões para compensar a perda
+
+de R$ 6,61 bilhões, estimada em decorrência da desoneração fiscal das operações
+
+internas com combustíveis.
+
+No entanto, a interpretação sistemática e histórica da legislação tributária
+
+leva à conclusão de que o imposto de exportação não pode ter caráter eminentemente
+arrecadatório. Isso, aliás, já era lembrado pelo saudoso Min. ALIOMAR BALEEIRO, que, 8
+
+em obra clássica sobre direito financeiro, asseverou que o Imposto de Exportação,
+
+desde a Emenda nº 18/65 (quando passou para a competência da União),
+
+“transformou-se em um instrumento apenas extrafiscal de comércio exterior.”12
+
+Trata-se, portanto, de imposto de caráter extrafiscal, cujas finalidades
+
+devem necessariamente estar associadas aos “objetivos da política cambial e do
+
+comércio exterior”, como estipulado pelo art. 26 do Código Tributário Nacional.
+
+Evidentemente, para se identificar a natureza da exação, o ponto de
+
+partida deve ser a Constituição Federal, que prevê a competência da União para
+
+instituir imposto “sobre a exportação, para o exterior, de produtos nacionais ou
+
+nacionalizados” (art. 153, II).
+
+A Constituição agrupa três tributos - o Imposto de Exportação, o Imposto
+
+de Importação e o Imposto sobre Operações Financeiras (art. 153, I, II e V) – que são
+
+12 Uma Introdução à Ciência de Finanças, 18ª edição, Rio de Janeiro: Forense, 2012, p. 399.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 9 | nativo]]
+
+excepcionados de três das mais importantes limitações constitucionais ao poder de
+
+tributar – quais sejam, os princípios da legalidade, da anterioridade anual e da
+
+anterioridade nonagesimal. Veja-se:
+
+a) Art. 150, § 1º: excepciona os três impostos (II, IE e IOF) dos princípios
+
+da anterioridade anual e nonagesimal:
+
+“Art. 150. Sem prejuízo de outras garantias asseguradas ao contribuinte, é
+vedado à União, aos Estados, ao Distrito Federal e aos Municípios: (...)
+III - cobrar tributos: (...)
+b) no mesmo exercício financeiro em que haja sido publicada a lei que os
+instituiu ou aumentou;
+c) antes de decorridos noventa dias da data em que haja sido publicada a
+lei que os instituiu ou aumentou, observado o disposto na alínea b;
+§ 1º A vedação do inciso III, b, não se aplica aos tributos previstos nos arts.
+148, I, 153, I, II, IV e V; e 154, II; e a vedação do inciso III, c, não se aplica aos
+tributos previstos nos arts. 148, I, 153, I, II, III e V; e 154, II, nem à fixação da
+base de cálculo dos impostos previstos nos arts. 155, III, e 156, I.”
+
+b) Art. 153, §1º: mitiga a aplicação do princípio da legalidade estrita em
+relação aos mesmos impostos, permitindo que o Poder Executivo, por 9
+meio de decreto, possa manejar suas alíquotas dentro das condições
+
+e limites estabelecidos em lei:
+
+“Art. 153. Compete à União instituir impostos sobre: (...)
+II - exportação, para o exterior, de produtos nacionais ou nacionalizados;
+§ 1º. É facultado ao Poder Executivo, atendidas as condições e os limites
+estabelecidos em lei, alterar as alíquotas dos impostos enumerados nos
+incisos I, II, IV e V.”
+
+Portanto, o Imposto de Exportação, juntamente do Imposto de
+
+Importação e do Imposto sobre Operações Financeiras, pertence a um grupo
+
+específico de impostos, que mereceu ser excepcionado das três limitações
+
+constitucionais ao poder de tributar.
+
+A razão pela qual tais tributos gozam do privilégio de afastar estas três
+
+relevantíssimas limitações constitucionais ao poder de tributar é justamente o seu perfil
+
+extrafiscal, pois a adoção de políticas indutoras ou inibidoras de comportamentos por
+
+meio de tributos deve ser revestida da agilidade necessária para o enfrentamento de
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 10 | nativo]]
+
+situações específicas. Exatamente porque estes tributos não devem ser usados para
+
+finalidades essencialmente arrecadatórias, o constituinte originário, ao contrário do que
+
+acontece com os demais tributos, deu a eles um perfil de fácil alteração, para que
+
+possam ser amoldados conforme as finalidades buscadas pelo Estado brasileiro em
+
+termos de política econômica externa e monetária.13
+
+Sendo assim, a própria Constituição, ao excetuar determinados impostos
+
+dos princípios da legalidade e da anterioridade (anual e nonagesimal), segregou-os de
+
+acordo com suas naturezas, isto é, opôs aqueles de caráter eminentemente fiscal aos
+
+de caráter eminentemente extrafiscal. Isso não quer dizer, por óbvio, que existem
+
+impostos sem quaisquer fins fiscais; afinal, todos os impostos geram arrecadação para
+
+os cofres públicos. É dizer, a utilização de certos impostos, como o Imposto de
+
+Exportação, deve ter como fim a concretização de determinado objetivo extrafiscal,
+
+sendo esse o motivo que justifica a sua instituição e ao qual deve observar o Legislador
+
+(ao instituí-los) e o Poder Executivo (ao manejar suas alíquotas). E tal motivo deve, por
+
+força de lei, estar relacionado à política cambial e/ou de comércio exterior.
+
+Vai ao encontro dessa constatação o fato de a Constituição Federal ter 10
+
+encampado o princípio do destino aplicável às transações no âmbito do comércio
+
+internacional, o qual exige a exoneração total das exportações de bens e serviços para
+
+13 Nesse sentido, confira-se a doutrina da Ministra REGINA HELENA COSTA, do STJ:
+“Previsto no art. 153, II, CR, o Imposto de Exportação também incide sobre o comércio exterior e ostenta
+estrutura bem semelhante a do Imposto de Importação. Tal como este, apresenta feição nitidamente
+extrafiscal ou regulatória, que pode ser sintetizada numa máxima do comércio exterior segundo a qual
+‘não se deve exportar tributos’. (...)
+Em razão de sua natureza extrafiscal, o Imposto de Exportação está igualmente excepcionado da
+observância do princípio da anterioridade da lei tributária – a genérica e a especial (...). Outrossim está
+autorizado o Poder Executivo a alterar-lhe as alíquotas, atendidas as condições e limites estabelecidos
+em lei (art. 153, §1º, CR).” (Curso de Direito Tributário, São Paulo: Saraiva, 2009, pp. 336/337).
+No mesmo sentido, LUÍS EDUARDO SHOUERI:
+“Por outro lado, a rigidez do Princípio da Legalidade encontra alguma mitigação na própria
+Constituição Federal. Isso se explica porque o próprio constituinte viu em certos tributos um veículo
+interessante para introduzir no ordenamento jurídico normas indutoras do comportamento dos
+contribuintes. Ou seja: desejou o constituinte que o Poder Executivo, dentro de certos limites, pudesse
+valer-se do tributo como um instrumento de intervenção no Domínio Econômico” (Direito Tributário, 4ª
+edição, São Paulo: Saraiva, 2014, p. 314)
+Por fim, ainda em relação ao Imposto de Exportação, vale conferir as pertinentes ponderações nas
+Propostas de Emenda nº 56 e 57 visando suprimir o art. 7º da MP nº 1.163/23:
+“Além disso, no que diz respeito a juridicidade da proposição, cumpre salientar que o Imposto sobre
+Exportação tem natureza extrafiscal. Ou seja, seu objetivo primordial não é arrecadatório, mas, sim,
+intervir na economia com vistas a ajustar a política cambial ou de comércio exterior, como determina o
+art. 26 do Código Tributário Nacional (CTN).” (doc. nº 05)
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 11 | nativo]]
+
+que, desse modo, se evite que o país “exporte” tributos14. Logo, a incidência de tributos
+
+na exportação é realmente uma exceção no ordenamento jurídico, o que confirma o
+
+já mencionado perfil extrafiscal do Imposto de Exportação.
+
+Tanto é assim que, até o momento, o imposto era cobrado apenas em
+
+duas hipóteses específicas, objetivando desestimular as exportações: (i) sobre
+
+exportação armas e munições para determinados países da América do Sul e América
+
+Central, inclusive Caribe (Resoluções Camex nº 17/01 e nº 88/10); e (ii) sobre a
+
+exportação de cigarros para a América do Sul e América Central, inclusive Caribe
+
+(Decreto nº 2.876/98). Em ambos os casos, objetiva-se combater o contrabando, por ser
+
+sabido que os mesmos produtos exportados recorrentemente retornam ao Brasil de
+
+forma ilegal.15
+
+Assim, ao estabelecer uma alíquota de 9,2% a título de Imposto de
+
+Exportação para compensar a perda decorrente de desoneração fiscal continuada, o
+
+art. 7º da MP 1.163/23 não se encontra em linha com o arquétipo extrafiscal deste
+
+imposto –, extraído diretamente do art. 153, II c/c arts. 150, §1º e 153, §1º–, o que
+evidencia a existência de inconstitucionalidade material no dispositivo impugnado. 11
+
+Mas não é só. A natureza extrafiscal do Imposto de Exportação fica ainda
+
+mais nítida quando se analisa o restante da legislação, em especial o Código Tributário
+
+14 Analisando-se os dispositivos da CF/88, constata-se o seu pleno alinhamento ao princípio do destino no
+comércio internacional, pois:
+(i) Nas exportações de bens e serviços: há a previsão de imunidade de incidência de IPI, ICMS e ISS
+(art. 153, §3º, III, art. 155, §2º, X, “a”, e art. 156, §3º, II), bem como ao ICMS é assegurado o direito ao
+crédito do imposto relativamente às operações anteriores (art. 155, X, “a”);
+(ii) Nas importações de bens e serviços: há a previsão de incidência de II (art. 153, I), IPI (art. 153, IV),
+de ICMS, ainda que a pessoa física ou jurídica não seja seu contribuinte habitual e a despeito da
+finalidade do bem (art. 155, IX, “a”), de ISS (art. 156, III) e de PIS e COFINS (art. 195, IV).
+15 Nesse ponto, vale destacar que, em determinado momento, houve majoração do imposto sobre a
+exportação de armas e munições para 150%, o que chegou a ser questionado judicialmente, tendo o e.
+STJ, na oportunidade, decidido ser válida a atuação do Poder Executivo exatamente pela sua clara
+finalidade extrafiscal:
+“1. Hipótese em que o Executivo majorou para 150% a alíquota do Imposto sobre a exportação de armas
+e municões para as Américas do Sul e Central. Justificou adequadamente o aumento, ressaltando a
+necessidade de combate ao contrabando consistente no retorno ilegal ao Brasil de armamento aqui
+mesmo fabricado, fato de grande e notório impacto na Segurança Pública (motivação transcrita no
+acórdão recorrido).
+2. Em harmonia com a ordem constitucional (art. 153, § 1º, da CF), o DL 1.578/1977, com a redação
+dada pela Lei 9.716/1998, fixou a alíquota básica do Imposto de Exportação em 30% e admitiu sua
+redução e majoração pelo Executivo (até o teto de 150%) "para atender os objetivos da política cambial
+e do comércio exterior" (REsp n. 614.890/RS, relator Ministro Herman Benjamin, Segunda Turma, julgado
+em 02.04.09)
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 12 | nativo]]
+
+Nacional.
+
+Com efeito, a Constituição Federal dispõe, em seu art. 146, III, “a”, que
+
+cabe à lei complementar estabelecer as normas gerais em matéria tributária,
+
+especialmente sobre a definição de tributos e suas espécies.
+
+Esse papel da lei geral tributária é exercido pelo Código Tributário Nacional
+
+(Lei nº 5.172/66), recepcionado pela ordem constitucional em vigor como lei
+
+complementar - que assim é chamado exatamente porque “complementa a
+
+Constituição”.
+
+E, quanto ao Imposto de Exportação, o CTN determina que sua cobrança
+
+deve atender a objetivos relacionados à política cambial e comércio exterior. Veja-se:
+
+“Art. 26. O Poder Executivo pode, nas condições e nos limites estabelecidos
+em lei, alterar as alíquotas ou as bases de cálculo do imposto, a fim de ajustá-los
+aos objetivos da política cambial e do comércio exterior.”
+
+12
+Como não poderia deixar de ser, o Decreto-Lei nº 1.578/77, que instituiu o
+
+Imposto de Exportação (e foi recepcionado pela Constituição Federal como lei
+
+ordinária), também dispõe da mesma forma em seu art. 3º, abaixo transcrito:
+
+“Art. 3º. A alíquota do imposto é de trinta por cento, facultado ao Poder
+Executivo reduzi-la ou aumentá-la, para atender aos objetivos da política cambial
+e do comércio exterior.”
+
+Portanto, a leitura dos dispositivos acima – em especial o art. 26 do Código
+
+Tributário Nacional – confirma, na linha do que dispõe a Constituição, que o Imposto de
+
+Exportação tem natureza extrafiscal. E mais do que isso, o Código Tributário Nacional já
+
+delimitou a quais finalidades extrafiscais o tributo se presta a atender: deve estar
+
+necessariamente ligado à política cambial e ao comércio exterior.
+
+Nesse passo, é importante notar que, a própria Constituição Federal, em
+
+seu art. 153, §1º, determinou que a alteração das alíquotas por parte do Poder Executivo
+
+deve sempre atender as “condições e limites estabelecidos em lei”.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 13 | nativo]]
+
+E os limites estabelecidos pela lei são claros e estão previstos
+
+expressamente no CTN!
+
+Portanto, no tocante ao Imposto de Exportação, somente seria possível o
+
+estabelecimento de nova alíquota que atendesse às finalidades extrafiscais previstas no
+
+art. 26 do CTN, que afirma que a exigência do Imposto de Exportação deve ocorrer
+
+apenas para atender a objetivos de política cambial e comércio exterior.
+
+Caso contrário, estaremos diante de típica situação de
+
+inconstitucionalidade formal, por violação não só ao art. 153, §1º, mas, também, ao art.
+
+146, III, “a”.
+
+E foi exatamente o que ocorreu no presente caso, que, além da
+
+inconstitucionalidade material já acima apontada, incorre também em
+
+inconstitucionalidade formal.
+
+Isso porque o art. 7º da MP nº 1.163/23, ao estabelecer a alíquota de 9,2%
+de Imposto de Exportação sobre as vendas de petróleo bruto ao exterior, não se atentou 13
+
+para os necessários limites definidos pelo art. 26 do Código Tributário Nacional, que é
+
+justamente o de se atender a objetivos de “política cambial” e “comércio exterior”.
+
+É que a utilização do IE, visando atender a eventual “política cambial”,
+
+somente poderia ocorrer para fins de formação de reservas externas com o intuito de
+
+manter o controle monetário no País, o que é não o caso da MP nº 1.163/23. Da mesma
+
+forma, somente seria lógica a instituição do Imposto de Exportação, focado no controle
+
+do “comércio exterior”, se o legislador estivesse pretendendo desestimular a exportação
+
+de determinado produto do país ou, então, como uma reação política a determinado
+
+país ou bloco econômico, em relação ao qual se pretenda onerar a comercialização
+
+dos produtos nacionais ou nacionalizados.
+
+Contudo, não há, na MP nº 1.163/23, nenhum objetivo extrafiscal
+
+relacionado à política cambial ou comércio exterior que se pretenda ver atingido,
+
+como impõe o art. 26 do CTN. Não há nada, nem no corpo do diploma legal, nem em
+
+sua exposição de motivos, que possa levar a uma conclusão nesse sentido.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 14 | nativo]]
+
+Pelo contrário. Como já demonstrado na síntese dos fatos, a cobrança tem
+
+objetivos meramente arrecadatórios: busca-se arrecadar R$ 6,65 bilhões para
+
+compensar a perda de receitas de R$ 6,61 bilhões em decorrência da desoneração
+
+fiscal das operações internas com combustíveis.
+
+Não obstante, na tentativa de ocultar o evidente descompasso entre o
+
+objetivo arrecadatório e a natureza extrafiscal do imposto, viu-se algumas declarações
+
+de representantes do Governo Federal, na linha de que o IE está sendo criado para
+
+desestimular as exportações de petróleo bruto para fins de incentivar o refino do mesmo
+
+no mercado interno16.
+
+Com todas as vênias, estas declarações não se sustentam e podem ser
+
+facilmente contestadas, pois uma efetiva política de refino do petróleo no país requer
+
+muito mais do que a simples cobrança – por 4 meses – do Imposto de Exportação. É
+
+plenamente sabido que o País não detém capacidade para refinar todo o petróleo que
+
+produz.17
+14
+
+Neste sentido, pergunta-se: onde está o programa oficial do Governo
+
+Federal para construção de refinarias? Esses 4 meses serão suficientes para que sejam
+
+criadas novas refinarias e para que se implemente um programa nacional de refino que
+
+sequer se encontra no papel? Ou, por outro lado, devem as empresas diminuir a
+
+produção nacional para que se possa refinar 100% do óleo extraído no país?
+
+Declarações desta natureza – absolutamente descoladas da realidade –
+
+apenas revelam que não há propósito extrafiscal algum atrelado à exação em
+
+comento.
+
+16 Veja-se, nesse sentido, a reportagem disponível em:
+https://www.brasildefato.com.br/2023/02/28/governo-vai-taxar-exportacao-de-petroleo-para-minimizar-
+aumento-da-gasolina
+17 Conforme dados extraídos do Anuário Estatístico da ANP 2022 (vide tabelas 1.2 e 2.29 – doc. nº 04), ainda
+que todas as refinarias operassem em sua capacidade máxima, remanesceria um déficit mensal de 15
+milhões de barris não refinados. Ou seja, é nítido que o País não detém capacidade de refino condizente
+com sua capacidade de produção de petróleo, o que exige que uma parcela relevante da produção seja
+exportada para refino em outras localidades.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 15 | nativo]]
+
+Quanto à inconstitucionalidade formal, vale lembrar de caso recente, em
+
+que esta Suprema Corte reconheceu a inconstitucionalidade da cobrança de tributo
+
+diante da invasão de competência de matéria reservada à lei complementar (violação
+
+ao art. 146, II, da CF/88). Veja-se o caso da ADI 5469/DF, que impediu a exigência do
+
+ICMS-DIFAL previsto no Convênio CONFAZ nº 93/15:
+
+“Ação direta de inconstitucionalidade. Legitimidade ativa da associação
+autora. Emenda Constitucional nº 87/15. ICMS. Operações e prestações em que
+haja destinação de bens e serviços a consumidor final não contribuinte do ICMS
+localizado em estado distinto daquele do remetente. Inovação constitucional.
+Matéria reservada a lei complementar. (art. 146, I e III, a e b; e art. 155, § 2º, XII, a,
+b, c, d e i, da CF/88). Cláusulas primeira, segunda, terceira e sexta do Convênio
+ICMS nº 93/2015. Inconstitucionalidade. Tratamento tributário diferenciado e
+favorecido destinado a microempresas e empresas de pequeno porte. Simples
+Nacional. Matéria reservada a lei complementar (art. 146, inciso III, d, e parágrafo
+único CF/88). Cláusula nona do Convênio ICMS nº 93/2015. Inconstitucionalidade.
+Cautelar deferida na ADI nº 5.464/DF, ad referendum do Plenário.
+(...)
+8. A cláusula nona do Convênio ICMS nº 93/15, ao determinar a extensão da
+sistemática da Emenda Constitucional nº 87/15 aos optantes do Simples Nacional,
+adentra no campo material de incidência da LC nº 123/06, que estabelece
+normas gerais relativas ao tratamento tributário diferenciado e favorecido a ser
+15
+dispensado a microempresas e empresas de pequeno porte.
+(...)
+10. Ação direta julgada procedente, declarando-se a inconstitucionalidade
+formal das cláusulas primeira, segunda, terceira, sexta e nona do Convênio ICMS
+nº 93, de 17 de setembro de 2015, do Conselho Nacional de Política Fazendária
+(CONFAZ), por invasão de campo próprio de lei complementar federal.” (ADI
+5469/DF, Plenário, Rel. Min. Dias Toffoli, em 24.02.21)
+
+Como se vê, o Convênio nº 93/15 foi considerado inconstitucional (nessa
+
+parte), justamente por tratar da matéria de forma avessa ao que já dispunha a lei
+
+complementar (in casu, a LC nº 123/06). É exatamente o que acontece no caso dos
+
+autos, em que o art. 7º da MP nº 1.163/23 colide com o que está previsto no art. 26 do
+
+CTN.
+
+O mesmo ocorreu, inclusive, em caso que gerou a edição da Súmula
+
+Vinculante nº 08, no qual está Suprema Corte estabeleceu que “são inconstitucionais o
+
+parágrafo único do art. 5º do Decreto-Lei 1.569/1977 e os arts. 45 e 46 da Lei 8.212/91,
+
+que tratam de prescrição e decadência de crédito tributário.”18. Naquela
+
+18 Tese definida no RE 559.943, Rel. Min. Cármen Lúcia, DJE DE 26.09.08
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 16 | nativo]]
+
+oportunidade, a discussão envolvia a possibilidade de lei ordinária dispor de maneira
+
+diversa do que foi estabelecido no Código Tributário Nacional em relação aos prazos
+
+de prescrição e decadência (arts. 150, §4, art. 173, I e art. 174 do CTN). A conclusão,
+
+como não poderia deixar de ser, foi no sentido da ocorrência de inconstitucionalidade
+
+formal, como muito bem esclarece o precedente abaixo, da relatoria do Exmo. Min.
+
+Gilmar Mendes (selecionado pela Corte como representativo da controvérsia para fins
+
+de edição da Súmula Vinculante):
+
+“As normas relativas à prescrição e à decadência tributárias têm natureza de
+normas gerais de direito tributário, cuja disciplina é reservada a lei complementar,
+tanto sob a Constituição pretérita (art. 18, §1º, da CF/1967/1969) quanto sob a
+Constituição atual (art. 146, b, III, d, CF/1988). Interpretação que preserva a força
+normativa da Constituição, que prevê disciplina homogênea, em âmbito
+nacional, da prescrição, decadência, obrigação e crédito tributários. (...) O
+CTN/1966 (Lei 5.172/1966), promulgado como lei ordinária e recebido como lei
+complementar pelas Constituições de 1967/1969 e 1988, disciplina a prescrição e
+a decadência tributárias”. (RE 556.664, Rel. Min. Gilmar Mendes, julgado em
+12.06.08)
+
+Os termos adotados pelo Exmo. Ministro Relator no excerto acima não
+
+poderiam ser mais lúcidos, pois a submissão da lei ordinária à lei complementar é uma
+16exigência do sistema constitucional brasileiro para que se preserve a “força normativa
+
+da Constituição”.
+
+Por isso, nos termos da jurisprudência pacífica deste Supremo Tribunal
+
+Federal, é absolutamente intolerável que o art. 7º da MP nº 1.163/23 desconsidere por
+
+completo o comando do art. 26 do CTN.
+
+Em síntese, da análise de todo o acima exposto, podemos extrair duas
+
+conclusões:
+
+a) Em primeiro lugar, que o estabelecimento da alíquota do IE pelo art. 7º
+
+da MP nº 1.163/23 tem fim essencialmente arrecadatório; não há
+
+nenhum objetivo extrafiscal, referente à política cambial ou comercial
+
+exterior sendo atendido; muito pelo contrário, vê-se apenas a geração
+
+de caixa para se compensar a desoneração fiscal do preço dos
+
+combustíveis no mercado interno, o que vai de encontro à natureza do
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 17 | nativo]]
+
+Imposto de Exportação, implicando inconstitucionalidade material, por
+
+violação direta ao art. 153, II, da CF/88.
+
+b) Em segundo lugar, não está sendo atendido o comando expresso do
+
+art. 26 do CTN (de que o imposto esteja vinculado aos objetivos de
+
+política cambial ou comercial exterior), incorrendo-se em manifesta
+
+inconstitucionalidade formal, por violação ao art. 146, III, “a”, e ao art.
+
+153, §1º, da CF/88.
+
+Por fim, ainda que a arrecadação por meio do IE para subsidiar o preço
+
+dos combustíveis no mercado interno pudesse ser compreendida como uma finalidade
+
+extrafiscal, a nova exigência fiscal continuaria sendo inconstitucional.
+
+A uma, porque, como dito, a finalidade extrafiscal do IE é vinculada,
+
+devendo necessariamente atender a objetivo atrelado à política cambial e/ou de
+
+comércio exterior.
+
+A duas, porque, ausente tais objetivos, estar-se-ia diante de criação de 17
+
+outro tributo que não o IE. Ora, a criação de tributo com tal finalidade teria a natureza
+
+de CIDE19, cuja incidência na exportação é expressamente vedada pelo art. 149, §2º, I,
+
+da CF/8820. Ou seja, mesmo sob essa ótica, o tributo não poderia ser exigido, diante da
+
+imunidade constitucional.
+
+19 De fato, no presente caso, pode-se ver a presença das seguintes características inerentes a uma CIDE na
+presente exação:
+a) Foi instituída por medida provisória (lei ordinária);
+b) Atinge um grupo específico de contribuintes (qual seja, setor de óleo gás);
+c) Busca gerar recursos – dentro do próprio setor de óleo e gás – para custear a desoneração dos
+combustíveis no mercado interno, como forma de manter o controle de preços e estimular a economia.
+É tão evidente que o tributo em questão preenche os requisitos típicos de uma CIDE que a própria
+Constituição Federal autoriza a instituição de um tributo com todas essas características (conhecido como
+“CIDE-Combustíveis”) para justamente subsidiar o preço dos combustíveis no mercado interno. No entanto,
+tal autorização limita-se às vendas internas de combustíveis, diante da imunidade prevista no art. 149, §2º,
+I.
+Contudo, mesmo analisando a exigência fiscal sob esse ângulo, a cobrança restaria inviabilizada.
+20 “Art. 149. Compete exclusivamente à União instituir contribuições sociais, de intervenção no domínio
+econômico e de interesse das categorias profissionais ou econômicas, como instrumento de sua atuação
+nas respectivas áreas, observado o disposto nos arts. 146, III, e 150, I e III, e sem prejuízo do previsto no art.
+195, § 6º, relativamente às contribuições a que alude o dispositivo. (...)
+2º As contribuições sociais e de intervenção no domínio econômico de que trata o caput deste artigo:
+I - não incidirão sobre as receitas decorrentes de exportação”.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 18 | nativo]]
+
+3.2. Da violação aos princípios da segurança jurídica, da não surpresa
+
+e à ordem econômica. Medida Provisória em total descompasso com o objetivo de se
+
+garantir o desenvolvimento nacional.
+
+Na esteira da doutrina do Min. GILMAR MENDES21, cumpre distinguir as
+
+constituições-garantia (estatutárias) das constituições programáticas (ou dirigentes). A
+
+diferença essencial é que as primeiras se concentram basicamente em normatizar as
+
+estruturas de poder, enquanto as segundas fazem opções de política social e
+
+econômica, estipulando metas, programas de ação e objetivos para as atividades do
+
+Estado, nos domínios social, cultural e econômico.22
+
+E ao fazer a referida distinção, assinala o Min. GILMAR MENDES que “a
+
+Constituição brasileira de 1988 tem induvidosa propensão dirigente”.
+
+Pois bem. No que concerne à presente ação direta, cabe identificar os
+
+objetivos fundamentais e o programa econômico pretendidos pelos arts. 3º, II, e 170,
+
+caput e IV, da CF/88, in verbis:
+18
+
+“Art. 3º Constituem objetivos fundamentais da República Federativa do
+Brasil:
+II - garantir o desenvolvimento nacional;
+
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano
+e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os
+ditames da justiça social, observados os seguintes princípios:
+IV - livre concorrência”.
+
+Tais dispositivos, aliados ao art. 1º da CF/88, estabelecem uma verdadeira
+
+ideologia constitucional no que concerne aos objetivos e programas sociais e
+
+econômicos.23
+
+21 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional. 11ª ed. São
+Paulo: Saraiva, 2016, p. 62.
+22 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de Direito Constitucional, 11ª edição, São
+Paulo: Saraiva 2016, p. 63.
+23 “Nesse sentido, torna-se importante ressaltar que tanto a forma de Estado Social em sua vertente como
+Estado Democrático de Direito como seu conteúdo material possuem assento no texto constitucional
+brasileiro de 1988. Há, assim, uma ‘ideologia constitucional’ que aponta para o cumprimento do desiderato
+constitucional: a construção das condições de possibilidade do cumprimento do estabelecido nos arts. 1º,
+3º e 170 da Constituição. Tais dispositivos representam a espinha dorsal da estrutura do Estado Social-
+Constitucional brasileiro (sem olvidar outros dispositivos, como os que asseguram amplamente os direitos
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 19 | nativo]]
+
+Dito isso, é de se notar que o Imposto de Exportação do art. 7º da MP
+
+1.163/23 vai na contramão da Constituição Federal, pois:
+
+(i) intervém de forma repentina e inesperada no setor de petróleo e gás,
+
+pois, ao impor uma carga tributária expressiva sobre as exportações,
+
+causa enorme insegurança jurídica sobre o setor, fere o princípio da
+
+não surpresa e quebra o planejamento econômico-financeiro
+
+realizado pelas empresas quando se decide ingressar em um leilão
+
+promovido pela ANP, sejam nacionais ou estrangeiras, que confiam
+
+em um sistema jurídico estável para que possam realizar, ao longo de
+
+décadas, investimentos bilionários de alto risco para a exploração e
+
+produção de petróleo e gás nos campos concedidos;
+
+(ii) afasta-se do objetivo de promover o desenvolvimento nacional,
+
+gerando instabilidade e incertezas sobre investimentos futuros,
+
+especialmente nos Estados e Municípios produtores;
+19
+
+(iii) por fim, a exigência vai de encontro ao objeto da Lei do Petróleo (Lei
+
+nº 9.478/97), que buscou abrir o mercado nacional para investidores
+
+privados – de forma a ampliar a produção de óleo e gás por meio da
+
+flexibilização do monopólio da União, outrora exercido exclusivamente
+
+pela Petrobras. Aliás, essa realidade é muito bem conhecida pelo
+
+Governo Federal que consignou na sua Exposição de Motivos da
+
+Emenda Constitucional 9/9: “Tal flexibilização [pela EC 9/95] permitirá
+
+a atração de capitais privados para determinadas atividades em que
+
+se requer a expansão dos investimentos em volume insuscetível de
+
+financiamento exclusivo por parte da Petrobras”. O referido ideal,
+
+definitivamente, passa ao largo do resultado almejado com a
+
+oneração repentina das exportações de petróleo bruto.
+
+sociais, a participação dos trabalhadores nos lucros das empresas, a função social da propriedade, as
+políticas fundiárias, para citar apenas alguns).” (CANOTILHO, J. J. GOMES, et al (Org.). Comentários à
+Constituição do Brasil. 2ª ed. São Paulo: Saraiva, 2018, p. 153)
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 20 | nativo]]
+
+Não se trata, portanto, de uma questão meramente política. Isto é, o
+
+Imposto de Exportação, na forma em que foi instituído, extrapola a liberdade que o
+
+Poder Executivo e o Poder Legislativo têm para atuar, pois, ainda que o art. 153, II, da
+
+CF/88 confira competência à União Federal para tributar as exportações, isso,
+
+obviamente, somente pode se dar de modo coerente com os objetivos fundamentais
+
+da Constituição, como aqueles expressamente estatuídos pelos arts. 3º, II, e 170, caput
+
+e IV.
+
+Portanto, estamos diante de uma violação à ordem jurídica: o Imposto de
+
+Exportação em questão colide com os objetivos fundamentais da Constituição.
+
+Isso, inclusive, já foi notado pelos Parlamentares, que vêm apresentando
+
+diversas propostas de emenda para suprimir o art. 7º da MP nº 1.163/23 (doc. nº 05).
+
+Veja-se, por exemplo, a justificativa da Emenda nº 06, da qual se extrai que foi criado
+
+um entrave ao desenvolvimento econômico do país:
+
+“A indústria de óleo e gás e a sua extensa cadeia produtiva têm importância
+estratégica para o país. Representa cerca de 15% do PIB industrial e tem uma 20
+estimativa de geração de mais de 445 mil postos de trabalho diretos ou indiretos
+ao ano na próxima década e cerca de US$ 180 bilhões em investimentos nesse
+mesmo período. As exportações de petróleo são o terceiro item mais importante
+da balança comercial brasileira, sendo responsável por um superávit de US$ 65
+bilhões nos últimos quatro anos.
+Desse modo, a tributação das vendas externas, mesmo de forma
+temporária, pode impactar a competitividade do país a médio e longo prazos,
+além de afetar a credibilidade nacional no que tange a estabilidade das regras.
+A criação desse novo imposto também afeta as perspectivas de aumento
+da produção de petróleo, uma vez que o produto será onerado e sofrerá uma
+maior concorrência de países que não tributam a commodity.
+O período definido para cobrança do novo imposto, por si só, não retira os
+efeitos de percepção negativa que podem perdurar por longo período, podendo
+ocasionar atraso ou mesmo cancelamento nas decisões de investimentos em
+exploração e produção, com potencial efeito negativo na arrecadação de
+tributos federais e estaduais e na geração de empregos.”
+
+Não temos dúvida que um dos fundamentos da Constituição é o
+
+desenvolvimento do País, devendo o governo da situação gerir responsavelmente as
+
+suas dificuldades sem destruir valores importantes para a sociedade.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 21 | nativo]]
+
+A manutenção a longo prazo dessa exigência fiscal, se viesse a ocorrer,
+
+poderia gerar efeitos, inclusive, na balança comercial brasileira, na qual as exportações
+
+de petróleo bruto têm um impacto relevante. Veja-se, nesse sentido, o Anuário
+
+Estatístico Brasileiro do Petróleo, Gás Natural e Biocombustíveis 202124 da ANP:
+
+Com efeito, a segurança jurídica é, nos dizeres de GILMAR MENDES, um
+
+subprincípio do Estado Democrático de Direito (art. 1º da CF/88) e, por isso, assume um
+
+valor ímpar na realização da própria ideia de justiça material.25
+21
+
+HUMBERTO ÁVILA explica que esta precisa ser analisada sob as facetas da
+
+cognoscibilidade, da confiabilidade e da calculabilidade. O estado de
+
+cognoscibilidade significa que o cidadão ou a empresa deve ter a capacidade de
+
+compreender os sentidos possíveis de um texto normativo, de modo a realizar escolhas
+
+quanto às suas condutas sem se enganar. O estado de confiabilidade repele mudanças
+
+frequentes, bruscas e drásticas, associando-se, portanto, à estabilidade. E o ideal de
+
+calculabilidade diz respeito à capacidade de prever quais serão, no futuro, as
+
+consequências jurídicas para os atos agora praticados.26
+
+O mercado foi surpreendido com a instituição da exação de 9,2% sobre
+
+suas exportações, quebrando a confiabilidade das empresas que se inseriram no
+
+mercado brasileiro de petróleo, e, obviamente, nunca contaram com o impacto deste
+
+24 Disponível em https://www.gov.br/anp/pt-br/centrais-de-conteudo/publicacoes/anuario-
+estatistico/anuario-estatistico-2022. Acesso em 10.03.23.
+25 MENDES, Gilmar Ferreira. Direitos Fundamentais e Controle de Constitucionalidade. 4ª ed. São Paulo:
+Saraiva, 2012, p. 212.
+26 ÁVILA, Humberto. Teoria da Segurança Jurídica. 4ª ed. São Paulo: Malheiros, 2016, p. 140-144.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 22 | nativo]]
+
+imposto sobre suas exportações. Afinal, nunca se tributaram as exportações de petróleo
+
+neste país!
+
+A situação, reitere-se, é ainda mais grave para as empresas de menor
+
+porte e que exploram campos maduros, cujos riscos envolvidos são maiores e a
+
+lucratividade bem menor.
+
+Como se sabe, as empresas que vencem os leilões realizados pela ANP
+
+assumem compromissos de investimentos altíssimos em relação a cada um dos blocos
+
+exploratórios. Assim, planejam-se de forma cuidadosa, considerando todos os custos,
+
+bem como expectativas de receitas. Naturalmente, nunca consideraram, no seu
+
+planejamento fiscal, a possibilidade de terem que arcar com um Imposto de Exportação
+
+que atingisse quase 10%.
+
+Noutra banda, a instituição do imposto fere a calculabilidade,
+
+especialmente da perspectiva dos investidores, que poderão reduzir o volume de
+
+recursos ao mercado de petróleo brasileiro, por não saberem se iniciativas semelhantes
+serão perpetradas no futuro. 22
+
+Ainda que, na hipótese, não se possa alegar que há direito adquirido a um
+
+determinado regime tributário, “não pode o legislador ou o Poder Público em geral, sem
+
+ferir o princípio da segurança jurídica, fazer tábula rasa das situações jurídicas
+
+consolidadas ao longo do tempo”27.
+
+A cobrança não só causa insegurança jurídica e se mostra incompatível
+
+com o desenvolvimento nacional, mas também revela um absoluto desapreço da União
+
+Federal pela situação dos entes federativos. Isso porque, preocupada apenas em
+
+resolver seu problema orçamentário, a União Federal instituiu um tributo que pode vir a
+
+prejudicar as atividades em desenvolvimento nos estados e municípios produtores, além
+
+de interferir negativamente em novos investimentos. O impacto será sentido em todos
+
+os níveis, até mesmo pela redução dos valores de royalties e participações especiais
+
+devidos a cada ente. E, vale registrar, a receita do imposto de exportação pertence
+
+27 MENDES, Gilmar Ferreira. Direitos Fundamentais e Controle de Constitucionalidade. 4ª ed. São Paulo:
+Saraiva, 2012, p. 211.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 23 | nativo]]
+
+exclusivamente à União Federal, não havendo nenhuma parcela a ser repartida com
+
+os demais entes federados (art. 157 e 158 da CF/88).
+
+Há, portanto, um nítido reflexo federativo: para a União aumentar no curto
+
+prazo a sua arrecadação, coloca-se um enorme obstáculo para a expansão produtiva
+
+do setor, o que significa mitigar o recolhimento dos royalties e participações especiais
+
+repassados aos estados e municípios. Tais recursos financeiros, vale dizer, são cada vez
+
+mais vitais – especialmente naquelas localidades associadas à produção do insumo.
+
+Para se ter uma ideia, somente o Estado do Rio de Janeiro e os seus
+
+municípios, receberam mais de 50 bilhões de reais no ano passado a título de tais
+
+compensações financeiras28. Um dos motivos apontados pela FIRJAN para a
+
+expressividade do montante foi, justamente, o aumento mais recente da produção em
+
+função do incremento das exportações.
+
+A expressividade dos valores envolvidos dá conta da grande dependência
+
+de entes da Federação às receitas provenientes dos royalties/participações especiais.
+Vale dizer, a esse respeito, que os entes subnacionais ficam com a maior parte do 23
+
+quinhão distribuído: nos cálculos de 2021, foram 35,5% para os estados e 22,9% para os
+
+municípios29. Esses recursos, ademais, já estão previsos nas respectivas Leis de Diretrizes
+
+Orçamentárias (LDOs) e a sua frustação (ainda que parcial e aqui agravada pela
+
+imediata eficácia do dispositivo impugnada) tem o potencial de lesar a prestação de
+
+serviços públicos de caráter essencial.
+
+Não é exagerado afirmar, portanto, que o dispositivo impugnado também
+
+acaba por violar o Pacto Federativo. Afinal e como demonstrado, a norma emanada
+
+do Presidente da República – com nítida função arrecadatória – trará reflexos adversos
+
+indissociáveis nas receitas dos entes subnacionais. E o pior: sem que tenha sido
+
+antecedida por adequado período de transição e/ou de adaptação.
+
+28 https://valor.globo.com/brasil/noticia/2023/01/13/estado-do-rio-e-municpios-fluminenses-receberam-r-
+50-bi-em-royalties-e-participaes-em-2022-diz-firjan.ghtml. Acesso em 13.03.2023.
+29 https://www1.folha.uol.com.br/mercado/2022/06/pre-sal-eleva-exportacao/. Acesso em 13.03.2023.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 24 | nativo]]
+
+3.3. Subsidiariamente: da violação aos princípios da anterioridade anual
+
+e nonagesimal (art. 150, III, “b” e “c”, da CF/88).
+
+Por fim, tem-se a seguinte situação: ainda que se admita como válida a
+
+instituição do Imposto de Exportação em questão, não haverá como se negar que, in
+
+casu, o referido tributo possui natureza eminentemente fiscal (a qual foi admitida na
+
+Exposição de Motivos e confirmada em diversas manifestações dos membros do Poder
+
+Executivo), de modo que se encontra muito distante do perfil extrafiscal que lhe foi
+
+atribuído pela CF/88 e pelo CTN (art. 26).
+
+Em sendo assim, caso se chancele uma alíquota de 9,2% sobre as
+
+exportações de petróleo bruto, com fins arrecadatórios, a despeito de todos os pontos
+
+acima indicados, então é o caso de, pelo menos, se reconhecer a necessária
+
+aplicação das regras da anterioridade anual e nonagesimal (art. 150, III, “b” e “c”).
+
+Tem-se aqui, portanto, um pedido subsidiário: caso não se reconheça a
+
+inconstitucionalidade do art. 7º da MP nº 1.163/23, deve-se declarar no bojo da presente
+ação a inconstitucionalidade do art. 8º do mesmo diploma, sem redução de texto, para 24
+
+que a nova exigência respeite os comados do art. 150, III, “b” e “c”, da CF/88.
+
+Isso porque, se for admitido o estabelecimento do Imposto de Exportação
+
+com fins eminentemente fiscais, então, seguramente, perde-se a finalidade da exceção
+
+contida na Constituição Federal para o referido tributo (art. 150, §1º, da CF/88) no que
+
+diz respeito à regra da anterioridade anual e nonagesimal.
+
+De fato, em se tratando de tributo de natureza essencialmente
+
+arrecadatória, como é o caso daquele tratado pelo art. 7º da MP 1.163/23,
+
+indispensável é a observância das regras gerais aplicáveis a quaisquer outros tributos
+
+que possuam finalidades fiscais, especialmente aquelas que representem limitações ao
+
+poder de tributar, como é o caso da anterioridade.
+
+Afinal, sem o caráter extrafiscal previsto no art. 26 do CTN, qual seria a ratio
+
+para se tratar o Imposto de Exportação de forma diferente do IR, do ICMS ou do ISS?
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 25 | nativo]]
+
+A resposta é simples: nenhuma.
+
+A exceção prevista no art. 150, §1º, da CF/88 só pode ser aplicada para a
+
+instituição ou majoração dos tributos de perfil extrafiscal reconhecido pela Constituição
+
+Federal, pois entende-se que, nesses casos, é legítima a superação de uma garantia
+
+constitucional em prol de um fim que demande uma atuação imediata do Poder
+
+Público.
+
+Não sendo esse o caso, ou seja, estando-se diante de tributo
+
+eminentemente fiscal, a superação dessas limitações ao poder de tributar perde a
+
+razão de ser, de modo que se deve privilegiar a aplicação dos princípios da
+
+anterioridade de exercício e nonagesimal.
+
+Portanto, na prática, a observação da anterioridade de exercício e
+
+nonagesimal inviabilizará a cobrança do Imposto de Exportação, já que, da forma
+
+como previsto na MP nº 1.163/23, a vigência da exação seria de 4 meses (até 30.06.23);
+
+logo, se a cobrança só poderá ocorrer a partir de 01.01.24, prejudicada estará a
+presente exigência fiscal. 25
+
+4. DA NECESSIDADE DE CONCESSÃO DA MEDIDA CAUTELAR.
+
+Sabe-se que a concessão de medida cautelar em ação direta de
+
+inconstitucionalidade exige que estejam preenchidos os requisitos do fumus boni iuris e
+
+do periculum in mora.
+
+No presente caso, o fumus boni iuris evidencia-se pelos seguintes fatores:
+
+(i) o estabelecimento da alíquota de 9,2% de Imposto de Exportação pelo
+
+art. 7º da MP nº 1.163/23, com fins essencialmente arrecadatórios, implica
+
+violação material (violação ao art. 153, II, da CF/88) e formal à
+
+Constituição (conflito com o disposto no art. 146, III, “a” e no art. 153, § 1º,
+
+ambos da CF/88);
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 26 | nativo]]
+
+(ii) o IE atua em sentido contrário ao desenvolvimento nacional objetivado
+
+pelo art. 3º, II, da CF/88, bem como em descompasso com a livre iniciativa
+
+e o livre comércio, exigidos pelo art. 170, caput e IV da CF/88, ferindo
+
+também os princípios da segurança jurídica e da não surpresa;
+
+(iii) por fim, verifica-se violação aos princípios da anterioridade anual e
+
+nonagesimal (art. 150, III, “b” e “c”, da CF/88).
+
+Nada obstante, sobrelevam as razões atinentes ao periculum in mora para
+
+a concessão da medida cautelar.
+
+Em primeiro lugar, o art. 8º da MP nº 1.163/23 estipula que esta produzirá
+
+efeitos imediatos, o que significa que o imposto já pode incidir sobre as exportações
+
+realizadas desde sua publicação, ocorrida em 01.03.23.
+
+Aliado a isso, tem-se o fato de que o imposto é transitório, estando previsto
+
+para viger por 4 (quatro meses). É cediço que esta ação direta não será julgada
+26
+definitivamente antes de transcorrido esse lapso temporal. Portanto, a concessão da
+
+medida cautelar é necessária para garantir a mínima eficácia ao provimento final, que,
+
+inevitavelmente, somente será dado após o art. 7º da MP nº 1.163/23 ter produzido todos
+
+os seus efeitos.
+
+Além disto, é importante que este Supremo Tribunal Federal dê uma pronta
+
+resposta à instituição desse tributo nitidamente inconstitucional, como forma de sinalizar
+
+para toda a comunidade de investidores que neste país ainda se respeita a segurança
+
+jurídica.
+
+Ressalte-se que os efeitos negativos, a título de investimentos e
+
+planejamento, serão sentidos de forma imediata. Por exemplo, em 14.03.23, será
+
+realizada, pela ANP, a Audiência Pública nº 05/23 (doc. nº 06), cujo objetivo é a inclusão
+
+de dois blocos exploratórios (PRC-T-54 e ES-T-399) e 1 área com acumulações marginais
+
+(Japiim) no edital da Oferta Permanente de Concessão (OPC). Com as novas inclusões,
+
+o edital passará a contemplar um total de 1098 blocos exploratórios, além da área de
+
+Japiim.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 27 | nativo]]
+
+Naturalmente, a insegurança causada pela instituição de um inesperado
+
+imposto sobre exportação adiciona um elemento agravante em novos investimentos.
+
+Todavia, o cenário pode se reverter caso este E. STF conceda a medida cautelar, como
+
+indicativo de que virá a declarar a inconstitucionalidade do imposto.
+
+Situação similar foi enfrentada por esta e. Corte na ADI 6.407, na qual foi
+
+concedida a medida cautelar para suspender a eficácia do art. 2º da Resolução
+
+CMN/Bacen nº 4.765/19. Por meio da referida resolução, o Conselho Monetário Nacional
+
+(CMN) limitou a 8% os juros remuneratórios cobradas sobre o valor utilizado do cheque
+
+especial, mas, em paralelo, permitiu a cobrança de uma “tarifa” pela mera
+
+disponibilização do cheque especial aos clientes. Como no presente caso, o objetivo
+
+era realizar uma compensação: limitam-se os juros, mas se permite a cobrança de nova
+
+tarifa; aqui, mantém-se a desoneração tributária sobre as vendas internas de
+
+combustíveis, mas institui-se imposto sobre a exportação de petróleo bruto.
+
+O problema é que, como decidiu este e. STF na referida ADI 6.407, a
+cobrança, de natureza jurídica duvidosa (muito se assemelhando a tributo), 27
+
+surpreendeu os consumidores (pois nunca havia existido cobrança dessa natureza
+
+antes) e representava nítida intervenção no domínio econômico, mas não estava em
+
+consonância com objetivos centrais da ordem econômica, especialmente, a
+
+necessidade de proteção ao consumidor (art. 170, inc. V, CF/88).
+
+Por isso, dado o risco de graves danos à ordem econômica, o dispositivo
+
+teve eficácia suspensa pelo Min. GILMAR MENDES, o que foi referendado posteriormente
+
+pelo Plenário. Vejamos alguns trechos da decisão:
+
+“O Conselho Monetário Nacional (CMN), em informações, afirma que sua
+atuação teve a finalidade de tornar a modalidade de contratação de ‘cheque
+especial’ mais eficiente e menos regressiva, ‘estabelecendo limite máximo de
+taxa de juros e permitindo a cobrança de tarifa’.
+Em síntese, aponta como objetivo corrigir ‘falha de mercado’, no afã de
+diminuir o custo e a regressividade, considerando que é mais utilizado por clientes
+de menor poder aquisitivo e educação financeira, além de racionalizar o seu uso
+pelo cliente. (...)
+Por conseguinte, ao estabelecer limite máximo mensal de taxa de juros na
+contratação de concessão de crédito na modalidade ‘cheque especial’ e, em
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 28 | nativo]]
+
+contrapartida, instituir medida compensatória de nova cobrança de tarifa, atuou
+o CMN como agente estatal de intervenção na economia (arts. 174 e 192 da CF).
+(...)
+Princípio reforçando que a disponibilização de limite para ‘cheque especial’
+nunca foi cobrada pelas instituições financeiras nacionais durante mais de
+quarenta anos de existência dessa modalidade de crédito. (...)
+É bem verdade que a resolução ora questionada proíbe que a tarifa de
+disponibilização do cheque especial possa estar vinculada a pacotes pré-
+definidos de serviços (§ 3º do art. 2º), todavia a sua natureza jurídica é bastante
+questionável do ponto de vista constitucional, seja pela instituição em
+decorrência da simples disponibilidade de crédito (ainda que não usufruído), seja
+pela compensação futura com a taxa de juros (parágrafo único do art. 3º), a qual
+possui natureza remuneratória por excelência. E mais: a sua instituição visa,
+confessadamente, a compensar os mutuantes pela perda de arrecadação em
+decorrência da limitação dos juros, forçada pelo CMN, no mútuo ‘cheque
+especial’. (...)
+Ainda que louvável a intenção do Conselho Monetário Nacional de evitar o
+subsídio cruzado, a cobrança – apesar de se denominar ‘tarifa’ – parece
+confundir-se com outras duas potenciais naturezas jurídicas: tributo, na
+modalidade de taxa, tendo em vista que será cobrada apenas pela
+disponibilização mensal de limite pré-aprovado do cheque especial (art. 77 do
+CTN); ou cobrança antecipada de juros, diante da possibilidade de
+compensação da “tarifa” com os juros. (...)
+Consequentemente, não se alterou apenas a forma de cobrança, mas a
+própria natureza da cobrança (juros adiantados), em aparente descumprimento 28
+ao mandamento constitucional de proteção ao consumidor (art. 170, V, da CF).”
+
+Como registrou o Supremo Tribunal Federal, “ainda que louvável a
+
+intenção do Conselho Monetário Nacional”, a medida compensatória precisou ser
+
+suspensa, por colidir com os ditames centrais do art. 170 da CF/88. O mesmo ocorre no
+
+presente caso, em que, de forma compensatória à perda de arrecadação decorrente
+
+da desoneração fiscal dos combustíveis, instituiu-se imposto – este em claro
+
+descompasso com os ditames constitucionais e legais -, em descompasso com os
+
+objetivos econômicos e sociais expressamente consignados na Constituição,
+
+incorrendo-se no risco de causar prejuízos irreversíveis à ordem econômica.
+
+Não há dúvidas de que, como ocorreu na ADI nº 6.407, a medida
+
+compensatória veiculada pelo art. 7º da MP 1.163/23 precisa ter sua eficácia
+
+imediatamente suspensa.
+
+Dito isso, cabe fazer, ainda, um paralelo do presente caso, para se reforçar
+
+a necessidade de concessão de medida liminar, com as razões que levaram a Min.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 29 | nativo]]
+
+Cármen Lúcia a deferir o pedido liminar na ADI 4.917. Naquela oportunidade, a Ilustre
+
+Relatora entendeu que lei federal que resultaria em potencial frustração de receitas
+
+provenientes dos royalties/participações especiais de petróleo – no curso de um ano
+
+fiscal e com aptidão para impedir o “prosseguimento dos serviços públicos essenciais
+
+estaduais e dos Municípios” – deveria ser suspensa. Verbis:
+
+“(...) Em 1988, ganhou estatura constitucional o direito dos Estados e
+Municípios à participação nos resultados da exploração de petróleo ou gás
+natural, de recursos hídricos para fins de geração de energia elétrica e de outros
+recursos minerais, no respectivo território, plataforma continental, mar territorial ou
+zona econômica exclusiva, ou compensação por essa exploração.
+
+A questão tem a seriedade própria dos grandes temas federativos.
+
+12. A extraordinária urgência demandada para o exame da cautelar, na
+espécie em foco, é realçada pelo Autor na petição apresentada, na qual faz
+constar valores vultosos e imprescindíveis para o prosseguimento dos serviços
+públicos essenciais estaduais e dos Municípios situados no Estado do Rio de
+Janeiro, e que seriam desidratados com a aplicação imediata do novo
+regramento.
+
+Estados e Municípios planejaram e orçaram seus desempenhos segundo as
+normas antes vigentes, sem a alteração advinda com a promulgação das normas
+inicialmente vetadas (...)” (grifou-se, DJe 21.03.13).
+
+29
+E há uma última nuance a ser percebida. Qualquer medida desta
+
+natureza – com o condão de gerar distorções sobre um setor tão significativo para a
+
+economia brasileira30 - não pode ser tomada sem o mais amplo debate no Congresso
+
+30 Conforme gráfico elaborado pelo IBP, com dados da ANP, em 2022, exportaram-se 3 milhões de barris de
+petróleo por dia, o que evidencia o imediato e contundente impacto que uma inesperada exação, no
+importe de quase 10%, pode causar sobre a ordem econômica nacional. Veja-se:
+
+https://www.ibp.org.br/observatorio-do-setor/producao-importacao-e-exportacao-de-
+petroleo/#:~:text=Evolu%C3%A7%C3%A3o%20da%20produ%C3%A7%C3%A3o%2C%20exporta%C3%A7%C3%A3o%20e%20imp
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 30 | nativo]]
+
+Nacional. Isso não tornaria o imposto sobre exportação constitucional, pelos diversos
+
+motivos já expostos acima, mas, é bem possível que o debate no Congresso tivesse
+
+levado a caminho diverso, que não fosse a instituição do imposto com fins meramente
+
+arrecadatórios.
+
+Tanto isso é verdade que há mais de duas dezenas de emendas à medida
+
+provisória já propostas pelos parlamentares, muitas delas propondo a supressão do art.
+
+7º da MP 1.163/23 (vide doc. nº 05).
+
+Destarte, por qualquer ângulo que se analise a questão, fica evidente que
+
+o art. 7º da MP nº 1.163/23 deve ter sua eficácia imediatamente suspensa.
+
+5. DOS PEDIDOS FINAIS.
+
+Diante do exposto, pede-se que seja concedida a medida cautelar,
+
+inaudita altera pars, para suspender a eficácia do art. 7º da MP nº 1.163/23 até o
+
+julgamento final desta ação.
+30
+
+Ao final, pede-se que seja julgada procedente em definitivo a presente
+
+ação direta de inconstitucionalidade para:
+
+(i) Declarar a inconstitucionalidade do art. 7º da MP nº 1.163/23;
+
+(ii) Subsidiariamente, declarar a inconstitucionalidade do art. 8º da MP nº
+
+1.163/23, sem redução de texto, de modo a se reconhecer que o art. 7º
+
+da MP nº 1.163/23 deve observar os princípios da anterioridade do
+
+exercício e nonagesimal (art. 150, III, “b” e “c”, da CF/88).
+
+Requer-se que sejam colhidas informações da Presidência da República e
+
+que sejam ouvidos, ainda, o Advogado-Geral da União e o Procurador-Geral da
+
+República, em observância, respectivamente, aos arts. 6º e 8º da Lei nº 9.868/99.
+
+orta%C3%A7%C3%A3o%20de%20petr%C3%B3leo%20no%20Brasil,-
+Abastecimento%20e%20Refino&text=As%20exporta%C3%A7%C3%B5es%20de%20petr%C3%B3leo%20brasileiro,%25%20e%20
+5%25%2C%20respectivamente.
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br
+
+[[pagina 31 | nativo]]
+
+Nesses termos, pede deferimento.
+
+Do Rio de Janeiro para Brasília, 14 de março de 2023.
+
+EDUARDO MANEIRA CARLOS EDUARDO CAPUTO BASTOS
+OAB/RJ nº 112.792-A OAB/DF 2.462
+
+DONOVAN MAZZA LESSA ANA CAROLINA CAPUTO BASTOS
+OAB/RJ nº 121.282 OAB/DF 26.891
+
+MARCOS MAIA ALEXANDRE PACHECO BASTOS
+OAB/RJ nº 146.276 OAB/DF 52.682
+
+MICHEL H. NORONHA PIRES
+OAB/SP nº 394.180
+
+31
+
+RIO DE JANEIRO | SÃO PAULO | BRASÍLIA | BELO HORIZONTE
+www.maneira.adv.br

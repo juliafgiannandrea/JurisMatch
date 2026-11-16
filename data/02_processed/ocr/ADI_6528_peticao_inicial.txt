@@ -1,0 +1,2556 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL
+FEDERAL
+
+DISTRIBUIÇÃO POR DEPENDÊNCIA ÀS ADIs 6156, 6184 E 6217
+
+URGENTE!
+
+PEDIDO DE MEDIDA LIMINAR
+
+PARTIDO SOCIALISTA BRASILEIRO – PSB, partido político
+
+com representação no Congresso Nacional, inscrito no CNPJ/ME sob o nº 01.421697/0001-
+
+37, com sede em Brasília, DF, no SCLN – 304 – Bloco A – sobreloja 01, entrada 63, CEP:
+
+70736-510, vem, perante Vossas Excelências, respeitosamente, por seus advogados (Doc.
+
+01), com fundamento nos arts. 102, I, “a” e “p”, e 103, VIII, da Constituição da República
+
+Federativa do Brasil (“Constituição Federal”, “Constituição” ou “CF”), e no art. 2º, VIII, da Lei
+
+n.º 9.868, de 10 de novembro de 1999, propor a presente:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+(com pedido de medida cautelar)
+
+em face do art. 3º, inciso I, inciso IX; inciso XI, “d”; e §1º, da Lei n.º 13.874, de 20 de
+
+setembro de 2019 (“Lei n.º 13.874/19” ou “Lei da Liberdade Econômica”) (Doc. 02), que
+
+converteu em Lei a Medida Provisória n.º 881, de 30 de abril de 2019 (“MP n.º 881/19” ou
+
+“MP da Liberdade Econômica”), pelos fundamentos a seguir expostos.
+
+[[pagina 2 | nativo]]
+
+.I.
+
+LEGITIMIDADE E CABIMENTO DA PRESENTE ADI
+
+1. O PSB é partido político devidamente registrado junto ao Tribunal Superior Eleitoral
+(Doc.03), e possui, conforme dados oficiais da Câmara dos Deputados1 e do Senado
+Federal2, 31 deputadas e deputados federais em exercício e 02 senadoras e senadores a
+ele filiados, tendo, portanto, representação nas duas casas do Congresso Nacional.
+
+2. Nos termos do art. 103, VIII, da Constituição Federal, tem legitimidade para propor
+a ação direta de inconstitucionalidade e a ação declaratória de constitucionalidade o “partido
+político com representação no Congresso Nacional”.
+
+3. Conforme reconhecido pela jurisprudência dessa Suprema Corte3, trata-se de
+legitimidade universal, que permite ao partido político representado no legislativo federal a
+formulação de qualquer pleito
+
+4. Quanto ao cabimento da presente ação, dispõe o art. 102, I, “a”, da Constituição
+Federal, que cabe ao Supremo Tribunal Federal o processamento e julgamento da “ação
+direta de inconstitucionalidade de lei ou ato normativo federal”.
+
+5. Como se apontará com maior detalhe na presente manifestação, o PSB pretende
+ver reconhecida e declarada a inconstitucionalidade de parte do art. 3º da Lei da Liberdade
+Econômica, editada pelo Congresso Nacional como norma de conversão da MP n.º 881/19,
+o que a torna impugnável na presente via.
+
+6. Demonstrados os requisitos exigidos para a propositura da presente demanda,
+impõe-se o seu conhecimento e regular processamento, e passa-se a expor os fundamentos
+que devem levar ao seu integral provimento.
+
+1 Disponível em <https://www.camara.leg.br/deputados/bancada-atual>. Acesso em 04 jun. 2020.
+2 Disponível em <https://www25.senado.leg.br/web/senadores/em-exercicio/-/e/por-partido>. Acesso em 4
+jun. 2020.
+3 V. por todos, o seguinte julgado: “Partido político. Ação direta. Legitimidade ativa. Inexigibilidade do
+vínculo de pertinência temática. Os partidos políticos, desde que possuam representação no Congresso
+Nacional, podem, em sede de controle abstrato, arguir, perante o STF, a inconstitucionalidade de atos
+normativos federais, estaduais ou distritais, independentemente de seu conteúdo material, eis que não
+incide sobre as agremiações partidárias a restrição jurisprudencial derivada do vínculo de pertinência
+temática” [ADI 1.407 MC, rel. min. Celso de Mello, j. 7-3-1996, P, DJ de 24-11-2000].
+
+2
+
+[[pagina 3 | nativo]]
+
+.II.
+
+DISPOSITIVOS IMPUGNADOS
+
+7. Como mencionado acima, impugna-se, na presente Ação Direta de
+Inconstitucionalidade, os dispositivos a seguir transcritos:
+
+“Art. 3º São direitos de toda pessoa, natural ou jurídica, essenciais para o desenvolvimento
+e o crescimento econômicos do País, observado o disposto no parágrafo único do art. 170
+da Constituição Federal:
+
+I - desenvolver atividade econômica de baixo risco, para a qual se valha exclusivamente de
+propriedade privada própria ou de terceiros consensuais, sem a necessidade de quaisquer
+atos públicos de liberação da atividade econômica;
+
+(...) IX - ter a garantia de que, nas solicitações de atos públicos de liberação da atividade
+econômica que se sujeitam ao disposto nesta Lei, apresentados todos os elementos
+necessários à instrução do processo, o particular será cientificado expressa e
+imediatamente do prazo máximo estipulado para a análise de seu pedido e de que,
+transcorrido o prazo fixado, o silêncio da autoridade competente importará aprovação tácita
+para todos os efeitos, ressalvadas as hipóteses expressamente vedadas em lei;
+
+(...) XI - não ser exigida medida ou prestação compensatória ou mitigatória abusiva, em
+sede de estudos de impacto ou outras liberações de atividade econômica no direito
+urbanístico, entendida como aquela que:
+
+(...) d) requeira a execução ou prestação de qualquer tipo para áreas ou situação além
+daquelas diretamente impactadas pela atividade econômica; ou
+
+(...) § 1º Para fins do disposto no inciso I do caput deste artigo:
+
+I - ato do Poder Executivo federal disporá sobre a classificação de atividades de baixo risco
+a ser observada na ausência de legislação estadual, distrital ou municipal específica”.
+
+8. Como mencionado acima, a Lei da Liberdade Econômica, da qual derivam os
+dispositivos transcritos acima, foi editada em 30 de abril de 2019, tendo por objetivo instituir
+a Declaração de Direitos de Liberdade Econômica e estabelecer garantias de livre
+mercado, nos termos do art. 170 da Constituição Federal. Entre os motivos para sua edição,
+estavam a estagnação da economia brasileira e o número de brasileiros desempregados.
+
+9. Em seu art. 3º, a MP n.º 881/2019 estabeleceu os direitos tidos como essenciais
+para o desenvolvimento e o crescimento econômicos do Brasil, incluindo (i) a dispensa de
+quaisquer atos públicos de liberação de atividade econômica de baixo risco (inciso I); e (ii) o
+que se cunhou como “aprovação tácita” (inciso IX). De acordo com o texto, trata-se de
+uma garantia de que, transcorrido o prazo máximo definido e apresentados os elementos
+
+3
+
+[[pagina 4 | nativo]]
+
+necessários, será concedida à pessoa física ou jurídica a aprovação tácita de seu pedido,
+para todos os efeitos, com exceção das hipóteses legalmente vedadas.
+
+10. A preocupação com esses dispositivos legais fica ainda mais evidente pelo disposto
+no art. 1º, § 1º, da Lei, que previu expressamente a aplicação de seus dispositivos em
+matéria de proteção ao meio ambiente.
+
+11. Após tramitar no Congresso Nacional, a MP nº 881/2019 foi convertida em Lei da
+Liberdade Econômica. Com poucas alterações, a redação de seu art. 3º foi mantida,
+incluindo seus incisos I e IX, e passou a contar com mais um inciso, o qual dispôs de
+medidas consideradas abusivas em sede de estudos de impacto e outros atos de liberação
+relativas ao direito urbanístico (XI). Uma dessas medidas foi definida como a exigência de
+prestação ou execução de ações em áreas ou situações além daquelas diretamente
+impactadas pela atividade econômica (art. 3º, XI, “d”).
+
+12. A Lei da Liberdade Econômica foi regulamentada pelo Decreto nº 10.178, de 18 de
+dezembro de 2019 (“Decreto nº 10.178/2019”). Além de dispor sobre os critérios e os efeitos
+da classificação de risco das atividades econômicas, o Decreto também explicita as
+hipóteses que não se sujeitam à aprovação tácita. Após modificações feitas pelo Decreto nº
+10.219, de 30 de janeiro de 2020 (“Decreto nº 10.219/2020”), tais hipóteses passaram a
+incluir: (i) os processos administrativos de licenciamento ambiental, na hipótese de
+exercício de competência supletiva; e (ii) atos públicos de liberação de atividades com
+impacto significativo ao meio ambiente (art. 10, § 3º, IV e V).
+
+13. Ressalte-se que a segunda hipótese acima foi incluída também no art. 3º da Lei da
+Liberdade Econômica por meio da Medida Provisória nº 915, de 27 de dezembro de 2019
+(“MP nº 915/2019”), em dispositivo que foi excluído do respectivo Projeto de Conversão em
+Lei aprovado pelo Congresso Nacional. Independente disso, os dispositivos impugnados
+permaneceram aplicáveis aos atos de liberação com impactos ao meio ambiente e a povos
+e comunidades tradicionais. Além disso, tanto o Decreto nº 10.219/2020 quanto o próprio
+art. 1.º, § 1.º, in fine, explicitaram que a aprovação tácita é cabível em todas as outras
+hipóteses de atos de liberação em questões ambientais.
+
+14. Tanto verdade que, em 08 de janeiro de 2020, o Ministério da Economia remeteu
+ofícios a diversos órgãos (Doc. 04), incluindo a Fundação Nacional do Índio (“FUNAI”) e o
+Ministério da Agricultura, Pecuária e Abastecimento (“MAPA”), que lidam diretamente com
+questões afetas ao meio ambiente e à proteção dos povos indígenas, com orientações
+sobre a aplicação da Lei de Liberdade Econômica.
+
+15. Mais ainda: em 21 de fevereiro de 2020, foi publicada no Diário Oficial da União a
+Portaria nº 43, do MAPA (Doc. 05), que estabeleceu os prazos para aprovação tácita para
+os atos públicos de liberação de responsabilidade da Secretaria de Defesa Agropecuária,
+
+4
+
+[[pagina 5 | nativo]]
+
+órgão a ele vinculado. Essa Portaria, que se fundamentou em dispositivos impugnados na
+presente ação judicial, estabeleceu prazos exíguos para a liberação de produtos e
+certificação de estabelecimentos que podem ter impactos socioambientais significativos
+(inclusive indiretos), como os agrotóxicos (cujo prazo de análise passou a ser de 60 dias), os
+fertilizantes, corretivos, inoculantes, biofertilizantes, remineralizadores e substratos para
+plantas (cujo prazo de análise é de 180 dias) e o registro e certificação de estabelecimentos
+de reprodução de aves e suídeos (que têm, agora, o prazo de 120 dias).
+
+16. Vale lembrar que, atualmente, a eficácia dos itens 64 a 68 da Tabela 1 do art. 2º da
+Portaria nº 43 do MAPA, referentes aos prazos para a aprovação tácita descritos acima, já
+se encontra suspensa por decisão desta Corte, que deferiu o pedido de medida cautelar nos
+autos da Arguição de Descumprimento de Preceito Fundamental (“ADPF”) nº 656-DF e da
+ADPF nº 658-DF, como será detalhado abaixo4.
+
+17. Além do MAPA, também editaram atos prevendo os prazos para a aprovação tácita
+de atividades econômicas sob sua competência, bem como dispondo sobre outros critérios
+em conformidade com a Lei da Liberdade Econômica, por exemplo, a Agência Nacional de
+Mineração (“ANM”)5, o Instituto Nacional de Metrologia, Qualidade e Tecnologia
+(“INMETRO”)6, o Comando do Exército7, a Comissão Técnica Nacional de Biossegurança
+(“CTNBio”)8, o próprio Ministério do Meio Ambiente (“MMA”)9, o Conselho Nacional de
+Controle de Experimentação Animal (“Concea”)10, o Comitê para Gestão da Rede Nacional
+para Simplificação do Registro e da Legalização de Empresas e Negócio (“CGSIM”)11 e a
+Agência Nacional de Águas (“ANA”)12 (Docs. 06 a 13, respectivamente). Nada obstante,
+vale destacar que outras normas podem vir a ser editadas após o ajuizamento da presente
+demanda, o que demanda a fixação dos seus critérios de interpretação.
+
+18. Diante desse cenário, fez-se necessário o ajuizamento da presente ação direta de
+inconstitucionalidade, com pedido de urgência, a fim de garantir que os dispositivos referidos
+da Lei da Liberdade Econômica (art. 3º, I, IX e XI, “d”, e § 1.º) não sejam aplicados aos atos
+
+4 STF, Medida Cautelar na ADPF nº 656, Distrito Federal, Rel. Min. Ricardo Lewandowski, j. 01.04.2020.
+5 Resolução nº 22, de 30 de janeiro de 2020, publicada no DOU de 31.01.2020 (Seção 1, p. 118) e
+republicada para correção material no DOU de 03.02.2020 (Seção 1, p. 72).
+6 Portaria nº 35, de 30 de janeiro de 2020 (publicada no DOU de 31.01.2020, Seção 1, p. 94).
+7 Portaria nº 94, de 30 de janeiro de 2020 (publicada no DOU de 21.01.2020, Seção 1, p. 67).
+8 Resolução Normativa Ad Referendum nº 25, de 31 de janeiro de 2020 (publicada no DOU de
+03.02.2020, Seção 1, p. 17).
+9 Portaria nº 48, de 30 de janeiro de 2020 (publicada no DOU de 31.01.2020, Seção 1, p. 116).
+10 Resolução nº 46, de 29 de maio de 2020 (publicada no DOU de 01.06.2020, Seção 1, p. 17).
+11 Resolução nº 57, de 21 de maio de 2020 (publicada no DOU de 26.05.2020, Seção 1, p. 17).
+12 Resolução nº 25, de 8 de maio de 2020 (publicada no DOU de 11.05.2020, Seção: 1, p. 43).
+
+5
+
+[[pagina 6 | nativo]]
+
+de liberação cujo propósito seja a defesa do meio ambiente, incluída a proteção dos
+recursos hídricos, e dos índios, quilombolas e demais povos e comunidades tradicionais.
+
+.III.
+
+DAS INCONSTITUCIONALIDADES MATERIAIS DO ART. 3º, INCISO I, INCISO IX; INCISO
+XI, “D”; E §1º, DA LEI N.º 13.874/19
+
+III.1. CONTEXTO JURÍDICO: A ORDEM CONSTITUCIONAL DE PROTEÇÃO AO MEIO
+AMBIENTE, AOS ÍNDIOS, QUILOMBOLAS E DEMAIS POVOS E COMUNIDADES
+TRADICIONAIS
+
+19. A Constituição Federal dispõe de diretrizes de proteção ao meio ambiente
+ecologicamente equilibrado e aos povos indígenas, além das comunidades quilombolas e
+demais povos e comunidades tradicionais. Assim, antes de analisar especificamente cada
+dispositivo impugnado da Lei da Liberdade Econômica quanto à sua constitucionalidade, é
+necessário, em primeiro lugar, atentar-se à ordem e à sistemática constitucionais da defesa
+do meio ambiente e dos povos tradicionais – especialmente dos índios e quilombolas, a fim
+de se delimitar o parâmetro do controle de constitucionalidade.
+
+20. Por constituírem direitos fundamentais, a defesa do meio ambiente e dos povos
+indígenas, bem como das comunidades quilombolas e demais povos e comunidades
+tradicionais também deve observância aos tratados e convenções internacionais afetos
+devidamente ratificados e internalizados no ordenamento jurídico brasileiro, dado seu
+caráter supralegal, conforme já reconhecido por este Supremo Tribunal Federal (“STF”)13.
+
+III.1.1. Direitos fundamentais de terceira geração e supralegalidade.
+
+13 “Esse caráter supralegal do tratado devidamente ratificado e internalizado na ordem jurídica
+brasileira — porém não submetido ao processo legislativo estipulado pelo art. 5º, § 3º, da CF/1988 — foi
+reafirmado pela edição da Súmula Vinculante 25, segundo a qual “é ilícita a prisão civil de depositário infiel,
+qualquer que seja a modalidade do depósito”. Tal verbete sumular consolidou o entendimento
+deste Tribunal de que o art. 7º, item 7, da CADH teria ingressado no sistema jurídico nacional
+com status supralegal, inferior à CF/1988, mas superior à legislação interna, a qual não mais produziria
+qualquer efeito naquilo que conflitasse com a sua disposição de vedar a prisão civil do depositário infiel.
+Tratados e convenções internacionais com conteúdo de direitos humanos, uma vez ratificados e
+internalizados, ao mesmo passo em que criam diretamente direitos para os indivíduos, operam a
+supressão de efeitos de outros atos estatais infraconstitucionais que se contrapõem à sua plena
+efetivação”. (STF, ADI 5.240, voto do rel. min. Luiz Fux, P, j. 20-8-2015, DJE 18 de 1º-2-2016) – g.n.
+
+6
+
+[[pagina 7 | nativo]]
+
+21. Os direitos fundamentais tutelam condições inerentes a qualquer ser humano, sem
+distinção, para a vida e para a realização desta, sendo que, no aspecto normativo-positivo,
+designam “garantias de uma convivência digna, livre e igual de todas as pessoas”14
+(g.n.)15. Estes se dividem, pelo menos, em três gerações, sendo os de terceira geração
+pautados pelo ideal de solidariedade, que pugna pela fraternidade entre os seres humanos,
+a fim de que sejam consolidados os direitos individuais e sociais.
+
+22. Vale dizer: diferentemente dos direitos fundamentais de primeira geração e
+daqueles de segunda geração, os direitos fundamentais de terceira geração possuem
+dimensão negativa e positiva ao mesmo tempo: o Estado deve tanto se abster quanto agir
+para garanti-los.
+
+23. Nos termos da doutrina do i. Ministro Marco Aurélio de Mello, a Constituição
+Federal de 1988 fez dos direitos fundamentais o seu núcleo16. De fato, a chamada
+“Constituição Cidadã” coloca como um dos fundamentos do país a dignidade da pessoa
+humana (art. 1º, III) e estabelece como seus objetivos a construção de uma sociedade
+livre, justa e solidária, a erradicação da pobreza e redução das desigualdades,
+promoção do bem de todos, sem discriminação, bem como o desenvolvimento nacional
+(art. 3º).
+
+24. Além de elencar expressamente direitos e garantias fundamentais, a Constituição
+admite o reconhecimento de outros que decorram “do regime e dos princípios por ela
+adotados, ou dos tratados internacionais em que o Brasil seja parte” (art. 5º, § 2º).
+
+25. Posto isso, nos tópicos a seguir, abordar-se-á o conceito do direito ao meio
+ambiente e da proteção aos povos indígenas, bem como das comunidades quilombolas e
+demais povos e comunidades tradicionais, tidos como direitos e garantias fundamentais,
+bem como o tratamento que a Constituição Federal e outros tratados e convenções
+internacionais lhes conferem.
+
+III.1.2. Meio ambiente.
+
+26. A Constituição Federal é reconhecida por ter tornado a defesa do meio ambiente
+uma matéria constitucional17. Além de dispor de um capítulo próprio para o meio ambiente, a
+
+14 SILVA, 2018, p. 180.
+15 Idem.
+16 MELLO, Marco Aurélio. A vaquejada, a interpretação constitucional e o direito fundamental ao meio
+ambiente. Fórum de Direito Urbano e Ambiental – FDUA, Belo Horizonte, ano 17, n. 97, jan./fev. 2018.
+Disponível em: <http://www.bidforum.com.br/PDI0006.aspx?pdiCntd=250586>. Acesso em: 5 fev. 2020.
+17 MILARÉ, Édis. Direito do ambiente. 11. ed. revista, atualizada e ampliada. São Paulo: Revista dos
+Tribunais, 2018. pp. 173-174; e VILLAR, Pilar Carolina; CUNHA, Paulo Roberto. A Proteção Constitucional
+do Meio Ambiente e os Princípios do Direito Ambiental. In: CIBIM, Juliana Cassano; VILLAR, Pilar Carolina
+(Coord.). Direito, gestão e prática: Direito Ambiental Empresarial. São Paulo: Saraiva Jur, 2017. p. 26.
+
+7
+
+[[pagina 8 | nativo]]
+
+Constituição elevou-o a princípio norteador da ordem econômica e da ordem social,
+cuidando da matéria de modo sistêmico18, em diferentes títulos e capítulos19.
+
+27. Entre todos os dispositivos constitucionais que dispõem sobre o meio ambiente, o
+principal deles consiste no art. 225, que confere a todos o direito ao meio ambiente
+ecologicamente equilibrado, inclusive a gerações futuras, e impõe o dever de defesa e
+preservação do meio ambiente ecologicamente equilibrado à coletividade e ao Poder
+Público (caput), estabelecendo comandos específicos em seu primeiro parágrafo20-21.
+
+28. O meio ambiente pode ser entendido como “o conjunto de elementos naturais,
+artificiais e culturais que propiciem o desenvolvimento equilibrado da vida em todas as suas
+formas”22. Nesse sentido, a Declaração da Conferência das Nações Unidas sobre o Meio
+Ambiente Humano, de 1972 ("Conferência de Estocolmo”), adotou a acepção de meio
+ambiente como aquele que reúne condições adequadas para uma vida digna e de bem-
+estar – a definição também inclui, expressamente, questões sociais, ao passo que requer a
+abolição da discriminação. É esse meio ambiente, portanto, com condições para uma vida
+digna, que deve ser protegido e assegurado para as gerações presentes e futuras23.
+
+29. Ao dispor que o direito ao meio ambiente consiste no acesso ao meio
+ecologicamente equilibrado essencial à sadia qualidade de vida, o art. 225, da CF, parte
+dessa mesma concepção. Logo, ofende o direito garantido no referido dispositivo todos e
+quaisquer atos que comprometam as condições ambientais adequadas para a vida digna do
+ser humano.
+
+18 MILARÉ, 2018. p. 175.
+19 Cf.: SILVA, José Afonso da. Direito ambiental constitucional. 9. ed. atualizada São Paulo: Malheiros,
+2011. Pp. 48-52.
+20 CF, art. 225, caput e § 1º: “Art. 225. Todos têm direito ao meio ambiente ecologicamente equilibrado,
+bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder Público e à
+coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações. § 1º Para assegurar
+a efetividade desse direito, incumbe ao Poder Público: (...)”.
+21 Cabe citar, ainda, os arts. 23, VI, VII, XI, e 186, II, da CF. Segundo tais dispositivos, (i) a proteção do
+meio ambiente, incluindo o combate à poluição em todas as suas formas, a preservação das florestas, da
+fauna e da flora e a fiscalização dos recursos hídricos são de competência comum da União, dos Estados,
+do Distrito Federal e dos Municípios; e (ii) o uso adequado dos recursos naturais e a preservação do meio
+ambiente são pressupostos para o cumprimento da função social da propriedade.
+22 SILVA, 2011, p. 20.
+23 Cf.: “Principle 1: Man has the fundamental right to freedom, equality and adequate conditions of life, in
+an environment of a quality that permits a life of dignity and well-being, and he bears a solemn responsibility
+to protect and improve the environment for present and future generations. In this respect, policies
+promoting or perpetuating apartheid, racial segregation, discrimination, colonial and other forms of
+oppression and foreign domination stand condemned and must be eliminated”. (UNITED NATIONS.
+Declaration of the United Nations Conference on the Human Environment. In: Report of the United Nations
+Conference on the Human Environment. Stockholm, 5-16 June 1972. Disponível em:
+https://www.un.org/ga/search/view_doc.asp?symbol=A/CONF.48/14/REV.1).
+
+8
+
+[[pagina 9 | nativo]]
+
+30. O direito ao meio ambiente se configura como um direito fundamental de terceira
+geração, pois tutela não só liberdades individuais, não se restringindo à promoção da
+igualdade, mas demanda a observância do dever de solidariedade entre todos– frise-se, não
+só com relação às gerações presentes, mas também às futuras. Sobre o tema, assim já
+entendeu esta Corte Suprema:
+
+MEIO AMBIENTE - DIREITO À PRESERVAÇÃO DE SUA INTEGRIDADE (CF, ART. 225) –
+(...) DIREITO DE TERCEIRA GERAÇÃO (OU DE NOVÍSSIMA DIMENSÃO) QUE
+CONSAGRA O POSTULADO DA SOLIDARIEDADE - (...) RELAÇÕES ENTRE
+ECONOMIA (CF, ART. 3º, II, C/C O ART. 170, VI) E ECOLOGIA (CF, ART. 225) - COLISÃO
+DE DIREITOS FUNDAMENTAIS - CRITÉRIOS DE SUPERAÇÃO DESSE ESTADO DE
+TENSÃO ENTRE VALORES CONSTITUCIONAIS RELEVANTES - OS DIREITOS
+BÁSICOS DA PESSOA HUMANA E AS SUCESSIVAS GERAÇÕES (FASES OU
+DIMENSÕES) DE DIREITOS (RTJ 164/158, 160-161) - A QUESTÃO DA PRECEDÊNCIA
+DO DIREITO À PRESERVAÇÃO DO MEIO AMBIENTE: UMA LIMITAÇÃO
+CONSTITUCIONAL EXPLÍCITA À ATIVIDADE ECONÔMICA (CF, ART. 170, VI) – (...) A
+PRESERVAÇÃO DA INTEGRIDADE DO MEIO AMBIENTE: EXPRESSÃO
+CONSTITUCIONAL DE UM DIREITO FUNDAMENTAL QUE ASSISTE À GENERALIDADE
+DAS PESSOAS. - Todos têm direito ao meio ambiente ecologicamente equilibrado. (...)
+Incumbe, ao Estado e à própria coletividade, a especial obrigação de defender e preservar,
+em benefício das presentes e futuras gerações, esse direito de titularidade coletiva e de
+caráter transindividual (RTJ 164/158-161). (...)24
+
+31. É nesse sentido que, com relação aos indivíduos e à coletividade, tem-se que há
+um direito-dever. Ao passo que todos têm o direito de gozar de um meio ambiente
+adequado, devem agir de modo a preservá-lo, em prol uns dos outros. Do Estado, por sua
+vez, exige-se tanto que se abstenha de atos prejudiciais ao meio ambiente, como atue de
+modo a coibir práticas nesse mesmo sentido.
+
+32. O disposto na Constituição trata de uma proteção abrangente a esse direito; por
+isso, os parágrafos e incisos do art. 225, assim como outros dispositivos do texto
+constitucional, estabelecem comandos mais claros e princípios que devem guiar o Poder
+Público e a própria coletividade para assegurar o direito ao meio ambiente saudável.
+
+33. Vale lembrar, ainda, que o art. 23, incisos VI e VII, da Constituição Federal, confere
+competência comum para a União, Estados e Distrito Federal atuarem com vistas à
+proteção do meio ambiente e o combate à poluição em qualquer de suas formas, bem como
+a preservação das florestas, da fauna e da flora (competência essa que, por força do art. 30
+da CF/88, também foi conferida aos Municípios, quando presente interesse local).
+
+24 STF, ADI 3540 MC, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 01/09/2005, DJ
+03-02-2006 PP-00014 EMENT VOL-02219-03 PP-00528.
+
+9
+
+[[pagina 10 | nativo]]
+
+34. A seguir, expõem-se os princípios que se afiguram mais relevantes para a
+discussão do caso, que encontram, ainda, respaldo em tratados, convenções e outros
+acordos de que o Brasil é signatário.
+
+III.1.2.1 Princípio do desenvolvimento sustentável
+
+35. A Constituição Federal estabelece, em seu art. 170, que a ordem econômica
+brasileira tem como objetivo assegurar uma existência digna a todos, de acordo com os
+ditames da justiça social. Mais adiante, estabelece que deve ser observado, entre outros, o
+princípio de defesa do meio ambiente (art. 170, I, CF)25. Admite-se, inclusive, que seja
+conferido tratamento diferenciado às atividades econômicas, incluindo produtos, serviços e
+seus processos de elaboração e prestação, de acordo com o nível de risco que ofereçam.
+
+36. Em harmonia com o art. 170, VI, da Constituição, o art. 225 contém diversos
+comandos destinados ao Poder Público, a fim de que este limite ou restrinja atividades
+econômicas em prol do direito ao meio ambiente saudável. O primeiro deles (que interessa
+ao presente debate) refere-se ao dever de que o Estado exija a realização de estudos
+prévios de impacto ambiental para a instalação de obras ou atividades que possam impactar
+de forma negativa o meio ambiente (art. 225, § 1º, IV)26. O segundo consiste no controle que
+o Estado precisa exercer sobre a produção, a comercialização e o emprego de técnicas e
+substâncias que ofereçam risco ao meio ambiente e à vida (art. 225, § 1º, V)27. Além dessas
+importantes previsões, os incisos I, II, IV, V e VII do mesmo §1º do art. 225 da Constituição
+Federal estabelecem para a Administração Pública os deveres de preservação, proteção e
+restauração dos processos ecológicos essenciais, da diversidade e integridade do
+patrimônio genético do país e da fauna e da flora existentes em território nacional, exigem
+prévia avaliação de impacto a atividades causadoras de significativa degradação e o
+
+25 Constituição Federal, art. 170, VI: “Art. 170. A ordem econômica, fundada na valorização do trabalho
+humano e na livre iniciativa, tem por fim assegurar a todos existência digna, conforme os ditames da justiça
+social, observados os seguintes princípios: (...) VI - defesa do meio ambiente, inclusive mediante
+tratamento diferenciado conforme o impacto ambiental dos produtos e serviços e de seus processos de
+elaboração e prestação”.
+26 Constituição Federal, art. 225, § 1º, IV: “Art. 225. Todos têm direito ao meio ambiente ecologicamente
+equilibrado, bem de uso comum do povo e essencial à sadia qualidade de vida, impondo-se ao Poder
+Público e à coletividade o dever de defendê-lo e preservá-lo para as presentes e futuras gerações. § 1º
+Para assegurar a efetividade desse direito, incumbe ao Poder Público: (...) IV - exigir, na forma da lei, para
+instalação de obra ou atividade potencialmente causadora de significativa degradação do meio ambiente,
+estudo prévio de impacto ambiental, a que se dará publicidade”.
+27 Constituição Federal, art. 225, § 1º, V: “Art. 225. (...) § 1º. (...) V - controlar a produção, a
+comercialização e o emprego de técnicas, métodos e substâncias que comportem risco para a vida, a
+qualidade de vida e o meio ambiente”.
+
+10
+
+[[pagina 11 | nativo]]
+
+controle de atividades que comportem risco para a vida, a qualidade de vida e o meio
+ambiente, assim como conferem poder de polícia para a fiscalização relacionada ao tema28.
+
+37. O mesmo dispositivo constitucional restringe, de forma especial, as atividades de
+exploração de recursos minerais e usinas nucleares, exigindo a recuperação do meio
+ambiente no primeiro caso e a definição da localização da usina nuclear por meio de lei
+federal como condicionante para a operação no segundo caso (§ 2º e § 6º,
+respectivamente)29.
+
+38. Também o art. 23, incisos VI e VII, da Constituição Federal, estabelece a
+competência comum da União, Estados, Distrito Federal e dos Municípios, “proteger o meio
+ambiente e combater a poluição em qualquer de suas formas”, bem como “preservar as
+florestas, a fauna e a flora” nacionais.
+
+39. Além disso, é preciso registrar a interdependência entre a garantia do direito
+fundamental ao meio ambiente ecologicamente equilibrado e a efetivação do direito
+fundamental à saúde, insculpido nos artigos 6.º e 196 da Carta Maior. Se a expressão
+“essencial à sadia qualidade de vida” (artigo 225, caput, da Constituição) é suficientemente
+clara ao estabelecer tal relação, o Excelentíssimo Senhor Ministro do Supremo Tribunal
+Federal Gilmar Mendes não deixa margem à dúvida: “apreende-se que a preservação do
+meio ambiente ecologicamente equilibrado constitui um cofator ou dimensão que
+potencializa a fruição do direito à saúde e a execução de políticas públicas sanitárias. A
+efetividade de um direito é dependente, em certa medida, da efetividade do outro direito.”30
+
+40. Mais do que isso, a preservação do meio ambiente ecologicamente equilibrado
+configura-se como condição sine qua non para a realização dos demais direitos humanos,
+tal como reafirmado pela Corte Interamericana de Direitos Humanos.31
+
+28 Constituição Federal, art. 225, § 1º, I, II, IV, V e VII: “Art. 225. (...) § 1º. I - preservar e restaurar os
+processos ecológicos essenciais e prover o manejo ecológico das espécies e ecossistemas; II - preservar a
+diversidade e a integridade do patrimônio genético do País e fiscalizar as entidades dedicadas à pesquisa
+e manipulação de material genético; (...) IV - exigir, na forma da lei, para instalação de obra ou atividade
+potencialmente causadora de significativa degradação do meio ambiente, estudo prévio de impacto
+ambiental, a que se dará publicidade; V - controlar a produção, a comercialização e o emprego de técnicas,
+métodos e substâncias que comportem risco para a vida, a qualidade de vida e o meio ambiente; (...) VII -
+proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem em risco sua função
+ecológica, provoquem a extinção de espécies ou submetam os animais a crueldade”.
+29 Constituição Federal, art. 225, § 2º e § 6º: “Art. 225. (...) § 2º Aquele que explorar recursos minerais fica
+obrigado a recuperar o meio ambiente degradado, de acordo com solução técnica exigida pelo órgão
+público competente, na forma da lei. (...) § 6º As usinas que operem com reator nuclear deverão ter sua
+localização definida em lei federal, sem o que não poderão ser instaladas”.
+30 Supremo Tribunal Federal. Plenário. Arguição de Descumprimento de Preceito Fundamental n.º
+101/DF. Voto do Ministro Gilmar Mendes. Relatora: Ministra Cármen Lúcia. DJ 04.06.2012.
+31 Opinião Consultiva OC-23/17, de 15.12.2017. Disponível em:
+http://www.corteidh.or.cr/docs/opiniones/seriea_23_esp.pdf
+
+11
+
+[[pagina 12 | nativo]]
+
+41. No ponto, merecem destaque algumas descobertas científicas sobre o tema: (i)
+pesquisadores catalogaram mais de 3.200 (três mil e duzentos) tipos de coronavírus em
+morcegos na Amazônia32, sendo firme o argumento científico de que dar fim ao
+desmatamento pode prevenir o surgimento de pandemias33; (ii) os surtos de ebola estão
+ligados à conversão de áreas de floresta em monoculturas e surgem repetidamente em
+várias regiões da África – o Congo enfrenta, atualmente, um novo surto, considerado
+emergência internacional pela Organização Mundial da Saúde (OMS)34; (iii) Epidemias como
+malária e leishmaniose possuem relação direta com o desmatamento na Amazônia:
+segundo o Instituto de Pesquisa Econômica Aplicada – IPEA, “para cada 1% de floresta
+derrubada anualmente na Amazônia, há um aumento de 23% na incidência de casos de
+malária e de 8% a 9% na de casos de leishmaniose.”35
+
+42. Como se viu, o meio ambiente ecologicamente equilibrado é pressuposto para que
+se tenha uma vida digna, o que faz com que o direito ao meio ambiente seja reconhecido
+como direito fundamental. Com isso, já pelo caput do art. 170 da Constituição, tem-se que a
+ordem econômica deve assegurá-lo, o que é reafirmado pelo dever de observância do
+princípio da defesa do meio ambiente.
+
+43. Desses dispositivos, decorre o princípio constitucional do desenvolvimento
+sustentável, cujo enunciado é de que o desenvolvimento socioeconômico no Brasil ocorra
+de forma compatível com o meio ambiente, preservando seu equilíbrio. Por observância a
+esse princípio, temos que políticas de fomento à economia, incluindo leis que prezem pela
+livre iniciativa, devem estar em conformidade com a defesa do meio ambiente, sob pena de
+serem inválidas por ofensa à Constituição Federal.
+
+44. O princípio do desenvolvimento sustentável também está previsto na Declaração do
+Rio sobre Meio Ambiente e Desenvolvimento das Nações Unidas, de 1992 (ECO-92), fruto
+da Conferência Rio 92 e assinada pelo Brasil. O Princípio 3 da Declaração estabelece
+
+32 MAXMEN, Amy. “Bats are global reservoir for deadly coronaviruses.” In: Nature, 546, 340, 2017.
+doi:10.1038/nature.2017.22137. Disponível em : https://www.nature.com/news/bats-are-global-reservoir-
+for-deadly-coronaviruses-1.22137?fbclid=IwAR1GfDqkx_7LjGUy-7nA7Jyr9p2gC-
+NddssnVQAh3bV3ZzFGRUwtJ1pexi0#b1
+33 The editors. "To Stop Pandemics, Stop Deforestation". In: Scientific American, 322, 6, 8 2020.
+doi:10.1038/scientificamerican0620-8. Disponível em: https://www.scientificamerican.com/article/stopping-
+deforestation-can-prevent-pandemics1/
+34 BENSUSAN, Nurit. “Alice no país da pandemia.” In: Instituto Socioambiental, 2020. Disponível em :
+https://www.socioambiental.org/pt-br/blog/blog-do-isa/alice-no-pais-da-pandemia
+35 “A ameaça do desmatamento.” In: Instituto de Pesquisa Econômica Aplicada, 84, 2015. Disponível em:
+https://www.ipea.gov.br/desafios/index.php?option=com_content&view=article&id=3176&catid=28&Itemid=
+39
+
+12
+
+[[pagina 13 | nativo]]
+
+exatamente que direito ao desenvolvimento deve ser exercido de modo compatível com as
+necessidades do meio ambiente das gerações presentes e futuras36.
+
+45. Em consonância com o princípio do desenvolvimento sustentável, a Lei Federal nº
+6.938, de 31 de agosto de 1981 (“Lei da Política Nacional do Meio Ambiente”), elenca como
+instrumentos da Política Nacional do Meio Ambiente o “licenciamento e a revisão de
+atividades efetiva ou potencialmente poluidoras” e o “Cadastro Técnico Federal de
+atividades potencialmente poluidoras e/ou utilizadoras dos recursos ambientais”, entre
+outros (art. 9º, IV e XII).
+
+46. Note-se que a proteção do direito ao meio ambiente não tem como fim impedir o
+desenvolvimento econômico, mas, sim, impor condições para que o progresso não
+comprometa, ao mesmo tempo e por outro turno, a qualidade de vida das espécies. Quanto
+a esse ponto, refere-se a julgado dessa Corte, de relatoria do Min. Celso de Mello:
+
+A QUESTÃO DO DESENVOLVIMENTO NACIONAL (CF, ART. 3º, II) E A NECESSIDADE
+DE PRESERVAÇÃO DA INTEGRIDADE DO MEIO AMBIENTE (CF, ART. 225): O
+PRINCÍPIO DO DESENVOLVIMENTO SUSTENTÁVEL COMO FATOR DE OBTENÇÃO DO
+JUSTO EQUILÍBRIO ENTRE AS EXIGÊNCIAS DA ECONOMIA E AS DA ECOLOGIA. - O
+princípio do desenvolvimento sustentável, além de impregnado de caráter
+eminentemente constitucional, encontra suporte legitimador em compromissos
+internacionais assumidos pelo Estado brasileiro e representa fator de obtenção do
+justo equilíbrio entre as exigências da economia e as da ecologia, subordinada, no
+entanto, a invocação desse postulado, quando ocorrente situação de conflito entre valores
+constitucionais relevantes, a uma condição inafastável, cuja observância não comprometa
+nem esvazie o conteúdo essencial de um dos mais significativos direitos fundamentais: o
+direito à preservação do meio ambiente, que traduz bem de uso comum da generalidade
+das pessoas, a ser resguardado em favor das presentes e futuras gerações. (...)37
+
+36 Cf.: “Principle 3: The right to development must be fulfilled so as to equitably meet developmental and
+environmental needs of present and future generations”. (UNITED NATIONS. Rio Declaration on
+Environment and Development. In: Report of the United Nations Conference on Environment and
+Development. Rio de Janeiro, 3-14 June 1992. Disponível em:
+https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CO
+NF.151_26_Vol.I_Declaration.pdf).
+Além disso, apesar de ser o mais relevante e ilustrativo quanto ao tema, os Princípios 1 e 4 também tratam
+do desenvolvimento sustentável. O primeiro dispõe que os seres humanos estão no centro das questões
+relativas ao desenvolvimento sustentável e reafirma que são titulares do direito a uma vida saudável e
+produtiva, em harmonia com a natureza. O quarto define que a proteção do meio ambiente deve ser parte
+integral do processo de desenvolvimento, cujo objetivo deve ser alcançar o desenvolvimento sustentável.
+37 STF, ADI 3540 MC, Relator(a): Min. CELSO DE MELLO, Tribunal Pleno, julgado em 01/09/2005, DJ
+03-02-2006 PP-00014 EMENT VOL-02219-03 PP-00528.
+
+13
+
+[[pagina 14 | nativo]]
+
+III.1.2.2. Princípios da precaução e da prevenção
+
+47. Os princípios da precaução e da prevenção surgem do pressuposto de que os
+danos ambientais são de difícil reparação, dado que medidas compensatórias ou
+reparatórias quase nunca são suficientes para reverter o bem ambiental integralmente a seu
+estado original (status quo ante), especialmente em termos de biodiversidade e equilíbrio
+dos ecossistemas38.
+
+48. Quando consumados, é igualmente difícil medir a extensão dos danos ambientais,
+já que suas consequências podem demorar anos para se manifestarem e atingirem um
+número inestimável de pessoas, seja de maneira direta ou indireta.
+
+49. Além desse caráter difuso na sua titularidade, pode-se afirmar que as principais
+marcas desses princípios são: (i) a indivisibilidade; a inalienabilidade e a indisponibilidade, já
+que, pelo fato de o meio ambiente ser, ao mesmo tempo, de todos e de ninguém em
+particular, não se permite sua apropriação ou a alteração de seu titular (a coletividade); (ii) a
+extrapatrimonialidade, pois não possui conteúdo patrimonial aferível de forma objetiva; e (iii)
+a essencialidade para todas as formas de vida, tendo em vista que o meio ambiente
+equilibrado é imprescindível não apenas para a manutenção ou promoção da qualidade de
+vida, mas para a própria sobrevivência dos seres vivos39.Por conta disso, em matéria de
+direito ambiental, será sempre preferível atuar para impedir que os danos ocorram. Diante
+de situações em que as informações científicas acerca dos riscos para o meio ambiente
+sejam insuficientes ou inconclusivas, mas existem indícios de prejuízos, o princípio da
+precaução determina que sejam adotadas medidas para evitar a deterioração do meio
+ambiente. Trata-se, em síntese, da máxima in dubio, pro ambiente40.
+
+50. Aliás, importa notar que prevenção e precaução são princípios basilares do Direito
+Ambiental internacional, entre outros motivos, pelo fato de que “o dano ambiental é de difícil
+reparação”41. Nesse sentido, Marcelo Abelha Rodrigues assinala que “se ocorrido o dano
+ambiental, a sua reconstituição é praticamente impossível. O mesmo ecossistema jamais
+poderá ser revivido. Uma espécie extinta é um dano irreparável. Uma floresta desmatada
+
+38 MILARÉ, op. cit., pp. 326-327.
+39 Cf. ensina Marcelo Abelha Rodrigues, em “Elementos de Direito Ambiental: parte geral.” 2.ª ed. São
+Paulo: Revista dos Tribunais, 2005, p. 73,
+40 “O princípio precaução, também chamado de in dubio pro ambiente, baseia-se na verossimilhança ou
+plausibilidade, antecipa-se ao dano, ainda em fase hipotética. Como norteador do jus ambiental envolve
+um dever de cuidado, trata-se de “um instrumento de gestão de risco, de questionamentos e de tomada de
+decisão; decisão fundada em atitudes responsáveis e posturas preocupadas com a existência das
+próximas gerações.”(AMORIM, Camila Silva de. Os princípios do direito ambiental da precaução e da
+prevenção num paralelo com os conceitos de previsibilidade e previsão. Fórum de Direito Urbano e
+Ambiental – FDUA, Belo Horizonte, ano 15, n. 90, nov./dez. 2016. Disponível em:
+<http://www.bidforum.com.br/PDI0006.aspx?pdiCntd=246251>. Acesso em: 12 fev. 2020).
+41 MILARÉ, Édis. “Direito do Ambiente.” 8.ª ed. São Paulo: Revista dos Tribunais, 2013, p. 1123.
+
+14
+
+[[pagina 15 | nativo]]
+
+causa uma lesão irreversível, pela impossibilidade de reconstituição da fauna e da flora e de
+todos os componentes ambientais em profundo e incessante processo de equilíbrio, como
+antes se apresentavam. Enfim, com o meio ambiente, decididamente, é melhor prevenir do
+que remediar”42.
+
+51. Na Constituição Federal, esses princípios são corolários dos ditames dos incisos IV,
+V e VII, do §1º, do art. 225, os quais, conforme exposto acima, estabelecem o dever de
+mensuração dos impactos e buscam coibir práticas nocivas ao meio ambiente.
+
+52. Assim como no caso do desenvolvimento sustentável, a ECO-92 também prevê o
+princípio da precaução em seu rol, qual seja o de número 1543. Nos termos da Declaração, a
+ausência de certeza científica absoluta não serve como escusa para se adiar medidas
+preventivas que sejam economicamente viáveis. Indo além, esse princípio se reflete mesmo
+na Convenção Sobre Diversidade Biológica das Nações Unidas, que também foi assinada
+durante a Conferência Rio 92 - e ratificada por meio do Decreto Legislativo n.º 2.519, de 16
+de março de 1998, e no Protocolo de Cartagena sobre Biossegurança da Convenção sobre
+Diversidade Biológica, promulgado no Brasil por meio do Decreto nº 5.705, de 16 de
+fevereiro de 2006.
+
+53. O princípio da precaução aparece entre os considerandos da Convenção Sobre
+Diversidade Biológica das Nações Unidas e entre os artigos 10 e 11 do Protocolo de
+Cartagena. A ausência de plena certeza científica: (i) para a Convenção Sobre Diversidade
+Biológica das Nações Unidas, não deve ser usada para postergar a adoção de medida para
+evitar ameaças de sensível redução ou perda de diversidade biológica; e (ii) para o
+Protocolo de Cartagena, não impede que os países signatários tomem decisões para evitar
+os efeitos adversos potenciais de um organismo vivo modificado à diversidade
+biológica e à saúde humana, destinados ou não à alimentação de seres humanos ou
+animais44.
+
+42 RODRIGUES, Marcelo Abelha. Op. Cit.
+43 Cf.: “Principle 15: In order to protect the environment, the precautionary approach shall be widely applied
+by States according to their capabilities. Where there are threats of serious or irreversible damage, lack of
+full scientific certainty shall not be used as a reason for postponing cost-effective measures to prevent
+environmental degradation”. (UNITED NATIONS. Rio Declaration on Environment and Development. In:
+Report of the United Nations Conference on Environment and Development. Rio de Janeiro, 3-14 June
+1992. Disponível em:
+https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CO
+NF.151_26_Vol.I_Declaration.pdf).
+44 Cf.: Decreto nº 5.705, de 16 de fevereiro de 2006 (Protocolo de Cartagena sobre Biossegurança da
+Convenção sobre Diversidade Biológica), arts. 10, item 6, e 11, item 8: “Artigo 10 (...) 6. A ausência de
+certeza científica devida à insuficiência das informações e dos conhecimentos científicos relevantes sobre
+a dimensão dos efeitos adversos potenciais de um organismo vivo modificado na conservação e no uso
+sustentável da diversidade biológica na Parte importadora, levando também em conta os riscos para a
+saúde humana, não impedirá esta Parte, a fim de evitar ou minimizar esses efeitos adversos potenciais, de
+
+15
+
+[[pagina 16 | nativo]]
+
+54. O princípio da prevenção, por sua vez, aplica-se aos casos em que há elementos
+suficientes para se determinar o perigo da atividade para o meio ambiente. Esse
+princípio também faz parte do rol de preceitos da ECO-92, especialmente naquele de
+número 17, que trata da avaliação de impacto ambiental como instrumento nacional a ser
+realizado antes de atividades potencialmente nocivas ao meio ambiente, quando sujeitas à
+decisão de uma autoridade nacional.
+
+55. No Brasil, esse preceito constitucional foi concretizado por meio da já mencionada
+Política Nacional do Meio Ambiente, estabelecida pela Lei da Política Nacional do Meio
+Ambiente, cujos instrumentos incluem a avaliação de impactos ambientais (inclusive aqueles
+indiretos). A nível infra legal, o instrumento é regulamentado pela Resolução nº 1, de 23 de
+janeiro de 1986, do Conselho Nacional do Meio Ambiente – “CONAMA” – (“Resolução
+Conama nº 1/1986”), que institui e regula o Estudo de Impacto Ambiental (“EIA”) e o
+Relatório de Impacto Ambiental (“RIMA”).
+
+III.1.2.3. Princípio do poluidor-pagador
+
+56. O parágrafo terceiro do art. 225 da Constituição Federal dispõe sobre a
+responsabilidade por danos causados ao meio ambiente, prevendo a aplicação de sanções
+penais e administrativas, para além da obrigação de reparação dos danos45. Surge desse
+dispositivo, então, o princípio do poluidor-pagador, que postula o dever de que o agente
+causador de danos ao meio ambiente (o poluidor) arque com os custos dos prejuízos
+gerados à coletividade46.
+
+57. Isso se justifica por conta da geração de externalidades (i.e., efeitos que atingem
+terceiros, de maneira benéfica ou não). Em se tratando de atividades econômicas, é
+possível que sejam geradas externalidades negativas à coletividade, sendo vantagens
+sobrevindas dessa atividade destinadas apenas ao agente explorador, como os lucros
+percebidos.
+
+tomar uma decisão, conforme o caso, sobre a importação do organismo vivo modificado em questão como
+se indica no parágrafo 3º acima. (...)
+Artigo 11 (...) 8. A ausência de certeza científica devida à insuficiência das informações e dos
+conhecimentos científicos relevantes sobre a dimensão dos efeitos adversos potenciais de um organismo
+vivo modificado na conservação e no uso sustentável da diversidade biológica na Parte importadora,
+levando também em conta os riscos para a saúde humana, não impedirá esta Parte, a fim de evitar ou
+minimizar esses efeitos adversos potenciais, de tomar uma decisão, conforme o caso, sobre a importação
+do organismo vivo modificado destinado ao uso direto como alimento humano ou animal ou ao
+beneficiamento”.
+45 Constituição Federal, art. 225, § 3º: “Art. 225. (...) § 3º As condutas e atividades consideradas lesivas ao
+meio ambiente sujeitarão os infratores, pessoas físicas ou jurídicas, a sanções penais e administrativas,
+independentemente da obrigação de reparar os danos causados”.
+46 MILARÉ, op. cit., p. 271.
+
+16
+
+[[pagina 17 | nativo]]
+
+58. É possível mencionar também a noção da escolha racional47, qual seja, a de que os
+agentes econômicos sempre pautarão suas decisões de modo a obter o maior benefício
+possível. Nesse cenário, temos a responsabilidade por danos ambientais como um incentivo
+para que os agentes implementem medidas para evitá-los, pois a não implementação
+submete-os ao risco da responsabilização (penal, administrativa e civil) e,
+consequentemente, ao pagamento de multas e a outras obrigações.
+
+59. Diante disso, a regra de responsabilidade do poluidor surge para que esse agente
+internalize os custos de preservação do meio ambiente, minimizando as externalidades
+negativas.
+
+60. Na Declaração de Princípios da Rio-92, esse princípio consiste naquele de número
+13, que designa aos Estados o dever de desenvolver legislação acerca da responsabilidade
+e da indenização das vítimas dos danos ambientais, incluindo a poluição48.
+
+61. Frise-se que, do princípio do poluidor-pagador, não decorre a lógica de que é
+possível poluir o meio ambiente mediante o pagamento de determinada quantia. Trata-se do
+oposto: é do princípio do poluidor pagador que nasce a possibilidade de se exigir medidas
+para prevenir a ocorrência de danos e mitigar impactos ambientais, tais como as condições
+impostas para a obtenção de licenças – o que é previsto, por exemplo, na Resolução
+CONAMA nº 237, de 19 de dezembro de 199749.
+
+47 “A teoria da escolha racional apresenta como suposição principal o fato de que os atores têm objetivos
+e preferências com diversos graus de intensidade e fazem escolhas para alcançar o objetivo preferido com
+maior intensidade. A ação intencional dos indivíduos implica, portanto, uma racionalidade individual
+maximizadora do bem-estar. Enfatizam-se, assim, os seguintes aspectos: (a) incentivos e
+constrangimentos institucionais (ou o próprio desenho institucional); (b) disparidade de informações e de
+preferências entre as pessoas; (c) benefícios individuais versus benefícios coletivos. No momento da
+escolha feita pelo indivíduo, o simples fato de existir um leque de opções de escolhas possíveis implica o
+abandono de uma ou mais opções, em nome de uma opção hierarquicamente preferida. Portanto, há
+custos nas escolhas. McKenzie e Tullock (1978) consideram que o custo da opção preferida tem a mesma
+significância que o benefício associado à melhor alternativa não adotada.” (CAMPOS, Mauro Macedo;
+BORSANI, Hugo; AZEVEDO, Nilo Lima. Méritos e limites da teoria da escolha racional como ferramenta de
+interpretação do comportamento social e político, Ciências Sociais Unisinos, São Leopoldo, Vol. 52, N. 1,
+p. 100-112, jan/abr 2016, p. 102)
+48 Cf.: “Principle 13: States shall develop national law regarding liability and compensation for the victims of
+pollution and other environmental damage. States shall also cooperate in an expeditious and more
+determined manner to develop further international law regarding liability and compensation for adverse
+effects of environmental damage caused by activities within their jurisdiction or control to areas beyond their
+jurisdiction”. (UNITED NATIONS. Rio Declaration on Environment and Development. In: Report of the
+United Nations Conference on Environment and Development. Rio de Janeiro, 3-14 June 1992. Disponível
+em:
+https://www.un.org/en/development/desa/population/migration/generalassembly/docs/globalcompact/A_CO
+NF.151_26_Vol.I_Declaration.pdf).
+49 Para além dessa resolução, o princípio constitucional do poluidor-pagador também se concretiza pelas
+leis que preveem responsabilidade por danos ambientais, como, por exemplo, a Lei nº 9.605, de 12 de
+fevereiro de 1998, que dispõe sobre sanções penais e administrativas por práticas lesivas ao meio
+ambiente.
+
+17
+
+[[pagina 18 | nativo]]
+
+III.1.2.4. Princípio da proibição de retrocesso em direitos fundamentais
+socioambientais
+
+62. Conforme expomos acima, o direito ao meio ambiente se configura como um direito
+fundamental. Sendo assim, é necessário ressaltar a proibição constitucional de medidas que
+retrocedam em matéria de direitos fundamentais.
+
+63. Em seu art. 60, § 4º, IV, a Constituição Federal estabelece que não podem ser
+objeto de deliberação emendas constitucionais tendentes a abolir direitos e garantias
+individuais50. A doutrina tem assentado, corretamente, que a proteção desse dispositivo
+abrange “os direitos fundamentais materiais como um todo”51, com base no entendimento de
+que todos os direitos fundamentais decorrem do núcleo essencial do princípio da dignidade
+humana, independentemente da geração a que pertencem, de sua dimensão ou posição
+formal, pois necessários para que seja garantido o mínimo existencial52. Assim, mesmo os
+direitos difusos, como o direito ao meio ambiente, não podem ser objeto de supressão53.
+
+64. Ao tratar desse verdadeiro postulado em matéria ambiental, Ingo Wolfgang Sarlet,
+apoiando-se nas lições de Michel Prieur, assim ensina:
+
+Ao analisar a proibição de retrocesso ambiental (ou princípio da não regressão, como
+prefere), Miche Prieur assinala que ‘a regressão não deve, jamais, ignorar a preocupação
+de tornar cada vez mais efetivos os direitos protegidos. Enfim, o recuo de um direito não
+pode ir aquém de certo nível, sem que esse direito seja desnaturado. Isso diz respeito tanto
+aos direitos substanciais como aos direitos procedimentais. Deve-se, assim, considerar
+que, na seara ambiental, existe um nível de obrigações jurídicas fundamentais de
+proteção, abaixo do qual toda medida nova deveria ser vista como violando o direito
+ao ambiente’. Em outras palavras, não se deixa de admitir uma margem de
+discricionariedade do legislador em matéria ambiental, mas, como bem colocado por
+Prieur, existem fortes limites à adoção de medidas restritivas no tocante aos direitos
+ecológicos, tanto sob o prisma material quanto processual (ou procedimental)54 (g.n.).
+
+65. Esse princípio foi reconhecido (e tratado amplamente por esse e. Supremo Tribunal
+Federal) no julgamento da ADI 4717, na qual se declarou inconstitucional a Medida
+Provisória n.º 558/12 (que foi convertida na Lei n.º 12.678/12), na qual se alteraram os
+
+50 Constituição Federal, art. 60, § 4º, IV: “Art. 60. A Constituição poderá ser emendada mediante proposta:
+(...) § 4º Não será objeto de deliberação a proposta de emenda tendente a abolir: (...) IV - os direitos e
+garantias individuais”.
+51 BARROSO, Luís Roberto. Curso de Direito Constitucional Contemporâneo: os conceitos fundamentais e
+a construção do novo modelo. 8. ed. São Paulo: Saraiva, 2019. p. 187.
+52 BARROSO, op. cit., pp. 185-186.
+53 BARROSO, op. cit., p. 187.
+54 SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. Direito constitucional ambiental: Constituição,
+direitos fundamentais e proteção do ambiente. 3. ed. rev. atual. e ampl. São Paulo: Revista dos Tribunais,
+2013. p. 302.
+
+18
+
+[[pagina 19 | nativo]]
+
+limites dos Parques Nacionais da Amazônia, dos Campos Amazônicos e Mapinguari, das
+Florestas Nacionais de Itaituba I, Itaituba II e do Crepori e da Área de Proteção Ambiental do
+Tapajós. Naquela oportunidade, a i. Ministra Cármen Lúcia assim tratou desse importante
+princípio:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. MEDIDA PROVISÓRIA N. 558/2012.
+CONVERSÃO NA LEI N. 12.678/2012. INÉPCIA DA INICIAL E PREJUÍZO DA AÇÃO
+QUANTO AOS ARTS. 6º E 11 DA MEDIDA PROVISÓRIA N. 558/2012 E AO ART. 20 DA
+LEI N. 12.678/2012. POSSIBILIDADE DE EXAME DOS REQUISITOS CONSTITUCIONAIS
+PARA O EXERCÍCIO DA COMPETÊNCIA EXTRAORDINÁRIA NORMATIVA DO CHEFE
+DO EXECUTIVO. AUSÊNCIA DOS PRESSUPOSTOS DE RELEVÂNCIA E URGÊNCIA.
+ALTERAÇÃO DA ÁREA DE UNIDADES DE CONSERVAÇÃO POR MEDIDA PROVISÓRIA.
+IMPOSSIBILIDADE. CONFIGURADA OFENSA AO PRINCÍPIO DA PROIBIÇÃO DE
+RETROCESSO SOCIOAMBIENTAL. AÇÃO PARCIALMENTE CONHECIDA E, NESSA
+PARTE, JULGADA PROCEDENTE, SEM PRONÚNCIA DE NULIDADE. 1. Este Supremo
+Tribunal manifestou-se pela possibilidade e análise dos requisitos constitucionais para a
+edição de medida provisória após a sua conversão em lei. 2. A jurisprudência deste
+Supremo Tribunal admite, em caráter excepcional, a declaração de inconstitucionalidade de
+medida provisória quando se comprove abuso da competência normativa do Chefe do
+Executivo, pela ausência dos requisitos constitucionais de relevância e urgência. Na
+espécie, na exposição de motivos da medida provisória não se demonstrou, de forma
+suficiente, os requisitos constitucionais de urgência do caso. 3. As medidas provisórias não
+podem veicular norma que altere espaços territoriais especialmente protegidos, sob pena de
+ofensa ao art. 225, inc. III, da Constituição da República. 4. As alterações promovidas
+pela Lei n. 12.678/2012 importaram diminuição da proteção dos ecossistemas
+abrangidos pelas unidades de conservação por ela atingidas, acarretando ofensa ao
+princípio da proibição de retrocesso socioambiental, pois atingiram o núcleo
+essencial do direito fundamental ao meio ambiente ecologicamente equilibrado
+previsto no art. 225 da Constituição da República. 5. Ação direta de
+inconstitucionalidade parcialmente conhecida e, nessa parte, julgada procedente, sem
+pronúncia de nulidade55.
+
+66. Trata-se, pois, do princípio da proibição de retrocesso em direitos fundamentais,
+que vincula mesmo o legislador infraconstitucional, de modo que não se admite a edição de
+normas que venham a suprimir ou restringir de algum modo o direito fundamental ao meio
+ambiente56 – o que é feito exatamente por meio do art. 3º, I, IX, XI, “d”, e § 1.º da Lei da
+Liberdade Econômica, conforme será exposto adiante.
+
+55 STF, ADI 4717/DF, Relatora: Min. Cármen Lúcia, Tribunal Pleno, julgado em 05/04/2018.
+56 PADILHA, Norma Sueli; POMPEU, Gina Vidal Marcilio. Retrocessos nas políticas ambientais brasileiras
+e as metas dos objetivos do desenvolvimento sustentável: estratégias e indicadores para implementação
+do Estado de Direito Ambiental. Revista de Direito Ambiental, vol. 96/2019, p. 139 – 168, out. – dez./2019;
+SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. Breves considerações sobre os deveres de proteção
+
+19
+
+[[pagina 20 | nativo]]
+
+III.1.3. Índios, quilombolas e outros povos e comunidades tradicionais.
+
+67. A Constituição Federal de 1988 é um verdadeiro marco histórico também no que diz
+respeito ao reconhecimento dos direitos de povos tradicionais, em especial, os índios e
+quilombolas, tendo sido o primeiro instrumento constitucional brasileiro que assegura o
+direito às características socioculturais que os definem, como a linguagem, a tradição e o
+modo de vida.
+
+68. Nesse sentido, no que diz respeito aos índios, a Constituição rompeu com as
+políticas integracionistas ou assimilacionistas, que concebiam os povos indígenas como
+uma categoria social transitória, fadada ao desaparecimento e que deveria ser incorporada à
+“sociedade civilizada” – ainda que isso não representasse o desejo de tais comunidades.
+Conforme explica Carlos Marés, os textos constitucionais anteriores a 1988, e sua
+respectiva regulamentação, deixavam clara a presença do ideário assimilacionista do século
+XIX, de que os índios deveriam deixar de ser índios e juntar-se à comunhão nacional57.
+
+69. Em contrapartida, e de forma inovadora, a Constituição de 1988 garantiu aos povos
+indígenas o direito de serem reconhecidos como tais (sem aspirar pela sua integração à
+“civilização”, como se só houvesse uma sociedade possível, que fosse superior às demais),
+em conformidade com seus artigos 231 e 23258-59, aprofundados abaixo.
+
+do Estado e a garantia da proibição de retrocesso em matéria ambiental. Doutrinas Essenciais de Direito
+Ambiental, vol. 1, p. 863 – 904, mar./2011.
+57 MARÉS, Carlos. Os povos indígenas e o direito brasileiro. In: SOUZA FILHO, Carlos Frederico Marés;
+BERGOLD, Raul Cezar (Orgs.). Os direitos dos povos indígenas no Brasil: desafios do século XXI,
+Curitiba: Letra da Lei, 2013, pp. 13-30.
+58 Constituição Federal, art. 231: “Art. 231. São reconhecidos aos índios sua organização social,
+costumes, línguas, crenças e tradições, e os direitos originários sobre as terras que tradicionalmente
+ocupam, competindo à União demarcá-las, proteger e fazer respeitar todos os seus bens. § 1º São terras
+tradicionalmente ocupadas pelos índios as por eles habitadas em caráter permanente, as utilizadas para
+suas atividades produtivas, as imprescindíveis à preservação dos recursos ambientais necessários a seu
+bem-estar e as necessárias a sua reprodução física e cultural, segundo seus usos, costumes e tradições. §
+2º As terras tradicionalmente ocupadas pelos índios destinam-se a sua posse permanente, cabendo-lhes o
+usufruto exclusivo das riquezas do solo, dos rios e dos lagos nelas existentes. § 3º O aproveitamento dos
+recursos hídricos, incluídos os potenciais energéticos, a pesquisa e a lavra das riquezas minerais em terras
+indígenas só podem ser efetivados com autorização do Congresso Nacional, ouvidas as comunidades
+afetadas, ficando-lhes assegurada participação nos resultados da lavra, na forma da lei. § 4º As terras de
+que trata este artigo são inalienáveis e indisponíveis, e os direitos sobre elas, imprescritíveis. § 5º É
+vedada a remoção dos grupos indígenas de suas terras, salvo, "ad referendum" do Congresso Nacional,
+em caso de catástrofe ou epidemia que ponha em risco sua população, ou no interesse da soberania do
+País, após deliberação do Congresso Nacional, garantido, em qualquer hipótese, o retorno imediato logo
+que cesse o risco. § 6º São nulos e extintos, não produzindo efeitos jurídicos, os atos que tenham por
+objeto a ocupação, o domínio e a posse das terras a que se refere este artigo, ou a exploração das
+riquezas naturais do solo, dos rios e dos lagos nelas existentes, ressalvado relevante interesse público da
+União, segundo o que dispuser lei complementar, não gerando a nulidade e a extinção direito a
+indenização ou a ações contra a União, salvo, na forma da lei, quanto às benfeitorias derivadas da
+ocupação de boa fé. § 7º Não se aplica às terras indígenas o disposto no art. 174, § 3º e § 4º.”
+
+20
+
+[[pagina 21 | nativo]]
+
+70. Além desses dois artigos específicos, é possível afirmar também que a Constituição
+Federal de 1988 tratou de forma específica a situação jurídica dos quilombolas, ao
+determinar o tombamento de “todos os documentos e os sítios detentores de reminiscências
+históricas dos antigos quilombos” (art. 216, §5º), e garantir que aos “remanescentes das
+comunidades dos quilombos que estejam ocupando suas terras é reconhecida a
+propriedade definitiva, devendo o Estado emitir-lhes os títulos respectivos” (art. 68 do Ato
+das Disposições Constitucionais Transitórias)60.
+
+71. O texto constitucional também reconheceu todos os demais povos e comunidades
+tradicionais do país, ao salvaguardar o multiculturalismo nacional, nos termos do art. 21661,
+e ao garantir a proteção estatal às “manifestações das culturas populares, indígenas e afro-
+brasileiras, e das de outros grupos participantes do processo civilizatório nacional” (art. 215,
+§1º)
+
+72. Nesse sentido, a doutrina entende que a Constituição Federal de 1988 protege a
+diversidade de grupos étnicos e suas respectivas culturas, ao tratar como patrimônio cultural
+brasileiro os bens de natureza material e imaterial que sejam “portadores de referência à
+identidade, à ação, à memória dos diferentes grupos formadores da sociedade brasileira”,
+incluindo: (i) formas de expressão, (ii) modo de vida, (iii) criações científicas, artísticas e
+
+59 Constituição Federal, art. 232: “Art. 232. Os índios, suas comunidades e organizações são partes
+legítimas para ingressar em juízo em defesa de seus direitos e interesses, intervindo o Ministério Público
+em todos os atos do processo.”
+60 De acordo com o então Procurador-Geral da República, Dr. Cláudio Fonteles, no Parecer n.º 3.333/CF
+lançado nos autos da ADI nº 3.239-6/600-DF, o art. 68 do ADCT se traduz em uma obrigação ao Estado
+brasileiro, que deve proteger e concretizar os direitos dos quilombolas: "Mister se faz ressaltar, antes de
+tudo, que o art. 68 do ADCT requer cuidadosa interpretação, de modo a ampliar ao máximo o seu âmbito
+normativo. Isso porque trata a disposição constitucional de verdadeiro direito fundamental,
+consubstanciado no direito subjetivo das comunidades remanescentes de quilombos a uma prestação
+positiva por parte do Estado. Assim, deve-se reconhecer que o art. 68 do ADCT abriga uma norma
+jusfundamental; sua interpretação deve emprestar-lhe a máxima eficiência".
+61 Constituição Federal, art. 216: “Art. 216. Constituem patrimônio cultural brasileiro os bens de natureza
+material e imaterial, tomados individualmente ou em conjunto, portadores de referência à identidade, à
+ação, à memória dos diferentes grupos formadores da sociedade brasileira, nos quais se incluem: I - as
+formas de expressão; II - os modos de criar, fazer e viver; III - as criações científicas, artísticas e
+tecnológicas; IV - as obras, objetos, documentos, edificações e demais espaços destinados às
+manifestações artístico-culturais; V - os conjuntos urbanos e sítios de valor histórico, paisagístico, artístico,
+arqueológico, paleontológico, ecológico e científico. § 1º O Poder Público, com a colaboração da
+comunidade, promoverá e protegerá o patrimônio cultural brasileiro, por meio de inventários, registros,
+vigilância, tombamento e desapropriação, e de outras formas de acautelamento e preservação. § 2º
+Cabem à administração pública, na forma da lei, a gestão da documentação governamental e as
+providências para franquear sua consulta a quantos dela necessitem. § 3º A lei estabelecerá incentivos
+para a produção e o conhecimento de bens e valores culturais. § 4º Os danos e ameaças ao patrimônio
+cultural serão punidos, na forma da lei. § 5º Ficam tombados todos os documentos e os sítios detentores
+de reminiscências históricas dos antigos quilombos. § 6º É facultado aos Estados e ao Distrito Federal
+vincular a fundo estadual de fomento à cultura até cinco décimos por cento de sua receita tributária líquida,
+para o financiamento de programas e projetos culturais, vedada a aplicação desses recursos no
+pagamento de: I - despesas com pessoal e encargos sociais; II - serviço da dívida; III - qualquer outra
+despesa corrente não vinculada diretamente aos investimentos ou ações apoiados.”
+
+21
+
+[[pagina 22 | nativo]]
+
+tecnológicas, (iv) obras, objetos e edificações, (v) conjuntos urbanos e sítios arqueológicos,
+ecológicos, artísticos, paisagísticos, paleontológicos.
+
+73. Dessa forma, estão abrangidos pelo art. 216, da CF, indígenas, quilombolas,
+extrativistas e ribeirinhos, dentre outros povos e comunidades que tenham modos de ser,
+fazer e viver distintos dos da sociedade em geral e que se reconheçam como grupos
+portadores de identidades e organização particulares62.
+
+74. Sobe o tema, vale transcrever as considerações do Ministro Edson Fachin, em
+posição recentemente acolhida de forma unânime por esse e. Supremo Tribunal Federal: “o
+texto constitucional confere especial proteção aos territórios ocupados pelas comunidades
+com modos tradicionais de criar, fazer e viver, e pelos remanescentes quilombolas,
+respectivamente nos artigos 216 do texto constitucional permanente e 68 do ADCT” (Ação
+Direta de Inconstitucionalidade n.º 4.269/DF, Plenário, Relator: Ministro Edson Fachin, DJ
+20.10.2017, p. 19.).
+
+75. Vale lembrar ainda que tais direitos encontram respaldo também em convenções
+internacionais das quais o Brasil é parte e que foram aprovadas pelo Congresso Nacional,
+de forma a constituírem-se como guias para as ações legislativas e demais ações estatais,
+enquanto nortes interpretativos que reforçam o disposto na Constituição – além de
+representarem compromisso assumido pelo Brasil perante a comunidade internacional.
+
+76. Ainda que as citadas Convenções não tenham status de emenda constitucional,
+conforme dispõe o art. 5º, §3º, da Constituição, apresentam caráter supralegal ao tratarem
+de temas afetos aos direitos humanos de terceira geração e, portanto, prevalecem sobre
+quaisquer outras normas infralegais. Nesse sentido, vale destacar os seguintes instrumentos
+normativos:
+
+➢ Convenção Relativa à Proteção do Patrimônio Mundial, Cultural e Natural, promulgada
+pelo Decreto nº 80.978, de 12 de dezembro de 1977, e aprovada pelo Congresso Nacional,
+por meio do Decreto Legislativo nº 77 de 30 de junho de 1977. Essa Convenção estabelece
+mecanismos de reconhecimento e proteção de estruturas com destacado interesse para a
+humanidade;
+
+62 “A novidade mais importante trazida em 1988, sem dúvida, foi alterar o conceito de bens integrantes do
+patrimônio cultural passando a considerar que são aqueles “portadores de referência à identidade, à ação,
+à memória dos diferentes grupos formadores da sociedade brasileira”. Pela primeira vez no Brasil foi
+reconhecida, em texto legal, a diversidade cultural brasileira, que em consequência passou a ser protegida
+e enaltecida, passando a ter relevância jurídica os valores populares, indígenas e afro-brasileiros. A
+tradição constitucional anterior marcava como referência conceitual expressa a monumentalidade e ao
+abandonar esta referência, o que a Constituição atual deseja proteger não é o monumento, a
+grandiosidade de aparência, mas o íntimo valor da representatividade nacional, a essência da
+nacionalidade, a razão de ser da cidadania.” (SOUZA FILHO, Carlos Frederico Marés. Bens Culturais e
+Proteção Jurídica. 2. ed. rev. ampl. Porto Alegre: Unidade Editorial, 1999. p. 23).
+
+22
+
+[[pagina 23 | nativo]]
+
+➢ Convenção para a Salvaguarda do Patrimônio Cultural Imaterial, adotada em Paris, em
+17 de outubro de 2003, promulgada pelo Decreto nº 5.753, de 12 de abril de 2006, e
+aprovada pelo Congresso Nacional, através do Decreto Legislativo n º 22, de 01 de
+fevereiro de 2006. Referido instrumento jurídico amplia a esfera de proteção de acervos
+culturais também no plano imaterial, tendo dentre as suas finalidades: (i) o respeito e o
+amparo ao patrimônio cultural imaterial das comunidades, grupos e indivíduos envolvidos; e
+(ii) a conscientização da importância desse patrimônio (art. 1º).
+
+➢ Convenção sobre Diversidade Biológica, já anteriormente citada, promulgada pelo
+Decreto nº 2.519, de 16 de março de 1998, e aprovada pelo Congresso Nacional, por meio
+do Decreto Legislativo nº 2 de 03 de fevereiro de 1994. Dentre as previsões desta
+Convenção, estão os deveres de: (i) respeitar, preservar e manter o conhecimento de
+comunidades com estilo de vida tradicionais, relevantes à conservação e utilização
+sustentável da diversidade biológica (art. 8º, alínea “j”); e (ii) “proteger e encorajar a
+utilização costumeira de recursos biológicos de acordo com as práticas culturais tradicionais
+compatíveis com as exigências de conservação e utilização sustentável” (art. 10, alínea “c”);
+
+➢ Convenção sobre a Proteção e Promoção da Diversidade das Expressões Culturais,
+assinada em Paris, em 20 de outubro de 2005, promulgada pelo Decreto nº 6.177, de 1º de
+agosto de 2007, e aprovada pelo Decreto Legislativo nº 485, de 20 de dezembro de 2006.
+Dentre os objetivos dessa Convenção, encontram-se os compromissos de: (i) proteger e
+promover a diversidade das expressões culturais; (ii) promover o respeito pela diversidade
+das expressões culturais; e (iii) reconhecer natureza específica das atividades, bens e
+serviços culturais enquanto portadores de identidades, valores e significados (art. 1º);
+
+➢ Convenção nº 169, da Organização Internacional do Trabalho (“OIT”), promulgada pelo
+Decreto nº 10.088/2019, e aprovada pelo Congresso Nacional, por meio do Decreto
+Legislativo nº 143, de 20 de junho de 2002. Essa Convenção, retomada adiante, trata
+especificamente dos direitos dos povos tradicionais, os quais apresentam condições sociais,
+culturais e econômicas particulares distinguindo-se de outros segmentos da população
+nacional (art. 1º). Tal auto-identidade é, nos termos desse instrumento, fundamental para a
+definição dos povos tradicionais, de modo que nenhum Estado ou grupo social tem o direito
+de negar a identidade a um povo indígena ou tribal como tal ele próprio se reconheça (arts.
+2º a 5º). Para proteger esse direito e sua forma de organização sócio-cultural, a
+Convenção estabelece a prévia consulta e a participação dos povos interessados nos
+processos que impactem suas vidas, instituições e também a terra que ocupam e
+utilizam (art. 6º).
+
+77. Logo, do exposto até aqui nota-se que o art. 216, da CF, conjuntamente com
+convenções internacionais assinadas pelo País, delineia um quadro protetivo dos povos
+tradicionais, que devem ser preservados pelo Estado, em todas as suas dimensões.
+
+23
+
+[[pagina 24 | nativo]]
+
+III.1.3.1. O teor dos artigos 231 e 232 da Constituição
+
+78. Os demais dispositivos destacados acima (artigos 231 e 232, da CF) compõem o
+capítulo “Dos índios”, tratando exclusivamente dos povos indígenas. O art. 231, além de
+proteger o direito à cultura, costumes, religião e linguagem, garante efetivos direitos
+territoriais aos índios, enquanto o art. 232 atesta capacidade processual para eles, individual
+e coletivamente considerados, postularem em juízo em defesa de seus interesses.
+
+79. Aprofundando-se no conteúdo do art. 231, constata-se que este prevê não só o
+direito ao usufruto permanente das terras indígenas, cuja propriedade é da União (art. 20,
+XI), mas também direitos originários sobre as terras que esses grupos tradicionalmente
+ocupam. Nesse sentido, a posse das terras indígenas é constitucionalmente assegurada aos
+índios, tratando-se de direito que é anterior à própria Constituição e independe de qualquer
+ação do Estado para ser exercido.
+
+80. Assim, o direito às terras indígenas não decorre de determinação estatal, sendo a
+atuação do Poder Público apenas no sentido de atestar um direito preexistente e, assim, dar
+conhecimento a terceiros.
+
+81. O procedimento de demarcação de terras, também previsto no art. 231, tem, então,
+natureza meramente declaratória, em especial, para garantir que esse direito às terras
+indígenas seja respeitado perante a sociedade. Foi esse, inclusive, o entendimento deste e.
+Tribunal no julgamento do famoso caso de demarcação da terra indígena Raposa Serra do
+Sol, conforme se depreende de parte de sua ementa:
+
+Os direitos dos índios sobre as terras que tradicionalmente ocupam foram
+constitucionalmente "reconhecidos", e não simplesmente outorgados, com o que o ato de
+demarcação se orna de natureza declaratória, e não propriamente constitutiva. Ato
+declaratório de uma situação jurídica ativa preexistente. Essa a razão de a Carta Magna
+havê-los chamado de "originários", a traduzir um direito mais antigo do que qualquer outro,
+de maneira a preponderar sobre pretensos direitos adquiridos, mesmo os materializados em
+escrituras públicas ou títulos de legitimação de posse em favor de não-índios. Atos, estes,
+que a própria Constituição declarou como "nulos e extintos" (§6º do art. 231 da CF). (STF,
+Tribunal Pleno, Pet. 3.388/RO, Rel. Min. Carlos Ayres Britto, j. em 19.03.2009)
+
+82. Não à toa, os parágrafos 5º e 6º deste mesmo artigo estabelecem respectivamente,
+que: (i) é proibida a remoção de índios de suas terras, salvo casos de epidemias e
+catástrofes que ponham em risco a existência desses povos ou em casos necessários à
+garantia da soberania nacional, garantindo-se aos índios o direito de retorno às suas terras;
+e (ii) são nulos os atos que tenham por objeto a posse, o domínio ou a ocupação das terras
+indígenas, ressalvado caso de relevante interesse público da União, não havendo qualquer
+direito à indenização em caso de nulidade.
+
+24
+
+[[pagina 25 | nativo]]
+
+83. Desde logo percebe-se que a nossa ordem constitucional não admite quaisquer
+atos estatais, incluindo atos legislativos, que interfiram e impeçam o gozo das terras
+indígenas tradicionalmente ocupadas63.
+
+84. De acordo com o parágrafo 1º, do art. 231, terras tradicionalmente ocupadas são
+aquelas permanentemente habitadas e utilizadas para as atividades produtivas e culturais
+indígenas, imprescindíveis à preservação dos recursos ambientais necessários à
+manutenção de suas tradições. Nesse sentido, afirmou esse e. Supremo Tribunal Federal no
+supracitado julgamento de demarcação da terra indígena Raposa Serra do Sol:
+
+Áreas indígenas são demarcadas para servir concretamente de habitação permanente dos
+índios de uma determinada etnia, de par com as terras utilizadas para suas atividades
+produtivas, mais as "imprescindíveis à preservação dos recursos ambientais necessários a
+seu bem-estar" e ainda aquelas que se revelarem "necessárias à reprodução física e
+cultural" de cada qual das comunidades étnico-indígenas, "segundo seus usos, costumes e
+tradições" (usos, costumes e tradições deles, indígenas, e não usos, costumes e tradições
+dos não-índios). Terra indígena, no imaginário coletivo aborígine, não é um simples
+objeto de direito, mas ganha a dimensão de verdadeiro ente ou ser que resume em si
+toda ancestralidade, toda coetaneidade e toda posteridade de uma etnia (...). (g.n.)
+(STF, Tribunal Pleno, Pet. 3.388/RO, Rel. Min. Carlos Ayres Britto, j. em 19.03.2009)
+
+85. Dada essa relação que os índios estabelecem com a natureza, com os recursos
+hídricos, a fauna e a flora onde habitam, atesta-se que “dentro dos direitos territoriais
+conferidos aos índios estão também englobados os direitos ambientais que têm uma ligação
+estreita com os [direitos] culturais, porque significam a possibilidade ambiental de reproduzir
+hábitos alimentares, a farmacologia própria e a sua arte, artesanato e utensílios próprios”64-
+65.
+
+63 Trata-se de premissa da Constituição que fundamenta a relação jurídica para com os povos indígenas,
+que compreende: “(...) reconhecer os seus direitos originários, isto é, reconhecer que os povos têm direitos
+anteriores ao Direito e aos Estados; reconhecer a exclusividade de seu uso sobre as terras que habitam,
+nisto incluído o entendimento de que delas dispõem como território e não como propriedade, por último,
+oferecer proteção e garantia do Estado nacional para que os povos indígenas vivam segundo seus direitos
+originários e não sejam usurpados pelo próprio Estado que os protege, por outros Estados e por cidadãos
+de qualquer Estado.” (g.n.) (SOUZA FILHO, Carlos Frederico Marés. Da tirania à tolerância. O Direito e os
+índios. In: NOVAES, Adauto (Org.). A outra margem do ocidente. São Paulo: Companhia das Letras, 2009,
+p. 59).
+64 MARÉS, Carlos. Os povos indígenas e o direito brasileiro. In: SOUZA FILHO, Carlos Frederico Marés;
+BERGOLD, Raul Cezar (Orgs.). Os direitos dos povos indígenas no Brasil: desafios do século XXI,
+Curitiba: Letra da Lei, 2013, p. 23.
+65 A relação entre meio ambiente e a forma de organização e produção dos índios também é tratada por
+Ana Paula Liberato e Ana Paula Rangel Gonçalves: “É notável que os povos indígenas fazem uso
+sustentável das terras que habitam, estão constantemente mudando o local de suas aldeias, bem como o
+local que praticam caça e constituem suas roças. Desta forma, quando os espaços reservados oas
+indígenas são suficientemente grandes, a natureza tem tempo para se recompor. Assim, fica evidente que
+as Terras Indígenas contribuem para a proteção ao meio ambiente.” (LIBERATO, Ana Paula;
+
+25
+
+[[pagina 26 | nativo]]
+
+86. Portanto, tratar da proteção e defesa dos direitos dos povos indígenas é também
+tratar do cuidado e da tutela ao meio ambiente, um bem constitucionalmente garantido,
+conforme visto no tópico anterior.
+
+87. Ressalta-se que, tal qual ocorre com o art. 216, o teor do art. 231 também encontra
+respaldo na já referida Convenção nº 169, da OIT. Como apontado, esta Convenção confere
+proteção aos territórios tradicionalmente ocupados, tutelando o direito de posse e uso
+dessas terras. Reforça-se, assim, mais uma vez, o direito à consulta prévia dos grupos
+indígenas quando, nessas terras, for pretendida exploração econômica dos recursos ali
+disponíveis66.
+
+88. Acentua-se desde já que esse direito de consulta deve ser exercitado, por exemplo,
+em casos como os de licenciamento ambiental de empreendimentos que tendem a impactar
+terras indígenas. Sobre o tema, inclusive, a Quinta Turma do Tribunal Regional Federal da
+1ª Região (“TRF-1”), em caso envolvendo a Usina Hidrelétrica de Belo Monte, determinou,
+pautando-se na Convenção nº 169, da OIT, e no art. 231, da CF, a suspensão do
+licenciamento ambiental em razão da ausência de consulta prévia aos povos indígenas
+habitantes de região do Parque Xingu onde estaria localizado o empreendimento67.
+
+GONÇALVES, Ana Paula Rangel. Proteção dos indígenas na Constituição de 1988. In: SOUZA FILHO,
+Carlos Frederico Marés; BERGOLD, Raul Cezar (Orgs.). Os direitos dos povos indígenas no Brasil:
+desafios do século XXI, Curitiba: Letra da Lei, 2013, p. 105). De igual modo, João Luiz Dremiski e Priscila
+Lini explicam que: “A maioria das comunidades tradicionais está àquilo que a natureza disponibiliza em seu
+espaço geográfico, determinando assim seus hábitos e costumes. Justamente por essa dependência, o
+indígena possui uma relação harmônica, simbiótica com a natureza. (...) Desta forma as populações
+tradicionais são agentes na conservação dos recursos naturais, que utilizam seus conhecimentos para o
+emprego mais racional e eficiente do que é disponibilizado pela terra.” (DREMISKI, João Luiz; LINI,
+Priscila. A Convenção n. 169 da Organização Internacional do Trabalho. In: SOUZA FILHO, Carlos
+Frederico Marés; BERGOLD, Raul Cezar (Orgs.). Os direitos dos povos indígenas no Brasil: desafios do
+século XXI, Curitiba: Letra da Lei, 2013, p. 88 e 90).
+66 Como explicam João Luiz Dremiski e Priscila Lini: “caso as atividades estatais vierem a interferir em
+territórios tradicionalmente ocupados, a atuação só se realizará após consulta aos interessados, e
+quaisquer ingerências deverão ser mitigadas, ou se inevitáveis, justamente indenizadas” (DREMISKI, João
+Luiz; LINI, Priscila. A Convenção n. 169 da Organização Internacional do Trabalho. In: SOUZA FILHO,
+Carlos Frederico Marés; BERGOLD, Raul Cezar (Orgs.). Os direitos dos povos indígenas no Brasil:
+desafios do século XXI, Curitiba: Letra da Lei, 2013, p. 77).
+67 “VI - Na hipótese dos autos, a localização da Usina Hidrelétrica Belo Monte, no Estado do Pará,
+encontra-se inserida na Amazônia Legal e sua instalação causará interferência direta no mínimo
+existencial-ecológico de comunidades indígenas, com reflexos negativos e irreversíveis para a sua sadia
+qualidade de vida e patrimônio cultural em suas terras imemoriais e tradicionalmente ocupadas, impondo-
+se, assim, a autorização do Congresso Nacional, com a audiência prévia dessas comunidades, nos termos
+dos referidos dispositivos normativos, sob pena de nulidade da autorização concedida nesse 387 contexto
+de irregularidade procedimental (CF, art. 231, § 6º), como no caso. VII - No caso em exame, a autorização
+do Congresso Nacional, a que alude o referido dispositivo constitucional em tela (CF, art. 231, § 3º),
+afigura-se manifestamente viciada, em termos materiais, à míngua de audiência prévia das comunidades
+indígenas afetadas, que deveria ocorrer à luz dos elementos colhidos previamente pelo estudo de impacto
+ambiental, que não pode, em hipótese alguma, como determinou o Decreto Legislativo 788/2005, ser um
+estudo póstumo às consultas necessárias à participação das comunidades indígenas. A Constituição do
+Brasil não consagrou um estudo póstumo de impacto ambiental; ela consagrou um estudo prévio de
+
+26
+
+[[pagina 27 | nativo]]
+
+89. Também no plano da Corte Interamericana de Direitos Humanos, decidiu-se ser o
+direito à consulta dos povos indígenas e tradicionais “princípio geral do Direito
+Internacional”, mediante interpretação evolutiva do art. 21 da Convenção Americana de
+Diretos Humanos, que prevê direitos sobre a propriedade privada6869. Nesse sentido, o
+Sistema Interamericano de Direitos Humanos reforçou a necessidade de os Estados
+realizarem consultas especiais e diferenciadas, com caráter prévio em relação à
+organização social e cultural de cada povo tradicional.
+
+90. Além da Convenção nº 169, da OIT, cita-se, no plano internacional, a Declaração
+das Nações Unidas sobre os Direitos dos Povos Indígenas, aprovada pela Assembleia Geral
+da Organização das Nações Unidas (”ONU”) em 13 de setembro de 2007. Dentre os
+principais pontos da Declaração, encontram-se os direitos: (i) dos povos indígenas
+livremente se autodeterminarem; (ii) ao consentimento livre, prévio e informado, i.e., o direito
+de povos indígenas serem adequadamente consultados antes da adoção de medidas
+legislativas ou administrativas de qualquer natureza; (iii) à prevenção e reparação no que
+tange à subtração de terras indígenas sem o consentimento informado ou em discordância
+com suas normas tradicionais; e (iv) de manter suas culturas.
+
+91. Assim, também no plano internacional fica claro o dever de proteção dos povos e
+terras indígenas, de outros povos e comunidades tradicionais, devendo o Estado reprimir
+ações que prejudiquem os seus direitos.
+
+92. Nesse sentido, considerando os direitos dos índios, quilombolas e outros povos e
+comunidades tradicionais70, delineados nos textos normativos explicitados acima, as
+atividades econômicas que possam impactar as suas áreas, organização social, costumes,
+línguas, crenças e tradições, devem ser previamente avaliadas e licenciadas pelo Poder
+Público, não sendo admitida, pela melhor interpretação do texto constitucional, a aprovação
+
+impacto ambiental (CF, art. 225, § 1º, IV), e o governo federal quer implantar um estudo póstumo de
+impacto ambiental, na espécie, assim, anulando os direitos fundamentais dessas comunidades indígenas.”
+(TRF-1, Quinta Turma, Embargos de Declaração na Apelação Cível nº 2006.39.03.000711-8, Rel. Des.
+Souza Prudente, j. em 13.08.2012)
+68 Chamada de Pacto de San Jose da Costa Rica, a Convenção Americana de Direitos Humanos foi
+promulgada no Brasil pelo Decreto nº 678, de 06 de novembro de 1992, tendo sido aprovada pelo
+Congresso Nacional, por meio do Decreto Legislativo nº 27 de 1992 – possuindo caráter de
+supralegalidade, nos termos da jurisprudência do STF (ver julgamento do Recurso Extraordinário no
+466.343/SP. Re- corrente: Banco Bradesco S/A. Recorrido: Luciano Cardoso Santos. Relator: Ministro
+Cezar Peluso. Brasília, 3 de dezembro de 2008).
+69 Corte Interamericana de Direitos Humanos. Caso del Pueblo Indígena Kichwa de Sarayaku vs. Ecuador.
+Sentencia Serie C No 245 del 27 de junio de 2012 (Fondo y Reparaciones). Disponível em:
+http://corteidh.or.cr/docs/casos/articulos/seriec_245_esp.pdf > Acesso em 10.02.2020.
+70 Vale citar, ainda, o quanto previsto no art. 3º, I, do Decreto nº 6.040, de 07 de fevereiro de 2007, que
+instituiu a Política Nacional de Desenvolvimento Sustentável dos Povos e Comunidades Tradicionais: “Art.
+3º São objetivos específicos da PNPCT: I - garantir aos povos e comunidades tradicionais seus territórios,
+e o acesso aos recursos naturais que tradicionalmente utilizam para sua reprodução física, cultural e
+econômica”.
+
+27
+
+[[pagina 28 | nativo]]
+
+tácita, e a consequente exclusão da análise dos impactos (diretos e indiretos) a esses
+povos.
+
+III.1.4. Conclusões parciais
+
+93. Pelo que foi exposto nesta primeira seção, podemos concluir que:
+
+(i) A Constituição garante os direitos inerentes aos povos indígenas e a
+preservação do meio ambiente, os quais são classificados como direitos
+fundamentais de terceira geração, dada sua relevância para que se possa
+gozar de uma vida plena e digna;
+
+(ii) O Brasil é signatário de Tratados e Convenções Internacionais que dispõem
+sobre a defesa do meio ambiente e dos povos indígenas, os quais possuem
+caráter supralegal por tratarem de questões abarcadas por direitos
+fundamentais, conforme jurisprudência desta Corte;
+
+(iii) Da ordem constitucional de proteção do meio ambiente, vale destacar os
+seguintes princípios:
+
+a. Princípio do desenvolvimento sustentável, que determina um
+desenvolvimento econômico de maneira compatível com o meio
+ambiente;
+
+b. Princípios da prevenção e da precaução, os quais justificam a proibição
+de atividades que possuem indicativos substanciais ou meros indícios de
+danos ao meio ambiente, a fim de evitar possíveis danos irreparáveis;
+
+c. Princípio do poluidor pagador, que estabelece a responsabilidade penal e
+administrativa, além do dever de reparação, do agente que enseja danos
+ao meio ambiente, sem distinguir danos diretos e indiretos;
+
+d. Princípio da proibição do retrocesso em direitos fundamentais
+socioambientais, que veda a edição de normas que suprimam ou
+restrinjam de algum modo o direito fundamental ao meio ambiente.
+
+(iv) Na observância da preservação do meio ambiente e da garantia de direitos
+fundamentais como a promoção de vida digna, o reconhecimento da
+identidade e singularidade dos povos indígenas e tradicionais brasileiros é de
+extrema importância. Primeiro, porque estes povos, tradicionalmente,
+possuem relação identitária com a fauna, a flora e os recursos naturais; seus
+diferentes modos de vida possuem estreita relação com a preservação do
+meio ambiente. Assegurar o direito auto-afirmativo destes grupos também é
+promover a proteção ambiental. Em segundo lugar, independentemente da
+
+28
+
+[[pagina 29 | nativo]]
+
+importante preservação do meio ambiente, estes povos tradicionais, em
+especial, os índios possuem direitos constitucionais positivados que garantem
+sua livre manifestação cultural, assim como a inviolabilidade de seu território
+tradicionalmente ocupado.
+
+(v) O ordenamento jurídico brasileiro assegura o direito de consulta prévia
+obrigatória aos índios com relação a projetos que possam lhes causar
+impactos (diretos ou indiretos), em conformidade com previsões
+internacionais como a Convenção nº 169 da OIT;
+
+(vi) as atividades econômicas que possam impactar povos indígenas, quilombolas
+e outras comunidades tradicionais, considerados os direitos constitucionais a
+eles assegurados, devem ser previamente avaliadas e licenciadas pelo Poder
+Público, restando descabida qualquer tentativa da aprovação tácita e também
+de exclusão dos impactos indiretos.
+
+III.2. DAS RAZÕES PARA O RECONHECIMENTO DA INCONSTITUCIONALIDADE DOS
+DISPOSITIVOS IMPUGNADOS NA PRESENTE ADI.
+
+III.2.1. Inconstitucionalidade do art. 3º, IX: aprovação tácita de
+atividades com impacto socioambiental
+
+94. Ao impor que o silêncio da Administração Pública na concessão de atos de
+liberação da atividade econômica implica sua aprovação tácita, o art. 3º, IX, da Lei de
+Liberdade Econômica, fere a Constituição, que, como visto, determina o dever de o Poder
+Público proteger o meio ambiente e também os povos indígenas, inclusive na execução de
+atividades econômicas.
+
+95. Em função de todo o contexto apontado acima, e como se passa a sustentar,
+a aprovação tácita, em matéria de direito ambiental significa violação aos princípios
+acima relatados, desconsiderando a necessidade de avaliação e manifestação prévias do
+Poder Público em casos que tendem a causar impactos ao meio ambiente (bem coletivo),
+em detrimento de um direito individual.
+
+96. O constituinte erigiu o meio ambiente à condição de direito fundamental (como
+tratado nos tópicos precedentes), estabelecendo, de forma clara, aos poderes constituídos a
+obrigação de atuar no sentido de preservar ao máximo a sua efetividade.
+
+97. De fato, a proteção do meio ambiente foi tratada ao longo de todo o texto
+constitucional, fixando não só competências, mas também obrigações diretas e objetivas
+para os legisladores ordinários e para os administradores públicos, que não podem se
+esquivar no seu cumprimento.
+
+29
+
+[[pagina 30 | nativo]]
+
+98. Em caso de aprovação tácita de atos administrativos que visam tutelar o meio
+ambiente, sem que haja essa análise por parte da Administração Pública, o ato
+administrativo perde seu objetivo e o bem por ele resguardado resta fragilizado, em
+desrespeito frontal à Constituição, que veda práticas que coloquem em risco a fauna e a
+flora, priorizando ações preventivas contra danos ambientais, inclusive, quando houver
+incertezas científicas sobre a perda de diversidade biológica (art. 225, caput e parágrafo 1o,
+IV, V e VI).
+
+99. Portanto, pela redação constitucional, em matérias afetas ao meio ambiente, resta
+impedida a aprovação tácita de atos autorizativos estatais, emitidos por órgãos como
+Instituto Brasileiro do Meio Ambiente e dos Recursos Naturais Renováveis (“IBAMA”),
+Instituto Chico Mendes de Conservação da Biodiversidade (“ICMBio”), Ministério da
+Agricultura, Pecuária e Abastecimento (“Mapa”), Agência Nacional de Vigilância Sanitária
+(“ANVISA”), Agência Nacional de Mineração (“ANM”), Agência Nacional de Águas (“ANA”)71,
+dentre outros.
+
+100. Não só isso. A aprovação tácita de atos de órgãos como a FUNAI, o Instituto
+Nacional de Colonização e Reforma Agrária (“INCRA”) e a Fundação Cultural Palmares
+também viola a Constituição no que tange à proteção conferida aos povos e terras indígenas
+em seu artigo 231 e aos demais povos e comunidades tradicionais nos artigos 215 e 216 da
+CF e 68 do ADCT, uma vez que admite que o Estado emita atos administrativos que
+impactem os índios e demais povos e comunidades, mesmo sem a prévia avaliação do
+órgão competente e sem a escuta dos povos afetados, contrariando seu direito prévio
+de consulta, em potencial desrespeito ao direito originário às terras indígenas e
+demais territórios tradicionais. Afinal, no caso de atividades econômicas desenvolvidas
+em regiões tradicionalmente ocupadas, índios serão afetados, o que demandaria avaliação
+mais detida do Poder Público, principalmente em caráter antecipatório ao dano ou impacto,
+para que não haja desocupações indevidas e violação ao direito de posse
+constitucionalmente conferido aos índios e comunidades tradicionais no que tange às terras
+essenciais à sua cultura e à sua saúde72.
+
+71 O texto constitucional estabelece que as águas são bens públicos da União (art. 20, III), sendo que a
+sua outorga não se pode dar de forma tácita, sob pena de restar esvaziado o próprio caráter público do
+bem.
+72 Cf. o Mapa de Conflitos Envolvendo Injustiça Ambiental e Saúde no Brasil, da FIOCRUZ, os povos
+indígenas enfrentam hoje 177 conflitos relacionados à sua saúde em todo o país. Disponível em <
+http://mapadeconflitos.ensp.fiocruz.br/?populacao=povos-indigenas&post_types=conflito>. Acesso em 25
+abr. 2020. O Instituto Sócioambiental também já listou uma série de violações à saúde indígena, como, por
+exemplo, “em audiência sobre Belo Monte, MPF denuncia obrigações descumpridas na saúde indígena”,
+disponível em < https://www.socioambiental.org/pt-br/noticias-socioambientais/em-audiencia-sobre-belo-
+monte-mpf-denuncia-obrigacoes-descumpridas-na-saude-indigena >, acesso em 25 abr. 2020.
+
+30
+
+[[pagina 31 | nativo]]
+
+101. O risco de violação ao direito originário às terras indígenas é agravado,
+considerando-se que o prazo de cinco anos, contados da promulgação da Constituição,
+previsto no art. 67, do ADCT73, para a conclusão da demarcação das terras indígenas, não
+foi cumprido pelo Estado. Dessa forma, sem a demarcação definitiva das terras
+indígenas, os índios carecem de instrumento jurídico declaratório que lhes permite
+impor sua posse em relação a terceiros, de modo que os efeitos da aprovação tácita de
+atos administrativos de liberação de atividades econômicas impactantes serão ainda mais
+prejudiciais aos índios – havendo, então, possibilidade de concretização de danos
+irreversíveis, caso, por exemplo, grandes empreendimentos de infraestrutura sejam
+efetivados em terras indígenas.
+
+102. Nesse caso, pela sistemática constitucional, o direito de consulta deve ser
+exercitado como parte do processo de licenciamento ambiental para que seja respeitado seu
+caráter prévio e o órgão responsável tenha todos os elementos necessários à sua tomada
+de decisão, possibilitando aos povos tradicionais interessados influenciar nesse processo –
+de tal sorte que sua participação não seja meramente formal. O licenciamento ambiental,
+enquanto procedimento administrativo que visa autorizar e acompanhar a implantação e
+operação de atividades, que utilizam recursos naturais ou que sejam consideradas efetiva
+ou potencialmente poluidoras, cumpre função dupla: (i) garantir a tutela dos recursos
+ambientais e (ii) garantir a proteção constitucional aos povos tradicionais e indígenas.
+
+103. Esse procedimento encontra previsão na Lei Complementar no 140, de 08 de
+dezembro de 2011 (“LC no 140/2011”), que, em seu art. 14, parágrafo 3o74, proíbe a
+autorização tácita para a prática de ato que dependa de licença ambiental, bem como a
+emissão tácita de licença ambiental – documento, com prazo de validade definido, em que o
+órgão ambiental estabelece regras, condições, restrições e medidas de controle ambiental a
+serem seguidas pelo particular empreendedor.
+
+104. A LC no 140/2011 é específica ao tratar do licenciamento, tendo sido editada com
+fundamento no art. 23, incisos III, VI, VII e parágrafo único, da Constituição, que tratam,
+dentre outros temas, da proteção ao meio ambiente. Verifica-se que o parágrafo único desse
+artigo reserva à lei complementar a fixação de normas sobre o equilíbrio do
+desenvolvimento e o bem-estar em âmbito nacional. Por sua vez, a Lei de Liberdade
+Econômica é mais abrangente, tratando de “atos de liberação de atividade econômica” de
+forma geral. Desse modo, o conteúdo da LC no 140/2011 prevalece sobre a Lei de Liberdade
+
+73 Ato das Disposições Constitucionais Transitórias, art. 67: “Art. 67. A União concluirá a demarcação das
+terras indígenas no prazo de cinco anos a partir da promulgação da Constituição”.
+74 LC no 140/2011, art. 14, § 3º: “§ 3º O decurso dos prazos de licenciamento, sem a emissão da licença
+ambiental, não implica emissão tácita nem autoriza a prática de ato que dela dependa ou decorra, mas
+instaura a competência supletiva referida no art. 15.”
+
+31
+
+[[pagina 32 | nativo]]
+
+Econômica, que não revogou a primeira (e nem poderia, uma vez que se trata de lei
+complementar, que não pode ser alterada por lei ordinária).
+
+105. Relembre-se aqui que, nos termos da Lei de Introdução às Normas do Direito
+Brasileiro (Decreto-Lei no 4.657, de 4 de setembro de 1942 e respectivas alterações ou
+“LINDB”), uma lei tem vigência até que outra venha a modificá-la ou a revogá-la, de forma
+que uma determinada lei é revogada por lei posterior quando esta última: (i) expressamente
+o declare, (ii) seja incompatível com o teor da norma anterior, ou (iii) regule inteiramente o
+tema tratado na lei anterior (LINDB, art. 2o, caput e §1o)75-76. Essas hipóteses não são
+aplicáveis ao caso em questão, pois não só a Lei de Liberdade Econômica não revogou
+expressamente o conteúdo da LC no 140/2011, como também a nova Lei não regula
+especificamente o procedimento de licenciamento ambiental, não tendo sido editada com
+base nos mesmos fundamentos constitucionais da LC no 140/2011.
+
+106. Do exposto, conclui-se que a Lei de Liberdade Econômica não poderia ter disposto
+sobre a aprovação tácita de atividades econômicas que dependam de autorizações de
+órgãos ambientais e de proteção aos povos tradicionais, em especial, do licenciamento
+ambiental, visto que (i) se trata de tema previsto em Lei Complementar própria, por ter
+relação direta com a matéria do art. 23, parágrafo único, da CF; e (ii) o licenciamento
+ambiental e os demais atos autorizativos de órgãos ambientais, órgãos que emitem atos que
+importam impacto ambiental (agrotóxicos, uso de recursos hídricos, mineração etc.) e
+órgãos ligados à proteção dos índios, quilombolas e comunidades tradicionais são
+instrumentos de prevenção, que perdem o seu sentido e essência constitucional (e até
+mesmo efetividade) se utilizados como instrumentos a posteriori.
+
+III.2.2. Inconstitucionalidade do art. 3º, XI, “d”: impactos
+socioambientais indiretos
+
+75 LINDB, art. 2o, caput e §1o: “Art. 2o Não se destinando à vigência temporária, a lei terá vigor até que
+outra a modifique ou revogue. § 1o A lei posterior revoga a anterior quando expressamente o declare,
+quando seja com ela incompatível ou quando regule inteiramente a matéria de que tratava a lei anterior.”
+76 Nesse sentido, o professor Tércio Sampaio Ferraz Júnior explica que: “[a] norma revogadora pode ser
+manifesta ou implícita. Ela é manifesta quando nela a autoridade determina a norma revogada
+declaradamente. É implícita, quando, numa nova disposição da matéria, não se determina a norma
+revogada declaradamente. Segue-se daí que a revogação pode ser (a) ou expressa, (b) ou tácita, (c) ou
+global. A revogação expressa exige uma norma revogadora manifesta que determina declaradamente qual
+a norma revogada: “fica revogado o art. x da lei z”, ou “fica revogada a lei tal”, isto é, todas as suas
+normas. A revogação tácita ocorre quando a norma revogadora é implícita e a revogação resulta da
+incompatibilidade entre a matéria regulada e as disposições antes vigentes: por exemplo, editam-se as
+normas a, b, c cujos dispositivos são incompatíveis com o das normas x, v, z, sendo as primeiras normas
+revogadoras implícitas dessas últimas; (...) Por fim, a revogação global ocorre por meio de uma norma
+revogadora implícita, sem a necessidade de incompatibilidade, bastando que a nova norma, por exemplo,
+discipline integralmente uma matéria, mesmo repetindo certas disciplinas da norma antiga” (JR. FERRAZ,
+Tercio Sampaio. Introdução ao Estudo do Direito: técnica, decisão, dominação, 7a ed., São Paulo: Atlas,
+2013. p. 172).
+
+32
+
+[[pagina 33 | nativo]]
+
+107. Em seu art. 3º, XI, “d”, a Lei da Liberdade Econômica estabeleceu, entre os direitos
+de todas as pessoas naturais ou jurídicas, aquele de não ser obrigado a executar medidas
+ou prestar compensações que sejam relacionadas a áreas ou situações além daquelas
+diretamente impactadas pela atividade econômica. De acordo com o dispositivo, exigências
+nesse sentido seriam abusivas. Contudo, assim como no caso anterior, a restrição imposta
+por meio dessa norma contraria a ordem constitucional da defesa do meio ambiente, bem
+como a prática e a teoria em mais de quarenta anos de aplicação do licenciamento
+ambiental no Brasil.
+
+108. De início, ressalta-se que já existe uma grande dificuldade em mensurar a área
+objeto do estudo de impacto ambiental, devido à complexidade das relações que ocorrem
+em meio a um ecossistema e mesmo das relações sociais nos entornos do local em que se
+instalará o projeto77. Não obstante, a definição da chamada área de influência consiste em
+uma das etapas mais importantes do estudo78.
+
+109. Nos termos da Lei da Política Nacional do Meio Ambiente, compete ao CONAMA
+estabelecer normas aplicáveis ao licenciamento ambiental de atividades potencialmente
+poluidoras e determinar as hipóteses em que é necessária a realização do estudo de
+impacto ambiental (art. 8º, I e II)79. No exercício dessa competência, o CONAMA editou a
+Resolução nº 1/1986, que estabelece como diretriz do estudo de impacto ambiental a
+delimitação da área afetada direta ou indiretamente pelos impactos ambientais
+decorrentes do empreendimento80. De igual modo, a Resolução também prevê que o
+
+77 PACHECO, Marcos Antônio B. O Conceito Jurídico de área de influência nos estudos e relatórios de
+impacto ambiental (EIA/RIMA) - O caso da Base Aeroespacial de Alcântara. Revista de Direito Ambiental,
+vol. 19/2000, p. 223 – 236, jul. – set./2000.
+78 CAPOBIANCO, João Paulo Ribeiro. Análise da Aplicabilidade do Princípio da Precaução no Processo
+de Licenciamento Ambiental da UHE Tijuco Alto no Rio Ribeira de Iguape. Revista de Direito Ambiental,
+vol. 19/2000, p. 176 – 200, jul. – set./2000.
+79 Lei da Política Nacional do Meio Ambiente, art. 8º, I e II: “Art. 8º Compete ao CONAMA: I - estabelecer,
+mediante proposta do IBAMA, normas e critérios para o licenciamento de atividades efetiva ou
+potencialmente poluidoras, a ser concedido pelos Estados e supervisionado pelo IBAMA; II - determinar,
+quando julgar necessário, a realização de estudos das alternativas e das possíveis conseqüências
+ambientais de projetos públicos ou privados, requisitando aos órgãos federais, estaduais e municipais, bem
+assim a entidades privadas, as informações indispensáveis para apreciação dos estudos de impacto
+ambiental, e respectivos relatórios, no caso de obras ou atividades de significativa degradação ambiental,
+especialmente nas áreas consideradas patrimônio nacional”.
+80 Resolução CONAMA nº 1/1986, art. 5º, III: “Artigo 5º - O estudo de impacto ambiental, além de atender
+à legislação, em especial os princípios e objetivos expressos na Lei de Política Nacional do Meio Ambiente,
+obedecerá às seguintes diretrizes gerais: (...) III - Definir os limites da área geográfica a ser direta ou
+indiretamente afetada pelos impactos, denominada área de influência do projeto, considerando, em todos
+os casos, a bacia hidrográfica na qual se localiza”.
+
+33
+
+[[pagina 34 | nativo]]
+
+diagnóstico da área de influência deve considerar o meio físico, o meio biológico e os
+ecossistemas naturais e o meio socioeconômico81.
+
+110. O que se observa, portanto, é que o art. 3º, XI, “d”, da Lei da Liberdade Econômica
+promove o retrocesso da proteção ambiental ao diminuir o escopo de um importante
+instrumento do Poder Público e proibir a exigência de medidas para mitigar ou compensar
+impactos indiretos.
+
+111. Em regra, empreendimentos com potencial poluidor geram impactos negativos
+sobre o meio ambiente de duas formas: de maneira direta, isto é, sem causa intermediária; e
+de maneira indireta, mediante um fator intermediário. Em ambos os casos, os impactos
+(diretos ou indiretos) configuram-se como externalidades da atividade, que, sem medidas
+mitigatórias ou compensatórias, seriam suportadas tão somente pela coletividade, que
+sofreria os danos ambientais que as exigências procedimentais e materiais do licenciamento
+ambiental visam prevenir, mitigar ou até mesmo compensar de forma antecipada.
+
+112. Se mantido, o dispositivo transferirá do empreendedor ao Poder Público – e,
+portanto, à sociedade – os ônus sobre grande parte dos impactos socioambientais
+decorrentes de empreendimentos. Trata-se de medida indevida e contrária à ordem jurídica,
+uma vez que o responsável pelo endereçamento de impactos ambientais deve ser aquele
+que lhes dá causa, o empreendedor e não quem sofre suas consequências.
+
+113. Transferir a responsabilidade ao Estado (que, inevitavelmente, será acionado em
+algum momento) nesses casos significará que a coletividade brasileira, além de sentir os
+impactos ao bem jurídico de que é titular – o meio ambiente ecologicamente equilibrado –,
+ainda arcará com os custos necessários para a sua prevenção, mitigação ou compensação.
+
+114. Por óbvio, a mera exclusão de impactos indiretos do ordenamento jurídico não
+significará que, como num passe de mágica, tais impactos deixarão de ocorrer. Os impactos
+classificados como indiretos continuarão a existir e sua desconsideração implicará o
+ajuizamento de ações judiciais para que sejam evitados, mitigados ou compensados, com
+possibilidade de suspensão da licença, atraso no cronograma de implantação do
+
+81 Resolução CONAMA nº 1/1986, art. 6º, I: “Artigo 6º - O estudo de impacto ambiental desenvolverá, no
+mínimo, as seguintes atividades técnicas: I - Diagnóstico ambiental da área de influência do projeto
+completa descrição e análise dos recursos ambientais e suas interações, tal como existem, de modo a
+caracterizar a situação ambiental da área, antes da implantação do projeto, considerando: a) o meio físico -
+o subsolo, as águas, o ar e o clima, destacando os recursos minerais, a topografia, os tipos e aptidões do
+solo, os corpos d'água, o regime hidrológico, as correntes marinhas, as correntes atmosféricas; b) o meio
+biológico e os ecossistemas naturais - a fauna e a flora, destacando as espécies indicadoras da qualidade
+ambiental, de valor científico e econômico, raras e ameaçadas de extinção e as áreas de preservação
+permanente; c) o meio sócio-econômico - o uso e ocupação do solo, os usos da água e a sócio-economia,
+destacando os sítios e monumentos arqueológicos, históricos e culturais da comunidade, as relações de
+dependência entre a sociedade local, os recursos ambientais e a potencial utilização futura desses
+recursos”.
+
+34
+
+[[pagina 35 | nativo]]
+
+empreendimento e aumento dos custos originalmente previstos pelo empreendedor. Trata-
+se, portanto, de equívoco técnico grave, cujas consequências negativas serão sentidas
+mediante desproteção do meio ambiente, violação de direitos de pessoas impactadas por
+empreendimentos e insegurança jurídica ao empreendedor.
+
+115. De fato, os impactos indiretos podem ser tão ou mais gravosos do que os impactos
+diretos, de modo que não há que se falar em hierarquização entre eles82. Em
+empreendimentos hidráulicos, por exemplo, os impactos ambientais diretos mais comuns
+incluem supressão vegetal83 e desapropriação de terras, enquanto os indiretos incluem o
+assoreamento do curso d’água e o desequilíbrio do ecossistema aquático (decorrentes da
+supressão vegetal, que pode gerar graves impactos na soberania alimentar indígena, em
+virtude da drástica redução da quantidade de peixes quando do barramento do rio) e o
+deslocamento populacional (decorrente da desapropriação de terras)84. Outros exemplos
+emblemáticos de impactos indiretos decorrentes de empreendimentos ou atividades
+humanas não deixam dúvida sobre a inconstitucionalidade do dispositivo:
+
+(i) Efeito “espinha de peixe” nas estradas da Amazônia:
+aproximadamente 95% do desmatamento na Amazônia brasileira
+acontece em um raio de 5,5 km das estradas85, impacto comumente
+classificado como indireto – como se nota, por exemplo, na BR-
+31986. Ainda, conforme demostrado por estudo publicado em 2001,
+três quartos dos desmatamentos entre 1978 e 1994 ocorreram dentro
+de uma faixa de 100 km de largura ao longo das rodovias BR 010
+(Belém-Brasília), BR 364 (Cuiabá-Porto Velho) e PA 15087. Com a
+
+82 MINISTÉRIO PÚBLICO FEDERAL, Quarta Câmara – Meio Ambiente e Patrimônio Cultural. Área de
+influência na avaliação de impacto ambiental. Disponível em: http://www.mpf.mp.br/atuacao-
+tematica/ccr4/dados-da-atuacao/eventos/Seminarios/AkiraAAEEIAAreadeinfluencia.pdf; SILVA FILHO,
+Valdir Carlos da. Área de influência nos estudos de impacto ambiental: uma heurística a partir da
+geografia. Monografia. Brasília, 2011. Disponível em: http://www.mpf.mp.br/atuacao-tematica/ccr4/dados-
+da-atuacao/documentos/trabalhos-cientificos/area_de_influencia_eias_valdir_filho.pdf. p. 37.
+83 Veja-se, a propósito, a matéria: DERRUBAR árvores para erguer hidrelétricas. Disponível em
+https://reporterbrasil.org.br/2015/11/derrubar-arvores-para-erguer-hidreletricas/. Acesso em: 26.04.2020.
+84 MANCHON, Fernanda Tomita; BONETTO, Nelson Cesar Fernando. Principais impactos ambientais
+gerados por empreendimentos hidráulicos no Estado de São Paulo. Revista Oswaldo Cruz, ano 3, n. 9,
+jan.-mar./2016. Disponível em: http://revista.oswaldocruz.br/Content/pdf/Edicao_9_Fernanda_Manchon.pdf.
+85 ALAMGIR, M.; et al. Economic, Socio-Political and Environmental Risks of Road Development in the
+Tropics. Current Biology 27, R1130–R1140, October 23, 2017.
+86 ASFALTO na Floresta: Vista de cima, a BR-319 parece uma espinha de peixe. Disponível em
+https://pib.socioambiental.org/pt/Notícias?id=74281. Acesso em: 29.04.2020.
+87 NEPSTAD, D.; et. al. Road Paving, Fire Regime Feedbacks, and the Future of Amazon Forests. Forest
+Ecology and Management 5524, 2001, pp. 1-13. Disponível em:
+https://acervo.socioambiental.org/sites/default/files/documents/10D00493.pdf. Acesso em: 29.04.2020.
+
+35
+
+[[pagina 36 | nativo]]
+
+exclusão dos impactos indiretos do licenciamento, o desmatamento
+decorrente da instalação, ampliação e pavimentação de estradas na
+Amazônia passaria a não ser sequer previsto nas avaliações de
+impacto, bem como deixariam de ser adotadas as medidas
+necessárias para evitá-lo, mitigá-lo ou compensá-lo;
+
+(ii) Impactos sociais: é comum que a instalação de empreendimentos
+de significativo impacto, como hidrelétricas na Amazônia, resulte em
+expressivo aumento populacional em municípios do entorno. No caso
+da hidrelétrica de Belo Monte, a população do município de Altamira
+praticamente dobrou em dois anos. O impacto decorrente dessa
+situação consiste em importantes déficits nos sistemas públicos. Os
+hospitais passam a não conseguir atender a elevada demanda; não
+há vagas suficientes em escolas públicas; a estrutura de segurança
+pública não dá conta do aumento da violência e de atividades ilícitas;
+o sistema de saneamento básico igualmente passa a sofrer com
+grave déficit. Todos esses impactos são considerados indiretos.
+Caso mantida a exclusão ora questionada, todos esses impactos
+indiretos ocorrerão de fato, mas não serão avaliados e endereçados
+no licenciamento ambiental;
+
+(iii) Comunidades indígenas e tradicionais impactadas pelo
+barramento de rio por usina hidrelétrica: invariavelmente, a
+instalação de hidrelétricas gera impactos negativos na população de
+peixes e nas demais condições do ecossistema. Quando
+comunidades indígenas e tradicionais estão presentes nas áreas de
+influência do empreendimento, as condições garantidoras dos seus
+modos de vida são gravemente afetadas, podendo resultar em
+prejuízos de diversas ordens, como aqueles à sua segurança
+alimentar. A exclusão dos impactos indiretos do licenciamento
+ambiental significaria a exclusão de medidas destinadas a endereçar
+soluções para essas comunidades impactadas;
+
+(iv) Impactos à saúde humana: usinas térmicas de geração de energia
+possuem como um de seus principais impactos negativos a emissão
+de poluentes na atmosfera, o que gera aumento de doenças
+
+36
+
+[[pagina 37 | nativo]]
+
+respiratórias nas populações do entorno. Indústrias têxteis e
+empreendimentos de mineração, por exemplo, podem gerar impactos
+severos à qualidade dos corpos d’água afetados, o que pode
+comprometer o abastecimento público de água e ocasionar doenças
+associadas à poluição hídrica nos municípios à jusante do
+empreendimento. Tais impactos, classificados como indiretos,
+deixariam de ser objeto do licenciamento ambiental;
+
+(v) Morte de animais em rodovias: dependendo do local onde são
+instaladas, um impacto negativo decorrente de estradas é o
+atropelamento da fauna.
+
+116. Conforme se depreende do quanto exposto acima, a Constituição Federal garante o
+direito ao meio ambiente ecologicamente equilibrado, capaz de permitir uma vida digna, e,
+para tanto, estabelece que: (i) o desenvolvimento econômico deve ocorrer de modo
+sustentável, em compatibilidade com a defesa do meio ambiente, nos termos do princípio do
+desenvolvimento sustentável; (ii) será sempre exigível atuar de modo a evitar ou mitigar os
+danos e impactos ambientais e não se deve escusar a proteção do meio ambiente nem
+mesmo por ausência de conhecimento científico suficiente, conforme os princípios da
+prevenção e da precaução; (iii) o autor de atividades poluidoras deve não só reparar os
+danos causados, mas, ainda, responde penal e administrativamente por seus atos, pelo
+princípio do poluidor-pagador; e (iv) não se admite que as normas retroajam de forma a
+prejudicar o meio ambiente.
+
+117. Não há qualquer distinção entre impactos diretos e indiretos na Constituição. Pelo
+contrário, ao dispor sobre a necessidade de avaliação de impactos ambientais, o
+mandamento constitucional se refere a qualquer tipo de impacto sobre o “meio ambiente
+ecologicamente equilibrado”.
+
+118. Dessa feita, o art. 3º, XI, “d”, da Lei da Liberdade Econômica, afronta os arts. 170,
+inciso VI, e 225, da Constituição Federal ao enquadrar como abusiva medida ou prestação
+que objetive mitigar ou compensar, em sede de análise de impacto, situações e áreas
+indiretamente impactadas pela atividade econômica, especialmente quanto aos princípios da
+prevenção, da precaução e do poluidor-pagador. Da mesma forma, esse dispositivo viola os
+deveres estatais decorrentes das competências fixadas no art. 23, incisos VI e VII, da
+CF/88. Sem a imposição de obrigações nesse sentido, não há qualquer estímulo para que o
+agente empreendedor se esforce para evitar ou minimizar os danos que virão a surgir ao
+meio ambiente e às populações atingidas pelo empreendimento (especialmente os índios,
+
+37
+
+[[pagina 38 | nativo]]
+
+quilombolas e outros povos tradicionais), de modo que se vê minada a ordem constitucional
+de defesa de ambos.
+
+III.2.3. Teste de proporcionalidade
+
+119. Ao lado da interpretação do art. 3o, I, IX e XI, “d”, e § 1.º, da Lei de Liberdade
+Econômica à luz dos princípios constitucionais que regem os capítulos “Do Meio Ambiente”
+e “Dos índios”, os quais contêm disposições relacionadas aos direitos fundamentais de
+terceira geração, que assumem importância para toda a coletividade, conforme
+desenvolvido anteriormente, os dispositivos legais em tela também devem ser analisados
+sob o enfoque da regra da proporcionalidade – amplamente reconhecida pelo STF88.
+
+120. A regra da proporcionalidade é uma técnica jurídica de ponderação de casos em
+que haja o confronto de dois ou mais direitos constitucionalmente assegurados. Essa
+técnica de ponderação desenvolve-se em três etapas sucessivas, assim ordenadas: (i) juízo
+de adequação, (ii) juízo de necessidade e (iii) juízo de proporcionalidade em sentido estrito.
+
+121. Tendo em vista que o juízo de adequação antecede o juízo de necessidade e que
+este último, por sua vez, antecede o juízo de proporcionalidade em sentido estrito, nem
+sempre é preciso percorrer todas essas etapas para se chegar a uma conclusão acerca da
+constitucionalidade da norma. A título exemplificativo, verifica-se que uma norma
+inadequada à sua finalidade será considerada imediatamente desproporcional,
+independentemente da aplicação das demais etapas do teste e assim por diante.
+
+122. O juízo de adequação consiste em verificar se o meio escolhido pelo legislador
+satisfaz aos objetivos perseguidos pela norma, ou seja, verdadeira análise de pertinência
+temática entre meios e fins. Por sua vez, a necessidade é o juízo acerca da existência de
+outras medidas menos gravosas à sociedade e que atinjam igualmente, ou até de forma
+maior, os fins pretendidos – caso tais medidas existam, o meio sob análise é tido como
+desnecessário. O teste de proporcionalidade em sentido estrito, então, consiste “na
+
+88 Na ADI 855, o relator, ministro Gilmar Mendes, se manifestou pela existência da “reserva legal
+proporcional”: “[N]ão há de cogitar de reserva legal, senão de reserva legal proporcional. Temos, sim, de
+verificar se a lei não esvazia o conteúdo dos direitos fundamentais, e, nesse sentido, temos de examinar a
+adequação, a necessidade e a proporcionalidade em sentido estrito.” No mesmo julgamento, se manifestou
+o ministro Cezar Peluso: “Noutras palavras, embora o objetivo da lei seja bom — e louva-se o legislador
+pela preocupação de proteger o consumidor —, no caso concreto, a medida não é adequada para o fim
+que ela pretende promover. Essa é a razão pela qual entendo que — não correspondendo à necessidade
+de ser adequada à promoção do fim visado, que é restritivo do exercício de uma liberdade fundamental de
+comércio — a lei é inconstitucional” (ADI 855, Plenário, rel. p/ o acórdão min. Gilmar Mendes, j. em
+6.3.2008). No mesmo sentido, p.ex.: STF, HC 124306 / RJ, Primeira Turma, rel. Min. Marco Aurélio, j.
+09.08.2016. p.15; STF, HC 123108/MG, Tribunal Pleno, rel. Min. Roberto Barroso, j. 03.08.2015. p.31;
+STF, Ag. Reg. No Inquérito 3.922 Ceará, Segunda Turma, rel. Min. Dias Toffoli, j. 15.12.2015. p.02; STF,
+HC 122694/SP, Tribunal Pleno, rel. Min. Dias Toffoli, j. 10.12.2014. p.31; STF, ADC 30/DF, Tribunal Pleno,
+rel. Min. Luiz Fux, j. 16.02.2012. p.32.
+
+38
+
+[[pagina 39 | nativo]]
+
+ponderação entre o ônus imposto e o benefício trazido, para constatar se a medida é
+legítima”89.
+
+123. Aplicando esse racional ao art. 3o, I, IX e XI, “d”, e § 1.º, da Lei de Liberdade
+Econômica, conclui-se tratar de medidas desproporcionais em matéria de direitos
+socioambientais, que não passam no teste em tela, conforme exposto a seguir.
+
+124. Primeiramente, a aprovação tácita de atos autorizativos de órgãos ambientais e de
+proteção aos povos tradicionais (especialmente os indígenas e quilombolas), bem como a
+impossibilidade de inclusão, em sede de estudos de impacto, de medidas compensatórias
+e/ou mitigatórias no que tange impactos indiretos, são medidas inadequadas, pois, conforme
+constatado:
+
+(i) desrespeitam a Constituição Federal em seus capítulos “Do Meio Ambiente” e
+“Dos Índios”, sem contar os instrumentos internacionais que tutelam os
+recursos naturais e o patrimônio cultural e que assumem caráter de
+supralegalidade, ao lidarem com questões de direitos fundamentais de terceira
+geração;
+
+(ii) deixam povos indígenas e demais povos tradicionais (como os quilombolas)
+desamparados, pois não atende ao seu direito de consulta prévia e admitem
+que haja violação ao seu direito de posse permanente das terras indígenas;
+
+(iii) descaracterizam a natureza preventiva dos atos autorizativos em matéria
+socioambiental;
+
+(iv) não eximem os agentes que procuram desenvolver atividades econômicas e
+empreender de sua responsabilidade caso haja a ocorrência de danos
+ambientais, diretos ou indiretos, ou a desocupação de terras originalmente
+indígenas, de modo a criar insegurança jurídica para esse particular, que se vê
+autorizado a realizar dada atividade ou ainda que não necessita lidar com
+impactos indiretos, mas que, posteriormente será responsabilizado; e
+
+(v) fundamentam-se em um único critério (baixo risco), que não considera outras
+variáveis dos processos de licenciamento/autorização envolvendo matéria
+ambiental, conforme será exposto em detalhe em tópico posterior.
+
+125. Portanto, o conteúdo dos citados artigos da Lei de Liberdade Econômica não atinge
+plenamente o seu objetivo de proteger e estimular a livre iniciativa, ao criar um cenário de
+insegurança jurídica, no qual a responsabilização desses agentes tende a aumentar, pois
+estes não terão de implantar medidas compensatórias e mitigatórios de uma série de
+
+89 BARROSO, Luís Riberto. Curso de Direito Constitucional Contemporâneo: os conceitos fundamentais e
+a construção do novo modelo. 5ª ed., São Paulo: Saraiva, 2015, p. 294.
+
+39
+
+[[pagina 40 | nativo]]
+
+impactos, que podem futuramente se concretizar com maior intensidade dada a ausência de
+ação preventiva.
+
+126. As medidas adotadas, portanto, certamente não são necessárias, pois outras
+medidas poderiam ser tomadas pelo Estado para incentivar a livre iniciativa, sem que
+houvesse tantos prejuízos socioambientais, como apontado. Alguns exemplos de medidas
+alternativas para se garantir maior celeridade nos procedimentos autorizativos ambientais e
+diminuir os custos de entrada dos agentes econômicos, em harmonia com os direitos
+ambientais e dos povos tradicionais e indígenas, incluem o estabelecimento (i) de incentivos
+fiscais, e/ou (ii) de políticas públicas, prevendo metas internas à Administração Pública para
+a realização e priorização dos procedimentos autorizativos em matérias socioambientais,
+e/ou (iii) de diretrizes sobre o desenvolvimento de estudos de impacto e a imposição de
+medidas para o caso de impactos indiretos (tratando-os adequadamente e sem excluí-los a
+priori dos atos de compensação e mitigação como ocorre pela redação da Lei de Liberdade
+Econômica).
+
+127. Por fim, quanto à proporcionalidade em sentido estrito, verifica-se que o ônus
+imposto ao meio ambiente, à preservação do patrimônio cultural brasileiro e aos direitos
+indígenas, pelos dispositivos da Lei de Liberdade Econômica aqui impugnados não é
+condizente com os benefícios por ela trazidos, pois neutralizam os efeitos de atos com
+caráter preventivo e, assim, potencializam ocorrência de danos socioambientais
+irreversíveis.
+
+128. Logo, notadamente sob a ótica da tutela socioambiental, incluídas a proteção
+do meio ambiente em todos os seus componentes ambientais (água, ar, solo,
+biodiversidade etc.), os povos indígenas e as comunidades quilombolas e demais
+comunidades tradicionais, além de atos que possam impactar o meio ambiente
+(agrotóxicos, atividades econômicas e seu licenciamento, supressão de vegetação
+para uso do solo etc.), os incisos I, IX e XI, “d”, e § 1.º do art. 3º da Lei de Liberdade
+Econômica, não respondem aos testes de adequação, necessidade e
+proporcionalidade em sentido estrito, tratando-se de medidas que não só afrontam
+diretamente a Constituição, mas também estão em desacordo com o princípio da
+proporcionalidade, sendo uma solução ilegítima para a questão do incentivo à livre
+iniciativa e ao desenvolvimento de atividades econômicas.
+
+40
+
+[[pagina 41 | nativo]]
+
+.IV.
+
+DA INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO
+
+129. Os dispositivos referidos da Lei da Liberdade Econômica, se aplicáveis ao direito
+ambiental, resultariam inconstitucionalidade, dada a incompatibilidade destes com os
+preceitos de defesa do meio ambiente e dos povos indígenas e quilombolas resguardados,
+principalmente, pelos artigos 215, 216, 225 e 231, da Constituição Federal, além do artigo
+68 do ADCT.
+
+130. Todavia, é possível compatibilizar as normas contidas no inciso I, inciso IX, no
+inciso XI, alínea “d”, e no parágrafo 1º, todos do art. 3º da Lei nº 13.874/2019, se excluída a
+aplicação destes aos atos de liberação de competência de órgãos ambientais, de
+proteção aos índios e outros povos tradicionais, assim como de quaisquer órgãos
+que atuem (ainda que indiretamente) com essa temática – tais como a ANA, a ANVISA,
+o INCRA e os diversos órgãos estaduais e municipais respectivos, seja por meio da
+técnica de interpretação conforme à Constituição, seja pela declaração de
+inconstitucionalidade parcial sem redução de texto.
+
+IV.1. INTERPRETAÇÃO CONFORME DO INCISO I, E DO § 1º, AMBOS DO ART. 3O, DA
+LEI DE LIBERDADE ECONÔMICA.
+
+131. A técnica de interpretação conforme à Constituição é aplicada quando a norma
+infraconstitucional impugnada apresenta mais de um significado semântico possível, ou
+seja, a norma admite plurissignificatividade ou polissemia90, de modo que o intérprete, para
+respeitar a separação de poderes (art. 2o, CF) e aproveitar os atos jurídicos, presume a
+constitucionalidade da disposição normativa, declarando a inconstitucionalidade apenas dos
+casos em que houver antinomia entre o significado da norma e a Constituição – sem retirar
+a norma por completo do ordenamento jurídico. Conforme explicam Dimitri Dimoulis e
+Soraya Lunardi91:
+
+90 “Afasta-se o uso da técnica de "interpretação conforme" para a feitura de sentença de caráter aditivo
+que tencione conferir à Lei de Biossegurança exuberância regratória, ou restrições tendentes a inviabilizar
+as pesquisas com células-tronco embrionárias. Inexistência dos pressupostos para a aplicação da técnica
+da "interpretação conforme a Constituição", porquanto a norma impugnada não padece de polissemia ou
+de plurissignificatividade.” (STF, Tribunal Pleno, ADI 3.510, Rel. Min. Ayres Britto, j. em 29.05.2008).
+91 DIMOULIS, Dimitri; LUNARDI, Soraya Regina Gasparetto. Interpretação conforme a Constituição e
+declaração de inconstitucionalidade sem redução de texto. Problemas da aplicação judicial do direito
+constitucional. Revista Brasileira de Estudos Constitucionais, v. 29, p. 135-157, 2014.
+
+41
+
+[[pagina 42 | nativo]]
+
+Para evitar a eliminação da norma deve ser criado um adendo (acréscimo de texto
+normativo) ou uma declaração interpretativa sobre a norma fiscalizada. Esse adendo ou
+declaração não se incorpora ao texto oficial da norma, mas a correta aplicação pressupõe
+que seja levada em consideração a interpretação conforme.
+
+132. Essa técnica, inclusive, já foi aceita por esta Suprema Corte em mais de uma
+ocasião, já tendo decidido pela possibilidade jurídica de formulação de pedido de
+interpretação conforme em sede de ação direta de inconstitucionalidade:
+
+É possível, juridicamente, formular-se, em inicial de ação direta de inconstitucionalidade,
+pedido de interpretação conforme, ante enfoque diverso que se mostre conflitante com a
+Carta Federal. Envolvimento, no caso, de reconhecimento de inconstitucionalidade. (STF,
+Tribunal Pleno, ADI 3.324, Rel. Min. Marco Aurélio, j. em 16.12.2004)
+
+O não conhecimento da ADI 1.822 /DF, rel. min. Moreira Alves, por impossibilidade jurídica
+do pedido, não constitui óbice ao presente juízo de (in)constitucionalidade, em razão da
+ausência de apreciação de mérito no processo objetivo anterior, bem como em face da falta
+de juízo definitivo sobre a compatibilidade ou não dos dispositivos atacados com a CF. A
+despeito de o pedido estampado na ADI 4.430 se assemelhar com o contido na ação
+anterior, na atual dimensão da jurisdição constitucional, a solução ali apontada não mais
+guarda sintonia com o papel de tutela da Lei Fundamental exercido por esta Corte. O STF
+está autorizado a apreciar a inconstitucionalidade de dada norma, ainda que seja para
+dela extrair interpretação conforme à CF, com a finalidade de fazer incidir conteúdo
+normativo constitucional dotado de carga cogente cuja produção de efeitos
+independa de intermediação legislativa. (g.n.) (STF, Tribunal Pleno, ADI 4.430, Rel. Min.
+Dias Toffoli, j. em 29.06.2012. No mesmos sentido: STF, Tribunal Pleno, ADI 1.822, Rel.
+Min. Moreira Alves, j. em 26.06.1998; e STF, Tribunal Pleno, ADI 956, Rel. Min. Francisco
+Rezek, j. em 01.07.1994)
+
+133. No caso em questão, verifica-se que tanto o inciso I, como o § 1º do art. 3o da Lei
+de Liberdade Econômica92, objeto da presente ação, admitem mais de um significado
+possível, mas apenas um constitucional, sendo cabível a interpretação conforme a
+Constituição.
+
+92 “Art. 3º São direitos de toda pessoa, natural ou jurídica, essenciais para o desenvolvimento e o
+crescimento econômicos do País, observado o disposto no parágrafo único do art. 170 da Constituição
+Federal: I - desenvolver atividade econômica de baixo risco, para a qual se valha exclusivamente de
+propriedade privada própria ou de terceiros consensuais, sem a necessidade de quaisquer atos públicos
+de liberação da atividade econômica; (...) § 1º Para fins do disposto no inciso I do caput deste artigo: I - ato
+do Poder Executivo federal disporá sobre a classificação de atividades de baixo risco a ser observada na
+ausência de legislação estadual, distrital ou municipal específica; II - na hipótese de ausência de ato do
+Poder Executivo federal de que trata o inciso I deste parágrafo, será aplicada resolução do Comitê para
+Gestão da Rede Nacional para a Simplificação do Registro e da Legalização de Empresas e Negócios
+(CGSIM), independentemente da aderência do ente federativo à Rede Nacional para a Simplificação do
+Registro e da Legalização de Empresas e Negócios (Redesim); e III - na hipótese de existência de
+legislação estadual, distrital ou municipal sobre a classificação de atividades de baixo risco, o ente
+federativo que editar ou tiver editado norma específica encaminhará notificação ao Ministério da Economia
+sobre a edição de sua norma”.
+
+42
+
+[[pagina 43 | nativo]]
+
+134. Os dispositivos mencionados acima abordam o conceito de risco e, sobre isso,
+considerando a temática ambiental, é importante diferenciá-lo dos conceitos de impacto e
+dano ambiental.
+
+135. A Resolução do CONAMA nº 1, de 23 de janeiro de 1986, no seu art. 1º, define
+impacto ambiental da seguinte forma:
+
+Artigo 1º - Para efeito desta Resolução, considera-se impacto ambiental qualquer alteração
+das propriedades físicas, químicas e biológicas do meio ambiente, causada por qualquer
+forma de matéria ou energia resultante das atividades humanas que, direta ou
+indiretamente, afetam:
+I - a saúde, a segurança e o bem-estar da população;
+II - as atividades sociais e econômicas;
+III - a biota;
+IV - as condições estéticas e sanitárias do meio ambiente;
+V - a qualidade dos recursos ambientais.
+
+136. Luís Enrique Sánchez, por sua vez, define impacto ambiental como a “alteração da
+qualidade ambiental que resulta da modificação de processos naturais ou sociais provocada
+por ação humana”93. Esse mesmo autor ensina que os impactos ambientais podem ser
+negativos ou positivos, e afirma que um exemplo corriqueiro de impacto positivo, encontrado
+em muitos estudos de impacto ambiental, é descrito como “criação de empregos”.
+
+137. O dano ambiental é o prejuízo causado ao meio ambiente. Nesse sentido,
+apresenta-se o conceito de Frederico Amado, para quem:
+
+Pode-se definir o dano ambiental como um prejuízo causado ao meio ambiente por uma
+ação ou omissão humana, que afeta de modo negativo o direito fundamental ao meio
+ambiente ecologicamente equilibrado e, por consequência, atinge, também de modo
+negativo, todas as pessoas, de maneira direta ou indireta, inexistindo uma definição legal de
+dano ambiental no Brasil94.
+
+138. Conforme ensina a doutrina de Édis Milaré, o dano ambiental difere-se do impacto
+ambiental. Para ele, o dano ambiental é uma afronta às normas ambientais, causando um
+indesejado prejuízo – ou poluição – ao meio ambiente e/ou terceiros, já o impacto negativo
+ao meio ambiente é um fato previsto pela legislação ambiental e aceito pela sociedade,
+exigindo, porém, o seu gerenciamento pelo processo administrativo de licenciamento.
+Assim, caso os impactos ambientais não sejam gerenciados, eles poderão ocasionar danos
+ambientais95.
+
+93 In: Avaliação de impacto ambiental: conceitos e métodos. 2ª ed. São Paulo: Oficina de Textos, 2013.
+94 In: Direito Ambiental. 11ª ed. Salvador: Juspodivm, 2020.
+95 In: Direito do Ambiente. 11ª ed. São Paulo: Thomson Reuters Brasil, 2018.
+
+43
+
+[[pagina 44 | nativo]]
+
+139. Já o risco, conforme também ensina Luís Enrique Sanchez, é conceituado como a
+contextualização de uma situação de perigo, ou seja, a possibilidade da materialização do
+perigo ou de um evento indesejado ocorrer, podendo ser definido propriamente como o
+produto da probabilidade de ocorrência de um determinado evento pela magnitude das
+consequências96. A avaliação de risco, por exemplo, é utilizada na análise de
+empreendimentos ou atividades durante o processo de licenciamento ambiental, sendo
+realizada em um estudo próprio, que não substitui a avaliação de impacto ambiental e
+tampouco o próprio processo de licenciamento ambiental. Nesse sentido, cita-se o
+entendimento de Manuela Hermenegildo:
+
+Em processos de licenciamento ambiental, sobretudo de empreendimentos do setor de
+energia, é usual que se exija, por parte dos órgãos responsáveis, não apenas o estudo de
+impacto ambiental, mas também um Estudo de Análise de Risco (EAR) ou um Programa de
+Gerenciamento de Risco (PGR), em que se busque identificar quais são os riscos acidentais
+do negócio, bem como se defina as medidas preventivas e ações de emergência para os
+eventuais cenários identificados.
+
+Situações de risco são, basicamente, aquelas nas quais se verificam um cenário de mau
+funcionamento ou um funcionamento anormal do empreendimento, ocasionando resultados
+adversos que muitas vezes não ocorreriam durante a sua operação regular. Não se
+confundem, portanto, com os impactos ambientais, que correspondem a modificações do
+meio ambiente, positivas e negativas, advindas da instalação e operação de determinada
+atividade ou empreendimento. A possibilidade de ocorrer o rompimento de uma barragem,
+por exemplo, é um risco ambiental, e não um impacto, por isso deve ser objeto de análise
+do EAR, e não do EIA/Rima97.
+
+140. Dessa forma, considerando as diferenças técnicas dos conceitos de risco, impacto
+e dano ambiental, observa-se que atividades e empreendimentos podem causar impactos
+ou danos ambientais mesmo que classificados como de baixo risco. A título ilustrativo,
+vale citar que tanto a barragem 1 da Mina de Córrego de Feijão, localizada
+Brumadinho/MG, quanto a barragem de Fundão, localizada em Mariana/MG, eram
+classificadas como de baixo risco e, ainda assim, geraram desastres ambientais de
+notório conhecimento ao serem rompidas
+
+141. Por sua vez, o controle ambiental de atividades econômicas feito por meio de
+autorizações, permissões, concessões, outorgas ou licenças, tem por objetivo, além de
+minimizar os riscos ambientais, evitar impactos ou danos ambientais, de forma a garantir
+o direito fundamental ao meio ambiente ecologicamente equilibrado, previsto no art. 225 da
+Constituição Federal, sobre o qual amplamente se discorreu acima.
+
+96 Idem. Ibidem.
+97 Risco e impacto no licenciamento ambiental. Disponível em:
+<https://www.saesadvogados.com.br/2017/09/19/risco-e-impacto-no-licenciamento-ambiental/>. Acesso
+em: 28.mai.2020.
+
+44
+
+[[pagina 45 | nativo]]
+
+142. A fim de exemplificar essa questão, é possível citar ainda duas hipóteses
+relacionadas à exploração de recursos hídricos e à supressão de vegetação. Na primeira
+delas, a classificação da atividade de captação de recursos hídricos como de baixo risco
+dispensaria a análise e a emissão de outorga pelo Poder Público para sua exploração. A
+ausência de tais instrumentos, por sua vez, poderia propiciar a exploração excessiva de
+recursos hídricos e, consequentemente, danos ao meio ambiente, bem como conflitos pelo
+uso da água.
+
+143. Na segunda hipótese, a dispensa da análise e da emissão de autorização para a
+supressão de vegetação, classificada como de baixo risco98, poderia propiciar danos à fauna
+e à flora, entre outros. Se consumados, haveria um claro descumprimento da obrigação do
+Poder Público de proteger a fauna e a flora, especialmente pela vedação, na forma da lei,
+das práticas que coloquem em risco sua função ecológica, provoquem a extinção de
+espécies ou submetam os animais à crueldade (art. 225, § 1º, VII, CF).
+
+144. Nesse sentido, o risco não pode ser o único fator a ser considerado pelo Poder
+Público para que dispense a exigência de atos de liberação para a exploração de atividades
+econômicas. Do contrário, atividades ambientalmente nocivas ao meio ambiente poderão
+ser exercidas sem o devido controle, em clara afronta ao direito fundamental ao meio
+ambiente ecologicamente equilibrado.
+
+145. De igual modo, a dispensa baseada tão somente no risco também pode acarretar
+empecilho ao exercício da competência comum da União, dos Estados, do Distrito Federal e
+dos Municípios de proteção e preservação do meio ambiente e do patrimônio cultural.
+Quanto a isso, note-se que o exercício dessa competência deve seguir o disposto também
+pela LC nº 140/2011, que fixa normas para a cooperação destes, sendo uma delas, por
+exemplo, a proibição da emissão tácita de licença ambiental por decurso de prazo (art. 14, §
+3º).
+
+146. Por fim, vale apontar também a relevância do princípio da prevenção neste ponto, o
+qual, conforme destacado anteriormente e nos ensinamentos de Frederico Amado99,
+determina que as regras de Direito Ambiental sejam voltadas a prevenir danos em razão da
+dificuldade ou mesmo impossibilidade de reparação destes.
+
+147. Diante desse cenário, entende-se que a dispensa da exigência de autorizações,
+permissões, concessões, outorgas ou licenças para atividades econômicas de baixo risco
+
+98 Esse risco de flexibilização das normas ambientais, ressalte-se, é real, como fica evidenciado por meio
+da fala do Excelentíssimo Senhor Ministro do Meio Ambiente na reunião ministerial de 22 de abril de 2020,
+divulgada em virtude de decisão desse Pretório Excelso. A propósito, v. “Salles reforça fala em reunião
+ministerial sobre ‘passar a boiada’”. Disponível em <https://noticias.uol.com.br/ultimas-noticias/agencia-
+estado/2020/05/23/salles-reforca-fala-em-reuniao-ministerial-sobre-passar-a-
+boiada.htm?cmpid=copiaecola>. Acesso em 02 jun. 2020.
+99 Idem. Ibidem.
+
+45
+
+[[pagina 46 | nativo]]
+
+não pode se aplicar à seara ambiental. Portanto, faz-se necessário, bem como urgente, que
+esta Corte restrinja a interpretação do art. 3º, I e §1º, da Lei de Liberdade Econômica, para
+afastar a possibilidade de ofensa ao direito fundamental ao meio ambiente ecologicamente
+equilibrado (art. 225, CF) e de que se obste o cumprimento do dever de proteção do meio
+ambiente do Poder Público (art. 225, § 1º, VII, CF).
+
+IV.2. INTERPRETAÇÃO CONFORME DO INCISO IX, DO ART. 3O, DA LEI DE
+LIBERDADE ECONÔMICA.
+
+148. O inciso IX, do art. 3o, estipula ser uma das garantias dos agentes econômicos a
+aprovação tácita, para todos os efeitos, de atos públicos de liberação de atividades
+econômicas, que estão sujeitas à Lei, quando transcorrido o prazo para manifestação do
+Poder Público e houver silêncio da autoridade competente – ressalvadas as hipóteses
+vedadas por Lei. A Lei, contudo, deixa dúvidas quanto aos atos públicos que ela
+compreende.
+
+149. O parágrafo 6o de seu art. 1o, ao definir o termo “atos de liberação”, apresenta
+redação abrangente, indicando que todos os atos autorizativos do Poder Público estão
+incluídos na Lei, independentemente de sua nomenclatura e incluindo atos necessários à
+instalação e operação de empreendimentos – o que poderia englobar as diferentes licenças
+ambientais (prévia, de instalação e de operação):
+
+§ 6º Para fins do disposto nesta Lei, consideram-se atos públicos de liberação a licença, a
+autorização, a concessão, a inscrição, a permissão, o alvará, o cadastro, o credenciamento,
+o estudo, o plano, o registro e os demais atos exigidos, sob qualquer denominação, por
+órgão ou entidade da administração pública na aplicação de legislação, como condição para
+o exercício de atividade econômica, inclusive o início, a continuação e o fim para a
+instalação, a construção, a operação, a produção, o funcionamento, o uso, o exercício ou a
+realização, no âmbito público ou privado, de atividade, serviço, estabelecimento, profissão,
+instalação, operação, produto, equipamento, veículo, edificação e outros.
+
+150. Por sua vez, o parágrafo 1o do mesmo artigo, ao listar as áreas do direito às quais a
+Lei se aplica, inclui em seu rol o direito ambiental:
+
+§ 1º O disposto nesta Lei será observado na aplicação e na interpretação do direito civil,
+empresarial, econômico, urbanístico e do trabalho nas relações jurídicas que se encontrem
+no seu âmbito de aplicação e na ordenação pública, inclusive sobre exercício das
+profissões, comércio, juntas comerciais, registros públicos, trânsito, transporte e proteção
+ao meio ambiente.
+
+46
+
+[[pagina 47 | nativo]]
+
+151. Desse modo, conjugando-se o disposto no art. 3o, inciso IX, com o disposto no art.
+1o, §§1o e 6o, algumas interpretações são possíveis, dentre as quais:
+
+(i) todos os atos de liberação estão sujeitos à regra, incluindo aqueles que
+versem a respeito de matéria ambiental, como o licenciamento ambiental, as
+consultas a autorizações expedidas pelo IBAMA, FUNAI, ICMBio, INCRA
+MAPA, ANVISA, a outorga de direito de uso ou interferência de recursos
+hídricos, a liberação de agrotóxicos e outros produtos químicos, autorizações
+relativas ao desenvolvimento de atividades minerárias, dentre outros;
+
+(ii) todos os atos relacionados ao processo de licenciamento ambiental, e
+não apenas a licença em si, estariam excluídos do escopo de aplicação
+deste artigo, pois encontram respaldo em lei específica, que veda a
+aprovação tácita de licenças ambientais e demais atos correlatos à emissão
+da licença;
+
+(iii) apenas a licença ambiental em si estaria excluída do escopo da regra,
+mas os demais atos, por vezes correlatos à licença, mas que com ela não se
+confundem (e.g. autorização de supressão vegetal, autorização para uso de
+recursos hídricos, etc.), estariam abarcados pelo dispositivo; e
+
+(iv) todos os atos autorizativos emitidos por órgãos ambientais e de
+proteção aos povos indígenas e tradicionais, abarcados ou não no
+licenciamento ambiental, estariam excluídos do âmbito de aplicação da Lei
+de Liberdade Econômica, pois a expressão “Lei” contida no art. 3o, inciso IX,
+deve ser interpretada de forma ampla e abarcar não somente leis em sentido
+estrito (i.e., atos normativo editados pelo legislador infraconstitucional), mas
+também a Lei Maior, ou seja, a Constituição Federal – instrumento jurídico
+de hierarquia superior que rege e conforma todo o ordenamento. Assim,
+como a aplicação do referido dispositivo aos atos emitidos por quaisquer
+órgãos da Administração Pública que tenham reflexo direto ou indireto nas
+matérias ambientais e de proteção aos povos tradicionais fere a Constituição,
+não seria possível abranger a aprovação tácita a eles.
+
+152. Vale pontuar que, em sua redação antiga, a Medida Provisória que originou a Lei da
+Liberdade Econômica previa que o prazo para a aprovação tácita não se confunde com as
+previsões gerais da LC no 140/2011, acerca do processamento de pedidos de licença.
+Contudo, essa previsão foi vetada, o que gera ainda mais dúvida sobre se o artigo abrange
+ou não o licenciamento ambiental.
+
+153. Tendo em vista que a Constituição Federal estipula ser a proteção ao meio
+ambiente um dever do Estado, prevendo em seu texto a necessidade de estudos de impacto
+
+47
+
+[[pagina 48 | nativo]]
+
+ambiental, bem como abarcando os principais princípios em matéria de direito ambiental e a
+proteção aos povos indígenas – seguindo instrumentos internacionais com caráter de
+supralegalidade –, a única interpretação possível para o disposto no art. 3o, IX, da Lei de
+Liberdade Econômica é aquela enumerada acima como (iv). Qualquer outro entendimento
+implicaria frontal conflito com a Constituição (até mesmo de caráter formal, uma vez
+que o licenciamento ambiental é previsto em Lei Complementar – e, como tal, não
+poderia ser alterada por Lei Ordinária).
+
+154. Portanto, acaso não entenda pela inconstitucionalidade do dispositivo, requer-se
+que este e. Tribunal declare a interpretação conforme do art. 3o, IX, da Lei de Liberdade
+Econômica, de forma a declarar a constitucionalidade do dispositivo, desde que todos os
+atos autorizativos emitidos por órgãos ambientais e de proteção aos povos indígenas e
+tradicionais, abarcados ou não no licenciamento ambiental, estejam excluídos do seu âmbito
+de aplicação. Ou seja, a interpretação do dispositivo no sentido de se incluir em sua
+aplicação atos autorizativos de órgãos ambientais e de proteção aos povos
+tradicionais e indígenas é inconstitucional, embora se encontre dentro da moldura do
+dispositivo.
+
+155. Caso assim não se entenda, o que se admite apenas para fins meramente
+argumentativos, que seja, então, declarada a inconstitucionalidade parcial sem redução de
+texto do art. 3o, IX, da Lei de Liberdade Econômica, para que o artigo não recaia sobre as
+hipóteses que envolvam atos que visam a proteção ao meio ambiente e também aos povos
+tradicionais e indígenas.
+
+IV.3. INCONSTITUCIONALIDADE PARCIAL SEM REDUÇÃO DE TEXTO DA ALÍNEA “D”,
+DO INCISO XI, DO ART. 3O, DA LEI DE LIBERDADE ECONÔMICA
+
+156. Diferentemente do que ocorre com o art. 3o, inciso IX, da Lei de Liberdade
+Econômica, em que se vislumbra mais de uma interpretação possível para a sua redação,
+considerando-se o teor da Lei e da Constituição, no caso em questão verifica-se problema
+na aplicabilidade do artigo para as hipóteses de impactos socioambientais indiretos. Daí
+falar-se em declaração de inconstitucionalidade parcial sem redução de texto, técnica
+aplicada pelo STF em diversas ocasiões100-101:
+
+100 Vide, p. ex.: STF, Tribunal Pleno, ADI 5.044, Rel. Min. Alexandre de Moraes, j. em 11.10.2018; STF,
+Tribunal Pleno, ADI 5.733, Rel. Min. Alexandre de Moraes, j. em 20.09.2019; STF, Tribunal Pleno, ADI
+5.855, Rel. Min. Alexandre de Moraes, j. em 10.04.2019.
+101 DIMOULIS, Dimitri; LUNARDI, Soraya Regina Gasparetto. Interpretação conforme a Constituição e
+declaração de inconstitucionalidade sem redução de texto. Problemas da aplicação judicial do direito
+constitucional. Revista Brasileira de Estudos Constitucionais, v. 29, p. 135-157, 2014.
+
+48
+
+[[pagina 49 | nativo]]
+
+(...) no caso de inconstitucionalidade parcial sem redução de texto, o problema diz respeito
+aos casos reais em que a aplicação deve ou não deve ser permitida. Não se constata
+pluralidade de significados interpretativos. Fiscalizam-se hipóteses de aplicação da norma,
+isto é, situações que, pela formulação da premissa maior, podem compor a premissa menor
+do silogismo jurídico. Na medida em que o dispositivo se aplica em algumas hipóteses,
+temos inconstitucionalidade. Nas demais hipóteses não há problema constitucional,
+constatando-se inconstitucionalidade apenas parcial.
+
+157. Dessa forma, tendo em vista que a interpretação do dispositivo é clara no sentido
+que em sede de estudos de impacto (como é o caso do EIA/RIMA, entre outros estudos que
+subsidiam as licenças ambientais) não será admitida a exigência de medidas
+compensatórias e/ou mitigatórias que visem atender situações e áreas indiretamente
+impactadas pela atividade econômica a ser desenvolvida ou já em desenvolvimento,
+constata-se ser a incidência dessa norma inconstitucional para os casos em que se
+constatem impactos socioambientais indiretos – os quais são constitucionalmente
+respaldados, nos termos demonstrados nesta peça.
+
+158. Portanto, requer-se haja a declaração de inconstitucionalidade parcial sem redução
+de texto da alínea “d”, inciso XI, do art. 3o, da Lei de Liberdade Econômica, para que seja
+inadmitida a aplicação do dispositivo aos casos de estudos que visem impactos
+socioambientais.
+
+.V.
+
+DO PEDIDO DE MEDIDA CAUTELAR
+
+159. Tal como ocorre nos processos subjetivos, a concessão de medida cautelar no
+controle objetivo de constitucionalidade depende da configuração de dois requisitos, a
+saber, a fumaça do bom direito e o perigo ou risco na demora do julgamento da
+inconstitucionalidade suscitada.
+
+160. No presente caso, o perigo de dano se encontra plenamente evidenciado, uma vez
+que a liberação de atos autorizativos sem a regular e prévia manifestação dos órgãos
+interessados é dotada de caráter potencialmente irreversível, dado que parte dos
+empreendimentos que podem ser autorizados podem causar significativos impactos (diretos
+e indiretos) ambiental ou na proteção aos índios e outros povos tradicionais, sem a
+possibilidade de retorno ao status quo ante.
+
+49
+
+[[pagina 50 | nativo]]
+
+161. Relembre-se que, em caso semelhante ao presente, esta Corte recentemente
+concedeu medida liminar para suspender a eficácia de dispositivos da Portaria 43, de 21 de
+fevereiro de 2020, do MAPA, que dispunham acerca dos prazos para a aprovação tácita do
+registro de fertilizantes e agrotóxicos. Segundo o Relator Min. Ricardo Lewandowski, os atos
+de liberação em questão, sem a devida análise, resultariam em um cenário de exposição a
+perigo de grave lesão à saúde pública. Considerando ainda os efeitos causados pela
+pandemia do COVID-19 e dados sobre a intoxicação por agrotóxicos no Brasil, a medida se
+faria necessária para impedir “mais um agravo à saúde pública, que se encontra sob severo
+risco neste momento”102.
+
+162. A probabilidade do direito foi amplamente demonstrada acima:
+
+(i) A ordem constitucional brasileira assegura os direitos inerentes aos povos
+indígenas, aos quilombolas e aos demais povos tradicionais e o direito ao meio
+ambiente, especialmente em seus arts. 216, 225 e 231, além do art. 68 do
+ADCT, reconhecendo-os como direitos fundamentais;
+(ii) Da garantia desses direitos, decorrem: (a) quanto aos povos indígenas e
+demais povos e comunidades tradicionais, o dever de respeitar seus direitos
+territoriais e de consulta em meio a processos que culminem em atos de
+liberação que possam afetá-los, conforme a tutela também de tratados e
+convenções internacionais, notadamente a Convenção OIT nº 169; e (b) quanto
+ao meio ambiente, o respeito aos princípios do desenvolvimento sustentável,
+da prevenção, da precaução, do poluidor pagador e da proibição do retrocesso
+em direitos fundamentais socioambientais, igualmente resguardados por
+convenções e tratados internacionais, como a Convenção Sobre Diversidade
+Biológica das Nações Unidas;
+(iii) A interpretação indiscriminada do art. 3º, I e §1º, da Lei de Liberdade
+Econômica, ofende frontalmente o direito ao meio ambiente ecologicamente
+equilibrado (art. 225 da CF/88), bem como a obrigação do Poder Público
+proteger a fauna e a flora, vedadas, na forma da lei, as práticas que coloquem
+em risco sua função ecológica, provoquem a extinção de espécies ou
+submetam os animais a crueldade (art. 225, § 1º, inciso VII da CF), na medida
+em que, ao privilegiar apenas a noção de “risco”, desconsidera importantes
+conceitos igualmente aplicáveis à seara ambiental (impactos e danos
+ambientais);
+(iv) O art. 3º, IX, da Lei da Liberdade Econômica, ofende: (a) os arts. 216, §5º, e
+231, CF, o art. 68 do ADCT e a Convenção OIT nº 169, por permitir a liberação
+
+102 Medida Cautelar na ADPF nº 656 – DF, Rel. Min. Ricardo Lewandowski, j. 01.04.2020, DJe
+03.04.2020; e Medida Cautelar na ADPF nº 658 – DF, Rel. Min. Ricardo Lewandowski, j. 20.06.2020.
+
+50
+
+[[pagina 51 | nativo]]
+
+de atividades que afetem povos indígenas e tradicionais sem a realização de
+consulta a estes e com potencial ocupação indevida de seus territórios; (b) os
+arts. 225 e 170, VI, CF, a Convenção Sobre Diversidade Biológica das Nações
+Unidas e o Protocolo de Cartagena sobre Biossegurança da Convenção sobre
+Diversidade Biológica, por permitir que sejam liberadas atividades poluidoras e
+que comprometam sobremaneira a fauna e a flora, sem a devida avaliação de
+impacto e sem a imposição de adequações e restrições; e (c) o art. 23 da
+Constituição, por tratar de matéria afeta a licenciamento ambiental sem
+observar os ritos para a tramitação de lei complementar e contrariando a Lei
+Complementar nº 14/2011.
+(v) O art. 3º, XI, “d”, da Lei da Liberdade Econômica, ofende: (a) os arts. 216, §5º e
+231, CF, o art. 68 do ADCT e a Resolução OIT nº 169, por permitir que
+atividades sejam liberadas sem a imposição de medidas para evitar ou mitigar
+riscos que afetem indiretamente os povos indígenas e tradicionais; e (b) os
+arts. 225 e 170, VI, CF, por permitir que atividades nocivas ao meio ambiente
+sejam liberadas sem a imposição de medidas para evitar ou mitigar riscos que
+afetem indiretamente a fauna, a flora, a sociedade e os demais recursos
+naturais e culturais.
+(vi) Os dispositivos impugnados tampouco respondem ao teste de
+proporcionalidade, tratando-se de medidas: (a) inadequadas, pois (a.1)
+desrespeitam a Constituição em seus capítulos “Do Meio Ambiente” e “Dos
+Índios”, (a.2) deixam povos indígenas e demais povos tradicionais
+desamparados, pois não atende ao seu direito de consulta prévia, (a.3)
+descaracteriza a natureza preventiva dos atos autorizativos em matéria
+socioambiental, e (a.4) cria insegurança jurídica também aos agentes
+econômicos; (b) desnecessárias, pois outras medidas poderiam ser tomadas
+pelo Estado para incentivar a livre iniciativa, sem que houvesse tantos
+prejuízos socioambientais; e (c) desproporcionais em sentido estrito, pois o
+ônus imposto ao meio ambiente, à preservação do patrimônio cultural brasileiro
+e aos direitos indígenas não é condizente com os benefícios trazidos pelas
+disposições, que neutralizam os efeitos de atos com caráter preventivo e,
+assim, potencializam ocorrência de danos socioambientais irreversíveis.
+
+163. Presentes os requisitos, necessária se faz a concessão de medida cautelar, para
+suspender os efeitos do art. 3º, inciso IX; inciso XI, “d”; e §1º, inciso I, da Lei n.º 13.874/19,
+até o julgamento final da presente ação, nos termos do art. 10 da Lei nº 9.868/99.
+
+51
+
+[[pagina 52 | nativo]]
+
+.VI.
+
+DOS PEDIDOS
+
+164. Ante o exposto, o PSB respeitosamente requer:
+
+a) seja concedida medida cautelar, para suspender os efeitos do art. 3º,
+inciso I, inciso IX; inciso XI, “d”; e §1º da Lei n.º 13.874/19, para todo
+e qualquer ato ou atividade que importe impactos ao meio ambiente
+ecologicamente equilibrado ou à saúde humana – incluídas
+atividades relacionadas a uso da terra, agrotóxicos, mineração,
+energia, uso de recursos hídricos, ingresso em Unidades de
+Conservação e Terras Indígenas, supressão de vegetação, entre
+outras –, aos povos indígenas, comunidades quilombolas e demais
+povos e comunidades tradicionais, até o julgamento final da presente
+ação;
+
+b) sejam solicitadas, nos termos do art. 103, §3º, da Constituição
+Federal, e nos arts. 6º e 8º, da Lei n.º 9.868/99 informações à
+Presidência da República, à Presidência do Senado Federal e da
+Câmara dos Deputados, bem como seja determinada a oitiva
+sucessiva do Advogado-Geral da União e do Procurador-Geral da
+República;
+
+c) ao final, a procedência da presente Ação Direta de
+Inconstitucionalidade, para que seja conferida interpretação conforme
+à Constituição ao art. 3º, inciso I, inciso IX; e §1º da Lei n.º
+13.874/19, bem como seja declarada a inconstitucionalidade parcial
+sem redução do texto do art. 3º, inciso XI, “d”, da mesma Lei n.º
+13.874/19, para afastar sua aplicação a todo e qualquer ato ou
+atividade que importe impactos ao meio ambiente ecologicamente
+equilibrado ou à saúde humana – incluídas atividades relacionadas a
+uso da terra, agrotóxicos, mineração, energia, uso de recursos
+hídricos, ingresso em Unidades de Conservação e Terras Indígenas,
+supressão de vegetação, entre outras –, aos povos indígenas,
+comunidades quilombolas e demais povos e comunidades
+tradicionais
+
+52
+
+[[pagina 53 | nativo]]
+
+165. Dá-se à causa o valor de R$ 1.000,00 (mil reais) para fins fiscais, tendo em vista o
+pedido ser insuscetível de valoração econômica.
+
+166. Por fim, requer-se a intimação das publicações em nome dos advogados que
+subscrevem a presente, integrantes da sociedade de advogados Pereira Neto, Macedo
+Advogados, inscrita na OAB/SP sob o n.º 9.470, com escritório na Rua Olimpíadas, 100, 6º
+andar, Vila Olímpia, São Paulo – SP, sob pena de nulidade, nos termos do art. 272, §2º, do
+CPC.
+
+JOAQUIM Assinado de forma Termos em que pede deferimento.
+NOGUEIRA digitalNOGUEIRApor JOAQUIMPORTO
+MORAES De São Paulo para Brasília, 05 de junho de 2020.PORTO Dados: 2020.08.04
+MORAES 14:10:02 -03'00'
+(assinado eletronicamente)
+
+Joaquim Nogueira Porto Moraes Mateus Piva Adami
+
+OAB/SP nº 163.267 OAB/SP nº 235.070
+
+Gabriel Vinícius Carmona Gonçalves Letícia Rodrigues Vicente
+
+OAB/SP nº 399.765 OAB/SP nº 446.550
+
+53
+
+[[pagina 54 | nativo]]
+
+LISTA DE DOCUMENTOS ANEXOS
+
+Doc. 01 – Procuração, em duas vias;
+
+Doc. 02 – Cópia do ato impugnado (Lei nº 13.874, de 20 de setembro de 2019, em sua
+versão disponibilizada no site do Planalto – acesso em 03.06.2020);
+
+Doc. 03 – Cópias dos documentos do Partido Socialista Brasileiro (PSB): (i) Estatuto
+registrado em cartório; (ii) Estatuto registrado perante o Tribunal Superior Eleitoral; (iv)
+Certidão da composição emitida pela Justiça Eleitoral; e (v) Ata de Reunião do Diretório
+Nacional Eleito no XIV Congresso Nacional do Partido Socialista Brasileiro, de 03.03.2018,
+que elegeu os membros da Comissão Executiva Nacional para o mandato referente ao
+triênio de 2018 a 2021.
+
+Doc. 04 – Cópias do Ofício Circular SEI nº 38/2020 do Ministério da Economia, de 9 de
+janeiro de 2020, encaminhado para a Fundação Nacional do Índio (FUNAI) e o Ministério da
+Agricultura, Pecuária e Abastecimento (MAPA);
+
+Doc. 05 – Cópia da Portaria nº 43, de 21 de fevereiro de 2020, que “Estabelece os prazos
+para aprovação tácita para os atos públicos de liberação de responsabilidade da Secretaria
+de Defesa Agropecuária, do Ministério da Agricultura, Pecuária e Abastecimento, conforme
+caput do art. 10 do Decreto nº 10.178, de 18 de dezembro de 2019”;
+
+Doc. 06 – Cópia da Resolução nº 22, de 30 de janeiro de 2020, que “Regulamenta o
+disposto nos arts. 11 e 18 do Decreto nº 10.178, de 18 de dezembro de 2019, para fixar o
+prazo para aprovação tácita dos atos públicos de liberação das atividades econômicas sob
+competência da Agência Nacional de Mineração – ANM”;
+
+Doc. 07 – Cópia da Portaria nº 35, de 30 de janeiro de 2020, que “Estabelece os prazos
+para fins de aprovação tácita para os atos públicos de liberação de responsabilidade do
+Inmetro, conforme caput do artigo 10 do Decreto nº 10.178, de 18 de dezembro de 2019”;
+
+Doc. 08 – Cópia da Portaria nº 94, de 30 de janeiro de 2020, que “Fixa os prazos para
+resposta aos atos de liberação da atividade econômica requeridos ao Comando do Exército;
+
+Doc. 09 – Cópia da Resolução Normativa Ad Referendum nº 25, de 31 de janeiro de 2020,
+que “Dispõe sobre a classificação do nível de risco das atividades econômicas sujeitas a
+atos públicos de liberação da Comissão Técnica Nacional de Biossegurança - CTNBio, para
+os fins da Lei nº 13.874, de 20 de setembro de 2019, regulamentada pelo Decreto nº 10.178,
+de 18 de dezembro de 2019”;
+
+Doc. 10 – Cópia da Portaria nº 48, de 30 de janeiro de 2020, do Ministério de Estado do
+Meio Ambiente, que estabelece “os prazos para fins de aprovação tácita para os atos
+públicos de liberação de responsabilidade deste órgão, conforme o disposto no caput do art.
+
+54
+
+[[pagina 55 | nativo]]
+
+10 do Decreto nº 10.178, de 18 de dezembro de 2019” e lista “aqueles que não são
+passíveis de aprovação tácita”;
+
+Doc. 11 – Cópia da Resolução nº 46, de 29 de maio de 2020, que “Dispõe sobre a
+classificação do nível de risco das atividades econômicas sujeitas a atos públicos de
+liberação pelo Conselho Nacional de Controle de Experimentação Animal - Concea, para os
+fins da Lei nº 13.874, de 20 de setembro de 2019, regulamentada pelo Decreto nº 10.178,
+de 18 de dezembro de 2019”.
+
+Doc. 12 – Cópia da Resolução nº 57, de 21 de maio de 2020, que “Altera as Resoluções
+CGSIM nºs 51, de 11 de junho de 2019; 22, de 22 de junho de 2010; 29, de 29 de novembro
+de 2012; e 48, de 11 de outubro de 2018”, considerando a Lei nº 13.874, de 20 de setembro
+de 2019; e
+
+Doc. 13 – Cópia da Resolução nº 25, de 8 de maio de 2020, da Agência Nacional de Águas
+– ANA, que altera “o art. 6º da Resolução nº 1.938, de 30 de outubro de 2017” desta
+Agência, em cumprimento à Lei nº 13.874, de 20 de setembro de 2019, e ao Decreto nº
+10.178, de 18 de dezembro de 2019.
+
+55

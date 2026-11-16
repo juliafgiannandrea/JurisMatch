@@ -1,0 +1,1004 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+CENTRAL ÚNICA DOS TRABALHADORES – CUT, CONFEDERAÇÃO BRASILEIRA DEMOCRÁTICA DOS
+TRABALHADORES NAS INDÚSTRIAS DA ALIMENTAÇÃO DA CUT – CONTAC, CONFEDERAÇÃO NACIONAL
+DOS METALÚRGICOS DA CUT – CNM/CUT, CONFEDERAÇÃO NACIONAL DO RAMO QUÍMICO – CNQ/CUT,
+CONFEDERAÇÃO NACIONAL DOS TRABALHADORES EM SEGURIDADE SOCIAL DA CUT – CNTSS/CUT,
+CONFEDERAÇÃO NACIONAL DOS TRABALHADORES DO RAMO FINANCEIRO – CONTRAF,
+CONFEDERAÇÃO NACIONAL DOS TRABALHADORES NO COMÉRCIO E SERVIÇOS DA CUT –
+CONTRACS/CUT e CONFEDERAÇÃO NACIONAL DOS TRABALHADORES PÚBLICOS MUNICIPAIS –
+CONATRAM, todas qualificadas com CNPJ, endereço, estatuto, ata de posse da diretoria (Anexos
+I), por intermédio de seus advogados infra-assinados (Instrumentos de Procuração e
+Substabelecimentos – Anexos II), com endereço para futuras intimações e notificações no
+Edifício Íon, SGAN 601, Lote H, salas 79 a 86, Térreo, Asa Norte, Brasília, Distrito Federal, CEP nº
+70830-010, vêm, respeitosamente, por seus advogados e advogadas constituídos em
+instrumentos de mandato anexos, com fundamento no artigo 102, inciso I, alínea “a” e 103, inciso
+IX, da Constituição e no art. 2º, IX, da Lei nº 9.868/1999, propor a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+(com pedido de medida cautelar)
+
+contra o art. 1º, caput; §§ 1º; 2º; 3º, incisos II e III; 6º e 7º da Lei nº 14.151, de 12 de maio de
+2021, com a redação alterada pela Lei nº 14.311, de 9 de março de 2022, de acordo com as
+seguintes razões:
+
+[[pagina 2 | nativo]]
+I. DO ATO IMPUGNADO
+
+1. No Brasil, vivemos ainda a grave crise sanitária instalada no mundo pela pandemia do
+
+“novo coronavírus”, assim reconhecida pela Organização Mundial de Saúde (OMS), em 11 de
+
+março de 20201. A pandemia do Sars-Cov-2 é de tão intensa gravidade que resultou no
+
+reconhecimento, pelo Decreto Legislativo nº 6/2020, do estado de calamidade pública e da
+
+emergência de saúde pública de importância internacional decorrente da Covid-19, de que trata
+
+a Lei nº 13.979/2020, a qual, por sua vez, dispõe sobre as medidas para enfrentamento da
+
+emergência sanitária.
+
+2. Tão grave a crise pandêmica que ainda assola a vivência humana, em seu contexto
+
+cotidiano, que, em sessão virtual concluída no dia 5 de março de 2021, o Tribunal Pleno desse
+
+Supremo Tribunal Federal referendou a medida cautelar deferida pelo Ministro Ricardo
+
+Lewandowski, nos autos da ADI 6625-MC-Ref. Por essa decisão, foi determinada a extensão da
+
+vigência de dispositivos da Lei nº 13.979/2020, sob os seguintes fundamentos que podem ser
+
+resumidos com a transcrição da seguinte passagem:
+
+“Na espécie, embora a vigência da Lei n° 13.979/2020, de forma
+tecnicamente imperfeita, esteja vinculada àquela do Decreto Legislativo n° 6 /2020,
+que decretou a calamidade pública para fins exclusivamente fiscais, repita-se,
+vencendo em 31 de dezembro de 2020, não se pode excluir, neste juízo precário e
+efêmero, próprio da presente fase processual, a conjectura segundo a qual a
+verdadeira intenção dos legisladores tenha sido a de manter as medidas profiláticas e
+terapêuticas extraordinárias, preconizadas naquele diploma normativo, pelo tempo
+necessário à superação da fase mais crítica da pandemia, mesmo porque à época de
+sua edição não lhes era dado antever a surpreendente persistência e letalidade da
+doença.
+
+1 Disponível em: <https://www.who.int/director-general/speeches/detail/who-director-general-s-opening-remarks-at-the-
+media-briefing-on-Covid-19---11-march-2020> Acesso em 29/03/21.
+
+[[pagina 3 | nativo]]
+Tal fato, porém, segundo demonstram as evidências empíricas, ainda está
+longe de materializar-se. Pelo contrário, a insidiosa moléstia causada pelo novo
+coronavírus segue infectando e matando pessoas, em ritmo acelerado, especialmente
+as mais idosas, acometidas por comorbidades ou fisicamente debilitadas. Por isso, a
+prudência - amparada nos princípios da prevenção e da precaução, que devem reger
+as decisões em matéria de saúde pública - aconselha que as medidas excepcionais
+abrigadas na Lei n° 13.979/2020 continuem, por enquanto, a integrar o arsenal das
+autoridades sanitárias para combater a pandemia”.
+
+3. A realização dos preceitos constitucionais fundamentais relacionados com o direito
+
+social à saúde (art. 6º; art. 23, inciso II; art. 24, inciso XII; art. 194; art. 196; art. 197; art. 198 da
+
+Constituição federal) e do direito fundamental à vida (art. 5º, caput; art. 227 e art. 230 da
+
+Constituição federal) exige iniciativas políticas concertadas e coordenadas no sentido de se
+
+salvarem vidas!
+
+4. Dente as referidas iniciativas, é digna de destaque a Lei nº 14.151, de 12 de maio de 2021,
+
+que dispôs “sobre o afastamento da empregada gestante das atividades de trabalho presencial
+
+durante a emergência de saúde pública de importância nacional decorrente do novo
+
+coronavírus”.
+
+5. Saudada como iniciativa legislativa necessária, de efetivação à proteção que a
+
+Constituição Federal confere à maternidade, à gestação, à saúde, à mulher, ao nascituro, aos
+
+recém-nascidos, ao trabalho e ao meio ambiente de trabalho hígido (art. 1º, IV; art.6º; art. 7º,
+
+XX e XXII; art. 170; art. 193; art. 196; art. 201, II; 203, I; e art. 225 da Constituição federal), a
+
+Lei nº 14.151/2021 garantia o seguinte direito à empregada gestante, por sua redação original:
+
+Art. 1º Durante a emergência de saúde pública de importância nacional
+decorrente do novo coronavírus, a empregada gestante deverá permanecer afastada
+das atividades de trabalho presencial, sem prejuízo de sua remuneração.
+
+[[pagina 4 | nativo]]
+Parágrafo único. A empregada afastada nos termos do caput deste artigo ficará
+à disposição para exercer as atividades em seu domicílio, por meio de teletrabalho,
+trabalho remoto ou outra forma de trabalho a distância.
+
+6. O rol de garantias e direitos constitucionais no sentido da proteção à mulher, à gestante,
+
+ao nascituro e à maternidade — principalmente, para além daqueles dedicados à dignidade da
+
+pessoa humana, ao trabalho e ao meio ambiente do trabalho —, todavia, foram aviltados no dia
+
+9 de março de 2022, com a edição da Lei nº 14.311, — promulgada pela presidência da República
+
+no dia anterior, 8 de março, Dia Internacional da Mulher. Por essa lei, a redação da Lei nº
+
+14.151/2021 foi alterada substancialmente em seu intuito original protetivo, conforme os
+
+seguintes termos:
+
+Art. 1º Esta Lei altera a Lei nº 14.151, de 12 de maio de 2021, para disciplinar o
+afastamento da empregada gestante, inclusive a doméstica, não imunizada contra o
+coronavírus SARS-Cov-2 das atividades de trabalho presencial quando a atividade
+laboral por ela exercida for incompatível com a sua realização em seu domicílio, por
+meio de teletrabalho, trabalho remoto ou outra forma de trabalho a distância.
+Art. 2º O art. 1º da Lei nº 14.151, de 12 de maio de 2021, passa a vigorar com a
+seguinte redação:
+"Art. 1º Durante a emergência de saúde pública de importância nacional
+decorrente do coronavírus SARS-CoV-2, a empregada gestante que ainda não tenha
+sido totalmente imunizada contra o referido agente infeccioso, de acordo com os
+critérios definidos pelo Ministério da Saúde e pelo Plano Nacional de Imunizações
+(PNI), deverá permanecer afastada das atividades de trabalho presencial.
+§ 1º A empregada gestante afastada nos termos do caput deste artigo ficará à
+disposição do empregador para exercer as atividades em seu domicílio, por meio de
+teletrabalho, trabalho remoto ou outra forma de trabalho a distância, sem prejuízo de
+sua remuneração.
+§ 2º Para o fim de compatibilizar as atividades desenvolvidas pela empregada
+gestante na forma do § 1º deste artigo, o empregador poderá, respeitadas as
+competências para o desempenho do trabalho e as condições pessoais da gestante
+para o seu exercício, alterar as funções por ela exercidas, sem prejuízo de sua
+
+[[pagina 5 | nativo]]
+remuneração integral e assegurada a retomada da função anteriormente exercida,
+quando retornar ao trabalho presencial.
+§ 3º Salvo se o empregador optar por manter o exercício das suas atividades nos
+termos do § 1º deste artigo, a empregada gestante deverá retornar à atividade
+presencial nas seguintes hipóteses:
+II - após sua vacinação contra o coronavírus SARS-CoV-2, a partir do dia em que
+o Ministério da Saúde considerar completa a imunização;
+III - mediante o exercício de legítima opção individual pela não vacinação contra
+o coronavírus SARS-CoV-2 que lhe tiver sido disponibilizada, conforme o calendário
+divulgado pela autoridade de saúde e mediante o termo de responsabilidade de que
+trata o § 6º deste artigo;
+§ 6º Na hipótese de que trata o inciso III do § 3º deste artigo, a empregada
+gestante deverá assinar termo de responsabilidade e de livre consentimento para
+exercício do trabalho presencial, comprometendo-se a cumprir todas as medidas
+preventivas adotadas pelo empregador.
+§ 7º O exercício da opção a que se refere o inciso III do § 3º deste artigo é uma
+expressão do direito fundamental da liberdade de autodeterminação individual, e não
+poderá ser imposta à gestante que fizer a escolha pela não vacinação qualquer
+restrição de direitos em razão dela." (NR)
+
+7. No que aqui interessa, [1] enquanto a redação original da Lei nº 14.151/2021, à luz dos
+
+preceitos constitucionais antes mencionados, assegurava à trabalhadora gestante o afastamento
+
+das atividades de trabalho presencial, sem prejuízo da remuneração, impondo ao empregador a
+
+sua disponibilidade para o exercício das atividades contratuais em seus domicílio, por meio de
+
+teletrabalho, trabalho remoto ou outra forma de trabalho a distância; [2] a sua redação alterada
+
+pela Lei nº 14.311/2020 afasta-se da lógica protetiva constitucional, impondo à trabalhadora
+
+gestante “totalmente imunizada” o retorno à atividade presencial, ato que também lhe será
+
+facultado por opção individual.
+
+[[pagina 6 | nativo]]
+8. Ou seja, sob a égide da nova redação legal, a empregada gestante deverá retornar à
+
+atividade presencial nas seguintes hipóteses:
+
+a) após o encerramento do estado de emergência de saúde pública de importância nacional
+decorrente do coronavírus Sars-Cov-2;
+
+b) depois de totalmente imunizada contra o coronavírus Sars-Cov-2 (atualmente, duas doses
+vacinais);
+
+c) mediante opção individual pela não vacinação contra o coronavírus Sars-Cov-2 que lhe tiver
+sido disponibilizada, conforme o calendário divulgado pela autoridade de saúde e mediante
+termo de responsabilidade.
+
+9. As disposições legais ora impugnadas revelam-se inconstitucionais.
+
+II. LEGITIMIDADE ATIVA E DA PERTINÊNCIA TEMÁTICA
+
+10. Conforme dispõe o artigo 103, inciso IX, da Constituição da República, combinado com o
+
+art. 2º, IX, da Lei nº 9.868/1999, as confederações sindicais, as centrais sindicais e as entidades
+
+de classe de âmbito nacional signatárias da presente ação estão legitimadas a promover a ADI.
+
+11. É certo que o STF já definiu que, para a propositura das ações de controle concentrado
+
+de constitucionalidade, as legitimadas são aquelas do rol do artigo 103 da Constituição federal
+
+(ADPF 75 AgR, rel. Min. Ricardo Lewandowski, j. 3-5-2006, P, DJ de 2-6-2006).
+
+12. Quanto às Confederações autoras, são elas entidades expressamente nominadas no
+
+inciso IX do artigo 103 da CF/88, não pairando sobre elas quaisquer dúvidas de alcance
+
+interpretativo.
+
+[[pagina 7 | nativo]]
+13. Quanto à Central Sindical, o Supremo Tribunal Federal vem progressivamente
+
+construindo jurisprudência que as agasalha no conceito de entidade de classe de âmbito
+
+nacional.
+
+14. Em uma primeira onda, o STF restringiu a legitimidade das Centrais Sindicais no controle
+
+abstrato, diante da literalidade do dispositivo que se refere às Confederações Sindicais. Também
+
+retirou delas o caráter de “entidade de classe” (ADI 271-MC, rel. Min. Moreira Alves, julgamento em 24-
+
+9-1992, Plenário, DJ de 6-9-2001; no mesmo sentido: ADI 1.442, Rel. Min. Celso de Mello, julgamento em 3-11-
+
+2004, Plenário, DJ de 29-4-2005)2.
+
+15. No entanto, na ADI nº 3.153, o Ministro Sepúlveda Pertence já faria notar um giro
+
+interpretativo quanto ao conceito de entidade de classe:
+
+"Ação direta de inconstitucionalidade. Legitimação ativa. Entidade de classe de âmbito
+nacional. Compreensão da 'associação de associações' de classe. Revisão da
+jurisprudência do Supremo Tribunal. O conceito de entidade de classe é dado pelo
+objetivo institucional classista, pouco importando que a eles diretamente se filiem os
+membros da respectiva categoria social ou agremiações que os congreguem, com a
+mesma finalidade, em âmbito territorial mais restrito. É entidade de classe de âmbito
+nacional -- como tal legitimada à propositura da ação direta de inconstitucionalidade
+(CF, art. 103, IX) -- aquela na qual se congregam associações regionais correspondentes
+a cada unidade da Federação, a fim de perseguirem, em todo o País, o mesmo objetivo
+institucional de defesa dos interesses de uma determinada classe. Nesse sentido,
+
+2 "Central Única dos Trabalhadores (CUT). Falta de legitimação ativa. Sendo que a autora constituída por pessoas jurídicas de
+natureza vária e que representam categorias profissionais diversas, não se enquadra ela na expressão – entidade de classe de
+âmbito nacional –, a que alude o artigo 103 da Constituição, contrapondo-se às confederações sindicais, porquanto não é uma
+entidade que congregue os integrantes de uma determinada atividade ou categoria profissional ou econômica, e que, portanto,
+represente, em âmbito nacional, uma classe. Por outro lado, não é a autora -- e nem ela própria se enquadra nesta qualificação -
+- uma confederação sindical, tipo de associação sindical de grau superior devidamente previsto em lei (CLT artigos 533 e 535), o
+qual ocupa o cimo da hierarquia de nossa estrutura sindical e ao qual inequivocamente alude a primeira parte do inciso IX do
+artigo 103 da Constituição."
+
+[[pagina 8 | nativo]]
+altera o Supremo Tribunal sua jurisprudência, de modo a admitir a legitimação das
+'associações de associações de classe', de âmbito nacional, para a ação direta de
+inconstitucionalidade." (ADI 3.153-AgR, rel. Min. Sepúlveda Pertence, julgamento em
+12-8-2004, Plenário, DJ de 9-9-2005.)
+
+16. Em 2008, a Lei nº 11.648, de 31 de março, consagrou o caráter normativo das Centrais
+
+Sindicais e seu relevante papel político e institucional no sistema internacional, participando
+
+ativamente de fóruns e, em especial, junto à Organização Internacional do Trabalho. A relevância
+
+das Centrais Sindicais no ambiente de regulação interna é inegável ao participarem, com
+
+atribuição e prerrogativas, dos fóruns tripartites e em todos os espaços de “diálogo social” (cf.
+
+inciso II, artigo 1º da Lei nº 11.648/2008).
+
+17. Não se desconhece que, mesmo depois da edição da Lei nº 11.648/2008, o Supremo
+
+Tribunal Federal chegou a afastar a legitimidade ativa da UGT para a propositura de ação de
+
+controle abstrato (ADI 4.224 AgR, rel. Min. Dias Toffoli, j. 1º-8-2011, P, DJE de 8-9-2011), sem
+
+adentrar nas especificidades da atuação das Centrais Sindicais e de sua progressiva
+
+representatividade e presença nos debates de natureza institucional, o que deverá se refletir em
+
+nova virada hermenêutica, como se espera.
+
+18. A Lei nº 11.648/08, em seu art. 1º, assim define central sindical:
+
+“Art. 1º A central sindical, entidade de representação geral dos trabalhadores,
+constituída em âmbito nacional, terá as seguintes atribuições e prerrogativas:
+I – coordenar a representação dos trabalhadores por meio das organizações sindicais
+a ela filiadas; e
+II - participar de negociações em fóruns, colegiados de órgãos públicos e demais
+espaços de diálogo social que possuam composição tripartite, nos quais estejam em
+discussão assuntos de interesse geral dos trabalhadores.
+
+[[pagina 9 | nativo]]
+Parágrafo único. Considera-se central sindical, para os efeitos do disposto nesta Lei, a
+entidade associativa de direito privado composta por organizações sindicais de
+trabalhadores.”
+
+19. A Lei nº 11.648/2008 introduziu, ainda, mecanismo de aferição de representatividade (cf.
+
+arts. 2º e 4º). Ao traçar as instruções para aferição do requisito de representatividade, a Portaria
+
+do Ministério do Trabalho nº 194, de 17 de abril de 2008, fixou os parâmetros. Dentre eles,
+
+destacamos:
+
+“Art. 5º A aferição do índice previsto no inciso IV do art. 2º da Lei nº 11.648, de 2008,
+será realizada anualmente pelo MTE, utilizando-se das informações da RAIS do ano-
+base correspondente a dois anos anteriores, outros dados de órgãos oficiais e do CNES
+do dia 31 de dezembro do ano anterior ao do ano-base de referência”.
+
+20. Conforme confirma a última aferição realizada, do ano de 2016, divulgada pelo então
+
+Ministro do Trabalho no Diário Oficial da União do dia 1º de abril de 2016, as Centrais que figuram
+
+como as mais representativas e que, desse modo, participam de fóruns nacionais e internacionais
+
+de diálogo social são:
+
+“Consoante o disposto no art. 4º e parágrafos da Lei nº. 11.648, de 31 de março de 2008 e Portaria nº.
+1.717 de 05 de novembro de 2014, após análise dos recursos interpostos e considerando o relatório de
+apuração do índice de representatividade 2016, conforme disposição contida no art. 8º da Instrução
+Normativa nº 02/2014, DIVULGO as Centrais Sindicais que atenderam aos requisitos previstos no art. 2º
+da referida Lei, com os seus devidos índices de representatividade, tendo como 2016 o ano de referência,
+as quais serão fornecidos os respectivos certificados de representatividade - CR.
+a) CUT - Central Única dos Trabalhadores, com índice de representatividade de 30,40 %;
+b) UGT - União Geral dos Trabalhadores, com índice de representatividade de 11,29 %;
+c) CTB - Central dos Trabalhadores e Trabalhadoras do Brasil, com índice de representatividade de 10,08 %;
+d) FS - Força Sindical, com índice de representatividade de 10,08 %;
+e) CSB - Central dos Sindicatos Brasileiros - 8,15%;
+f) NCST - Nova Central Sindical de Trabalhadores, com índice de representatividade de 7,45%.”3
+
+21. Assim, é indubitável a representatividade das Centrais Sindicais que se apresentam como
+
+autoras dessa ADI, que congregam a mais expressiva representação, mostrando-se legitimadas
+
+3 Diário Oficial da União, 1º de abril de 2016, página 132.
+
+[[pagina 10 | nativo]]
+para a interlocução institucional acerca das questões e assuntos de interesse geral dos
+
+trabalhadores, à defesa da vida; da saúde; dos direitos sociais e Direitos Humanos, em geral, e
+
+os da Mulher Trabalhadora, em particular, dentre as quais os da Mulher Trabalhadora Gestante
+
+— e, por via de consequência, do nascituro que nela se aninha, objetos desta ação. Isto,
+
+igualmente às Confederações Sindicais ou demais Entidades de Classe de âmbito nacional que
+
+figuram no polo ativo da presente demanda.
+
+22. Relevante ainda destacar que a Central Única dos Trabalhadores – CUT integra o
+
+Conselho Nacional de Saúde, como representante de organizações da sociedade civil e
+
+movimentos sociais de abrangência nacional, com relevantes atividades relacionadas à realização
+
+do direito social à saúde.
+
+23. Por pertinente, vale lembrar o questionamento feito pelo Ministro Roberto Barroso nos
+
+autos da ADPF nº 527 MC/DF, da qual é relator: “deve o Supremo Tribunal Federal revisitar a
+
+sua jurisprudência sobre a configuração do requisito ‘classe’, para o fim de conferir-lhe
+
+entendimento menos restritivo que aquele praticado até o momento? Deve-se buscar
+
+interpretação, que permita que grupos vulneráveis e minoritários, unidos pela luta por direitos
+
+fundamentais, possam acessar o controle concentrado da constitucionalidade?”
+
+24. Em resposta, o Ministro Roberto Barroso concluiu que “não há qualquer evidência de
+
+que a construção de um conceito de classe que permita a abrangência de entidades protetoras
+
+de direitos fundamentais possa gerar risco de aumento de ações, a ponto de impactar o
+
+funcionamento da Corte, ou que o exercício de tal competência possa comprometer, de algum
+
+modo, a estabilidade da Democracia brasileira”. Mais. Ressaltou também que: “limitar as
+
+entidades de classe às categorias econômicas e políticas significa valer-se do controle de
+
+[[pagina 11 | nativo]]
+constitucionalidade para preservar interesses de grupos que dispõem de força política e
+
+frustrar o acesso à jurisdição constitucional justamente pelos grupos que mais precisam dela”.
+
+25. Razão pela qual, nos autos da ADPF nº 527 MC/DF, o Ministro Roberto Barroso assentou
+
+novo conceito para o gênero associativo “entidade de classe de âmbito nacional”, tomando-o
+
+como “aquelas que, tendo comprovado seu caráter nacional, reúnam membros unidos por
+
+vínculo de natureza econômica, profissional ou pela defesa de direitos de grupos minoritários
+
+e vulneráveis de que façam parte”.
+
+26. Em sendo assim, espera-se que o Supremo Tribunal Federal possa atualizar o conceito da
+
+legitimação ativa para o controle abstrato de normas, tendo em vista a evolução do tema e a
+
+conformação institucional e de representatividade que as entidades de representação da
+
+sociedade civil adquiriram. Em ordem sucessiva, é de admitir-se que, estando acompanhadas, no
+
+presente caso, de Confederações Sindicais de indiscutível legitimidade ativa (inciso IX do artigo
+
+103/CF/88), que as receba e as mantenha como colegitimadas a prosseguir no exame de mérito
+
+da presente ação.
+
+III. CABIMENTO DA ADI
+
+27. A Ação Direta de Inconstitucionalidade é ação de competência originária do STF, que tem
+
+por objetivo a declaração de inconstitucionalidade de uma lei ou ato normativo federal ou
+
+estadual. Nesse tipo de ação, é feita a análise em abstrato da norma impugnada, sem avaliar sua
+
+aplicação a um caso concreto4.
+
+4 Disponível em: <http://portal.stf.jus.br/jurisprudencia/glossario.asp>. Acesso em 24/3/2022.
+
+[[pagina 12 | nativo]]
+28. As disposições impugnadas da Lei nº 14.151/2021, com a redação que lhe foi imposta pela
+
+Lei nº 14.311/2022 são passíveis de declaração de inconstitucionalidade, tomado o seu conteúdo
+
+em abstrato.
+
+III.1. DAS INCONSTITUCIONALIDADES
+
+29. No Brasil, como já dito, vive-se hoje o que pode ser reconhecida como a terceira fase da
+
+grave crise sanitária instalada no mundo, pela pandemia do “novo coronavírus”. Assim
+
+reconhecida pela Organização Mundial de Saúde, em 11 de março de 2020, a pandemia do Sars-
+
+Cov-2 é de tão intensa gravidade que resultou no reconhecimento, pelo Decreto Legislativo nº
+
+6/2020, do estado de calamidade pública e da emergência de saúde pública de importância
+
+internacional decorrente da Covid-19, de que trata a Lei nº 13.979/2020, a qual, por sua vez,
+
+dispõe sobre as medidas para enfrentamento da emergência sanitária.
+
+30. No dia de hoje, 24 de março de 2022, dados do consórcio formado por O Globo, Extra,
+
+G1, Folha de S.Paulo, UOL e O Estado de S. Paulo, que reúne informações das secretarias
+
+estaduais de Saúde divulgadas diariamente, informam 294 mortes registradas em 24 horas por
+
+decorrência da Covid-19, com uma média móvel de 295 e um total acumulado de 658.067
+
+óbitos, desde o início da pandemia5.
+
+31. É nesse cenário que o Poder Executivo federal, por ato do presidente da República,
+
+aquele que deveria exercer “o papel de ente central no planejamento e coordenação das ações
+
+governamentais em prol da saúde pública” (ADPF 672-MC-Ref, Relator Ministro Alexandre de
+
+5 Disponível em: <https://especiais.g1.globo.com/bemestar/coronavirus/estados-brasil-mortes-casos-media-
+movel/>. Acesso em 24/3/2022.
+
+[[pagina 13 | nativo]]
+Moraes, publ.: DJE 20/10/2020), “visando o bem-estar dos brasileiros” (ADI nº 6.764, Relator
+
+Ministro Marco Aurélio, publ.: DJE 23/3/2021), resolveu sancionar a Lei nº 14.311/2022, com
+
+disposições que, como visto, desprotegem a pessoa trabalhadora, quando comparada à norma
+
+original, a Lei nº 14.151/2021.
+
+32. Como já antes dito, a realização dos preceitos constitucionais fundamentais
+
+relacionados com o direito social à saúde (art. art. 6º; art. 23, inciso II; art. 24, inciso XII; art. 194;
+
+art. 196; art. 197; art. 198 da Constituição federal) e do direito fundamental à vida (art. 5º, caput;
+
+art. 227 e art. 230 da Constituição federal) exige iniciativa política concertada e coordenada no
+
+sentido de se salvar vidas! A Lei nº 14.311/2022, todavia, ao alterar a redação original da Lei nº
+
+14.151/2021, seguiu em sentido oposto.
+
+33. Tais disposições violam, portanto, os preceitos constitucionais sobre proteção à
+
+maternidade, à gestante, ao nascituro e ao recém-nascido (arts. 6º, 7º, XXXIII, 196, 201, II, e 203,
+
+I, todos da Constituição Federal); violam a dignidade da pessoa humana e os valores sociais do
+
+trabalho (art. 1º, III e IV, da CF) e o objetivo fundamental da República de erradicar a pobreza e
+
+reduzir as desigualdades sociais e regionais (art. 3º, III, da CF); desprestigia a valorização do
+
+trabalho humano e não asseguraria a existência digna (art. 170 da CF); afronta a ordem social
+
+brasileira e o primado do trabalho, bem-estar e justiça sociais (art. 193 da CF); e vulnera o direito
+
+ao meio ambiente do trabalho equilibrado (art. 225 da CF). Além disso, representa afronta ao
+
+princípio da proibição do retrocesso social (art. 7º, caput, da CF).
+
+34. As premissas jurídico-sociais que particularizam a presente demanda em nada diferem
+
+daquelas postas a julgamento nos autos da ADI nº 5938, na qual esse Supremo Tribunal Federal,
+
+sob a relatoria do Min. ALEXANDRE DE MORAES, referendou a sua jurisprudência “que tutela os
+
+[[pagina 14 | nativo]]
+direitos da empregada gestante e lactante, do nascituro e do recém-nascido lactente, em
+
+quaisquer situações de risco ou gravame à sua saúde e bem-estar”.
+
+35. Nesta ação, assim como na ADI nº 5938, as normas legais impugnadas hão de ser
+
+declaradas inconstitucionais, isto porque, expõem as empregadas gestantes a riscos
+
+desnecessários a sua saúde — em contexto pandêmico, a exposição de pessoa ao convívio social
+
+equivale à sua própria exposição à insalubridade. Impõem, ainda, uma
+
+disponibilidade/renunciabilidade dos direitos fundamentais e das garantias constitucionais antes
+
+citados, disponibilidade/renunciabilidade a qual fora rechaçada por esse STF naqueles autos, ao
+
+afirmar: “A proteção à maternidade e a integral proteção à criança são direitos irrenunciáveis
+
+e não podem ser afastados pelo desconhecimento, impossibilidade ou a própria negligência da
+
+gestante ou lactante em apresentar um atestado médico, sob pena de prejudicá-la e prejudicar
+
+o recém-nascido”. Eis a ementa aposta no acórdão da ADI nº 5938:
+
+Ementa: DIREITOS SOCIAIS. REFORMA TRABALHISTA. PROTEÇÃO
+CONSTITUCIONAL À MATERNIDADE. PROTEÇÃO DO MERCADO DE TRABALHO
+DA MULHER. DIREITO À SEGURANÇA NO EMPREGO. DIREITO À VIDA E À
+SAÚDE DA CRIANÇA. GARANTIA CONTRA A EXPOSIÇÃO DE GESTANTES E
+LACTANTES A ATIVIDADES INSALUBRES.
+1. O conjunto dos Direitos sociais foi consagrado constitucionalmente como
+uma das espécies de direitos fundamentais, caracterizando-se como
+verdadeiras liberdades positivas, de observância obrigatória em um Estado
+Social de Direito, tendo por finalidade a melhoria das condições de vida aos
+hipossuficientes, visando à concretização da igualdade social, e são
+consagrados como fundamentos do Estado Democrático, pelo art. 1º, IV, da
+Constituição Federal.
+2. A Constituição Federal proclama importantes direitos em seu artigo 6º, entre
+eles a proteção à maternidade, que é a ratio para inúmeros outros direitos
+sociais instrumentais, tais como a licença-gestante e o direito à segurança no
+emprego, a proteção do mercado de trabalho da mulher, mediante incentivos
+
+[[pagina 15 | nativo]]
+específicos, nos termos da lei, e redução dos riscos inerentes ao trabalho, por
+meio de normas de saúde, higiene e segurança.
+3. A proteção contra a exposição da gestante e lactante a atividades insalubres
+caracteriza-se como importante direito social instrumental protetivo tanto da
+mulher quanto da criança, tratando-se de normas de salvaguarda dos direitos
+sociais da mulher e de efetivação de integral proteção ao recém-nascido,
+possibilitando seu pleno desenvolvimento, de maneira harmônica, segura e
+sem riscos decorrentes da exposição a ambiente insalubre (CF, art. 227).
+4. A proteção à maternidade e a integral proteção à criança são direitos
+irrenunciáveis e não podem ser afastados pelo desconhecimento,
+impossibilidade ou a própria negligência da gestante ou lactante em apresentar
+um atestado médico, sob pena de prejudicá-la e prejudicar o recém-nascido. 5.
+Ação Direta julgada procedente.
+(ADI 5938, Relator(a): ALEXANDRE DE MORAES, Tribunal Pleno, julgado em
+29/05/2019, PROCESSO ELETRÔNICO DJe-205 DIVULG 20-09-2019 PUBLIC 23-
+09-2019)
+
+36. Como então fora consignado no voto de Sua Excelência, o Min. ALEXANDRE DE MORAES,
+
+na qualidade de relator da ADI nº 5938, “a Constituição Federal proclama importantes direitos
+
+em seu artigo 6º, entre eles a proteção à maternidade, que é a ratio para inúmeros outros direitos
+
+sociais instrumentais, tais como a licença-gestante, o direito à segurança no emprego, que
+
+compreende a proteção da relação de emprego contra despedida arbitrária ou sem justa causa
+
+da gestante e, nos incisos XX e XXII do artigo 7º, a proteção do mercado de trabalho da mulher,
+
+mediante incentivos específicos, nos termos da lei, e redução dos riscos inerentes ao trabalho, por
+
+meio de normas de saúde, higiene e segurança”. E prosseguiu, esclarecendo a dupla titularidade
+
+dos direitos albergados pela Carta:
+
+“Sob essa ótica, a proteção da mulher grávida ou da lactante em relação
+ao trabalho insalubre caracteriza-se como importante direito social
+instrumental protetivo tanto da mulher, quanto da criança, pois a ratio das
+referidas normas não só é salvaguardar direitos sociais da mulher, mas também
+
+[[pagina 16 | nativo]]
+efetivar a integral proteção ao recém-nascido, possibilitando sua convivência
+integral com a mãe, nos primeiros meses de vida, de maneira harmônica e
+segura e sem os perigos de um ambiente insalubre, consagrada, com absoluta
+prioridade, no artigo 227 do texto constitucional, como dever inclusive da
+sociedade e do empregador.
+A imprescindibilidade da máxima eficácia desse direito social, proteção à
+maternidade, portanto, também decorre da absoluta prioridade que o art. 227
+do texto constitucional estabelece de integral proteção à criança, inclusive, ao
+recém-nascido. Na presente hipótese, temos um direito de dupla titularidade.
+A proteção à maternidade e a integral proteção à criança são direitos
+irrenunciáveis e não podem ser afastados pelo desconhecimento,
+impossibilidade ou a própria negligência da gestante ou lactante em juntar um
+atestado médico, sob pena de prejudicá-la e prejudicar o recém-nascido.
+Dessa maneira, entendo que as expressões impugnadas não estão em
+consonância com os dispositivos constitucionais supramencionados, os quais
+representam não apenas normas de proteção à mulher gestante ou lactante,
+mas também ao nascituro e recém-nascido lactente.
+A previsão de determinar o afastamento automático da mulher gestante
+do ambiente insalubre, enquanto durar a gestação, somente no caso de
+insalubridade em grau máximo, em princípio, contraria a jurisprudência da
+CORTE que tutela os direitos da empregada gestante e lactante, do nascituro e
+do recém-nascido lactente, em quaisquer situações de risco ou gravame à sua
+saúde e bem-estar”.
+
+37. É incontestável que, ainda nas circunstâncias atuais, a pandemia da Covid-19 ainda exige
+
+cuidado para com as pessoas mais vulneráveis. É nesse contexto que se insere o referendo pelo
+
+Pleno desse STF à medida cautelar deferida pelo Ministro Ricardo Lewandowski, nos autos da
+
+ADI 6625-MC-Ref. Por essa decisão, foi determinada a extensão da vigência de dispositivos da
+
+Lei nº 13.979/2020, sob os seguintes fundamentos que podem ser resumidos com a transcrição
+
+da seguinte passagem:
+
+[[pagina 17 | nativo]]
+“Na espécie, embora a vigência da Lei n° 13.979/2020, de forma tecnicamente
+imperfeita, esteja vinculada àquela do Decreto Legislativo n° 6 /2020, que decretou a
+calamidade pública para fins exclusivamente fiscais, repita-se, vencendo em 31 de
+dezembro de 2020, não se pode excluir, neste juízo precário e efêmero, próprio da
+presente fase processual, a conjectura segundo a qual a verdadeira intenção dos
+legisladores tenha sido a de manter as medidas profiláticas e terapêuticas
+extraordinárias, preconizadas naquele diploma normativo, pelo tempo necessário à
+superação da fase mais crítica da pandemia, mesmo porque à época de sua edição não
+lhes era dado antever a surpreendente persistência e letalidade da doença.
+Tal fato, porém, segundo demonstram as evidências empíricas, ainda está longe
+de materializar-se. Pelo contrário, a insidiosa moléstia causada pelo novo coronavírus
+segue infectando e matando pessoas, em ritmo acelerado, especialmente as mais
+idosas, acometidas por comorbidades ou fisicamente debilitadas. Por isso, a prudência
+- amparada nos princípios da prevenção e da precaução, que devem reger as decisões
+em matéria de saúde pública - aconselha que as medidas excepcionais abrigadas na Lei
+n° 13.979/2020 continuem, por enquanto, a integrar o arsenal das autoridades
+sanitárias para combater a pandemia”.
+
+38. Tem-se, ainda, a total impertinência das expressões “totalmente imunizada contra o
+
+referido agente infeccioso” (art. 1º, caput, da nova redação da Lei nº 14.151/2021) e “partir do
+
+dia em que o Ministério da Saúde considerar completa a imunização” (§ 3º, incido II, da nova
+
+redação da Lei nº 14.151/2021). Como hoje já é de conhecimento público, as vacinas contra o
+
+Sars-Cov-2 e suas variantes, por si só, não necessariamente imunizam completamente o
+
+vacinado.
+
+39. Em documento digital intitulado “Mitos e verdades sobre a vacina contra a Covid-19”, o
+
+pediatra e infectologista do Instituto Nacional de Saúde da Mulher, da Criança e do Adolescente
+
+Fernandes Figueira (IFF/Fiocruz), Marcio Nehab, esclarece:
+
+Após a vacina a pessoa está imune à doença?
+Marcio: Não necessariamente. A chance de ter a forma grave diminui
+consideravelmente. Já existem estudos que demonstram reduções de internações,
+internações em unidades de terapia intensiva e óbitos nas populações vacinadas. Mas
+
+[[pagina 18 | nativo]]
+isso não quer dizer que entre os vacinados não possamos contrair o vírus, de forma
+assintomática ou sintomática e transmitir para outras pessoas. Lembrando que a
+pessoa só terá a proteção informada pelo fabricante da vacina de 15 a 30 dias após a
+segunda dose, dependendo do tipo de vacina recebida6.
+
+40. Em matéria intitulada “Especialistas comentam impacto da ômicron em crianças e
+
+gestantes”7, publicada no dia 1 de fevereiro de 2022 na revista digital “Crescer”, em colaboração
+
+com a “Agência FAPESP”, quanto aos impactos da pandemia do coronavírus sobre gestantes e
+
+puérperas, no contexto da variante Ômicron, a obstetra Rossana Pulcineli, professora da FM-SO
+
+e integrante do Observatório Obstétrico Brasileiro (OOBr), ressaltou que:
+
+Gestantes
+O grupo das gestantes e das puérperas continua sendo bem impactado
+pelas formas graves da covid-19, ressalta a obstetra Rossana Pulcineli,
+professora da FM-USP e integrante do Observatório Obstétrico Brasileiro
+(OOBr). Dados divulgados pelo grupo em 2021, antes da chegada da ômicron,
+apontam que a chance de óbito de uma gestante não vacinada é 526% maior
+do que a de uma completamente imunizada. “Entre as hospitalizadas sem
+vacina, 15% faleceram. O número cai para 9% entre as que receberam uma
+dose do imunizante e para 3% entre as com o esquema vacinal completo”,
+revela.
+De acordo com a médica, embora a ômicron cause quadros mais leves,
+principalmente nas gestantes imunizadas, o número de internações por
+síndrome gripal voltou a crescer nessa população, passando de 147 em
+novembro para 1.643 em janeiro, segundo os dados mais recentes do Sistema
+de Informação da Vigilância Epidemiológica da Gripe (Sivep-Gripe). Entre as
+hospitalizadas, 43,5% têm diagnóstico confirmado de covid-19, 4,8% de gripe
+
+6 Disponível em: <http://www.iff.fiocruz.br/index.php/8-noticias/756-mitoseverdadescovid19>. Acesso em
+24/3/2022.
+7 Disponível em: <https://revistacrescer.globo.com/Criancas/Saude/noticia/2022/02/especialistas-comentam-
+impacto-da-omicron-em-criancas-e-gestantes.html>. Acesso em 24/3/2022.
+
+[[pagina 19 | nativo]]
+(influenza H3N2) e em 51,6% a causa não foi definida, o que reflete a baixa
+disponibilidade de testes para diagnóstico.
+“Já é sabido que a gestante responde mal à influenza e não houve
+monitoramento nenhum quando os casos começaram a aumentar. Ficamos
+semanas sem dados atualizados em um momento crítico como este”, diz
+Pulcineli, que também ressalta a importância de as gestantes tomarem a
+terceira dose da vacina.
+
+41. O Conselho Nacional da Saúde, em 29 de março de 2022, publicou recente Recomendação
+
+nº 006 recomendando ao Congresso Nacional a revogação da Lei nº 14.311/22, que altera a Lei
+
+nº 14.151/21; às entidades conselheiras nacionais de saúde que judicializem Ação Direita de
+
+Inconstitucionalidade contra a Lei nº 14.311/22 ou que entrem como amicus curiae de ADIs já
+
+ajuizadas; e aos Conselhos de Saúde estaduais e municipais que debatam o tema do adoecimento
+
+e óbitos das mulheres trabalhadoras, incluindo as gestantes, puérperas e lactantes por Covid-19,
+
+bem como o impacto da Lei nº 14.311/2022 para a sociedade. Dentre os dados que embasam o
+
+documentos, ressaltam-se:
+
+“Considerando que a mortalidade materna em 2021 atingiu alarmantes
+92.682 casos, o que representa um aumento de 29,02% em comparação aos
+71.833 casos em 2020;
+Considerando os dados do Observatório Obstétrico Brasileiro Covid-19
+(OOBr Covid-19), que configura um painel de análise dos casos de gestantes e
+puérperas notificados no SIVEP-Gripe, que registraram, em 17 de março de
+2022, 21.689 casos de SRAG por Covid-19 em gestantes e puérperas,
+representando assim 1% dos casos totais da doença, e 13,5% de óbitos em
+gestantes e puérperas que adquiriram Covid-19 em 2021;
+Considerando que o Manual de Recomendações para a Assistência à
+Gestante e Puérpera frente à Pandemia de Covid-19 do Ministério da Saúde, 2ª
+Ed., 2021, recomenda que os profissionais e gestores de saúde devem
+considerar as gestantes e puérperas como grupo de risco para o
+desenvolvimento de formas graves ou fatais da Covid-19, principalmente a
+partir do 3º trimestre gestacional e na presença de doenças pré-existentes,
+
+[[pagina 20 | nativo]]
+Considerando a Recomendação CNS nº 039, de 12 de maio de 2020, que
+recomenda aos Governadores Estaduais e Prefeitos Municipais o
+estabelecimento de medidas emergenciais de proteção social e garantia dos
+direitos das mulheres; (...)”
+
+42. Ao prescindir das recomendações transcritas, em acentuada desproteção aos grupos das
+
+gestantes e puérperas, com graves consequências para nascituros e crianças, pode-se dizer que
+
+os dispositivos aqui impugnados da nova redação da Lei nº 14.151/2021 encontram-se eivados
+
+de nulidade material.
+
+43. As características clínicas das novas cepas da Covid-19 permanecem em estudo.
+
+Especialistas afirmam que a cepa Ômicron é diferente das outras variantes, tendo
+
+uma proliferação em via respiratória alta que pode interferir no tempo de transmissão.
+
+44. O número de pessoas infectadas pelo coronavírus, causador da Covid-19, chegou a
+
+29.729.157 no Brasil, de acordo com o sistema de informações do Consórcio de veículos de
+
+imprensa a partir de dados das secretarias estaduais de Saúde. Hoje, dia 24 de março de 2022, o
+
+total de vidas perdidas para a pandemia alcançou 668.067. A mudança promovida pela Lei nº
+
+14.311/2022 representa ameaça à proteção da trabalhadora gestante o do nascituro — de
+
+natureza constitucional —, tendo em vista o ainda substancial número de casos confirmados de
+
+covid-19 e o surgimento de síndromes gripais de rápida proliferação como a influenza ou H3N2.
+
+De acordo com o Conselho Nacional de Secretários de Saúde (Conass), entre 3 de janeiro e 13 de
+
+janeiro, a média móvel de casos foi de 8.400 para 61.141 — um crescimento de 627%.8
+
+8 Disponível em: <https://www.cnnbrasil.com.br/saude/o-que-explica-estabilidade-no-numero-de-mortes-com-aumento-de-
+casos-de-covid-19/>. Acesso em 26/01/22.
+
+[[pagina 21 | nativo]]
+45. Dados do Boletim Emprego em pauta, do Departamento Intersindical de Estatística e
+
+Estudos Socioeconômicos (DIEESE), de maio de 2021, demonstram que o crescimento dos
+
+desligamentos por morte no emprego celetista crescer 75,9% nas atividades de atenção à saúde
+
+humana:
+
+46. Os números das vítimas da doença por profissão, em levantamento do Ministério do
+
+Trabalho e Previdência, realizado a pedido do site Metrópoles, mostra que caminhoneiros (5.960
+
+vítimas), faxineiros (4.697), vendedores de comércio varejista (3.370) e porteiros de edifícios
+
+[[pagina 22 | nativo]]
+(3.185) foram os que mais morreram na pandemia.9 Muitas dessas atividades relacionadas aos
+
+serviços são praticadas prioritariamente por mulheres
+
+47. No caso do setor petrolífero, há a confirmação de 1.757 casos de Covid-19 confirmados.
+
+A Transpetro, subsidiária da Petrobrás, tem 257 casos confirmados de Covid-19, resultado da
+
+expansão da variante Ômicron no mês de janeiro. Os dados de Covid 19 na Transpetro se somam
+
+aos da Petrobrás, que a cada dia atualiza para cima os números de contaminados pela doença.
+
+Na Petrobrás, já são cerca de 1,5 mil infectados confirmados entre os trabalhadores próprios. A
+
+informação foi apresentada pela estatal em reunião no dia 24 de janeiro de 2022.10
+
+48. Segundo o Sindipetro-NF, 70% dos trabalhadores de PNA-1 foram afetados pelo vírus, 41
+
+trabalhadores foram testados e positivados pela Covid-19. Outros 36 foram identificados como
+
+contactantes e apenas 32 testaram negativo. Vale lembrar que os trabalhadores da unidade
+
+denunciaram possível surto da doença, motivado pelo embarque de trabalhadores já com os
+
+sintomas, embora o alerta tenha sido ignorado.11
+
+49. O setor bancário também coleciona casos de afastamento do trabalho. Dados
+
+preliminares de uma pesquisa feita on-line em janeiro pelo Sindicato dos Bancários e Financiários
+
+de São Paulo, Osasco e Região mostram que mais de 88% dos bancários entrevistados relataram
+
+casos de Covid-19 ou gripe.
+
+9 Disponível em: < https://www.diariodocentrodomundo.com.br/essencial/os-que-mais-morreram-na-pandemia/>. Acesso em
+08/02/22.
+10 Disponível em: <https://sindipetronf.org.br/nf-participa-de-reuniao-com-a-transpetro-e-empresa-confirma-257-casos-de-
+covid-19/>. Acesso em 08/02/22.
+11 Disponível em: <https://fup.org.br/em-pna-1-ha-relatos-de-que-70-dos-trabalhadores-a-bordo-estao-com-covid-19/>. Acesso
+em 08/02/22.
+
+[[pagina 23 | nativo]]
+50. Na primeira quinzena de janeiro, 478 agências bancárias foram fechadas por causa de
+
+casos de Covid-19 entre os funcionários, segundo levantamento do Sindicato dos Bancários de
+
+São Paulo, Osasco e região. O levantamento do sindicato mostrou ainda que, ao menos, 500
+
+bancários foram confirmados com Covid-19 na abrangência da sua base.12
+
+51. A crise sanitária afeta, principalmente, os profissionais da saúde que atuam na linha de
+
+frente contra a Covid-19. Segundo pesquisa realizada pela Associação Médica Brasileira (AMB)
+
+em parceria com a Associação Paulista de Medicina (APM), 87,3% dos médicos relatam infecção
+
+pelo coronavírus com avanço da Ômicron. O levantamento foi feito com 3.517 médicos que
+
+responderam questionário on-line entre os dias 21 e 31 de janeiro de 2022.13
+
+52. A nova redação da Lei nº 14.151/2021, além de colocar a trabalhadora gestante e o
+
+nascituro em risco diante de uma cepa de Covid-19 altamente transmissível, legitima a coerção
+
+e o assédio moral de trabalhadoras. Empresas forçarão trabalhadoras a retornarem aos postos
+
+de trabalho, mesmo na hipótese do risco iminente.
+
+53. O medo do desemprego e a pressão do capital colocam em risco a vida da trabalhadora
+
+gestante, a vida do nascituro, de seus familiares. Não há hipótese de interesse social que
+
+justifique a edição da Lei nº 14.311/2022, muito menos ambientes político e de saúde pública
+
+que autorize o retrocesso que representa.
+
+12 Disponível em: <https://www.cnnbrasil.com.br/business/casos-de-covid-19-fecham-temporariamente-quase-500-agencias-
+bancarias-em-sp/>. Acesso em 08/02/22.
+13 Disponível em: <https://veja.abril.com.br/saude/873-dos-medicos-relatam-infeccao-pelo-coronavirus-com-avanco-da-
+omicron/>. Acesso em 08/02/22.
+
+[[pagina 24 | nativo]]
+IV. PEDIDO LIMINAR
+
+54. O pedido de medida liminar desta Ação Direta de Inconstitucionalidade funda-se no art.
+
+10, § 3º, da Lei nº 9.868/1999, nos seguintes termos:
+
+Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida
+por decisão da maioria absoluta dos membros do Tribunal, observado o disposto no art. 22,
+após a audiência dos órgãos ou autoridades dos quais emanou a lei ou ato normativo
+impugnado, que deverão pronunciar-se no prazo de cinco dias.
+
+
+§ 3o Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem
+a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo
+impugnado.
+
+55. No exercício histórico das suas competências como Corte Constitucional, esse Supremo
+
+Tribunal Federal é chamado, uma vez mais, à solução de caso de extrema urgência ou perigo de
+
+lesão grave para parcela vulnerável da população brasileira, que conta com proteção expressa na
+
+Constituição Federal.
+
+56. Nesse contexto, os autores requerem deferimento liminar, em caráter cautelar, das
+
+seguintes medidas:
+
+a. Seja suspenso os efeitos do art. 1º, caput; §§ 1º; 2º; 3º, incisos II e III; 6º e 7º da
+
+Lei nº 14.151, de 12 de maio de 2021, com a redação alterada pela Lei nº 14.311, de
+
+9 de março de 2022, com a repristinação do texto original da primeira.
+
+[[pagina 25 | nativo]]
+V. PEDIDOS
+
+57. Em face do exposto, os autores propõem a presente Arguição de Descumprimento de
+
+Preceitos Fundamentais, postulando especificamente o seguinte:
+
+1) o recebimento e processamento da presente ADI;
+
+2) o deferimento de liminar, em caráter cautelar, de suspensão dos efeitos do art.
+
+1º, caput; §§ 1º; 2º; 3º, incisos II e III; 6º e 7º da Lei nº 14.151, de 12 de maio de
+
+2021, com a redação alterada pela Lei nº 14.311, de 9 de março de 2022, com a
+
+repristinação do texto original da primeira;
+
+3) nos termos do art. 10 da Lei n.º 9.868/99, sejam o Presidente da República e o
+
+Congresso Nacional intimados para manifestação sobre o pedido cautelar, em 5
+
+(cinco) dias sobre a medida cautelar, com a posterior submissão da medida ao
+
+Plenário desse Supremo Tribunal Federal para referendoa medida cautelar
+
+liminarmente concedida pelo relator;
+
+4) intimação e citação da União;
+
+5) oitiva dos órgãos ou autoridades responsáveis pelo ato questionado, bem como o
+
+Advogado-Geral da União ou o Procurador-Geral da República, no prazo comum de
+
+cinco dias, caso assim entenda o Eminente Relator;
+
+5) julgamento da procedência da presente ADI, com a confirmação da medida
+
+cautelar antes requerida, para que sejam declaradas nulas as disposições impugnadas
+
+[[pagina 26 | nativo]]
+da Lei nº 14.151/2021, com a redação que lhe foi dada pela Lei nº 14.311/2022 (art.
+
+1º, caput; §§ 1º; 2º; 3º, incisos II e III; 6º e 7º), com a repristinação/restauração da
+
+redação original da Lei nº 14.151/2021.
+
+58. Os advogados subscritores declaram a plena autenticidade dos documentos que
+
+acompanham a presente petição.
+
+59. Por fim, requerem que as publicações se deem em nome de José Eymard Loguercio,
+
+OAB/DF nº 1.441-A, nos termos do artigo 272, §§ 2º e 5º, do Código de Processo Civil, sob pena
+
+de nulidade.
+
+Brasília, 24 de março de 2022.
+
+José Eymard Loguercio Ricardo Quintas Carneiro
+OAB/DF nº 1.441-A OAB/DF nº 1.445-A
+
+Luciana Lucena Baptista Barreto Fernanda Caldas Giorgi
+OAB/SP nº 229.762 OAB/DF nº 43.404
+
+Antonio Fernando Megale Lopes
+OAB/DF nº 23.072
+

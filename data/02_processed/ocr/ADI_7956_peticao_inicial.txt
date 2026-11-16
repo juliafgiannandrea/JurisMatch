@@ -1,0 +1,675 @@
+[[pagina 1 | nativo]]
+
+EXCELENTÍSSIMO SENHOR DOUTOR EDSON FACHIN MINISTRO PRESIDENTE
+DO SUPREMO TRIBUNAL FEDERAL
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE com pedido de medida cautelar
+
+A ASSOCIAÇÃO BRASILEIRA DOS ADVOGADOS CRIMINALISTAS
+(ABRACRIM), pessoa jurídica de direito privado, CNPJ nº 24.398.262/0001-14, com sede na
+Rua Campos Sales, nº 767, conjunto 12, CEP 80030-230, Curitiba/PR, representada por seu
+Presidente Nacional, Sheyner Yàsbeck Asfóra, OAB/PB nº 11.590, e pelos advogados Aury
+Lopes Jr., OAB/DF nº 58.251, Arthur Richardisson Evaristo Diniz, OAB/PB 21.323, com
+fundamento nos arts. 102, inciso I, alínea "a", e 103, inciso IX, da Constituição Federal de 1988,
+combinados com os arts. 1º a 12 da Lei Federal nº 9.868, de 10 de novembro de 1999, vem propor
+a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+com pedido de medida cautelar
+
+com pedido de Declaração de inconstitucionalidade de diversos dispositivos da Lei Federal nº
+15.358, de 24 de março de 2026 (Marco Legal do Combate ao Crime Organizado no Brasil,
+denominado Lei Raul Jungmann).
+
+I. DA LEGITIMIDADE ATIVA E DA PERTINÊNCIA TEMÁTICA.
+
+A ABRACRIM é entidade de classe de âmbito nacional, com representação em todos os
+estados da federação, fundada em 17 de setembro de 1993, inscrita no 4º RTD/RCPJ/CTBA sob
+o protocolo nº 646090, enquadrada no inciso IX do art. 103 da Constituição Federal de 1988. Sua
+legitimidade para o controle concentrado perante esta Corte está amplamente confirmada pela
+trajetória processual da entidade no Supremo Tribunal Federal: a ABRACRIM figura como
+autora nas ADI nº 6.304/DF, ADI nº 6.735/DF e ADPF nº 1.273/DF, e como impetrante no
+HC nº 226.779/DF; foi admitida como amicus curiae nas ADCs nºs 43, 44 e 54, nas ADI nºs
+6.298/DF, 6.299/DF, 6.300/DF, 6.305/DF e 5.793/DF, nas ADPFs nºs 779/DF e 518/DF, nos
+REs nºs 1.177.984/SP e 1.501.524, na Rcl nº 61.944/PA e nas ADPFs nºs 395 e 444. Os requisitos
+para o reconhecimento da legitimação ativa de entidade de classe de âmbito nacional encontram-
+se preenchidos segundo os parâmetros fixados nas ADI nºs 2.866/RN e 3.153 AgR.
+
+A pertinência temática, exigida pelo STF para os legitimados do art. 103, incisos IV, V e
+IX, da Constituição Federal de 1988, é direta e inequívoca, fundada em dupla ancoragem
+estatutária e em três planos materiais distintos e cumulativos.
+
+A ancoragem estatutária opera em dois eixos: o art. 2º, inciso II, do Estatuto Social da
+ABRACRIM impõe à entidade a defesa da valorização e da independência dos advogados,
+assegurando a efetividade de suas prerrogativas no livre exercício profissional; o art. 2º, inciso VI,
+impõe a defesa do Estado Democrático de Direito e a preservação dos direitos fundamentais
+individuais e coletivos; e o art. 2º, inciso VIII, legitima expressamente a entidade a postular e
+representar seus membros perante os Poderes da República em quaisquer demandas judiciais ou
+extrajudiciais.
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 2 | nativo]]
+
+Os dispositivos impugnados atingem simultaneamente os dois eixos: violam
+prerrogativas dos advogados criminalistas ao desvirtuar as garantias processuais no âmbito das
+quais eles atuam, e violam direitos fundamentais dos cidadãos por eles assistidos.
+
+No plano dos associados, a norma afeta a esfera de direitos fundamentais das pessoas
+submetidas a prisão provisória, exatamente o universo de assistidos pelos advogados
+criminalistas, que têm o múnus de defender não apenas a liberdade de locomoção, mas a
+integralidade da cidadania dos seus constituintes.
+
+No plano técnico-processual, os dispositivos impugnados amplificam as consequências
+jurídicas da prisão provisória para além de qualquer finalidade processual legítima,
+desvirtualizando sua natureza cautelar e interferindo diretamente na arquitetura de garantias
+penais cuja integridade os advogados criminalistas têm o dever institucional de preservar.
+
+No plano do Estado Democrático de Direito, as normas operam como sanção
+política antecipada, violando a presunção de inocência que é o princípio nuclear do sistema penal
+cujo respeito constitui a razão de ser mais profunda da advocacia criminal como instituição.
+
+Ressalte-se, por fim, que a ABRACRIM é entidade representativa de categoria
+profissional específica, a dos advogados que exercem a advocacia criminal, e não mera associação
+de associações ou entidade de natureza híbrida, o que afasta qualquer objeção quanto à
+configuração da "entidade de classe" prevista no art. 103, inciso IX, da Constituição Federal de
+1988, sendo a pertinência temática, portanto, triplamente fundada.
+
+II. SÍNTESE DA AÇÃO
+
+A presente ação tem por objeto a declaração de inconstitucionalidade de múltiplos
+dispositivos da Lei Federal nº 15.358, de 24 de março de 2026, denominada Marco Legal do
+Combate ao Crime Organizado, que introduz alterações sistêmicas no direito penal material, na
+execução penal, no processo penal e no direito eleitoral. Os dispositivos impugnados,
+individualmente e em conjunto, violam cláusulas pétreas, princípios fundamentais da ordem
+constitucional e tratados internacionais de direitos humanos ratificados pelo Brasil, configurando
+agressão estrutural ao Estado Democrático de Direito que não se resolve por interpretação
+conforme isolada, mas exige expurgo das normas viciadas.
+
+As inconstitucionalidades abrangem: a criação de tipos penais vagos e adoção do direito
+penal de autor (arts. 2º e 3º); a instituição de perpetuidade branca matematicamente demonstrável
+e a vedação absoluta ao livramento condicional (arts. 2º, §§ 1º, I, e 4º, III, e art. 112, VIII, da Lei
+de Execução Penal); a extensão de efeitos punitivos aos dependentes do condenado (art. 2º, § 6º);
+a transferência automática para presídio federal sem análise individualizada, inclusive de presos
+provisórios (art. 2º, § 7º, e art. 86, § 3º, da Lei de Execução Penal); a exclusão da competência
+soberana do Tribunal do Júri (art. 2º, § 8º); a prisão preventiva presumida por gravidade abstrata
+do crime (art. 2º, § 9º); medidas assecuratórias sem prazo, inversão do ônus probatório e
+perdimento sem condenação (art. 9º, §§ 1º, 6º, 8º, 10, 11 e 12); a destruição econômica de empresa
+antes de qualquer julgamento (art. 10); a criação de banco de dados com presunção absoluta de
+culpa administrativa (art. 29); o monitoramento de comunicações entre advogado e cliente (arts.
+41-A e 41-B da Lei de Execução Penal); o isolamento prolongado e a gravação de visitas
+familiares (art. 52, § 6º, da Lei de Execução Penal); a virtualização obrigatória da audiência de
+custódia (arts. 310 e 3º-B do Código de Processo Penal); e, com especial urgência dado o
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 3 | nativo]]
+
+calendário eleitoral em curso, a suspensão dos direitos políticos de presos provisórios e a criação
+de inelegibilidades por lei ordinária (art. 40, que acrescenta os incisos IV ao art. 5º e VI ao art. 71
+do Código Eleitoral).
+
+III. DAS INCONSTITUCIONALIDADES DA LEI FEDERAL Nº 15.358, DE 24 DE
+MARÇO DE 2026.
+
+III.1. Tipos Penais Vagos, Direito Penal de Autor e Dupla Punição (Arts. 2º e 3º)
+
+O art. 2º, caput e incisos I a X, e o art. 3º da Lei Federal nº 15.358, de 24 de março de
+2026, criam tipos penais abertos e indeterminados, valendo-se de expressões como "controle
+territorial", "domínio social estruturado", "favorecimento" e "incitação", cujo sentido não pode
+ser determinado por leitura clara do texto legal, violando o princípio da legalidade estrita inscrito
+no art. 5º, inciso XXXIX, da Constituição Federal de 1988.
+
+Ao punir a "condição de liderança" e a "adesão" à organização, a lei abandona o direito
+penal do fato para adotar um direito penal de autor que sanciona o "ser" em vez do "fazer",
+violando a dignidade da pessoa humana (art. 1º, inciso III, da Constituição Federal de 1988), a
+igualdade (art. 5º, caput) e o princípio da lesividade. O art. 3º, inciso II, ao criminalizar a
+"distribuição de material que incite" crimes de domínio social sem qualquer critério objetivo que
+distinga incitação de reportagem jornalística, pesquisa acadêmica ou crítica social, gera efeito
+inibidor sistemático sobre a liberdade de expressão e de criação tuteladas pelo art. 5º, incisos IV
+e IX, da Constituição Federal de 1988 e pelo art. 9º da Convenção Americana sobre Direitos
+Humanos, promulgada pelo Decreto Federal nº 678, de 6 de novembro de 1992.
+
+Adicionalmente, os arts. 2º, caput, e 3º configuram bis in idem com o art. 1º, § 1º, da Lei
+Federal nº 12.850, de 2 de agosto de 2013: o "domínio social estruturado" é o exaurimento natural
+da organização criminosa já tipificada, e a dupla punição do mesmo fenômeno fático contraria o
+art. 5º, inciso XXXIX, da Constituição Federal de 1988 e o art. 20 do Estatuto de Roma,
+promulgado pelo Decreto Federal nº 4.388, de 25 de setembro de 2002.
+
+III.2. Perpetuidade Branca e Vedação Absoluta ao Livramento (Arts. 2º, §§1º, I, e 4º, III; Art.
+
+112, VIII, LEP)
+
+O art. 2º, § 1º, inciso I, da Lei Federal nº 15.358, de 24 de março de 2026, combinado com
+o art. 112, inciso VIII, da Lei Federal nº 7.210, de 11 de julho de 1984, na redação dada pela
+mesma lei, cria paradoxo matemático irresolúvel: a pena máxima de 60 anos, exigindo 85% de
+cumprimento para a progressão de regime, imporia 51 anos em regime fechado antes que o
+benefício fosse alcançável, prazo que excede em 11 anos o limite legal de 40 anos de cumprimento
+previsto no art. 75 do Decreto-Lei nº 2.848, de 7 de dezembro de 1940.
+
+Nos termos da Súmula nº 715 do Supremo Tribunal Federal, os benefícios da execução
+incidem sobre o total da pena imposta, não sobre o limite de cumprimento, de modo que o
+condenado jamais atingirá, na prática, o percentual exigido: a progressão de regime é negada para
+sempre, configurando "perpetuidade branca" que viola as cláusulas pétreas dos incisos XLVII,
+alíneas "b" e "e", e XLVI do art. 5º da Constituição Federal de 1988, o art. 5.6 da Convenção
+Americana sobre Direitos Humanos e o art. 26 da mesma Convenção, que veda a regressão de
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 4 | nativo]]
+
+direitos, além de contrariar a proibição de agravamento do sistema prisional já declarado em
+estado de coisas inconstitucional pela ADPF nº 347.
+
+O art. 2º, § 4º, inciso III, ao proibir absolutamente o livramento condicional, suprime a
+função ressocializadora da pena consagrada no art. 5.6 da Convenção Americana, nos arts. 7º e
+10 do Pacto Internacional de Direitos Civis e Políticos, promulgado pelo Decreto Federal nº 592,
+de 6 de julho de 1992, e no art. 1º, inciso III, da Constituição Federal de 1988, negando o "direito
+à esperança".
+
+III.3. Extensão da Pena aos Dependentes do Condenado (Art. 2º, §6º)
+
+O art. 2º, § 6º, da Lei Federal nº 15.358, de 24 de março de 2026, ao extinguir o direito a
+auxílio-reclusão para condenados por crimes de domínio social estruturado, aplica punição
+econômica sobre cônjuges, filhos menores e pais idosos do condenado, resgatando concepção
+medieval de responsabilidade coletiva familiar incompatível com o Estado Democrático de
+Direito.
+
+A norma viola o princípio da intranscendência da pena inscrito no art. 5º, inciso XLV, da
+Constituição Federal de 1988, o direito à assistência social do art. 6º, a proteção constitucional à
+criança do art. 227 e a Convenção sobre os Direitos da Criança, promulgada pelo Decreto Federal
+nº 99.710, de 21 de novembro de 1990, segundo a qual nenhuma criança pode ser punida por ato
+do genitor.
+
+III.4. Transferência para Presídio Federal sem Análise Individualizada (Art. 2º, §7º; Art. 86,
+
+§3º, LEP; Art. 1º-A, Lei nº 12.694/2012)
+
+O art. 2º, § 7º, da Lei Federal nº 15.358, de 24 de março de 2026, combinado com o art.
+86, § 3º, da Lei Federal nº 7.210, de 11 de julho de 1984, e com o art. 1º-A da Lei Federal nº
+12.694, de 24 de julho de 2012, determina a transferência automática de condenados e presos
+provisórios para estabelecimentos federais de segurança máxima, sem análise individualizada de
+necessidade, sem prazo máximo e sem consideração da evolução pessoal do custodiado. A
+extensão ao preso provisório antecipa efeitos que somente podem decorrer de condenação
+definitiva, violando o art. 5º, inciso LVII, da Constituição Federal de 1988.
+
+O distanciamento geográfico compulsório compromete o acesso efetivo ao defensor e à
+família, violando a individualização da pena (art. 5º, inciso XLVI), a ampla defesa (art. 5º, inciso
+LV), o direito à intimidade familiar (art. 5º, inciso X), todos da Constituição Federal de 1988, e
+o art. 8.1 da Convenção Americana sobre Direitos Humanos.
+
+III.5. Exclusão do Tribunal do Júri (Art. 2º, §8º; Art. 1º-A, Lei nº 12.694/2012)
+
+O art. 2º, § 8º, da Lei Federal nº 15.358, de 24 de março de 2026, combinado com o art.
+1º-A da Lei Federal nº 12.694, de 24 de julho de 2012, ao atribuir a Varas Criminais Colegiadas
+o julgamento de homicídios dolosos conexos a crimes de domínio social, subtrai esses crimes da
+competência soberana do Tribunal do Júri, garantida como cláusula pétrea pelo art. 5º, inciso
+XXXVIII, da Constituição Federal de 1988. Lei ordinária não pode criar exceções a direito
+inscrito no art. 60, § 4º, inciso IV, da Constituição Federal de 1988.
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 5 | nativo]]
+
+III.6. Prisão Preventiva Presumida (Art. 2º, §9º)
+
+O art. 2º, § 9º, da Lei Federal nº 15.358, de 24 de março de 2026, ao declarar a prática de
+crime de domínio social "causa suficiente para a decretação de prisão preventiva", institui prisão
+preventiva obrigatória fundada exclusivamente na gravidade abstrata do crime, dispensando a
+demonstração concreta dos requisitos exigidos pelo art. 312 do Decreto-Lei nº 3.689, de 3 de
+outubro de 1941.
+
+A norma suprime o dever de fundamentação individualizada inscrito no art. 93, inciso IX,
+da Constituição Federal de 1988, cria presunção de culpabilidade vedada pelo art. 5º, inciso LVII,
+da Constituição Federal de 1988, viola a separação de poderes (art. 2º da Constituição Federal de
+1988) ao transformar o juiz em executor formal de política criminal predeterminada, e contraria
+o art. 7, item 5, da Convenção Americana sobre Direitos Humanos.
+
+III.7. Medidas Assecuratórias sem Prazo, Inversão do Ônus Probatório e Perdimento sem
+
+Condenação (Art. 9º, §§1º, 6º, 8º, 10, 11 e 12)
+
+O art. 9º, § 1º, da Lei Federal nº 15.358, de 24 de março de 2026, ao autorizar bloqueio
+patrimonial sem contraditório prévio e sem prazo máximo para o contraditório subsequente, viola
+os arts. 5º, incisos LV e LIV, da Constituição Federal de 1988 e o art. 8.1 da Convenção
+Americana sobre Direitos Humanos, criando "limbo jurídico" em que bens permanecem
+bloqueados indefinidamente sem julgamento.
+
+O art. 9º, § 6º, ao impor ao investigado o dever de comprovar a origem lícita de seus bens
+em apenas 10 dias, inverte o ônus probatório, viola o nemo tenetur se accusare inscrito no art. 5º,
+incisos LVII e LXIII, da Constituição Federal de 1988 e no art. 8.2, alínea "g", da Convenção
+Americana, e impõe ao acusado o risco de fornecer ao Estado elementos de autoincriminação ao
+revelar toda a sua estrutura patrimonial. O art. 9º, § 8º, ao autorizar perdimento definitivo sem
+sentença penal condenatória transitada em julgado, aplica sanção penal sem processo completo,
+violando os arts. 5º, incisos LVII, XXII e LIV, da Constituição Federal de 1988 e o art. 21 da
+Convenção Americana.
+
+Os arts. 9º, §§ 10, 11 e 12, ao autorizarem a alienação antecipada de bens apreendidos
+antes do trânsito em julgado, tornam irreversível o dano ao direito de propriedade e inviabilizam
+a restituição integral em caso de absolvição; a definição de "instrumento do crime" como qualquer
+bem "ainda que não tenha sido destinado exclusivamente a esse fim" (§ 11) viola adicionalmente
+o princípio da taxatividade inscrito no art. 5º, inciso XXXIX, da Constituição Federal de 1988.
+
+III.8. Destruição Econômica de Empresa sem Condenação (Art. 10)
+
+O art. 10 da Lei Federal nº 15.358, de 24 de março de 2026, ao autorizar o afastamento
+imediato de sócios e a venda antecipada de ativos com base em "indícios" vagos de que a empresa
+"beneficia" criminosos, viola a livre iniciativa (art. 170 da Constituição Federal de 1988), o direito
+de propriedade (art. 5º, inciso XXII), a liberdade de associação (art. 5º, inciso XVII) e o devido
+processo legal (art. 5º, inciso LIV), todos da Constituição Federal de 1988.
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 6 | nativo]]
+
+O art. 10, § 8º, ao destinar os recursos da venda antecipada a Fundos de Segurança
+Pública, cria incentivo institucional espúrio e contamina a imparcialidade da medida cautelar,
+abrindo espaço para uso do instrumento como guerra econômica disfarçada de combate ao crime.
+O art. 10, § 9º, ao vedar à empresa a celebração de contratos e a participação em licitações durante
+o afastamento cautelar dos sócios, produz destruição econômica irreversível antes de qualquer
+julgamento.
+
+III.9. Banco Nacional de Dados com Presunção Absoluta de Culpa Administrativa (Art. 29,
+
+§§3º, 4º e 6º)
+
+O art. 29, § 6º, da Lei Federal nº 15.358, de 24 de março de 2026, ao gerar "presunção
+absoluta de vínculo" com organização criminosa para fins administrativos a partir da simples
+inclusão no banco de dados, cria estigma público permanente que viabiliza exclusão do crédito,
+do emprego e de programas sociais, com efeitos de morte civil sem contraditório prévio e sem
+condenação, violando os arts. 5º, incisos LVII, LIV, LV e XII, e 3º, inciso IV, da Constituição
+Federal de 1988, o art. 24 da Convenção Americana sobre Direitos Humanos e o art. 17 do Pacto
+Internacional de Direitos Civis e Políticos.
+
+O § 4º, ao admitir inclusão por "convívio prisional", autoriza a presunção de criminalidade
+por mera proximidade, completamente dissociada de culpabilidade. O § 3º, ao prever
+interoperabilidade ampla com entidades privadas sem consentimento do titular, viola o direito à
+privacidade inscrito no art. 5º, inciso XII, da Constituição Federal de 1988.
+
+III.10. Monitoramento de Comunicações entre Advogado e Cliente (Arts. 41-A e 41-B, LEP)
+
+Os arts. 41-A e 41-B da Lei Federal nº 7.210, de 11 de julho de 1984, inseridos pela Lei
+Federal nº 15.358, de 24 de março de 2026, ao autorizarem o monitoramento e a gravação das
+comunicações entre advogados e seus clientes sob o argumento de "razões fundadas de conluio",
+destroem o pressuposto lógico do direito de defesa: a confidencialidade absoluta entre defensor e
+acusado.
+
+A norma reduz o advogado a agente informante perante a acusação, viola o art. 133 da
+Constituição Federal de 1988 (inviolabilidade do advogado), o art. 5º, incisos LV e LXIII, da
+Constituição Federal de 1988 e o art. 8.2, alínea "g", da Convenção Americana sobre Direitos
+Humanos, que veda a coação ao depoimento contra si mesmo.
+
+III.11. Isolamento Prolongado e Gravação de Visitas Familiares (Art. 52, §6º, LEP)
+
+O art. 52, § 6º, da Lei Federal nº 7.210, de 11 de julho de 1984, na redação dada pela Lei
+Federal nº 15.358, de 24 de março de 2026, ao consolidar o isolamento quase absoluto por prazo
+indeterminado no Regime Disciplinar Diferenciado, combinado com as penas de 60 anos e a
+exigência de 85% para progressão, cria cenário de isolamento vitalício que a ciência denomina
+"síndrome do isolamento" e que configura tortura psicológica vedada pelo art. 5º, inciso III, da
+Constituição Federal de 1988, pelo art. 1º da Convenção Contra a Tortura e Outros Tratamentos
+ou Penas Cruéis, Desumanos ou Degradantes, promulgada pelo Decreto Federal nº 40, de 15 de
+fevereiro de 1991, e pelo art. 7º do Pacto Internacional de Direitos Civis e Políticos.
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 7 | nativo]]
+
+A gravação compulsória das visitas familiares viola o art. 5º, inciso X (privacidade e
+intimidade), o art. 5º, inciso LXIII (nemo tenetur por via reflexa, pois o preso é forçado a
+autocensurar-se diante da família) e o art. 226 (convivência familiar), todos da Constituição
+Federal de 1988.
+
+III.12. Virtualização Obrigatória da Audiência de Custódia (Arts. 310 e 3º-B, CPP)
+
+A alteração ao art. 310 e a inserção do art. 3º-B do Decreto-Lei nº 3.689, de 3 de outubro
+de 1941, ao tornarem a audiência de custódia "preferencialmente por videoconferência",
+suprimem a finalidade originária do instituto, que é a verificação presencial da integridade física
+do custodiado para prevenção de tortura.
+
+A virtualização torna o juiz "espectador remoto" incapaz de identificar sinais físicos de
+abuso, viola o art. 5º, inciso III, da Constituição Federal de 1988 (proibição de tortura), o art. 2º
+da Convenção Contra a Tortura, o art. 5º, inciso LV, da Constituição Federal de 1988 (ampla
+defesa) e o art. 7, item 5, da Convenção Americana sobre Direitos Humanos.
+
+III.13. Suspensão dos Direitos Políticos de Presos Provisórios e Inelegibilidades por Lei
+
+Ordinária (Art. 40, Lei nº 15.358/2026; Arts. 5º, IV, e 71, VI, Código Eleitoral)
+
+Os dispositivos impugnados padecem de vícios formais autônomos e cumulativos. A
+emenda parlamentar que originou o art. 40 da Lei Federal nº 15.358, de 24 de março de 2026, foi
+enxertada em projeto de lei cujo objeto exclusivo era o combate ao crime organizado, sem
+pertinência temática eleitoral, sem parecer da Comissão de Constituição e Justiça e de Cidadania
+sobre restrição ao sufrágio e sem audiência pública, configurando "contrabando legislativo"
+incompatível com o devido processo legislativo inscrito nos arts. 1º, parágrafo único, 2º e 5º,
+inciso LIV, da Constituição Federal de 1988, nos termos da ADI nº 5.127 (relatora a Min. Rosa
+Weber, redator para o acórdão o Min. Edson Fachin, Tribunal Pleno, 15 de outubro de 2015); a
+agravante é que norma que sequer resistiria a emenda constitucional foi aprovada por maioria
+simples.
+
+Somado a isso, a criação de inelegibilidades é matéria reservada à lei complementar pelo
+art. 14, § 9º, da Constituição Federal de 1988, nos termos da Lei Complementar Federal nº 64,
+de 18 de maio de 1990, e da ADPF nº 144/DF, sendo vedado a lei ordinária disciplinar matéria
+de hierarquia superior. No plano material, o cancelamento automático do título de eleitor impõe
+ao preso provisório consequência jurídica reservada ao condenado definitivo, violando o art. 5º,
+inciso LVII, da Constituição Federal de 1988 em sua dimensão mais concreta: as ADCs nºs 43,
+44 e 54 (relator o Min. Marco Aurélio, 7 de novembro de 2019) assentaram que nem a pena
+privativa de liberdade pode ser executada antes do trânsito em julgado, com maior razão não
+pode sê-lo a suspensão de direitos políticos.
+
+O rol do art. 15 da Constituição Federal de 1988 é taxativo e exaustivo, e a prisão
+provisória não figura entre as cinco hipóteses constitucionalmente admitidas; ao inserir a cláusula
+"ainda que sem condenação definitiva", o legislador reconheceu que criava hipótese nova vedada
+até a emenda constitucional, conforme assentado no RE nº 601.182/MG, Tema 370 (redator para
+o acórdão o Min. Alexandre de Moraes, 8 de maio de 2019). O art. 60, § 4º, incisos II e IV, da
+Constituição Federal de 1988 protege como cláusulas pétreas o voto direto, secreto, universal e
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 8 | nativo]]
+
+periódico e os direitos e garantias individuais: se nem emenda constitucional pode suprimir esses
+núcleos essenciais, lei ordinária está a fortiori impedida de fazê-lo, tornando os dispositivos
+impugnados não apenas inconstitucionais, mas anticonstitucionais.
+
+O vício convencional é igualmente multidirecional. O art. 23, item 2, da Convenção
+Americana sobre Direitos Humanos, promulgada pelo Decreto Federal nº 678, de 6 de novembro
+de 1992, admite restrição ao voto exclusivamente por condenação por juiz competente em
+processo penal; a Corte Interamericana de Direitos Humanos, no Caso López Mendoza vs.
+Venezuela (Série C, nº 233, 2011), declarou que inabilitação sem condenação penal viola os arts.
+23.1(b) e 23.2 da Convenção Americana; no Caso Petro Urrego vs. Colômbia (Série C, nº 406,
+2020), reiterou a interpretação estrita das limitações aos direitos políticos e ordenou adequação
+legislativa, exatamente o oposto do que o Brasil fez; no Caso Yatama vs. Nicarágua (Série C, nº
+127, 2005), fixou a obrigação positiva dos Estados de garantir o exercício efetivo dos direitos
+políticos.
+
+O Comitê de Direitos Humanos da ONU, na Recomendação Geral nº 25
+(CCPR/C/21/Rev.1/Add.7, § 14, 1996), é categórico: pessoas privadas de liberdade sem
+suspensão imposta em sentença não devem ser excluídas do voto; no Caso Gorji-Dinka vs.
+Camarões (Comunicação nº 1134/2002), o Comitê declarou que o cancelamento do nome do
+cidadão da lista eleitoral viola o art. 25(b) do Pacto Internacional de Direitos Civis e Políticos; no
+Caso Yevdokimov e Rezanov vs. Rússia (Comunicação nº 1410/2005), decidiu que a privação
+do voto de presos não resiste ao requisito de razoabilidade, com maior razão quando aplicada a
+quem sequer foi condenado. No direito comparado, o Tribunal Europeu de Direitos Humanos,
+no Caso Hirst vs. Reino Unido (nº 2) (Grande Câmara, Requerimento nº 74025/01, 2005),
+condenou o banimento automático do voto até de condenados definitivos, registrando que nem
+o governo britânico estendia a proibição a presos preventivos; no Caso Labita vs. Itália (Grande
+Câmara, Requerimento nº 26772/95, 2000), declarou que nem a suspeita de organização mafiosa
+justifica cassação do sufrágio; no Caso Scoppola vs. Itália (nº 3) (Grande Câmara, Requerimento
+nº 126/05, 2012), preservou a legislação italiana precisamente porque era individualizada e
+proporcional, tudo o que a norma brasileira não é; o Tribunal Constitucional da África do Sul,
+em August vs. Electoral Commission (CCT 8/99, 1999), afirmou que o voto é emblema de
+dignidade; a Suprema Corte do Canadá, em Sauvé vs. Canada (2002, 3 SCR 519), advertiu que
+negar o voto remove rota para o desenvolvimento social e mina a política correcional de
+reabilitação. O Brasil torna-se, com os dispositivos impugnados, o único Estado-parte da
+Convenção Americana a vedar expressamente o sufrágio de presos sem condenação, isolamento
+sem paralelo em nenhuma democracia constitucional do continente.
+
+III.14. Ausência de Estudo de Impacto e Agravamento do Estado de Coisas Inconstitucional
+
+(ADPF nº 347)
+
+A Lei Federal nº 15.358, de 24 de março de 2026, ao implementar política criminal de
+endurecimento sistêmico sem qualquer avaliação prévia de impacto no sistema penitenciário,
+agrava o estado de coisas inconstitucional declarado pelo STF na ADPF nº 347 e contraria o
+Plano "Pena Justa" do próprio Poder Executivo, que reconhece a superlotação como problema
+estrutural. A norma viola o princípio da proporcionalidade em suas três dimensões: adequação
+(o endurecimento de penas não é meio idôneo à redução do crime organizado, cuja causa
+estrutural é a desigualdade social); necessidade (alternativas menos restritivas existem, como
+inteligência investigativa e confisco de patrimônio ilícito); e proporcionalidade em sentido estrito
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 9 | nativo]]
+
+(o benefício esperado não compensa o agravamento do colapso penitenciário já declarado
+inconstitucional). Viola ainda o art. 26 da Convenção Americana, que proíbe a regressão de
+direitos já reconhecidos.
+
+III.15. Inversão da Hierarquia Constitucional de Bens Jurídicos
+
+Ao cominar pena de 20 a 60 anos para o "domínio social estruturado" (art. 2º da Lei
+Federal nº 15.358, de 24 de março de 2026), ante os 12 a 30 anos do homicídio qualificado (art.
+121, § 2º, do Decreto-Lei nº 2.848, de 7 de dezembro de 1940), a lei pune o controle territorial
+com mais rigor do que a supressão da vida humana, invertendo a hierarquia de bens jurídicos
+constitucionalmente tutelados: a pena mínima de 20 anos para o "domínio social" já supera a
+pena máxima do homicídio simples. A distorção viola o princípio da proporcionalidade deduzível
+do art. 5º, inciso XLIII, da Constituição Federal de 1988 e a hierarquia em que a vida (art. 5º,
+caput) é o bem supremo da ordem constitucional.
+
+IV. DO PEDIDO DE MEDIDA CAUTELAR.
+
+O fumus boni iuris é de densidade constitucional máxima. Os dispositivos violam normas
+constitucionais expressas, tratados internacionais ratificados e precedentes vinculantes desta
+Corte, como demonstrado. A própria assessoria jurídica do Palácio do Planalto, conforme
+amplamente noticiado em março de 2026, recomendou o veto presidencial por reconhecer a
+inconstitucionalidade, que não foi aposto por razões estritamente políticas: quando o próprio
+governo que sanciona delega ao STF a correção do vício, a densidade do fumus é máxima.
+
+A essa admissão interna some-se a irracionalidade manifesta do automatismo: o
+cancelamento indiferenciado equipara, para fins de exclusão eleitoral, o réu preso
+preventivamente por pequeno furto ao chefe de organização criminosa ultraviolenta, sem
+avaliação judicial individualizada, sem corte por tipo penal e sem contraditório prévio, violando
+o due process substantivo do art. 5º, inciso LIV, da Constituição Federal de 1988. Existe, ademais,
+diferença constitucional fundamental entre a impossibilidade prática de votar, decorrente das
+circunstâncias do encarceramento cautelar e superável por políticas públicas como as seções
+eleitorais criadas pelo TSE, e a revogação jurídica do direito ao voto, que é sanção aplicada a
+quem não foi condenado: o Estado tem o dever de criar condições para que o preso provisório
+vote, não o poder de suprimir-lhe a titularidade do direito.
+
+O direito ao voto dos presos provisórios era, ademais, direito efetivo e concretamente
+exercido desde 2010, organizado pelo TSE por meio de seções eleitorais em unidades prisionais
+nos termos da Resolução TSE nº 23.659, de 2021, e exercido em todos os pleitos de 2010 a 2024,
+inclusive por mais de 6.000 presos nas eleições municipais de 2024: a supressão desse direito sem
+compensação equivalente é retrocesso vedado, deduzível da conjugação dos arts. 1º, inciso III;
+5º, §§ 1º e 2º; e 60, § 4º, inciso IV, da Constituição Federal de 1988.
+
+O periculum in mora assume contornos de irreversibilidade constitucional. O ano de 2026
+é ano eleitoral, com eleições gerais para governadores, senadores e deputados em outubro. O
+prazo de regularização de títulos perante o TSE encerra-se em 6 de maio de 2026. Com a vigência
+imediata da lei determinada pelo seu art. 44, o cancelamento automático dos títulos de mais de
+225.000 presos provisórios já opera desde 25 de março de 2026: se a medida cautelar não for
+concedida antes de 6 de maio de 2026, a privação do sufrágio nas eleições de outubro será
+constitucionalmente irreparável.
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 10 | nativo]]
+
+Acrescente-se que os efeitos da norma transbordam para as famílias e comunidades dos
+presos, subtraindo-lhes representação política em violação ao art. 5º, inciso XLV, da Constituição
+Federal de 1988, e recaem de forma absolutamente desigual sobre grupo historicamente
+marginalizado: segundo dados do SENAPPEN (2025), 75% dos presos provisórios são negros e
+pardos, proporção muito superior aos 55,5% que representam na população geral (IBGE, Censo
+2022), e 43% têm até 29 anos; a seletividade racial da prisão provisória, reconhecida pelo STF na
+ADPF nº 347, é assim amplificada pela norma impugnada, que a converte em exclusão eleitoral
+sistemática de grupos historicamente marginalizados, violando os arts. 3º, inciso IV, e 5º, caput,
+da Constituição Federal de 1988.
+
+Acrescentar a supressão do sufrágio à privação de liberdade é a exclusão completa do
+corpo político nacional, sem voz e sem qualquer instrumento democrático de influência sobre as
+condições do próprio encarceramento. O sufrágio perdido numa eleição não se restitui. É agora
+ou não é mais.
+
+V. DOS PEDIDOS E REQUERIMENTOS.
+
+Diante de todo o exposto, a Associação Brasileira dos Advogados Criminalistas
+(ABRACRIM) requer a Vossa Excelência:
+
+a) a concessão de medida cautelar, nos termos do art. 10 da Lei Federal nº 9.868,
+de 10 de novembro de 1999, para suspender, com eficácia erga omnes e efeito
+vinculante, a vigência dos dispositivos impugnados na presente ação, com
+prioridade para a suspensão imediata do inciso IV do art. 5º e do inciso VI do
+art. 71 da Lei Federal nº 4.737, de 15 de julho de 1965, na redação do art. 40
+da Lei Federal nº 15.358, de 24 de março de 2026, considerando a iminência
+do prazo de regularização eleitoral perante o Tribunal Superior Eleitoral (6 de
+maio de 2026) e a irreversibilidade do dano ao sufrágio universal em ano
+eleitoral;
+
+b) a notificação do Presidente da República e do Congresso Nacional para
+prestarem informações no prazo legal, nos termos do art. 6º da Lei Federal nº
+9.868, de 10 de novembro de 1999;
+c) a oitiva do Advogado-Geral da União, para defesa dos atos impugnados, nos
+termos do art. 103, § 3º, da Constituição Federal de 1988;
+
+d) a oitiva do Procurador-Geral da República, nos termos do art. 103, § 1º, da
+Constituição Federal de 1988;
+
+e) a admissão, como amici curiae, de entidades da sociedade civil com atuação
+documentada no campo dos direitos das pessoas privadas de liberdade e dos
+direitos políticos;
+
+f) no mérito, a declaração de inconstitucionalidade, com eficácia erga omnes e
+efeito vinculante nos termos do art. 102, § 2º, da Constituição Federal de 1988,
+dos seguintes dispositivos:
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 11 | nativo]]
+
+i. arts. 2º, caput e §§ 1º, inciso I, 4º, inciso III, 6º, 7º, 8º e 9º, e art. 3º, da
+Lei Federal nº 15.358, de 24 de março de 2026, por violação aos arts.
+1º, inciso III; 5º, caput, incisos XXXVIII, XXXIX, XLV, XLVI, XLVII,
+alíneas "b" e "e", LVII, LXIII; e 93, inciso IX, da Constituição Federal
+de 1988, ao art. 9º da Convenção Americana sobre Direitos Humanos
+(Decreto Federal nº 678, de 6 de novembro de 1992) e ao art. 20 do
+Estatuto de Roma (Decreto Federal nº 4.388, de 25 de setembro de
+2002);
+
+ii. arts. 9º, §§ 1º, 6º, 8º, 10, 11 e 12, e 10, caput e §§ 8º e 9º, da Lei Federal
+nº 15.358, de 24 de março de 2026, por violação aos arts. 5º, incisos
+XVII, XXII, XXXIX, LIV, LV e LVII; e 170, da Constituição Federal
+de 1988, e aos arts. 8.1, 8.2, alínea "g", e 21 da Convenção Americana
+sobre Direitos Humanos;
+
+iii. art. 29, §§ 3º, 4º e 6º, da Lei Federal nº 15.358, de 24 de março de 2026,
+por violação aos arts. 3º, inciso IV; e 5º, caput, incisos XII, LIV, LV e
+LVII, da Constituição Federal de 1988, ao art. 24 da Convenção
+Americana sobre Direitos Humanos e ao art. 17 do Pacto Internacional
+de Direitos Civis e Políticos (Decreto Federal nº 592, de 6 de julho de
+1992);
+
+iv. arts. 41-A e 41-B da Lei Federal nº 7.210, de 11 de julho de 1984,
+inseridos pela Lei Federal nº 15.358, de 24 de março de 2026, por
+violação aos arts. 133 e 5º, incisos LV e LXIII, da Constituição Federal
+de 1988 e ao art. 8.2, alínea "g", da Convenção Americana sobre
+Direitos Humanos;
+
+v. art. 52, § 6º, da Lei Federal nº 7.210, de 11 de julho de 1984, na redação
+dada pela Lei Federal nº 15.358, de 24 de março de 2026, por violação
+aos arts. 1º, inciso III; 5º, incisos III, X, XLIX e LXIII; e 226, da
+Constituição Federal de 1988, ao art. 1º da Convenção Contra a
+Tortura e Outros Tratamentos ou Penas Cruéis, Desumanos ou
+Degradantes (Decreto Federal nº 40, de 15 de fevereiro de 1991) e ao
+art. 7º do Pacto Internacional de Direitos Civis e Políticos;
+
+vi. art. 86, § 3º, e art. 112, inciso VIII, da Lei Federal nº 7.210, de 11 de
+julho de 1984, na redação dada pela Lei Federal nº 15.358, de 24 de
+março de 2026, por violação aos arts. 5º, incisos XLVI, XLVII, alíneas
+"b" e "e", LV e LVII, da Constituição Federal de 1988 e ao art. 5.6 da
+Convenção Americana sobre Direitos Humanos;
+vii. art. 1º-A da Lei Federal nº 12.694, de 24 de julho de 2012, na redação
+dada pela Lei Federal nº 15.358, de 24 de março de 2026, por violação
+aos arts. 5º, incisos XXXVIII, XLVI e LV; e 60, § 4º, inciso IV, da
+Constituição Federal de 1988 e ao art. 8.1 da Convenção Americana
+sobre Direitos Humanos;
+
+viii. arts. 310 e 3º-B do Decreto-Lei nº 3.689, de 3 de outubro de 1941, na
+redação dada pela Lei Federal nº 15.358, de 24 de março de 2026, por
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 12 | nativo]]
+
+violação aos arts. 5º, incisos III, LIV e LV, da Constituição Federal de
+1988, ao art. 2º da Convenção Contra a Tortura e ao art. 7, item 5, da
+Convenção Americana sobre Direitos Humanos;
+
+ix. art. 40 da Lei Federal nº 15.358, de 24 de março de 2026, que acrescenta
+o inciso IV ao art. 5º e o inciso VI ao art. 71 da Lei Federal nº 4.737, de
+15 de julho de 1965, por violação aos arts. 1º, parágrafo único; 3º,
+incisos III e IV; 5º, incisos XLV e LVII; 5º, §§ 1º e 2º; 14, § 9º; 15, inciso
+III; e 60, § 4º, incisos II e IV, da Constituição Federal de 1988, ao art.
+23, § 2º, da Convenção Americana sobre Direitos Humanos e ao art. 25
+do Pacto Internacional sobre Direitos Civis e Políticos;
+
+g) subsidiariamente, caso este Egrégio Tribunal entenda pela não declaração de
+inconstitucionalidade do inciso IV do art. 5º do Código Eleitoral, a
+interpretação conforme a Constituição do referido dispositivo para excluir de
+sua incidência as pessoas recolhidas a estabelecimento prisional sem
+condenação criminal transitada em julgado, preservando-se a eficácia da
+norma exclusivamente em relação a condenados definitivos, na forma da tese
+fixada no Tema nº 370 da Repercussão Geral (RE nº 601.182/MG).
+
+Protesta por todos os meios de prova admitidos em direito, especialmente
+documental.
+Dá-se à causa o valor simbólico de R$ 1.000,00 (mil reais), para efeitos
+meramente fiscais.
+
+Nestes termos,
+pede deferimento.
+
+Assinado digitalmente por SHEYNER Brasília/DF, 14 de abril de 2026.
+YASBECK ASFORA:91746027487 SHEYNER ND: C=BR, O=ICP-Brasil, OU=AC
+
+OU=Videoconferencia, YASBECK SOLUTI12121962000188,OU=CertificadoMultiplaPFv5, OU= A1, CN=SHEYNER
+YASBECK ASFORA:91746027487
+Eu sou o autor deste documento ASFORA:917 Razão:Localização:
+Data: 2026.04.14 11:49:39-03'00' 46027487 Foxit PDF Reader Versão: 2025.2.0
+SHEYNER YÁSBECK ASFÓRA LIGIA KUNZENDORFF MAFRA
+OAB/PB 11.590 OAB/ES 23.937
+
+FERNANDA CORRÊA OSÓRIO
+AURY CELSO LIMA LOPES JR. OAB/RS 54.975
+OAB/DF 58.251
+SORAIA DA ROSA MENDES
+OAB/DF 62.320
+ANTÔNIO BELARMINO JÚNIOR
+OAB/SP 337.754
+
+ADRIANA SPENGLER
+OAB/SC 15.144
+MÁRIO DE OLIVEIRA FILHO
+OAB/SP 54.325
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br
+
+[[pagina 13 | nativo]]
+
+ARTHUR RICHARDISSON DINIZ THIAGO MIRANDA MINAGÉ
+OAB/PB 21.323 OAB/RJ 131.007
+
+FERNANDO PARENTE GABRIELA NEHME BEMFICA
+VASCONCELOS OAB/DF 32.151
+OAB/DF 27.805
+
+CATHARINA ESTRELLA BALLUT
+OAB/AM 7.006
+
+PATRICK CHAVES PESSOA
+OAB/CE 55690-A
+
+Rua Campos Sales, 767, Alto da Glória, Curitiba/PR
+E-mail: observatorioabracrim@gmail.com
+www.abracrim.adv.br

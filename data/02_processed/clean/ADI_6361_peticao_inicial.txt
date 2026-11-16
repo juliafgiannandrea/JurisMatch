@@ -1,0 +1,827 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+Matéria: EC n. 103/2019. Controle
+normativo abstrato. Contribuições
+ordinária e extraordinária.
+Inconstitucionalidade do Art. 149, §§ 1º-
+A e 1º-B, da Constituição Federal, e do
+art. 9º, § 8º, da EC n. 103/2019.
+
+UNIÃO NACIONAL DOS AUDITORES E TÉCNICOS FEDERAIS DE FINANÇAS E
+CONTROLE, UNACON, inscrita no CNPJ sob o n. 03.652.534/0001-90, com sede no SCLN 110,
+Bloco C, Subsolo, Loja 69/79, Edifício Lara, Asa Norte, Brasília/DF, CEP 70753-530, titular do
+endereço eletrônico unacon@unacon.org.br, vem, devidamente constituída e autorizada pelo
+estatuto para atuar em juízo, com fundamento no art. 102, inciso I, alíneas “a” e “p” c/c art.
+103, inciso IX, ambos da Constituição Federal, bem como no art. 2º, inciso IX, da Lei n. 9.868,
+de 10 de novembro de 1999, propor
+
+A Ç Ã O D I R E T A D E I N C O N S T I T U C I O N A L I D A D E
+com pedido de medida cautelar
+
+contra o art. 1º da Emenda Constitucional (EC) n. 103, de 12 de novembro de 2019, que
+acrescentou os §§ 1º-A e 1º-B ao art. 149 da Constituição Federal, e contra o art. 9º, § 8º, da
+EC n. 103/2019, em razão da incompatibilidade desses dispositivos em relação ao texto
+constitucional, pelas razões adiante delineadas.
+
+VCS
+
+[[pagina 2 | nativo]]
+I – DISPOSITIVOS IMPUGNADOS
+Em 12 de novembro de 2019, foi promulgada a Emenda Constitucional (EC) n. 103
+(doc. 08), que promoveu uma ampla modificação no sistema de previdência social brasileiro,
+especialmente no âmbito do Regime Próprio de Previdência Social (RPPS). Entre as diversas
+alterações, importa inicialmente destacar a inclusão, pelo art. 1º da mencionada emenda, dos
+§§ 1º-A e 1º-B ao art. 149 da Constituição Federal (CF):
+
+§ 1º-A. Quando houver deficit atuarial, a contribuição ordinária dos
+aposentados e pensionistas poderá incidir sobre o valor dos proventos de
+aposentadoria e de pensões que supere o salário-mínimo.
+§ 1º-B. Demonstrada a insuficiência da medida prevista no § 1º-A para
+equacionar o deficit atuarial, é facultada a instituição de contribuição
+extraordinária, no âmbito da União, dos servidores públicos ativos, dos
+aposentados e dos pensionistas.
+
+O § 1º-A prevê a possibilidade de aumento da base de cálculo da contribuição
+previdenciária ordinária de aposentados e pensionistas quando comprovada a existência de
+déficit atuarial no custeio do RPPS. Essa contribuição poderá passar a incidir sobre qualquer
+valor superior ao salário mínimo e não sobre o valor que ultrapassar o teto do Regime Geral
+de Previdência Social (RGPS).
+Na hipótese de a medida prevista no § 1º-A ser incapaz de recompor o saldo
+deficitário atuarial, o § 1º-B autoriza a instituição, pela União, da denominada “contribuição
+extraordinária” dos servidores públicos ativos, dos aposentados e dos pensionistas, no âmbito
+do RPPS.
+Em síntese, a EC n. 103/2019 autorizou a instauração de alíquota de contribuição
+previdenciária extraordinária aos servidores públicos ativos, aos aposentados e aos
+pensionistas; e instituiu a incidência de contribuição ordinária sobre o valor dos proventos de
+aposentados e pensionistas que supere o correspondente ao salário mínimo, quando
+comprovado saldo deficitário atuarial no RPPS.
+Essas alterações, consoante será demonstrado no tópico III.a (v. abaixo),
+inequivocamente violam o art. 150, IV, da CF (vedação constitucional ao confisco) e o art. 195,
+§ 5º, CF (princípio do prévio custeio).
+Além disso, de acordo com o disposto no art. 9º, § 8º, da EC n. 103/2019, a
+contribuição extraordinária poderá ser instituída por intermédio da edição de lei e terá prazo
+máximo de vigência de 20 (vinte) anos:
+
+Art. 9º Até que entre em vigor lei complementar que discipline o § 22 do art.
+40 da Constituição Federal, aplicam-se aos regimes próprios de previdência
+
+[[pagina 3 | nativo]]
+social o disposto na Lei nº 9.717, de 27 de novembro de 1998, e o disposto
+neste artigo.
+§ 8º Por meio de lei, poderá ser instituída contribuição extraordinária pelo
+prazo máximo de 20 (vinte) anos, nos termos dos §§ 1º-B e 1º-C do art. 149
+da Constituição Federal.
+
+O § 8º do art. 9º da EC n. 103/2019, ao remeter à legislação infraconstitucional a
+regulamentação da contribuição extraordinária, perpetra verdadeira desconstitucionalização
+da previdência social e desconsidera o pressuposto constitucional da vedação ao retrocesso
+social, corolário dos princípios da dignidade da pessoa humana (art. 1º, III, CF) e da máxima
+eficácia e efetividade dos direitos fundamentais (art. 5º, § 1º, CF).
+Conforme será demonstrado adiante, em razão da patente inconstitucionalidade
+dos arts. 149, §§ 1º-A e 1ºB, da CF (art. 1º da EC n. 103/2019) e 9º, § 8º, da EC n. 103/2019, a
+UNACON, como legítima representante dos Auditores e Técnicos Federais de Finanças e
+Controle, detentora da missão institucional de defesa das prerrogativas e dos direitos da
+Carreira, justifica a propositura da presente ação direta de inconstitucionalidade.
+
+II – LEGITIMIDADE ATIVA E PERTINÊNCIA TEMÁTICA
+Nos termos do acórdão prolatado na Ação Direta de Inconstitucionalidade (ADI) n.
+4.912/MG, “a jurisprudência do Supremo Tribunal Federal [STF] estabelece os seguintes
+requisitos a serem atendidos pelas entidades de classe no ajuizamento de ação de controle
+concentrado: a) abrangência nacional; b) delimitação subjetiva da associação; c) pertinência
+temática; e d) compatibilidade entre a abrangência da representação da associação e o ato
+questionado”.
+Os critérios definidos pelo STF para a aferição da legitimidade ativa das entidades
+de classe para provocar o controle concentrado de constitucionalidade estão plenamente
+atendidos na espécie.
+A UNACON, fundada em 15 de janeiro de 1989, sediada na cidade de Brasília,
+Distrito Federal, é uma entidade de classe de âmbito nacional com duração indeterminada,
+dotada de personalidade jurídica de direito privado, sem fins lucrativos, de caráter
+eminentemente assistencial e associativo, representativa da Carreira de Finanças e Controle.
+No que se refere ao primeiro requisito (abrangência nacional), cumpre destacar
+que os filiados à UNACON são todos servidores públicos vinculados ao Ministério da Economia
+(ME) e à Controladoria-Geral da União (CGU), órgãos da Administração Pública federal que
+possuem unidades de lotação em todos os Estados. Nessa linha, a Associação possui filiados
+em todas as 27 (vinte e sete) Unidades da Federação, afirmação comprovada a partir da
+análise da listagem anexa, na qual constam os nomes e os endereços dos associados (doc. 07).
+
+[[pagina 4 | nativo]]
+Em relação ao critério da delimitação subjetiva da associação, a UNACON não
+possui em sua composição pessoas físicas ou jurídicas estranhas à Carreira de Finanças e
+Controle, instituída pelo Decreto-Lei n. 2.346, de 23 de julho de 1987, pela Lei n. 9.625, de 7
+de abril de 1998 e pela Lei n. 11.890, de 24 de dezembro de 2008.
+A vedação à filiação de indivíduos não integrantes dessa Carreira, consignada
+expressamente nos artigos 1º e 6º de seu Estatuto Social (doc. 06), demonstra a plena
+homogeneidade entre os membros integrantes da UNACON1.
+A pertinência temática na hipótese vertente é configurada a partir do cotejo entre
+os objetivos contidos nos atos constitutivos das Associações (doc. 06) e o conteúdo da norma
+impugnada (doc. 08). De acordo com o artigo 4º, inciso II, de seu Estatuto Social, a UNACON
+deve “representar o associado na defesa de seus direitos e interesses profissionais, coletivos e
+individuais, em qualquer nível, podendo, para tanto, intervir e praticar todos os atos na esfera
+judicial ou extrajudicial”.
+Nesse contexto, convém destacar que a EC n. 103/2019, ao incluir os §§ 1º-A e 1º-
+B ao art. 149 da Constituição Federal, com a possibilidade de implementação por lei
+infraconstitucional (art. 9 , § 8º, da EC n. 103/2019), impugnados na presente ação de controle
+concentrado, consubstancia diversas e efetivas violações a direitos de natureza constitucional
+e evidentemente atinge a integralidade dos filiados à UNACON.
+Ao estabelecer a implementação, por intermédio de legislação ordinária, de
+contribuição extraordinária para servidores ativos, aposentados e pensionistas e de aumento
+da base de cálculo de contribuição previdenciária ordinária para aposentados e pensionistas,
+a EC n. 103/2019 é manifestamente inconstitucional em razão do seu inequívoco caráter
+confiscatório e por desconstitucionalizar radicalmente aspectos primordiais regulamentares
+da previdência dos servidores públicos.
+Logo, também no que diz respeito à compatibilidade entre a abrangência da
+representação da associação e o ato questionado, verifica-se que a UNACON congrega toda a
+Carreira de Finanças e Controle, cujos intergrantes são atingidos diretamente pelo ato ora
+impugnado, de modo que cumpre plenamente o requisito em questão.
+Demonstrado o inequívoco adimplemento dos critérios sintetizados por esse STF
+no julgamento da ADI n. 4.912/MG, está configurada a legitimidade da Autora para o
+
+1 Art. 1º – A União Nacional dos Analistas e Técnicos de Finanças e Controle – Unacon, fundada em 15 de janeiro
+de 1989, passa a denominar-se União Nacional dos Auditores e Técnicos Federais de Finanças e Controle –
+Unacon, entidade civil com natureza de associação profissional e sem fins lucrativos, representativa da categoria
+profissional dos Auditores e Técnicos Federais de Finanças e Controle do Poder Executivo Federal, ou de
+categorias que venham a sucedê-la. (…)
+Art. 6º – A Unacon poderá admitir e manter em seu quadro social os Auditores e Técnicos Federais de Finanças e
+Controle que a ela se associarem.
+
+[[pagina 5 | nativo]]
+ajuizamento da presente ação de controle concentrado, nos termos do art. 103, IX, da
+Constituição Federal e do art. 2º, IX, da Lei n. 9.868/1999.
+
+III – INCONSTITUCIONALIDADE DAS NORMAS
+III.a – Inconstitucionalidade do Art. 149, §§ 1º-A e 1º-B, da CF (art. 1º da EC n.
+103/2019). Vedação constitucional ao confisco (art. 150, IV, da CF). Violação ao princípio do
+prévio custeio (art. 195, § 5º, da CF)
+A previsão de implementação de contribuição extraordinária para servidores
+ativos, aposentados e pensionistas e de aumento da base de cálculo de contribuição ordinária
+para aposentados e pensionistas estabelecida pela EC n. 103/2019 constitui flagrante violação
+ao art. 150, IV, da CF (princípio da vedação ao confisco).
+A interdição do emprego de “tributo com efeito de confisco” remete a uma típica
+“limitação do poder de tributar”, mas é evidente que a norma constitucional (art. 150, IV)
+encampa, na realidade, objetivo de maior espeque, relacionado à própria afirmação do direito
+de propriedade (art. 5º, XXII) e, principalmente, à garantia individual de proteção contra o
+excesso de poder estatal (ou vedação da arbitrariedade do Poder Público), o que é inerente à
+cláusula do devido processo legal (art. 5º, LIV):
+
+O princípio da não-confiscatoriedade limita o direito que as pessoas
+políticas têm de expropriar bens privados. [...] Estamos confirmando,
+destarte, que a norma constitucional que impede que os tributos sejam
+utilizados ‘com efeito de confisco’, além de criar um limite explícito às
+discriminações arbitrárias de contribuintes, reforça o direito de propriedade.
+Assim, por exemplo, em função dela, nenhuma pessoa, física ou jurídica,
+pode ser tributada por fatos que estão fora da regra-matriz constitucional
+do tributo que lhe está sendo exigido, porque isto faz perigar o direito de
+propriedade.
+Portanto, o princípio da não-confiscatoriedade exige do legislador, conduta
+marcada pelo equilíbrio, pela moderação e pela medida, na quantificação
+dos tributos, tudo tendo em vista um direito tributário justo. [...] Também
+não se pode, em homenagem aos princípios da capacidade contributiva e da
+não-confiscatoriedade, assujeitar um mesmo fato econômico à incidência de
+tantos impostos, que acabem por retirar do contribuinte o mínimo vital a que
+estamos aludindo.2
+
+Como sabido, o próprio postulado da proporcionalidade constitui princípio ínsito
+
+2 CARRAZZA, Roque Antonio. Curso de direito constitucional tributário. 21. ed. São Paulo: Malheiros, 2005, p. 98-
+9.
+
+[[pagina 6 | nativo]]
+ao aspecto substancial da cláusula do devido processo legal (art. 5º, LIV, da CF).3
+Não bastasse a EC n. 103/2019 já ter previsto a possibilidade de majoração de
+alíquotas – progressivas – que, aliada à incidência de imposto de renda, poderá alcançar índice
+superior a 40% dos valores percebidos por servidores, também trouxe a previsão, ora
+impugnada, de instituição de contribuição extraordinária, sem qualquer limite
+constitucionalmente previsto e que poderá perdurar por 20 (vinte) anos, e de aumento de
+base de cálculo para contribuições ordinárias.
+Trata-se de providência que evidencia o cárater confiscatório incidente sobre a
+tributação dos valores percebidos por servidores, aposentados e pensionistas vinculados ao
+RPPS da UNIÃO, que suportarão unilateralmente suposto déficit atuarial do regime.
+A jurisprudência o Supremo Tribunal Federal assevera que “a proibição
+constitucional do confisco em matéria tributária nada mais representa senão a interdição, pela
+Carta Política, de qualquer pretensão governamental que possa conduzir, no campo da
+fiscalidade, à injusta apropriação estatal, no todo ou em parte, do patrimônio ou dos
+rendimentos dos contribuintes, comprometendo-lhes, pela insuportabilidade da carga
+tributária”:
+SERVIDORES PÚBLICOS EDERAIS – CONTRIBUIÇÃO DE SEGURIDADE SOCIAL
+[...] ALÍQUOTAS PROGRESSIVAS – ESCALA DE PROGRESSIVIDADE DOS
+ADICIONAIS TEMPORÁRIOS (ART. 2º DA LEI N° 9.783/99) – ALEGAÇÃO DE
+OFENSA AO PRINCÍPIO QUE VEDA A TRIBUTAÇÃO CONFISCATÓRIA (CF, ART.
+150, IV) E DA DESCARACTERIZAÇÃO DA FUNÇÃO CONSTITUCIONAL
+INERENTE À CONTRIBUIÇÃO DE SEGURIDADE SOCIAL – PLAUSIBILIDADE
+JURÍDICA – MEDIDA CAUTELAR DEFERIDA EM PARTE.
+A proibição constitucional do confisco em matéria tributária nada mais
+representa senão a interdição, pela Carta Política, de qualquer pretensão
+governamental que possa conduzir, no campo da fiscalidade, à injusta
+apropriação estatal, no todo ou em parte, do patrimônio ou dos rendimentos
+dos contribuintes, comprometendo-lhes, pela insuportabilidade da carga
+tributária, o exercício do direito a uma existência digna, ou a prática de
+atividade profissional lícita ou, ainda, a regular satisfação de suas
+necessidades vitais (educação, saúde e habitação, por exemplo).
+A identificação do efeito confiscatório deve ser feita em função da totalidade
+da carga tributária, mediante verificação da capacidade de que dispõe o
+contribuinte – considerado o montante da sua riqueza (renda e capital) –
+para suportar e sofrer a incidência de todos os tributos que ele deverá pagar,
+dentro de determinado período, à mesma pessoa política que os houver
+instituído (a União Federal, no caso), condicionando-se, ainda, a aferição do
+grau de insuportabilidade econômico-financeira, à observância, pelo
+
+3 Cf. CANOTILHO, José Joaquim Gomes. Direito constitucional e teoria da constituição. 4. ed. Coimbra: Almedina,
+2000, p. 267.
+
+[[pagina 7 | nativo]]
+legislador, de padrões de razoabilidade destinados a neutralizar excessos de
+ordem fiscal eventualmente praticados pelo Poder Público.
+Resulta configurado o caráter confiscatório de determinado tributo, sempre
+que o efeito cumulativo – resultante das múltiplas incidências tributárias
+estabelecidas pela mesma entidade estatal – afetar, substancialmente, de
+maneira irrazoável, o patrimônio e/ou os rendimentos do contribuinte.
+O Poder Público, especialmente em sede de tributação (as contribuições de
+seguridade social revestem-se de caráter tributário), não pode agir
+imoderadamente, pois a atividade estatal acha-se essencialmente
+condicionada pelo princípio da razoabilidade.4
+
+Em hipótese limítrofe ensejada pela EC n. 103/2019, o servidor poderá ter mais da
+metade do valor resultante de seu trabalho retido inconstitucionalmente à conta do fisco, o
+que viola a limitação ao poder de tributar consubstanciada no art. 150, IV, da CF, sendo
+evidente o caráter confiscatório, ante o efeito cumulativo resultante das múltiplas incidências
+tributárias estabelecidas pela mesma entidade estatal.
+E, para o caso dos aposentados e pensionistas, a inconstitucionalidade é ainda
+mais flagrante: não bastasse terem que suportar unilateralmente, por intermédio do aumento
+da base de cálculo para incidência da contribuição previdenciária, a contrapartida por eventual
+déficit atuarial, também terão seus proventos e pensões submetidos à incidência de
+contribuição extraordinária.
+Assim, configura-se o caráter confiscatório de determinado tributo sempre que o
+efeito cumulativo – resultante das múltiplas incidências tributárias estabelecidas pela mesma
+entidade estatal – afetar de maneira irrazoável os rendimentos do contribuinte.
+O Poder Público não pode agir imoderadamente, pois a atividade estatal está
+essencialmente condicionada pelo princípio da razoabilidade. Não é isso, contudo, que se
+observa da EC n. 103/2019, que imputou o ônus integral da recuperação econômica do país
+aos servidores públicos mediante a instituição de tributação de caráter nitidamente
+confiscatório.
+A implementação de contribuição extraordinária (art. 149, § 1º-B, da CF) e de
+aumento da base de cálculo de contribuição ordinária (art. 149, § 1º-A, da CF), ao contrário de
+conter suposto déficit no orçamento previdenciário, configura medida irrazoável e
+desproporcional que objetiva unicamente incrementar as receitas públicas.
+A majoração da carga tributária desacompanhada da necessária adoção de
+práticas que confiram maior eficiência ao aparelho administrativo imputa indevidamente a
+resolução dos problemas enfrentados pelo Estado somente aos contribuintes, em clara
+
+4 STF, Pleno, ADI n. 2.010/DF-MC, Rel. Min. Celso de Mello, DJ 12.4.2002; excerto da ementa.
+
+[[pagina 8 | nativo]]
+utilização de inconstitucional medida confiscatória.
+Além disso, a contribuição previdenciária constitui, sob o prisma da destinação
+arrecadatória estatal, hipótese de exação fiscal de natureza vinculada. Isso significa que a sua
+incidência, ante o caráter retributivo inerente à espécie tributária, repercute na futura
+contraprestação do Estado, isto é, no momento da concessão da aposentadoria ou do
+benefício pensional.
+O disposto no art. 149, §§ 1º-A e 1º-B, da CF, no entanto, flagrantemente
+descaracteriza a destinação específica, de ordem constitucional, a que se está vinculada a
+contribuição previdenciária, bem como evidencia a já referida natureza confiscatória dessa
+modalidade de arrecadação. Ainda que o contribuinte tenha de arcar com vultosos valores
+mensais a esse título, estipulados em faixas diferenciadas, não haverá – pois não há previsão
+para tanto – o correspectivo retorno pecuniário proporcional no momento da concessão da
+aposentadoria ou do recebimento da pensão.
+A regra da contrapartida, também conhecida como princípio do prévio custeio,
+obsta a criação, a majoração ou a extensão de benefícios e serviços da seguridade social sem
+a correspondente fonte de custeio total. A tributação extraordinária das contribuições
+previdenciárias não culmina também no aumento da contraprestação que deverá ser posterior
+e necessariamente adimplida pela Seguridade Social.
+Nesse contexto, a Constituição (art. 195, § 5º) estabelece que "nenhum benefício
+ou serviço da seguridade social poderá ser criado, majorado ou estendido sem a
+correspondente fonte de custeio total". Se nenhum benefício pode ser criado sem a respectiva
+fonte de custeio, nenhum benefício previdenciário pode, a contrario sensu, ser extinto ou
+minorado sem a diminuição na contribuição previdenciária vertida.
+Caso o ordenamento constitucional permitisse a redução dos benefícios sociais, o
+que se admite ad argumentandum tantum, essa restrição deveria ser acompanhada de um
+estreitamento proporcional no valor da contribuição. A EC n. 103/2019 impôs medida
+exatamente contrária: aumentou a contribuição previdenciária dos segurados e ainda
+possibilitou o aumento da base de cálculo do tributo e a instituição de contribuições
+extraordinárias. Houve, assim, um inconstitucional desequilíbrio do sistema.
+Afinal, a majoração da base de cálculo da contribuição e a sua instituição em
+caráter extraordinário possui exatamente o mesmo efeito jurídico do corte de benefícios sem
+a respectiva redução no valor da contribuição. Sobre a questão, o Ministro CELSO DE MELLO,
+quando do julgamento da supracitada ADI n. 2.010/DF-MC, destacou que:
+
+Sem causa suficiente, não se justifica a instituição (ou a majoração) da
+contribuição de seguridade social, pois, no regime de previdência de caráter
+contributivo, deve haver, necessariamente, correlação entre custo e
+
+
+[[pagina 9 | nativo]]
+benefício. A existência de estrita vinculação causal entre contribuição e
+benefício põe em evidência a correção da fórmula segundo a qual não pode
+haver contribuição sem benefício, nem benefício sem contribuição.5
+
+Já no paradigmático julgamento da ADI n. 3.105/DF, a Relatora Ministra ELLEN
+GRACIE consignou em seu voto, com o referendo da autorizada doutrina de José Afonso da
+Silva, a inafastável exigência de contrapartida para o tributo voltado à seguridade social:
+
+Sem sombra de dúvida, tal combinação para o sistema previdenciário, é
+modalidade de tributo. [...] Mas a contribuição previdenciária, segundo o
+Prof. José Afonso da Silva, “é tributo vinculado a determinado tipo de
+prestação, tributo que se destina a alimentar um fundo, o fundo da
+seguridade social, vinculado a satisfazer as prestações previdenciárias; por
+isso, sua arrecadação compulsória só por si não é suficiente para legitimá-la,
+porque ainda é necessário que os recursos dela provenientes sejam
+destinados a satisfazer as prestações da seguridade social, porquanto só para
+tal destino a Constituição Federal fundamenta sua cobrança, e precisamente
+daí, também, é que se verifica o direito subjetivo do trabalhador às
+prestações, sempre que ocorrerem os pressupostos que justifiquem receber
+a vantagem previdenciária”.6
+
+No mesmo sentido, o Superior Tribunal de Justiça, em recente julgamento de
+Recurso Representativo da Controvérsia (Tema Repetitivo n. 999), entendeu que “o sistema de
+Previdência Social é regido pelo princípio contributivo, decorrendo de tal princípio a
+necessidade de haver, necessariamente, uma relação entre custeio e benefício, não se
+afigurando razoável que o Segurado verta contribuições e não possa se utilizar delas no cálculo
+de seu benefício”, sob pena de infringência ao princípio da contrapartida:
+
+PREVIDENCIÁRIO. RECURSO ESPECIAL AFETADO AO RITO DOS REPETITIVOS.
+ENUNCIADO ADMINISTRATIVO 3/STJ. REVISÃO DE BENEFÍCIO.
+SOBREPOSIÇÃO DE NORMAS. APLICAÇÃO DA REGRA DEFINITIVA PREVISTA
+NO ART. 29, I E II DA LEI 8.213/1991, NA APURAÇÃO DO SALÁRIO DE
+BENEFÍCIO, QUANDO MAIS FAVORÁVEL DO QUE A REGRA DE TRANSIÇÃO
+CONTIDA NO ART. 3o. DA LEI 9.876/1999, AOS SEGURADOS QUE
+INGRESSARAM NO SISTEMA ANTES DE 26.11.1999 (DATA DE EDIÇÃO DA LEI
+9.876/1999). CONCRETIZAÇÃO DO DIREITO AO MELHOR BENEFÍCIO.
+PARECER DO MPF PELO DESPROVIMENTO DO FEITO. RECURSO ESPECIAL DO
+SEGURADO PROVIDO. [...]
+4. Nesse passo, não se pode admitir que tendo o Segurado vertido melhores
+contribuições antes de julho de 1994, tais pagamentos sejam simplesmente
+
+5 STF, Pleno, ADI n. 2.010/DF-MC, Rel. Min. Celso de Mello, DJ 12.4.2002.
+6 Pleno, ADI n. 3.105/DF, Rel. Min. Ellen Gracie, Rel. p/ acórdão Min. Cezar Peluso, DJ 18.2.2005; excerto do voto,
+p. 14.
+
+[[pagina 10 | nativo]]
+descartados no momento da concessão de seu benefício, sem analisar as
+consequências da medida na apuração do valor do benefício, sob pena de
+infringência ao princípio da contrapartida.
+5. É certo que o sistema de Previdência Social é regido pelo princípio
+contributivo, decorrendo de tal princípio a necessidade de haver,
+necessariamente, uma relação entre custeio e benefício, não se afigurando
+razoável que o Segurado verta contribuições e não possa se utilizar delas no
+cálculo de seu benefício.
+6. A concessão do benefício previdenciário deve ser regida pela regra da
+prevalência da condição mais vantajosa ou benéfica ao Segurado, nos termos
+da orientação do STF e do STJ. Assim, é direito do Segurado o recebimento
+de prestação previdenciária mais vantajosa dentre aquelas cujos requisitos
+cumpre, assegurando, consequentemente, a prevalência do critério de
+cálculo que lhe proporcione a maior renda mensal possível, a partir do
+histórico de suas contribuições. [...]
+8. Com base nessas considerações, sugere-se a fixação da seguinte tese:
+Aplica-se a regra definitiva prevista no art. 29, I e II da Lei 8.213/1991, na
+apuração do salário de benefício, quando mais favorável do que a regra de
+transição contida no art. 3o. da Lei 9.876/1999, aos Segurado que
+ingressaram no Regime Geral da Previdência Social até o dia anterior à
+publicação da Lei 9.876/1999.
+9. Recurso Especial do Segurado provido.7
+
+Com efeito, as mudanças provocadas pela EC n. 103/2019, em razão da inclusão
+dos §§ 1º-A e 1º-B ao art. 149 da Constituição Federal, diminuirão a renda de servidores ativos,
+aposentados e pensionistas, com o aumento confiscatório da contribuição previdenciária, sem
+o correspondente aumento no benefício, situação já vedada tanto pelo Supremo Tribunal
+Federal quanto pelo Superior Tribunal de Justiça.
+
+III.b – Inconstitucionalidade do art. 9º, § 8º, da EC n. 103/2019.
+Desconstitucionalização de direitos fundamentais. Vedação ao retrocesso social. Violação
+aos arts. 1º, III, 5º, § 1º, 6º, caput, da CF
+O art. 9º, § 8º, da EC n. 103/2019 remeteu à legislação infraconstitucional a
+implementação da contribuição extraordinária prevista no art. 149, § 1º-B, da CF (incluído pelo
+art. 1º da EC n. 103/2019), que poderá ter período máximo de vigência de 20 (vinte) anos.
+Vale, novamente, conferir o teor do dispositivo ora impugnado:
+
+Art. 9º Até que entre em vigor lei complementar que discipline o § 22 do art.
+40 da Constituição Federal, aplicam-se aos regimes próprios de previdência
+
+7 STJ, Primeira Seção, REsp n. 1.554.596/SC, Rel. Min. Napoleão Nunes Maia Filho, DJe 17.12.2019.
+
+[[pagina 11 | nativo]]
+social o disposto na Lei nº 9.717, de 27 de novembro de 1998, e o disposto
+neste artigo.
+§ 8º Por meio de lei, poderá ser instituída contribuição extraordinária pelo
+prazo máximo de 20 (vinte) anos, nos termos dos §§ 1º-B e 1º-C do art. 149
+da Constituição Federal.
+
+Ao remeter à legislação infraconstitucional a regulamentação da contribuição
+extraordinária, a par de já demonstrada sua inconstitucionalidade, a EC n. 103/2019 perpetra
+verdadeira desconstitucionalização da previdência social e desconsidera o pressuposto
+constitucional da vedação ao retrocesso social, corolários dos princípios da dignidade da
+pessoa humana (art. 1º, III, CF) e da máxima eficácia e efetividade dos direitos fundamentais
+(art. 5º, § 1º, CF).
+As inovações promovidas por emendas constitucionais obedecem a limites
+materiais inerentes à conservação da identidade original e do “núcleo de decisões políticas e
+valores fundamentais” que tenham justificado a promulgação da Constituição, por intermédio
+das “denominadas cláusulas de intangibilidade ou cláusulas pétreas, nas quais são inscritas as
+matérias que ficam fora do alcance do constituinte derivado”:8
+
+As cláusulas pétreas ou de intangibilidade são a expressão mais radical de
+autovinculação ou pré-compromisso, por via do qual a soberania popular
+limita o seu poder no futuro para proteger a democracia contra o efeito
+destrutivo das paixões, dos interesses e das tentações. Funcionam, assim,
+como a reserva moral mínima de um sistema constitucional.9
+
+Nesse contexto, a previdência social compõe o rol de direitos fundamentais sociais
+de estatura constitucional (art. 6º, caput, da CF), em razão do escopo protetivo legitimado
+pela ordem política originária, que foi mantido mesmo após as sucessivas alterações
+constitucionais:
+
+Art. 6º São direitos sociais a educação, a saúde, a alimentação, o trabalho, a
+moradia, o transporte, o lazer, a segurança, a previdência social, a proteção
+à maternidade e à infância, a assistência aos desamparados, na forma desta
+Constituição.
+
+A intenção do Constituinte ao emprestar significado especial aos direitos
+fundamentais e conferir-lhes preponderância sobre o ordenamento jurídico "(...) ressalta a
+vinculação direta dos órgãos estatais a esses direitos e o seu dever de guardar-lhes estrita
+observância"10.
+
+8 BARROSO, Luís Roberto. Direito constitucional contemporâneo: os conceitos fundamentais e a construção do
+novo modelo. São Paulo: Saraiva, 2009, p. 159.
+9 Ibidem, p. 162.
+10 MENDES, Gilmar Ferreira. Os direitos fundamentais e seus múltiplos significados na ordem constitucional.
+
+[[pagina 12 | nativo]]
+Isso significa que tanto o constituinte originário quanto o derivado, ao legitimarem
+a ordem jurídica por intermédio da garantia à previdência social, enalteceram a
+“fundamentalidade” do respectivo direito social a partir justamente de sua
+constitucionalização:
+
+Sob este prisma, pode-se afirmar que a constitucionalização dos direitos
+revela a fundamentalidade dos mesmos e reafirma sua positividade no
+sentido de serem posições juridicamente garantidas e não meras
+proclamações filosóficas, servindo ainda para legitimar a ordem jurídica.11
+
+Permitir que fator crucial (contribuição previdenciária extraordinária) seja
+desconstitucionalizado apenas com o objetivo de facilitar a sua implementação significa
+retirar, de maneira arbitrária e abrupta, garantia constitucional que constitui direito
+fundamental dos segurados da previdência social, que financiaram contratualmente a
+aposentadoria e o benefício pensional.
+Afinal, como salientado pelo Ministro CARLOS BRITTO em seu voto nos autos da
+ADI n. 3104, não é lógico “colocar à disposição da entidade mantenedora do sistema todo o
+futuro, toda a situação jurídica do servidor estatutário”, até porque, ante a heterodoxidade
+inerente à exação previdenciária, não pode o servidor “ficar inteiramente à mercê dos
+humores legislativos do Estado”.
+Além disso, é evidente que a desconstitucionalização de direito de envergadura
+fundamental ofende também o que se tem denominado convencionar, na doutrina e na
+jurisprudência do Supremo Tribunal Federal, de proibição do retrocesso:
+
+[...] a garantia constitucional da proibição do retrocesso contempla dois
+conteúdos normativos que se complementam: se, por um lado, impõe-se ao
+Estado a obrigação de ‘não piorar’ as condições normativas hoje existentes
+em determinado ordenamento jurídico – e o mesmo vale para a estrutura
+organizacional – administrativa –, por outro lado, também se faz imperativo
+[...] uma obrigação de ‘melhorar’, ou seja, de aprimorar tais condições
+normativas – e também fáticas – no sentido de assegurar um contexto cada
+vez mais favorável ao desfrute de uma vida digna e saudável pelo indivíduo
+e pela coletividade como um todo.12
+
+Conforme a jurisprudência do Supremo Tribunal Federal, o princípio da vedação
+do retrocesso tem status constitucional, com fundamento na dignidade humana, e impede
+
+Revista Jurídica Virtual, v. 2, n. 13, p. 1, jun. 1999.
+11 CANOTILHO, José Joaquim Gomes. Estado de Direito. Lisboa: Editora Gradiva, 2001, p. 56.
+12 SARLET, Ingo Wolfgang; FENSTERSEIFER, Tiago. Direito Constitucional Ambiental. 5. ed. São Paulo: Revista dos
+Tribunais, 2017, p. 308.
+
+[[pagina 13 | nativo]]
+limitações desproporcionais e reduções do grau de concretização de direitos fundamentais
+anteriormente consagrados:
+
+Trata-se de princípio constitucional implícito, extraído dos princípios do
+Estado Democrático de Direito, da dignidade da pessoa humana e da
+máxima efetividade dos direitos fundamentais (art. 5º, §1º), que impede a
+retirada de efetividade das normas constitucionais. Entende-se que a
+Constituição estabelece para o legislador [e para o poder derivado] a
+obrigação de concretizar, por meio da legislação, os direitos fundamentais
+estabelecidos no texto constitucional. Como resultado, quando o legislador
+tenha cumprido tal função, impede-se tanto que (i) possa revogar tais
+concretizações sem aprovar legislação substitutiva, de modo a aniquilar a
+proteção constitucional conferida ao direito, quanto que (ii) possa editar
+legislação substitutiva que limite ou reduza, de forma arbitrária ou
+desproporcional, o grau de concretização do direito fundamental
+anteriormente em vigor.13
+
+Igualmente em temas relacionados à Seguridade Social, a jurisprudência do
+Supremo Tribunal Federal é reiterativa ao contemplar o princípio da vedação do retrocesso
+social.14
+Com efeito, a submissão a custeio previdenciário extraordinário, majorado e
+desproporcional, em prejuízo dos servidores ativos, aposentados e pensionistas, por
+intermédio de legislação infraconstitucional, constitui medida que viola o princípio
+constitucional da vedação do retrocesso, pois cerceia valores de subsistência própria e familiar
+(redução do poder aquisitivo) sem justificativas atuariais plausíveis ou razoáveis.
+Logo, além de todos os argumentos apresentados, a alteração promovida pelo art.
+9º, § 8, da EC n. 103/2019 é inconstitucional também sob a óptica do princípio constitucional
+implícito da vedação do retrocesso social, que constitui preceito normativo amplamente
+consagrado na jurisprudência do Supremo Tribunal Federal.
+
+IV – TÉCNICA DE INTERPRETAÇÃO CONFORME
+Em caráter subsidiário ou eventual, na hipótese de as normas impugnadas serem
+consideradas compatíveis com o texto constitucional, deve ser destacada a necessidade do
+
+13 STF, Pleno, RE n. 878.694/MG, Rel. Min. Roberto Barroso, DJe 5.2.2018, excerto do voto do Relator, grifos
+aditados.
+14 Ilustrativamente: ADI n. 2.065/DF, que tratou da extinção do Conselho Nacional de Seguridade Social; ADI n.
+3.105/DF, que discutiu a instituição da contribuição previdenciária dos servidores públicos inativos e pensionistas;
+RE n. 848.331, em que o princípio da vedação do retrocesso constituiu um dos argumentos para impedir que o
+Estado de Pernambuco deixasse de implementar políticas públicas no âmbito do SUS; RE n. 581.353, cujo
+desfecho obrigou o Estado do Amazonas, com base na vedação do retrocesso, a manter política pública de
+atendimento de gestantes em maternidades estaduais.
+
+[[pagina 14 | nativo]]
+empréstimo de técnica de interpretação conforme que conduza a uma interpretação restritiva
+– sob o ponto de vista constitucional – do art. 149, §§ 1º-A e 1ºB, da Constituição Federal e do
+art. 9º, § 8º, da EC n. 103/2019.
+A espécie dos autos trata, ad argumentandum tantum, de simbólica hipótese de
+aplicabilidade de técnica de interpretação conforme, invocada nos casos em que a “leitura
+mais óbvia” da norma for inconstitucional:
+
+Como mecanismo de controle de constitucionalidade, a interpretação
+conforme a Constituição permite que o intérprete, sobretudo o tribunal
+constitucional, preserve a validade de uma lei que, na sua leitura mais óbvia,
+seria inconstitucional. Nessa hipótese, o tribunal, simultaneamente, infirma
+uma das interpretações possíveis, declarando-a inconstitucional, e afirma
+outra, que compatibiliza a norma com a Constituição.
+(…)
+Em suma, a interpretação conforme a Constituição pode envolver a mera
+interpretação adequada dos valores e princípios constitucionais, ou a
+declaração de inconstitucionalidade de uma das interpretações possíveis de
+uma norma ou, ainda, a declaração de não incidência da norma a
+determinada situação de fato, por importar em violação da Constituição.15
+
+A técnica restritiva de interpretação conforme corresponde à aplicação de
+preceito hermenêutico básico e, portanto, é medida que se impõe para normas que
+consubstanciem situações de excepcionalidade. A sua aplicação ao caso dos autos
+corresponde a uma atuação corretiva, que conduz a uma declaração de inconstitucionalidade
+das normas impugnadas sem redução de texto16.
+Isso porque as disposições ora impugnadas (art. 149, §§ 1º-A e 1ºB, da CF e art.
+9º, § 8º, da EC n. 103/2019) desconsideram a necessidade de implementação de uma unidade
+gestora do RPPS, expressamente prevista na Constituição desde a edição da EC n. 41, de 19
+de dezembro de 2003.
+A referida emenda constitucional, por meio da inclusão do § 20 ao art. 40 da CF,
+estabeleceu como dever de cada ente federativo a criação de unidade gestora para administrar
+o respectivo Regime Próprio de Previdência Social:
+
+Art. 1º A Constituição Federal passa a vigorar com as seguintes alterações:
+“Art. 40. Aos servidores titulares de cargos efetivos da União, dos Estados,
+do Distrito Federal e dos Municípios, incluídas suas autarquias e fundações,
+
+15 BARROSO, Luís Roberto. Curso de direito constitucional contemporâneo: os conceitos fundamentais e a
+construção do novo modelo. 6. ed. São Paulo: Saraiva, 2017, p. 340.
+16 A incidência desse postulado permite, desse modo, que, reconhecendo-se legitimidade constitucional a uma
+determinada proposta interpretativa, excluam-se as demais construções exegéticas propiciadas pelo conteúdo
+normativo do ato questionado. (BRASIL. SUPREMO TRIBUNAL FEDERAL, Revista Trimestral de Jurisprudência,
+144:146, ADIn 581/DF, Rel. Min. Marco Aurélio, voto do Min. Celso de Mello).
+
+[[pagina 15 | nativo]]
+é assegurado regime de previdência de caráter contributivo e solidário,
+mediante contribuição do respectivo ente público, dos servidores ativos e
+inativos e dos pensionistas, observados critérios que preservem o equilíbrio
+financeiro e atuarial e o disposto neste artigo. [...]
+§ 20. Fica vedada a existência de mais de um regime próprio de previdência
+social para os servidores titulares de cargos efetivos, e de mais de uma
+unidade gestora do respectivo regime em cada ente estatal, ressalvado o
+disposto no art. 142, § 3º, X."
+
+Com o escopo de regulamentar o art. 40, § 20, da CF, foi editada a Portaria n. 402
+(doc. 09), de 12 de dezembro de 2008, do então Ministério da Previdência Social, que, em
+relação à gestão do regime próprio, assim dispôs:
+
+Da Gestão do Regime Próprio
+Art. 10. É vedada a existência de mais de um RPPS para os servidores titulares
+de cargos efetivos e de mais de uma unidade gestora do respectivo regime
+em cada ente federativo.
+§ 1º Entende-se por unidade gestora a entidade ou órgão integrante da
+estrutura da Administração Pública de cada ente federativo, que tenha por
+finalidade a administração, o gerenciamento e a operacionalização do RPPS,
+incluindo a arrecadação e gestão de recursos e fundos previdenciários, a
+concessão, o pagamento e a manutenção dos benefícios.
+§ 2º A unidade gestora única deverá gerenciar, direta ou indiretamente, a
+concessão, o pagamento e a manutenção, no mínimo, dos benefícios de
+aposentadoria e pensão concedidos a partir da publicação da Emenda
+Constitucional nº 41, de 2003, de todos os poderes, órgãos e entidades do
+ente federativo.
+§ 3º A unidade gestora única contará com colegiado ou instância de decisão,
+no qual será garantida a representação dos segurados.
+
+Ocorre que, a despeito de a União exigir dos Estados, dos Municípios e do Distrito
+Federal a implementação de unidade gestora do respectivo regime próprio de previdência,
+não há notícia da criação de sua própria unidade, conforme expressamente determina a
+Constituição Federal.
+A gravidade da situação torna-se ainda mais acentuada quando, por meio da
+edição da EC n. 103/2019, a União desconsidera que a criação da Unidade Gestora é um
+pressuposto para implementar as contribuições previstas no art. 149, §§ 1º-A e 1º-B, da
+Constituição.
+Como se sabe, até a edição da EC n. 03/1993, não existia modelo previdenciário
+contributivo para os servidores públicos civis, que se subordinavam a um sistema denominado
+“premiativo”. A partir da edição da EC n. 20/1998 e ante o novo paradigma contributivo, a
+preocupação estatal voltou-se à observância do equilíbrio financeiro e atuarial dos regimes
+próprios de previdência.
+
+[[pagina 16 | nativo]]
+Nesse contexto, cumpre destacar que a Lei n. 9.717, de 27 de novembro de 1998,
+dispôs sobre a necessidade de realização de um plano de custeio, por meio de avaliação
+atuarial, nos seguintes termos:
+
+Art. 1º Os regimes próprios de previdência social dos servidores públicos
+da União, dos Estados, do Distrito Federal e dos Municípios, dos militares
+dos Estados e do Distrito Federal deverão ser organizados, baseados em
+normas gerais de contabilidade e atuária, de modo a garantir o seu
+equilíbrio financeiro e atuarial, observados os seguintes critérios:
+I - realização de avaliação atuarial inicial e em cada balanço utilizando-se
+parâmetros gerais, para a organização e revisão do plano de custeio e
+benefícios; [...]
+
+Posteriormente, a EC n. 41/2003 estabeleceu a obrigatoriedade de cada ente
+federativo criar uma unidade gestora para administrar o respectivo Regime Próprio de
+Previdência Social.17
+Contudo, apesar das expressas previsões legais e constitucionais, a UNIÃO nunca
+criou uma unidade gestora para o seu RPPS, o que sempre impediu o processamento de dados
+por um único órgão e, consequentemente, inviabilizou a realização de avaliação atuarial de
+maneira fidedigna.
+Esse fato já foi constatado, inclusive, pelo Tribunal de Contas da União (TCU).
+Consoante evidencia o Acórdão n. 2.059/2012 (doc. 10), são diversas as dificuldades que
+decorrem da inexistência de órgão gestor único:
+
+Destarte, com a possibilidade de recolhimento incorreto das contribuições
+do RPPS, há risco de distorções nos valores das receitas previdenciárias que
+são publicadas no RREO, podendo ocasionar diferença nos resultados
+previdenciários desse regime. Essa fragilidade decorre em parte da
+inexistência de unidade gestora única do regime de previdência no âmbito
+da União, prevista no § 20 da CF/88, incluído pela EC nº 41/2003, a qual
+precisa ser regulamentada (ver item 2.3). A ausência de um órgão gestor
+único faz com que os recolhimentos sejam realizados no âmbito de cada um
+dos órgãos que possuem sistema próprio de pagamento de pessoal, como
+ocorre nos diversos tribunais. Esse processamento descentralizado aumenta
+a possibilidade de erros e dificulta a fiscalização dos recolhimentos. Por isso,
+cabe ressaltar, novamente, a importância de ser regulamentado o dispositivo
+constitucional que prevê a criação da unidade gestora única, nos termos da
+proposta de encaminhamento incluída no item 2.3 deste relatório. [TCU,
+Plenário, Acórdão 2.059/2012, Processo TC 015.529/2010-0, Ata n. 30/2012,
+Data da sessão 08/08/2012]
+
+17 Art. 40. [...] § 20. Fica vedada a existência de mais de um regime próprio de previdência social para os servidores
+titulares de cargos efetivos, e de mais de uma unidade gestora do respectivo regime em cada ente estatal,
+ressalvado o disposto no art. 142, § 3º, X.
+
+[[pagina 17 | nativo]]
+É imprescindível destacar que a própria EC n. 103/2019 determina, em seu art. 12,
+caput e § 1º, à União que institua um sistema integrado de dados relativos aos segurados do
+RPPS, de modo que seja realizada uma adequada apuração do saldo atuarial:
+
+Art. 12. A União instituirá sistema integrado de dados relativos às
+remunerações, proventos e pensões dos segurados dos regimes de
+previdência de que tratam os arts. 40, 201 e 202 da Constituição Federal,
+aos benefícios dos programas de assistência social de que trata o art. 203 da
+Constituição Federal e às remunerações, proventos de inatividade e pensão
+por morte decorrentes das atividades militares de que tratam os arts. 42 e
+142 da Constituição Federal, em interação com outras bases de dados,
+ferramentas e plataformas, para o fortalecimento de sua gestão,
+governança e transparência e o cumprimento das disposições
+estabelecidas nos incisos XI e XVI do art. 37 da Constituição Federal.
+§ 1º A União, os Estados, o Distrito Federal e os Municípios e os órgãos e
+entidades gestoras dos regimes, dos sistemas e dos programas a que se
+refere o caput disponibilizarão as informações necessárias para a
+estruturação do sistema integrado de dados e terão acesso ao
+compartilhamento das referidas informações, na forma da legislação.
+
+Até o presente momento, porém, a UNIÃO está inerte em relação à criação da
+unidade única de gestão do RPPS, o que compromete, como já reportado, a avaliação atuarial
+fidedigna acerca do custeio do seu regime. Trata-se de mecanismo essencial ao gerenciamento
+do modelo previdenciário dos servidores civis da União.
+É essa avaliação que possibilita o efetivo cotejo analítico entre receitas e despesas
+previdenciárias, imprescindível para demonstrar a existência ou não de déficit atuarial, que
+constitui pressuposto constitucional autônomo para a eficácia do disposto no art. 149, §§ 1º-
+A e 1º-B, da CF.
+A despeito de a EC n. 103/2019 não prever expressamente a criação de unidade
+gestora única para o processamento dos dados, a alteração da redação do § 20 do art. 40 da
+CF reiterou a necessidade de se consolidar esse órgão em cada ente da federação:
+
+§ 20. É vedada a existência de mais de um regime próprio de previdência
+social e de mais de um órgão ou entidade gestora desse regime em cada
+ente federativo, abrangidos todos os poderes, órgãos e entidades
+autárquicas e fundacionais, que serão responsáveis pelo seu financiamento,
+observados os critérios, os parâmetros e a natureza jurídica definidos na lei
+complementar de que trata o § 22.
+
+Além disso, a EC n. 103/2019, ao incluir o § 22 no art. 40 da CF, estabeleceu a
+necessidade de edição de lei complementar para dispor sobre a formação da entidade gestora
+
+[[pagina 18 | nativo]]
+do RPPS, bem como para estabelecer os mecanismos que serão utilizados para equacionar
+eventual resultado atuarial deficitário:
+
+§ 22. Vedada a instituição de novos regimes próprios de previdência social,
+lei complementar federal estabelecerá, para os que já existam, normas gerais
+de organização, de funcionamento e de responsabilidade em sua gestão,
+dispondo, entre outros aspectos, sobre: [...]
+IV - definição de equilíbrio financeiro e atuarial; [...]
+VI - mecanismos de equacionamento do deficit atuarial;
+VII - estruturação do órgão ou entidade gestora do regime, observados os
+princípios relacionados com governança, controle interno e transparência;
+
+É imprescindível, portanto, a existência de uma unidade gestora única do RPPS da
+União, que tenha por escopo apresentar uma avaliação atuarial fidedigna e que comprove a
+existência de resultado deficitário, para que se confira plena eficácia ao disposto no art. 149,
+§§ 1º-A e 1º-B, da CF.
+A aplicação da técnica de interpretação conforme se justifica porque o art. 149, §§
+1º-A e 1º-B, da CF desconsidera os ditames constitucionais acima delineados e tem, como
+premissa normativa, a pronta viabilidade de implementação do aumento da base de cálculo
+da contribuição ordinária de aposentados e pensionistas e da contribuição extraordinária dos
+servidores ativos, dos aposentados e dos pensionistas vinculados ao RPPS da UNIÃO.
+A interpretação literal dos dispositivos questionados – sem a ressalva da
+necessidade de implementação de unidade gestora única o RPPS da UNIÃO – viola o princípio
+da legalidade (art. 5º, II, XXXIX, da CF) porque deturpa a interpretação do texto constitucional,
+de indispensável conhecimento por toda a Administração Pública (art. 37, caput, da CF).
+Por tudo, em caráter argumentativo ou eventual, é manifesta a
+inconstitucionalidade da interpretação do art. 149, §§ 1º-A e 1º-B, da CF (incluído pelo art. 1º
+da EC n. 103/2019) e do art. 9º, § 8º, da EC n. 103/2019 que conclua pela possibilidade de se
+implementar a contribuição extraordinária e o aumento da base de cálculo de contribuição
+ordinária antes da avaliação atuarial por unidade gestora única do RPPS da União.
+
+V – MEDIDA CAUTELAR
+Os requisitos autorizadores da concessão da medida cautelar estão presentes
+inequivocamente presentes na espécie dos autos.
+A plausibilidade do direito foi demonstrada pelos argumentos expostos (tópicos
+III.a e III.b acima), que evidenciam, sob a ótica material, a manifesta incompatibilidade dos §§
+1º-A e 1º-B do art. 149 da CF (incluídos pelo art. 1º da EC n. 103/2019) e o art. 9º, § 8º, da EC
+n. 103/2019 com a Constituição Federal.
+
+[[pagina 19 | nativo]]
+O art. 149, §§ 1º-A e 1º-B, da CF, ao possibilitar a implementação de contribuição
+extraordinária e o aumento da base de cálculo de contribuição previdenciária ordinária,
+consubstancia flagrante violação: ao art. 150, IV, da CF (vedação constitucional ao confisco);
+e ao art. 195, § 5º, da CF (princípio do prévio custeio/da contrapartida).
+O art. 9º, § 8º, da EC n. 103/2019 padece de flagrante vício de
+inconstitucionalidade material pois, ao remeter à legislação infraconstitucional a possibilidade
+de implementação da contribuição extraordinária, viola, a um só tempo, o art. 1º, III, da CF
+(princípio da dignidade da pessoa humana) e os arts. 5º, § 1º, e 6º, caput, da CF (máxima
+eficácia e efetividade dos direitos fundamentais), porquanto consubstancia verdadeira
+desconstitucionalização da previdência social, desconsidera o pressuposto constitucional da
+vedação ao retrocesso social e atinge diretamente o núcleo essencial de um direito
+fundamental social.
+Além de diversos julgados extraídos da jurisprudência do Supremo Tribunal
+Federal (supracitados), também o Superior Tribunal de Justiça, em recentíssimo julgamento de
+Recurso Representativo da Controvérsia (Tema Repetitivo n. 999), entendeu que “o sistema de
+Previdência Social é regido pelo princípio contributivo, decorrendo de tal princípio a
+necessidade de haver, necessariamente, uma relação entre custeio e benefício, não se
+afigurando razoável que o Segurado verta contribuições e não possa se utilizar delas no cálculo
+de seu benefício”, sob pena de infringência ao princípio da contrapartida.
+O perigo na demora, por sua vez, decorre da aplicação ampla e irrestrita dos
+dispositivos impugnados, que estão em vigor desde 12 de novembro de 2019. Por tratar-se de
+medida relacionada à restrição de benefício previdenciário, é intuitivo o risco de ineficácia do
+provimento jurisdicional. Afinal, com a vigência da EC n. 103/2019, a qualquer momento
+poderá ser instituída a contribuição extraordinária e o aumento da base de cálculo de
+contribuição ordinária para aposentados e pensionistas, que poderão passar a não dispor de
+meios para suprir suas necessidades.
+Mediante uma carga tributária abusiva e confiscatória, ativos, aposentados e
+pensionistas terão suas subsistências própria e familiar profundamente afetadas, com drástica
+redução dos valores líquidos de suas remunerações (ativos) ou de seus proventos (inativos).
+O sistema previdenciário brasileiro é tema bastante sensível para o Estado, tanto
+do ponto de vista social e político quanto do ponto de vista financeiro e econômico. Quaisquer
+normas que se traduzam na aniquilação de um direito fundamental social, como é o caso dos
+dispositivos impugnados, devem imediatamente ser afastadas pelo Poder Judiciário.
+Por tudo, estão demonstrados os requisitos necessários à concessão de medida
+cautelar para suspender os efeitos do art. 149, §§ 1º-A e 1º-B, da CF e o art. 9º, § 8º, da EC n.
+103/2019, na forma dos arts. 10 e 11 da Lei n. 9.868/1999.
+
+
+[[pagina 20 | nativo]]
+VI – PEDIDOS
+Por todo o exposto, a UNACON requer o seguinte:
+1) seja a presente Ação Direta de Inconstitucionalidade recebida e processada,
+com os documentos que a instruem, nos termos das alíneas “a” e “p” do inc. I do art. 102 e do
+inc. IX do art. 103 da CF e do inc. IX do art. 2º e do art. 3º da Lei n. 9.868/1999;
+2) seja concedida medida liminar acautelatória para suspender os efeitos das
+normas impugnadas (art. 149, §§ 1º-A e 1º-B, da CF e art. 9º, § 8º, da EC n. 103/2019) até o
+julgamento final da presente Ação Direta de Inconstitucionalidade, na forma dos arts. 10 e 11
+da Lei n. 9.868/1999;
+2.1) subsidiariamente, seja aplicado o rito sumário, previsto no art. 12 da Lei n.
+9.868/1999, em virtude da relevância e da dimensão da matéria aqui tratada;
+3) sejam solicitadas informações à Presidência da República, e sejam ouvidos,
+ainda, o Advogado-Geral da União e o Procurador-Geral da República, em consonância com
+os arts. 6º e 8º da Lei n. 9.868/1999;
+4) seja, ao final, confirmada a medida cautelar e julgado procedente o pedido para
+declarar, em definitivo, a inconstitucionalidade do art. 149, §§ 1º-A e 1º-B, da Constituição
+Federal e do art. 9º, § 8º, da Emenda Constitucional n. 103/2019; e
+5) subsidiariamente, caso não acolhido o pleito anterior, que, em técnica de
+interpretação conforme, seja reconhecida como única interpretação compatível com a
+Constituição Federal aquela que estabeleça que os dispositivos impugnados (art. 149, §§ 1º-A
+e 1º-B, da Constituição Federal e do art. 9º, § 8º, da Emenda Constitucional n. 103/2019)
+apenas terão eficácia quando comprovado, por entidade gestora única do regime, resultado
+deficitário atuarial no Regime Próprio da Previdência Social da UNIÃO.
+Para fins meramente fiscais, atribui à causa o valor de R$ 100,00 (cem reais).
+Requer, por fim, que, das futuras publicações, conste o nome do advogado
+Antônio Torreão Braz Filho, OAB/DF 9.930.
+Nesses termos.
+Brasília, 27 de março de 2020.
+
+Vitor Candido Soares Antônio Torreão Braz Filho
+OAB/DF 60.733 OAB/DF 9.930
+
+Larissa Benevides Gadelha Campos Bruno Fischgold
+OAB/DF 29.268 OAB/DF 24.133
+
+

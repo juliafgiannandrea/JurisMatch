@@ -1,0 +1,1945 @@
+[[pagina 1 | nativo]]
+
+
+EXMO. SR. MINISTRO PRESIDENTE DO EGRÉGIO SUPREMO
+
+TRIBUNAL FEDERAL
+
+Distribuição por prevenção ao Min.
+Nunes Marques em razão das ADIs
+
+7.912, 7.914 e 7.917, ajuizadas contra
+
+a mesma Lei nº 15.270/2025.
+
+CONFEDERAÇÃO NACIONAL DE SERVIÇOS – CNS,
+
+entidade sindical, inscrita no CNPJ/MF sob o nº 07.127.560/0001-50
+
+(doc. 02), com sede na ST SRTVS Quadra 701, Conjunto E, Bloco 1, sala
+
+507, s/n, Edifício Palácio do Rádio I, Brasília/DF, por seus advogados
+
+que esta subscrevem (docs. 01 a 04), vem respeitosamente à presença de
+
+V. Exa., com fulcro nos arts. 102, I, alínea “a” e 103, IX da Constituição
+
+Federal e na Lei nº 9.868/99, propor a presente
+
+A Ç Ã O D I R E T A D E I N C O N S T I T U C I O N A L I D A D E
+
+com pedido de MEDIDA CAUTELAR
+
+contra os arts. 6º-A, 16-A e 16-B da Lei nº 9.250/1995, incluídos pela
+
+Lei nº 15.270/2025 (doc. 05), que instituíram a tributação mínima do
+
+imposto de renda para as pessoas físicas que auferem altas rendas, dada
+
+a sua incompatibilidade com a Constituição, como adiante se passa a
+
+demonstrar.
+
+
+[[pagina 2 | nativo]]
+
+
+I. FATOS
+
+1. A presente ação tem como objeto (i) a declaração de
+
+inconstitucionalidade, ou, subsidiariamente, a interpretação conforme a
+
+Constituição, do art. 6º-A da Lei nº 9.250/1995, incluído pela Lei nº
+
+15.270/2025, que instituiu a “tributação mensal de altas rendas” sobre
+
+lucros e dividendos; e (ii) a declaração parcial de inconstitucionalidade,
+
+sem redução de texto, dos arts. 6º-A, 16-A e 16-B da Lei nº 9.250/1995,
+
+incluídos pela Lei nº 15.270/2025, para afastar sua aplicação aos
+
+titulares ou sócios de microempresas e empresas de pequeno porte
+
+optantes pelo SIMPLES NACIONAL.
+
+2. Em apertada síntese, a Lei nº 15.270/2025, oriunda do Projeto de
+
+Lei nº 1.087/2025 de autoria do Poder Executivo, eliminou o imposto de
+
+renda para pessoas físicas que têm rendimentos mensais de até
+
+R$ 5.000,00. Além disso, para aquelas cuja renda mensal está entre
+
+R$ 5.000,01 e R$ 7.350,00 (valor que originalmente era de R$ 7.000,00
+
+no projeto de lei), foi estabelecida uma redução gradativa do imposto.
+
+Como forma de compensar essa renúncia de receita, a Lei
+nº 15.270/2025 criou também a “tributação anual de altas
+rendas” (art. 16-A da Lei nº 9.250/1995), a incidir sobre a soma de
+todos os rendimentos recebidos por pessoas físicas acima de R$
+600.000,00 no ano-calendário, inclusive lucros e dividendos, que
+até então eram isentos do imposto de renda em razão do art. 10 da
+Lei nº 9.249/1995, na redação anterior àquela dada pela Lei nº
+15.270/2025.
+
+
+[[pagina 3 | nativo]]
+
+
+3. A tributação anual de altas rendas consiste na aplicação de uma
+
+alíquota mínima do imposto, variável entre 0% e 10% (a alíquota máxima
+
+de 10% se estabiliza quando os rendimentos atingem R$ 1.200.000,00),
+
+sobre todos os rendimentos da pessoa física, excetuados, exclusivamente,
+
+os rendimentos expressamente previstos nos incisos do §1º do art. 16-A,
+
+como aqueles decorrentes da remuneração da poupança, LCI, LCA,
+
+dentre outros.
+
+4. A ideia é que se passe a tributar, por uma alíquota mínima do
+
+imposto de renda, as pessoas físicas que auferem rendimento anual
+
+superior a R$ 600.000,00 e que não era sujeito ao imposto, como lucros
+
+e dividendos, ou era tributado com alíquota efetiva muito baixa.
+
+5. Como mecanismo de antecipação da aludida tributação anual de
+
+altas rendas, foi instituída a “tributação mensal de altas rendas” (art.
+
+6º-A da Lei nº 9.250/1995). Trata-se de Imposto de Renda Retido na
+
+Fonte (IRRF), à alíquota fixa de 10%, incidente sobre os lucros e
+
+dividendos pagos, creditados, empregados ou entregues por uma mesma
+
+pessoa jurídica a uma mesma pessoa física em montante superior a
+
+R$ 50.000,00 em um mesmo mês, sendo vedadas quaisquer deduções da
+
+base de cálculo.
+
+6. Ocorre que, conforme será demonstrado na presente ação, em
+
+razão da forma como foi estruturada a mencionada “tributação mensal
+
+de altas rendas” (antecipação da tributação anual de altas rendas), com
+
+o estabelecimento de uma alíquota fixa de 10% e sem qualquer
+
+dedução, o legislador acabou criando uma norma (art. 6º-A da Lei
+
+nº 9.250/1995) totalmente inconstitucional, na medida em que viola
+
+princípios e garantias elementares dos contribuintes previstos na Carta
+
+Maior.
+
+
+[[pagina 4 | nativo]]
+
+
+7. Embora a sistemática de antecipação de tributos seja uma medida
+
+legal e constitucional e amplamente utilizada para diversos tributos do
+
+nosso ordenamento jurídico, inclusive para o próprio imposto sobre a
+
+renda, fato é que a antecipação do IRPF mínimo, tal como concebida
+
+pelo art. 6º-A da Lei nº 9.250/1995, incluído pela Lei
+
+nº 15.270/2025, não sobrevive a um teste mínimo de
+
+constitucionalidade, devendo ser imediatamente extirpada do mundo
+
+jurídico.
+
+8. A fórmula de antecipação do imposto mínimo, como se verá, não
+
+respeita a progressividade do imposto de renda, a capacidade
+
+contributiva, a isonomia entre contribuintes, a razoabilidade, a
+
+proporcionalidade, dentre outras garantias e princípios constitucionais.
+
+9. Vale ressaltar, desde já, que a declaração de inconstitucionalidade
+
+do art. 6º-A da Lei nº 9.250/1995 não ocasionará qualquer redução de
+
+receitas públicas, pois restará mantida integralmente a tributação
+
+mínima do imposto de renda (anual).
+
+10. Apenas se recolherá o imposto a tempo e modo corretos
+
+(anualmente), evitando-se uma espécie de “financiamento compulsório”
+
+do Poder Público sob o pretexto de se antecipar imposto que,
+
+sabidamente, não será devido ao final do ano-calendário, ou, quando
+
+muito, será devido em valor infinitamente inferior.
+
+11. Além disso, busca-se nesta ação também afastar qualquer
+
+interpretação no sentido de que a Lei nº 15.270/2025, ao instituir o
+
+imposto mínimo (seja na sua forma mensal como anual), teria revogado
+
+a isenção sobre lucros e dividendos distribuídos por empresas optantes
+
+pelo SIMPLES NACIONAL a seus sócios ou titulares.
+
+
+[[pagina 5 | nativo]]
+
+
+12. Tal isenção permanece hígida no art. 14 da Lei Complementar
+
+nº 123/2006 (“LC 123/2006”), cuja redação não sofreu qualquer
+
+alteração pela Lei nº 15.270/2025, a despeito do entendimento da
+
+Receita Federal do Brasil de que esta teria revogado aquele dispositivo
+
+“tacitamente”1:
+
+13. É o que passa a se demonstrar.
+
+II. PRELIMINARMENTE
+
+II.1. A representatividade e a legitimidade ativa da autora.
+
+14. A autora, Confederação Nacional de Serviços – CNS, é
+
+confederação sindical devidamente reconhecida pelo Ministério do
+
+Trabalho e Emprego, conforme atesta a anexa Certidão no Cadastro
+
+Nacional de Entidades Sindicais (p 03) e, portanto, integra o rol de
+
+legitimados para propor ação direta de inconstitucionalidade, conforme
+
+previsto no art. 103 da Constituição Federal de 1988 e no art. 2º da Lei
+
+9.868/99.
+
+1 Perguntas e Respostas sobre Tributação de Altas Rendas - Considerações sobre Lucros e Dividendos
+2025: https://www.gov.br/receitafederal/pt-br/centrais-de-conteudo/publicacoes/perguntas-e-
+respostas/dirf/manual_padrao_r�b_per_tributacao_cotin_v-19-12-2025.pdf/view
+
+
+[[pagina 6 | nativo]]
+
+
+15. A CNS foi fundada em fevereiro de 1999 para representar, no
+
+âmbito nacional, os direitos e interesses do setor de serviços das
+
+Federações a ela filiadas, organizando o sistema confederativo de
+
+representação sindical desse setor, sendo, portanto, a entidade máxima
+
+em tal sistema e, nos termos de seu Estatuto Social (art. 1º, § 2º, I – doc.
+
+03), tem legitimidade para representar judicialmente a categoria
+
+econômica das empresas de prestação de serviços em âmbito nacional.
+
+16. Quanto à legitimidade ativa para propor ações de controle
+
+concentrado de constitucionalidade, a CNS ajuizou duas relevantes Ações
+
+Diretas de Inconstitucionalidade - no 5576/SP e 5659/SP perante este
+
+C. Supremo Tribunal Federal (doc. 06), nas quais se discutiu a
+
+tributação de empresas por ela representadas.
+
+17. Também ajuizou recentemente a Ação Direta de
+
+Inconstitucionalidade nº 7852/SP (doc. 07) e a Arguição de
+
+Descumprimento de Preceito Fundamental nº 1.296/SP (doc. 08), em que
+
+se discutem normas proibitivas de transportes por aplicativo em
+
+motocicleta, tendo este Excelso Pretório reconhecido novamente sua
+
+legitimidade ativa.
+
+18. Ainda, ajuizou a Ação Direta de Inconstitucionalidade nº 7.905/DF
+
+(doc. 09), em conjunto com a Confederação Nacional do Transporte (CNT)
+
+e a Confederação Nacional de Saúde (CNSaúde), em face da alteração do
+
+índice de correção aplicável aos valores depositados administrativa e
+
+judicialmente pelos contribuintes, bem como a Arguição de
+
+Descumprimento de Preceito Fundamental nº 1.288/DF (doc. 10), em
+
+face de Temas do Tribunal Superior do Trabalho.
+
+
+[[pagina 7 | nativo]]
+
+
+19. Diante disso, é possível verificar que a autora possui legitimidade
+
+ativa para a propositura de ações de controle concentrado de
+
+constitucionalidade, nos termos do art. 103, inciso IX, da Constituição
+
+Federal e do art. 2º, inciso IX, da Lei nº 9.868/1999.
+
+20. Requer-se, assim, preliminarmente, o reconhecimento da
+
+legitimidade ativa da entidade autora para a propositura da presente ação
+
+direta de inconstitucionalidade.
+
+II.2. A Pertinência temática.
+
+21. Para que haja pertinência temática, é necessário que a norma legal
+
+impugnada se aplique, direta ou indiretamente, à classe representada
+
+pela entidade sindical autora. E a pretensão aduzida com a presente ação
+
+guarda evidente relação de pertinência com os objetivos institucionais da
+
+autora.
+
+22. Isso porque, as normas impugnadas afetam diretamente a
+
+distribuição de lucros e dividendos realizada pelas empresas do setor
+
+de serviços a seus sócios e acionistas, inclusive pelas empresas de
+
+serviços optantes pelo SIMPLES NACIONAL, todas representadas pela
+
+CNS, com impacto relevante na organização da economia do setor e na
+
+equidade nas relações tributárias.
+
+23. Cumpre destacar que esta Suprema Corte já firmou entendimento
+
+no sentido de que confederações sindicais setoriais detêm legitimidade
+
+ativa para o ajuizamento de ações de controle concentrado de
+
+constitucionalidade, mesmo quando os efeitos da norma impugnada
+
+transcendem os interesses diretos dos representados, desde que haja
+
+pertinência temática entre os objetivos institucionais da entidade e o
+
+conteúdo normativo questionado, conforme reconhecido, por
+
+
+[[pagina 8 | nativo]]
+
+
+unanimidade, na ADI nº 4.364, de relatoria do Ministro Dias Toffoli, na
+
+qual se reconheceu que:
+
+“A meu ver, a exigência de pertinência temática não impede,
+quando o vício de inconstitucionalidade for idêntico para
+todos os seus destinatários, o amplo conhecimento da ação,
+
+nem a declaração de inconstitucionalidade da norma, para
+
+além do âmbito dos indivíduos representados pela entidade
+
+requerente.
+
+Foi o que ocorreu, mais recentemente, na ADI nº 15/DF, da
+
+relatoria do Ministro Sepúlveda Pertence, DJ de 31/09/07,
+
+em que a Corte declarou a inconstitucionalidade do art. 9º da
+
+Lei nº 7.689, que mantinha em vigor a contribuição para o
+
+FINSOCIAL. A decisão beneficiou todos os potenciais
+
+contribuintes do tributo e não apenas a classe representada
+
+pela entidade requerente (Confederação das Associações de
+
+Microempresas do Brasil), até porque, segundo entendimento
+
+da Corte, inconstitucional era a manutenção do FINSOCIAL
+
+para quaisquer contribuintes, não havendo especificidade
+
+relativa às microempresas. A inconstitucionalidade era,
+
+portanto, essencialmente a mesma para todos.” (g.n.).
+
+24. É inequívoco, portanto, o interesse jurídico da autora e de suas
+
+empresas/entidades ora representadas na obtenção de provimento
+
+jurisdicional que declare a inconstitucionalidade dos dispositivos da Lei
+
+nº 15.270/2025 ora impugnados.
+
+25. Não restam dúvidas, portanto, que as disposições impugnadas
+
+alcançam empresas que estão acobertadas na representação da autora,
+
+impactando o desenvolvimento do setor de serviços, estando presente,
+
+portanto, a pertinência temática na presente ação.
+
+
+[[pagina 9 | nativo]]
+
+
+III. CONTEXTO HISTÓRICO E TELEOLÓGICO DA LEI
+
+Nº 15.270/2025
+
+26. Como visto, a Lei nº 15.270/2025 reduziu a zero o imposto de
+
+renda das pessoas físicas que recebem rendimentos de até R$ 5.000,00
+
+mensais e instituiu uma redução decrescente para as que recebem
+
+rendimentos entre R$ 5.000,01 e R$ 7.350,00.
+
+27. Sem dúvida, trata-se de medida salutar e que contribui para
+
+remediar grave injustiça fiscal, decorrente da não atualização da tabela
+
+do imposto de renda por sucessivos governos, o que vinha ocasionando,
+
+na prática, aumento indireto do imposto de renda da população menos
+
+abastada, por conta da corrosão de seu poder de compra pelos altos
+
+índices inflacionários acumulados2.
+
+28. A tanto que o art. 6º da Lei nº 15.270/2025 previu a criação, em 1
+
+(um) ano, de uma política nacional de atualização da tabela do imposto
+
+de renda das pessoas físicas, para evitar no futuro idêntico problema.
+
+29. Contudo, como forma de compensar a perda de arrecadação pela
+
+redução do imposto, e sob pretexto de tornar o sistema de tributação do
+
+imposto de renda da pessoa física mais progressivo e justo, a Lei
+
+nº 15.270/2025 criou a denominada tributação mínima do imposto de
+
+renda para as pessoas físicas que auferem altas rendas, com a inclusão
+
+dos arts. 6º-A, 16-A e 16-B à Lei nº 9.250/1995.
+
+2 “O Dr. Mário Sérgio Carraro Telles sustentou que a correção da tabela do IRPF é justa, por corrigir
+defasagem histórica. Esclareceu que a faixa de isenção em 1996 era de R$ 900,00, valor que, atualizado
+pelo IPCA, corresponderia a R$ 5.263,45.” Fls. 13/14 do voto do relator ao Projeto de Lei nº
+1.087/2025:
+https://www.camara.leg.br/proposicoesWeb/prop_mostrarintegra?codteor=2958290&�ilename=P
+RL+3+PL108725+%3D%3E+PL+1087/2025
+
+
+[[pagina 10 | nativo]]
+
+
+30. Entretanto, é preciso deixar claro que a verdadeira finalidade da
+
+Lei nº 15.270/2025 não é tributar “lucros e dividendos”, mas fazer
+
+com que a pessoa jurídica seja efetivamente tributada pelas alíquotas
+
+nominais do Imposto sobre a Renda das Pessoas Jurídicas (IRPJ) e da
+
+Contribuição Social sobre o Lucro Líquido (CSLL), de modo que a carga
+
+tributária efetiva das pessoas jurídicas seja de 34%, ou, para as
+
+pessoas jurídicas discriminadas nos incisos II e III do §1º do art. 16-B
+
+da Lei nº 9.250/1995, de 40% ou 45%.
+
+31. Em outras palavras, a tributação dos dividendos na pessoa física
+
+foi uma forma encontrada pelo Poder Executivo para se assegurar, de
+
+forma indireta, a efetiva tributação da pessoa jurídica, como se esta
+
+estivesse recolhendo o IRPJ e a CSLL pelas suas respectivas alíquotas
+
+nominais, em regra, de 25% e 9%.
+
+32. A tanto que, caso a empresa seja efetivamente tributada pelo IRPJ
+
+e pela CSLL pelas respectivas alíquotas nominais, não haverá a
+
+cobrança do imposto de renda da pessoa física sobre lucros e
+
+dividendos, consoante expressamente previsto no art. 16-B da Lei
+
+nº 9.250/19953.
+
+3 “Art. 16-B. Caso se veri�ique que a soma da alı́quota efetiva de tributação dos lucros da pessoa
+jurı́dica com a alı́quota efetiva da tributação mı́nima do imposto de renda aplicável à pessoa fı́sica
+bene�iciária ultrapassa a soma das alı́quotas nominais do imposto sobre a renda das pessoas jurı́dicas
+e da Contribuição Social sobre o Lucro Lı́quido (CSLL), será concedido redutor da tributação
+mínima do Imposto sobre a Renda das Pessoas Físicas calculado sobre os referidos lucros e
+dividendos pagos, creditados, empregados ou entregues por cada pessoa jurı́dica à pessoa fı́sica
+sujeita ao pagamento da tributação mı́nima do imposto de que trata o art. 16-A desta Lei.
+§ 1º A soma das alı́quotas nominais a serem consideradas para �ins do limite previsto no caput deste
+artigo correspondem a:
+I - 34% (trinta e quatro por cento), no caso de pagamento de lucros ou dividendos pelas pessoas
+jurı́dicas não alcançadas pelo disposto nos incisos II e III deste parágrafo;
+II - 40% (quarenta por cento), no caso de pagamento de lucros ou dividendos pelas pessoas jurı́dicas
+de seguros privados e de capitalização e por aquelas referidas nos incisos II, III, IV, V, VI, VII, IX e X do
+§ 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001; e
+III - 45% (quarenta e cinco por cento), no caso de pagamento de lucros ou dividendos pelas pessoas
+jurı́dicas referidas no inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10 de janeiro de 2001.
+
+
+[[pagina 11 | nativo]]
+
+
+33. Isso vem esclarecido, de forma expressa, na própria “exposição de
+
+motivos” do Projeto de Lei nº 1.087/2025, tendo o Poder Executivo
+
+deixado claro que sua pretensão não é tributar os lucros e dividendos,
+
+pois ciente de que isso criaria distorções e desestímulo ao
+
+investimento no país:
+
+“18. O objetivo do IRPFM é garantir uma tributação mínima
+sobre os rendimentos das pessoas físicas de alta renda. No
+entanto, se o lucro contábil – que é a base para a
+distribuição de lucros e dividendos – já tiver sido tributado
+na pessoa jurídica em percentual de carga tributária efetiva
+equivalente à soma das alíquotas nominais do imposto de
+renda das pessoas jurídicas (IRPJ) e da contribuição social
+sobre o lucro líquido (CSLL), então propõe-se que não haja
+tributação adicional na pessoa física. Para tanto, propõe-
+se a introdução do art. 16-B na Lei 9.250, de 1995, o qual
+prevê a concessão de um redutor do imposto caso a soma da
+alíquota efetiva de IRPJ e CSLL apurada com base no lucro
+contábil da pessoa jurídica com a alíquota efetiva do IRPFM
+aplicável à pessoa física beneficiária ultrapasse o percentual
+equivalente à soma das alíquotas do IRPJ e da CSLL
+aplicáveis à pessoa jurídica.
+19. É importante destacar que o redutor previsto no art. 16-
+B é relevante para garantir que a tributação mínima de altas
+rendas não imponha uma carga tributária excessiva sobre
+os rendimentos de lucros e dividendos e,
+consequentemente, gerando uma distorção e
+desencorajando o investimento no País. Portanto, não se
+trata de um benefício fiscal, mas de uma trava sobre a
+tributação de altas rendas incidentes sobre lucros e
+dividendos distribuídos considerando a tributação de IRPJ e
+de CSLL efetivamente suportada pela pessoa jurídica na
+geração dos lucros ou dividendos distribuídos.” (g.n.)
+
+§ 2º O valor do redutor de que trata este artigo corresponderá ao resultado obtido por meio da
+multiplicação do montante dos lucros e dividendos pagos, creditados, empregados ou entregues à
+pessoa fı́sica pela pessoa jurı́dica pela diferença entre:
+I - a soma da alı́quota efetiva de tributação dos lucros da pessoa jurı́dica com a alı́quota efetiva da
+tributação mı́nima do imposto de renda aplicável à pessoa fı́sica bene�iciária; e
+II - o percentual previsto nos incisos I, II e III do § 1º deste artigo.
+
+
+[[pagina 12 | nativo]]
+
+
+34. Assim, em resumo, a Lei nº 15.270/2025 acabou instituindo a
+
+seguinte sistemática de tributação do imposto de renda mínimo sobre
+
+altas rendas das pessoas físicas residentes no Brasil:
+
+ Tributação mensal de altas rendas (art. 6º-A): alíquota fixa
+
+de 10% de IRRF sobre os lucros e dividendos distribuídos
+
+pela pessoa jurídica à pessoa física em montante superior a
+
+R$ 50.000,00 mensal, com a retenção do imposto na fonte
+
+pela pessoa jurídica e sem direito a qualquer dedução, como
+
+forma de antecipação da tributação anual de altas rendas
+
+(art. 16-A, §5º);
+
+ Tributação anual de altas rendas (art. 16-A): alíquota
+
+progressiva de 0% a 10% de IRPF aplicável sobre todos os
+
+rendimentos recebidos no ano-calendário em montante
+
+superior a R$ 600.000,000 anual, inclusive rendimentos
+
+isentos, ressalvadas as exceções previstas no mencionado
+
+artigo, e estabilizando-se a alíquota em 10% para
+
+rendimentos a partir de R$ 1.200.000,00 anual. Há a
+
+possibilidade de dedução, dentre outros, do IRPF devido na
+
+declaração de ajuste anual (art. 16-A, §3º, I), bem como da
+
+própria tributação mensal de altas rendas, antecipada nos
+
+termos do art. 6º-A (art. 16-A, §5º).
+
+ Redutor da tributação dos lucros e dividendos (art. 16-B):
+
+Se a carga tributária efetiva da pessoa jurídica for igual ou
+
+próxima às alíquotas nominais de IRPJ e CSLL (34%), será
+
+aplicado um redutor nos lucros e dividendos, podendo zerar
+
+essa tributação ao atingir tal patamar.
+
+
+[[pagina 13 | nativo]]
+
+
+35. Portanto, o governo não mirou a tributação dos lucros e
+
+dividendos, mas, sim, a tributação das pessoas jurídicas pelas alíquotas
+
+nominais do IRPJ e CSLL, considerando que algumas empresas acabam,
+
+na prática, recolhendo menos IRPJ e CSLL, em razão de benefícios e
+
+incentivos fiscais concedidos pela legislação.
+
+36. Não se pode perder de vista que, um mês após a publicação da Lei
+
+nº 15.270/2025, sobreveio a Lei Complementar nº 224/2025,
+
+reduzindo inúmeros benefícios e incentivos fiscais, inclusive, para o
+
+IRPJ e CSLL4, o que levanta dúvidas se a Lei nº 15.270/2025 realmente
+
+precisava ter instituído uma tributação sobre lucros e dividendos.
+
+37. De toda forma, embora não se esteja impugnando nesta ADI a
+
+inclusão de lucros e dividendos na tributação anual mínima do imposto
+
+de renda (art. 16-A), fato é que, conforme se verá, a “tributação mensal
+
+antecipada” de lucros e dividendos (6º-A), consistente na alíquota
+
+fixa de 10% e vedadas quaisquer deduções da base de cálculo, está
+
+em total descompasso com a aludida tributação anual mínima do
+
+imposto, pois esta prevê, para o cálculo do imposto mínimo: (i) alíquotas
+
+variáveis entre 0% e 10%, (ii) redutor da tributação dos lucros dividendos,
+
+inclusive, podendo não haver qualquer tributação, a depender da carga
+
+tributária efetiva da pessoa jurídica e (iii) outras deduções (art. 16-A, §3º).
+
+4 Art. 4º Os incentivos e benefı́cios federais de natureza tributária são reduzidos na forma deste
+artigo.
+§ 1º A redução a que se refere o caput deste artigo aplica-se aos incentivos e benefı́cios relativos aos
+seguintes tributos federais: (...)
+III - Imposto sobre a Renda das Pessoas Jurı́dicas (IRPJ) e a Contribuição Social sobre o Lucro
+Lı́quido (CSLL);
+
+
+[[pagina 14 | nativo]]
+
+
+38. A desconsideração desses elementos no cálculo da retenção mensal
+
+do IRRF, além de não estar em sintonia com o próprio imposto mínimo
+
+criado pela Lei nº 15.270/2025, agride direitos constitucionais básicos e
+
+elementares dos contribuintes, conforme será mais detalhado a seguir.
+
+39. Já em relação às empresas optantes pelo SIMPLES NACIONAL, a
+
+Constituição Federal prevê o tratamento diferenciado e favorecido (art.
+
+146, III, “d”, da CF/88), sendo evidente que a Lei nº 15.270/2025 não
+
+pretendeu revogar o art. 14 da LC nº 123/2006, ao contrário da
+
+interpretação conferida pela Receita Federal do Brasil.
+
+40. É o que será exposto a seguir.
+
+IV. O DIREITO
+
+IV.1. INCONSTITUCIONALIDADE DA “TRIBUTAÇÃO ANTECIPADA
+
+MENSAL” SOBRE LUCROS E DIVIDENDOS. ART. 6º-A DA LEI
+
+Nº 9.250/1995, INCLUÍDO PELA LEI Nº 15.270/2025.
+
+41. Conforme exposto, a “tributação mensal antecipada” de lucros e
+
+dividendos superiores a R$ 50.000,00 mensais, por meio da aplicação de
+
+uma alíquota fixa de 10%, vedada qualquer dedução da base de cálculo,
+
+está em total descompasso com a “tributação anual de altas rendas”, que
+
+prevê (i) alíquotas variáveis entre 0% e 10%, (ii) redutor da tributação dos
+
+lucros dividendos e (iii) outras deduções.
+
+42. Confira-se a redação do art. 6º-A da Lei nº 9.250/1995, incluído
+
+pela Lei nº 15.270/2025:
+
+
+[[pagina 15 | nativo]]
+
+
+DA TRIBUTAÇÃO MENSAL DE ALTAS RENDAS
+
+“Art. 6º-A. A partir do mês de janeiro do ano-calendário de
+
+2026, o pagamento, o creditamento, o emprego ou a entrega
+
+de lucros e dividendos por uma mesma pessoa jurídica a uma
+mesma pessoa física residente no Brasil em montante
+superior a R$ 50.000,00 (cinquenta mil reais) em um
+
+mesmo mês fica sujeito à retenção na fonte do Imposto sobre
+a Renda das Pessoas Físicas à alíquota de 10% (dez por
+cento) sobre o total do valor pago, creditado, empregado ou
+
+entregue.
+
+§ 1º São vedadas quaisquer deduções da base de cálculo.”
+
+
+43. Por sua vez, a “tributação anual de altas rendas”, prevista nos arts.
+
+16-A e 16-B, da Lei nº 9.250/1995, incluídos pela Lei nº 15.270/2025,
+
+prevê uma alíquota progressiva entre 0% e 10% sobre rendimentos
+
+anuais superiores a R$ 600.000,00 (12 x R$ 50.000,00), de modo que a
+
+alíquota de 10% somente passa a incidir a partir da faixa de
+
+R$ 1.200.00,00 (correspondente a R$ 100.000,00 mensais):
+
+DA TRIBUTAÇÃO ANUAL DE ALTAS RENDAS
+
+“Art. 16-A. A partir do exercício de 2027, ano-calendário de
+
+2026, a pessoa física cuja soma de todos os rendimentos
+recebidos no ano-calendário seja superior a R$ 600.000,00
+(seiscentos mil reais) fica sujeita à tributação mínima do
+
+Imposto sobre a Renda das Pessoas Físicas, nos termos deste
+
+artigo.
+
+
+§ 2º A alíquota da tributação mínima do Imposto sobre a
+
+Renda das Pessoas Físicas será fixada com base nos
+
+
+[[pagina 16 | nativo]]
+
+
+rendimentos apurados nos termos do § 1º deste artigo,
+
+observado o seguinte:
+I - para rendimentos iguais ou superiores a R$ 1.200.000,00
+(um milhão e duzentos mil reais), a alíquota será de 10%
+(dez por cento); e
+II - para rendimentos superiores a R$ 600.000,00
+
+(seiscentos mil reais) e inferiores a R$ 1.200.000,00 (um
+milhão e duzentos mil reais), a alíquota crescerá
+linearmente de 0 (zero) a 10% (dez por cento), conforme a
+
+seguinte fórmula:
+
+Alíquota % = (REND/60.000) - 10, em que:
+
+REND = rendimentos apurados na forma prevista no § 1º
+
+deste artigo.
+
+44. Após o cálculo do IRPF anual mínimo, nos termos acima e dos
+
+demais dispositivos, o valor anteriormente retido durante o ano-
+
+calendário, a título de imposto de renda mensal sobre lucros e dividendos
+
+(art. 6º-A), é deduzido da tributação final, consoante art. 16-A, §5º, da
+
+Lei nº 9.250/1995:
+
+Art. 16-A. A partir do exercício de 2027, ano-calendário de
+
+2026, a pessoa física cuja soma de todos os rendimentos
+
+recebidos no ano-calendário seja superior a R$ 600.000,00
+
+(seiscentos mil reais) fica sujeita à tributação mínima do
+
+Imposto sobre a Renda das Pessoas Físicas, nos termos deste
+
+artigo.
+
+
+§ 3º O valor devido da tributação mínima do Imposto sobre a
+
+Renda das Pessoas Físicas será apurado a partir da
+
+multiplicação da alíquota pela base de cálculo, com a
+
+dedução:
+
+
+[[pagina 17 | nativo]]
+
+
+I - do Imposto sobre a Renda das Pessoas Físicas devido na
+
+declaração de ajuste anual, calculado nos termos do art. 12
+
+desta Lei;
+
+II - do Imposto sobre a Renda das Pessoas Físicas retido
+
+exclusivamente na fonte incidente sobre os rendimentos
+
+incluídos na base de cálculo da tributação mínima do
+
+imposto;
+
+III - do Imposto sobre a Renda das Pessoas Físicas apurado
+
+com fundamento nos arts. 1º a 13 da Lei nº 14.754, de 12 de
+
+dezembro de 2023;
+
+IV - do Imposto sobre a Renda das Pessoas Físicas pago
+
+definitivamente referente aos rendimentos computados na
+
+base de cálculo da tributação mínima do imposto e não
+
+considerado nos incisos I, II e III deste parágrafo; e
+
+V - do redutor apurado nos termos do art. 16-B desta Lei.
+
+§ 4º Caso o valor apurado nos termos do § 3º deste artigo seja
+
+negativo, o valor devido a título de tributação mínima do
+
+Imposto sobre a Renda das Pessoas Físicas será 0 (zero).
+§ 5º Do valor apurado na forma prevista nos §§ 3º e 4º
+deste artigo será deduzido o montante do Imposto sobre
+a Renda das Pessoas Físicas na fonte antecipado nos
+termos do art. 6º-A desta Lei.
+
+45. Ainda para o cálculo final do IRPF anual mínimo, a Lei
+
+nº 15.270/2025 estabelece um “redutor da tributação dos lucros e
+
+dividendos”, de modo que não haverá tributação de lucros e dividendos
+
+na pessoa física se a carga tributária da pessoa jurídica corresponder às
+
+respectivas alíquotas nominais de IRPJ e CSLL (em regra, 34%). Mesmo
+
+não se atingindo tal patamar, o IPRF anual mínimo será reduzido à
+
+medida que a carga tributária da empresa se aproxime das alíquotas
+
+nominais:
+
+
+[[pagina 18 | nativo]]
+
+
+““Art. 16-B. Caso se verifique que a soma da alíquota efetiva
+de tributação dos lucros da pessoa jurídica com a alíquota
+efetiva da tributação mínima do imposto de renda aplicável à
+pessoa física beneficiária ultrapassa a soma das alíquotas
+nominais do imposto sobre a renda das pessoas jurídicas e
+da Contribuição Social sobre o Lucro Líquido (CSLL), será
+concedido redutor da tributação mínima do Imposto
+sobre a Renda das Pessoas Físicas calculado sobre os
+referidos lucros e dividendos pagos, creditados,
+empregados ou entregues por cada pessoa jurídica à pessoa
+física sujeita ao pagamento da tributação mínima do imposto
+de que trata o art. 16-A desta Lei.
+§ 1º A soma das alíquotas nominais a serem consideradas
+para fins do limite previsto no caput deste artigo
+correspondem a:
+I - 34% (trinta e quatro por cento), no caso de pagamento
+de lucros ou dividendos pelas pessoas jurídicas não
+alcançadas pelo disposto nos incisos II e III deste parágrafo;
+II - 40% (quarenta por cento), no caso de pagamento de lucros
+ou dividendos pelas pessoas jurídicas de seguros privados e
+de capitalização e por aquelas referidas nos incisos II, III, IV,
+V, VI, VII, IX e X do § 1º do art. 1º da Lei Complementar nº
+105, de 10 de janeiro de 2001; e
+III - 45% (quarenta e cinco por cento), no caso de pagamento
+de lucros ou dividendos pelas pessoas jurídicas referidas no
+inciso I do § 1º do art. 1º da Lei Complementar nº 105, de 10
+de janeiro de 2001. (...) (g.n.)
+
+46. Para ilustrar toda a sistemática da tributação sobre altas rendas
+
+(mensal e anual), as quais obrigatoriamente precisam ser analisadas em
+
+conjunto para se compreender adequadamente o imposto de renda
+
+mínimo, confira-se os seguintes cenários “A”, “B” e “C” (para
+
+simplificação do cálculo, estamos considerando apenas rendimentos de
+
+lucros e dividendos):
+
+
+[[pagina 19 | ocr]]
+
+R-GODOI —
+ADVOGADOS
+
+
+Cenário A - dividendos mensais de R$ 49.000,00, equivalentes a R$ 588.000.00 anual
+
+* Não há tributação mensal ou anual sobre altas rendas, pois os valores não são superiores a R$ 50.000,00 mensais ou a R$ 600.000,00 anual.
+
+Cenário B - dividendos mensais de R$ 51.000,00, equivalentes a R$ 612.000,00 anual
+
+ri ão mei n . 60,
+Dividendo mensal Alíquota do IRRF IRRF mensal Total IRRF em 12 meses
+R$ 51.000,00 10% R$ 5.100,00 R$ 61.200,00
+rib ão ani e ali nda . 16-A)
+
+IRPFmínimo a recolher (positivo) ou a
+
+Alíquota do IRPF mínimo Dedução do IRRF retido no ano-
+
+Dividendo anual IRPF mínimo apurado a restituir (negativo), antes do redutor
+ja o
+io emma da tributação dos dividendos
+R$ 612.000,00 0,20% R$ 1.224,00 R$ 61.200,00 -R$ 59.976,00
+
+Redutor da tributação dos dividendos (art. 16-B)
+
+Diferença entre (i) a soma da
+
+Alíquota efetiva do IRPF alíquota efetiva do IRPF com a
+
+Alíquota efetiva do
+
+Dividendo anual mínimo sobre dividendos alíquota efetiva do IRPJ/CSLL e [Redutor do IRPF mínimo (art. 16-B, 82º)
+o o
+(art. 16-B, 83º, II) IRPAIERR at. Bra 852) (ii) a alíquota padrão de 34% da
+PJ (art. 16-B, 819,1)
+R$ 612.000,00 0,20% 34% 0,20% R$ 1.224,00
+
+IRPF anual a recolher (positivo) ou a restituir (negativo), após o redutor da tributação dos dividendos
+
+IRPF anual a recolher (positivo) ou a restituir no IRPF anual a recolher
+) i o Redutor do IRPF mínimo no
+(negativo), antes do redutor da tributação dos (positivo) ou a restituir
+cpu (art. 16-B, 82º)
+dividendos (negativo)
+-R$ 59.976,00 R$ 1.224,00 -R$ 61.200,00
+
+Cenário C - dividendos mensais de R$ 100.000,00, equivalentes a R$ 1.200.000,00 anual
+
+Tributação mensal de altas rendas (art. 6º-A
+Dividendo mensal Alíquota do IRRF IRRF mensal Total IRRF em 12 meses
+R$ 100.000,00 10% R$ 10.000,00 R$ 120.000,00
+Tributação anual d s rá s (art. 16-A]
+A di E R IRPFmínimo a recolher (positivo) ou a
+Dividendo anual Alíquota do IRPF mínimo | ammrado | Dedução do IARFretido no ano ivo antes do retutor
+(art. 16-A, 82º) calendário ê “ E
+da tributação dos dividendos
+R$ 1.200.000,00 10,00% R$ 120.000,00 R$ 120.000,00 R$ 0,00
+r da tributação ide: a .
+Diferença entre (i) a soma da
+Alíquota efetiva do IRPF Alíquota efetiva d alíquota efetiva do IRPF com a
+Dividendo anual mínimo sobre dividendos IRPJ/ mm ca É EB são 1) alíquota efetiva do IRPJ/CSLL e |Redutor do IRPF mínimo (art. 16-B, 82º)
+(art. 16-B, 83º, II) ts “+ (ii) a alíquota padrão de 34% da
+PJ (art. 16-B, 81º,1)
+R$ 1.200.000,00 10,00% 34% 10,00% R$ 120.000,00
+IRPF anuala recolher (positivo) ou a restituir (negativo), após o redutor da tributação dos dividendos
+IRPF anual a recolher (positivo) ou a restituir E IRPF anual a recolher
+A 5 Redutor do IRPF mínimo S »
+(negativo), antes do redutor da tributação dos (positivo) ou a restituir
+ni (art. 16-B, 82º) É
+dividendos (negativo)
+R$ 0,00 R$ 120.000,00 -R$ 120.000,00
+
+
+[[pagina 20 | nativo]]
+
+
+47. No cenário “A”, em que o rendimento mensal de dividendos é de
+
+R$ 49.000,00 e anual de R$ 588.000,00, não há tributação mínima, eis
+
+que não superado o montante mensal de R$ 50.000,00 e anual de R$
+
+600.000,00.
+
+48. Já no cenário “B”, em que o rendimento de dividendos é
+
+ligeiramente maior em comparação ao cenário “A”, com valor mensal de
+
+R$ 51.000,00 e anual de R$ 612.000,00, haverá a tributação mensal
+
+sobre altas rendas, devendo a pessoa jurídica reter e recolher o IRRF
+
+mensalmente no valor de R$ 5.100,00.
+
+49. Note-se que em razão de um acréscimo de poucos reais aos
+
+dividendos recebidos, dispara-se um “gatilho” em que se sai de um
+
+cenário de zero tributação, para um cenário de retenção de R$ 5.100,00,
+
+fazendo com que o rendimento líquido mensal (R$ 45.900,00) seja
+
+inferior ao daquele contribuinte que aufere R$ 49.000,00 e, portanto,
+
+não está sujeito à retenção.
+
+50. Não fosse essa discrepância de tratamento entre contribuintes em
+
+situações praticamente equivalentes, se considerarmos apenas a pessoa
+
+física do cenário “B”, vê-se que ela antecipou o total anual de R$
+
+61.200,00 (R$ 5.100,00 x 12), a título de imposto anual mínimo, devido
+
+à retenção de 10% sobre os lucros e dividendos mensais de R$ 51.000,00.
+
+
+[[pagina 21 | nativo]]
+
+
+51. Contudo, ao final do ano-calendário, considerando o rendimento
+
+anual de R$ 612.000,00, a alíquota do imposto é de apenas 0,2%5, ou
+
+seja, uma alíquota bastante ínfima e muito distante da alíquota de
+
+retenção de 10% aplicada ao longo de todo o ano-calendário.
+
+52. Com isso, o valor do IRPF mínimo anual é R$ 1.224,00 (R$
+
+612.000,00 x 0,2%), enquanto, ao longo do ano, o contribuinte
+
+antecipou o valor infinitamente superior de R$ 61.200,00. Isso é
+
+completamente desarrazoado, inexistindo justificativa para que o
+
+legislador não tenha considerado a mesma alíquota anual no cálculo da
+
+retenção mensal.
+
+53. Em outras palavras, a alíquota da antecipação mensal deveria
+
+equivaler à alíquota da tributação anual, tal como ocorre com o IRRF
+
+retido sobre salários, em que, tanto na retenção mensal como na
+
+declaração de ajuste anual, utiliza-se a mesma tabela progressiva do
+
+imposto de renda (com alíquotas progressivas entre 0% e 27,5%), com as
+
+faixas de rendimento proporcionais ao valor mensal recebido, bem como
+
+há a possibilidade de deduções mensais (previdência, dependentes etc.).
+
+54. Portanto, nesse cenário “B”, mesmo sabendo que o contribuinte
+
+sofrerá uma tributação anual de R$ 1.224,00, ele se vê compelido a
+
+“emprestar” ao Estado o valor estratosférico de R$ 59.976,00,
+
+recolhendo quase 5.000% a mais de imposto sabidamente indevido!
+
+55. E pior: a restituição desse tributo será efetivada somente no ano
+
+seguinte e sem a devida correção monetária e/ou juros, uma vez que
+
+os valores restituídos a título de IRPF são atualizados pela SELIC
+
+somente após a entrega da declaração de ajuste anual.
+
+5 Fórmula (art. 16-A, §2º, I, da Lei nº 9.250/1995):
+Alı́quota % = (REND/60.000) - 10, em que:
+REND = rendimentos apurados na forma prevista no § 1º deste artigo.
+
+
+[[pagina 22 | nativo]]
+
+
+56. Assim, o IRRF recolhido em janeiro de 2026 no valor de R$
+
+5.100,00 não sofreria qualquer atualização até maio de 2027, quando
+
+normalmente se entrega a declaração de ajuste anual.
+
+57. Dessa forma, não há como se afirmar que o art. 6º-A da Lei nº
+
+9.250/1995, incluído pela Lei nº 15.270/2025, tratar-se-ia de uma
+
+“antecipação” do imposto mínimo anual sobre os lucros e dividendos. Na
+
+verdade, trata-se de uma manobra ardilosa para instituir uma espécie de
+
+“financiamento compulsório” do Estado, com claro objetivo de fazer
+
+frente à crise do endividamento público.
+
+58. A tributação mensal de altas rendas se assemelha a um
+
+empréstimo compulsório, mas sem a observância dos requisitos
+
+constitucionais para a sua instituição, como a existência de calamidade
+
+pública e veiculação por lei complementar (art. 148 da CF/88).
+
+59. Como se não bastasse, a tributação mensal de altas rendas
+
+ignora também o “redutor da tributação dos dividendos”. No cenário
+
+“B” acima retratado, viu-se que a carga tributária efetiva da pessoa
+
+jurídica é de 34% e, portanto, o contribuinte não pagará nada de imposto
+
+sobre lucros e dividendos ao final do ano-calendário. Ou seja, restituirá
+
+integralmente o valor antecipado de R$ 61.200,00.
+
+60. Ora, se a Lei nº 15.270/2025 determina que a tributação de lucros
+
+e dividendos ocorra apenas se a carga tributária efetiva da pessoa
+
+jurídica for inferior a 34%, é evidente que a “tributação mensal de altas
+
+rendas”, ao ignorar completamente o aludido “redutor”, faz com que o
+
+contribuinte antecipe imposto sabidamente indevido; ou infinitamente
+
+inferior ao devido, à medida que a carga tributária da pessoa jurídica se
+
+aproxima de 34%.
+
+
+[[pagina 23 | nativo]]
+
+
+61. Portanto, o esperado era que o redutor da tributação de dividendos
+
+também tivesse sido incorporado ao cálculo da tributação mensal, por
+
+exemplo, por meio da elaboração de balanços parciais para comprovar
+
+que a pessoa jurídica vem sofrendo tributação igual ou aproximada a
+
+34%.
+
+62. Partindo para o último cenário (“C”), verifica-se que o
+
+contribuinte, mesmo sujeito à alíquota máxima do imposto de renda
+
+mínimo (10%) por auferir rendimento anual de R$ 1.200.000,00,
+
+recolheu de forma indevida o IRRF durante todo o ano-calendário, na
+
+medida em que a pessoa jurídica tem uma tributação efetiva de 34%. Da
+
+mesma forma, o razoável seria que, mensalmente, fosse avaliada a carga
+
+tributária da empresa para fins de verificação da incidência, ou não, do
+
+IRRF mensal.
+
+63. Ressalte-se que não se pretende defender que a antecipação de um
+
+tributo seja calculada mediante critérios rigorosos, de modo a se prever
+
+exatamente quanto o contribuinte irá recolher ao final do período de
+
+apuração. Porém, o cálculo da antecipação deve se basear em critérios no
+
+mínimo razoáveis e proporcionais, de modo que se aproxime, ao máximo,
+
+dos mesmos critérios para o cálculo do imposto final.
+
+64. Entretanto, como restou demonstrado, a “fórmula de antecipação
+
+do imposto” criada pela Lei nº 15.270/2025, ao ignorar completamente
+
+as alíquotas do imposto mínimo, o redutor da tributação de dividendos e
+
+demais deduções, afasta-se de sua natureza antecipatória de imposto,
+
+aproximando-se de um empréstimo de recursos ao Estado, sendo o art.
+
+6º-A da Lei nº 9.250/1995 evidentemente inconstitucional, por violar os
+
+princípios e garantias constitucionais que seguem:
+
+
+[[pagina 24 | nativo]]
+
+
+ Progressividade do imposto de renda (art. 153, §2º, I, da CF/88): O art.
+
+6º-A da Lei nº 9.250/1995, ao aplicar alíquota única de 10% sobre o
+
+montante total dos dividendos que ultrapassa o gatilho mensal (R$
+
+50.000,01), sem qualquer dedução, substitui a técnica gradual e produz
+
+saltos de carga desproporcionais. Além disso, a alíquota mensal fixa de 10%
+
+não guarda correspondência com a alíquota anual, variável entre 0% e 10%,
+
+estas sim progressivas, inexistindo qualquer progressividade na tributação
+
+mensal. O imposto de renda tem caráter anual; a antecipação por retenção
+
+mensal só é constitucional quando articulada com mecanismo de ajuste que
+
+preserve a progressividade anual e esteja condizendo com o quanto se espera
+
+recolher de imposto ao final, ainda que por estimativa.
+
+ Capacidade contributiva (art. 145, §1º, da CF/88) e isonomia tributária
+(art. 150, II, do CTN): há tratamento discriminatório entre contribuintes
+
+com capacidade contributiva praticamente idênticas. A pessoa física que
+
+recebe R$ 49.000,00 mensais não sofrerá retenção do imposto, enquanto a
+
+que recebe R$ 51.000,00 sofrerá a retenção de R$ 5.100,00, obtendo
+
+rendimento líquido (R$ 45.900,00) inferior ao daquela não sujeita ao
+
+imposto.
+
+ Princípios da razoabilidade e da proporcionalidade: a fórmula da retenção
+
+mensal não sobrevive ao teste de razoabilidade e proporcionalidade. Não há
+
+justificativa para se antecipar imposto sabidamente indevido ou
+
+infinitamente maior que devido. Se o contribuinte recebe dividendos mensais
+
+de R$ 51.000,00, sua alíquota, ao final do ano-calendário, será de 0,2% e
+
+não de 10%. É uma diferença significativa na quantificação do imposto e que
+
+não poderia ter sido desconsiderada pelo legislador. O redutor da tributação
+
+também foi indevidamente ignorado. As desvantagens da fórmula de
+
+antecipação, portanto, superam suas vantagens.
+
+ Antecipação de imposto que se assemelha a um empréstimo
+compulsório (art. 148 da CF/88) e confisco do patrimônio (art. 150, IV,
+da CF/88): a tributação mensal de dividendos, na forma como instituída,
+
+configura manobra ardilosa com a finalidade de forçar o contribuinte a
+
+realizar um “financiamento compulsório” do Estado. O contribuinte
+
+
+[[pagina 25 | nativo]]
+
+
+“antecipa tributo” sabidamente indevido, para somente no ano seguinte ter
+
+que solicitar sua restituição, e sem a devida correção monetária e incidência
+
+de juros de mora. O patrimônio do contribuinte é subtraído de forma
+
+compulsória, evidenciando o caráter confiscatório da medida.
+
+65. Sendo assim, não há qualquer dúvida acerca da necessidade de se
+
+declarar a inconstitucionalidade do art. 6º-A da Lei nº 9.250/1995,
+
+incluído pela Lei nº 12.570/2025 – o que, frise-se, em nada impactará a
+
+arrecadação do imposto, cujo montante será regularmente recolhido após
+
+o final do ano-calendário. Não se trata de deixar de pagar o imposto, mas
+
+de não se submeter a antecipações manifestamente inconstitucionais,
+
+sem respeito à progressividade, isonomia e capacidade contributiva.
+
+66. Caso assim não se entenda, o que se admite apenas para
+
+argumentar, requer-se, como pedido subsidiário, que esta C. Corte dê
+
+interpretação conforme a Constituição ao aludido art. 6º-A, de modo que
+
+a tributação mensal de altas rendas se aplique apenas sobre o que
+
+exceder o limite legal, ou seja, sobre a quantia que exceder a R$
+
+50.000,00 mensais.
+
+67. O imposto de renda, por sua natureza, deve observar técnica
+
+progressiva que assegure que alíquotas incidam apenas sobre a parcela
+
+excedente das faixas de renda, preservando a proporcionalidade marginal
+
+da carga tributária, sob pena de se tributar, inclusive, o “mínimo
+
+existencial”.
+
+68. Com isso, remedeiam-se em parte os graves vícios de
+
+inconstitucionalidade que acometem a fórmula de antecipação do
+
+imposto, assegurando-se o devido respeito aos mencionados princípios
+
+constitucionais.
+
+
+[[pagina 26 | nativo]]
+
+
+IV.2. INCONSTITUCIONALIDADE DA TRIBUTAÇÃO DE LUCROS E
+
+DIVIDENDOS DISTRIBUÍDOS POR EMPRESAS OPTANTES PELO
+
+SIMPLES NACIONAL. ARTS. 6º-A, 16-A E 16-B DA LEI Nº 9.250/1995,
+
+INCLUÍDOS PELA LEI Nº 15.270/2025.
+
+69. O artigo 146, III, “d”, da Constituição Federal estabelece que
+
+microempresas e empresas de pequeno porte devem receber um
+
+tratamento tributário diferenciado e favorecido.
+
+70. Isso advém do próprio princípio da igualdade (art. 5º, caput, da
+
+CF/88), especialmente em seu aspecto vertical, que determina um
+
+tratamento distinto para pessoas em situações desiguais, visando a
+
+garantir a equidade material.
+
+71. No contexto econômico, para que pequenos empreendedores
+
+possam competir com empresas maiores, é essencial que recebam do
+
+Estado benefícios e incentivos fiscais. Essas medidas não só
+
+impulsionam seus negócios, como também simplificam o cumprimento
+
+das obrigações tributárias principais e acessórias.
+
+72. Justamente por isso os arts. 170, IX, e 179 da CF/88 elegem o
+
+tratamento favorecido para pequenas empresas como princípio basilar
+
+da ordem econômica, de observância obrigatória pelo legislador.
+
+73. No plano infraconstitucional, o regime tributário favorecido para as
+
+microempresas e empresas de pequeno porte veio instituído pela Lei
+
+Complementar nº 123/2006. Dentre seus benefícios, inclui-se o
+
+recolhimento favorecido e simplificado do IRPJ e da CSLL:
+
+
+[[pagina 27 | nativo]]
+
+
+“Art. 13. O Simples Nacional implica o recolhimento mensal,
+
+mediante documento único de arrecadação, dos seguintes
+
+impostos e contribuições:
+I - Imposto sobre a Renda da Pessoa Jurídica - IRPJ;
+
+III - Contribuição Social sobre o Lucro Líquido – CSLL”
+
+
+74. O cálculo do IRPJ e da CSLL devidos no SIMPLES NACIONAL
+
+consiste na aplicação de alíquotas reduzidas, conforme tabelas dos
+
+Anexos I a V da LC nº 123/2006, sobre a receita bruta auferida ou
+
+recebida no mês (art. 18, §§1º a 3º, da LC nº 123/2006).
+
+75. Ainda, o art. 14 da LC nº 123/2006 estabeleceu a isenção do
+
+imposto de renda, tanto na fonte como na declaração de ajuste anual,
+
+sobre os valores efetivamente pagos ou distribuídos ao titular ou sócio da
+
+empresa optante pelo SIMPLES NACIONAL, exceto se correspondentes a
+
+pró-labore, alugueis ou serviços prestados. Portanto, a isenção alcança
+
+os lucros e dividendos distribuídos:
+
+“Art. 14. Consideram-se isentos do imposto de renda, na
+
+fonte e na declaração de ajuste do beneficiário, os valores
+
+efetivamente pagos ou distribuídos ao titular ou sócio da
+
+microempresa ou empresa de pequeno porte optante pelo
+
+Simples Nacional, salvo os que corresponderem a pró-labore,
+
+aluguéis ou serviços prestados.
+
+§ 1o A isenção de que trata o caput deste artigo fica limitada
+
+ao valor resultante da aplicação dos percentuais de que trata
+
+o art. 15 da Lei no 9.249, de 26 de dezembro de 1995, sobre
+
+a receita bruta mensal, no caso de antecipação de fonte, ou
+
+da receita bruta total anual, tratando-se de declaração de
+
+
+[[pagina 28 | nativo]]
+
+
+ajuste, subtraído do valor devido na forma do Simples
+
+Nacional no período.
+
+§ 2o O disposto no § 1o deste artigo não se aplica na hipótese
+
+de a pessoa jurídica manter escrituração contábil e evidenciar
+lucro superior àquele limite.” (g.n.)
+
+76. Tais medidas visam a fomentar a criação e a prosperidade dos
+
+pequenos empreendimentos e empreendedores, recordando-se que as
+
+empresas do SIMPLES NACIONAL são as principais geradoras de
+
+emprego no país.
+
+77. Ressalte-se que não se pode tentar interpretar de maneira isolada
+
+a isenção do art. 14 em relação aos demais dispositivos da LC
+
+nº 123/2006. Tudo se amolda dentro do escopo do regime diferenciado.
+
+78. Caso o pequeno empreendedor seja tributado pelo imposto de
+
+renda na pessoa física sobre lucros e dividendos, a tendência natural é
+
+que esse ônus tributário seja repassado à pessoa jurídica, seja através do
+
+corte de despesas (reduzindo investimentos empresariais) ou da
+
+majoração do preço de mercadorias e serviços, com impacto negativo à
+
+competitividade.
+
+79. Nessa fase inicial de empreendedorismo, a separação entre o
+
+patrimônio da empresa e o patrimônio dos sócios é uma linha ainda
+
+bastante tênue, não sendo raros aportes de capital pelos sócios na pessoa
+
+jurídica para alavancar o investimento ou mesmo para manter a atividade
+
+funcionando em períodos de instabilidade, aportes esses que seriam
+
+prejudicados com a tributação na pessoa física sobre lucros e dividendos.
+
+
+[[pagina 29 | nativo]]
+
+
+80. Nesse sentido, não há dúvidas de que a Lei nº 15.270/2025, ao
+
+instituir imposto de renda sobre lucros e dividendos, não pretendeu
+
+alcançar as empresas do SIMPLES NACIONAL, pois ciente de que a
+
+isenção do art. 14 da LC nº 123/2006 faz parte do escopo do regime
+
+favorecido determinado pela Constituição.
+
+81. A prova cabal disso é que a Lei nº 15.270/2025 alterou somente o
+
+art. 10 da Lei nº 9.249/1995, que trata da isenção do imposto de renda
+
+sobre lucros e dividendos distribuídos por empresas do “lucro real,
+
+presumido ou arbitrado” (o que exclui o SIMPLES NACIONAL),
+
+determinando-se que tais empresas observem os arts. 6º-A e 16-A da Lei
+
+nº 9.250/1995, incluídos pela Lei nº 15.270/2025, que instituíram a
+
+tributação mensal e anual sobre altas rendas:
+
+“Art. 3º A Lei nº 9.249, de 26 de dezembro de 1995, passa a
+vigorar com as seguintes alterações:
+
+“Art. 10. Os lucros ou dividendos calculados com base
+nos resultados apurados a partir do mês de janeiro de
+1996, pagos ou creditados pelas pessoas jurídicas
+tributadas com base no lucro real, presumido ou
+arbitrado, não ficarão sujeitos à incidência do imposto
+de renda na fonte, nem integrarão a base de cálculo do
+imposto de renda do beneficiário, pessoa física ou
+jurídica, domiciliado no País, observado o disposto
+nos arts. 6º-A e 16-A da Lei nº 9.250, de 26 de
+dezembro de 1995.” (g.n.)
+
+82. Caso a intenção da Lei nº 15.270/2025 fosse estender a tributação
+
+sobre altas rendas aos lucros e dividendos distribuídos por empresas do
+
+SIMPLES NACIONAL, certamente teria feito isso de forma expressa,
+
+alterando-se não apenas a redação do art. 10 da Lei nº 9.249/1995, como
+
+também a redação do art. 14 da Lei Complementar nº 123/2006, para
+
+incluir a mesma remissão aos arts 6º-A e 16-A da Lei nº 9.250/1995.
+
+
+[[pagina 30 | nativo]]
+
+
+83. Portanto, ao contrário da interpretação dada pela Receita Federal
+
+do Brasil, a Lei nº 15.270/2025 em nada alterou o art. 14 da LC
+
+nº 123/2006, que permanece hígido e vigente em todos os seus termos,
+
+e tampouco revogou tal artigo.
+
+84. Ora, sabe-se que “a cláusula de revogação deverá enumerar,
+
+expressamente, as leis ou disposições legais revogadas” (art. 9º da LC
+
+nº 95/1998). Nesse sentido, a Lei nº 15.270/2025 não revogou
+
+expressamente o art. 14 da LC nº 123/2006.
+
+85. Neste viés, a interpretação dada pela RFB viola manifestamente o
+
+princípio da legalidade tributária (art. 150, I, CF/88), ao exigir tributo
+
+(por meio de suposta revogação de isenção) sem qualquer previsão na Lei
+
+nº 15.270/2025.
+
+86. Recorde-se, ainda, que, conforme exposto anteriormente, o objetivo
+
+da Lei nº 15.270/2025 não foi tributar lucros e dividendos, mas, sim, de
+
+forma indireta, fazer com que a carga tributária efetiva da pessoa jurídica
+
+corresponda às alíquotas nominais do IRPJ e CSLL (34%). Se a pessoa
+
+jurídica é tributada nesse patamar, não haverá imposto sobre lucros e
+
+dividendos.
+
+87. Nessa ordem de ideias, não poderia a Lei nº 15.270/2025
+
+pretender que as empresas optantes do SIMPLES NACIONAL sejam
+
+tributadas às alíquotas nominais do IRPJ e CSLL (34%), pois foi a
+
+própria Constituição Federal que impôs tratamento favorecido.
+
+88. A tanto que a Lei Complementar nº 224/2025, ao reduzir
+
+incentivos e benefícios tributários concedidos pela União, excluiu
+
+expressamente dessa redução as empresas optantes pelo SIMPLES
+
+NACIONAL:
+
+
+[[pagina 31 | nativo]]
+
+
+“Art. 4º Os incentivos e benefícios federais de natureza
+tributária são reduzidos na forma deste artigo.
+§ 8º A redução dos incentivos e benefícios prevista no § 2º
+deste artigo não se aplica a:
+VI - benefício estabelecido com base na alínea “d” do inciso
+III do caput e no § 1º do art. 146 da Constituição Federal”
+
+89. Portanto, é evidente que a Lei nº 15.270/2025 não mirou empresas
+
+optantes pelo SIMPLES NACIONAL, o que seria completamente
+
+contraditório com o regime diferenciado estabelecido pela Constituição
+
+Federal.
+
+90. Ademais, não se pode olvidar que o regime de tributação mínima
+
+instituído pela Lei nº 15.270/2025 é deveras complexo. A exigência de
+
+apuração de lucro contábil, cálculo de alíquota efetiva e apresentação de
+
+demonstrações financeiras (art. 16-B) transforma o regime simplificado
+
+em regime complexo, violando o mandamento constitucional de
+
+tratamento favorecido e simplificado (arts. 146, III, “d”, 170, IX e
+
+179 da CF/88).
+
+91. Além disso, ao reservar à lei complementar a definição do
+
+tratamento diferenciado às micro e pequenas empresas (art. 146, III,
+
+“d”), a Constituição impõe limite ao legislador ordinário. Lei ordinária,
+
+como é o caso da Lei nº 15.270/2025, não pode revogar ou esvaziar
+
+benefícios do regime do SIMPLES NACIONAL.
+
+92. Conclui-se, portanto, que a tributação de lucros e dividendos
+
+distribuídos por empresas do SIMPLES NACIONAL a seus titulares ou
+
+sócios, além de não ter sido estabelecida pela Lei nº 15.270/2025, revela
+
+manifesta afronta à Constituição Federal.
+
+
+[[pagina 32 | nativo]]
+
+
+93. Além da violação aos arts. 146, III, “d”, 150, I, 170, IX e 179 da
+
+CF/88 acima citados, também há violação à capacidade contributiva
+
+(art. 145, §1º, da CF/88), à isonomia tributária (art. 150, I, da CF/88) e
+
+à livre-iniciativa e livre-concorrência (art. 170, caput e inciso IV, da
+
+CF/88), ao se pretender submeter o regime do SIMPLES NACIONAL às
+
+normas padrões de tributação aplicáveis às demais pessoas jurídicas,
+
+esvaziando a competitividade dos pequenos empreendedores.
+
+94. Portanto, requer-se a declaração de inconstitucionalidade parcial,
+
+sem redução de texto, dos arts. 6º-A, 16-A e 16-B da Lei nº 9.250/1995,
+
+incluídos pela Lei nº 15.270/2025, para afastar sua aplicação aos
+
+titulares ou sócios de microempresas e empresas de pequeno porte
+
+optantes pelo SIMPLES NACIONAL.
+
+V. NECESSIDADE DE CONCESSÃO DE MEDIDA CAUTELAR
+
+95. A plausibilidade jurídica da presente ação direta de
+
+inconstitucionalidade decorre dos fundamentos já articulados nesta
+
+petição inicial, revelando-se suficiente para o preenchimento do requisito
+
+do fumus boni iuris.
+
+96. O perigo da demora, por sua vez, impõe a concessão imediata da
+
+medida liminar, tendo em vista os graves prejuízos acometidos aos
+
+contribuintes pessoas físicas em razão da antecipação mensal indevida
+
+de imposto de renda, que não respeita minimamente a capacidade
+
+contributiva, a isonomia e a progressividade, dentre outros princípios e
+
+garantias constitucionais.
+
+
+[[pagina 33 | nativo]]
+
+
+97. Além disso, a ampliação da tributação de lucros e dividendos, para
+
+alcançar microempresas e empresas de pequeno porte optantes pelo
+
+SIMPLES NACIONAL, impõe graves prejuízos à sobrevivência e
+
+competitividade dessas empresas, minando investimentos e trazendo
+
+complexidade e onerosidade a um sistema que deve ser simplificado, de
+
+acordo com a Constituição.
+
+98. Ressalte-se que os prejuízos acima são irreparáveis ou de difícil
+
+reparação: uma vez que o Estado tenha se apropriado indevidamente de
+
+recursos privados e criado empecilhos ao pequeno empreendedor, o
+
+retorno ao “status quo” não é mais possível, na medida em que o prejuízo
+
+já terá se consumado.
+
+99. É certo que, nas ADIs nº 7.912, 7.914 e 7.917, nas quais se atacam
+
+as mesmas normas ora impugnadas, mas com pedidos e fundamentações
+
+um tanto distintos em relação à presente ação, o Exmo. Min. Relator
+
+Nunes Marques indeferiu, por ora, a medida cautelar, sob o entendimento
+
+de que a matéria seria controvertida. Confira-se decisão monocrática de
+
+26/12/2025:
+
+“Por outro lado, entendo que as demais questões de mérito
+levantadas nas ações diretas, sobretudo quanto à própria
+legitimidade da tributação inserida no ordenamento jurídico
+pelos arts. 2º e 3º da Lei n. 15.270/2025, revelam-se
+controvertidas, de forma a afastar, por ora, a concessão de
+medida cautelar.”
+
+100. Contudo, a ora autora evidenciou ao longo desta petição inicial, de
+
+forma didática e com cálculos exemplificativos da tributação ora
+
+impugnada, o quão irrazoável é a fórmula de retenção na fonte de lucros
+
+e dividendos criada pela Lei nº 15.270/2025, ao desconsiderar as
+
+alíquotas do imposto final e redutores da tributação, agredindo o
+
+patrimônio do contribuinte de maneira inadmissível.
+
+
+[[pagina 34 | nativo]]
+
+
+101. Também se evidenciou que, se a Lei nº 15.270/2025 pretendesse
+
+alterar o art. 14 da LC nº 123/2006 para ampliar a tributação de altas
+
+rendas de forma a alcançar os lucros e dividendos distribuídos pelas
+
+empresas do SIMPLES NACIONAL, teria feito isso de forma expressa, tal
+
+como alterou expressamente o art. 10 da Lei nº 9.249/1995, que trata da
+
+mesma isenção, porém, limitadamente às empresas submetidas ao lucro
+
+real, presumido ou arbitrado.
+
+102. Com a máxima vênia, não há matéria controvertida, na medida em
+
+que salta aos olhos a inexistência de qualquer referência na Lei
+
+nº 15.270/2025 à Lei Complementar nº 123/2006, que disciplina o
+
+SIMPLES NACIONAL.
+
+103. Interpretar de forma analógica e ampliativa a Lei nº 15.270/2025
+
+para aplicá-la ao SIMPLES NACIONAL contraria o princípio mais básico
+
+de hermenêutica tributária, que proíbe a analogia para exigir tributo não
+
+previsto expressamente em lei (art. 108, §1º, CTN).
+
+104. Portanto, e considerando que a medida cautelar nas ADIs 7.912,
+
+7.914 e 7.917 foi apenas momentaneamente indeferida, sem prejuízo da
+
+reanálise do pedido para momento posterior, requer-se o deferimento da
+
+presente medida cautelar.
+
+
+[[pagina 35 | nativo]]
+
+
+VI. PEDIDO
+
+105. Ante todo o exposto, requer a autora que este Supremo Tribunal
+
+Federal:
+
+a) Conceda medida cautelar, nos termos do art. 10 da Lei
+
+nº 9.868/1999, para (i) suspender imediatamente a eficácia do
+
+art. 6º-A da Lei nº 9.250/1995, incluído pela Lei nº
+
+15.270/2025, suspendendo-se imediatamente a “tributação
+
+mensal de altas rendas”, ou, subsidiariamente,
+
+determinando-se que a referida tributação se aplique apenas
+
+sobre o que exceder o limite legal, ou seja, sobre a quantia
+
+que exceder a R$ 50.000,00 mensais; e (ii) suspender
+
+imediatamente a eficácia parcial dos arts. 6º-A, 16-A e 16-B da
+
+Lei nº 9.250/1995, incluídos pela Lei nº 15.270/2025,
+
+afastando-se sua aplicação aos lucros e dividendos distribuídos
+
+por microempresas e empresas de pequeno porte optantes pelo
+
+SIMPLES NACIONAL a seus titulares ou sócios.
+
+b) Sejam intimados o Presidente da Câmara dos Deputados, o
+
+Presidente do Senado Federal e o Presidente da República, para
+
+prestarem informações (Lei nº 9.868/1999, art. 6º, caput e
+
+parágrafo único);
+
+c) Sejam ouvidos o Advogado-Geral da União e o Procurador-Geral
+
+da República (Lei nº 9.868/1999, art. 8º);
+
+d) Ao final, seja julgado procedente o pedido, com a ratificação da
+
+medida cautelar anteriormente requerida, para:
+
+
+[[pagina 36 | nativo]]
+
+
+I. declarar a inconstitucionalidade do art. 6º-A da Lei nº
+
+9.250/1995, incluído pela Lei nº 15.270/2025, tendo em
+
+vista que a “tributação mensal de altas rendas” não se
+
+compatibiliza com a Constituição Federal; subsidiariamente,
+
+requer-se seja conferida interpretação conforme a
+
+Constituição ao referido dispositivo, de modo que a
+
+tributação mensal de altas rendas se aplique apenas sobre o
+
+que exceder o limite legal, ou seja, sobre a quantia que
+
+exceder a R$ 50.000,00 mensais; e
+
+II. a declaração parcial de inconstitucionalidade, sem redução
+
+de texto, dos arts. 6º-A, 16-A e 16-B da Lei nº 9.250/1995,
+
+incluídos pela Lei nº 15.270/2025, para afastar sua
+
+aplicação aos lucros e dividendos distribuídos por
+
+microempresas e empresas de pequeno porte optantes pelo
+
+SIMPLES NACIONAL a seus titulares ou sócios.
+
+106. Todas as informações e avisos deverão ser levados a efeito no
+
+endereço dos procuradores da autora, qual seja, Rua dos Pinheiros, 870,
+
+Conjuntos 33/34, São Paulo/SP, CEP 05422-001, telefone (11) 3513-
+
+4100, Fax (11) 3513-4101, endereço eletrônico:
+
+tributario@rgodoi.com.br.
+
+107. Requer, ainda, sejam as intimações por meio de publicação no
+
+Diário Oficial realizadas exclusivamente em nome dos advogados Ricardo
+
+Oliveira Godoi, OAB/SP 143.250 e Alexander Gustavo Lopes de
+
+França, OAB/SP 246.222, sob pena de nulidade, nos termos do art. 272,
+
+§ 5º, do Código de Processo Civil.
+
+
+[[pagina 37 | nativo]]
+
+
+108. Por fim, declara a autora a autenticidade de todos os documentos
+
+que não se encontram em cópia autenticada, nos termos do art. 425, IV,
+
+do Código de Processo Civil.
+
+109. Dá-se à presente causa o valor de R$ 1.000,00 (mil reais), para fins
+
+fiscais.
+
+Nestes termos,
+
+Pede deferimento.
+
+Brasília, 5 de fevereiro de 2026.
+
+Ricardo Oliveira Godoi
+
+OAB/SP 143.250
+
+Alexander Gustavo Lopes de França
+
+OAB/SP 246.222
+
+

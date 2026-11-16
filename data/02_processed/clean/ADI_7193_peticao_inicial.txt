@@ -1,0 +1,1836 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO LUÍS ROBERTO BARROSO DO COLENDO SUPREMO
+
+TRIBUNAL FEDERAL.
+
+DISTRIBUIÇÃO POR PREVENÇÃO: ADI Nº 7.183; ADI 7.088 E ADPF 986
+
+PODEMOS, pessoa jurídica de direito privado, devidamente inscrito no CNPJ sob o
+
+nº 01.248.362/0001-6, com sede no SHIS QI 9, Conj. 6, Casa 7, Lago Sul - Brasília/DF,
+
+neste ato representado por sua Presidente Nacional e representante legal RENATA
+
+HELLMEISTER DE ABREU, brasileira, casada, inscrita no RG sob nº 24.486.052/SSP-SP e
+
+inscrita no CPF sob o nº 183.729.888-20, vem, respeitosamente, por seus advogados, com
+fundamento nos artigos 102, I, “a” e “p”1, e 103, IV2, da Constituição da República de 1988
+e art. 2º, VIII3, da Lei nº 9.868/99, perante Vossas Excelências, propor
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com requerimento de medida cautelar
+
+objetivando conferir interpretação conforme à Constituição da República ao parágrafo 4º do
+
+art. 10 da Lei nº 9.656/1998, alterado pela Lei nº 14.307, de 2022; aos parágrafos 7º e 8º do
+
+art. 10 e aos incisos I, II, e III, do parágrafo 3º do art. 10-D, também da Lei nº 9.656/1998,
+
+incluídos pela Lei nº 14.307, de 2022, bem como o artigo 2º da Resolução Normativa da
+
+ANS nº 465/2021, devem ser interpretados de acordo com a Dignidade da Pessoa Humana
+
+(art. 1º, III, da CR/88), aos Direitos Fundamentais (art. 5º da CR/88), ao Direito a Saúde (art.
+
+196 e seguintes da CR/88) e aos Direitos Sociais (arts. 6º, 23, II, da CR/88), além de afrontar
+
+Tratados Internacionais de Direitos Humanos como o a Convenção Internacional sobre
+
+Direitos das Pessoas com Deficiência (artigo 4º, 1, “b”, 10, 25 e 26), PIDESC – Pacto
+
+1 Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-lhe
+I - processar e julgar, originariamente: a) a ação direta de inconstitucionalidade de lei ou ato normativo
+federal ou estadual e a ação declaratória de constitucionalidade de lei ou ato normativo federal; (...) p) o
+pedido de medida cautelar das ações diretas de inconstitucionalidade; (...).
+2 2 Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (...) VIII - partido político com representação no Congresso Nacional; (...).
+3 3 Art. 2o Podem propor a ação direta de inconstitucionalidade: (...) VIII - partido político com
+representação no Congresso Nacional; (...).
+
+
+[[pagina 2 | nativo]]
+Internacional dos Direitos Econômicos, Sociais e Culturais (artigo 12), Protocolo Adicional
+
+à Convenção Americana sobre Direitos Humanos em Matéria de Direitos Econômicos,
+
+Sociais e Culturais - Protocolo de San Salvador (artigo 10), Convenção Internacional sobre
+
+Direitos das Pessoas com Deficiência (artigo 4º, 1, “b”, 10, 25 e 26), consoante as razões de
+
+fato e de direito a seguir aduzidas.
+
+DA LEGITIMIDADE ATIVA DE PARTIDO POLÍTICO
+
+Primeiramente, considera-se inequívoca a legitimidade ativa do PODEMOS para
+
+agir em sede de controle constitucional, uma vez que é Partido Político regularmente
+constituído perante o Tribunal Superior Eleitoral e possui representação no Congresso
+
+Nacional, nos termos do artigo 103, inciso VIII, da Constituição da República e do artigo
+
+2º, inciso I, da Lei nº 9.889/1999.
+
+Segundo a jurisprudência desse c. Supremo Tribunal Federal, a legitimidade ativa
+
+de agremiação partidária com representação no Congresso Nacional “não sofre as
+
+restrições decorrentes da exigência jurisprudencial relativa ao vínculo de pertinência
+temática nas ações diretas”.4
+
+Dessa forma, os partidos políticos possuem a denominada legitimidade ativa
+
+universal para provocação do controle de constitucionalidade, de modo que resta clara a
+
+legitimidade do Podemos para a propositura da presente ação.
+
+NORMAS IMPUGNADAS
+
+A presente ação direta de inconstitucionalidade tem por escopo conferir interpretação
+
+conforme à Constituição da República ao parágrafo 4º do art. 10 da Lei nº 9.656/1998,
+
+alterado pela Lei nº 14.307, de 2022; aos parágrafos 7º e 8º do art. 10 e aos incisos I, II, e
+
+III, do parágrafo 3º do art. 10-D, também da Lei nº 9.656/1998, incluídos pela Lei nº 14.307,
+
+de 2022, bem como ao artigo 2º da Resolução Normativa da ANS nº 465/2021, para
+
+assegurar o direito à saúde na sua mais ampla e plena extensão, vedando a análise taxativa
+
+do rol da ANS, que limita o exercício do direito à saúde, tudo em conformidade com os
+
+4 ADI n. 1.407-MC, Rel. Min. Celso de Mello, DJ 24.11.2000.
+
+
+[[pagina 3 | nativo]]
+fundamentos que serão detalhados em tópico próprio.
+
+A par de evidenciar os vícios que inquinam a norma, faz-se oportuna a transcrição
+da integralidade de seus dispositivos, a saber:
+
+LEI Nº 9.656, DE 3 DE JUNHO DE 1998.
+
+Dispõe sobre os planos e seguros privados de assistência à saúde.
+
+Art. 10. É instituído o plano-referência de assistência à saúde, com
+
+cobertura assistencial médico-ambulatorial e hospitalar,
+
+compreendendo partos e tratamentos, realizados exclusivamente no
+
+Brasil, com padrão de enfermaria, centro de terapia intensiva, ou
+
+similar, quando necessária a internação hospitalar, das doenças
+
+listadas na Classificação Estatística Internacional de Doenças e
+
+Problemas Relacionados com a Saúde, da Organização Mundial de
+
+Saúde, respeitadas as exigências mínimas estabelecidas no art. 12
+
+desta Lei, exceto:
+
+§ 4º A amplitude das coberturas no âmbito da saúde suplementar,
+
+inclusive de transplantes e de procedimentos de alta complexidade,
+
+será estabelecida em norma editada pela ANS. (Redação dada pela
+
+Lei nº 14.307, de 2022)
+
+§ 7º A atualização do rol de procedimentos e eventos em saúde
+
+suplementar pela ANS será realizada por meio da instauração de
+
+processo administrativo, a ser concluído no prazo de 180 (cento e
+
+oitenta) dias, contado da data em que foi protocolado o pedido,
+
+prorrogável por 90 (noventa) dias corridos quando as
+
+circunstâncias o exigirem. (Incluído pela Lei nº 14.307, de 2022)
+
+§ 8º Os processos administrativos de atualização do rol de
+
+procedimentos e eventos em saúde suplementar referente aos
+
+tratamentos listados nas alíneas c do inciso I e g do inciso II do
+
+
+
+[[pagina 4 | nativo]]
+caput do art. 12 desta Lei deverão ser analisados de forma
+
+prioritária e concluídos no prazo de 120 (cento e vinte) dias,
+
+contado da data em que foi protocolado o pedido, prorrogável por
+
+60 (sessenta) dias corridos quando as circunstâncias o exigirem.
+
+(Incluído pela Lei nº 14.307, de 2022).
+
+
+Art. 10-D. Fica instituída a Comissão de Atualização do Rol de
+
+Procedimentos e Eventos em Saúde Suplementar à qual compete
+
+assessorar a ANS nas atribuições de que trata o § 4º do art. 10 desta
+
+Lei. (Incluído pela Lei nº 14.307, de 2022)
+
+
+§ 3º A Comissão de Atualização do Rol de Procedimentos e Eventos
+
+em Saúde Suplementar deverá apresentar relatório que
+
+considerará: (Incluído pela Lei nº 14.307, de 2022)
+
+I - as melhores evidências científicas disponíveis e possíveis sobre a
+
+eficácia, a acurácia, a efetividade, a eficiência, a usabilidade e a
+
+segurança do medicamento, do produto ou do procedimento
+
+analisado, reconhecidas pelo órgão competente para o registro ou
+
+para a autorização de uso; (Incluído pela Lei nº 14.307, de 2022)
+
+II - a avaliação econômica comparativa dos benefícios e dos custos
+
+em relação às coberturas já previstas no rol de procedimentos e
+
+eventos em saúde suplementar, quando couber; e (Incluído pela
+
+Lei nº 14.307, de 2022)
+
+III - a análise de impacto financeiro da ampliação da cobertura no
+
+âmbito da saúde suplementar. (Incluído pela Lei nº 14.307, de
+
+2022)
+
+RESOLUÇÃO NORMATIVA - RN Nº 465, DE 24 DE
+
+FEVEREIRO DE 2021
+
+Art. 2º Para fins de cobertura, considera-se taxativo o Rol de
+
+Procedimentos e Eventos em Saúde disposto nesta Resolução
+
+Normativa e seus anexos, podendo as operadoras de planos de
+
+
+
+[[pagina 5 | nativo]]
+assistência à saúde oferecer cobertura maior do que a obrigatória,
+
+por sua iniciativa ou mediante expressa previsão no instrumento
+
+contratual referente ao plano privado de assistência à saúde.
+
+Portanto, a presente ação direta que objetiva conferir interpretação conforme à
+
+Constituição da República ao parágrafo 4º do art. 10 da Lei nº 9.656/1998, alterado pela Lei
+
+nº 14.307, de 2022; aos parágrafos 7º e 8º do art. 10 e aos incisos I, II, e III, do parágrafo 3º
+
+do art. 10-D, também da Lei nº 9.656/1998, incluídos pela Lei nº 14.307, de 2022, bem como
+
+ao artigo 2º da Resolução Normativa da ANS nº 465/2021, em atenção à Dignidade da
+
+Pessoa Humana (art. 1º, III, da CR/88), aos Direitos Fundamentais (art. 5º da CR/88), ao
+
+Direito a Saúde (art. 196 e seguintes da CR/88) e aos Direitos Sociais (arts. 6º, 23, II, da
+
+CR/88), além de afrontar Tratados Internacionais de Direitos Humanos como o a Convenção
+
+Internacional sobre Direitos das Pessoas com Deficiência (artigo 4º, 1, “b”, 10, 25 e 26),
+
+PIDESC – Pacto Internacional dos Direitos Econômicos, Sociais e Culturais (artigo 12),
+
+Protocolo Adicional à Convenção Americana sobre Direitos Humanos em Matéria de
+
+Direitos Econômicos, Sociais e Culturais - Protocolo de San Salvador (artigo 10),
+
+Convenção Internacional sobre Direitos das Pessoas com Deficiência (artigo 4º, 1, “b”, 10,
+
+25 e 26).
+
+Vejamos, agora, as inconstitucionalidades perpetradas.
+
+DO DIREITO À SAÚDE DAS PESSOAS COM DEFICIÊNCIA NA PERSPECTIVA
+
+DO DIREITO INTERNACIONAL DOS DIREITOS HUMANOS
+
+O preâmbulo da Constituição da Organização Mundial da Saúde (OMS) de 1946
+
+define o termo “saúde” como o completo estado de bem-estar físico, mental e social, e
+não simplesmente a ausência de enfermidade.5 Inobstante críticas à tal concepção de
+
+saúde, apontada como realidade utópica, intangível, o conceito, na verdade, foi se
+
+ampliando com o tempo, até o reconhecimento, como ocorre atualmente, da saúde como
+
+direito.
+
+5WHO & World Bank, World Report on Disability, 2011. Disponível em:
+https://apps.who.int/iris/bitstream/handle/10665/44575/9788564047020_por.pdf;jsessionid=F5506DA57EC296A78F
+F1119AA32049FD?sequence=4. Acesso: 15.5.2019
+
+
+[[pagina 6 | nativo]]
+Segundo Laurell (1982, passim), a saúde passa a ser vista como uma necessidade
+
+humana e a satisfação associa-se imediatamente a um conjunto de condições, bens e
+
+serviços que permitem o desenvolvimento individual e coletivo de capacidades e
+
+potencialidades, conforme o nível de recursos sociais existentes e os padrões culturais de
+
+cada contexto específico.
+
+Sendo, então, elemento inerente à manutenção da dignidade humana e
+
+codependente de outros direitos humanos (como alimentação adequada, moradia e
+
+trabalho digno, educação e informação e não-discriminação), o direito à saúde passa a ser
+
+positivado nos tratados internacionais de direitos humanos, alcançando status de direito
+
+universal e devendo, portanto, ser garantido e promovido pelos Estados indistintamente
+a todos os indivíduos de forma progressiva.6
+
+Nessa abordagem, passa-se então a exigir que toda política, estratégia e programa
+
+nacional direcionados à saúde devam ser concebidos para progressivamente alcançar toda
+
+população, dirimindo-se práticas discriminatórias e injustas que acabam por promover
+
+não acesso ou acesso desigual à saúde.
+
+Cabe ao Estado adotar medidas apropriadas, não apenas de caráter legislativo,
+
+como também de caráter administrativo, judiciário, orçamentário e econômico, no limite
+
+máximo dos recursos disponíveis, podendo o Estado ser responsabilizado em caso de
+
+omissão, a depender do caso.
+
+Ainda que seja obrigação do Estado fornecer assistência à saúde a todos os
+
+cidadãos, a mera previsão positivada em nosso ordenamento jurídico não tem o condão
+
+de suprir toda a demanda de atendimento à saúde, logo, o sistema de saúde brasileiro é
+
+direito de todos e de livre atuação da iniciativa privada.
+
+No contexto constitucional, a saúde suplementar busca auxiliar na garantia do
+
+acesso da população ao plano de saúde e à assistência hospitalar.
+
+6 De acordo com o Comentário Geral n. 14 do Comitê da ONU de Direitos Sociais, Econômicos e Sociais, a saúde é
+um direito indispensável para o exercício de outros direitos humanos.
+
+
+[[pagina 7 | nativo]]
+Para certificar a prestação dos serviços de saúde, o Estado criou as agências
+
+reguladoras para manter o nível de qualidade do setor, regulando fiscalizando a atividade
+
+de determinado setor da economia.
+
+Em outras palavras, as agências reguladoras possuem poder especial para legislar
+
+sobre como determinado mercado deve operar. Dessa forma, são esses órgãos que
+
+estabelecem, com especificidade, os parâmetros mínimos de funcionamento das empresas
+
+de um setor.
+
+Segundo estabelece o art. 3º da Lei nº 9.961/2000, a Agência Nacional de Saúde
+
+Suplementar tem por finalidade promover a defesa do interesse público na assistência
+
+suplementar à saúde.
+
+Dentre as competências previstas pela referida lei, destacam-se:
+
+• a definição de teto máximo de reajuste para os planos individuais e
+
+familiares;
+• a fiscalização de reajustes aplicados aos planos coletivos;
+• a criação da lista de procedimentos e eventos em saúde.
+
+Com intuito de regular o mercado de saúde suplementar, a ANS instituiu a
+
+Resolução Normativa nº 465/2021, que atualiza o rol de procedimentos e eventos em
+
+saúde, estabelecendo a taxatividade do referido rol, podendo as operadoras de planos de
+
+saúde oferecerem cobertura adicional maior que a obrigatória, mediante expressa
+
+previsão por instrumento contratual.
+
+No entanto, considerar o rol de procedimentos à exaustão acarretará inúmeros
+
+prejuízos à população vulnerável, importando na exclusão de procedimentos
+
+imprescindíveis à reabilitação das pessoas com deficiência.
+
+Na tentativa de garantir e promover o direto à saúde das pessoas com deficiência
+
+em condições de igualdade com as demais pessoas, a Convenção das Nações Unidas sobre
+
+
+
+[[pagina 8 | nativo]]
+os Direitos das Pessoas com Deficiência (CDPD), em seu art. 25 estabelece que Estados
+
+devem oferecer às pessoas com deficiência programas e atenção à saúde gratuitos e
+
+serviços de saúde específico para a deficiência, inclusive diagnóstico e intervenção
+
+precoces.
+
+Em acréscimo, o artigo garantiu atenção especial às crianças e idosos com
+
+deficiência, inclusive incentivando implementação de serviços projetados para reduzir ao
+máximo e prevenir deficiências adicionais7.
+
+Nesse sentido, o art. 25, “e”, da Convenção Sobre o Direito das Pessoas com
+
+Deficiência estabelece que:
+
+“Os Estados Partes reconhecem que as pessoas com deficiência
+
+têm o direito de gozar do estado de saúde mais elevado possível,
+
+sem discriminação baseada na deficiência. Os Estados Partes
+
+tomarão todas as medidas apropriadas para assegurar às
+
+pessoas com deficiência o acesso a serviços de saúde, incluindo
+
+os serviços de reabilitação, que levarão em conta as
+
+especificidades de gênero. Em especial, os Estados Partes:
+
+
+e. Proibirão a discriminação contra pessoas com deficiência na provisão
+
+de seguro de saúde e seguro de vida, caso tais seguros sejam permitidos
+
+pela legislação nacional, os quais deverão ser providos de maneira
+
+razoável e justa”.
+
+Desta feita, o Estado Brasileiro reconhece que as pessoas com deficiência têm o
+
+direito de fruir de condições para manutenção adequada de sua saúde, sem discriminação
+
+baseada na deficiência.
+
+Segundo as lições de Flávia Piovesan (2002):
+
+7 Convenção Internacional da ONU sobre os Direitos da Pessoa com Deficiência (CDPD) foi aprovada pelo Brasil em
+julho de 2008 através do Decreto Legislativo nº186 e promulgada pelo Decreto nº 6.949, de 25 de agosto de 2009,
+tendo sido inserida no ordenamento jurídico brasileiro com status de Emenda Constitucional.
+
+
+[[pagina 9 | nativo]]
+“Não obstante a historicidade dos direitos humanos, traduzirem
+
+a todo tempo uma utopia, uma plataforma emancipatória em
+
+reação e repúdio às formas de opressão, exclusão, desigualdade
+
+e injustiças, os direitos humanos combinam sempre o exercício
+
+da capacidade de indignação com o direito à esperança, a partir
+de uma gramática da inclusão.”8
+
+O art. 10 da Convenção dos Direitos da Pessoa Humana ainda fundamenta:
+
+“(...)Esta é afirmação da Vida, que exige o risco, a
+
+transitoriedade, o sonho e a determinação de mudança. O Direito
+
+à Vida é um princípio ou fundamento ético político de todas
+
+nossas ações. Deste princípio, como gênese social e origem de
+
+um desejo das populações mundiais sob a ótica da exclusão e das
+
+desigualdades sociais, como a questão da pobreza e da miséria,
+
+é que todas as convenções e tratados têm procurado afirmar a
+
+necessidade de um novo olhar para as pessoas em situação de
+
+marginalização ou de minoria, o que ocorre com 400 milhões dos
+
+600 milhões de pessoas com deficiência no mundo.
+
+Por que então é fundamental associarmos o direito de dignidade
+
+ao direito de vida? Como resposta bastaria dizer, de forma
+
+simples, que sem esta dignificação do ser humano todas as
+
+afirmações anteriores ficam sem sentido. Sem a presença, para
+
+além do físico e do biológico, de seres humanos não há porque
+
+declarar a defesa de seus direitos humanos.
+
+O Direito à Vida exige a segurança social, a habitação,
+
+condições de alimentação e sobrevivência com dignidade,
+
+condições, em um mundo de exploração hipercapitalista,
+
+8 PIOVESAN, F. Democracia, Direitos Humanos e Globalização Econômica: desafios e perspectivas
+para construção da cidadania no Brasil. Disponível em:
+<<http://www.idec.org.br/publica/500anos/flavia.html>>, acesso em 24.6.2022.
+
+
+[[pagina 10 | nativo]]
+necessariamente ligadas aos direitos econômicos, o que nos
+
+alerta permanentemente para uma defesa intransigente e
+
+aguerrida de que a Vida tem de ser protegida e, é dever de todos
+
+os Estados a sua promoção e qualificação. Nesse sentido é que
+
+nas convenções e tratados deveríamos trocar o tempo dos verbos
+
+quando se fala de ‘adotarão medidas’, para uma assertiva de que
+
+os Estados ‘devem tomar medidas de proteção de seus cidadãos
+
+e cidadãs.”
+
+Portanto, reconhecer o direito à igualdade de condições é, em última análise,
+
+estabelecer condições e meios necessários para a inclusão de todos, objetivando o pleno
+
+exercício da vida em sociedade.
+
+O direito à vida, além de princípio basilar da Constituição da República, é direito
+
+inalienável de cada indivíduo, que deve ser protegido pelo Estado diante de ameaças à
+
+sua fruição.
+
+Objetivando estabelecer meios de controle a arbitrariedades, o Congresso
+
+Nacional aprovou, inclusive com status de norma constitucional, o texto da Convenção
+
+da ONU sobre os Direitos das Pessoas com Deficiência, bem assim seu Protocolo
+
+Facultativo, que reconhece a competência do Comitê sobre os Direitos das Pessoas com
+
+Deficiência para receber e analisar comunicações submetidas por pessoas ou grupos de
+
+pessoas narrando violações ao referido tratado internacional.
+
+Além do compromisso junto à ONU firmado pela União valer para todos os entes
+
+da Federação e para os três Poderes, o texto da Convenção constitui parâmetro de controle
+
+de constitucionalidade, sendo que a não observância de seus preceitos enseja mora
+
+internacional do Estado brasileiro. Ao Executivo cabe a implementação de medidas
+
+necessárias ao cumprimento das obrigações previstas; ao Legislativo, compatibilizar a
+
+legislação com os novos compromissos; e ao Judiciário, aplicar e assegurar a obediência
+
+ao tratado, conforme o seu status de emenda constitucional.
+
+
+
+[[pagina 11 | nativo]]
+Desse modo, os Estados Partes que adotaram a CDPD devem remover obstáculos
+
+a fim de tornar os sistemas de assistência médica mais inclusivos e acessíveis às pessoas
+
+com deficiência. Para isso devem seguir recomendações dos organismos internacionais
+
+de direitos humanos e boas práticas do direito comparado.
+
+Em seu art. 26, a CDPD dispõe sobre Habilitação e Reabilitação, estipulando a
+
+adoção de medidas apropriadas para permitir que pessoas com deficiência alcancem e
+
+mantenham o máximo de independência, sua mais completa capacidade física, mental,
+
+social e vocacional, além de total inclusão e participação em todos os aspectos da vida. O
+
+artigo recomenda, ainda, que os países organizem, reforcem e ampliem serviços e
+
+programas de reabilitação, que devem começar o mais cedo possível, baseados em
+
+avaliações multidisciplinares das necessidades e capacidades dos indivíduos e incluindo
+
+dispositivos e tecnologias assistivas.
+
+Segundo a OMS, reabilitação significa conjunto de medidas que ajudam pessoas
+
+com deficiências (ou prestes a adquirir deficiências) a terem e manterem uma
+
+funcionalidade ideal na interação com seu ambiente, a partir da prevenção da perda
+
+funcional; redução do ritmo de perda funcional; melhora ou recuperação da função;
+
+compensação da função perdida e manutenção da função atual. A medicina de reabilitação
+
+está relacionada com a melhoria funcional por meio do diagnóstico e tratamento de
+condições de saúde, redução de deficiência e prevenção ou tratamento de complicações.9
+
+Não podemos esquecer que o artigo 1º da CDPD afasta o modelo médico de
+
+deficiência e proclama o modelo social, sendo que deficiência deixa de ser obstáculo
+
+quando apoiada pelos recursos de acessibilidade e políticas públicas promovidos pela
+
+Estado e sociedade.
+
+O ambiente é deficiente e não a pessoa. Nota-se assim, relevante mudança de
+
+paradigma sobre a definição de pessoa com deficiência, afastando de vez o modelo
+
+médico e consolidando o social do referido conceito. A deficiência deixa de ser tratada
+
+como uma limitação do corpo, uma anomalia do corpo ou doença a ser curada, passando
+
+a ser encarada como construção social e questão contextual. Mesmo o modelo médico da
+
+9 Idem Ibdem.
+
+
+[[pagina 12 | nativo]]
+deficiência ter sido crucial para o desenvolvimento das medidas de reabilitação e
+
+prevenção da deficiência, o fato de a deficiência ter sido medicamente definida como algo
+
+relacionado ao corpo do indivíduo foi uma determinante para que tivessem sido
+
+privilegiadas respostas centradas no indivíduo, pouco dispostas a perceber as questões
+
+sociais envolvidas.
+
+Além disso, a Declaração Universal dos Direitos Humanos de 1948 garante em
+
+seu art. 25, que “toda pessoa tem direito a um padrão de vida capaz de assegurar, a si e a
+
+sua família, saúde e bem-estar, inclusive alimentação, vestuário, habitação, cuidados
+
+médicos”. No mesmo sentido, a Declaração Americana dos Direitos e Deveres do Homem
+
+do mesmo ano, em seu art. XXI, prevê que “toda pessoa tem direito a que sua saúde seja
+
+resguardada por medidas sanitárias e sociais relativas à alimentação, roupas, habitação e
+
+cuidados médicos correspondentes ao nível permitido pelos recursos públicos e os da
+
+coletividade.”.
+
+No ano de 1966, o Pacto Internacional dos Direitos Econômicos, Sociais e
+
+Culturais, em seu artigo 12, reafirma a universalidade e a integralidade do direito humano
+
+à saúde, preconizando que toda pessoa deve desfrutar do mais alto padrão de saúde física
+
+e mental, indicando, na sequência, formas concretas de implementar esse direito, tais
+
+como criação de condições que assegurem a todos assistência médica, bem como medidas
+
+de prevenção/tratamento de doenças epidêmicas, endêmicas e profissionais.
+
+No mesmo ano, o Pacto Internacional de Direitos Civis e Políticos, determina que
+
+ninguém poderá ser submetido à tortura, penas ou tratamentos
+
+cruéis/desumanos/degradantes, e, em particular, ninguém será submetido sem o seu livre
+
+consentimento a experiências médicas ou científicas. Em sequência, o Protocolo
+
+Adicional à Convenção Americana sobre Direitos Humanos em matéria de Direitos
+
+Econômicos, Sociais e Culturais (Protocolo de São Salvador) de 1988 determina que os
+
+indivíduos “têm direito à saúde, compreendendo-se como o gozo do mais alto nível de
+
+bem-estar físico, mental e social (...) comprometendo aos Estados Partes reconhecer a
+
+saúde como bem público e, especialmente, adotar medidas para garantir esse direito.”.
+
+
+
+[[pagina 13 | nativo]]
+No sistema regional de proteção e promoção de direitos humanos, a Convenção
+
+Interamericana para a Eliminação de Todas as Formas de Discriminação contra as Pessoas
+
+com Deficiência de 1999 (Convenção da Guatemala), em seu artigo III, prevê que os
+
+Estados Partes devem adotar medidas a favor da “prevenção de todas as formas de
+
+deficiência preveníveis e da detecção e intervenção precoce, tratamento, reabilitação,
+
+formação ocupacional e prestação de serviços completos para garantir o melhor nível de
+
+independência e qualidade de vida para as pessoas com deficiência.”
+
+Não obstante um número expressivo de países ter adotado diversos instrumentos
+
+e mecanismos internacionais que versem sobre os direitos das pessoas com deficiência, a
+
+realidade é que a maioria dos governos ainda não se aparelhou adequadamente para
+
+assegurar a esse grupo social a mais ampla e plena efetivação de suas garantias e
+
+liberdades.
+
+Assim, como bem pontuou, mediante nota pública, o conjunto de organizações da
+
+sociedade civil:
+
+“(...) Nesse sentido, é preciso compreender que o entendimento
+
+pela taxatividade do Rol de Procedimentos e Eventos em Saúde
+
+da ANS, não apenas pode deixar Doenças sem o correspondente
+
+tratamento, como muito mais grave do que isto, causará imensa
+
+distorção do sistema constitucionalmente previsto que acabará
+
+por excluir Pessoas do sistema suplementar de saúde em razão
+
+da sua deficiência.
+
+Em outras palavras, a inexistência de cobertura para a condição
+
+específica da pessoa com deficiência ou doença rara no Rol de
+
+Procedimentos e Eventos em saúde, e a quase total
+
+impossibilidade de obtê-lo através de processo judicial
+
+(decorrência do entendimento pela taxatividade), causará
+
+exclusão por completo do sistema de saúde suplementar, pois não
+
+existirão planos para essas pessoas.”
+
+
+
+[[pagina 14 | nativo]]
+Com efeito, condições raras, que exigem tratamentos diversos dos constantes no
+
+rol da ANS, perecerão aguardando estudo científico comprovado sobre a eficácia de
+
+determinado tratamento recomendado pelo médico profissional.
+
+Destaca-se, também, o entendimento da Ordem dos Advogados do Brasil:
+
+“(...) O rol, entretanto, qualificado como “mitigado” pela Corte
+
+Superior, restringe quase que totalmente o acesso das Pessoas
+
+com Deficiência ao tratamento em detrimento de argumentos
+
+patrimoniais.
+
+Tratam-se de dezenas de milhares de autistas, paralisia cerebral,
+
+hemiplegia, dentre tantas outras patologias que tornam essas
+
+pessoas extremamente vulneráveis e, com esta decisão, perdem
+
+direito a um tratamento de comprovada eficácia que lhes vem
+
+garantindo eficácia e, com isso, dignidade. Neste sentido,
+
+manifestou-se o Ministro Luiz Fux na Suspensão de Tutela
+
+Provisória 803 (jul/2021):
+
+Na complexa ponderação entre, de um lado, os
+
+importantes argumentos de ordem financeira, e, de
+
+outro, a concretização do direito de acesso à saúde,
+
+não se pode desconsiderar a relevância do direito à
+
+vida, para cuja garantia devem todos os cidadãos
+
+ser incentivados a cooperar.”
+
+É precisamente por esse motivo, que as violações ao direito à saúde das pessoas
+
+com deficiência devem ser encaradas como violação ao Direito Internacional dos Direitos
+
+Humano, o qual se encontra além da ordem nacional, vinculando os Estados signatários
+
+a cumprirem princípios e regras elencados nos documentos supranacionais, sob pena de
+
+responsabilidade internacional, a depender do caso.
+
+DA INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO DA REPÚBLICA AO
+
+
+
+[[pagina 15 | nativo]]
+PARÁGRAFO 4º DO ART. 10 DA LEI Nº 9.656/1998, ALTERADO PELA LEI Nº
+
+14.307, DE 2022; AOS PARÁGRAFOS 7º E 8º DO ART. 10 E AOS INCISOS I, II, E
+
+III, DO PARÁGRAFO 3º DO ART. 10-D, TAMBÉM DA LEI Nº 9.656/1998,
+
+INCLUÍDOS PELA LEI Nº 14.307, DE 2022, BEM COMO AO ARTIGO 2º DA
+
+RESOLUÇÃO NORMATIVA DA ANS Nº 465/2021. DA COMPATIBILIZAÇÃO
+
+COM OS PRECEITOS CONSITUTIONAIS. DA VIOLAÇÃO AO DIREITO
+
+FUNDAMENTAL À SAÚDE E DO PRINCÍPIO DA DIGNIDADE DA PESSOA
+
+HUMANA
+
+A Constituição da República estabelece em seu art. 6º o direito à saúde que, em
+
+sentido amplo, reconhece todos os deveres do Estado de garantir acesso igualitário à saúde,
+
+haja vista tratar-se de um direito inalienável de toda e qualquer pessoa.
+
+O direito à saúde, portanto, foi elevado ao patamar de direito fundamental, pois se
+
+revela de suma importância para o alcance da cidadania, além de constituir peça fundamental
+
+para a efetivação do preceito da dignidade da pessoa humana.
+
+Logo, não pode o Estado restringir o direito fundamental à saúde, visto que, conforme
+
+estabelece o princípio da dignidade da pessoa humana, independente de diferenças físicas,
+
+intelectuais, psicológicas, todos são detentores de iguais direitos.
+
+Ao consagrar a dignidade da pessoa humana como um dos fundamentos do estado
+
+democrático de direito, o constituinte acabou por “reconhecer categoricamente que é o
+
+Estado que existe em função da pessoa humana, e não o contrário, já que o ser humano
+constitui finalidade precípua, e não meio da atividade estatal”10
+
+Além disso, a CRB, em seu art. 196, estabelece que a saúde é direito de todos e dever
+
+do Estado, garantindo por intermédio de políticas públicas sociais e econômicas que visem
+
+a redução do risco de doença e de outros agravos.
+
+10 HÄBERLE, Peter. A dignidade humana como fundamento da comunidade estatal. In: Dimensões da
+Dignidade, ensaios de Filosofia do Direito e Direito Constitucional. SARLET, Ingo Wolfgang (Org.). Porto
+Alegre: Livraria do Advogado, 2009, p. 49
+
+
+[[pagina 16 | nativo]]
+Para Maselli:
+
+“O Estado, os poderes públicos, o legislador, estão vinculados a
+
+proteger o direito à vida, no domínio das prestações existenciais
+
+mínimas, escolhendo um meio (ou diversos meios) que tornem
+
+efectivo este direito, e, no caso de só existir um meio de dar
+efectividade prática, devem escolher precisamente esse meio”.11
+
+O art. 199, caput, da Constituição da República, inclusive, estabelece que a
+
+assistência à saúde é de livre iniciativa privada, portanto, a saúde suplementar possui status
+
+de norma constitucional, conectando-se diretamente com o princípio da dignidade da pessoa
+
+humana.
+
+Destaca-se que para o Estado Democrático de Direito “(...) estão presentes as
+
+conquistas democráticas, as garantias jurídico-legais e a preocupação social”
+
+(STRECK; MORAIS, 2010, p. 97), de tal modo que ao assegurar a efetividade do
+
+direito à saúde, estar-se-á assegurando os preceitos do próprio Estado.
+
+Portanto, a falta de previsão de tratamentos essenciais no rol da ANS, necessários
+
+para a dignidade e saúde dos jurisdicionados, demonstra que a taxatividade do rol tem
+
+representado obstáculo para a população que utiliza da saúde suplementar, obstando o devido
+
+acesso ao sistema de saúde.
+
+Para o Exmo. Min. Celso de Mello:
+
+“(...) a noção de "mínimo existencial, que resulta, por implicitude,
+
+de determinados preceitos constitucionais (CF, art. 1º, III, e art. 3º,
+
+III), compreende um complexo de prerrogativas cuja concretização
+
+revela-se capaz de garantir condições adequadas de existência
+
+digna, em ordem a assegurar, à pessoa, acesso efetivo ao direito
+
+geral de liberdade e, também, a prestações positivas originárias do
+
+11 Idem. Ibidem. apud Canotilho J. Tomemos a sério os direitos econômicos, sociais e culturais. [s.l.: s.n.]
+apud Sarlet I. Eficácia dos direitos fundamentais. [s.l.: s.n.] p. 299.
+
+
+[[pagina 17 | nativo]]
+Estado, viabilizadoras da plena fruição de direitos sociais básicos,
+
+tais como o direito à educação, o direito à proteção integral da
+
+criança e do adolescente, o direito à saúde, o direito à assistência
+
+social, o direito à moradia, o direito à alimentação e o direito à
+
+segurança. Declaração Universal dos Direitos da Pessoa Humana,
+de 1948 (art. XXV)”.12
+
+O direito à saúde representa prerrogativa indisponível assegurada à generalidade das
+
+pessoas pela própria Constituição da República, cuja integridade o Poder Público, a quem
+incumbe formular políticas sociais e econômicas, garantindo acesso universal e igualitário.13
+
+No que tange à violação dos princípios, Celso Antônio Bandeira de Mello, ensina-
+
+nos que “violar um princípio é muito mais grave que transgredir uma norma qualquer. A
+
+desatenção ao princípio implica ofensa não apenas a um específico mandamento
+
+obrigatório, mas a todo o sistema de comandos”. Para depois concluir:
+
+“É a mais grave forma de ilegalidade ou inconstitucionalidade, conforme o escalão
+
+do princípio atingido, porque representa insurgência contra todo sistema, subversão
+
+de seus valores fundamentais, contumélia irremissível a seu arcabouço lógico e
+
+corrosão de sua estrutura mestra”.
+
+Portanto, a análise da presente ação direta de inconstitucionalidade leva-nos a uma
+
+reflexão acerca do princípio da dignidade da pessoa humana e do direito constitucional ao
+
+acesso à saúde de forma igualitária, bem como de sua importância, destacando a necessidade
+
+de analisar taxatividade o rol da ANS, que limita o exercício do direito à saúde.
+
+DO DIREITO À SAÚDE COMO DIREITO FUNDAMENTAL. DO DIREITO
+
+CONSTITUCIONAL DO CONSUMIDOR. DA NATUREZA DO ROL DA ANS. DA
+
+NECESSIDADE DE INTERPRETAÇÃO CONFORME À CONSTITUIÇÃO DA
+
+REPÚBLICA AO §4º DO ARTIGO 10 DA LEI Nº 9.656/1998, ALTERADO PELA
+
+12 ARE 639337 AgR, Relator(a): CELSO DE MELLO, Segunda Turma, julgado em 23/08/2011, DJe-177
+DIVULG 14-09-2011 PUBLIC 15-09-2011 EMENT VOL-02587-01 PP-00125.
+13 RE 198265 / RS (AgRg), Rel. Min. CELSO DE MELLO
+
+
+[[pagina 18 | nativo]]
+LEI Nº 14.307, DE 2022; DOS PARÁGRAFOS 7º E 8º DO ART. 10 E § 3º, I, II E III
+
+DO ART. 10-D, DA LEI Nº 9.656/1998, INCLUÍDOS PELA LEI Nº 14.307, DE 2022,
+
+BEM COMO AO ARTIGO 2º DA RESOLUÇÃO NORMATIVA DA ANS Nº 465/2021
+
+A Carta de 1988, conforme visto, assegurou que todos são iguais perante a lei, sem
+
+distinções, garantindo-se os brasileiros e estrangeiros residentes do País a inviolabilidade do
+
+direito à vida (art. 5º, caput, da Constituição), direitos esses indispensáveis à existência digna
+
+da população.
+
+A previsão constitucional do direito à saúde, por meio dos planos de saúde, também
+
+conhecido como “saúde suplementar”, tem previsão constitucional, nos termos do art. 197
+
+da CR/88. Esse direito ressalta a importância do Estado na fiscalização, regulamentação e
+
+controle dos serviços de saúde.
+
+Portanto, as operadoras de saúde devem observar os preceitos constitucionais
+
+explícitos em nossa carta constitucional. Assim, o parágrafo 4º do art. 10 da Lei nº
+
+9.656/1998, alterado pela Lei nº 14.307, de 2022; os parágrafos 7º e 8º do art. 10 e os incisos
+
+I, II, e III, do parágrafo 3º do art. 10-D, também da Lei nº 9.656/1998, incluídos pela Lei nº
+
+14.307, de 2022, bem como ao artigo 2º da Resolução Normativa da ANS nº 465/2021,
+
+devem ser interpretadas de acordo com os ditames constitucionais, assentando-se o caráter
+
+exemplificativo do rol de procedimentos abrangidos pela cobertura dos planos de saúde.
+
+Isso porque, interpretação diversa violaria os parâmetros constitucionais já
+
+mencionados, limitando o rol da ANS a suas disposições, conferindo status de rol taxativo,
+
+inviabilizando o tratamento de inúmeros casos que não encontram previsão no referido
+
+instrumento.
+
+Ademais, o art. 170 da CR/88 fundamenta que a ordem econômica tem o dever de
+
+assegurar a existência digna, em observância a princípios, sendo um deles a defesa ao
+
+consumidor. Assim, ao utilizar a cobertura do plano para eventos que não constam do rol,
+
+mediante autorização ou aditivo contratual, a lei ora impugnada acaba por esvaziar a função
+
+social das operadoras de saúde, onerando o consumidor e expondo ao risco do próprio
+
+adoecimento.
+
+
+
+[[pagina 19 | nativo]]
+Portanto, a valorização do direito à saúde ocorre em razão de sua essencialidade,
+
+considerando-se que a saúde é “um dos principais componentes da vida, seja como
+
+pressuposto indispensável para sua existência, seja como elemento agregado à sua
+
+qualidade. Assim, a saúde se conecta ao direito à vida” (SCHWARTZ, 2001, p. 52).
+
+“Cumpre não perder de perspectiva que o direito público subjetivo
+
+à saúde representa prerrogativa jurídica indisponível assegurada
+
+à generalidade das pessoas pela própria Constituição da
+
+República. Constitui bem jurídico constitucionalmente tutelado,
+
+por cuja integralidade deve velar, de maneira responsável, o Poder
+
+Público, a quem incumbe formular – e implementar – políticas
+
+sociais e econômicas que visem garantir, aos cidadãos, o acesso
+universal e igualitário à assistência médico-hospitalar.”14
+
+Nesse contexto, quando se fala em cerceamento do direito à saúde se
+
+está conjuntamente falando na desvalorização do Estado como Democrático de
+
+Direito e como Estado social, pois deixa de alcançar as condições mínimas para
+
+a efetivação da cidadania.
+
+Assim, ao falar que o Estado deixa de fornecer condições aos
+
+seus cidadãos para que alcancem um direito fundamental, como o direito à saúde,
+
+estar-se-á negando os propósitos de qualquer Estado democrático e violando-se
+
+direitos internacionalmente reconhecidos como direitos humanos.
+
+A Agência Nacional de Saúde possui a função precípua de elaborar a lista de
+
+procedimentos médicos que deverão ser custeados pelas operadoras de planos de saúdes, nos
+
+termos do art. 4º, III, da Lei nº 9.961/2000.
+
+Ocorre, todavia, que o rol de procedimentos deve constituir cobertura mínima
+
+obrigatória para os planos de saúde, ou seja, o rol não é um catálogo de procedimentos, mas
+
+14 Agravo Regimental no Recurso Extraordinário n° 393175-0/RS, Segunda Turma, Supremo Tribunal
+Federal, Relator Ministro Celso de Mello. Julgado em 12/12/2006, publicado 02/02/2007
+
+
+[[pagina 20 | nativo]]
+uma lista mínima de procedimentos submetidos a revisão periódica.
+
+Dito isto, não se pode concluir que a falta de eventual procedimento no rol da ANS
+
+acarreta a desoneração das operadoras, visto que o dever de assistência decorre da lei, dos
+
+ditames constitucionais e contratuais, inviabilizando que a normatização da Agência se
+
+sobreponha sobre as referidas espécies legislativas.
+
+Ademais, se considerar que o rol tratou de todos os procedimentos e eventos de
+
+maneira exaustiva, grande parcela dos usuários padecerá ante a arbitrariedade perpetrada.
+
+A possibilidade de sustar um procedimento médico de fundamental importância para
+
+a saúde do beneficiário, acometido de grave doença ou condição, é vedada pelo ordenamento
+
+jurídico.
+
+Nesse sentido, segundo o Conselho Nacional de Saúde (CNS): “a decisão causará
+
+imenso prejuízo à saúde de quase 50 milhões de pessoas, podendo culminar na morte de
+muitas beneficiárias e beneficiários”.15
+
+A eventual confirmação da taxatividade do rol da ANS acarretará uma série de
+consequências para diversos setores da sociedade. Nesse sentido, destaca-se16:
+
+15 Disponível em: <<https://www.cnnbrasil.com.br/business/rol-taxativo-pode-prejudicar-mais-de-8-
+milhoes-de-beneficiarios-dizem-entidades/>> Acesso em 16.6.2022.
+16 Disponível em: <<https://www.cnnbrasil.com.br/business/rol-taxativo-pode-prejudicar-mais-de-8-
+milhoes-de-beneficiarios-dizem-entidades/>> Acesso em 16.6.2022.
+
+
+
+[[pagina 21 | nativo]]
+O art. 35-F da Lei nº 9.656/1998, estabelece o dever de os planos de saúde
+
+promoverem todas as ações necessárias à prevenção de doenças e à recuperação, manutenção
+
+e reabilitação da saúde.
+
+A negativa de cobertura pelo plano de saúde do tratamento considerado apropriado a
+
+resguardar o paciente/consumidor deve ser considerada abusiva, visto que a escolha do
+
+tratamento compete a profissional habilitado que, por sua vez, deve indicar o tratamento
+
+adequado, não competindo à seguradora discutir o tratamento.
+
+Dito isso, o rol de procedimentos e evento em saúde da ANS deve ser considerado
+
+meramente exemplificativo, pois comtempla lista mínima de serviços obrigatórios a serem
+
+prestados pelas operadoras de saúde.
+
+Desta feita, não há como o consumidor antever possíveis doenças ou enfermidades
+
+das quais sequer conhece o tratamento.
+
+Sobre o assunto, a Exma. Min. Cármen Lúcia, fundamentou que “(...) A saúde tida
+
+como direito fundamental da pessoa não pode ser tida apenas como ausência de doença,
+
+como afirmei, por exemplo, na ADPF n. 101, mas como estado de bem-estar ocasionado
+
+pelas condições gerais que lhe asseguram segurança e confiança no seu entorno
+
+sociopolítico e econômico. Esse direito é, portanto, posto em questão quando se
+
+configuram situações desarrazoadas de incerteza provocadas pelo advento de normas
+
+editadas fora do espaço legislativo próprio e com a garantia do devido processo legislativo
+
+que permite a transparência dos debates, das razões e das finalidades buscadas pelas
+
+
+
+[[pagina 22 | nativo]]
+normas especialmente sobre direitos fundamentais”.17
+
+Com efeito, a desproporcionalidade criada pela norma é patente, conforme bem
+
+expõe o Conselho Nacional de Saúde “(...) isso significa que, se surgirem doenças novas
+
+como a Covid, ou doenças raras, vários procedimentos vão acabar sendo negados porque
+
+não estarão no rol obrigatório. A lista de procedimentos é apenas um exemplo, na verdade
+
+os beneficiários têm direito à integralidade de benefícios, tendo em vista a questão da defesa
+da vida e da saúde de uma forma integral”.18
+
+Aqui, vale anotar, inclusive, o então entendimento do c. Superior Tribunal de Justiça
+
+na qual teve que decidir sobre tratamentos que não constavam no rol de procedimentos da
+
+ANS, destaca-se:
+
+“AGRAVO REGIMENTAL EM AGRAVO CONTRA A
+
+INADMISSÃO DE RECURSO ESPECIAL. PACIENTE
+
+SUBMETIDO À GASTROPLASTIA. INTERVENÇÃO CIRÚRGICA
+
+CORRETIVA. REMOÇÃO DO EXCESSO DE TECIDO EPITELIAL.
+
+PROCEDIMENTO NECESSÁRIO E COMPLEMENTAR AO
+
+TRATAMENTO. PLANO DE SAÚDE. COBERTURA DEVIDA.
+
+PRESERVAÇÃO DA FINALIDADE CONTRATUAL. AGRAVO
+
+REGIMENTAL DESPROVIDO.
+
+I - "Considera-se ilegítima a recusa de cobertura das cirurgias
+
+destinadas à remoção de tecido epitelial, quando estas se revelarem
+
+necessárias ao pleno restabelecimento do paciente-segurado,
+
+acometido de obesidade mórbida, doença expressamente
+
+acobertada pelo plano de saúde contratado, sob pena de frustrar a
+
+finalidade precípua de tais contrato" (REsp 1.136.475/RS, Relator o
+
+Ministro MASSAMI UYEDA, DJe de 16/3/2010).
+II - Agravo regimental a que se nega provimento.”19
+
+17 ADPF nº 532, Rel. Min. Cármen Lúcia.
+18Disponível em: <<http://conselho.saude.gov.br/ultimas-noticias-cns/2517-cns-e-contra-rol-taxativo-de-
+planos-de-saude-stj-retoma-julgamento-nesta-quarta-8-06>> Acesso 17.6.2022.
+19 AgRg no AREsp 9454237-65.2009.8.13.0079 MG 2014/0122119-8
+
+
+[[pagina 23 | nativo]]
+“AGRAVO INTERNO NO RECURSO ESPECIAL. PLANO DE
+
+SAÚDE. NEGATIVA DE COBERTURA DE TRATAMENTO.
+
+DOENÇA COBERTA PELO PLANO. ABUSIVIDADE. ALEGAÇÃO
+
+DE PROCEDIMENTO NÃO PREVISTO NO ROL DA ANS.
+
+IRRELEVANTE. ENUMERAÇÃO EXEMPLIFICATIVA.
+
+JURISPRUDÊNCIA DA TERCEIRA TURMA.
+
+1. O fato de o tratamento prescrito pelo médico não constar no rol
+
+da ANS não significa que não possa ser exigido pelo usuário, uma
+
+vez que se trata de rol exemplificativo. Entendimento do acórdão
+
+recorrido em harmonia com a jurisprudência da Terceira Turma
+
+desta Corte. Precedentes.
+
+2. Existência de precedente recente da QUARTA TURMA no sentido
+
+de que seria legítima a recusa de cobertura com base no rol de
+
+procedimentos mínimos da ANS.
+
+3. Reafirmação da jurisprudência desta TURMA no sentido do
+
+caráter exemplificativo do referido rol de procedimentos.
+4. Agravo interno não provido.”20
+
+Portanto, ao considerar a taxatividade do rol, diversos tratamentos e procedimentos
+
+utilizados para reabilitação de pessoas com deficiência serão excluídos da cobertura, visto a
+
+ausência de previsão no rol e a necessidade de contratação de cobertura ampliada ou aditivo
+contratual para procedimentos extras.21
+
+Procedimentos e terapias consolidadas pela medicina, inclusive com aprovação
+
+científica, terão sua cobertura negada, caso o rol de procedimento seja considerado taxativo.
+
+Esse entendimento afeta as pessoas com deficiência devido as suas necessidades médicas,
+
+acarretando prejuízos irreparáveis à saúde desses usuários.
+
+A Constituição da República adotou amplo sistema de proteção a pessoas com
+
+deficiência, vedando a discriminação direita ou indireta e determinada a promoção de
+
+20 AgInt no REsp 1875851 SP 2020/0121868-9. Min. Paulo de Tarso Sanseverino.
+21 Disponível em: <<https://diariodonordeste.verdesmares.com.br/negocios/mudanca-no-rol-da-ans-vai-
+deixar-os-planos-de-saude-mais-caros-entenda-1.3243310>> Acesso em 17.6.2022.
+
+
+[[pagina 24 | nativo]]
+políticas públicas inclusivas.
+
+Os direitos fundamentais revelam-se de maior importância para o alcance da
+
+cidadania e constituem importante segmento para efetivação da dignidade da pessoa humana
+
+dessas pessoas.
+
+Dito isso, conforme bem preceitua o Exmo. Min. Marco Aurélio, “A promoção da
+
+saúde, mesmo na esfera privada, não se vincula às premissas do lucro, sob pena de ter-se,
+
+inclusive, ofensa à isonomia, consideradas as barreiras ao acesso aos planos de saúde por
+
+parte de pacientes portadores de moléstias graves. A atuação no lucrativo mercado de
+
+planos de saúde não pode ocorrer à revelia da importância desse serviço social,
+
+reconhecida no artigo 197 do Texto Maior.”
+
+Nesse sentido, cumpre mencionar o voto do Min. Alexandre de Moraes:22
+
+“(...) esses serviços de saúde sejam executados por meio de
+
+terceiros, que é exatamente o caso de que aqui se trata. Mas que
+
+sejam executados por terceiros não só mediante a regulamentação
+
+do Poder Público, mas mediante a finalidade que a Constituição
+
+traz na proteção à saúde.”
+
+Dessa forma, extrai-se que impor ao consumidor, quando da contratação do plano de
+
+saúde, o conhecimento de todos os procedimentos elencados pela ANS é desarrazoado e está
+
+em sentido diametralmente oposto aos ditames constitucionais.
+
+Com bem ponderado pela Exma. Min. Nancy Andrighi, durante o julgamento pelo c.
+
+Superior Tribunal de Justiça que definiu sobre a taxatividade do rol de procedimentos da
+
+ANS:
+
+“Ao analisar os dados disponibilizados pela própria ANS, o Ipea
+
+concluiu que o lucro líquido per capita de planos de saúde mais do
+
+que dobrou em quatro anos e que a receita do setor aumentou
+
+22 STF - ADI: 1931 DF, Relator: MARCO AURÉLIO, Data de Julgamento: 07/02/2018, Tribunal Pleno,
+Data de Publicação: 08/06/2018
+
+
+[[pagina 25 | nativo]]
+mesmo com queda no número de usuários. Houve queda, os
+
+brasileiros não conseguem mais contratar os planos, mas o lucro
+
+das operadoras continuou. (...) O mercado de planos de saúde
+
+dobrou de tamanho nos últimos anos, e o SUS não se beneficiou com
+
+nada disso. Pelo contrário, os planos irão empurrar cada vez mais
+para o SUS, os doentes que os planos não irão atender”23.
+
+Ou seja, apesar dos avanços proporcionados pela tecnologia pela medicina, muitos
+
+consumidores se depararão com negativas de tratamento pela ausência de previsão no rol da
+
+ANS, enquanto as operadoras continuarão a lucrar com a alta dos preços, superando a
+
+rentabilidade das grandes empresas brasileiras, conforme dados disponibilizados pelo
+IPEA.24
+
+Destaca-se que o número de ações judiciais contra os planos de saúde cresceu cerca
+
+de 391%, somente em São Paulo.
+
+Segundo estudo, “entre janeiro e agosto deste ano, o Tribunal de Justiça (TJSP)
+
+julgou 22.366 ações contra operadoras, de acordo com pesquisa realizada pelo Grupo de
+
+Estudos sobre Planos de Saúde, da Faculdade de Medicina, da USP. Na comparação com
+
+o mesmo período de 2011, quando o levantamento começou a ser feito, o número de
+processos foi de 4.554, um crescimento de 391%.”25.
+
+Desse modo, eventuais argumentos de cunho econômico não se sustentam sob o
+
+23 Disponível em: <<https://www.migalhas.com.br/quentes/367646/stj-define-que-rol-da-ans-e-taxativo-
+para-planos-de-saude>> Acesso em 16.6.2022.
+24 Disponível em:
+<<https://www.ipea.gov.br/portal/index.php?option=com_content&view=article&id=38541&catid=10&It
+emid=9>> Acesso em 16.6.2022.
+25 Disponível em: <<https://exame.com/invest/minhas-financas/em-10-anos-acoes-contra-planos-de-
+saude-cresceram-391-em-sao-paulo/>> Acesso em 16.6.2022.
+
+
+[[pagina 26 | nativo]]
+pressuposto de que a possibilidade de cobertura de doenças que não constam do rol
+
+acarretaria problemas financeiros.
+
+Conforme bem explicitado pela Nota SAJ nº 84/2022/CGIP/SAJ/SG/P, o rol de
+
+procedimentos é “omisso, defasado ou desatualizado com melhores evidências”. Destaca-
+
+se:
+
+Primeiramente, porque o tempo do paciente/ consumidor não é o
+
+tempo da Administração Pública. Nada obstante o rol da ANS
+
+refira-se, sob uma perspectiva das evidências, a procedimentos que
+
+são seguros, eficazes e efetivos; é certo que tal lista pode, em algum
+
+momento, revelar-se DEFASADA ou OMISSA. E tal defasagem pode
+
+representar a diferença entre a vida e a morte, entre a higidez e a
+
+enfermidade incurável.
+
+49. Veja-se, por exemplo, que o rito para a atualização do rol de
+
+procedimentos da ANS se prolongará por 180 (cento e oitenta) dias,
+
+prorrogáveis por 90 (noventa) dias corridos (Art. 10, § 7º, da Lei
+
+9.656, de 1998, com a redação que foi dada pela Lei 14.307, de
+
+2022). Note-se, ademais, que os procedimentos médicos já
+
+incorporados pelo SUS, por decisão da Conitec, serão incluídos no
+
+rol da ANS dentro do alongado prazo de até 60 (sessenta) dias (Art.
+
+10, §10, da Lei 9.656, de 1998).
+
+50. Ou seja, novos procedimentos, ainda que já tenham sido
+
+amplamente aferidos e testados pelas melhores evidências (revisões
+
+sistemáticas ou ensaios clínicos), poderão levar até 270 (duzentos e
+
+setenta) dias para inclusão no rol. Mesmo os procedimentos já
+
+incorporados pelo SUS e aprovados pena Conitec, serão incluídos
+
+em até 60 dias.
+
+51. Não se nega que há fundamento para que processo
+
+administrativo de atualização do rol possa se prolongar: o tema é
+
+
+
+[[pagina 27 | nativo]]
+técnico, há inúmeros dados em jogo e a definição de políticas
+
+públicas deve ser marcada pela prudência e planejamento. Todavia,
+
+não é razoável que pacientes/consumidores sejam alijados de novos
+
+procedimentos ou tratamentos durante o prazo do processo
+
+administrativo: a saúde não pode esperar.
+
+Mas não é só. Afinal, argumentar em favor da taxatividade do rol
+
+da ANS representaria, inexoravelmente, na mitigação da autonomia
+
+decisória dos médicos. De fato, não se pode ignorar o imperativo
+
+ético que reconhece a autonomia do paciente e do profissional de
+
+saúde em fazer escolhas conjuntas, sob o regime do livre
+
+consentimento informado.
+
+53. Outrossim, não é compatível com a ética, com a dignidade da
+
+pessoa humana, com o direito fundamental à saúde e com a
+
+autonomia dos profissionais médicos qualquer ato administrativo
+
+que possa restringir ou mitigar o acesso a tratamentos ou
+
+procedimentos que, comprovadamente, tenham evidências de
+
+segurança, eficácia e efetividade, ainda que não incluídos no rol da
+
+ANS.
+
+O art. 10-D, § 3º, incluído pela Lei nº. 14.307/22 determina:
+
+Art. 10-D. Fica instituída a Comissão de Atualização do Rol de
+
+Procedimentos e Eventos em Saúde Suplementar à qual compete
+
+assessorar a ANS nas atribuições de que trata o § 4º do art. 10 desta
+
+Lei.
+
+
+§ 3º A Comissão de Atualização do Rol de Procedimentos e Eventos
+
+em Saúde Suplementar deverá apresentar relatório que
+
+considerará: (Incluído pela Lei nº 14.307, de 2022)
+
+I - as melhores evidências científicas disponíveis e possíveis sobre a
+
+
+
+[[pagina 28 | nativo]]
+eficácia, a acurácia, a efetividade, a eficiência, a usabilidade e a
+
+segurança do medicamento, do produto ou do procedimento
+
+analisado, reconhecidas pelo órgão competente para o registro ou
+
+para a autorização de uso; (Incluído pela Lei nº 14.307, de 2022)
+
+II - a avaliação econômica comparativa dos benefícios e dos custos
+
+em relação às coberturas já previstas no rol de procedimentos e
+
+eventos em saúde suplementar, quando couber; e (Incluído pela Lei
+
+nº 14.307, de 2022)
+
+III - a análise de impacto financeiro da ampliação da cobertura no
+
+âmbito da saúde suplementar. (Incluído pela Lei nº 14.307, de 2022)
+
+O texto normativo prevê a criação de Comissão Técnica para apoiar a ANS na
+
+atualização do rol de procedimentos, devendo apresentar relatório com base em evidências
+
+científicas sobre a efetividade do procedimento, medicamento, produto para autorização de
+
+uso; avaliar economicamente os benefícios em relação às coberturas já previstas no rol de
+
+procedimentos; e analisar o impacto financeiro da ampliação de cobertura.
+
+O rito para a atualização do rol de procedimentos da ANS ocorrerá mediante processo
+
+administrativo, a ser concluído em 180 (cento e oitenta) dias, prorrogáveis por 90 (noventa)
+
+dias corridos (art. 10, § 7º, da Lei 9.656, de 1998, com a redação que foi dada pela Lei nº
+
+14.307, de 2022).
+
+Infere-se, portanto, que novos procedimentos, ainda que amplamente testados e
+
+estudados, poderão levar cerca de 270 (duzentos e setenta) dias para constar do rol de
+
+procedimentos e eventos da ANS.
+
+É cediço a complexidade do tema e a necessidade de aferir dados para viabilidade e
+
+atualização do rol, contudo, não é razoável que consumidores sejam excluídos de novos
+
+procedimentos, tratamentos, medicamentos ou produtos em decorrência do prazo de duração
+
+do processo administrativo.
+
+
+
+[[pagina 29 | nativo]]
+Ademais, a eventual exaustividade do rol, em última análise, representa a mitigação
+
+da autonomia dos profissionais de medicina nas escolhas sobre o melhor tratamento para o
+
+paciente.
+
+Nesse sentido, destaca-se as considerações à CGU no ofício nº
+
+0059/20221/CONSUNIÃO/CGU/AGU:
+
+“Outrossim, não é compatível com a ética, com a dignidade da
+
+pessoa humana, com o direito fundamental à saúde e com a
+
+autonomia dos profissionais médicos qualquer ato administrativo
+
+que possa restringir ou mitigar o acesso a tratamentos ou
+
+procedimentos que, comprovadamente, tenham evidências de
+
+segurança, eficácia e efetividade, ainda que não incluídos no rol da
+
+ANS.
+
+54. Afinal, considerando a rapidez e a dinâmica das pesquisas
+
+clínicas e científicas, é perfeitamente natural que procedimentos ou
+
+insumos médicos dotados de evidências de alto nível (revisões
+
+sistemáticas ou ensaios clínicos randomizados) já integrem a práxis
+
+médica, mas ainda não tenham sido integrados ao rol da ANS. E,
+
+nesses casos, não é possível defender a taxatividade da lista da
+
+agência reguladora, sob o risco de se negar, ao usuário, o próprio
+
+direito à saúde.
+
+Ou seja, a lista da ANS é sindicável (administrativa ou
+
+judicialmente) caso se revele omissa, defasada ou desatualizada
+
+com melhores evidências (RSs ou ECRs). Não se defende aqui, por
+
+óbvio, que o médico seja absolutamente livre para indicar qualquer
+
+tratamento/ procedimento. Muito ao contrário, a mera opinião, o
+
+simples relatório, os estudos de caso, os casos-controle e os estudos
+
+observacionais não representam evidência suficiente para
+
+reconhecer omissão ou defasagem da lista da ANS. São estudos com
+
+baixos níveis de evidência e alto grau de incerteza estatística.
+
+
+
+[[pagina 30 | nativo]]
+56. Nesse sentido, incumbe aos médicos o ônus de demonstrar a
+
+omissão ou defasagem do rol da ANS, por intermédio de revisões
+
+sistemáticas de literatura ou, excepcionalmente, de ensaios clínicos
+
+randomizados. Não basta a opinião, não bastam estudos
+
+observacionais ou casos-controle: o propósito é demonstrar a
+
+omissão ou defasagem da lista e não substituir-se aos seus critérios,
+
+ignorando as evidências científicas de alto nível.
+
+57. A constatação é inequívoca: procedimentos e insumos médicos
+
+que tenham alto nível de evidência devem ser acessíveis aos usuários
+
+dos planos de saúde, a despeito de estarem incluídos no rol da
+
+Agência Nacional de Saúde Suplementar. Eis o ponto em que o
+
+círculo argumentativo se fecha: o direito à saúde é baseado em
+
+evidências!”
+
+Dessa forma, tendo em vista as omissões perpetradas pelo rol da ANS, é de
+
+importância fundamental reconhecer o seu caráter exemplificativo, autorizando os usuários
+
+de planos de saúde a acessarem a via administrativa ou judicial para ter acesso a esses
+
+procedimentos.
+
+DA (IN) SEGURANÇA JURÍDICA E DA NECESSIDADE DE PROTEÇÃO DOS
+
+CONSUMIDORES
+
+A proteção constitucional dos consumidores encontra-se disposta nos artigos 5º,
+XXXII, 170, V, da CR26.
+
+A proteção dos consumidores é um direito constitucional e dever do Estado, visto a
+
+26 Art. 5º Todos são iguais perante a lei, sem distinção de qualquer natureza, garantindo-se aos brasileiros
+e aos estrangeiros residentes no País a inviolabilidade do direito à vida, à liberdade, à igualdade, à
+segurança e à propriedade, nos termos seguintes: (...) XXXII - o Estado promoverá, na forma da lei, a
+defesa do consumidor;
+Art. 170. A ordem econômica, fundada na valorização do trabalho humano e na livre iniciativa, tem por
+fim assegurar a todos existência digna, conforme os ditames da justiça social, observados os seguintes
+princípios: (...) V - defesa do consumidor;
+
+
+[[pagina 31 | nativo]]
+hipossuficiência dos consumidores nas relações consumeristas.
+
+Consequentemente, é dever do Estado garantir e intervir nessas relações para
+
+promover a estabilização das relações e interesses, resguardando os consumidores sob o
+
+princípio da isonomia.
+
+Ao estabelecer o rol taxativo mitigado cria uma insegurança jurídica muito grande,
+
+visto que a maioria dos consumidores não têm conhecimento técnico e jurídico apropriado
+
+para se resguardar de eventuais situações onerosas, sendo claramente hipossuficientes nesta
+
+relação com os planos de saúde.
+
+Exigir que o consumidor previamente tenha conhecimento do que está no rol da ANS
+
+já é extremamente difícil, pois, repita-se, não tem conhecimento na área da saúde e os termos
+
+técnicos são extremamente complexos.
+
+Além disso, nenhuma pessoa, no momento da contratação, tem o conhecimento
+
+necessário para discernir que tipo de tratamento um dia irá necessitar e quais rumos as
+
+ciências da saúde tomarão.
+
+A medicina não é uma ciência exata, não sendo possível objetivamente apontar o
+
+melhor tratamento e mais indicado para o paciente, tendo em vista estar em evolução
+
+constante. Ademais, é plenamente cabível que profissionais divirjam sobre o tratamento mais
+
+eficaz a determinada moléstia, além de se tratar de obrigação de meio e não de resultado.
+
+A relação estabelecida entre médico e paciente é de confiança, e o plano de saúde
+
+somente pode negar a cobertura de atendimento se comprovadamente o que está sendo
+
+ofertado não tem eficácia, é experimental ou até mesmo prejudicial ao paciente.
+
+Portanto, cumpre ao Estado intervir nessas relações e salvaguardar os interesses dos
+
+consumidores, ditos hipossuficientes, balizando os interesses conforme os ditames
+
+constitucionais.
+
+DO PEDIDO CAUTELAR. FUMAÇA DO BOM DIREITO E PERIGO DA DEMORA.
+
+
+
+[[pagina 32 | nativo]]
+A Constituição prevê expressamente a possibilidade de pedido cautelar nas ações
+
+diretas de inconstitucionalidade (art. 102, I, p, da CR, art. 2º, VIII, da Lei nº 9.868/99).
+
+Portanto, a medida liminar deve ser deferida para suspender os efeitos do parágrafo
+
+4º do art. 10 da Lei nº 9.656/1998, alterado pela Lei nº 14.307, de 2022; aos parágrafos 7º e
+
+8º do art. 10 e aos incisos I, II, e III, do parágrafo 3º do art. 10-D, também da Lei nº
+
+9.656/1998, incluídos pela Lei nº 14.307, de 2022, bem como ao artigo 2º da Resolução
+
+Normativa da ANS nº 465/2021, no que compete a interpretação taxativa do rol de
+
+procedimentos da ANS, até julgamento em definitivo da ação, sob pena de se perpetuar
+
+danos irreparáveis à população.
+
+A fumaça do bom direito, com efeito, está devidamente comprovada em razão da
+
+demonstração de ofensa à dignidade da pessoa humana (art. 1º, III, da CR/88), aos Direitos
+
+Fundamentais (art. 5º da CR/88), ao Direito a Saúde (art. 196 e seguintes da CR/88) e aos
+
+Direitos Sociais (arts. 6º, 23, II, da CR/88), além de afrontar Tratados Internacionais de
+
+Direitos Humanos como a Convenção Internacional sobre Direitos das Pessoas com
+
+Deficiência (artigo 4º, 1, “b”, 10, 25 e 26), PIDESC – Pacto Internacional dos Direitos
+
+Econômicos, Sociais e Culturais (artigo 12) e o Protocolo Adicional à Convenção Americana
+
+sobre Direitos Humanos em Matéria de Direitos Econômicos, Sociais e Culturais - Protocolo
+
+de San Salvador (artigo 10).
+
+O perigo da demora está no fato de que são essas normas que deverão reger as
+
+relações entre consumidores e operadoras de planos de saúde, vulnerando parte da
+
+população que necessita de tratamentos específicos que não constam do rol de
+
+procedimentos da ANS.
+
+Demonstrados, portanto, a fumaça do bom direito e o perigo da demora, aptos ao
+
+deferimento da medida liminar requerida.
+
+DOS PEDIDOS
+
+Assim, diante de todo o exposto, requer:
+
+
+
+[[pagina 33 | nativo]]
+a) o conhecimento da presente ADI, porquanto preenchidos seus pressupostos de
+
+admissibilidade;
+
+b) na forma dos arts. 10 e 11 da Lei nº 9.868/1999, o deferimento de medida cautelar
+
+para assegurar a eficácia da demanda cognitiva e garantir a suspensão dos efeitos do
+
+parágrafo 4º do art. 10 da Lei nº 9.656/1998, alterado pela Lei nº 14.307, de 2022; aos
+
+parágrafos 7º e 8º do art. 10 e aos incisos I, II, e III, do parágrafo 3º do art. 10-D, também da
+
+Lei nº 9.656/1998, incluídos pela Lei nº 14.307, de 2022, bem como ao artigo 2º da
+
+Resolução Normativa da ANS nº 465/2021, no que compete a interpretação taxativa do rol
+
+de procedimentos da ANS, até o julgamento em definitivo da ação, fundada na plausibilidade
+
+dos fatos apresentados, em razão da demonstração de ofensa à Dignidade da Pessoa Humana
+
+(art. 1º, III, da CR/88), aos Direitos Fundamentais (art. 5º da CR/88), ao Direito a Saúde (art.
+
+196 e seguintes da CR/88) e aos Direitos Sociais (arts. 6º, 23, II, da CR/88);
+
+c) caso não seja deferido o pedido, que imprima à presente ADI o rito sumário do art.
+
+12 da Lei nº 9.868/1999, em razão da relevância da matéria e de seu especial significado
+
+para a ordem jurídica e política do país;
+
+d) decorrido o prazo das informações, seja determinada a oitiva sucessiva do Exmo.
+
+Advogado-Geral da União e do Exmo. Procurador-Geral da República (art. 8º da Lei nº
+
+9.868/1999);
+
+e) após o devido processo legal, no mérito, que seja julgado integralmente procedente
+
+o pedido inicial da ação para conferir interpretação conforme à Constituição da República
+
+ao parágrafo 4º do art. 10 da Lei nº 9.656/1998, alterado pela Lei nº 14.307, de 2022; aos
+
+parágrafos 7º e 8º do art. 10 e aos incisos I, II, e III, do parágrafo 3º do art. 10-D, também da
+
+Lei nº 9.656/1998, incluídos pela Lei nº 14.307, de 2022, bem como ao artigo 2º da
+
+Resolução Normativa da ANS nº 465/2021, concluindo pelo caráter exemplificativo do rol
+
+de procedimentos e eventos de saúde, em atenção aos princípios estabelecidos na
+
+Constituição da República;
+
+f) por fim, requer que todas as publicações sejam efetuadas em nome do advogado
+
+Joelson Dias, OAB/DF nº 10.441.
+
+Dá à causa o valor de R$ 1.000,00 (um mil reais).
+
+Nestes termos,
+
+
+
+[[pagina 34 | nativo]]
+P. E. Deferimento
+
+Brasília-DF, 24 de junho de 2022
+
+Joelson Dias
+
+OAB/DF 10.441
+
+Marcelli Pereira
+
+OAB-DF 33.843
+
+Jacqueline Amarilio
+
+OAB-DF 35.446
+
+Lucas Dairell
+
+OAB-DF 18.316/E
+
+
+

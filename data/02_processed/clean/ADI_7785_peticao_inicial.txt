@@ -1,0 +1,1734 @@
+[[pagina 1 | nativo]]
+EXCELENTÍSSIMO SENHOR MINISTRO LUÍS ROBERTO BARROSO,
+
+DIGNÍSSIMO PRESIDENTE DO SUPREMO TRIBUNAL FEDERAL
+
+UNAFISCO NACIONAL – ASSOCIAÇÃO NACIONAL DOS AUDITORES-
+
+FISCAIS DA RECEITA FEDERAL DO BRASIL, pessoa jurídica de direito privado,
+
+constituída sob a forma de associação de âmbito nacional representativa dos auditores-
+
+fiscais da Receita Federal do Brasil, inscrita no CNPJ/MF sob o n. 50.586.247/0001-00,
+
+com sede à Avenida Ipiranga, n. 1267, 13º andar, São Paulo/SP, CEP 01039-907 (doc. 1),
+
+por intermédio dos advogados infra-assinados (doc. 2), vem à presença de Vossa
+
+Excelência, com fundamento no art. 102, inciso I, alínea “a”, da Constituição Federal
+
+de 1988 (CF/88) e na Lei n. 9.868/1999, ajuizar a presente
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE
+
+com pedido de medida cautelar
+
+em face do §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545, de 5 de junho de 2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938, de 6 de março de
+
+2024, editados pelo Exmo. Sr. Presidente da República, que, a pretexto de dispor acerca
+
+do Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira,
+
+estabeleceu indevida limitação ao pagamento da bonificação.
+
+[[pagina 2 | nativo]]
+I – SÍNTESE DO PRETENDIDO
+
+CONTROLE CONCENTRADO DE CONSTITUCIONALIDADE
+
+1. A parte autora submete ao controle concentrado de constitucionalidade
+
+a ser exercido por este E. Supremo Tribunal Federal (STF) o §§ 2º, 2º-A e 2º-B do art. 8º
+
+do Decreto n. 11.545, de 5 de junho de 2023 (doc. 3), consideradas as alterações
+
+implementadas pelo Decreto n. 11.938, de 6 de março de 2024 (doc. 4), que possui o
+
+seguinte teor normativo:
+
+Art. 8º A base de cálculo a ser utilizada para a definição do valor global do Bônus
+de Eficiência e Produtividade na Atividade Tributária e Aduaneira para
+determinado exercício será composta de percentual do valor total efetivamente
+arrecadado no período de julho do penúltimo exercício a junho do último
+exercício, nas fontes de receitas que integram o Fundo Especial de
+Desenvolvimento e Aperfeiçoamento das Atividades de Fiscalização - Fundaf,
+instituído pelo Decreto-Lei nº 1.437, de 17 de dezembro de 1975, incluídas as
+suas subcontas. (...)
+
+§ 2º O percentual de que trata o caput e o limite mensal para o valor individual
+do Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira de
+que trata o art. 7º da Lei nº 13.464, de 2017, serão de: (Redação dada pelo Decreto
+nº 11.938, de 2024)
+
+I - 10,19% (dez inteiros e dezenove centésimos por cento), para os meses de março
+a julho de 2024, respeitado o limite mensal de R$ 4.500,00 (quatro mil e
+quinhentos reais); (Incluído pelo Decreto nº 11.938, de 2024)
+
+II - 11,33% (onze inteiros e trinta e três centésimos por cento), para os meses de
+agosto de 2024 a janeiro de 2025, respeitado o limite mensal de R$ 5.000,00
+(cinco mil reais); (Incluído pelo Decreto nº 11.938, de 2024)
+
+III - 15,52% (quinze inteiros e cinquenta e dois centésimos por cento), para os
+meses de fevereiro de 2025 a janeiro de 2026, respeitado o limite mensal de R$
+7.000,00 (sete mil reais); e (Incluído pelo Decreto nº 11.938, de 2024)
+
+IV - 25% (vinte e cinco por cento), a partir de fevereiro de 2026, respeitados os
+limites mensais previstos nos § 2º-A e § 2º-B. (Incluído pelo Decreto nº 11.938,
+de 2024)
+
+[[pagina 3 | nativo]]
+§ 2º-A Observado o disposto no § 2º-B, o limite mensal para o valor individual
+do Bônus de Eficiência e Produtividade na Atividade Tributária e
+Aduaneira: (Incluído pelo Decreto nº 11.938, de 2024)
+
+I - será calculado com base no percentual estabelecido no inciso IV do §
+2º; (Incluído pelo Decreto nº 11.938, de 2024)
+
+II - será fixado anualmente em resolução do Comitê Gestor até 31 de julho do
+exercício anterior; e (Incluído pelo Decreto nº 11.938, de 2024)
+
+III - não poderá ser inferior ao valor nominal vigente no momento de sua fixação,
+corrigido pela inflação acumulada nos últimos doze meses anteriores, medida
+pelo Índice Nacional de Preços ao Consumidor Amplo - IPCA. (Incluído pelo
+Decreto nº 11.938, de 2024)
+
+§ 2º-B Os valores individuais apurados nos meses referidos no art. 8º da Lei nº
+13.464, de 2017, relativos ao ano de 2026, terão limite mensal de R$ 11.500,00
+(onze mil e quinhentos reais). (Incluído pelo Decreto nº 11.938, de 2024)
+
+2. O pleito de controle de constitucionalidade está diretamente relacionado
+
+ao que decidido por esse C. STF na ADI 6562/DF, de relatoria do Exmo. Ministro
+
+Gilmar Mendes.
+
+3. Entende a associação autora que a limitação ao pagamento da bonificação
+
+estabelecida pelo dispositivo ora questionado viola premissas constitucionais como a
+
+exigência de lei em sentido estrito para estabelecer limitação ao pagamento do Bônus
+
+de Eficiência e Produtividade na Atividade Tributária e Aduaneira (“bônus de
+
+eficiência e produtividade”), bem como os princípios da separação dos poderes, da
+
+eficiência, da proporcionalidade em sentido estrito e da irredutibilidade da
+
+remuneração. Logo, a presente demanda revela uma pretensão de reconhecimento de
+
+inconstitucionalidade formal (nomodinâmica) propriamente dita, máxime à luz da
+
+decisão proferida por esta Suprema Corte na ADI 6562/DF, e material (nomoestática).
+
+4. Finalmente, à luz do art. 103, inciso IX, da CF/88, a parte autora é entidade
+
+associativa de âmbito nacional que possui legitimidade para dar ignição ao processo
+
+[[pagina 4 | nativo]]
+de controle de constitucionalidade.
+
+II – PREVENÇÃO DA RELATORIA
+
+5. O art. 286 do CPC estabelece que serão distribuídas por dependência as
+
+causas de qualquer natureza quando houver risco de prolação de decisões conflitantes,
+
+ainda que entre os processos considerados não haja conexão (inciso III). De seu turno,
+
+dispõe o art. 77-B do Regimento Interno deste Sodalício que “na ação direta de
+
+inconstitucionalidade (...) aplica-se a regra de distribuição por prevenção quando haja
+
+coincidência total ou parcial de objetos”, exatamente para se evitar o risco de decisões
+
+dissonantes.
+
+6. Forte nessa diretriz normativa, e em atenção ao § 6º do art. 67 do
+
+Regimento Interno deste E. STF, a distribuição da presente ação direta de
+
+inconstitucionalidade deve atentar-se, a uma, à prevenção da Segunda Turma e do
+
+Exmo. Ministro Gilmar Mendes, que foi o relator da ADI 6562/DF; ou, a duas, à
+
+prevenção da Primeira Turma e do Exmo. Ministro Cristiano Zanin, que foi o relator
+
+do MS 39754/DF.
+
+7. A primeira hipótese de prevenção. A mencionada ADI 6562/DF foi
+
+ajuizada pelo Procurador-Geral da República com o objetivo de ver reconhecida a
+
+inconstitucionalidade da Lei n. 13.464, de 10 de julho de 2017, que instituiu o
+
+denominado bônus de eficiência e produtividade. Não obstante o intuito do pleito
+
+ministerial, esta Suprema Corte julgou improcedente a ação direta e, via de
+
+consequência, reconheceu a constitucionalidade da norma questionada. O acórdão
+
+unânime (doc. 5), conduzido por voto do relator, Exmo. Ministro Gilmar Mendes, ficou
+
+assentado, resumidamente, nos termos da ementa abaixo transcrita, in verbis:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. BÔNUS
+
+[[pagina 5 | nativo]]
+DE EFICIÊNCIA E PRODUTIVIDADE NA ATIVIDADE TRIBUTÁRIA E
+ADUANEIRA E DA AUDITORIA-FISCAL DO TRABALHO. LEI
+FEDERAL 13.464, DE 2017. SISTEMA REMUNERATÓRIO
+CONSTITUCIONAL DE SUBSÍDIO. RESERVA LEGAL ABSOLUTA NA
+FIXAÇÃO E ALTERAÇÃO DA REMUNERAÇÃO DE SERVIDORES
+PÚBLICOS. VEDAÇÃO À VINCULAÇÃO E À EQUIPARAÇÃO DE
+ESPÉCIES REMUNERATÓRIAS. 1. A instituição do Bônus de Eficiência e
+Produtividade na Atividade Tributária e Aduaneira e da Auditoria-fiscal do
+Trabalho não ofende o regime constitucional de remuneração por subsídio. As
+carreiras a que se destinam exerceram opção constitucional por remuneração sob
+a sistemática de vencimentos (Art. 39, § 8º da CF/88). 2. O Bônus de Eficiência
+não macula a exigência constitucional de lei específica a fixar e alterar a
+remuneração dos servidores públicos (Art. 37, X da CF/88). Legislação própria
+fixa o limite mínimo (vencimentos), enquanto a Lei 13.464/2017 ressalta a
+observância do teto remuneratório do funcionalismo. A remuneração por
+desempenho encontra suas balizas, seu intervalo, satisfatoriamente previstas em
+lei formal e se amolda ao respaldo constitucional do princípio da eficiência (Art.
+37, caput c/c Art. 39, § 7º da CF/88). 3. Não ofende a regra constitucional de
+vedação à vinculação ou à equiparação de remuneração de servidores públicos
+(Art. 37, XIII da CF/88) o incremento salarial condicionado à satisfação de
+indicadores de desempenho e metas estabelecidos nos objetivos ou no
+planejamento estratégico dos órgãos a que vinculados os servidores. Precedentes
+da Corte. Distinções. 4. Ação Direta de Inconstitucionalidade julgada
+improcedente. (ADI 6562, Relator(a): GILMAR MENDES, Tribunal Pleno,
+julgado em 09-03-2022, PROCESSO ELETRÔNICO DJe-059 DIVULG 28-
+03-2022 PUBLIC 29-03-2022)
+
+8. A presente ação direta de inconstitucionalidade, por sua vez, pretende
+
+discutir o que seria a regulamentação para o pagamento do bônus de eficiência e
+
+produtividade, de modo que acaba por ter sua distribuição vinculada à relatoria do
+
+anterior relator da ADI 6562/DF, nos termos dos mencionados dispositivos normativos
+
+que regulamentam a prevenção.
+
+9. A segunda hipótese de prevenção. O mencionado MS 39754/DF foi
+
+impetrado pela UNAFISCO com o específico objetivo de discutir o que entendeu ser
+
+uma violação concreta a direito remuneratório da carreira dos auditores-fiscais da
+
+[[pagina 6 | nativo]]
+Receita Federal do Brasil. Ao pé da impetração, a UNAFISCO sustentou que as
+
+alterações veiculadas pelo Decreto n. 11.938/2024 violam frontalmente as normas
+
+constitucionais que disciplinam a remuneração dos servidores públicos, notadamente
+
+os arts. 5º, caput, 37, caput e inciso XI, e 39, § 7º, da CF/88.
+
+10. A despeito da fundamentação jurídica deduzida no MS 39754/DF e da
+
+demonstração de que o writ não encontrava óbice na Súmula 266/STF, o eminente
+
+relator, Exmo. Ministro Cristiano Zanin, entendeu por negar seguimento à ação
+
+mandamental, na medida em que “não se presta a substituir a ação direta de
+
+inconstitucionalidade ou qualquer outro instrumento destinado ao controle abstrato da validade
+
+de atos normativos”. Ao ver de Sua Excelência, a ação então impetrada estaria a buscar
+
+“impugnar dispositivos de Decreto que veiculam normas genéricas e aplicáveis a toda uma
+
+categoria de servidores” (doc. 6).
+
+11. Dessa forma, a autora entende que o Exmo. Ministro Gilmar Mendes
+
+deve ser considerado o relator natural para esta ação direta de inconstitucionalidade.
+
+Subsidiariamente, a parte autora ressalva a prevenção do Exmo. Ministro Cristiano
+
+Zanin.
+
+III – LEGITIMIDADE ATIVA AD CAUSAM
+
+12. Nos termos do art. 103, inciso IX, da CF/88 e do art. 2º, inciso IX, da Lei
+
+9.868/1999, a entidade de classe de âmbito nacional possui legitimidade ativa para
+
+propor ação direta de inconstitucionalidade. A legitimação das entidades de
+
+representação de categoria profissional, contudo, é tida por especial e exige a
+
+comprovação de pertinência temática.
+
+13. Conforme jurisprudência desta Suprema Corte, para a atuação da autora
+
+nesta sede de controle de constitucionalidade é necessário comprovar “a)
+
+[[pagina 7 | nativo]]
+homogeneidade entre os membros integrantes da entidade (ADI 108-QI, Rel. Min Celso de
+
+Mello, Plenário, DJ de 5/6/1992; ADI 146, Rel. Min. Maurício Corrêa, Plenário, DJ de
+
+19/12/2002); b) representatividade da categoria em sua totalidade e comprovação do caráter
+
+nacional da entidade, pela presença efetiva de associados em, pelo menos, nove estados-membros
+
+(ADI 386, Rel. Min. Sydney Sanches, Plenário, DJ de 28/6/1991; e ADI 1.486-MC, Rel. Min.
+
+Moreira Alves, Plenário, DJ de 13/12/1996); e c) pertinência temática entre os objetivos
+
+institucionais da entidade postulante e a norma objeto da impugnação (ADI 1.873, Rel. Min.
+
+Marco Aurélio, Plenário, DJ de 19/9/2003)” (ADI 6112 AgR, relator Ministro Luiz Fux).
+
+14. Acerca da representatividade nacional exercida pela autora e da
+
+homogeneidade dos integrantes por ela assistidos, o estatuto associativo da
+
+UNAFISCO NACIONAL (doc. 1) dispõe que ela “é uma entidade associativa civil de
+
+âmbito nacional, sem fins lucrativos (...) constituída em 13 de maio de 1978, com número
+
+ilimitado de associados e duração indeterminada, que congrega os ocupantes do cargo de Auditor
+
+Fiscal da Receita Federal do Brasil ativos, aposentados, respectivos pensionistas e associados
+
+contributivos” (art. 1º) e que tem “representatividade, abrangência e foro em todo o território
+
+nacional” (art. 2º). Trata-se, portanto, de entidade de classe de âmbito nacional com
+
+representatividade específica para toda a carreira dos auditores-fiscais da Receita
+
+Federal do Brasil.
+
+15. A esse propósito, é salutar observar que esse STF já teve a oportunidade
+
+de reconhecer a legitimidade ativa da autora para propor ações de controle
+
+concentrado de constitucionalidade, como se percebe da ADI 5391/DF, in verbis:
+
+AÇÃO DIRETA DE INCONSTITUCIONALIDADE. DIREITO
+ADMINISTRATIVO. SERVIDORES PÚBLICOS FEDERAIS.
+LEGITIMIDADE ATIVA AD CAUSAM. PERTINÊNCIA TEMÁTICA.
+ART. 103, IX, DA CONSTITUIÇÃO DA REPÚBLICA. ALEGAÇÃO DE
+INCONSTITUCIONALIDADE MATERIAL DO ARTIGO 5º DA LEI Nº
+10.593, DE 6 DE DEZEMBRO DE 2002, COM AS ALTERAÇÕES
+POSTERIORES. AUSÊNCIA DE ALTERAÇÃO SUBSTANCIAL.
+
+[[pagina 8 | nativo]]
+MODIFICAÇÃO MERAMENTE TERMINOLÓGICA. O ARTIGO 5º DA
+LEI N° 13.464/2017 APENAS CONFERIU NOVA DENOMINAÇÃO À
+CARREIRA, DORAVANTE CARREIRA TRIBURÁRIA E ADUANEIRA
+DA RECEITA FEDERAL DO BRASIL, COMPOSTA DOS CARGOS DE
+AUDITOR-FISCAL DA RECEITA FEDERAL DO BRASIL E DE
+ANALISTA TRIBUTÁRIO DA RECEITA FEDERAL DO BRASIL.
+AUSÊNCIA DE PREJUÍZO AO EXAME DO MÉRITO.
+JURISPRUDÊNCIA CONSOLIDADA DESTE SUPREMO TRIBUNAL
+FEDERAL QUE IMPEDE ASCENSÃO, TRANSFERÊNCIA,
+ENQUADRAMENTO, MUDANÇA OU TRANSFORMAÇÃO EM
+OUTRO CARGO. SÚMULA VINCULANTE Nº 43 DESTA CORTE.
+IMPRECISÃO TERMINOLÓGICA: USO DO CONCEITO DE CARREIRA
+DE MODO APARTADO DO SEU SENTIDO CONSTITUCIONAL.
+INTERPRETAÇÃO CONFORME A CONSTITUIÇÃO. PROCEDÊNCIA
+PARCIAL. 1. Legitimidade ativa ad causam da Associação Nacional dos
+Auditores-Fiscais da Receita Federal do Brasil – UNAFISCO
+NACIONAL (art. 103, IX, da Constituição da República). Exemplo nítido
+de representatividade de uma categoria profissional. Reconhecimento da
+pertinência temática com o objeto da demanda. Entidade representativa,
+em âmbito nacional, dos interesses dos Auditores-Fiscais da Receita
+Federal do Brasil, ou seja, de uma inteira classe, e não de uma
+representação parcial ou fracionária. (...) (ADI 5391, Relator(a): ROSA
+WEBER, Tribunal Pleno, julgado em 20-04-2020, PROCESSO
+ELETRÔNICO DJe-117 DIVULG 11-05-2020 PUBLIC 12-05-2020 –
+destaques nossos)
+
+16. A autora também já foi admitia a contribuir no relevante papel de Amicus
+
+Curiae em ações de controle concentrado de constitucionalidade, considerada a sua
+
+representatividade, como servem de exemplo as ADI´s 6367, 6399, 6403, a ADPF 647 e
+
+a já mencionada ADI 6562/DF.
+
+17. Ainda sob o prisma da legitimidade ativa da autora, é de se registrar a
+
+desnecessidade de autorização específica dos seus filiados para o ajuizamento desta
+
+ação direta de inconstitucionalidade. A iterativa jurisprudência desta Suprema Corte,
+
+[[pagina 9 | nativo]]
+a exemplo do que decidido na medida cautelar na ADI 1590/SP,1 entende que não se
+
+aplica ao presente caso a hipótese do art. 5º, inciso XII, da CF/88, que se volta à
+
+representação dos filiados por entidades associativas em processos subjetivos,
+
+ressalvada a hipótese do mandado de segurança coletivo.
+
+18. No que diz respeito à pertinência temática, o Decreto n. 11.545/2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938/2024, veicula
+
+conjunto normativo que “dispõe sobre o Comitê Gestor do Programa de Produtividade da
+
+Receita Federal do Brasil e sobre a base de cálculo” do denominado bônus de eficiência e
+
+produtividade instituído pela Lei 13.464, de 10 de julho de 2017. A norma é relevante
+
+e impacta diretamente a carreira dos auditores-fiscais da Receita Federal do Brasil,
+
+notadamente quanto à forma de remuneração dos integrantes dessa categoria
+
+profissional do funcionalismo público federal, em rubrica que já foi reconhecida por
+
+esse C. STF como hígida sob o prisma constitucional (ADI 6562/DF). Neste sentido,
+
+tem-se por amoldada a hipótese ao objetivo da autora, expressamente previsto no art.
+
+3º do seu estatuto (doc. 1), in verbis:
+
+Art. 3º - A UNAFISCO terá por objetivo, entre outros:
+I. congregar e representar, no território nacional, os associados vinculados à
+Entidade, independentemente do local de seu domicílio ou de sua residência, na
+defesa de seus direitos e interesses, coletivos e individuais, em qualquer nível,
+ficando expressamente autorizada para intervir e praticar todos os atos na
+esfera administrativa, judicial ou extrajudicial na defesa dos associados;
+II. promover atividades em defesa da instituição e manutenção de prerrogativas
+e garantias especiais inerentes à natureza do cargo de Auditor Fiscal da Receita
+Federal do Brasil, bem como da autonomia e independência funciona, no direito
+positivo brasileiro, tendo em vista sua condição de autoridade pública
+
+EMENTA: I. Ação direta de inconstitucionalidade: objeto Tem-se objeto idôneo à ação direta de
+inconstitucionalidade quando o decreto impugnado não é de caráter regulamentar de lei, mas constitui
+ato normativo que pretende derivar o seu conteúdo diretamente da Constituição. II. Ação direta de
+inconstitucionalidade: legitimação das entidades nacionais de classe que não depende de autorização
+específica dos seus filiados. (...) (ADI 1590 MC, Relator(a): SEPÚLVEDA PERTENCE, Tribunal Pleno,
+julgado em 19-06-1997, DJ 15-08-1997 PP-37034 EMENT VOL-01878-01 PP-00092)
+
+[[pagina 10 | nativo]]
+fazendária federal;
+III. promover a integração e valorização dos Auditores Fiscais da Receita
+Federal do Brasil; (...)
+
+19. Assim, estão demonstradas a representatividade nacional exercida pela
+
+parte autora relativamente aos interesses da categoria homogênea dos auditores-fiscais
+
+da Receita Federal do Brasil e a pertinência temática para o controle de
+
+constitucionalidade ora proposto, que considera o teor do dispositivo normativo
+
+veiculado no Decreto n. 11.545/2023, consideradas as alterações implementadas pelo
+
+Decreto n. 11.938/2024.
+
+IV – CABIMENTO DO CONTROLE CONCENTRADO DE
+
+CONSTITUCIONALIDADE
+
+IV.1 – Ação direta de inconstitucionalidade em face de decreto autônomo
+
+20. O objeto desta ação direta de inconstitucionalidade são os §§ 2º, 2º-A e 2º-
+
+B do art. 8º do Decreto n. 11.545/2023 (doc. 3), à vista das alterações levadas a cabo
+
+pelo Decreto n. 11.938/2024 (doc. 4), tido pela autora como formal e materialmente
+
+inconstitucional.
+
+21. O Decreto n. 11.545/2023 foi editado pelo Exmo. Sr. Presidente da
+
+República e adotou por fundamento normativo o art. 84, caput, incisos IV e VI, alínea
+
+“a”, da CF/88, haja vista o disposto no art. 6º, §§ 1º e 4º, da Lei 13.464/2017. As alterações
+
+implementadas pelo Decreto n. 11.938/2024, por certo, correspondem também a ato da
+
+autoridade e da responsabilidade do Exmo. Sr. Presidente da República, no exercício
+
+do seu poder regulamentar e em atenção ao princípio do paralelismo das formas.
+
+22. O decreto — e sua alteração — revela, assim, o interesse de veicular
+
+norma para organizar o funcionamento da Administração Pública federal, sem
+
+[[pagina 11 | nativo]]
+implicar aumento de despesa e criação ou extinção de órgãos públicos, notadamente
+
+com relação à bonificação remuneratória destinada aos auditores da Receita Federal
+
+do Brasil. Trata-se, em verdade, de ato normativo primário que desafia o controle de
+
+constitucionalidade pela via aberta e abstrata das ações diretas de
+
+inconstitucionalidade.
+
+23. Ordinariamente, o controle de constitucionalidade volta-se aos
+
+denominados atos normativos primários, consideradas as espécies normativas
+
+previstas no art. 59 da CF/88 e que têm a própria Carta Cidadã como fundamento
+
+normativo de validade. Esse cenário não desconsidera, contudo, a possibilidade de
+
+controle de constitucionalidade também em face de atos administrativos que possuam
+
+cunho normativo.
+
+24. Relativamente aos decretos, a jurisprudência desta Suprema Corte tem
+
+admitido o controle concentrado de constitucionalidade de decreto autônomo quando
+
+seu fundamento de validade decorra diretamente do art. 84, inciso VI, da CF/88; de
+
+decreto regulamentar que viole diretamente a CF/88, ainda que possua fundamento de
+
+validade imediato na norma que o regulamenta; e de decreto regulamentar que não se
+
+limita a regulamentar uma lei, mas que porta previsões autônomas. Nessa esteira, veja-
+
+se excerto do voto proferido pelo Exmo. Ministro Alexandre de Moraes na ADI
+
+4409/SP, da qual foi relator, in verbis:
+
+(...) Preliminarmente, também é controversa a possibilidade do controle de
+constitucionalidade de decreto.
+Em princípio, podem ser objeto do controle de constitucionalidade as espécies
+normativas indicadas no art. 59 da Constituição: emenda à Constituição, lei
+complementar, lei ordinária, lei delegada, medida provisória, decreto legislativo
+e resolução. Além delas, incluem-se todos os atos administrativos que tenham
+cunho normativo, como, por exemplo, as resoluções dos tribunais.
+Em relação aos decretos, admite-se o controle de constitucionalidade de decretos
+autônomos, não vinculados à aplicação de uma lei: (...)
+
+[[pagina 12 | nativo]]
+Por outro lado, existe ressalva na jurisprudência do Pleno do SUPREMO
+TRIBUNAL FEDERAL aos decretos regulamentares, tendo em vista que podem
+violar diretamente apenas a lei regulamentada, mas não a Constituição. Sobre o
+Inclui-se ainda uma terceira situação: o decreto regulamentar possui não apenas
+normas que regulamentam a lei, mas outras autônomas, que podem violar
+diretamente a Constituição. Em tais hipóteses, há precedente do STF admitindo
+que os dispositivos autônomos de decreto regulamentar sejam objeto de controle
+de constitucionalidade: (...) (ADI 4409, Relator(a): ALEXANDRE DE
+MORAES, Tribunal Pleno, julgado em 06-06-2018, PROCESSO
+ELETRÔNICO DJe-225 DIVULG 22-10-2018 PUBLIC 23-10-2018)
+
+25. Orientando-se nesse mesmo norte, a doutrina constitucionalista pátria
+
+vem lecionando que:
+
+Decretos autônomos. (...) os atos normativos secundários, como decretos
+regulamentares, portarias, resoluções, por estarem subordinados à lei, não são
+suscetíveis de controle em ação direta de inconstitucionalidade. Não assim,
+porém, os atos normativos que, ostentando embora o nome ou a roupagem formal
+de ato secundário, na verdade pretendem inovar autonomamente na ordem
+jurídica, atuando com força de lei. Neste caso, poderão ser objeto de controle
+abstrato, notadamente para aferir violação ao princípio da reserva legal.2
+
+26. Finalmente, mister se faz registrar que a associação havia impetrado
+
+mandado de segurança com o escopo de discutir a higidez das normas ora submetidas
+
+ao controle concentrado de constitucionalidade. O MS 39754/DF foi distribuído à
+
+distinta relatoria do Exmo. Ministro Cristiano Zanin, que negou seguimento ao writ
+
+por entender que a ação mandamental pretendia “impugnar dispositivos de Decreto que
+
+veiculam normas genéricas e aplicáveis a toda uma categoria de servidores” e que o mandado
+
+de segurança “não se presta a substituir a ação direta de inconstitucionalidade ou qualquer
+
+BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição
+sistemática da doutrina e análise crítica da jurisprudência. São Paulo: Saraiva, 2022. E-book. ISBN
+9786555598995. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555598995/.
+Acesso em: 26 dez. 2023.
+
+[[pagina 13 | nativo]]
+outro instrumento destinado ao controle abstrato da validade de atos normativos” (doc. 6).
+
+27. No caso vertente, as normas submetidas ao controle de
+
+constitucionalidade estão previstas no Decreto n. 11.545/2023, alterado pelo Decreto n.
+
+11.938/2024, ambos editados pelo Exmo. Presidente da República. Referidos decretos
+
+não se limitaram a regulamentar a Lei n. 13.464/2017 e, como já reconhecido, trouxeram
+
+previsões autônomas em relação à lei instituidora do bônus de eficiência e
+
+produtividade.
+
+28. Nessa senda, há de se reconhecer como admissível esta ação direta de
+
+inconstitucionalidade e como viável o seu processamento e julgamento em sede de
+
+controle concentrado de constitucionalidade por essa Suprema Corte.
+
+IV.2 – Subsidiariamente: fungibilidade entre ADI e ADPF
+
+29. A associação autora ressalva a excepcional fungibilidade entre a ação
+
+direta de inconstitucionalidade (ADI) e a ação de descumprimento de preceito
+
+fundamental (ADPF), considerado o inciso V do art. 3º da Lei n. 9.882/1999.
+
+30. Com efeito, a jurisprudência desta Suprema Corte tem admitido o
+
+conhecimento e o processamento de ADI como ADPF, conforme se colhe dos seguintes
+
+julgados, in verbis:
+
+EMENTAS: 1. AÇÃO OU ARGUIÇÃO DE DESCUMPRIMENTO DE
+PRECEITO FUNDAMENTAL - ADPF. (...) 2. AÇÃO DIRETA DE
+INCONSTITUCIONALIDADE. Impropriedade da ação. Conversão em
+Argüição de Descumprimento de Preceito Fundamental - ADPF.
+Admissibilidade. Satisfação de todos os requisitos exigidos à sua propositura.
+Pedido conhecido, em parte, como tal. Aplicação do princípio da fungibilidade.
+Precedente. É lícito conhecer de ação direta de inconstitucionalidade como
+arguição de descumprimento de preceito fundamental, quando coexistentes todos
+os requisitos de admissibilidade desta, em caso de inadmissibilidade daquela. (...)
+(ADI 4163, Relator(a): CEZAR PELUSO, Tribunal Pleno, julgado em 29-
+
+[[pagina 14 | nativo]]
+02-2012, ACÓRDÃO ELETRÔNICO DJe-040 DIVULG 28-02-2013
+PUBLIC 01-03-2013)
+
+EMENTA: AÇÃO DE DESCUMPRIMENTO DE PRECEITO
+FUNDAMENTAL. DIREITO FINANCEIRO. TRANSPARÊNCIA FISCAL.
+DECRETO Nº 10.540, DE 06 DE NOVEMBRO DE 2020. PADRÃO
+MÍNIMO DE QUALIDADE DO SISTEMA ÚNICO E INTEGRADO DE
+EXECUÇÃO ORÇAMENTÁRIA, ADMINISTRAÇÃO FINANCEIRA E
+CONTROLE. REVOGAÇÃO DO ATO ANTERIOR E VACATIO LEGIS DO
+ATO REVOGADOR. CONSTITUCIONALIDADE. 1. É cabível arguição de
+descumprimento de preceito fundamental que impugne decreto regulamentador
+de lei, por ser este caracterizado como ato do Poder Público, quando, da leitura
+da petição inicial, for possível depreender controvérsia constitucional suscitada
+em abstrato, cuja ofensa se mostra direta à Constituição da República. (...)
+(ADPF 763, Relator(a): ANDRÉ MENDONÇA, Tribunal Pleno, julgado
+em 03-11-2022, PROCESSO ELETRÔNICO DJe-233 DIVULG 17-11-2022
+PUBLIC 18-11-2022)
+
+31. Para que essas conversões se viabilizem é necessária a constatação de
+
+excepcionalidade da medida, notadamente quando satisfeitos os requisitos da
+
+subsidiariedade, da relevância da matéria e aqueles próprios da propositura da ação
+
+correta (legitimidade ativa, objeto, fundamentação e pedido). Além disso, para
+
+implementar a fungibilidade entre ações de controle concentrado de
+
+constitucionalidade há de se observar, ainda, critérios já assentes em relação aos
+
+recursos em geral, de modo que a conversão de uma (ADI) em outra (ADPF) apenas
+
+se viabiliza em face de dúvida aceitável a respeito da ação apropriada, a fim de não
+
+legitimar erro grosseiro na escolha (ADPF 314 AgRg).
+
+32. Nessa linha de argumentação, é de se considerar que a premissa principal
+
+da autora é a de que os §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545, de 5 de junho
+
+de 2023, consideradas as alterações implementadas pelo Decreto n. 11.938, de 6 de
+
+março de 2024, veiculam norma de organização da Administração Pública federal, na
+
+linha do que estabelece o art. 84, inciso VI, alínea “a”, CF/88, tanto que esse
+
+[[pagina 15 | nativo]]
+fundamento constitucional foi expressamente utilizado pelo Exmo. Presidente da
+
+República para a edição do decreto autônomo em comento. Trata-se, portanto, de ato
+
+normativo primário, que extrai da CF/88 seu fundamento primeiro de higidez
+
+normativa e que, portanto, desafia, controle concentrado de constitucionalidade por
+
+este Pretório Excelso.
+
+33. Todavia, a autora compreende que, eventualmente, seja possível
+
+entender que os §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545, de 5 de junho de 2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938, de 6 de março de
+
+2024, assumem feições de mera norma regulamentar da Lei n. 13.464/2017. Essa
+
+compreensão revela uma premissa subsidiária da argumentação da associação autora,
+
+admitida apenas por respeito ao debate, caso seja formada maioria pela inviabilidade
+
+da ADI — a despeito do entendimento já manifestado pelo Exmo. Ministro Cristiano
+
+Zanin no MS 39754/DF.
+
+34. Essa compreensão, todavia, não inviabiliza o controle concentrado de
+
+constitucionalidade na via principal pretendida. Ora, ainda que se tratasse de ato
+
+normativo federal no exercício da função regulamentar (norma secundária), o § 2º do
+
+art. 8º do Decreto n. 11.545/2023 continua a revelar inconstitucionalidade, ou violação
+
+aos preceitos constitucionais ora indicados.
+
+35. Aqui, a fungibilidade se faz excepcionalmente viável na medida em que
+
+não há outro instrumento de controle de constitucionalidade viável no caso, a revelar
+
+a subsidiariedade da ADPF à míngua de conhecimento da ADI (art. 4º, § 1º, Lei n.
+
+9.882/1999). Os demais requisitos considerados como necessário à implementação da
+
+conversão dos instrumentos de controle concentrado de constitucionalidade, na linha
+
+do que já mencionado, também estão presentes no caso vertente.
+
+36. Justifica-se, dessa forma, a excepcional e eventual conversão da presente
+
+[[pagina 16 | nativo]]
+ADI em ADPF, caso se entenda pela inviabilidade de processamento da ADI.
+
+V – MÉRITO: VIOLAÇÕES CONSTITUCIONAIS
+
+37. Os §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545/2023 —consideradas
+
+as alterações implementadas pelo Decreto n. 11.938/2024, editado pelo Exmo. Sr.
+
+Presidente da República, e os limites delas decorrentes — estão a violar frontalmente
+
+direitos dos integrantes da carreira de auditor-fiscal da Receita Federal do Brasil e
+
+incorrem em inconstitucionalidade formal e material, na medida em que malferem as
+
+disposições dos arts. 2º, 37, caput e inciso XI, e 39, § 7º, 61, § 1º, inciso II, alínea “c”, 84,
+
+IV e VI, alínea “a”, da CF/88, e afrontam os princípios da reserva legal, da eficiência,
+
+da proporcionalidade, da isonomia, da segurança jurídica e da irredutibilidade
+
+salarial.
+
+V.1 – Inconstitucionalidade formal propriamente dita em face dos
+
+arts. 2º e 61, § 1º, II, “c”, da CF/88 e da decisão proferida na ADI 6562/DF
+
+38. As normas positivadas nos §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n.
+
+11.545/2023, consideradas as alterações implementadas pelo Decreto n. 11.938/2024,
+
+incorrem em patente inconstitucionalidade formal, notadamente em vista do que
+
+decidido por esta Suprema Corte na ADI 6562/DF.
+
+39. Uma breve digressão sobre o objeto da ADI 6562/DF se faz oportuna. A
+
+ADI 6562/DF foi ajuizada pelo Exmo. Procurador-Geral da República com o objetivo
+
+de que se reconhecesse a inconstitucionalidade dos arts. 6º a 25 da Lei 13.464/2017, que
+
+“instituem e disciplinam o pagamento das parcelas pecuniárias denominadas ‘bônus de
+
+eficiência e produtividade na atividade tributária e aduaneira’ (...) a servidores das carreiras
+
+Tributária e Aduaneira da Receita Federal do Brasil (...)” (doc. 5).
+
+40. A causa de pedir da referida ação de controle concentrado sustentou a
+
+[[pagina 17 | nativo]]
+violação ao § 4º do art. 39 da CF/88, que estabelece o regime remuneratório por
+
+subsídio fixo em parcela única, como modelo unitário de remuneração da carreira de
+
+auditor da Receita Federal do Brasil, conforme previsto no § 8º do mesmo dispositivo
+
+constitucional.
+
+41. Por ocasião do julgamento de mérito da ADI 6562/DF, este E. STF assim
+
+se posicionou, como bem se extrai da autoexplicativa ementa do julgado, in verbis:
+
+EMENTA: AÇÃO DIRETA DE INCONSTITUCIONALIDADE. BÔNUS
+DE EFICIÊNCIA E PRODUTIVIDADE NA ATIVIDADE TRIBUTÁRIA E
+ADUANEIRA E DA AUDITORIA-FISCAL DO TRABALHO. LEI
+FEDERAL 13.464, DE 2017. SISTEMA REMUNERATÓRIO
+CONSTITUCIONAL DE SUBSÍDIO. RESERVA LEGAL ABSOLUTA NA
+FIXAÇÃO E ALTERAÇÃO DA REMUNERAÇÃO DE SERVIDORES
+PÚBLICOS. VEDAÇÃO À VINCULAÇÃO E À EQUIPARAÇÃO DE
+ESPÉCIES REMUNERATÓRIAS.
+1. A instituição do Bônus de Eficiência e Produtividade na Atividade Tributária
+e Aduaneira e da Auditoria-fiscal do Trabalho não ofende o regime constitucional
+de remuneração por subsídio. As carreiras a que se destinam exerceram opção
+constitucional por remuneração sob a sistemática de vencimentos (Art. 39, § 8º
+da CF/88).
+2. O Bônus de Eficiência não macula a exigência constitucional de lei específica
+a fixar e alterar a remuneração dos servidores públicos (Art. 37, X da CF/88).
+Legislação própria fixa o limite mínimo (vencimentos), enquanto a Lei
+13.464/2017 ressalta a observância do teto remuneratório do funcionalismo. A
+remuneração por desempenho encontra suas balizas, seu intervalo,
+satisfatoriamente previstas em lei formal e se amolda ao respaldo constitucional
+do princípio da eficiência (Art. 37, caput c/c Art. 39, § 7º da CF/88).
+3. Não ofende a regra constitucional de vedação à vinculação ou à equiparação de
+remuneração de servidores públicos (Art. 37, XIII da CF/88) o incremento
+salarial condicionado à satisfação de indicadores de desempenho e metas
+estabelecidos nos objetivos ou no planejamento estratégico dos órgãos a que
+vinculados os servidores. Precedentes da Corte. Distinções.
+4. Ação Direta de Inconstitucionalidade julgada improcedente.
+(ADI 6562, Relator(a): GILMAR MENDES, Tribunal Pleno, julgado em
+09-03-2022, PROCESSO ELETRÔNICO DJe-059 DIVULG 28-03-2022
+PUBLIC 29-03-2022)
+
+[[pagina 18 | nativo]]
+42. A toda evidência, o Tribunal Pleno desta Suprema Corte compreendeu
+
+que a remuneração dos auditores-fiscais da Receita Federal do Brasil poderia ocorrer
+
+mediante a inclusão da parcela denominada bônus de eficiência, que é consentânea
+
+com o disposto no art. 39, § 7º, CF/88. Além disso, constou do julgado expressamente
+
+que “a remuneração por desempenho encontra suas balizas, seu intervalo, satisfatoriamente
+
+previstas em lei formal e se amolda ao respaldo constitucional do princípio da eficiência”.
+
+43. Confira-se excerto pontual do voto do Exmo. Ministro Gilmar Mendes,
+
+relator, a esse propósito, in verbis:
+
+(...) Compreendo que o legislador ordinário conferiu às carreiras sob análise uma
+margem, um intervalo, enfim, uma baliza legal de variação remuneratória, o que
+afasta, a mim parece, a pretendida inconstitucionalidade por exigência de lei
+formal na fixação ou alteração da remuneração de servidores públicos (Art. 37,
+X da CF/88).
+Em uma breve digressão, rememore-se que a lei se dirige a servidores do
+alto escalão funcional do Poder Executivo, cujas atribuições, por sua
+importância, encontram especial alusão e deferência no texto
+constitucional (Art. 37, XVIII e XXII da CF/88).
+O registro é importante. Os valores remuneratórios atualmente
+percebidos, desconsiderando-se momentaneamente o bônus de eficiência
+sob escrutínio, reverberam a relevância das atribuições desenvolvidas, a
+notória qualificação dos quadros e a respeitabilidade das instituições
+envolvidas.
+Isso afirmo para afastar ilações açodadas, maniqueístas e demagógicas de que a
+manutenção do bônus de eficiência privilegiaria uma já abonada classe de
+servidores públicos.
+Se a espécie remuneratória sob escrutínio deve ser mantida, ela o será por estrita
+observância a um processo legislativo conduzido às claras e por uma escolha
+político-legislativa que encontra amparo em texto constitucional expresso, como
+aqui me proponho a demonstrar. (...) (destaques nossos)
+
+44. Ao referir-se à “lei formal” para dispor acerca do bônus de eficiência e
+
+produtividade, este Pretório Excelso estabeleceu o entendimento de que, por um lado,
+
+[[pagina 19 | nativo]]
+a instituição do benefício remuneratório deve ocorrer por lei em sentido estrito, o que
+
+efetivamente ocorreu; e, de outro lado, que se tem por vedada a utilização de normas
+
+outras que não a lei em sentido estrito para versar acerca dos “limites” da
+
+remuneração por desempenho a que faz jus a categoria do funcionalismo público
+
+federal dos auditores da Receita Federal do Brasil.
+
+45. A “lei formal” a que aludiu o STF na ADI 6562 é a Lei n. 13.464/2017, que
+
+instituiu o bônus de eficiência e produtividade dos auditores-fiscais da Receita Federal
+
+do Brasil. O art. 13 da referida Lei n. 13.464/2017 estabelece como única limitação
+
+possível ao cômputo e pagamento do bônus que ele não exceda ao teto remuneratório
+
+constitucionalmente estabelecido para o funcionalismo público. Confira-se:
+
+Art. 13. O somatório do vencimento básico da carreira Tributária e Aduaneira
+da Receita Federal do Brasil com as demais parcelas, incluído o Bônus de que
+trata o art. 6º desta Lei, não poderá exceder o limite máximo disposto no inciso
+XI do caput do art. 37 da Constituição Federal.
+
+46. Daí dizer que o Decreto n. 11.545/2023, no que alterado pelo Decreto n.
+
+11.938/2024, acabou por usurpar os limites da Lei n. 13.464/2017, que instituiu o
+
+denominado bônus de eficiência e produtividade. Em consequência, tem-se típica
+
+usurpação das atribuições institucionais do Poder Legislativo e violação ao
+
+fundamento da separação de Poderes, como previsto no art. 2º da CF/88.
+
+47. Conforme se extrai da Lei n. 13.464/2017, o valor do bônus é variável em
+
+conformidade com o alcance dos índices de eficiência e o com a disponibilidade do
+
+Fundo Especial de Desenvolvimento e Aperfeiçoamento das Atividades de
+
+Fiscalização – FUNDAF, de forma que jamais se considerou alguma relação limitativa
+
+segundo a dotação orçamentária.
+
+48. A limitação prevista nos §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n.
+
+[[pagina 20 | nativo]]
+11.545/202, consideradas as alterações implementadas pelo Decreto n. 11.938/2024, não
+
+constou da lei formal instituidora e não está em conformidade com o art. 61, § 1º, inciso
+
+II, alínea “c”, da CF/88, que possui o seguinte teor normativo, in verbis:
+
+Art. 61. A iniciativa das leis complementares e ordinárias cabe a qualquer
+membro ou Comissão da Câmara dos Deputados, do Senado Federal ou do
+Congresso Nacional, ao Presidente da República, ao Supremo Tribunal Federal,
+aos Tribunais Superiores, ao Procurador-Geral da República e aos cidadãos, na
+forma e nos casos previstos nesta Constituição.
+§ 1º São de iniciativa privativa do Presidente da República as leis que: (...)
+II - disponham sobre: (...)
+c) servidores públicos da União e Territórios, seu regime jurídico, provimento de
+cargos, estabilidade e aposentadoria; (redação dada pela EC n. 18/1998)
+
+49. Como se depreende do referido dispositivo constitucional, quisesse o
+
+Exmo. Sr. Presidente da República estabelecer limite ao benefício remuneratório
+
+estabelecido pela Lei n. 13.464/2017, deveria Sua Excelência ter iniciado processo
+
+legislativo de lei ordinária (lei formal), e não enveredado pela oblíqua via do Decreto
+
+impugnado, a representar medida que, como dito, extrapola as atribuições
+
+constitucionais da Presidência da República e entoa invasão da competência do Poder
+
+Legislativo (art. 2º da CF/88). Vale dizer, “o exercício do poder regulamentar com
+
+fundamento no art. 84, VI, a, não licencia o Poder Executivo a invadir a órbita de atribuição
+
+dos demais Poderes. O caráter ‘autônomo’ do decreto diz com a circunstância de não se colocar
+
+no bojo de um processo de concretização normativa da lei”.3
+
+50. Com efeito, as limitações do §§ 2º, 2º-A e 2º-B, do art. 8º do Decreto n.
+
+11.545/2023, após as alterações levadas a efeito pelo Decreto n. 11.938/2024, não se
+
+justificam e não se sustentam formalmente, porquanto há inescusável abuso do direito
+
+3 MENDES, Gilmar Ferreira; BRANCO, Paulo Gustavo Gonet. Curso de direito constitucional. (Série
+IDP). São Paulo: Saraiva, 2023. E-book. ISBN 9786553624474. Disponível em:
+https://integrada.minhabiblioteca.com.br/#/books/9786553624474/. Acesso em: 26 dez. 2023.
+
+[[pagina 21 | nativo]]
+à edição de decreto regulamentar por parte do Exmo. Sr. Presidente da República, a
+
+repercutir em intromissão na competência reservada ao Poder Legislativo (art. 2º,
+
+CF/88). Além de não poder limitar diretamente o pagamento do bônus de eficiência e
+
+produtividade, o Exmo. Sr. Presidente da República jamais poderia imputar tal
+
+possibilidade ao Comitê Gestor, conforme expresso nos decretos retromencionados.
+
+51. Em casos análogos, já se manifestou este STF, verbis:
+
+Ementa: SUSPENSÃO DE LIMINAR. DIREITO ADMINISTRATIVO E
+CONSTITUCIONAL. RESERVA LEGAL. CONCESSÃO DE AUMENTO
+POR DECRETO. ODONTÓLOGOS DO MUNICÍPIO DE MACEIÓ.
+RISCO DE LESÃO À ORDEM E À ECONOMIA PÚBLICAS. AGRAVO A
+QUE SE NEGA PROVIMENTO. I – Constatado o risco à segurança pública,
+deve ser mantida a suspensão da liminar. II – O imediato cumprimento da
+decisão que determina a aplicação do Decreto 7.463/2012, que objetiva
+regulamentar a Lei 6.124/2012 e reajusta em 120% (cento e vinte por
+cento) os vencimentos dos odontólogos, evidencia o risco de grave lesão
+à ordem e à economia públicas, seja pela violação do princípio
+constitucional da reserva legal, seja pela quantia anual envolvida no
+pagamento de verba alimentar decorrente de decisão judicial ainda não transitada
+em julgado. III – Agravo regimental a que se nega provimento.
+(SL 825 AgR, Relator(a): RICARDO LEWANDOWSKI (Presidente),
+Tribunal Pleno, julgado em 17-03-2016, PROCESSO ELETRÔNICO DJe-
+072 DIVULG 15-04-2016 PUBLIC 18-04-2016 – destaques nossos)
+
+Ementa: AÇÃO DIRETA DE INCONSTITUCIONALIDADE –
+REMUNERAÇÃO, SUBSÍDIOS, PENSÕES E PROVENTOS DOS
+SERVIDORES PÚBLICOS, ATIVOS E INATIVOS, DO ESTADO DO RIO
+DE JANEIRO - FIXAÇÃO DE TETO REMUNERATÓRIO MEDIANTE
+ATO DO PODER EXECUTIVO LOCAL (DECRETO ESTADUAL Nº
+25.168/99) - INADMISSIBILIDADE - POSTULADO CONSTITUCIONAL
+DA RESERVA DE LEI EM SENTIDO FORMAL - ESTIPULAÇÃO DE
+TETO REMUNERATÓRIO QUE TAMBÉM IMPORTOU EM DECESSO
+PECUNIÁRIO - OFENSA À GARANTIA CONSTITUCIONAL DA
+IRREDUTIBILIDADE DO ESTIPÊNDIO FUNCIONAL (CF, ART. 37, XV)
+- MEDIDA CAUTELAR DEFERIDA. REMUNERAÇÃO DOS AGENTES
+PÚBLICOS E POSTULADO DA RESERVA LEGAL. - O tema concernente à
+
+[[pagina 22 | nativo]]
+disciplina jurídica da remuneração funcional submete-se ao postulado
+constitucional da reserva absoluta de lei, vedando-se, em conseqüência, a
+intervenção de outros atos estatais revestidos de menor positividade jurídica,
+emanados de fontes normativas que se revelem estranhas, quanto à sua origem
+institucional, ao âmbito de atuação do Poder Legislativo, notadamente quando se
+tratar de imposições restritivas ou de fixação de limitações quantitativas ao
+estipêndio devido aos agentes públicos em geral. - O princípio constitucional
+da reserva de lei formal traduz limitação ao exercício das atividades
+administrativas e jurisdicionais do Estado. A reserva de lei - analisada
+sob tal perspectiva - constitui postulado revestido de função excludente,
+de caráter negativo, pois veda, nas matérias a ela sujeitas, quaisquer
+intervenções normativas, a título primário, de órgãos estatais não-
+legislativos. Essa cláusula constitucional, por sua vez, projeta-se em uma
+dimensão positiva, eis que a sua incidência reforça o princípio, que, fundado na
+autoridade da Constituição, impõe, à administração e à jurisdição, a necessária
+submissão aos comandos estatais emanados, exclusivamente, do legislador. Não
+cabe, ao Poder Executivo, em tema regido pelo postulado da reserva de lei, atuar
+na anômala (e inconstitucional) condição de legislador, para, em assim agindo,
+proceder à imposição de seus próprios critérios, afastando, desse modo, os fatores
+que, no âmbito de nosso sistema constitucional, só podem ser legitimamente
+definidos pelo Parlamento. É que, se tal fosse possível, o Poder Executivo passaria
+a desempenhar atribuição que lhe é institucionalmente estranha (a de legislador),
+usurpando, desse modo, no contexto de um sistema de poderes essencialmente
+limitados, competência que não lhe pertence, com evidente transgressão ao
+princípio constitucional da separação de poderes. A GARANTIA
+CONSTITUCIONAL DA IRREDUTIBILIDADE DO ESTIPÊNDIO
+FUNCIONAL QUALIFICA-SE COMO PRERROGATIVA DE CARÁTER
+JURÍDICO-SOCIAL INSTITUÍDA EM FAVOR DOS AGENTES
+PÚBLICOS. - A garantia constitucional da irredutibilidade do estipêndio
+funcional traduz conquista jurídico-social outorgada, pela Constituição
+da República, a todos os servidores públicos (CF, art. 37, XV), em ordem
+a dispensar-lhes especial proteção de caráter financeiro contra eventuais
+ações arbitrárias do Estado. Essa qualificada tutela de ordem jurídica impede
+que o Poder Público adote medidas que importem, especialmente quando
+implementadas no plano infraconstitucional, em diminuição do valor nominal
+concernente ao estipêndio devido aos agentes públicos. A cláusula constitucional
+da irredutibilidade de vencimentos e proventos - que proíbe a diminuição daquilo
+que já se tem em função do que prevê o ordenamento positivo (RTJ 104/808) -
+incide sobre o que o servidor público, a título de estipêndio funcional, já vinha
+legitimamente percebendo (RTJ 112/768) no momento em que sobrevém, por
+
+[[pagina 23 | nativo]]
+determinação emanada de órgão estatal competente, nova disciplina legislativa
+pertinente aos valores pecuniários correspondentes à retribuição legalmente
+devida. O NOVO TETO REMUNERATÓRIO, FUNDADO NA EC 19/98,
+SOMENTE LIMITARÁ A REMUNERAÇÃO DOS AGENTES PÚBLICOS
+DEPOIS DE EDITADA A LEI QUE INSTITUIR O SUBSÍDIO DEVIDO
+AOS MINISTROS DO SUPREMO TRIBUNAL FEDERAL. - Enquanto não
+sobrevier a lei formal, de iniciativa conjunta dos Presidentes da República, da
+Câmara dos Deputados, do Senado Federal e do Supremo Tribunal Federal (CF,
+art. 48, XV), destinada a fixar o subsídio devido aos Ministros da Suprema Corte,
+continuarão a prevalecer os tetos remuneratórios estabelecidos, individualmente,
+para cada um dos Poderes da República (CF, art. 37, XI, na redação anterior à
+promulgação da EC 19/98), excluídas, em conseqüência, de tais limitações, as
+vantagens de caráter pessoal (RTJ 173/662), prevalecendo, desse modo, a
+doutrina consagrada no julgamento da ADI 14/DF (RTJ 130/475), até que seja
+instituído o valor do subsídio dos Juízes do Supremo Tribunal Federal. - Não se
+revela aplicável, desde logo, em virtude da ausência da lei formal a que se refere
+o art. 48, XV, da Constituição da República, a norma inscrita no art. 29 da EC
+19/98, pois a imediata adequação ao novo teto depende, essencialmente, da
+fixação do subsídio devido aos Ministros do Supremo Tribunal Federal.
+Precedentes. A QUESTÃO DO SUBTETO NO ÂMBITO DO PODER
+EXECUTIVO DOS ESTADOS-MEMBROS E DOS MUNICÍPIOS -
+HIPÓTESE EM QUE SE REVELA CONSTITUCIONALMENTE POSSÍVEL
+A FIXAÇÃO DESSE LIMITE EM VALOR INFERIOR AO PREVISTO NO
+ART. 37, XI, DA CONSTITUIÇÃO - RESSALVA QUANTO ÀS
+HIPÓTESES EM QUE A PRÓPRIA CONSTITUIÇÃO ESTIPULA TETOS
+ESPECÍFICOS (CF, ART. 27, § 2º E ART. 93, V) - PRECEDENTES.
+(ADI 2075 MC, Relator(a): CELSO DE MELLO, Tribunal Pleno, julgado
+em 07-02-2001, DJ 27-06-2003 PP-00031 EMENT VOL-02116-02 PP-00238
+– destaques nossos)
+
+52. Nesse cenário, verifica-se típica hipótese de inconstitucionalidade formal
+
+propriamente dita, uma vez que os §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n.
+
+11.545/2023, consideradas as alterações implementadas pelo Decreto n. 11.938/2024,
+
+contrariam a norma que se extrai dos arts. 2º e 61, § 1º, inciso II, alínea “c”, da CF/88 e
+
+violam o devido processo legislativo estabelecido na CF/88.
+
+[[pagina 24 | nativo]]
+V.2 – Inconstitucionalidade material: ato normativo que viola os princípios da
+
+isonomia, da segurança jurídica, da eficiência, e da irredutibilidade salarial
+
+53. Para além do já indicado vício de inconstitucionalidade formal
+
+propriamente dita, os §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545/2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938/2024, também
+
+incorrem em inconstitucionalidade material, porquanto malferem as disposições dos
+
+arts. 37, caput, e 39, § 7º, da CF/88 e afrontam o princípio da proporcionalidade.
+
+54. Sabe-se que a “inconstitucionalidade material expressa uma incompatibilidade
+
+de conteúdo, substantiva, entre a lei ou ato normativo e a Constituição. Pode traduzir-se no
+
+confronto com uma regra constitucional — e.g., a fixação da remuneração de uma categoria de
+
+servidores públicos acima do limite constitucional (art. 37, XI) — ou com um princípio
+
+constitucional, como no caso de lei que restrinja ilegitimamente a participação de candidatos em
+
+concurso público, em razão do sexo ou idade (arts. 5º, caput, e 3º, IV), em desarmonia com o
+
+mandamento da isonomia”.4
+
+55. Essas lições doutrinárias bem possibilitam à autora expor os vícios
+
+extraídos da norma ora jungida ao controle de constitucionalidade.
+
+56. A bem da verdade, a norma do § 7º do art. 39 da CF/88 foi expressamente
+
+utilizada como fundamento da constitucionalidade da Lei n. 13.464/2023, na esteira do
+
+voto do Exmo. Ministro Gilmar Mendes, relator da ADI 6562/DF. O referido
+
+dispositivo normativo possui a seguinte redação, in verbis:
+
+Art. 39. A União, os Estados, o Distrito Federal e os Municípios instituirão
+
+BARROSO, Luís Roberto. O controle de constitucionalidade no direito brasileiro: exposição
+sistemática da doutrina e análise crítica da jurisprudência. São Paulo: Saraiva, 2022. E-book. ISBN
+9786555598995. Disponível em: https://integrada.minhabiblioteca.com.br/#/books/9786555598995/.
+Acesso em: 21/02/2025.
+
+[[pagina 25 | nativo]]
+conselho de política de administração e remuneração de pessoal, integrado por
+servidores designados pelos respectivos Poderes. (redação dada pela EC n.
+§ 7º Lei da União, dos Estados, do Distrito Federal e dos Municípios disciplinará
+a aplicação de recursos orçamentários provenientes da economia com despesas
+correntes em cada órgão, autarquia e fundação, para aplicação no
+desenvolvimento de programas de qualidade e produtividade, treinamento e
+desenvolvimento, modernização, reaparelhamento e racionalização do serviço
+público, inclusive sob a forma de adicional ou prêmio de produtividade. (redação
+dada pela EC n. 19/1998)
+
+57. Trata-se de positivação do princípio da eficiência no serviço público, que
+
+corresponde à força motriz para a instituição do benefício remuneratório denominado
+
+Bônus de Eficiência e Produtividade na Atividade Tributária e Aduaneira, instituído
+
+pela Lei n. 13.464/2017. Nessa toada, esta Suprema Corte reconheceu, na linha do voto
+
+do eminente relator da ADI 6562/DF, que, “em que pese o dispositivo transcrito
+
+correlacionar a aplicação de recursos originários apenas da economia com despesas à retribuição
+
+dos servidores, por meio de adicional ou prêmio de produtividade, parece-me extreme de dúvidas
+
+que o ganho de eficiência na gestão se insere perfeitamente na vontade do legislador, mormente
+
+quando facilmente quantificável financeiramente. Afinal de contas, eficiência na gestão é face
+
+da mesma moeda que estampa a economia de despesa no outro front”.
+
+58. Não escapa a uma adequada intelecção o fato de que a eficiência no
+
+serviço público decorre, por um lado, de axioma essencial positivado no caput do art.
+
+37 da CF; e, por outro lado, de premissa segundo a qual a remuneração adequada,
+
+respeitado o teto constitucional para o funcionalismo público, é justificável para cargos
+
+de relevo na República Federativa do Brasil, como servem de exemplo aqueles
+
+integrantes da carreira dos auditores da Receita Federal do Brasil (art. 39, § 7º, da
+
+CF/88). Cumpre destacar, a esse propósito, o que decidido por essa Suprema Corte por
+
+ocasião o julgamento da ADI 6562:
+
+[[pagina 26 | nativo]]
+A remuneração por desempenho encontra suas balizas, seu intervalo,
+satisfatoriamente previstas em lei formal e se amolda ao respaldo constitucional
+do princípio da eficiência (Art. 37, caput c/c Art. 39, § 7º da CF/88).
+A instituição de adicional remuneratório em função de resultados laborais
+positivos e proveitosos à Administração Pública, a um só tempo, não apresenta
+qualquer ofensa aos comandos constitucionais já enunciados, como também
+caminha ao encontro de dispositivo constitucional com vocação a concretizar o
+princípio da eficiência no serviço público.
+
+59. Daí dizer que o bônus de eficiência e produtividade é uma rubrica
+
+remuneratória excepcional, que se faz viável a partir da sua proporcionalidade com o
+
+retorno financeiro que os integrantes da carreira acarretam ao Estado brasileiro para
+
+além das suas atribuições de praxe. Em casos que tais, não pode haver limite que não
+
+o teto remuneratório constitucional, tanto mais quando estabelecida por decreto que
+
+extrapola o conteúdo normativo da lei formal.
+
+60. Para o fim desta abordagem, surge necessário fazer menção ao contexto
+
+histórico que levou ao nascedouro da Lei n. 13.464/17.
+
+61. É inexorável que a prestação de serviços por parte dos auditores-fiscais
+
+da Receita Federal do Brasil exige uma contraprestação condizente a ser paga pela
+
+União, motivo por que a atração de bons quadros para o Fisco demanda o pagamento
+
+de remuneração condigna com a relevância da função, sem a qual o Poder Público
+
+jamais lograria trazer profissionais competentes para sua estrutura.
+
+62. Aliás, a intenção do Poder Executivo federal está claramente estampada
+
+na Exposição de Motivos da MP 765/2016 (doc. 7), posteriormente convertida na Lei n.
+
+13.464/17, litteris:
+
+(...) 4. Essas medidas buscam suprir as demandas da Administração
+Pública Federal por pessoal especializado e proporcionar a valorização
+dos servidores. O objetivo é atrair e reter profissionais com nível de
+
+[[pagina 27 | nativo]]
+qualificação compatível com a natureza e o grau de complexidade das
+atribuições das carreiras objeto da proposta. (...)
+7. No que diz respeito à Carreira de Auditoria da Receita Federal do Brasil, cabe
+salientar que, para o adequado desempenho da missão da Secretaria da Receita
+Federal do Brasil (RFB), faz-se necessária a adoção de medidas para sanar
+lacunas hoje observadas na gestão da Carreira.5 (destaques nossos)
+
+63. Não restam dúvidas de que a MP 765/2016 foi editada com o escopo de
+
+valorizar as carreiras que integram o Fisco.
+
+64. Demais disso, cumpre trazer à colação a Exposição de Motivos da MP
+
+765/2016 (doc. 7) que recomenda especial atenção ao seguinte, in verbis:
+
+(...) 13. As propostas concernentes aos servidores da atual Carreira de Auditoria
+da Receita Federal do Brasil emergiram de acordo celebrado entre o Governo
+Federal e os Sindicatos da categoria, cujos termos serviram de insumo para
+a elaboração do Projeto de Lei nº 5.864, de 2016, encaminhado pelo Poder
+Executivo. Ocorre que a lenta tramitação do citado PL no Congresso coloca em
+perspectiva o risco do acordo em referência não produzir efeitos ainda no corrente
+exercício, o que, naturalmente, vem impactando negativamente o funcionamento
+da Receita Federal. (...) (destaques nossos)
+
+65. Como se percebe, a edição da Lei n. 13.464/17 foi fruto de um acordo
+
+entabulado com o Governo Federal. No ponto, convém rememorar que o Poder
+
+Executivo federal também havia pactuado reajustes salariais com outras carreiras
+
+típicas de Estado, a exemplo dos delegados de Polícia Federal (Lei n. 13.371/2016) e dos
+
+membros da AGU (Lei n. 13.327/2016).
+
+66. Em todas as rodadas de negociação salarial, o Governo Federal se
+
+comprometeu a conferir aos auditores-fiscais tratamento equivalente àquele
+
+dispensado aos membros da AGU e aos delegados de Polícia Federal. Confiram-se
+
+5 Disponível em: http://www.planalto.gov.br/ccivil_03/_ato2015-2018/2016/Exm/Exm-MP-765-16.pdf
+Acesso em: 09/05/2024.
+
+[[pagina 28 | nativo]]
+as notícias a seguir:
+
+No início da campanha salarial, a cúpula da Receita Federal, juntamente
+com o então ministro da Fazenda, Joaquim Levy (de 1º de janeiro de 2015
+a 18 de dezembro de 2015), garantiu à categoria que aquilo o que fosse
+concedido aos procuradores da AGU (Advocacia-Geral da União) seria
+igualmente concedido aos Auditores Fiscais da RFB (Receita Federal do
+Brasil). A palavra de comprometimento e defesa do tratamento isonômico foi
+reiterada por todos os sucessores de Levy na Fazenda: Nelson Barbosa (de 18 de
+dezembro de 2015 a 12 de maio de 2016), Henrique Meirelles (de 12 de maio de
+2016 a 6 de abril de 2018) e Eduardo Guardia (de 6 de abril de 2018 até o
+momento), e especialmente pelo secretário da Receita Federal do Brasil, Auditor
+Fiscal Jorge Rachid, que por várias vezes, seja em reuniões ou eventos do
+sindicato (como o CDS no início de sua gestão), reafirmou esse mesmo
+compromisso.6
+
+O MPOG, ao considerar um pedido equivocado feito de forma unilateral pela
+Direção Geral, através dos delegados Leandro Daiello e Luiz Pontel, de
+isonomia com as negociações realizadas com a Receita Federal (que
+ofereceu um “bônus” diferenciado e variável para Auditores e Analistas),
+desprezou o acordo assinado entre todas categorias da Polícia Federal e adotou
+um absurdo paralelismo que aumentou do fosso salarial entre os cargos da
+Carreira Policial Federal.7
+
+67. Nesse quadro, os delegados federais obtiveram, no interregno
+
+compreendido entre 01/01/2015 e 01/01/2019, um reajuste médio de 37%.8 Já os
+
+membros da AGU, no mesmo intervalo, auferiram um reajuste de 21,3%, além dos
+
+6 Sindifisco Nacional. Impasse com Bônus é reflexo de desprestígio da RFB. Disponível em:
+https://www.sindifisconacional.org.br/impasse-com-bonus-e-reflexo-de-desprestigio-e-falta-de-
+comprometimento/ Acesso em: 21/02/2025. (doc. 8)
+
+7 Fenafep. No apagar das luzes: pressão do governo força categoria a assinar acordo. Disponível em:
+https://fenapef.org.br/no-apagar-das-luzes-pressao-do-governo-forca-categoria-a-assinar-acordo/
+Acesso em: 21/02/2025. (doc. 9)
+
+8 “Com vigência de três anos, o Termo de Acordo 006/2016-MPOG prevê reajuste médio de 37% para a categoria
+e revisão de benefícios de auxílio-saúde, auxílio alimentação e pré-escola. O projeto estabelece que as parcelas sejam
+recompostas a partir de janeiro de 2017, em parcelas anuais, até 2019.” ADPF. Temer assina PL que prevê
+reajuste aos delegados federais. Disponível em: https://web.adpf.org.br/noticia/adpf/temer-assina-pl-
+que-preve-reajuste-aos-delegados-federais/. Acesso em: 21/02/2025. (doc. 10)
+
+[[pagina 29 | nativo]]
+honorários advocatícios.9 Em relação aos auditores-fiscais da Receita Federal do Brasil,
+
+o anexo VII, item “a”, da Lei n. 13.464/17 previu o reajuste do vencimento básico no
+
+percentual de 21,3%, apenas a partir de 30/12/2016.
+
+68. Em suma, considerando o reajuste diferenciado em favor dos delegados
+
+de Polícia Federal (37%), o Governo Federal, a título de compensação, optou por
+
+implementar os honorários em favor da AGU e o bônus de eficiência e produtividade
+
+em prol dos auditores-fiscais da Receita Federal do Brasil a fim de manter o tratamento
+
+salarial isonômico entre as principais carreiras de estado.
+
+69. Relevante destacar, ainda, que entidades representantes dos interesses
+
+dos auditores-fiscais da Receita Federal do Brasil reuniram-se com o Exmo. Ministro
+
+da Fazenda, Fernando Haddad, no dia 24/12/2023, com o objetivo de discutir a
+
+regulamentação do bônus de eficiência e a implementação progressiva dos seus
+
+valores. O Ministro da Fazenda bem reconheceu, a partir do contexto da sua proposta
+
+para o encerramento de movimento paredista, que os valores especificados no § 2º do
+
+art. 8º do Decreto n. 11.545/2023 (redação original do decreto) não correspondiam ao
+
+que estabelecido em negociação com a categoria profissional, de modo que se
+
+empenhou em salientar que havia encaminhado proposta de reforço para a LOA 2024.
+
+70. Dessa maneira, tendo em vista que a criação do bônus de eficiência e
+
+produtividade observou a necessária simetria salarial entre as carreiras típicas de
+
+Estado (membros da AGU, delegados federais e auditores-fiscais) — o que, de certa
+
+forma, atende aos princípios da isonomia e da segurança jurídica, bem como as
+
+especificidades da carreira dos auditores-fiscais da Receita Federal do Brasil —,
+
+inexiste razão plausível, mormente após o julgamento da ADI 6562/DF, para que o
+
+Poder Executivo federal não honre os acordos outrora firmados, criando limitações
+
+9 Anexo XXXV da Lei n. 13.327/2016.
+
+[[pagina 30 | nativo]]
+arbitrárias que, na prática, elevam a assimetria salarial entre as carreiras de Estado.
+
+71. De mais a mais, conquanto o Decreto n. 11.938/2024 tenha alterado o § 2º
+
+do art. 8º do Decreto 11.545/2023, ele não eliminou a trava remuneratória dos 25%.
+
+Mais do que isso, o novel texto da regulamentação acabou por estabelecer os
+
+percentuais que deveriam ser considerados para o pagamento do bônus a partir de
+
+março de 2024.
+
+72. Aliás, tanto a preposição “até” (redação do Decreto 11.545/2023) quanto
+
+a limitação expressa de valores para o pagamento do bônus no dispositivo ora
+
+impugnado (redação do Decreto 11.938/2024) afrontam claramente o princípio da
+
+irredutibilidade, ao permitirem que o Poder Executivo, por decreto, reduza o valor do
+
+bônus de eficiência e produtividade a patamar inferior ao constitucionalmente
+
+previsto.
+
+V.3 – Princípio da proporcionalidade como vetor para a remuneração pela
+
+eficiência e produtividade no serviço público
+
+73. O conjunto normativo ora impugnado implementa desarrazoada
+
+limitação remuneratória que não condiz com o princípio da proporcionalidade.
+
+74. A previsão de percentuais estabelecidos como limite para o pagamento
+
+do benefício remuneratório em discussão não possui ressalva alguma na Lei n.
+
+13.464/2017, tanto que não constava do projeto original do texto-base para o Decreto n.
+
+11.545/2023.
+
+75. Conforme a norma de regência (Lei n. 13.464/2017), o valor do bônus é
+
+variável em conformidade com o alcance dos índices de eficiência e com a
+
+disponibilidade do FUNDAF, razão pela qual jamais se considerou alguma relação
+
+que restringisse o pagamento do bônus de eficiência e produtividade à dotação
+
+[[pagina 31 | nativo]]
+orçamentária ou a valores mensais fixos. Em verdade, como nas demais carreiras de
+
+Estado, jamais se considerou alguma limitação diversa daquela decorrente do teto
+
+remuneratório do funcionalismo público.
+
+76. Reforça essa afirmação o fato de que a Portaria MF 727, de 12 de julho de
+
+2023 (doc. 11), encaminhou destaque orçamentário da ordem de R$ 2,4 bilhões para a
+
+bonificação no âmbito do mencionado programa, e assim o fez com base no que dispôs
+
+a Lei n. 13.464/2017 (índices de eficiência e o com a disponibilidade do FUNDAF). Não
+
+havia sequer supedâneo na Lei Orçamentária Anual para o exercício financeiro-
+
+orçamentário de 2024 e seguintes.
+
+77. Quer parecer que a mens subjacente ao decreto regulamentar ora
+
+impugnado é a de arrocho fiscal. Sacrificam-se direitos assegurados legalmente às
+
+categorias do funcionalismo público federal para viabilizar superávits a todo custo e
+
+para realizar gastos públicos nem sempre justificáveis. Embora não seja
+
+necessariamente jurídico, não chega a ser um non sense argumentativo sustentar que,
+
+há não muito tempo atrás, o Chefe do Executivo Federal estava a desautorizar medidas
+
+adotadas pelo Ministro de Estado da Fazenda relativamente à meta de déficit público
+
+no ano de 2023.10
+
+78. Sublinhe-se, mais uma vez, que as limitações insertas nos §§ 2º, 2º-A e 2º-
+
+B do art. 8º do Decreto n. 11.545/2023, consideradas as alterações implementadas pelo
+
+Decreto n. 11.938/2024, não se justificam e não se sustentam sob o prisma da
+
+proporcionalidade: há inescusável restrição implementada por decreto regulamentar
+
+a uma norma que, originária do Poder Legislativo, não estabeleceu a limitação
+
+Valor Investe. Contrariando Haddad, Lula diz que não precisa atingir metas fiscais.
+https://valorinveste.globo.com/mercados/brasil-e-politica/noticia/2023/10/27/contrariando-haddad-
+lula-diz-que-nao-precisa-atingir-metas-fiscais.ghtml Acesso em: 21/02/2025.
+
+[[pagina 32 | nativo]]
+constante do ato normativo emanado do Chefe do Executivo federal.
+
+79. De outro giro, a inserção de percentuais progressivos, mas fixos, culmina,
+
+na prática, por esvaziar o direito ao recebimento do bônus de eficiência e
+
+produtividade, porquanto possibilita que o Poder Executivo fixe, arbitrariamente e à
+
+revelia do Fisco, o percentual que lhe pareça mais conveniente para o momento fiscal.
+
+É como se o bônus de eficiência instituído pela Lei n. 13.464/2017 pudesse servir como
+
+um instrumento maleável ao talante do Poder Executivo, que fixará, ano a ano e por
+
+intermédio de um Comitê Gestor, um percentual adequado ao benefício
+
+remuneratório.
+
+80. Deveras, a estipulação de limites mensais fixos de remuneração, ao passo
+
+que desnatura a essência do bônus de eficiência e produtividade, revela-se um hialino
+
+contrassenso, máxime quando se analisa o Decreto hostilizado sob o prisma da
+
+proporcionalidade. A Carta Política de 88 já condiciona o recebimento do bônus ao teto
+
+constitucional, não fazendo sentido, assim, a criação de limites fixos que acabam
+
+reduzindo o valor da remuneração total dos auditores-fiscais federais a patamares bem
+
+aquém do funcionalismo.
+
+81. Ademais, a fixação de limites por meio de Decreto, para além de não
+
+encontrar guarida na CF/88, acaba por conferir ao Poder Executivo um verdadeiro
+
+“cheque em branco” (quem garante que o Decreto não será alterado no futuro???), o
+
+que viola, a não mais poder, os princípios da legalidade, da eficiência na
+
+Administração Pública (art. 37, caput, CF/88), da proporcionalidade em sentido estrito,
+
+da segurança jurídica, este como corolário do Estado de Direito, da irredutibilidade
+
+salarial (art. 37, inciso XV, CF/88) e do teto remuneratório do serviço público (art. 37,
+
+inciso XI, CF/88).
+
+82. Desse modo, também sob o aspecto substantivo, o Decreto impugnado
+
+[[pagina 33 | nativo]]
+descortina-se flagrantemente inconstitucional.
+
+V.4 – Dados concretos da perda patrimonial dos auditores-fiscais
+
+83. Finalmente, a causa de pedir da presente ação de controle concentrado
+
+pode ser compreendida com informações concretas apresentadas pelo Ministério da
+
+Fazenda e pela Receita Federal do Brasil em reunião ocorrida no dia 30/07/2024.
+
+84. Como comprova a Memória da 10ª Reunião do Comitê Gestor do Programa de
+
+Produtividade da Receita Federal do Brasil (doc. 12), o valor do bônus de eficiência e
+
+produtividade projetado para o ano de 2025 antes da aplicação dos limites de que
+
+tratam os ora questionados do §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545/2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938/2024, era de
+
+R$ 8.294,31 por auditor-fiscal:
+
+85. Após as alterações implementadas pelo Decreto n. 11.938/2024 ao Decreto
+
+n. 11.545/2023, o valor passou a ser de R$ 7.000,00 por auditor-fiscal. Veja-se:
+
+[[pagina 34 | nativo]]
+86. Essas informações foram levadas ao conhecimento da categoria e
+
+revelam, concretamente, que há uma limitação ao pagamento do bônus de
+
+produtividade e eficiência estabelecida por decreto. Em casos que tais, o
+
+reconhecimento da inconstitucionalidade ora suscitada é medida que se impõe.
+
+V.5 – Manifesta defasagem remuneratória
+
+87. Os auditores-fiscais da Receita Federal do Brasil integram uma carreira
+
+de Estado e são responsável por uma atividade prioritária para um Estado nos moldes
+
+do brasileiro, que se financia em grande parte das receitas derivadas da arrecadação
+
+tributária. O art. 37, inciso XVIII, da CF/88 bem estabelece que “a administração
+
+fazendária e seus servidores fiscais terão, dentro de suas áreas de competência e jurisdição,
+
+precedência sobre os demais setores administrativos, na forma da lei”.
+
+88. Essa precedência, contudo, não tem sido observada pelo Estado
+
+brasileiro, que não considera uma política remuneratória para a categoria e, ao
+
+contrário, prefere negociar pontualmente os benefícios que lhe pareçam convenientes
+
+na ocasião. Em contrapartida, como visto adrede, o poder público continua
+
+prestigiando outras carreiras de estado, a exemplo dos membros da AGU, que,
+
+hodiernamente, auferem, em seus contracheques, os honorários de sucumbência.
+
+[[pagina 35 | nativo]]
+89. O contexto atual bem demonstra que os auditores-fiscais da Receita
+
+Federal do Brasil estão a perceber remuneração em muito defasada. Nem se tem um
+
+adequado ajuste nos vencimentos básicos da categoria, nem se tem por assegurado o
+
+bônus comprometido nas discussões políticas para assegurar certa equivalência entre
+
+as remunerações dos auditores-fiscais, dos integrantes da AGU e dos delegados
+
+federais.
+
+90. Irresignados com o descaso com a carreira, os auditores-fiscais da Receita
+
+Federal do Brasil deflagraram, por intermédio do Sindifisco Nacional, uma greve que
+
+já perdura 80 dias. Pelo que se depreende da posição negocial do Ministério da Gestão
+
+e da Inovação (MGI), há uma conveniente confusão entre o bônus de eficiência e
+
+produtividade e o vencimento básico. Como veiculado no sítio do Sindifisco Nacional
+
+na Internet:11
+
+“O MGI alega que a negociação que resultou na regulamentação do bônus de
+eficiência é a negociação salarial dos Auditores. A declaração é totalmente
+equivocada e o MGI sabe disso, bem como todo o governo federal. É de pleno
+conhecimento que a regulamentação do bônus solucionou uma pendência de
+2016 que o Estado tinha com os Auditores. E que – é sempre importante ressaltar
+– só saiu do papel depois de muita luta e uma forte greve”.
+
+91. As bases remuneratórias não podem ser confundidas. O direito
+
+conquistado pelos auditores-fiscais da Receita Federal do Brasil ao bônus de eficiência
+
+e produtividade deve ser assegurado.
+
+VI – DA MEDIDA CAUTELAR
+
+92. Em vista da causa de pedir suso exposta, impõe-se o deferimento da
+
+medida cautelar para que sejam imediatamente suspensos os efeitos do §§ 2º, 2º-A e
+
+11 80 dias de greve: Auditores-Fiscais mantêm forte mobilização e cobram resposta do governo.
+Disponível em https://www.sindifisconacional.org.br/80-dias-de-greve-auditores-fiscais-mantem-forte-
+mobilizacao-e-cobram-resposta-do-governo/ Acesso em 17/02/2025.
+
+[[pagina 36 | nativo]]
+2º-B do art. 8º do Decreto n. 11.545/2023, consideradas as alterações implementadas
+
+pelo Decreto n. 11.938/2024.
+
+93. A probabilidade do direito revela-se a partir das razões aduzidas no
+
+decorrer da presente peça exordial. Com efeito, os §§ 2º, 2º-A e 2º-B do art. 8º do
+
+Decreto n. 11.545/2023 refletem ato normativo federal que porta inconstitucionalidade
+
+formal propriamente dita, à luz dos arts. 2º e 61, § 1º, II, “c”, da CF/88 e da decisão
+
+proferida na ADI 6562/DF; e que desponta inconstitucionalidade material em face dos
+
+arts. 37, caput, 37, § 7º, da CF/88 e dos princípios da eficiência, da proporcionalidade
+
+em sentido estrito, da isonomia, da segurança jurídica e da irredutibilidade salarial.
+
+94. Adicionalmente, sobreleva considerar que o projeto que deu origem ao
+
+Decreto n. 11.545/2023 não considerava nenhuma vinculação percentual ao orçamento
+
+previsto na LOA 2024, de modo que o próprio Poder Executivo, editor do Decreto n.
+
+11.545/2023, não considerava desrespeitar os limites traçados pelo Poder Legislativo.
+
+95. O perigo da demora também é manifesto, haja vista que as medidas
+
+limitativas ao pagamento do bônus de eficiência, na esteira dos os §§ 2º, 2º-A e 2º-B do
+
+art. 8º do Decreto n. 11.545/2023, consideradas as alterações implementadas pelo
+
+Decreto n. 11.938/2024, estão, na prática, reduzindo a remuneração dos associados da
+
+parte autora.
+
+96. No particular, não se pode olvidar que, de acordo com a Memória da 10ª
+
+Reunião do Comitê Gestor do Programa de Produtividade da Receita Federal do Brasil (doc.
+
+12), o valor do bônus de eficiência e produtividade projetado para o ano de 2025 antes
+
+da aplicação dos limites de que tratam os ora questionados do §§ 2º, 2º-A e 2º-B do art.
+
+8º do Decreto n. 11.545/2023, consideradas as alterações implementadas pelo Decreto
+
+n. 11.938/2024, era de R$ 8.294,31 por auditor-fiscal:
+
+[[pagina 37 | nativo]]
+97. Sucede que, aplicando-se o limite previsto no decreto impugnado, os
+
+auditores fiscais perceberão, no ano de 2025, a remuneração de R$ 7.000,00, uma
+
+redução salarial “mensal” de R$ 1.294,31:
+
+98. Nesse panorama, é preciso ter em mente que a remuneração paga aos
+
+servidores públicos ostenta nítida natureza alimentar, a justificar a concessão da
+
+cautelar ora requestada, a fim de que os filiados da parte autora não suportem
+
+qualquer espécie de decréscimo salarial.
+
+99. Finalmente, a medida cautelar ora postulada não é definitiva e pode ser
+
+revertida a qualquer momento, sem expor a União a nenhum ônus financeiro que já
+
+[[pagina 38 | nativo]]
+não estivesse previsto.
+
+VII – PEDIDOS
+
+100. Ante o exposto, a autora requer a admissibilidade desta petição inicial,
+
+que preenche os requisitos do art. 3º da Lei 9.868/1999, de modo que esse A. STF se
+
+digne de:
+
+(i) deferir o pedido de medida cautelar, até ulterior deliberação
+
+acerca do mérito desta ADI, para suspender a eficácia dos §§ 2º, 2º-A e
+
+2º-B do art. 8º do Decreto n. 11.545/2023, consideradas as alterações
+
+implementadas pelo Decreto n. 11.938/2024, de sorte que a base de
+
+cálculo do Bônus de Eficiência e Produtividade não sofra as limitações
+
+previstas na norma impugnada;
+
+(ii) determinar a notificação da Presidência da República para que
+
+preste informações e a intimação da Advocacia-Geral da União e da
+
+Procuradoria-Geral da República para que se manifestem;
+
+(iii) julgar procedente o pedido para declarar a inconstitucionalidade
+
+formal propriamente dita dos §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n.
+
+11.545/2023, consideradas as alterações implementadas pelo Decreto n.
+
+11.938/2024;
+
+(iv) julgar procedente o pedido para declarar a inconstitucionalidade
+
+material dos §§ 2º, 2º-A e 2º-B do art. 8º do Decreto n. 11.545/2023,
+
+consideradas as alterações implementadas pelo Decreto n. 11.938/2024.
+
+101. A autora ressalva a possibilidade de que esta ação direta de
+
+inconstitucionalidade venha a ser, eventualmente, conhecida e admitida a
+
+[[pagina 39 | nativo]]
+processamento como ação por descumprimento de preceito fundamental (art. Lei
+
+9.868/1999), de maneira que requer a implementação da conversão dos instrumentos
+
+de controle concentrado de constitucionalidade para se conhecer dessa ADI como
+
+ADPF, sem prejuízo dos pedidos cautelar e de mérito formulados acima.
+
+102. Requer, ainda, que todas as comunicações processuais referentes ao
+
+presente feito ocorram em nome do advogado Eumar Roberto Novacki, inscrito na
+
+OAB-DF sob o n. 64.600, com escritório profissional à SHIS QL 2, Conjunto 2, Casa 8,
+
+Lago Sul, Brasília/DF, CEP 71610-025, telefone 61-3224-0110.
+
+103. Deixa de atribuir valor da causa, à míngua de previsão nesse sentido na
+
+Lei nº 9.868/1999.
+
+Termos em que pede deferimento.
+
+Brasília/DF, 21 de fevereiro de 2025.
+
+Eumar Roberto Novacki
+
+OAB/DF n. 64.600
+

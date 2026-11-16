@@ -1,0 +1,2199 @@
+[[pagina 1 | nativo]]
+EXMO(A). SR(A). MINISTRO(A) RELATOR(A), DO SUPREMO TRIBUNAL
+FEDERAL.
+
+ABEP – ASSOCIAÇÃO BRASILEIRA DE EMPRESAS DE
+EXPLORAÇÃO E PRODUÇÃO DE PETRÓLEO E GÁS, associação privada
+com sede na Cidade e Estado do Rio de Janeiro, na Av. Almirante Barroso, nº 52, 21º
+andar, parte, inscrita no CNPJ sob o nº 19.844.231/0001-00, vem, por meio de seus
+advogados que assinam ao final (doc. nº 01), com fundamento no art. 102, I, “a” c/c
+art. 103, IX, da Constituição Federal e na Lei nº 9.868/1999, propor a presente AÇÃO
+DIRETA DE INCONSTITUCIONALIDADE, COM PEDIDO DE
+CONCESSÃO DE MEDIDA CAUTELAR, da Lei nº 5.854/2006, do Estado de
+Sergipe, que dispõe sobre o acompanhamento e a fiscalização da exploração de
+recursos minerais e hídricos, inclusive petróleo e gás natural, pelas razões que passa
+a expor.
+
+1. DISPOSITIVOS LEGAIS QUESTIONADOS
+
+Por meio desta ação direta de inconstitucionalidade, pretende-se
+impugnar os dispositivos da Lei nº 5.854/06 do Estado de Sergipe (doc. nº 02) que
+dispõem sobre a fiscalização e cobrança de compensações financeiras pela exploração
+de petróleo e gás natural.
+
+Em aperta síntese, a Lei nº 5.854/06 do Estado de Sergipe incorre em
+inconstitucionalidades porque invade as competências legislativa e material da União
+Federal ao instituir regras atinentes tanto à cobrança quanto à fiscalização das
+compensações financeiras pela exploração de petróleo e gás natural – atividade que
+constitui monopólio da União, conforme expressamente previsto no art. 177 da CF/88.
+
+[[pagina 2 | nativo]]
+Eis os dispositivos questionados:
+
+“TÍTULO I - DO ACOMPANHAMENTO E FISCALIZAÇÃO DA
+EXPLORAÇÃO DE RECURSOS MINERAIS E HÍDRICOS, INCLUSIVE
+PETRÓLEO E GÁS NATURAL
+CAPÍTULO I – DAS DISPOSIÇÕES PRELIMINARES
+Art. 1º O acompanhamento e fiscalização da exploração de recursos
+minerais e hídricos, inclusive petróleo e gás natural, por concessionários,
+permissionários, cessionários e outros, nos termos da Constituição Federal,
+assim como a fiscalização e cobrança das correspondentes parcelas de
+compensações financeiras, receitas não tributáveis decorrentes da referida
+exploração são da competência do Estado de Sergipe.
+§ 1º A Secretaria de Estado da Fazenda - SEFAZ, pode firmar convênios
+de cooperação técnica com a União, através dos órgãos ou entidades
+responsáveis pela fiscalização das mencionadas receitas, no âmbito federal,
+bem como, com os municípios do Estado de Sergipe, para fiscalização das
+compensações financeiras, de acordo com o que trata esta Lei.
+§ 2º Nos convênios a que se refere o parágrafo 1º deste artigo, devem ser
+observados os direitos constitucionalmente assegurados de cada Ente
+Federativo.
+Art. 2º Para efeitos desta Lei, entende-se como receitas não tributárias as
+previstas no art. 20, § 1º, da Constituição Federal, nas Leis (Federais) nºs 2
+7.990, de 28 de dezembro de 1989, 8.001, de 13 de março de 1990, e 9.478,
+de 06 de agosto de 1997, e suas alterações, bem como aquelas que assim
+vierem a ser consideradas pela legislação federal pertinente.
+Art. 3º As empresas responsáveis pela exploração dos recursos minerais e
+hídricos, de petróleo e de gás natural, ficam obrigadas a fornecer, em tempo
+real ou por meio eletrônico, na forma e condições definidas pela Secretária
+de Estado da Fazenda - SEFAZ, dados de processos e produção, níveis de
+tanques e similares, silos, dispositivos de carga e descarga de insumos,
+matérias-primas e produtos, bem como todos os que forem necessários para
+apuração das compensações financeiras de que trata esta Lei. (NR) (Redação
+dada ao artigo pela Lei nº 6.095, de 14.12.2006, DOE SE de 18.12.2006, com
+efeitos a partir de 01.07.2006)
+Art. 4º Os dados referidos no art. 3º desta Lei devem ser fornecidos via
+Internet, ou outro sistema a ser definido pela Secretaria de Estado da
+Fazenda - SEFAZ, ficando os responsáveis pela respectiva exploração
+obrigados a fornecer os dados usando o protocolo de comunicação aberto
+SOAP - Simples Object Acess Protocol.
+§ 1º O fornecimento de informações e dados em desacordo com o sistema
+definido somente deve ser aceito com a anuência prévia da SEFAZ, por
+escrito.
+
+[[pagina 3 | nativo]]
+§ 2º A Secretaria de Estado da Fazenda - SEFAZ, pode exigir a instalação
+de instrumentos de medição e de transmissão de dados para efeito de controle
+do balanço físico de produção.
+Art. 5º As solicitações de documentos, livros e informações atinentes à
+fiscalização das receitas não tributárias, feitas pela Assessoria-Geral de
+Gestão Não Tributária - ASSGENT, da Secretaria de Estado da Fazenda -
+SEFAZ, aos concessionários, permissionários, cessionários e terceiros,
+devem ser cumpridas no prazo estabelecido pela SEFAZ.
+Parágrafo único. O prazo estipulado pela SEFAZ, poderá, a critério do
+preposto Fisco, ser prorrogado por no máximo 10 (dez) dias
+
+CAPÍTULO II - DO ARBITRAMENTO
+Art. 6º A base de cálculo para efeito da apuração e recolhimento das
+compensações financeiras pode ser arbitrada pela autoridade fiscal,
+mediante processo regular, quando:
+I - não forem apresentados os documentos e livros solicitados pela
+fiscalização, no prazo estipulado;
+II - não apresentar documentos, métodos de cálculos ou dados que
+comprovem os valores lançados na apuração da compensação financeira
+apurada nos termos da Lei;
+III - Utilizados critérios de cálculos e/ou deduzidas parcelas não
+autorizadas por Lei;
+IV - os preços que servirem para apuração e recolhimento das 3
+compensações financeiras forem inferiores aos fixados pela legislação
+pertinente;
+V - forem extraviados os documentos, relatórios e livros que servirem para
+registro das operações para efeito de apuração e recolhimento das
+compensações financeiras;
+VI - não mantida escrituração nas formas das leis comerciais e fiscais, ou
+deixarem de ser elaboradas as demonstrações financeiras exigidas pela
+legislação;
+VII - o concessionário ou terceiro, legalmente obrigado, apresentar
+escrituração com indícios de fraude ou que contiver vício, erro ou
+informações inexatas, que não permitam a apuração da respectiva receita
+não tributária.
+§ 1º Tratando-se de minerais, inclusive petróleo e gás natural para efeito
+de arbitramento da base de cálculo, deve ser utilizado o preço nacional fixado
+por órgão competente.
+§ 2º Para o arbitramento da base de cálculo de que trata este artigo, devem
+ser considerados:
+I - os dados oficiais publicados pelas agências reguladoras, órgãos
+federais e estaduais, e outras instituições oficiais;
+II - os dados publicados por revistas técnicas especializadas, nacionais e
+estrangeiras;
+
+[[pagina 4 | nativo]]
+III - as informações disponíveis nos arquivos da Secretaria de Estado da
+Fazenda - SEFAZ;
+IV - utilização de dados contábeis de responsável pela respectiva
+exploração.
+Art. 7º Nas transferências entre empresas do mesmo grupo, o preço
+praticado deve refletir as condições do mercado atacadista, podendo vir a ser
+fixado, mediante ato do Secretário de Estado da Fazenda, na hipótese de não
+ser comprovada a formação do preço praticado.
+Art. 8º A Superintendência-Geral de Gestão Tributária e Não Tributária -
+SUPERGEST, da Secretaria de Estado da Fazenda - SEFAZ, pode expedir
+instruções que objetivem definir e/ou detalhar os métodos e critérios de
+arbitramento.
+
+CAPÍTULO III - DO PAGAMENTO
+Art. 9º Os pagamentos das compensações financeiras de que trata esta Lei
+devem ser efetuados diretamente ao Estado de Sergipe, nos casos e prazos a
+seguir:
+I - "Royalties" sobre a produção e exploração de petróleo e gás natural:
+até o último dia do mês seguinte ao fato gerador;
+II - Participação Especial sobre a produção e exploração de petróleo e
+gás natural: até o último dia útil do mês seguinte ao trimestre de referência.
+III - Compensação Financeira pela Exploração de Recursos Minerais -
+CFERN: até o último dia útil do segundo mês subseqüente ao da ocorrência 4
+do fato gerador;
+IV - Compensação Financeira pela Utilização de Recursos Hídricos-
+CFURH: até o qüinquagésimo dia subseqüente ao mês de geração de energia.
+§ 1º Quando o vencimento não recair em dia útil o mesmo deve ser
+prorrogado até o primeiro dia útil subseqüente.
+§ 2º O pagamento espontâneo fora do prazo regularmente estabelecido
+antes, porém, de qualquer procedimento fiscal, deve ser corrigido
+monetariamente com base no índice de variação da Unidade Fiscal Padrão
+do Estado de Sergipe-UFP/SE, ou outro indexador que regulamente venha a
+substituí-la, com os seguintes acréscimos:
+I - Juros de mora de 1º (um por cento) ao mês ou fração de mês;
+II - Multa de mora de 4% (quatro por cento) ao mês ou fração de mês,
+calculada sobre o valor devido, corrigido monetariamente, até o limite de
+12% (doze por cento).
+§ 3º Os juros de mora devem incidir a partir do primeiro dia do mês
+imediato subseqüente ao vencimento, e, a multa de mora, a partir do primeiro
+dia após o vencimento do débito não tributário.
+§ 4º O débito não tributário, inclusive o decorrente de multa, não pago no
+prazo regularmente estabelecido, atualizado monetariamente, se for o caso,
+deve ser acrescido de 1% (um por cento) de juros ao mês ou fração de mês.
+
+[[pagina 5 | nativo]]
+§ 5º Visando à uniformização da atualização do crédito não tributário, a
+Secretaria de Estado da Fazenda - SEFAZ, pode optar pelo índice fixado pela
+União para cobrança das compensações financeiras que lhe compete.
+§ 6º Os valores originais dos débitos apurados mediante a lavratura de
+auto de infração devem ser corrigidos monetariamente, nos termos da
+legislação estadual, a partir da ocorrência da infração até a data da
+lavratura, e desta, até o efetivo pagamento.
+§ 7º O pagamento de que trata este Capítulo, deve ser feito na forma
+definida em ato do Secretário de Estado da Fazenda.
+Art. 10. Quando do pagamento do débito não tributário, se for pago
+integralmente, deve haver os seguintes descontos na multa fiscal de que trata
+o art. 24 desta Lei, desde que recolhida com o principal:
+I - 50% (cinqüenta por cento), se for pago dentro de 10(dez) dias contados
+a partir da ciência da lavratura do auto de infração;
+II - 40% (quarenta por cento), se for pago entre o 11º (décimo primeiro)
+dia e o 20º (vigésimo), contados da ciência da lavratura do auto de infração.
+III - 30% (trinta por cento), se for pago entre o 21º (vigésimo primeiro)
+dia e o 30º (trigésimo), contados a partir da ciência da lavratura do auto de
+infração.
+IV - 25% (vinte e cinco por cento) se for pago antes da distribuição para
+julgamento em 1ª instância, e 20% (vinte por cento) se antes da distribuição
+para julgamento em 2ª instância, do processo administrativo fiscal;
+V - 10% (dez por cento) se for pago antes do encaminhamento para 5
+execução do débito.
+§ 1º Nos casos de comprovada má-fé e de reincidência específica não é
+permitida a redução de que trata este artigo.
+§ 2º Entende-se como reincidência específica, à repetição da mesma
+infração pelo mesmo agente infrator, quando a decisão condenatória
+proferida em processo anterior já não for mais passível de recursos nas
+Câmaras do Conselho de Contribuintes do Estado de Sergipe, hipótese em
+que a multa fiscal de que trata o art. 24 desta Lei deve ser aplicada em dobro.
+§ 3º No caso de reincidência específica, o autuante deve fazer constar,
+obrigatoriamente, no corpo do auto de infração lavrado, o número do auto
+de infração e do processo que serviram para caracterizar a reincidência
+específica.
+§ 4º Os percentuais de redução a que se refere o inciso IV do "caput" deste
+artigo, devem ser mantidos na hipótese de reabertura de prazo em favor do
+autuado e antes da distribuição do processo administrativo fiscal para
+julgamento em 1ª e 2ª instâncias.
+
+CAPÍTULO IV - DO PARCELAMENTO
+Art. 11. Os débitos não tributários decorrentes de lançamento, ou
+denunciados espontaneamente, e seus acréscimos legais, podem ser
+parcelados em até 24 (vinte e quatro) meses, em parcelas iguais, não podendo
+
+[[pagina 6 | nativo]]
+a parcela mensal ser inferior a 300 (trezentas) UFPs - Unidade Fiscal Padrão
+do Estado de Sergipe.
+§ 1º O pedido de parcelamento deve ser analisado pelo administrador
+Regional da área fiscal a que estiver vinculado o devedor, e concedido dentro
+de 30(dias) contados da protocolização do requerimento.
+§ 2º Na ausência de pronunciamento por parte da Secretaria de Estado da
+Fazenda - SEFAZ, no prazo determinado no § 1º deste artigo, deve ser
+considerado como deferido o pedido de parcelamento.
+§ 3º O atraso do pagamento de qualquer parcela acarreta o vencimento
+das demais parcelas e implica o cancelamento automático do parcelamento.
+§ 4º Em nenhuma hipótese o mesmo débito pode ser parcelado mais de
+uma vez, assim como não deve ser concedido novo parcelamento enquanto
+não quitado integralmente o parcelamento anterior.
+§ 5º O pedido de parcelamento importa em confissão irretratável do
+débito.
+
+CAPÍTULO VII - DAS COMPENSAÇÕES FINANCEIRAS PELA
+EXPLORAÇÃO DE PETRÓLEO E GÁS NATURAL
+Art. 18. As empresas que explorem petróleo e gás natural devem recolher
+a compensação financeira referente a esta exploração, na forma desta Lei,
+observando-se subsidiariamente a legislação federal pertinente.
+Art. 19. Para efeito de apuração e recolhimento da compensação
+financeira referida no art. 18 desta Lei, as empresas exploradas devem 6
+apresentar à Secretaria de Estado da Fazenda - SEFAZ, até o segundo dia
+útil após o prazo para a entrega a Agência Nacional do Petróleo - ANP, todas
+as informações necessárias à efetiva verificação do valor apurado das
+compensações financeiras.
+§ 1º. Em se tratando da Participação Especial pela exploração e produção
+de petróleo e gás natural, os concessionários devem apresentar até o segundo
+dia útil da entrega a ANP, os relatórios de gastos por natureza relativos a
+cada campo de produção, discriminando inclusive, os critérios de rateio dos
+gastos apropriados a cada campo.
+§ 2º. Os relatórios de gastos trimestrais devem compreender
+separadamente os gastos das fases de exploração, desenvolvimento e
+produção de petróleo e gás natural.
+§ 3º. As empresas de produção e exploração de petróleo e gás natural ou
+terceiros, assim como os responsáveis pelo transporte e armazenamento
+desses produtos, devem disponibilizar à Secretaria de Estado da Fazenda -
+SEFAZ, todos os meios para que seja efetuada a medição nos navios
+transportadores de petróleo para outra unidade da federação, bem como nos
+tanques de armazenamento das empresas que realizam as atividades de
+transporte e armazenamento de petróleo.
+§ 4º. Na medição de que trata o §3º deste artigo, a ficha de medição deve
+ser assinada pelo representante do Fisco Estadual e pelo responsável pelo
+navio ou empresa de armazenamento e transporte.
+
+[[pagina 7 | nativo]]
+Art. 20. Constituem documentos de entrega obrigatória junto a Secretaria
+de Estado da Fazenda - SEFAZ, dentre outros a serem definidos por ato do
+Secretário de Estado da Fazenda.
+I - Boletim Mensal de Produção de Petróleo e Gás Natural, contendo as
+propriedades físicas e químicas do petróleo e do gás natural produzidos,
+reinjeção de gás natural, composição do gás reinjetado, consumo de gás e
+petróleo nos campos de produção, queima em flares.
+II - Demonstrativo trimestral da Apuração da Participação Especial;
+III - Contratos de Concessão pela exploração de petróleo e gás natural;
+IV - Relatórios trimestrais de gastos de cada campo de produção para
+efeito de apuração da Participação Especial;
+V - Relatórios de medição, teste e calibração referente à medição de
+petróleo e gás natural.
+VI - Relatório contendo o pagamento da participação devida aos
+proprietários de terra.
+
+TÍTULO II - DAS INFRAÇÕES E DAS PENALIDADES
+CAPÍTULO I - DAS INFRAÇÕES
+Art. 21. Constitui infração relativa às compensações financeiras, a
+inobservância de qualquer disposição contida nesta Lei, especialmente das
+previstas no seu artigo 24.
+§ 1 - A responsabilidade por infração relativa a compensações financeiras
+independente da intenção do agente ou beneficiário, bem como da 7
+efetividade, natureza e extensão dos efeitos do ato.
+§ 2 - Respondem pela infração, conjunta ou isoladamente, todos os que
+tenham concorrido, de qualquer forma, para a sua prática, ou dela se
+beneficiarem.
+§ 3 - As infrações a esta Lei, devem ser apuradas mediante a lavratura de
+auto de infração.
+Art. 22. Devem ser aplicadas as infrações pertinentes às compensações
+financeiras, as seguintes penalidades:
+I - multa;
+II - cassação de regime especial,
+III - Regime Especial de Fiscalização a ser definido em ato do Secretário
+de estado da Fazenda.
+Art. 23. As multas devem ser calculadas tomando-se por base:
+I - o valor das compensações financeiras;
+II - o valor da Unidade Fiscal Padrão do estado de Sergipe - UFP/SE, que
+estiver em vigor à época da lavratura do Auto de Infração ou outro índice
+que regularmente vier substituí-la;
+§ 1 - Para efeito do disposto no "caput" deste artigo, os valores referidos
+nos seus incisos I e II devem ser atualizados monetariamente até a data da
+lavratura do Auto de Infração, nos termos da legislação estadual.
+§ 2 - A aplicação da multa não prejudica a exigência das compensações
+financeiras, quando devidas;
+
+[[pagina 8 | nativo]]
+§ 3 - Devem ser aplicadas tantas multas quantas forem às infrações
+cometidas, ainda quando apuradas na mesma ação fiscal.
+
+CAPÍTULO II - DAS PENALIDADES APLICÁVEIS
+Art. 24. As infrações pertinentes às compensações financeiras, de que
+trata esta Lei sujeitam-se as seguintes penalidades;
+I - Com relação ao cumprimento da obrigação principal:
+a) deixar de recolher no todo ou em parte, as compensações financeiras,
+quando declaradas em demonstrativo ou outro documento utilizado na
+apuração da compensação: multa de 50% (cinqüenta por cento) do valor
+devido;
+b) deixar de recolher no todo ou em parte, as compensações financeiras
+quando não declaradas em demonstrativo ou outro documento utilizado na
+apuração da compensação: multa equivalente a 100% (cem por cento) do
+valor devido;
+c) fraudar livros ou documentos fiscais e não fiscais ou utilizar, de má fé,
+documentos fraudados, para iludir o Fisco e fugir ao pagamento das
+contribuições financeiras e ou, ainda, para propiciar a outro a fuga ao
+pagamento das compensações financeiras: multa equivalente a 200%
+(duzentos por cento) do valor devido;
+d) agir em conluio com pessoas físicas ou jurídicas tentando, de qualquer
+modo, impedir ou retardar o conhecimento, pela autoridade fazendária, da
+ocorrência de fato gerador, de modo a reduzir as compensações financeiras 8
+devidas, evitar ou diferir o seu pagamento: multa equivalente a 200%
+(duzentos por cento) do valor das compensações financeiras.
+II - Com relação ao cumprimento das obrigações acessórias:
+a) deixar de apresentar à fiscalização, demonstrativo trimestral da
+apuração da participação especial: multa equivalente a 1.000 UFPs -
+Unidade Fiscal Padrão do Estado de Sergipe, por documento não
+apresentado;
+b) deixar de apresentar plano de desenvolvimento aprovado para cada
+campo de produção: multa equivalente a 1.000 UFPs por cada plano;
+c) deixar de apresentar plano anual de produção: multa equivalente a
+1.000 UFPs por plano;
+d) deixar de apresentar programa anual de trabalho: multa equivalente a
+1.000 UFPs;
+e) deixar de apresentar Boletim Mensal de Produção, por campo de
+produção: multa equivalente a 1000 UFPs por boletim;
+f) deixar de apresentar os contratos de concessão, permissão, cessão ou
+outros: multa equivalente a 1.000 UFPs por contrato;
+g) deixar de apresentar os demonstrativos dos custos de produção por
+natureza de gastos por cada campo de produção: multa equivalente a 1.000
+UFPs por demonstrativo;
+
+[[pagina 9 | nativo]]
+h) deixar de entregar os relatórios de medição, teste e calibração referente
+a medição de petróleo e gás natural: multa equivalente a 1.000 UFPs por
+relatório;
+i) deixar de apresentar nos prazos fixados por esta Lei, o Demonstrativo
+para Apuração da CFEM e/ou Demonstrativo de Apuração da CFURH:
+multa equivalente a 1.000 UFPs por demonstrativo; (NR) (Redação dada à
+alínea pela Lei nº 6.095, de 14.12.2006, DOE SE de 18.12.2006, com efeitos
+a partir de 01.07.2006)
+j) Redação Anterior com vigência de 01.05.2003, até 31.06.2006.
+k) deixar de apresentar nos prazos fixados por esta Lei, o Demonstrativo
+para Apuração da CFERM e/ou Demonstrativo de Apuração da CFURH:
+multa equivalente a 1.000 UFPs por demonstrativo;
+l) deixar de apresentar nos prazos fixados por esta Lei, o Relatório Anual
+de Lavra - RAL: multa equivalente a 1.000 UFPs por relatório:
+m) deixar de apresentar Declaração do investimento em Pesquisa Mineral
+- DIPEM: multa equivalente a 1.000 UFPs por documentos;
+n) deixar de apresentar Ficha de Registro de Apuração preenchida nos
+termos da legislação federal pertinente: multa equivalente a 1.000 UFPs por
+documento;
+o) deixar de cumprir Notificação, no todo ou em parte, para apresentação
+de documentos, demonstrativos e livros, quando tal obrigação não se
+constituir, por si só, em fato já definido nesta Lei, como infração: multa
+equivalente a 500 UFPs por documento ou livro; 9
+p) deixar de apresentar o relatório de pagamento indicado no inciso VI do
+caput do art. 20 desta Lei: multa equivalente a 1.000 UFPS por relatório
+mensal.
+Parágrafo Único. Transcorridos 30 (trinta) dias do não cumprimento das
+obrigações acessórias, a Secretaria de Estado da Fazenda - SEFAZ, deve
+proceder ao devido arbitramento, na forma regularmente prevista.
+
+TÍTULO III - DAS DISPOSIÇÕES GERAIS E FINAIS
+Art. 25. Quando do efetivo recolhimento ao Tesouro Estadual, 25% (vinte
+e cinco por cento) dos valores das multas, decorrentes desta Lei, devem ser
+destinados ao FINATE - Fundo de Incentivo à Arrecadação Tributária
+Estadual, de que trata a Lei nº 2.730, de 17 de outubro de 1989, e legislação
+pertinente posterior.
+Art. 26. Aplicam-se, subsidiariamente, ao procedimento de fiscalização de
+receita não-tributária, de que trata esta Lei, as normas relativas à
+fiscalização de receita tributária disciplinadas pela Lei nº 3.796, de 26 de
+dezembro de 1996, e legislação pertinente posterior, bem como pela
+respectiva regulamentação.”
+
+[[pagina 10 | nativo]]
+2. DA LEGITIMIDADE ATIVA.
+
+Trata-se de ação ajuizada para questionar a constitucionalidade da Lei
+nº 5.854/06, editada pelo Estado de Sergipe, que, em linhas gerais, pretendeu dispor
+sobre o acompanhamento e fiscalização da exploração de recurso minerais e hídricos,
+inclusive petróleo e gás natural, especialmente quanto às compensações financeiras
+decorrentes da referida exploração.
+
+A ABEP – Associação Brasileira de Empresas de Exploração e
+Produção de Petróleo e Gás é uma associação de fins não econômicos com objetivo
+de “promover o desenvolvimento do segmento de Exploração e Produção de Petróleo
+e Gás Natural, por meio da representação de seus Associados e do referido segmento,
+em âmbito nacional, na defesa de interesses perante órgãos públicos e privados, em
+especial a Administração Pública e demais órgãos do Poder Judiciário e
+Legislativo”, nos termos do art. 2º de seu estatuto social (doc nº 01, cit.).
+
+Também de acordo com seu estatuto social, “a expressão ‘Segmento de
+Exploração e Produção de Petróleo de Gás Natural’ ou ‘Segmento’ abrange o
+investimento, a exploração, prospecção, avaliação, desenvolvimento e a produção de
+petróleo e gás natural, bem como seu transporte (especificamente gasodutos e
+oleodutos) e comercialização”1.
+
+Dentre os objetivos fundamentais da Autora, encontram-se os de
+“representar, manifestar e defender os interesses do Segmento e/ou das Associadas
+perante quaisquer entidades ou órgãos públicos ou privados, judicial e
+extrajudicialmente, com o objetivo principal de desenvolver o Segmento, podendo,
+com esse propósito, propor quaisquer remédios jurídicos (…) e pleitear tudo o que
+for de interesse do Segmento e/ou das Associadas, em especial ação direta de
+inconstitucionalidade de lei ou ato normativo federal, estadual ou municipal” 2.
+
+Nesse contexto, a Autora detém inequívoca legitimidade ativa para
+atuar em sede de controle concentrado de constitucionalidade.
+
+Segundo dados extraídos do Anuário Estatístico Brasileiro do Petróleo,
+Gás Natural e Biocombustíveis 20193, a produção de petróleo e de gás natural está
+concentrada em poucas concessionárias.
+
+Veja-se:
+
+1 Art. 2º, parágrafo único do estatuto social – doc n. 01, cit.
+2 Art. 3º, “b” único do estatuto social – doc n. 01, cit.
+3 Disponível em http://www.anp.gov.br/publicacoes/anuario-estatistico/5237-anuario-estatistico-2019
+
+[[pagina 11 | nativo]]
+
+Praticamente todas as empresas que exploram e produzem petróleo e
+gás natural são associadas à Autora, conforme listagem de associados em anexo
+(doc. nº 03).
+
+Ademais, sabe-se que esta e. Corte, ao julgar a ADI nº 386 (Rel. Min.
+Sidney Sanches, julgamento em 04.04.1991), estabeleceu que o caráter nacional da
+entidade de classe resta preenchido, em regra, a partir da existência de representação
+em, ao menos, 9 (nove) Estados da federação.
+
+Sendo assim, a Autora destaca que seus associados possuem atuação
+efetiva em mais de nove Estados da federação, conforme também está registrado no
+
+[[pagina 12 | nativo]]
+Anuário Estatístico Brasileiro do Petróleo, Gás Natural e Biocombustíveis
+2019.Veja-se:
+
+
+Embora a maioria das empresas associadas tenha suas matrizes
+estabelecidas no Rio de Janeiro, elas possuem estabelecimentos em mais de nove
+Estados, bastando apenas se referir à tabela supra, referente à produção de petróleo
+no país, para se confirmar isso. Sendo assim, fica demonstrado estar preenchido o
+requisito de existência de representação em ao menos nove estados.
+
+Nada obstante, cumpre ressaltar que, acaso se entenda que a existência
+de filiais não seria suficiente para se reputar atendido o requisito, em hipóteses com a
+presente, esta c. Corte tem flexibilizado o referido critério. Com efeito, no julgamento
+da mesma ADI 386, o próprio Min. Moreira Alves deixou expressamente consignado
+que o critério “cederá nos casos em que haja comprovação de que a categoria dos
+associados só existe em menos de nove Estados”.
+
+Foi o que aconteceu, por exemplo, na ADPF 180, proposta pela
+ABRACEEL, entidade que representava os Agentes Comercializadores de Energia
+Elétrica. A referida associação demonstrou que só havia 62 agentes de
+comercialização de energia elétrica, espalhados em 08 Estados, e que a ABRACEEL
+
+[[pagina 13 | nativo]]
+reunia 40 representantes espalhados no território de 07 Estados. Por esse motivo, em
+decisão monocrática, a Exma. Min. Ellen Gracie reconheceu a legitimidade ativa da
+associação.
+
+Igualmente, na ADI 2.866-MC, o Exmo. Min. Gilmar Mendes
+reconheceu legitimidade ativa de associação de classe ligada às atividades de
+produção e refino de sal marinho, que, por razões geográficas, somente podem ser
+desenvolvidas em algumas unidades da Federação.
+
+É exatamente esse o caso do petróleo e do gás natural, que não são
+explorados em todo o território nacional e que, por razões geográficas, têm expressiva
+parcela de reservas concentradas no Rio de Janeiro.
+
+De todo modo, os dados acima colacionados são suficientes para se
+comprovar que a ABEP congrega praticamente todo o setor que produz petróleo e gás
+natural no País, motivo pelo qual deve ser considerada uma entidade classista de
+âmbito nacional e está, portanto, legitimada à propositura da ADIN nos termos do
+art. 103, IX, parte final, da Constituição Federal4 e art. 2º, IX, da Lei nº 9.868/19995.
+
+Ademais, é clara a pertinência temática, pois a Lei do Estado de Sergipe
+que se pretende ver declarada inconstitucional atinge justamente a indústria do
+petróleo representada pela Autora. Nesse momento, cabe esclarecer que serão
+impugnados apenas os dispositivos que tratam da fiscalização e cobrança de
+compensações pela exploração de petróleo e gás natural, não cabendo à Autora
+intervir quanto aos recursos hídricos e minerais.
+
+E vale destacar também que nas ADIs nº 5.480 e 5.481, por meio das
+quais a Autora questiona a constitucionalidade de tributos incidentes sobre a atividade
+petrolífera, há parecer da Procuradoria Geral da República opinando pela sua
+legitimidade ativa.6
+
+4 “Art. 103. Podem propor a ação direta de inconstitucionalidade e a ação declaratória de
+constitucionalidade: (Redação dada pela Emenda Constitucional nº 45, de 2004) (…) IX - confederação
+sindical ou entidade de classe de âmbito nacional.”
+5 “Art. 2o Podem propor a ação direta de inconstitucionalidade: (…)
+IX - confederação sindical ou entidade de classe de âmbito nacional.”
+6 Na ementa dos citados pareceres, lê-se:
+“1. Preenche o requisito de atuação em âmbito nacional, para instaurar controle concentrado de
+constitucionalidade, entidade de classe representativa de empresas que, embora sediadas em mesmo
+estado, respondem pela quase totalidade da produção nacional de petróleo. Exigência de representação
+em mais de nove estados da federação admite mitigação se a categoria de representados só existe em
+número inferior de estados.”
+
+[[pagina 14 | nativo]]
+Portanto, seja pela amplitude de sua representação, seja por suas
+finalidades institucionais, a Autora está perfeitamente qualificada para propor a
+presente Ação Direta de Inconstitucionalidade.
+
+3. PRELIMINARMENTE: DISTINGUISHING EM RELAÇÃO À
+ADI Nº 4.606/BA.
+
+De início, cabe destacar que foi ajuizada, em 2011, pela Presidência da
+República, a ADI nº 4.606/BA, que tinha como objeto a Lei nº 10.850/07 e o Decreto
+nº 11.736/09, ambos editados pelo Estado da Bahia.
+
+Os referidos diplomas, vale dizer, atribuíam ao Estado da Bahia o
+poder-dever de fiscalizar e cobrar o pagamento das compensações e participações
+financeiras por conta da exploração de recursos hídricos e minerais no território
+estadual, tendo, na oportunidade, estabelecido uma série de obrigações acessórias que
+deveriam ser cumpridas pelos concessionários.
+
+Após a análise do tema, o Plenário deste e. STF decidiu declarar a
+inconstitucionalidade dos dispositivos que disciplinam a cobrança das compensações
+financeiras, mas reputou constitucional aqueles dispositivos que tratam da
+fiscalização de tais pagamentos e instituem obrigações acessórias. O acórdão restou
+assim ementado:
+
+“CONSTITUCIONAL E FINANCEIRO. FEDERALISMO. REGRAS
+DE DISTRIBUIÇÃO DE COMPETÊNCIA. COMPENSAÇÃO FINANCEIRA
+PELA EXPLORAÇÃO DE RECURSOS HÍDRICOS E MINERAIS,
+INCLUSIVE PETRÓLEO E GÁS. LEI 10.850/2007 E DECRETO
+11.736/2009 DO ESTADO DA BAHIA. ATOS EDITADOS PARA
+VIABILIZAR “FISCALIZAÇÃO, ARRECADAÇÃO E CONTROLE” DAS
+RECEITAS DECORRENTES DA EXPLORAÇÃO DESSES RECURSOS,
+COM PRESSUPOSTO NO ART. 23, XI, DA CF. LEGITIMIDADE DAS
+NORMAS QUE ESTABELECEM OBRIGAÇÕES ACESSÓRIAS.
+INCONSTITUCIONALIDADE FORMAL DE NORMAS SOBRE AS
+CONDIÇÕES DE RECOLHIMENTO DESSAS COMPENSAÇÕES,
+INCLUSIVE AS RELATIVAS À SUA ARRECADAÇÃO DIRETA PELO
+ESTADO.
+1. Segundo jurisprudência assentada nesta CORTE, as rendas obtidas
+nos termos do art. 20, § 1º, da CF constituem receita patrimonial originária,
+cuja titularidade – que não se confunde com a dos recursos naturais objetos
+de exploração – pertence a cada um dos entes federados afetados pela
+atividade econômica.
+2. Embora sejam receitas originárias de Estados e Municípios, as suas
+condições de recolhimento e repartição são definidas por regramento da
+
+[[pagina 15 | nativo]]
+União, que tem dupla autoridade normativa na matéria, já que cabe a ela
+definir as condições (legislativas) gerais de exploração de potenciais de
+recursos hídricos e minerais (art. 22, IV e XII, da CF), bem como as condições
+(contratuais) específicas da outorga dessa atividade a particulares (art. 176,
+parágrafo único, da CF). Atualmente, a legislação de regência determina seja
+o pagamento “efetuado, mensalmente, diretamente aos Estados, ao Distrito
+Federal, aos Municípios e aos órgãos da Administração Direta da União”
+(art. 8º da Lei 7.990/1989).
+3. As providências enumeradas no art. 23, XI, da CF – registro,
+fiscalização e acompanhamento – possibilitam o controle pelos demais entes
+federativos das quotas-partes repassadas a título de compensação financeira
+pelos órgãos federais, com a possibilidade de criação de obrigações
+administrativas instrumentais, a serem observadas pelas concessionárias
+instaladas nos respectivos territórios.
+4. Os Estados, Distrito Federal e Municípios não possuem competência
+para definir as condições de recolhimento das compensações financeiras de
+sua titularidade, ou mesmo para arrecadá-las diretamente, por intermédio de
+seus órgãos fazendários.
+5. Extrapola a competência comum do art. 23, XI, da CF a instituição
+de infrações e penalidades pelo atraso no pagamento das compensações
+financeiras (obrigação principal), bem como sua arrecadação diretamente
+pela Secretaria de Fazenda Estadual. 6. Ação direta julgada parcialmente
+procedente.” (ADI 4606, Rel. Min. ALEXANDRE DE MORAES, Tribunal 15
+Pleno, Dje 06.05.19)
+
+Ao longo do voto condutor, o Exmo. Ministro Alexandre de Moraes
+teceu considerações sobre as compensações financeiras devidas em decorrência
+apenas da exploração dos recursos hídricos e minerais em geral (isto é, não tratou do
+petróleo e do gás natural). Para tanto, transcreveu dispositivos das Leis Federais nºs
+7.990/897 e 8.001/908.
+
+Assim, a temática foi analisada à luz do que disciplina a Constituição
+Federal no seu art. 20, §1º - que determina a participação dos Estados, do DF e dos
+Municípios no resultado da exploração ou nas compensações financeiras pela
+exploração - e no seu art. 176 – que trata da exploração dos recursos minerais e dos
+potenciais de energia hidráulica.
+
+Nada obstante, o referido acórdão não tratou especificamente das
+participações governamentais e compensações financeiras devidas pela exploração do
+petróleo e do gás natural, atividade que constitui monopólio da União (art. 177 da
+CF/88) e que, portanto, está sujeita a regime específico e diferenciado. No âmbito
+
+7 Dispõe sobre o pagamento de compensação financeira pela exploração de recursos minerais (CFEM) e
+sobre a compensação pelo aproveitamento dos recursos hídricos.
+8 Define os percentuais da distribuição da compensação financeira de que trata a Lei nº 7.990/89.
+
+[[pagina 16 | nativo]]
+infraconstitucional, as concessões de petróleo e gás natural também receberam
+tratamento particular e exaustivo, por meio da Lei nº 9.478/97, a qual, por estabelecer
+todas as diretrizes norteadoras da atividade e criar a Agência Nacional do Petróleo
+(ANP), ficou conhecida como Lei do Petróleo.
+
+Sendo assim, não foram objeto de exame na ADI nº 4.606/BA nem o
+art. 177 da CF/88 (que trata do monopólio da União sobre o petróleo e o gás natural)
+nem a Lei nº 9.478/97 (Lei do Petróleo).
+
+Na presente ação direta de inconstitucionalidade, está-se a
+impugnar a Lei nº 5.854/06, do Estado de Sergipe, especificamente na parte em
+que dispôs sobre a fiscalização e cobrança das participações governamentais e/ou
+compensações financeiras em decorrência da exploração de petróleo e gás
+natural, o que, inclusive, está em conformidade com os objetivos estatutários da
+Autora.
+
+Portanto, além de se tratar de diploma legal editado por ente estatal
+diverso, vale repetir que aqui se pretende que o exame de constitucionalidade seja
+feito levando-se em consideração especificamente o regime de exploração do petróleo
+e do gás natural previsto no art. 177 da CF/88.
+
+Como se verá adiante, as conclusões da ADI nº 4.606/BA no que tange
+à inexistência de competência dos Estados, DF e Municípios para cobrar as
+compensações financeiras são plenamente aplicáveis ao presente caso, pois, se tais
+entes falecem de competência para disciplinar ou arrecadar diretamente as
+compensações relativas aos minerais em geral e aos recursos hídricos, com muito mais
+razão deverão ser obstados de proceder a tal em relação ao petróleo e ao gás natural,
+por se tratar de atividade que, diferente das outras, está sujeita a monopólio da União.
+
+No que diz respeito à fiscalização e à instituição de obrigações
+acessórias, cumpre apenas adiantar que o fato de a exploração de petróleo e gás natural
+se dar por regime próprio e diferenciado – o monopólio – acaba por concentrar toda a
+competência regulatória e fiscalizatória na União Federal.
+
+Isso é suficiente para se demonstrar o distinguishing em relação à ADI
+nº 4.606/BA.
+
+[[pagina 17 | nativo]]
+4. DO MÉRITO.
+
+4.1. Das inconstitucionalidades existentes na Lei do Estado de
+Sergipe nº 5.854/06.
+
+Tendo sido realizado o distinguishing em relação à ADI nº 4.606/BA,
+cabe adiantar que os dispositivos questionados, da Lei nº 5.854/06 do Estado de
+Sergipe, devem ser declarados inconstitucionais por violação aos seguintes artigos:
+
+• art. 22, IV e XII da CF/88, que atribui à União competência privativa
+para legislar sobre energia e jazidas, de modo que não cabe ao Estado
+de Sergipe legislar sobre a atividade de exploração e produção de
+petróleo e gás natural.
+
+• art. 23, XI da CF/88, que dispõe sobre a competência comum da
+União, dos Estados, do Distrito Federal e dos Municípios em relação a
+concessões de exploração de recursos hídricos e minerais, o que não
+inclui petróleo e gás natural, aos quais a Constituição sempre se referiu
+expressamente.
+
+• art. 177 da CF/88, que estipula monopólio da União Federal sobre a
+pesquisa e a lavra das jazidas de petróleo e gás natural e de outros 17
+hidrocarbonetos fluidos, dispondo também que o referido ente poderá
+contratar o exercício da atividade com empresas estatais ou privadas,
+observando-se as determinações previstas em lei, que conterá as
+condições de contratação, bem como a estrutura e atribuições do órgão
+regulador (ANP).
+
+No intuito de corroborar suas razões para que seja declarada a
+inconstitucionalidade da Lei nº 5.854/06, a Autora apresenta parecer elaborado pelo
+professor FLORIANO DE AZEVEDO MARQUES NETO (doc. nº 04) e Parecer nº
+00284/2018/PFANP/PGF/AGU (doc. nº 05), resultante de consulta jurídica da ANP
+perante a Procuradoria Federal.
+
+Adiante, passa a expor pormenorizadamente as razões para que esta
+ação direta de inconstitucionalidade seja julga procedente.
+
+4.2. Considerações iniciais: o pacto federativo às avessas.
+
+Em sede introdutória, há uma questão que precisa ser posta com
+objetividade e clareza.
+
+[[pagina 18 | nativo]]
+Este e. Supremo Tribunal Federal, no papel de guardião da
+Constituição, sempre zelou pelo pacto federativo. Por isso, age com cautela de modo
+a não amputar indevidamente atuações administrativas e legislativas que visam a
+conferir autonomia de cada um dos entes federados. E isso, diga-se logo, é salutar.
+
+Entretanto, é preciso notar que, em algumas situações como esta que
+será aqui abordada, o que se observa é um excesso de atividade individualizada de
+cada ente e uma absoluta ausência de cooperação. Formam-se vetores de atuação que
+são fruto da desconfiança entre os entes federados, o que, por si só, revela uma
+rachadura no superprotegido pacto federativo.
+
+Por meio desta ação direta de inconstitucionalidade, a Autora vem
+impugnar a Lei nº 5.854/06 do Estado de Sergipe, que trata da fiscalização e da
+cobrança das participações governamentais sobre a produção de petróleo e gás natural,
+atividade que constitui monopólio da União (art. 177 da CF/88), sendo certo que uma
+parcela dos valores arrecadados pertence aos Estados, DF e Municípios (art. 20, §1º
+da CF/88)
+
+A análise do tema não pode ser feita da perspectiva individualista de
+um só ente, mas demanda uma abordagem macro, ínsita ao Estado Federado. Nesse
+sentido, obstar que o Estado fiscalize e imponha ao concessionário obrigações
+acessórias relacionadas à atividade que constitui monopólio da União não fere o pacto
+federativo, mas contribui para se colocar fim à desconfiança existente entre os entes
+federados, incentivando a colaboração, de modo que as informações relativas à
+exploração continuamente fornecidas à ANP sejam amplamente compartilhadas com
+o Estado. Ou seja, a cooperação entre os dois entes é suficiente para que o Estado
+tenha pleno conhecimento da quota-parte que deve receber a título de participações
+governamentais.
+
+E não é só. Essa atuação desordenada implica prejuízos de toda sorte.
+De um lado, causa um aumento relevante nos custos de conformidade (compliance
+costs), pois faz crescer – de modo imprevisível – o número de obrigações acessórias
+relacionadas à atividade de exploração do petróleo e gás natural. De outro, causa
+insegurança jurídica decorrente da superposição de atividade normativa e
+administrativa em diferentes esferas.
+
+É preciso ter cautela para que, sob o pretexto de se proteger o pacto
+federativo, não se acabe por legitimar atividades redundantes, sobrepostas e
+contraditórias dos entes federados, alimentando-se assim a desconfiança, que deveria
+ser a primeira a ser extirpada. E é necessário zelar também para que não seja imposto
+àqueles que exercem livremente sua atividade econômica o pesado ônus de cobrir as
+deficiências do nosso sistema federativo.
+
+[[pagina 19 | nativo]]
+4.3. Da regulamentação da atividade de exploração e produção de
+petróleo e gás natural no Brasil: concentração na União Federal.
+
+O art. 177 da Constituição Federal dispõe que constitui monopólio da
+União (i) a pesquisa e a lavra das jazidas de petróleo, de gás natural e de outros
+hidrocarbonetos fluidos, (ii) o refino do petróleo, (iii) a importação e exportação dos
+produtos e derivados básicos, e (iv) o transporte marítimo ou por meio e conduto do
+petróleo bruto e seu derivados.
+
+O monopólio sobre atividade petrolífera foi instituído nos idos de 1953
+pela Lei nº 2.004, que também determinou que este seria exercido por uma sociedade
+de economia mista, qual seja, a Petróleo Brasileiro S.A. – PETROBRAS. A norma
+ganhou status constitucional a partir de Constituição de 1967, o que foi mantido pela
+Carta de 1988.
+
+Trata-se de uma opção política que visa a possibilitar que a União tome
+decisões autônomas sobre a produção e o destino de seus recursos energéticos,
+planejando seu desenvolvimento e evitando a dependência tecnológica. O controle
+estatal sobre as fontes de energia, portanto, é um componente essencial da soberania
+econômica nacional.9
+
+A Emenda Constitucional nº 09/95 deu nova redação ao §1º do art.
+17710 e passou a permitir que a pesquisa, exploração e produção de petróleo, de gás
+natural e de outros hidrocarbonetos fluidos sejam contratados com empresas estatais
+ou privadas, observadas as condições estabelecidas em lei. Na mesma oportunidade,
+acresceu ao art. 177 o parágrafo 2º para determinar que a lei a que se refere o parágrafo
+1º disporá sobre:
+
+“I - a garantia do fornecimento dos derivados de petróleo em todo o
+território nacional;
+II - as condições de contratação;
+III - a estrutura e atribuições do órgão regulador do monopólio da
+União”.
+
+9 BERCOVICI, Gilberto. Direito Econômico do Petróleo e dos Recursos Minerais. São Paulo: Quartier
+Latin, 2011, p. 234.
+
+10 Redação original do §1º do art. 177
+“§ 1º O monopólio previsto neste artigo inclui os riscos e resultados decorrentes das atividades nele
+mencionadas, sendo vedado à União ceder ou conceder qualquer tipo de participação, em espécie ou em
+valor, na exploração de jazidas de petróleo ou gás natural, ressalvado o disposto no art. 20, § 1º.”
+
+Redação dada EC nº 09/1995:
+“§ 1º A União poderá contratar com empresas estatais ou privadas a realização das atividades previstas
+nos incisos I a IV deste artigo observadas as condições estabelecidas em lei.”
+
+[[pagina 20 | nativo]]
+Nesse contexto, foi editada a Lei nº 9.478/97 que, atendendo ao
+mandamento constitucional, criou a Agência Nacional do Petróleo, Gás Natural e
+Biocombustíveis (ANP), traçou as diretrizes das concessões e fixou o marco
+regulatório para o referido setor, razão pela qual ficou conhecida como a Lei do
+Petróleo.
+
+Este diploma legal foi submetido ao controle concentrado de
+constitucionalidade, oportunidade em que se reafirmou que a alteração trazida pela
+EC nº 09/95 não quebrou o monopólio da União, o que realmente seria inadmissível,
+haja vista a redação expressa no caput do art. 177. Vale transcrever as considerações
+trazidas acerca do regime de monopólio pelos Ministros MARCO AURÉLIO MELO
+e EROS GRAU, ao julgar a ADI nº 3.273/DF. Em seus votos, assim se manifestaram,
+respectivamente:
+
+“Em momento algum, houve quebra do monopólio, mesmo porque a
+própria redação do artigo 177, cabeça, remete a tal fato, norteando o sentido
+jurídico-constitucional do parágrafo. O controle continua pertencendo à
+União. Apenas a partir da Emenda Constitucional nº9, a execução das
+operações deixou de ser exclusiva da Petrobrás, de modo que atualmente
+pode ser efetuada por outras empresas, mediante contrato de prestação de
+serviços. (...)
+Essa nova modalidade operacional longe fica de implicar quebra. A 20
+execução das atividades sim, em vez desse realizar de forma direta, agora
+pode ser implementada indiretamente, por meio de empresas diversas e de
+capital integralmente privado. As atividades sujeitas ao regime do
+monopólio continuam submetidas à titularidade, à jurisdição e ao controle
+do Estado.” (grifo nosso)
+
+***
+
+“Note-se bem: o monopólio permanece íntegro; não foi extirpado da
+Constituição; apenas tornou-se relativo em relação ao contemplado na
+redação anterior do texto da Constituição. Anteriormente, de modo bem
+amplo, projetava-se sobre o produto da exploração petrolífera. Ia para além
+da atividade monopolizada.
+O parágrafo que substituiu o contemplado na redação original da
+Constituição conteve os efeitos do monopólio no plano da atividade,
+autorizando expressamente a União a contratar com empresas estatais ou
+privadas a realização das atividades previstas nos incisos I a IV do artigo
+177, observadas as condições estabelecidas em lei.
+Dispõe, diretamente, não sobre a propriedade das jazidas, mas sobre a
+exploração, pela União, da atividade monopolizada. Como essa contratação
+supõe, no modo de produção social capitalista, a apropriação direta ou
+
+[[pagina 21 | nativo]]
+indireta, pelo contratado, do produto da exploração da jazida, os efeitos do
+monopólio foram contidos no plano da atividade, sem projetar-se sobre o
+produto da exploração petrolífera e sem a inclusão dos riscos e resultados
+inerentes à atividade. Nesse sentido é que se tornou relativo em relação ao
+regime anterior, sem deixar, contudo, de caracterizar monopólio de
+atividade.”
+
+ALEXANDRE DE MORAES11 também explica que a União mantém
+o monopólio da atividade após a EC nº 09/95:
+
+“A EC nº 9/95 encerrou o monopólio estatal no exercício da atividade
+econômica relacionada a petróleo e gás natural, mantendo, porém, o
+monopólio da própria atividade, ou seja, a pesquisa e a lavra das jazidas de
+petróleo e gás natural e outros hidrocarbonetos fluidos continuam
+constituindo monopólio da União, no sentido de que somente o Poder Público
+é que poderá decidir, com exclusividade, quem poderá exercer essa atividade
+econômica. É o que nos referimos como monopólio de escolha do Poder
+Público.”
+
+Os excertos acima são categóricos ao afirmar que remanesce íntegro o
+monopólio da União sobre a atividade de exploração do petróleo e gás natural. Nesse
+sentido, inclusive, dispôs o art. 26 da Lei nº 9.478/97, ao conferir ao contratado a
+obrigação de explorar e, em caso de êxito, produzir petróleo e gás natural, ressalvando
+que os projetos de desenvolvimento e produção devem ser submetidos à aprovação da
+ANP, senão vejamos:
+
+“Art. 26. A concessão implica, para o concessionário, a obrigação de
+explorar, por sua conta e risco e, em caso de êxito, produzir petróleo ou gás
+natural em determinado bloco, conferindo-lhe a propriedade desses bens,
+após extraídos, com os encargos relativos ao pagamento dos tributos
+incidentes e das participações legais ou contratuais correspondentes.
+§ 1° Em caso de êxito na exploração, o concessionário submeterá à
+aprovação da ANP os planos e projetos de desenvolvimento e produção.
+§ 2° A ANP emitirá seu parecer sobre os planos e projetos referidos no
+parágrafo anterior no prazo máximo de cento e oitenta dias.
+§ 3° Decorrido o prazo estipulado no parágrafo anterior sem que haja
+manifestação da ANP, os planos e projetos considerar-se-ão
+automaticamente aprovados.”
+
+Paralelamente, o art. 8º da referida lei atribuiu à ANP as competências
+para implementar a política nacional de petróleo, gás natural e biocombustíveis,
+realizar licitações e gestão de contratos, fiscalizar o setor etc.
+
+11 MORAES, Alexandre de. Regime Jurídico da concessão para exploração de petróleo e gás natural.
+Revista de Informação Legislativa. Brasília, a. 37, n. 148, out/dez.2000, p. 222-223.
+
+[[pagina 22 | nativo]]
+No contrato de concessão, a exploração é feita por conta e risco do
+concessionário e a ele é atribuída a propriedade do produto da lavra após extração.
+Em contrapartida, cabe-lhe pagar tributos, compensações financeiras e outras
+participações governamentais. A Lei nº 9.478/97, ainda na linha do que exigiu o art.
+177, §2º da CF/88, cuidou de detalhar como se dará a exploração e produção de
+petróleo sob o regime de concessão. Vejamos os principais dispositivos:
+
+“Art. 21. Todos os direitos de exploração e produção de petróleo, de
+gás natural e de outros hidrocarbonetos fluidos em território nacional, nele
+compreendidos a parte terrestre, o mar territorial, a plataforma continental
+e a zona econômica exclusiva, pertencem à União, cabendo sua
+administração à ANP, ressalvadas as competências de outros órgãos e
+entidades expressamente estabelecidas em lei.
+
+Art. 23. As atividades de exploração, desenvolvimento e produção de
+petróleo e de gás natural serão exercidas mediante contratos de concessão,
+precedidos de licitação, na forma estabelecida nesta Lei, ou sob o regime de
+partilha de produção nas áreas do pré-sal e nas áreas estratégicas, conforme
+legislação específica.
+Parágrafo único. A ANP definirá os blocos a serem objeto de contratos
+de concessão.
+22 § 1º A ANP definirá os blocos a serem objeto de contratos de
+concessão;
+§ 2º A ANP poderá outorgar diretamente ao titular de direito de lavra
+ou de autorização de pesquisa de depósito de carvão mineral concessão para
+o aproveitamento do gás metano que ocorra associado a esse depósito,
+dispensada a licitação prevista no caput deste artigo.
+
+Art. 24. Os contratos de concessão deverão prever duas fases: a de
+exploração e a de produção.
+§ 1º Incluem-se na fase de exploração as atividades de avaliação de
+eventual descoberta de petróleo ou gás natural, para determinação de sua
+comercialidade.
+§ 2º A fase de produção incluirá também as atividades de
+desenvolvimento.
+
+Art. 25. Somente poderão obter concessão para a exploração e
+produção de petróleo ou gás natural as empresas que atendam aos requisitos
+técnicos, econômicos e jurídicos estabelecidos pela ANP.
+
+Art. 26. A concessão implica, para o concessionário, a obrigação de
+explorar, por sua conta e risco e, em caso de êxito, produzir petróleo ou gás
+natural em determinado bloco, conferindo-lhe a propriedade desses bens,
+
+[[pagina 23 | nativo]]
+após extraídos, com os encargos relativos ao pagamento dos tributos
+incidentes e das participações legais ou contratuais correspondentes.
+§ 1° Em caso de êxito na exploração, o concessionário submeterá à
+aprovação da ANP os planos e projetos de desenvolvimento e produção.
+§ 2° A ANP emitirá seu parecer sobre os planos e projetos referidos no
+parágrafo anterior no prazo máximo de cento e oitenta dias.
+§ 3° Decorrido o prazo estipulado no parágrafo anterior sem que haja
+manifestação da ANP, os planos e projetos considerar-se-ão
+automaticamente aprovados.
+
+Art. 28. As concessões extinguir-se-ão:
+I - pelo vencimento do prazo contratual;
+II - por acordo entre as partes;
+III - pelos motivos de rescisão previstos em contrato;
+IV - ao término da fase de exploração, sem que tenha sido feita
+qualquer descoberta comercial, conforme definido no contrato;
+V - no decorrer da fase de exploração, se o concessionário exercer a
+opção de desistência e de devolução das áreas em que, a seu critério, não se
+justifiquem investimentos em desenvolvimento.
+§ 1° A devolução de áreas, assim como a reversão de bens, não
+implicará ônus de qualquer natureza para a União ou para a ANP, nem
+conferirá ao concessionário qualquer direito de indenização pelos serviços,
+poços, imóveis e bens reversíveis, os quais passarão à propriedade da União 23
+e à administração da ANP, na forma prevista no inciso VI do art. 43.
+§ 2° Em qualquer caso de extinção da concessão, o concessionário
+fará, por sua conta exclusiva, a remoção dos equipamentos e bens que não
+sejam objeto de reversão, ficando obrigado a reparar ou indenizar os danos
+decorrentes de suas atividades e praticar os atos de recuperação ambiental
+determinados pelos órgãos competentes.
+
+Art. 29. É permitida a transferência do contrato de concessão,
+preservando-se seu objeto e as condições contratuais, desde que o novo
+concessionário atenda aos requisitos técnicos, econômicos e jurídicos
+estabelecidos pela ANP, conforme o previsto no art. 25.
+Parágrafo único. A transferência do contrato só poderá ocorrer
+mediante prévia e expressa autorização da ANP.
+
+Art. 30. O contrato para exploração, desenvolvimento e produção de
+petróleo ou gás natural não se estende a nenhum outro recurso natural,
+ficando o concessionário obrigado a informar a sua descoberta, prontamente
+e em caráter exclusivo, à ANP.”
+
+E assim, tratou também a Lei nº 9.478/97 das participações
+governamentais:
+
+[[pagina 24 | nativo]]
+“Art. 45. O contrato de concessão disporá sobre as seguintes
+participações governamentais, previstas no edital de licitação:
+I - bônus de assinatura;
+II - royalties;
+III - participação especial;
+IV - pagamento pela ocupação ou retenção de área.
+§ 1º As participações governamentais constantes dos incisos II e IV
+serão obrigatórias.
+§ 2º As receitas provenientes das participações governamentais
+definidas no caput, alocadas para órgãos da administração pública federal,
+de acordo com o disposto nesta Lei, serão mantidas na Conta Única do
+Governo Federal, enquanto não forem destinadas para as respectivas
+programações.
+§ 3º O superávit financeiro dos órgãos da administração pública
+federal referidos no parágrafo anterior, apurado em balanço de cada
+exercício financeiro, será transferido ao Tesouro Nacional.
+
+Art. 46. O bônus de assinatura terá seu valor mínimo estabelecido no
+edital e corresponderá ao pagamento ofertado na proposta para obtenção da
+concessão, devendo ser pago no ato da assinatura do contrato.
+
+Art. 47. Os royalties serão pagos mensalmente, em moeda nacional, a
+partir da data de início da produção comercial de cada campo, em montante 24
+correspondente a dez por cento da produção de petróleo ou gás natural.
+
+Art. 48. A parcela do valor dos royalties, previstos no contrato de
+concessão, que representar 5% (cinco por cento) da produção,
+correspondente ao montante mínimo referido no § 1o do art. 47, será
+distribuída segundo os seguintes critérios:
+I - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e
+lacustres:
+a) 70% (setenta por cento) aos Estados onde ocorrer a produção:
+b) 20% (vinte por cento) aos Municípios onde ocorrer a produção; e
+c) 10% (dez por cento) aos Municípios que sejam afetados pelas
+operações de embarque e desembarque de petróleo, gás natural e outros
+hidrocarbonetos fluidos, na forma e critérios estabelecidos pela ANP;
+II - quando a lavra ocorrer na plataforma continental, no mar
+territorial ou na zona econômica exclusiva:
+a) 20% (vinte por cento) para os Estados confrontantes;
+b) 17% (dezessete por cento) para os Municípios confrontantes e
+respectivas áreas geoeconômicas, conforme definido nos arts. 2o, 3o e 4o da
+Lei no 7.525, de 22 de julho de 1986;
+c) 3% (três por cento) para os Municípios que sejam afetados pelas
+operações de embarque e desembarque de petróleo, de gás natural e de
+outros hidrocarbonetos fluidos, na forma e critério estabelecidos pela ANP;
+
+[[pagina 25 | nativo]]
+d) 20% (vinte por cento) para constituição de fundo especial, a ser
+distribuído entre Estados e o Distrito Federal, se for o caso, de acordo com
+os seguintes critérios:
+
+Art. 49. A parcela do valor do royalty que exceder a cinco por cento da
+produção terá a seguinte distribuição:
+I - quando a lavra ocorrer em terra ou em lagos, rios, ilhas fluviais e
+lacustres:
+a) cinqüenta e dois inteiros e cinco décimos por cento aos Estados onde
+ocorrer a produção;
+b) quinze por cento aos Municípios onde ocorrer a produção;
+c) sete inteiros e cinco décimos por cento aos Municípios que sejam
+afetados pelas operações de embarque e desembarque de petróleo e gás
+natural, na forma e critério estabelecidos pela ANP;
+d) 25% (vinte e cinco por cento) para a União, a ser destinado ao
+Fundo Social, instituído por esta Lei, deduzidas as parcelas destinadas aos
+órgãos específicos da Administração Direta da União, nos termos do
+regulamento do Poder Executivo;
+II - quando a lavra ocorrer na plataforma continental:
+a) 20% (vinte por cento) para os Estados confrontantes;
+b) 17% (dezessete por cento) para os Municípios confrontantes e
+respectivas áreas geoeconômicas, conforme definido nos arts. 2o, 3º e 4º da 25
+Lei nº 7.525, de 22 de julho de 1986;
+c) 3% (três por cento) para os Municípios que sejam afetados pelas
+operações de embarque e desembarque de petróleo, de gás natural e de
+outros hidrocarbonetos fluidos, na forma e critério estabelecidos pela ANP;
+d) 20% (vinte por cento) para constituição de fundo especial, a ser
+distribuído entre Estados e o Distrito Federal, se for o caso, de acordo com
+os seguintes critérios: (...)”
+
+Tudo isso objetiva demonstrar que a EC nº 09/95 autorizou que o
+exercício da atividade econômica relacionada ao petróleo fosse contratado pela União
+com empresas estatais ou privadas. Ao mesmo tempo, determinou que as condições
+de contratação (nelas incluídas as participações governamentais) fossem previstas em
+lei e que fosse criado órgão regulador do monopólio. E, como visto acima, a tarefa
+foi cumprida com a edição da Lei nº 9.478/97, que não deixou nenhum espaço
+para atuação normativa dos Estados, DF ou Municípios.
+
+[[pagina 26 | nativo]]
+4.4. As relações jurídicas advindas do contrato de concessão e do
+pagamento das compensações financeiras pela exploração.
+
+Como já foi amplamente demonstrado, desde a edição da Lei nº
+9.478/97, passou-se permitir a pesquisa e a lavra de petróleo e gás natural sob o regime
+de contratos de concessão e regime de partilha. Antes de prosseguirmos, é necessário
+delinear exatamente quais os vínculos jurídicos que exsurgem entre aqueles
+envolvidos nesta atividade.
+
+As obrigações gerais impostas ao concessionário estão previstas no já
+transcrito art. 26 da referida lei. Do dispositivo, extrai-se que sobre o concessionário
+recaem diversas obrigações, entre elas: (i) desenvolver a atividade de exploração por
+sua conta e risco; (ii) submeter à ANP os planos e projetos da atividade; (iii) nos casos
+de êxito, produzir o petróleo, devendo ainda pagar os tributos e participações legais
+ou contratuais correspondentes.
+
+O art. 45 da Lei nº 9.478/97 enumera as participações governamentais
+devidas à ANP. Logo em seguida, a lei trata detalhadamente do pagamento e da
+repartição de tais receitas.
+
+Sabe-se, ainda, que a Constituição assegura aos Estados, ao Distrito
+Federal e aos Municípios participação no resultado da exploração de petróleo e gás
+natural ou compensação financeira por essa exploração, senão vejamos:
+
+“Art. 20 [omissis]
+§ 1º É assegurada, nos termos da lei, aos Estados, ao Distrito Federal
+e aos Municípios, bem como a órgãos da administração direta da União,
+participação no resultado da exploração de petróleo ou gás natural, de
+recursos hídricos para fins de geração de energia elétrica e de outros
+recursos minerais no respectivo território, plataforma continental, mar
+territorial ou zona econômica exclusiva, ou compensação financeira por essa
+exploração.”
+
+Pois bem. Nesse contexto, há dois vínculos jurídicos distintos que não
+se confundem.
+
+De um lado, nasce uma relação jurídica contratual, entre a União,
+na figura da ANP, e a concessionária. Àquela cabe a outorga da concessão e o
+poder-dever de fiscalizar; já a esta cabe cumprir as obrigações decorrentes do contrato
+firmado nos termos da lei, entre as quais se inclui o pagamento das participações
+governamentais.
+
+[[pagina 27 | nativo]]
+A doutrina majoritária aponta que o contrato de concessão da
+exploração, desenvolvimento e produção de petróleo e de gás natural é de natureza
+administrativa, sendo, portanto, regido pelo Direito Público. Ademais, deve ser
+precedido por licitação.12
+
+Em parecer elaborado sobre o tema em exame, o professor FLORIANO
+DE AZEVEDO MARQUES NETO esclarece que há uma verdadeira relação
+especial de sujeição entre a ANP e o concessionário:
+
+“É importante ressaltar esse ponto: existe entre a ANP e o
+concessionário o que a doutrina clássica de direito administrativo denomina
+de relação especial de sujeição. Isto é: o particular estabelece com a
+Administração um vínculo específico, segundo o qual acaba se submetendo
+a determinados ditames que não se aplicam ao restante dos administrados.
+Dizendo de outro modo, o particular acaba por figurar numa classe especial
+de administrado, distinta dos demais. Instrumento normativo típico da
+relação especial de sujeição é o contrato administrativo, que impõe ao
+contratado obrigações que se aplicam somente a ele enquanto parte daquela
+relação jurídica específica.”
+
+O que importa observar é que há um vínculo bastante estreito entre a
+União federal, na figura da ANP, e o concessionário, decorrente exatamente do 27
+monopólio que marca a exploração e produção de petróleo e gás, resultando no poder-
+dever da ANP de fiscalizar e acompanhar todo o desenvolvimento da atividade
+econômica.
+
+De natureza bastante diversa é o vínculo jurídico que liga a União,
+de um lado, e os Estados, DF e Municípios, de outro. Àquela cabe repassar a estes
+a sua quota-parte das participações governamentais e, por conseguinte, a estes será
+dado exigir as receitas que lhes são de direito. Tal preceito decorre diretamente do
+supracitado art. 20, §1º da CF/88 e possui raiz no próprio pacto federativo.
+
+Todavia, como adverte o professor FLORIANO MARQUES NETO,
+“Estados e Municípios têm inequívoco direito à participação nas receitas decorrentes
+da produção de petróleo e gás, mas tal direito se constitui somente em face do ente
+público titular de tais atividades, isso é, a União, e não em face dos
+concessionários”.
+
+O fato de parcela das receitas obtidas a título de participações
+governamentais serem de titularidade das entidades periféricas (Estados, DF e
+
+12 BARBOSA, Erivaldo Moreira. Direito Ambiental e dos Recursos Naturais: Biodiversidade, Petróleo e
+Águas. Belo Horizonte: Editora Fórum, 2011, p. 201.
+
+[[pagina 28 | nativo]]
+Municípios) – a teor do art. 20, §1º da CF/88 – não faz com que surja entre estas e a
+concessionária qualquer relação jurídica.
+
+Isso porque a concessionária submete-se à fiscalização apenas da ANP,
+órgão regulador do monopólio da União.
+
+O que se pretende deixar claro aqui é que a relação entre a
+concessionária e a União, na figura da ANP, forma-se a partir de um contrato, cujo
+conteúdo deverá ser fiel aos termos do edital de licitação e à lei. Entre a União e os
+demais entes federados surge outra relação, pautada no dever de repartição das
+receitas, nos termos do art. 20, §1º da CF/88.
+
+Na há, seja no plano constitucional ou na legislação federal, vinculo
+jurídico que autorize os Estados, o DF e os Municípios a fiscalizar e impor obrigações
+acessórias às concessionárias no intuito de verificar o correto recolhimento das
+participações governamentais pela exploração de petróleo e gás natural.
+
+É bom que tais premissas estejam esclarecidas para facilitar a
+compreensão do raciocínio que se desenvolverá adiante.
+
+4.5. Inconstitucionalidade dos dispositivos da lei estadual que
+pretendem disciplinar a arrecadação direta das participações governamentais.
+
+A jurisprudência deste e. Supremo Tribunal federal já assentou que
+constituem receita patrimonial originária os recursos provenientes do art. 20, §1º
+da CF/88 (RE nº 228.800, Rel. Min. Sepúlveda Pertence).
+
+Na ADI nº 4.606/BA, analisou-se a constitucionalidade da Lei nº
+10.850/07 do Estado da Bahia, que disciplinou a fiscalização, arrecadação e o controle
+das receitas decorrentes da exploração de recursos hídricos e minerais. Naquela
+oportunidade, a questão foi analisada levando-se em consideração a exploração de
+minerais em geral, sem se ater às especificidades do petróleo e do gás natural, cuja
+exploração é de monopólio da União.
+
+Nada obstante, concluiu-se que Estados, DF e Municípios não detêm
+competência material ou legislativa no que tange à arrecadação direta dos
+recursos previstos no art. 20, §1º da CF/88.
+
+Vejamos as conclusões então exaradas:
+
+[[pagina 29 | nativo]]
+“Portanto, as receitas geradas a título de compensação financeira
+submetem-se a um regime constitucional relativamente atípico, pois, embora
+sejam receitas originárias de Estados, DF e Municípios, as suas condições
+de recolhimento e repartição são definidas heteronomamente, por
+regramento da União, que tem dupla autoridade normativa na matéria, já
+que cabe a ela definir as condições (legislativas) gerais de exploração de
+potenciais de recursos hídricos e minerais (art. 22, IV e XII, da CF), bem
+como as condições (contratuais) específicas da outorga dessa atividade a
+particulares (art. 176, § 1º, da CF).
+Realmente, as providências enumeradas no art. 23, XI, da CF –
+registro, fiscalização e acompanhamento – se prestam a garantir um mínimo
+de autonomia financeira aos entes periféricos da federação, possibilitando
+pelo menos alguma perspectiva de controle sobre as receitas geradas com as
+compensações financeiras. Mas, sem embargo disso, essas atribuições não
+chegam a conferir capacidade arrecadatória direta quanto a essas verbas.
+Afinal, em diversas passagens do texto constitucional, houve cuidadosa
+distinção entre as atribuições de arrecadação e fiscalização, o que permite
+inferir que – fosse o caso de uma competência de caráter arrecadatório – ela
+viria expressa no comando do inciso XI do art. 23.
+Assim, atualmente, a União opera como administradora central do
+sistema de recolhimento das compensações referidas no art. 20, § 1º, da CF, 29
+encarregando-se de arrecadar os correspondentes recursos e,
+posteriormente, de distribuí-los entre os demais entes, de acordo com os
+percentuais estipulados em lei, mediante repasses que geralmente são
+efetuados pela Secretaria do Tesouro Nacional.”
+
+Ora, se até mesmo no âmbito das atividades que não estão sujeitas ao
+monopólio da União – como é o caso da exploração dos recursos minerais em geral e
+dos recursos hídricos – concluiu-se pela inexistência de competência arrecadatória dos
+entes periféricos, mais razão ainda há para se vedar atuação nesse sentido quando se
+está a tratar especificamente de petróleo e gás natural.
+
+Nesse ponto, portanto, as conclusões do referido acórdão são
+plenamente aplicáveis ao presente caso.
+
+Com efeito, o art. 22, IV e XII da CF/88 atribui à União competência
+privativa para legislar sobre energia e jazidas, de modo que não cabe aos Estado, ao
+DF e aos Municípios legislar sobre a atividade de exploração de petróleo e gás natural.
+Veja-se novamente:
+
+[[pagina 30 | nativo]]
+“Art. 22. Compete privativamente à União legislar sobre:
+IV - águas, energia, informática, telecomunicações e radiodifusão;
+XII - jazidas, minas, outros recursos minerais e metalurgia;”
+
+Nesse sentido, já decidiu o STF no julgamento da ADI nº 855:
+
+“Ação direta de inconstitucionalidade. 2. Lei 10.248/93, do Estado do
+Paraná, que obriga os estabelecimentos que comercializem Gás Liquefeito de
+Petróleo - GLP a pesarem, à vista do consumidor, os botijões ou cilindros
+entregues ou recebidos para substituição, com abatimento proporcional do
+preço do produto ante a eventual verificação de diferença a menor entre o
+conteúdo e a quantidade líquida especificada no recipiente. 3.
+Inconstitucionalidade formal, por ofensa à competência privativa da União
+para legislar sobre o tema (CF/88, arts. 22, IV, 238). 4. Violação ao princípio
+da proporcionalidade e razoabilidade das leis restritivas de direitos. 5. Ação
+julgada procedente.” (ADI 855, Rel. Min. OCTAVIO GALLOTTI, Rel. p/
+Acórdão Min. GILMAR MENDES, Tribunal Pleno, julgado em 06.03.08)
+
+Paralelamente, o art. 177 da CF/88 determina que lei – obviamente
+federal – tratará da exploração do petróleo e do gás natural, inclusive da
+arrecadação das participações governamentais. E assim o fez a Lei nº 9.478/97,
+30disciplinando todas as condições de exploração e de pagamento das participações
+
+Em verdade, embora o art. 20, § 1º da CF/88 seja expresso em
+determinar que aos Estados, DF e Municípios é assegurada participação na
+compensação financeira pela exploração de petróleo e gás natural, a Constituição, em
+momento algum, confere a estes entes capacidade para arrecadar tais compensações
+diretamente. Pelo contrário, o que faz a Carta é estabelecer de maneira bastante clara
+que a capacidade arrecadatória será exclusiva da União, à qual caberá posteriormente
+repassar aos demais entes suas quotas-partes.
+
+Dito isso, cabe apontar que a Lei do Estado de Sergipe nº 5.854/06 foi
+editada para disciplinar a fiscalização e cobrança de compensações financeiras, o que
+fica claro desde seu art. 1º, senão, vejamos:
+
+“Art. 1º O acompanhamento e fiscalização da exploração de recursos
+minerais e hídricos, inclusive petróleo e gás natural, por concessionários,
+permissionários, cessionários e outros, nos termos da Constituição Federal,
+assim como a fiscalização e cobrança das correspondentes parcelas de
+compensações financeiras, receitas não tributáveis decorrentes da referida
+exploração são da competência do Estado de Sergipe.”
+
+[[pagina 31 | nativo]]
+Ato contínuo, o Capítulo II (arts. 6º, 7º e 8º) dispõe sobre o
+arbitramento, o Capítulo III (art. 9º, 10) dispõe sobre o pagamento e o Capítulo IV
+(art. 11) dispõe sobre o parcelamento.
+
+Quando adentra especificamente nas compensações pela exploração de
+petróleo de gás natural, numa completa inversão de competências, fica determinado
+que sejam observadas as disposições da lei estadual e, apenas subsidiariamente, a
+legislação federal pertinente. Veja-se:
+
+“Art. 18. As empresas que explorem petróleo e gás natural devem
+recolher a compensação financeira referente a esta exploração, na forma
+desta Lei, observando-se subsidiariamente a legislação federal pertinente.”
+
+Todos esses dispositivos pretendem claramente disciplinar a
+arrecadação direta das compensações financeiras devidas conforme disposto no art.
+20, §1º da CF/88, invadindo-se a competência do legislador federal e, inclusive,
+desconsiderando-se que a sistemática de arrecadação já se encontra exaustivamente
+prevista na Lei nº 9.478/97. A declaração de inconstitucionalidade, portanto, é
+imperiosa, nos termos do que já decidiu esta e. Corte na ADI nº 4.606/BA.
+
+4.6. Inconstitucionalidade dos dispositivos da lei estadual que
+instituem obrigações acessórias. Violação ao art. 23, XI, e ao art. 177 da CF/88. 31
+
+A Constituição Federal, ao dispor sobre o regime de exploração dos
+bens que são de propriedade da União, traça uma linha divisória formando dois grupos
+distintos.
+
+O art. 176 trata dos recursos hídricos e minerais de qualquer espécie:
+
+“Art. 176. As jazidas, em lavra ou não, e demais recursos minerais e
+os potenciais de energia hidráulica constituem propriedade distinta da do
+solo, para efeito de exploração ou aproveitamento, e pertencem à União,
+garantida ao concessionário a propriedade do produto da lavra.
+§ 1º A pesquisa e a lavra de recursos minerais e o aproveitamento dos
+potenciais a que se refere o "caput" deste artigo somente poderão ser
+efetuados mediante autorização ou concessão da União, no interesse
+nacional, por brasileiros ou empresa constituída sob as leis brasileiras e que
+tenha sua sede e administração no País, na forma da lei, que estabelecerá as
+condições específicas quando essas atividades se desenvolverem em faixa de
+fronteira ou terras indígenas. (Redação dada pela Emenda Constitucional nº
+6, de 1995)
+§ 2º É assegurada participação ao proprietário do solo nos resultados
+da lavra, na forma e no valor que dispuser a lei.
+
+[[pagina 32 | nativo]]
+§ 3º A autorização de pesquisa será sempre por prazo determinado, e
+as autorizações e concessões previstas neste artigo não poderão ser cedidas
+ou transferidas, total ou parcialmente, sem prévia anuência do poder
+concedente.
+§ 4º Não dependerá de autorização ou concessão o aproveitamento do
+potencial de energia renovável de capacidade reduzida.”
+
+O art. 177, por sua vez, trata dos hidrocarbonetos, que constituem
+monopólio da União e, por isso, sujeitam-se a regime próprio e diferenciado:
+
+“Art. 177. Constituem monopólio da União:
+I - a pesquisa e a lavra das jazidas de petróleo e gás natural e outros
+hidrocarbonetos fluidos; (Vide Emenda Constitucional nº 9, de 1995)
+II - a refinação do petróleo nacional ou estrangeiro;
+III - a importação e exportação dos produtos e derivados básicos
+resultantes das atividades previstas nos incisos anteriores;
+IV - o transporte marítimo do petróleo bruto de origem nacional ou de
+derivados básicos de petróleo produzidos no País, bem assim o transporte,
+por meio de conduto, de petróleo bruto, seus derivados e gás natural de
+qualquer origem;
+V - a pesquisa, a lavra, o enriquecimento, o reprocessamento, a
+industrialização e o comércio de minérios e minerais nucleares e seus
+derivados, com exceção dos radioisótopos cuja produção, comercialização e 32
+utilização poderão ser autorizadas sob regime de permissão, conforme as
+alíneas b e c do inciso XXIII do caput do art. 21 desta Constituição Federal.
+(Redação dada pela Emenda Constitucional nº 49, de 2006)
+§ 1º A União poderá contratar com empresas estatais ou privadas a
+realização das atividades previstas nos incisos I a IV deste artigo observadas
+as condições estabelecidas em lei.
+§ 2º A lei a que se refere o § 1º disporá sobre: (Incluído pela Emenda
+Constitucional nº 9, de 1995) (Vide Emenda Constitucional nº 9, de 1995)
+I - a garantia do fornecimento dos derivados de petróleo em todo o
+território nacional; (Incluído pela Emenda Constitucional nº 9, de 1995)
+II - as condições de contratação; (Incluído pela Emenda Constitucional
+nº 9, de 1995)
+III - a estrutura e atribuições do órgão regulador do monopólio da
+União; (Incluído pela Emenda Constitucional nº 9, de 1995)”
+
+Antes de tecer qualquer outra observação, deve-se atentar à organização
+do texto constitucional. Pela simples leitura, observa-se que a Constituição reservou
+um dispositivo para tratar dos recursos minerais em geral e dos recursos hídricos (art.
+176), enquanto em outro dispositivo trata dos hidrocarbonetos (art. 177). Isso só pode
+significar que o constituinte pretendeu distinguir entre estes e aqueles, inclusive
+dando-lhes tratamentos distintos.
+
+[[pagina 33 | nativo]]
+Em verdade, o próprio vocábulo mineral – “material sólido natural,
+inorgânico, de composição química definida e estrutura interna regular, que constitui
+a litosfera”13 – impede que se vejam compreendidos neste grupo os hidrocarbonetos
+(no caso, petróleo e gás natural).
+
+A Lei nº 9.478/97, ao definir petróleo e gás natural, também deixa claro
+que estes são especiais e não se enquadram no grupo dos minerais em geral:
+
+“Art. 6° Para os fins desta Lei e de sua regulamentação, ficam
+estabelecidas as seguintes definições:
+I - Petróleo: todo e qualquer hidrocarboneto líquido em seu estado
+natural, a exemplo do óleo cru e condensado;
+II - Gás Natural ou Gás: todo hidrocarboneto que permaneça em
+estado gasoso nas condições atmosféricas normais, extraído diretamente a
+partir de reservatórios petrolíferos ou gaseíferos, incluindo gases úmidos,
+secos, residuais e gases raros”.
+
+Nessa linha, a Academia Brasileira de Ciências destaca que os
+hidrocarbonetos se distinguem dos recursos minerais gerais tanto em razão das suas
+propriedades químicas quanto em decorrência do tratamento dado pela legislação.
+Veja-se:
+
+“Os hidrocarbonetos são compostos orgânicos que contêm o
+hidrogênio (H) e o carbono (C) em sua estrutura. O petróleo é uma mistura
+complexa de hidrocarbonetos de ocorrência natural (LEVORSEN, 2001).
+A especificidade das legislações referentes aos monopólios dos
+hidrocarbonetos e dos minerais radioativos, com flexibilização no caso do
+petróleo e gás e absoluta rigidez no caso do urânio, tem, também, contribuído
+para esse quadro de dificuldade.” 14
+
+Com efeito, em relação ao regime jurídico de exploração, há uma
+distinção nítida entre os dois grupos, na medida em que a Constituição determina que
+constitui monopólio da União Federal a pesquisa e lavra de petróleo e gás natural (art.
+177), mas não há monopólio em relação aos recursos minerais e hídricos (previstos
+no art. 176).
+
+Em seu parecer (doc. nº 04, cit.), o professor FLORIANO DE
+AZEVEDO MARQUES NETO discorre acerca da diferença entre os regimes
+previstos no art. 176 e no art. 177 da Constituição:
+
+13 HOUAISS, Antônio. Dicionário Eletrônico da Língua Portuguesa, 2001.
+14 Recursos Minerais no Brasil: problemas e desafios. Academia Brasileira de Ciências. Reio de Janeiro,
+2016. Disponível em http://www.abc.org.br/IMG/pdf/doc-7006.pdf. Acesso em 23.08.2019.
+
+[[pagina 34 | nativo]]
+“A Carta Magna poderia ter tratado petróleo e gás como se fossem
+recursos com regime jurídico idêntico aos minérios, adotando como fator de
+identidade o fato de se tratarem todos de recursos do subsolo, de propriedade
+da União, os quais só têm aproveitamento econômico após serem retirados
+do subsolo. Porém, assim não fez. Enquanto que a pesquisa e a lavra mineral
+seguem um regime constitucional que autoriza expressamente a concessão
+de tais atividades a particulares, tal como preconiza o artigo 176, no caso
+dos hidrocarbonetos o regime de monopólio da União é bastante
+pronunciado, ainda que sujeito a certa relativização, nos termos da lei, tal
+como prescrevem os §§ 1º e 2º do artigo 177. Não é de se discutir aqui todos
+os argumentos de ordem política ou econômica que podem fundamentar esse
+tratamento diferenciado, tampouco de descrever em detalhe os regimes
+jurídicos aplicáveis aos minérios e aos hidrocarbonetos, mas apenas de
+constatar que a Constituição trata desses dois recursos do subsolo de modo
+a diferenciá-los.
+Parece-me muito claro que o texto constitucional não autoriza o
+entendimento de que minério possa ser sinônimo de hidrocarboneto ou de que
+"concessões de direito de pesquisa e exploração de minerais" são o mesmo
+que "concessões de petróleo e gás". Até porque não existe referência alguma
+na Constituição a concessões de hidrocarbonetos, sendo o regime de
+concessões desse recurso estabelecido pela lei ordinária (no caso, a Lei nº
+9.478/97).” 34
+
+Como aduz o professor, “no caso dos hidrocarbonetos o regime de
+monopólio da União é bastante pronunciado”, o que os distingue dos demais recursos
+minerais a que alude o art. 176.
+
+Ao julgar a ADI nº 3.273/DF, o Ministro Eros Grau também já havia
+tecido observações similares. Veja-se:
+
+“A EC 9/95 permite que a União transfira ao ‘concessionário’ os riscos
+e resultados da atividade e a propriedade do produto da exploração de
+jazidas de petróleo e de gás natural, observadas as normas legais.
+Ocorre, no entanto, que a Constituição não coloca esse a quem estou a
+chamar de ‘concessionário’ sob o regime do disposto do artigo 176.
+Ao contrário, a ele confere tratamento diferenciado, razão pela qual
+estou de acordo em que os preceitos veiculados pelos §§1º e 2º do artigo 177
+da Constituição do Brasil são específicos em relação ao artigo 176.”
+
+Por fim, a legislação impugnada – Lei nº 5.854/06 do Estado do Sergipe
+– também deixa clara a existência de um regime dual.
+
+[[pagina 35 | nativo]]
+Na verdade, a lei trata de três categorias: (i) recursos hídricos; (ii)
+recursos minerais (iii) petróleo e gás natural. Assim o faz por meio de capítulos
+distintos e apartados. Veja-se:
+
+“CAPÍTULO V - DA COMPENSAÇÃO FINANCEIRA PELA
+EXPLORAÇÃO DE RECURSOS HÍDRICOS PARA GERAÇÃO DE
+ENERGIA
+Art. 12. As empresas que explorem recursos hídricos para fins de
+geração de energia, devem recolher a devida compensação financeira
+referente a essa exploração - CFURH, na forma desta Lei, observando-se
+subsidiariamente a legislação federal pertinente.
+
+CAPÍTULO VI - DA COMPENSAÇÃO FINANCEIRA PELA
+EXPLORAÇÃO DE RECURSOS MINERAIS
+Art. 14. As empresas que explorem recursos minerais devem recolher a
+compensação financeira pela exploração desses recursos - CFEM, na forma
+desta Lei, observando-se subsidiariamente a legislação federal pertinente.
+
+CAPÍTULO VII - DAS COMPENSAÇÕES FINANCEIRAS PELA
+EXPLORAÇÃO DE PETRÓLEO E GÁS NATURAL
+Art. 18. As empresas que explorem petróleo e gás natural devem
+recolher a compensação financeira referente a esta exploração, na forma
+desta Lei, observando-se subsidiariamente a legislação federal pertinente.” 35
+
+Pois bem. De todo esse arcabouço, o que se pode concluir é que, em
+relação ao petróleo e ao gás natural, a própria Constituição previu que sua exploração
+se daria por regime próprio e diferenciado, o que é decorrência natural do monopólio
+detido pela União.
+
+Assim, o art. 177 tratou dos diversos aspectos relacionados à exploração
+do petróleo de do gás natural, inclusive, indicando expressamente quais atividades
+poderiam ser contratadas com empresas estatais ou privadas, observadas as condições
+estabelecidas em lei – obviamente lei federal. A mesma lei deverá dispor sobre as
+condições de contratação e sobre a estrutura e atribuições do órgão regulador do
+monopólio da União.
+
+Ou seja, o art. 177 não só traça condições gerais da exploração de
+petróleo e gás natural, mas estipula claramente que a fiscalização se dará pelo
+órgão regulador do monopólio. O referido diploma legal é a Lei nº 9.478/97 e o
+órgão regulador, por ela criado, é a ANP.
+
+Nesse espectro, observa-se que o art. 177 acaba por retirar da
+competência dos Estados, DF e Município qualquer atividade de cunho
+
+[[pagina 36 | nativo]]
+fiscalizatório da exploração dos hidrocarbonetos, o que se afina com a opção pelo
+monopólio.
+
+Seria possível cogitar que alguma competência teria sido reservada aos
+entes periféricos em razão do que dispõe o art. 23, XI da CF/88, ao tratar da
+competência comum, in verbis:
+
+“Art. 23. É competência comum da União, dos Estados, do Distrito
+Federal e dos Municípios:
+XI - registrar, acompanhar e fiscalizar as concessões de direitos de
+pesquisa e exploração de recursos hídricos e minerais em seus territórios”.
+
+Ocorre que, numa interpretação sistemática da Constituição, forçoso
+convir que o art. 23, inciso XI, ao atribuir competência comum aos entes federados
+para “registrar, acompanhar e fiscalizar as concessões de direitos de pesquisa e
+exploração dos recursos hídricos e minerais em seus territórios”, está a tratar
+apenas dos recursos minerais de qualquer espécie, mas não dos hidrocarbonetos.
+E isso, por uma razão lógica: os hidrocarbonetos estão sob monopólio da União.
+
+Em verdade, o que o Texto Constitucional faz é deixar bem claro
+que, em matéria de exploração dos hidrocarbonetos, opera-se o monopólio da
+União Federal, o que implica também na sua competência privativa para legislar 36
+e fiscalizar, ao contrário do que pode ocorrer para outros segmentos econômicos.
+
+No mesmo sentido concluiu o professor FLORIANO DE AZEVEDO
+MARQUES NETO em seu parecer:
+
+“A competência prevista no artigo 23, XI refere-se tão somente aos
+recursos minerais e, de modo algum, pode ser entendida como aplicável ao
+petróleo e gás natural, recursos que, quando tratados no texto constitucional,
+o são num registro próprio e distinto.”
+
+E não é demais repisar que o art. 22, IV e XII da Constituição atribuiu
+à União Federal a competência privativa para legislar sobre energia e jazidas, de modo
+que não cabe ao Estado de Sergipe dispor sobre a atividade de exploração de petróleo
+e gás natural.
+
+Nesse sentido, vale conferir o seguinte trecho do parecer da AGU nos
+autos da supracitada ADI 4.606 (que, apesar de não ter tratado especificamente do
+regime jurídico dos hidrocarbonetos previsto no art. 177 da CF/88, é perfeitamente
+aplicável ao presente caso):
+
+[[pagina 37 | nativo]]
+“De feito, como cediço, além da competência legislativa prevista no
+artigo 22, incisos IV e XII, da Lei maior, a União detém a titularidade dos
+potenciais de energia hidráulica e dos recursos minerais, de modo que a
+sua exploração por particulares condiciona-se à autorização, permissão
+ou concessão pela autoridade federal.
+Dessa forma, constata-se que a União – enquanto titular dos
+recursos hídricos (para geração de energia elétrica) e dos recursos
+minerais existentes no território nacional – possui competência exclusiva
+para legislador sobre os referidos bens públicos federais e sobre o regime
+jurídico de sua exploração.
+Entretanto, observa-se do teor da Lei nº 10.850/07 que o Estado da
+Bahia estabeleceu extensa regulamentação sobre o assunto, afrontando,
+pois, o domínio normativo reservado ao ente central, bem como os
+próprios instrumentos de outorga da atividade exploratória a
+particulares.
+Isso porque, segundo se depreende da lei impugnada, o legislador
+baiano disciplinou diversos aspectos da compensação financeira devida
+em razão da exploração de potenciais energéticos e de recursos minerais
+situados no território estadual, tais como: os responsáveis pelo
+adimplemento da receitas (artigo 4º); o modo pelo qual o pagamento deve
+ser efetuado (artigo 5º); a imposição de obrigações acessórias (artigos 6º
+e 7º); e as infrações e penalidades aplicáveis pelo seu descumprimento 37
+(artigos 8º a 10º).
+Nesses termos conclui-se que o diploma legal impugnado, assim
+como o respectivo decreto regulamentar desrespeitaram a competência
+legislativa da União para disciplinar o regime compensatório em exame,
+razão pela qual se mostram incompatíveis com o disposto no artigo 22,
+incisos IV e XII, da Carta Republicana.” (grifamos)
+
+A despeito de tudo isso, a Lei nº 5.854/06, editada pelo Estado de
+Sergipe, trata da matéria em toda sua amplitude, desconsiderando por completo não
+apenas os mandamentos constitucionais supracitados, mas a existência de Lei Federal
+nº 9.478/97, que disciplinou exaustivamente a sua exploração e criou a ANP na
+condição autarquia reguladora.
+
+Como já dito, o art. 18 da lei estadual ora impugnada implementa
+verdadeira inversão das competências ao sobrepor a legislação de Sergipe à legislação
+federal, dispondo que “as empresas que explorem petróleo e gás natural devem
+recolher a compensação financeira referente a esta exploração, na forma desta Lei,
+observando-se subsidiariamente a legislação federal pertinente”. A situação, com a
+devida vênia, é absurda.
+
+[[pagina 38 | nativo]]
+Nesse teor, fica claro que a Lei nº 5.854/26, ao instituir uma série de
+obrigações acessórias destinadas à fiscalização do pagamento de compensações
+financeiras sobre a atividade de exploração de petróleo e gás natural, incorre em
+violação aos arts. 23, XI, e 177 da Constituição, o que demanda a declaração de sua
+inconstitucionalidade.
+
+4.7. A interpretação da competência comum prevista no art. 23, XI
+da CF/88 à luz do monopólio previsto no art. 177 da CF/88.
+
+Há ainda uma nuance que interliga a competência comum prevista no
+art. 23, XI e a outorga constitucional de monopólio da exploração dos hidrocarbonetos
+pela União que se mostra de especial relevo nesta ação direta de inconstitucionalidade.
+
+Vejamos novamente o art. 23, inc. XI:
+
+“Art. 23. É competência comum da União, dos Estados, do Distrito
+Federal e dos Municípios:
+XI - registrar, acompanhar e fiscalizar as concessões de direitos de
+pesquisa e exploração de recursos hídricos e minerais em seus territórios;”
+
+Ainda que se refute a alegação trazida anteriormente – de que o art. 23,
+XI englobaria apenas os minerais em geral, excluindo-se os hidrocarbonetos – para se 38
+concluir, de modo contrário, que os entes federados das três esferas deteriam
+competência material também sobre a pesquisa e a exploração de petróleo e gás
+natural, há de se observar que o dispositivo traz uma gradação das possíveis atuações:
+registro, acompanhamento e fiscalização.
+
+No que tange especificamente à exploração de petróleo e gás natural,
+questiona-se:
+
+• Quem detém o monopólio da atividade?
+A União
+
+• Quem estipula as regras e condições para pagamento das
+compensações financeiras?
+A União
+
+• Quem detém o poder-dever de cobrar as compensações financeiras?
+A União
+
+• Quem verifica se o pagamento das compensações se deu de forma
+correta?
+A União
+
+[[pagina 39 | nativo]]
+• Então, o que cabe aos Estados, DF e Municípios?
+Apenas acompanhar as atividades de fiscalização e cobrança
+conduzidas pela União.
+
+A questão central aqui, como se vê, reside em definir se, em relação à
+atividade de exploração do petróleo e do gás natural, caberia às três esferas registrar,
+acompanhar e fiscalizar. Ou se, em razão de outras normas constitucionais, a atuação
+dos entes periféricos deveria ficar restrita a providências de menor grau.
+
+A resposta, mais uma vez, encontra-se no teor do art. 177, cujo núcleo
+é a determinação de que constitui monopólio da União a pesquisa e a lavra das jazidas
+de petróleo e gás natural e outros hidrocarbonetos fluidos.
+
+O monopólio implica necessariamente que a atividade fiscalizatória
+fique circunscrita à esfera da União, cabendo aos Estados, DF e Municípios,
+quando muito, registrar e acompanhar as concessões de petróleo e de gás natural.
+
+A competência comum prevista no art. 23, XI da CF/88 não pode ser
+interpretada de forma isolada e desconexa dos demais dispositivos constitucionais.
+Especialmente por se tratar de providências instrumentais – registro,
+39acompanhamento e fiscalização –, pode-se afirmar que tais competências são anexas
+a outras competências materiais. No tocante à exploração de petróleo e gás natural,
+a regra nuclear de competência é a do art. 177, que centraliza todas as providências
+legislativas e administrativas na União Federal.
+
+Aqui, mais uma vez, referimo-nos ao voto do Exmo. Min.
+ALEXANDRE DE MORAES, na ADI nº 4.606/BA, para explicar que é o princípio
+da predominância do interesse que norteia a repartição de competência entre os entes
+da federação. Vejamos:
+
+“O princípio geral que norteia a repartição de competência entre os
+entes componentes do Estado Federal brasileiro é o princípio da
+predominância do interesse, tanto para as matérias cuja definição foi
+preestabelecida pelo texto constitucional, quanto em termos de interpretação
+em hipóteses que envolvem várias e diversas matérias, como na presente ação
+direta de inconstitucionalidade.
+A própria Constituição Federal, portanto, presumindo de forma
+absoluta para algumas matérias a presença do princípio da predominância
+do interesse, estabeleceu, a priori, diversas competências para cada um dos
+entes federativos, União, Estados-Membros, Distrito Federal e Municípios,
+e, a partir dessas opções, pode ora acentuar maior centralização de poder,
+principalmente na própria União (CF, art. 22), ora permitir uma maior
+
+[[pagina 40 | nativo]]
+descentralização nos Estados-Membros e Municípios (CF, arts. 24 e 30,
+inciso I).”
+
+Ocorre que, como pontua o Exmo. Ministro, a própria Constituição
+estabeleceu, a priori, algumas competências de forma absoluta, ora adotando
+premissas mais centralizadoras, ora permitindo maior descentralização.
+
+Acerca da exploração de petróleo e gás natural, como já dito, a
+Constituição adotou posicionamento claramente centralizado na União Federal, pois
+não só lhe confere a propriedade de tais bens, como lhe atribui o monopólio sobre a
+atividade de pesquisa, lavra e produção.
+
+É decorrência lógica do monopólio previsto no art. 177, portanto,
+que o poder fiscalizatório seja privativo da União Federal.
+
+Nesse espectro, a atuação dos demais ente federados deve estar limitada
+ao registro e ao acompanhamento. O registro é suficiente para permitir que o ente
+toma ciência da existência de determinada concessão no seu âmbito territorial. O
+acompanhamento, por sua vez, deverá se dar especialmente numa atuação junto à
+própria ANP, que é responsável pela fiscalização e detém todas as informações
+fornecidas continuamente pelas concessionárias.
+
+Veja-se bem: no que tange especialmente às participações
+governamentais, fiscalizar implica atuar de modo a verificar que os pagamentos têm
+se dado nos termos da lei e, em sendo a hipótese, viabilizar a cobrança. Somente a
+ANP, entidade autárquica federal, tem poderes para tanto. Aos demais entes federados
+é dado acompanhar o trabalho fiscalizatório de alçada exclusiva da ANP.
+
+Noutros termos, em se tratando do pagamento de participações
+governamentais sobre a produção de petróleo, a atividade fiscalizatória é
+necessariamente anexa à competência para cobrar. A União, detentora do
+monopólio sobre a atividade, por meio da ANP, fiscaliza e cobra. Os demais entes
+apenas registram e acompanham.
+
+Na legislação impugnada, todavia, percebe-se com clareza que o Estado
+de Sergipe institui obrigações acessórias partindo da premissa de que detém
+competência para cobrar as participações governamentais. Veja-se novamente:
+
+“Art. 3º As empresas responsáveis pela exploração dos recursos
+minerais e hídricos, de petróleo e de gás natural, ficam obrigadas a fornecer,
+em tempo real ou por meio eletrônico, na forma e condições definidas pela
+Secretária de Estado da Fazenda - SEFAZ, dados de processos e produção,
+
+[[pagina 41 | nativo]]
+níveis de tanques e similares, silos, dispositivos de carga e descarga de
+insumos, matérias-primas e produtos, bem como todos os que forem
+necessários para apuração das compensações financeiras de que trata esta
+Lei.
+Art. 4º Os dados referidos no art. 3º desta Lei devem ser fornecidos via
+Internet, ou outro sistema a ser definido pela Secretaria de Estado da
+Fazenda - SEFAZ, ficando os responsáveis pela respectiva exploração
+obrigados a fornecer os dados usando o protocolo de comunicação aberto
+SOAP - Simples Object Acess Protocol.
+§ 1º O fornecimento de informações e dados em desacordo com o
+sistema definido somente deve ser aceito com a anuência prévia da SEFAZ,
+por escrito.
+§ 2º A Secretaria de Estado da Fazenda - SEFAZ, pode exigir a
+instalação de instrumentos de medição e de transmissão de dados para efeito
+de controle do balanço físico de produção.
+Art. 5º As solicitações de documentos, livros e informações atinentes à
+fiscalização das receitas não tributárias, feitas pela Assessoria-Geral de
+Gestão Não Tributária - ASSGENT, da Secretaria de Estado da Fazenda -
+SEFAZ, aos concessionários, permissionários, cessionários e terceiros,
+devem ser cumpridas no prazo estabelecido pela SEFAZ.
+Parágrafo único. O prazo estipulado pela SEFAZ, poderá, a critério do
+preposto Fisco, ser prorrogado por no máximo 10 (dez) dias.
+
+Em termos gerais, vê-se que são exigidos todos os dados necessários
+para a apuração dos montantes devidos a título de compensações financeiras.
+
+No capítulo VII, as obrigações são especificadas em relação à
+exploração de petróleo e gás natural.
+
+“Art. 18. As empresas que explorem petróleo e gás natural devem
+recolher a compensação financeira referente a esta exploração, na forma
+desta Lei, observando-se subsidiariamente a legislação federal pertinente.
+
+Art. 19. Para efeito de apuração e recolhimento da compensação
+financeira referida no art. 18 desta Lei, as empresas exploradas devem
+apresentar à Secretaria de Estado da Fazenda - SEFAZ, até o segundo dia
+útil após o prazo para a entrega a Agência Nacional do Petróleo - ANP, todas
+as informações necessárias à efetiva verificação do valor apurado das
+compensações financeiras.
+§ 1º. Em se tratando da Participação Especial pela exploração e
+produção de petróleo e gás natural, os concessionários devem apresentar até
+o segundo dia útil da entrega a ANP, os relatórios de gastos por natureza
+relativos a cada campo de produção, discriminando inclusive, os critérios de
+rateio dos gastos apropriados a cada campo.
+
+[[pagina 42 | nativo]]
+§ 2º. Os relatórios de gastos trimestrais devem compreender
+separadamente os gastos das fases de exploração, desenvolvimento e
+produção de petróleo e gás natural.
+§ 3º. As empresas de produção e exploração de petróleo e gás natural
+ou terceiros, assim como os responsáveis pelo transporte e armazenamento
+desses produtos, devem disponibilizar à Secretaria de Estado da Fazenda -
+SEFAZ, todos os meios para que seja efetuada a medição nos navios
+transportadores de petróleo para outra unidade da federação, bem como nos
+tanques de armazenamento das empresas que realizam as atividades de
+transporte e armazenamento de petróleo.
+§ 4º. Na medição de que trata o §3º deste artigo, a ficha de medição
+deve ser assinada pelo representante do Fisco Estadual e pelo responsável
+pelo navio ou empresa de armazenamento e transporte.
+
+Art. 20. Constituem documentos de entrega obrigatória junto a
+Secretaria de Estado da Fazenda - SEFAZ, dentre outros a serem definidos
+por ato do Secretário de Estado da Fazenda.
+I - Boletim Mensal de Produção de Petróleo e Gás Natural, contendo
+as propriedades físicas e químicas do petróleo e do gás natural produzidos,
+reinjeção de gás natural, composição do gás reinjetado, consumo de gás e
+petróleo nos campos de produção, queima em flares.
+II - Demonstrativo trimestral da Apuração da Participação Especial;
+III - Contratos de Concessão pela exploração de petróleo e gás natural; 42
+IV - Relatórios trimestrais de gastos de cada campo de produção para
+efeito de apuração da Participação Especial;
+V - Relatórios de medição, teste e calibração referente à medição de
+petróleo e gás natural.
+VI - Relatório contendo o pagamento da participação devida aos
+proprietários de terra.”
+
+Fica evidente que o objetivo do Estado vai bastante além do simples
+registro ou acompanhamento do que está sendo arrecadado pela ANP. Pretende
+o Estado do Sergipe efetivamente assumir para si todos os poderes que aquela
+autarquia detém na condição de órgão regulador do monopólio da União.
+
+E isso fica ainda mais claro quando o art. 6º da lei estadual prevê a
+possibilidade de arbitramento – pelo próprio Estado de Sergipe – quando os
+documentos não forem apresentados ou, por motivos outros, não merecerem
+credibilidade. Veja-se:
+
+“Art. 6º A base de cálculo para efeito da apuração e recolhimento das
+compensações financeiras pode ser arbitrada pela autoridade fiscal,
+mediante processo regular, quando:
+
+[[pagina 43 | nativo]]
+I - não forem apresentados os documentos e livros solicitados pela
+fiscalização, no prazo estipulado;
+II - não apresentar documentos, métodos de cálculos ou dados que
+comprovem os valores lançados na apuração da compensação financeira
+apurada nos termos da Lei;
+III - Utilizados critérios de cálculos e/ou deduzidas parcelas não
+autorizadas por Lei;
+IV - os preços que servirem para apuração e recolhimento das
+compensações financeiras forem inferiores aos fixados pela legislação
+pertinente;
+V - forem extraviados os documentos, relatórios e livros que servirem
+para registro das operações para efeito de apuração e recolhimento das
+compensações financeiras;
+VI - não mantida escrituração nas formas das leis comerciais e fiscais,
+ou deixarem de ser elaboradas as demonstrações financeiras exigidas pela
+legislação;
+VII - o concessionário ou terceiro, legalmente obrigado, apresentar
+escrituração com indícios de fraude ou que contiver vício, erro ou
+informações inexatas, que não permitam a apuração da respectiva receita
+não tributária.
+§ 1º Tratando-se de minerais, inclusive petróleo e gás natural para
+efeito de arbitramento da base de cálculo, deve ser utilizado o preço nacional
+fixado por órgão competente. 43
+§ 2º Para o arbitramento da base de cálculo de que trata este artigo,
+devem ser considerados:
+I - os dados oficiais publicados pelas agências reguladoras, órgãos
+federais e estaduais, e outras instituições oficiais;
+II - os dados publicados por revistas técnicas especializadas, nacionais
+e estrangeiras;
+III - as informações disponíveis nos arquivos da Secretaria de Estado
+da Fazenda - SEFAZ;
+IV - utilização de dados contábeis de responsável pela respectiva
+exploração.”
+
+Vale frisar que os cálculos relativos ao pagamento das participações
+governamentais são extremante complexos, conforme detalha o Decreto nº 2.705/9815,
+sendo que apenas a ANP possui expertise para atestar seu correto recolhimento.
+
+Ora, se é verdade que o princípio da predominância do interesse
+deve nortear a repartição de competências entre os entes da federação, por outro
+lado, devem ser respeitadas as opções políticas tomadas a priori pelo constituinte.
+
+15Define critérios para cálculo e cobrança das participações governamentais de que trata a Lei nº 9.478, de
+6 de agosto de 1997, aplicáveis às atividades de exploração, desenvolvimento e produção de petróleo e gás
+natural, e dá outras providências.
+
+[[pagina 44 | nativo]]
+Sobre a atividade de exploração de petróleo e gás natural, foi instituído
+monopólio da União, o que restringe, por consequência lógica, toda a atividade
+fiscalizatória à sua alçada. Ademais, a própria Constituição exigiu a criação de
+um órgão regulador do monopólio.
+
+O interesse dos demais entes na repartição das participações
+governamentais legitimaria, no máximo, as atividades de registro e acompanhamento
+previstas no art. 23, XI da CF/88. Por possuir nítido caráter fiscalizatório e
+arrecadatório, os supracitados arts. 3º, 4º, 5º, 18, 19, 20 da Lei nº 5.854/06 do Estado
+de Sergipe extrapolam por completo tais parâmetros, incorrendo, assim, em
+inconstitucionalidade.
+
+Para extirpar qualquer dúvida, há mais um ponto suscitado na ADI nº
+4.606/BA que merece ser analisado.
+
+Ao afirmar que a União Federal opera como administradora central do
+sistema de recolhimento das compensações referidas no art. 20, §1º da CF/88, o Exmo.
+Min. ALEXANDRE DE MORAES conclui que “trata-se de um sistema de repartição
+de receitas que não discrepa, em grande medida, daquele enunciado pelo art. 158 da
+CF, também estipulado sobre critérios territoriais, que prevê repasses diretos aos
+entes favorecidos”.
+
+Pois bem. A comparação é pertinente e elucidativa.
+
+O art. 158 da CF/8816 trata da repartição de receitas tributárias,
+determinando que parte das receitas advindas de tributos de competência da União e
+dos Estados seja repassado aos Municípios.
+
+16 “Art. 158. Pertencem aos Municípios:
+I - o produto da arrecadação do imposto da União sobre renda e proventos de qualquer natureza, incidente
+na fonte, sobre rendimentos pagos, a qualquer título, por eles, suas autarquias e pelas fundações que
+instituírem e mantiverem;
+II - cinqüenta por cento do produto da arrecadação do imposto da União sobre a propriedade territorial
+rural, relativamente aos imóveis neles situados, cabendo a totalidade na hipótese da opção a que se refere
+o art. 153, § 4º, III;
+III - cinqüenta por cento do produto da arrecadação do imposto do Estado sobre a propriedade de veículos
+automotores licenciados em seus territórios;
+IV - vinte e cinco por cento do produto da arrecadação do imposto do Estado sobre operações relativas à
+circulação de mercadorias e sobre prestações de serviços de transporte interestadual e intermunicipal e
+de comunicação.
+Parágrafo único. As parcelas de receita pertencentes aos Municípios, mencionadas no inciso IV, serão
+creditadas conforme os seguintes critérios:
+I - três quartos, no mínimo, na proporção do valor adicionado nas operações relativas à circulação de
+mercadorias e nas prestações de serviços, realizadas em seus territórios;
+II - até um quarto, de acordo com o que dispuser lei estadual ou, no caso dos Territórios, lei federal.”
+
+[[pagina 45 | nativo]]
+Dessas regras de repartição de receitas exsurge que, desde o momento
+em que ocorre a arrecadação dos tributos, uma parcela do que foi arrecadado é de
+titularidade diversa do ente que detém competência para instituir e cobrar o referido
+tributo. Daí se indaga: seria esse arcabouço suficiente para autorizar que os
+Municípios legislem e exerçam poder de fiscalização sobre os tributos de competência
+federal e estadual?
+
+A resposta é prontamente negativa.
+
+Nada obstante, uma interpretação a ferro e fogo da orientação firmada
+na ADI nº 4.606/BA poderia parecer que se legitimou uma atuação dos Estados e das
+Municipalidades nesse sentido, sob a justificativa de “garantir um mínimo de
+autonomia financeira aos entes periféricos da federação, possibilitando pelo menos
+uma perspectiva de controle sobre as receitas geradas”.
+
+A perspectiva de autonomia financeira, entretanto, não deve ser
+exaltada ao ponto de permitir, por exemplo, que os entes periféricos possam invadir a
+fiscalização dos tributos de competência da União Federal. Observe-se que não se está
+a cogitar de cobrança, mas apenas de fiscalização, o que seria de qualquer modo
+inadmissível. Nunca se poderia admitir que Municípios fiscalizassem o recolhimento
+de IPVA ou de IRRF, sob o pretexto de assegurar sua quota-parte.
+
+E nem poderia ser diferente, sob pena de se instaurar o caos
+fiscalizatório. Imagine se os milhares de municípios instituíssem leis determinando
+que os seus residentes apresentassem à Secretaria de Fazenda Municipal cópias da
+declaração de IR e comprovantes de pagamentos. E, indo além, determinassem a
+apresentação, por cada morador, de suas movimentações bancárias, comprovantes de
+rendimentos, avaliação patrimonial, etc., com a finalidade de verificar se o IR foi
+corretamente apurado e recolhido no exercício, vindo até mesmo a discordar da base
+de cálculo adotada. E tudo isto sob pena do pagamento de multas.
+
+Mutatis mutandi, é isso que está a fazer o Estado de Sergipe quando
+determina que as empresas responsáveis pela exploração de petróleo e gás natural
+forneçam todas as informações necessárias à verificação do valor das compensações
+financeiras, incluindo-se os dados de processo e produção, os relatórios de gastos por
+natureza relativos a cada campo de produção etc. (art. 3º e art. 18), sob pena de multa
+(arts. 23 e 24).
+
+[[pagina 46 | nativo]]
+O fato de haver um interesse financeiro na arrecadação das
+participações governamentais não legitima, por si só, que Estados, DF e Municípios
+venham exercer atividade fiscalizatória, a qual está, em decorrência do monopólio,
+reservada à União.
+
+4.8. Interpretação do art. 23, XI da CF/88 à luz do postulado da
+proporcionalidade.
+
+Por último, deve-se ressaltar que conferir competência a Estados, DF e
+Municípios para fiscalizar o pagamento de compensações financeiras pela exploração
+de petróleo e gás natural, numa interpretação amplíssima da competência comum
+prevista no art. 23, XI da CF/88, implica nítida violação ao postulado da
+proporcionalidade, por duas razões: a uma, não é uma medida eficaz para se atingir o
+fim pretendido; a duas, resulta em um excessivo ônus às empresas exploradoras
+quando o fim poderia ser atingido mediante simples cooperação com a ANP – órgão
+regulador do monopólio.
+
+A aplicação do postulado da proporcionalidade demanda sempre uma
+análise da relação de causalidade entre meio e fim. É o que explica HUMBERTO
+ÁVILA17:
+
+“O exame da proporcionalidade aplica-se sempre que houver uma
+medida concreta destinada a realizar uma finalidade. Nesse caso devem ser
+analisadas as possibilidades de a medida levar à realização da finalidade
+(exame de adequação), de a medida ser menos restritiva aos direitos
+envolvidos dentre aquelas que poderiam ter sido utilizadas para atingir a
+finalidade (exame da necessidade) e de a finalidade pública ser tão valorosa
+que justifique tamanha restrição (exame da proporcionalidade em sentido
+estrito).”
+
+Pois bem. No presente caso, tem-se o seguinte cenário:
+
+• Meio: instituição de obrigações acessórias (fornecer dados e
+documentos utilizados para apuração das compensações
+financeiras ao Estado de Sergipe)
+
+• Fim: possibilitar que o Estado ateste o correto pagamento das
+compensações financeiras verifique se recebeu da União a quota-
+parte que lhe é de direito.
+
+17 ÁVILA, Humberto. Teoria dos Princípios. 18ª ed. São Paulo: Malheiros, 2018, p. 207.
+
+[[pagina 47 | nativo]]
+O fim não deixa de ser legítimo. Todavia, o meio escolhido esbarra nos
+exames da adequação e da necessidade.
+
+O exame da adequação exige que se verifique se o meio leva ao fim18.
+A pergunta, portanto, é: a instituição de obrigações acessórias relativas às
+compensações financeiras pelo Estado de Sergipe será meio eficaz para se verificar se
+tais pagamentos se deram nos termos da lei? A reposta é negativa.
+
+Apenas a ANP, na condição de órgão regulador do monopólio, poderá
+atestar se as compensações financeiras foram devidamente pagas. Não se trata de
+preciosismo ou de simples reserva de poder, mas o cálculo é demasiadamente
+complexo e demanda expertise que apenas a ANP detém. Veja-se excerto extraído do
+Manual de Cálculo das Participações Especiais:
+
+
+O cálculo do rateio entre Estados também exige acesso e informações
+específicas e não é nada menos complexo.
+
+18 ÁVILA, Humberto. Teoria dos Princípios. 18ª ed. São Paulo: Malheiros, 2018, p. 210.
+
+[[pagina 48 | nativo]]
+O ponto é: de que adianta autorizar que os Estados passem a instituir
+obrigações acessórias e exigir a apresentação de documentos se apenas a ANP possui
+expertise para auditar o pagamento das compensações financeiras?
+
+Conclui-se, assim, que a medida escolhida não é adequada ao fim
+pretendido. 48
+
+O exame da necessidade, por sua vez, exige que se verifique se há
+meios alternativos àquele escolhido pelo Poder Legislativo ou Poder Executivo e que
+possam promover igualmente o fim sem restringir, na mesma intensidade, os direitos
+afetados.19
+
+Como se sabe, o setor de petróleo e gás natural já é submetido a intensa
+regulação e fiscalização, o que é uma decorrência natural de se tratar de uma atividade
+estratégica e submetida ao monopólio da União. Sendo assim, permitir que sejam
+impostas obrigações acessórias às concessionárias por todos aqueles entes federados
+que recebem compensações financeiras pela exploração da atividade – o que inclui
+mais de 1.000 Municípios e 10 Estados, conforme relatório de distribuição de royalties
+relativa ao período de agosto/2019 (doc. nº 06) – é, sem dúvida, uma medida
+excessivamente onerosa.
+
+Daí se deve perguntar se há outra medida menos onerosa e menos
+restritiva que poderia atingir o mesmo fim. E a resposta é afirmativa, pois simples
+cooperação entre o Estado e a ANP seria suficiente para possibilitar àquele amplo
+
+19 ÁVILA, Humberto. Teoria dos Princípios. 18ª ed. São Paulo: Malheiros, 2018, p. 216.
+
+[[pagina 49 | nativo]]
+acesso às informações relativas ao pagamento das compensações financeiras e não
+implicaria em nenhuma restrição aos direitos das concessionárias.
+
+Portanto, o meio adotado pelo Estado de Sergipe não é adequado nem
+necessário para possibilitar a este averiguar o correto pagamento das compensações
+financeiras pelas concessionárias de petróleo e gás natural. Isso significa que há
+ofensa ao postulado da proporcionalidade, sendo também razão para se declarar a
+inconstitucionalidade dos dispositivos impugnados.
+
+5. DO PEDIDO DE MEDIDA CAUTELAR.
+
+Sabe-se que a concessão liminar de medida cautelar em ação direta de
+inconstitucionalidade exige que estejam preenchidos os requisitos do fumus boni iuris
+e do periculum in mora.
+
+Na espécie, o fumus boni iuris radica no fato de que a Lei nº 5.854/06
+claramente avança sobre esfera de competência privativa da União Federal, conforme
+amplamente demonstrado acima.
+
+O periculum in mora, por sua vez, evidencia-se por diversas razões. A
+uma, a lei comina multas elevadas pelo suposto descumprimento das obrigações
+principais ou acessórias20, o que, como já dito, cabe apenas à ANP verificar e exigir.
+
+20 “Art. 24. As infrações pertinentes às compensações financeiras, de que trata esta Lei sujeitam-se as
+seguintes penalidades;
+I – Com relação ao cumprimento da obrigação principal:
+a) deixar de recolher no todo ou em parte, as compensações financeiras, quando declaradas em
+demonstrativo ou outro documento utilizado na apuração da compensação: multa de 50% (cinqüenta por
+cento) do valor devido;
+b) deixar de recolher no todo ou em parte, as compensações financeiras quando não declaradas em
+demonstrativo ou outro documento utilizado na apuração da compensação: multa equivalente a 100%
+(cem por cento) do valor devido;
+c) fraudar livros ou documentos fiscais e não fiscais ou utilizar, de má fé, documentos fraudados, para
+iludir o Fisco e fugir ao pagamento das contribuições financeiras e ou, ainda, para propiciar a outro a
+fuga ao pagamento das compensações financeiras: multa equivalente a 200% (duzentos por cento) do valor
+devido;
+d) agir em conluio com pessoas físicas ou jurídicas tentando, de qualquer modo, impedir ou retardar o
+conhecimento, pela autoridade fazendária, da ocorrência de fato gerador, de modo a reduzir as
+compensações financeiras devidas, evitar ou diferir o seu pagamento: multa equivalente a 200% (duzentos
+por cento) do valor das compensações financeiras.
+II – Com relação ao cumprimento das obrigações acessórias:
+a) deixar de apresentar à fiscalização, demonstrativo trimestral da apuração da participação especial:
+multa equivalente a 1.000 UFPs – Unidade Fiscal Padrão do Estado de Sergipe, por documento não
+apresentado;
+b) deixar de apresentar plano de desenvolvimento aprovado para cada campo de produção: multa
+equivalente a 1.000 UFPs por cada plano;
+c) deixar de apresentar plano anual de produção: multa equivalente a 1.000 UFPs por plano;
+
+[[pagina 50 | nativo]]
+É importante frisar que apenas a ANP detém competência e expertise para analisar as
+demonstrações relativas à produção do petróleo e gás natural e, a partir daí, verificar
+se o pagamento das compensações tem se dado nos termos da lei. É, portanto,
+extremamente temerário que se oportunize ao Estado punir o concessionário em
+decorrência de algo que não é de sua alçada fiscalizar.
+
+Além disso, manter a eficácia da Lei do Estado do Sergipe poderá
+incentivar uma pulverização de legislações contraditórias, aumentando sobremaneira
+o custo de compliance das concessionárias e causando sérios riscos à segurança
+jurídica.
+
+Já se tem notícias de outros diplomas legais editados nos mesmos
+termos da legislação impugnada:
+
+• Lei do Estado da Bahia, objeto da ADI nº 4.606/BA (Lei
+Estadual nº 10.850/2007 e Decreto nº 11.736/2009)
+• Lei do Estado do Rio de Janeiro (Lei Estadual/RJ nº 5.139/2007:
+• Lei do Estado do Espírito Santo (Lei Estadual nº 8.501/2007);
+• Lei do Estado do Pará (Lei Estadual nº 6.710/2005)
+• Lei do Estado do Amazonas (Lei Estadual nº 3.874/2013);
+• Lei do Estado de São Paulo (Lei Estadual nº 15.833/2015)
+
+A pulverização de atos normativos nesse sentido poderá ser evitada se
+concedida a medida cautelar para suspender a eficácia da Lei nº 5.854/06, objeto desta
+ação, pois isto evidenciaria que este e. Supremo Tribunal Federal vislumbra grave
+ofensa à Constituição.
+
+Acaso isto não seja feito, esta e. Corte estará transmitindo uma
+mensagem em sentido contrário, ou seja, de que é legítimo que Estados e Municípios
+disciplinem exaustivamente o pagamento das participações governamentais em
+decorrência da exploração do petróleo.
+
+d) deixar de apresentar programa anual de trabalho: multa equivalente a 1.000 UFPs;
+e) deixar de apresentar Boletim Mensal de Produção, por campo de produção: multa equivalente a 1000
+UFPs por boletim;
+f) deixar de apresentar os contratos de concessão, permissão, cessão ou outros: multa equivalente a 1.000
+UFPs por contrato;
+g) deixar de apresentar os demonstrativos dos custos de produção por natureza de gastos por cada campo
+de produção: multa equivalente a 1.000 UFPs por demonstrativo;
+h) deixar de entregar os relatórios de medição, teste e calibração referente a medição de petróleo e gás
+natural: multa equivalente a 1.000 UFPs por relatório;
+Parágrafo Único. Transcorridos 30 (trinta) dias do não cumprimento das obrigações acessórias, a
+Secretaria de Estado da Fazenda – SEFAZ, deve proceder ao devido arbitramento, na forma regularmente
+prevista.”
+
+[[pagina 51 | nativo]]
+Novamente, imagine-se mais de 1.000 Municípios e 10 Estados da
+Federação (doc. nº 06, cit.) competentes para editar normas prevendo obrigações
+acessórias que poderão ser conflitantes entre si, bem como com a possibilidade de se
+exigirem documentos e informações - sem qualquer limitação – a todos os
+concessionários que explorem os campos de petróleo e gás natural.
+
+Estaria instalado verdadeiro caos normativo, o que, como se sabe,
+implica custos de conformidade altíssimos.
+
+Como se não bastasse, cabe ainda apontar que a Lei nº 12.734/12 alterou
+as regras que tratam da distribuição dos royalties entre os entes da Federação,
+incluindo redistribuições de parcela destinada a Estados e Municípios qualificados
+como “produtores” para Estados e Municípios “não produtores” de petróleo e gás
+natural.
+
+A questão é objeto da ADI 4917, tendo sido deferida liminar, em
+18/03/13, para suspender os efeitos de artigos da referida Lei até o julgamento dessa
+ação. Caso se entenda, no julgamento definitivo, pela constitucionalidade da referida
+Lei nº 12.734/12, o número de entes beneficiários se ampliaria demasiadamente, visto
+que alcança igualmente Estados e Municípios “não produtores”, o que pode fazer com
+que os números acima aumentem exponencialmente.
+
+Portanto, deve ser imediatamente suspensa a eficácia dos dispositivos
+questionados na presente ação direta de inconstitucionalidade.
+
+Diante do exposto, com fundamento na aplicação conjugada do art. 102,
+I, “p” da Constituição Federal21, do art. 10, §3º, da Lei nº 9.868/9922 e do art. 21, V,
+do Regimento Interno do STF23, a Autora pede ao Exmo(a). Ministro(a) Relator(a) a
+concessão de medida cautelar para suspender liminarmente a eficácia das disposições
+contidas nos arts. 1º a 11, 18 a 26 da Lei nº 5.854/2006.
+
+21 “Art. 102. Compete ao Supremo Tribunal Federal, precipuamente, a guarda da Constituição, cabendo-
+lhe: I - processar e julgar, originariamente: (…) p) o pedido de medida cautelar das ações diretas de
+inconstitucionalidade”.
+22 “Art. 10. Salvo no período de recesso, a medida cautelar na ação direta será concedida por decisão da
+maioria absoluta dos membros do Tribunal, observado o disposto no art. 22, após a audiência dos órgãos
+ou autoridades dos quais emanou a lei ou ato normativo impugnado, que deverão pronunciar-se no prazo
+de cinco dias. (…) § 3º Em caso de excepcional urgência, o Tribunal poderá deferir a medida cautelar sem
+a audiência dos órgãos ou das autoridades das quais emanou a lei ou o ato normativo impugnado.”
+23 “Art. 21. São atribuições do Relator: (…) IV – submeter ao Plenário ou à Turma, nos processos da
+competência respectiva, medidas cautelares necessárias à proteção de direito suscetível de grave dano de
+incerta reparação, ou ainda destinadas a garantir a eficácia da ulterior decisão da causa; V – determinar,
+em caso de urgência, as medidas do inciso anterior, ad referendum do Plenário ou da Turma”.
+
+[[pagina 52 | nativo]]
+6. DOS PEDIDOS FINAIS.
+
+Diante do exposto, a Autora pede o deferimento liminar do pedido de
+medida cautelar, nos termos deduzidos no tópico anterior.
+
+Em seguida, requer-se que:
+
+(i) sejam colhidas informações do Governador do Estado do Sergipe e da
+Assembleia Legislativa do Estado, órgão e autoridade das quais emanou a lei
+impugnada, nos termos do art. 6º da Lei nº 9.868/99;
+
+(ii) que seja aberta vista dos autos ao Advogado-Geral da União e ao Procurador-
+Geral da República, nos termos do art. 8º da Lei nº 9.868/99;
+
+Ao final, pede a Autora que seja julgado procedente o pedido, para
+declarar-se, em definitivo e com efeitos ex tunc, a inconstitucionalidade dos arts. 1º a
+11, 18 a 26 da Lei nº 5.854/2006, do Estado de Sergipe, especificamente na parte em
+que dispõem sobre a fiscalização e a cobrança das compensações financeiras pela
+exploração de petróleo e gás natural.
+
+Pede-se, ainda, que seja declarada a inconstitucionalidade, por
+arrastamento, dos demais artigos da referida lei e dos atos infralegais dela decorrentes. 52
+
+Nesses termos, pede deferimento.
+
+Do Rio de Janeiro para Brasília, 12 de setembro de 2019.
+
+EDUARDO MANEIRA DONOVAN MAZZA LESSA
+OAB/RJ nº 112.792-A OAB/RJ nº 121.282
+
+MARCOS MAIA LUIS EDUARDO MANEIRA
+OAB/RJ nº 146.276 OAB/RJ nº 204.629
+
+MICHEL HERNANE N. PIRES
+OAB/MG nº 157.241
+
