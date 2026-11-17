@@ -4,6 +4,7 @@ Uso: python scripts/03_chunk.py   (ou python -m jurismatch.pipeline_chunks)
 
 Lê data/02_processed/clean/*.txt (gerados por scripts/02_clean.py) e grava
 data/03_chunks/chunks.parquet, data/03_chunks/relatorio_chunks.csv e metadata/documentos.csv.
+Cada petição é classificada (impugna MP? pede liminar?) e essas colunas vão para os chunks como filtros.
 """
 from __future__ import annotations
 
@@ -13,6 +14,8 @@ from pathlib import Path
 import pandas as pd
 
 from jurismatch import config
+from jurismatch.classificacao import COLUNAS as COLUNAS_CLASSIFICACAO
+from jurismatch.classificacao import carregar_legislacao, classificar_corpus
 from jurismatch.chunking import ContarTokens, gerar_chunks
 from jurismatch.limpeza import ler_linhas, montar_blocos
 from jurismatch.paginas import agrupar_por_peticao
@@ -86,6 +89,8 @@ def main() -> None:
     parser.add_argument("--saida", type=Path, default=config.ARQ_CHUNKS)
     parser.add_argument("--documentos", type=Path, default=config.ARQ_DOCUMENTOS)
     parser.add_argument("--modelo", default=config.MODELO_EMBEDDING)
+    parser.add_argument("--planilha-base", type=Path, default=config.ARQ_PLANILHA_BASE,
+                        help="planilha do STF com a coluna Legislação (usada na classificação)")
     args = parser.parse_args()
 
     arq_limpeza = args.dir_clean / config.ARQ_RELATORIO_LIMPEZA.name
@@ -96,16 +101,22 @@ def main() -> None:
     limpeza = pd.read_csv(arq_limpeza, sep=";", encoding="utf-8-sig")
     relatorio = limpeza.merge(por_arquivo[["arquivo", "chunks"]], on="arquivo", how="left")
     relatorio["chunks"] = relatorio["chunks"].fillna(0).astype(int)
+    classificacao = classificar_corpus(args.dir_clean, carregar_legislacao(args.planilha_base))
+    if not chunks.empty:
+        chunks = chunks.merge(classificacao[["doc_id", *COLUNAS_CLASSIFICACAO]], on="doc_id", how="left")
 
     args.saida.parent.mkdir(parents=True, exist_ok=True)
     chunks.to_parquet(args.saida, index=False)
     relatorio.to_csv(args.saida.with_name(config.ARQ_RELATORIO_CHUNKS.name), index=False, sep=";", encoding="utf-8-sig")
-    documentos = montar_documentos(relatorio, chunks)
+    documentos = montar_documentos(relatorio, chunks).merge(classificacao, on="doc_id", how="left")
     args.documentos.parent.mkdir(parents=True, exist_ok=True)
     documentos.to_csv(args.documentos, index=False, sep=";", encoding="utf-8-sig")
 
     print(f"{len(chunks)} chunks de {chunks['doc_id'].nunique()} petições -> {args.saida}")
     print(f"{len(documentos)} petições -> {args.documentos}")
+    print(f"Classificação: {int(classificacao['impugna_mp'].sum())} impugnam MP, "
+          f"{int(classificacao['pedido_liminar'].sum())} pedem liminar "
+          f"(Legislação usada em {int((classificacao['fonte_mp'] == 'legislacao').sum())})")
     print(chunks["n_tokens"].describe().round(0).to_string())
     suspeitos = relatorio[(relatorio["paginas_so_com_carimbo"] > 0) | (relatorio["chunks"] == 0)]
     if not suspeitos.empty:

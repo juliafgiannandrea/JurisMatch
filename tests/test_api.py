@@ -404,3 +404,37 @@ def test_aquecimento_sem_indice_nao_roda(tmp_path, dir_pdf, dir_web):
     assert c.get("/api/status").json()["indice_pronto"] is False
 
 
+
+
+def test_status_lista_filtros_vazio_em_indice_sem_classificacao(cliente):
+    assert cliente.get("/api/status").json()["filtros"] == []
+
+
+def test_buscar_com_filtro_em_indice_sem_classificacao_409(cliente):
+    r = cliente.post("/api/buscar", json={"consulta": "norma", "impugna_mp": True, "rerank": False})
+    assert r.status_code == 409 and "03_chunk" in r.json()["detail"]
+
+
+@pytest.fixture
+def cliente_classificado(tmp_path, chunks_exemplo, embedder_falso, dir_pdf, dir_web, arq_incidentes):
+    destino = tmp_path / "vectorstore_classificado"
+    chunks = chunks_exemplo.copy()
+    chunks["impugna_mp"] = chunks["doc_id"] == "ADI_2"
+    chunks["pedido_liminar"] = chunks["doc_id"] != "ADC_3"
+    construir_indice(chunks, embedder_falso, destino)
+    fabrica = lambda: Buscador(destino, embedder=embedder_falso, reranker=RerankerFalso())  # noqa: E731
+    return TestClient(criar_app(fabrica, dir_indice=destino, dir_pdf=dir_pdf, dir_web=dir_web, arq_incidentes=arq_incidentes))
+
+
+def test_status_lista_filtros_disponiveis(cliente_classificado):
+    assert cliente_classificado.get("/api/status").json()["filtros"] == ["impugna_mp", "pedido_liminar"]
+
+
+def test_buscar_com_filtros_de_classificacao(cliente_classificado):
+    consulta = "procedência da ação inconstitucionalidade da norma"
+    r = cliente_classificado.post("/api/buscar", json={"consulta": consulta, "impugna_mp": True, "rerank": False})
+    assert r.status_code == 200
+    assert [x["doc_id"] for x in r.json()["resultados"]] == ["ADI_2"]
+    assert r.json()["resultados"][0]["impugna_mp"] is True
+    r = cliente_classificado.post("/api/buscar", json={"consulta": consulta, "pedido_liminar": False, "rerank": False})
+    assert {x["doc_id"] for x in r.json()["resultados"]} <= {"ADC_3"}

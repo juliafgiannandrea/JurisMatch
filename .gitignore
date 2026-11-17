@@ -231,3 +231,9 @@ __marimo__/
 data/03_chunks/
 vectorstore/
 .perfil_chromium_stf/
+data/01_raw/pdf
+data/02_processed/clean/
+data/02_processed/ocr/
+vectorstore*/
+data/casos_mp/
+scrapping_processos_controle_concentrado/casos_mp.xlsx

@@ -386,6 +386,14 @@ code {
 }
 .cartao__meta .sep { color: var(--linha-forte); margin: 0 6px; }
 .cartao__meta .secao { color: var(--tinta); font-weight: 600; }
+.cartao__meta .selo {
+  padding: 0 0.45em;
+  border-radius: 999px;
+  background: var(--acento-suave);
+  color: var(--acento-forte);
+  font-weight: 600;
+  white-space: nowrap;
+}
 
 .cartao__trecho, .cartao__expandir, .cartao__acoes { margin-left: calc(1.4em + 12px); }
 .cartao__trecho { position: relative; max-width: var(--largura-texto); }

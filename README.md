@@ -2,35 +2,88 @@
 
 Busca semântica nas **petições iniciais dos processos de controle concentrado de constitucionalidade do STF**. Você faz uma consulta em linguagem natural e recebe um ranking de petições, com o trecho mais relevante e a página do PDF onde ele está.
 
+O corpus atual tem **656 petições** (588 ADI, 45 ADPF, 20 ADC e 3 ADO), somando 22.468 páginas e 40.526 trechos indexados. A busca roda pela interface web ou pela linha de comando:
+
 ```bash
-python -m jurismatch.busca "liberdade de imprensa e capital estrangeiro" --k 5
+python -m jurismatch.api        # front em http://127.0.0.1:8000
+python scripts/05_search.py "liberdade de imprensa e capital estrangeiro" --k 5
 ```
 
 ## Pipeline
 
-| Etapa | O que faz | Onde |
+O download é feito por `scrapping_processos_controle_concentrado/baixar_peticoes_stf.py`; as demais etapas são scripts em `scripts/`. Cada etapa lê a saída da anterior nas pastas padrão de `data/`. Rodar todas em sequência, sem argumentos, atualiza o índice único em `vectorstore/`, que é o que o front e a busca usam.
+
+| Etapa | Script | Entrada → saída |
 |---|---|---|
-| 1 | Download dos PDFs das petições iniciais | `scrapping_processos_controle_concentrado/` |
-| 2 | Extração de texto, com OCR por página | `extracao_texto_peticoes/` |
-| 3 | Limpeza, chunking e metadados | `python -m jurismatch.pipeline_chunks` |
-| 4 | Embeddings + índice (FAISS exato + BM25) | `python -m jurismatch.indexar` |
-| 5 | Busca híbrida com ranking de petições | `python -m jurismatch.busca "consulta"` |
+| 0 | `baixar_peticoes_stf.py -o ../data/01_raw/pdf` | planilha → `data/01_raw/pdf/` |
+| 1 | `01_ocr.py` | PDFs → `data/02_processed/ocr/` (texto nativo ou OCR, página a página) |
+| 2 | `02_clean.py` | → `data/02_processed/clean/` (remove carimbos, números de página e cabeçalhos) |
+| 3 | `03_chunk.py` | → `data/03_chunks/chunks.parquet` e `metadata/documentos.csv` |
+| 4 | `04_index.py` | → `vectorstore/` (embeddings, FAISS exato, BM25 e manifesto) |
+| 5 | `05_search.py` | consulta → ranking de petições com o melhor trecho de cada uma |
+
+Todas as etapas são incrementais. O download e o OCR pulam os arquivos que já existem, e a indexação só calcula embeddings de trechos novos, reconhecidos pelo hash do texto.
 
 ## Como rodar
-
-As etapas 1 e 2 têm guias próprios: [coleta](scrapping_processos_controle_concentrado/README.md) e [extração de texto](extracao_texto_peticoes/README.md). Com os `.txt` da etapa 2 prontos:
 
 ```bash
 source venv/bin/activate
 pip install torch --index-url https://download.pytorch.org/whl/cpu
-pip install -e ".[dev]"
-
-python -m jurismatch.pipeline_chunks      # gera dados/chunks.parquet e dados/relatorio_chunks.csv
-python -m jurismatch.indexar              # gera dados/indice/ (a primeira vez demora: embeddings em CPU)
-python -m jurismatch.busca "liberdade de imprensa e capital estrangeiro" --k 5
+pip install -e ".[dev,app]"                        # app = fastapi + uvicorn
+sudo apt install tesseract-ocr tesseract-ocr-por      # OCR da etapa 1
 ```
 
-Opções da busca: `--modo hibrido|denso|lexical` e `--classe ADI|ADC`.
+### Acrescentar petições ao corpus
+
+Se a planilha só traz classe e número, sem o link do processo, converta-a primeiro. O script procura o `incidente` na planilha base do STF e, quando não encontra, no portal:
+
+```bash
+cd scrapping_processos_controle_concentrado
+python preparar_planilha.py "planilha.xlsx" -o casos.xlsx --col-classe SIG_CLASSE_PROCES --col-numero NUM_PROCESSO
+python baixar_peticoes_stf.py -p casos.xlsx -o ../data/01_raw/pdf -n 1000    # com janela visível, por causa do WAF
+cd ..
+```
+
+Depois, rode as etapas seguintes sem argumentos:
+
+```bash
+python scripts/01_ocr.py
+python scripts/02_clean.py
+python scripts/03_chunk.py
+python scripts/04_index.py
+```
+
+A limpeza e o chunking avisam quando um arquivo parece ter ficado sem OCR. Nesse caso, apague o `.txt` dele em `data/02_processed/ocr/` e rode a etapa 1 de novo.
+
+### Buscar
+
+```bash
+python -m jurismatch.api                       # front em http://127.0.0.1:8000
+python scripts/05_search.py "consulta" --k 10  # linha de comando
+```
+
+| Opção | Valores | Função |
+|---|---|---|
+| `--k` | 1 a 100 no front | Petições no resultado. |
+| `--modo` | `hibrido`, `denso`, `lexical` | Semântico + palavras, só semântico ou só BM25. |
+| `--classe` | `ADI`, `ADC`, `ADO`, `ADPF` | Filtra por classe. |
+| `--limiar` | 0 a 1 (0,5 a 1 no front) | Relevância mínima do reranker. Padrão 0,8. |
+| `--sem-rerank` | | Só a busca híbrida, sem o cross-encoder. Bem mais rápido. |
+| `--dir-indice` | pasta | Usa outro índice. |
+
+O front e a linha de comando mostram o tempo de cada consulta, separado em recuperação, reranking e total.
+
+### Trocar o modelo de embedding
+
+O modelo padrão fica em `MODELO_EMBEDDING`, em `src/jurismatch/config.py`, e os prefixos de cada modelo estão na tabela `PREFIXOS_POR_MODELO`. Para testar outro modelo sem mexer no índice principal, gere um índice em outra pasta:
+
+```bash
+python scripts/03_chunk.py --modelo Qwen/Qwen3-Embedding-0.6B --saida data/qwen3/chunks.parquet --documentos data/qwen3/documentos.csv
+python scripts/04_index.py --modelo Qwen/Qwen3-Embedding-0.6B --chunks data/qwen3/chunks.parquet --dir-indice vectorstore_qwen3
+python scripts/05_search.py "consulta" --dir-indice vectorstore_qwen3
+```
+
+A busca lê o modelo do `manifesto.json` do índice, então a consulta é sempre transformada em vetor pelo mesmo modelo dos trechos. Com `--reaproveitar <outros índices>`, a indexação usa os vetores já calculados por outros índices do mesmo modelo. O embedder usa GPU quando existe, o que permite gerar o índice no Colab e trazer a pasta pronta.
 
 ## Interface web (PWA)
 
@@ -147,7 +200,9 @@ Além disso, o **token expira**. No meio de uma sequência de downloads, o 202 v
 
 ## Resultado até agora
 
-As rodadas já executadas cobriram as **100 primeiras linhas da planilha**:
+O corpus atual tem 664 PDFs (656 petições, cerca de 740 MB). Eles vieram das primeiras linhas da planilha base e de duas planilhas de casos de teste, uma delas com 432 ADIs marcadas quanto à impugnação de medida provisória. Os PDFs ficam em `data/01_raw/pdf/`, fora do controle de versão.
+
+As medições abaixo são da **primeira rodada**, que cobriu as 100 primeiras linhas da planilha:
 
 | Resultado | Processos |
 |---|---|
@@ -155,7 +210,7 @@ As rodadas já executadas cobriram as **100 primeiras linhas da planilha**:
 | Sem peça eletrônica | 3 |
 | Erros | 0 |
 
-São 102 arquivos PDF e cerca de 172 MB, porque algumas petições vêm divididas em partes. Os três processos sem peça eletrônica são ADI 3159, ADI 3596 e ADI 4245, todos anteriores a 2010. Os PDFs ficam em `peticoes_processos_estruturantes/`, fora do controle de versão. A coleta das 906 linhas continua em rodadas sucessivas com `--inicio`.
+São 102 arquivos PDF e cerca de 172 MB, porque algumas petições vêm divididas em partes. Os três processos sem peça eletrônica são ADI 3159, ADI 3596 e ADI 4245, todos anteriores a 2010. A coleta das 906 linhas continua em rodadas sucessivas com `--inicio`.
 
 Em 90 acessos seguidos não apareceu nenhum aviso de renovação de token do WAF, o que indica que o perfil persistente do Chromium segura bem o cookie entre requisições.
 
@@ -183,7 +238,7 @@ Ou seja, **42% das páginas não têm camada de texto** e precisam de OCR. A dig
 
 Transforma os PDFs em arquivos de texto, um por petição, com OCR acionado apenas nas páginas que precisam. O detalhamento está no [README da etapa 2](extracao_texto_peticoes/README.md).
 
-Resultado sobre os 102 arquivos já coletados:
+Resultado na primeira rodada, com 102 arquivos. No corpus atual, de 664 arquivos, são 22.468 páginas, das quais 2.759 por OCR.
 
 | Medida | Valor |
 |---|---|
@@ -196,17 +251,20 @@ Resultado sobre os 102 arquivos já coletados:
 
 A decisão entre texto nativo e OCR é tomada página a página, combinando quantidade de texto com área coberta por imagem. Cada página do arquivo de saída é marcada com a origem do texto, o que permite saber depois quais trechos vieram de OCR e são menos confiáveis.
 
+O carimbo de assinatura digital que o STF imprime em toda página ("Documento assinado digitalmente conforme MP n° 2.200-2/2001…") tem mais de 100 caracteres e é descontado antes da contagem. Sem isso, uma página escaneada parecia ter texto nativo e o OCR era pulado. Foi o que aconteceu com ADI 4271, 4376 e 4393, já reprocessadas.
+
 ---
 
 # Etapas 3 a 5 — Chunking, indexação e busca
 
 Código em `src/jurismatch/`, com os parâmetros centralizados em `src/jurismatch/config.py`. O estudo que justifica as escolhas abaixo está em `docs/pesquisa/`.
 
-- **Chunking (etapa 3).** Os textos são cortados por seção e parágrafo, com alvo de 350 tokens e teto de 480. Cada chunk recebe um cabeçalho no formato `ADI 1234 | seção`. A saída é `dados/chunks.parquet`, e `dados/relatorio_chunks.csv` resume o que foi gerado por arquivo.
-- **Embeddings (etapa 4).** Modelo `intfloat/multilingual-e5-base`, com os prefixos `query: ` e `passage: ` e vetores normalizados.
-- **Índice vetorial (etapa 4).** FAISS `IndexFlatIP`, ou seja, busca exata. Os metadados ficam em Parquet.
+- **Limpeza (etapa 2).** Remove carimbos de assinatura, números de página, cabeçalhos repetidos e linhas sem conteúdo. Os marcadores de página continuam no texto, para cada trecho saber de que página veio.
+- **Chunking (etapa 3).** Os textos são cortados por seção e parágrafo, com alvo de 350 tokens e teto de 480, contados com o tokenizador do modelo de embedding. Cada chunk recebe um cabeçalho no formato `ADI 1234 | seção`. A saída é `data/03_chunks/chunks.parquet`, e `metadata/documentos.csv` resume cada petição.
+- **Embeddings (etapa 4).** Modelo `intfloat/multilingual-e5-base` (768 dimensões), com os prefixos `query: ` e `passage: ` e vetores normalizados.
+- **Índice vetorial (etapa 4).** FAISS `IndexFlatIP`, ou seja, busca exata: a consulta é comparada com todos os trechos. Com cerca de 40 mil trechos, isso leva milissegundos e não perde nenhum resultado.
 - **Índice lexical (etapa 4).** BM25 (`bm25s`) com stopwords e stemmer do português.
-- **Ranking (etapa 5).** Em cada sistema, a nota de uma petição é a do seu melhor chunk (MaxP). Os dois rankings são fundidos por RRF (k = 60).
+- **Ranking (etapa 5).** Os rankings semântico e lexical dos trechos são fundidos por RRF (k = 60). Os 30 melhores trechos vão para o reranker `BAAI/bge-reranker-v2-m3`, um cross-encoder que dá a cada um uma nota de relevância de 0 a 1. Cada petição vale o seu melhor trecho (MaxP), e só entram as que passam do limiar (0,8 por padrão). Sem o reranker, a petição vale o melhor trecho em cada sistema e os rankings de petições são fundidos por RRF.
 
 ---
 
@@ -222,14 +280,21 @@ Uma observação metodológica que saiu dessa medição: avaliar só por erro de
 
 # Limitações conhecidas
 
-- `ADI_4271`, `ADI_4376` e `ADI_4393` foram extraídas sem OCR (só o carimbo de assinatura) e precisam ser reprocessadas na etapa 2. `dados/relatorio_chunks.csv` lista os arquivos nessa situação.
+- **Não há métrica de qualidade da busca.** Ainda não existe gabarito de consultas com as petições relevantes, então precisão, recall e NDCG não são medidos. A coluna `MP` da planilha de casos de teste serve de gabarito para consultas sobre medida provisória.
+- **Consultas genéricas diluem a busca semântica.** Em "ação direta de inconstitucionalidade por medida provisória", a primeira parte descreve todo o corpus e pesa no vetor da consulta. O modo lexical e o reranker compensam parte disso.
+- **O reranker limita o resultado a 30 trechos.** Com ele ligado, o resultado nunca passa de 30 petições, mesmo com k maior. O cross-encoder leva cerca de 1 s por trecho em CPU.
+- **O link do PDF aponta sempre para `data/01_raw/pdf/`**, mesmo quando a busca usa outro índice.
+- **O texto de OCR não é confiável palavra a palavra**, sobretudo em documentos datilografados e tabelas.
 - Anexos digitalizados e notas de rodapé não são separados do corpo da petição.
 - A detecção de seções é heurística (títulos numerados).
+- A `ADI_4966` aparece no aviso de "voltar para o OCR" da limpeza, mas é um falso alarme: a página sinalizada é só de assinatura.
 
 # Próximos passos
 
-- Completar a coleta das 906 linhas da planilha e reexecutar extração, chunking e indexação sobre o corpus inteiro.
-- Reprocessar com OCR os arquivos marcados em `dados/relatorio_chunks.csv`.
+- Montar um gabarito de consultas e um script de avaliação (recall@k, precisão@k, MRR e NDCG), com média e p95 dos tempos.
+- Trazer os metadados da planilha do STF (Ramo do Direito, Assuntos, Legislação, Situação da decisão final) para os trechos e usá-los como filtro. O tipo de norma impugnada, extraído da coluna Legislação, é o candidato mais útil.
+- Comparar o `e5-base` com `BAAI/bge-m3` e `Qwen/Qwen3-Embedding-0.6B` usando o gabarito.
+- Completar a coleta das 906 linhas da planilha base.
 
 # Estrutura do repositório
 
@@ -237,30 +302,36 @@ Uma observação metodológica que saiu dessa medição: avaliar só por erro de
 JurisMatch/
 ├── README.md                                    # este arquivo
 ├── pyproject.toml                               # pacote jurismatch e dependências
-├── scrapping_processos_controle_concentrado/    # etapa 1: coleta
-│   ├── README.md                                # guia de instalação e execução
-│   ├── baixar_peticoes_stf.py                   # script de coleta
-│   ├── base_inicial_...stf_2026_09_08.xlsx      # planilha de entrada (906 processos)
-│   ├── peticoes_processos_estruturantes/        # saída: PDFs + log (ignorada no git)
-│   └── .perfil_chromium_stf/                    # perfil do Chromium (ignorada no git)
-├── extracao_texto_peticoes/                     # etapa 2: extração de texto
-│   ├── README.md                                # critério, desempenho e limitações
-│   ├── extrair_texto_peticoes.py                # PyMuPDF + OCR por página
-│   └── texto_peticoes/                          # saída: .txt + log (ignorada no git)
-├── src/jurismatch/                              # etapas 3 a 5
-│   ├── config.py                                # parâmetros de chunking, modelo e ranking
-│   ├── pipeline_chunks.py                       # etapa 3: limpeza e chunking
+├── scripts/                                     # uma entrada por etapa: 01_ocr ... 05_search (00_download está vazio)
+├── src/jurismatch/                              # código das etapas 2 a 5
+│   ├── config.py                                # caminhos, modelos, prefixos, chunking e ranking
+│   ├── paginas.py                               # leitura dos .txt e identificação das petições
+│   ├── limpeza.py, pipeline_limpeza.py          # etapa 2: limpeza
+│   ├── chunking.py, pipeline_chunks.py          # etapa 3: chunking e metadados
+│   ├── embeddings.py                            # wrapper do modelo de embedding
 │   ├── indexar.py                               # etapa 4: embeddings, FAISS e BM25
-│   ├── busca.py                                 # etapa 5: busca híbrida
+│   ├── lexical.py                               # BM25
+│   ├── reranker.py                              # cross-encoder
+│   ├── busca.py                                 # etapa 5: busca híbrida, reranking e tempos
 │   └── api.py                                   # API FastAPI que serve a busca, os PDFs e o PWA
 ├── app/
 │   ├── web/                                     # PWA: HTML, CSS e JS puro, manifest e service worker
 │   └── molde.html                               # ferramenta: o app dentro de um iPhone 17 Pro Max
 ├── scripts/gerar_icones_pwa.py                  # gera os ícones PNG do PWA
-├── dados/                                       # chunks, relatório e índice gerados
+├── data/
+│   ├── 01_raw/pdf/                              # PDFs baixados e log_download.csv (ignorada no git)
+│   ├── 02_processed/ocr/                        # texto extraído, com marcadores de página
+│   ├── 02_processed/clean/                      # texto limpo
+│   └── 03_chunks/                               # chunks.parquet e relatório (ignorada no git)
+├── metadata/documentos.csv                      # uma linha por petição
+├── vectorstore/                                 # índice usado pelo front e pela busca (ignorada no git)
+├── scrapping_processos_controle_concentrado/    # coleta
+│   ├── README.md                                # guia de instalação e execução
+│   ├── baixar_peticoes_stf.py                   # download das petições (Playwright)
+│   ├── preparar_planilha.py                     # converte planilha de classe+número para o download
+│   └── base_inicial_...stf_2026_09_08.xlsx      # planilha base (906 processos)
+├── extracao_texto_peticoes/                     # documentação e versão original do OCR
+├── tests/                                       # pytest
 ├── docs/pesquisa/                               # estudo que embasa as escolhas de stack
-└── metricas/                                    # avaliação e benchmark
-    ├── README.md                                # o que cada métrica significa
-    ├── metricas_extracao.py                     # pontua qualquer saída de extração
-    └── benchmark_ocr.py                         # CER, WER e F1 contra gabarito
+└── metricas/                                    # avaliação da extração e benchmark do OCR
 ```

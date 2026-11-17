@@ -25,7 +25,10 @@ function gravar(chave, valor) {
   }
 }
 
-export const OPCOES_PADRAO = { k: 5, modo: "hibrido", classe: null, rerank: true, limiar: 0.8 };
+export const OPCOES_PADRAO = {
+  k: 5, modo: "hibrido", classe: null, rerank: true, limiar: 0.8, impugna_mp: null, pedido_liminar: null,
+};
+const filtroBooleano = (v) => (typeof v === "boolean" ? v : null);
 const MODOS = ["hibrido", "denso", "lexical"];
 const CLASSES = ["ADI", "ADC", "ADO", "ADPF"];
 
@@ -40,6 +43,8 @@ export function normalizarOpcoes(o) {
     classe: CLASSES.includes(obj.classe) ? obj.classe : null,
     rerank: typeof obj.rerank === "boolean" ? obj.rerank : OPCOES_PADRAO.rerank,
     limiar: Number.isFinite(limiar) ? Math.min(1, Math.max(0.5, Math.round(limiar * 20) / 20)) : OPCOES_PADRAO.limiar,
+    impugna_mp: filtroBooleano(obj.impugna_mp),
+    pedido_liminar: filtroBooleano(obj.pedido_liminar),
   };
 }
 

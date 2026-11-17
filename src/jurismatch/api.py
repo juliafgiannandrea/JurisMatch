@@ -19,7 +19,7 @@ from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field, field_validator
 
 from jurismatch import config
-from jurismatch.busca import MODOS, Buscador, modelo_do_indice
+from jurismatch.busca import FILTROS_BOOLEANOS, MODOS, Buscador, modelo_do_indice
 
 CLASSES = ("ADI", "ADC", "ADO", "ADPF")
 NOME_PDF = re.compile(r"^[A-Za-z0-9_.-]+\.pdf$")
@@ -33,6 +33,8 @@ class Consulta(BaseModel):
     classe: Literal["ADI", "ADC", "ADO", "ADPF"] | None = None
     rerank: bool = True
     limiar: float = Field(default=config.LIMIAR_RERANK, ge=0.0, le=1.0)
+    impugna_mp: bool | None = None  # None = não filtra
+    pedido_liminar: bool | None = None
 
     @field_validator("consulta", mode="before")
     @classmethod
@@ -85,7 +87,7 @@ def criar_app(
         fabrica_buscador = lambda: Buscador(dir_indice)  # noqa: E731
 
     app = FastAPI(title="JurisMatch", docs_url=None, redoc_url=None)
-    estado: dict = {"buscador": None, "contagens": None}
+    estado: dict = {"buscador": None, "contagens": None, "filtros": None}
     trava_carga = threading.Lock()
     trava_busca = threading.Lock()
     dir_pdf_real = Path(dir_pdf).resolve()
@@ -99,6 +101,15 @@ def criar_app(
             chunks = pd.read_parquet(Path(dir_indice) / "chunks.parquet", columns=["doc_id"])
             estado["contagens"] = (int(chunks["doc_id"].nunique()), len(chunks))
         return estado["contagens"]
+
+    def filtros_disponiveis() -> list[str]:
+        """Colunas de classificação presentes no índice (índices antigos não têm)."""
+        if estado["filtros"] is None:
+            import pyarrow.parquet as pq
+
+            colunas = pq.read_schema(Path(dir_indice) / "chunks.parquet").names
+            estado["filtros"] = [c for c in FILTROS_BOOLEANOS if c in colunas]
+        return estado["filtros"]
 
     def buscador() -> Buscador:
         with trava_carga:
@@ -128,18 +139,26 @@ def criar_app(
             "k_max": 100,
             "modos": list(MODOS),
             "classes": list(CLASSES),
+            "filtros": filtros_disponiveis() if pronto else [],
         }
 
     @app.post("/api/buscar")
     def buscar(corpo: Consulta):
         if not indice_pronto():
             raise HTTPException(status_code=503, detail=MSG_SEM_INDICE)
+        filtros = {"impugna_mp": corpo.impugna_mp, "pedido_liminar": corpo.pedido_liminar}
+        faltam = [c for c, v in filtros.items() if v is not None and c not in filtros_disponiveis()]
+        if faltam:
+            raise HTTPException(
+                status_code=409,
+                detail="O índice não tem os filtros de classificação. Rode scripts/03_chunk.py e scripts/04_index.py.",
+            )
         inicio = time.perf_counter()
         b = buscador()
         with trava_busca:
             brutos = b.buscar(
                 corpo.consulta, k=corpo.k, modo=corpo.modo, classe=corpo.classe,
-                rerank=corpo.rerank, limiar=corpo.limiar,
+                rerank=corpo.rerank, limiar=corpo.limiar, filtros=filtros,
             )
             tempos = dict(getattr(b, "ultimos_tempos", {}))
         resultados = []

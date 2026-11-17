@@ -18,6 +18,7 @@ from jurismatch import config
 from jurismatch.lexical import IndiceLexical
 
 MODOS = ("hibrido", "denso", "lexical")
+FILTROS_BOOLEANOS = ("impugna_mp", "pedido_liminar")  # colunas de classificacao.py
 
 
 def posicoes(scores: pd.Series) -> pd.Series:
@@ -89,7 +90,9 @@ class Buscador:
         rerank: bool = False,
         limiar: float = config.LIMIAR_RERANK,
         candidatos: int = config.CANDIDATOS_RERANK,
+        filtros: dict[str, object] | None = None,
     ) -> list[dict]:
+        """filtros: {coluna dos chunks: valor}, ex. {"impugna_mp": True}. None ou valor None não filtra."""
         if modo not in MODOS:
             raise ValueError(f"modo deve ser um de {MODOS}")
         inicio = time.perf_counter()
@@ -103,6 +106,12 @@ class Buscador:
             colunas.append("lexical")
         if classe:
             tabela = tabela[self.chunks["classe"] == classe]
+        for coluna, valor in (filtros or {}).items():
+            if valor is None:
+                continue
+            if coluna not in self.chunks:
+                raise ValueError(f"o índice não tem a coluna {coluna!r}; refaça o chunking e a indexação")
+            tabela = tabela[self.chunks.loc[tabela.index, coluna] == valor]
         # Cosseno de cada chunk com a consulta (só existe quando o ramo denso rodou)
         similaridade = tabela["denso"] if "denso" in tabela else None
 
@@ -173,6 +182,7 @@ class Buscador:
                     "pagina": int(chunk["pagina_inicio"]),
                     "link_pdf": f"{(config.DIR_PDF / chunk['arquivo_pdf']).as_posix()}#page={int(chunk['pagina_inicio'])}",
                     "metodo_extracao": chunk["metodo_extracao"],
+                    **{c: bool(chunk[c]) for c in FILTROS_BOOLEANOS if c in chunk.index and pd.notna(chunk[c])},
                 }
             )
         return resultados
@@ -193,6 +203,8 @@ def main() -> None:
     parser.add_argument("--modo", choices=MODOS, default="hibrido")
     parser.add_argument("--classe", choices=("ADI", "ADC", "ADO", "ADPF"))
     parser.add_argument("--dir-indice", type=Path, default=config.DIR_INDICE)
+    parser.add_argument("--impugna-mp", choices=("sim", "nao"), help="só petições contra (ou não contra) medida provisória")
+    parser.add_argument("--liminar", choices=("sim", "nao"), help="só petições com (ou sem) pedido de liminar")
     parser.add_argument("--sem-rerank", action="store_true", help="só a busca híbrida, sem cross-encoder nem limiar")
     parser.add_argument("--limiar", type=float, default=config.LIMIAR_RERANK, help="nota mínima do reranker (0 a 1)")
     args = parser.parse_args()
@@ -200,7 +212,11 @@ def main() -> None:
     rerank = not args.sem_rerank
     buscador = Buscador(args.dir_indice)
     resultados = buscador.buscar(
-        args.consulta, k=args.k, modo=args.modo, classe=args.classe, rerank=rerank, limiar=args.limiar
+        args.consulta, k=args.k, modo=args.modo, classe=args.classe, rerank=rerank, limiar=args.limiar,
+        filtros={
+            "impugna_mp": None if args.impugna_mp is None else args.impugna_mp == "sim",
+            "pedido_liminar": None if args.liminar is None else args.liminar == "sim",
+        },
     )
     print(formatar_tempos(buscador.ultimos_tempos))
     if not resultados:

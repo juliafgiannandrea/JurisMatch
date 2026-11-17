@@ -125,3 +125,31 @@ def test_formatar_tempos_omite_reranking_quando_zero():
     assert formatar_tempos({"recuperacao": 0.25, "reranking": 0.0, "total": 0.25}) == (
         "Tempo: Recuperação 0.25 s · Total 0.25 s"
     )
+
+
+@pytest.fixture
+def buscador_classificado(tmp_path, chunks_exemplo, embedder_falso):
+    chunks = chunks_exemplo.copy()
+    chunks["impugna_mp"] = chunks["doc_id"] == "ADI_2"
+    chunks["pedido_liminar"] = True
+    construir_indice(chunks, embedder_falso, tmp_path)
+    return Buscador(tmp_path, embedder=embedder_falso)
+
+
+def test_buscar_filtra_por_classificacao(buscador_classificado):
+    consulta = "procedência da ação inconstitucionalidade da norma"
+    so_mp = buscador_classificado.buscar(consulta, k=10, filtros={"impugna_mp": True})
+    assert [r["doc_id"] for r in so_mp] == ["ADI_2"]
+    assert so_mp[0]["impugna_mp"] is True and so_mp[0]["pedido_liminar"] is True
+    sem_mp = buscador_classificado.buscar(consulta, k=10, filtros={"impugna_mp": False})
+    assert "ADI_2" not in {r["doc_id"] for r in sem_mp} and sem_mp
+
+
+def test_buscar_filtro_none_nao_filtra(buscador_classificado):
+    consulta = "procedência da ação inconstitucionalidade da norma"
+    assert buscador_classificado.buscar(consulta, k=10, filtros={"impugna_mp": None}) == buscador_classificado.buscar(consulta, k=10)
+
+
+def test_buscar_filtro_em_indice_sem_a_coluna_da_erro(buscador):
+    with pytest.raises(ValueError, match="impugna_mp"):
+        buscador.buscar("norma", filtros={"impugna_mp": True})
