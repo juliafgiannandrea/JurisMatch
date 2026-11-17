@@ -1,0 +1,240 @@
+<!doctype html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Molde iPhone 17 Pro Max</title>
+<style>
+  /* Ferramenta de desenvolvimento: mostra o PWA dentro de um iPhone 17 Pro Max (viewport 440 x 956 pt).
+     Abra este arquivo direto no navegador com o servidor rodando (python -m jurismatch.api --port 8010). */
+  :root {
+    --tela-l: 440px;
+    --tela-a: 956px;
+    --borda: 14px;          /* moldura preta entre a tela e o aro */
+    --aro: 4px;             /* aro de alumínio */
+    --raio-tela: 62px;
+    --topo-seguro: 62px;    /* barra de status + Dynamic Island */
+    --base-segura: 34px;    /* indicador de início */
+    --cor-aro: #c86a2c;     /* laranja cósmico */
+    --fundo: #e9e6e1;
+    --texto: #2b2a28;
+    --suave: #6f6b65;
+  }
+  @media (prefers-color-scheme: dark) {
+    :root { --fundo: #161615; --texto: #ecebe8; --suave: #9d9a94; }
+  }
+  * { box-sizing: border-box; }
+  html, body { height: 100%; margin: 0; }
+  body {
+    background: var(--fundo);
+    color: var(--texto);
+    font: 14px/1.4 system-ui, -apple-system, "Segoe UI", sans-serif;
+    display: grid;
+    grid-template-rows: auto 1fr;
+    overflow: hidden;
+  }
+
+  /* Barra de controles */
+  .controles {
+    display: flex; flex-wrap: wrap; gap: 8px 14px; align-items: center;
+    padding: 10px 16px; border-bottom: 1px solid color-mix(in srgb, var(--texto) 12%, transparent);
+  }
+  .controles strong { font-weight: 600; margin-right: 4px; }
+  .controles label { display: inline-flex; gap: 6px; align-items: center; color: var(--suave); }
+  .controles input[type=text] {
+    width: 260px; padding: 6px 8px; border-radius: 6px; font: inherit; color: var(--texto);
+    background: transparent; border: 1px solid color-mix(in srgb, var(--texto) 25%, transparent);
+  }
+  .controles button {
+    padding: 6px 12px; border-radius: 6px; font: inherit; cursor: pointer; color: var(--texto);
+    background: color-mix(in srgb, var(--texto) 8%, transparent);
+    border: 1px solid color-mix(in srgb, var(--texto) 18%, transparent);
+  }
+  .controles button:hover { background: color-mix(in srgb, var(--texto) 14%, transparent); }
+  .cores { display: inline-flex; gap: 6px; }
+  .cores button { width: 22px; height: 22px; padding: 0; border-radius: 50%; }
+  .cores button[aria-pressed=true] { outline: 2px solid var(--texto); outline-offset: 2px; }
+  .medida { color: var(--suave); font-variant-numeric: tabular-nums; margin-left: auto; }
+
+  /* Palco: centraliza e escala o aparelho para caber na janela */
+  .palco { display: grid; place-items: center; overflow: hidden; padding: 24px; }
+  .escala { transform-origin: center center; }
+
+  .aparelho {
+    position: relative;
+    width: calc(var(--tela-l) + 2 * (var(--borda) + var(--aro)));
+    height: calc(var(--tela-a) + 2 * (var(--borda) + var(--aro)));
+    border-radius: calc(var(--raio-tela) + var(--borda) + var(--aro));
+    padding: var(--aro);
+    background:
+      linear-gradient(135deg, color-mix(in srgb, var(--cor-aro) 70%, white) 0%, var(--cor-aro) 22%,
+        color-mix(in srgb, var(--cor-aro) 75%, black) 50%, var(--cor-aro) 78%, color-mix(in srgb, var(--cor-aro) 70%, white) 100%);
+    box-shadow: 0 40px 80px -30px rgba(0,0,0,.45), 0 0 0 1px rgba(0,0,0,.25);
+  }
+  /* Botões laterais */
+  .aparelho::before, .aparelho::after, .botao {
+    content: ""; position: absolute; width: 4px; border-radius: 2px; background: var(--cor-aro);
+    filter: brightness(.85);
+  }
+  .aparelho::before { left: -3px; top: 200px; height: 34px; }            /* ação */
+  .aparelho::after  { left: -3px; top: 262px; height: 66px; }            /* volume + */
+  .botao.vol-menos  { left: -3px; top: 344px; height: 66px; }
+  .botao.lateral    { right: -3px; top: 290px; height: 104px; }
+  .botao.camera     { right: -3px; top: 560px; height: 58px; filter: brightness(.7); } /* controle da câmera */
+
+  .moldura {
+    width: 100%; height: 100%; padding: var(--borda); background: #050505;
+    border-radius: calc(var(--raio-tela) + var(--borda));
+  }
+  .tela {
+    position: relative; width: var(--tela-l); height: var(--tela-a);
+    border-radius: var(--raio-tela); overflow: hidden; background: #fff;
+    display: grid; grid-template-rows: var(--topo-seguro) 1fr var(--base-segura);
+  }
+  .tela.cheia { grid-template-rows: 1fr; }
+  .tela.cheia .status, .tela.cheia .base { display: none; }
+
+  .status {
+    display: flex; justify-content: space-between; align-items: center;
+    padding: 0 34px 0 52px; font: 600 17px/1 -apple-system, "SF Pro Text", system-ui, sans-serif;
+    color: #000; background: var(--cor-status, #fff);
+  }
+  .status.escuro { color: #fff; }
+  .icones { display: inline-flex; gap: 6px; align-items: center; }
+  .icones svg { display: block; }
+  .ilha {
+    position: absolute; top: 11px; left: 50%; transform: translateX(-50%);
+    width: 126px; height: 37px; border-radius: 20px; background: #000; z-index: 3;
+  }
+  .base {
+    display: grid; place-items: center; background: var(--cor-status, #fff);
+  }
+  .base span { width: 146px; height: 5px; border-radius: 3px; background: #000; opacity: .85; }
+  .base.escuro span { background: #fff; }
+
+  iframe { width: 100%; height: 100%; border: 0; display: block; background: #fff; }
+
+  .aviso {
+    position: absolute; inset: var(--topo-seguro) 0 var(--base-segura); display: none;
+    place-content: center; text-align: center; padding: 32px; color: #333; background: #fafafa;
+    font-size: 15px;
+  }
+  .aviso.visivel { display: grid; }
+  .aviso code { background: #eee; padding: 2px 6px; border-radius: 4px; }
+
+  .rodape { position: fixed; bottom: 8px; left: 16px; color: var(--suave); font-size: 12px; }
+</style>
+</head>
+<body>
+  <div class="controles">
+    <strong>iPhone 17 Pro Max</strong>
+    <label>URL <input id="url" type="text" value="http://127.0.0.1:8010/" spellcheck="false"></label>
+    <button id="carregar" type="button">Abrir</button>
+    <button id="recarregar" type="button" title="Atalho: R">Recarregar</button>
+    <label><input id="cheia" type="checkbox"> Tela cheia (sem barras)</label>
+    <label><input id="escuro" type="checkbox"> Barras escuras</label>
+    <label><input id="ajustar" type="checkbox" checked> Caber na janela</label>
+    <span class="cores" aria-label="Cor do aparelho">
+      <button type="button" data-cor="#c86a2c" aria-pressed="true" title="Laranja cósmico" style="background:#c86a2c"></button>
+      <button type="button" data-cor="#2f3d55" aria-pressed="false" title="Azul profundo" style="background:#2f3d55"></button>
+      <button type="button" data-cor="#d9d8d4" aria-pressed="false" title="Prateado" style="background:#d9d8d4"></button>
+    </span>
+    <span class="medida" id="medida"></span>
+  </div>
+
+  <div class="palco" id="palco">
+    <div class="escala" id="escala">
+      <div class="aparelho">
+        <span class="botao vol-menos"></span><span class="botao lateral"></span><span class="botao camera"></span>
+        <div class="moldura">
+          <div class="tela" id="tela">
+            <div class="ilha"></div>
+            <div class="status" id="status">
+              <span id="hora">9:41</span>
+              <span class="icones" aria-hidden="true">
+                <svg width="19" height="12" viewBox="0 0 19 12" fill="currentColor"><rect x="0" y="8" width="3.2" height="4" rx="1"/><rect x="5.2" y="5.5" width="3.2" height="6.5" rx="1"/><rect x="10.4" y="3" width="3.2" height="9" rx="1"/><rect x="15.6" y="0" width="3.2" height="12" rx="1"/></svg>
+                <svg width="17" height="12" viewBox="0 0 17 12" fill="currentColor"><path d="M8.5 2.3c2.4 0 4.6.9 6.2 2.5l1.2-1.2A10.4 10.4 0 0 0 8.5.6 10.4 10.4 0 0 0 1.1 3.6l1.2 1.2A8.7 8.7 0 0 1 8.5 2.3Zm0 3.4c1.5 0 2.8.6 3.8 1.5l1.2-1.2a7 7 0 0 0-10 0l1.2 1.2c1-.9 2.3-1.5 3.8-1.5Zm0 3.4c.6 0 1.1.2 1.5.6L8.5 11.2 7 9.7c.4-.4.9-.6 1.5-.6Z"/></svg>
+                <svg width="27" height="13" viewBox="0 0 27 13"><rect x=".5" y=".5" width="23" height="12" rx="3.5" fill="none" stroke="currentColor" opacity=".4"/><rect x="2" y="2" width="20" height="9" rx="2" fill="currentColor"/><path d="M25 4.5v4c.8-.3 1.3-1.1 1.3-2s-.5-1.7-1.3-2Z" fill="currentColor" opacity=".45"/></svg>
+              </span>
+            </div>
+            <iframe id="app" title="Aplicativo no iPhone" src="about:blank"></iframe>
+            <div class="base" id="base"><span></span></div>
+            <div class="aviso" id="aviso">
+              <div>
+                <p><strong>Não consegui abrir o app.</strong></p>
+                <p>Suba o servidor na raiz do projeto:</p>
+                <p><code>python -m jurismatch.api --port 8010</code></p>
+                <p>e clique em Recarregar.</p>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="rodape">Área útil do app: 440 x 860 pt (fora a barra de status e o indicador de início). R recarrega.</div>
+
+<script>
+  const $ = (id) => document.getElementById(id);
+  const iframe = $("app"), url = $("url"), tela = $("tela");
+
+  function abrir() {
+    $("aviso").classList.remove("visivel");
+    const alvo = url.value.trim() || "http://127.0.0.1:8010/";
+    // Testa se o servidor responde antes de pôr no iframe (só para mostrar o aviso)
+    fetch(alvo, { mode: "no-cors", cache: "no-store" })
+      .then(() => { iframe.src = alvo; })
+      .catch(() => { iframe.src = "about:blank"; $("aviso").classList.add("visivel"); });
+  }
+  function recarregar() {
+    try { iframe.contentWindow.location.reload(); } catch { abrir(); }
+    if (iframe.src === "about:blank") abrir();
+  }
+
+  function ajustar() {
+    const escala = $("escala"), palco = $("palco");
+    const aparelho = escala.firstElementChild;
+    if (!$("ajustar").checked) { escala.style.transform = ""; return mostrarMedida(1); }
+    const s = Math.min(1, (palco.clientHeight - 48) / aparelho.offsetHeight, (palco.clientWidth - 48) / aparelho.offsetWidth);
+    escala.style.transform = `scale(${s})`;
+    mostrarMedida(s);
+  }
+  function mostrarMedida(s) {
+    const util = tela.classList.contains("cheia") ? "440 x 956" : "440 x 860";
+    $("medida").textContent = `viewport ${util} · zoom ${Math.round(s * 100)}%`;
+  }
+
+  function relogio() {
+    const d = new Date();
+    $("hora").textContent = `${d.getHours()}:${String(d.getMinutes()).padStart(2, "0")}`;
+  }
+
+  $("carregar").onclick = abrir;
+  $("recarregar").onclick = recarregar;
+  url.addEventListener("keydown", (e) => { if (e.key === "Enter") abrir(); });
+  $("cheia").onchange = (e) => { tela.classList.toggle("cheia", e.target.checked); ajustar(); };
+  $("escuro").onchange = (e) => {
+    for (const el of [$("status"), $("base")]) el.classList.toggle("escuro", e.target.checked);
+    tela.style.setProperty("--cor-status", e.target.checked ? "#111" : "#fff");
+  };
+  $("ajustar").onchange = ajustar;
+  document.querySelectorAll(".cores button").forEach((b) => {
+    b.onclick = () => {
+      document.querySelectorAll(".cores button").forEach((x) => x.setAttribute("aria-pressed", x === b));
+      document.documentElement.style.setProperty("--cor-aro", b.dataset.cor);
+    };
+  });
+  document.addEventListener("keydown", (e) => {
+    if ((e.key === "r" || e.key === "R") && e.target === document.body) recarregar();
+  });
+  addEventListener("resize", ajustar);
+
+  // O app segue o tema do sistema; as barras do iPhone acompanham por padrão
+  if (matchMedia("(prefers-color-scheme: dark)").matches) { $("escuro").checked = true; $("escuro").onchange({ target: $("escuro") }); }
+
+  relogio(); setInterval(relogio, 15000);
+  ajustar();
+  abrir();
+</script>
+</body>
+</html>

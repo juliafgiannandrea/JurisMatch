@@ -19,7 +19,7 @@ dependencies = [
 
 [project.optional-dependencies]
 dev = ["pytest>=8"]
-app = ["streamlit>=1.36"]
+app = ["fastapi>=0.110", "uvicorn[standard]>=0.29"]
 
 [tool.setuptools.packages.find]
 where = ["src"]

@@ -5,7 +5,7 @@ Busca semântica nas **petições iniciais dos processos de controle concentrado
 O corpus atual tem **656 petições** (588 ADI, 45 ADPF, 20 ADC e 3 ADO), somando 22.468 páginas e 40.526 trechos indexados. A busca roda pela interface web ou pela linha de comando:
 
 ```bash
-streamlit run app/app.py
+python -m jurismatch.api        # front em http://127.0.0.1:8000
 python scripts/05_search.py "liberdade de imprensa e capital estrangeiro" --k 5
 ```
 
@@ -29,7 +29,7 @@ Todas as etapas são incrementais. O download e o OCR pulam os arquivos que já 
 ```bash
 source venv/bin/activate
 pip install torch --index-url https://download.pytorch.org/whl/cpu
-pip install -e ".[dev,app]"
+pip install -e ".[dev,app]"                        # app = fastapi + uvicorn
 sudo apt install tesseract-ocr tesseract-ocr-por      # OCR da etapa 1
 ```
 
@@ -58,7 +58,7 @@ A limpeza e o chunking avisam quando um arquivo parece ter ficado sem OCR. Nesse
 ### Buscar
 
 ```bash
-streamlit run app/app.py                       # front em http://localhost:8501
+python -m jurismatch.api                       # front em http://127.0.0.1:8000
 python scripts/05_search.py "consulta" --k 10  # linha de comando
 ```
 
@@ -84,6 +84,23 @@ python scripts/05_search.py "consulta" --dir-indice vectorstore_qwen3
 ```
 
 A busca lê o modelo do `manifesto.json` do índice, então a consulta é sempre transformada em vetor pelo mesmo modelo dos trechos. Com `--reaproveitar <outros índices>`, a indexação usa os vetores já calculados por outros índices do mesmo modelo. O embedder usa GPU quando existe, o que permite gerar o índice no Colab e trazer a pasta pronta.
+
+## Interface web (PWA)
+
+A interface é um PWA (app web instalável no celular e no desktop), servido por uma API FastAPI que usa o mesmo `Buscador` da linha de comando. Não precisa de Node nem de build: um comando sobe a API e o app.
+
+```bash
+pip install -e ".[app]"                  # fastapi + uvicorn
+python -m jurismatch.api                 # http://127.0.0.1:8000  (--host, --port)
+```
+
+- Precisa do índice em `vectorstore/` (`python -m jurismatch.indexar`). Sem ele o app abre e mostra como montar o índice.
+- No celular (mesma rede): `python -m jurismatch.api --host 0.0.0.0` e abra `http://<ip-do-notebook>:8000`. Para instalar como app de verdade o navegador exige HTTPS fora do `localhost`.
+- Offline, o app abre e mostra a última busca feita. Buscar exige o servidor.
+- `app/molde.html` é uma ferramenta de desenvolvimento: abre o app dentro de um iPhone 17 Pro Max para conferir o layout.
+- Ao mudar arquivos de `app/web/`, suba `VERSAO` em `app/web/sw.js` para os usuários receberem a versão nova.
+
+Rotas da API: `GET /api/status`, `POST /api/buscar`, `GET /api/pdf/{arquivo}`. O contrato está em `docs/superpowers/plans/2026-11-10-frontend-pwa.md`.
 
 ## Testes
 
@@ -285,7 +302,6 @@ Uma observação metodológica que saiu dessa medição: avaliar só por erro de
 JurisMatch/
 ├── README.md                                    # este arquivo
 ├── pyproject.toml                               # pacote jurismatch e dependências
-├── app/app.py                                   # front (Streamlit)
 ├── scripts/                                     # uma entrada por etapa: 01_ocr ... 05_search (00_download está vazio)
 ├── src/jurismatch/                              # código das etapas 2 a 5
 │   ├── config.py                                # caminhos, modelos, prefixos, chunking e ranking
@@ -296,9 +312,14 @@ JurisMatch/
 │   ├── indexar.py                               # etapa 4: embeddings, FAISS e BM25
 │   ├── lexical.py                               # BM25
 │   ├── reranker.py                              # cross-encoder
-│   └── busca.py                                 # etapa 5: busca híbrida, reranking e tempos
+│   ├── busca.py                                 # etapa 5: busca híbrida, reranking e tempos
+│   └── api.py                                   # API FastAPI que serve a busca, os PDFs e o PWA
+├── app/
+│   ├── web/                                     # PWA: HTML, CSS e JS puro, manifest e service worker
+│   └── molde.html                               # ferramenta: o app dentro de um iPhone 17 Pro Max
+├── scripts/gerar_icones_pwa.py                  # gera os ícones PNG do PWA
 ├── data/
-│   ├── 01_raw/pdf/                              # PDFs baixados (ignorada no git)
+│   ├── 01_raw/pdf/                              # PDFs baixados e log_download.csv (ignorada no git)
 │   ├── 02_processed/ocr/                        # texto extraído, com marcadores de página
 │   ├── 02_processed/clean/                      # texto limpo
 │   └── 03_chunks/                               # chunks.parquet e relatório (ignorada no git)
