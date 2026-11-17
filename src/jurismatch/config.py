@@ -15,8 +15,6 @@ ARQ_RELATORIO_CHUNKS = DIR_CHUNKS / "relatorio_chunks.csv"
 
 # Uma linha por petição (gerado por 03_chunk)
 DIR_METADATA = RAIZ / "metadata"
-# Planilha base do STF: a coluna Legislação ajuda a classificar a norma impugnada (classificacao.py)
-ARQ_PLANILHA_BASE = RAIZ / "scrapping_processos_controle_concentrado" / "base_inicial_controle_concentrado_stf_2026_09_08.xlsx"
 ARQ_DOCUMENTOS = DIR_METADATA / "documentos.csv"
 
 # Link oficial do processo no portal do STF (incidente vem do log de download dos PDFs)

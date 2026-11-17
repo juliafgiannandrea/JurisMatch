@@ -37,10 +37,6 @@ const ui = {
   saidaK: $("#saida-k"),
   avisoK: $("#aviso-k"),
   classe: $("#opt-classe"),
-  mp: $("#opt-mp"),
-  liminar: $("#opt-liminar"),
-  campoMp: $("#campo-mp"),
-  campoLiminar: $("#campo-liminar"),
   rerank: $("#opt-rerank"),
   limiar: $("#opt-limiar"),
   saidaLimiar: $("#saida-limiar"),
@@ -61,17 +57,11 @@ const estado = {
 
 /* ------------------------------------------------------------------ opções */
 
-// <select> de filtro booleano: "" = não filtra, "sim" = true, "nao" = false
-const selectParaFiltro = (valor) => (valor === "sim" ? true : valor === "nao" ? false : null);
-const filtroParaSelect = (valor) => (valor === true ? "sim" : valor === false ? "nao" : "");
-
 function lerOpcoesDoFormulario() {
   return normalizarOpcoes({
     k: ui.k.value,
     modo: document.querySelector('input[name="modo"]:checked')?.value,
     classe: ui.classe.value || null,
-    impugna_mp: selectParaFiltro(ui.mp.value),
-    pedido_liminar: selectParaFiltro(ui.liminar.value),
     rerank: ui.rerank.checked,
     limiar: ui.limiar.value,
   });
@@ -82,8 +72,6 @@ function aplicarOpcoesNoFormulario(o) {
   const radio = document.querySelector(`input[name="modo"][value="${o.modo}"]`);
   if (radio) radio.checked = true;
   ui.classe.value = o.classe ?? "";
-  ui.mp.value = filtroParaSelect(o.impugna_mp);
-  ui.liminar.value = filtroParaSelect(o.pedido_liminar);
   ui.rerank.checked = o.rerank;
   ui.limiar.value = o.limiar;
   atualizarRotulosOpcoes(o);
@@ -100,8 +88,6 @@ function atualizarRotulosOpcoes(o) {
     `${o.k} ${o.k === 1 ? "petição" : "petições"}`,
     NOME_MODO[o.modo],
     o.classe ?? null,
-    o.impugna_mp === true ? "contra MP" : o.impugna_mp === false ? "sem MP" : null,
-    o.pedido_liminar === true ? "com liminar" : o.pedido_liminar === false ? "sem liminar" : null,
     o.rerank ? `reranker ${formatar.pct(o.limiar)}` : "sem reranker",
   ].filter(Boolean);
   ui.resumoOpcoes.textContent = partes.join(" · ");
@@ -123,8 +109,6 @@ function travarControles(travado) {
   }
   ui.k.disabled = travado;
   ui.classe.disabled = travado;
-  ui.mp.disabled = travado;
-  ui.liminar.disabled = travado;
   ui.rerank.disabled = travado;
   ui.limiar.disabled = travado || !estado.opcoes.rerank;
   ui.opcoes.classList.toggle("travado", travado);
@@ -410,9 +394,6 @@ function cartao(r, { comRerank, modo, termos, mostrarGrifo }) {
     `${r.arquivo_pdf}, p. ${r.pagina}`, sep(),
     `extração ${r.metodo_extracao}`,
   );
-  if (r.impugna_mp === true) {
-    meta.append(sep(), el("span", { class: "selo", title: "Classificação automática: a petição impugna medida provisória." }, "contra MP"));
-  }
   if (modo !== "lexical" && r.similaridade !== null && r.similaridade !== undefined) {
     meta.append(sep(), el("span", { title: "Similaridade de cosseno entre a consulta e o trecho." }, `similaridade ${formatar.dec(Number(r.similaridade), 2)}`));
   }
@@ -542,10 +523,7 @@ async function buscar(consulta, opcoes = null, { salvarHistorico = true } = {}) 
 
   try {
     const resposta = await api.buscar(
-      {
-        consulta, k: o.k, modo: o.modo, classe: o.classe, rerank: o.rerank, limiar: o.limiar,
-        impugna_mp: o.impugna_mp, pedido_liminar: o.pedido_liminar,
-      },
+      { consulta, k: o.k, modo: o.modo, classe: o.classe, rerank: o.rerank, limiar: o.limiar },
       { signal: controlador.signal },
     );
     if (!vigente()) return;
@@ -604,28 +582,8 @@ async function carregarStatus() {
     ui.contagem.textContent = s.indice_pronto && s.peticoes != null
       ? ` · ${formatar.int(s.peticoes)} petições, ${formatar.int(s.trechos)} trechos`
       : "";
-    mostrarFiltrosDisponiveis(s.filtros);
   } catch {
     estado.status = null; // offline ou servidor fora: a busca decide o que mostrar
-  }
-}
-
-/** Índices antigos não têm as colunas de classificação: esconde o filtro e zera a escolha salva. */
-function mostrarFiltrosDisponiveis(filtros) {
-  if (!Array.isArray(filtros)) return; // API antiga: deixa como está
-  const pares = [["impugna_mp", ui.campoMp], ["pedido_liminar", ui.campoLiminar]];
-  let mudou = false;
-  for (const [nome, campo] of pares) {
-    const tem = filtros.includes(nome);
-    campo.hidden = !tem;
-    if (!tem && estado.opcoes[nome] !== null) {
-      estado.opcoes[nome] = null;
-      mudou = true;
-    }
-  }
-  if (mudou) {
-    aplicarOpcoesNoFormulario(estado.opcoes);
-    store.salvarOpcoes(estado.opcoes);
   }
 }
 
